@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE watchful Guardian of the people hath been born, Agni, the very strong, for fresh prosperity.
@@ -46,6 +48,8 @@ He hath become an envoy, bearer of our gifts: electing Agni, men choose one exce
 As great streams fill the river so our song of praise fill thee, and make thee yet more mighty in thy strength.
 <p id="v6"><sup><small>6</small></sup>  O Agni, the Aṅgirases discovered thee what time thou layest hidden, fleeing back from wood to wood.
 Thou by attrition art produced as conquering might, and men, O Aṅgiras, call thee the Son of Strength.
+
+<span id="h12"></span>
 
 ## HYMN XII. Agni.
 
@@ -62,6 +66,8 @@ They have deceived themselves by their own speeches, uttering wicked words again
 <p id="v6"><sup><small>6</small></sup>  He who pays sacrifice to thee with homage, O Agni, keeps the Red Steer's Law eternal;
 Wide is his dwelling. May the noble offspring of Nahuṣa who wandered forth come hither.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WITH songs of praise we call on thee, we kindle thee with songs of praise,
@@ -77,6 +83,8 @@ So grant thou us heroic might.
 <p id="v6"><sup><small>6</small></sup>  Thou Agni, as the felly rings the spokes, encompassest the Gods.
 I yearn for bounty manifold.
 
+<span id="h14"></span>
+
 ## HYMN XIV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ENKINDLING the Immortal, wake Agni with song of praise: may he bear our oblations to the Gods.
@@ -91,6 +99,8 @@ Let him approach, and hear my call.
 <p id="v6"><sup><small>6</small></sup>  They have exalted Agni, God of all mankind, with oil and hymns
 Of praise, devout and eloquent.
 
+<span id="h15"></span>
+
 ## HYMN XV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  To him, the far-renowned, the wise Ordainer, ancient and glorious, a song I offer.
@@ -103,6 +113,8 @@ May he, born newly, conquer his assailants: round him they stand as round an ang
 Consuming all the strength that thou hast gotten, thou wanderest round, thyself, in varied fashion.
 <p id="v5"><sup><small>5</small></sup>  May strength preserve the compass of thy vigour, God! that broad stream of thine that beareth riches.
 Thou, like a thief who keeps his refuge secret, hast holpen Atri to great wealth, by teaching.
+
+<span id="h16"></span>
 
 ## HYMN XVI. Agni.
 
@@ -117,6 +129,8 @@ Yea, Heaven and Earth have not surpassed this Youthful One in glorious fame.
 <p id="v5"><sup><small>5</small></sup>  O Agni, quickly come to us, and, glorified, bring precious wealth.
 So we and these our princes will assemble for the good of all. Be near in fight to prosper us.
 
+<span id="h17"></span>
+
 ## HYMN XVII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  GOD, may a mortal call the Strong hither, with solemn rites, to aid,
@@ -129,6 +143,8 @@ Whose beams of splendour flash on high as though they sprang from heavenly seed.
 Then, meet to be invoked among all tribes, is Agni glorified.
 <p id="v5"><sup><small>5</small></sup>  Now, too, the princes shall obtain excellent riches by our lips.
 Protect us for our welfare: lend thy succour, O thou Son of Strength. Be near in fight to prosper us.
+
+<span id="h18"></span>
 
 ## HYMN XVIII. Agni.
 
@@ -143,6 +159,8 @@ And strew the grass before the light, have decked themselves with high renown.
 <p id="v5"><sup><small>5</small></sup>  Immortal Agni, give the chiefs, heroes who institute the rite,
 Heroes’ illustrious, lofty fame, who at the synod met for praise presented me with fifty steeds.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ONE state begets another state: husk is made visible from husk:
@@ -155,6 +173,8 @@ A gold chain Bṛhaduktha wears, as, through this Soma, seeking spoil.
 Like to a caldron filled with food is he, unconquered, conquering all.
 <p id="v5"><sup><small>5</small></sup>  Beam of light, come to us in sportive fashion, finding thyself close to the wind that fans thee.
 These flames of his are wasting flames, like arrows keen-pointed, sharpened, on his breast.
+
+<span id="h20"></span>
 
 ## HYMN XX. Agni.
 

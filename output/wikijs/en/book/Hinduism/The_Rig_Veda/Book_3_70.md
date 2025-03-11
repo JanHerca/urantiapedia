@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Uṣas.
 
 <p id="v1"><sup><small>1</small></sup>  O Uṣas, strong with strength, endowed witli knowledge, accept the singer's praise, O wealthy Lady.
@@ -48,6 +50,8 @@ She, dropping sweets, hath set in heaven her brightness, and, fair to look on, h
 To Morning, Agni, when she comes refulgent, thou goest forth soliciting fair riches.
 <p id="v7"><sup><small>7</small></sup>  On Law's firm base the speeder of the Mornings, the Bull, hath entered mighty earth and heaven.
 Great is the power of Varuṇa and Mitra, which, bright, hath spread in every place its splendour.
+
+<span id="h62"></span>
 
 ## HYMN LXII. Indra and Others.
 

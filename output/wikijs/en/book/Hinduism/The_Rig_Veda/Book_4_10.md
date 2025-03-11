@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni.
 
 1, THEE Agni, have the Gods, ever of one accord, sent hither down, a God, appointed messenger, yea, with their wisdom sent thee down.
@@ -76,6 +78,8 @@ He hath disclosed, like the milch cows' pure udder, the Sorria's juice when clea
 <p id="v20"><sup><small>20</small></sup>  The freest God of all who should be worshipped, the guest who is received in all men's houses,
 Agni who hath secured the Gods’ high favour,—may he be gracious, to us Jātavedas.
 
+<span id="h2"></span>
+
 ## HYMN II. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE, Faithful One, Immortal among mortals, a God among the Gods, appointed envoy,
@@ -119,6 +123,8 @@ Adding a beauty to the perfect Agni, and the God's beauteous eye that shines for
 <p id="v20"><sup><small>20</small></sup>  Agni, Disposer, we have sung these praises to thee the Wise: do thou accept them gladly.
 Blaze up on high and ever make us richer. Give us great wealth, O thou whose boons are many.
 
+<span id="h3"></span>
+
 ## HYMN III. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WIN, to assist you, Rudra, Lord of worship, Priest of both worlds, effectual
@@ -155,6 +161,8 @@ Accept, O Aṅgiras, these our devotions, and let the praise which Gods desire a
 <p id="v16"><sup><small>16</small></sup>  To thee who knowest, Agni, thou Disposer, all these wise secret speeches have I uttered,
 Sung to thee, Sage, the charming words of wisdom, to thee, O Singer, with. my thoughts and Praises.
 
+<span id="h4"></span>
+
 ## HYMN IV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  PUT forth like a wide-spreading net thy vigour; go like a mighty King with his attendants.
@@ -187,6 +195,8 @@ Lord of all riches, he preserved the pious: the fees who fain would harm them di
 Fulfil the words of both, O Ever Truthful: straightway do this, thou God whom power emboldens.
 <p id="v15"><sup><small>15</small></sup>  O Agni, with this fuel will we serve thee; accept the laud we sing to thee with favour
 Destroy the cursing Rākṣasas: preserve us, O rich in friends, from guile and scorn and slander.
+
+<span id="h5"></span>
 
 ## HYMN V. Agni.
 
@@ -223,6 +233,8 @@ Wherefore do they address thee here, O Agni? Let these who have no weapons suffe
 <p id="v15"><sup><small>15</small></sup>  The majesty of him the Good, the Mighty, aflame, hath shone for glory in the dwelling.
 He, clothed in light, hath shone most fair to look on, wealthy in boons, as a home shines with riches.
 
+<span id="h6"></span>
+
 ## HYMN VI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  PRIEST of our rite, stand up erect, O Agni, in the Gods’ service best of sacrificers,
@@ -247,6 +259,8 @@ And red steeds, wonderful, of mighty muscle, are to this service of the Gods inv
 Like falcons hasting eagerly to the quarry, roar loudly like the army of the Maruts.
 <p id="v11"><sup><small>11</small></sup>  To thee, O flaming God, hath prayer been offered. Let the priest laud thee: give to him who worships.
 Men have established Agni as Invoker, fain to adore the glory of the living.
+
+<span id="h7"></span>
 
 ## HYMN VII. Agni.
 
@@ -273,6 +287,8 @@ His sharpened tongue he layeth on the brushwood, and with his teeth e’en solid
 <p id="v11"><sup><small>11</small></sup>  When he hath borne off food with swift flame swiftly, strong Agni makes himself a speedy envoy,
 Follows the rustling of the wind, consuming, and courser-like, speeds, drives the swift horse onward.
 
+<span id="h8"></span>
+
 ## HYMN VIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  YOUR envoy who possesses all, Immortal, bearer of your gifts,
@@ -292,6 +308,8 @@ And power and might spring up for us.
 <p id="v8"><sup><small>8</small></sup>  That holy Singer in his strength shoots forth his arrows swifter than
 The swift shafts of the tribes of men.
 
+<span id="h9"></span>
+
 ## HYMN IX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, show favour: great art thou who to this pious man art come,
@@ -310,6 +328,8 @@ To bear the mortal's gifts to heaven.
 Give ear and listen to our call.
 <p id="v8"><sup><small>8</small></sup>  May thine inviolable car, wherewith thou guardest those who give,
 Come near to us from every side.
+
+<span id="h10"></span>
 
 ## HYMN X. Agni.
 

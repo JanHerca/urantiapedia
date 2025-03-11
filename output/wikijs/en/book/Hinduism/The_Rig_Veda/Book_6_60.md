@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  THAT mighty eye of Varuṇa and Mitra, infallible and dear, is moving upward.
@@ -67,7 +69,9 @@ Give us good paths for travel: guard us ivell at home.
 <p id="v16"><sup><small>16</small></sup>  Now have we entered on the road that leads to bliss, without a foe,
 The road whereon a man escapes all enemies and gathers wealth.
 
-## HYMN LIL Viśvedevas.
+<span id="h52"></span>
+
+## HYMN LII Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  THIS I allow not in the earth or heaven, at sacrifice or in these holy duties.
 May the huge mountains crush him down: degraded be Atiyaja's sacrificing patron.
@@ -104,6 +108,8 @@ One generates holy food, the other offspring, so grant us food enough with store
 <p id="v17"><sup><small>17</small></sup>  When holy grass is strewn and fire enkindled, with hymn and lowly homage I invite you.
 All-Gods, to day in this our great assembly rejoice, ye Holy, in the gifts we offer.
 
+<span id="h53"></span>
+
 ## HYMN LIII. Pūṣan.
 
 <p id="v1"><sup><small>1</small></sup>  LORD of the path, O Pūṣan, we have yoked and bound thee to our hymn,
@@ -128,6 +134,8 @@ Thence do we seek thy gift of bliss.
 <p id="v10"><sup><small>10</small></sup>  And make this hymn of ours produce kine, horses, and a store of wealth
 For our delight and use as men.
 
+<span id="h54"></span>
+
 ## HYMN LIV. Pūṣan.
 
 <p id="v1"><sup><small>1</small></sup>  O PUSAN, bring us to the man who knows, who shall direct us straight,
@@ -151,6 +159,8 @@ We here are they who sing thy praise.
 <p id="v10"><sup><small>10</small></sup>  From out the distance, far and wide, may Pūṣan stretch his right hand forth,
 And drive our lost again to us.
 
+<span id="h55"></span>
+
 ## HYMN LV. Pūṣan.
 
 <p id="v1"><sup><small>1</small></sup>  SON of Deliverance, come, bright God!
@@ -165,6 +175,8 @@ His Sister's lover, will we laud.
 Brother of Indra, and my Friend.
 <p id="v6"><sup><small>6</small></sup>  May the sure-footed goats come nigh, conveying Pūṣan on his car,
 The God who visiteth mankind.
+
+<span id="h56"></span>
 
 ## HYMN LVI, Pūṣan.
 
@@ -181,6 +193,8 @@ Thou, Pūṣan, art renowned afar.
 <p id="v6"><sup><small>6</small></sup>  Prosperity we crave from thee, afar from sin and near to wealth,
 Tending to perfect happiness both for to. morrow and to-day.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Indra and Pūṣan.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA and Pūṣan will we call for friend ship and prosperity
@@ -196,6 +210,8 @@ As to a tree's extended bough.
 <p id="v6"><sup><small>6</small></sup>  As one who drives a car draws in his reins, may we draw Pūṣan near,
 And Indra, for our great success.
 
+<span id="h58"></span>
+
 ## HYMN LVIII. Pūṣan.
 
 <p id="v1"><sup><small>1</small></sup>  LIKE heaven art thou: one form is bright, one holy, like Day and Night dissimilar in colour.
@@ -206,6 +222,8 @@ Brandishing here and there his lightly. moving goad, beholding every creature, P
 Thou goest on an embassy to Sūrya, subdued by love, desirous of the glory.
 <p id="v4"><sup><small>4</small></sup>  Near kinsman of the heaven and earth is Pūṣan, liberal, Lord of food, of wondrous iustre,
 Whom strong and vigorous and swiftlymoving, subdued by love, the Deities gave to Sūrya.
+
+<span id="h59"></span>
 
 ## HYMN LIX. Indra-Agni.
 
@@ -229,6 +247,8 @@ Drive those who hate me far away, and keep them distant from the Sun.
 Here give ye us the opulence that prospers every living man.
 <p id="v10"><sup><small>10</small></sup>  O Indra-Agni, who accept the laud, and hear us for our praise,
 Come near us, drawn by all our songs, to drink of this our Soma juice.
+
+<span id="h60"></span>
 
 ## HYMN LX. Indra-Agni.
 

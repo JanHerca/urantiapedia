@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GLORIFY naught besides, O friends; so shall no sorrow trouble you.
@@ -102,6 +104,8 @@ May he, Āsaṅga's son Svanadratha, obtain all joy and high felicities.
 For me ten bright-hued oxen have come forward like lotus-stalks from out a lake upstanding.
 <p id="v34"><sup><small>34</small></sup>  What time her husband's perfect restoration to his lost strength and manhood was apparent,
 His consort Śaśvatī with joy addressed him, Now art thou well, my lord, and shalt be happy.
+
+<span id="h2"></span>
 
 ## HYMN II. Indra.
 
@@ -190,6 +194,8 @@ And afterward eight thousand more.
 <p id="v42"><sup><small>42</small></sup>  And these twain pouring streams of milk, creative, daughters of delight,
 For wedlock sake I glorify.
 
+<span id="h3"></span>
+
 ## HYMN III. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  DRINK, Indra, of the savoury juice, and cheer thee with our milky draught.
@@ -241,6 +247,8 @@ Bear Tugrya to his dwelling place.
 <p id="v24"><sup><small>24</small></sup>  Raiment is body, food is life, and healing ointment giveth strength.
 As the free-handed giver of the ruddy steed, I have named Pākasthāman fourth.
 
+<span id="h4"></span>
+
 ## HYMN IV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THOUGH, Indra, thou art called by men eastward and westward, north and south,
@@ -284,6 +292,8 @@ Among the gifts of Turvaśas we thought of him, the opulent, the splendid King.
 <p id="v20"><sup><small>20</small></sup>  What by his morning songs Kaṇva, the powerful, hath, with the Priyamedhas, gained-
 <p id="v71"><sup><small>71</small></sup>  The herds of sixty thousand pure and spotless kine, have I, the Ṛṣi, driven away.
 <p id="v21"><sup><small>21</small></sup>  The very trees were joyful at my coming: kine they obtained in plenty, steeds in plenty.
+
+<span id="h5"></span>
 
 ## HYMN V. Aśvins.
 
@@ -365,6 +375,8 @@ As Kasu, Cedi's son, gave me a hundred head of buffaloes, and ten thousand kine.
 At Caidya's feet are all the people round about, all those who think upon the shield.
 <p id="v39"><sup><small>39</small></sup>  No man, not any, goes upon the path on which the Cedis walk.
 No other prince, no folk is held more liberal of gifts than they.
+
+<span id="h6"></span>
 
 ## HYMN VI Indra
 
@@ -464,6 +476,8 @@ On Pajra for the Sāma-song.
 <p id="v48"><sup><small>48</small></sup>  Kakuha hath reached up to heaven, bestowing buffaloes yoked in fours,
 And matched in fame the Yadavas.
 
+<span id="h7"></span>
+
 ## HYMN VII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  O MARUTS, when the sage hath poured the Tṛṣṭup forth as food for you,
@@ -539,6 +553,8 @@ The man who lauds them strength and life.
 <p id="v36"><sup><small>36</small></sup>  Agni was born the first of all, like Sūrya lovely with his light:
 With lustre these have spread abroad.
 
+<span id="h8"></span>
+
 ## HYMN VIII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  WITH all the succours that are yours, O Aśvins, hither come to us:
@@ -588,6 +604,8 @@ Best slayers everywhere of foes, as such we fondly yearn for you.
 <p id="v23"><sup><small>23</small></sup>  Three places of the Aśvins, erst concealed, are made apparent now.
 Both Sages, with the flight of Law come hither unto those who live.
 
+<span id="h9"></span>
+
 ## HYMN IX. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  To help and favour Vatsa now, O Aśvins, come ye hitherward.
@@ -633,6 +651,8 @@ And voices sound the song of praise, the Aśvins' worshippers show first.
 And power and skill, most sapient Ones!
 <p id="v21"><sup><small>21</small></sup>  When Aśvins, worthy of our lauds, ye seat you in the father's house.
 With wisdom or the bliss ye bring.
+
+<span id="h10"></span>
 
 ## HYMN X. Aśvins.
 

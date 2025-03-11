@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THE, Soma-drops, benevolent, come forth as they are purified,
@@ -46,6 +48,8 @@ Be in the gathering-Place of strength.
 Aloft on the sublimest height.
 <p id="v6"><sup><small>6</small></sup>  Friendship, O Indu, we desire with thee who bearest noble arms,
 With thee, O Lord of all that is.
+
+<span id="h32"></span>
 
 ## HYMN XXXII. Soma Pavamana.
 
@@ -62,6 +66,8 @@ He came as to a settled race.
 <p id="v6"><sup><small>6</small></sup>  Bestow illustrious fame on us, both on our liberal lords and me,
 Glory, intelligence, and wealth.
 
+<span id="h33"></span>
+
 ## HYMN XXXIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  LIKE waves of waters, skilled in song the juices of the Soma speed
@@ -76,6 +82,8 @@ The Tawny-hued goes bellowing on.
 They decorate the Child of Heaven.
 <p id="v6"><sup><small>6</small></sup>  From every side, O Soma, for our profit, pour thou forth four seas
 Filled full of riches thousandfold.
+
+<span id="h34"></span>
 
 ## HYMN XXXIV. Some Pavamana.
 
@@ -92,6 +100,8 @@ Oblation lovely and most dear.
 <p id="v6"><sup><small>6</small></sup>  To him in one unitcd stream th-,se songs flow on straight forward. he,
 Loud voiced, hath made the milch-kine low.
 
+<span id="h35"></span>
+
 ## HYMN XXXV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  Pour forth on us abundant wealth, O Pavamana, with thy stream.
@@ -106,6 +116,8 @@ Discovering holy works and means.
 Soma, the Guardian of the folk;
 <p id="v6"><sup><small>6</small></sup>  On whose way, Lord of Holy Law, most richi as he is purified.
 The people all have set their hearts.
+
+<span id="h36"></span>
 
 ## HYMN XXXVI. Soma Pavamana.
 
@@ -122,6 +134,8 @@ Upon the liberal worshipper.
 <p id="v6"><sup><small>6</small></sup>  Thou mountest to the height of heaven, O Soma, seeking steeds and kine,
 And seeking heroes, Lord of Strength!
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  SOMA, the Steer, effused for draught, flows to the purifying sieve,
@@ -136,6 +150,8 @@ Together with the Sisters, shine.
 Hath gone, as ’twere, to win the spoil.
 <p id="v6"><sup><small>6</small></sup>  Urged onward by the sage, the God speeds forward to the casks of wood,
 Indu to Indra willingly.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Soma Pavamana.
 
@@ -153,6 +169,8 @@ This Soma-drop that pierced the sieve.
 flows forth, intelligent, crying out,
 Unto the well-beloved place.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FLOW On, O thou of lofty thought, flow swift in thy beloved form,
@@ -167,6 +185,8 @@ From heaven upon the straining cloth.
 For Indra is poured forth as meath.
 <p id="v6"><sup><small>6</small></sup>  In union they have sung the hymn: with stones they urge the Tawny One.
 Sit in the place of sacrifice.
+
+<span id="h40"></span>
 
 ## HYMN XL. Soma Pavamana.
 

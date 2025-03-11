@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h71"></span>
+
 ## HYMN LXXI. Soma Pavamana,
 
 <p id="v1"><sup><small>1</small></sup>  THE guerdon is bestowed: the Mighty takes his Seat, and, ever-Watchful, guards from fiend and evil sprite.
@@ -52,6 +54,8 @@ With thousand guidings he, leading this way and that, shines, as a singer, splen
 The Winner of the Floods, with food he seeks the host of heaven, he comes to praises glorified with milk.
 <p id="v9"><sup><small>9</small></sup>  Like a bull roaming round the herds he bellows: he hath assumed the brilliancy of Sūrya.
 Down to the earth hath looked the heavenly Falcon: Soma with wisdom views all living creatures.
+
+<span id="h72"></span>
 
 ## HYMN LXXII. Soma Pavamana.
 
@@ -74,6 +78,8 @@ Let us not lack rich treasure reaching to our home, and may we clothe ourselves 
 <p id="v9"><sup><small>9</small></sup>  Hither, O Indu, unto us a hundred gifts of steeds, a thousand gifts of cattle and of gold,
 Measure thou forth, yea, splendid ample strengthening food do thou, O Pavamana, heed this laud of ours.
 
+<span id="h73"></span>
+
 ## HYMN LXXIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THEY from the spouting drop have sounded at the rim: naves speed together to the place of sacrifice.
@@ -94,6 +100,8 @@ Bright-coloured are their spies, vigorous, void of guile, excellent, fair to see
 With wisdom he beholds all creatures that exist: he drives into the pit the hated riteliess ones.
 <p id="v9"><sup><small>9</small></sup>  The thread of sacrifice spun in the cleansing sieve, on Varuṇa's tongue-tip, by supernatural might,—
 This, by their striving, have the prudent ones attained: he who hath not this power shall sink into the pit.
+
+<span id="h74"></span>
 
 ## HYMN LXXIV. Soma Pavamana
 
@@ -116,6 +124,8 @@ Pious-souled men have sent their giffi of cattle unto Kakṣīvān of the hundre
 <p id="v9"><sup><small>9</small></sup>  Soma, thy juice when thou art blended with the streams, flows, Pavamana, through the long wool of the sheep.
 So, cleansed by sages. O best giver of delight, grow sweet for Indra, Pavamana! for his drink.
 
+<span id="h75"></span>
+
 ## HYMN LXXV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  GRACIOUSLY-MINDED he is flowing on his way to win dear names o’er which the Youthful One grows great.
@@ -128,6 +138,8 @@ The milky streams of sacrifice have sung to him: he of the triple height shines 
 He flows in ordered season onward through the flee, a current of sweet juice still swelling day by day.
 <p id="v5"><sup><small>5</small></sup>  Flow onward, Soma, flow to bring prosperity: cleansed by the men, invest thee with the milky draught.
 What gladdening drinks thou hast, foaming, exceeding strong, even with these incite Indra to give us wealth.
+
+<span id="h76"></span>
 
 ## HYMN LXXVI. Soma Pavamana.
 
@@ -142,6 +154,8 @@ Even he who is adorned with Sūrya's arrowy beam, Father of hymns, whose wisdom 
 <p id="v5"><sup><small>5</small></sup>  Like as a bull to herds, thou flowest to the pail, bellowing as a steer upon the water's lap.
 So, best of Cheerers, thou for Indra flowest on that we, with thy protection, may o’ercome in fight.
 
+<span id="h77"></span>
+
 ## HYMN LXXVII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  MORE beauteous than the beautiful, as Indra's bolt, this Soma, rich in sweets, hath clamoured in the vat.
@@ -154,6 +168,8 @@ Beauteous as serpents, worthy to be looked upon, they whom each sacred gift and 
 He who hath brought the germ beside the Strong One's seat moves onward to the widely-opcned stall of kine.
 <p id="v5"><sup><small>5</small></sup>  The active potent juice of heaven is flowing on, great Varuṇa whom the forward man can ne’er deceive.
 Mitra, the Holy, hath been pressed for troubled times, neighing like an impatient horse amid the herd,
+
+<span id="h78"></span>
 
 ## HYMN LXXVIII. Soma Pavamana.
 
@@ -168,6 +184,8 @@ He whom the Gods have made a gladdening draught to drink, the drop most sweet to
 <p id="v5"><sup><small>5</small></sup>  Soma, as Pavamana thou, our faithful Friend, making for us these real treasures, flowest on.
 Slay thou the enemy both near and,far away: grant us security and ample pasturage.
 
+<span id="h79"></span>
+
 ## HYMN LXXIX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  SPONTANEOUS let our drops of Soma juice flow on, pressed, golden-hued, among the Gods of lofty heaven.
@@ -180,6 +198,8 @@ As thirst subdueth in the desert, conquer thou, O Soma Pavarnana, men of evil th
 The press-stones chew and crunch thee on the ox's hide: sages have milked thee with their hands into the streams.
 <p id="v5"><sup><small>5</small></sup>  So do they hurry on thy strong and beauteous juice, O Indu, as the first ingredient of the draught.
 Bring low, thou Pavamana, every single foe, and be thy might shown forth as sweet and gladdening drink.
+
+<span id="h80"></span>
 
 ## HYMN LXXX. Soma Pavamana.
 

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  WITH all assistants, Agni, come hither to drink the Soma-juice;
@@ -63,6 +65,8 @@ Help us the Ṛbhus, the Divine Ones, for our good. May Rudra bless and keep us 
 Indra and Agni, prosper us; prosper us thou, O Aditi.
 <p id="v15"><sup><small>15</small></sup>  Like Sun and Moon may we pursue in full prosperity our path,
 And meet with one who gives again, -who knows us well and slays us not.
+
+<span id="h52"></span>
 
 ## HYMN LII Maruts.
 
@@ -101,6 +105,8 @@ And the impetuous Rudra they, the Mighty Ones, declared their Sire.
 <p id="v17"><sup><small>17</small></sup>  The mighty ones, the seven times seven, have singly given me hundred gifts.
 I have obtained on Yamuna famed wealth in kine and wealth in steeds.
 
+<span id="h53"></span>
+
 ## HYMN LIII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  Who knows the birth of these, or who lived in the Maruts’ favour in the days of old
@@ -136,6 +142,8 @@ Whom ye protect. Such may we be.
 <p id="v16"><sup><small>16</small></sup>  Praise the Free-givers. At this liberal patron's rite they joy like cattle in the mead.
 So call thou unto them who come as ancient Friends: hymn those who love thee with a song.
 
+<span id="h54"></span>
+
 ## HYMN LIV. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  THIS hymn will I make for the Marut host who bright in native splendour cast the mountains down.
@@ -169,6 +177,8 @@ Ye give the Bhārata as his strength, a charger, and ye bestow a king who quickl
 <p id="v15"><sup><small>15</small></sup>  Of you, most swift to succour! I solicit wealth wherewith we may spread forth mid men like as the Sun.
 Accept, O Maruts, graciously this hymn of mine that we may live a hundred winters through its power.
 
+<span id="h55"></span>
+
 ## HYMN LV. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  WITH gleaming lances, with their breasts adorned with gold, the Maruts, rushing onward, hold high power of life.
@@ -194,6 +204,8 @@ Pay due regard unto our friendship and our praise. Their cars moved onward as th
 <p id="v10"><sup><small>10</small></sup>  O Maruts, lead us on to higher fortune deliver us, when lauded, from afflictions.
 Accept, ye Holy Ones, the gifts we bring you. May we be masters of abundant riches.
 
+<span id="h56"></span>
+
 ## HYMN LVI. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, that valorous company adorned with ornaments of gold,
@@ -215,6 +227,8 @@ Which Rodasī hath mounted, bringing pleasant gifts, with Maruts in her company.
 <p id="v9"><sup><small>9</small></sup>  I call that brilliant band of yours, adorable, rapid on the car
 Whereon the bounteous Dame, auspicious, nobly born, shows glorious with the Marut host.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  OF one accord, with Indra, O ye Rudras, come borne on your golden car for our prosperity.
@@ -233,6 +247,8 @@ Bold thoughts are in your heads, your weapons in your cars, all glorious majesty
 Children of Rudra, give us high distinction: may I enjoy your Godlike help and favour.
 <p id="v8"><sup><small>8</small></sup>  Ho! Maruts, Heroes, skilled in Law, immortal, be gracious unto us, ye rich in treasures,
 Ye hearers of the truth, ye sage and youthful, grown mighty, dwelling on the lofty mountains.
+
+<span id="h58"></span>
 
 ## HYMN LVIII. Maruts.
 
@@ -253,6 +269,8 @@ They to the pole have yoked the winds for coursers: their sweat have they made r
 <p id="v8"><sup><small>8</small></sup>  Ho! Maruts, Heroes, skilled in Law, immortal, be gracious unto us, ye rich in treasures,
 Ye hearers of the truth, ye sage and youthful, grown mighty, dwelling on the lofty mountains.
 
+<span id="h59"></span>
+
 ## HYMN LIX. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  YOUR spy hath called to you to give prosperity. I sing to Heaven and Earth and offer sacrifice.
@@ -271,6 +289,8 @@ These Sons of Pṛśni, sprung of noble ancestry: come hitberward to us, ye brid
 The steeds who carry them, as Gods and mortals know, have caused the waters of the mounuains to desGend.
 <p id="v8"><sup><small>8</small></sup>  May Dyaus, the Infinite, roar for our banquet: may Dawns toil for us, glittering with moisture.
 Lauded by thee, these Maruts, Sons o Rudra, O Ṛṣi, have sent down the heavenly treasure.
+
+<span id="h60"></span>
 
 ## HYMN LX. Maruts.
 

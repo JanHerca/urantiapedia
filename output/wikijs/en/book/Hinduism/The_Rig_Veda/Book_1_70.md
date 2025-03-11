@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  EVEN to him, swift, strong and high. exalted, I bring my song of praise as dainty viands,
@@ -67,6 +69,8 @@ Indra hath helped Etaśa, Soma-presser, contending in the race of steeds with S�
 <p id="v16"><sup><small>16</small></sup>  Thus to thee, Indra, yoker of Bay Coursers, the Gotamas have brought their prayers to please thee.
 Bestow upon them thought, decked with all beauty. May he, enriched with prayer, come soon and early.
 
+<span id="h62"></span>
+
 ## HYMN LXII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  LIKE Aṅgiras a gladdening laud we ponder to him who loveth song, exceeding mighty.
@@ -96,6 +100,8 @@ Splendid art thou, O Indra, wise, unbending: strengthen us with might, O Lord of
 <p id="v13"><sup><small>13</small></sup>  O mighty Indra, Gotama's son Nodhas hath fashioned this new prayer to thee Eternal,
 Sure leader, yoker of the Tawny Coursers. May he, enriched with prayer, come soon and early.
 
+<span id="h63"></span>
+
 ## HYMN LXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THOU art the Mighty One; when born, O Indra, with power thou terrifiedst earth and heaven;
@@ -117,6 +123,8 @@ Easily, for Sudās, like grass didst rend them, and out of need, King, broughtes
 Food wherewithal, O Hero, thou bestowest vigour itself to flow to us for ever.
 <p id="v9"><sup><small>9</small></sup>  Prayers have been made by Gotamas, O Indra, addressed to thee, with laud for thy Bay Horses.
 Bring us in noble shape abundant riches. May he, enriched with prayer, come soon and early.
+
+<span id="h64"></span>
 
 ## HYMN LXIV. Maruts.
 
@@ -151,6 +159,8 @@ Praiseworthy, known to all men. May we foster well, during a hundred winters, so
 <p id="v15"><sup><small>15</small></sup>  Will ye then, O ye Maruts, grant us riches, durable, rich in men, defying onslaught.
 A hundred, thousandfold, ever increasing? May he, enriched with prayer, come soon and early.
 
+<span id="h65"></span>
+
 ## HYMN LXV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ONE-MINDED, wise, they tracked thee like a thief lurking in dark cave with a stolen cow:
@@ -163,6 +173,8 @@ Like a steed urged to run in swift career, rushing like Sindhu, who may check hi
 When through the forest, urged by wind, he spreads, verily Agni shears the hair of earth.
 <p id="v5"><sup><small>5</small></sup>  Like a swan sitting in the floods he pants wisest in mind mid men he wakes at morn.
 A Sage like Soma, sprung from Law, he grew like some young creature, mighty, shining far.
+
+<span id="h66"></span>
 
 ## HYMN LXVI. Agni.
 
@@ -177,6 +189,8 @@ Master of present and of future life, the maidens’ lover and the matrons’ Lo
 <p id="v5"><sup><small>5</small></sup>  To him lead all your ways: may we attain the kindled God as cows their home at eve.
 He drives the flames below as floods their swell: the rays rise up to the fair place of heaven.
 
+<span id="h67"></span>
+
 ## HYMN LXVII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  VICTORIOUS in the wood, Friend among men, ever he claims obedience as a King.
@@ -189,6 +203,8 @@ O Agni, guard the spots which cattle love: thou, life of all, hast gone from lai
 They who release him, paying sacred rites,—truly to such doth he announce great wealth.
 <p id="v5"><sup><small>5</small></sup>  He who grows mightily in herbs, within each fruitful mother and each babe she bears,
 Wise, life of all men, in the waters’ home,—for him have sages built as ’twere a seat.
+
+<span id="h67"></span>
 
 ## HYMN LXVIII. Agni.
 
@@ -203,6 +219,8 @@ Men yearn for children to prolong their line, and are not disappointed in their 
 <p id="v5"><sup><small>5</small></sup>  Eagerly they who hear his word fulfil his wish as sons obey their sire's behest.
 He, rich in food, unbars his wealth like doors: he, the House-Friend, hath decked heaven's vault with stars.
 
+<span id="h69"></span>
+
 ## HYMN LXIX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  BRIGHT, splendid, like Dawn's lover, he hath filled the two joined worlds as with the light of heaven.
@@ -215,6 +233,8 @@ What time the men and I, with heroes, call, may Agni then gain all through Godli
 This is thy boast, thou smotest with thy peers, and joined with heroes dravest off disgrace.
 <p id="v5"><sup><small>5</small></sup>  Like the Dawn's lover, spreading light, well-known as hued like morn, may he remember me.
 They, bearing of themselves, unbar the doors: they all ascend to the fair place of heaven.
+
+<span id="h70"></span>
 
 ## HYMN LXX. Agni.
 

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WITH what help will he come to us, wonderful, ever-waxing Friend;
@@ -64,6 +66,8 @@ The stables that are filled with kine.
 Winning for us both kine and steeds.
 <p id="v15"><sup><small>15</small></sup>  O Sūrya, make our fame to be most excellent among the Gods,
 Most lofty as the heaven on high.
+
+<span id="h32"></span>
 
 ## HYMN XXXII. Indra.
 
@@ -116,6 +120,8 @@ Terrify not the cows with these.
 So shine the Bay Steeds in their course.
 <p id="v24"><sup><small>24</small></sup>  For me the Bays are ready when I start, or start not, with the dawn, Innocuous in the ways they take.
 
+<span id="h33"></span>
+
 ## HYMN XXXIII. Ṛbhus.
 
 <p id="v1"><sup><small>1</small></sup>  I SEND my voice as herald to the Ṛbhus; I crave the white cow for the overspreading.
@@ -140,6 +146,8 @@ The Gods’ expert artificer was Vāja, Indra's Ṛbhukṣan, Varuṇa's was Vib
 Ṛbhus, as those who wish a friend to prosper, bestow upon us gear and growth of riches.
 <p id="v11"><sup><small>11</small></sup>  This day have they set gladdening drink before you. Not without toil are Gods inclined to friendship.
 Therefore do ye who are so great, O Ṛbhus, vouchsafe us treasures at this third libation.
+
+<span id="h34"></span>
 
 ## HYMN XXXIV. Ṛbhus.
 
@@ -166,6 +174,8 @@ Such, O ye Ṛbhus, first to drink, rejoicing, give unto us and those who laud o
 <p id="v11"><sup><small>11</small></sup>  Ye were not far: we have not left you thirsting, blameless in this our sacrifice, O Ṛbhus.
 Rejoice you with the Maruts and with Indra, with the Kings, Gods! that ye may give us riches.
 
+<span id="h35"></span>
+
 ## HYMN XXXV. Ṛbhus.
 
 <p id="v1"><sup><small>1</small></sup>  Come hither, O ye Sons of Strength, ye Ṛbhus; stay not afar, ye Children of Sudhanvan.
@@ -186,6 +196,8 @@ Now drink thou with the wealth-bestowing Ṛbhus, whom for their skill thou made
 So give us riches, Children of Sudhanvan, O Sons of Strength; ye have become immortal.
 <p id="v9"><sup><small>9</small></sup>  The third libation, that bestoweth treasure, which ye have won by skill, ye dexterous-handed,—
 This drink hath been effused for you, O Ṛbhus . drink it with high delight, with joy like Indra's.
+
+<span id="h36"></span>
 
 ## HYMN XXXVI. Ṛbhus.
 
@@ -208,6 +220,8 @@ Fashion for us, O Ṛbhus, power and splendid wealth, rich in high courage, exce
 <p id="v9"><sup><small>9</small></sup>  Bestowing on us here riches and offspring, here fashion fame for us befitting heroes.
 Vouchsafe us wealth of splendid sort, O Ṛbhus, that we may make us more renowned than others.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Ṛbhus.
 
 <p id="v1"><sup><small>1</small></sup>  COME to our sacrifice, Vājas, Ṛbhukṣans, Gods, by the paths which Gods are wont to travel,
@@ -226,6 +240,8 @@ Must be successful, by his thoughts, at sacrifice and with the steed.
 Ye Princes, lauded, that we may press forward to each point of heaven.
 <p id="v8"><sup><small>8</small></sup>  O Vājas and Ṛbhukṣans, ye Nāsatyas, Indra, bless this wealth,
 And, before other men's, the steed, that ample riches may be won.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Dadhikris.
 
@@ -264,6 +280,8 @@ Varuṇa, Mitra, we invoke for welfare, and Agni, and the thunder-wielding Indra
 To us have Varuṇa and Mitra granted the Courser Dadhikrās, a guide for mortals.
 <p id="v6"><sup><small>6</small></sup>  So have I glorified with praise strong Dadhikrāvan, conquering Steed.
 Sweet may he make our mouths; may he prolong the days we have to live.
+
+<span id="h40"></span>
 
 ## HYMN XL. Dadhikrāvan.
 

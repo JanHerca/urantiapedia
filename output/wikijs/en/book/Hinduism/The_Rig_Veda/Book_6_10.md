@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU, first inventor of this prayer, O Agni, Worker of Marvels, hast become our Herald.
@@ -61,6 +63,8 @@ Food noble, plenteous, far from sin and evil, he with us, and fair fame to make 
 <p id="v13"><sup><small>13</small></sup>  May I obtain much wealth in many places by love of thee and through thy grace, King Agni;
 For in thee Bounteous One, in thee the Sovran, Agni, are many boons for him who serves thee.
 
+<span id="h2"></span>
+
 ## HYMN II. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU, Agni, even as Mitra, hast a princely glory of thine own.
@@ -86,6 +90,8 @@ Lord of the people, prosper them. Accept the ofrering, Aṅgiras!
 <p id="v11"><sup><small>11</small></sup>  O Agni, God with Mitra's might, call hither the favour of the Gods from earth and heaven.
 Bring weal from heaven, that men may dwell securely. May we o’ercome the foe's malign oppressions, may we o’ercome them, through thy help o’ercome them.
 
+<span id="h3"></span>
+
 ## HYMN III. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  TRUE, guardian of the Law, thy faithful servant wins ample light and dwells in peace, O Agni,
@@ -104,6 +110,8 @@ Red in the night, by day the men's possession: red, he belongs to men by day, Im
 Who with his glow in rapid course came hither to fill both worlds, well-wedded Dames, with treasure.
 <p id="v8"><sup><small>8</small></sup>  Who, with supporting streams and rays that suit him, hath flashed like lightning with his native vigour.
 Like the deft Maker of the band of Maruts, the bright impetuous One hath shone refulgent.
+
+<span id="h4"></span>
 
 ## HYMN IV Agni.
 
@@ -124,6 +132,8 @@ The best men praise thee as the peer of Indra in strength, mid Gods, like Viyu i
 <p id="v8"><sup><small>8</small></sup>  Now, Agni, on the tranquil paths of riches come to us for our weal: save us from sorrow.
 Grant chiefs and bard this boon. May we live happy, with hero children, through a hundred winters.
 
+<span id="h5"></span>
+
 ## HYMN V. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  I INVOCATE your Son of Strength, the Youthful, with hymns, the Youngest God, whose speech is guileless;
@@ -140,6 +150,8 @@ Shines out, Immortal! in the midst of mortals, a sage, with wealth, with splendo
 When thou art praised with words and decked with brightness, accept this chanted hymn, the singer's worship.
 <p id="v7"><sup><small>7</small></sup>  Help us, that we may gain this wish, O Agni, gain riches, Wealthy One! with store of heroes.
 Desiring strength from thee may we be strengthened, and win, Eternal! thine eternal glory.
+
+<span id="h6"></span>
 
 ## HYMN VI. Agni.
 
@@ -158,6 +170,8 @@ So drive away with conquering might all perils. fighting out foemen burn up thos
 <p id="v7"><sup><small>7</small></sup>  Wondrous! of wondrous power! give to the singer wealth wondrous, marked, most wonderful, life-giving.
 Wealth bright, O Bright One, vast, with many heroes, give with thy bright flames to the man who lauds thee.
 
+<span id="h7"></span>
+
 ## HYMN VII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  Him, messenger of earth and head of heaven, Agni Vaiśvānara, born in holy Order,
@@ -174,6 +188,8 @@ When thou, arising from thy Parents' bosom, foundest the light for days' appoint
 All creatures in existence rest upon his head. The Seven swift-flowing Streams have grown like branches forth,
 <p id="v7"><sup><small>7</small></sup>  Vaiśvānara, who measured out the realms of air, Sage very wise who made the lucid spheres of heaven,
 The Undeceivable who spread out all the worlds, keeper is he and guard of immortality.
+
+<span id="h8"></span>
 
 ## HYMN VIII. Agni.
 
@@ -193,6 +209,8 @@ So may we win for us strength. O Vaiśvānara, hundredfold, thousandfold, O Agni
 <p id="v7"><sup><small>7</small></sup>  O thou who dwellest in three places, Helper, keep with effective guards our princely patrons.
 Keep our band, Agni, who have brought thee presents. Lengthen their lives, Vaiśvānara, when lauded.
 
+<span id="h9"></span>
+
 ## HYMN IX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ONE half of day is dark, and bright the other: both atmospheres move on by sage devices.
@@ -209,6 +227,8 @@ All Gods of one accord, with one intention, move unobstructed to a single purpos
 Far roams my mind whose thoughts are in the distance. What shall I speak, what shall I now imagine?
 <p id="v7"><sup><small>7</small></sup>  All the Gods bowed them down in fear before thee, Agni, when thou wast dwelling in the darkness.
 Vaiśvānara be gracious to assist us, may the Immortal favour us and help us.
+
+<span id="h10"></span>
 
 ## HYMN X. Agni.
 

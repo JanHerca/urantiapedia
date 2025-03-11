@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h71"></span>
+
 ## HYMN LXXI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  LOVING the loving One, as wives their husband, the sisters of one home have urged him forward,
@@ -54,6 +56,8 @@ Agni hath brought to light and filled with spirit the youthful host blameless an
 The Kings with fair hands, Varuṇa and Mitra, protect the precious nectar in our cattle.
 <p id="v10"><sup><small>10</small></sup>  O Agni, break not our ancestral friendship, Sage as thou art, endowed with deepest knowledge.
 Old age, like gathering cloud, impairs the body: before that evil be come nigh protect me.
+
+<span id="h72"></span>
 
 ## HYMN LXXII. Agni.
 
@@ -78,6 +82,8 @@ To be the Bird's support, the spacious mother, Aditi, and her great Sons stood i
 <p id="v10"><sup><small>10</small></sup>  When Gods immortal made both eyes of heaven, they gave to him the gift of beauteous glory.
 Now they flow forth like rivers set in motion: they knew the Red Steeds coming down, O Agni.
 
+<span id="h73"></span>
+
 ## HYMN LXXIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  HE who gives food, like patrimonial riches and guides aright like some wise man's instruction,
@@ -101,6 +107,8 @@ Lords of the wealth transmitted by our fathers: and may our princes live a hundr
 <p id="v10"><sup><small>10</small></sup>  May these our hymns of praise, Agni, Ordainer, be pleasant to thee in thy heart and spirit.
 May we have power to hold thy steeds of riches, laying on thee the God-sent gift of glory.
 
+<span id="h74"></span>
+
 ## HYMN LXXIV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  As forth to sacrifice we go, a hymn to a hymn let us say,
@@ -121,6 +129,8 @@ Agni, the offerer forward steps.
 <p id="v9"><sup><small>9</small></sup>  And splendid strength, heroic, high, Agni, thou grantest from the Gods,
 Thou God, to him who offers gifts.
 
+<span id="h75"></span>
+
 ## HYMN LXXV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ACCEPT our loudest-sounding hymn, food most delightful to the Gods,
@@ -133,6 +143,8 @@ On whom dependent? who art thou?
 A Friend whom friends may supplicate.
 <p id="v5"><sup><small>5</small></sup>  Bring to us Mitra, Varuṇa, bring the Gods to mighty sacrifice.
 Bring them, O Agni, to thine home.
+
+<span id="h76"></span>
 
 ## HYMN LXXVI. Agni.
 
@@ -147,6 +159,8 @@ Thine is the task of Cleanser and Presenter: waken us, Wealth-bestower and Produ
 <p id="v5"><sup><small>5</small></sup>  As with oblations of the priestly Manus thou worshippedst the Gods, a Sage with sages,
 So now, O truthfullest Invoker Agni, worship this day with joy-bestowing ladle.
 
+<span id="h77"></span>
+
 ## HYMN LXXVII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  How shall we pay oblation unto Agni? What hymn, Godloved, is said to him refulgent?
@@ -160,6 +174,8 @@ So may the liberal lords whose strength is strongest, urged by their riches, sti
 <p id="v5"><sup><small>5</small></sup>  Thus Agni Jātavedas, true to Order, hath by the priestly Gotamas been lauded.
 May he augment in them splendour and vigour: observant, as he lists, he gathers increase.
 
+<span id="h78"></span>
+
 ## HYMN LXXVIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  O JĀTAVEDAS, keen and swift, we Gotamas with sacred song exalt thee for thy glories' sake.
@@ -171,6 +187,8 @@ We laud thee for thy glories' sake.
 We laud thee for thy glories' sake.
 <p id="v5"><sup><small>5</small></sup>  A pleasant song to Agni we, sons of Rahūgaṅa, have sung:
 We laud thee for thy glories' sake.
+
+<span id="h79"></span>
 
 ## HYMN LXXIX. Agni.
 
@@ -198,6 +216,8 @@ To Agni of the pointed flames.
 Do thou increase and prosper us.
 <p id="v12"><sup><small>12</small></sup>  Keen and swift Agni, thousand-eyed, chaseth the Rākṣasas afar:
 He singeth, herald meet for lauds.
+
+<span id="h80"></span>
 
 ## HYMN LXXX. Indra.
 

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h71"></span>
+
 ## HYMN LXXI. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  O Varuṇa and Mitra, ye who slay the foemen, come with might
@@ -40,6 +42,8 @@ To this our goodly sacrifice.
 <p id="v3"><sup><small>3</small></sup>  Come to the juice that we have pressed. Varuṇa, Mitra, come to drink
 This Soma of the worshipper.
 
+<span id="h72"></span>
+
 ## HYMN LXXII. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  To Varuṇa and Mitra we offer with songs, as Atri did. Sit on the sacred grass to drink the Soma juice.
@@ -47,6 +51,8 @@ This Soma of the worshipper.
 Sit on the sacred grass to drink the Soma juice.
 <p id="v3"><sup><small>3</small></sup>  May Varuṇa and Mitra, for our help, accept the sacrifice.
 Sit on the sacred grass to drink the Soma juice.
+
+<span id="h73"></span>
 
 ## HYMN LXXIII. Aśvins.
 
@@ -71,6 +77,8 @@ At sacrifice most prompt to hear, most gracious ye at sacrifice.
 <p id="v10"><sup><small>10</small></sup>  Most pleasing to the Aśvins be these prayers which magnify their might,
 Which we have fashioned, even as cars high reverence have we spoken forth.
 
+<span id="h74"></span>
+
 ## HYMN LXXIV. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  WHERE in the heavens are ye to-day, Gods, Aśvins, rich in constancy?
@@ -94,6 +102,8 @@ Fly hitherward, ye wise of heart, like falcons with your winged steeds.
 <p id="v10"><sup><small>10</small></sup>  O Aśvins, when at any time ye listen to this call of mine,
 For you is dainty food prepared: they mix refreshing food for you.
 
+<span id="h75"></span>
+
 ## HYMN LXXV. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  To meet your treasure-bringing car, the mighty car most dear to us,
@@ -115,6 +125,8 @@ Beside the singer, Aśvins, who longs for your grace and lauds you both. Lovers 
 <p id="v9"><sup><small>9</small></sup>  Dawn with her white herd hath appeared, and in due time hath fire been placed.
 Harnessed is your immortal car, O WonderWorkers, strong and kind. Lovers of sweetness, bear my call.
 
+<span id="h76"></span>
+
 ## HYMN LXXVI. Aśvins
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, the bright face of the Dawns, is shining; the singers' pious voices have ascended.
@@ -128,6 +140,8 @@ Come to us from high heaven and from the mountain. Come from the waters bringing
 <p id="v5"><sup><small>5</small></sup>  May we obtain the Aśvins' newest favour, and gain their health-bestowing happy guidance.
 Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!
 
+<span id="h77"></span>
+
 ## HYMN LXXVII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  FIRST worship those who come at early morning: let the Twain drink before the giftless niggard.
@@ -140,6 +154,8 @@ Swift as thought, Aśvins, rapid as the tempest, wherewith ye travel over all ob
 Furthers with his own holy works his offspring, and ever passes those whose flames ascend not.
 <p id="v5"><sup><small>5</small></sup>  May we obtain the Aśvins' newest favour, and gain their health-bestowing happy guidance.
 Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!
+
+<span id="h78"></span>
 
 ## HYMN LXXVIII. Aśvins.
 
@@ -161,6 +177,8 @@ So stir in thee the babe unborn, so may the ten-month babe descend.
 So also, ten-month babe, descend together with the after-birth.
 <p id="v9"><sup><small>9</small></sup>  The child who hath for ten months' time been lying in his mother's side,—
 May he come forth alive, unharmed, yea, living from the living dame.
+
+<span id="h79"></span>
 
 ## HYMN LXXIX. Dawn.
 
@@ -184,6 +202,8 @@ Together with the sunbeams, with the shine of pure refulgent flames, highborn! d
 Let not the Sun with fervent heat consume thee like a robber foe, high-born! delightful with the steeds!
 <p id="v10"><sup><small>10</small></sup>  So much, and more exceedingly, O Dawn, it suits thee to bestow,
 Thou Radiant One who ceasest not to shine for those who sing thy praise, highborn! delightful with thy steeds!
+
+<span id="h80"></span>
 
 ## HYMN LXXX. Dawn.
 

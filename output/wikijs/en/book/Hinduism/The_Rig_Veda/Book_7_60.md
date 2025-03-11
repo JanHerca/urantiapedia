@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Ādityas.
 
 <p id="v1"><sup><small>1</small></sup>  THROUGH the Ādityas’ most auspicious shelter, through their most recent succour may we conquer.
@@ -40,6 +42,8 @@ May they, the Mighty, giving ear, establish this sacrifice, to make us free and 
 May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.
 <p id="v3"><sup><small>3</small></sup>  All Universal Deities, the Maruts, all the Ādityas, yea, and all the Ṛbhus,
 Indra, and Agni, and the Aśvins, lauded. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h52"></span>
 
 ## HYMN LII. Ādityas.
 
@@ -50,6 +54,8 @@ Let us not suffer for another's trespass. nor do the thing that ye, O Vasus, pun
 <p id="v3"><sup><small>3</small></sup>  The ever-prompt Aṅgirases, imploring riches from Savitar the God, obtained them.
 So may our Father who is great and holy, and all the Gods, accordant, grant this favour.
 
+<span id="h53"></span>
+
 ## HYMN LIII. Heaven and Earth.
 
 <p id="v1"><sup><small>1</small></sup>  AS priest with solemn rites and adorations I worship Heaven and Earth, the High and Holy.
@@ -59,6 +65,8 @@ Come, Heaven and Earth, with the Celestial People, hither to us, for strong is y
 <p id="v3"><sup><small>3</small></sup>  Yea, Heaven and Earth, ye hold in your possession full many a treasure for the liberal giver.
 Grant us that wealth which comes in free abundance. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h54"></span>
+
 ## HYMN LIV. Vastospati.
 
 <p id="v1"><sup><small>1</small></sup>  ACKNOWLEDGE us, O Guardian of the Homestead: bring no disease, and give us happy entrance.
@@ -67,6 +75,8 @@ Whate’er we ask of thee, be pleased to grant it, and prosper thou quadrupeds a
 May we be ever-youthful in thy friendship: be pleased in us as in his sons a father.
 <p id="v3"><sup><small>3</small></sup>  Through thy dear fellowship that bringeth welfare, may we be victors, Guardian of the Dwelling!
 Protect our happiness in rest and labour. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h55"></span>
 
 ## HYMN LV. Vastospati.
 
@@ -86,6 +96,8 @@ Of these we closely shut the eyes, even as we closely shut this house.
 By him the Strong and Mighty One we lull and make the people sleep.
 <p id="v8"><sup><small>8</small></sup>  The women sleeping in the court, lying without, or stretched on beds,
 The matrons with their odorous sweetsthese, one and all, we lull to sleep.
+
+<span id="h56"></span>
 
 ## HYMN LVI. Maruts.
 
@@ -129,6 +141,8 @@ With whom to fair lands we may cross the waters, and dwell in our own home with 
 <p id="v25"><sup><small>25</small></sup>  May Indra, Mitra, Varuṇa and Agni, Waters, and Plants, and Trees accept our praises.
 May we find shelter in the Marut's bosom. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  YEA, through the power of your sweet juice, ye Holy! the Marut host is glad at sacrifices.
@@ -146,6 +160,8 @@ Give us of Amṛta for the sake of offspring: awake the excellent fair stores of
 <p id="v7"><sup><small>7</small></sup>  Hither, ye Maruts, praised, with all your succours, with all felicity come to our princes,
 Who, of themselves, a hundredfold increase us. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h58"></span>
+
 ## HYMN LVIII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  SING to the troop that pours down rain in common, the Mighty Company of celestial nature.
@@ -160,6 +176,8 @@ The Sovran whom ye aid destroys the foeman. May this your gift, ye Shakers, be d
 What secret sin or open stirs their anger, that we implore the Swift Ones to forgive us.
 <p id="v6"><sup><small>6</small></sup>  This eulogy of the Bounteous hath been spoken: accept, ye Maruts, this our hymn of praises.
 Ye Bulls, keep those who hate us at a distance. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h59"></span>
 
 ## HYMN LIX. Maruts.
 
@@ -187,6 +205,8 @@ That ye may help us, Bounteous Ones.
 I dedicate your sacrifice.
 <p id="v12"><sup><small>12</small></sup>  Tryambaka we worship, sweet augmenter of prosperity.
 As from its stem the cucumber, so may I be released from death, not reft of immortality.
+
+<span id="h60"></span>
 
 ## HYMN LX. Mitra-Varuṇa.
 

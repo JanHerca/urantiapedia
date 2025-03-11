@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE men from fire-sticks, with their hands' swift movement, have, in deep thought, engendered glorious Agni,
@@ -85,6 +87,8 @@ Wherewith we may enjoy ourselves, O Victor, with undiminished life and hero chil
 <p id="v25"><sup><small>25</small></sup>  Give strength and power to these my prayers, O Agni; O God, pour blessings on bur chiefs and nobles.
 Grant that both we and they may share thy bounty. Ye Gods, protect us evermore with blessings.
 
+<span id="h2"></span>
+
 ## HYMN II. Āprīs.
 
 <p id="v1"><sup><small>1</small></sup>  GLADLY accept, this day, our fuel, Agni: send up thy sacred smoke and shine sublimely.
@@ -110,6 +114,8 @@ He as the truer Priest shall offer worship, for the God'sgenerations well he kno
 <p id="v11"><sup><small>11</small></sup>  Come thou to us, O Agni, duly kindled, together with the potent Gods and Indra.
 On this our grass sit Aditi, happy Mother, and let our Hail! delight the Gods Immortal.
 
+<span id="h3"></span>
+
 ## HYMN III. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ASSOCIATE with fires, make your God Agni envoy at sacrifice, best skilled in worship,
@@ -132,6 +138,8 @@ With these, O Son of Strength, O Jātavedas, guard us, preserve these princes an
 Sprung, sought with eager longing, from his Parents, for the Gods’ worship, Sage and Purifier:
 <p id="v10"><sup><small>10</small></sup>  Shine this felicity on us, O Agni: may we attain to perfect understanding.
 All happiness be theirs who sing and praise thee. Ye Gods, preserve us evermore with blessings.
+
+<span id="h4"></span>
 
 ## HYMN IV. Agni.
 
@@ -156,6 +164,8 @@ Here let the place of darkening come upon thee: may wealth be ours, desirable, i
 <p id="v10"><sup><small>10</small></sup>  Shine this felicity on us, O Agni: may we attain to perfect understanding.
 All happiness be theirs who sing and praise thee. Ye Gods, preserve us evermore with blessings.
 
+<span id="h5"></span>
+
 ## HYMN V. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  BRING forth your song of praise to mighty Agni, the speedy messenger of earth and heaven,
@@ -177,6 +187,8 @@ Wherewith, all-bounteous God, thou pourest riches, as fame wide-spreading, on th
 <p id="v9"><sup><small>9</small></sup>  Agni, bestow upon our chiefs and nobles that famous power, that wealth which feedeth many.
 Accordant with the Vasus and the Rudras, Agni, Vaiśvānara, give us sure protection.
 
+<span id="h6"></span>
+
 ## HYMN VI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  PRAISE of the Asura, high imperial Ruler, the Manly One in whom the folk shall triumph-
@@ -193,6 +205,8 @@ Young Agni, who with conquering strength subduing the tribes of Nahus made them 
 Agni Vaiśvānara in his Parents, bosom hath found the choicest seat in earth and heaven.
 <p id="v7"><sup><small>7</small></sup>  Vaiśvānara the God, at the sun's setting, hath taken to himself deep-hidden treasures:
 Agni hath taken them from earth and heaven, from the sea under and the sea above us.
+
+<span id="h7"></span>
 
 ## HYMN VII. Agni.
 
@@ -211,6 +225,8 @@ Who, listening, have advanced the people's welfare, and set their thoughts on th
 <p id="v7"><sup><small>7</small></sup>  We, the Vasisthas, now implore thee, Agni, O Son of Strength, the Lord of wealth and treasure.
 Thou hast brought food to singers and to nobles. Ye Gods, preserve us evermore with blessings.
 
+<span id="h8"></span>
+
 ## HYMN VIII. Agni
 
 <p id="v1"><sup><small>1</small></sup>  THE King whose face is decked with oil is kindled with homage offered by his faithful servant.
@@ -228,6 +244,8 @@ That, splendid, chasing sickness, slaying demons, it may delight our friend and 
 <p id="v7"><sup><small>7</small></sup>  We, the Vasisthas, now implore thee, Agni, O Son of Strength, the Lord of wealth and riches.
 Thou hast brought food to singers and to nobles. Ye Gods, preserve us evermore with blessings.
 
+<span id="h9"></span>
+
 ## HYMN IX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ROUSED from their bosom is the Dawns' beloved, the joyous Priest, most sapient, Purifier.
@@ -242,6 +260,8 @@ Who gleams refulgent with his lovely lustre: the kine have waked to meet him whe
 Bring all the Gods that they may give us riches, Sarasvatī, the Maruts, Aśvins, Waters.
 <p id="v6"><sup><small>6</small></sup>  Vasiṣṭha, when enkindling thee, O Agni, hath slain jarutha. Give us wealth in plenty.
 Sing praise in choral song, O Jātavedas. Ye Gods, preserve us evermore with blessings.
+
+<span id="h10"></span>
 
 ## HYMN X. Agni.
 

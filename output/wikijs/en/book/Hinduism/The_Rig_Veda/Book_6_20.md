@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  EAGERLY Sacrifice thou, most skilful, Agni! Priest, pressing on as if the Maruts sent thee.
@@ -48,6 +50,8 @@ Firm on the seat of earth is based the altar: eye-like, the sacrifice is directe
 O Son of Strength, clad in the robe of riches, may we escape from woe as from
 a prison.
 
+<span id="h12"></span>
+
 ## HYMN XII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  KING of trimmed grass, Herald within the dwelling, may Agni worship the Impeller's World-halves.
@@ -62,6 +66,8 @@ Trce-fed, he fights with power as doth a champion, like Dawn's Sire to be praise
 And, like a rushing flood, loosed quickly, burneth, swift as a guilty thief, o’er desert places.
 <p id="v6"><sup><small>6</small></sup>  So mighty thou protectest us from slander, O Champion, Agni! with all fires enkindled.
 Bring opulence and drive away affliction. May brave sons gladden us through a hundred winters.
+
+<span id="h13"></span>
 
 ## HYMN XIII. Agni.
 
@@ -78,6 +84,8 @@ For thou with might givest much food in cattle even to the wicked wolf when he i
 <p id="v6"><sup><small>6</small></sup>  Eloquent, Son of Strength, Most Mighty, Agni, vouchsafe us seed and offspring, full of vigour.
 May I by all my songs obtain abundance. May brave sons gladden us through a hundred winters.
 
+<span id="h14"></span>
+
 ## HYMN XIV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WHOSO to Agni hath endeared his thought and service by his hymns,
@@ -92,6 +100,8 @@ Soon as they look upon his might his enemies tremble in alarm.
 Whose conquering wealth is never checked, is never checked in deeds of might.
 <p id="v6"><sup><small>6</small></sup>  O Agni, God with Mitra's might call hither the favour of the Gods from earth and heaven.
 Bring weal from heaven that men may dwell securely. May we o’ercome the foe's malign oppressions, may we o’ercome them, through thy help o’ercome them.
+
+<span id="h15"></span>
 
 ## HYMN XV. Agni.
 
@@ -133,6 +143,8 @@ Whom, not bewildered, as he moved in winding ways, they brought from gloom.
 Bring the Immortal Gods who strengthen holy Law: so let our sacrifice reach the Gods.
 <p id="v19"><sup><small>19</small></sup>  O Agni, Lord and Master of men's homesteads, with kindled fuel we have made thee mighty.
 Let not our household gear be found defective. Sharpen us with thy penetrating splendour.
+
+<span id="h16"></span>
 
 ## HYMN XVI. Agni.
 
@@ -231,6 +243,8 @@ Let these be oxen unto thee, let these be bulls and kine to thee.
 <p id="v48"><sup><small>48</small></sup>  The Gods enkindle Agni, best slayer of Vṛtra, first in rank,
 The Mighty, One who brings us wealth and crushes down the Rākṣasas.
 
+<span id="h17"></span>
+
 ## HYMN XVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  DRINK Soma, Mighty One, for which, when lauded, thou breakest through the cattle-stall, O Indra;
@@ -262,6 +276,8 @@ Indra, who made these worlds, the Strong, the ty, who never groweth old, the vic
 <p id="v14"><sup><small>14</small></sup>  So, Indra, form us brilliant holy singers for strength, for glory, and for food and riches.
 Give Bharadvāja hero patrons, Indra Indra, be ours upon the day of trial.
 <p id="v15"><sup><small>15</small></sup>  With this may we obtain strength God-appointed, and brave sons gladden us through a hundred winters.
+
+<span id="h18"></span>
 
 ## HYMN XVIII. Indra.
 
@@ -296,6 +312,8 @@ When lauded for thyself, thou gavest freedom to sore-afflicted Heaven and to the
 <p id="v15"><sup><small>15</small></sup>  This power of thine both heaven and earth acknowledge, the deathless Gods acknowledge it, O Indra.
 Do what thou ne’er hast done, O Mighty Worker: beget a new hymn at thy sacrifices.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT, hero-like controlling men is Indra, unwasting in his powers, doubled in vastness.
@@ -324,6 +342,8 @@ Mighty, all-conquering, the victory-giver, him let us call to grant us new prote
 Therefore upon the earth do we invoke thee, where heroes win, for sons and kine and waters.
 <p id="v13"><sup><small>13</small></sup>  Through these thy friendships, God invoked of many! may we be victors over every foeman.
 Slaying both kinds of foe, may we, O Hero, be happy, helped by thee, with ample riches.
+
+<span id="h20"></span>
 
 ## HYMN XX. Indra.
 

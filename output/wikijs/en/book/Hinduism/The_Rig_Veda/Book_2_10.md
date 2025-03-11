@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU, Agni, shining in thy glory through the days, art brought to life from out the waters, from the stone:
@@ -67,6 +69,8 @@ Which, through the power of good, here spreads abroad from thee, diffused throug
 <p id="v16"><sup><small>16</small></sup>  The princely worshippers who send to those who sing thy praise, O Agni, guerdon graced with kine and steeds,—
 Lead thou both these and us forward to higher bliss. With brave men in the assembly may we speak aloud.
 
+<span id="h2"></span>
+
 ## HYMN II. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WITH sacrifice exalt Agni who knows all life; worship him with oblation and the song of praise,
@@ -95,6 +99,8 @@ Whose sacrifice the strong seek, Agni, when it shines for never-failing offsprin
 Help us to wealth exceeding good and glorious, abundant, rich in children and their progeny.
 <p id="v13"><sup><small>13</small></sup>  The princely worshippers who send to those who sing thy praise, O Agni, guerdon, graced with kine and steeds,—
 Lead thou both these and us forward to higher bliss. With brave men in the assembly may we speak aloud.
+
+<span id="h3"></span>
 
 ## HYMN III. Āprīs.
 
@@ -142,6 +148,8 @@ O Agni, give us wealth with store of heroes and mighty strength in food and nobl
 <p id="v9"><sup><small>9</small></sup>  May the Gṛtsamadas, serving in secret, through thee, O Agni, overcome their neighbours,
 Rich in good heroes and subduing foemen. That vital power give thou to chiefs and singers.
 
+<span id="h5"></span>
+
 ## HYMN V. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  HERALD and teacher was he born, a guardian for our patrons’ help,
@@ -160,6 +168,8 @@ The Priest delights in their approach, as corn at coming of the rain.
 Yea, song of praise and sacrifice: we have bestowed, let us obtain.
 <p id="v8"><sup><small>8</small></sup>  That so this man well skilled, may pay worship to all the Holy Ones.
 And, Agni, this our sacrifice which we have here prepared, to thee.
+
+<span id="h6"></span>
 
 ## HYMN VI. Agni.
 
@@ -180,6 +190,8 @@ As envoy friendly to mankind.
 <p id="v8"><sup><small>8</small></sup>  Befriend us thou as knowing all. Sage, duly worship thou the Gods,
 And seat thee on this sacred grass.
 
+<span id="h7"></span>
+
 ## HYMN VII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  VASU, thou most youthful God, Bhārata, Agni, bring us wealth,
@@ -194,6 +206,8 @@ When worshipped with the sacred oil.
 With bullocks and with kine in calf
 <p id="v6"><sup><small>6</small></sup>  Wood-fed, bedewed with sacred oil, ancient, Invoker, excellent,
 The Son of Strength, the Wonderful.
+
+<span id="h8"></span>
 
 ## HYMN VIII.Agni.
 
@@ -210,6 +224,8 @@ All glories hath he made his own.
 <p id="v6"><sup><small>6</small></sup>  May we with Agni's, Indra's help, with Soma's, yea, of all the Gods,
 Uninjured dwell together still, and conquer those who fight with us.
 
+<span id="h9"></span>
+
 ## HYMN IX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  ACCUSTOMED to the Herald's place, the Herald hath seated him, bright, splendid, passing mighty,
@@ -224,6 +240,8 @@ For thou art Lord of gathered wealth and treasure. of the bright song of praise 
 Enrich with food the man who lauds thee, Agni: make him the lord of wealth with noble offspring.
 <p id="v6"><sup><small>6</small></sup>  May he, benevolent with this fair aspect, best sacrificer, bring the Gods to bless us.
 Sure guardian, our protector from the foemen, shine, Agni, with thine affluence and splendour.
+
+<span id="h10"></span>
 
 ## HYMN X. Agni.
 

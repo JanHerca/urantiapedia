@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MAKE glad with songs that Ram whom many men invoke, worthy of songs of praise, Indra, the sea of wealth;
@@ -64,6 +66,8 @@ Thou, very wise, wast Menā, Vrsanśva's child: those deeds of thine must all be
 Indra alone is Lord of wealth, the Giver, lover of riches, chariots, kine, and horses.
 <p id="v15"><sup><small>15</small></sup>  To him the Mighty One, the self-resplendent, verily strong and great, this praise is uttered.
 May we and all the heroes, with the princes, be, in this fray, O Indra, in thy keeping.
+
+<span id="h52"></span>
 
 ## HYMN LII. Indra.
 
@@ -98,6 +102,8 @@ Not, when in joy he fights the stayer of the rain: thou, and none else, hast mad
 <p id="v15"><sup><small>15</small></sup>  The Maruts sang thy praise in this encounter, and in thee all the Deities delighted,
 What time thou, Indra, with thy spiky weapon, thy deadly bolt, smotest the face of Vṛtra.
 
+<span id="h53"></span>
+
 ## HYMN LIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WE will present fair praise unto the Mighty One, our hymns to Indra in Vivasvān's dwelling-place;
@@ -122,6 +128,8 @@ With sixty thousand nine-and-ninety followers, who came in arms to fight with fr
 Thou madest Kutsa, Atithigva, Āyu, subject unto this King, the young, the mighty.
 <p id="v11"><sup><small>11</small></sup>  May we protected by the Gods hereafter remain thy very prosperous friends, O Indra.
 Thee we extol, enjoying through thy favour life long and joyful and with store of heroes.
+
+<span id="h54"></span>
 
 ## HYMN LIV. Indra.
 
@@ -148,6 +156,8 @@ But Indra smote the rivers which the obstructer stayed, flood following after fl
 <p id="v11"><sup><small>11</small></sup>  So give us, Indra, bliss-increasing glory give us great sway and strength that conquers people.
 Preserve our wealthy patrons, save our princes; vouchsafe us wealth and food with noble offspring.
 
+<span id="h55"></span>
+
 ## HYMN LV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THOUGH e’en this heaven's wide space and earth have spread them out, nor heaven nor earth may be in greatness Indra's match.
@@ -167,6 +177,8 @@ Those charioteers of thine, best skilled to draw the rein, the rapid sunbeams, I
 <p id="v8"><sup><small>8</small></sup>  Thou bearest in both hands treasure that never fails; the famed One in his body holds unvanquished might.
 O Indra, in thy members many powers abide, like wells surrounded by the ministering priests.
 
+<span id="h56"></span>
+
 ## HYMN LVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  FOR this man's full libations held in ladles, he hath roused him, eager, as a horse to meet the mare.
@@ -182,6 +194,8 @@ In the light-winning war, Indra, in rapturous joy, thou smotest Vṛtra dead and
 <p id="v6"><sup><small>6</small></sup>  Thou with thy might didst grasp, the holder-up of heaven, thou who art mighty also in the seats of earth.
 Thou, gladdened by the juice, hast set the waters free, and broken Vṛtra's stony fences through and through.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  To him most liberal, lofty Lord of lofty wealth, verily powerful and strong, I bring my hymn,—
@@ -196,6 +210,8 @@ Lover of praise, none else but thou receives our laud: as earth loves all her cr
 After thee lofty heaven hath measured out its strength: to thee and to thy power this earth hath bowed itself.
 <p id="v6"><sup><small>6</small></sup>  Thou, who hast thunder for thy weapon, with thy bolt hast shattered into pieces this broad massive cloud.
 Thou hast sent down the obstructed floods that they may flow: thou hast, thine own for ever, all victorious might.
+
+<span id="h58"></span>
 
 ## HYMN LVIII. Agni.
 
@@ -218,6 +234,8 @@ O Agni, Son of Strength, with forts of iron preserve thou from distress the man 
 <p id="v9"><sup><small>9</small></sup>  Be thou a refuge, Bright One, to the singer, a shelter, Bounteous Lord, to those who worship.
 Preserve the singer from distress, O Agni. May he, enriched with prayer, come soon and early.
 
+<span id="h59"></span>
+
 ## HYMN LIX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE other fires are, verily, thy branches; the Immortals all rejoice in thee, O Agni.
@@ -234,6 +252,8 @@ Thou art the King of lands where men are settled, thou hast brought comfort to t
 Agni Vaiśvānara struck down the Dasyu, cleave Śambara through and shattered down his fences.
 <p id="v7"><sup><small>7</small></sup>  Vaiśvānara, dwelling by his might with all men, far-shining, holy mid the Bharadvājas,
 Is lauded, excellent, with hundred praises by Purūṇītha, son of Śatavani.
+
+<span id="h60"></span>
 
 ## HYMN LX. Agni.
 

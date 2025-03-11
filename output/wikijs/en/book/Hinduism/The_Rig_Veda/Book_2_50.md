@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Various Deities.
 
 <p id="v1"><sup><small>1</small></sup>  O VĀYU, come to us with all the thousand chariots that are thine,
@@ -84,6 +86,8 @@ O Bird, be ominous of happy fortune from no side may calamity befall thee.
 Still crying in the region of the Fathers, speak here auspicious, bearing joyful tidings.
 <p id="v3"><sup><small>3</small></sup>  Bringing good tidings, Bird of happy omen, call thou out loudly southward of our dwellings,
 So that no thief, no sinner may oppress us. Loud may we speak, with heroes, in assembly.
+
+<span id="h43"></span>
 
 ## HYMN XLIII. Kapiñjala.
 

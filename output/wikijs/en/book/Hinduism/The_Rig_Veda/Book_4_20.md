@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THY blessed majesty, victorious Agni, shines brightly in the neighbourhood of Sūrya.
@@ -46,6 +48,8 @@ From thee comes wealth, sent by the Gods, bliss-giving; Agni, from thee the flee
 Invite with hymns; thee who removest hatred, Friend of the Home, the household's Lord, unerring.
 <p id="v6"><sup><small>6</small></sup>  Far from us thou removest want and sorrow, far from us all ill-will when thou protectest.
 Son of Strength, Agni, blest is he at evening, whom thou as God attendest for his welfare.
+
+<span id="h12"></span>
 
 ## HYMN XII. Agni.
 
@@ -62,6 +66,8 @@ Never may we who are thy friends be injured: grant health and strength unto our 
 <p id="v6"><sup><small>6</small></sup>  Even as ye here, Gods Excellent and Holy, have loosed the cow that by the foot was tethered,
 So also set us free from this affliction long let our life, O Agni, be extended.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI hath looked, benevolently-minded, on the wealth-giving spring of radiant Mornings.
@@ -75,6 +81,8 @@ The rays of Sūrya tremulously shining sink, like a hide, the darkness in the wa
 <p id="v5"><sup><small>5</small></sup>  How is it that, unbound and not supported, he falleth not although directed downward?
 By what self power moves he? Who hath seen it? He guards the vault of heaven, a close-set pillar.
 
+<span id="h14"></span>
+
 ## HYMN XIV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE God hath looked, even Agni Jātavedas, to meet the Dawns refulgent in their glories.
@@ -87,6 +95,8 @@ Dawn on her nobly-harnessed car, the Goddess, awaking men to happiness, approach
 Here for your draught of meath are Soma juices: at this our sacrifice rejoice, ye Mighty.
 <p id="v5"><sup><small>5</small></sup>  How is it that, unbound and unsupported, he falleth not although directed downward?
 By what self-power moves he? Who hath seen it? He guards the vault of heaven, a close-set pillar?
+
+<span id="h15"></span>
 
 ## HYMN XV. Agni.
 
@@ -110,6 +120,8 @@ From Sahadeva's princely son.
 Of Sahadeva, Somaka.
 <p id="v10"><sup><small>10</small></sup>  Cause him the youthful prince, the son of Sahadeva, to enjoy
 Long life, O Aśvins, O ye Gods.
+
+<span id="h16"></span>
 
 ## HYMN XVI. Indra.
 
@@ -156,6 +168,8 @@ That he may, ne’er withdraw from us his friendship, but be our bodies' guard a
 <p id="v21"><sup><small>21</small></sup>  Now, Indra! lauded, glorified with praises, let power swell. high like rivers for the singer.
 For thee a new hymn, Lord of Bays, is fashioned. May we, car-borne, through song be victors ever.
 
+<span id="h17"></span>
+
 ## HYMN XVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT art thou, Indra; yea, the earth, with gladness, and heaven confess to thee thine high dominion.
@@ -200,6 +214,8 @@ King of all creatures, give us glory amply, exalted glory due to him who lauds t
 <p id="v21"><sup><small>21</small></sup>  Now, Indra! lauded, glorified with praises, let power swell high like rivers for the singer.
 For thee a new hymn, Lord of Bays! is fashioned. May we, car-borne, through song be victors ever.
 
+<span id="h18"></span>
+
 ## HYMN XVIII. Indra and Others.
 
 <p id="v1"><sup><small>1</small></sup>  THIS is the ancient and accepted pathway by which all Gods have come into existence.
@@ -229,6 +245,8 @@ What God, when by the foot thy Sire thou tookest and slewest, was at hand to giv
 <p id="v13"><sup><small>13</small></sup>  In deep distress I cooked a dog's intestines. Among the Gods I found not one to comfort.
 My consort I beheld in degradation. The Falcon then brought me the pleasant Soma.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THEE, verily, O Thunder-wielding Indra, all the Gods here, the Helpers swift to listen,
@@ -253,6 +271,8 @@ The blind saw clearly, as he grasped the serpent, rose, brake the jar: his joint
 Hath told these deeds of might as thou hast wrought them, great acts, spontaneous, and to man's advantage.
 <p id="v11"><sup><small>11</small></sup>  Now, Indra! lauded, glorified with praises, let powers swell high, like rivers, for the singer.
 For thee a new hymn, Lord of Bays! is fashioned. May we, car-borne, through song be victors ever.
+
+<span id="h20"></span>
 
 ## HYMN XX. Indra.
 

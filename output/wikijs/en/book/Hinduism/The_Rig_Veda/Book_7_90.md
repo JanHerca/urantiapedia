@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h81"></span>
+
 ## HYMN LXXXI. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  ADVANCING, sending forth her rays, the Daughter of the Sky is seen.
@@ -70,6 +72,8 @@ When both opposing bands invoke you for the fight, and men that they may gain of
 <p id="v10"><sup><small>10</small></sup>  May Indra, Varuṇa, Mitra, and Aryaman vouchsafe us glory and great shelter spreading far.
 We think of the beneficent light of Aditi, and Savitar's song of praise, the God who strengthens Law.
 
+<span id="h83"></span>
+
 ## HYMN LXXXIII. Indra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  LOOKING to you and your alliance, O ye Men, armed with broad axes they went forward, fain for spoil.
@@ -93,6 +97,8 @@ We call on you, ye Mighty, with our hymns of praise. Vouchsafe us your protectio
 <p id="v10"><sup><small>10</small></sup>  May Indra, Varuṇa, Mitra, and Aryaman vouchsafe us glory and great shelter spreading far.
 We think of the beneficent light of Aditi, and Savitar's song of praise, the God who strengthens Law.
 
+<span id="h84"></span>
+
 ## HYMN LXXXIV. Indra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  KINGS, Indra-Varuṇa, I would turn you hither to this our sacrifice with gifts and homage.
@@ -106,6 +112,8 @@ For the Āditya, banisher of falsehood, the Hero, dealeth wealth in boundless pl
 <p id="v5"><sup><small>5</small></sup>  May this my song reach Varuṇa and Indra, and, strongly urging, win me sons and offspring.
 To the Gods’ banquet may we go with riches. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h85"></span>
+
 ## HYMN LXXXV. Indra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  FOR you I deck a harmless hymn, presenting the Soma juice to Varuṇa and Indra-
@@ -118,6 +126,8 @@ One of these holds the folk distinct and sundered, the Other smites and slays re
 Brings you to aid us with your might, Ādityas: let him have viands to promote his welfare.
 <p id="v5"><sup><small>5</small></sup>  May this my song reach Varuṇa and Indra, and, strongly urging, win me sons and offspring.
 To the Gods’ banquet may we go with riches. Preserve us evermore, ye Gods with blessings.
+
+<span id="h86"></span>
 
 ## HYMN LXXXVI. Varuṇa.
 
@@ -138,6 +148,8 @@ This gentle Lord gives wisdom to the simple: the wiser God leads on the wise to 
 <p id="v8"><sup><small>8</small></sup>  O Lord, O Varuṇa, may this laudation come close to thee and lie within thy spirit.
 May it be well with us in rest and labour. Preserve us ever-more, ye Gods, with blessings.
 
+<span id="h87"></span>
+
 ## HYMN LXXXVII. Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  VARUNA cut a pathway out for Sūrya, and led the watery floods of rivers onward.
@@ -154,6 +166,8 @@ The wise King Varuṇa hath made in heaven that Golden Swing to cover it with gl
 Ruling in depths and meting out the region, great saving power hath he, this world's Controller.
 <p id="v7"><sup><small>7</small></sup>  Before this Varuṇa may we be sinless him who shows mercy even to the sinner-
 While we are keeping Aditi's ordinances. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h88"></span>
 
 ## HYMN LXXXVIII. Varuṇa.
 

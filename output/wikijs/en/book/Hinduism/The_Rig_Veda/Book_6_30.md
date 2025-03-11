@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Indra. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  THESE the most constant singer's invocations call thee who art to be invoked, O Hero;
@@ -59,6 +61,8 @@ Who visit sacred rites, whose tongue is Agni, Gods who made Manu stronger than t
 <p id="v12"><sup><small>12</small></sup>  On good and evil ways be thou our Leader, thou who art known to all as Path-preparer.
 Bring power to us, O Indra, with thy Horses, Steeds that are best to draw, broad-backed, unwearied.
 
+<span id="h22"></span>
+
 ## HYMN XXII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WITH these my hymns I glorify that Indra who is alone to be invoked by mortals,
@@ -84,6 +88,8 @@ Strengthen therewith the Ārya's hate and Dāsa's, and let the arms of Nahusas b
 <p id="v11"><sup><small>11</small></sup>  Come with thy team which brings all blessings hither, Disposer, much-invoked, exceeding holy.
 Thou whom no fiend, no God can stay or hinder, come swittly with these Steeds in my direction.
 
+<span id="h23"></span>
+
 ## HYMN XXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THOU art attached to pressed-out Soma, Indra, at laud, at prayer, and when the hymn is chanted;
@@ -106,6 +112,8 @@ And may this hymn and these our invocations turn thee, whom many men invoke, to 
 Will it not aid him to support us? Indra. spares him who sheds the juice to win his favour.
 <p id="v10"><sup><small>10</small></sup>  While Soma flowed, thus Indra hath been lauded, Ruler of nobles, mid the Bharadvājas,
 That Indra may become the singer's patron and give him wealth in every kind of treasure.
+
+<span id="h24"></span>
 
 ## HYMN XXIV. Indra.
 
@@ -130,6 +138,8 @@ Stand up erect to help us, unreluctant, what time the gloom of night brightens t
 <p id="v10"><sup><small>10</small></sup>  Hasting to help, come hither and protect him, keep him from harm when he is here, O Indra.
 At home, abroad, from injury preserve him. May brave sons gladden us through a hundred winters.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WITH thine assistance, O thou Mighty Indra, be it the least, the midmost, or the highest,—
@@ -151,6 +161,8 @@ All lordly power and might, O Holy Indra, given by Gods for victory in battle.
 <p id="v9"><sup><small>9</small></sup>  So urge our hosts together in the combats: yield up the godless bands that fight against us.
 Singing, at morn may we find thee with favour, yea, Indra, and e’en now, we Bharadvājas.
 
+<span id="h26"></span>
+
 ## HYMN XXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  O INDRA, hear us. Raining down the Soma, we call on thee to win us mighty valour.
@@ -169,6 +181,8 @@ Thou, kindly giving Raji to Pithinas, slewest with might, at once, the sixty tho
 When, Mightiest! Hero-girt! Nahuṣa heroes boast them in thee, the triply-strong Defender.
 <p id="v8"><sup><small>8</small></sup>  So may we he thy friends, thy best beloved, O Indra, at this holy invocation.
 Best be Pratardani, illustrious ruler, in slaying foemen and in gaining riches.
+
+<span id="h27"></span>
 
 ## HYMN XXVII. Indra.
 
@@ -189,6 +203,8 @@ Gave Turvaśa to Sṛñjaya, and, to aid him, gave the Vrcivans up to Daivavata.
 <p id="v8"><sup><small>8</small></sup>  Two wagon-teams, with damsels, twenty oxen, O Agni, Abhydvartin Cayamdna,
 The liberal Sovran, giveth me. This guerdon of Prthu's seed is hard to win from others.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Cows.
 
 <p id="v1"><sup><small>1</small></sup>  THE Kine have come and brought good fortune: let them rest in the cow-pen and be happy near us.
@@ -208,6 +224,8 @@ Never be thief or sinful man your matter, and may the dart of Rudra still avoid 
 <p id="v8"><sup><small>8</small></sup>  Now let this close admixture be close intermigled with these Cows,
 Mixt with the Steer's prolific flow, and, Indra, with thy hero might.
 
+<span id="h29"></span>
+
 ## HYMN XXIX Indra.
 
 <p id="v1"><sup><small>1</small></sup>  YOUR men have followed Indra for his friendship, and for his loving-kindness glorified him.
@@ -222,6 +240,8 @@ By which the men who pray, extolling Indra chief favourites of Gods, recite thei
 These the Prince filleth full with strong endeavour, driving, as ’twere, with help his flocks to waters.
 <p id="v6"><sup><small>6</small></sup>  So be the lofty Indra prompt to listen, Helper unaided, golden-visored Hero.
 Yea, so may he, shown forth in might unequalled, smite down the many Vṛtras and the Dasyus.
+
+<span id="h30"></span>
 
 ## HYMN XXX. Indra.
 

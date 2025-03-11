@@ -240,6 +240,8 @@ Protect us, God; let not the wolf destroy us. Save us, ye Holy, from the pit and
 <p id="v7"><sup><small>7</small></sup>  May I not live, O Varuṇa, to witness my wealthy, liberal, dear friend's destitution.
 King, may I never lack well-ordered riches. Loud may we speak, with heroes, in assembly.
 
+<span id="h30"></span>
+
 ## HYMN XXX. Indra and Others.
 
 <p id="v1"><sup><small>1</small></sup>  THE streams unceasing flow to Indra, slayer of Ahi, Savitar, God, Law's fulfiller,

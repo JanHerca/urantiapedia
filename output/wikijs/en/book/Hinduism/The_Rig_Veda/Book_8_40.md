@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Various Deities.
 
 <p id="v1"><sup><small>1</small></sup>  THAT Brahman pleases Indra well, who worships, sacrifices, pours Libation, and prepares the meal.
@@ -69,6 +71,8 @@ The man who, sacrificing, strives to win the heart of Deities will conquer those
 The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
 <p id="v18"><sup><small>18</small></sup>  Such strength of heroes shall be his, such mastery of fleet-foot steeds.
 The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
+
+<span id="h32"></span>
 
 ## HYMN XXXII. Indra.
 
@@ -133,6 +137,8 @@ Convey thee to the feast prepared.
 <p id="v30"><sup><small>30</small></sup>  Hither, O thou whom many laud, the Bays whom Priyamedha praised,
 Shall bring thee to the Soma-draught.
 
+<span id="h33"></span>
+
 ## HYMN XXXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WE compass thee like waters, we whose grass is trimmed and Soma pressed.
@@ -174,6 +180,8 @@ High-lifted is the stallion's yoke.
 <p id="v19"><sup><small>19</small></sup>  Cast down thine eyes and look not up. More closely set thy feet. Let none
 See what thy garment veils, for thou, a Brahman, hast become a dame.
 
+<span id="h34"></span>
+
 ## HYMN XXXIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  Come hither, Indra, with thy Bays, come thou to Kaṇva's eulogy.
@@ -202,6 +210,8 @@ From Vasurocis as a gift,
 Like Suns, resplendent are they all.
 <p id="v18"><sup><small>18</small></sup>  Mid the Pargvata's rich gifts, swift steeds whose wheels run rapidly,
 I seemed to stand amid a wood.
+
+<span id="h35"></span>
 
 ## HYMN XXXV. Aśvins.
 
@@ -254,6 +264,8 @@ Approach, ye Aśvins, come to us: I call you, eager for your aid. Grant treasure
 <p id="v24"><sup><small>24</small></sup>  Sate you with consecrated drink, with juice effused, ye Deities.
 Approach, ye Aśvins, come to us: I call you, eager for your aid. Grant treasures to the worshipper.
 
+<span id="h36"></span>
+
 ## HYMN XXXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THOU helpest him whose grass is trimmed, who sheds the juice, O Śatakratu, drink Soma to make thee glad.
@@ -268,6 +280,8 @@ O Śatakratu, drink Soma to make thee glad.
 <p id="v7"><sup><small>7</small></sup>  Hear thou Śyāvāśva while he pours to thee, as erst thou heardest Atri when he wrought his holy rites.
 Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his prayers.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THIS prayer, and those who shed the juice, in wars with Vṛtra thou holpest, Indra, Lord of Strength, with all thy succours.
@@ -279,6 +293,8 @@ O Vṛtra-slayer, from libation poured at noon, drink of the Soma juice, thou bl
 <p id="v6"><sup><small>6</small></sup>  Thou helpest one to power, and one thou hast not helped, O Indra, Lord of Strength, with all thy saving aid.
 <p id="v7"><sup><small>7</small></sup>  Hear thou Śyāvāśva while he sings to thee, as erst thou heardest Atri when he wrought his holy rites.
 Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his powers.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Indra-Agni.
 
@@ -303,6 +319,8 @@ Indra-Agni to the Soma draught!
 <p id="v10"><sup><small>10</small></sup>  Indra's and Agni's grace I claim, Sarasvatī's associates
 To whom this psalm of praise is sung.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE glorious Agni have I praised, and worshipped with. the sacred food.
@@ -325,6 +343,8 @@ Him dweller in three homes we seek, best slayer of the Dasyus for Mandhātar, fi
 Decked as our envoy let the Sage bring hither and conciliate the Thrice Eleven Deities. Let all the others die away.
 <p id="v10"><sup><small>10</small></sup>  Our Agni, thou art first among the Gods, and first mid living men.
 Thou only rulest over wealth. Round about thee, as natural dams, circumfluous the waters run. Let all the others die away.
+
+<span id="h40"></span>
 
 ## HYMN XL. Indra-Agni.
 

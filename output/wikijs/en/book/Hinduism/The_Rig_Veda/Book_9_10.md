@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  In sweetest and most gladdening stream
@@ -56,6 +58,8 @@ The fresh young Soma with their milk.
 <p id="v10"><sup><small>10</small></sup>  In the wild raptures of this draught, Indra slays all the Vṛtras: he,
 The Hero, pours his wealth on us.
 
+<span id="h2"></span>
+
 ## HYMN II. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  Soma, flow on, inviting Gods, speed to the purifying cloth:
@@ -78,6 +82,8 @@ Great are the praise& due to thee.
 Parjanya sender of the rain.
 <p id="v10"><sup><small>10</small></sup>  Winner of kine, Indu, art thou, winner of heroes, steeds, and strength
 Primeval Soul of sacrifice.
+
+<span id="h3"></span>
 
 ## HYMN III. Soma Pavamana.
 
@@ -102,6 +108,8 @@ Flows tawny to the straining-cloth.
 <p id="v10"><sup><small>10</small></sup>  This Lord of many Holy Laws, even at his birth engendering strength,
 Effused, flows onward in a stream.
 
+<span id="h4"></span>
+
 ## HYMN IV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  O Soma flowing on thy way, win thou and conquer high renown;
@@ -124,6 +132,8 @@ And make us better than we are.
 Make thou us better than we are.
 <p id="v10"><sup><small>10</small></sup>  O Indu, bring us wealth in steeds, manifold. quickening all life;
 And mate us better than we are.
+
+<span id="h5"></span>
 
 ## HYMN V Āprīs.
 
@@ -150,6 +160,8 @@ The ever-green. the golden-hued, refulgent, with a thousand boughs.
 <p id="v11"><sup><small>11</small></sup>  Come to the consecrating rite of Pavamana, all ye Gods,—
 Vāyu, Sūrya, Bṛhaspati, Indra, and Agni, in accord.
 
+<span id="h6"></span>
+
 ## HYMN VI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  SOMA, flow on with pleasant stream, a Bull devoted to the Gods,
@@ -170,6 +182,8 @@ So that his milk may strengthen him.
 His ancient wisdom of a Sage.
 <p id="v9"><sup><small>9</small></sup>  So pouring forth, as Indra's Friend, strong drink, best Gladdener! for the feast,
 Thou, even in secret, storest hymns.
+
+<span id="h7"></span>
 
 ## HYMN VII. Soma Pavamana.
 
@@ -192,6 +206,8 @@ Well-knowing through his mighty powers.
 Heaven and Earth, riches of meath to win us wealth:
 Gain for us treasures and renown.
 
+<span id="h8"></span>
+
 ## HYMN VIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  OBEYING Indra's dear desire these Soma juices have flowed forth,
@@ -213,6 +229,8 @@ O Soma, victory in war.
 <p id="v9"><sup><small>9</small></sup>  May we obtain thee, Indra's drink, who viewest men and findest light,
 Gain thee, and progeny and food.
 
+<span id="h9"></span>
+
 ## HYMN IX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THE Sage of Heaven whose heart is wise, when laid between both hands and pressed,
@@ -233,6 +251,8 @@ Dark shades that must be met in fight.
 Make the lights shine as erst they shone.
 <p id="v9"><sup><small>9</small></sup>  Give, Pavamana, high renown, give kine and steeds and hero sons:
 Win for us wisdom, win the light.
+
+<span id="h10"></span>
 
 ## HYMN X. Soma Pavamana.
 

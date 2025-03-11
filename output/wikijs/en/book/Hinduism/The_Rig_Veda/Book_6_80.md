@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h71"></span>
+
 ## HYMN LXXI. Savitar.
 
 <p id="v1"><sup><small>1</small></sup>  FULL of effectual wisdom Savitar the God hath stretched out golden arms that he may bring forth life.
@@ -47,6 +49,8 @@ He hath gone up the heights of earth and heaven, and made each monster fall and 
 <p id="v6"><sup><small>6</small></sup>  Fair wealth, O Savitar, to-day, to-morrow, fair wealth produce for us each day that passes.
 May we through this our song be happy gainers, God, of a fair and spacious habitation.
 
+<span id="h72"></span>
+
 ## HYMN LXXII. Indra-Soma.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT is this might of yours, Indra and Soma: the first high exploits were your own achievements.
@@ -60,6 +64,8 @@ Ye have held fast the unimpeded whiteness within these many-coloured moving crea
 <p id="v5"><sup><small>5</small></sup>  Verily ye bestow, Indra and Soma, wealth, famed, victorious, passing to our children.
 Ye have invested men, ye Mighty Beings, with manly strength that conquers in the battle.
 
+<span id="h73"></span>
+
 ## HYMN LXXIII. Bṛhaspati.
 
 <p id="v1"><sup><small>1</small></sup>  SERVED with oblations, first-born, mountain-render, Aṅgiras' son, Bṛhaspati, the Holy,
@@ -68,6 +74,8 @@ With twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to
 Slaying his enemies, breaks down their castles, quelling his foes and conquering those who hate him.
 <p id="v3"><sup><small>3</small></sup>  Bṛhaspati in war hath won rich treasures, hath won, this God, the great stalls filled with cattle.
 Striving to win waters and light, resistless, Bṛhaspati with lightning smites the foeman.
+
+<span id="h74"></span>
 
 ## HYMN LXXIV. Soma-Rudra.
 
@@ -79,6 +87,8 @@ Drive Nirrti away into the distance, and give us excellent and happy glories.
 Set free and draw away the sin committed which we have still inherent in our persons.
 <p id="v4"><sup><small>4</small></sup>  Armed with keen shafts and weapons, kind and loving, be gracious unto us, Soma and Rudra.
 Release us from the noose of Varuṇa; keep us from sorrow, in your tender loving-kindness.
+
+<span id="h75"></span>
 
 ## HYMN LXXV. Weapons of War.
 

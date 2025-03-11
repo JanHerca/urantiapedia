@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WISE, teaching, following the thought of Order, the sonless gained a grandson from his daughter.
@@ -79,6 +81,8 @@ Teaching us pleasant things by holy Order, to, us hath he thrown open all his po
 <p id="v22"><sup><small>22</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in this fight where spoil is gathered.
 The Strong who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
+<span id="h32"></span>
+
 ## HYMN XXXII. Indra
 
 <p id="v1"><sup><small>1</small></sup>  DRINK thou this Soma, Indra, Lord of Soma; drink thou the draught of noonday which thou Iovest.
@@ -116,6 +120,8 @@ Since here incited, for thy friends, O Indra, thou breakest e’en the firm buil
 <p id="v17"><sup><small>17</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in this fight where spoil is gathered,
 The Strong who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
+<span id="h33"></span>
+
 ## HYMN XXXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  FORTH from the bosom of the mountains, eager as two swift mares with loosened rein contending,
@@ -144,6 +150,8 @@ Then let your streams flow on in rapid motion. I crave your favour who deserve o
 Swell with your billows, hasting, pouring riches. Fill full your channels, and roll swiftly onward.
 <p id="v13"><sup><small>13</small></sup>  So let your wave bear up the pins, and ye, O Waters, spare the thongs;
 And never may the pair of Bulls, harmless and sinless, waste away.
+
+<span id="h34"></span>
 
 ## HYMN XXXIV. Indra.
 
@@ -195,6 +203,8 @@ Accept the sacrificial gift, O Śakra, from the Adhvaryu's hand or from the Hota
 <p id="v11"><sup><small>11</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered,
 The Strong, who listens, who.gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
+<span id="h36"></span>
+
 ## HYMN XXXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WITH constant succours, fain thyself to share it, make this oblation which we bring effective.
@@ -219,6 +229,8 @@ That splendid gift which is thine own, O Indra, vouchsafe to us, Lord of the Taw
 Give us a hundred autumns for our lifetime: give us, O fair-checked Indra, store of heroes.
 <p id="v11"><sup><small>11</small></sup>  Call we on Indra, Maghavan, auspicious, best Hero in the fight where spoil is gathered,
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
+
+<span id="h37"></span>
 
 ## HYMN XXXVII. Indra.
 
@@ -245,6 +257,8 @@ We make thy might perpetual.
 <p id="v11"><sup><small>11</small></sup>  Come to us either from anear, Or, Śakra, come from far away.
 Indra, wherever be thy home, come to us thence, O Thunder-armed.
 
+<span id="h38"></span>
+
 ## HYMN XXXVIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HASTING like some strong courser good at drawing, a thought have I imagined like a workman.
@@ -268,6 +282,8 @@ All the wise Gods behold his varied actions who stands erect, whose voice is lik
 <p id="v10"><sup><small>10</small></sup>  Call we on Indra, Maghavan, auspicious, best Hero in the fight where spoil is gathered,
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  To Indra from the heart the hymn proceedeth, to him the Lord, recited, built with praises;
@@ -288,6 +304,8 @@ These songs, O Soma-drinker, cheered by Soma, Indra, accept from thy most zealou
 Great woe comes even from the hostile mortal, piled up; but good at rescue are the Vasus.
 <p id="v9"><sup><small>9</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered,
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
+
+<span id="h40"></span>
 
 ## HYMN XL. Indra.
 

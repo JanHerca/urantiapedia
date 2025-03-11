@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WE call on thee, O Matchless One! We seeking help, possessing nothing firm ourselves,
@@ -71,6 +73,8 @@ O Citra, on the worshipper.
 <p id="v18"><sup><small>18</small></sup>  Citra is King, and only kinglings are the rest who dwell beside Sarasvatī.
 He, like Parjanya with his rain, hath spread himself with thousand, yea, with myriad gifts.
 
+<span id="h22"></span>
+
 ## HYMN XXII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  HITHERWARD have I called to-day, for succour, that most wondrous car
@@ -109,6 +113,8 @@ Be to us a protection even from far away Lords of great wealth, with many aids.�
 Chief drinkers of the Soma's juice
 <p id="v18"><sup><small>18</small></sup>  Choice-worthy strength, heroic, firm and excellent, uninjured by the Rakṣas foe,
 At this your coming nigh, ye Lords of ample wealth and all good things, may we obtain.
+
+<span id="h23"></span>
 
 ## HYMN XXIII. Agni.
 
@@ -173,6 +179,8 @@ Food in our herds of kine and gain of ample wealth.
 <p id="v30"><sup><small>30</small></sup>  Thou, Agni, art a glorious God: bring hither Mitra, Varuṇa,
 Imperial Sovrans, holy-minded, true to Law.
 
+<span id="h24"></span>
+
 ## HYMN XXIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  COMPANIONS, let us learn a prayer to Indra. whom the thunder arms,
@@ -235,6 +243,8 @@ In hundreds and in thousands be the great reward.
 <p id="v30"><sup><small>30</small></sup>  If one should ask thee, Where is he who sacrificed? Whither lookest thou?
 Like Vala he hath passed away and dwelleth now on Gomati.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  I WORSHIP you who guard this All, Gods, holiest among the Gods,
@@ -285,6 +295,8 @@ And from Susaman we obtained a hamessed car.
 The carriers shall they be of active men of war.
 <p id="v24"><sup><small>24</small></sup>  And the two sages have I gained who hold the reins and bear the whip,
 And the two great strong coursers, with my newest song.
+
+<span id="h26"></span>
 
 ## HYMN XXVI. Aśvins.
 
@@ -339,6 +351,8 @@ And liberal as a press-stone with a horse's back.
 <p id="v25"><sup><small>25</small></sup>  So, glad and joyful in thine heart, do thou, God, Vāyu, first of all
 Vouchsafe us water, strength, and thought.
 
+<span id="h27"></span>
+
 ## HYMN XXVII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  CHEIF Priest is Agni at the laud, as stones and grass at sacrifice:
@@ -386,6 +400,8 @@ Lords of all riches, give fair treasure to the man, the wise man who hath sacrif
 <p id="v22"><sup><small>22</small></sup>  Then we, imperial Rulers, claim of you this boon, your wide protection, as a son.
 May we, Ādityas, offering holy gifts, obtain that which shall bring us greater bliss.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  THE Thirty Gods and Three besides, whose seat hath been the sacred grass,
@@ -399,6 +415,8 @@ No demon, and no mortal
 <p id="v5"><sup><small>5</small></sup>  The Seven carry seven spears; seven are the splendours they possess,
 And seven the glories they assume.
 
+<span id="h29"></span>
+
 ## HYMN XXIX Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  ONE is a youth brown, active, manifold he decks the golden one with ornament.
@@ -411,6 +429,10 @@ And seven the glories they assume.
 <p id="v8"><sup><small>8</small></sup>  Two with one Dame ride on with winged steeds, and journey forth like travellers on their way.
 <p id="v9"><sup><small>9</small></sup>  Two, highest, in the heavens have set their seat, worshipped with holy oil, imperial Kings.
 <p id="v10"><sup><small>10</small></sup>  Some, singing lauds, conceived the Sāma-hymn, great hymn whereby they caused the Sun to shine.
+
+<span id="h30"></span>
+
+<span id="h30"></span>
 
 ## HYMN XXX. Viśvedevas.
 

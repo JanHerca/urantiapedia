@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HEAR thou my call, O Indra; be not heedless: thine may we be for thee to give us treasures;
@@ -77,6 +79,8 @@ Indra sent forth his whirling wheel like Sūrya, and aided by the Aṅgirases re
 <p id="v21"><sup><small>21</small></sup>  Now let that wealthy Cow of thine, O Indra, yield in return a boon to him who lauds thee.
 Give to thy praisers: let not fortune fail us. Loud may we speak, with brave men, in the assembly.
 
+<span id="h12"></span>
+
 ## HYMN XII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HE who, just born, chief God of lofty spirit by power and might became the Gods’ protector,
@@ -110,6 +114,8 @@ Whom prayer exalts, and pouring forth of Soma, and this our gift, He, O ye men, 
 <p id="v15"><sup><small>15</small></sup>  Thou verily art fierce and true who sendest strength to the man who brews and pours libation.
 So may we evermore, thy friends, O Indra, speak loudly to the synod with our heroes.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THE Season was the parent, and when born therefrom it entered rapidly the floods wherein it grows.
@@ -139,6 +145,8 @@ Didst raise the outcast from the depths, and gavest fame unto the halt and blind
 <p id="v13"><sup><small>13</small></sup>  Prepare thyself to grant us that great bounty, O Vasu, for abundant is thy treasure.
 Snatch up the wonderful, O Indra, daily. Loud may we speak, with heroes, in assembly.
 
+<span id="h14"></span>
+
 ## HYMN XIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MINISTERS, bring the Soma juice for Indra, pour forth the gladdening liquor with the beakers.
@@ -166,6 +174,8 @@ Him, Indra, fill with Soma as a garner is filled with barley full: be this your 
 <p id="v12"><sup><small>12</small></sup>  Prepare thyself to grant us that great booty, O Vasu, for abundant is thy treasure.
 Gather up wondrous wealth, O Indra, daily. Loud may we speak, with heroes, in assembly.
 
+<span id="h15"></span>
+
 ## HYMN XV. Indra
 
 <p id="v1"><sup><small>1</small></sup>  Now, verily, will I declare the exploits, mighty and true, of him the True and Mighty.
@@ -189,6 +199,8 @@ There the staff-bearer found the golden treasure. These things did Indra in the 
 <p id="v10"><sup><small>10</small></sup>  Now let that wealthy Cow of thine, O Indra , yield in return a boon to him who lauds thee.
 Give to thy praisers: let not fortune fail us. Loud may we speak, with brave men, in assembly.
 
+<span id="h16"></span>
+
 ## HYMN XVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  To him, your own, the best among the good, I bring eulogy, like oblation in the kindled fire.
@@ -209,6 +221,8 @@ Verily he will hear and mark this word of ours: we will pour Indra forth as ’t
 Lord of a Hundred Powers, may we once firmly cling to thy fair favours even as husbands to their wives.
 <p id="v9"><sup><small>9</small></sup>  Now let that wealthy Cow of thine, O Indra, yield in return a boon to him who lauds thee.
 Give to thy praisers: let not fortune fail us. Loud may we speak, with heroes, in assembly.
+
+<span id="h17"></span>
 
 ## HYMN XVII. Indra.
 
@@ -231,6 +245,8 @@ Help us with manifold assistance, Indra: Mighty One, Indra, make us yet more wea
 <p id="v9"><sup><small>9</small></sup>  Now may that wealthy Cow of thine, O Indra, give in return a boon to him who lauds thee.
 Give to thy praisers: let not fortune fail us. Loud may we speak, with heroes, in assembly.
 
+<span id="h18"></span>
+
 ## HYMN XVIII. Indra
 
 <p id="v1"><sup><small>1</small></sup>  THE rich new car hath been equipped at morning; four yokes it hath, three whips, seven reins to guide it:
@@ -252,6 +268,8 @@ So may we under his supreme protection, safe in his arms, succeed in each forth-
 <p id="v9"><sup><small>9</small></sup>  Now may that wealthy Cow Of thine, O Indra, give in return a boon to him who lauds thee.
 Give to thy praisers: let not fortune fail us. Loud may we speak, with heroes, in assembly.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  DRAUGHTS of this sweet juice have been drunk for rapture, of the wise Soma-presser's offered dainty,
@@ -272,6 +290,8 @@ May we with best endeavours gain this friendship, and mayst thou bend the godles
 May they who worship thee afresh, O Indra, gain food and strength, bliss, and a happy dwelling.
 <p id="v9"><sup><small>9</small></sup>  Now may that wealthy Cow of thine, O Indra, give in return a boon to him who lauds thee,
 Give to thy praisers: let not fortune fail us. Loud may we speak, with heroes, in assembly.
+
+<span id="h20"></span>
 
 ## HYMN XX. Indra.
 

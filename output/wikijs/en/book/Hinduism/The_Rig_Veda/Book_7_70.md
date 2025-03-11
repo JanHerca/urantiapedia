@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  O VARUNA and Mitra, Sūrya spreading the beauteous light of you Twain Gods ariseth.
@@ -49,6 +51,8 @@ May these new hymns and prayers that I have fashioned delight you to the profit 
 <p id="v7"><sup><small>7</small></sup>  This priestly task, Gods! Varuṇa and Mitra! hath been performed for you at sacrifices.
 Convey us safely over every peril. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h62"></span>
+
 ## HYMN LXII. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  SURYA hath sent aloft his beams of splendour o’er all the tribes of men in countless places.
@@ -63,6 +67,8 @@ Let us not anger Varuṇa, nor Vāyu, nor him, the dearest Friend of mortals, Mi
 Ye Youthful, make us famed among the people: hear, Mitra-Varuṇa, these mine invocations.
 <p id="v6"><sup><small>6</small></sup>  Now Mitra, Varuṇa, Aryaman vouchsafe us freedom and room, for us and for our children.
 May we find paths all fair and good to travel. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h63"></span>
 
 ## HYMN LXIII. Mitra-Varuṇa.
 
@@ -79,6 +85,8 @@ With homage and oblations will we serve you, O Mitra-Varuṇa, when the Sun hath
 <p id="v6"><sup><small>6</small></sup>  Now Mitra, Varuṇa, Aryaman vouchsafe us freedom and room, for us and for our children.
 May we find paths all fair and good to travel. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h64"></span>
+
 ## HYMN LXIV. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  YE Twain who rule, in heaven and earth, the region, clothed be your clouds in robes of oil and fatness.
@@ -91,6 +99,8 @@ That foes may say unto Sudās our chieftain, May, we, too, joy in food with Gods
 Bedew with fatness, Varuṇa nd Mitra ye Kings, make glad the pleasant dwelling-places.
 <p id="v5"><sup><small>5</small></sup>  To you this laud, O Varuṇa and Mitra is offered like bright Soma juice to Vāyu.
 Favour our songs of praise, wake thought and spirit. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h65"></span>
 
 ## HYMN LXV. Mitra-Varuṇa.
 
@@ -146,6 +156,8 @@ Press near and drink the Soma juice.
 <p id="v19"><sup><small>19</small></sup>  Come, Mitra, Varuṇa, accept, Heroes, our sacrificial gift:
 Drink Soma, ye who strengthen Law.
 
+<span id="h67"></span>
+
 ## HYMN LXVII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  I WITH a holy heart that brings oblation will sing forth praise to meet your car, ye Princes,
@@ -169,6 +181,8 @@ Who further friendship with their noble natures, combining wealth in kine with w
 <p id="v10"><sup><small>10</small></sup>  Now hear, O Youthful Twain, mine invocation: come, Aśvins, to the home where food aboundeth.
 Vouchsafe us wealth, do honour to our nobles. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h67"></span>
+
 ## HYMN LXVIII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  COME, radiant Aśvins, with your noble horses: accept your servant's hymns, ye Wonder-Workers:
@@ -190,6 +204,8 @@ Ye made the cow pour forth her milk like water, and, Aśvins, strengthened with 
 <p id="v9"><sup><small>9</small></sup>  With his fair hymns this singer, too, extols you, waking with glad thoughts at the break of morning.
 May the cow nourish him with milk to feed llim. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h69"></span>
+
 ## HYMN LXIX. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  MAY your gold chariot, drawn by vigorous horses, come to us, blocking up the earth
@@ -209,6 +225,8 @@ Men call on you with hymns in many places, but let not other worshippers detain 
 Uninjured, winged, flagging not, undaunted, with deeds of wonder saving him, O Aśvins.
 <p id="v8"><sup><small>8</small></sup>  Now hear, O Youthful Twain, mine invocation: come, Aśvins, to the home where food aboundeth.
 Vouchsafe us wealth, do honour to our nobles. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h70"></span>
 
 ## HYMN LXX. Aśvins.
 

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  Thou, Agni, wast the earliest Aṅgiras, a Seer; thou wast, a God thyself, the Gods’ auspicious Friend.
@@ -71,6 +73,8 @@ Bring hither the celestial host and seat them here upon the sacred grass, and of
 <p id="v18"><sup><small>18</small></sup>  By this our prayer be thou, O Agni, strengthened, prayer made by us after our power and knowledge.
 Lead thou us, therefore, to increasing riches; endow us with thy strength-bestowing favour.
 
+<span id="h32"></span>
+
 ## HYMN XXXII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  I WILL declare the manly deeds of Indra, the first that he achieved, the Thunder-wielder.
@@ -103,6 +107,8 @@ When Indra and the Dragon strove in battle, Maghavan gained the victory for ever
 That, like a hawk affrighted through the regions, thou crossedst nine-and-ninety flowing rivers?
 <p id="v15"><sup><small>15</small></sup>  Indra is King of all that moves and moves not, of creatures tame and horned, the Thunder-wielder.
 Over all living men he rules as Sovran, containing all as spokes within the felly.
+
+<span id="h33"></span>
 
 ## HYMN XXXIII. Indra.
 
@@ -137,6 +143,8 @@ The dust of trampling horses rose to heaven, and Śvitrā's son stood up again f
 <p id="v15"><sup><small>15</small></sup>  Śvitrā's mild steer, O Maghavan thou helpest in combat for the land, mid Tugra's houses.
 Long stood they there before the task was ended: thou wast the master of the foemen's treasure.
 
+<span id="h34"></span>
+
 ## HYMN XXXIV. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  Ye who observe this day be with us even thrice: far-stretching is you bounty, Aśvins and your course.
@@ -164,6 +172,8 @@ Make long our days of life, and wipe out all our sins: ward off our enemies; be 
 <p id="v12"><sup><small>12</small></sup>  Borne in your triple car, O Aśvins, bring us present prosperity with noble offspring.
 I cry to you who hear me for protection be ye our helpers where men win the booty.
 
+<span id="h35"></span>
+
 ## HYMN XXXV. Savitar.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI I first invoke for our prosperity; I call on Mitra, Varuṇa, to aid us here.
@@ -188,6 +198,8 @@ Drives away sickness, bids the Sun approach us, and spreads the bright sky throu
 Driving off Rākṣasas and Yātudhānas, the God is present, praised in hymns at evening.
 <p id="v11"><sup><small>11</small></sup>  O Savitar, thine ancient dustless pathways are well established in the air's mid-region:
 O God, come by those paths so fair to travel, preserve thou us from harm this day, and bless us.
+
+<span id="h36"></span>
 
 ## HYMN XXXVI. Agni.
 
@@ -232,6 +244,8 @@ Sprung from the Law, oil-fed, for Kaṇva hast thou blazed, thou whom the people
 <p id="v20"><sup><small>20</small></sup>  The flames of Agni full of splendour and of might are fearful, not to be approached.
 Consume for ever all demons and sorcerers, consume thou each devouring fiend.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  SING forth, O Kaṇvas, to your band of Maruts unassailable,
@@ -264,6 +278,8 @@ Doth any hear them as they speak?
 May you rejoice among them well.
 <p id="v15"><sup><small>15</small></sup>  All is prepared for your delight. We are their servants evermore,
 To live as long as life may last.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Maruts.
 
@@ -298,6 +314,8 @@ Sing forth the measured eulogy.
 <p id="v15"><sup><small>15</small></sup>  Sing glory to the Marut host, praiseworthy, tuneful, vigorous:
 Here let the Strong Ones dwell with us.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  WHEN thus, like flame, from far away, Maruts, ye cast your measure forth,
@@ -320,6 +338,8 @@ Tear ye him from us with your power and with your might, and with the succours t
 O Maruts, come to us with full protecting help, as lightning flashes seek the rain.
 <p id="v10"><sup><small>10</small></sup>  Whole strength have ye, O Bounteous Ones; perfect, earth-shakers, is your might.
 Maruts, against the poet's wrathful enemy send ye an enemy like a dart.
+
+<span id="h40"></span>
 
 ## HYMN XL. Brahmaṇaspati
 

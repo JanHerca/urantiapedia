@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  OFFER ye up as praise to him that wherein Indra takes delight.
@@ -58,6 +60,8 @@ In thy care, Maghavan rich in kine! they have increased exceedingly.
 Even malignity will consent, O Bolt-armed Hero, unto us.
 <p id="v12"><sup><small>12</small></sup>  Let us extol this Indra as truthful and never as untrue.
 Dire is his death who pours no gifts great light hath he who offers them. Good are the gifts that Indra gives.
+
+<span id="h52"></span>
 
 ## HYMN LII. Indra.
 
@@ -87,6 +91,8 @@ Allied with thee may we prevail.
 
 The strong assigned to him who sings and praises. May Gods with Indra at their head protect us.
 
+<span id="h53"></span>
+
 ## HYMN LIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MAY our hymns give thee great delight. Display thy bounty, Thunderer.
@@ -114,6 +120,8 @@ In Ārjīkīya, cheers thee best.
 <p id="v12"><sup><small>12</small></sup>  Hasten thou hitherward, and drink this for munificence to-day,
 Delightful for thine eager draught.
 
+<span id="h54"></span>
+
 ## HYMN LIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THOUGH, Indra, thou art called by men from east and west, from north and south,
@@ -140,6 +148,8 @@ Kine decked with golden ornaments.
 Pure, brilliant, and exceeding great.
 <p id="v12"><sup><small>12</small></sup>  Durgaha's grandsons, giving me a thousand kine, munificent,
 Have won renown among the Gods.
+
+<span id="h55"></span>
 
 ## HYMN LV. Indra.
 
@@ -173,6 +183,8 @@ For there is none but only thou to show us race, O Maghavan, thou much invoked.
 Succour us with thine help and with thy wondrous thought. Most Mighty, finder of the way.
 <p id="v15"><sup><small>15</small></sup>  Now let your Soma juice be poured; be not afraid, O Kali's sons.
 This darkening sorrow goes away; yea, of itself it vanishes.
+
+<span id="h56"></span>
 
 ## HYMN LVI. Ādityas.
 
@@ -219,6 +231,8 @@ Destroy us ere old age be nigh.
 <p id="v21"><sup><small>21</small></sup>  On every side dispel all sin, Ādityas, all hostility,
 Indigence, and combined attack.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  EVEN as a car to give us aid, we draw thee hither for our bliss,
@@ -260,6 +274,8 @@ Obedient to the rein and whip.
 <p id="v19"><sup><small>19</small></sup>  O bound to me by deeds of might, not even the man who loves to blame.
 Hath found a single fault in you.
 
+<span id="h58"></span>
+
 ## HYMN LVIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  I SEND you forth the song of praise for Indu, hero-gladdener.
@@ -299,6 +315,8 @@ That they may bring him near for this man's good success, to prosper and bestow 
 <p id="v18"><sup><small>18</small></sup>  The Priyamedhas have observed the offering of the men of old,
 Of ancient custom, while they strewed the sacred grass, and spread their sacrificial food.
 
+<span id="h59"></span>
+
 ## HYMN LIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HE who, as Sovran Lord of men, moves with his chariots unrestrained,
@@ -331,6 +349,8 @@ The liberal princely patron, never to be harmed?
 That thou, O Sara, hast bestowed here one and here another calf.
 <p id="v15"><sup><small>15</small></sup>  The noble, Suradeva's son, hath brought a calf, led by the car to three of us.
 As a chief brings a goat to milk.
+
+<span id="h60"></span>
 
 ## HYMN LX. Agni.
 

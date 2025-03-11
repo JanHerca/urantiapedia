@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  To Indra flow these running drops, these Somas frolicsome in mood.
@@ -48,6 +50,8 @@ On him who yet hath given us naught.
 Flow pure and shining with the stream.
 <p id="v7"><sup><small>7</small></sup>  These drops have cried with resonant voice: like swift steeds they have run the course,
 And roused the good man's hymn to life.
+
+<span id="h22"></span>
 
 ## HYMN XXII. Soma Pavamana.
 
@@ -66,6 +70,8 @@ And this which must be deemed most high.
 <p id="v7"><sup><small>7</small></sup>  Thou, Soma, boldest wealth in kine which thou hast seized from niggard churls:
 Thou calledst forth the outspun thread.
 
+<span id="h23"></span>
+
 ## HYMN XXIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  SWIFT Soma drops have been effused in streams of meath, the gladdening drink,
@@ -83,7 +89,9 @@ Brave Hero who repels the curse.
 <p id="v7"><sup><small>7</small></sup>  When he had drunken draughts of this, Indra smote down resistless foes:
 Yea, smote them, and shall smite them still.
 
-## HYMN XXIVṢoma Pavamana.
+<span id="h24"></span>
+
+## HYMN XXIV. Ṣoma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  HITHERWARD have the Soma streamed,
 the drops while they are purified:
@@ -101,6 +109,8 @@ Pure, purifying, wonderful.
 <p id="v7"><sup><small>7</small></sup>  Pure, purifying is he called the Soma of the meath eflused,
 Slayer of sinners, dear to Gods.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  GREEN-HUED! as one who giveth strength flow on for Gods to drink, a draught
@@ -115,6 +125,8 @@ Thither where- the Immortals sit.
 The visitor of living men.
 <p id="v6"><sup><small>6</small></sup>  Flow, best exhilarator, Sage, flow to the filter in a stream
 To seat thee in the place of song.
+
+<span id="h26"></span>
 
 ## HYMN XXVI. Soma Pavamana.
 
@@ -131,6 +143,8 @@ Send down to ridges of the sieve.
 <p id="v6"><sup><small>6</small></sup>  O Pavamana, Indu, priests hurry thee on to Indra, thee
 Who aidest song and cheerest him.
 
+<span id="h27"></span>
+
 ## HYMN XXVII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THIS Sage, exalted by our lauds, flows to the purifying cloth,
@@ -146,6 +160,8 @@ Mounts up with Sūrya to the sky.
 <p id="v6"><sup><small>6</small></sup>  To Indra in the firmament this mighty tawny Steer hath flowed,
 This Indu, being purified.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  URGED by the men, this vigorous Steed, Lord of the mind, Omniscient,
@@ -159,7 +175,9 @@ Runs onward to the wooden vats.
 <p id="v5"><sup><small>5</small></sup>  This Pavamana, swiftand strong, Omniscient, gave spleudour to
 The Sun and all his forms of light.
 <p id="v6"><sup><small>6</small></sup>  This Soma being purified, flows mighty and infallible,
-Slayer of sinners, dear toGods.
+Slayer of sinners, dear to Gods.
+
+<span id="h29"></span>
 
 ## HYMN XXIX. Soma Pavamana.
 
@@ -175,6 +193,8 @@ Drive to one place our enemies.
 That so we may be freed from blame.
 <p id="v6"><sup><small>6</small></sup>  O Indu, as thou flowest on bring us the wealth of earth and heaven,
 And splendid vigour, in thy stream.
+
+<span id="h30"></span>
 
 ## HYMN XXX. Soma Pavamana.
 

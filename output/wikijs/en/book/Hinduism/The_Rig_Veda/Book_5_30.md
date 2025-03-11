@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WE stablish thee as Manus used, as Manus used we kindle thee.
@@ -42,6 +44,8 @@ Straight go the ladles unto thee, thou highborn God whose food is oil.
 Serving at sacrifices men adore thee as a God, O Sage.
 <p id="v4"><sup><small>4</small></sup>  Let mortal man adore your God, Agni, with worship due to Gods.
 Shine forth enkindled, Radiant One. Sit in the chamber of the Law, sit in the chamber of the food.
+
+<span id="h22"></span>
 
 ## HYMN XXII. Agni.
 
@@ -54,6 +58,8 @@ Of thine excelling favour we bethink us as we long for it.
 <p id="v4"><sup><small>4</small></sup>  Mark with attention this our speech, O Agni, thou victorious One.
 Thee, Strong-jawed! as the homestead's Lord, the Atris with their lauds exalt, the Atris beautify with songs.
 
+<span id="h23"></span>
+
 ## HYMN XXIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  By thy fair splendour's mighty power, O Agni, bring victorious wealth,
@@ -65,12 +71,16 @@ Invite thee to their worship-halls, as a dear Priest, for choicest wealth.
 <p id="v4"><sup><small>4</small></sup>  For he, the God of all men, hath gotten him might that quelleth foes.
 O Agni, in these homes shine forth, bright God! for our prosperity, shine, Purifier! splendidly.
 
+<span id="h24"></span>
+
 ## HYMN XXIV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  O AGNI, be our nearest Friend, be thou a kind deliverer and a gracious Friend.
 <p id="v2"><sup><small>2</small></sup>  Excellent Agni, come thou nigh to us, and give us wealth most splendidly renowned.
 <p id="v3"><sup><small>3</small></sup>  So hear us, listen to this call of ours, and keep us far from every sinful man.
 <p id="v4"><sup><small>4</small></sup>  To thee then, O Most Bright, O Radiant God, we come with prayer for happiness for our friends.
+
+<span id="h25"></span>
 
 ## HYMN XXV. Agni.
 
@@ -93,6 +103,8 @@ Yea, of itself thy thunder goes forth like the roaring of the heaven.
 <p id="v9"><sup><small>9</small></sup>  Thus, seeking riches, have we paid homage to Agni Conqueror.
 May he, most wise, as with a ship, carry us over all our foes.
 
+<span id="h26"></span>
+
 ## HYMN XXVI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  O AGNI, Holy and Divine, with splendour and thy pleasant tongue
@@ -114,6 +126,8 @@ Strew holy grass to be their seat.
 <p id="v9"><sup><small>9</small></sup>  So may the Maruts sit thereon, the Aśvins, Mitra, Varuṇa:
 The Gods with all their company.
 
+<span id="h27"></span>
+
 ## HYMN XXVII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE Godlike hero, famousest of nobles, hath granted me two oxen with a wagon.
@@ -129,6 +143,8 @@ The gifts of Asvamedha, like thrice-mingled draughts of Soma juice.
 <p id="v6"><sup><small>6</small></sup>  To Asvamedha who bestows a hundred gifts grant hero power,
 O Indra-Agni! lofty rule like the unwasting Sun in heaven.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI inflamed hath sent to heaven his lustre: he shines forth widely turning unto Morning.
@@ -143,6 +159,8 @@ A Steer of brilliant splendour, thou art lighted well at sacred rites.
 For thou art bearer of our gifts.
 <p id="v6"><sup><small>6</small></sup>  Invoke and worship Agni while the sacrificial rite proceeds:
 For offering-bearer choose ye him.
+
+<span id="h29"></span>
 
 ## HYMN XXIX. Agni.
 
@@ -176,6 +194,8 @@ And the fresh deeds which thou wilt do, Most Mighty! these, too, will we tell fo
 What thou wilt do in bravery, Thunder-wielder! none is there who may hinder this thy prowess.
 <p id="v15"><sup><small>15</small></sup>  Indra, accept the prayers which now are offered, accept the new prayers, Mightiest! which we utter.
 Like fair and well-made robes, I, seeking riches, as a deft craftsman makes a car, have wrought them.
+
+<span id="h30"></span>
 
 ## HYMN XXX. Indra.
 

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Varuṇa, Mitra, Aryaman.
 
 <p id="v1"><sup><small>1</small></sup>  NE’ER is he injured whom the Gods Varuṇa, Mitra, Aryaman,
@@ -52,6 +54,8 @@ Glorious food of Varuṇa?
 Only with hymns I call you nigh.
 <p id="v9"><sup><small>9</small></sup>  Let him not love to speak ill words: but fear the One who holds all four
 Within his hand, until they fall.
+
+<span id="h42"></span>
 
 ## HYMN XLII. Pūṣan.
 
@@ -76,6 +80,8 @@ O Pūṣan, find thou power for this.
 <p id="v10"><sup><small>10</small></sup>  No blame have we for Pūṣan; him we magnify with songs of praise:
 We seek the Mighty One for wealth.
 
+<span id="h43"></span>
+
 ## HYMN XLIII. Rudra.
 
 <p id="v1"><sup><small>1</small></sup>  WHAT shall we sing to Rudra, strong, most bounteous, excellently wise,
@@ -96,6 +102,8 @@ The great renown of mighty chiefs.
 Indu, give us a share of strength.
 <p id="v9"><sup><small>9</small></sup>  Soma! head, central point, love these; Soma! know these as serving thee,
 Children of thee Immortal, at the highest place of holy law.
+
+<span id="h44"></span>
 
 ## HYMN XLIV. Agni.
 
@@ -128,6 +136,8 @@ Let Mitra, Aryaman, seeking betimes our rite, seat them upon the sacred grass.
 <p id="v14"><sup><small>14</small></sup>  Let those who strengthen Law, who bountifully give, the life-tongued Maruts, hear our praise.
 May Law-supporting Varuṇa with the Aśvins twain and Uṣas, drink the Soma juice.
 
+<span id="h45"></span>
+
 ## HYMN XLV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WORSHIP the Vasus, Agni! here, the Rudras, the Ādityas, all
@@ -150,6 +160,8 @@ Great light to mortal worshipper, what time they bring the sacred gift.
 Who come at early morn, the host of heaven, to drink the Soma juice
 <p id="v10"><sup><small>10</small></sup>  Bring with joint invocations thou, O Agni, the celestial host:
 Here stands the Soma, bounteous Gods drink this expressed ere yesterday.
+
+<span id="h46"></span>
 
 ## HYMN XLVI. Aśvins.
 
@@ -184,6 +196,8 @@ Approve with beams our solemn rites.
 <p id="v15"><sup><small>15</small></sup>  Drink ye of our libations, grant protection, O ye Aśvins Twain,
 With aids which none may interrupt.
 
+<span id="h47"></span>
+
 ## HYMN XLVII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  AŚVINS, for you who strengthen Law this sweetest Soma hath been shed.
@@ -206,6 +220,8 @@ Bestowing food on him who acts and gives aright, sit, Chiefs, upon the sacred gr
 Whereon ye ever bring wealth to the worshipper, to drink the Soma's pleasant juice.
 <p id="v10"><sup><small>10</small></sup>  With lauds and songs of praise we call them down to us, that they, most rich, may succour us;
 For ye have ever in the Kaṇvas' well-loved house, O Aśvins, drunk the Soma juice.
+
+<span id="h48"></span>
 
 ## HYMN XLVIII. Dawn.
 
@@ -242,6 +258,8 @@ So grant thou us a dwelling wide and free from foes. O Goddess, give us food wit
 <p id="v16"><sup><small>16</small></sup>  Bring us to wealth abundant, sent in every shape, to plentiful refreshing food,
 To all-subduing splendour, Uṣas, Mighty One, to strength, thou rich in spoil and wealth.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  E'EN from above the sky's bright realm come, Uṣas, by auspicious ways:
@@ -252,6 +270,8 @@ Therewith, O Daughter of the Sky, aid men of noble fame today.
 And round about flock winged birds from all the boundaries of heaven.
 <p id="v4"><sup><small>4</small></sup>  Thou dawning with thy beams of light illumest all the radiant realm.
 Thee, as thou art, the Kaṇvas, fain for wealth, have called with sacred songs.
+
+<span id="h50"></span>
 
 ## HYMN L. Sūrya.
 

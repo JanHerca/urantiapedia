@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h81"></span>
+
 ## HYMN LXXXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THE men have lifted Indra up, the Vṛtra slayer, to joy and strength:
@@ -53,6 +55,8 @@ We know thee Lord of ample store, to thee have sent our hearts' desires: be ther
 <p id="v9"><sup><small>9</small></sup>  These people, Indra, keep for thee all that is worthy of thy choice.
 Discover thou, as Lord, the wealth of men who offer up no gifts: bring thou to us this wealth of theirs.
 
+<span id="h82"></span>
+
 ## HYMN LXXXII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GRACIOUSLY listen to our songs, Maghavan, be not negligent.
@@ -68,6 +72,8 @@ Therewith in rapture of the juice, draw near to thy beloved Spouse. Now, Indra, 
 <p id="v6"><sup><small>6</small></sup>  With holy prayer I yoke thy long-maned pair of Bays: come hitherward; thou holdest them in both thy hands.
 The stirring draughts of juice outpoured have made thee glad: thou, Thunderer, hast rejoiced with Pūṣan and thy Spouse.
 
+<span id="h83"></span>
+
 ## HYMN LXXXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA, the mortal man well guarded by thine aid goes foremost in the wealth of horses and of kine.
@@ -82,6 +88,8 @@ The men together found the Paṇi's hoarded wealth, the cattle, and the wealth i
 Uśanā Kāvya straightway hither drove the kine. Let us with offerings honour Yama's deathless birth.
 <p id="v6"><sup><small>6</small></sup>  When sacred grass is trimmed to aid the auspicious work, or the hymn makes its voice of praise sound to the sky.
 Where the stone rings as ’twere a singer skilled in laud,—Indra in truth delights when these come near to him.
+
+<span id="h84"></span>
 
 ## HYMN LXXXIV. Indra.
 
@@ -128,6 +136,8 @@ O Maghavan, there is no comforter but thou: Indra, I speak my words to thee.
 <p id="v20"><sup><small>20</small></sup>  Let not thy bounteous gifts, let not thy saving help fail us, good Lord, at any time;
 And measure out to us, thou lover of mankind, all riches hitherward from men.
 
+<span id="h85"></span>
+
 ## HYMN LXXXV. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  THEY who are glancing forth, like women, on their way, doers of mighty deeds, swift racers, Rudra's Sons,
@@ -155,6 +165,8 @@ Shining with varied light they come to him with help: they with their might fulf
 <p id="v12"><sup><small>12</small></sup>  The shelters which ye have for him who lauds you, bestow them threefold on the man who offers.
 Extend the same boons unto us, ye Maruts. Give us, O Heroes, wealth with noble offspring.
 
+<span id="h86"></span>
+
 ## HYMN LXXXVI. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  THE best of guardians hath that man within whose dwelling place ye drink,
@@ -178,6 +190,8 @@ The demon with your thunderbolt.
 <p id="v10"><sup><small>10</small></sup>  Conceal the horrid darkness, drive far from us each devouring fiend.
 Create the light for which we long.
 
+<span id="h87"></span>
+
 ## HYMN LXXXVII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  LOUD Singers, never humbled, active, full of strength, immovable, impetuous, manliest, best-beloved,
@@ -193,6 +207,8 @@ When, shouting, they had joined Indra in toil of fight, then only they obtained 
 <p id="v6"><sup><small>6</small></sup>  Splendours they gained for glory, they who wear bright rings; rays they obtained, and men to celebrate their praise.
 Armed with their swords, impetuous and fearing naught, they have possessed the Maruts’ own beloved home.
 
+<span id="h88"></span>
+
 ## HYMN LXXXVIII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  COME hither, Maruts, on your lightning laden cars, sounding with sweet songs, armed with lances, winged with steeds.
@@ -207,6 +223,8 @@ The Gotamas making their prayer with singing have pushed the well's lid up to dr
 What time upon your golden wheels he saw you, wild boars rushing about with tusks of iron.
 <p id="v6"><sup><small>6</small></sup>  To you this freshening draught of Soma rusheth, O Maruts, like the voice of one who prayeth.
 It rusheth freely from our hands as these libations wont to flow.
+
+<span id="h89"></span>
 
 ## HYMN LXXXIX. Viśvedevas.
 
@@ -230,6 +248,8 @@ With limbs and bodies firm may we extolling you attain the term of life appointe
 Within whose space our sons become fathers in turn. Break ye not in the midst our course of fleeting life.
 <p id="v10"><sup><small>10</small></sup>  Aditi is the heaven, Aditi is mid-air, Aditi is the Mother and the Sire and Son.
 Aditi is all Gods, Aditi five-classed men, Aditi all that hath been born and shall be born.
+
+<span id="h90"></span>
 
 ## HYMN XC. Viśvedevas.
 

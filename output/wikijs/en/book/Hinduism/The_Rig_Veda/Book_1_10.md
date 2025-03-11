@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  I Laud Agni, the chosen Priest, God, minister of sacrifice,
@@ -53,6 +55,8 @@ Increasing in thine own abode.
 <p id="v9"><sup><small>9</small></sup>  Be to us easy of approach, even as a father to his son:
 Agni, be with us for our weal.
 
+<span id="h2"></span>
+
 ## HYMN II. Vāyu.
 
 <p id="v1"><sup><small>1</small></sup>  BEAUTIFUL Vāyu, come, for thee these Soma drops have been prepared:
@@ -73,6 +77,8 @@ Who make the oil-fed rite complete.
 Have ye obtained your might power
 <p id="v9"><sup><small>9</small></sup>  Our Sages, Mitra-Varuṇa, wide dominion, strong by birth,
 Vouchsafe us strength that worketh well.
+
+<span id="h3"></span>
 
 ## HYMN III. Aśvins
 
@@ -101,6 +107,8 @@ Sarasvatī accept our rite
 <p id="v12"><sup><small>12</small></sup>  Sarasvatī, the mighty flood,—she with her light illuminates,
 She brightens every pious thought.
 
+<span id="h4"></span>
+
 ## HYMN IV. Indra
 
 <p id="v1"><sup><small>1</small></sup>  As a good cow to him who milks, we call the doer of fair deeds,
@@ -123,6 +131,8 @@ Helpest the warrior in the fray.
 That, Indra, we may win us wealth.
 <p id="v10"><sup><small>10</small></sup>  To him the mighty stream of wealth, prompt friend of him who pours the juice,
 Yea, to this Indra sing your song.
+
+<span id="h5"></span>
 
 ## HYMN V. Indra.
 
@@ -147,6 +157,8 @@ Wherein all manly powers abide.
 <p id="v10"><sup><small>10</small></sup>  O Indra, thou who lovest song, let no man hurt our bodies, keep
 Slaughter far from us, for thou canst.
 
+<span id="h6"></span>
+
 ## HYMN VI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  They who stand round him as he moves harness the bright, the ruddy Steed
@@ -169,6 +181,8 @@ The sacrificer cries aloud.
 Our songs of praise all yearn for this.
 <p id="v10"><sup><small>10</small></sup>  Indra we seek to give us help, from here, from heaven above the earth,
 Or from the spacious firmament.
+
+<span id="h7"></span>
 
 ## HYMN VII. Indra.
 
@@ -193,6 +207,8 @@ Of those who dwell upon the earth.
 <p id="v10"><sup><small>10</small></sup>  For your sake from each side we call Indra away from other men:
 Ours, and none others’, may he be.
 
+<span id="h8"></span>
+
 ## HYMN VIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA, bring wealth that gives delight, the victor's ever-conquering wealth,
@@ -216,6 +232,8 @@ Unto a worshipper like me.
 <p id="v10"><sup><small>10</small></sup>  So are his lovely gifts; let lauds and praises be to Indra sung,
 That he may drink the Soma juice.
 
+<span id="h9"></span>
+
 ## HYMN IX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  COME, Indra, and delight thee with the juice at all the Soma feasts,
@@ -238,6 +256,8 @@ Fair fruits of earth borne home in wains.
 Indra, the Treasure-Lord of wealth.
 <p id="v10"><sup><small>10</small></sup>  To lofty Indra, dweller by each libation, the pious man
 Sings forth aloud a strengthening hymn.
+
+<span id="h10"></span>
 
 ## HYMN X. Indra.
 

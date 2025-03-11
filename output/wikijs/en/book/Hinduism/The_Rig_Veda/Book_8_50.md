@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  To make this Varuṇa come forth sing thou a song unto the band of Maruts wiser than thyself,—
@@ -56,6 +58,8 @@ Firm is the seat of Varuṇa: over the Seven he rules as King.
 <p id="v10"><sup><small>10</small></sup>  Who, after his decree, o’erspread the Dark Ones with a robe of light;
 Who measured out the ancient seat, who pillared both the worlds apart as the Unborn supported heaven. Let all the others die away.
 
+<span id="h42"></span>
+
 ## HYMN XLII Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  LORD of all wealth, the Asura propped the heavens, and measured out the broad earth's wide expanses.
@@ -70,6 +74,8 @@ Nāsatyas, to the Soma-draught. Let all the others die away.
 Nāsatyas, to the Soma-draught. Let all the others die away.
 <p id="v6"><sup><small>6</small></sup>  So have I called you to our aid, even as the wise have called of old,
 Nāsatyas, to the Soma-draught. Let all the others die away.
+
+<span id="h43"></span>
 
 ## HYMN XLIII. Agni.
 
@@ -140,6 +146,8 @@ Boldly demolishest the gloom,
 <p id="v33"><sup><small>33</small></sup>  We pray to thee for this thy gift, Victor the gift that faileth not,
 O Agni, choicest wealth from thee.
 
+<span id="h44"></span>
+
 ## HYMN XLIV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  PAY service unto Agni with your fuel, rouse your Guest with oil:
@@ -202,6 +210,8 @@ Be gracious, Holy One, to him.
 Agni, thou shinest in the sky.
 <p id="v30"><sup><small>30</small></sup>  O Agni, Sage, before our foes, before misfortunes fall on us,
 Excellent Lord, prolong our lives.
+
+<span id="h45"></span>
 
 ## HYMN XLV. Indra
 
@@ -291,6 +301,8 @@ Bring us the wealth for which we long
 <p id="v42"><sup><small>42</small></sup>  Great riches which the world of men shall recognize as sent by thee:
 Bring us the wealth for which we long.
 
+<span id="h46"></span>
+
 ## HYMN XLVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WE, Indra, Lord of ample wealth, our Guide, depend on one like thee,
@@ -359,6 +371,8 @@ These are thy people, Vāyu, who rejoice with Indra for their guard, rejoice wit
 <p id="v33"><sup><small>33</small></sup>  And now to Vaśa Aśvya here this stately woman is led forth,
 Adorned with ornaments of gold.
 
+<span id="h47"></span>
+
 ## HYMN XLVII. Ādityas.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT help ye give the worshipper, Varuṇa, Mitra, Mighty Ones! No sorrow ever reaches him whom ye, Ādityas, keep from harm. Yours are incomparable aids, and good the succour they afford.
@@ -397,6 +411,8 @@ So unto Āptya we transfer together all the evil dream.
 <p id="v18"><sup><small>18</small></sup>  Now have we conquered and obtained, and from our trespasses are free.
 Shine thou away the evil dream, O Dawn, whereof we are afraid. Yours are incomparable aids, and good the succour they afford.
 
+<span id="h48"></span>
+
 ## HYMN XLVIII. Soma.
 
 <p id="v1"><sup><small>1</small></sup>  WISELY have I enjoyed the savoury viand, religious-thoughted, best to find out treasure,
@@ -429,6 +445,8 @@ So with oblation let us serve thee, Indu, and so let us become the lords of rich
 But evermore may we, as friends of Soma, speak to the synod with brave sons around us.
 <p id="v15"><sup><small>15</small></sup>  On all sides,. Soma, thou art our life-giver: aim of all eyes, light-finder, come within us.
 Indu, of one accord with thy protections both from behind and from before preserve us.
+
+<span id="h49"></span>
 
 ## HYMN XLIX. Agni.
 
@@ -473,6 +491,8 @@ Speedily bring us strength of many varied sorts to be most near to succour us.
 Mighty art thou, the ever-present Household-Lord, Home-friend and Guardian from the sky.
 <p id="v20"><sup><small>20</small></sup>  Let no fiend come among us, O thou rich in light, no spell of those who deal in spells.
 To distant pastures drive faint hunger: far away, O Agni, chase the demons’ friends.
+
+<span id="h50"></span>
 
 ## HYMN L. Indra.
 

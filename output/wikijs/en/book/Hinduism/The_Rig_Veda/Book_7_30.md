@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  PRESSED is the juice divine with milk commingled: thereto hath Indra ever been accustomed.
@@ -55,6 +57,8 @@ May, through thy grace, the strength of us who battle quell in the shock the ons
 <p id="v10"><sup><small>10</small></sup>  Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us.
 Let thy great power bring good to him who lauds thee. Ye Gods, preserve us evermore with blessings.
 
+<span id="h22"></span>
+
 ## HYMN XXII Indra.
 
 <p id="v1"><sup><small>1</small></sup>  DRINK Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well guided courser,
@@ -76,6 +80,8 @@ Nor, Indra, thine heroic power and bounty.
 <p id="v9"><sup><small>9</small></sup>  Among all Ṛṣis, Indra, old and recent, who have engendered hymns as sacred singers,
 Even with us be thine auspicious friendships. Ye Gods, preserve us evermore with blessings.
 
+<span id="h23"></span>
+
 ## HYMN XXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  PRAYERS have been offered up through love of glory: Vasiṣṭha, honour Indra in the battle.
@@ -90,6 +96,8 @@ Come unto us as with his team comes Vāyu: thou, through our solemn hymns bestow
 Alone among the Gods thou pitiest mortals: O Hero, make thee glad at this libation.
 <p id="v6"><sup><small>6</small></sup>  Thus the Vasisthas glorify with praises Indra, the Powerful whose arm wields thunder.
 Praised, may he guard our wealth in kine and heroes. Ye Gods, preserve us evermore with blessings.
+
+<span id="h24"></span>
 
 ## HYMN XXIV. Indra.
 
@@ -106,6 +114,8 @@ This hymn solicits wealth of thee: in heaven, as ’twere above the sky, set tho
 <p id="v6"><sup><small>6</small></sup>  With precious things. O Indra, thus content us: may we attain to thine exalted favour.
 Send our chiefs plenteous food with hero children. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Indra.
 
 WHEN with thy mighty help, O potent Indra, the armies rush together in their fury.
@@ -121,6 +131,8 @@ Make our foes ever easy to be vanquished: may we, victorious, win the spoil, O H
 <p id="v6"><sup><small>6</small></sup>  With precious things, O Indra, thus content us: may we attain to thine exalted favour.
 Send our chiefs plenteous food with hero children. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h26"></span>
+
 ## HYMN XXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  SOMA unpressed ne’er gladdened liberal Indra, no juices pressed without a prayer have pleased him.
@@ -133,6 +145,8 @@ Indra hath taken and possessed all castles, like as one common husband doth his 
 Whose many succours come in close succession. May dear delightful benefits attend us.
 <p id="v5"><sup><small>5</small></sup>  Thus, to bring help to men, Vasiṣṭha laudeth Indra, the peoples' Hero, at libation.
 Bestow upon us strength and wealth in thousands. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h27"></span>
 
 ## HYMN XXVII. Indra.
 
@@ -147,6 +161,8 @@ Whose perfect guerdon, never failing, bringeth wealth to the men, to friends the
 <p id="v5"><sup><small>5</small></sup>  Quick, Indra, give us room and way to riches, and let us bring thy mind to grant us treasures,
 That we may win us cars and Steeds and cattle. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  COME to our prayers, O Indra, thou who knowest: let thy Bay Steeds be yoked and guided hither.
@@ -160,6 +176,8 @@ Our sin that sinless Varuṇa discovered, the Wondrous-Wise hath long ago forgiv
 <p id="v5"><sup><small>5</small></sup>  We will address this liberal Lord, this Indra, that he may grant us gifts of ample riches,
 Best favourer of the singer's prayer and praises. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h29"></span>
+
 ## HYMN XXIX Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THIS Soma hath been pressed for thee, O Indra: come hither, Lord of Bays, for this thou lovest.
@@ -172,6 +190,8 @@ Hymns, only hymns, with love for thee, I weave thee: then hear, O Indra, these m
 Hence I, O Indra Maghavan, invoke thee: thou art our Providence, even as a Father.
 <p id="v5"><sup><small>5</small></sup>  We will address this liberal Lord, this Indra, that he may grant us gifts of ample riches,
 Best favourer of the singer's prayer and praises. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h30"></span>
 
 ## HYMN XXX. Indra.
 

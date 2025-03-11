@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  ALL sacred songs have magnified Indra expansive as the sea,
@@ -50,6 +52,8 @@ Song-lover, here the singers stand and testify to thee thereof.
 The wise beheld this deed of thine: now go beyond their eulogies.
 <p id="v8"><sup><small>8</small></sup>  Our songs of praise have glorified Indra who ruleth by his might,
 Whose precious gifts in thousands come, yea, even more abundantly.
+
+<span id="h12"></span>
 
 ## HYMN XII. Agni.
 
@@ -78,6 +82,8 @@ And food, with heroes for our sons.
 <p id="v12"><sup><small>12</small></sup>  O Agni, by effulgent flame, by all invokings of the Gods,
 Show pleasure in this laud of ours.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Agni
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, well-kindled, bring the Gods for him who offers holy gifts.
@@ -104,6 +110,8 @@ May he be ours and ours alone.
 And let the giver be renowned.
 <p id="v12"><sup><small>12</small></sup>  With Svāhā pay the sacrifice to Indra in the offerer's house:
 Thither I call the Deities.
+
+<span id="h14"></span>
 
 ## HYMN XIV. Viśvedevas.
 
@@ -132,6 +140,8 @@ Hallow thou this our sacrifice.
 <p id="v12"><sup><small>12</small></sup>  Harness the Red Mares to thy car, the Bays, O God, the flaming ones:
 With those bring hitherward the Gods.
 
+<span id="h15"></span>
+
 ## HYMN XV. Ṛtu.
 
 <p id="v1"><sup><small>1</small></sup>  O INDRA drink the Soma juice with Ṛtu; let the cheering drops
@@ -159,6 +169,8 @@ A Giver bountiful to us.
 <p id="v12"><sup><small>12</small></sup>  With Ṛtu, through the house-fire, thou, kind Giver, guidest sacrifice:
 Worship the Gods for the pious man.
 
+<span id="h16"></span>
+
 ## HYMN XVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  LET thy Bay Steeds bring thee, the Strong, hither to drink the Soma draught—
@@ -179,6 +191,8 @@ Then drink the Soma juice expressed.
 To drink the Soma for delight.
 <p id="v9"><sup><small>9</small></sup>  Fulfil, O Śatakratu, all our wish with horses and with kine:
 With holy thoughts we sing thy praise.
+
+<span id="h17"></span>
 
 ## HYMN XVII. Indra-Varuṇa
 
@@ -201,6 +215,8 @@ Give us at once your sheltering help.
 <p id="v9"><sup><small>9</small></sup>  O Indra-Varuṇa, to you may fair praise which I offer come,
 Joint eulogy which ye dignify.
 
+<span id="h18"></span>
+
 ## HYMN XVIII. Brahmaṇaspati.
 
 <p id="v1"><sup><small>1</small></sup>  O BRĀHMAṆASPATI, make him who presses Soma glorious,
@@ -222,6 +238,8 @@ Our voice of praise goes to the Gods.
 <p id="v9"><sup><small>9</small></sup>  I have seen Narāśaṁsa, him most resolute, most widely famed,
 As ’twere the Household Priest of heaven.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Agni, Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  To this fair sacrifice to drink the milky draught thou art invoked:
@@ -242,6 +260,8 @@ O Agni, with those Maruts come.
 O Agni, with those Maruts come.
 <p id="v9"><sup><small>9</small></sup>  For thee, to be thine early draught, I pour the Soma-mingled meath:
 O Agni, with the Maruts come.
+
+<span id="h20"></span>
 
 ## HYMN XX. Ṛbhus.
 

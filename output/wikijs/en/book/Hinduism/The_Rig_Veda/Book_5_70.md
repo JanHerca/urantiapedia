@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  O HEROES lordliest of all, who are ye that have singly come
@@ -73,6 +75,8 @@ The wish I had departeth not.
 <p id="v19"><sup><small>19</small></sup>  This wealthy Rathaviti dwells among the people rich in kine,
 Among the mountains, far withdrawn.
 
+<span id="h62"></span>
+
 ## HYMN LXII. Mitra-Varuṇa
 
 <p id="v1"><sup><small>1</small></sup>  BY your high Law firm order is established there where they loose for travel Sūrya's horses.
@@ -94,6 +98,8 @@ And from that place, O Varuṇa and Mitra, behold infinity and limit~tion.
 <p id="v9"><sup><small>9</small></sup>  Bountiful guardians of the world! the shelter that is impenetrable, strongest, flawless,
 Aid us with that, O Varuṇa and Mitra, and when we long to win may we be victors.
 
+<span id="h63"></span>
+
 ## HYMN LXIII. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  GUARDIANS of Order, ye whose Laws are ever true, in the sublimest heaven your chariot ye ascend.
@@ -111,7 +117,9 @@ With magic power the Maruts clothe them with the clouds. Ye Two cause Heaven to 
 <p id="v7"><sup><small>7</small></sup>  Wise, with your Law and through the Asura's magic power ye guard the ordinances, Mitra-Varuṇa.
 Ye by eternal Order govern all the world. Ye set the Sun in heaven as a refulgent car.
 
-## HYMN LX1V. Mitra-Varuṇa
+<span id="h64"></span>
+
+## HYMN LXIV. Mitra-Varuṇa
 
 <p id="v1"><sup><small>1</small></sup>  You, foeman-slaying Varuṇa and Mitra, we invoke with song,
 Who, as with penfold of your arms, encompass round the realm of light.
@@ -128,6 +136,8 @@ Vouchsafe us room that we may win strength for prosperity and wealth.
 <p id="v7"><sup><small>7</small></sup>  When morning flushes, Holy Ones! in the Gods’ realm where white Cows shine,
 Supporting Arcananas, speed, ye Heroes, with your active feet hither to my pressed Soma juice.
 
+<span id="h65"></span>
+
 ## HYMN LXV Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  FULL wise is he who hath discerned: let him speak to us of the Gods,—
@@ -142,6 +152,8 @@ For he who worships hath the grace of Mitra, fighter in the van. ’
 Unmenaced, guarded by the care, ever as sons of Varuṇa.
 <p id="v6"><sup><small>6</small></sup>  Ye, Mitra, urge this people on, and to one end direct their ways.
 Neglect not ye the wealthy chiefs, neglect not us the Ṛṣis: be our guardians when ye quaff the milk.
+
+<span id="h66"></span>
 
 ## HYMN LXVI. Mitra-Varuṇa.
 
@@ -158,6 +170,8 @@ The Two, wide-spreading, are prepared. They come with ample overflow.
 <p id="v6"><sup><small>6</small></sup>  Mitra, ye Gods with wandering eyes, would that the worshippers and we
 Might strive to reach the realm ye rule, most spacious and protected well,
 
+<span id="h67"></span>
+
 ## HYMN LXVII. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  YE Gods, Ādityas, Varuṇa, Aryaman, Mitra, verily
@@ -170,6 +184,8 @@ Follow their ways, as if with feet, and guard from injury mortal man.
 Good leaders, bounteous in their gifts, deliverers even from distress.
 <p id="v5"><sup><small>5</small></sup>  Which of your persons, Varuṇa or Mitra, merits not our praise?
 Therefore our thought is turned to you, the Atris' thought is turned to you.
+
+<span id="h67"></span>
 
 ## HYMN LXVIII. Mitra-Varuṇa.
 
@@ -184,6 +200,8 @@ The two Gods wax devoid of guile.
 <p id="v5"><sup><small>5</small></sup>  With rainy skies and streaming floods, Lords of the strength that bringeth gifts,
 A lofty seat have they attained.
 
+<span id="h69"></span>
+
 ## HYMN LXIX. Mitra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  THREE spheres of light, O Varuṇa, three heavens, three firmaments ye comprehend, O Mitra:
@@ -194,6 +212,8 @@ There stand the Three Steers, splendid in their brightness, who fill the three w
 I pray, O Mitra-Varuṇa, for safety, for wealth and progeny, in rest and trouble.
 <p id="v4"><sup><small>4</small></sup>  Ye who uphold the region, sphere of brightness, ye who support earth's realm Divine Ādityas,
 The Immortal Gods, O Varuṇa and Mitra, never impair your everlasting statutes.
+
+<span id="h70"></span>
 
 ## HYMN LXX. Mitra-Varuṇa.
 

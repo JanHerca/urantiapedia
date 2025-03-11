@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU, Agni, who wilt have the strong, hast made me the Soma's priest, to worship in assembly.
@@ -81,6 +83,8 @@ Grant us abundant food, thou priestly Herald, vouchsafe to give us ample wealth,
 <p id="v23"><sup><small>23</small></sup>  As holy food, Agni, to thine'invoker give wealth in cattle, lasting, rich in marvels.
 To us he born a son, and spreading offspring. Agni, be this thy gracious will to us-ward.
 
+<span id="h2"></span>
+
 ## HYMN II. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  To him, Vaiśvānara, who strengthens Holy Law, to Agni we present our praise like oil made pure.
@@ -113,6 +117,8 @@ Whom Mātariśvan stablished, dweller in the heaven, meet for high praise and ho
 Agni, the head of heaven, whom none may turn aside-to him the Powerful with mighty prayer we seek.
 <p id="v15"><sup><small>15</small></sup>  The cheerful Priest, the pure, in whom no guile is found, Friend of the House, praise-worthy, dear to all mankind,
 Fair to behold for beauty like a splendid car,—Agni the Friend of men we ever seek for wealth.
+
+<span id="h3"></span>
 
 ## HYMN III. Agni.
 
@@ -164,6 +170,8 @@ He as the truer Priest shall offer worship, for the Gods’ generations well he 
 <p id="v11"><sup><small>11</small></sup>  Come thou to us, O Agni, duly kindled, together with the potent Gods and Indra.
 On this our grass sit Aditi, happy Mother, and let our Hail delight the Gods Immortal.
 
+<span id="h5"></span>
+
 ## HYMN V. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI who shines against the Dawns is wakened. The holy Singer who precedes the sages.
@@ -189,6 +197,8 @@ When, far from Bhṛgus, Mātariśvan kindled the oblation-bearer where he lay i
 <p id="v11"><sup><small>11</small></sup>  As holy food, Agni to thine invoker give wealth in cattle, lasting, rich in marvels.
 To us be born a son and spreading offspring. Agni, be this thy gracious will to us-word.
 
+<span id="h6"></span>
+
 ## HYMN VI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  URGED on by deep devotion, O ye singers, bring, pious ones, the God-approaching ladle.
@@ -213,6 +223,8 @@ Bring, witb their Dames, the Gods, the Three and-Thirty, after thy Godlike natur
 They fair and true and holy coming forward stand at his sacrifice who springs from Order.
 <p id="v11"><sup><small>11</small></sup>  As holy food, Agni, to thine invoker give wealth in cattle, lasting, rich in marvels.
 To us be born a son and spreading offspring. Agni, be this thy gracious will to usward.
+
+<span id="h7"></span>
 
 ## HYMN VII.
 
@@ -264,6 +276,8 @@ Or, as upraised by priests in invocation, let them assist us in the rush to batt
 <p id="v11"><sup><small>11</small></sup>  Lord of the Wood, rise with a hundred branches. with thousand branches may we rise to greatness,
 Tlou whom this hatchct, with an edge well whetted for great felicity, hath brought before us.
 
+<span id="h9"></span>
+
 ## HYMN IX.
 
 <p id="v1"><sup><small>1</small></sup>  WE as thy friends have chosen thee, mortals a God, to be our help,
@@ -283,6 +297,8 @@ When gathered round about thee, Agni, lie the herds where thou art kindled in th
 Swift envoy, active, ancient, and adorable: serve ye the God attentively.
 <p id="v9"><sup><small>9</small></sup>  Three times a hundred Gods and thrice a thousand, and three times ten and nine have worshipped Agni,
 For him spread sacred grass, with oil bedewed him, and stablished him as Priest and Sacrificer.
+
+<span id="h10"></span>
 
 ## HYMN X. Agni.
 

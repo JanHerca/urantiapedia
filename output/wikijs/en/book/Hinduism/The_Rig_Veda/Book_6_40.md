@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI Indra.
 
 <p id="v1"><sup><small>1</small></sup>  SOLE Lord of wealth art thou, O Lord of riches: thou in thine hands hast held the people, Indra!
@@ -44,6 +46,8 @@ In the close fray thou rentest him: thou stolest the Sun's wheel and didst drive
 When, Strong, with might thou holpest Divodāsa who poured libations out, O Soma-buyer, and madest Bharadvāja rich who praised thee.
 <p id="v5"><sup><small>5</small></sup>  As such, true Hero, for great joy of battle mount thy terrific car, O Brave and Manly.
 Come with thine help to me, thou distant Roamer, and, glorious God, spread among men my glory.
+
+<span id="h32"></span>
 
 ## HYMN XXXII Indra.
 
@@ -58,6 +62,8 @@ Come hither, borne by mares with many heroes, Lover of song! Steer! for the peop
 <p id="v5"><sup><small>5</small></sup>  Indra with rush and might, sped by his Coursers, hath swiftly won the waters from the southward.
 Thus set at liberty the rivers daily flow to their goal, incessant and exhaustless.
 
+<span id="h33"></span>
+
 ## HYMN XXXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GIVE us the rapture that is mightiest, Indra, prompt to bestow and swift to aid, O Hero,
@@ -70,6 +76,8 @@ Hast thou struck down like woods with well-shot lightnings: thou rentest them in
 When, fighting for the sunlight, we invoke thee, O Hero, in the fray, in war's division.
 <p id="v5"><sup><small>5</small></sup>  Be ours, O Indra, now and for the future, be graciously inclined and near to help us.
 Thus may we, singing, sheltered by the Mighty, win many cattle on the day of trial.
+
+<span id="h34"></span>
 
 ## HYMN XXXIV. Indra.
 
@@ -84,6 +92,8 @@ Like water brought to men in desert places, our gifts at sacrifice have still re
 <p id="v5"><sup><small>5</small></sup>  To him this mighty eulogy, to Indra hath this our laud been uttered by the poets,
 That in the great encounter with the foemen, Loved of all life, Indra may guard and help us.
 
+<span id="h35"></span>
+
 ## HYMN XXXV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WHEN shall our prayers rest in thy car beside thee? When dost thou give the singer food for thousands?
@@ -96,6 +106,8 @@ When wilt thou yoke, as we yoke songs, thy Horses, and come to offerings that br
 Send food to swell the milch-cow good at milking: bright be its shine among the Bharadvājas.
 <p id="v5"><sup><small>5</small></sup>  Lead otherwise this present foeman, Śakra! Hence art thou praised as Hero, foe destroyer
 Him who gives pure gifts may I praise unceasing. Sage, quicken the Aṅgirases by devotion.
+
+<span id="h36"></span>
 
 ## HYMN XXXVI. Indra.
 
@@ -110,6 +122,8 @@ For thou art Lord of men, without an equal: of all the world thou art the only S
 <p id="v5"><sup><small>5</small></sup>  Hear what thou mayst hear, thou who, fain for worship, as heaven girds earth, guardest thy servant's treasure;
 Tlat thou mayst be our own, joying in power, famed through thy might in every generation.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII Indra.
 
 <p id="v1"><sup><small>1</small></sup>  LET thy Bay Horses, yoked, O mighty Indra, bring thy car hither fraught with every blessing.
@@ -122,6 +136,8 @@ Convey him on the road direct to glory, and ne’er may Vāyu's Amṛta cease an
 Wherewith, O Thunderer, thou removest sorrow, and, Bold One! partest wealth among the nobles.
 <p id="v5"><sup><small>5</small></sup>  Indra is hewho gives enduring vigour: may our songs magnify the God Most Mighty.
 Best Vṛtra-slayer be the Hero Indra these things he gives as Prince, with strong endeavour.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Indra.
 
@@ -136,6 +152,8 @@ Whom Dawns shall strengthen when the night departeth, Indra whom days shall stre
 <p id="v5"><sup><small>5</small></sup>  Him, born for conquering might in full perfection, and waxen strongfor bounty and for glory,
 Great, Powerful, will we to-day, O singer, invite to aid. us and to quell our foemen.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX Indra.
 
 <p id="v1"><sup><small>1</small></sup>  OF this our charming, our celestial Soma, eloquent, wise, Priest, with inspired devotion,
@@ -148,6 +166,8 @@ Him have they stablished as the days' bright ensign. He made the Mornings to be 
 He moves with Steeds yoked by eternal Order, contenting men with nave that finds the sunlight.
 <p id="v5"><sup><small>5</small></sup>  Now, praised, O Ancient King! fill thou the singer with plenteous food that he may deal forth treasures.
 Give waters, herbs that have no poison, forests, and kine, and steeds, and men, to him who lauds thee.
+
+<span id="h40"></span>
 
 ## HYMN XL. Indra
 

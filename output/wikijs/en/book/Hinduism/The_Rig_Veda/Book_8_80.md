@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h71"></span>
+
 ## HYMN LXXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HASTE forward to us from afar, or, Vṛtra-slayer, from anear,
@@ -52,6 +54,8 @@ Drink thou, for thou art Lord thereof.
 Drink thou, for thou art Lord thereof.
 <p id="v9"><sup><small>9</small></sup>  That which the Hawk brought in his claw, inviolate, through the air to thee,
 Drink thou, for thou art Lord thereof.
+
+<span id="h72"></span>
 
 ## HYMN LXXII. Viśvedevas.
 
@@ -74,6 +78,8 @@ Our kinship in. the Mother's womb.
 <p id="v9"><sup><small>9</small></sup>  Then come with Indra for your chief, as early day, ye Bounteous Gods
 Yea, 1 address you now for this.
 
+<span id="h73"></span>
+
 ## HYMN LXXIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, your dearest Guest, I laud, him who is loving as a friend,
@@ -94,6 +100,8 @@ Thou whose hymn helps to win the kine?
 And mighty in his dwelling-place.
 <p id="v9"><sup><small>9</small></sup>  Agni, he dwells in rest and peace who smites and no one smites again:
 With hero sons he prospers well
+
+<span id="h74"></span>
 
 ## HYMN LXXIV. Aśvins.
 
@@ -116,6 +124,8 @@ To drink the savoury Soma juice.
 <p id="v9"><sup><small>9</small></sup>  O Aśvins, O Nāsatyas, now accept with favouring grace my songs,
 To drink the savoury Soma juice.
 
+<span id="h75"></span>
+
 ## HYMN LXXV. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  YE Twain are wondrous strong, well-skilled in arts that heal, both bringers of delight, ye both won Dakṣa's praise.
@@ -128,6 +138,8 @@ Viśvaka calls on you as such to save his life. Break ye not off our friendship,
 Whose gracious favour, like a father's, is most sweet. Break ye not off our friendship, come and set me free.
 <p id="v5"><sup><small>5</small></sup>  About the holy Law toils Savitar the God the horn of holy Law hath he spread far and wide.
 The holy Law hath quelled even mighty men of war. Break ye not off our ftiendship, come and act me free.
+
+<span id="h76"></span>
 
 ## HYMN LXXVI. Aśvins.
 
@@ -144,6 +156,8 @@ Ye Lords of splendour, wondrous, borne on paths of gold, drink Soma, ye who stre
 <p id="v6"><sup><small>6</small></sup>  For we the priestly singers, fain tohymn your praise, invoke you for the gain of strength.
 So, wondrous, fair, and famed for great deeds come to us, through our hymn, Aśvins, when ye hear.
 
+<span id="h77"></span>
+
 ## HYMN LXXVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  As cows low to their calves in stalls, so with our songs we glorify
@@ -158,6 +172,8 @@ Hither may this our hymn attract thee to our help, the hymn which Gotamas have m
 The earthly region, Indra, comprehends thee not. After thy Godhead hast thou waxed.
 <p id="v6"><sup><small>6</small></sup>  When, Maghavan, thou honourest the worshipper, no one is there to stay thy wealth.
 Most liberal Giver thou, do thou inspire our song of praise, that we may win the spoil.
+
+<span id="h78"></span>
 
 ## HYMN LXXVIII. Indra.
 
@@ -176,6 +192,8 @@ Thou in thy might surpassest all, all that now is and yet shall be.
 <p id="v7"><sup><small>7</small></sup>  Raw kine thou filledst with ripe milk. Thou madest Sūrya rise to heaven.,
 Heat him as milk is heated with pure Sāma hymns, great joy to him who loves the song.
 
+<span id="h79"></span>
+
 ## HYMN LXXIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MAY Indra, who in every fight must be invoked, be near to us.
@@ -190,6 +208,8 @@ As such, O Mightiest Lord, Wielder of Thunder, send wealth hither to the worship
 Alone thou slayest with the guardian of mankind resistless never-conquered foes.
 <p id="v6"><sup><small>6</small></sup>  As such we seek thee now, O Asura, thee most wise, craving thy bounty as our share.
 Thy sheltering defence is like a mighty cloak. So may thy glories reach to us.
+
+<span id="h80"></span>
 
 ## HYMN LXXX. Indra.
 

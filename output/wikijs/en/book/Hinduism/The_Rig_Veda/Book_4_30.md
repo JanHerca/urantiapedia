@@ -207,6 +207,8 @@ He who himself sets to the pole swift Coursers, he who hath hundreds, thousands,
 <p id="v5"><sup><small>5</small></sup>  O Indra Maghavan, by thee protected may we be thine, princes and priests and singers,
 Sharing the riches sent from lofty heaven which yields much food, and all desire its bounty.
 
+<span id="h30"></span>
+
 ## HYMN XXX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  O INDRA, Vṛtra-slayer, none is better, mightier than thou:

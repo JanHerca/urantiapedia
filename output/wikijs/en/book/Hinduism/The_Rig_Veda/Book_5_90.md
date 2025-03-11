@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h81"></span>
+
 ## HYMN LXXXI. Savitar.
 
 <p id="v1"><sup><small>1</small></sup>  THE priests of him the lofty Priest well-skilled in hymns harness their spirit, yea, harness their holy thoughts.
@@ -44,6 +46,8 @@ He who hath measured the terrestrial regions out by his great power, he is the C
 Around, on both sides thou encompassest the night: yea, thou, O God, art Mitra through thy righteous laws.
 <p id="v5"><sup><small>5</small></sup>  Over all generation thou art Lord alone: Pūṣan art thou, O God, in all thy goings-forth.
 Yea, thou hast domination over all this world. Śyāvāśva hath brought praise to thee, O Savitar,
+
+<span id="h82"></span>
 
 ## HYMN LXXXII. Savitar.
 
@@ -65,6 +69,8 @@ Savitar whose decrees are true.
 Is Savitar the thoughtful God.
 <p id="v9"><sup><small>9</small></sup>  He who gives glory unto all these living creatures with the song,
 And brings them forth, is Savitar.
+
+<span id="h83"></span>
 
 ## HYMN LXXXIII. Parjanya.
 
@@ -89,6 +95,8 @@ This universe exults thereat, yea, all that is upon the earth.
 <p id="v10"><sup><small>10</small></sup>  Thou hast poured down the rain-flood now withhold it. Thou hast made desert places fit for travel.
 Thou hast made herbs to grow for our enjoyment: yea, thou hast won thee praise from living creatures.
 
+<span id="h84"></span>
+
 ## HYMN LXXXIV. Prthivi.
 
 <p id="v1"><sup><small>1</small></sup>  THOU, of a truth,O Prthivi, bearest the tool that rends the hills:
@@ -97,6 +105,8 @@ Thou rich in torrents, who with might quickenest earth, O Mighty One.
 Who drivest, like a neighing steed, the swelling cloud, O bright of hue.
 <p id="v3"><sup><small>3</small></sup>  Who graspest with thy might on earth. e’en the strong sovrans of the wood,
 When from the lightning of thy cloud the rain-floods of the heaven descend.
+
+<span id="h85"></span>
 
 ## HYMN LXXXV. Varuṇa.
 
@@ -117,6 +127,8 @@ The neighbour ever with us, or a stranger, O Varuṇa, remove from us the trespa
 <p id="v8"><sup><small>8</small></sup>  If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinned of purpose,
 Cast all these sins away like loosened fetters, and, Varuṇa let us be thine own beloved.
 
+<span id="h86"></span>
+
 ## HYMN LXXXVI. Indra-Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THE mortal man whom ye, the Twain, Indra and Agni, help in fight,
@@ -131,6 +143,8 @@ Lords of quick-coming bounty, ye who know, chief lovers of the song.
 Worthy themselves, I honour most, Two Gods as partners, for my horse.
 <p id="v6"><sup><small>6</small></sup>  The strength-bestowing offering thus to Indra-Agni hath been paid, as butter, purified by stones.
 Deal to our princes high renown, deal wealth to those who sing your praise, deal food to those who sing your praise.
+
+<span id="h87"></span>
 
 ## HYMN LXXXVII. Maruts.
 

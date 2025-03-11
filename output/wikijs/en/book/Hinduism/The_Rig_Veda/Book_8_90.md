@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h81"></span>
+
 ## HYMN LXXXI. Indra
 
 <p id="v1"><sup><small>1</small></sup>  INVITE ye Indra with a song to drink your draught of Soma juice,
@@ -100,6 +102,8 @@ This may we gain with thee for Friend.
 For thou art ours and we are thine.
 <p id="v33"><sup><small>33</small></sup>  Indra, the poets and thy friends, faithful to thee, shall loudly sing
 Thy praises as they follow thee.
+
+<span id="h82"></span>
 
 ## HYMN LXXXII. Indra.
 
@@ -172,6 +176,8 @@ With Bay Steeds to the juice we shed.
 <p id="v34"><sup><small>34</small></sup>  May Indra give, to aid us, wealth handy that rules the Skilful Ones:
 Yea, may the Strong give potent wealth.
 
+<span id="h83"></span>
+
 ## HYMN LXXXIII. Maruts.
 
 <p id="v1"><sup><small>1</small></sup>  THE Cow, the famous Mother of the wealthy Maruts, pours her milk:
@@ -200,6 +206,8 @@ I call to drink this Soma juice.
 <p id="v12"><sup><small>12</small></sup>  That vigorous band of Maruts that abidetb in the mountains, I
 Invoke to drink this Soma juice.
 
+<span id="h84"></span>
+
 ## HYMN LXXXIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  SONG-LOVER! like a charioteer come songs to thee when Soma flows.
@@ -220,6 +228,8 @@ Let the pure milky draught delight him strengthened by pure songs of praise.
 Pure, send thou riches down to us, and, meet for Soma, pure, be glad.
 <p id="v9"><sup><small>9</small></sup>  O Indra, pure, vouchsafe us wealth, and, pure, enrich the worshipper.
 Pure, thou dost strike the Vṛtras dead, and strivest, pure, to win the spoil.
+
+<span id="h85"></span>
 
 ## HYMN LXXXV. Indra.
 
@@ -266,6 +276,8 @@ Maghavan is our Helper, our Protector, giver of spoil and wealth to make us famo
 <p id="v21"><sup><small>21</small></sup>  This Indra, Vṛtra-slayer, this Ṛbhukṣan, even at his birth, was meet for invocation.
 Doer of many deeds for man's advantage, like Soma quaffed, for friends we must invoke him.
 
+<span id="h86"></span>
+
 ## HYMN LXXXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  O INDRA, Lord of Light, what joys thou broughtest from the Asuras,
@@ -299,6 +311,8 @@ Before thee, Thunder-armed! all beings tremble: the heavens and earth before the
 <p id="v15"><sup><small>15</small></sup>  May thy truth, Indra, Wondrous Hero be my guard: bear me o’er much woe, Thunderer! as over floods.
 When, Indra, wilt thou honour us with opulence, all-nourishing and much-to-be. desired, O King?
 
+<span id="h87"></span>
+
 ## HYMN LXXXVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  To Indra sing a Sāma hymn, a lofty song to Lofty Sage,
@@ -326,6 +340,8 @@ So now for bliss we pray to thee.
 <p id="v12"><sup><small>12</small></sup>  To thee, Strong, Much-invoked, who showest forth thy strength, O Śatakratu, do I speak:
 So grant thou us heroic strength.
 
+<span id="h88"></span>
+
 ## HYMN LXXXVIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  O THUNDERER, zealous worshippers gave thee drink this time yesterday.
@@ -344,6 +360,8 @@ When thou attackest Vṛtra all the hostile bands shrink and faint, Indra, at th
 Inciter, swift, victorious, best of Charioteers. Tugrya's unvanquished Strengthener;
 <p id="v8"><sup><small>8</small></sup>  Arranger of things unarranged, e’en Śatakratu, source of might,
 Indra, the Friend of all, for succour we invoke, Guardian of treasure, sendjng wealth.
+
+<span id="h89"></span>
 
 ## HYMN LXXXIX Indra. Vāk.
 
@@ -371,6 +389,8 @@ The heaven's four regions drew forth drink and vigour: now whither hath her nobl
 May she, the Gladdener, yielding food and vigour, the Milch-cow Vāk, approach us meetly lauded.
 <p id="v12"><sup><small>12</small></sup>  Step forth with wider stride, my comrade Viṣṇu; make room, Dyaus, for the leaping of the lightning.
 Let us slay Vṛtra, let us free the rivers let them flow loosed at the command of Indra.
+
+<span id="h90"></span>
 
 ## HYMN XC. Various.
 

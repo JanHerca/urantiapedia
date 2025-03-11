@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  SING ye a song, to make him glad, to Indra, Lord of Tawny Steeds,
@@ -55,6 +57,8 @@ To many clans he goeth, man's controller.
 The sages never violate his statutes.
 <p id="v12"><sup><small>12</small></sup>  The choirs have stablished Indra King for ever, for victory, him whose anger is resistless:
 And, for the Bays' Lord, strengthened those he loveth.
+
+<span id="h32"></span>
 
 ## HYMN XXXII. Indra.
 
@@ -113,6 +117,8 @@ Guide us, O Much-invoked, in this our way may we still live and look upon the li
 <p id="v27"><sup><small>27</small></sup>  Grant that no mighty foes, unknown, malevolent, unhallowed, tread us to the ground.
 With thine assistance, Hero, may we ass through all the waters that are rul\`ng down.
 
+<span id="h33"></span>
+
 ## HYMN XXXIII Vasiṣṭha.
 
 <p id="v1"><sup><small>1</small></sup>  THESE who wear hair-knots on the right, the movers of holy thought, white-robed, have won me over.
@@ -143,6 +149,8 @@ Destined to wear the vesture spun by Yama, sprang from the Apsaras to life, Vasi
 Then from the midst thereof there rose up Māna, and thence they say was born the sage Vasiṣṭha.
 <p id="v14"><sup><small>14</small></sup>  He brings the bearer of the laud and Sāman: first shall he speak bringing the stone for pressing.
 With grateful hearts in reverence approach him: to you, O Pratrdas, Vasiṣṭha cometh.
+
+<span id="h34"></span>
 
 ## HYMN XXXIV Viśvedevas.
 
@@ -175,6 +183,8 @@ And Earth accordant with the Forest-Sovrans, and both the World-halves round abo
 May all the Maruts give consent, the Victors, that we may hold great wealth in firm possession.
 <p id="v25"><sup><small>25</small></sup>  May Indra, Varuṇa, Mitra, and Agni, Waters, Herbs, Trees accept the praise we offer.
 May we find refuge in the Marut's bosom. Protect us evermore, ye Gods, with blessings.
+
+<span id="h35"></span>
 
 ## HYMN XXXV. Viśvedevas.
 
@@ -209,6 +219,8 @@ May all the Holy Ones of earth and heaven, and the Cow's offipring hear our invo
 <p id="v15"><sup><small>15</small></sup>  They who of Holy Gods are very holy, Immortal, knowing Law, whom man must worship,—
 May these to-day give us broad paths to travel. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h36"></span>
+
 ## HYMN XXXVI. Viśvedevas
 
 <p id="v1"><sup><small>1</small></sup>  LET the prayer issue from the seat of Order, for Sūrya with his beams hath loosed the cattle.
@@ -230,6 +242,8 @@ Bhaga who looks upon this hymn with favour, and, as our strength, the bountiful 
 <p id="v9"><sup><small>9</small></sup>  May this our song of praise reach you, O Maruts, and Viṣṇu guardian of the future infant.
 May they vouchsafe the singer strength for offspring. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  LET your best-bearing car that must be lauded, ne’er injured, bring you Vājas and Ṛbhukṣans.
@@ -248,6 +262,8 @@ May thy strong Steed, through our ancestral worship, bring food and wealth with 
 With three close Friends to length of days he cometh, he whom men let not rest at home in quiet.
 <p id="v8"><sup><small>8</small></sup>  Promise us gifts, O Savitar: may riches come unto us in Parvata's full bounty.
 May the Celestial Guardian still attend us. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Savitar.
 
@@ -268,6 +284,8 @@ Crushing the wolf, the serpent, and the demons, may they completely banish all a
 <p id="v8"><sup><small>8</small></sup>  Deep-skilled in Law eternal, deathless, Singers, O Vajins, help us in each fray for booty.
 Drink of this meath, he satisfied, be joyful: then go on paths which Gods are wont to travel.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, erect, hath shown enriching favour: the flame goes forward to the Gods’ assembly.
@@ -284,6 +302,8 @@ And Aryaman, and Aditi, and Viṣṇu. Sarasvatī be joyful, and the Maruts.
 Give never-failing ever-conquering riches: with Gods for our allies may we be victors.
 <p id="v7"><sup><small>7</small></sup>  Now have both worlds been praised by the Vasisthas; and holy Mitra, Varuṇa, and Agni.
 May they, bright Deities, make our song supremest. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h40"></span>
 
 ## HYMN XL. Viśvedevas.
 

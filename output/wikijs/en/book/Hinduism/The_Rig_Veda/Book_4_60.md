@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  FORTH from the darkness in the region eastward this most abundant splendid light hatb mounted.
@@ -57,6 +59,8 @@ As from our pleasant place of rest ye rouse us may we be masters of heroic vigou
 <p id="v11"><sup><small>11</small></sup>  Well-skilled in lore of sacrifice, ye Daughters of Heaven, refulgent Dawns, I thus address you.
 May we be glorious among the people. May Heaven vouchsafe us this, and Earth the Goddess,
 
+<span id="h52"></span>
+
 ## HYMN LII. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  THIS Lady, giver of delight, after her Sister shining forth, Daughter of Heaven, hath shown herself.-
@@ -72,6 +76,8 @@ Dawn hath filled full the wide expanse.
 After thy nature aid us, Dawn.
 <p id="v7"><sup><small>7</small></sup>  Thou overspreadest heaven with rays, the dear wide region of mid-air.
 With thy bright shining lustre, Dawn.
+
+<span id="h53"></span>
 
 ## HYMN LIII. Savitar.
 
@@ -90,6 +96,8 @@ May he vouchsafe us shelter,—Savitar the God,—for tranquil life, with triple
 <p id="v7"><sup><small>7</small></sup>  With the year's seasons hath Savitar, God, come nigh: may he prosper our home, give food and noble sons.
 May he invigorate us through the days and nights, and may he send us opulence with progeny.
 
+<span id="h54"></span>
+
 ## HYMN LIV. Savitar.
 
 <p id="v1"><sup><small>1</small></sup>  Now must we praise and honour Savitar the God: at this time of the day the men must call to him,
@@ -104,6 +112,8 @@ What the fair-fingered God brings forth on earth's expanse or in the height of h
 However they may fly and draw themselves apart, still, Savitar, they stand obeying thy behest.
 <p id="v6"><sup><small>6</small></sup>  May the libations poured to thee thrice daily, day after day, O Savitar, bring us blessing.
 May Indra, Heaven, Earth, Sindhu with the Waters, Aditi with Ādityas, give us shelter.
+
+<span id="h55"></span>
 
 ## HYMN LV. Viśvedevas.
 
@@ -127,6 +137,8 @@ May he bestow these gifts on us.
 Thou who hast ample store of wealth.
 <p id="v10"><sup><small>10</small></sup>  So then may Bhaga, Savitar, Varuṇa, Mitra, Aryaman, Indra, with bounty come to us.
 
+<span id="h56"></span>
+
 ## HYMN LVI. Heaven and Earth.
 
 <p id="v1"><sup><small>1</small></sup>  MAY mighty Heaven and Earth, most meet for honour, be present here with light and gleaming splendours;
@@ -143,6 +155,8 @@ Pure Ones! to glorify you both.
 And from of old observe the Law.
 <p id="v7"><sup><small>7</small></sup>  Furthering and fulfilling, ye, O Mighty, perfect Mitra's Law.
 Ye sit around our sacrifice.
+
+<span id="h57"></span>
 
 ## HYMN LVII. Ksetrapati, Etc.
 
@@ -162,6 +176,8 @@ That thou mayst bless and prosper us and bring us fruits abundantly.
 May she, as rich in milk, be drained for us through each succeeding year.
 <p id="v8"><sup><small>8</small></sup>  Happily let the shares turn up the plough-land, happily go the ploughers with the oxen.
 With meath and milk Parjanya make us happy. Grant us prosperity, Śuna and Sīra.
+
+<span id="h58"></span>
 
 ## HYMN LVIII. Ghṛta.
 

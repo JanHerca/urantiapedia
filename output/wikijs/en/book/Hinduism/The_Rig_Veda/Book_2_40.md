@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  HELP, Varuṇa and Mitra, O ye Twain allied with Vasus, Rudras, and Ādityas, help our car,
@@ -48,6 +50,8 @@ While with my newest song I praise you both, O Earth, that from what moves not y
 Trita, Ṛbhukṣan, Savitar shall joy in us, and the Floods’ swift Child in our worship and our prayer.
 <p id="v7"><sup><small>7</small></sup>  These earnest prayers I pray to you, ye Holy: to pay you honour, living men have formed them,
 Men fain to win the prize and glory. May they win, as a car-horse might the goal, your notice.
+
+<span id="h32"></span>
 
 ## HYMN XXXII. Various Deities.
 
@@ -66,6 +70,8 @@ Accept the offered sacrifice, and, Goddess, grant us progeny.
 <p id="v7"><sup><small>7</small></sup>  With lovely fingers, lovely arms, prolific Mother of many sons—
 Present the sacred gifts to her, to Sinīvālī Queen of men.
 <p id="v8"><sup><small>8</small></sup>  Her, Sinīvālī, her, Gungū, her, Rākā, her, Sarasvatī, Indrāṇī to mine aid I call, and Varuṇānī for my weal.
+
+<span id="h33"></span>
 
 ## HYMN XXXIII. Rudra.
 
@@ -100,6 +106,8 @@ Turn, Bounteous God, thy strong bow from our princes, and be thou gracious to ou
 <p id="v15"><sup><small>15</small></sup>  O tawny Bull, thus showing forth thy nature, as neither to be wroth, O God, nor slay us.
 Here, Rudra, listen to our invocation. Loud may we speak, with heroes, in assembly.
 
+<span id="h34"></span>
+
 ## HYMN XXXIV. Maruts
 
 <p id="v1"><sup><small>1</small></sup>  THE Maruts of resistless might who love the rain, resplendent, terrible like wild beasts in their strength,
@@ -132,6 +140,8 @@ They with impetuous vigour sending down the rain have taken to themselves a brig
 Whom, for assistance, like the five terrestrial priests. Trita hath brought to aid us hither on his car.
 <p id="v15"><sup><small>15</small></sup>  So may your favouring help be turned to us-ward, your kindness like a lowing cow approach us,
 Wherewith ye bear your servant over trouble, and free your worshipper from scoff and scorning.
+
+<span id="h35"></span>
 
 ## HYMN XXXV. Son of Waters.
 
@@ -181,6 +191,8 @@ Pressed for thee, Maghavan, it is offered unto thee: drink from the chalice of t
 <p id="v6"><sup><small>6</small></sup>  Accept the sacrifice; mark both of you, my call: the Priest hath seated him after the ancient texts.
 My prayer that bids them come goes forth to both the Kings: drink ye the Soma meath from the Director's bowl.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Various Gods.
 
 <p id="v1"><sup><small>1</small></sup>  Enjoy thy fill of meath out of the Hotar's cup: Adhvaryus he desires a full draught poured for him.
@@ -195,6 +207,8 @@ The fourth cup undisturbed, immortal, let him drink who giveth wealth, the cup o
 Mix the oblations, then come hither with the meath, and drink the Soma, ye rich in abundant strength.
 <p id="v6"><sup><small>6</small></sup>  Agni, accept the fuel and our offered gift: accept the prayer of man, accept our eulogy,
 Do thou with all, with Ṛtu, O thou Excellent, fain, make the great Gods all fain taste the gift we bring.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Savitar.
 
@@ -221,6 +235,8 @@ That good may come to us and wealth be gathered, may we be Savitar the God's bel
 <p id="v11"><sup><small>11</small></sup>  So come to us our hearts' desire, the bounty bestowed by thee, from heaven and earth and waters,
 That it be well with friends and those who praise thee, and, Savitar, with the loud-lauding singer.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  SING like the two press-stones for this same purpose; come like two misers to the tree of treasure;
@@ -239,6 +255,8 @@ Like the two nostrils that protect our being, be to us as our ears that hear dis
 Aśvins, these hymns that struggle to approach you, sharpen ye like an axe upon a whetstone.
 <p id="v8"><sup><small>8</small></sup>  These prayers of ours exalting you, O Aśvins, have the Gṛtsamadas, for a laud, made ready.
 Welcome them, O ye Heroes, and come hither. Loud may we speak. with brave men, in assembly.
+
+<span id="h40"></span>
 
 ## HYMN XL. Soma and Pūṣan.
 

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  ADHVARYU, on the filter pour the Soma juice expressed with stones,
@@ -44,6 +46,8 @@ This Pavamana's flowing meath.
 O Steer, the singer, for our help.
 <p id="v5"><sup><small>5</small></sup>  Flow with thy stream, Far-sighted One, effused, into the cleansing sieve:
 Flow on to give us strength and fame.
+
+<span id="h52"></span>
 
 ## HYMN LII. Soma Pavamana.
 
@@ -58,6 +62,8 @@ Of him who threatens us with war.
 <p id="v5"><sup><small>5</small></sup>  Indu, Wealth-giver, with thine help pour out for us a hundred, yea,
 A thousand of thy pure bright streams.
 
+<span id="h53"></span>
+
 ## HYMN LIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  O THOU with stones for arms, thy powers, crushing the fiends, have raised themselves:
@@ -68,6 +74,8 @@ With fearless heart will I sing praise.
 Crush him who fain would fight with thee.
 <p id="v4"><sup><small>4</small></sup>  For Indra to the streams they drive the tawny rapture-dropping Steed,
 Indu the bringer of delight.
+
+<span id="h54"></span>
 
 ## HYMN LIV. Soma Pavamana.
 
@@ -80,6 +88,8 @@ Soma, a God as Sūrya is.
 <p id="v4"><sup><small>4</small></sup>  Thou, Indu, in thy brilliancy, pourest on us, as Indra's Friend,
 Wealth from the kine to feast the Gods.
 
+<span id="h55"></span>
+
 ## HYMN LV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  POUR on us with thy juice all kinds of corn, each sort of nourishment,
@@ -90,6 +100,8 @@ Seat thee on the dear sacred grass.
 Through days that fly most rapidly.
 <p id="v4"><sup><small>4</small></sup>  As one who conquers, ne’er subdued, attacks and stays the enemy,
 Thus, Vanquisher of thousands! flow.
+
+<span id="h56"></span>
 
 ## HYMN LVI. Soma Pavamana.
 
@@ -102,6 +114,8 @@ O Soma, thou art decked to win.
 <p id="v4"><sup><small>4</small></sup>  Flow hitherward, O Indu, sweet to Indra and to Viṣṇu: guard
 The men, the singers, from distress.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THY streams that never fail or waste flow forth like showers of rain from heaven,
@@ -112,6 +126,8 @@ Green-tinted, brandishing his, arms.
 Sits as a falcon in the, wood.
 <p id="v4"><sup><small>4</small></sup>  So bring thou hitherward to us, Indu, while thou art purified,
 All treasures both of heaven and earth.
+
+<span id="h58"></span>
 
 ## HYMN LVIII. Soma Pavamana.
 
@@ -124,6 +140,8 @@ Swift runs this giver of delight.
 <p id="v4"><sup><small>4</small></sup>  From whom we have accepted thus thousands and three times ten beside:
 Swift runs this giver of delight.
 
+<span id="h59"></span>
+
 ## HYMN LIX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FLOW onward, Soma, winning kine, and steeds, and all that gives delight:
@@ -134,6 +152,8 @@ Flow onward from the pressing-boards.
 Sit on the sacred grass, a Sage.
 <p id="v4"><sup><small>4</small></sup>  Thou, Pavamana, foundest light; thou at thy birth becamest great:
 O Indu, thou art over all.
+
+<span id="h60"></span>
 
 ## HYMN LX. Soma Pavamana.
 

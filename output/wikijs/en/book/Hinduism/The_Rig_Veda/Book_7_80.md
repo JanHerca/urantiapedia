@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h71"></span>
+
 ## HYMN LXXI. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  THE Night retireth from the Dawn her Sister; the Dark one yieldeth to the Red her pathway.
@@ -47,6 +49,8 @@ Ye rescued Atri from distress and darkness, and loosed for Jāhuṣa the bonds t
 <p id="v6"><sup><small>6</small></sup>  This is the thought, this is the song, O Aśvins: accept this hymn of ours, ye Steers, With favour.
 May these our prayers addressed to you come nigh you. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h72"></span>
+
 ## HYMN LXXII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  COME, O Nāsatyas, on your car resplendent, rich in abundant wealth of kine and horses.
@@ -60,6 +64,8 @@ God Savitar hath sent aloft his splendour, and fires sing praises with the kindl
 <p id="v5"><sup><small>5</small></sup>  Come from the west, come from the cast, Nāsatyas, come, Aśvins, from below and from above us.
 Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h73"></span>
+
 ## HYMN LXXIII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  WE have o’erpassed the limit of this darkness while, worshipping the Gods, we sang their praises.
@@ -72,6 +78,8 @@ Obeying you as your appointed servant, Vasiṣṭha singing hath with lauds arou
 The juices that exhilarate are mingled. Injure us not, but come with happy fortune.
 <p id="v5"><sup><small>5</small></sup>  Come from the west, come from the cast, Nāsatyas, come, Aśvins, from below and from above us.
 Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h1"></span>
 
 ## HYMN I.XXIV. Aśvins.
 
@@ -87,6 +95,8 @@ With these your speedy coursers, Heroes, Aśvins, come, ye Gods, come well-incli
 These shall give lasting glory to our liberal lords, and, both Nāsatyas, shelter us.
 <p id="v6"><sup><small>6</small></sup>  Those who have led the way, like cars, offending none, those who are guardians of the men-
 Also through their own might the heroes have grown strong, and dwell in safe and happy homes.
+
+<span id="h75"></span>
 
 ## HYMN LXXV. Dawn.
 
@@ -106,6 +116,8 @@ On her all-lovely car she comes, the Fair One, and brings rich treasure for her 
 She brake strong fences down and gave the cattle: the kine were lowing as they greeted Morning.
 <p id="v8"><sup><small>8</small></sup>  O Dawn, now give us wealth in kine and heroes, and horses, fraught with manifold enjoyment.
 Protect our sacred grass from man's reproaches. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h76"></span>
 
 ## HYMN LXXVI. Dawn.
 
@@ -139,6 +151,8 @@ Granting us food, thou who hast all things precious, and bounty rich in chariots
 <p id="v6"><sup><small>6</small></sup>  O Uṣas, nobly-born, Daughter of Heaven, whom the Vasisthas with their hymns make mighty,
 Bestow thou on us vast and glorious riches. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h78"></span>
+
 ## HYMN LXXVIII. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  WE have beheld her earliest lights approaching: her many glories part, on high, asunder.
@@ -152,6 +166,8 @@ fler car that moves self-harnessed hath she mounted, the car drawn onward by her
 <p id="v5"><sup><small>5</small></sup>  Inspired with loving thoughts this day to greet thee, we and our wealthy nobles have awakened.
 Show yourselves fruitful, Dawns, as ye are rising. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h79"></span>
+
 ## HYMN LXXIX. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  ROUSING the lands where men's Five Tribes are settled, Dawn hath disclosed the pathways of the people.
@@ -164,6 +180,8 @@ Daughter of Heaven, a Goddess, she distributes, best of Aṅgirases, treasures t
 Thou whom with bellowings of a bull they quickened: thou didst unbar the firm-set mountain's portals.
 <p id="v5"><sup><small>5</small></sup>  Impelling every God to grant his bounty sending to us the charm of pleasant voices,
 Vouchsafe us thoughts, for profit, as thou breakest. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h80"></span>
 
 ## HYMN LXXX. Dawn.
 

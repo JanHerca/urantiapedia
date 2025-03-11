@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FLOW onward, Indu, with this food for him who in thy wild delight
@@ -96,6 +98,8 @@ Drive all our enemies away.
 Subdue all those who war with us.
 <p id="v30"><sup><small>30</small></sup>  Those awful weapons that thou hast, sharpened at point to strike men down-
 Guard us therewith from every foe.
+
+<span id="h62"></span>
 
 ## HYMN LXII. Soma Pavamana.
 
@@ -162,6 +166,8 @@ Enjoyment-giver, Mighty Lord.
 <p id="v30"><sup><small>30</small></sup>  Soma, true, Pavamana, Sage, is seated in the cleansing sieve,
 Giving his praiser hero strength.
 
+<span id="h63"></span>
+
 ## HYMN LXIII. Soma Pavanana.
 
 <p id="v1"><sup><small>1</small></sup>  POUR hitherward, O Soma, wealth in thousands and heroic strength,
@@ -224,6 +230,8 @@ Most excellent and splendid strength.
 <p id="v30"><sup><small>30</small></sup>  Soma, do thou secure for us the treasures of the earih and heaven,
 Indu, all boons to be desired.
 
+<span id="h64"></span>
+
 ## HYMN LXIV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  Soma, thou art a splendid Steer, a Steer, O God, with steerlike sway:
@@ -285,6 +293,8 @@ Of these men enter thou the lake.
 Like warriors when they stand arrayed.
 <p id="v30"><sup><small>30</small></sup>  Specially, Soma, coming as a Sage from heaven to prosper us,
 Flow like the Sun for us to see.
+
+<span id="h65"></span>
 
 ## HYMN LXV. Soma Pavamana.
 
@@ -349,6 +359,8 @@ The Guardian, the desire of all;
 <p id="v30"><sup><small>30</small></sup>  Who for ourselves, O thou Most Wise, is wealth and fair intelligence,
 The Guardian, the desire of all.
 
+<span id="h66"></span>
+
 ## HYMN LXVI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FOR holy lore of every sort, flow onward thou whom all men love.
@@ -411,6 +423,8 @@ Indu while he is purified
 Summoning Indra to the draught.
 <p id="v30"><sup><small>30</small></sup>  O Pavamana, bless us, so that we may live, with that bright milk
 Of thine which hath been brought from heaven.
+
+<span id="h67"></span>
 
 ## HYMN LXVII. Soma and Others.
 
@@ -476,6 +490,8 @@ Tastes food completely purified, made sweet by Mātariśvan's touch.
 <p id="v32"><sup><small>32</small></sup>  Whoever reads the essence stored by saints, the Pavamani hymns,
 Sarasvatī draws forth for him water and butter, milk and meath.
 
+<span id="h68"></span>
+
 ## HYMN LXVIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THE drops of Soma juice like cows who yield their milk have flowed forth, rich in meath, unto the Shining One,
@@ -499,6 +515,8 @@ With milk and waters is he decked when pressed with stones: Indu, when purified,
 <p id="v10"><sup><small>10</small></sup>  Even thus poured forth How on thy way, O Soma, vouchsafing us most manifold lively vigour.
 We will invoke benevolent Earth and Heaven. Give us, ye Gods, riches with noble heroes.
 
+<span id="h69"></span>
+
 ## HYMN LXIX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  LAID like an arrow on the bow the hymn hath been loosed like a young calf to the udder of its dam.
@@ -521,6 +539,8 @@ Ye, Soma, are my Fathers, lifted up on high as heads of heaven and makers of the
 Effused, they pass the cleansing fleece, while, gold-hued, they cast their covering off to pour the rain down.
 <p id="v10"><sup><small>10</small></sup>  O Indu, flow thou on for lofty Indra, flow blameless, very gracious, foe-destroyer.
 Bring splendid treasures to the man who lauds thee. O Heaven and Earth, with all the Gods protect. us.
+
+<span id="h70"></span>
 
 ## HYMN LXX. Soma Pavamana.
 

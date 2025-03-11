@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  SING forth to Indu, O ye men, to him who is purified,
@@ -51,6 +53,8 @@ Prosperity upon our kine.
 <p id="v8"><sup><small>8</small></sup>  Heart-knower, Sovran of the heart, thou art effused, O Soma, that Indra may drink thee and rejoice.
 <p id="v9"><sup><small>9</small></sup>  O Soma Pavamana, give us riches and heroic strength,—
 Indu! with. Indra for ally.
+
+<span id="h12"></span>
 
 ## HYMN XII. Soma Pavamana.
 
@@ -74,6 +78,8 @@ To the dear places of the sky.
 <p id="v9"><sup><small>9</small></sup>  O Pavamana, bring us wealth bright with a thousand splendours. Yea.
 O Indu, give us ready help.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  PASSED through, the fleece in thousand streams the Soma, purified, flows on
@@ -95,6 +101,8 @@ Drive all our enemies away.
 <p id="v9"><sup><small>9</small></sup>  O Pavamamas, driving off the godless, looking on the light,
 Sit in the place of sacrifice.
 
+<span id="h14"></span>
+
 ## HYMN XIV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  REPOSING on the river's wave the Sage hath widely flowed around,
@@ -113,6 +121,8 @@ And utters voice which he hath found.
 They grasp the vigorous Courser's back.
 <p id="v8"><sup><small>8</small></sup>  Comprising all the treasures that are in the heavens and on the earth,
 Come, Soma, as our faithful Friend.
+
+<span id="h15"></span>
 
 ## HYMN XV. Soma Pavamana.
 
@@ -133,6 +143,8 @@ Him who brings forth abundant food.
 <p id="v8"><sup><small>8</small></sup>  Him, even him, the fingers ten and the seven songs make beautiful,
 Well-weaponed, best of gladdeners.
 
+<span id="h16"></span>
+
 ## HYMN XVI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THE pressers from the Soma-press send forth thy juice for rapturous joy
@@ -151,6 +163,8 @@ Stands, hero-like, amid the kine.
 Falls lightly on the cleansing sieve.
 <p id="v8"><sup><small>8</small></sup>  Thus, Soma, purifying himwho knoweth song mid living men,
 Thou wanderest through the cloth of wool.
+
+<span id="h17"></span>
 
 ## HYMN XVII. Soma Pavamana.
 
@@ -171,6 +185,8 @@ Deck thee for service of the Gods.
 <p id="v8"><sup><small>8</small></sup>  Flow onward to the stream of meath rest efficacious in thy home,
 Fair, to be drunk at sacrifice.
 
+<span id="h18"></span>
+
 ## HYMN XVIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THOU, Soma, dweller on the hills, effused, hast flowed into the sieve,:
@@ -188,6 +204,8 @@ All-bounteous art thou in carouse.
 <p id="v7"><sup><small>7</small></sup>  The Strong One, being purified, hath in the pitchers cried aloud:
 All-bounteous art thou in carouse.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  O SOMA, being purified bring us the wondrous treasure, meet
@@ -204,6 +222,8 @@ The kine who yield the shining milk?
 O Pavamana, find us wealth.
 <p id="v7"><sup><small>7</small></sup>  Soma, bring down the foeman's might, his vigorous strength and vital powe'r,
 Whether he be afar or near.
+
+<span id="h20"></span>
 
 ## HYMN XX Soma Pavamana.
 

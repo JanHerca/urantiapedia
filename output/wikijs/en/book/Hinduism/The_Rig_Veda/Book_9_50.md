@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  ACTIVE and bright have they come forth, impetuous in speed like bulls,
@@ -46,6 +48,8 @@ In kine and gold and steeds and spoil.
 As Dawn, as Sūrya with his beams.
 <p id="v6"><sup><small>6</small></sup>  On every side, O Soma, flow round us with thy protecting stream,
 As Rasā flows around the world.
+
+<span id="h42"></span>
 
 ## HYMN XLII. Soma Pavamana.
 
@@ -62,6 +66,8 @@ He sends the Gods who strengthen Law.
 <p id="v6"><sup><small>6</small></sup>  Soma, effused, pour on us wealth in kine, in heroes, steeds, and spoil,
 Send us abundant store of food.
 
+<span id="h43"></span>
+
 ## HYMN XLIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  WE will enrobe with sacred song the Lovely One who, as a Steed,
@@ -76,6 +82,8 @@ Wealth, Indu, fraught with boundless might.
 Roars, as he passes, in the sieve.
 <p id="v6"><sup><small>6</small></sup>  Flow on thy way to win us strength, to speed the sage who praises thee:
 Soma, bestow heroic power.
+
+<span id="h4"></span>
 
 ## HYMN XLIV. Soma Pavamana.
 
@@ -92,6 +100,8 @@ And Hero, lead us to the Gods.
 <p id="v6"><sup><small>6</small></sup>  So, to increase our wealth to-day, Inspirer, best of Furtherers,
 Win for us strength and high renown.
 
+<span id="h45"></span>
+
 ## HYMN XLV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FLOW, thou who viewest men, to give delight, to entertain the Gods,
@@ -106,6 +116,8 @@ Indu belongs unto the Gods.
 Singers have chanted Indu's praise.
 <p id="v6"><sup><small>6</small></sup>  Flow, Indu, with that stream wherein steeped thou announcest to the man
 Who worships thee heroic strength.
+
+<span id="h46"></span>
 
 ## HYMN XLVI. Soma Pavamana.
 
@@ -123,6 +135,8 @@ Giver oF ample opulence.
 <p id="v6"><sup><small>6</small></sup>  This Pavamana, meet to be adorned, the fingers ten adorn,
 The draught that shall make Indra glad.
 
+<span id="h47"></span>
+
 ## HYMN XLVII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT as he was, Soma hath gained strength by this high solemnity:
@@ -135,6 +149,8 @@ A thousand-winning thunderbolt.
 When he embellisheth his songs.
 <p id="v5"><sup><small>5</small></sup>  Fain would they both win riches as in races of the steeds. In war
 Thou art upon the conquerors' side.
+
+<span id="h48"></span>
 
 ## HYMN XLVIII. Soma Pavamana.
 
@@ -149,6 +165,8 @@ Of all, the speeder through the air.
 <p id="v5"><sup><small>5</small></sup>  And now, sent forth, it hath attained to mighty power and majesty,
 Most active, ready to assist.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  Poust down the rain upon us, pour a wave of waters from the sky,
@@ -161,6 +179,8 @@ Ppur down on us a flood of rain.
 For verily the Gods will bear.
 <p id="v5"><sup><small>5</small></sup>  Onward hath Pavamana flowed and beaten off the Rākṣasas,
 Flashing out splendour as of old.
+
+<span id="h50"></span>
 
 ## HYMN L. Soma Pavamana.
 

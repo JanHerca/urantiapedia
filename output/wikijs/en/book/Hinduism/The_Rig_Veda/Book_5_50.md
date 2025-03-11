@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Viśvedevas
 
 <p id="v1"><sup><small>1</small></sup>  WHO, Mitra-Varuṇa, is your pious servant to give you gifts from earth or mighty heaven?
@@ -74,6 +76,8 @@ May she who gives good gifts, the gracious Goddes. s, come speeding nigh to us f
 May Urvasi in lofty heaven accepting, as she partakes the oblation of the living,
 <p id="v20"><sup><small>20</small></sup>  Visit us while she shares Urjavya's food.
 
+<span id="h42"></span>
+
 ## HYMN XLII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  Now may our sweetest song with deep devotion reach Varuṇa, Mitra, Aditi, and Bhaga.
@@ -112,6 +116,8 @@ May every Deity be swift to listen, and Mother Earth with no ill thought regard 
 <p id="v18"><sup><small>18</small></sup>  May we obtain the Aśvins' newest favour, and gain their health-bestowing happy guidance.
 Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!
 
+<span id="h43"></span>
+
 ## HYMN XLIII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  MAY the Milch-cows who hasten to their object come harmless unto us with liquid sweetness.
@@ -148,6 +154,8 @@ May every Deity be swift to listen, and Mother Earth with no ill thought regard 
 <p id="v17"><sup><small>17</small></sup>  May we obtain the Aśvins' newest favour, and gain their health-bestowing happy guidance.
 Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!
 
+<span id="h44"></span>
+
 ## HYMN XLIV. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  As in the first old times, as all were wont, as now, he draweth forth the power turned hitherward with song,
@@ -182,6 +190,8 @@ This Soma saith unto the man who watches, I rest and have my dwelling in thy fri
 <p id="v15"><sup><small>15</small></sup>  Agni is watchful, and the gcas love him; Agni is watchful, Sāma verses seek him.
 Agni is watchful, to him saith this Soma, I rest and have my dwelling in thy friendship.
 
+<span id="h45"></span>
+
 ## HYMN XLV. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  BARDS of approaching Dawn who know the heavens are come with hymns to throw the mountain open.
@@ -207,6 +217,8 @@ The wise have drawn him like a ship through water: the floods obedient have desc
 <p id="v11"><sup><small>11</small></sup>  I lay upon the Floods your hymn, lightwinning, wherewith Navagvas their ten months completed.
 Through this our hymn may we have Gods to guard us: through this our hymn pass safe beyond affliction.
 
+<span id="h46"></span>
+
 ## HYMN XLVI. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  WELL knowing I have bound me, horselike, to the pole: I carry that which bears as on and gives us help.
@@ -226,6 +238,8 @@ Grant us protection, O ye gracious Goddesses, ye who are on the earth or in the 
 <p id="v8"><sup><small>8</small></sup>  May the Dames, wives of Gods, enjoy our presents, Rat, Aśvini, Agnāyī, and Indrāṇī.
 May Rodasī and Varuṇānī hear us, and Goddesses come at the Matrons' season.
 
+<span id="h47"></span>
+
 ## HYMN XLVII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  URGING to toil and making proclamation, seeking Heaven's Daughter comes the Mighty Mother:
@@ -243,6 +257,8 @@ Rejoicing, for the Steer's impregning contact, his Spouses move on paths or heav
 <p id="v7"><sup><small>7</small></sup>  Be this our praise, O Varuṇa and Mitra may this be health and force to us, O Agni.
 May we obtain firm ground and room for resting: Glory to Heaven, the lofty habitation!
 
+<span id="h48"></span>
+
 ## HYMN XLVIII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  WHAT may we meditate for the beloved Power, mighty in native strength and glorious in itself,
@@ -256,6 +272,8 @@ What time he gives the man who calls on him in fight wealth like a dwelling-hous
 <p id="v5"><sup><small>5</small></sup>  Four-faced and nobly clad, Varuṇa, urging on the pious to his task, stirs himself with the tongue.
 Naught by our human nature do we know of him, him from whom Bhaga Savitar bestows the boon.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  THIS day I bring God Savitar to meet you, and Bhaga who allots the wealth of mortals.
@@ -268,6 +286,8 @@ May Indra, Visniu, Varuṇa, Mitra, Agni produce auspicious days, the Wonder-Wor
 When I, the sacrifice's priest, invite them, may we he lords of wealth and rich possessions.
 <p id="v5"><sup><small>5</small></sup>  They who devote such worship to the Vasus, singing their hymns to Varuṇa and Mitra,
 Vouchsafe them ample room, far off be danger. Through grace of Heaven and Earth may we be happy.
+
+<span id="h50"></span>
 
 ## HYMN L. Viśvedevas.
 

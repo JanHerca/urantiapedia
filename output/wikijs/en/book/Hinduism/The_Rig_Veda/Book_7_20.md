@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT art thou, Agni, sacrifice's Herald: not without thee are deathless Gods made joyful.
@@ -45,6 +47,8 @@ The Vasus were contented with his wisdom, so the Gods made him their oblationbea
 <p id="v5"><sup><small>5</small></sup>  O Agni, bring the Gods to taste our presents: with Indra leading, here let them be joyful.
 Convey this sacrifice to Gods in heaven. Ye Gods, preserve us evermore with blessings.
 
+<span id="h12"></span>
+
 ## HYMN XII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WE with great reverence have approached The Youngest who hath shone forth well-kindled in his dwelling,
@@ -53,6 +57,8 @@ With wondrous light between wide earth and heaven, well-worshipped, looking fort
 May he protect us from disgrace and trouble, both us who laud him and our noble patrons.
 <p id="v3"><sup><small>3</small></sup>  O Agni, thou art Varuṇa and Mitra: Vasisthas with their holy hymns exalt thee.
 With thee be most abundant gain of treasure. Ye Gods, preserve us evermore with blessings.
+
+<span id="h13"></span>
 
 ## HYMN XIII. Agni.
 
@@ -63,6 +69,8 @@ TIOU with thy might, Vaiśvānara Jātavedas, settest the Gods free frodi the cu
 <p id="v3"><sup><small>3</small></sup>  Agni, when, born thou lookedst on all creatures, like a brisk herdsman moving round his cattle.
 The path to prayer, Vaiśvānara, thou foundest. Ye Gods, preserve us evermore with blessings.
 
+<span id="h14"></span>
+
 ## HYMN XIV Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WITH reverence and with offered gifts serve we the God whose flame is bright:
@@ -71,6 +79,8 @@ Let us bring Jātavedas fuel, and adore Agni when we invoke the Gods.
 Honour thee, Priest of sacrifice! with butter, thee, God of blessed light! with our oblation.
 <p id="v3"><sup><small>3</small></sup>  Come, Agni, with the Gods to our invoking, come, pleased, to offerings sanctified with Vaṣaṭ.
 May we be his who pays thee, God, due honour. Ye Gods, preserve us evermore with blessings.
+
+<span id="h15"></span>
 
 ## HYMN XV. Agni.
 
@@ -105,6 +115,8 @@ With hundred walls for man's defence.
 <p id="v15"><sup><small>15</small></sup>  Do thou preserve us, eve and morn, from sorrow, from the wicked men,
 Infallible! by day and night.
 
+<span id="h16"></span>
+
 ## HYMN XVI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  WITH this my reverent hymn I call Agni for you, the Son of Strength,
@@ -132,6 +144,8 @@ Pour ye it forth, then fill the vessel full again: then doth the God pay heed to
 <p id="v12"><sup><small>12</small></sup>  Him have the Gods appointed Priest of sacrifice, oblation-bearer, passing wise.
 Agni gives wealth and valour to the worshipper, to folk who offer up their gifts.
 
+<span id="h17"></span>
+
 ## HYMN XVII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, be kindled well with proper fuel, and let the grass be scattered wide about thee.
@@ -141,6 +155,8 @@ Agni gives wealth and valour to the worshipper, to folk who offer up their gifts
 <p id="v5"><sup><small>5</small></sup>  Wise God, win for us things that are all-goodly, and let the prayers, we pray today be fruitful.
 <p id="v6"><sup><small>6</small></sup>  Thee, even thee, the Son of Strength, O Agni, those Gods have made the bearer of oblations.
 <p id="v7"><sup><small>7</small></sup>  To thee the God may we perform our worship: do thou, besought, grant us abundant riches.
+
+<span id="h18"></span>
 
 ## HYMN XVIII. Indra.
 
@@ -195,6 +211,8 @@ Seven flowing Rivers glorify like Indra. He slew Yudhyamadhi in close encounter.
 <p id="v25"><sup><small>25</small></sup>  Attend on him O ye heroic Maruts as on Sudās's father Divodāsa.
 Further Paijavana's desire with favour. Guard faithfully his lasting firm dominion.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HE like a bull with sharpened horns, terrific, singly excites and agitates all the people:
@@ -219,6 +237,8 @@ Elect us also into their assembly who by their calls on thee despoiled the nigga
 Favour these, Indra, when they fight with faemen, as Friend and Hero and the heroes' Helper.
 <p id="v11"><sup><small>11</small></sup>  Now, lauded for thine aid, Heroic Indra, sped by our prayer, wax mighty in thy body.
 Apportion to us strength and habitations. Ye Gods, protect us evermore with blessings.
+
+<span id="h20"></span>
 
 ## HYMN XX. Indra.
 

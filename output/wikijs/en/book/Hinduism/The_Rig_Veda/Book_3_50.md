@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  INVOKED to drink the Soma juice, come with thy Bay Steeds, Thunder-armed
@@ -52,6 +54,8 @@ Thou, Vasu, dearly lovest us.
 Here glad thee, Indra, Lord divine.
 <p id="v9"><sup><small>9</small></sup>  May long-maned Coursers, dropping oil, bring thee on swift car hitherward,
 Indra, to seat thee on the grass.
+
+<span id="h42"></span>
 
 ## HYMN XLII. Indra.
 
@@ -74,6 +78,8 @@ Deep in thy heart let it remain,
 <p id="v9"><sup><small>9</small></sup>  We call on thee, the Ancient One, Indra, to drink the Soma juice,
 We Kuśikas who seek thine aid.
 
+<span id="h43"></span>
+
 ## HYMN XLIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MOUNTED upon thy chariot-seat approach us: thine is the Soma-draught from days aforetime.
@@ -93,6 +99,8 @@ In whose wild joy thou stirrest up the people, in whose wild joy thou didst unba
 <p id="v8"><sup><small>8</small></sup>  Call we on Indra, Makhavan, auspicious, best Hero in the fight where spoil is gathered;
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
+<span id="h4"></span>
+
 ## HYMN XLIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  May this delightsome Soma be expressed for thee by tawny stones.
@@ -106,6 +114,8 @@ He takes his golden weapon, Lord of Tawny Steeds, the golden thunder in his arms
 <p id="v5"><sup><small>5</small></sup>  The bright, the well-loved thunderbolt, girt with the bright, Indra disclosed,
 Disclosed the Soma juice pressed out by tawny stones, with tawny steeds drave forth the kine.
 
+<span id="h45"></span>
+
 ## HYMN XLV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  COME hither, Indra, with Bay Steeds, joyous, with tails like peacocks' plumes.
@@ -118,6 +128,8 @@ Like the milch-cows that go well-guarded to the mead, like water-brooks that rea
 Shake, Indra, as with hooks, the tree for ripened fruit, for wealth to satisfy our wish.
 <p id="v5"><sup><small>5</small></sup>  Indra, self-ruling Lord art thou, good Leader, of most glorious fame.
 So, waxen in thy strength, O thou whom many praise, be thou most swift to hear our call.
+
+<span id="h46"></span>
 
 ## HYMN XLVI. Indra.
 

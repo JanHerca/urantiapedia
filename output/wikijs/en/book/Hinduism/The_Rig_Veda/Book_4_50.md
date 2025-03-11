@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Indra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  WHAT laud, O Indra-Varuṇa, with oblation, hath like the Immortal Priest obtained your favour?
@@ -57,7 +59,9 @@ So may the Twain who work with newest succours bring yoked teams hitherward to u
 <p id="v11"><sup><small>11</small></sup>  Come with your mighty succours, O ye Mighty; come, Indra-Varuṇa, to us in battle.
 What time the flashing arrows play in combat, may we through you be winners in the contest.
 
-## HYMN XLIL Indra-Varuṇa.
+<span id="h42"></span>
+
+## HYMN XLII Indra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  I AM the royal Ruler, mine is empire, as mine who sway all life are all Immortals.
 Varuṇa's will the Gods obey and follow. I am the King of men's most lofty cover.
@@ -80,6 +84,8 @@ Then unto her ye gave King Trasadasyu, the demi-god, the slayer of the foeman.
 <p id="v10"><sup><small>10</small></sup>  May we, possessing much, delight in riches, Gods in oblations and the kine in pasture;
 And that Milch-cow who shrinks not from the milking, O Indra-Varuṇa, give to us daily.
 
+<span id="h43"></span>
+
 ## HYMN XLIII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  WHO will hear, who of those who merit worship, which of all Gods take pleasure in our homage?
@@ -98,6 +104,8 @@ Observed of all was that your rapid going, whereby ye were the Lords of Sūrya's
 <p id="v7"><sup><small>7</small></sup>  Whene’er I gratified you here together, your grace was given us, O ye rich in booty.
 Protect, ye Twain, the singer of your praises: to you, Nāsatyas, is my wish directed.
 
+<span id="h44"></span>
+
 ## HYMN XLIV. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  WE will invoke this day your car, far-spreading, O Aśvins, even the gathering, of the sunlight,—
@@ -114,6 +122,8 @@ Suffer not other worshippers to stay you here are ye bound by earlier bonds of f
 Because the men have sent you praise, O Aśvins, and Ajamīlhas come to the laudation.
 <p id="v7"><sup><small>7</small></sup>  Whene’er I gratified you here together, your grace was given us, O ye rich in booty.
 Protect, ye Twain, the singer of your praises: to you, Nāsatyas, is my wish directed.
+
+<span id="h45"></span>
 
 ## HYMN XLV. Aśvins
 
@@ -132,6 +142,8 @@ And the Sun harnessing his horses goeth forth: ye through your Godlike nature le
 <p id="v7"><sup><small>7</small></sup>  Devout in thought I have declared, O Aśvins, your chariot with good steeds, which lasts for ever,
 Wherewith ye travel swiftly through the regions to the prompt worshipper who brings oblation.
 
+<span id="h46"></span>
+
 ## HYMN XLVI. Vāyu. Indra-Vāyu
 
 <p id="v1"><sup><small>1</small></sup>  DRINK the best draught of Soma-juice, O Vāyu, at our holy rites:
@@ -149,7 +161,9 @@ Within the giver's dwelling-place.
 <p id="v7"><sup><small>7</small></sup>  Hither, O Indra-Vāyu, be your journey here unyoke your steeds,
 Here for your draught of Soma juice.
 
-## HYMN XLVIL Vāyu. Indra-Vāyu.
+<span id="h47"></span>
+
+## HYMN XLVII Vāyu. Indra-Vāyu.
 
 <p id="v1"><sup><small>1</small></sup>  Vāyu, the bright is offered thee, best of the meath at holy rites.
 Come thou to drink the Soma juice, God, longed-for, on thy team-drawn car.
@@ -159,6 +173,8 @@ For unto you the drops proceed as waters gather to the vale.
 Come to our succour with your team, that ye may drink the Soma juice.
 <p id="v4"><sup><small>4</small></sup>  The longed-for teams which ye possess, O Heroes, for the worshipper,
 Turn to us, Indra-Vāyu, ye to whom the sacrifice is paid.
+
+<span id="h48"></span>
 
 ## HYMN XLVIII. Vāyu.
 
@@ -174,6 +190,8 @@ O Vāyu, on refulgent car come to the drinking of the juice.
 <p id="v5"><sup><small>5</small></sup>  Harness, O Vāyu, to thy car a hundred well-fed tawny steeds,
 Yea, or a thousand steeds, and let thy chariot come to us with might.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Indra-Bṛhaspati.
 
 <p id="v1"><sup><small>1</small></sup>  DEAR is this offering in your mouth, O Indra and Bṛhaspati:
@@ -187,6 +205,8 @@ With store of horses, thousandfold.
 With songs, to drink the Soma juice.
 <p id="v6"><sup><small>6</small></sup>  Drink, Indra and Bṛhaspati, the Soma in the giver's house:
 Delight yourselves abiding there.
+
+<span id="h50"></span>
 
 ## HYMN L. Bṛhaspati.
 

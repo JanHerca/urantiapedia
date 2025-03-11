@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  COME gracious to our sacrifice, O Indra: pressed Soma-drops are purified to please thee.
@@ -45,6 +47,8 @@ Come to this sacrifice of ours, O Victor replenish all thy powers with this liba
 <p id="v5"><sup><small>5</small></sup>  We call on thee, O Indra: come thou hither: sufficient be the Soma for thy body.
 Rejoice thee, Śatakratu! in the juices guard us in wars, guard us among our people.
 
+<span id="h42"></span>
+
 ## HYMN XLII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  BRING sacrificial gifts to him, Omniscient, for he longs to drink,
@@ -56,6 +60,8 @@ Full wise he knows the hope of each, and, Bold One, strikes this foe and that.
 <p id="v4"><sup><small>4</small></sup>  To him, Adhvaryu! yea, to him give offerings of the juice expressed.
 Will he not keep us safely from the spiteful curse of each presumptuous high-born foe?
 
+<span id="h43"></span>
+
 ## HYMN XLIII. Indra
 
 <p id="v1"><sup><small>1</small></sup>  IN whose wild joy thou madest once Śambara Divodāsa's prey,
@@ -66,6 +72,8 @@ This Soma is pressed out for thee, O Indra drink!
 This Soma is pressed out for thee, O Indra: drink!
 <p id="v4"><sup><small>4</small></sup>  This, in whose juice delighting thou gainest the might of Maghavan,
 This Soma is pressed out for thee, O Indra drink!
+
+<span id="h44"></span>
 
 ## HYMN XLIV. Indra.
 
@@ -117,6 +125,8 @@ This Indu stole away the warlike weapons, and foiled the arts of his malignant f
 He found in heaven, in the third lucid regions, the threefold Amṛta in its close concealment.
 <p id="v24"><sup><small>24</small></sup>  He stayed and held the heaven and earth asunder: the chariot with the sevenfold reins he harnessed.
 This Soma Set with power within the milch-kine a spring whose ripe contents ten fingers empty.
+
+<span id="h45"></span>
 
 ## HYMN XLV. Indra.
 
@@ -187,6 +197,8 @@ Suddenly offers as a gift.
 <p id="v33"><sup><small>33</small></sup>  So all our singers ever praise the pious Brbu's noble deed,
 Chief, best to give his thousands, best to give a thousand liberal gifts.
 
+<span id="h46"></span>
+
 ## HYMN XLVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THAT we may win us wealth and power we poets, verily, call on thee:
@@ -217,6 +229,8 @@ To us and to our sons give refuge: keep afar all unobserved hostility.
 On the uneven road and on a toilsome path, like falcons, eager for renown,
 <p id="v14"><sup><small>14</small></sup>  Speeding like rivers rushing down a steep descent, responsive to the urging call,
 That come like birds attracted to the bait, held in by reins in both the driver's hands.
+
+<span id="h47"></span>
 
 ## HYMN XLVII. Indra, Etc.
 
@@ -282,6 +296,8 @@ Drive hence, O War-drum, drive away misfortune: thou art the Fist of Indra: show
 <p id="v31"><sup><small>31</small></sup>  Drive hither those, and these again bring hither: the War-drum speaks aloud as battle's signal.
 Our heroes, winged with horses, come together. Let our car-warriors, Indra, be triumphant.
 
+<span id="h48"></span>
+
 ## HYMN XLVIII. Agni and Others.
 
 <p id="v1"><sup><small>1</small></sup>  SING to your Agni with each song, at every sacrifice, for strength.
@@ -329,6 +345,8 @@ The Maruts have obtained bright strength, a sacred name, strength that destroys 
 <p id="v22"><sup><small>22</small></sup>  Once, only once, the heaven was made, once only once, the earth was formed-
 Once, only Pṛśni's milk was shed: no second, after this, is born.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  I LAUD with newest songs the Righteous People, Mitra and Varuṇa who make us happy.
@@ -361,6 +379,8 @@ When one so great as thou affordeth shelter, may we with wealth and with ourselv
 Sweet, with the Plants, to Gods who seek oblations. May liberal Bhaga speed us on to riches.
 <p id="v15"><sup><small>15</small></sup>  Give riches borne on cars, with many heroes, contenting men, the guard of mighty Order.
 Give us a lasting home that we may battle with godless bands of men who fight against us, and meet with tribes to whom the Gods are gracious.
+
+<span id="h50"></span>
 
 ## HYMN L. Viśvedevas.
 

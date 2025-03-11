@@ -53,6 +53,8 @@ Singers of him who knows all life.
 <p id="v9"><sup><small>9</small></sup>  O Agni, in our deeds of might may we obtain all precious things:
 Tle Gods are centred all in thee.
 
+<span id="h12"></span>
+
 ## HYMN XII. Indra-Agni.
 
 <p id="v1"><sup><small>1</small></sup>  MOVED, Indra-Agni, by our hymn, come to the juice, the precious dew:
@@ -74,6 +76,8 @@ Good is your readiness to act.
 <p id="v9"><sup><small>9</small></sup>  Indra and Agni, in your deeds of might ye deck heaven's lucid realms:
 Famed is that hero strength of yours.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  To Agni, to this God of yours I sing aloud with utmost power.
@@ -90,6 +94,8 @@ Resplendent and without a peer through his own excellent designs.
 Beam, Friend of Maruts, bliss on us, O Agni, a most liberal God.
 <p id="v7"><sup><small>7</small></sup>  Yea, grant us treasure thousandfold with children and with nourishment,
 And, Agni, splendid hero strength, exalted, wasting not away.
+
+<span id="h14"></span>
 
 ## HYMN XIV. Agni.
 
@@ -108,6 +114,8 @@ Agni, to us with speech that hath no falsehood grant riches, real, to be told in
 <p id="v7"><sup><small>7</small></sup>  Whatever, God, in sacrifice we mortals have wrought is all for thee, strong, wise of purpose!
 Be thou the Friend of each good chariot's master. All this enjoy thou here, immortal Agni.
 
+<span id="h15"></span>
+
 ## HYMN XV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  RESPLENDENT with thy wide-extending lustre, dispel the terrors of the fiends who hate us
@@ -125,6 +133,8 @@ Shining, O God, with Gods in clear effulgence. Let not a mortal's evil will obst
 <p id="v7"><sup><small>7</small></sup>  Agni, as holy food to thine invoker, give wealth in cattle, lasting, rich in marvels.
 To us be born a son and spreading offspring. Agni, be this thy gracious will to us-ward.
 
+<span id="h16"></span>
+
 ## HYMN XVI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THIS Agni is the Lord of great felicity and hero Strength;
@@ -140,6 +150,8 @@ Nor, Son of Strength, to lack of cattle, nor to blame. Drive. thou our enemies a
 <p id="v6"><sup><small>6</small></sup>  Help us to strength, blest Agni! rich in progeny, abundant, in our sacrifice.
 Flood us with riches yet more plenteous, bringing weal, with high renown, most Glorious One!
 
+<span id="h17"></span>
+
 ## HYMN XVII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  DULY enkindled after ancient customs, bringing all treasures, he is balmed with unguents,—
@@ -152,6 +164,8 @@ With these, well-knowing, grant the Gods’ kind favour, and help in stir and st
 Thee, envoy, messenger, oblation-bearer, the Gods have made centre of life eternal.
 <p id="v5"><sup><small>5</small></sup>  That Priest before thee, yet more skilled in worship, stablished of old, health-giver by his nature,—
 After his custom offer, thou who knowest, and lay our sacrifice where Gods may taste it.
+
+<span id="h18"></span>
 
 ## HYMN XVIII. Agni.
 
@@ -166,6 +180,8 @@ Give richly, Agni, to the Viśvāmitras in rest and stir. Oft have we decked thy
 <p id="v5"><sup><small>5</small></sup>  Give us, O liberal Lord, great store of riches, for, Agni, such art thou when duly kindled.
 Thou in the happy singer's home bestowest, amply with arms extended, things of beauty.
 
+<span id="h19"></span>
+
 ## HYMN XIX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI, quick, sage, infallible, all-knowing, I choose to be our Priest at this oblation.
@@ -178,6 +194,8 @@ In power of wealth most rich in men. O Agni, of thee, the Good, may we sing fort
 So bring Most Youthful One, the Gods’ assembly, the Heavenly Host which thou to-day shalt honour.
 <p id="v5"><sup><small>5</small></sup>  When Gods anoint thee Priest at their oblation, and seat thee for thy task as Sacrificer,
 O Agni, be thou here our kind defender, and to ourselves vouchsafe the gift of glory.
+
+<span id="h20"></span>
 
 ## HYMN XX Agni.
 

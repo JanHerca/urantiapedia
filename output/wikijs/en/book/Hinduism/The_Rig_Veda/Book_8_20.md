@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h11"></span>
+
 ## HYMN XI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU Agni, God mid mortal men, art guard of sacred rites, thou art
@@ -54,6 +56,8 @@ In fray and fightt we call on thee.
 The giver of rich gifts in war.
 <p id="v10"><sup><small>10</small></sup>  Ancient, adorablie at sacrifices, Priest from of old, meet for our praise, thou sittest.
 Fill full and satisfy thy body, Agni, and win us happiness by offering worship.
+
+<span id="h12"></span>
 
 ## HYMN XII. Indra.
 
@@ -124,6 +128,8 @@ Milk-streams at worship's central spot, for sacrifice,
 <p id="v33"><sup><small>33</small></sup>  As Priest, O Indra, give us wealth in brave men and good steeds ana kine
 That we may first remember thee for sacrifice.
 
+<span id="h13"></span>
+
 ## HYMN XIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA, when Soma juices flow, makes his mind pure and meet for lauds.
@@ -193,6 +199,8 @@ Strong is the rite thou furtherest, strong is our call.
 <p id="v33"><sup><small>33</small></sup>  As strong I call on thee the Strong, O Thunderer with thy thousand aids:
 For thou hast won the hymn of praise. Strong is our call.
 
+<span id="h14"></span>
+
 ## HYMN XIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  IF I, O Indra, were, like thee, the single Sovran of all wealth,
@@ -227,6 +235,8 @@ Thou, Indra, castest down to earth.
 <p id="v15"><sup><small>15</small></sup>  As Soma-drinker conquering all, thou scatteredst to every side
 Their settlement who poured no gifts.
 
+<span id="h15"></span>
+
 ## HYMN XV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  SING forth to him whom many men invoke, to him whom many laud.
@@ -256,6 +266,8 @@ Still with our heroes fight and win the light of heaven.
 <p id="v13"><sup><small>13</small></sup>  Already have all forms of him entered our spacious dwelling-place:
 For victory stir thou Indra, up, the Lord of Might.
 
+<span id="h16"></span>
+
 ## HYMN XVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  PRAISE Indra whom our songs must laud, sole Sovran of mankind, the Chief
@@ -282,6 +294,8 @@ And quells their foemen in the fray.
 Safely beyond all enemies.
 <p id="v12"><sup><small>12</small></sup>  As such, O Indra, honour us with gifts of booty, further us,
 And lead us to felicity.
+
+<span id="h17"></span>
 
 ## HYMN XVII Indra.
 
@@ -315,6 +329,8 @@ To him have I addressed my thought.
 The drop of Soma breaketh all the strongholds down, and Indra is the Ṛṣis’ Friend.
 <p id="v15"><sup><small>15</small></sup>  Holy Prdikusanu, winner of the spoil, one eminent o’er many men,
 Lead on the wild horse Indra with his vigorous grasp forward to drink the Soma juice.
+
+<span id="h18"></span>
 
 ## HYMN XVIII. Ādityas.
 
@@ -362,6 +378,8 @@ Mitra and Varuṇa for weal we supplicate.
 Unthreatened, Maruts! meet for praise, and filled with men.
 <p id="v22"><sup><small>22</small></sup>  And as we human beings, O Ādityas, are akin to death,
 Graciously lengthen ye our lives that we may live.
+
+<span id="h19"></span>
 
 ## HYMN XIX. Agni.
 
@@ -438,6 +456,8 @@ May we, O Mitra, Varuṇa, and Aryaman, like him be furtherers of your law.
 Most liberal, kind, lord of the brave.
 <p id="v37"><sup><small>37</small></sup>  And Śyāva too for me led forth a strong steed at Suvastu's ford:
 A herd of three times seventy kine, good lord of gifts, he gave to me.
+
+<span id="h20"></span>
 
 ## HYMN XX Maruts.
 

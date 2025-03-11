@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h1"></span>
+
 ## HYMN I. Agni
 
 <p id="v1"><sup><small>1</small></sup>  Agni is wakened by the people's fuel to meet the Dawn who cometh like a milch-cow.
@@ -58,6 +60,8 @@ Mark well the prayer of him who best extols thee. Great, high, auspicious, Agni,
 Knowing the paths by mid-air's spacious region bring hither Gods to feast on our oblation.
 <p id="v12"><sup><small>12</small></sup>  To him adorable, sage, strong and mighty we have sung forth our song of praise and homage.
 Gavisthira hath raised with prayer to Agni this laud far-reaching, like gold light to heaven.
+
+<span id="h2"></span>
 
 ## HYMN II. Agni.
 
@@ -86,6 +90,8 @@ If thou, O Agni, God, accept it gladly, may we obtain thereby the heavenly Water
 <p id="v12"><sup><small>12</small></sup>  May he, the strong-necked Steer, waxing in vigour, gather the foeman's wealth with none to check him.
 Thus to this Agni have the Immortals spoken. To man who spreads the grass may he grant shelter, grant shelter to the man who brings oblation.
 
+<span id="h3"></span>
+
 ## HYMN III. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU at thy birth art Varuṇa, O Agni; when thou art kindled thou becomest Mitra.
@@ -113,6 +119,8 @@ Thieves have been seen by us and open foemen: unknown have been the plottings of
 <p id="v12"><sup><small>12</small></sup>  To thee these eulogies have been directed: or to the Vasu hath this sin been spoken.
 But this our Agni, flaming high, shall never yield us to calumny, to him who wrongs us.
 
+<span id="h4"></span>
+
 ## HYMN IV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  O AGNI, King and Lord of wealth and treasures, in thee is my delight at sacrifices.
@@ -137,6 +145,8 @@ Praised with our homage even as Atri praised thee, O Agni, be the guardian of ou
 Vouchsafe us high renown, O Jātavedas, and may I be immortal by my children.
 <p id="v11"><sup><small>11</small></sup>  The pious man, O Jātavedas Agni, to whom thou grantest ample room and pleasure,
 Gaineth abundant wealth with sons and horses, with heroes and with kine for his well-being.
+
+<span id="h5"></span>
 
 ## HYMN V. Āprīs.
 
@@ -163,6 +173,8 @@ Send our oblations thitherward.
 <p id="v11"><sup><small>11</small></sup>  To Agni and to Varuṇa, Indra, the Maruts, and the Gods,
 With Svāhā be oblation brought.
 
+<span id="h6"></span>
+
 ## HYMN VI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  I VALUE Agni that good Lord, the home to which the kine return:
@@ -187,6 +199,8 @@ So fill us also, in our hymns, abundantly, O Lord of Strength. Bring food to tho
 <p id="v10"><sup><small>10</small></sup>  Thus Agni have we duly served with sacrifices and with hymns.
 So may he give us what we crave, store of brave sons and fleet-foot steeds. Bring food to those who sing thy praise.
 
+<span id="h7"></span>
+
 ## HYMN VII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  OFFER to Agni, O my friends, your seemly food, your seemly praise;
@@ -210,6 +224,8 @@ Bestow upon these mortals fame and splendour and intelligence.
 <p id="v10"><sup><small>10</small></sup>  Such zeal hath he, resistless one: he gained the cattle given by thee.
 Agni, may Atri overcome the Dasyus who bestow no gifts, subdue the men who give no food.
 
+<span id="h8"></span>
+
 ## HYMN VIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  O AGNI urged to strength, the men of old who loved the Law enkindled thee,
@@ -228,6 +244,8 @@ Thee, widely-reaching, homed in sacred oil, invoked, effulgent, have they made t
 <p id="v7"><sup><small>7</small></sup>  Men seeking joy have lit thee worshipped from of old, O Agni, with good fuel and with sacred oil.
 So thou, bedewed and waxing mighty by the plants, spreadest thyself abroad over the realms of earth.
 
+<span id="h9"></span>
+
 ## HYMN IX. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  BEARING; oblations mortal men, O Agni, worship thee the God.
@@ -244,6 +262,8 @@ When Tṛta in the height of heaven, like as a smelter fanneth thee, e’en as a
 May we, averting hate, subdue the wickedness of mortal men.
 <p id="v7"><sup><small>7</small></sup>  O Agni, to our heroes bring such riches, thou victorious God.
 May he protect and nourish us, and help in gaining strength: be thou near us in fight for our success.
+
+<span id="h10"></span>
 
 ## HYMN X. Agni.
 

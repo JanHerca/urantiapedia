@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Sarasvatī.
 
 <p id="v1"><sup><small>1</small></sup>  To Vadhryasva when. be worshipped her with gifts she gave fierce Divodāsa, canceller of debts.
@@ -65,6 +67,8 @@ Gladly accept our friendship and obedience: let us not go from thee to distant c
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<span id="h62"></span>
+
 ## HYMN LXII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  I LAUD the Heroes Twain, this heaven's Controllers: singing with songs of praise I call the Aśvins,
@@ -90,6 +94,8 @@ Strike off, ye Twain, the heads of our assailants who with man's treacherous att
 <p id="v11"><sup><small>11</small></sup>  Come hitherward to us with teams of horses, the highest and the midmost and the lowest.
 Bountiful Lords, throw open to the singer doors e’en of the firm-closed stall of cattle.
 
+<span id="h63"></span>
+
 ## HYMN LXIII. Aśvins.
 
 <p id="v1"><sup><small>1</small></sup>  WHERE hath the hymn with reverence, like an envoy, found both fair Gods to-day, invoked of many-
@@ -114,6 +120,8 @@ Sanda gave ten gold-decked and well-trained horses, tame and obedient and of lof
 Gave, Heroes! to the singer Bharadvāja. Ye-Wonder-Workers, let the fiends be slaughtered.
 <p id="v11"><sup><small>11</small></sup>  May I with princes share your bliss in freedom.
 
+<span id="h64"></span>
+
 ## HYMN LXIV. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  THE radiant Dawns have risen up for glory, in their white splendour like the waves of waters.
@@ -129,6 +137,8 @@ Thou who, a Goddess, Child of Heaven, hast shown thee lovely through bounty when
 <p id="v6"><sup><small>6</small></sup>  As the birds fly forth from their restingplaces, so men with store of food rise at thy dawning.
 Yea, to the liberal mortal who rernaineth at home, O Goddess Dawn, much good thou bringest.
 
+<span id="h65"></span>
+
 ## HYMN LXV. Dawn.
 
 <p id="v1"><sup><small>1</small></sup>  SHEDDING her light on human habitations this Child of Heaven hath called us from our slumber;
@@ -143,6 +153,8 @@ Now for the singer when he sings the praise-song. Even to one like me ye brought
 With prayer and holy hymn they burst them open: the heroes' calling on the Gods was fruitful.
 <p id="v6"><sup><small>6</small></sup>  Shine on us as of old, thou Child of Heaven,on him, rich Maid! who serves like Bharadvāja.
 Give to the singer wealth with noble heroes, and upon us bestow wide-spreading glory.
+
+<span id="h66"></span>
 
 ## HYMN LXVI. Maruts.
 
@@ -194,6 +206,8 @@ Then may we sing you lauds that shall be fruitful: dp ye not rival all the Gods 
 <p id="v11"><sup><small>11</small></sup>  O Mitra-Varuṇa, may your large bounty come to us hither, near to this our dwelling,
 When the kine haste to us, and when they harness the fleet-foot mettled stallion for the battle.
 
+<span id="h68"></span>
+
 ## HYMN LXVIII. Indra-Varuṇa.
 
 <p id="v1"><sup><small>1</small></sup>  HIS honouring rite whose grass is trimmed is offered swiftly to you, in Manu's wise, accordant,
@@ -219,6 +233,8 @@ Your chariot cometh to the banquet of the Gods, to sacrifice, as it were home, t
 <p id="v11"><sup><small>11</small></sup>  Indra and Varuṇa, drink your fill, ye Heroes, of this invigorating sweetest Soma.
 This juice is shed by us that ye may quaff it: on this trimmed grass be seated, and rejoice you
 
+<span id="h69"></span>
+
 ## HYMN LXIX. Indra-Viṣṇu
 
 <p id="v1"><sup><small>1</small></sup>  INDRA and Viṣṇu, at my task's completion I urge you on with food and sacred service.
@@ -237,6 +253,8 @@ Fed with the holy oil, vouchsafe us riches ye are the lake, the vat that holds t
 The sweet exhilarating juice hath reached you. Hear ye my prayers, give ear unto my calling.
 <p id="v8"><sup><small>8</small></sup>  Ye Twain have conquered, ne’er have yc been conquered: never hath either of the Twain been vanquished.
 Ye, Indra-Viṣṇu, when ye fought the battle, produced this infinite with three divisions.
+
+<span id="h70"></span>
 
 ## HYMN LXX. Heaven and Earth.
 

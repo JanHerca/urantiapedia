@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h31"></span>
+
 ## HYMN XXXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MAGHAVAN Indra turns his chariot downward, the strength-displaying car which he hath mounted.
@@ -61,6 +63,8 @@ The creaking stone is laid upon the altar, and the Adhvaryus come to turn it qui
 <p id="v13"><sup><small>13</small></sup>  Let mortals who were happy still be happy; let them not come to sorrow, O Immortal.
 Love thou the pious, and to these thy people-with whom may we be numbered-give thou vigour.
 
+<span id="h32"></span>
+
 ## HYMN XXXII. Indra.
 
 1ṬHE well thou clavest, settest free the fountains, and gavest rest to floods that were obstructed.
@@ -89,6 +93,8 @@ As such my wishes have most lately grasped him, invoking Indra both at eve and m
 <p id="v12"><sup><small>12</small></sup>  So, too, I hear of thee as in due season urging to action and enriching singers.
 What have thy friends received from thee, the Brahmans who, faithful, rest their hopes on thee, O Indra?
 
+<span id="h33"></span>
+
 ## HYMN XXXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT praise to Indra, great and strong mid heroes, I ponder thus, the feeble to the Mighty,
@@ -113,6 +119,8 @@ And thousands which kind Cyavatana gave me, abundantly bestowed for my adornment
 <p id="v10"><sup><small>10</small></sup>  And these commended horses, bright and active, by Dhvanya son of Laksmana presented,
 Came unto me, as cows into the Ṛṣi Samvarana's stall, with magnitude of riches.
 
+<span id="h34"></span>
+
 ## HYMN XXXIV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  BOUNDLESS and wasting not, the heavenly food of Gods goes to the foeless One, doer of wondrous deeds.
@@ -134,6 +142,8 @@ He who stirs all things takes one as his close ally, and, Shaker, with his Heroe
 <p id="v9"><sup><small>9</small></sup>  Agni! I laud the liberal Agnivesi, Satri the type and standard of the pious.
 May the collected waters yield him plenty, and his be powerful and bright dominion.
 
+<span id="h35"></span>
+
 ## HYMN XXXV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA, for our assistance bring that most effectual power of thine,
@@ -153,6 +163,8 @@ That bears its part in every fray, invincible and seeking spoil.
 <p id="v8"><sup><small>8</small></sup>  Come to us, Indra, and protect our car with thine intelligence.
 May we, O Mightiest One, obtain excellent fame at break of day, and meditate our hymn at dawn.
 
+<span id="h36"></span>
+
 ## HYMN XXXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MAY Indra come to us, he who knows rightly to give forth treasures from his store of riches.
@@ -168,6 +180,8 @@ So, fair of cheek, with mighty chariot, mighty, uphold us, strong-willed, thunde
 <p id="v6"><sup><small>6</small></sup>  Maruts, let all the people in obeisance bow down before this youthful Srutaratha,
 Who, rich in steeds, gave me two dark red horses together with three hundred head of cattle.
 
+<span id="h37"></span>
+
 ## HYMN XXXVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  BEDEWED with holy oil and meetly worshipped, the Swift One vies with Sūrya's beam in splendour.
@@ -180,6 +194,8 @@ Here may his car seek fame, here loudly thunder, and his wheel make a thousand r
 With heroes he drives near, he slays the foeman: Blest, cherishing that name, he guards his people.
 <p id="v5"><sup><small>5</small></sup>  May he support in peace and win in battle: he masters both the hosts that meet together.
 Dear shall he be to Sūrya, dear to Agni, who with pressed Soma offers gifts to India.
+
+<span id="h38"></span>
 
 ## HYMN XXXVIII. Indra.
 
@@ -194,6 +210,8 @@ Bring thou to us heroic strength: thou hast a man's regard for us.
 <p id="v5"><sup><small>5</small></sup>  In thy protection, with these aids of thine, O Lord of Hundred Powers,
 Indra, may we be guarded well, Hero, may we be guarded well.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  STONE-DARTING Indra. Wondrous One, what wealth is richly given from thee,
@@ -206,6 +224,8 @@ With this thou rendest e’en the firm, Stone-Darter! so to gain thee strength.
 Him who is King of human kind, most liberal of your wealthy ones.
 <p id="v5"><sup><small>5</small></sup>  To him, to Indra must be sung the poet's word, the hymn of praise.
 To him, accepter of the prayer, the Atris raise their songs on high, the Atris beautify their songs.
+
+<span id="h40"></span>
 
 ## HYMN XL. Indra. Sūrya. Atri.
 

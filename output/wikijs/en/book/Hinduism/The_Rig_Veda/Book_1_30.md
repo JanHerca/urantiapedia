@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Indra-Agni.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA and Agni I invoke fain are we for their song of praise:
@@ -46,6 +48,8 @@ Indra and Agni, come to us.
 Childless be the devouring ones.
 <p id="v6"><sup><small>6</small></sup>  Watch ye, through this your truthfulness, there in the place of spacious view
 Indra and Agni, send us bliss.
+
+<span id="h22"></span>
 
 ## HYMN XXII. Aśvins and Others
 
@@ -91,6 +95,8 @@ Hath let his holy ways be seen.
 Laid as it were an eye in heaven.
 <p id="v21"><sup><small>21</small></sup>  This, Viṣṇu's station most sublime, the singers, ever vigilant,
 Lovers of holy song, light up.
+
+<span id="h23"></span>
 
 ## HYMN XXIII. Vāyu and Others.
 
@@ -143,6 +149,8 @@ O Agni, rich in milk, come thou, and with thy splendour cover me.
 <p id="v24"><sup><small>24</small></sup>  Fill me with splendour, Agni; give offspring and length of days; the Gods
 Shall know me even as I am, and Indra with the Ṛṣis, know.
 
+<span id="h24"></span>
+
 ## HYMN XXIV. Varuṇa and Others.
 
 <p id="v1"><sup><small>1</small></sup>  WHO now is he, what God among Immortals, of whose auspicious name we may bethink us?
@@ -175,6 +183,8 @@ Him may the Sovran Varuṇa deliver, wise, ne’er deceived, loosen the bonds th
 Wise Asura, thou King of wide dominion, loosen the bonds of sins by us committed.
 <p id="v15"><sup><small>15</small></sup>  Loosen the bonds, O Varuṇa, that hold me, loosen the bonds above, between, and under.
 So in thy holy law may we made sinless belong to Aditi, O thou Āditya.
+
+<span id="h25"></span>
 
 ## HYMN XXV. Varuṇa.
 
@@ -221,6 +231,8 @@ Hear, as thou goest on thy way.
 <p id="v21"><sup><small>21</small></sup>  Release us from the upper bond, untie the bond between, and loose
 The bonds below, that I may live.
 
+<span id="h26"></span>
+
 ## HYMN XXVI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  O WORTHY of oblation, Lord of prospering powers, assume thy robes,
@@ -243,6 +255,8 @@ So, with bright fires, we pray to thee.
 Belong to us and thee alike.
 <p id="v10"><sup><small>10</small></sup>  With all thy fires, O Agni, find pleasure in this our sacrifice,
 And this our speech, O Son of Strength.
+
+<span id="h27"></span>
 
 ## HYMN XXVII. Agni.
 
@@ -273,6 +287,8 @@ Refulgent, hear us through our lauds.
 <p id="v13"><sup><small>13</small></sup>  Glory to Gods, the mighty and the lesser glory to Gods the younger and the elder!
 Let us, if we have power, pay the God worship: no better prayer than this, ye Gods, acknowledge.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Indra, Etc.
 
 <p id="v1"><sup><small>1</small></sup>  THERE where the broad-based stone raised on high to press the juices out,
@@ -293,6 +309,8 @@ Like two bay horses champing herbs.
 Sweet Soma juice for Indra's drink.
 <p id="v9"><sup><small>9</small></sup>  Take up in beakers what remains: the Soma on the filter pour,
 and on the ox-hide set the dregs.
+
+<span id="h29"></span>
 
 ## HYMN XXIX. Indra.
 
@@ -317,6 +335,8 @@ In thousands, O most wealthy One.
 <p id="v7"><sup><small>7</small></sup>  Slay each reviler, and destroy him who in secret injures us:
 Do thou, O Indra, give us hope of beauteous horses and of kine
 In thousands, O most wealthy One.
+
+<span id="h30"></span>
 
 ## HYMN XXX. Indra.
 

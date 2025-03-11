@@ -201,6 +201,8 @@ The Kuśikas have made the glorious hymn ascend, and, each one singly in his hom
 <p id="v16"><sup><small>16</small></sup>  As we, O Priest observant, have elected thee this day, what time the solemn sacrifice began,
 So surely hast thou worshipped, surely hast thou toiled: come thou unto the Soma, wise and knowing all.
 
+<span id="h30"></span>
+
 ## HYMN XXX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  THE friends who offer Soma long to find thee: they pour forth Soma and present their viands.

@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h81"></span>
+
 ## HYMN LXXXI. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  ONWARD to Indra's throat move, beauteously adorned, the waves of Soma as he purifies himself,
@@ -44,6 +46,8 @@ Giver of life, with wisdom help to opulence; strew not our home possessions far 
 The Maruts, Aśvins, Vāyu, and Bṛhaspati, Savitar, Tvaṣṭar, tractable Sarasvatī.
 <p id="v5"><sup><small>5</small></sup>  Both Heaven and Earth, the all-invigorating Pair, Vidhatar, Aditi, and Aryaman the God,
 Bhaga who blesses men, the spacious Firmament,—let all the Gods in Pavamana take delight.
+
+<span id="h82"></span>
 
 ## HYMN LXXXII. Soma Pavamana.
 
@@ -58,6 +62,8 @@ Amid the holy songs go on that we may live: in time of trouble, Soma, watch thou
 <p id="v5"><sup><small>5</small></sup>  As to the men of old thou camest, Indu unharmed, to strengthen, winning hundreds, thousands,
 So now for new felicity flow onward: the waters follow as thy law ordaineth.
 
+<span id="h83"></span>
+
 ## HYMN LXXXIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  SPREAD is thy cleansing filter, Brahmaṇaspati: as Prince, thou enterest its limbs from every side.
@@ -71,6 +77,8 @@ Lord of the snare, he takes the foeman with the snare: those who are most devout
 <p id="v5"><sup><small>5</small></sup>  Rich in oblations! robed in cloud, thou corapassest oblation, sacrifice, the mighty seat of Gods.
 King, on thy chariot-sieve thou goest up to war, and with a thousand weapons winnest lofty fame.
 
+<span id="h84"></span>
+
 ## HYMN LXXXIV. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FLOW, cheering Gods, most active, winner of the flood, for Indra, and for Vāyu, and for Varuṇa.
@@ -83,6 +91,8 @@ He, poured forth in a stream flows with the lightning's flash, Soma who gladdens
 Indu with winds drives on the ocean of the air, he sinks within the jars, he rests in Indra's heart.
 <p id="v5"><sup><small>5</small></sup>  The kine with milk dress him who makes the milk increase, Soma, amid the songs, who finds the light of heaven.
 Winner of wealth, the effectual juice is flowing on, Singer and Sage by wisdom, dear as heaven itself.
+
+<span id="h85"></span>
 
 ## HYMN LXXXV. Soma Pavamana.
 
@@ -110,6 +120,8 @@ The drop that hath grown great in waters, in the lake meath-rich, in the stream'
 Hymns kiss the Youngling worthy of laudation, resting on earth, the Bird of golden colour.
 <p id="v12"><sup><small>12</small></sup>  High to heaven's vault hath the Gandharva risen, beholding all his varied forms and figures.
 His ray hath shone abroad with gleaming splendour: pure, he hath lighted both the worlds, the Parents.
+
+<span id="h86"></span>
 
 ## HYMN LXXXVI. Soma Pavamana.
 
@@ -210,6 +222,8 @@ When, Indu, thou art. balmed with milk within the bowl, thou sinkest in the jars
 <p id="v48"><sup><small>48</small></sup>  Winner of power, flow, Soma, worthy of our laud: run onward to the fleece as well-beloved meath.
 Destroy, O Indu, all voracious Rākṣasas. With brave sons in the assembly let our speech be bold.
 
+<span id="h87"></span>
+
 ## HYMN LXXXVII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  RUN onward to the reservoir and seat thee: cleansed by the men speed forward to the battle.
@@ -231,6 +245,8 @@ Soma's stream clears itself for thee, O Indra, like lightning thundering through
 <p id="v9"><sup><small>9</small></sup>  Cleansing thyselr, and borne along with Indra, Soma, thou goest round the herd of cattle.
 May thy praise help us, Mighty One, prompt Giver, to the full ample food which thou bestowest.
 
+<span id="h88"></span>
+
 ## HYMN LXXXVIII. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  FOR thee this Soma is effused, O Indra: drink of this juice; for thee the stream is flowing-
@@ -250,6 +266,8 @@ Quickly be gracious unto us like waters, like sacrifice victorious, thousand-fas
 <p id="v8"><sup><small>8</small></sup>  Thine are King Varuṇa's eternal statutes, lofty and deep, O Soma, is thy glory.
 All-pure art thou like Mitra the beloved, adorable, like Aryaman, O Soma.
 
+<span id="h89"></span>
+
 ## HYMN LXXXIX. Soma Pavamana.
 
 <p id="v1"><sup><small>1</small></sup>  THIS Chariot-horse hath moved along the pathways, and Pavamana flowed like rain from heaven.
@@ -266,6 +284,8 @@ To him they flow, when purified, with homage, and still, from every side, are fi
 Be the team's Lord a well to thee the singer: cleansed is the sweet plant's stalk for deed of glory.
 <p id="v7"><sup><small>7</small></sup>  Fighting, uninjured come where Gods are feasted; Soma, as Vitra-slayer flow for Indra.
 Vouchsafe us ample riches very splendid may we be masters of heroic vigour.
+
+<span id="h90"></span>
 
 ## HYMN XC. Soma Pavamana,
 

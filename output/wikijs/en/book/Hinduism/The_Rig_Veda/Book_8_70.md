@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h61"></span>
+
 ## HYMN LXI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  PREPARE oblation: let him come; and let the minister serve again
@@ -70,6 +72,8 @@ Together with the Sun's seven rays.
 That is the sick man's medicine.
 <p id="v18"><sup><small>18</small></sup>  From where oblations must be laid, which is the Well-beloved's home,
 He with his tongue hath compassed heaven.
+
+<span id="h62"></span>
 
 ## HYMN LXII. Aśvins.
 
@@ -110,6 +114,8 @@ Let your protecting help be near.
 <p id="v18"><sup><small>18</small></sup>  By the black band encompassed round, break it down, bold one, like a fort.
 Let your protecting help be near.
 
+<span id="h63"></span>
+
 ## HYMN LXIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  EXERTING all our strength with thoughts of power we glorify in speech
@@ -142,6 +148,8 @@ The heads of four presented steeds, like the long wool of fleecy rams.
 Shall bring me to the sacred feast, as flying steeds brought Tugra's son.
 <p id="v15"><sup><small>15</small></sup>  The very truth do I declare to thee, Paruṣṇī, mighty flood.
 Waters! no man is there who gives more horses than Savistha gives.
+
+<span id="h64"></span>
 
 ## HYMN LXIV. Agni.
 
@@ -177,6 +185,8 @@ Assist the men with whom I stand.
 <p id="v16"><sup><small>16</small></sup>  As we have known thy gracious help, as of a Father, long ago,
 So now we pray to thee for bliss.
 
+<span id="h65"></span>
+
 ## HYMN LXV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  NOT to forsake me, I invoke this Indra girt by Maruts,
@@ -204,6 +214,8 @@ What time thou smotest Dasyus dead.
 <p id="v12"><sup><small>12</small></sup>  From Indra have I measured out a song eight-footed with nine parts,
 Delicate, faithful. to the Law.
 
+<span id="h66"></span>
+
 ## HYMN LXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  SCARCELY was Śatakratu, born when of his Mother he inquired,
@@ -229,6 +241,8 @@ A hundred buffaloes, a brew of rice and milk: and Indra, slew the ravening boar
 <p id="v11"><sup><small>11</small></sup>  Most deadly is thy bow, successful, fashioned well: good is thine arrow, decked with gold.
 Warlike and well equipped thine arms are, which increase sweetness for him who drinks the sweet.
 
+<span id="h67"></span>
+
 ## HYMN LXVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  BRING us a thousand, Indra, as our guerdon for the Soma juice:
@@ -252,6 +266,8 @@ Yea, craving horses, speeds to thee.
 <p id="v10"><sup><small>10</small></sup>  Indra, through hope in thee alone even this sickle do I grasp.
 Fill my hand, Maghavan, with all that it can hold of barley cut or gathered up.
 
+<span id="h68"></span>
+
 ## HYMN LXVIII. Soma.
 
 <p id="v1"><sup><small>1</small></sup>  THIS here is Soma, ne’er restrained, active, all-conquering bursting forth,
@@ -272,6 +288,8 @@ Be sweet, O Soma, to our heart.
 Wound not our heart with dazzling flame.
 <p id="v9"><sup><small>9</small></sup>  When in my dwelling-place I see the wicked enemies of Gods,
 King, chase their hatred far away, thou Bounteous One, dispel our foes.
+
+<span id="h69"></span>
 
 ## HYMN LXIX. Indra
 
@@ -295,6 +313,8 @@ The barriers are opened wide.
 So art thou held to be our Lord.
 <p id="v10"><sup><small>10</small></sup>  Ekadyu hath exalted you, Immortals: both Goddesses and Gods hath he delighted.
 Bestow upon him bounty meet for praises. May he, enriched with prayer, come soon and early.
+
+<span id="h70"></span>
 
 ## HYMN LXX. Indra.
 

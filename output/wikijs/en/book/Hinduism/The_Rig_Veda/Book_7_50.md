@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h41"></span>
+
 ## HYMN XLI. Bhaga.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI at dawn, and Indra we invoke at dawn, and Varuṇa and Mitra, and the Aśvins twain.
@@ -49,6 +51,8 @@ As strong steeds draw a chariot may they bring us hitherward Bhaga who discovers
 <p id="v7"><sup><small>7</small></sup>  May blessed Mornings dawn on us for ever, with wealth of kine, of horses, and of heroes,
 Streaming with all abundance, pouring fatness. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h42"></span>
+
 ## HYMN XLII Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  LET Brahmans and Aṅgirases come forward, and let the roar of cloudy heaven surround us.
@@ -64,6 +68,8 @@ Here on our grass let Night and Dawn be seated: bring longing Varuṇa and Mitra
 <p id="v6"><sup><small>6</small></sup>  Thus hath Vasiṣṭha praised victorious Agni, yearning for wealth that giveth all subsistence.
 May he bestow on us food, strength, and riches. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h43"></span>
+
 ## HYMN XLIII Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  SING out the pious at your sacrifices to move with adorations Earth and Heaven-
@@ -76,6 +82,8 @@ Let general fire make bright the flame of worship: scorn us not, Agni, in the Go
 The highest might to-day is yours, the Vasits': come ye, as many as ye are, one-minded.
 <p id="v5"><sup><small>5</small></sup>  So, Agni, send us wealth among the people: may we be closely knit to thee, O Victor,
 Unharmed, and rich, and taking joy together. Preserve us evermore, ye ods, with blessings.
+
+<span id="h44"></span>
 
 ## HYMN XLIV. Dadhikrās.
 
@@ -90,6 +98,8 @@ Closely allied with Sūrya and with Morning, Ādityas, and Aṅgirases, and Vasu
 <p id="v5"><sup><small>5</small></sup>  May Dadhikrās prepare the way we travel that we may pass along the path of Order.
 May Agni bear us, and the Heavenly Army: hear us all Mighty Ones whom none deceiveth.
 
+<span id="h45"></span>
+
 ## HYMN XLV. Savitar.
 
 <p id="v1"><sup><small>1</small></sup>  MAY the God Savitar, rich in goodly treasures, filling the region, borne by steeds, come hither,
@@ -100,6 +110,8 @@ Now shall that mightiness of his he lauded: even Sūrya yields to him in active 
 May he, advancing his far-spreading lustre, bestow on us the food that feedeth mortals.
 <p id="v4"><sup><small>4</small></sup>  These songs praise Savitar whose tongue is pleasant, praise him whose arms are full, whose hands are lovely.
 High vital strength, and manifold, may he grant us. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h46"></span>
 
 ## HYMN XLVI. Rudra.
 
@@ -112,6 +124,8 @@ Thou, very gracious God, hast thousand medicines: inflict no evil on our sons or
 <p id="v4"><sup><small>4</small></sup>  Slay us not, nor abandon us, O Rudra let not thy noose, when thou art angry, seize us.
 Give us trimmed grass and fame among the living. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h47"></span>
+
 ## HYMN XLVII. Waters.
 
 <p id="v1"><sup><small>1</small></sup>  MAY we obtain this day from you, O Waters, that wave of pure refreshment, which the pious
@@ -122,6 +136,8 @@ That shall make Indra and the Vasus joyful. This may we gain from you to-day, we
 They never violate the laws of Indra. Present the oil-rich offering to the Rivers.
 <p id="v4"><sup><small>4</small></sup>  Whom Sūrya with his bright beams hath attracted, and Indra dug the path for them to travel,
 May these Streams give us ample room and freedom. Preserve us evermore, ye Gods, with blessings.
+
+<span id="h48"></span>
 
 ## HYMN XLVIII. Ṛbhus.
 
@@ -134,6 +150,8 @@ May Indra, Vibhvan, Vāja, and Ṛbhukṣan destroy by turns the wicked foeman's
 <p id="v4"><sup><small>4</small></sup>  Now, Deities, give us ample room and freedom: be all of you, one-minded, our protection.
 So let the Vasus grant us strength and vigour. Preserve us evermore, ye Gods, with blessings.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Waters.
 
 <p id="v1"><sup><small>1</small></sup>  FORTH from the middle of the flood the Waters-their chief the Sea-flow cleansing, never sleeping.
@@ -144,6 +162,8 @@ Bright, purifying, speeding to the Ocean, here let those Waters. Goddesses, prot
 Distilling meath, the bright, the purifying, here let those Waters, Goddesses, protect me.
 <p id="v4"><sup><small>4</small></sup>  They from whom Varuṇa the King, and Soma, and all the Deities drink strength and vigour,
 They into whom Vaiśvānara Agni entered, here let those Waters, Goddesses, protect Me.
+
+<span id="h50"></span>
 
 ## HYMN L. Various Deities.
 
