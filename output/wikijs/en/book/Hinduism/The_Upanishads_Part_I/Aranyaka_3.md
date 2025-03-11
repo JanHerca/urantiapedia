@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-
+THIRD ÂRA<i>N</i>YAKA
 
 <figure class="table chapter-navigator">
   <table>
