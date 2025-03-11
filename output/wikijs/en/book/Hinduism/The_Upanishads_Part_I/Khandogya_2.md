@@ -294,7 +294,7 @@ SECOND PRAPÂTHAKA.
 
 [^132]: 25:1 Prâ<i>n</i>a is explained by ghrâ<i>n</i>a, smell; possibly ghrâ<i>n</i>a may have been the original reading. Anyhow, it cannot be the mukhya prâ<i>n</i>a here, because it is distinctly represented as the lowest sense.
 
-[^133]: 26:1 These are again the stobhâksharas, or musical syllables used in the performance of the Sâman hymns; see [p. 22](sbe01034.htm#p22).
+[^133]: 26:1 These are again the stobhâksharas, or musical syllables used in the performance of the Sâman hymns; see [p. 22](Introduction#p22).
 
 [^134]: 26:2 Cf. <i>Kh</i>. Up. II, 2, 2. Comm.
 

@@ -215,7 +215,7 @@ Learn from me the true nature of sleep (svapna). When a man sleeps here, then, m
 
 <span id="p104">[<sup><small>p. 104</small></sup>]</span>
 
-## TWELFTH KHA<i>N</i><i>D</i>A [1](sbe01131.htm#fn_291).
+## TWELFTH KHA<i>N</i><i>D</i>A [1](Khandogya_6#fn291).
 
 1\. ‘Fetch me from thence a fruit of the Nyagrodha tree.’
 

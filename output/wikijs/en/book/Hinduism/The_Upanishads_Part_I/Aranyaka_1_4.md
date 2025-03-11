@@ -76,7 +76,7 @@ FOURTH ADHYÂYA.
 
 10\. He (the bird and the hymn) is supported by two decades which are Virâ<i>g</i>. The man (the sacrificer) is supported by the two Dvipadâs, the twenty first and twenty-second. That which forms the bird serves for the attainment of all desires; that which forms the man, serves for his happiness, glory, proper food, and honour.
 
-11\. Next comes a Sûdadohas verse, then a Dhayyâ, then a Sûdadohas verse. The Sûdadohas is a man, the Dhayyâ a woman, therefore he recites the Dhayyâ as embraced on both sides by the Sûdadohas. Therefore does the seed of both, when it is effused, obtain oneness, and this with regard to the <span id="p192">[<sup><small>p. 192</small></sup>]</span> woman only. Hence birth takes place in and from the woman. Therefore he recites that Dhayyâ in that place [1](sbe01198.htm#fn_473).
+11\. Next comes a Sûdadohas verse, then a Dhayyâ, then a Sûdadohas verse. The Sûdadohas is a man, the Dhayyâ a woman, therefore he recites the Dhayyâ as embraced on both sides by the Sûdadohas. Therefore does the seed of both, when it is effused, obtain oneness, and this with regard to the <span id="p192">[<sup><small>p. 192</small></sup>]</span> woman only. Hence birth takes place in and from the woman. Therefore he recites that Dhayyâ in that place [1](Aranyaka_1_4#fn473).
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 

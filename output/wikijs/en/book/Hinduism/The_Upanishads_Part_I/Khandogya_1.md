@@ -299,7 +299,7 @@ The sacrificer assented.
 
 8\. Then the Pratihart<i>ri</i> approached him, saying: ‘Sir, you said to me, “Pratihart<i>ri</i>, if you, without knowing the deity belonging to the pratihâra, are going to sing it, your head will fall off,”—Which then is that deity?’
 
-9\. He said: ‘Food (anna). For all these beings <span id="p21">[<sup><small>p. 21</small></sup>]</span> live when they partake of food. This is the deity belonging to the pratihâra. If, without knowing that deity, you had sung your hymns, your head would have fallen off, after you had been warned by me [1](sbe01033.htm#fn_113).’
+9\. He said: ‘Food (anna). For all these beings <span id="p21">[<sup><small>p. 21</small></sup>]</span> live when they partake of food. This is the deity belonging to the pratihâra. If, without knowing that deity, you had sung your hymns, your head would have fallen off, after you had been warned by me [1](Khandogya_1#fn113).’
 
 ## TWELFTH KHA<i>N</i><i>D</i>A.
 

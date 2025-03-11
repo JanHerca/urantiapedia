@@ -87,7 +87,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 1\. 'Will [^304] (saṅkalpa) is better than mind. For when a man wills, then he thinks in his mind, then he sends forth speech, and he sends it forth in a name. In a name the sacred hymns are contained, in the sacred hymns all sacrifices.
 
-2\. 'All these therefore (beginning with mind and <span id="p113">[<sup><small>p. 113</small></sup>]</span> ending in sacrifice) centre in will, consist of will, abide in will. Heaven and earth willed, air and ether willed, water and fire willed. Through the will of heaven and earth &c. rain wills; through the will of rain food wills; through the will of food the vital airs will; through the will of the vital airs the sacred hymns will; through the will of the sacred hymns the sacrifices will; through the will of the sacrifices the world (as their reward) wills; through the will of the world everything wills [1](sbe01139.htm#fn_305). This is will. Meditate on will.
+2\. 'All these therefore (beginning with mind and <span id="p113">[<sup><small>p. 113</small></sup>]</span> ending in sacrifice) centre in will, consist of will, abide in will. Heaven and earth willed, air and ether willed, water and fire willed. Through the will of heaven and earth &c. rain wills; through the will of rain food wills; through the will of food the vital airs will; through the will of the vital airs the sacred hymns will; through the will of the sacred hymns the sacrifices will; through the will of the sacrifices the world (as their reward) wills; through the will of the world everything wills [1](Khandogya_7#fn305). This is will. Meditate on will.
 
 3\. ‘He who meditates on will as Brahman, he, being himself safe, firm, and undistressed, obtains the safe, firm, and undistressed worlds which he has willed; he is, as it were, lord and master as far as will reaches—he who meditates on will as Brahman.’
 
@@ -245,7 +245,7 @@ Yes, there Is something better than ether.’
 4\. ‘Spirit then is all this. He who sees this, perceives this, and understands this, becomes an ativâdin [^316]. If people say to such a man, Thou <span id="p121">[<sup><small>p. 121</small></sup>]</span> art an ativâdin, he may say, I am an ativâdin; he need not deny it.’
 
 
-## SIXTEENTH KHA<i>N</i><i>D</i>A [1](sbe01152.htm#fn_317).
+## SIXTEENTH KHA<i>N</i><i>D</i>A [1](Khandogya_7#fn317).
 
 1\. ‘But in reality he is an ativâdin who declares the Highest Being to be the True (Satya, τὸ ὄντως ὄν).’
 
@@ -258,7 +258,7 @@ Yes, there Is something better than ether.’
 
 ## SEVENTEENTH KHA<i>N</i><i>D</i>A.
 
-1\. ‘When one understands the True, then one declares the True. One who does not understand it, does not declare the True [2](sbe01152.htm#fn_318). Only he who understands it, declares the True. This understanding, however, we must desire to understand.’
+1\. ‘When one understands the True, then one declares the True. One who does not understand it, does not declare the True [2](Khandogya_7#fn318). Only he who understands it, declares the True. This understanding, however, we must desire to understand.’
 
 ‘Sir, I desire to understand it.’
 
@@ -303,7 +303,7 @@ Yes, there Is something better than ether.’
 
 ## TWENTY-THIRD KHA<i>N</i><i>D</i>A.
 
-1\. ‘The Infinite (bhûman) [1](sbe01159.htm#fn_320) is bliss. There is no bliss in anything finite. Infinity only is bliss. This Infinity, however, we must desire to understand.’
+1\. ‘The Infinite (bhûman) [1](Khandogya_7#fn320) is bliss. There is no bliss in anything finite. Infinity only is bliss. This Infinity, however, we must desire to understand.’
 
 ‘Sir, I desire to understand it.’
 
@@ -313,7 +313,7 @@ Yes, there Is something better than ether.’
 
 ‘Sir, in what does the Infinite rest?’
 
-‘In its own greatness—or not even in greatness [2](sbe01159.htm#fn_321).’
+‘In its own greatness—or not even in greatness [2](Khandogya_7#fn321).’
 
 2\. ‘In the world they call cows and horses, elephants and gold, slaves, wives, fields and houses greatness. I do not mean this,’ thus he spoke; 'for in that case one being (the possessor) rests in something else, (but the Infinite cannot rest in something different from itself)
 

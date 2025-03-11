@@ -126,7 +126,7 @@ Now that world of Brahman belongs to those who find the lakes Ara and <i>N</i>ya
 
 <span id="p134">[<sup><small>p. 134</small></sup>]</span>
 
-And while his mind is failing, he is going to the sun. For the sun is the door of the world (of Brahman). Those who know, walk in; those who do not know, are shut out. There is this verse [1](sbe01167.htm#fn_340): ‘There are a hundred and one arteries of the heart; one of them penetrates the crown of the head; moving upwards by it a man reaches the immortal; the others serve for departing in different directions, yea, in different directions [2](sbe01167.htm#fn_341).’
+And while his mind is failing, he is going to the sun. For the sun is the door of the world (of Brahman). Those who know, walk in; those who do not know, are shut out. There is this verse [1](Khandogya_8#fn340): ‘There are a hundred and one arteries of the heart; one of them penetrates the crown of the head; moving upwards by it a man reaches the immortal; the others serve for departing in different directions, yea, in different directions [2](Khandogya_8#fn341).’
 
 ## SEVENTH KHA<i>N</i><i>D</i>A [^342].
 
