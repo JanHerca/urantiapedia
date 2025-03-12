@@ -245,23 +245,6 @@ dateCreated: 2025-1-14T23:38:14Z
 <span id="v5_2_5_1717"><sup><small>5:2:5:1717.</small></sup></span>  A bull is the fee for the Vai<i>s</i>vânara (oblation); for Vai<i>s</i>vânara is the year, and Pra<i>g</i>âpati is the year; and the bull is the Pra<i>g</i>âpati (lord of creatures or generation) among cows: therefore a bull is the fee for the Vai<i>s</i>vânara. A black cloth for the Vâru<i>n</i>a (oblation), for what is black belongs to Varu<i>n</i>a. If he cannot obtain a black one, any kind of cloth will do: it is by its knots that the cloth belongs to Vanilla, for the knot is sacred to Varu<i>n</i>a.
 
 
-## Footnotes
-
-[^121]: 54:1 That is, ‘the triply connected,’ the ceremony being made up of three rounds, each of which consists of three separate oblations,
-
-1\. Agnâvaish<i>n</i>ava cake, Aindrâvaish<i>n</i>ava pap, Vaish<i>n</i>ava pap;
-2\. Agnâpaush<i>n</i>a cake, Aindrâpaush<i>n</i>a pap, Paush<i>n</i>a pap;
-3\. Agnîshomîya cake, Aindrâsaumya pap, Samnya pap.
-
-\[paragraph continues\] In this way one of the three divinities for whom the offering is intended,—viz. Vish<i>n</i>u, Pûshan, and Soma,—is each time connected with the two head-gods, Agni and Indra.—In the Black Ya<i>g</i>ur-veda, this set of offerings (not, however, called there by this name), is preceded by another ceremony consisting of five oblations to Dhât<i>ri</i>, Anumati, Râkâ, Sinîvâlî, and Kuhû. Taitt. S. I, 8, 8. Cf. <i>S</i>ât. Br. IX, 5, 1, 38.
-
-[^122]: 55:1 See the legend, I, 2, 3, 1 seq., which represents Vish<i>n</i>u as a dwarf, who obtained from the Asuras as much ground for the gods, as he lay upon.—‘Tad dhi pa<i>s</i>ushu vaish<i>n</i>ava<i>m</i> rûpa<i>m</i> yad vâmanasya go<i>h</i>.’ Kâ<i>n</i>va rec.
-
-[^123]: 56:1 See V, 1, 3, 9.
-
-[^124]: 57:1 That is to say, he is either to perform the Vai<i>s</i>vânara on one, and the Vâru<i>n</i>a one on the next—in which case a different barhis, or altar-covering of sacrificial grass, would be needed—or he may perform them both on one and the same day, with the same barhis serving for both.
-
-[^125]: 57:2 See III, 8; 5, 10 where I translated, ‘from all (guilt) against Varu<i>n</i>a;’ varu<i>n</i>ya, doubtless, implies both the guilt incurred by the infringement of Varu<i>n</i>a's sacred laws, and the punishment inflicted by him. As regards the ‘swearing by Varu<i>n</i>a (?)’ there referred to, see <i>Ri</i>k S. X, 97, 16 where the conjurer mutters: ‘May they (the plants) free me from the (evil) resulting from the curse and from Varu<i>n</i>a;’—mu<i>ñ</i>kantu mâ <i>s</i>apathyâd atho varu<i>n</i>yâd uta.
 
 <figure class="table chapter-navigator">
   <table>
@@ -387,4 +370,16 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^120]: 53:2 Viz. an amulet consisting of a band running back into itself. The Kâ<i>n</i>va text has,—Tena hâpy etena vish<i>t</i>âvrâ<i>g</i>e pratisara<i>m</i> kurvîta.
 
+[^121]: 54:1 That is, ‘the triply connected,’ the ceremony being made up of three rounds, each of which consists of three separate oblations,
+  1\. Agnâvaish<i>n</i>ava cake, Aindrâvaish<i>n</i>ava pap, Vaish<i>n</i>ava pap;
+  2\. Agnâpaush<i>n</i>a cake, Aindrâpaush<i>n</i>a pap, Paush<i>n</i>a pap;
+  3\. Agnîshomîya cake, Aindrâsaumya pap, Samnya pap.
+  In this way one of the three divinities for whom the offering is intended,—viz. Vish<i>n</i>u, Pûshan, and Soma,—is each time connected with the two head-gods, Agni and Indra.—In the Black Ya<i>g</i>ur-veda, this set of offerings (not, however, called there by this name), is preceded by another ceremony consisting of five oblations to Dhât<i>ri</i>, Anumati, Râkâ, Sinîvâlî, and Kuhû. Taitt. S. I, 8, 8. Cf. <i>S</i>ât. Br. IX, 5, 1, 38.
 
+[^122]: 55:1 See the legend, I, 2, 3, 1 seq., which represents Vish<i>n</i>u as a dwarf, who obtained from the Asuras as much ground for the gods, as he lay upon.—‘Tad dhi pa<i>s</i>ushu vaish<i>n</i>ava<i>m</i> rûpa<i>m</i> yad vâmanasya go<i>h</i>.’ Kâ<i>n</i>va rec.
+
+[^123]: 56:1 See V, 1, 3, 9.
+
+[^124]: 57:1 That is to say, he is either to perform the Vai<i>s</i>vânara on one, and the Vâru<i>n</i>a one on the next—in which case a different barhis, or altar-covering of sacrificial grass, would be needed—or he may perform them both on one and the same day, with the same barhis serving for both.
+
+[^125]: 57:2 See III, 8; 5, 10 where I translated, ‘from all (guilt) against Varu<i>n</i>a;’ varu<i>n</i>ya, doubtless, implies both the guilt incurred by the infringement of Varu<i>n</i>a's sacred laws, and the punishment inflicted by him. As regards the ‘swearing by Varu<i>n</i>a (?)’ there referred to, see <i>Ri</i>k S. X, 97, 16 where the conjurer mutters: ‘May they (the plants) free me from the (evil) resulting from the curse and from Varu<i>n</i>a;’—mu<i>ñ</i>kantu mâ <i>s</i>apathyâd atho varu<i>n</i>yâd uta.

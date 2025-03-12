@@ -212,55 +212,6 @@ The performance of the Dâkshâya<i>n</i>a sacrifice was held to be obligatory o
 <span id="v2_4_4_2525"><sup><small>2:4:4:2525.</small></sup></span>  Five partake of that (whey remaining in the spoon),—viz. the Hot<i>ri</i>, the Adhvaryu, the Brahman, the Âgnîdhra, and the Sacrificer; for five are the seasons, so that the characteristic nature of the seasons is thereby obtained; and the seed that is cast is firmly implanted in the seasons. The sacrificer partakes of it first, thinking, ‘May I first obtain seed!’ But also last (he partakes of it) [^854], thinking, ‘May seed remain in me last of all!’ By saying, ‘Invited,—invite thou [^855]!’ they make it (the whey to resemble) the Soma.
 
 
-## Footnotes
-
-[^836]: 374:2 See Weber, Ind. Stud. I, p. 223; IV, p. 358; Ludwig, Rig-veda III, p, 595.
-
-[^837]: 376:1 The Kâ<i>n</i>va text has:—Sa u vâ ekena nâmnâ vasish<i>th</i>as, ‘and with one of his names he (Pra<i>g</i>âpati) is indeed (called) Vasish<i>th</i>a.’
-
-[^838]: 376:2 Viva<i>k</i>anam; vivâ<i>k</i>anam, Kâ<i>n</i>va recension.
-
-[^839]: 376:3 Viz. the Sautrâma<i>n</i>î-sacrifice, according to XII, 8, 2, 3.
-
-[^840]: 377:1 Viz. on the first day of the full moon a cake to Agni-Soma; on that of new moon a cake to Indra-Agni; and on the second day of either ceremony the (ordinary) cake to Agni.
-
-[^841]: 377:2 Or, ‘Now, as to the reason why’ (yad) here and in the sequel.
-
-[^842]: 377:3 See I, 6, 4, 9 seq.
-
-[^843]: 378:1 See I, 6, 2, 6, with note.
-
-[^844]: 378:2 On the upavasatha (fast-day, or day of preparation) preceding the Soma-sacrifice a he-goat is sacrificed to Agni and Soma.
-
-[^845]: 378:3 Compare II, 4, 3, 5 seq.
-
-[^846]: 379:1 In connection with the so-called udayanîyâ ish<i>t</i>i, or concluding offering, of the Soma-sacrifice, a barren cow, called anûbandhyâ (literally, ‘to be bound afterwards’), is offered to Mitra and Varu<i>n</i>a. In default of such a cow, an ox, or even a dish of curds (payasyâ) serves the same purpose. See Katy. <i>S</i>r. X, 9, I2-15; <i>S</i>at. Br. IV, 5, 2, 1 seq.
-
-[^847]: 379:2 See I, 6, 4, 1 2.
-
-[^848]: 379:3 Thus the frequently-occurring phrase ‘vya<i>g</i>ayata yâsyeyam vi<i>g</i>itis tâm’ (literally, ‘he conquered that conquest which is now theirs’) has been translated throughout.
-
-[^849]: 379:4 On the derivation of amâ-vâsyâ (‘dwelling at home, or together’), see I, 6, 4, 3 seq.
-
-[^850]: 379:5 Or, ‘the dwelling at home,’ or '(Indra's) dwelling together (with Agni) means (Indra, the V<i>ri</i>tra-slayer) being far away.’
-
-[^851]: 380:1 See I, 6, 4, 6 seq.
-
-[^852]: 381:1 Or, to the offering of sour and sweet milk at full moon; see next note. The Kâ<i>n</i>va text has: ‘Now as to why the oblation of curds is here made exactly analogous (at the full and new-moon ceremonies).’ Perhaps it may also refer to the exact correspondence of the offering of curds to Mitra and Varu<i>n</i>a at new moon and at the Soma-sacrifice.
-
-[^853]: 381:2 At the new-moon offering of the Dâkshâya<i>n</i>a, the sânnâyya or payasyâ offered to Mitra and Varu<i>n</i>a is prepared in the ordinary way (as at the new-moon ceremony), by fresh (boiled or un-boiled) milk being added to the sour milk of the preceding night's milking. At the full-moon offering, on the other hand, the sour and sweet milk remain separate, and constitute two different havis, or sacrificial dishes, dedicated to Indra. The terms san-nî (‘to bring together’) and sânnâyya are here likewise applied to the offering of the separate substances.
-
-[^854]: 382:1 Before the oblations of curds are made, the whey is poured off into a vessel (then optionally sprinkled with butter), and placed on the utkara, or heap of rubbish. After the stalk of grass has been thrown into the fire (see I, 8, 3, 19), or after the dismissal of the spoons (I, 8, 3, 27), the Adhvaryu takes the whey and sprinkles the barhis (the grass covering on the altar) with it. He then pours the remaining whey into the <i>g</i>uhû spoon and calls on the Hot<i>ri</i> to recite the invitatory prayer to the Coursers. Thereupon he betakes himself with the spoon to the north of the fire, calls on the Hot<i>ri</i> for the offering-formula, and at the two concluding Vasha<i>t</i>s pours some of the whey into the east part of the fire. He then sits down and sprinkles the whey on the fire according to the several quarters, beginning in the east, and moving around from left to right (pradakshi<i>n</i>am), with the respective texts, Vâ<i>g</i>. S. VI, 19 b-e; after which he makes two more libations in the centre and east part of the fire, with VI, 19 f and g.
-
-[^855]: 382:2 The Kâ<i>n</i>va text has tadu instead of sa vai. On the oblation to Agni as ‘the maker of good offering,’ see I, 7, 3, 1 seq.
-
-[^856]: 382:3 Svâhâ is uttered after each formula,—‘The quarters, Svâhâ!’ &c.
-
-[^857]: 383:1 <i>Ri</i>tûn evaitad digbhir mithunân karoti, Kâ<i>n</i>va recension.
-
-[^858]: 383:2 The author does not express himself quite clearly. The sacrificer is to partake of the whey before the priests and also (or, as an alternative) after them. According to Kâty. IV, 4, 26-27, the sacrificer is to eat either last of all, or first and last. The Kâ<i>n</i>va text has: Prathamo ya<i>g</i>amâno bhakshayati prathamo reta<i>h</i> parig_ri<i>h</i>n_âmîty athottamo mayy uttama<i>m</i> reta<i>h</i> pratitish<i>th</i>âd iti,—accordingly he is to eat first and last.
-
-[^859]: 383:3 Each of them, in his respective order, takes the spoon, calls on the others in the same order with ‘O sacrificer (Hot<i>ri</i>, Adhvaryu, &c.) invite!’ Their permission having been given by ‘Invited (thou art)!’ he then takes some of the whey, with one of the texts: ‘I eat thee, the courser (or whey, vâginam) of the seasons, the coursers!’ ‘I, the courser (or, mighty one) eat, invited, of the invited, to the whey.’ ‘May I be a racer in the race!’ Kâty. IV, 4, 13-15.
 
 <figure class="table chapter-navigator">
   <table>
@@ -378,3 +329,50 @@ The performance of the Dâkshâya<i>n</i>a sacrifice was held to be obligatory o
 
 [^835]: 374:1 Kâty. has the rules IV, 6, II: ‘In the case of one, who only performs the Agnihotra (and no longer the Dar<i>s</i>apûr<i>n</i>amâsa), the evening and morning Agnihotra-oblation (at the time of the Âgraya<i>n</i>a) is performed with new (corn).’ 12, ‘Or with the milk of (a cow) which has been fed with such (new corn).’ The Kâ<i>n</i>va text has: ‘Now at the Agnihotra also some offer (milk obtained from new corn), but let him not do so; for he would raise a quarrel were he to offer (such milk).’
 
+[^836]: 374:2 See Weber, Ind. Stud. I, p. 223; IV, p. 358; Ludwig, Rig-veda III, p, 595.
+
+[^837]: 376:1 The Kâ<i>n</i>va text has:—Sa u vâ ekena nâmnâ vasish<i>th</i>as, ‘and with one of his names he (Pra<i>g</i>âpati) is indeed (called) Vasish<i>th</i>a.’
+
+[^838]: 376:2 Viva<i>k</i>anam; vivâ<i>k</i>anam, Kâ<i>n</i>va recension.
+
+[^839]: 376:3 Viz. the Sautrâma<i>n</i>î-sacrifice, according to XII, 8, 2, 3.
+
+[^840]: 377:1 Viz. on the first day of the full moon a cake to Agni-Soma; on that of new moon a cake to Indra-Agni; and on the second day of either ceremony the (ordinary) cake to Agni.
+
+[^841]: 377:2 Or, ‘Now, as to the reason why’ (yad) here and in the sequel.
+
+[^842]: 377:3 See I, 6, 4, 9 seq.
+
+[^843]: 378:1 See I, 6, 2, 6, with note.
+
+[^844]: 378:2 On the upavasatha (fast-day, or day of preparation) preceding the Soma-sacrifice a he-goat is sacrificed to Agni and Soma.
+
+[^845]: 378:3 Compare II, 4, 3, 5 seq.
+
+[^846]: 379:1 In connection with the so-called udayanîyâ ish<i>t</i>i, or concluding offering, of the Soma-sacrifice, a barren cow, called anûbandhyâ (literally, ‘to be bound afterwards’), is offered to Mitra and Varu<i>n</i>a. In default of such a cow, an ox, or even a dish of curds (payasyâ) serves the same purpose. See Katy. <i>S</i>r. X, 9, I2-15; <i>S</i>at. Br. IV, 5, 2, 1 seq.
+
+[^847]: 379:2 See I, 6, 4, 1 2.
+
+[^848]: 379:3 Thus the frequently-occurring phrase ‘vya<i>g</i>ayata yâsyeyam vi<i>g</i>itis tâm’ (literally, ‘he conquered that conquest which is now theirs’) has been translated throughout.
+
+[^849]: 379:4 On the derivation of amâ-vâsyâ (‘dwelling at home, or together’), see I, 6, 4, 3 seq.
+
+[^850]: 379:5 Or, ‘the dwelling at home,’ or '(Indra's) dwelling together (with Agni) means (Indra, the V<i>ri</i>tra-slayer) being far away.’
+
+[^851]: 380:1 See I, 6, 4, 6 seq.
+
+[^852]: 381:1 Or, to the offering of sour and sweet milk at full moon; see next note. The Kâ<i>n</i>va text has: ‘Now as to why the oblation of curds is here made exactly analogous (at the full and new-moon ceremonies).’ Perhaps it may also refer to the exact correspondence of the offering of curds to Mitra and Varu<i>n</i>a at new moon and at the Soma-sacrifice.
+
+[^853]: 381:2 At the new-moon offering of the Dâkshâya<i>n</i>a, the sânnâyya or payasyâ offered to Mitra and Varu<i>n</i>a is prepared in the ordinary way (as at the new-moon ceremony), by fresh (boiled or un-boiled) milk being added to the sour milk of the preceding night's milking. At the full-moon offering, on the other hand, the sour and sweet milk remain separate, and constitute two different havis, or sacrificial dishes, dedicated to Indra. The terms san-nî (‘to bring together’) and sânnâyya are here likewise applied to the offering of the separate substances.
+
+[^854]: 382:1 Before the oblations of curds are made, the whey is poured off into a vessel (then optionally sprinkled with butter), and placed on the utkara, or heap of rubbish. After the stalk of grass has been thrown into the fire (see I, 8, 3, 19), or after the dismissal of the spoons (I, 8, 3, 27), the Adhvaryu takes the whey and sprinkles the barhis (the grass covering on the altar) with it. He then pours the remaining whey into the <i>g</i>uhû spoon and calls on the Hot<i>ri</i> to recite the invitatory prayer to the Coursers. Thereupon he betakes himself with the spoon to the north of the fire, calls on the Hot<i>ri</i> for the offering-formula, and at the two concluding Vasha<i>t</i>s pours some of the whey into the east part of the fire. He then sits down and sprinkles the whey on the fire according to the several quarters, beginning in the east, and moving around from left to right (pradakshi<i>n</i>am), with the respective texts, Vâ<i>g</i>. S. VI, 19 b-e; after which he makes two more libations in the centre and east part of the fire, with VI, 19 f and g.
+
+[^855]: 382:2 The Kâ<i>n</i>va text has tadu instead of sa vai. On the oblation to Agni as ‘the maker of good offering,’ see I, 7, 3, 1 seq.
+
+[^856]: 382:3 Svâhâ is uttered after each formula,—‘The quarters, Svâhâ!’ &c.
+
+[^857]: 383:1 <i>Ri</i>tûn evaitad digbhir mithunân karoti, Kâ<i>n</i>va recension.
+
+[^858]: 383:2 The author does not express himself quite clearly. The sacrificer is to partake of the whey before the priests and also (or, as an alternative) after them. According to Kâty. IV, 4, 26-27, the sacrificer is to eat either last of all, or first and last. The Kâ<i>n</i>va text has: Prathamo ya<i>g</i>amâno bhakshayati prathamo reta<i>h</i> parig_ri<i>h</i>n_âmîty athottamo mayy uttama<i>m</i> reta<i>h</i> pratitish<i>th</i>âd iti,—accordingly he is to eat first and last.
+
+[^859]: 383:3 Each of them, in his respective order, takes the spoon, calls on the others in the same order with ‘O sacrificer (Hot<i>ri</i>, Adhvaryu, &c.) invite!’ Their permission having been given by ‘Invited (thou art)!’ he then takes some of the whey, with one of the texts: ‘I eat thee, the courser (or whey, vâginam) of the seasons, the coursers!’ ‘I, the courser (or, mighty one) eat, invited, of the invited, to the whey.’ ‘May I be a racer in the race!’ Kâty. IV, 4, 13-15.

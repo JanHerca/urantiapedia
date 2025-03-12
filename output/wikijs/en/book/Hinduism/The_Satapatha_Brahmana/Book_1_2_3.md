@@ -276,23 +276,6 @@ dateCreated: 2025-1-14T23:38:14Z
 <span id="v2_3_4_4141"><sup><small>2:3:4:4141.</small></sup></span>  He then pronounces his son's name [1](Book_1_2_4#fn787): ‘May this son (N.N.) carry on this manly deed of mine!’ Should he have no son, let him insert his own name.
 
 
-## Footnotes
-
-[^783]: 348:1 The Kâ<i>n</i>va text has: 'And when he approaches (the fires), that (represents) the sacrificer's wish for blessing: what there is here for him, that indeed he thereby makes his own (âtmani kurute).’
-
-[^784]: 349:1 Or, ‘this All’ (ida<i>m</i> sarvam). The Kâ<i>n</i>va text has bhûmânam, ‘abundance,’ instead.
-
-[^785]: 349:2 The mode of approaching and worshipping the fires (agnyupasthâna) detailed in pars. 9-41 is ascribed to Vatsaprî (author of Rig-veda IX, 68; X, 45 and 46), and therefore termed vâtsapraupasthâna. It is, however, also called mahopasthâna (or dîrghopasthâna), or great (long) worship, as distinguished from the so-called kshullakopasthâna (or laghûpasthâna), or little (short) worship, described in II, 4, 1, and ascribed to Âsuri.
-
-[^786]: 349:3 Or ‘upa-kîryate,’ according to the Kâ<i>n</i>va text.
-
-[^787]: 350:1 Or, as Grassmann, in his translation of the <i>Ri</i>ksa<i>m</i>hitâ, takes it, ‘he whom the active Bh<i>ri</i>gus kindled.’
-
-[^788]: 353:1 Viz. the Agnihotra cow, which has supplied the milk for the morning and evening libation; or any cow, if other material than milk be used.
-
-[^789]: 354:1 Doshâvastar, ‘the illuminer of the dusk;’ or perhaps, as Professor Ludwig proposes, ‘We approach thee, day by day, at dusk and dawn (in the evening and morning), with prayer.’
-
-[^790]: 356:1 Or, the Sâvitrî, that is, the sacred prayer to Savit<i>ri</i>, the sun, also called Gâyatrî, Rig-veda III, 62, to. Cf. [p. 344](Book_1_2_3#p344), note [1](Book_1_2_3#fn772).
 
 <figure class="table chapter-navigator">
   <table>
@@ -398,3 +381,18 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^782]: 346:3 The mahad (or, b<i>ri</i>had) uktha or great chant, which marks p. 347  the conclusion of the Agni<i>k</i>ayana, consists of 3 × 80 t<i>ri</i><i>k</i>as (strophes of three verses each), or together 720 verses. On the frequent use of number 80 in the fire-ritual, see Weber, Ind. Stud. XIII, p. 167.
 
+[^783]: 348:1 The Kâ<i>n</i>va text has: 'And when he approaches (the fires), that (represents) the sacrificer's wish for blessing: what there is here for him, that indeed he thereby makes his own (âtmani kurute).’
+
+[^784]: 349:1 Or, ‘this All’ (ida<i>m</i> sarvam). The Kâ<i>n</i>va text has bhûmânam, ‘abundance,’ instead.
+
+[^785]: 349:2 The mode of approaching and worshipping the fires (agnyupasthâna) detailed in pars. 9-41 is ascribed to Vatsaprî (author of Rig-veda IX, 68; X, 45 and 46), and therefore termed vâtsapraupasthâna. It is, however, also called mahopasthâna (or dîrghopasthâna), or great (long) worship, as distinguished from the so-called kshullakopasthâna (or laghûpasthâna), or little (short) worship, described in II, 4, 1, and ascribed to Âsuri.
+
+[^786]: 349:3 Or ‘upa-kîryate,’ according to the Kâ<i>n</i>va text.
+
+[^787]: 350:1 Or, as Grassmann, in his translation of the <i>Ri</i>ksa<i>m</i>hitâ, takes it, ‘he whom the active Bh<i>ri</i>gus kindled.’
+
+[^788]: 353:1 Viz. the Agnihotra cow, which has supplied the milk for the morning and evening libation; or any cow, if other material than milk be used.
+
+[^789]: 354:1 Doshâvastar, ‘the illuminer of the dusk;’ or perhaps, as Professor Ludwig proposes, ‘We approach thee, day by day, at dusk and dawn (in the evening and morning), with prayer.’
+
+[^790]: 356:1 Or, the Sâvitrî, that is, the sacred prayer to Savit<i>ri</i>, the sun, also called Gâyatrî, Rig-veda III, 62, to. Cf. [p. 344](Book_1_2_3#p344), note [1](Book_1_2_3#fn772).

@@ -219,15 +219,6 @@ dateCreated: 2025-1-14T23:38:14Z
 
 <span id="v2_2_4_1818"><sup><small>2:2:4:1818.</small></sup></span>  By offering, those gods were produced in the way in which they were produced, by it they gained that victory which they did gain: Agni conquered this world, Vâyu the air, and Sûrya the sky. And whosoever, knowing this, offers the Agnihotra, he, indeed, is produced in the same way in which they were then produced, he gains that same victory which they then gained;—indeed, he shares the same world with them, whosoever, knowing this, offers the Agnihotra. Therefore the Agnihotra should certainly be performed.
 
-
-## Footnotes
-
-[^741]: 325:1 The sruva, or dipping-spoon, and the Agnihotra ladle, for instance, are made of this wood; see [p. 331](Book_1_2_3#p331), note [2](Book_1_2_3#fn746).
-
-[^742]: 325:2 On ‘hiṅ’ as an essential element in the recitation of Sâma-chants, see I, 4, 1, 1 seq.
-
-[^743]: 326:1 Pariharet \[? ‘let him avoid it (the term go in the sense of sacrifice), thinking that it is too holy’\]. Sâya<i>n</i>a merely remarks, that both the cow and the sacrifice are here represented as extremely auspicious (utk<i>ri</i>sh<i>t</i>am pu<i>n</i>yam). Perhaps we have here a play on the words upanâma, ‘a by-name,’ and upanâmuka, ‘inclining to (him).’ ‘Go’ (for go-sh<i>t</i>oma) is the designation of one of the days of the Abhiplava at the Gavâmayana.
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -348,3 +339,8 @@ dateCreated: 2025-1-14T23:38:14Z
 
 [^740]: 322:3 See II, 1, 1, 5.
 
+[^741]: 325:1 The sruva, or dipping-spoon, and the Agnihotra ladle, for instance, are made of this wood; see [p. 331](Book_1_2_3#p331), note [2](Book_1_2_3#fn746).
+
+[^742]: 325:2 On ‘hiṅ’ as an essential element in the recitation of Sâma-chants, see I, 4, 1, 1 seq.
+
+[^743]: 326:1 Pariharet \[? ‘let him avoid it (the term go in the sense of sacrifice), thinking that it is too holy’\]. Sâya<i>n</i>a merely remarks, that both the cow and the sacrifice are here represented as extremely auspicious (utk<i>ri</i>sh<i>t</i>am pu<i>n</i>yam). Perhaps we have here a play on the words upanâma, ‘a by-name,’ and upanâmuka, ‘inclining to (him).’ ‘Go’ (for go-sh<i>t</i>oma) is the designation of one of the days of the Abhiplava at the Gavâmayana.

@@ -32,7 +32,14 @@ dateCreated: 2025-1-15T22:56:28Z
   </table>
 </figure>
 
+<span id="p419">[<sup><small>p. 419</small></sup>]</span>
 
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Hinduism/The_Satapatha_Brahmana/41900.jpg">
+<figcaption>PLANO DEL ALTAR DE FUEGO (AGNIKSHETRA)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

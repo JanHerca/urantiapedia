@@ -260,25 +260,6 @@ The three seasonal or four-monthly sacrifices are performed at the parvans, or c
 <span id="v2_5_4_1111"><sup><small>2:5:4:1111.</small></sup></span>  And, verily, by performing this sacrifice the gods became what race, what prosperity of the gods there now is; and that same race he propagates, <span id="p420">[<sup><small>p. 420</small></sup>]</span> that same prosperity he attains, whosoever, knowing this, performs this sacrifice. Let him therefore perform this sacrifice.
 
 
-## Footnotes
-
-[^933]: 417:3 See [p. 416](Book_1_2_5#p416), note [1](Book_1_2_5#fn925).
-
-[^934]: 417:4 See [p. 392](Book_1_2_5#p392), note [1](Book_1_2_5#fn879). The southern altar is not required at the present ceremony.
-
-[^935]: 417:5 See [p. 404](Book_1_2_5#p404), note [1](Book_1_2_5#fn896).
-
-[^936]: 418:1 See II, 5, 2, 30 and 41.
-
-[^937]: 418:2 See II, 5, 1, 11, with note 9.
-
-[^938]: 418:3 See II, 5, 3, 2. This cake, again, is to be prepared (or offered) simultaneously with the rising of the sun; see [p. 409](Book_1_2_5#p409) note.
-
-[^939]: 418:4 According to Taitt. S. I, 8, 4 it is to be one on twelve potsherds.
-
-[^940]: 418:5 The Kâ<i>n</i>va text has, ‘Attack (abhipadyasva)! strike! slay!’
-
-[^941]: 418:6 This identification of Pûshan with the earth is very strange, the more so as, at II, 5, 1, 11, special stress is laid on the male nature of Pûshan. Perhaps it is in his character of bountiful bestower of food and cattle, or as the tutelary god of travellers, that he is so identified.
 
 <figure class="table chapter-navigator">
   <table>
@@ -452,3 +433,20 @@ The three seasonal or four-monthly sacrifices are performed at the parvans, or c
 
 [^932]: 417:2 That is to say, the Mahâ-havis, or Great Oblation, though apparently only an integral part of the Sâkamedhâ<i>h</i>, is in reality its chief ceremony, and may therefore be considered as being itself on a par with the other seasonal offerings; hence it requires the five oblations common to all the <i>K</i>âturmâsyas; see II, 5, 1, 8-11. The Black Ya<i>g</i>us it seems does not use the term Mahâ-havis, but assigns more importance to the Mahâ-pit<i>ri</i>ya<i>g</i><i>ñ</i>a (see II, 6, 1, 1 seq.). See Âpastamba's Paribhâshâs, 80, 81 (M. Müller, Zeitschrift der Deutschen Morg. Ges. IX), according to which the sacrifice to the Manes belongs to the Mahâya<i>g</i><i>ñ</i>as.
 
+[^933]: 417:3 See [p. 416](Book_1_2_5#p416), note [1](Book_1_2_5#fn925).
+
+[^934]: 417:4 See [p. 392](Book_1_2_5#p392), note [1](Book_1_2_5#fn879). The southern altar is not required at the present ceremony.
+
+[^935]: 417:5 See [p. 404](Book_1_2_5#p404), note [1](Book_1_2_5#fn896).
+
+[^936]: 418:1 See II, 5, 2, 30 and 41.
+
+[^937]: 418:2 See II, 5, 1, 11, with note 9.
+
+[^938]: 418:3 See II, 5, 3, 2. This cake, again, is to be prepared (or offered) simultaneously with the rising of the sun; see [p. 409](Book_1_2_5#p409) note.
+
+[^939]: 418:4 According to Taitt. S. I, 8, 4 it is to be one on twelve potsherds.
+
+[^940]: 418:5 The Kâ<i>n</i>va text has, ‘Attack (abhipadyasva)! strike! slay!’
+
+[^941]: 418:6 This identification of Pûshan with the earth is very strange, the more so as, at II, 5, 1, 11, special stress is laid on the male nature of Pûshan. Perhaps it is in his character of bountiful bestower of food and cattle, or as the tutelary god of travellers, that he is so identified.
