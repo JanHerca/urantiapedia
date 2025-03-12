@@ -110,7 +110,7 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 [^1497]: 312:5 I. e. not such as to require modification by any other knowledge, as knowledge of the world does.
 
-[^1498]: 312:6 Nîlaka<i>nth</i>a compares _Kh_ândogya, pp. 523-553.
+[^1498]: 312:6 Nîlaka<i>nth</i>a compares <i>Kh</i>ândogya, pp. 523-553.
 
 [^1499]: 312:7 I. e. of K<i>i</i>t and <i>G</i>a<i>d</i>a, says Nîlaka<i>nth</i>a; of Brahman and its manifestations, as alluded to, inter alia, at pp. [105](Bhagavadgita_13#p105), [106](Bhagavadgita_13#p106), [191](Sanatsugatiya_6#p191) supra.
 
@@ -132,7 +132,7 @@ From the truth were the entities movable and immovable produced. They live by pe
 
 [^1508]: 314:4 I.e. paths of action, Nîlaka<i>nth</i>a. See Sanatsu<i>g</i>âtîya, [p. 165](Sanatsugatiya_3#p165).
 
-[^1509]: 314:5 Namely, the Pit<i>ri</i>yâna and Devayâna (Ar<i>g</i>una Mi<i>s</i>ra), as to which see _Kh_ândogya, p. 341, Kaushîtaki, p. 13, and B<i>ri</i>hadâra<i>n</i>yaka, p. 1034.
+[^1509]: 314:5 Namely, the Pit<i>ri</i>yâna and Devayâna (Ar<i>g</i>una Mi<i>s</i>ra), as to which see <i>Kh</i>ândogya, p. 341, Kaushîtaki, p. 13, and B<i>ri</i>hadâra<i>n</i>yaka, p. 1034.
 
 [^1510]: 314:6 Nîlaka<i>nth</i>a seems to interpret this to mean the temporary and final dissolutions of the worlds, on which see, inter alia, Vedânta Paribhâshâ, p. 48.
 

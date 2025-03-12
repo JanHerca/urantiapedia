@@ -108,7 +108,7 @@ they worship me, being always devoted. And others again, offering up the sacrifi
 
 [^330]: 84:2 The gross and the subtle elements, or causes and effects.
 
-[^331]: 84:3 Cf. Mu<i>nd</i>akopanishad, p. 279; and _Kh_ândogya, p. 344.
+[^331]: 84:3 Cf. Mu<i>nd</i>akopanishad, p. 279; and <i>Kh</i>ândogya, p. 344.
 
 [^332]: 84:4 Cf. Dhammapada, stanza 23. I. e. attainment to the Brahman and not returning from it.—Râmânu<i>g</i>a.
 

@@ -64,7 +64,7 @@ Among men the royal Kshatriya is the middle [^1705] quality; among vehicles the 
 
 ## Footnotes
 
-[^1709]: 345:1 I. e. creating or acting, Ar<i>g</i>una Mi<i>s</i>ra. I think it probable that it was meant to go with the preceding words. See Gîtâ, [p. 83](Bhagavadgita_9#p83) note; but, for this, ‘changing’ must be in the accusative. It is in the nominative. As the original stands, and on Ar<i>g</i>una Mi<i>s</i>ra's interpretation, the sense seems to be that when he is about to engage fin the work of creation, he can obtain as many bodies as he likes. Nîlaka<i>nth</i>a compares _Kh_ândogya, p. 526. And see pp. [249](Anugita_4#p249), [327](Anugita_23#p327) supra. Can always perceive = invariably obtains when he wishes.
+[^1709]: 345:1 I. e. creating or acting, Ar<i>g</i>una Mi<i>s</i>ra. I think it probable that it was meant to go with the preceding words. See Gîtâ, [p. 83](Bhagavadgita_9#p83) note; but, for this, ‘changing’ must be in the accusative. It is in the nominative. As the original stands, and on Ar<i>g</i>una Mi<i>s</i>ra's interpretation, the sense seems to be that when he is about to engage fin the work of creation, he can obtain as many bodies as he likes. Nîlaka<i>nth</i>a compares <i>Kh</i>ândogya, p. 526. And see pp. [249](Anugita_4#p249), [327](Anugita_23#p327) supra. Can always perceive = invariably obtains when he wishes.
 
 [^1710]: 345:2 Cf. Gîtâ, pp. [83](Bhagavadgita_9#p83), [93](Bhagavadgita_11#p93), and note [1](Bhagavadgita_11#fn388) there.
 
@@ -88,7 +88,7 @@ Among men the royal Kshatriya is the middle [^1705] quality; among vehicles the 
 
 [^1720]: 347:2 This is another repetition. Indra has been mentioned before, and Purandara is mentioned further on.
 
-[^1721]: 347:3 As to king Soma, see inter alia B<i>ri</i>hadâra<i>n</i>yaka, p. 237; _Kh_ândogya, p. 342, where <i>S</i>ankara explains ‘king’ by adding ‘of Brâhma<i>n</i>as.’ Vipras = Brâhmanas.
+[^1721]: 347:3 As to king Soma, see inter alia B<i>ri</i>hadâra<i>n</i>yaka, p. 237; <i>Kh</i>ândogya, p. 342, where <i>S</i>ankara explains ‘king’ by adding ‘of Brâhma<i>n</i>as.’ Vipras = Brâhmanas.
 
 [^1722]: 347:4 I. e. Mâhe<i>s</i>varî is the most beautiful of womankind.
 

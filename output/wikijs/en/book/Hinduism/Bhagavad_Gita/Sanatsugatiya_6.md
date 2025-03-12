@@ -84,7 +84,7 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^908]: 187:1 ‘The five elements,’ says <i>S</i>ankara, cf. Aitareya, p. 189; and for ‘gross body,’ the original is literally ‘water;’ see supra, p. 179, note 6; and see, too, Îsopanishad, p. 11, and <i>S</i>vetâ<i>s</i>vatara, p. 368, for different but kindred meanings.
 
-[^909]: 187:2 Viz. the lotus-like heart. Cf. _Kh_ândogya,. p. 528.
+[^909]: 187:2 Viz. the lotus-like heart. Cf. <i>Kh</i>ândogya,. p. 528.
 
 [^910]: 187:3 The two principles between them pervade the universe, the individual self being connected with the material world, the other with heaven; ‘divine’ is, literally, ‘the brilliant,’ says <i>S</i>ankara, who quotes Ka<i>th</i>a, p. 305, as a parallel for the whole passage.
 
@@ -120,7 +120,7 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^926]: 189:3 Knowledge of whom leads to ‘flying away happily.’
 
-[^927]: 189:4 Cf. _Kh_ândogya, p. 441. <i>S</i>ankara says that the author here explains the yoga by which the Supreme is to be attained. As to the life-winds, cf. Gîtâ, [p. 61](Bhagavadgita_4#p61). ‘The moon,’ says <i>S</i>ankara, ‘means the mind, and the sun the understanding, as they are the respective deities of those organs’ (cf. B<i>ri</i>hadâra<i>n</i>yaka, pp. 521-542, and Aitareya, p. 187, where, however, the sun is said to appertain to the eye).
+[^927]: 189:4 Cf. <i>Kh</i>ândogya, p. 441. <i>S</i>ankara says that the author here explains the yoga by which the Supreme is to be attained. As to the life-winds, cf. Gîtâ, [p. 61](Bhagavadgita_4#p61). ‘The moon,’ says <i>S</i>ankara, ‘means the mind, and the sun the understanding, as they are the respective deities of those organs’ (cf. B<i>ri</i>hadâra<i>n</i>yaka, pp. 521-542, and Aitareya, p. 187, where, however, the sun is said to appertain to the eye).
 
 [^928]: 189:5 I. e. the Brahman; the result is, one remains in the condition of being identified with the Brahman.
 
@@ -128,7 +128,7 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^930]: 189:7 Viz. the individual self, <i>S</i>ankara; that is, as it were, the bond of connexion between the Supreme and the world. Cf. Gîtâ, [p. 112](Bhagavadgita_15#p112).
 
-[^931]: 189:8 This is the meaning, though the word in the original is _Ri_tvi<i>g</i>, which in the later literature only means priest.
+[^931]: 189:8 This is the meaning, though the word in the original is <i>Ri</i>tvi<i>g</i>, which in the later literature only means priest.
 
 [^932]: 189:9 As the whole of the material world is dissolved, when the self is dissevered from the delusion which is the cause of it.
 
@@ -138,7 +138,7 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^935]: 190:2 The life-winds, the ten organs or senses, mind, and understanding. See the same word similarly interpreted at <i>S</i>vetâ<i>s</i>vatara, p. 306, and Sankhya-sûtra III, 9.
 
-[^936]: 190:3 According to <i>S</i>ankara, he who makes the distinct entities, after entering into them; he alludes apparently to _Kh_ândogya, p. 407.
+[^936]: 190:3 According to <i>S</i>ankara, he who makes the distinct entities, after entering into them; he alludes apparently to <i>Kh</i>ândogya, p. 407.
 
 [^937]: 190:4 Namely, that of giving the poison of sensuous objects.
 
@@ -162,13 +162,13 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^947]: 191:1 <i>S</i>ankara does not explain this. Nîlaka<i>nth</i>a says pervading = fully understanding; both worlds = the self and the not-self. Is the meaning something like that of the passage last cited by <i>S</i>ankara under Vedânta-sûtra IV, 2, 14?
 
-[^948]: 191:2 He obtains the fruit of it, <i>S</i>ankara. See as to Agnihotra, _Kh_ândogya, p. 381 seq.; and Vedânta-sûtra IV, 1, 16.
+[^948]: 191:2 He obtains the fruit of it, <i>S</i>ankara. See as to Agnihotra, <i>Kh</i>ândogya, p. 381 seq.; and Vedânta-sûtra IV, 1, 16.
 
 [^949]: 191:3 I. e. this mortal world, as action &c. would do.
 
 [^950]: 191:4 I. e. of one who understands himself to be the Brahman. See Aitareya-upanishad, p. 246.
 
-[^951]: 191:5 <i>S</i>ankara says, ‘the cause in which all is absorbed.’ Cf. a similar, but not identical, meaning given to Vai<i>s</i>vânara at _Kh_ândogya, p. 264; and see Vedânta-sûtra I, 2, 24. Becomes great = becomes the Brahman, <i>S</i>ankara.
+[^951]: 191:5 <i>S</i>ankara says, ‘the cause in which all is absorbed.’ Cf. a similar, but not identical, meaning given to Vai<i>s</i>vânara at <i>Kh</i>ândogya, p. 264; and see Vedânta-sûtra I, 2, 24. Becomes great = becomes the Brahman, <i>S</i>ankara.
 
 [^952]: 191:6 Even in this body, <i>S</i>ankara; degradation he takes to mean departure from the body, citing Brihadâranyaka, p. 540.
 
@@ -202,7 +202,7 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^967]: 193:3 ‘As being,’ says <i>S</i>ankara, ‘identical with themselves.’ It will be noted that the form of expression is slightly altered here. It is not ‘those who understand this.’
 
-[^968]: 193:4 I. e. in different aggregates of body, senses, &c. Cf. Gîtâ, pp. [104](Bhagavadgita_13#p104) and [124](Bhagavadgita_18#p124); also _Kh_ândogya, pp. 475-551.
+[^968]: 193:4 I. e. in different aggregates of body, senses, &c. Cf. Gîtâ, pp. [104](Bhagavadgita_13#p104) and [124](Bhagavadgita_18#p124); also <i>Kh</i>ândogya, pp. 475-551.
 
 [^969]: 193:5 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 882; <i>S</i>ankara, also refers to Î<i>s</i>opanishad, p. 14.
 
@@ -214,13 +214,13 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^973]: 194:2 See Gîtâ, [p. 82](Bhagavadgita_9#p82), where there is also a similar apparent contradiction.
 
-[^974]: 194:3 Cf. _Kh_ândogya, p. 518.
+[^974]: 194:3 Cf. <i>Kh</i>ândogya, p. 518.
 
 [^975]: 194:4 That is to say he is ‘unborn,’ says Nîlaka<i>nth</i>a. <i>S</i>ankara seems to take ‘my’ with ‘seat’ only, and not with birth; for he says, ‘everything has its birth from the self.’
 
 [^976]: 194:5 Cf. Mu<i>nd</i>aka, p. 298; Maitrî, p. 84, and comment there.
 
-[^977]: 194:6 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [109](Bhagavadgita_14#p109), and _Kh_ândogya, pp. 535, 550.
+[^977]: 194:6 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [109](Bhagavadgita_14#p109), and <i>Kh</i>ândogya, pp. 535, 550.
 
 [^978]: 194:7 See [p. 192](#p192), note .
 
@@ -230,4 +230,4 @@ That pure [^894], great light [^895], which is radiant; that great glory [^896];
 
 [^981]: 194:10 Cf. Gîtâ, [p. 113](Bhagavadgita_15#p113), and note ; and also Îsopanishad, p. 12.
 
-[^982]: 194:11 _Kh_ândogya, p. 528; and cf. Gîtâ, [p. 113](Bhagavadgita_15#p113).
+[^982]: 194:11 <i>Kh</i>ândogya, p. 528; and cf. Gîtâ, [p. 113](Bhagavadgita_15#p113).

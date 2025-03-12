@@ -48,7 +48,7 @@ Does [^716] the twice-born person who studies the _Rik_ and the Ya<i>g</i>us tex
 
 Sanatsu<i>g</i>âta said
 
-Not the Sâman texts, nor yet the _Rik_ Texts, nor the Ya<i>g</i>us texts [^717] save him, O acute sir! from sinful <span id="p164">[<sup><small>p. 164</small></sup>]</span> action. I do not tell you an untruth. The _Kh_andas do not save a sinful deceitful [^718] man who behaves deceitfully [^719]. At the time of the termination (of his life), the _Kh_andas abandon [^720] him, as birds who have got wings (abandon their) nest.
+Not the Sâman texts, nor yet the _Rik_ Texts, nor the Ya<i>g</i>us texts [^717] save him, O acute sir! from sinful <span id="p164">[<sup><small>p. 164</small></sup>]</span> action. I do not tell you an untruth. The <i>Kh</i>andas do not save a sinful deceitful [^718] man who behaves deceitfully [^719]. At the time of the termination (of his life), the <i>Kh</i>andas abandon [^720] him, as birds who have got wings (abandon their) nest.
 
 Dh<i>ri</i>tarâsh<i>t</i>ra said
 
@@ -80,7 +80,7 @@ Some people make great boasts in consequence of (their knowing) the Vedas with t
 
 Sanatsu<i>g</i>âta said:
 
-Through ignorance of the one Veda [^787]\—the one truth—O king of kings! numerous Vedas came into existence. Some [^788] only adhere to the truth. The fancies of those who have fallen away from the truth are abortive, and through ignorance of the truth, ceremonies become amplified [^789]. One should under stand a Brâhma<i>n</i>a, who (merely) reads much, to be a man of many words [^790]. Know him only to be the (true) Brâhma<i>n</i>a, who swerves not from the truth [^791]. O you who are the highest among men [^792]! the _Kh_andas, indeed, refer of themselves [^793] to it. Therefore, <span id="p172">[<sup><small>p. 172</small></sup>]</span> studying them, the learned persons who understand the _Kh_andas, attain to the Veda, not that which is to be known [^794]. Among the Vedas, there is none which understands [^795]. By the unintelligent [^796], one understands not the Veda, nor the object of knowledge [^797]. He who knows the Veda knows the object of knowledge. He who knows the object of knowledge [^798] knows not the truth. He who understands the Vedas understands also the object of knowledge; but that [^799] is not understood by the Vedas or by those who understand the Vedas. Still the Brâhma<i>n</i>as who understand the Vedas, understand the Veda by means of the Vedas [^800]. As the branch of a tree with regard to the part of a portion of the glorious [^801] one, so, they declare, are the Vedas with <span id="p173">[<sup><small>p. 173</small></sup>]</span> regard to the subject of understanding the supreme self. I understand him to be a Brâhma<i>n</i>a who is ingenious, and explains [^802] (Vedic texts). He who apprehends (those texts) thus [^803], does verily know that supreme (principle). . One should not go in search of it among (things) antagonistic [^804] to it at all. Not looking (for him there) one sees that Lord by means of the Veda [^805]. Remaining quiet, one should practise devotion, and should not even form a wish in the mind [^806]. To him, the Brahman presents [^807] itself, and directly afterwards he attains to the perfect [^808] (one). By taciturnity [^809], verily, does one become a sage; (one does) not (become) a sage by dwelling in a forest [^810]. And he is called the highest sage, who understands that indestructible (principle). One is called an analyser [^811] (also) in consequence of <span id="p174">[<sup><small>p. 174</small></sup>]</span> analysing all objects. The analysis (is) from that as the root; and as he makes (such an) analysis, hence is he so (called). The man who sees the worlds directly sees everything [1](Sanatsugatiya_4#fn812). A Brâhma<i>n</i>a, verily, adhering to the truth, understands it, and becomes omniscient. I say to you, O learned person! that adhering to knowledge and the rest [2](Sanatsugatiya_4#fn813) in this way, one sees the Brahman, O Kshatriya! by means of a course (of study) in the Vedas [3](Sanatsugatiya_4#fn814).
+Through ignorance of the one Veda [^787]\—the one truth—O king of kings! numerous Vedas came into existence. Some [^788] only adhere to the truth. The fancies of those who have fallen away from the truth are abortive, and through ignorance of the truth, ceremonies become amplified [^789]. One should under stand a Brâhma<i>n</i>a, who (merely) reads much, to be a man of many words [^790]. Know him only to be the (true) Brâhma<i>n</i>a, who swerves not from the truth [^791]. O you who are the highest among men [^792]! the <i>Kh</i>andas, indeed, refer of themselves [^793] to it. Therefore, <span id="p172">[<sup><small>p. 172</small></sup>]</span> studying them, the learned persons who understand the <i>Kh</i>andas, attain to the Veda, not that which is to be known [^794]. Among the Vedas, there is none which understands [^795]. By the unintelligent [^796], one understands not the Veda, nor the object of knowledge [^797]. He who knows the Veda knows the object of knowledge. He who knows the object of knowledge [^798] knows not the truth. He who understands the Vedas understands also the object of knowledge; but that [^799] is not understood by the Vedas or by those who understand the Vedas. Still the Brâhma<i>n</i>as who understand the Vedas, understand the Veda by means of the Vedas [^800]. As the branch of a tree with regard to the part of a portion of the glorious [^801] one, so, they declare, are the Vedas with <span id="p173">[<sup><small>p. 173</small></sup>]</span> regard to the subject of understanding the supreme self. I understand him to be a Brâhma<i>n</i>a who is ingenious, and explains [^802] (Vedic texts). He who apprehends (those texts) thus [^803], does verily know that supreme (principle). . One should not go in search of it among (things) antagonistic [^804] to it at all. Not looking (for him there) one sees that Lord by means of the Veda [^805]. Remaining quiet, one should practise devotion, and should not even form a wish in the mind [^806]. To him, the Brahman presents [^807] itself, and directly afterwards he attains to the perfect [^808] (one). By taciturnity [^809], verily, does one become a sage; (one does) not (become) a sage by dwelling in a forest [^810]. And he is called the highest sage, who understands that indestructible (principle). One is called an analyser [^811] (also) in consequence of <span id="p174">[<sup><small>p. 174</small></sup>]</span> analysing all objects. The analysis (is) from that as the root; and as he makes (such an) analysis, hence is he so (called). The man who sees the worlds directly sees everything [1](Sanatsugatiya_4#fn812). A Brâhma<i>n</i>a, verily, adhering to the truth, understands it, and becomes omniscient. I say to you, O learned person! that adhering to knowledge and the rest [2](Sanatsugatiya_4#fn813) in this way, one sees the Brahman, O Kshatriya! by means of a course (of study) in the Vedas [3](Sanatsugatiya_4#fn814).
 
 
 
@@ -144,9 +144,9 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^726]: 164:4 Scil. about the veneration due to one who has studied the Vedas—Nîlaka<i>nth</i>a, citing one or two passages in point.
 
-[^727]: 164:5 The universe consists of ‘names and forms,’ the reality being the Brahman only. Cf. _Kh_ândogya, p. 407 seq.
+[^727]: 164:5 The universe consists of ‘names and forms,’ the reality being the Brahman only. Cf. <i>Kh</i>ândogya, p. 407 seq.
 
-[^728]: 164:6 <i>S</i>ankara refers to Taittirîya-upanishad, p. 68; _Kh_ândogya, p. 596 seq. &c.
+[^728]: 164:6 <i>S</i>ankara refers to Taittirîya-upanishad, p. 68; <i>Kh</i>ândogya, p. 596 seq. &c.
 
 [^729]: 164:7 <i>S</i>ankara takes this to mean ‘sages,’ who, according to him, state the difference. He quotes Parâ<i>s</i>ara for this.
 
@@ -162,9 +162,9 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^735]: 165:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
 
-[^736]: 165:5 Cf. _Kh_ândogya, p. 23. Brâhma<i>n</i>as = those that know the Brahman. See [p. 171](#p171) infra.
+[^736]: 165:5 Cf. <i>Kh</i>ândogya, p. 23. Brâhma<i>n</i>as = those that know the Brahman. See [p. 171](#p171) infra.
 
-[^737]: 165:6 I am not quite sure about the meaning of the original here. _Ri_dha, which I have rendered ‘developed,’ Nîlaka<i>nth</i>a understands to mean ‘what is performed merely for show.’ What has been rendered ‘well developed’ in the text, Nîlaka<i>nth</i>a takes to mean performed from some desire,' &c.
+[^737]: 165:6 I am not quite sure about the meaning of the original here. <i>Ri</i>dha, which I have rendered ‘developed,’ Nîlaka<i>nth</i>a understands to mean ‘what is performed merely for show.’ What has been rendered ‘well developed’ in the text, Nîlaka<i>nth</i>a takes to mean performed from some desire,' &c.
 
 [^738]: 165:7 Anger, desire, &c.
 
@@ -174,7 +174,7 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^741]: 165:10 All objects of enjoyment, Nîlaka<i>nth</i>a.
 
-[^742]: 166:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 899. Tapas is variously rendered. See inter alia, Pra<i>s</i>na, pp. 162-70; <i>S</i>vetâ<i>s</i>vatara, p. 307; Mu<i>ri</i>aka, pp. 270-280, 311-314; _Kh_ândogya, p. 136; Anugîtâ, pp. [247](Anugita_4#p247), [339](Anugita_27#p339).
+[^742]: 166:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 899. Tapas is variously rendered. See inter alia, Pra<i>s</i>na, pp. 162-70; <i>S</i>vetâ<i>s</i>vatara, p. 307; Mu<i>ri</i>aka, pp. 270-280, 311-314; <i>Kh</i>ândogya, p. 136; Anugîtâ, pp. [247](Anugita_4#p247), [339](Anugita_27#p339).
 
 [^743]: 166:2 I. e. Brahma-vidyâ, or science of the Brahman, Nîlaka<i>nth</i>a; the Brahman itself, <i>S</i>ankara.
 
@@ -200,7 +200,7 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^754]: 167:5 Connected with this or the next world, Nîlaka<i>nth</i>a. This and a stanza further on I place within brackets, as it is not quite certain whether <i>S</i>ankara's copy had them, though they are now in some of our copies of the text with his commentary. See Introduction.
 
-[^755]: 167:6 Cf. Mu<i>nd</i>aka, p. 319; _Kh_ândogya, p. 494.
+[^755]: 167:6 Cf. Mu<i>nd</i>aka, p. 319; <i>Kh</i>ândogya, p. 494.
 
 [^756]: 167:7 See note , at page [165](#p165).
 
@@ -250,7 +250,7 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^779]: 169:5 Concentration = fixing the mind continuously on some object, such as the being in the sun, &c.; contemplation is that in which one identifies oneself with the Brahman; reflexion as to what one is, whence one comes, and so forth.
 
-[^780]: 169:6 <i>S</i>ankara says this may refer to the ‘stealing’ mentioned at [p. 160](Sanatsugatiya_2#p160). The life of a Brahma<i>k</i>ârin is here taken to mean p. 170 continence by the commentators, as also at Mu<i>nd</i>aka, p. 311 inter alia. See also _Kh_ândogya, p. 533.
+[^780]: 169:6 <i>S</i>ankara says this may refer to the ‘stealing’ mentioned at [p. 160](Sanatsugatiya_2#p160). The life of a Brahma<i>k</i>ârin is here taken to mean p. 170 continence by the commentators, as also at Mu<i>nd</i>aka, p. 311 inter alia. See also <i>Kh</i>ândogya, p. 533.
 
 [^781]: 170:1 Son, wife, home, &c.; as to which cf. Gîtâ, [p. 103](Bhagavadgita_13#p103), and N<i>ri</i>si<i>m</i>ha Tâpinî, p. 198, commentary.
 
@@ -270,7 +270,7 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^789]: 170:9 Past losses and future gains, Nîlaka<i>nth</i>a.
 
-[^790]: 171:1 Cf., as to this, Max Müller's Ancient Sanskrit Literature, p. 38 seq.; and _Kh_ândogya, pp. 164, 474, 493; B<i>ri</i>hadâra<i>n</i>yaka, pp. 456, 687, 926; Maitrî, p. 171; Nrisimha Tâpinî, p. 105.
+[^790]: 171:1 Cf., as to this, Max Müller's Ancient Sanskrit Literature, p. 38 seq.; and <i>Kh</i>ândogya, pp. 164, 474, 493; B<i>ri</i>hadâra<i>n</i>yaka, pp. 456, 687, 926; Maitrî, p. 171; Nrisimha Tâpinî, p. 105.
 
 [^791]: 171:2 The original is ‘void of _Rik_s.’ The commentators give no explanation. Does it mean those who abandon the karma-mârga? Heretics who reject all Vedas are scarcely likely to be referred to in this way. Nîlaka<i>nth</i>a's interpretation of all this is very different. See his gloss.
 
@@ -278,7 +278,7 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^793]: 171:4 For this phrase cf. Gîtâ, [p. 73](Bhagavadgita_6#p73).
 
-[^794]: 171:5 Those who do not understand the Brahman lose their natural power of obtaining what they wish, and so go in for various ceremonies for various special benefits. Cf. _Kh_ândogya, p. 541; Gîtâ, [p. 47](Bhagavadgita_2#p47); and [p. 184](Sanatsugatiya_5#p184) infra.
+[^794]: 171:5 Those who do not understand the Brahman lose their natural power of obtaining what they wish, and so go in for various ceremonies for various special benefits. Cf. <i>Kh</i>ândogya, p. 541; Gîtâ, [p. 47](Bhagavadgita_2#p47); and [p. 184](Sanatsugatiya_5#p184) infra.
 
 [^795]: 171:6 Cf. B<i>ri</i>hadâranyaka, p. 893.
 
@@ -294,7 +294,7 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^801]: 172:3 ‘The mind,’ says Nîlaka<i>nth</i>a; literally, ‘that which is to be understood.’
 
-[^802]: 172:4 Because a real knowledge of it requires a knowledge of the Brahman. As to the next clause cf. inter alia _Kh_ândogya, p. 384; B<i>ri</i>hadâra<i>n</i>yaka, p. 450.
+[^802]: 172:4 Because a real knowledge of it requires a knowledge of the Brahman. As to the next clause cf. inter alia <i>Kh</i>ândogya, p. 384; B<i>ri</i>hadâra<i>n</i>yaka, p. 450.
 
 [^803]: 172:5 This is the converse of the last sentence, as to which cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 925.
 
@@ -316,10 +316,10 @@ Through ignorance of the one Veda [^787]\—the one truth—O king of kings! num
 
 [^812]: 173:6 Cf. Ka<i>th</i>a, p. 55.
 
-[^813]: 173:7 Cf. _Kh_ândogya, p. 516. The Bhûman there is the same as the Bahu here, viz. the Brahman. <i>S</i>ankara says expressly in his comment on the Upanishad text, that Bahu and Bhûman, among other words, are synonyms.
+[^813]: 173:7 Cf. <i>Kh</i>ândogya, p. 516. The Bhûman there is the same as the Bahu here, viz. the Brahman. <i>S</i>ankara says expressly in his comment on the Upanishad text, that Bahu and Bhûman, among other words, are synonyms.
 
 [^814]: 173:8 Self-restraint, as explained before at [p. 163](#p163).
 
-[^815]: 173:9 Though this is not unimportant, as may be seen from the contrast between town and forest at _Kh_ândogya, p. 340. See also Maitrî, p. 100; Mu<i>nd</i>aka, p. 240. As to the ‘highest sage,’ see B<i>nd</i>hadâra<i>n</i>yaka, p. 899, where the passage about ‘sacrifice, gift, penance’ should be compared with Gîtâ, [p. 122](Bhagavadgita_18#p122).
+[^815]: 173:9 Though this is not unimportant, as may be seen from the contrast between town and forest at <i>Kh</i>ândogya, p. 340. See also Maitrî, p. 100; Mu<i>nd</i>aka, p. 240. As to the ‘highest sage,’ see B<i>nd</i>hadâra<i>n</i>yaka, p. 899, where the passage about ‘sacrifice, gift, penance’ should be compared with Gîtâ, [p. 122](Bhagavadgita_18#p122).
 
-[^816]: 173:10 The construction in the original is not quite clear. I understand the sense to be as follows: In the science of the soul, the p. 174 analyser (the word is the same as the word for grammarian) is he who analyses objects, not words merely. Now the true analysis of objects reduces them all to the Brahman (cf. _Kh_ândogya, p. 407; B<i>ri</i>hadâra<i>n</i>yaka, p. 152); and the sage understands this, and makes the analysis accordingly, so he is rightly called an analyser.
+[^816]: 173:10 The construction in the original is not quite clear. I understand the sense to be as follows: In the science of the soul, the p. 174 analyser (the word is the same as the word for grammarian) is he who analyses objects, not words merely. Now the true analysis of objects reduces them all to the Brahman (cf. <i>Kh</i>ândogya, p. 407; B<i>ri</i>hadâra<i>n</i>yaka, p. 152); and the sage understands this, and makes the analysis accordingly, so he is rightly called an analyser.

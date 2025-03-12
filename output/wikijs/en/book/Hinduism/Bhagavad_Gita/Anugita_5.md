@@ -94,7 +94,7 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 [^1231]: 258:2 Ar<i>g</i>una Mi<i>s</i>ra says this means the five great elements, the eleven organs (active and perceptive, and the mind), the life-wind, and the individual soul.
 
-[^1232]: 258:3 The Prâ<i>n</i>a is at the nose, the Apâna at the arms, the Samâna at the navel, the Vyâna pervades the whole body, and the Udâna is at all the joints; cf. Yoga-sûtra III, 38 seq. Nîlaka<i>nth</i>a says this explains how the ‘expanse’ (meaning, he says, the operations of the creation, &c.) ‘proceeds’ from the Brahman. See on the life-winds, B<i>nth</i>hadâra<i>nth</i>aka, p. 667; _Kh_ândogya, pp. 42-188; Sânkhyatattvakaumudî, p. 96; Vedânta Paribhâshâ, p. 45; [p. 271](Anugita_8#p271) infra.
+[^1232]: 258:3 The Prâ<i>n</i>a is at the nose, the Apâna at the arms, the Samâna at the navel, the Vyâna pervades the whole body, and the Udâna is at all the joints; cf. Yoga-sûtra III, 38 seq. Nîlaka<i>nth</i>a says this explains how the ‘expanse’ (meaning, he says, the operations of the creation, &c.) ‘proceeds’ from the Brahman. See on the life-winds, B<i>nth</i>hadâra<i>nth</i>aka, p. 667; <i>Kh</i>ândogya, pp. 42-188; Sânkhyatattvakaumudî, p. 96; Vedânta Paribhâshâ, p. 45; [p. 271](Anugita_8#p271) infra.
 
 [^1233]: 258:4 The self, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a says, the Prâ<i>n</i>a accompanied by the Apâna.’
 
@@ -110,13 +110,13 @@ On this [^1212], too, O chief of the descendants of Bharata! they relate this an
 
 [^1239]: 259:2 As explained in note [^1232], [p. 258](#p258).
 
-[^1240]: 259:3 This, says Nîlaka<i>nth</i>a, explains the word ‘I’ in the sentence preceding. Vaisvânara is a word often used to denote the self. The Vishama<i>s</i>lokî derives it thus, ‘that which saves all beings from hell;’ see the Prasna-upanishad, pp. 167-188 (where seven tongues are also referred to); Mu<i>nth</i>aka, p. 292; _Kh_ândogya, p. 364; Mândukya, p. 341.
+[^1240]: 259:3 This, says Nîlaka<i>nth</i>a, explains the word ‘I’ in the sentence preceding. Vaisvânara is a word often used to denote the self. The Vishama<i>s</i>lokî derives it thus, ‘that which saves all beings from hell;’ see the Prasna-upanishad, pp. 167-188 (where seven tongues are also referred to); Mu<i>nth</i>aka, p. 292; <i>Kh</i>ândogya, p. 364; Mândukya, p. 341.
 
 [^1241]: 259:4 Cf. Taittirîya-âranyaka, p. 802.
 
 [^1242]: 259:5 I. e. the Vaisvânara. Cf. Taittirîya-âranyaka, p. 803 and gloss.
 
-[^1243]: 259:6 These I take to be the powers of hearing, &c., which are presided over by the several deities; or, better, Perhaps, they may mean the soul distinguished as so many with reference to these several powers; cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 169; Maitrî, p,. 96; Prasna, pp. 214, 215; Kaushîtaki, p. 96; Aitareya, p. 187; _Kh_ândogya, p. 616. The latter sense is accepted by Ar<i>g</i>una Mi<i>s</i>ra.
+[^1243]: 259:6 These I take to be the powers of hearing, &c., which are presided over by the several deities; or, better, Perhaps, they may mean the soul distinguished as so many with reference to these several powers; cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 169; Maitrî, p,. 96; Prasna, pp. 214, 215; Kaushîtaki, p. 96; Aitareya, p. 187; <i>Kh</i>ândogya, p. 616. The latter sense is accepted by Ar<i>g</i>una Mi<i>s</i>ra.
 
 [^1244]: 260:1 The next clause explains this; that which is to be smelt is earth, and so on throughout. The men who sacrifice all sensuous objects, get such powers that they can create the objects whenever they like. As to ‘in their wombs,’ see Yoga Bhâshya, p. 108.
 

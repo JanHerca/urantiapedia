@@ -100,15 +100,15 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^822]: 175:2 I. e. withdrawn from objects and fixed on the self only. Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79), and Maitrî, p. 179, where, however, we have h<i>ri</i>d for buddhi.
 
-[^823]: 175:3 Viro<i>k</i>ana and Indra do so according to the _Kh_ândogya, p. 570 See also Mu<i>nd</i>aka, p. 311.
+[^823]: 175:3 Viro<i>k</i>ana and Indra do so according to the <i>Kh</i>ândogya, p. 570 See also Mu<i>nd</i>aka, p. 311.
 
 [^824]: 175:4 The object of which is the primal Brahman.
 
-[^825]: 175:5 Cf. _Kh_ândogya, p. 534; and Gîtâ, pp. [78](Bhagavadgita_8#p78), [79](Bhagavadgita_8#p79), and the passage from the Ka<i>th</i>a there cited.
+[^825]: 175:5 Cf. <i>Kh</i>ândogya, p. 534; and Gîtâ, pp. [78](Bhagavadgita_8#p78), [79](Bhagavadgita_8#p79), and the passage from the Ka<i>th</i>a there cited.
 
-[^826]: 175:6 _Kh_ândogya, pp. 264-459.
+[^826]: 175:6 <i>Kh</i>ândogya, pp. 264-459.
 
-[^827]: 175:7 See _Kh_ândogya, p. 553 seq.
+[^827]: 175:7 See <i>Kh</i>ândogya, p. 553 seq.
 
 [^828]: 175:8 I. e. attending closely upon him; fœtus = pupil.
 
@@ -126,7 +126,7 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^835]: 176:7 Immortality or final emancipation is not to be achieved without knowledge, which can only be got from a preceptor. And one is not perfect without that immortality; one is limited by the conditions of human existence. See Nirukta (Roth's ed.), p. 41.
 
-[^836]: 176:8 <i>S</i>ankara compares <i>S</i>vetâ<i>s</i>vatara, p. 374. The necessity of having a Guru is often insisted on even in the Upanishads. Cf. Mu<i>nd</i>aka, p. 282; _Kh_ândogya, p. 264.
+[^836]: 176:8 <i>S</i>ankara compares <i>S</i>vetâ<i>s</i>vatara, p. 374. The necessity of having a Guru is often insisted on even in the Upanishads. Cf. Mu<i>nd</i>aka, p. 282; <i>Kh</i>ândogya, p. 264.
 
 [^837]: 176:9 Stated at the beginning of this speech, <i>S</i>ankara.
 
@@ -142,9 +142,9 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^843]: 178:1 To observe the duties referred to, <i>S</i>ankara. But see, too, [p. 167](Sanatsugatiya_3#p167), note .
 
-[^844]: 178:2 Obtains wealth, learning, and greatness,' says a commentator. For similar benefits, cf. _Kh_ândogya, p. 122.
+[^844]: 178:2 Obtains wealth, learning, and greatness,' says a commentator. For similar benefits, cf. <i>Kh</i>ândogya, p. 122.
 
-[^845]: 178:3 Cf. _Kh_ândogya, p. 132.
+[^845]: 178:3 Cf. <i>Kh</i>ândogya, p. 132.
 
 [^846]: 178:4 ‘Wealth,’ says Nîlaka<i>nth</i>a, as well as another commentator.
 
@@ -154,15 +154,15 @@ Ya<i>g</i>us texts; nor yet in the Atharvan texts, nor in the pure Sâman texts;
 
 [^849]: 179:1 Called <i>K</i>intâma<i>n</i>i. The effect of Brahma<i>k</i>arya is that those who practise it can get what they desire.
 
-[^850]: 179:2 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76); _Kh_ândogya, p. 538; Mu<i>nd</i>aka, p. 279.
+[^850]: 179:2 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76); <i>Kh</i>ândogya, p. 538; Mu<i>nd</i>aka, p. 279.
 
 [^851]: 179:3 Cf. <i>S</i>vetâ<i>s</i>vatara, p. 327.
 
 [^852]: 179:4 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 877.
 
-[^853]: 179:5 Cf. Ka<i>th</i>a, p. 119; and Mu<i>th</i>aka, p. 267. As to its not dwelling in earth, sky, &c., <i>S</i>ankara refers to _Kh_ândogya, p. 518, as implying that.
+[^853]: 179:5 Cf. Ka<i>th</i>a, p. 119; and Mu<i>th</i>aka, p. 267. As to its not dwelling in earth, sky, &c., <i>S</i>ankara refers to <i>Kh</i>ândogya, p. 518, as implying that.
 
-[^854]: 179:6 Literally, ‘it bears no water in the ocean.’ ‘Water’ is said by the commentators to mean the five elements of which the body is composed. See Manu I, 5, and _Kh_ândogya, p. 330. In the <i>S</i>vetâ<i>s</i>vatara it signifies mind (See p. 388). For ocean meaning world, or sa<i>m</i>sâra; cf. Aitareya-upanishad, p. 182.
+[^854]: 179:6 Literally, ‘it bears no water in the ocean.’ ‘Water’ is said by the commentators to mean the five elements of which the body is composed. See Manu I, 5, and <i>Kh</i>ândogya, p. 330. In the <i>S</i>vetâ<i>s</i>vatara it signifies mind (See p. 388). For ocean meaning world, or sa<i>m</i>sâra; cf. Aitareya-upanishad, p. 182.
 
 [^855]: 179:7 Here I do not render rûpa by colour, as before.
 

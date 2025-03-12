@@ -104,7 +104,7 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1158]: 246:8 Cf. Ka<i>th</i>a, p. 101.
 
-[^1159]: 246:9 Nîlaka<i>nth</i>a says this means the constituents of the body. Ar<i>g</i>una Mi<i>s</i>ra says, ‘Prâ<i>n</i>a or life-wind,’ &c. They are seven. See gloss on _Kh_ândogya-upanishad, p. 441, and [p. 343](Anugita_27#p343) infra.
+[^1159]: 246:9 Nîlaka<i>nth</i>a says this means the constituents of the body. Ar<i>g</i>una Mi<i>s</i>ra says, ‘Prâ<i>n</i>a or life-wind,’ &c. They are seven. See gloss on <i>Kh</i>ândogya-upanishad, p. 441, and [p. 343](Anugita_27#p343) infra.
 
 [^1160]: 246:10 Because, says Ar<i>g</i>una Mi<i>s</i>ra, he has no desire. Nîlaka<i>nth</i>a says this means an ascetic, sannyâsin. See [p. 257](Anugita_5#p257) infra, note [1](Anugita_5#fn1217).
 
@@ -156,7 +156,7 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1184]: 249:5 I. e. on the supreme self, as above explained.
 
-[^1185]: 249:6 Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161); <i>S</i>vetâ<i>s</i>vatara, p. 290; and B<i>ri</i>hadâranyaka, p. 218; _Kh_ândogya, p. 523; Aitareya, p. 26; Kaushîtaki, p. 126.
+[^1185]: 249:6 Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161); <i>S</i>vetâ<i>s</i>vatara, p. 290; and B<i>ri</i>hadâranyaka, p. 218; <i>Kh</i>ândogya, p. 523; Aitareya, p. 26; Kaushîtaki, p. 126.
 
 [^1186]: 250:1 I do not quite understand the original. The other reading, dehatvam for devatvam, is not more intelligible. But comparing the two, the meaning seems to be, that the divinity of the gods, i. e. their qualities and powers as gods, are within his reach, if he likes to have them.
 
@@ -176,7 +176,7 @@ Having spoken to me, O son of P<i>ri</i>thâ! these good words relating to the p
 
 [^1194]: 251:2 Cf. Maitrî-upanishad, p. 100.
 
-[^1195]: 252:1 Nîlaka<i>nth</i>a cites numerous passages from works of the Yoga philosophy in illustration of this. He takes ‘heart’ to mean the Brahman seated in the heart (cf. _Kh_ândogya, p. 528), and ‘the seat of the heart’ to mean the one hundred and one passages of the heart. The latter expression Ar<i>g</i>una Mi<i>s</i>ra seems to render by ‘mind.’ See also generally on this passage, Maitrî-upanishad, p. 133, and Yoga-sûtra III, 1 and 28 seq., and commentary there.
+[^1195]: 252:1 Nîlaka<i>nth</i>a cites numerous passages from works of the Yoga philosophy in illustration of this. He takes ‘heart’ to mean the Brahman seated in the heart (cf. <i>Kh</i>ândogya, p. 528), and ‘the seat of the heart’ to mean the one hundred and one passages of the heart. The latter expression Ar<i>g</i>una Mi<i>s</i>ra seems to render by ‘mind.’ See also generally on this passage, Maitrî-upanishad, p. 133, and Yoga-sûtra III, 1 and 28 seq., and commentary there.
 
 [^1196]: 252:2 Literally, ‘those which are void of strength.’ I adopt Ar<i>g</i>una Mi<i>s</i>ra's reading. The other reading literally means ‘obstructions.’
 

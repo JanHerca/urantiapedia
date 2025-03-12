@@ -98,7 +98,7 @@ The qualities cannot be explained altogether distinctly (from one another). Pass
 
 [^1615]: 330:5 Cf. Gîtâ, [p. 120](Bhagavadgita_17#p120). With reference to some, at least, of the things enumerated here, the division would be rather fanciful.
 
-[^1616]: 331:1 see these three mentioned at _Kh_ândogya, pp. 340-359. As to departments of knowledge, cf. Gîtâ, [p. 84](Bhagavadgita_9#p84); Ar<i>g</i>una Mi<i>s</i>ra reads, ‘threefold the Vedas.’
+[^1616]: 331:1 see these three mentioned at <i>Kh</i>ândogya, pp. 340-359. As to departments of knowledge, cf. Gîtâ, [p. 84](Bhagavadgita_9#p84); Ar<i>g</i>una Mi<i>s</i>ra reads, ‘threefold the Vedas.’
 
 [^1617]: 331:2 The universe is all developed from the Prakriti, which is merely the three ‘qualities in equilibrium.’ Cf. Sânkhya-sûtra I, 61.
 

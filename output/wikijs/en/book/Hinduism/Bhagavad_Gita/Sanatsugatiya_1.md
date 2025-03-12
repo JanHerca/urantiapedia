@@ -92,7 +92,7 @@ Vai<i>s</i>ampâyana [^608] said:
 
 [^609]: 149:2 I. e. relating to subjects which may be freely discussed by all, and those which may not. Nîlaka<i>nth</i>a adopts a different reading, which he interprets to mean ‘doctrines exoteric and esoteric,’ e. g. self-restraint, &c., and the acquisition of mystic power, &c., respectively. The expression ‘doubts of the mind’ occurs. however, further on.
 
-[^610]: 150:1 I. e., I suppose, never-failing, and such as can deal with all sorts of topics. Sanatkumâra, it need scarcely be stated, is the teacher of Nârada in the famous dialogue in the _Kh_ândogyopanishad, p. 473.
+[^610]: 150:1 I. e., I suppose, never-failing, and such as can deal with all sorts of topics. Sanatkumâra, it need scarcely be stated, is the teacher of Nârada in the famous dialogue in the <i>Kh</i>ândogyopanishad, p. 473.
 
 [^611]: 150:2 Vai<i>s</i>ampâyana is the narrator of the grand story of which pieces like the present form parts.
 

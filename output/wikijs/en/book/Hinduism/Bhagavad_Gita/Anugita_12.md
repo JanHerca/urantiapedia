@@ -84,7 +84,7 @@ There is nothing else more delightful than that, when there is no distinction fr
 
 [^1370]: 284:5 I. e. the Brahman. Nîlaka<i>nth</i>a compares a text from the <i>S</i>ruti, ‘Kim svid vana<i>m</i> ka u sa v<i>nth</i>ksha âsa;’ see Rig-veda X, 31, 7.
 
-[^1371]: 285:1 Cf. _Kh_ândogya, pp. 516, 517.
+[^1371]: 285:1 Cf. <i>Kh</i>ândogya, pp. 516, 517.
 
 [^1372]: 285:2 Cf. Sanatsu<i>g</i>âtîya, [p. 180](Sanatsugatiya_4#p180) and note there.
 
@@ -92,7 +92,7 @@ There is nothing else more delightful than that, when there is no distinction fr
 
 [^1374]: 285:4 This is not the forest spoken of before. but what has been before called the ‘impassable place,’ but which also at [p. 286](#p286) is by implication called a forest, viz. the course of worldly life.
 
-[^1375]: 285:5 Viz. the eye, ear, tongue, skin, and nose, and the mind, and understanding—these are called trees, as being producers of the fruits, namely, the pleasures and pains derived from their several operations; the guests are the powers of each sense personified—they receive the fruits above described; the hermitages are the trees above mentioned, in which the guests take shelter; the seven forms of concentration are the exclusion from the self of the seven functions of the seven senses &c. already referred to; the seven forms of initiation refer to the initiation into the higher life, by repudiating as not one's own the actions of each member out of the group of seven. Cf. as to this _Kh_ândogya, p. 219, and commentary there.
+[^1375]: 285:5 Viz. the eye, ear, tongue, skin, and nose, and the mind, and understanding—these are called trees, as being producers of the fruits, namely, the pleasures and pains derived from their several operations; the guests are the powers of each sense personified—they receive the fruits above described; the hermitages are the trees above mentioned, in which the guests take shelter; the seven forms of concentration are the exclusion from the self of the seven functions of the seven senses &c. already referred to; the seven forms of initiation refer to the initiation into the higher life, by repudiating as not one's own the actions of each member out of the group of seven. Cf. as to this <i>Kh</i>ândogya, p. 219, and commentary there.
 
 [^1376]: 285:6 Cf. for these different numbers of colours, Yoga-sûtra II, 19, and commentary, p. 105, and <i>S</i>ânkhya-sâra, p. 18. The trees here meant are the Tanmâtras, or subtle elements, and the theory is that the Gandha-tanmâtra, or subtle element of smell, has five qualities, its p. 286 own special one, so to say, and the four special ones of the others; the next is taste, the next colour, the next touch, and the last sound; each has one quality less than its predecessor. See Yoga-sûtra, p. 106, and gloss; <i>S</i>ânkhya-sûtra I, 62; and Vedânta Paribhâshâ, p. 45.
 
@@ -118,7 +118,7 @@ There is nothing else more delightful than that, when there is no distinction fr
 
 [^1387]: 287:5 Viz. the Brahman.
 
-[^1388]: 287:6 Cf. _Kh_ândogya, pp. 295-300. The word sages here, as before, means the various organs. See B<i>ri</i>hadâra<i>n</i>yaka, p. 415.
+[^1388]: 287:6 Cf. <i>Kh</i>ândogya, pp. 295-300. The word sages here, as before, means the various organs. See B<i>ri</i>hadâra<i>n</i>yaka, p. 415.
 
 [^1389]: 287:7 Glory = renown; brilliance = Brahmic splendour (Brahmate<i>g</i>as); perfection = obtaining what is desired; power = not being conquered by others, Ar<i>g</i>una Mi<i>s</i>ra. About the sun, see line 3 of text above.
 

@@ -86,7 +86,7 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1074]: 235:4 I. e. the Brahman, says Nîlaka<i>nth</i>a.
 
-[^1075]: 236:1 One reading omits ‘fame,’ as to which cf. Taittirîya-upanishad, p. 129; _Kh_ândogya, pp. 122-227. As to long life, cf. _Kh_ândogya, p. 272; exhausted, i.e. by enjoyment of fruit in another world.
+[^1075]: 236:1 One reading omits ‘fame,’ as to which cf. Taittirîya-upanishad, p. 129; <i>Kh</i>ândogya, pp. 122-227. As to long life, cf. <i>Kh</i>ândogya, p. 272; exhausted, i.e. by enjoyment of fruit in another world.
 
 [^1076]: 236:2 Cf. <i>S</i>ârîraka Bhâshya, p. 753 seq., where we have a slightly different view.
 
@@ -130,7 +130,7 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1096]: 238:8 See and cf. [p. 262](Anugita_6#p262) infra.
 
-[^1097]: 238:9 This, says Ar<i>g</i>una Mi<i>s</i>ra, is in answer to the possible question why this ‘sharp wind’ does not work with the life-winds. The answer is, that such working requires the presence of the soul, which Ar<i>g</i>una Mi<i>s</i>ra says here means ‘mind.’ As to production from food,' cf. _Kh_ândogya, p. 421 seq., and Taittirîya Âra<i>n</i>yaka, p. 893.
+[^1097]: 238:9 This, says Ar<i>g</i>una Mi<i>s</i>ra, is in answer to the possible question why this ‘sharp wind’ does not work with the life-winds. The answer is, that such working requires the presence of the soul, which Ar<i>g</i>una Mi<i>s</i>ra says here means ‘mind.’ As to production from food,' cf. <i>Kh</i>ândogya, p. 421 seq., and Taittirîya Âra<i>n</i>yaka, p. 893.
 
 [^1098]: 238:10 Collection of that = turning the food into semen, says Ar<i>g</i>una Mi<i>s</i>ra, who adds, ‘in, those vital parts, which are useful for this purpose, the life-wind dwells.’
 
@@ -146,7 +146,7 @@ When those actions, productive of long life and fame [^1070], which a man perfor
 
 [^1104]: 239:6 See Aitareya-upanishad, p. 222, and <i>S</i>ankara's commentary there. The coming to the birth is the coming out of the womb into the world. Cf. also Gîtâ, [p. 112](Bhagavadgita_15#p112).
 
-[^1105]: 239:7 As stated further on, viz. this world, the next world, and the womb. With this compare _Kh_ândogya, p. 359.
+[^1105]: 239:7 As stated further on, viz. this world, the next world, and the womb. With this compare <i>Kh</i>ândogya, p. 359.
 
 [^1106]: 239:8 Cf. our Bhart<i>ri</i>hari (Bombay series), Notes (Nîti<i>s</i>ataka), p. 27.
 

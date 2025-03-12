@@ -110,7 +110,7 @@ That unperceived (principle), all-pervading, everlasting, and immutable, which i
 
 [^1541]: 320:1 According to Gîtâ, [p. 108](Bhagavadgita_14#p108), doing nothing—stolid laziness—is a mark of darkness. Cf. generally on this passage Gîtâ, pp. [107](Bhagavadgita_14#p107), [118](Bhagavadgita_17#p118), [124](Bhagavadgita_18#p124) seq.; Maitrî, p. 49.
 
-[^1542]: 320:2 The same word as at Gîtâ, pp. [116](Bhagavadgita_16#p116), [125](Bhagavadgita_18#p125) (headstrong in the latter passage should have been haughty). Cf. as to the word, _Kh_ândogya, p. 383.
+[^1542]: 320:2 The same word as at Gîtâ, pp. [116](Bhagavadgita_16#p116), [125](Bhagavadgita_18#p125) (headstrong in the latter passage should have been haughty). Cf. as to the word, <i>Kh</i>ândogya, p. 383.
 
 [^1545]: 320:3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
 
@@ -130,7 +130,7 @@ That unperceived (principle), all-pervading, everlasting, and immutable, which i
 
 [^1552]: 321:3 Such as trees and so forth, which are also forms of life.
 
-[^1553]: 321:4 This is alluded to in some Smritis too. And cf. _Kh_ândogya, p. 158, and the quotation in the commentary of Sânkhya-sûtra V, 122.
+[^1553]: 321:4 This is alluded to in some Smritis too. And cf. <i>Kh</i>ândogya, p. 158, and the quotation in the commentary of Sânkhya-sûtra V, 122.
 
 [^1554]: 321:5 Such, says Nîlaka<i>nth</i>a, as to fit them for the nether world See Tattvakaumudi, p.113. As to marks, cf. [p. 239](Anugita_2#p239) supra.
 
@@ -144,7 +144,7 @@ That unperceived (principle), all-pervading, everlasting, and immutable, which i
 
 [^1559]: 322:2 To return to life and death, and so on, until they fit themselves for final emancipation. Cf. Âpastamba II, 5, 11, 10-11.
 
-[^1560]: 322:3 Cf. _Kh_ândogya, p. 359.
+[^1560]: 322:3 Cf. <i>Kh</i>ândogya, p. 359.
 
 [^1561]: 322:4 This is not very clear, and the commentators give but little help. The meaning probably is, that they gradually, in course of improvement, cross beyond the Sûdra caste, and all those qualities or tempers of mind, and so forth, which have been stated to appertain to the quality of darkness.
 

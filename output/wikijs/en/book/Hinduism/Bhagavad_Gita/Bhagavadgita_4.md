@@ -78,7 +78,7 @@ Brahman is the oblation; with Brahman (as a sacrificial instrument) it is offere
 
 [^185]: 58:1 Because its fruit is imperishable, viz. final emancipation.
 
-[^186]: 58:2 In the _Kh_ândogya-upanishad, Manu is the channel of communication for some doctrine taught by Pra<i>g</i>âpati, which Manu teaches the ‘people,’ interpreted by <i>S</i>ankara to mean Ikshvâku, &c. (p. 178; see too p. 625).
+[^186]: 58:2 In the <i>Kh</i>ândogya-upanishad, Manu is the channel of communication for some doctrine taught by Pra<i>g</i>âpati, which Manu teaches the ‘people,’ interpreted by <i>S</i>ankara to mean Ikshvâku, &c. (p. 178; see too p. 625).
 
 [^187]: 58:3 Nature is what goes to the formation of the material form in which he is born; the ‘power’ includes knowledge, omnipotence, &c. It is delusive because he is still really ‘unborn.’
 

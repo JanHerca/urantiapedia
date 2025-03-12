@@ -84,7 +84,7 @@ Renunciation and pursuit of action are both instruments of happiness. But of the
 
 [^220]: 64:5 Excretions, &c.
 
-[^221]: 64:6 A very common simile. Cf. inter alia _Kh_ândogya-upanishad, p. 276; Sutta Nipâta, pp. 107-134; and Davids' Buddhism, p. 158 note.
+[^221]: 64:6 A very common simile. Cf. inter alia <i>Kh</i>ândogya-upanishad, p. 276; Sutta Nipâta, pp. 107-134; and Davids' Buddhism, p. 158 note.
 
 [^222]: 64:7 Body = bathing, &c.; mind = meditation, &c.; understanding = ascertainment of truth; senses = hearing and celebrating God's name.
 

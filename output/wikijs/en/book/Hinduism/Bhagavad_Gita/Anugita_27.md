@@ -106,7 +106,7 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1653]: 337:3 Cf. Lalita Vistara (translated by Dr. R. Mitra), p. 11.
 
-[^1654]: 337:4 The above sentences show the entities in the three different aspects mentioned, which correspond to each other; the ear is the sense, that which is connected with the self; sound is the object of that sense, as connected with the external world; and the p. 338 quarters, Dik, are the deities presiding over the senses; as to this cf. Sânkhya-sâra, p. 17, and Vedânta Paribhâshâ, p. 45, which show some discrepancies. The distinctions of Adhyâtma &c. are to be found in the Upanishads; cf. inter alia, _Kh_ândogya, p. 227, and cf. Gîtâ, [p. 77](Bhagavadgita_7#p77).
+[^1654]: 337:4 The above sentences show the entities in the three different aspects mentioned, which correspond to each other; the ear is the sense, that which is connected with the self; sound is the object of that sense, as connected with the external world; and the p. 338 quarters, Dik, are the deities presiding over the senses; as to this cf. Sânkhya-sâra, p. 17, and Vedânta Paribhâshâ, p. 45, which show some discrepancies. The distinctions of Adhyâtma &c. are to be found in the Upanishads; cf. inter alia, <i>Kh</i>ândogya, p. 227, and cf. Gîtâ, [p. 77](Bhagavadgita_7#p77).
 
 [^1655]: 338:1 As to the original word, cf. inter alia, <i>S</i>vetâ<i>s</i>vatara, pp. 197-202.
 
@@ -114,7 +114,7 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1657]: 338:3 The understanding is called the charioteer at Ka<i>th</i>a, p. 111.
 
-[^1658]: 339:1 Cf. _Kh_ândogya, pp. 404-406, and glosses; Aitareya, p. 243; Vedânta Paribhâshâ, p. 47; Sânkhya-sûtra V, 111; Manu. I, 43; Max Müller's note at p. 94 of his _Kh_ândogya in this series.
+[^1658]: 339:1 Cf. <i>Kh</i>ândogya, pp. 404-406, and glosses; Aitareya, p. 243; Vedânta Paribhâshâ, p. 47; Sânkhya-sûtra V, 111; Manu. I, 43; Max Müller's note at p. 94 of his <i>Kh</i>ândogya in this series.
 
 [^1659]: 339:2 So Nîlaka<i>nth</i>a, but he also adds that this means birth as a Brâhma<i>n</i>a, which seems to be quite wrong. Ar<i>g</i>una Mi<i>s</i>ra's ‘means of acquiring Brahman’ is right. See [p. 369](Anugita_32#p369) infra.
 
@@ -122,7 +122,7 @@ The learned man who absorbs objects of desire from all sides, as a tortoise (dra
 
 [^1661]: 339:4 Another reading is ‘of two kinds.’ But I prefer this, as three kinds are mentioned further on.
 
-[^1662]: 340:1 Cf. as to this _Kh_ândogya, p. 136, which justifies our rendering, though the commentator Ar<i>g</i>una Mi<i>s</i>ra seems to understand the passage differently.
+[^1662]: 340:1 Cf. as to this <i>Kh</i>ândogya, p. 136, which justifies our rendering, though the commentator Ar<i>g</i>una Mi<i>s</i>ra seems to understand the passage differently.
 
 [^1663]: 340:2 Ar<i>g</i>una Mi<i>s</i>ra seems to understand this to mean ‘twice-born.’
 

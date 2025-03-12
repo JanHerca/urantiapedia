@@ -144,7 +144,7 @@ When K<i>ri</i>sh<i>n</i>a spoke these words, Dhanañgaya replied (saying), ‘O
 
 [^2032]: 388:10 Difficult to obtain = the seat of Indra, &c.; to learn = Vedas, &c.; to vanquish = fire. &c.; to pass through = a great deluge, &c., p. 389 Nîlaka<i>nth</i>a. Ar<i>g</i>una Mi<i>s</i>ra seems to interpret the last word, where his reading is doubtful, to mean ‘difficult to do.’
 
-[^2033]: 389:1 Cf. _Kh_ândogya, p. 361. Except the destruction of the embryo (see Taitt. Âra<i>n</i>. p. 870, but at B<i>ri</i>hadâra<i>n</i>yaka, p. 795, Kaushîtaki, p. 77, and Âpastamba I, 6, 19, 16, the commentators render Bhrû<i>n</i>a by learned Brâhma<i>n</i>a), the rest are the great sins. But note that stealing gold, not theft generally, is mentioned as a great sin.
+[^2033]: 389:1 Cf. <i>Kh</i>ândogya, p. 361. Except the destruction of the embryo (see Taitt. Âra<i>n</i>. p. 870, but at B<i>ri</i>hadâra<i>n</i>yaka, p. 795, Kaushîtaki, p. 77, and Âpastamba I, 6, 19, 16, the commentators render Bhrû<i>n</i>a by learned Brâhma<i>n</i>a), the rest are the great sins. But note that stealing gold, not theft generally, is mentioned as a great sin.
 
 [^2034]: 389:2 Or, perhaps, cattle. The original is pa<i>s</i>u.
 
@@ -170,7 +170,7 @@ When K<i>ri</i>sh<i>n</i>a spoke these words, Dhanañgaya replied (saying), ‘O
 
 [^2045]: 390:7 See [p. 371](Anugita_32#p371) supra.
 
-[^2046]: 391:1 See <i>S</i>ânti Parvan (Râ<i>g</i>adharma) XIII, 4. Cf. Maitrî, p. 180 This means the two and three syllables of ‘mama’ and ‘na mama,’ mine and not mine. Cf. B<i>ri</i>hadâra<i>n</i>yaka p. 970, and _Kh_ândogya, p. 118, and p. 548, for a similar conceit.
+[^2046]: 391:1 See <i>S</i>ânti Parvan (Râ<i>g</i>adharma) XIII, 4. Cf. Maitrî, p. 180 This means the two and three syllables of ‘mama’ and ‘na mama,’ mine and not mine. Cf. B<i>ri</i>hadâra<i>n</i>yaka p. 970, and <i>Kh</i>ândogya, p. 118, and p. 548, for a similar conceit.
 
 [^2047]: 391:2 Final emancipation follows on abandoning the idea of ‘mine;’ bondage on harbouring it.
 
@@ -206,9 +206,9 @@ When K<i>ri</i>sh<i>n</i>a spoke these words, Dhanañgaya replied (saying), ‘O
 
 [^2064]: 393:1 See inter alia Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
 
-[^2065]: 393:2 I. e., I presume, Bhûr and the rest. But see also _Kh_ândogya, pp. 212, 541, 620, and B<i>ri</i>hadâra<i>n</i>yaka, pp. 302, 608.
+[^2065]: 393:2 I. e., I presume, Bhûr and the rest. But see also <i>Kh</i>ândogya, pp. 212, 541, 620, and B<i>ri</i>hadâra<i>n</i>yaka, pp. 302, 608.
 
-[^2066]: 393:3 See [p. 285](Anugita_12#p285) supra, and cf. inter alia _Kh_ândogya, p. 550.
+[^2066]: 393:3 See [p. 285](Anugita_12#p285) supra, and cf. inter alia <i>Kh</i>ândogya, p. 550.
 
 [^2067]: 393:4 e. I, the Kshetragña, am the preceptor, and the mind is that which has to be taught. This shows that one's instructor must be oneself, Nîlaka<i>nth</i>a. Ar<i>g</i>una Mi<i>s</i>ra says, ‘I am the preceptor, the mind is the pupil. The meaning of this is that anybody who has not acquired knowledge is treated here as a pupil; there is no other special pupil intended.’ Cf. also [p. 310](Anugita_19#p310), supra.
 

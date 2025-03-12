@@ -94,7 +94,7 @@ The Brahman is the supreme, the indestructible. Its manifestation (as an individ
 
 [^301]: 79:4 Cf. Maitrî-upanishad, p. 130, uninterrupted, like ‘oil when poured out,’ says the commentator.
 
-[^302]: 79:5 Cf. _Kh_ândogya-upanishad, p. 151; Mândukya, pp. 330-388 (Om is all-past, present, and future); N<i>ri</i>si<i>m</i>ha Tâpinî, pp. 110, 117, 171; Maitrî, p. 140; Pra<i>s</i>na, p. 220. On the opening passage of the _Kh_ândogya, <i>S</i>ankara says, ‘Om is the closest designation of the supreme Being. He is pleased when it is pronounced, as people are at the mention of a favourite name.’ See also Max Müller, Hibbert Lectures, p. 84; Goldstücker's Remains, I, 122.
+[^302]: 79:5 Cf. <i>Kh</i>ândogya-upanishad, p. 151; Mândukya, pp. 330-388 (Om is all-past, present, and future); N<i>ri</i>si<i>m</i>ha Tâpinî, pp. 110, 117, 171; Maitrî, p. 140; Pra<i>s</i>na, p. 220. On the opening passage of the <i>Kh</i>ândogya, <i>S</i>ankara says, ‘Om is the closest designation of the supreme Being. He is pleased when it is pronounced, as people are at the mention of a favourite name.’ See also Max Müller, Hibbert Lectures, p. 84; Goldstücker's Remains, I, 122.
 
 [^303]: 79:6 See infra, [p. 86](Bhagavadgita_9#p86); and cf. Sutta Nipâta, p. 125.
 
@@ -108,4 +108,4 @@ The Brahman is the supreme, the indestructible. Its manifestation (as an individ
 
 [^308]: 80:4 I. e. by whom, as the cause of them, all these entities are supported; cf. [p. 82](Bhagavadgita_9#p82) infra.
 
-[^309]: 80:5 <i>S</i>rîdhara understands ‘the time when,’ in the sentence preceding this, to mean the path indicated by a deity presiding over p. 81 time, by which;' and the fire-flame as included in this, though having no connexion with time. <i>S</i>ankara agrees, though he also suggests that fire means a deity presiding over time. I own I have no clear notion of the meaning of these verses. Cf. _Kh_ândogya, p. 342; B<i>ri</i>had-âra<i>ri</i>aka-upanishad, p. 1057 seq.
+[^309]: 80:5 <i>S</i>rîdhara understands ‘the time when,’ in the sentence preceding this, to mean the path indicated by a deity presiding over p. 81 time, by which;' and the fire-flame as included in this, though having no connexion with time. <i>S</i>ankara agrees, though he also suggests that fire means a deity presiding over time. I own I have no clear notion of the meaning of these verses. Cf. <i>Kh</i>ândogya, p. 342; B<i>ri</i>had-âra<i>ri</i>aka-upanishad, p. 1057 seq.

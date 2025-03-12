@@ -88,7 +88,7 @@ I will state truly all about that which has a beginning, middle, and end [^1751]
 
 [^1767]: 353:5 Here he turns back to the Sâvitrî, ‘looking back in the manner of the lion,’ says Nîlaka<i>nth</i>a, and for purposes of upâsanâ. He does not give up the thread of his discourse entirely, but simply interjects this little clause. Nîlaka<i>nth</i>a adds, Sâvitrî here includes every mode of worship prescribed for Brâhma<i>n</i>as, &c., and even for Mle<i>nth</i>as. Cf. note 3, and Gautama.(Bühler's ed.), p. 74 note.
 
-[^1768]: 353:6 Cf. _Kh_ândogya, p. 109, and <i>S</i>ankara's commentary. Ar<i>g</i>una Mi<i>s</i>ra compares this text, Tasmâdesha eteshâm pa<i>s</i>unâm sresh<i>th</i>atamogab. Where it occurs I know not.
+[^1768]: 353:6 Cf. <i>Kh</i>ândogya, p. 109, and <i>S</i>ankara's commentary. Ar<i>g</i>una Mi<i>s</i>ra compares this text, Tasmâdesha eteshâm pa<i>s</i>unâm sresh<i>th</i>atamogab. Where it occurs I know not.
 
 [^1769]: 353:7 Cf. Sânti Parvan (Râ<i>g</i>adharma), chap. II, st. 11.
 

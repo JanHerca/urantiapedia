@@ -102,6 +102,6 @@ Faith is of three kinds in embodied (beings), it is produced from dispositions [
 
 [^520]: 120:3 I. e. the Brahman, according to <i>S</i>rîdhara.
 
-[^521]: 120:4 Cf. Âpastamba, p. 21 (p. 49 in this series). Nîlaka<i>nth</i>a cites texts to show that this and the other two words are used to designate the Brahman. The texts are from the Taittirîya, Aitareya, and _Kh_ândogya-upanishads.
+[^521]: 120:4 Cf. Âpastamba, p. 21 (p. 49 in this series). Nîlaka<i>nth</i>a cites texts to show that this and the other two words are used to designate the Brahman. The texts are from the Taittirîya, Aitareya, and <i>Kh</i>ândogya-upanishads.
 
 [^522]: 120:5 Nîlaka<i>nth</i>a says, ‘after “Tad”’ means considering the act and all are Brahman, and cites [p. 61](Bhagavadgita_4#p61) supra.

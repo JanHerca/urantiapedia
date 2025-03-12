@@ -94,7 +94,7 @@ O best of victors! you ought not to destroy these kinsmen of Kshatriyas. It is n
 
 [^1429]: 295:3 Cf. Muir, Sanskrit Texts, vol. i, pp. 482 seq., 358, 391; vol. ii, p. 423; <i>S</i>ânti Parvan, ch. 65, st. 13; ch. 207, st. 42 (Râ<i>g</i>adharma).
 
-[^1430]: 295:4 As Kshatriyas were required for the protection of the people, the Brâhma<i>n</i>as procreated them on Kshatriya women. See Muir, Sanskrit Texts, vol. ii, p. 451 seq. And as they were the offspring of these anomalous connexions they are described as 'kinsmen of Kshatriyas.\` Cf. _Kh_ândogya, p. 317; B<i>ri</i>hadâra<i>n</i>yaka, p. 1037 and comments there. As to heroic, see Muir, Sanskrit Texts, vol. iv, p. 302 note.
+[^1430]: 295:4 As Kshatriyas were required for the protection of the people, the Brâhma<i>n</i>as procreated them on Kshatriya women. See Muir, Sanskrit Texts, vol. ii, p. 451 seq. And as they were the offspring of these anomalous connexions they are described as 'kinsmen of Kshatriyas.\` Cf. <i>Kh</i>ândogya, p. 317; B<i>ri</i>hadâra<i>n</i>yaka, p. 1037 and comments there. As to heroic, see Muir, Sanskrit Texts, vol. iv, p. 302 note.
 
 [^1431]: 295:5 Cf. Gîtâ, [p. 40](Bhagavadgita_1#p40), note [1](Bhagavadgita_1#fn97).
 

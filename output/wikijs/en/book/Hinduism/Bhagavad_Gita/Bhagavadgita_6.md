@@ -106,7 +106,7 @@ O son of P<i>ri</i>thâ! neither in this world nor the next, is ruin for him; fo
 
 [^245]: 68:7 Self is here explained as senses; in the previous clause as mind.
 
-[^246]: 68:8 This requisite is prescribed by many authorities. Cf. _Kh_ândogya-upanishad, p. 626; Maitrî, p. 156) <i>S</i>vetâ<i>s</i>vatara, pp. 318-319 and Â<i>s</i>valâyana (G<i>ri</i>hya-sûtra) III, 2, 2, for Vedic study too.
+[^246]: 68:8 This requisite is prescribed by many authorities. Cf. <i>Kh</i>ândogya-upanishad, p. 626; Maitrî, p. 156) <i>S</i>vetâ<i>s</i>vatara, pp. 318-319 and Â<i>s</i>valâyana (G<i>ri</i>hya-sûtra) III, 2, 2, for Vedic study too.
 
 [^247]: 69:1 Cf. Kumârasambhava, Canto III, 47. This is done in order to prevent the sight from rambling—a total closing of the eyes being objectionable as leading to sleep.
 

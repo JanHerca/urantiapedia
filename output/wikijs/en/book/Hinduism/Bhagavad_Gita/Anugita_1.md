@@ -141,7 +141,7 @@ Mortals, O dear friend [^1053]! by their actions which are (of) mixed (character
 
 [^1058]: 233:1 The same word as at Gîtâ, [p. 72](Bhagavadgita_6#p72).
 
-[^1059]: 233:2 Cf. _Kh_ândogya-upanishad, pp. 356-359, and Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^1059]: 233:2 Cf. <i>Kh</i>ândogya-upanishad, pp. 356-359, and Gîtâ, [p. 84](Bhagavadgita_9#p84).
 
 [^1060]: 233:3 See Gîtâ, [p. 76](Bhagavadgita_7#p76), and cf. Ka<i>th</i>a, p. 90.
 
@@ -157,7 +157,7 @@ Mortals, O dear friend [^1053]! by their actions which are (of) mixed (character
 
 [^1066]: 234:3 As above described.
 
-[^1067]: 234:4 Cf. _Kh_ândogya, p. 628; see also ibid. p. 282.
+[^1067]: 234:4 Cf. <i>Kh</i>ândogya, p. 628; see also ibid. p. 282.
 
 [^1068]: 234:5 He calls them happy because they have ended happily, I presume. ‘Surveying the worlds’ Nîlaka<i>nth</i>a takes to be an index of omniscience. Cf. Sanatsu<i>g</i>âtîya, [p. 174](Sanatsugatiya_3#p174). See also Yoga-sûtras III, 25, and commentary there.
 

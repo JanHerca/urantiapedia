@@ -72,7 +72,7 @@ Freedom from fear, purity of heart, perseverance in (pursuit of) knowledge and a
 
 [^488]: 114:5 Ostentatiousness = making a show of piety; pride = scil. of wealth and learning; vanity = esteeming oneself too highly; harshness =mercilessness.
 
-[^489]: 114:6 Cf. _Kh_ândogya-upanishad, p. 585, and Müller's Hibbert Lectures, p. 322.
+[^489]: 114:6 Cf. <i>Kh</i>ândogya-upanishad, p. 585, and Müller's Hibbert Lectures, p. 322.
 
 [^490]: 115:1 Scil, to birth and death in this world.
 

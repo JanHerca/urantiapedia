@@ -108,17 +108,17 @@ Then Brahman, the lord of (all) creatures, said. to them who were assembled toge
 
 [^1296]: 270:1 The senses are the doors of the house here, as they are among the doors of the city at Gîtâ, [p. 65](Bhagavadgita_5#p65).
 
-[^1297]: 270:2 Owing to the want of food, &c. Cf. Maitrî, p. 112, and _Kh_ândogya. p. 422.
+[^1297]: 270:2 Owing to the want of food, &c. Cf. Maitrî, p. 112, and <i>Kh</i>ândogya. p. 422.
 
 [^1298]: 270:3 Perception of pleasure, says Ar<i>g</i>una Mi<i>s</i>ra; but he takes the subsequent clause to mean this, ‘and without you no pleasure accrues to us either.’ The text is here in an unsatisfactory state.
 
 [^1299]: 270:4 As stated in the last chapter; some MSS. read ‘your’ for ‘my’ at the beginning of the sentence.
 
-[^1300]: 270:5 Ar<i>g</i>una Mi<i>s</i>ra says that in this Pañ<i>k</i>ahot_ri_\-vidhâna the five chief Hot<i>ri</i>s only are stated for briefly explaining the Prâ<i>n</i>âyâma.
+[^1300]: 270:5 Ar<i>g</i>una Mi<i>s</i>ra says that in this Pañ<i>k</i>ahot<i>ri</i>\-vidhâna the five chief Hot<i>ri</i>s only are stated for briefly explaining the Prâ<i>n</i>âyâma.
 
 [^1301]: 271:1 Ar<i>g</i>una Mi<i>s</i>ra says, ‘The wind going to the Prâ<i>n</i>a, and being obstructed in upward progress by the Prâ<i>n</i>a, goes to the Apâna, and then unable to go upwards or downwards, enters the passages or nâ<i>d</i>îs of the body and becomes Vyâna. In the same way Udâna, by the collision of the two, produces sound in the throat, and depends on Prâ<i>n</i>a and Apâna; so, too, the Samâna dwelling in the navel and kindling the gastric fire is also dependent on those two.’ The meaning seems to be that one life-wind is distributed in the different places, and gets different names, as stated, in the order mentioned. See Maitrî, p. 28.
 
-[^1302]: 271:2 A similar visit on the part of the Prâ<i>n</i>as (who, however, are not there the life-winds only, but the Prâ<i>n</i>a life-wind and the active organs) to Pra<i>g</i>âpati is mentioned at B<i>ri</i>hadâra<i>n</i>yaka-upanishad, p. 1016, and _Kh_ândogya, p. 297. Cf. also Pra<i>s</i>na, p. 178; B<i>ri</i>hadâra<i>n</i>yaka, p. 317; and Kaushîtaki, p. 63. See also, generally, as to the life-winds and their functions, B<i>ri</i>hadâra<i>n</i>yaka, p. 280, and <i>S</i>ankara's comment there; Yoga-sûtras III, 38, and comment; Cowell's note at Maitrî, p. 247; <i>S</i>ânti Parvan (Moksha Dharma), chap. 184, st. 24-25; chap. 185, st. 1 seq.; and [p. 258](Anugita_5#p258) supra.
+[^1302]: 271:2 A similar visit on the part of the Prâ<i>n</i>as (who, however, are not there the life-winds only, but the Prâ<i>n</i>a life-wind and the active organs) to Pra<i>g</i>âpati is mentioned at B<i>ri</i>hadâra<i>n</i>yaka-upanishad, p. 1016, and <i>Kh</i>ândogya, p. 297. Cf. also Pra<i>s</i>na, p. 178; B<i>ri</i>hadâra<i>n</i>yaka, p. 317; and Kaushîtaki, p. 63. See also, generally, as to the life-winds and their functions, B<i>ri</i>hadâra<i>n</i>yaka, p. 280, and <i>S</i>ankara's comment there; Yoga-sûtras III, 38, and comment; Cowell's note at Maitrî, p. 247; <i>S</i>ânti Parvan (Moksha Dharma), chap. 184, st. 24-25; chap. 185, st. 1 seq.; and [p. 258](Anugita_5#p258) supra.
 
 [^1303]: 272:1 Ar<i>g</i>una Mi<i>s</i>ra says, Vyâna and Apâna also by force of the two ‘ands’ which occur in the original; and so in other places too.
 

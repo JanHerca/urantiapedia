@@ -114,17 +114,17 @@ With this explanation, the ascetic thereafter remained silent, and the Adhvaryu 
 
 [^1405]: 290:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 542, and [p. 337](Anugita_27#p337) below.
 
-[^1406]: 290:2 Cf. _Kh_ândogya-upanishad, p. 627, and also <i>S</i>ârîraka Bhâshya on Sûtra III, 1, 25, p. 774.
+[^1406]: 290:2 Cf. <i>Kh</i>ândogya-upanishad, p. 627, and also <i>S</i>ârîraka Bhâshya on Sûtra III, 1, 25, p. 774.
 
 [^1407]: 290:3 I. e. for his slaughter, which is to bring welfare to the goat. Ar<i>g</i>una Mi<i>s</i>ra says that this is a sort of reductio ad absurdum, as the sacrifice is in truth not in the interests of the goat at all.
 
 [^1408]: 290:4 Viz. whether the goat should be killed. Without their consent he ought not to be slaughtered; with their consent, it becomes a matter for consideration, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1409]: 290:5 It may also mean the senses, as in the _Kh_ândogya, p. 297.
+[^1409]: 290:5 It may also mean the senses, as in the <i>Kh</i>ândogya, p. 297.
 
 [^1410]: 291:1 This is not very clear, but the meaning seems to be that the slaughter is committed for the enjoyment of the sacrificer; the sacrificer only requires fuel, and the slaughtered animal is then used for that purpose.
 
-[^1411]: 291:2 Cf. _Kh_ândogya, p. 627, and next note; and Gîtâ, inter alia, [p. 114](Bhagavadgita_15#p114), and [p. 348](Anugita_28#p348) infra.
+[^1411]: 291:2 Cf. <i>Kh</i>ândogya, p. 627, and next note; and Gîtâ, inter alia, [p. 114](Bhagavadgita_15#p114), and [p. 348](Anugita_28#p348) infra.
 
 [^1412]: 291:3 See Sânkhyatattvaktumudi, p. 7.
 

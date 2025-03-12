@@ -80,7 +80,7 @@ This would be true as you believe, if you, without us, enjoyed the enjoyments (d
 
 ## Footnotes
 
-[^1279]: 266:1 _Kh_ândogya, p. 285, and the passage there quoted by <i>S</i>ankara as well as Ânandagiri's gloss. And see, [p. 353](Anugita_29#p353) infra.
+[^1279]: 266:1 <i>Kh</i>ândogya, p. 285, and the passage there quoted by <i>S</i>ankara as well as Ânandagiri's gloss. And see, [p. 353](Anugita_29#p353) infra.
 
 [^1280]: 266:2 Viz. the part of it which specially appertains to speech—the throat, &c.
 
@@ -88,11 +88,11 @@ This would be true as you believe, if you, without us, enjoyed the enjoyments (d
 
 [^1282]: 266:4 I. e. at the navel in the form of sound., as the material cause of all words. There and in that condition speech dwells after going through the body, as above stated. There, adds Ar<i>g</i>una Mi<i>s</i>ra, devotees are to meditate on speech.
 
-[^1283]: 266:5 This is not quite clear, but the meaning seems to be, that the merit of the immovable mind consists in its unchangeability, and that of speech in being the cause of variations in the movable mind by conveying new knowledge and new impressions. Cf. on this result, _Kh_ândogya-upanishad, p. 482.
+[^1283]: 266:5 This is not quite clear, but the meaning seems to be, that the merit of the immovable mind consists in its unchangeability, and that of speech in being the cause of variations in the movable mind by conveying new knowledge and new impressions. Cf. on this result, <i>Kh</i>ândogya-upanishad, p. 482.
 
-[^1284]: 266:6 Ar<i>g</i>una Mi<i>s</i>ra, says, the last chapter explained Prâ<i>n</i>âyâma, and this explains Pratyâhâra. Prâ<i>n</i>âyâma is the restraint of the life-winds, Pratyâhâra that of the senses, according to the Yoga philosophy (see the quotation in the commentary at Yoga-sûtra III, 1, and see also pp. 141-145). Cf. also Gîtâ, [p. 61](Bhagavadgita_4#p61). The Saptahot_ri_\-vidhâna as taught in the Taittirîya-brâhmana and Âra<i>n</i>yaka is to be found a few pages after the pages referred to for the Dasahot_ri_\-vidhâna at [p. 261](Anugita_6#p261) supra. And the other Vidhânas also are to be found in the same parts of those books.
+[^1284]: 266:6 Ar<i>g</i>una Mi<i>s</i>ra, says, the last chapter explained Prâ<i>n</i>âyâma, and this explains Pratyâhâra. Prâ<i>n</i>âyâma is the restraint of the life-winds, Pratyâhâra that of the senses, according to the Yoga philosophy (see the quotation in the commentary at Yoga-sûtra III, 1, and see also pp. 141-145). Cf. also Gîtâ, [p. 61](Bhagavadgita_4#p61). The Saptahot<i>ri</i>\-vidhâna as taught in the Taittirîya-brâhmana and Âra<i>n</i>yaka is to be found a few pages after the pages referred to for the Dasahot<i>ri</i>\-vidhâna at [p. 261](Anugita_6#p261) supra. And the other Vidhânas also are to be found in the same parts of those books.
 
-[^1285]: 268:1 Cf. Kaushîtaki-upanishad, p. 93; _Kh_ândogya, p. 297; Maitrî, p. 158; and B<i>ri</i>hadâra<i>n</i>yaka, p. 284. The passages in the last two works seem to be identical ones.
+[^1285]: 268:1 Cf. Kaushîtaki-upanishad, p. 93; <i>Kh</i>ândogya, p. 297; Maitrî, p. 158; and B<i>ri</i>hadâra<i>n</i>yaka, p. 284. The passages in the last two works seem to be identical ones.
 
 [^1286]: 268:2 I. e. in their respective operations.
 
@@ -104,7 +104,7 @@ This would be true as you believe, if you, without us, enjoyed the enjoyments (d
 
 [^1290]: 269:2 Sic in original. It comes twice.
 
-[^1291]: 269:3 Eating what has been tasted by another is a cause of degradation. Cf. _Kh_ândogya, p. 81; Maitrî, p. 103; and [p. 363](Anugita_31#p363) infra.
+[^1291]: 269:3 Eating what has been tasted by another is a cause of degradation. Cf. <i>Kh</i>ândogya, p. 81; Maitrî, p. 103; and [p. 363](Anugita_31#p363) infra.
 
 [^1292]: 269:4 You incorrectly attribute to yourself the quality of apprehending them.
 

@@ -66,7 +66,7 @@ There is no destruction here of actions good or not good [^1108]. Coming to one 
 
 [^1113]: 241:1 Cf. Maitrî-upanishad, p. 53, and Mu<i>nd</i>aka, p. 270. And see generally as to this passage, <i>S</i>ârîraka Bhâshya, pp. 751-760.
 
-[^1114]: 241:2 I. e. they yield their respective fruits; cf. Maitrî, p. 43, and _Kh_ândogya, p. 358.
+[^1114]: 241:2 I. e. they yield their respective fruits; cf. Maitrî, p. 43, and <i>Kh</i>ândogya, p. 358.
 
 [^1115]: 241:3 This explains, say the commentators, how even a little merit or sin requires sometimes more than one birth to enjoy and exhaust,
 
@@ -96,7 +96,7 @@ There is no destruction here of actions good or not good [^1108]. Coming to one 
 
 [^1128]: 243:1 This I take to mean restraint of the active organs, such as speech, &c. ‘Self-restraint’ is rendered by Nîlaka<i>nth</i>a to mean ‘concentration of mind.’
 
-[^1129]: 243:2 Cf. Maitrî, p. 57; _Kh_ândogya, p. 136; and Gîtâ, pp. [103](Bhagavadgita_13#p103), [119](Bhagavadgita_17#p119).
+[^1129]: 243:2 Cf. Maitrî, p. 57; <i>Kh</i>ândogya, p. 136; and Gîtâ, pp. [103](Bhagavadgita_13#p103), [119](Bhagavadgita_17#p119).
 
 [^1130]: 243:3 Cf. Âpastamba I, 1, 1, 2; I, 1, 20, 7; <i>S</i>akuntalâ, p. 30 (Williams).
 
@@ -106,7 +106,7 @@ There is no destruction here of actions good or not good [^1108]. Coming to one 
 
 [^1133]: 243:6 From delusion, Ar<i>g</i>una Mi<i>s</i>ra; emancipated by force of his devotion, Nîlakantha.
 
-[^1134]: 243:7 Cf. Gîtâ, [p. 73](Bhagavadgita_6#p73); _Kh_ândogya, pp. 136, 137.
+[^1134]: 243:7 Cf. Gîtâ, [p. 73](Bhagavadgita_6#p73); <i>Kh</i>ândogya, pp. 136, 137.
 
 [^1135]: 243:8 Scil. the action.
 

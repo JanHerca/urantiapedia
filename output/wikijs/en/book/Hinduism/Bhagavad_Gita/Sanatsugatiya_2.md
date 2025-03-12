@@ -112,7 +112,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^620]: 151:7 The construction is imperfect, but the sense is clear: is your p. 152 view correct, or the view involved in the practice of gods and demons?
 
-[^621]: 152:1 See Gîtâ, [p. 69](Bhagavadgita_6#p69) supra; Ka<i>th</i>opanishad, p. 102; Pra<i>s</i>na, p. 162. As to the gods being afraid of death, see _Kh_ândogya, p. 50; and N<i>th</i>si<i>m</i>ha Tâpinî, p. 32; and as to gods and demons practising the life of Brahma<i>k</i>ârins, see _Kh_ândogya, p. 571; and cf. B<i>th</i>hadâra<i>n</i>yaka, p. 964.
+[^621]: 152:1 See Gîtâ, [p. 69](Bhagavadgita_6#p69) supra; Ka<i>th</i>opanishad, p. 102; Pra<i>s</i>na, p. 162. As to the gods being afraid of death, see <i>Kh</i>ândogya, p. 50; and N<i>th</i>si<i>m</i>ha Tâpinî, p. 32; and as to gods and demons practising the life of Brahma<i>k</i>ârins, see <i>Kh</i>ândogya, p. 571; and cf. B<i>th</i>hadâra<i>n</i>yaka, p. 964.
 
 [^622]: 152:2 I. e. action prescribed in the Vedas.
 
@@ -122,7 +122,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^625]: 152:5 Sanatsu<i>g</i>âta says he differs from ‘the wise;’ delusion = thinking the not-self to be the self; heedlessness = falling off from one's natural condition as the Brahman—which is the cause of delusion (<i>S</i>ankara). See [p. 153](#p153) infra; Ka<i>th</i>a, 152; and Taittirîya-upanishad, p. 80.
 
-[^626]: 152:6 <i>S</i>ankara suggests that demons might mean creatures attached to worldly objects; and gods those who are pleased in their own self; and he cites a stanza in support of this suggestion. The allusion, however, seems to be plainly to the story at _Kh_ândogya, p. 571 seq., where the idea and expression of ‘being vanquished’ also occurs (p. 583). That word <i>S</i>ankara interprets in connexion with his suggested interpretation to mean ‘are born in lower species.’ See _Kh_ândogya, p. 585, and Maitrî, p. 211, about asuras or demons. It is interesting to note that in the Introduction to the Mahâbhâshya, there is an allusion to a story of the ‘demons’ being ‘vanquished’ in consequence of their grammatical blunders.
+[^626]: 152:6 <i>S</i>ankara suggests that demons might mean creatures attached to worldly objects; and gods those who are pleased in their own self; and he cites a stanza in support of this suggestion. The allusion, however, seems to be plainly to the story at <i>Kh</i>ândogya, p. 571 seq., where the idea and expression of ‘being vanquished’ also occurs (p. 583). That word <i>S</i>ankara interprets in connexion with his suggested interpretation to mean ‘are born in lower species.’ See <i>Kh</i>ândogya, p. 585, and Maitrî, p. 211, about asuras or demons. It is interesting to note that in the Introduction to the Mahâbhâshya, there is an allusion to a story of the ‘demons’ being ‘vanquished’ in consequence of their grammatical blunders.
 
 [^627]: 153:1 Those deluded by worldly objects; ‘this’ means ‘heedlessness.’
 
@@ -196,7 +196,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^662]: 156:6 Knowing the supreme self is identical with becoming the supreme self, Mu<i>nd</i>aka, p. 323.
 
-[^663]: 156:7 I. e. getting rid of the paths which keep one away from the Brahman by means of contemplation of the Brahman, &c. Nîlaka<i>nth</i>a renders ‘right path’ to mean the Sushum<i>n</i>â passage by which the soul proceeds to final emancipation, see _Kh_ândogya, p. 570; Ka<i>nth</i>a, p. 157.
+[^663]: 156:7 I. e. getting rid of the paths which keep one away from the Brahman by means of contemplation of the Brahman, &c. Nîlaka<i>nth</i>a renders ‘right path’ to mean the Sushum<i>n</i>â passage by which the soul proceeds to final emancipation, see <i>Kh</i>ândogya, p. 570; Ka<i>nth</i>a, p. 157.
 
 [^664]: 156:8 <i>S</i>ankara says: 'Having shown that true death is heedlessness, and having shown that heedlessness in its forms of anger &c. is the cause of all evil, and having also shown that death is destroyed by true knowledge, and having shown further that heaven &c. are really not man's highest goal; the author has also implied the unity of the supreme and individual self. On that arises a doubt, which is stated in this passage.’
 
@@ -222,7 +222,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^676]: 158:2 I. e. impiety or piety, sin or merit.
 
-[^679]: 158:3 In <i>S</i>rutis and Sm<i>ri</i>tis, which <i>S</i>ankara quotes. _Kh_ândogya, p. 622; Mu<i>ri</i>aka, p. 309; B<i>ri</i>hadâra<i>n</i>yaka, p. 911. See, too, Maitrî, p. 131.
+[^679]: 158:3 In <i>S</i>rutis and Sm<i>ri</i>tis, which <i>S</i>ankara quotes. <i>Kh</i>ândogya, p. 622; Mu<i>ri</i>aka, p. 309; B<i>ri</i>hadâra<i>n</i>yaka, p. 911. See, too, Maitrî, p. 131.
 
 [^678]: 158:4 Of the man devoid of knowledge.
 
@@ -232,7 +232,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^682]: 158:7 The feeling of one's own superiority over others in piety.
 
-[^683]: 158:8 In the shape of Nakshatras,' says <i>S</i>ankara, which is not quite intelligible. See _Kh_ândogya, p. 258, and Anugîtâ infra, [p. 240](Anugita_2#p240).
+[^683]: 158:8 In the shape of Nakshatras,' says <i>S</i>ankara, which is not quite intelligible. See <i>Kh</i>ândogya, p. 258, and Anugîtâ infra, [p. 240](Anugita_2#p240).
 
 [^684]: 159:1 According to the Vedântic theory, the acts of piety purify the inner man, and are thus a stepping-stone to knowledge. See Introduction, [p. 147](Sanatsugatiya_Intro#p147) supra. Cf. Gîtâ, [p. 122](Bhagavadgita_18#p122); and B<i>ri</i>hadâra<i>n</i>yaka, p. 899.
 
@@ -266,7 +266,7 @@ Whichever [^672] he adheres to, the man of understanding always destroys both by
 
 [^699]: 160:9 I. e. singing the praises of their own greatness and worth, instead of keeping their ‘conduct unknown.’
 
-[^700]: 161:1 Highly esteemed for or strongly attached to, <i>S</i>ankara. Human wealth = wife, offspring, property, &c. Cf. _Kh_ândogya, p. 319; B<i>ri</i>hadâra<i>n</i>yaka, p. 262.
+[^700]: 161:1 Highly esteemed for or strongly attached to, <i>S</i>ankara. Human wealth = wife, offspring, property, &c. Cf. <i>Kh</i>ândogya, p. 319; B<i>ri</i>hadâra<i>n</i>yaka, p. 262.
 
 [^701]: 161:2 I. e. veracity and other duties taught by the Vedas.
 
