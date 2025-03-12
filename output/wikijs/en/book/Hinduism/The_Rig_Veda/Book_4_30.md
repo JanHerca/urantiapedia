@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MAY Indra come to us for our protection; here be the Hero, praised, our feast-companion.
@@ -56,6 +58,8 @@ What sloth is this? Why dost thou not rejoice thee? Why dost thou not delight th
 Much-lauded! help us with thy power to riches: may I be sharer of thy Godlike favour.
 <p id="v11"><sup><small>11</small></sup>  Now, Indra! lauded, glorified with praises, let power swell high, like rivers, for the singer.
 For thee a new hymn, Lord of Bays! is fashioned. May we, care-borne, through song be victors ever.
+
+<span id="h22"></span>
 
 ## HYMN XXII. Indra.
 
@@ -82,6 +86,8 @@ Send to us all intelligence arid wisdom O Maghavan, be he who gives us cattle.
 <p id="v11"><sup><small>11</small></sup>  Now, Indra! lauded, glorified with praises, let wealth swell high like rivers to the singer.
 For thee a new hymn, Lord of Bays, is fashioned. May we, car-borne, through song be victors ever.
 
+<span id="h23"></span>
+
 ## HYMN XXIII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  How, what priest's sacrifice hath he made mighty, rejoicing in the Soma and its fountain?
@@ -106,6 +112,8 @@ By holy Law long lasting food they bring us; by holy Law have cows come to our w
 To Law belong the vast deep Earth and Heaven: Milch-kine supreme, to Law their milk they render.
 <p id="v11"><sup><small>11</small></sup>  Now, Indra! lauded,—glorified with praises, let power swell high like rivers to the singer.
 For thee a new hymn, Lord of Bays, is fashioned. May we, car-borne, through song be victors ever.
+
+<span id="h24"></span>
 
 ## HYMN XXIV. Indra.
 
@@ -132,6 +140,8 @@ When he hath slain the Vṛtras let the buyer give him back to me.
 <p id="v11"><sup><small>11</small></sup>  Now, Indra! lauded, glorified with praises, let wealth swell high like rivers for the singer.
 For thee a new hymn, Lord of Bays, is fashioned. May we, car-borne, through song be victors ever.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  WHAT friend of man, God-loving, hath delighted, yearning therefor, this day in Indra's friendship?
@@ -151,6 +161,8 @@ He draws away his wealth and slays him naked, own Friend to him who offers, for 
 <p id="v8"><sup><small>8</small></sup>  Highest and lowest, men who stand between diem, going, returning, dwelling in contentment,
 Those who show forth their strength when urged to battle-these are the men who call for aid on Indra.
 
+<span id="h26"></span>
+
 ## HYMN XXVI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  I WAS aforetime Manu, I was Sūrya: I am the sage Kakṣīvān, holy singer.
@@ -168,6 +180,8 @@ Friend of the Gods, brought, grasping fast, the Soma which be bad taken from yon
 <p id="v7"><sup><small>7</small></sup>  The Falcon took and brought the Soma, bearing thousand libations with him, yea, ten thousand.
 The Bold One left Malignities behind him, wise, in wild joy of Soma, left the foolish.
 
+<span id="h27"></span>
+
 ## HYMN XXVII. The Falcon.
 
 <p id="v1"><sup><small>1</small></sup>  I, As I lay within the womb, considered all generations of these Gods in order.
@@ -181,6 +195,8 @@ Then downward hither fell a flying feather of the Bird hasting forward in his jo
 <p id="v5"><sup><small>5</small></sup>  And now let Maghavan accept the beaker, white, filled with milk, filled with the shining liquid;
 The best of sweet meath which the priests have offered: that Indra to his joy may drink, the Hero, that he may take and drink it to his rapture.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Indra-Soma.
 
 <p id="v1"><sup><small>1</small></sup>  ALLIED with thee, in this thy friendship, Soma, Indra for man made waters flow together,
@@ -193,6 +209,8 @@ Of those who gladly sought a hard-won dwelling he cast down many a thousand with
 Ye drave away, ye put to death the foemen, and took great vengeance with your murdering weapons.
 <p id="v5"><sup><small>5</small></sup>  So, of a truth, Indra and Soma, Heroes, ye burst the stable of the kine and horses,
 The stable which the bar or stone obstructed; and piercing through set free the habitations.
+
+<span id="h29"></span>
 
 ## HYMN XXIX. Indra.
 

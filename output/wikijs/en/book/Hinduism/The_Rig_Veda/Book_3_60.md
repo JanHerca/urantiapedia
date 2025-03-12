@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h51"></span>
+
 ## HYMN LI. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  HIGH hymns have sounded forth the praise of Maghavan, supporter of mankind, of Indra meet for lauds;
@@ -59,6 +61,8 @@ May it cheer thee who lovest it.
 <p id="v12"><sup><small>12</small></sup>  Brave Indra, let it work through both thy flanks, and through thy head by prayer,
 And through thine arms, to prosper us.
 
+<span id="h52"></span>
+
 ## HYMN LII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  INDRA, accept at break of day our Soma mixt with roasted corn,
@@ -76,6 +80,8 @@ With offered viands and with songs may we assist thee, Sage, whom Vāja and the 
 Eat thou the meal-cake, banded with the Maruts, wise Hero, Vṛtra-slayer, drink the Soma.
 <p id="v8"><sup><small>8</small></sup>  Bring forth the roasted corn to meet him quickly, cake for the bravest Hero mid the heroes.
 Indra, may hymns accordant with thee daily strengthen thee, Bold One, for the draught of Soma.
+
+<span id="h53"></span>
 
 ## HYMN LIII. Indra, Parvata, Etc.
 
@@ -127,6 +133,8 @@ A sluggish steed men run not with the courser, nor ever lead an ass before a cha
 <p id="v24"><sup><small>24</small></sup>  These men, the sons of Bhārata, O Indra, regard not severance or close connexion.
 They urge their own steed as it were another's, and take him, swift as the bow's string, to battle.
 
+<span id="h54"></span>
+
 ## HYMN LIV. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  To him adorable, mighty, meet for synods, this strengthening hymn, unceasing, have they offered.
@@ -173,6 +181,8 @@ May Aditi with the Ādityas hear us, and Maruts grant us their auspicious shelte
 Safe be my bliss, O Agni, in thy friendship: may I attain the seat of foodful. riches,
 <p id="v22"><sup><small>22</small></sup>  Enjoy the offering: beam thou strength upon us; combine thou for our good all kinds of glory.
 Conquer in battle, Agni, all those foemen, and light us every day with loving kindness.
+
+<span id="h55"></span>
 
 ## HYMN LV. Viśvedevas.
 
@@ -221,6 +231,8 @@ In his protection heroes rest in safety. Great is the Cods' supreme and sole dom
 <p id="v22"><sup><small>22</small></sup>  Rich in their gifts for thee are herbs and waters, and earth brings all her wealth for thee, O Indra.
 May we as friends of thine share goodly treasures. Great is the Gods’ supreme and sole dominion.
 
+<span id="h56"></span>
+
 ## HYMN LVI. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  NOT men of magic skill, not men of wisdom impair the Gods’ first steadfast ordinances.
@@ -240,6 +252,8 @@ And spacious Heaven and Earth, yea, and the Waters, solicit wealth that Savitar 
 <p id="v8"><sup><small>8</small></sup>  Three are the bright realms, best, beyond attainment, and three, the Asura's Heroes, rule as Sovrans,
 Holy and vigorous, never to be injured. Thrice may the Gods from heaven attend our synod.
 
+<span id="h57"></span>
+
 ## HYMN LVII. Viśvedevas.
 
 <p id="v1"><sup><small>1</small></sup>  MY thought with fine discernment hath discovered the Cow who wanders free without a herdsman,
@@ -254,6 +268,8 @@ For these thy flames, which give men boons in plenty, rise up on high, the beaut
 Therewith make all the Holy Odes be seated here for our help, and feed them with sweet juices.
 <p id="v6"><sup><small>6</small></sup>  Let thy stream give us drink, O God, O Agni, wonderful and exhaustless like the rain-clouds.
 Thus care for us, O Vasu Jātavedas, show us thy loving-kindness, reaching all men.
+
+<span id="h58"></span>
 
 ## HYMN LVIII. Aśvins.
 
@@ -276,6 +292,8 @@ Sprung from high Law your car, urged on by press-stones, goes round the earth an
 <p id="v9"><sup><small>9</small></sup>  Aśvins, your Soma sheds delicious sweetness: drink ye thereof and come unto our dwelling.
 Your car, assuming many a shape, most often goes to the Soma-presser's place of meeting.
 
+<span id="h59"></span>
+
 ## HYMN LIX. Mitra.
 
 <p id="v1"><sup><small>1</small></sup>  MITRA, when speaking, stirreth men to labour: Mitra sustaineth both the earth and heaven.
@@ -296,6 +314,8 @@ Surpasses earth in his renown.
 For he sustaineth all the Gods.
 <p id="v9"><sup><small>9</small></sup>  Mitra to Gods, to living men, to him who strews the holy grass,
 Gives food fulfilling sacred Law.
+
+<span id="h60"></span>
 
 ## HYMN LX. Ṛbhus.
 

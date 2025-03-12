@@ -78,6 +78,8 @@ Present unto the Gods to-day.
 <p id="v21"><sup><small>21</small></sup>  In both your laps, ye guileless Ones, the Holy Gods shall sit them down
 To-day to drink the Soma here.
 
+<span id="h42"></span>
+
 ## HYMN XLII Kapiñjala.
 
 <p id="v1"><sup><small>1</small></sup>  TELLING his race aloud with cries repeated, he sends his voice out as his boat a steersman.

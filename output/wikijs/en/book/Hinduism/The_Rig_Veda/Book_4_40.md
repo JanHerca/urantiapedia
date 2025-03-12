@@ -266,6 +266,8 @@ Of him they say when drawing back from battle. Dadhikrās hath sped forward with
 <p id="v10"><sup><small>10</small></sup>  Dadhikrās hath o’erspread the Fivefold People with vigour, as the Sun lightens the waters.
 May the strong Steed who winneth hundreds, thousands, requite with sweetness these my words and praises.
 
+<span id="h39"></span>
+
 ## HYMN XXXIX Dadhikrās.
 
 <p id="v1"><sup><small>1</small></sup>  Now give we praise to Dadhikrās the rapid, and mention in our laud the Earth and Heaven.

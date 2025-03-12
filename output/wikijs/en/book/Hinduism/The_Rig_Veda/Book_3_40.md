@@ -178,6 +178,8 @@ Vala he cleft, and chased away opponents: thus was he tamer of the overweening.
 <p id="v11"><sup><small>11</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered,
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers treasures.
 
+<span id="h35"></span>
+
 ## HYMN XXXV Indra.
 
 <p id="v1"><sup><small>1</small></sup>  MOUNT the Bay Horses to thy chariot harnessed, and come to us like Vāyu with his coursers.

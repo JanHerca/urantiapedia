@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  SET this our sacrifice among the Immortals: be pleased with these our presents, Jātavedas.
@@ -44,6 +46,8 @@ Thou art enkindled as the best of Seers. Help thou the sacrifice.
 With great light art thou come, O praised by poets! Accept our offering, O thou Sage.
 <p id="v5"><sup><small>5</small></sup>  Fatness exceeding rich, extracted from the midst,—this as our gift we offer thee.
 Excellent God, the drops run down upon thy skin. Deal them to each among the Gods.
+
+<span id="h22"></span>
 
 ## HYMN XXII. Agni.
 
@@ -58,6 +62,8 @@ Guileless accept our sacrifice, great viands free from all disease.
 <p id="v5"><sup><small>5</small></sup>  Agni, as holy food to thine invoker give wealth in cattle, lasting, rich in marvels.
 To us be born a son and spreading offspring. Agni, be this thy gracious will to us-ward.
 
+<span id="h23"></span>
+
 ## HYMN XXIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  RUBBED into life, well stablished in the dwelling, Leader of sacrifice, the Sage, the youthful,
@@ -70,6 +76,8 @@ Praise Devāvata's Agni, thou Devaśravas, him who shall be the people's Lord.
 On man, on Āpayā, Agni! on the rivers Dṛṣadvati, Sarasvatī, shine richly.
 <p id="v5"><sup><small>5</small></sup>  Agni, as holy food to thine invoker give wealth in cattle, lasting, rich in marvels.
 To us be born a son and spreading offspring Agni, be this thy gracious will to us-ward
+
+<span id="h24"></span>
 
 ## HYMN XXIV. Agni.
 
@@ -84,6 +92,8 @@ And living men in holy rites.
 <p id="v5"><sup><small>5</small></sup>  Grant, Agni, to the worshipper wealth rich in heroes, plenteous store,
 Make thou us rich with many sons.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  THOU art the sapient Son of Dyaus, O Agni, yes and the Child of Earth, who knowest all things.
@@ -96,6 +106,8 @@ Lord through his strength, splendid through adorations.
 Come, friendly-minded, Gods, to drink the Soma.
 <p id="v5"><sup><small>5</small></sup>  In the floods' home art thou enkindled, Agni, O Jātavedas, Son of Strength, eternal,
 Exalting with thine help the gathering-places.
+
+<span id="h26"></span>
 
 ## HYMN XXVI. Agni.
 
@@ -117,6 +129,8 @@ I am light threefold, measurer of the region exhaustless heat am I, named burnt-
 By his own nature gained the highest treasure, and looked abroad over the earth and heaven.
 <p id="v9"><sup><small>9</small></sup>  The Spring that fails not with a hundred streamlets, Father inspired of prayers that men should utter,
 The Sparkler, joyous in his Parents' bosorn, -him, the Truth-speaker, sate ye, Earth and Heaven.
+
+<span id="h27"></span>
 
 ## HYMN XXVII. Agni.
 
@@ -151,6 +165,8 @@ Men with oblations worship him.
 <p id="v15"><sup><small>15</small></sup>  Thee will we kindle as a bull, we who are Bulls ourselves, O Bull.
 Thee, Agni, shining mightily.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Agni.
 
 <p id="v1"><sup><small>1</small></sup>  AGNI who knowest all, accept our offering and the cake of meal,
@@ -165,6 +181,8 @@ Agni, the sages in assemblies never minish the portion due to thee the Mighty.
 Through skill in song bear to the Gods our sacrifice, watchful and fraught with riches, to Immortal God.
 <p id="v6"><sup><small>6</small></sup>  O waxing Agni, knower, thou, of all, accept our gifts, the cake,
 And that prepared ere yesterday.
+
+<span id="h29"></span>
 
 ## HYMN XXIX. Agni.
 

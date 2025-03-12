@@ -32,6 +32,8 @@ dateCreated: 2025-1-13T23:20:32Z
   </table>
 </figure>
 
+<span id="h21"></span>
+
 ## HYMN XXI.
 
 <p id="v1"><sup><small>1</small></sup>  To him the Lord of all, the Lord of wealth, of light; him who is Lord for ever, Lord of men and tilth,
@@ -47,6 +49,8 @@ In Indra seeking help with worship and with hymn, they drew him to themselves an
 <p id="v6"><sup><small>6</small></sup>  Indra, bestow on us the best of treasures, the spirit of ability and fortune;
 Increase of riches, safety of our bodies, charm of sweet speech, and days of pleasant weather.
 
+<span id="h22"></span>
+
 ## HYMN XXII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  At the Trikadrukas the Great and Strong hath drunk drink blent with meal. With Viṣṇu hath he quaffed the poured out Soma juice, all that he would.
@@ -60,6 +64,8 @@ Giving prosperity, and lovely wealth to him who praiseth thee. So may the God at
 <p id="v4"><sup><small>4</small></sup>  This, Indra, was thy hero deed, Dancer, thy first and ancient work, worthy to be told forth in heaven,
 What time thou sentest down life with a God's own power, freeing the floods.
 All that is godless may he conquer with his might, and, Lord of Hundred Powers, find for us strength and food.
+
+<span id="h23"></span>
 
 ## HYMN XXIII. Brahmaṇaspati.
 
@@ -102,6 +108,8 @@ Thou, O Bṛhaspati, with Indra for ally didst hurl down water-floods which gloo
 <p id="v19"><sup><small>19</small></sup>  O Brahmaṇaspati, be thou controller of this our hymn and prosper thou our children.
 All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.
 
+<span id="h24"></span>
+
 ## HYMN XXIV. Brahmaṇaspati.
 
 <p id="v1"><sup><small>1</small></sup>  BE pleased with this our offering, thou who art the Lord; we will adore thee with this new and mighty song.
@@ -137,6 +145,8 @@ Heroes on heroes send abundantly to us, when thou omnipotent through prayer seek
 <p id="v16"><sup><small>16</small></sup>  O Brahmaṇaspati, be thou controller of this our hymn, and prosper thou our children.
 All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.
 
+<span id="h25"></span>
+
 ## HYMN XXV. Brahmaṇaspati.
 
 <p id="v1"><sup><small>1</small></sup>  HE lighting up the flame shall conquer enemies: strong shall he be who offers prayer and brings his gift.
@@ -150,6 +160,8 @@ He slays in unabated vigour with great might, whomever Brahmaṇaspati takes for
 <p id="v5"><sup><small>5</small></sup>  All roaring rivers pour their waters down for him, and many a flawless shelter hath been granted him.
 Blest with the happiness of Gods he prospers well, whomever Brahmaṇaspati takes for his friend.
 
+<span id="h26"></span>
+
 ## HYMN XXVI. Brahmaṇaspati.
 
 <p id="v1"><sup><small>1</small></sup>  THE righteous singer shall o’ercome his enemies, and he who serves the Gods subdue the godless man.
@@ -160,6 +172,8 @@ Prepare oblation so that thou mayst have success. we crave the favouring help of
 Who with oblation and a true believing heart serves Brahmaṇaspati the Father of the Gods.
 <p id="v4"><sup><small>4</small></sup>  Whoso hath honoured him with offerings rich in oil, him Brahmaṇaspati leads forward on his way,
 Saves him from sorrow, frees him from his enemy, and is his wonderful deliverer from woe.
+
+<span id="h27"></span>
 
 ## HYMN XXVII. Ādityas.
 
@@ -198,6 +212,8 @@ May I car-borne pass like a skilful horseman: uninjured may we dwell in spacious
 <p id="v17"><sup><small>17</small></sup>  May I not live, O Varuṇa, to witness my wealthy, liberal, dear friend's destitution.
 King, may O never lack well-ordered riches. Loud may we speak, with heroes, in assembly.
 
+<span id="h28"></span>
+
 ## HYMN XXVIII. Varuṇa
 
 <p id="v1"><sup><small>1</small></sup>  THIS laud of the self-radiant wise Āditya shall be supreme o’er all that is in greatness.
@@ -222,6 +238,8 @@ Full many a morn remains to dawn upon us: in these, O Varuṇa, while we live di
 If any wolf or robber fain would harm us, therefrom, O Varuṇa, give thou us protection.
 <p id="v11"><sup><small>11</small></sup>  May I not live O Varuṇa, to witness my wealthy, liberal dear friend's destitution.
 King, may I never lack well-ordered riches. Loud may we speak, with heroes, in assembly.
+
+<span id="h29"></span>
 
 ## HYMN XXIX. Viśvedevas.
 

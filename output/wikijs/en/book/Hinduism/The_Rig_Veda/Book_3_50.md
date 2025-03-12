@@ -99,7 +99,7 @@ In whose wild joy thou stirrest up the people, in whose wild joy thou didst unba
 <p id="v8"><sup><small>8</small></sup>  Call we on Indra, Makhavan, auspicious, best Hero in the fight where spoil is gathered;
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
-<span id="h4"></span>
+<span id="h44"></span>
 
 ## HYMN XLIV. Indra.
 
@@ -144,6 +144,8 @@ To him wide deep and mighty from his birth-time, the well of holy thoughts, aIl-
 <p id="v5"><sup><small>5</small></sup>  The Soma, Indra, which the earth and heaven bear for thee as a mother bears her infant,
 This they send forth to thee, this, vigorous Hero! Adhvaryus purify for thee to drink of.
 
+<span id="h47"></span>
+
 ## HYMN XLVII. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  DRINK, Indra, Marut-girt, as Bull, the Soma, for joy, for rapture even as thou listest.
@@ -156,6 +158,8 @@ The Maruts following, whom thou madest sharers, gave thee the victory, and thou 
 ‘Gainst Śambara, Lord of Bays! in winning cattle, and now rejoice in thee, the holy Singers.
 <p id="v5"><sup><small>5</small></sup>  The Bull whose strength hath waxed, whom Maruts follow, free-giving Indra, the celestial Ruler,
 Mighty, all-conquering, the victory-giver, him let us call to grant us new protection.
+
+<span id="h48"></span>
 
 ## HYMN XLVIII. Indra.
 
@@ -170,6 +174,8 @@ E’en from his birth-time Indra conquered Tvaṣṭar, bore off the Soma and in
 <p id="v5"><sup><small>5</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered;
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers riches.
 
+<span id="h49"></span>
+
 ## HYMN XLIX. Indra.
 
 <p id="v1"><sup><small>1</small></sup>  GREAT Indra will I laud, in whom all people who drink the Soma have attained their longing;
@@ -182,6 +188,8 @@ To he invoked in war like Bhaga, Father, as ’twere, of hymns, fair, prompt to 
 Illumining the nights, the Sun's creator, like Dhiṣaṇā he deals forth strength and riches.
 <p id="v5"><sup><small>5</small></sup>  Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered;
 The Strong, who listens, who gives aid in battles, who slays the Vṛtras, wins and gathers treasure.
+
+<span id="h50"></span>
 
 ## HYMN L. Indra.
 

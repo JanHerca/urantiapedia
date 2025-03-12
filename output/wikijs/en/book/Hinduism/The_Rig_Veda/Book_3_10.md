@@ -145,6 +145,8 @@ Thou filledst at thy birth both worlds, the earth and heaven: all this, O Agni, 
 <p id="v11"><sup><small>11</small></sup>  By his great skill the Sage alone hath brought to pass a great deed, mightier than Vaiśvānara's wondrous acts.
 Agni sprang into being, magnifying both his Parents, Heaven and Earth, rich in prolific seed.
 
+<span id="h4"></span>
+
 ## HYMN IV Āprīs.
 
 <p id="v1"><sup><small>1</small></sup>  BE friendly with each kindled log of fuel, with every flash bestow the boon of riches.
@@ -250,6 +252,8 @@ O heavenly Priest, most pleasant, full of wisdom, bring the great Gods to us, an
 Yea, with the glory of the earth, O Agni. Forgive us, for our weal, e’en sin cornmitted.
 <p id="v11"><sup><small>11</small></sup>  As holy food, Agni, to thine invoker, give wealth in cattle, lasting, rich in marvels.
 To us be born a son, and spreading offspring Agni, be this thy gracious will to usward.
+
+<span id="h8"></span>
 
 ## HYMN VIII Sacrificial Post.
 
