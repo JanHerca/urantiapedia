@@ -1374,7 +1374,7 @@ Je regardais dans la rue,
 Et son retour avec des yeux avides
 Attendus aux portes,
 Quant à sa chère lune qui se lève
-Le Roi des Rivières [1](Livre_2_20#fn285) attend.
+Le Roi des Rivières [1](Book_2_20#fn285) attend.
 
 
 
@@ -1976,7 +1976,7 @@ J'étais aujourd'hui parmi les morts.
 
 [^277]: 107:1 Voir _Notes supplémentaires_, LA COLOMBE SUPPLIEUSE.
 
-[^278] : 108 : 1 Indra, appelé aussi Purandara, destructeur de ville.
+[^278]: 108 : 1 Indra, appelé aussi Purandara, destructeur de ville.
 
 [^279]: 109:1 Le cocher d'Indra.
 

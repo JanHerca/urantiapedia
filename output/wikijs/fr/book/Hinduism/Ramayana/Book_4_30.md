@@ -65,7 +65,7 @@ Chaque seigneur Vánar avec toute sa suite,
 Chaque garde forestier de ce domaine sauvage,
 Et Angad ici, ton chéri, vois
 Un gouverneur et un ami en toi.
-Ces deux [1b](Livre_4_30#fn604) dont le cœur souffre de chagrin
+Ces deux [1b](Book_4_30#fn604) dont le cœur souffre de chagrin
 Les rites funéraires doivent être entrepris,
 Et Angad par les soins de sa mère
 Soyez roi, héritier légitime de son père.
@@ -1411,7 +1411,7 @@ Ajoutez ensuite ce qui vous semble le mieux.
 
 [^613]: 356:1 S'rávan : juillet-août. Mais les pluies commencent un mois plus tôt, et ce qui suit ne doit pas être pris au pied de la lettre. Le texte a púrvo' yam várshiko másah S'rávanah ###. La recension du Bengale a la même chose, et Gorresio traduit : « Equesto il mese S'râvana (Inglio-agosto) primo della stagione plovosa, in cui diligano le acque. »
 
-[^614] : 356:2 Kártik : octobre-novembre.
+[^614]: 356:2 Kártik : octobre-novembre.
 
 [^615]: 356:3 « Indras, tel le soleil nocturne, se cache, transformé, dans le ciel étoilé : les étoiles sont ses yeux. Argos, aux cent yeux ou omnivoyant (panoptês), est placé comme espion sur les actions de la vache aimée de Zeus, dans l’équivalent hellénique de cette forme d’Indras. » DE GUBERNATIS, _Mythologie zoologique_, vol. I, p. 418.
 
@@ -1437,7 +1437,7 @@ Ajoutez ensuite ce qui vous semble le mieux.
 
 [^626]: 359:5 Áshádha est le mois correspondant à des parties de juin et de juillet.
 
-[^627] : 359 : 6 Bharat, qui était régent pendant l'absence de Ráma.
+[^627]: 359 : 6 Bharat, qui était régent pendant l'absence de Ráma.
 
 [^628]: 359:7 Ou avec Goriesio, suivant la glose d'un autre commentaire : « A accompli tous les rites sacrés et accumulé des réserves de mérite. »
 

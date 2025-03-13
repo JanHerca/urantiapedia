@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
-
-
-
 <span id="p1">[<sup><small>p. 1</small></sup>]</span>
 
 THE MAHABHARATA
@@ -292,80 +289,6 @@ In olden times, Yayati, falling from his high estate in heaven descended on the 
 
 “The blessed Vishnu said, ‘I saluted Mahadeva, saying,—Salutations to thee, O thou that art the eternal origin of all things. The _Rishis_ say that thou art the Lord of the Vedas. The righteous say that thou art Penance, thou art Sattwa, thou art Rajas, thou art Tamas, and thou art Truth. Thou art Brahman, thou art Rudra, thou art Varuna, thou art Agni, thou art Manu, thou art Bhava, thou art Dhatri, thou art Tashtri, thou art Vidhatri, thou art the puissant Master of all things, and thou art everywhere. All beings, mobile and immobile, have sprung from thee. This triple world with all its mobile and immobile entities, has been created by thee. The Rishis say that thou art superior to the senses, the mind, the vital breaths, the seven sacrificial fires, all others that have their refuge in the all-pervading Soul, and all the deities that are adored and worthy of adoration. Thou, O illustrious one, art the Vedas, the Sacrifices, Soma, Dakshina, Pavaka, Havi, and all other requisites of sacrifice. The merit obtained by sacrifices, gifts made to others, the study of the Vedas, vows, regulations in respect of restraint, Modesty, Fame, Prosperity, Splendour, Contentment, and Success, all exist for leading to thee. [^68] Desire, Wrath, Fear, Cupidity, Pride, Stupefaction, and Malice, Pains and Diseases, are, O illustrious one, thy children. Thou art all acts that creatures do, thou art the joy and sorrow that flow from those acts, thou art the absence of joy and sorrow, thou art that Ignorance which is the indestructible seed of Desire, thou art the high origin of Mind, thou art Puissance, and thou art Eternity. [^69] Thou art the Unmanifest, thou art Pavana, thou art inconceivable, thou art the thousand-rayed Sun, thou art the effulgent Chit, thou art the first of all the topics, and thou art the refuge of life. [^70] The use of words like Mahat, Soul, Understanding, Brahman, Universe, Sambhu, and Self-born and other words occurring in succession (in the Vedas), show that thy nature has been judged (by persons conversant with the Vedas) as identical with Mahat and Soul. Verily, regarding thee as all <span id="p65">[<sup><small>p. 65</small></sup>]</span> this, the learned Brahmanas win over that ignorance which lies at the root of the world. Thou residest in the heart of all creatures, and thou art adored by the _Rishis_ as Kshetrajna. Thy arms and feet extend to every place, and thy eyes, head, and face are everywhere. Thou hearest everywhere in the universe, and thou stayest, pervading all things. Of all acts that are performed in the Nimeshas and other divisions of time that spring in consequence of the puissance of the Sun, thou art the fruit. [^71] Thou art the original effulgence (of the supreme Chit). Thou art Purusha, and thou residest in the hearts of all things. Thou art the various Yogic attributes of success, _viz_., Subtility and Grossness and Fruition and Supremacy and Effulgence and Immutability. [^72] Understanding and intelligence and all the worlds rest upon thee. They that are devoted to meditation, that are always engaged in Yoga, that are devoted to or firm in Truth and that have subjugated their passions, seek thee and rest on thee. [^73] They that know thee for one that is Immutable, or one that resides in all hearts, or one that is endued with supreme puissance, or one that is the ancient Purusha, or one that is pure Knowledge, or one that is the effulgent Chit, or one that is the highest refuge of all persons endued with intelligence, are certainly persons of great intelligence. Verily, such persons stay, transcending intelligence. [^74] By understanding the seven subtile entities (_viz_., Mahat, Ego, and five subtile primal elements called Tanmatras), by comprehending thy six attributes (of Omniscience, Contentment of Fullness, Knowledge without beginning, Independence, Puissance that is not at fault at any time and that is infinite), and being conversant with Yoga that is freed from every false notion, the man of knowledge succeeds in entering into thy great self.—After I had said these words, O Partha, unto Bhava, that dispeller of grief and pain, the universe, both mobile and immobile, sent up a leonine shout (expressive of their approval of the correctness of my words). The innumerable Brahmanas there present, the deities and the Asuras, the Nagas, the Pisachas, the Pitris, the birds, diverse Rakshasas, diverse classes of ghosts and spirits, and all the great _Rishis_, then bowed down unto that great Deity. There then fell upon my head showers of celestial flowers possessed of great fragrance, and delicious winds blew on the spot. The puissant Sankara then, devoted to the good of the universe, looked at the goddess Uma and the lord of the <span id="p66">[<sup><small>p. 66</small></sup>]</span> celestials and myself also, and thus spoke unto me,—We know, O Krishna, that thou, O slayer of foes, art filled with the greatest devotion towards us. Do what is for thy good. My love and affection for thee is very great. Do thou ask for eight boons. I shall verily give them unto thee, O Krishna, O best of all persons, tell me what they are, O chief of the Yadavas. Name what thou wishest. However difficult of attainment they be, thou shalt have them still.’” [^75]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SECTION XV
 
 “The blessed Krishna said, ‘Bowing my head with great joy unto that mass of energy and effulgence, I said these words unto the great Deity, with a heart filled with gladness,—Firmness in virtue, the slaughter of foes in battle, the highest fame, the greatest might, devotion to Yoga, thy adjacence, and hundreds upon hundreds of children, these are the boons I solicit of thee,—So be it,—said Sankara repeating the words I had uttered. After this, the mother of the universe, the upholders of all things, who cleanses, all things, _viz_., the spouse of Sarva, that vast receptacle of penances said with a restrained soul these words unto me,—‘The puissant Mahadeva has granted thee, O sinless one, a son who shall be named Samva. Do thou take from me also eight boons which thou choosest. I shall certainly grant them to thee.—Bowing unto her with a bend of my head, I said unto her, O son of Pandu,—I solicit from thee non-anger against the Brahmanas, grace of my father, a hundred sons, the highest enjoyments, love for my family, the grace of my mother, the attainment of tranquillity and peace, and cleverness in every act!’
@@ -389,12 +312,6 @@ In olden times, Yayati, falling from his high estate in heaven descended on the 
 
 “Upamanyu continued, ‘Having given unto Tandi these boons and having received the adorations of both the deities and the Rishis, the great Deity disappeared there and then. When the illustrious deity, O lord of the Yadavas, thus, disappeared with all his followers, the Rishi came to my asylum and said unto me all that had happened to him. Do thou hear, O foremost of men, all those celebrated names (of Mahadeva) that Tandi said unto me for thy spiritual success. The Grandsire had at one time recited ten thousand names that apply to Mahadeva. In the scriptures, a thousand names occur of that illustrious deity. These names are not known to all. O thou that transcendest destruction, in days of yore, the Grandsire Brahma uttered these names for adoring the high-souled Deity. Having acquired them through the grace of the Grandsire, Tandi communicated them to me!’” [^86]
 
-
-
-
-
-
-
 <span id="p73">[<sup><small>p. 73</small></sup>]</span>
 
 ## SECTION XVII
@@ -408,188 +325,6 @@ Thou art he who is endued with a vast womb. Thou art he who has the Vedas in his
 “I have thus, ‘O Krishna, hymned the praises of the illustrious Deity by reciting his names in the order of their importance. Who is there that can hymn the praises of the lord of the universe, that great Lord of all who deserves our adorations and worship and reverence, whom the very gods with Brahma at their head are unable to praise and whom the Rishis also fail to sing? Aided, however, by my devotion to him, and having received his permission, I have praised that Lord of sacrifices, that Deity of supreme puissance, that foremost of all creatures endued with intelligence. By praising with these names that enhance one's auspiciousness of the great lord of blessedness, a worshipper of devoted soul and pure heart succeeds in attaining to his own self. These names constitute a hymn that furnishes the best means of attaining to Brahman. With the aid of this hymn one is sure to succeed in attaining to Emancipation. Rishis and the deities all praise the highest deity by uttering this hymn. Hymned by persons of restrained soul Mahadeva becomes gratified with those that hymn his praises so. The illustrious deity is always full of compassion towards his devotees. Endued with omnipotence, he it is that gives Emancipation to those that worship him. So also, they among men that are foremost, that are possessed of faith and devotion hear and recite for others <span id="p99">[<sup><small>p. 99</small></sup>]</span> and utter with reverence the praises of that highest and eternal Lord _viz_. Isana, in all their successive lives and adore him in thought, word, and deed, and adoring him thus at all times, _viz_. when they are lying or seated or walking or awake or opening the eyelids or shutting them, and thinking of him repeatedly, become objects of reverence with all their fellowmen and derive great gratification and exceeding joy. When a creature becomes cleansed of all his sins in course of millions of births in diverse orders of being, it is then that devotion springs up in his heart for Mahadeva. It is through good luck alone that undivided devotion to Bhava who is the original cause (of the universe) fully springs up in the heart of one that is conversant with every mode of worshipping that great Deity. [^184] Such stainless and pure devotion to Rudra, that has singleness of purpose and that is simply irresistible in its course, is seldom to be found among even the deities, and never among men. It is through the grace of Rudra that such devotion arises in the hearts of human beings. In consequence of such devotion, men, identifying themselves wholly with Mahadeva, succeed in attaining to the highest success. The illustrious Deity who is always inclined to extend his grace towards them that seek him with humility, and throw themselves with their whole soul upon him rescues them from the world. Except the great Deity who frees creatures from rebirth, all other gods constantly nullify the penances of men, for men have no other source of puissance that is as great as these. [^185] It was even thus Tandi of tranquil soul, resembling Indra himself in splendour, praised the illustrious Lord of all existent and non-existent things,—that great Deity clad in animal skins. Indeed, Brahma had sung this hymn in the presence of Sankara. Thou art a Brahmana (being conversant with Brahman and devoted to those that are conversant with Brahman). Thou shalt, therefore, comprehend it well. This is cleansing, and washes away all sins. This confers Yoga and Emancipation and heaven and contentment. He who recites this hymn with undivided devotion to Sankara succeeds in attaining to that high end which is theirs that are devoted to the doctrines of the Sankhya philosophy. That worshipper who recites this hymn daily for one year with singleness of devotion succeeds in obtaining the end that he desires. This hymn is a great mystery. It formerly resided in the breast of Brahma the Creator. Brahma imparted it unto Sakra. Sakra imparted unto Mrityu. Mrityu imparted it unto the Rudras. From the Rudras Tandi got it. Indeed Tandi acquired it in the region of Brahman as the reward of his severe austerities. Tandi communicated it to Sukra, and Sukra of Bhrigu's race communicated it <span id="p100">[<sup><small>p. 100</small></sup>]</span> to Gautama. Gautama in his turn, O descendant of Madhu, communicated it to Vaivaswata-Manu. Manu communicated it unto Narayana of great intelligence, numbered among the Sadhyas and held exceedingly dear by him. The illustrious Narayana, numbered among the Sadhyas and possessed of glory that knows no diminution, communicated it to Yama. Vaivaswat Yama communicated it to Nachiketa. Nachiketa, O thou of Vrishni's race, communicated to Markandeya. From Markandeya, O Janarddana, I obtained it as the reward of my vows and fasts. To thee, O slayer of foes, I communicate that hymn unheard by others. This hymn leads to heaven. It dispels disease and bestows long life. This is worthy of the highest praise, and is consistent with the Vedas.’
 
 “Krishna continued, ‘That person, O Partha, who recites this hymn with a pure heart observing the vow of Brahmacharyya, and with his senses under control, regularly for one whole year, succeeds in obtaining the fruits of a horse-sacrifice. Danavas and Yakshas and Rakshasas and Pisachas and Yatudhanas and Guhyakas and snakes can do no injury to him.’”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## SECTION XVIII
 
@@ -631,12 +366,6 @@ Thou art he who is endued with a vast womb. Thou art he who has the Vedas in his
 “The lady said, ‘The very deities of wind and fire and water, or the other celestials, O regenerate one, are not so agreeable to women as the deity of desire. Verily, women are exceedingly fond of sexual congress. Among a thousand women, or, perhaps, among hundreds of thousands, sometimes only one may be found that is devoted to her husband. When under the influence of desire, they care not for family or father or mother or brother or husband or sons or husband's brother (but pursue the way that desire points out). Verily, in pursuit of what they consider happiness, they destroy the family (to which they belong by birth or marriage) even as many queenly rivers eat away the banks that contain them. The Creator himself had said this, quickly marking the faults of women.’” [^195]
 
 “Bhishma continued, ‘The Rishi, bent upon finding out the faults of women, then addressed that lady, saying,—Cease to speak to me in this <span id="p112">[<sup><small>p. 112</small></sup>]</span> strain. Yearning springs from liking. Tell me what (else) I am to do. [^196]\—That lady then said in return,—O illustrious one, thou shalt see according to time and place (as do whether I have anything agreeable in me). Do thou only live here (for some time). O highly blessed one, and I shall regard myself amply rewarded.—Thus addressed by her, the regenerate Rishi, O Yudhishthira, expressed his resolution to comply with her request, saying,—Verily, I shall dwell with thee in this place as long as I can venture to do so.—The Rishi then, beholding that lady afflicted with decrepitude, began to reflect earnestly on the matter. He seemed to be even tortured by his thoughts. The eyes of that foremost of Brahmanas failed to derive any delight from those parts of that lady's person whereupon they were cast. On the other hand, his glances seemed to be dispelled by the ugliness of those particular limbs.—This lady is certainly the goddess of this palace. Has she been made ugly through some curse. It is not proper that I should hastily ascertain the cause of this.—Reflecting upon this in the secrecy of his heart, and curious to know the reason, the Rishi passed the rest of that day in an anxious state. The lady then addressed him, saying,—O illustrious one, behold the aspect of the Sun reddened by the evening clouds. What service shall I do unto thee.—The Rishi addressed her, saying,—.‘Fetch water for my ablutions. Having bathed, I shall say my evening prayers, restraining my tongue and the senses.’”
-
-
-
-
-
-
 
 ## SECTION XX
 
@@ -744,34 +473,6 @@ Bhishma said, ‘Abstention from injury to others, truthfulness, the absence of 
 
 “'All these men enumerated above have to go to hell. Listen now to me, O bull of Bharata's race, as I tell thee who those men are that <span id="p127">[<sup><small>p. 127</small></sup>]</span> ascend to heaven. The man who transgresses against a Brahmana by impeding the performances of all such acts in which the deities are adored, becomes afflicted with the loss of all his children and animals. (They who do not transgress against Brahmanas by obstructing their religious acts ascend to heaven). Those men, O Yudhishthira, who follow the duties as laid down in the scriptures for them and practise the virtues of charity and self-restraint and truthfulness, ascend to heaven. Those men who having acquired knowledge by rendering obedient services to their preceptors and observing austere penances, become reluctant to accept gifts, succeed in ascending to heaven. Those men through whom other people are relieved and rescued from fear and sin and the impediments that lie in the way of what they wish to accomplish and poverty and the afflictions of disease, succeed in ascending to heaven. Those men who are endued with a forgiving disposition, who are possessed of patience, who are prompt in performing all righteous acts, and who are of auspicious conduct, succeed in ascending to heaven. Those men who abstain from honey and meat, who abstain from sexual congress with the spouses of other people, and who abstain from wines and spirituous liquors, succeed in ascending to heaven. Those men that help in the establishment of retreats for ascetics, who become founders of families, O Bharata, who open up new countries for purposes of habitation, and lay out towns and cities succeed in ascending to heaven. Those men who give away cloths and ornaments, as also food and drink, and who help in marrying others, succeed in ascending to heaven. [^229] Those men that have abstained from all kinds of injury or harm to all creatures, who are capable of enduring everything, and who have made themselves the refuge of all creatures, succeed in ascending to heaven. Those men who wait with humility upon their fathers and mothers, who have subjugated their senses, and who are affectionate towards their brothers, succeed in ascending to heaven. Those men that subjugate their senses notwithstanding the fact of their being rich in worldly goods and strong in might and in the enjoyment of youth, succeed in ascending to heaven. Those men that are kind towards even those that offend against them, that are mild of disposition, that have an affection for all who are of mild behaviour, and that contribute to the happiness of others by rendering them every kind of service in humility, succeed in ascending to heaven. Those men that protect thousands of people, that make gifts unto thousands of people, and that rescue thousands of people from distress, succeed in ascending to heaven. Those men who make gifts of gold and of kine, O chief of Bharata's race, as also those of conveyances and animals, succeed in ascending to heaven. Those men who make gifts of such articles as are needed in marriages, as also those of serving men and <span id="p128">[<sup><small>p. 128</small></sup>]</span> maids, and cloths and robes, succeed in ascending to heaven [^230]. Those men who make public pleasure-houses and gardens and wells, resting houses and buildings for public meetings and tanks for enabling cattle and men to quench their thirst, and fields for cultivation, O Bharata, succeed in ascending to heaven. [^231] Those men who make gifts of houses and fields and populated villages unto persons that solicit them, succeed in ascending to heaven. Those men who having themselves manufactured juicy drinks of sweet taste and seeds and paddy or rice, make gifts of them unto others succeed in ascending to heaven. Those men who being born in families high or low beget hundreds of children and live long lives practising compassion and keeping wrath under complete subjection, succeed in ascending to heaven. I have thus expounded to thee, O Bharata, what the rites are in honour of the deities and the Pitris which are performed by people for the sake of the other world, what the ordinances are in respect of making gifts, and what the views are of the Rishis of former times in respect of both the articles of gift and the manner of giving them.’”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SECTION XXIV
 
 “Yudhishthira said, ‘O royal son of Bharata's race, it behoveth thee to answer this question of mine truly and in detail. What are those circumstances under which a person may become guilty of Brahmanicide without actually slaying a Brahmana!’
@@ -807,12 +508,6 @@ Bhishma said, ‘Abstention from injury to others, truthfulness, the absence of 
 “Bhishma continued, ‘The learned ascetic endued with high intelligence and great illumination, and crowned with success, having in this manner discoursed unto that poor Brahmana in the observance of the Sila vow, on the subjects of the infinite merits of Ganga, then ascended the firmament. The Brahmana in the observance of Sila vow, awakened by the words of that ascetic crowned with success, duly worshipped Ganga and attained to high success. Do thou also, O son of Kunti, seek Ganga with great devotion, for thou shalt then, as the reward thereof, attain to high and excellent success.
 
 “Vaisampayana continued ‘Hearing this discourse from Bhishma that was fraught with the praise of Ganga, Yudhishthira with his brothers became filled with great delight. That person who recites or hears recited this sacred discourse fraught with the praise of Ganga, becomes cleansed of every sin.’”
-
-
-
-
-
-
 
 ## SECTION XXVII
 

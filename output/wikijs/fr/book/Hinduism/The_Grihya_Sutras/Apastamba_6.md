@@ -158,19 +158,19 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## Notes de bas de page
 
-[^767] : 280:6 Â<i>s</i>valâyana I, 14, 7 ; Pâraskara I, 15, 8. Comp. Zeitschrift der DM Gesellschaft, XXXIX, 88.
+[^767]: 280:6 Â<i>s</i>valâyana I, 14, 7 ; Pâraskara I, 15, 8. Comp. Zeitschrift der DM Gesellschaft, XXXIX, 88.
 
 [^768]: 280:7 7, 8. Sudar<i>s</i>anârya mentionne qu'au lieu du singulier, « Elle garde le silence, elle rompt son silence », certains lisent le duel, de sorte que le mari et sa femme sont mentionnés.
 
 [^769]: 281:1 15, 1. Nous devrions lire uttarâbhir, et non uttarâbhyâm. Comp. ci-dessous, Sûtra 12.
 
-[^770] : 283:12 Comp. ci-dessus, Sûtra 1.
+[^770]: 283:12 Comp. ci-dessus, Sûtra 1.
 
 [^771]: 283:4 16, 4. Voir ci-dessus, IV, 10, 5.
 
 [^772]: 283:5 Voir ci-dessus, VI, 14. 2.
 
-[^773] : 283 : 6 Comp. VI, 14, 3.
+[^773]: 283 : 6 Comp. VI, 14, 3.
 
 [^774]: 284:8 Voir IV, 10, 5-8.
 

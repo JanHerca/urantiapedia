@@ -75,9 +75,6 @@ Om! Having bowed down to Narayana, and Nara the foremost of male beings, and the
 
 ‘This then is the career of those that are without knowledge. Listen now to the course of the wise they that are intent on profitable virtue, and are desirous of emancipation! The _Vedas_ enjoin act but _renounce_ (interest in) action. Therefore, shouldst thou act, renouncing _Abhimana,_ [^4] performance of sacrifices, study (of the _Vedas_), gifts, penance, truth (in both speech and act), forgiveness, subduing the senses, and renunciation of desire,—these have been declared to be the eight (cardinal) duties constituting the true path. Of these, the four first pave the way to the world of the _pitris._ And these should be practised without _Abhimana._ The four last are always observed by the pious, to attain the heaven of the gods. And the pure in spirit should ever follow these eight paths. Those who wish to subdue the world for purpose of salvation, should ever act fully renouncing motives, effectually subduing their senses, rigidly observing particular vows, devotedly serving their preceptors, austerely regulating their fare, diligently studying the _Vedas,_ renouncing action as mean and restraining their hearts. By renouncing desire and aversion the gods have attained prosperity. It is by virtue of their wealth of yoga [^5] that the _Rudras,_ and the _Sadhyas,_ and the _Adityas_ and the _Vasus,_ and the twin _Aswins,_ rule the creatures. Therefore, O son of Kunti, like unto them, do thou, O Bharata, entirely refraining from action with motive, strive to attain success in _yoga_ and by ascetic austerities. Thou hast already achieved such success so far as thy debts to thy ancestors, both male and female concerned, and that success also which is derived from action (sacrifices). Do thou, for serving the regenerate ones endeavour to attain success in penances. Those that are crowned with ascetic success, can, by virtue of that success, do whatever they list; do thou, therefore, practising asceticism realise all thy wishes.”
 
-
-
-
 <span id="p9">[<sup><small>p. 9</small></sup>]</span>
 
 ## SECTION III
@@ -117,9 +114,6 @@ Gabhastimat, Aja, Kala, Mrityu, Dhatri, Prabhakara, Prithibi, Apa, Teja, Kha, Va
 ‘Dhritarashtra said, ‘These words, O Vidura, then thou hast spoken in this assembly, with reference to the Pandavas and myself, are for their good but not for ours. My mind doth not approve them. How hast thou settled all this in thy mind now? When thou hast spoken all this on behalf of the Pandavas, I perceive that thou art not friendly to me. How can I abandon my son for the sake of the sons of Pandu? Doubtless they are my sons, but Duryodhana is sprung from my body. Who then, speaking with impartiality, will ever counsel me to renounce my own body for the sake of others? O Vidura, all that thou sayest is crooked, although I hold thee in high esteem. Stay or go as thou likest. However much may she be humoured, an unchaste will forsaketh her husband.’
 
 “Vaisampayana said, O king, saying this Dhritarashtra rose suddenly and went into the inner apartments. And Vidura, saying ‘This race is doomed’ went away to where the sons of Pritha were.’”
-
-
-
 
 ## SECTION V
 

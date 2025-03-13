@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-[1b](Livre_6_10#fn905)
+[1b](Book_6_10#fn905)
 
 
 ## CHANT I. : LE DISCOURS DE RAMA.
@@ -45,7 +45,7 @@ Il répondit amicalement :
 « Voici une tâche formidable accomplie.
 Qui n'a jamais eu de cœur mais a été conçu.
 Qui d'autre peut surgir de l'autre côté de la mer,
-Sauver Váyu [2b](Livre_6_10#fn906) et le Roi à Plumes ? [3b](Livre_6_10#fn907)
+Sauver Váyu [2b](Book_6_10#fn906) et le Roi à Plumes ? [3b](Book_6_10#fn907)
 Qui, franchissez les portails forts et hauts.
 Que défient les Nágas, [4b](Book_6_10#fn908) Dieux et démons,
 Là où les hôtes de Rávan ​​maintiennent leur station,

@@ -184,7 +184,7 @@ De tous ses chefs, le plus puissant.
 
 ## CHANT XLIII. : LA RUINE DU TEMPLE.
 
-Le fils du Dieu du Vent, un temple [1b](Livre_5_50#fn880) à l'échelle
+Le fils du Dieu du Vent, un temple [1b](Book_5_50#fn880) à l'échelle
 Qui, par sa fureur non assaillie,
 Haute comme la colline de Meru, se dressait
 Au milieu des ruines du bois ;
@@ -521,7 +521,7 @@ Derrière le monarque se tenaient les meilleurs
 De belles femmes gaiement vêtues.
 Et chacun de ses maîtres géants éventait,
 Ou agitait un chourie dans sa main.
-Quatre nobles courtisans [1b](Livre_5_50#fn888) sages et bons
+Quatre nobles courtisans [1b](Book_5_50#fn888) sages et bons
 En conseil, près du monarque se tenait,
 Comme les quatre océans se dressent toujours
 À propos de la terre entourée par la mer.

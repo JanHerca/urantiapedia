@@ -80,7 +80,7 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1072]: 235:2 Sic dans les MSS.
 
-[^1073] : 235:3 Cf. quant à se débarrasser de la nature, Gîtâ, pp. [75](Bhagavadgita_7#p75)\-[106](Bhagavadgita_13#p106). Quant au corps produit de la nature, cf. ibid. [p. 112](Bhagavadgita_15#p112), et pp. [317](Anugita_20#p317)\-[318](Anugita_21#p318) infra.
+[^1073]: 235:3 Cf. quant à se débarrasser de la nature, Gîtâ, pp. [75](Bhagavadgita_7#p75)\-[106](Bhagavadgita_13#p106). Quant au corps produit de la nature, cf. ibid. [p. 112](Bhagavadgita_15#p112), et pp. [317](Anugita_20#p317)\-[318](Anugita_21#p318) infra.
 
 [^1074]: 235:4 C'est-à-dire le Brahman, dit Nîlaka<i>nth</i>a.
 
@@ -140,7 +140,7 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1102]: 239:4 C'est-à-dire l'esprit, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1103] : 239:5 Cf. B<i>ri</i>hadâra<i>ri</i>aka, p. 843.
+[^1103]: 239:5 Cf. B<i>ri</i>hadâra<i>ri</i>aka, p. 843.
 
 [^1104]: 239:6 Voir Aitareya-upanishad, p. 222, et le commentaire de Sankara. Venir à la naissance, c'est sortir du ventre maternel pour entrer dans le monde. Cf. aussi Gîtâ, [p. 112](Bhagavadgita_15#p112).
 
@@ -152,9 +152,9 @@ Français Lorsque ces actions, productives de longue vie et de gloire [^1070], q
 
 [^1108]: 240:2 Les lectures ici sont très insatisfaisantes. Le sens de la lecture imprimée adoptée ci-dessus semble être : « décision quant aux actions à accomplir », etc.
 
-[^1109] : 240:3 Cf. Gîtâ, [p. 81](Bhagavadgita_8#p81), et Sanatsu<i>g</i>âtîya, [p. 158](Sanatsugatiya_2#p158).
+[^1109]: 240:3 Cf. Gîtâ, [p. 81](Bhagavadgita_8#p81), et Sanatsu<i>g</i>âtîya, [p. 158](Sanatsugatiya_2#p158).
 
-[^1110] : 240:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^1110]: 240:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
 
 [^1111]: 240:5 A<i>g</i>una Mi<i>s</i>ra dit : « Au ciel = dans l'autre monde, bas = inférieur (?), haut = ciel, et moyen = l'espace sous les cieux (antariksha). » Pour les trois degrés de jouissance au ciel, voir Yogavâsish<i>th</i>a I, 35 seq.
 

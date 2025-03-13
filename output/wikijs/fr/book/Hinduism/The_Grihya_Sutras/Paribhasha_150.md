@@ -419,10 +419,10 @@ S'il y a, par exemple, quatorze vapanas, alors qu'il y a beaucoup plus de mantra
 
 ## Notes de bas de page
 
-[^799] : 357:1 Voir Manu, trad. par Bühler, SBE, XXV, qui cite dans le même but Gaut. VIII, 19-20 ; Vâs. XI, 46 ; Vi. LIX, 2-9 ; Baudh. II, 4, 23 ; Yâgña. I, 97, 124-125. 
+[^799]: 357:1 Voir Manu, trad. par Bühler, SBE, XXV, qui cite dans le même but Gaut. VIII, 19-20 ; Vâs. XI, 46 ; Vi. LIX, 2-9 ; Baudh. II, 4, 23 ; Yâgña. I, 97, 124-125. 
 
-[^800] : 357:2 Kâtyâyana, p. 34. 
+[^800]: 357:2 Kâtyâyana, p. 34. 
 
-[^801] : 358:1 Vaisvadevam parva, Varusapraghâsâh, sâkamedhâh. 
+[^801]: 358:1 Vaisvadevam parva, Varusapraghâsâh, sâkamedhâh. 
 
-[^802] : 358:2 Agnishtoma, Ukthya, Atirâtra, parfois Shotatin, sont les sacrifices Soma originaux ; Atyagnishtoma, Vâtapeya et Aptoryâma sont plus tardifs. Voir Weber, Ind. Stud. X, pp. 352, 391.
+[^802]: 358:2 Agnishtoma, Ukthya, Atirâtra, parfois Shotatin, sont les sacrifices Soma originaux ; Atyagnishtoma, Vâtapeya et Aptoryâma sont plus tardifs. Voir Weber, Ind. Stud. X, pp. 352, 391.

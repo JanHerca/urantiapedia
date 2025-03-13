@@ -324,11 +324,11 @@ Fin du Premier Pa<i>t</i>ala.
 
 [^479]: 144:3 Sāṅkhâyana I, 9, 18.
 
-[^480] : 144 : 4 <i>S</i>âṅkhâyana I, 12, 12. 13 ; Gobhila I, 9, 27. Quant à suva_h_, l'orthographe des Taittirîyas pour sva_h_, voir Indische Studien, XIII, 105.
+[^480]: 144 : 4 <i>S</i>âṅkhâyana I, 12, 12. 13 ; Gobhila I, 9, 27. Quant à suva_h_, l'orthographe des Taittirîyas pour sva_h_, voir Indische Studien, XIII, 105.
 
 [^481]: 144:5 5, 6. Dans le deuxième Mantra, nous devrions lire v<i>ri</i><i>ri</i>âno au lieu de g<i>ri</i><i>ri</i>âno; comp. Atharva-veda II, 13, 1. Quant aux Mantras qui suivent, comp. Pâraskara I, 2, 8; Taittirîya Âra<i>ri</i>yaka IV, 20, 3. — Concernant le Mantra tvam Agne ayâsi (sic), comp. Taitt. Brâh. II, 4, 1, 9; Â<i>ri</i>valâyana-<i>S</i>rauta-sûtra I, 11, 13; Kâtyâyana-<i>S</i>rauta-sûtra XXV, 1, 11; Études indiennes, XV, 125.
 
-[^482] : 145:7 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 10, 23 ; <i>Satapatha Brâhma<i>ri</i>a XI V, 9, 4, 24.
+[^482]: 145:7 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 10, 23 ; <i>Satapatha Brâhma<i>ri</i>a XI V, 9, 4, 24.
 
 [^483]: 145:8 Comp. les Sûtras suivants et Pâraskara I, 5, 7-10.
 

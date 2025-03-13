@@ -88,7 +88,7 @@ Les textes de Ya<i>g</i>us ; ni dans les textes d'Atharvan, ni dans les textes p
 
 [^817]: 174:1 Ceci encore n'est pas clair, et les divergences des manuscrits le rendent encore plus perplexe. Je suppose que cela signifie qu'un homme peut percevoir toutes les choses matérielles, telles que les mondes, Bhûr, etc. (comme le disent les commentateurs), mais que pour être réellement omniscient, il faut avoir la connaissance de la vérité : le Brahman. Voir Sabhâ Parvan, chapitre V, strophe 7. Voir aussi B<i>ri</i>hadâra<i>n</i>yaka, p. 613.
 
-[^818] : 174:2 P. [p. 167](Sanatsugatiya_3#p167) supra.
+[^818]: 174:2 P. [p. 167](Sanatsugatiya_3#p167) supra.
 
 [^819]: 174:3 En entendant les Vedântas — Upanishads, etc., dit Sankara. Voir note supra, [p. 173] (Sanatsugatiya_3#p173).
 
@@ -152,11 +152,11 @@ Les textes de Ya<i>g</i>us ; ni dans les textes d'Atharvan, ni dans les textes p
 
 [^849]: 179:1 Appelé <i>K</i>intâma<i>n</i>i. L'effet du Brahma<i>k</i>arya est que ceux qui le pratiquent peuvent obtenir ce qu'ils désirent.
 
-[^850] : 179:2 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76); <i>Kh</i>ândogya, p. 538 ; Mu<i>nd</i>aka, p. 279.
+[^850]: 179:2 Cf. Gîtâ, [p. 76](Bhagavadgita_7#p76); <i>Kh</i>ândogya, p. 538 ; Mu<i>nd</i>aka, p. 279.
 
 [^851]: 179:3 Cf. <i>S</i>vetâ<i>s</i>vatara, p. 327.
 
-[^852] : 179:4 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 877.
+[^852]: 179:4 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 877.
 
 [^853]: 179:5 Cf. Ka<i>th</i>a, p. 119; et Mu<i>th</i>aka, p. 267. Quant à son absence de résidence sur terre, dans le ciel, etc., Sankara se réfère à Khândogya, p. 518, comme impliquant cela.
 
@@ -168,11 +168,11 @@ Les textes de Ya<i>g</i>us ; ni dans les textes d'Atharvan, ni dans les textes p
 
 [^857]: 180:2 Les douze grands vœux – connaissance, etc., mentionnés ci-dessus, voir [p. 167](Sanatsugatiya_3#p167). Nîlaka<i>nth</i>a prend Mahâvrata pour désigner le sacrifice de ce nom. Il est décrit dans l'Aitareya Âra<i>n</i>yaka.
 
-[^858] : 180:3 Voir Gîtâ, [p. 78](Bhagavadgita_8#p78), remarque .
+[^858]: 180:3 Voir Gîtâ, [p. 78](Bhagavadgita_8#p78), remarque .
 
-[^859] : 180:4 Cf. Gîtâ, [p. 82](Bhagavadgita_9#p82), et Îsopanishad, p. 12.
+[^859]: 180:4 Cf. Gîtâ, [p. 82](Bhagavadgita_9#p82), et Îsopanishad, p. 12.
 
-[^860] : 180:5 Voir Gîtâ, [p. 78](Bhagavadgita_8#p78), remarque .
+[^860]: 180:5 Voir Gîtâ, [p. 78](Bhagavadgita_8#p78), remarque .
 
 [^861]: 180:6 Cf. Gîtâ, [p. 113](Bhagavadgita_15#p113); Ka<i>th</i>a p. 99.
 

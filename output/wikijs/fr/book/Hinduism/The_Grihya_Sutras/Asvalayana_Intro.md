@@ -93,7 +93,7 @@ Il y aurait encore de nombreuses questions qu'une Introduction à l'Â<i>valâya
 
 ## Notes de bas de page
 
-[^349] : 153 : 1 Voir History of Ancient Sanskrit Literature de Max Müller, pp. 230 suiv.; Indische Studien, I, 102.
+[^349]: 153 : 1 Voir History of Ancient Sanskrit Literature de Max Müller, pp. 230 suiv.; Indische Studien, I, 102.
 
 [^350]: 153:2 Ceci me semble être le sens de sûtra_m<i>k</i>ri_tvâ nyavedayat ; p. 154 le cas est semblable à celui où un élève fait sa tournée pour demander l'aumône et annonce (nivedayati) à son maître ce qu'il a reçu. Le professeur Max Müller traduit ces mots différemment ; selon lui, ils signifient que Â<i>k</i>valâyana « a fait un Sûtra et l'a enseigné ».
 
@@ -101,14 +101,14 @@ Il y aurait encore de nombreuses questions qu'une Introduction à l'Â<i>valâya
 
 [^352]: 154:2 Dvâda<i>s</i>âdhyâyaka_m<i>s</i>m<i>s</i>k<i>s</i>m<i>s</i>ri<i>s</i>k<i>s</i>k<i>s</i>n<i>s</i>m<i>s</i>k<i>s</i>s_valâyanasûtrakam.
 
-[^353] : 154:3 Voir p. 448 de l'édition du Dr Râ<i>g</i>endralâla Mitra dans la Bibliotheca Indica.
+[^353]: 154:3 Voir p. 448 de l'édition du Dr Râ<i>g</i>endralâla Mitra dans la Bibliotheca Indica.
 
-[^354] : 155 : 1 2e édition, p. 53 : Obwohl wir für das vierte Buch des letztern (ie of the Aitareya Âra<i>n</i>yaka) sogar die direct Nachricht haben, dass es dem Â<i>n</i>valâyana, dem Schüler eines <i>S</i>aunaka angehört, so wie auch ferner für das fünfte Buch desselben Ceser <i>S</i>aunaka lui-même et Urheber gegolten zu haben scheint, nach dem was Colebrooke Misc. Ess. Moi, 47 n. darüber berichtet.
+[^354]: 155 : 1 2e édition, p. 53 : Obwohl wir für das vierte Buch des letztern (ie of the Aitareya Âra<i>n</i>yaka) sogar die direct Nachricht haben, dass es dem Â<i>n</i>valâyana, dem Schüler eines <i>S</i>aunaka angehört, so wie auch ferner für das fünfte Buch desselben Ceser <i>S</i>aunaka lui-même et Urheber gegolten zu haben scheint, nach dem was Colebrooke Misc. Ess. Moi, 47 n. darüber berichtet.
 
 [^355]: 155:2 P. 11: Si cette hypothèse est admise, la conclusion appropriée à laquelle on pourrait arriver serait également que la totalité du cinquième Livre appartient à Saunaka, et la totalité du quatrième Livre à Â<i>valâyana et </i>valâyana. P. 12: Les écrits de Â<i>valâyana et </i>valâyana et de S<i>valâyana et </i>n_yaka, etc.
 
-[^356] : 156:1 Voir <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 12, 13.
+[^356]: 156:1 Voir <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 12, 13.
 
-[^357] : 156:2 Ainsi Sâya<i>n</i>a, dans sa note sur V, 1, 1, dit : Nanu prathamâra<i>n</i>yakeऽpi atha mahâvratam Indro vai V<i>n</i>tra_m<i>n</i>h_, pa<i>nd</i>ameऽpi tasyaivâbhidhâne punarukti<i>h</i> syât. nâya_m<i>n</i>h_, sûtrabrâhma<i>n</i>arûpe<i>n</i>a tayor vibhedât. pa<i>nd</i>amâra<i>n</i>yakam _ri<i>n</i>m<i>n</i>m_, prathamâra<i>n</i>yakan tv apaurusheya_m<i>n</i>n<i>n</i>m_. ata eva tatrârthavâdaprapa<i>nd</i>ena sahitâ vidhaya_h<i>n</i>s_rûyante, pa<i>nd</i>ame tu na ko py arthavâdoऽsti . . . . ara<i>n</i>ya evaitad adhyeyam ity abhipretyâdhyetâra âra<i>n</i>yakandeऽntarbhâvyâdhîyate.
+[^357]: 156:2 Ainsi Sâya<i>n</i>a, dans sa note sur V, 1, 1, dit : Nanu prathamâra<i>n</i>yakeऽpi atha mahâvratam Indro vai V<i>n</i>tra_m<i>n</i>h_, pa<i>nd</i>ameऽpi tasyaivâbhidhâne punarukti<i>h</i> syât. nâya_m<i>n</i>h_, sûtrabrâhma<i>n</i>arûpe<i>n</i>a tayor vibhedât. pa<i>nd</i>amâra<i>n</i>yakam _ri<i>n</i>m<i>n</i>m_, prathamâra<i>n</i>yakan tv apaurusheya_m<i>n</i>n<i>n</i>m_. ata eva tatrârthavâdaprapa<i>nd</i>ena sahitâ vidhaya_h<i>n</i>s_rûyante, pa<i>nd</i>ame tu na ko py arthavâdoऽsti . . . . ara<i>n</i>ya evaitad adhyeyam ity abhipretyâdhyetâra âra<i>n</i>yakandeऽntarbhâvyâdhîyate.
 
-[^358] : 157 : 1 Sâma-veda (Bibl. Indica), vol. je, p. 19.
+[^358]: 157 : 1 Sâma-veda (Bibl. Indica), vol. je, p. 19.

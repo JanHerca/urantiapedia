@@ -604,25 +604,25 @@ Fin du premier Prapâ<i>th</i>aka.
 
 ## Notes de bas de page
 
-[^95] : 13 : 1 1, 1-4. Comp. Khâdira-G<i>ri</i>hya I, 1, 1. 2. 5. 7.
+[^95]: 13 : 1 1, 1-4. Comp. Khâdira-G<i>ri</i>hya I, 1, 1. 2. 5. 7.
 
 [^96]: 13:5 Je ne peux donner cette traduction des mots 'sarvâny evânvâhâryavanti' sans exprimer mes doutes quant à la justesse du commentateur que j'ai suivi. Il dit : 'anu pa<i>nd</i>âd âhriyate yasmât prak<i>n</i>ta<i>m</i> karma iti, anu pa<i>nd</i>âd âhriyate yat prastutât (prak<i>n</i>tât?) karma<i>n</i>a iti _k<i>n</i>m<i>n</i>s<i>n</i>m<i>n</i>n</i>n<i>n</i>k_yate.' Français Il est évident que la première explication de l'anvâhârya comme une cérémonie suivie du sacrifice principal est inadmissible. Ci-dessous, IV, 4, 3. 4, Gobhila lui-même définit l'Anvâhârya <i>S</i>râddha comme une cérémonie mensuelle (comp. Manu III, 123 ; Max Müller, India, p. 240) ; elle est, par conséquent, différente d'un <i>S</i>râddha accompagnant chaque sacrifice G<i>n</i>hya. Le _S<i>n</i>ri_hyântara' ne me semble pas dissiper le doute ; je pense plutôt qu'il contient une spéculation fondée sur ce passage même de Gobhila, pris au sens de la p. 14 tel que le commentateur le prend, et sur les Sûtras IV, 4, 3. 4. Ainsi je crois plutôt que nous devrions comprendre anvâhârya comme un plat de nourriture comme celui offert après les sacrifices dar<i>n</i>apûr<i>n</i>amâsau aux prêtres officiants (Hillebrandt, Neu- et Vollmondsopfer, 133), et je propose de traduire : Tous (les sacrifices) sont suivis de (l'offrande de) la nourriture Anvâhârya (au prêtre).
 
-[^97] : 14:6 Khâdira-G<i>ri</i>hya I, 1, 3.
+[^97]: 14:6 Khâdira-G<i>ri</i>hya I, 1, 3.
 
 [^98]: 14:7 Le texte continue en traitant de l'installation du feu domestique. Khâdira-G<i>ri</i>hya I, 3, 1.
 
-[^99] : 14:9 Khâdira-G<i>ri</i>hya I, 3, 1 suiv.; G<i>ri</i>hya-sa<i>ri</i>graha I, 47 suiv.; Zeitschrift der Deutschen Morgenl. Gesellschaft, XXXV, 557.
+[^99]: 14:9 Khâdira-G<i>ri</i>hya I, 3, 1 suiv.; G<i>ri</i>hya-sa<i>ri</i>graha I, 47 suiv.; Zeitschrift der Deutschen Morgenl. Gesellschaft, XXXV, 557.
 
 [^100]: 14:12 J'ai suivi dans la traduction de paramesh<i>th</i>ikara<i>th</i>am la voie indiquée par le G<i>th</i>hya-sa<i>th</i>graha I, 77, et par <i>S</i>âṅkhâyana (I, 1, 5) : prete vâ g<i>th</i>hapatau svaya_m<i>th</i>g_yâyân. Je pense que le paramesh<i>th</i>î est la même personne que le <i>g</i>yâyan. Le commentaire donne une explication différente : paramesh<i>th</i>î agnir ity â<i>th</i>akshate, tasya paramesh<i>th</i>inoऽgne_h<i>th</i>n<i>th</i>m<i>th</i>n_am.
 
-[^101] : 15h15 15-18. Khâdira-G<i>ri</i>hya I, 5, 3 suiv.
+[^101]: 15h15 15-18. Khâdira-G<i>ri</i>hya I, 5, 3 suiv.
 
 [^102]: 15:20 20, 21. Khâdira-Grihya I, 5, I. 2. Comp. également ci-dessus, Sûtras 7 et 8.
 
 [^103]: 15:22 C'est-à-dire que dans le premier des deux cas mentionnés dans le Sûtra 20, la mise de combustible sur le feu, et dans le second cas, les oblations de grains frits, etc., prescrites pour le mariage, sont considérées comme l'oblation matinale du sacrificateur dans son feu G<i>ri</i>hya nouvellement établi, de sorte que les oblations régulières doivent commencer par le sâyamâhuti.
 
-[^104] : 16:23 Khâdira-G<i>ri</i>hya I, 5, 6. Comp. Note du professeur Bloomfield 2, Zeitschrift der Deutschen Morgenl. Gesellschaft, XXXV, 561.
+[^104]: 16:23 Khâdira-G<i>ri</i>hya I, 5, 6. Comp. Note du professeur Bloomfield 2, Zeitschrift der Deutschen Morgenl. Gesellschaft, XXXV, 561.
 
 [^105]: 16:27 27, 28. Khâdira-Grihya I, 5,7-9. Quant aux deux cas concernant l'heure de l'oblation du matin, voir Indische Studien, X, 329.
 
@@ -638,7 +638,7 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^111]: 18:25 Kâsaktika_h_, que le commentaire explique comme un composé de ka, 'la tête', et âsaktikâ = âvesh<i>t</i>ikâ.
 
-[^112] : 18:28 Khâdira-G<i>ri</i>hya I, 1, 10.
+[^112]: 18:28 Khâdira-G<i>ri</i>hya I, 1, 10.
 
 [^113]: 18:29 Dans d'autres textes (par exemple, Manu II, 62 ; Vasish<i>th</i>a III, 31 seqq.), il est indiqué qu'un Brâhma<i>th</i>a doit siroter de l'eau qui atteint son cœur, un Kshatriya de l'eau qui atteint sa gorge, un Vai<i>th</i>ya de l'eau qui mouille son palais ; un <i>S</i>ûdra ne doit toucher l'eau qu'avec ses lèvres.
 
@@ -646,13 +646,13 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^115]: 19:3 Règles concernant le sacrifice quotidien du matin et du soir.
 
-[^116] : 19 : 1 1-5. Khâdira-G<i>ri</i>hya I, 2, 17-21.
+[^116]: 19 : 1 1-5. Khâdira-G<i>ri</i>hya I, 2, 17-21.
 
 [^117]: 19:6 La nourriture sacrificielle est soit k<i>ri</i>ta (préparée), soit ak<i>ri</i>ta (non préparée). Un plat de riz bouilli, par exemple, est k<i>ri</i>ta, les grains de riz sont ak<i>ri</i>ta.
 
-[^118] : 20 : 7 7-12. Khâdira-G<i>ri</i>hya I, 5, 10-12. Prodaka dans le Sûtra 7 est expliqué par pragatodaka.
+[^118]: 20 : 7 7-12. Khâdira-G<i>ri</i>hya I, 5, 10-12. Prodaka dans le Sûtra 7 est expliqué par pragatodaka.
 
-[^120] : 20h10 9-10. Khâdira-G<i>ri</i>hya, ll 13-15.
+[^120]: 20h10 9-10. Khâdira-G<i>ri</i>hya, ll 13-15.
 
 [^119]: 20:9 La première oblation est faite au milieu, la seconde, consacrée à Pra<i>g</i>âpati (<i>S</i>âṅkhâyana I, 3, 15, etc.), dans la partie nord-est du feu sacré. Le dixième Sûtra doit bien sûr être compris de la même manière.
 
@@ -660,13 +660,13 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^122]: 21:13 Les derniers mots sont â _g<i>îvitâvabh</i>ri_thât, qui signifie littéralement « jusqu'au bain Avabh<i>îvitâvabh</i>tha de sa vie ». Le bain Avabh<i>îvitâvabh</i>tha est le bain pris à la fin de certains sacrifices, de sorte que l'Avabh<i>îvitâvabh</i>tha de la vie signifie la mort.
 
-[^123] : 21:15 Khâdira-G<i>ri</i>hya I, 5, 17.
+[^123]: 21:15 Khâdira-G<i>ri</i>hya I, 5, 17.
 
 [^124]: 21:16 16-18. Khâdira-G<i>ri</i>hya, ll 18, 19. Dans ma traduction du Sûtra 17, j'ai adopté, bien que non sans aucun doute, la conjecture du professeur Roth donnée dans la note du professeur Knauer, p. 137. Le professeur Roth écrit _ri<i>ri</i>k<i>ri</i>ri<i>ri</i>k_â : il dit simplement 'om', et non 'ó-o-ó-o-ó-om'. Selon le commentaire, le Sûtra 17 se référerait à la femme, et non au mari.
 
 [^125]: 21:18 Les manuscrits donnent mâkhyâ et mâkshâ. Il faudrait lire : tan ma kshâyîty upâ<i>m</i><i>m</i>u. Comp. Âpastamba II, 2, 3, 11
 
-[^126] : 22 : 1 4, 1 suiv. L'offre quotidienne de Bali. Khâdira-G<i>ri</i>hya I, 5, 20 suiv.
+[^126]: 22 : 1 4, 1 suiv. L'offre quotidienne de Bali. Khâdira-G<i>ri</i>hya I, 5, 20 suiv.
 
 [^127]: 22:9 Selon le commentaire, le premier de ces trois Balis doit être offert près du pot à eau, le deuxième près de la porte du milieu de la maison, le troisième (comp. Gautama V, 16) dans les airs. Le mot samîpe est ajouté aux génitifs. Il est difficile de comprendre pourquoi l'auteur, si son intention avait été d'indiquer trois endroits où les Balis devaient être offerts, n'en a mentionné que deux. Je crois donc que la bonne explication est celle du professeur Knauer, qui prend madhyama dans le sens du poteau du milieu de la maison (comp. III, 3, 31).
 
@@ -686,7 +686,7 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^135]: 25:2 Voir la note ci-dessous au Sûtra 10.
 
-[^136] : 25 : 3 Avec ces deux Sûtras, 'sandhyâ_m<i> paur</i>n_amâsîm upavaset ; uttarâm iti eke', il faut comparer un passage qui se retrouve identiquement dans l'Aitareya (VII, 11), et dans le Kaushîtaka Brâhma<i> paur</i>a (III, 1) : pûrvâ_m<i> paur</i>n_amâsîm upavased iti Paiṅgyam, uttarâm iti Kaushîtakam.
+[^136]: 25 : 3 Avec ces deux Sûtras, 'sandhyâ_m<i> paur</i>n_amâsîm upavaset ; uttarâm iti eke', il faut comparer un passage qui se retrouve identiquement dans l'Aitareya (VII, 11), et dans le Kaushîtaka Brâhma<i> paur</i>a (III, 1) : pûrvâ_m<i> paur</i>n_amâsîm upavased iti Paiṅgyam, uttarâm iti Kaushîtakam.
 
 [^137]: 25:6 Le mois est compté ici, comme on le fait habituellement, comme commençant avec la quinzaine de la lune croissante.
 
@@ -702,21 +702,21 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^143]: 29:4 Ou, lequel lui est agréable ? Voir la note du § 1.
 
-[^144] : 29:7 Khâdira-G<i>ri</i>hya II, I, 7.
+[^144]: 29:7 Khâdira-G<i>ri</i>hya II, I, 7.
 
 [^145]: 29:14 Les cérémonies mentionnées dans ce Sûtra doivent être accomplies par le Brahman. Ceci est indiqué dans le commentaire, et la comparaison p. 30 des textes parallèles ne laisse aucun doute quant à la justesse de ce point de vue. Ainsi, Hira<i>n</i>yake<i>n</i>in dit (I, 1) : etasmin kâle brahmâ ya<i>nd</i>opavîta_m<i>n</i>ri<i>n</i>k<i>n</i>n<i>n</i>n<i>n</i>n<i>n</i>ri_<i>n</i>a<i>m</i> nirasya, etc. Voir aussi les passages correspondants du rituel Srauta donnés par Hillebrandt, Neu- et Vollmondsopfer, p. 17. Je ne pense pas qu'il soit probable, cependant, que nous lisions brahmâऽsanât, de sorte que le texte exprime clairement que le Brahman est le sujet (cf. Introduction du Dr Knauer, p. viii). Car nous lisons dans ce même Sûtra brahmâsanât t<i>nd</i>am abhisa<i>n</i>g<i>n</i>hya ; dans le Sûtra 15, brahmâsana upavi<i>n</i>ati ; dans le Sûtra 21, brahmâsane nidhâya : de ces passages, le deuxième est rendu probable par le sens, et le troisième est certain, que brahmâsana doit être compris comme un composé égal à brahmasadana. Il serait donc, à mon avis, anormal de ne pas l'expliquer de la même manière dans le premier passage. Parâvasu s'oppose à Vasu (Sûtra 15) de la même manière que certains textes, par exemple Âpastamba, opposent Parâgvasu à Arvâgvasu.
 
-[^146] : 30:16 suiv. Khâdira-G<i>ri</i>hya I, 1, 19 suiv.
+[^146]: 30:16 suiv. Khâdira-G<i>ri</i>hya I, 1, 19 suiv.
 
 [^147]: 30:21 'De la même manière' se réfère aux cérémonies énoncées dans les Sûtras p. 31 13 et 14. Sur le darbha<i>k</i>a<i>k</i>u ou, comme le lisent certains manuscrits, darbhava<i>k</i>u, voir la note de Bloomfield sur le G<i>k</i>hya-sa<i>k</i>graha, I, 88. 89. Knauer donne darbhava<i>k</i>u<i>m</i> sans ajouter de lectures diverses. Comp. Khâdira-G<i>k</i>hya I, 1, 23.
 
-[^148] : 31 : 2 7, 2, 3. Khâdira-G<i>ri</i>hya II, 1, 9.
+[^148]: 31 : 2 7, 2, 3. Khâdira-G<i>ri</i>hya II, 1, 9.
 
-[^149] : 31 : 4 4, 5. Comp. Hillebrandt, Neu- et Vollmondsopfer, pp. 29 suiv. Khâdira-G<i>ri</i>hya II, 1, 10-13.
+[^149]: 31 : 4 4, 5. Comp. Hillebrandt, Neu- et Vollmondsopfer, pp. 29 suiv. Khâdira-G<i>ri</i>hya II, 1, 10-13.
 
-[^150] : 31 : 6 Hillebrandt, p. 39.
+[^150]: 31 : 6 Hillebrandt, p. 39.
 
-[^151] : 32:10 Khâdira-G<i>ri</i>hya I, 2, 10.
+[^151]: 32:10 Khâdira-G<i>ri</i>hya I, 2, 10.
 
 [^152]: 32:11 Ceci me semble la traduction la plus probable de ayugmasa<i>m</i>hatam, expression à laquelle il convient de comparer la note du Dr Knauer aux pp. viii et suivantes de son Introduction. Comp. Hillebrandt, pp. 64 et suivantes.
 
@@ -726,17 +726,17 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^155]: 33:20 Toutes les substances qui sont mentionnées dans ce Sûtra peuvent être considérées comme Â<i>ri</i>ya. G<i>ri</i>hya-sa<i>ri</i>graha I, 106. 107.
 
-[^156] : 33:21 21 suiv. Khâdira-G<i>ri</i>hya I, 2, 12 suiv.
+[^156]: 33:21 21 suiv. Khâdira-G<i>ri</i>hya I, 2, 12 suiv.
 
-[^157] : 33:24 Quant à sampûyotpunâti, comp. Hira<i>n</i>yake<i>n</i>in I, 1, 1, 23 : pavitrântarhite pâtreऽpa ânîyopabila_m<i>n</i>m<i>n</i>m_ trir utpûya . . .
+[^157]: 33:24 Quant à sampûyotpunâti, comp. Hira<i>n</i>yake<i>n</i>in I, 1, 1, 23 : pavitrântarhite pâtreऽpa ânîyopabila_m<i>n</i>m<i>n</i>m_ trir utpûya . . .
 
 [^158]: 34:2 8, 2. Sur l'aspersion d'eau autour du feu, comp. ci-dessus, chap. 3, 1 seq. Sur la signification technique de upaghâtam, voir la note de Bloomfield sur G<i>ri</i>hya-sa<i>ri</i>graha Pari<i>ri</i>ish<i>ri</i>a I, 111 (Zeitschrift der Deutschen Morgenländischen Gesellschaft, XXXV, 568).
 
-[^159] : 34:3 3 séq. Comp. Khâdira-Grihya II, 1, 17.
+[^159]: 34:3 3 séq. Comp. Khâdira-Grihya II, 1, 17.
 
 [^160]: 34:6 Khâdira-Grihya II, I, 19 seq. L'Upastararia (Sûtra 5) et p. 35 l'Abhighâraria (Sûtra 7) sont comptés comme deux Avadânas, de sorte qu'ils forment, avec les deux ou trois portions séparées des Havis, respectivement quatre ou cinq Avadânas. Sur la différence des familles quant au nombre d'Avadânas, voir Weber, Indische Studien, X, 95.
 
-[^161] : 35:7 7 suiv. Comp. Khâdira-G<i>ri</i>hya II, I, 21-24.
+[^161]: 35:7 7 suiv. Comp. Khâdira-G<i>ri</i>hya II, I, 21-24.
 
 [^162]: 35:11 Comp. les règlements correspondants du rituel <i>S</i>rauta à Hillebrandt, Neu- et Vollmondsopfer, 117-119.
 
@@ -750,21 +750,21 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^167]: 36:19 Selon le commentaire, etad appartiendrait à sauvish<i>t</i>ak<i>t</i>tam (Sûtra 18) : « Après avoir sacrifié cela, il devrait jeter la louche dans le feu. » La comparaison de Baudhâyana 1, 17, 23, atraitan meksha<i>t</i>am âhavanîveऽnupraharati (Hillebrandt, p. 119, note 3), montre que le commentaire est erroné, et qu'etad appartient à meksha<i>t</i>am.
 
-[^168] : 37 : 22 22-25. Comp. Khâdira-G<i>ri</i>hya II, 2, 1-4.
+[^168]: 37 : 22 22-25. Comp. Khâdira-G<i>ri</i>hya II, 2, 1-4.
 
-[^169] : 37 : 26 26-29. Khâdira-Grihya II, 1, 26 suiv.; G<i>ri</i>hya-sa<i>ri</i>graha II, 1 seq.
+[^169]: 37 : 26 26-29. Khâdira-Grihya II, 1, 26 suiv.; G<i>ri</i>hya-sa<i>ri</i>graha II, 1 seq.
 
 [^170]: 37:27 L'expression tata eva barhisha<i>h</i> apparaît déjà au chap. 7, 21. Le Mantra réapparaît dans Vâ_g_. Sa<i>m</i>hitâ II. 16 e, &c.
 
-[^171] : 38 : 19, 1. Khâdira-G<i>ri</i>hya II, I, 29.
+[^171]: 38 : 19, 1. Khâdira-G<i>ri</i>hya II, I, 29.
 
-[^172] : 38:6 6 suiv. Khâdira-Grihya II, 1, 30. 31.
+[^172]: 38:6 6 suiv. Khâdira-Grihya II, 1, 30. 31.
 
 [^173]: 38:8 8, 9. Les autorités indigènes divisent ces deux Sûtras selon <i>ri</i>tvik ; je propose de les diviser selon pâkaya<i>g</i><i>g</i>eshu.
 
 [^174]: 38:12 Le commentaire ici se réfère à la règle du Drâhyâya<i>n</i>a-sûtra (= Lâ<i>n</i>yâyana VIII, I, 2) : sa<i>n</i>khyâmâtre _k<i>n</i>n<i>n</i>h_.
 
-[^175] : 39:14 14 séq. Khâdira-G<i>ri</i>hya II, 2, 5 suiv.; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 3, 6.
+[^175]: 39:14 14 séq. Khâdira-G<i>ri</i>hya II, 2, 5 suiv.; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 3, 6.
 
 [^176]: 39:16 16 seqq. Khâdira-G<i>ri</i>hya II, 2, 10 seqq. Dans ce maître Pâkaya<i>ri</i><i>ri</i>a, fils d'I<i>ri</i>â, dont l'opinion sur l'accomplissement de certains Pâkaya<i>ri</i><i>ri</i>as est ici énoncée, nous devons bien sûr voir un sage fictif du même genre avec le bien connu <i>Ri</i>shi Pragâtha, à qui l'on attribue la paternité d'un certain nombre de Sûktas dans le livre de Pragâtha (<i>Ri</i>g-veda, Ma<i>ri</i><i>ri</i>ala VIII).
 
@@ -774,7 +774,7 @@ Fin du premier Prapâ<i>th</i>aka.
 
 [^179]: 40:24 Havis est-il utilisé ici par opposition à Â<i>g</i>ya (Sûtra 26), de la même manière que Kâtyâyana dit (<i>S</i>raut. I, 9, 1. 20) : 'vrîhîn yavân vâ havishi; ubhayata â<i>g</i>ya_m<i>g</i>h_' ? Comp. ci-dessous, III, 8, 10 ; Â<i>g</i>valâyana-G<i>g</i>hya I, 10, 26.
 
-[^180] : 40:25 Khâdira-G<i>ri</i>hya I, 1, 15.
+[^180]: 40:25 Khâdira-G<i>ri</i>hya I, 1, 15.
 
 [^181]: 40:26 Quant à upaghâtam, comp. la note du chap. 8, 2.
 

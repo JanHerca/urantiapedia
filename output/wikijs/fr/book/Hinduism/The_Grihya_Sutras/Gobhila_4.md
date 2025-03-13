@@ -712,7 +712,7 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^350]: 101:1 1, 1. Comp. III, 10, 31.
 
-[^351] : 101 : 3 Comp. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 11, 12 ; Khâdira-G<i>ri</i>hya III, 4, 14 suiv.
+[^351]: 101 : 3 Comp. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 11, 12 ; Khâdira-G<i>ri</i>hya III, 4, 14 suiv.
 
 [^352]: 101:6 'Il fait cuire un plat de viande' — c'est-à-dire qu'il fait cuire les Avadânas. Comp. Khâdira-Grihya, ll 17 ; Âriv.-Grihya I, 11, 12.
 
@@ -758,11 +758,11 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^373]: 107:1 3, 1. Comp. I, 2, 3 seq.
 
-[^374] : 107:2 Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 8.
+[^374]: 107:2 Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 8.
 
-[^375] : 107:3 Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 9.
+[^375]: 107:3 Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 9.
 
-[^376] : 107:6 Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 10.
+[^376]: 107:6 Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 10.
 
 [^377]: 107:7 Voir chap. 2, 36.
 
@@ -780,7 +780,7 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^384]: 110:25 Voir chap. 2, 36.
 
-[^385] : 110:35 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4.
+[^385]: 110:35 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4.
 
 [^386]: 111:36 36, 37. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 6. 9. Concernant l'utilisation des graines de sésame, voir ci-dessus, chap. 2, 35.
 
@@ -822,11 +822,11 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^404]: 114:32 32-34. Khâdira-Grihya III, 5, 40. Je comprends que ce sacrifice est lié aux fêtes rurales dont il est question dans les Sûtras précédents. Dans le commentaire, on conclut du mantra que la cérémonie en question appartient au jour de l'Ekâshriakâ. Or, l'Ekâshriakâ est l'Ashriakâ de la sombre quinzaine de Mâgha (voir SBE XXIX, 102), et la description des rites propres à ce jour a déjà été donnée plus haut, Sûtras 17-21. Il arrive très fréquemment, dans le rituel du Grihya, que des mantras soient utilisés lors de sacrifices n'ayant aucun rapport avec ceux pour lesquels ils ont été composés à l'origine.
 
-[^405] : 114 : 15, 1 séq. Comp. Khâdira-Grihya I, 2, 6 suiv.
+[^405]: 114 : 15, 1 séq. Comp. Khâdira-Grihya I, 2, 6 suiv.
 
 [^406]: 115:6 6-8. Khâdira-G<i>ri</i>hya I, 2, 23; G<i>ri</i>hya-sa<i>ri</i>graha I, 96. Il est indiqué que la récitation des formules du Virûpâksha et du Prapada ainsi que du parisamûhana (Sûtra 5) doivent être omises lors des soi-disant Kshiprahomas, c'est-à-dire lors des sacrifices accomplis sans l'aide d'un ya<i>ri</i>avid. Voir les notes de Bloomfield sur le G<i>ri</i>hya-sa<i>ri</i>graha I, 92. 96. Concernant la manière dont un prâ<i>ri</i>âyâma (« suppression du souffle ») est exécuté, comp. Vasish<i>ri</i>a XXV, 13 (SBE XIV, p. 126).
 
-[^407] : 115:9 9 séq. Khâdira-G<i>ri</i>hya IV, 1, 1 suiv.
+[^407]: 115:9 9 séq. Khâdira-G<i>ri</i>hya IV, 1, 1 suiv.
 
 [^408]: 115:10 Il y a deux repas par jour. Les mots de ce Sûtra, « Ou trois repas », sont expliqués dans le commentaire de la manière suivante. Il devrait, s'il ne s'abstient pas complètement de nourriture pendant trois jours, ne prendre que trois repas pendant cette période, c'est-à-dire qu'il devrait prendre un repas par jour. Le commentateur ajoute que certains lisent abhaktâni au lieu de bhaktâni (« ou il devrait omettre trois repas »), auquel cas le résultat serait le même. Je préfère lire p. 116 bhaktâni, et propose de remplacer « il devrait manger », par « il devrait omettre » (« abho<i>g</i>anam », Sûtra 9). Il est possible que le sens soit que trois repas successifs devraient être omis ; c'est ainsi que le compilateur du Khâdira-G<i>g</i>hya semble avoir compris ce Sûtra.
 
@@ -840,15 +840,15 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^413]: 117:27 Comp. ci-dessous, chap. 6, 12.
 
-[^414] : 117:28 G<i>ri</i>hya-sa<i>ri</i>graha II, 11.
+[^414]: 117:28 G<i>ri</i>hya-sa<i>ri</i>graha II, 11.
 
-[^415] : 118 : 16, 1 seq. Comp. Khâdira-Grihya IV, I, 19 suiv.
+[^415]: 118 : 16, 1 seq. Comp. Khâdira-Grihya IV, I, 19 suiv.
 
 [^416]: 118:4 Comp. ci-dessus, chap. 5, 12.
 
 [^417]: 118:6 Comp. ci-dessus, II, 7, 14.
 
-[^418] : 118:7 Le texte appartenant au Vâmadevya Sâman, est le T<i>ri</i><i>ri</i>a, Sâma-veda II, 32-34.
+[^418]: 118:7 Le texte appartenant au Vâmadevya Sâman, est le T<i>ri</i><i>ri</i>a, Sâma-veda II, 32-34.
 
 [^419]: 119:10 Selon le commentaire, la formule ya<i>s</i>oऽham bhavâmi comprend cinq sections ; elle inclurait donc les sections II, 5, 9-13 du Mantra-Brâhma<i>s</i>a. Le Mantra cité ensuite par Gobhila (Sûtra 12) est en réalité MB. II, 5, 14.
 
@@ -856,7 +856,7 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^421]: 119:14 Quant à la signification de ka<i>n</i>a (« petit grain de riz »), comp. Hillebrandt, Neu- et Vollmondsopfer, p. 32, note 1.
 
-[^422] : 120 : 17, 1 séq. Comp. Khâdira-G<i>ri</i>hya IV, 2, 6 suiv.
+[^422]: 120 : 17, 1 séq. Comp. Khâdira-G<i>ri</i>hya IV, 2, 6 suiv.
 
 [^423]: 121:19 19-21. J'ai traduit les mots de ces Sûtras sans essayer d'en exprimer le sens. Selon le commentaire, le sens est le suivant : 19. Il ne doit pas construire une maison dont la porte soit à l'arrière, soit à une porte d'entrée et une porte de derrière. 20. La porte de la maison ne doit pas faire face à la porte d'une autre maison. 21. La porte de la maison doit être construite de telle sorte que le maître de maison ne puisse pas être vu par les _K<i>â</i>n_<i>â</i>âlas, etc., lorsqu'il accomplit des actes religieux ou lorsqu'il dîne chez lui. Ou, si au lieu de sa<i>â</i>lokî on accepte la lecture sa<i>â</i>loki, le Sûtra signifie : la porte de la maison doit être construite de telle sorte que les objets de valeur, etc., qui se trouvent dans la maison, ne puissent être vus par les passants. — Le commentaire sur Khâdira-G<i>â</i>hya IV, 2, 15 contient la remarque : dvâradvaya<i>m</i> (var. lectio, dvâra_m<i>â</i>m<i>â</i>ri_<i>â</i>u na syâd iti ke<i>â</i>it). Cela me semble conduire à la bonne compréhension de ces Sûtras. Je pense que nous devrions lire et diviser de cette façon : (19) anudvâra_m<i>â</i>k_a. (20. 21) g<i>â</i>hadvâra_m<i>â</i>m_loki syât. 'Et (qu'il construise) une porte arrière, de sorte qu'elle ne soit pas face à la porte (principale) de la maison.' Les manuscrits Khâdira ont les lectures suivantes : asallokî, asandraloke, sa<i>â</i>loka.
 
@@ -866,7 +866,7 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^426]: 122:26 Il doit sacrifier aux divinités pour lesquelles les arbres transplantés sont sacrés.
 
-[^427] : 122:27 27 suiv. Ici commence la description du vastu<i>s</i>amana, qui s'étend jusqu'au Sûtra 43. Quant au sacrifice animal prescrit dans ce Sûtra, comp. Essai du Dr Winternitz, Einige Bemerkungen über das Bauopfer bei den Indern (Sitzungsbericht der Anthrop. Gesellschaft à Vienne, 19 avril 1887), p. 8.
+[^427]: 122:27 27 suiv. Ici commence la description du vastu<i>s</i>amana, qui s'étend jusqu'au Sûtra 43. Quant au sacrifice animal prescrit dans ce Sûtra, comp. Essai du Dr Winternitz, Einige Bemerkungen über das Bauopfer bei den Indern (Sitzungsbericht der Anthrop. Gesellschaft à Vienne, 19 avril 1887), p. 8.
 
 [^428]: 123:34 Comp. ci-dessus, chap. 6, 7 note.
 
@@ -874,46 +874,46 @@ Fin du Gobhila-G<i>ri</i>hya-sûtra.
 
 [^430]: 124:43 Voir ci-dessus, III, 8, 9 seq.
 
-[^431] : 124 : 18, 1. Voir ci-dessus, III, 7 ; 9. Comp. Khâdira-G<i>ri</i>hya III, 2, 8 suiv.
+[^431]: 124 : 18, 1. Voir ci-dessus, III, 7 ; 9. Comp. Khâdira-G<i>ri</i>hya III, 2, 8 suiv.
 
 [^432]: 124:4 Le commentaire dit : Tiryaṅ tira<i>s</i><i>s</i>îna<i>m</i> yathâ bhavati tathâ, iti kriyâvi<i>s</i>esha<i>s</i>am etat. athavâ . . . tiryaṅ tira<i>s</i><i>s</i>îna<i>m</i> san. Arvâṅ devrait être corrigé en avâṅ (comp. Khâdira-G<i>s</i>hya III, 2) 13).
 
 [^433]: 124:5 Le commentaire explique upetai_h<i> simplement par samîpam âgatai</i>h_.
 
-[^434] : 125:7 7 séq. Khâdira-G<i>ri</i>hya IV, 2, 24 suiv.
+[^434]: 125:7 7 séq. Khâdira-G<i>ri</i>hya IV, 2, 24 suiv.
   7\. C'est-à-dire qu'il doit sacrifier une oblation de riz et une d'orge.
 
 [^435]: 125:8 Littéralement, à une personne, etc. Le sens est qu'il doit prononcer le nom de cette personne. Le Sûtra est répété à partir de IV, 5, 20 ; ses expressions ne correspondent donc pas exactement au contexte dans lequel il se trouve ici.
 
-[^436] : 125:10 10 secondes. Khâdira-G<i>ri</i>hya IV, 3, 1 suiv.
+[^436]: 125:10 10 secondes. Khâdira-G<i>ri</i>hya IV, 3, 1 suiv.
 
-[^437] : 126:18 Khâdira-G<i>ri</i>hya IV, 3, 18. Sur haritagomayân le commentaire porte la note suivante : yai_h<i>ri</i>h<i>ri</i>m<i>ri</i>s<i>ri</i>ri_<i>ri</i>âni pra<i>ri</i>astâny utpadyante tân kila gomayân haritagomayân â<i>ri</i>akshate. te khalv ârdrâ ihâbhipreyante. katha_m<i>ri</i>g_<i>ri</i>âyate. techv eva tatprasiddhe_h_.
+[^437]: 126:18 Khâdira-G<i>ri</i>hya IV, 3, 18. Sur haritagomayân le commentaire porte la note suivante : yai_h<i>ri</i>h<i>ri</i>m<i>ri</i>s<i>ri</i>ri_<i>ri</i>âni pra<i>ri</i>astâny utpadyante tân kila gomayân haritagomayân â<i>ri</i>akshate. te khalv ârdrâ ihâbhipreyante. katha_m<i>ri</i>g_<i>ri</i>âyate. techv eva tatprasiddhe_h_.
 
-[^438] : 126:19 Khâdira-G<i>ri</i>hya IV, 3, 7.
+[^438]: 126:19 Khâdira-G<i>ri</i>hya IV, 3, 7.
 
-[^439] : 126:23 23 séq. Khâdira-G<i>ri</i>hya IV, 3, 8 suiv. La Pratîka citée dans le Sûtra 24 est corrompue.
+[^439]: 126:23 23 séq. Khâdira-G<i>ri</i>hya IV, 3, 8 suiv. La Pratîka citée dans le Sûtra 24 est corrompue.
 
-[^440] : 127 : 19, 1 seq. Khâdira-G<i>ri</i>hya IV, 3, 10 suiv.
+[^440]: 127 : 19, 1 seq. Khâdira-G<i>ri</i>hya IV, 3, 10 suiv.
 
 [^441]: 127:7 Peut-être devrions-nous suivre le commentaire et traduire par « Quand (l'étable) devient chauffée (par le feu sur lequel il va sacrifier), » etc. (« gosh<i>th</i>eऽgnim upasamâdhâyaiva homo na kartavya<i>h</i>, kin tv agnim upasamâdhâyâpi tâvat pratîksha<i>n</i>îya<i>m</i> bhavati »). J'ai traduit <i>k</i>îvaram selon le sens ordinaire du mot ; dans le commentaire, il est pris comme équivalent à lauha<i>th</i>ûr<i>th</i>am (limaille de cuivre).
 
-[^442] : 128:15 Khâdira-G<i>ri</i>hya IV, 3, 6.
+[^442]: 128:15 Khâdira-G<i>ri</i>hya IV, 3, 6.
 
-[^443] : 128:16 16 séq. Khâdira-Grihya IV, 4, 1 suiv.
+[^443]: 128:16 16 séq. Khâdira-Grihya IV, 4, 1 suiv.
 
-[^444] : 129 : 1 10, 1 séq. La réception Arghya ; Khâdira-G<i>ri</i>hya IV, 4, 5 suiv.; G<i>ri</i>hya-sa<i>ri</i>graha II, 62-65. Les premiers mots du Mantra cité dans le Sûtra 1 sont corrompus. Le Mantra est évidemment une adaptation du verset bien connu adressé à l'Âgrahâya<i>ri</i>î (Gobhila III, 9, 9 ; Mantra-Brâhma<i>ri</i>a II, 2, 1), ou à l'Ash<i>ri</i>akâ (Pâraskara III, 3, 5, 8) : prathamâ ha vyuvâsa, etc. Le premier mot, arha<i>ri</i>â (« dûment »), qui fait allusion à la cérémonie d'Arghya, à laquelle ce mantra est adapté, semble tout à fait exact ; le troisième mot pourrait être, comme le suppose le Dr Knauer, uvâsa (« elle a habité », ou peut-être plutôt « elle a brillé »). Pour le deuxième mot, je ne suis pas en mesure de suggérer une correction.
+[^444]: 129 : 1 10, 1 séq. La réception Arghya ; Khâdira-G<i>ri</i>hya IV, 4, 5 suiv.; G<i>ri</i>hya-sa<i>ri</i>graha II, 62-65. Les premiers mots du Mantra cité dans le Sûtra 1 sont corrompus. Le Mantra est évidemment une adaptation du verset bien connu adressé à l'Âgrahâya<i>ri</i>î (Gobhila III, 9, 9 ; Mantra-Brâhma<i>ri</i>a II, 2, 1), ou à l'Ash<i>ri</i>akâ (Pâraskara III, 3, 5, 8) : prathamâ ha vyuvâsa, etc. Le premier mot, arha<i>ri</i>â (« dûment »), qui fait allusion à la cérémonie d'Arghya, à laquelle ce mantra est adapté, semble tout à fait exact ; le troisième mot pourrait être, comme le suppose le Dr Knauer, uvâsa (« elle a habité », ou peut-être plutôt « elle a brillé »). Pour le deuxième mot, je ne suis pas en mesure de suggérer une correction.
 
 [^445]: 129:2 Concernant Padyâ Virâ_g_, comp. <i>S</i>âṅkhâyana III, 7, 5 note ; Pâraskara I, 3, 12.
 
 [^446]: 130:8 Voir Pâraskara I, 3, 9.
 
-[^447] : 130:11 Le commentaire dit : _s<i>eshe</i>n<i>eshe</i>s<i>eshe</i>t_enodakena. Comp., cependant, Khâdira-Géshé hya IV, 4, II.
+[^447]: 130:11 Le commentaire dit : _s<i>eshe</i>n<i>eshe</i>s<i>eshe</i>t_enodakena. Comp., cependant, Khâdira-Géshé hya IV, 4, II.
 
 [^448]: 130:15 J'ai adopté la lecture <i>s</i>rîbhaksho, qui est donnée dans le Mantra-Brâhma<i>n</i>a, et j'ai suivi l'opinion du commentateur p. 131 selon laquelle le Mantra entier, et non ses parties individuelles, doit être répété chaque fois qu'il boit du Madhuparka. Dans le Khâdira-G<i>n</i>hya, le texte du Mantra diffère, et le rite est décrit différemment (IV, 4, 15).
 
 [^449]: 131:16 16, 17. Peut-être ces deux Sûtras devraient-ils plutôt être compris comme formant un seul Sûtra, et devraient-ils être traduits comme je l'ai fait dans Khâdira-Grihya IV, 4, 16.
 
-[^450] : 131:19 Iti après abhidhehi doit être omis. Comp. les longues discussions sur ce mot, pp. 766 suiv. de l'édition de Gobhila dans la Bibliotheca Indica. « NN » est l'hôte qui propose l'Arghya ; comp. Khâdira-Grihya IV, 4, 18.
+[^450]: 131:19 Iti après abhidhehi doit être omis. Comp. les longues discussions sur ce mot, pp. 766 suiv. de l'édition de Gobhila dans la Bibliotheca Indica. « NN » est l'hôte qui propose l'Arghya ; comp. Khâdira-Grihya IV, 4, 18.
 
 [^451]: 131:21 21, 22. Dans le cas d'un sacrifice, la vache est tuée ; comp. <i>S</i>âṅkhâyana II, 15, 2. 3 note ; Pâraskara I, 3, 30.
 

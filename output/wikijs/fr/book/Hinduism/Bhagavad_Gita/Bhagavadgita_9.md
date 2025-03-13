@@ -78,9 +78,9 @@ ils m'adorent, étant toujours dévoués. Et d'autres encore, offrant le sacrifi
 
 [^316]: 82:3 Comme l'espace n'est ni souillé ni affecté par l'air qui y demeure, ainsi je le suis par les entités.
 
-[^317] : 82 : 4 Supra, [p. 58](Bhagavadgita_3#p58). Nature = le principe inaperçu.
+[^317]: 82 : 4 Supra, [p. 58](Bhagavadgita_3#p58). Nature = le principe inaperçu.
 
-[^318] : 82 : 5 Cf. [p. 80](Bhagavadgita_8#p80) supra.
+[^318]: 82 : 5 Cf. [p. 80](Bhagavadgita_8#p80) supra.
 
 [^319]: 82:6 Je ne suis pas affecté par les différences dans les conditions de ces entités.
 
@@ -88,7 +88,7 @@ ils m'adorent, étant toujours dévoués. Et d'autres encore, offrant le sacrifi
 
 [^321]: 83:1 Espérer, c'est-à-dire qu'une autre divinité leur donnera ce dont ils ont besoin ; actes, vains car non offerts au suprême ; connaissance, vaine car abondante en doutes insensés, etc.
 
-[^322] : 83 : 2 Cf. [p. 76](Bhagavadgita_7#p76) supra.
+[^322]: 83 : 2 Cf. [p. 76](Bhagavadgita_7#p76) supra.
 
 [^323]: 83:3 Pour une connaissance du suprême, ou pour les moyens d'une telle connaissance.
 
@@ -98,27 +98,27 @@ ils m'adorent, étant toujours dévoués. Et d'autres encore, offrant le sacrifi
 
 [^326]: 83:6 Kratu est un sacrifice védique ; Ya<i>g</i>a, un sacrifice prévu dans les Sm<i>ri</i>tis. Svadhâ = offrande aux mânes ; 'produit des herbes' = nourriture préparée à partir de légumes, ou médicament.
 
-[^327] : 83 : 7 Cf. [p. 61](Bhagavadgita_4#p61) supra.
+[^327]: 83 : 7 Cf. [p. 61](Bhagavadgita_4#p61) supra.
 
-[^328] : 83:8 P. [9](Bhagavadgita_Intro#p9) supra.
+[^328]: 83:8 P. [9](Bhagavadgita_Intro#p9) supra.
 
 [^329]: 84:1 C'est-à-dire le siège de la jouissance ; réceptacle = où les choses sont conservées pour une utilisation future, disent les commentateurs.
 
 [^330]: 84:2 Les éléments grossiers et subtils, ou causes et effets.
 
-[^331] : 84 : 3 Cf. Mu<i>nd</i>akopanishad, p. 279 ; et <i>Kh</i>ândogya, p. 344.
+[^331]: 84 : 3 Cf. Mu<i>nd</i>akopanishad, p. 279 ; et <i>Kh</i>ândogya, p. 344.
 
 [^332]: 84:4 Cf. Dhammapada, strophe 23. C'est-à-dire l'atteinte du Brahman et le fait de ne pas en revenir. — Râmânu<i>g</i>a.
 
 [^333]: 84:5 Parce que dans la forme ils adorent d'autres divinités.
 
-[^334] : 84 : 6 Donateur du fruit. Quant au jouisseur, cf. [p. 67](Bhagavadgita_5#p67) supra.
+[^334]: 84 : 6 Donateur du fruit. Quant au jouisseur, cf. [p. 67](Bhagavadgita_5#p67) supra.
 
 [^335]: 84:7 C'est-à-dire retourner au monde des mortels.
 
 [^336]: 84:8 C'est-à-dire une certaine réglementation quant au mode de culte. Cf. aussi [p. 76](Bhagavadgita_7#p76) supra.
 
-[^337] : 85:1 Cf. [p. 55](Bhagavadgita_3#p55) supra, et d'autres passages.
+[^337]: 85:1 Cf. [p. 55](Bhagavadgita_3#p55) supra, et d'autres passages.
 
 [^338]: 85:2 Ce mode d'action est à la fois dévotion et renoncement : le premier, parce qu'on ne se soucie pas du fruit ; le second, parce qu'il est offert au suprême.
 

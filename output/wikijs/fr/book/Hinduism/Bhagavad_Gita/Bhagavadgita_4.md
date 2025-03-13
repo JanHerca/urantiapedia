@@ -112,7 +112,7 @@ Brahman est l'oblation ; avec Brahman (comme instrument sacrificiel) il est offe
 
 [^203]: 61:5 Arrêter les opérations corporelles mentionnées et s'engager dans la contemplation.
 
-[^204] : 61:6 Ceci est appelé Brahmaya<i>g</i>ña, Â<i>s</i>valâyana Grihya-sûtra III, 1, 3.
+[^204]: 61:6 Ceci est appelé Brahmaya<i>g</i>ña, Â<i>s</i>valâyana Grihya-sûtra III, 1, 3.
 
 [^205]: 61:7 Maitrî-upanishad, p. 129.
 

@@ -194,6 +194,6 @@ dateCreated: 2025-1-16T20:2:26Z
 
 [^738]: 260:7 Voir ci-dessus, Sûtra 3.
 
-[^739] : 261 : 11 11, 12. Voir la section 2, Sûtras 7. 8 ; Section 4, Sutra 8.
+[^739]: 261 : 11 11, 12. Voir la section 2, Sûtras 7. 8 ; Section 4, Sutra 8.
 
 [^740]: 261:12 12 seq. Comp. Hiranyakein I, 7, 22, 1 seq.

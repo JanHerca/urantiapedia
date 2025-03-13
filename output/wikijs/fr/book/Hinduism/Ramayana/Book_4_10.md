@@ -34,7 +34,7 @@ dateCreated: 2025-1-16T20:1:34Z
 
 <span id="p319">[<sup><small>p. 319</small></sup>]</span>
 
-[1](Livre_4_10#fn523)
+[1](Book_4_10#fn523)
 
 
 ## CHANT I. : LA LAMENTATION DE RAMA.
@@ -551,7 +551,7 @@ Il a montré au fils de Raghu ce que le devoir exigeait,
 Et il ordonna à son cœur d’être audacieux.
 Puis, tandis que les frères marchaient à grands pas
 À la hauteur de Rishyamúka,
-Le souverain de la race Vánar [1](Livre_4_10#fn537)
+Le souverain de la race Vánar [1](Book_4_10#fn537)
 J'étais troublé à la vue de cela.
 Comme sur la haute colline il s'égarait
 Il vit les chefs s'approcher :
@@ -565,7 +565,7 @@ Quand dans leur glorieuse puissance les meilleurs
 Des chefs royaux s'approchèrent,
 Les Vánars dans leur agitation sauvage
 Prêt à tourner et à voler.
-Ils cherchèrent la demeure sacrée de l'ermite [2](Livre_4_10#fn538)
+Ils cherchèrent la demeure sacrée de l'ermite [2](Book_4_10#fn538)
 Pour la paix et la félicité ordonnées,
 Et là, où les Vánars aimaient errer.
 Un asile assuré obtenu.
@@ -1114,7 +1114,7 @@ Que plus jamais sa méchanceté mortelle
 Peut me voler mon ancien droit,
 Ou tourmente mon âme de malheur.
 La ligue a été créée, une ligue pour amener
-Aux démons de Sítá et au roi Vánar [1b](Livre_4_10#fn557)
+Aux démons de Sítá et au roi Vánar [1b](Book_4_10#fn557)
 Bonheur et bonheur partagés.
 Des pulsations rapides traversent son œil gauche, [2b](Book_4_10#fn558)
 Heureux signes, la dame ne doutait pas,

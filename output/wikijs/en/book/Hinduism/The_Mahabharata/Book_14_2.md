@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
-
-
-
 ## SECTION XVI
 
 #### (_Anugita Parva_)
@@ -76,33 +73,6 @@ The Brahmana said, That which thou askest me, O Krishna, connected with the reli
 
 “Vasudeva continued, ‘That best of Brahmanas, O son of Pritha, having said these words unto me, on that occasion, properly relating to the religion of Emancipation, disappeared then and there. Has this discourse been heard by thee, O son of Pritha, with mind directed solely towards it? Even this was what thou didst hear on that occasion while thou wert on thy car. It is my opinion, O son of Pritha, that this is difficult of being comprehended by one whose understanding is confused, or who has acquired no wisdom by study, or who eats food incompatible with his body, or whose Soul is not purified. [^43] O chief of Bharata's race, this is a great mystery among the deities that has been declared (to thee). At no time or place, O son of Pritha, has this been heard by man in this world. O sinless one, no other man than thyself is deserving of hearing it. It is not, at this time, capable of being easily understood by one whose inner soul is confused. The world of the deities is filled, O son of Kunti, with those who follow the religion of actions. The cessation of the mortal <span id="p36">[<sup><small>p. 36</small></sup>]</span> form (by practising the religion of inaction) is not agreeable to the deities. [^44] That goal, O son of Pritha, is the highest which is constituted by eternal Brahman where one, casting off the body, attains to immortality and becomes always happy. By adhering to this religion, even they who axe of sinful birth, such as women and Vaisyas and Sudras, attain to the highest goal. What need be said then, O son of Pritha, of Brahmanas and Kshatriyas possessed of great learning, always devoted to the duties of their own orders and who are intent on (the acquisition of) the region of Brahma? This has been laid down with the reasons (on which it rests); and also the means for its acquisition; and its complete attainment and fruit, _viz._, Emancipation and the ascertainment of the truth regarding pain. O chief of Bharata's race, there is nothing else that is fraught with happiness greater than this. That mortal, O son of Pandu, who, endued with intelligence, and faith, and prowess, renounces as unsubstantial what is regarded as substantial by the world, succeeds within a short time in obtaining the Supreme by these means. This is all that is to be said,—there is nothing else that is higher than this. Yoga takes place in his case, O son of Pritha, who devotes himself to its constant practice for a period of six months.’”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SECTION XX
 
 “Vasudeva said, ‘In this connection is cited the ancient narrative, O son of Pritha, of the discourse that took place between a married couple. A certain Brahmana's spouse, beholding the Brahmana, her husband who was a complete master of every kind of knowledge and wisdom, seated in seclusion, said unto him,—Into what region shall I go, depending on thee as my husband,—thee that art seated, having cast off all (religious) acts, that art harsh in thy conduct towards me, and that art so undiscerning? [^45] It has been heard by us that a wife attains to those regions which are acquired by her husband. What, indeed, is the goal that I shall attain, having obtained thee for my husband?—Thus questioned, that Brahmana of tranquil soul then said unto her, smilingly,—O blessed dame, I am not offended with these words of thine, O sinless one. Whatever acts exist that are adopted with the aid of others, that are seen (in consequence of their grossness), and that are true, are done as acts by men <span id="p37">[<sup><small>p. 37</small></sup>]</span> devoted to acts. [^46] Those persons that are destitute of knowledge, only store delusion by acts. Freedom from acts, again, is incapable of being attained in this world for even a moment. From birth to the attainment of a different form, action good or bad, and accomplished by acts, mind, or speech, exists in all beings. Those paths (of action) which are characterised by visible objects (such as Soma-juice and ghee for libations) being destroyed by Rakshasas, turning away from them I have perceived the seat (of the soul) that is in the body, without the aid of the soul. [^47] There dwells Brahma transcending all pairs of opposites; there Soma with Agni: and there the urger of the understanding (_viz._, Vayu) always moves, upholding all creatures. [^48] It is for that seat that the Grandsire Brahman and others, concentrated in Yoga, worship the Indestructible. It is for that seat that men of learning and excellent vows, of tranquil souls, and of senses completely vanquished, strive. [^49] That is not capable of being smelt by the sense of smell; nor tasted by the tongue; or touched by the organs of touch. It is by the mind that that is attained. It is incapable of being conquered by the eye. It transcends the sense of hearing. It is destitute of scent, taste, touch, and form as attributes. It is that from which proceeds the well-ordained universe, and it is that upon which it rests. The life-breaths called Prana and Apana and Samana and Vyana and Udana flow from it, and it is that into which they again enter. The breaths Prana and Apana move between Samana and Vyana. When the soul sleeps, both Samana and Vyana are absorbed. [^50] Between Apana and Prana, Udana dwells, pervading all. Hence, Prana and Apana do not desert a sleeping person. In consequence of its controlling all the life-winds, the controlling breath is called Udana. Hence, utterers of Brahman undergo penances which have myself for their goal. [^51] In the midst of all those life-breaths that swallow up one another and move within the body, blazes forth the fire called Vaiswanara made up of seven flames. The nose, the tongue, the eye, the skin, the ear which numbers the fifth, the mind, and the understanding,—these are the seven tongues of that Vaiswanara's flame. That which is smelt, that which is seen, that which is drunk, that which is touched, as also that which is heard, that <span id="p38">[<sup><small>p. 38</small></sup>]</span> which is thought of, and that which is understood,—these are the seven sorts of fuel for me. That which smells, that which eats, that which sees, that which touches, that which hears numbering the fifth; that which thinks, and that which understands,—these are the seven great officiating priests. Behold, O blessed one, learned sacrificers duly casting seven libations in seven ways in the seven fires, _viz._, that which is smelt, that which is drunk, that which is seen, that which is touched, as also that which is heard, that which is thought of, and that which is understood, create them in their own wombs. [^52] Earth, Wind, Ether, Water, and Light numbering as the fifth, Mind, and Understanding—these seven are called wombs (of all things). All the attributes which constitute the sacrificial offerings, enter into the attribute that is born of the fire, and having dwelt within that dwelling became reborn in their respective wombs. Thither also, _viz._, in that which generates all beings, they remain absorbed during the period for which dissolution lasts. From that is produced smell, from that is produced taste, from that is produced colour, and from that is produced touch; from that is produced sound; from that arises doubt; and from that is produced resolution. This is what is known as the sevenfold creation. It is in this very way that all this was comprehended by the ancients. By the three full and final libations, the full become full with light.’”
@@ -121,9 +91,6 @@ The Brahmana said, That which thou askest me, O Krishna, connected with the reli
 “The Brahmana's wife said, ‘What did the goddess of Word then say, in days of old, when, though impelled by the Wish to speak, Speech could not come out?’”
 
 “The Brahmana said, ‘The Word that is generated in the body by Prana, then attains to Apana from Prana. Then transformed into Udana and issuing out of the body, envelops all the quarters, with Vyana. After that, she dwells in Samana. Even in this way did Word formerly speak. Hence Mind, in consequence of being immovable, is distinguished, and the goddess Word, in consequence of being movable, is also distinguished.”’
-
-
-
 
 <span id="p41">[<sup><small>p. 41</small></sup>]</span>
 

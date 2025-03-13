@@ -96,11 +96,11 @@ Un mot, enfin, sur la traduction. Comme indiqué précédemment, le texte adopt�
 
 ## Notes de bas de page
 
-[^580] : 135 : 1 Mahâbhârata, Udyoga Parvan, Adhyâya 41-46.
+[^580]: 135 : 1 Mahâbhârata, Udyoga Parvan, Adhyâya 41-46.
 
 [^581]: 135:2 Mâdhavâ<i>k</i>ârya, en parlant des œuvres de Sankara, le décrit comme ayant commenté le Sanatsu<i>g</i>âtîya, qui est « loin des mauvaises (personnes) » \[asatsudûra<i>m</i>\]. <i>Sankara-vi<i>g</i>aya, chapitre VI, strophe 62.
 
-[^582] : 136:1 Voir [p. 3](Bhagavadgita_Intro#p3) ci-dessus.
+[^582]: 136:1 Voir [p. 3](Bhagavadgita_Intro#p3) ci-dessus.
 
 [^583]: 136:2 Une fois ce dialogue terminé, l'aube se lève et Dh<i>ri</i>tarâsh<i>t</i>ra et les princes Kaurava se réunissent en assemblée générale.
 
@@ -112,21 +112,21 @@ Un mot, enfin, sur la traduction. Comme indiqué précédemment, le texte adopt�
 
 [^587]: 138:1 Voir note , [p. 137](#p137).
 
-[^588] : 138:2 [p. 283](Anugita_11#p283).
+[^588]: 138:2 [p. 283](Anugita_11#p283).
 
 [^589]: 138:3 p. 252. Voir aussi, <i>S</i>ârîraka Bhâshya, p. 828.
 
 [^590]: 139:1 Cf. Pañ<i>k</i>atantra de Kosegarten, p. 28 (I ,28, Bombay SC ed.), avec Udyoga Parvan, chap. XL, st. 7 (Bombay ed.) ; Pañ<i>k</i>atantra, pp. 112 et 209 (II, 10 ; IV, 5, Bombay ed.), avec Udyoga Parvan, chap. XXXVIII, 9 ; p. 35 (I, 37, Bombay ed.) avec chap. XXXVI, st. 34 ; p. 140 (II, 40, Bombay ed.) avec chap. XXXVII, st. 15 ; p. 160 (III, 62, Bombay ed.) avec chap. XXXVII, st. 17, 18; p. 106 (II, 2, Bombay ed.) avec chap. XXXVI, st. 59.
 
-[^591] : 139 : 2 Udyoga Parvan, chap. XXXVIII, st. 1, et Mahâbhâshya VI, 1-4, p. 35 (Banaras éd.).
+[^591]: 139 : 2 Udyoga Parvan, chap. XXXVIII, st. 1, et Mahâbhâshya VI, 1-4, p. 35 (Banaras éd.).
 
 [^592]: 139:3 Voir Indian Antiquary IV. 247. Le parallèle de Mâdhava que le professeur Weber cite n'est pas du tout concluant et, dans la mesure où il va, me semble aller à l'encontre du point de vue du professeur lui-même.
 
 [^593]: 139:4 Je puis cependant admettre d'emblée que je n'aurais pas dû m'exprimer aussi fortement que je l'ai fait dans la note que critique le professeur Weber.
 
-[^594] : 140:1 Voir [p. 29](Bhagavadgita_Intro#p29) supra.
+[^594]: 140:1 Voir [p. 29](Bhagavadgita_Intro#p29) supra.
 
-[^595] : 140:2 Voir [p. 32](Bhagavadgita_Intro#p32) supra.
+[^595]: 140:2 Voir [p. 32](Bhagavadgita_Intro#p32) supra.
 
 [^596]: 141:1 Voir Hall's Sânkhyasâra, préface, pp. 14, 15.
 
@@ -140,14 +140,14 @@ Un mot, enfin, sur la traduction. Comme indiqué précédemment, le texte adopt�
 
 [^601]: 143:1 Je ne donne aucune référence ici, car elles peuvent être trouvées dans l'Index des mots sanskrits à la fin de ce volume.
 
-[^602] : 145:1 Voir [p. 181](Sanatsugatiya_4#p181), note infra.
+[^602]: 145:1 Voir [p. 181](Sanatsugatiya_4#p181), note infra.
 
-[^603] : 145:2 P. [p. 19](Bhagavadgita_Intro#p19) supra.
+[^603]: 145:2 P. [p. 19](Bhagavadgita_Intro#p19) supra.
 
-[^604] : 145 : 3 pages. [19](Bhagavadgita_Intro#p19), [20](Bhagavadgita_Intro#p20).
+[^604]: 145 : 3 pages. [19](Bhagavadgita_Intro#p19), [20](Bhagavadgita_Intro#p20).
 
-[^605] : 146:1 Cf. [p. 16](Bhagavadgita_Intro#p16) supra.
+[^605]: 146:1 Cf. [p. 16](Bhagavadgita_Intro#p16) supra.
 
-[^606] : 146:2 Cf. pp.
+[^606]: 146:2 Cf. pp.
 
-[^607] : 146:3 [p. 17](Bhagavadgita_Intro#p17).
+[^607]: 146:3 [p. 17](Bhagavadgita_Intro#p17).

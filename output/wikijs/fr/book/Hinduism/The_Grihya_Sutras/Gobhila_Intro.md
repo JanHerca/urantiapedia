@@ -100,17 +100,17 @@ En conclusion de cette introduction, il convient de souligner que le texte de Go
 
 [^80]: 3:1 Le terme « Sa<i>m</i>hitâ du Sâma-veda » doit être compris ici dans son sens le plus étroit comme désignant le soi-disant premier livre du Sa<i>m</i>hitâ, le _Kh<i>m</i>k_ika ou recueil de versets Yoni (voir sur la relation entre ce recueil et le deuxième livre mes remarques dans la Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. xxxviii, pp. 464 et suiv.). Le professeur Knauer, dans sa liste des versets cités par Gobhila (p. 29 de sa traduction du Gobhilîya-G<i>m</i>hya), affirme que le Sâma-veda II, 1138 (= I, 276) et 1139 est cité dans Gobhila III, 9, 6, mais une analyse précise des paroles de Gobhila montre que le verset II, 1139 n'est pas mentionné, de sorte qu'il ne reste que le verset II, 1138, qui apparaît également dans le premier livre du Sa<i>m</i>hitâ. Le « dvika » dont parle Gobhila dans ce Sûtra n'est pas un dv<i>m</i><i>m</i>a, mais, comme le comprennent correctement les commentateurs (voir l'édition du texte de Knauer, p. xii), c'est une dyade de Sâmans ou mélodies, les deux Kâvasha Sâmans qui sont basés sur le texte I, 276, et sont donnés dans la grande édition Sâma-veda du Satyavrata Sâma<i>m</i>ramin, vol. i, pp. 566, 567.
 
-[^81] : 3:2 De la même manière, le G<i>ri</i>hya-sûtra d'Âpastamba est en relation avec une collection similaire de versets et de formules G<i>ri</i>hya, l'Âpastambîya-Mantrapâ<i>ri</i>a.
+[^81]: 3:2 De la même manière, le G<i>ri</i>hya-sûtra d'Âpastamba est en relation avec une collection similaire de versets et de formules G<i>ri</i>hya, l'Âpastambîya-Mantrapâ<i>ri</i>a.
 
-[^82] : 4:1 Cf. Introduction de Knauer, pp. 24, 31 suiv.
+[^82]: 4:1 Cf. Introduction de Knauer, pp. 24, 31 suiv.
 
-[^83] : 5:1 Cf. Traduction de Knauer, Introduction, p. 25.
+[^83]: 5:1 Cf. Traduction de Knauer, Introduction, p. 25.
 
 [^84]: 5:2 Mantra-Brâhma<i>n</i>a I, 1, 1.
 
 [^85]: 6:1 Gobh. I, 3, 4.
 
-[^86] : 6 : 2 Gobh. II, 3, 17 suiv.
+[^86]: 6 : 2 Gobh. II, 3, 17 suiv.
 
 [^87]: 6:3 Gobh. III, 8.
 

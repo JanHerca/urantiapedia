@@ -1177,7 +1177,7 @@ Et la douce dame Maithil.
 Ainsi Rudra brille dans les mondes adorés,
 Dans une gloire sans tache,
 Lorsque Nandi [1](Book_3_20#fn455) se tient aux côtés de son seigneur,
-Et l'enfant du roi Himálaya. [2](Livre_3_20#fn456)
+Et l'enfant du roi Himálaya. [2](Book_3_20#fn456)
 
 
 
@@ -1496,10 +1496,10 @@ Et mènent des vies de sainte vertu :
 Avec des sens ordonnés et sans tache,
 Ils sont stylisés Ráma et Lakshman.
 
-Ils sont beaux comme le Roi des Ménestrels [1b](Livre_3_20#fn460),
+Ils sont beaux comme le Roi des Ménestrels [1b](Book_3_20#fn460),
 Et marqué des signes d'une domination royale.
 Je ne sais pas si les héros tracent
-Leur lignée vient des Dieux ou de la race Dánav [2b](Livre_3_20#fn461).
+Leur lignée vient des Dieux ou de la race Dánav [2b](Book_3_20#fn461).
 Là, par ces yeux émerveillés entre
 Les nobles jeunes gens virent une dame,
 Belle, épanouie, jeune, avec une taille délicate,
@@ -1690,7 +1690,7 @@ La chute de ses champions géants.
 
 [^429]: 243:1 Le Dieu du feu.
 
-[^430] : 243 : 2 Kuera, le Dieu des richesses.
+[^430]: 243 : 2 Kuera, le Dieu des richesses.
 
 [^431]: 243:3 Le Soleil.
 
@@ -1730,7 +1730,7 @@ La chute de ses champions géants.
 
 [^449]: 246:4b Le texte dit Kás'yapa, « un descendant de Kas'yapa », qui, selon Rám. II. l0, 6, devrait être Vivasvat. Mais comme il est indiqué dans la partie précédente de ce passage III. 14, 11 s. que Manu était l'une des huit épouses de Kas'yapa, nous devons lire ici Kasyapa. La recension de Ganda dit (III, 20, 30) : « Manur manushyams cha tutha janayámása Raghana\*\*_, au lieu de la ligne correspondante dans l'édition de Bombay. » _Muir's Sanskrit Text, Vol. I, p. 117._
 
-[^450] : 247 : 1 Les versets originaux nomment simplement les arbres. J'ai été obligé d'amplifier légèrement et d'omettre certains quas versu dicere non est ; par exemple le _tinis'a_ (Dalbergia ougeiniensis), _punnága_ (Rottleria tinctoria) _tilaka_ (non nommé), _syandana_ (Dalbergia ougeiniensis encore) _vandana_ (inconnu) _nipa_ (Nauclea Kadamba) _lakucha_ (Artoearpus lacucha), _dhava_ (Grislea tomentosa), As'vakarna (un autre nom pour le Sál), _S'amí_ (Acacia Suma) _khad\*ra_ (Mimosa\*catechu) _kins'\*ka_ (Buteafrondosa) _pátala_ (Bignonia suaveolens).
+[^450]: 247 : 1 Les versets originaux nomment simplement les arbres. J'ai été obligé d'amplifier légèrement et d'omettre certains quas versu dicere non est ; par exemple le _tinis'a_ (Dalbergia ougeiniensis), _punnága_ (Rottleria tinctoria) _tilaka_ (non nommé), _syandana_ (Dalbergia ougeiniensis encore) _vandana_ (inconnu) _nipa_ (Nauclea Kadamba) _lakucha_ (Artoearpus lacucha), _dhava_ (Grislea tomentosa), As'vakarna (un autre nom pour le Sál), _S'amí_ (Acacia Suma) _khad\*ra_ (Mimosa\*catechu) _kins'\*ka_ (Buteafrondosa) _pátala_ (Bignonia suaveolens).
 
 [^451]: 247:2 Acacia Suma.
 
@@ -1742,7 +1742,7 @@ La chute de ses champions géants.
 
 [^455]: 249:1 Le chambellan en chef et serviteur de S'iva ou Rodra.
 
-[^456] : 249 :2 Umá ou Párvati, l'épouse de S'iva.
+[^456]: 249 :2 Umá ou Párvati, l'épouse de S'iva.
 
 [^457]: 250:1 Une étoile, l'une des favorites de la Lune.
 

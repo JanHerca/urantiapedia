@@ -135,8 +135,8 @@ Fin du premier Pra<i>s</i>na.
 
 [^641]: 205:8 Comp. Atharva-veda III, 11, 5 ; ce texte montre la manière de corriger les erreurs du Hira<i>n</i>yake<i>n</i>in MSS.
 
-[^642] : 205 : 1 28, 1. Comp. <i>Ri</i>g-veda III, 54, 2 ; Taitt. Brahm. III, 7, 14, 4 ; <i>Ri</i>g-veda X, 18, 1 ; Taitt. Brahm. III, 7, 14, 5.
+[^642]: 205 : 1 28, 1. Comp. <i>Ri</i>g-veda III, 54, 2 ; Taitt. Brahm. III, 7, 14, 4 ; <i>Ri</i>g-veda X, 18, 1 ; Taitt. Brahm. III, 7, 14, 5.
 
-[^643] : 206 : 1 29, 1. <i>S</i>âṅkhâyana-G<i>ri</i>hya III, 7, 2 ; Atharva-veda VII, 60.
+[^643]: 206 : 1 29, 1. <i>S</i>âṅkhâyana-G<i>ri</i>hya III, 7, 2 ; Atharva-veda VII, 60.
 
-[^644] : 207 : 5 Comp. ci-dessus, chap. 20, Sutra 5 ; <i>Ri</i>g-veda II, 7, 3.
+[^644]: 207 : 5 Comp. ci-dessus, chap. 20, Sutra 5 ; <i>Ri</i>g-veda II, 7, 3.

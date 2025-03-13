@@ -70,9 +70,9 @@ Ce principe inaperçu, omniprésent, éternel et immuable, qui est dans un état
 
 [^1522]: 317:2 Voir le Kathopanishad, p. 149. Voir aussi [p. 332](Anugita_25#p332) infra.
 
-[^1523] : 317:3 Voir [p. 313](Anugita_20#p313), note [3](Anugita_20#fn1497) supra.
+[^1523]: 317:3 Voir [p. 313](Anugita_20#p313), note [3](Anugita_20#fn1497) supra.
 
-[^1524] : 317 : 4 C.-à-d. l'esprit. Cf. Gîtâ, [p. 102](Bhagavadgita_12#p102).
+[^1524]: 317 : 4 C.-à-d. l'esprit. Cf. Gîtâ, [p. 102](Bhagavadgita_12#p102).
 
 [^1525]: 317:5 À savoir l'odorat, le son, etc.
 
@@ -80,7 +80,7 @@ Ce principe inaperçu, omniprésent, éternel et immuable, qui est dans un état
 
 [^1527]: 317:7 Cela désigne-t-il les sens, comme dans la Gîtâ, [p. 123](Bhagavadgita_18#p123) ? Une compréhension précise des choses mentionnées exige une connaissance de leur relation avec le suprême, qui est le moyen de l'émancipation finale. Voir [p. 337](Anugita_27#p337) infra.
 
-[^1528] : 317:8 Voir Gîtâ, [p. 107](Bhagavadgita_14#p107), et Sânkhya-sâra, p. 11, et note [2](Anugita_24#fn1610), [p. 331](Anugita_24#p331) infra.
+[^1528]: 317:8 Voir Gîtâ, [p. 107](Bhagavadgita_14#p107), et Sânkhya-sâra, p. 11, et note [2](Anugita_24#fn1610), [p. 331](Anugita_24#p331) infra.
 
 [^1529]: 318:1 Les cinq éléments grossiers dont le corps est composé (cf. Mahâbhârata, <i>S</i>ânti Parvan, Moksha Dharma, chap. 183, st. 1 seq.) sont des développements du principe inperçu, la Prakriti. Cf. Gîtâ, [p. 112](Bhagavadgita_15#p112), où les mots « qui demeurent (absorbés) dans la nature » ont été omis par inadvertance après « avec l'esprit comme sixième ». Quant aux neuf portails, cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
 
@@ -106,11 +106,11 @@ Ce principe inaperçu, omniprésent, éternel et immuable, qui est dans un état
 
 [^1540]: 319:5 Cf. à ce sujet, et plus généralement aussi, Sânkhya-kârikâ 13, et le commentaire de Vâ<i>k</i>aspati Mi<i>s</i>ra (p. 64). On dit que le flamboiement du feu vers le haut illustre la légèreté de la qualité de bonté qui appartient au feu.
 
-[^1541] : 320:1 D'après Gîtâ, [p. 108](Bhagavadgita_14#p108), ne rien faire – une paresse impassible – est une marque d'obscurité. Cf. généralement sur ce passage Gîtâ, pp. [107](Bhagavadgita_14#p107), [118](Bhagavadgita_17#p118), [124](Bhagavadgita_18#p124) seq.; Maitri, p. 49.
+[^1541]: 320:1 D'après Gîtâ, [p. 108](Bhagavadgita_14#p108), ne rien faire – une paresse impassible – est une marque d'obscurité. Cf. généralement sur ce passage Gîtâ, pp. [107](Bhagavadgita_14#p107), [118](Bhagavadgita_17#p118), [124](Bhagavadgita_18#p124) seq.; Maitri, p. 49.
 
 [^1542]: 320:2 Le même mot que dans la Gîtâ, pp. [116](Bhagavadgita_16#p116), [125](Bhagavadgita_18#p125) (dans ce dernier passage, « entêté » aurait dû être hautain). Cf. quant au mot, <i>Kh</i>ândogya, p. 383.
 
-[^1545] : 320:3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
+[^1545]: 320:3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
 
 [^1544]: 320:4 L'opposé de la croyance mentionnée dans la Gîtâ, [p. 126](Bhagavadgita_18#p126).
 
@@ -122,9 +122,9 @@ Ce principe inaperçu, omniprésent, éternel et immuable, qui est dans un état
 
 [^1549]: 320:8 Ne pas être conscient de ses propres défauts, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1550] : 321:1 Cf. Gîtâ, [p. 83](Bhagavadgita_9#p83).
+[^1550]: 321:1 Cf. Gîtâ, [p. 83](Bhagavadgita_9#p83).
 
-[^1551] : 321:2 Cf. Gîtâ [p. 116](Bhagavadgita_16#p116).
+[^1551]: 321:2 Cf. Gîtâ [p. 116](Bhagavadgita_16#p116).
 
 [^1552]: 321:3 Comme les arbres et autres, qui sont aussi des formes de vie.
 
@@ -132,7 +132,7 @@ Ce principe inaperçu, omniprésent, éternel et immuable, qui est dans un état
 
 [^1554]: 321:5 Tels, dit Nîlaka<i>nth</i>a, qu'ils les rendent aptes au monde inférieur. Voir Tattvakaumudi, p. 113. Quant aux marques, cf. [p. 239](Anugita_2#p239) supra.
 
-[^1555] : 321:6 Cf. Gîtâ, [p. 130](Bhagavadgita_18#p130).
+[^1555]: 321:6 Cf. Gîtâ, [p. 130](Bhagavadgita_18#p130).
 
 [^1556]: 321:7 C'est-à-dire contraire à ce qui est déjà décrit comme sombre.
 

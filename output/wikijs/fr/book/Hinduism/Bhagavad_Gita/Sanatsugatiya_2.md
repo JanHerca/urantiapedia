@@ -216,7 +216,7 @@ Quelle que soit [^672] la voie à laquelle il adhère, l'homme doué de compréh
 
 [^674]: 157:8 <i>Sankara</i> dit : « La question de Dh<i>ri</i>tarâsh<i>t</i>ra ayant suggéré une différence entre deux principes, l'un contraignant et l'autre étant contraint, la réponse est : une telle différence ne devrait pas être alléguée, car elle implique un « danger ». La question se pose alors : comment s'explique cette différence, qui semble s'expliquer ? La réponse est : elle est due au principe sans commencement – ​​l'illusion ou l'ignorance. La phrase suivante montre que l'univers tel qu'il apparaît est aussi le résultat de l'illusion. » Nîlaka<i>ri</i>a dit expressément : changements = illusion. Il traduit d'abord l'original que nous avons traduit par « sans commencement » par « collection d'objets de jouissance ». L'explication de <i>Sankara</i> semble tautologique en ce qui concerne les mots « connexion avec le sans commencement », qui apparaissent deux fois dans ce qui précède. La page 158 de Nîlaka<i>ri</i>a n'est pas tout à fait claire. L'expression, dans la seconde occasion, signifierait-elle que la connexion par laquelle les êtres sont censés exister n'a pas eu de commencement, qu'elle existe depuis l'éternité ? La traduction devrait alors être ainsi : « Et les êtres existent par une connexion qui n'a pas eu de commencement » (voir Sâriraka Bhâshya, p. 494). Connexions des choses = création de l'univers par son pouvoir.
 
-[^675] : 158:1 Par exemple. Agnish<i>t</i>oma, &c., <i>S</i>ankara.
+[^675]: 158:1 Par exemple. Agnish<i>t</i>oma, &c., <i>S</i>ankara.
 
 [^676]: 158:2 C'est-à-dire l'impiété ou la piété, le péché ou le mérite.
 

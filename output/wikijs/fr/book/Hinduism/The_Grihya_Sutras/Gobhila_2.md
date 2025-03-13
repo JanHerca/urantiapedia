@@ -589,7 +589,7 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^186]: 42:2 En traduisant ku<i>s</i>alena, je me suis inspiré de la comparaison de I, 5, 26 (comp. Böhtlingk-Roth, sv ku<i>s</i>ala). Le commentaire comprend le Sûtra d'une manière différente. Il devrait choisir une femme possédant des caractéristiques propices, recommandées par une personne versée (ku<i>s</i>ala) dans les caractéristiques féminines. S'il ne trouve pas de personne capable de juger, il devrait, etc. (Sûtra 3).
 
-[^187] : 42:4 Comp. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 5, 5 ; G<i>ri</i>hya-sa<i>ri</i>graha II, 21-23.
+[^187]: 42:4 Comp. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 5, 5 ; G<i>ri</i>hya-sa<i>ri</i>graha II, 21-23.
 
 [^188]: 42:7 Â<i>ri</i>valâyana-G<i>ri</i>hya, ll § 4.
 
@@ -601,43 +601,43 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^192]: 44:17 17-19. Khâdira-G<i>ri</i>hya I, 3, 6. Ya<i>ri</i>opavîtinîm dans le Sûtra 19 signifie, selon le commentaire, qu'elle porte son vêtement extérieur disposé comme le cordon sacrificiel, sur son épaule gauche ; car les femmes ne sont pas autorisées à porter le cordon sacrificiel lui-même.
 
-[^193] : 44:20 G<i>ri</i>hya-sa<i>ri</i>graha II, 27 suiv.
+[^193]: 44:20 G<i>ri</i>hya-sa<i>ri</i>graha II, 27 suiv.
 
-[^194] : 45:24 24-26. Khâdira-G<i>ri</i>hya I, 3, 11-13.
+[^194]: 45:24 24-26. Khâdira-G<i>ri</i>hya I, 3, 11-13.
 
-[^195] : 45 : 1 2, 1 suiv. Khâdira-G<i>ri</i>hya I, 3,16 suiv.
+[^195]: 45 : 1 2, 1 suiv. Khâdira-G<i>ri</i>hya I, 3,16 suiv.
 
 [^196]: 45:3 Le grain grillé est celui mentionné au chap. 1, 15, la pierre, Sûtra 16.
 
-[^197] : 45:6 Comp. G<i>ri</i>hya-sa<i>ri</i>graha II, 34.
+[^197]: 45:6 Comp. G<i>ri</i>hya-sa<i>ri</i>graha II, 34.
 
 [^198]: 45:7 Sur les répétitions du lâ<i>g</i>âhoma, voir ci-dessous, Sûtras 9. 10.
 
 [^199]: 46:8 Quant aux mots « de la même manière », voir le deuxième Sûtra de ce chapitre.
 
-[^200] : 46 : 14 14-16. Khâdira-G<i>ri</i>hya I, 3, 27-31.
+[^200]: 46 : 14 14-16. Khâdira-G<i>ri</i>hya I, 3, 27-31.
 
 [^201]: 46:15 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 12, 5 note (vol. xxix, p. 33) Le porteur d'eau est la personne mentionnée chap. 1, 13.
 
-[^202] : 47 : 1 3, 1 suiv. Khâdira-G<i>ri</i>hya I, 4, 1 suiv.
+[^202]: 47 : 1 3, 1 suiv. Khâdira-G<i>ri</i>hya I, 4, 1 suiv.
 
 [^203]: 47:3 Il s'agit de la description courante de la peau de taureau utilisée lors des cérémonies de <i>S</i>rauta ou de G<i>ri</i>hya ; comp. <i>S</i>âṅkhâyana I, 16, 1 note.
 
-[^204] : 48:10 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 7, 22.
+[^204]: 48:10 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 7, 22.
 
 [^205]: 48:11 Le jeu de mots (Arundhatî—ruddhâ) est intraduisible.
 
 [^206]: 48:13 « Son Guru » signifie, selon le commentaire, son mari. Le commentaire cite la phrase bien connue : patir eko guru_h<i>strî</i>n_âm. On peut peut-être aussi prendre le Guru pour le Brâhma<i>strî</i>a chez qui ils séjournent. Voir aussi chap. 4, 11.
 
-[^207] : 48:14 Comp. ci-dessus, Sûtra 4.
+[^207]: 48:14 Comp. ci-dessus, Sûtra 4.
 
 [^208]: 48:16 16, 17. Khâdira-G<i>ri</i>hya I, 4, 7. 8. Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 12, à noter. Le commentaire de Gobhila stipule que cette réception d'Argha doit être offerte par le père de la mariée. Sur les différentes opinions des commentaires <i>S</i>âṅkhâyana, voir la note citée.
 
-[^209] : 48:18 Khâdira-G<i>ri</i>hya I, 4, 10.
+[^209]: 48:18 Khâdira-G<i>ri</i>hya I, 4, 10.
 
-[^210] : 49:22 Khâdira-G<i>ri</i>hya I, 4, 11. 14.
+[^210]: 49:22 Khâdira-G<i>ri</i>hya I, 4, 11. 14.
 
-[^211] : 49:23 Khâdira-G<i>ri</i>hya I, 4, 6.
+[^211]: 49:23 Khâdira-G<i>ri</i>hya I, 4, 6.
 
 [^212]: 49:4 Le chemin de l'époux avec l'épouse vers leur nouvelle demeure, et leur arrivée.
 
@@ -651,7 +651,7 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^217]: 51:1 5, 1. Le <i>K</i>aturthîkarman.
 
-[^218] : 51 : 2 2, 3. Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 18, 3 ; Khâdira-G<i>ri</i>hya I, 4, 12.
+[^218]: 51 : 2 2, 3. Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 18, 3 ; Khâdira-G<i>ri</i>hya I, 4, 12.
 
 [^219]: 51:4 C'est-à-dire qu'au lieu de prâya<i>s</i><i>s</i>itte (expiation), il utilise le pluriel prâya<i>s</i><i>s</i>ittaya_h_ ; et il dit : « vous êtes les expiations des dieux », etc.
 
@@ -661,13 +661,13 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^222]: 52:7 Le premier Mantra se compose de sept sections ; avec chacune de ces sections, il doit, selon le commentaire, donner trois grains d'orge ou de haricots au propriétaire de l'arbre Nyagrodha, ou les déposer à la racine de l'arbre.
 
-[^223] : 54 : 17, 1. suiv. Le Sîmantakara<i>n</i>a ou Sîmantonnayana. Khâdira-G<i>n</i>hya II, 2, 24 suiv.
+[^223]: 54 : 17, 1. suiv. Le Sîmantakara<i>n</i>a ou Sîmantonnayana. Khâdira-G<i>n</i>hya II, 2, 24 suiv.
 
 [^224]: 54:3 Ce Sûtra est identique au chap. 6, 2.
 
 [^225]: 54:4 _s<i>alâ</i>t_ugrathnam devrait être corrigé, à mon avis, pour se lire salâ<i>alâ</i>ugrapsam. Comp. Pâraskara I, 15, 4 : yugmena sa<i>alâ</i>âlugrapsenaudumbare<i>alâ</i>a. Â<i>alâ</i>valâyana I, 14,4 : yugmena _s<i>alâ</i>t_uglapsena. Hira<i>alâ</i>yake<i>alâ</i>in II, 1 : salâtugrapsam upasa<i>alâ</i>g<i>alâ</i>hya.
 
-[^226] : 55:13 13 ss. Le soshyantîhoma. Khâdira-Grihya II, 2, 28 suiv.
+[^226]: 55:13 13 ss. Le soshyantîhoma. Khâdira-Grihya II, 2, 28 suiv.
 
 [^227]: 55:17 17 seq. Cérémonies pour le nouveau-né (<i>G</i>âtakarman). Khâdira-G<i>ri</i>hya II, 2, 32 seq.
 
@@ -677,11 +677,11 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^230]: 56:23 L'impureté (a<i>s</i>au<i>s</i>a) de la mère dure dix jours après son accouchement ; cf. la note sur <i>S</i>âṅkhâyana-G<i>s</i>hya I, 25, 1 (vol. xxix, p. 51).
 
-[^231] : 56 : 18, 1 suiv. Khâdira-G<i>ri</i>hya II, 3, 1 suiv.
+[^231]: 56 : 18, 1 suiv. Khâdira-G<i>ri</i>hya II, 3, 1 suiv.
 
 [^232]: 57:6 Je ne suis pas sûr du sens de prathamoddish<i>t</i>a eva. J'ai traduit selon le commentaire, qui comporte la note suivante : prathamoddish<i>t</i>a eva prathama_m<i>t</i>h<i>t</i>t<i>t</i>h<i>t</i>h<i>t</i>ri_tîyâyâm ity etat. — Le commentaire mentionne ensuite une lecture prathamodita eva, dans laquelle udita peut être dérivé soit de vad, soit de ud-i.
 
-[^233] : 57:8 8 séq. Le Nâmakara<i>n</i>a. Khâdira-G<i>n</i>hya. II, 3, 6 suiv.
+[^233]: 57:8 8 séq. Le Nâmakara<i>n</i>a. Khâdira-G<i>n</i>hya. II, 3, 6 suiv.
 
 [^234]: 57:10 10, 11. Comp. ci-dessus, Sûtras 2. 3.
 
@@ -691,7 +691,7 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^237]: 58:19 Sacrifice mensuel en commémoration de la naissance de l'enfant. On pourrait traduire ainsi : chaque mois (après la naissance) du garçon, pendant un an (comp. <i>S</i>âṅkhâyana I, 25, 10. 11), ou les jours de Parvan, etc.
 
-[^238] : 59:20 <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 25, 6.
+[^238]: 59:20 <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 25, 6.
 
 [^239]: 59:21 21 seq. Le père revient d'un voyage. Khâdira-Grihya II, 3,13 seq. Quant à upeta, comp. <i>Sâṅkhâyana-Grihya II, I, 1 note. La position des mots dans le Sûtra 21 est irrégulière, ce qui laisse supposer que les mots yadâ vâ. . . . upetasya vi (« ou lorsque le fils commence à savoir . . . a été initié ») sont une insertion dans le texte de Gobhila, faite par un compilateur ultérieur, ou dans un texte plus ancien, fait par Gobhila lui-même. Comp. Pâraskara I, 18.
 
@@ -711,7 +711,7 @@ Fin du deuxième Prapâ<i>th</i>aka.
 
 [^247]: 62:24 Dans la description des Kû<i>âkara</i>âkara<i>âkara</i>a donnée dans ce chapitre, aucun sacrifice n'est mentionné. Voir cependant, I, 9, 28.
 
-[^248] : 62:25 G<i>ri</i>hya-sa<i>ri</i>graha II, 40.
+[^248]: 62:25 G<i>ri</i>hya-sa<i>ri</i>graha II, 40.
 
 [^249]: 63:1 10, 1 seq. L'initiation de l'étudiant. Khâdira-G<i>ri</i>hya II, 4, 1 seq.
 

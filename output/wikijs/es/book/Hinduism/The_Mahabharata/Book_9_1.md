@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T22:56:14Z
   </table>
 </figure>
 
-
-
-
 ## 1
 
 ¡Om! Tras inclinarse ante Narayana y Nara, los más exaltados de los seres masculinos, y la diosa Sarasvati, debe pronunciarse la palabra Jaya.

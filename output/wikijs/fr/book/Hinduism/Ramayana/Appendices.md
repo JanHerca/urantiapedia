@@ -1297,7 +1297,7 @@ Dans l'introduction, j'ai abordé l'antiquité du Rámáyan ; et, au moyen de pr
 
 [^1060]: 523:1 Muir, _Textes sanskrits_, Partie IV., Annexe.
 
-[^1061] : 545:1 Ghí : beurre clarifié. Gur : mélasse.
+[^1061]: 545:1 Ghí : beurre clarifié. Gur : mélasse.
 
 [^1062]: 545:2 Haridwar (en anglais Hurdwar) où le Gange pénètre dans la plaine.
 
@@ -1447,7 +1447,7 @@ Le Dr Hall observe que « dans la version bengalie du Rámáyana, les Pulindas a
 
 [^1132]: 557:24 Celui qui pousse les sept (Pránas) qui sont les deux yeux, les deux oreilles, les narines et l'organe de la parole, ou dont le char est tiré par sept chevaux.
 
-[^1133] : 557:25 Voir Gabhastimán.
+[^1133]: 557:25 Voir Gabhastimán.
 
 [^1134]: 557:26 Celui qui détruit les ténèbres ou l'ignorance.
 
@@ -1465,7 +1465,7 @@ Le Dr Hall observe que « dans la version bengalie du Rámáyana, les Pulindas a
 
 [^1141]: 557:33 Celui qui est le seigneur de tous.
 
-[^1142] : 557:34 Vidéo Divákara.
+[^1142]: 557:34 Vidéo Divákara.
 
 [^1143]: 557:35 Celui qui enseigne à Brahma et aux autres les Védas.
 
@@ -1479,7 +1479,7 @@ Le Dr Hall observe que « dans la version bengalie du Rámáyana, les Pulindas a
 
 [^1148]: 557:40 Le Seigneur du ciel.
 
-[^1149] : 557:41 Vidéo Timironmathana.
+[^1149]: 557:41 Vidéo Timironmathana.
 
 [^1150]: 557:42 Celui qui est connu à travers les Upanishads.
 
@@ -1547,7 +1547,7 @@ Le Dr Hall observe que « dans la version bengalie du Rámáyana, les Pulindas a
 
 [^1182]: 560:3 Une classe de onze dieux appelés Rudras.
 
-[^1183] : 560 : 4 Nommé Viryaván.
+[^1183]: 560 : 4 Nommé Viryaván.
 
 [^1184]: 560:5 Une classe de dévots divins nommés Sádhyas.
 
@@ -1589,9 +1589,9 @@ Le Dr Hall observe que « dans la version bengalie du Rámáyana, les Pulindas a
 
 [^1203]: 562:3 Krishna, (de couleur noire) l'une des dix incarnations de Vishnu.
 
-[^1204] : 564:1 A. Weber, _Akademische Vorlesungen_, p. 181.
+[^1204]: 564:1 A. Weber, _Akademische Vorlesungen_, p. 181.
 
-[^1205] : 564 : 2 Systema brahmanicum, liturgicum, mythologicum, civile, exmonumentis Indicis, etc.
+[^1205]: 564 : 2 Systema brahmanicum, liturgicum, mythologicum, civile, exmonumentis Indicis, etc.
 
 [^1206]: 565:1 Non seulement les races de l'Inde l'ont traduit ou résumé, mais les nations étrangères se l'ont approprié en tout ou en partie, la Perse, Java et le Japon lui-même.
 

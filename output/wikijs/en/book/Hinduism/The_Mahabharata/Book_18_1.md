@@ -29,9 +29,6 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
-
-
-
 **1**
 
 _Om!_ Having bowed down into Narayana, and to Nara, the foremost of men, as also to the goddess Sarasvati, should the word “Jaya” be uttered.

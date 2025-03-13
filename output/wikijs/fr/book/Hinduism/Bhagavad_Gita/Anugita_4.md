@@ -70,17 +70,17 @@ Après m'avoir dit, ô fils de P<i>ri</i>thâ!, ces bonnes paroles relatives à 
 
 [^1142]: 245:1 Ar<i>g</i>una Mi<i>s</i>ra dit que la force de l'impression dans la naissance précédente lui donnerait cette connaissance dans la naissance suivante.
 
-[^1143] : 245:2 Cf. Sanatsu<i>g</i>âtîya, [p. 155](Sanatsugatiya_2#p155).
+[^1143]: 245:2 Cf. Sanatsu<i>g</i>âtîya, [p. 155](Sanatsugatiya_2#p155).
 
-[^1144] : 245:3 Cf. entre autres [p. 256](Anugita_5#p256) infra.
+[^1144]: 245:3 Cf. entre autres [p. 256](Anugita_5#p256) infra.
 
-[^1145] : 245:4 Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79).
+[^1145]: 245:4 Cf. Gîtâ, [p. 79](Bhagavadgita_8#p79).
 
 [^1146]: 245:5 Autrement appelé Prak<i>ri</i>ti, ou nature.
 
-[^1147] : 245:6 Cf. Gîtâ, [p. 124](Bhagavadgita_18#p124).
+[^1147]: 245:6 Cf. Gîtâ, [p. 124](Bhagavadgita_18#p124).
 
-[^1148] : 245:7 Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111).
+[^1148]: 245:7 Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111).
 
 [^1149]: 245:8 Nous commençons maintenant, comme le souligne Nîlaka<i>nth</i>a, à répondre à la question posée ci-dessus par Kâ<i>s</i>yapa à propos de l'émancipation du soi. Placid, A<i>g</i>una Mi<i>s</i>ra rend par « silencieux, taciturne ». Voir [p. 234](Anugita_1#p234) supra.
 
@@ -90,15 +90,15 @@ Après m'avoir dit, ô fils de P<i>ri</i>thâ!, ces bonnes paroles relatives à 
 
 [^1152]: 246:2 Celui qui a son esprit sous contrôle. Mais voir Gîtâ, [p. 63](Bhagavadgita_4#p63).
 
-[^1153] : 246:3 Cf. Gîtâ, [p. 71](Bhagavadgita_6#p71).
+[^1153]: 246:3 Cf. Gîtâ, [p. 71](Bhagavadgita_6#p71).
 
 [^1154]: 246:4 C'est-à-dire le désir d'être honoré ou respecté, Ar<i>g</i>una Mi<i>s</i>ra. Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161).
 
 [^1155]: 246:5 Qui ne se soucie pas quand la mort arrive.
 
-[^1156] : 246:6 Cf. [p. 51](Bhagavadgita_2#p51) supra.
+[^1156]: 246:6 Cf. [p. 51](Bhagavadgita_2#p51) supra.
 
-[^1157] : 246:7 Cf. Gîtâ pour tout cela, pp. [101](Bhagavadgita_12#p101), [103](Bhagavadgita_13#p103), [125](Bhagavadgita_18#p125), etc.
+[^1157]: 246:7 Cf. Gîtâ pour tout cela, pp. [101](Bhagavadgita_12#p101), [103](Bhagavadgita_13#p103), [125](Bhagavadgita_18#p125), etc.
 
 [^1158]: 246:8 Cf. Ka<i>th</i>a, p. 101.
 
@@ -108,17 +108,17 @@ Après m'avoir dit, ô fils de P<i>ri</i>thâ!, ces bonnes paroles relatives à 
 
 [^1161]: 247:1 Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111), où <i>S</i>ankara explique que le nom signifie « ce qui ne restera pas jusqu'à demain ».
 
-[^1162] : 247:2 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109), et d'autres passages.
+[^1162]: 247:2 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109), et d'autres passages.
 
 [^1163]: 247:3 A<i>g</i>una Mi<i>s</i>ra a une lecture différente, qui signifie « observer particulièrement les maux de (les trois sortes de) misère ».
 
 [^1164]: 247:4 Cf. Ka<i>th</i>a, p. 119; Mu<i>th</i>aka, pp. 267; et Mândukya, p. 371.
 
-[^1165] : 247:5 Cf. Gîtâ, pp. [104](Bhagavadgita_13#p104), p. [105](Bhagavadgita_13#p105), et Ka<i>th</i>a, p. 112.
+[^1165]: 247:5 Cf. Gîtâ, pp. [104](Bhagavadgita_13#p104), p. [105](Bhagavadgita_13#p105), et Ka<i>th</i>a, p. 112.
 
 [^1166]: 247:6 Nîlakan<i>th</i>a dit que cela se réfère aux éléments grossiers, l'expression suivante des éléments subtils, et étant libre de ces deux, il est « dépourvu de qualités », à savoir les trois qualités.
 
-[^1167] : 247:7 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1167]: 247:7 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
 
 [^1168]: 247:8 C'est-à-dire ceux qui provoquent une activité corporelle et mentale.
 
@@ -154,17 +154,17 @@ Après m'avoir dit, ô fils de P<i>ri</i>thâ!, ces bonnes paroles relatives à 
 
 [^1184]: 249:5 C'est-à-dire sur le soi suprême, comme expliqué ci-dessus.
 
-[^1185] : 249:6 Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161); <i>S</i>vetâ<i>s</i>vatara, p. 290 ; et B<i>ri</i>hadâranyaka, p. 218 ; <i>Kh</i>ândogya, p. 523 ; Aitareya, p. 26 ; Kaushîtaki, p. 126.
+[^1185]: 249:6 Cf. Sanatsu<i>g</i>âtîya, [p. 161](Sanatsugatiya_2#p161); <i>S</i>vetâ<i>s</i>vatara, p. 290 ; et B<i>ri</i>hadâranyaka, p. 218 ; <i>Kh</i>ândogya, p. 523 ; Aitareya, p. 26 ; Kaushîtaki, p. 126.
 
 [^1186]: 250:1 Je ne comprends pas bien l'original. L'autre interprétation, dehatvam pour devatvam, n'est pas plus intelligible. Mais en comparant les deux, le sens semble être que la divinité des dieux, c'est-à-dire leurs qualités et leurs pouvoirs divins, sont à sa portée, s'il le souhaite.
 
-[^1187] : 250:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107).
+[^1187]: 250:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107).
 
 [^1188]: 250:3 L'affection est le sentiment qu'une chose est à soi ; l'attachement est le sentiment d'affection que l'on éprouve pour une chose acquise avec difficulté, Ar<i>g</i>una Mi<i>s</i>ra.
 
 [^1189]: 250:4 La douleur semble être le sentiment qui suit immédiatement une blessure ou un mal subi ; le chagrin est l'état d'esprit constant qui en est le résultat ultérieur.
 
-[^1190] : 250:5 Cf. Yoga-sûtra Bhashya, p. 208.
+[^1190]: 250:5 Cf. Yoga-sûtra Bhashya, p. 208.
 
 [^1191]: 250:6 Cf. Gîtâ, [p. 70](Bhagavadgita_6#p70). Le découragement est le sentiment que l'on n'a pas acquis la « concentration » après beaucoup de pratique, et que par conséquent la pratique devrait être abandonnée.
 
@@ -204,7 +204,7 @@ Après m'avoir dit, ô fils de P<i>ri</i>thâ!, ces bonnes paroles relatives à 
 
 [^1209]: 254:3 J'adopte ici la lecture de Nîlaka<i>nth</i>a. A<i>g</i>una Mi<i>s</i>ra lit « vi<i>g</i>agdhena », ce qu'il explique comme signifiant « celui qui mange des aliments incompatibles entre eux ». Une troisième lecture est « k<i>nth</i>taghnena », ingrat !
 
-[^1210] : 254:4 Voir Gîtâ [p. 84](Bhagavadgita_9#p84).
+[^1210]: 254:4 Voir Gîtâ [p. 84](Bhagavadgita_9#p84).
 
 [^1211]: 255:1 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 234, où <i>S</i>ankara cite la strophe originale, mais avec une lecture qui signifie : « Et les dieux ne sont pas satisfaits de voir les mortels s'élever au-dessus d'eux ». C'est une meilleure lecture.
 

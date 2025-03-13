@@ -116,7 +116,7 @@ En guise de dot de chaque épouse royale,
 Payez les offrandes dues aux esprits,
 Et célébrer le jour du mariage.
 La lune ce soir, ô royal sage,
-Dans la [1](Livre_1_77#fn252) Maison de Maghá prend refuge ;
+Dans la [1](Book_1_77#fn252) Maison de Maghá prend refuge ;
 La troisième nuit, ses rayons bienveillants
 Dans le deuxième Phálguni [2](Book_1_77#fn253) brillera :
 Que ce jour-là, avec un destin prospère,

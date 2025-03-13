@@ -75,9 +75,6 @@ Saunaka dijo: “¡Ay, este mundo está lleno de contradicciones! ¡Lo que averg
 
 Esta es, pues, la trayectoria de quienes carecen de conocimiento. ¡Escucha ahora el camino de los sabios, aquellos que se dedican a la virtud provechosa y anhelan la emancipación! Los Vedas ordenan actuar, pero renuncian al interés por la acción. Por lo tanto, si actúas renunciando al Abhimana, [^4] la realización de sacrificios, el estudio de los Vedas, las ofrendas, la penitencia, la verdad (tanto en la palabra como en la acción), el perdón, la sumisión de los sentidos y la renuncia al deseo, estos han sido declarados los ocho deberes cardinales que constituyen el verdadero camino. De estos, los cuatro primeros allanan el camino al mundo de los pitris. Y estos deben practicarse sin Abhimana. Los cuatro últimos son siempre observados por los piadosos para alcanzar el cielo de los dioses. Y los puros de espíritu deben seguir siempre estos ocho caminos. Quienes deseen dominar el mundo para alcanzar la salvación deben actuar siempre renunciando por completo a las motivaciones, sometiendo eficazmente sus sentidos, observando rigurosamente sus votos, sirviendo con devoción a sus preceptores, regulando austeramente sus hábitos, estudiando diligentemente los Vedas, renunciando a la acción como algo mezquino y moderando sus corazones. Al renunciar al deseo y la aversión, los dioses han alcanzado la prosperidad. Es en virtud de su riqueza de yoga [^5] que los Rudras, los Sadhyas, los Adityas, los Vasus y los Aswins gemelos gobiernan a las criaturas. Por lo tanto, oh hijo de Kunti, como ellos, tú, oh Bharata, absteniéndote por completo de la acción con motivación, esfuérzate por alcanzar el éxito en el yoga y mediante austeridades ascéticas. Ya has alcanzado tal éxito en lo que respecta a tus deudas con tus antepasados, tanto hombres como mujeres, y también el éxito que se deriva de la acción (sacrificios). Para servir a los regenerados, esfuérzate por alcanzar el éxito en las penitencias. Quienes alcanzan el éxito ascético pueden, en virtud de ese éxito, hacer lo que deseen; tú, por lo tanto, practicando el ascetismo, realiza todos tus deseos.
 
-
-
-
 <span id="p9">[<sup><small>pág. 9</small></sup>]</span>
 
 ## SECCIÓN III
@@ -117,9 +114,6 @@ Vidura dijo: «Los tres propósitos, oh rey (a saber, beneficio, placer y salvac
 Dhritarashtra dijo: «Oh, Vidura, estas palabras que has pronunciado en esta asamblea, referidas a los Pandavas y a mí, son para su bien, pero no para el nuestro. No las apruebo. ¿Cómo has asimilado todo esto ahora? Habiendo dicho todo esto en nombre de los Pandavas, percibo que no eres amable conmigo. ¿Cómo puedo abandonar a mi hijo por los hijos de Pandu? Sin duda son mis hijos, pero Duryodhana ha brotado de mi cuerpo. ¿Quién, entonces, hablando con imparcialidad, me aconsejará jamás renunciar a mi propio cuerpo por el bien de los demás? Oh, Vidura, todo lo que dices es falso, aunque te tengo en alta estima. Quédate o vete, como quieras. Por mucho que se le complazca, una impura abandona a su marido».
 
 Vaisampayana dijo: «Oh, rey», al decir esto, Dhritarashtra se levantó repentinamente y entró en los aposentos interiores. Y Vidura, diciendo: «Esta raza está condenada», se fue adonde estaban los hijos de Pritha.
-
-
-
 
 ## SECCIÓN V
 

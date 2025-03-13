@@ -86,7 +86,7 @@ Français La (parole) qui est produite dans le corps par <span id="p266">[<sup><
 
 ## Notes de bas de page
 
-[^1252] : 261:1 Cf. Taittirîya-brâhma<i>n</i>a, p. 411, et Âra<i>n</i>yaka, p. 281.
+[^1252]: 261:1 Cf. Taittirîya-brâhma<i>n</i>a, p. 411, et Âra<i>n</i>yaka, p. 281.
 
 [^1253]: 261:2 Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 459. La lecture dans l'édition imprimée de Bombay est ici défectueuse.
 

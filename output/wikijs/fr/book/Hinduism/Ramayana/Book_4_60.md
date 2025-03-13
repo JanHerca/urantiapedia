@@ -666,7 +666,7 @@ Cette barrière des profondeurs saumâtres.
 Trouvez la dame Videhan là-bas,
 Et joyeux pour la réparation de votre maison.
 Moi aussi, ô Vánars. à côté
-De la maison de Varun [3](Livre_4_60#fn774) l'océan, guide,
+De la maison de Varun [3](Book_4_60#fn774) l'océan, guide,
 Où les libations dues doivent être payées
 À l'ombre de mon grand frère.
 
@@ -860,7 +860,7 @@ T'a-t-il déchu de ton rang élevé ?
 
 [^764]: 386:1 Vivasvat ou le Soleil est le père de Yama, le Dieu de la Mort.
 
-[^765] : 386 : 2 Livre III. Chant LI.
+[^765]: 386 : 2 Livre III. Chant LI.
 
 [^766]: 386:3 Le serment téméraire de Das'aratha et sa promesse fatale à sa femme Kaikeyí.
 

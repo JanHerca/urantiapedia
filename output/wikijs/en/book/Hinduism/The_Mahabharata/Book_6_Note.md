@@ -42,9 +42,6 @@ Finally we move on to the battle itself, which occupies two-thirds of Book 6, a 
 
 \—John Bruno Hare, January 23, 2004.
 
-
-
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

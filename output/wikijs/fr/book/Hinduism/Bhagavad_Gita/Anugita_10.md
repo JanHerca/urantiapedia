@@ -70,7 +70,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1325]: 277:3 Le Vâmadevya est un sûkta commençant par « Kayâ na<i>s</i> <i>k</i>itrâ » (Rv. IV, 31, 1). Son chant est le troisième Savana, Ar<i>g</i>una Mi<i>s</i>ra. Voir aussi Taittirîya-âranyaka, p. 889.
 
-[^1326] : 277:4 Cf. Aitareya-brâhma<i>n</i>a (Haug), pp. 132, 133.
+[^1326]: 277:4 Cf. Aitareya-brâhma<i>n</i>a (Haug), pp. 132, 133.
 
 [^1327]: 278:1 Cf. quant aux trois premières Gîtâ, [p. 123](Bhagavadgita_18#p123). Ce sont les quatre catégories, à l'une ou l'autre desquelles tout dans le monde peut être rapporté.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-1-16T20:0:42Z
 
 [^1335]: 279:1 C'est-à-dire, je présume, les sens. Cf. Gîtâ, [p. 50](Bhagavadgita_2#p50). Les érudits ne supposent pas que leur moi ait quoi que ce soit à voir avec eux. Cf. Gîtâ, [p. 64](Bhagavadgita_5#p64).
 
-[^1336] : 279:2 Cf. Gîtâ, [p. 53](Bhagavadgita_3#p53) ; Manu III, 118.
+[^1336]: 279:2 Cf. Gîtâ, [p. 53](Bhagavadgita_3#p53) ; Manu III, 118.
 
 [^1337]: 279:3 Sa connaissance lui donne ce pouvoir. Il n'est pas « détruit » par la nourriture comme l'autre homme. Nîlaka<i>nth</i>a compare B<i>nth</i>hadâra<i>n</i>yaka, p. 884. Voir aussi [p. 260](Anugita_5#p260), note [1](Anugita_5#fn1239) supra.
 

@@ -66,19 +66,19 @@ Alors ces Brâhmanes, qui étaient les meilleurs des sages, ayant de nouveau ép
 
 ## Notes de bas de page
 
-[^1926] : 372 : 1 Voir [p. 351](Anugita_28#p351) ci-dessus.
+[^1926]: 372 : 1 Voir [p. 351](Anugita_28#p351) ci-dessus.
 
-[^1927] : 372 : 2 Voir Gîtâ, [p. 109](Bhagavadgita_14#p109).
+[^1927]: 372 : 2 Voir Gîtâ, [p. 109](Bhagavadgita_14#p109).
 
 [^1928]: 372:3 Quant aux deux premières clauses, voir pp. [284](Anugita_11#p284)-[371](Anugita_32#p371) supra ; les deux dernières sont considérées par Ar<i>g</i>una Mi<i>s</i>ra comme représentant respectivement les doctrines Sânkhya et Yoga.
 
 [^1929]: 372:4 Je suppose que cela désigne tous les maîtres. Mais Nîlaka<i>nth</i>a l'interprète comme désignant les Sânkhyas, et il considère les mots précédents comme indiquant deux points de vue fondés sur les textes de la Sruti, à savoir : le premier, que le monde est un développement du Brahman, et l'autre, que le Brahman ne subit ni développement ni changement. Il interprète Anâmaya comme signifiant immuable, et Brahmamaya comme développé à partir du Brahman.
 
-[^1930] : 372 : 5 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [78](Bhagavadgita_8#p78).
+[^1930]: 372 : 5 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [78](Bhagavadgita_8#p78).
 
 [^1931]: 372:6 Celui qui voit le suprême comme la seule entité réelle, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a considère que cela signifie celui qui s'identifie à tout. Voir Gîtâ, [p. 65](Bhagavadgita_5#p65), et la note [4](Bhagavadgita_3#fn172) ici.
 
-[^1932] : 372 : 7 Voir [p. 344](Anugita_27#p344) ci-dessus.
+[^1932]: 372 : 7 Voir [p. 344](Anugita_27#p344) ci-dessus.
 
 [^1933]: 372:8 C'est-à-dire le but à atteindre.
 
@@ -94,7 +94,7 @@ Alors ces Brâhmanes, qui étaient les meilleurs des sages, ayant de nouveau ép
 
 [^1939]: 373:5 Le terme moyen dans l'inférence étant, dit Ar<i>g</i>una Mi<i>s</i>ra, l'effet éclairant de la qualité en question.
 
-[^1940] : 373 : 6 Cf. [p. 167](Sanatsugatiya_3#p167) supra.
+[^1940]: 373 : 6 Cf. [p. 167](Sanatsugatiya_3#p167) supra.
 
 [^1941]: 373:7 L'original est tyâga, qu'Ar<i>g</i>una Mi<i>s</i>ra rend par « abandon de tous biens » ; renoncement, scil. au fruit. Cf. Gîtâ, [p. 121](Bhagavadgita_17#p121), et [p. 114](Bhagavadgita_15#p114).
 

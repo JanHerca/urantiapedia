@@ -271,7 +271,7 @@ Fin du deuxième Pa<i>t</i>ala.
 
 [^509]: 152:13 La lecture du dernier Mantra est douteuse. Ish<i>t</i>atas devrait peut-être être ish<i>t</i>as, mais le génitif analasya, ou, comme le disent certains manuscrits, anasasya (lire analasasya ?), pointe plutôt vers un génitif comme i<i>t</i><i>t</i>atas. Si nous écrivons i<i>t</i><i>t</i>atas et analasasya, la traduction serait : « Puisse-je t'être cher, toi qui m'aimes, NN ! Puis-je t'être cher, toi qui es zélé, NN ! » Comp. <i>S</i>âṅkhâyana II, 3, 3.
 
-[^510] : 153:14 Comp. ci-dessus, Sûtra 9.
+[^510]: 153:14 Comp. ci-dessus, Sûtra 9.
 
 [^511]: 153:3 6, 3. Â<i>s</i>valâyana I, 20, 8.
 
@@ -285,23 +285,23 @@ Fin du deuxième Pa<i>t</i>ala.
 
 [^516]: 155:1 7, 1 seq. Comp. Â<i>ri</i>valâyana I, 21, 1; Sâṅkhâyana II, 10, etc. 'Le fait de mettre du combustible sur le feu, et ce qui suit, fait partie de la cérémonie principale, et non de la récitation du Sâvitrî. Par conséquent, dans le cas de quelqu'un qui n'a pas encore été initié (voir I, 2, 6, 7), il doit être accompli immédiatement après que (l'étudiant) a été confié à la charge (des dieux et des démons; I, 2, 6, 5).' Mât<i>ri</i>datta.
 
-[^517] : 155 : 2 Pâraskara II, 4, 3.
+[^517]: 155 : 2 Pâraskara II, 4, 3.
 
 [^518]: 156:5 Comp. ci-dessus, I, 1, 2, 7 seq.
 
 [^519]: 156:6 Il dit : « Anumati ! Tu as donné ton consentement ! » etc.
 
-[^520] : 156:8 8 séq. Comp. Gobhila II, 10, 16.
+[^520]: 156:8 8 séq. Comp. Gobhila II, 10, 16.
 
 [^521]: 156:12 Comp. <i>S</i>âṅkhâyana I, 14, 13 seq.
 
-[^522] : 156 : 13 Pâraskara I, 8, 7 ; Moi, 6, 3.
+[^522]: 156 : 13 Pâraskara I, 8, 7 ; Moi, 6, 3.
 
 [^523]: 157:14 <i>S</i>âṅkhâyana II, 6, 2, &c.
 
 [^524]: 157:16 16 seq. <i>S</i>âṅkhâyana II, 6, 4 seq.; Âpastamba I, 3, 28 seq.
 
-[^525] : 157:17 Le commentaire explique râtikuleshu par _g_<i>ñ</i>âtiprabh<i>ñ</i>tishu;—comp. yosya râtir bhavati, I, 3, 9, 18.
+[^525]: 157:17 Le commentaire explique râtikuleshu par _g_<i>ñ</i>âtiprabh<i>ñ</i>tishu;—comp. yosya râtir bhavati, I, 3, 9, 18.
 
 [^526]: 157:20 Voir ci-dessus, I, 1, 4, 2, et comp. Atharva-veda II, 13, 5.
 
@@ -315,13 +315,13 @@ Fin du deuxième Pa<i>t</i>ala.
 
 [^531]: 158:2 Concernant le terme « aliment piquant », voir les notes du professeur Bühler sur Âpastamba I, 1, 2, 23 ; II, 6, 15, 15.
 
-[^532] : 159:3 Voir I, 1, 2, 7 suiv. ; Âpastamba Dharma-sûtra I, 1, 4, 18.
+[^532]: 159:3 Voir I, 1, 2, 7 suiv. ; Âpastamba Dharma-sûtra I, 1, 4, 18.
 
 [^533]: 159:4 Âpastamba I, 1, 4, 16; <i>S</i>âṅkhâyana II, 10, 4, etc.
 
 [^534]: 159:5 Voir Sûtra 3 et la note.
 
-[^535] : 160:6 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 21, 4.
+[^535]: 160:6 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 21, 4.
 
 [^536]: 160:7 Voir I, 2, 7, 21. 25.
 
@@ -331,6 +331,6 @@ Fin du deuxième Pa<i>t</i>ala.
 
 [^539]: 160:10 10, 11. Comp. Âpastamba I, I, 2, 31. 32. Mât<i>ri</i>datta a reçu dans son explication du onzième Sûtra les mots « il devrait raser le reste des cheveux », qui dans l'Âpastambîya-sûtra se trouvent dans le texte.
 
-[^540] : 160:14 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 22, 3 ; Âpastamba Dharma-sûtra I, 1, 2, 12 suiv.
+[^540]: 160:14 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 22, 3 ; Âpastamba Dharma-sûtra I, 1, 2, 12 suiv.
 
 [^541]: 161:16 <i>Ri</i>g-veda I, 18, 6. Sont considérés comme les Rishis des Kândas individuels, Pranâpati, Soma, Agni, les devâs Vinve, Svayambhû. Concernant les Mantras cités dans la dernière section de ce Sûtra, voir ci-dessus, I, 1, 3, 5-7.

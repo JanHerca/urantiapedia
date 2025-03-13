@@ -66,7 +66,7 @@ Le renoncement et la poursuite de l'action sont tous deux des instruments du bon
 
 ## Notes de bas de page
 
-[^213] : 63 : 1 Sutta Nipata, p. 49.
+[^213]: 63 : 1 Sutta Nipata, p. 49.
 
 [^214]: 63:2 Prudent, exempt d'insouciance.
 
@@ -96,7 +96,7 @@ Le renoncement et la poursuite de l'action sont tous deux des instruments du bon
 
 [^227]: 66:1 Kathopanishad, p. 100.
 
-[^228] : 66:2 Cf. supra, [p. 44](Bhagavadgita_2#p44).
+[^228]: 66:2 Cf. supra, [p. 44](Bhagavadgita_2#p44).
 
 [^229]: 66:3 Il est un avec le Brahman car il est exclusivement concentré sur le Brahman.
 
@@ -104,4 +104,4 @@ Le renoncement et la poursuite de l'action sont tous deux des instruments du bon
 
 [^231]: 66:5 Sutta Nipâta, p. 39; également Davids' Buddhism, p. 109.
 
-[^232] : 66:6 Cf. Sutta Nipata, p. 3.
+[^232]: 66:6 Cf. Sutta Nipata, p. 3.

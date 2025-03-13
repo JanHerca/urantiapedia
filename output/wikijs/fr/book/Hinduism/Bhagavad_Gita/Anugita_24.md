@@ -62,9 +62,9 @@ Les qualités ne peuvent être expliquées de manière totalement distincte. La 
 
 ## Notes de bas de page
 
-[^1599] : 328 : 1 Cf. Gîtâ entre autres, [p. 104](Bhagavadgita_13#p104).
+[^1599]: 328 : 1 Cf. Gîtâ entre autres, [p. 104](Bhagavadgita_13#p104).
 
-[^1600] : 328:2 Cf. [p. 318](Anugita_21#p318) ci-dessus.
+[^1600]: 328:2 Cf. [p. 318](Anugita_21#p318) ci-dessus.
 
 [^1601]: 328:3 Ainsi, Ar<i>g</i>una Mi<i>s</i>ra. Nîlaka<i>nth</i>a dit à ce sujet : « Aussi grande que soit la bonté, elle est toujours tenue en joue par l'obscurité, et ainsi il y a une relation continuelle entre ce qui freine et ce qui est freiné entre les trois qualités ; elles sont donc semblables. De même, la passion, étant accrue, maintient la bonté et l'obscurité en joue. Le sentiment semble être que les qualités dominent tout en ce monde et existent ensemble, bien que leur force varie » (Gîtâ, [p. 73](Bhagavadgita_6#p73)).
 
@@ -76,7 +76,7 @@ Les qualités ne peuvent être expliquées de manière totalement distincte. La 
 
 [^1605]: 329:2 Voir Gîtâ, [p. 109](Bhagavadgita_14#p109), et également [p. 327](Anugita_23#p327) supra. Dans son Sânkhyatattvakaumudî, Vâkâspati Miṭsra applique cette épithète aux yogis (voir p. 13 de l'édition de Târânâth, et la note de l'éditeur).
 
-[^1606] : 329 : 3 Cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
+[^1606]: 329 : 3 Cf. Gîtâ, [p. 108](Bhagavadgita_14#p108).
 
 [^1607]: 329:4 Cf. Gîtâ, [p. 109](Bhagavadgita_14#p109). Les modifications des sens constituant la perception par eux sont une opération de la qualité de bonté. Tel semble être le sens du texte ; à ce sujet, cf. Tattvakaumudi, p. 14 (édition de Târânâth).
 

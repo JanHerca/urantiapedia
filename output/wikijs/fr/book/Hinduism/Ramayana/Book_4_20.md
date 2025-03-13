@@ -987,7 +987,7 @@ Et il posa sa flèche sur l'arc.
 Comme un globe, l'arc qu'il tirait
 La flèche s'est envolée de la corde
 Comme le formidable disque du destin lancé
-Par Yama [2](Livre_4_20#fn584) pour mettre fin au monde.
+Par Yama [2](Book_4_20#fn584) pour mettre fin au monde.
 Le vacarme est si fort que chaque oiseau
 Les clans de la corde de l'arc ont entendu avec terreur,
 Et le cerf effrayé s'enfuit sauvagement
@@ -1220,7 +1220,7 @@ Oui, elle aurait été plongée dans les profondeurs de l'enfer,
 Ou submergé par la houle de l'océan,
 J'aurais suivi ses traces
 Et ramena la dame sauvée,
-Comme Hayagríva [1](Livre_4_20#fn595) une fois libérée
+Comme Hayagríva [1](Book_4_20#fn595) une fois libérée
 De l'enfer le blanc As'vatarí. [2](Book_4_20#fn596)
 Que lorsque mon esprit prend son envol
 Le règne de Sugríva est juste et équitable.

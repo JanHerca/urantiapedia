@@ -632,7 +632,7 @@ Fin du Premier Kâ<i>nd</i>a.
 
 [^673]: 271:8 Les versets Vâ_g_. Sa<i>m</i>h. XXI, 3, 4, les deux versets cités p. 272 ​​Kâty. XXV, 1, 11, et cinquièmement le verset Vâ_g_. Sa<i>m</i>h. XII, 12, sont prescrits pour le Sarvaprâya<i>m</i><i>m</i>itta (ou cérémonie expiatoire générale), voir Kâtyâyana ll
 
-[^674] : 272:11 Le professeur Stenzler, à la suite de <i>G</i>ayarâma, prend le tout comme un seul mantra, qu'il traduit : 'Ungehemmet sei Agni's Spende, die durch die That ich überreich machte, bahnschaffende Götter !' Mais les mots yat karma<i>n</i>âtyarîri<i>n</i>am sont les mots d'ouverture d'un Mantra cité <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 4, 24, (comp. aussi Â<i>n</i>valâyana-G<i>n</i>hya I, 10, 23 ; le lien dans lequel atyarîri<i>n</i>am se trouve ici montre que le mot désigne une erreur commise dans l'œuvre sacrificielle en en faisant trop.) Les mots devâ gâtuvida<i>h</i> sont le Pratîka de Vâ_g_. Sa<i>n</i>hitâ VIII, 21. Je n'ai donc aucun doute qu'ayâsy Agner vasha<i>n</i>k<i>n</i>tam (ou peut-être ayâsy Agner (?) et vasha<i>n</i>k<i>n</i>tam (?)) soit également un Pratîka. Bien entendu, la traduction de ces mots restera incertaine jusqu'à ce que le Mantra auquel ils appartiennent soit découvert.
+[^674]: 272:11 Le professeur Stenzler, à la suite de <i>G</i>ayarâma, prend le tout comme un seul mantra, qu'il traduit : 'Ungehemmet sei Agni's Spende, die durch die That ich überreich machte, bahnschaffende Götter !' Mais les mots yat karma<i>n</i>âtyarîri<i>n</i>am sont les mots d'ouverture d'un Mantra cité <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 4, 24, (comp. aussi Â<i>n</i>valâyana-G<i>n</i>hya I, 10, 23 ; le lien dans lequel atyarîri<i>n</i>am se trouve ici montre que le mot désigne une erreur commise dans l'œuvre sacrificielle en en faisant trop.) Les mots devâ gâtuvida<i>h</i> sont le Pratîka de Vâ_g_. Sa<i>n</i>hitâ VIII, 21. Je n'ai donc aucun doute qu'ayâsy Agner vasha<i>n</i>k<i>n</i>tam (ou peut-être ayâsy Agner (?) et vasha<i>n</i>k<i>n</i>tam (?)) soit également un Pratîka. Bien entendu, la traduction de ces mots restera incertaine jusqu'à ce que le Mantra auquel ils appartiennent soit découvert.
 
 [^675]: 272:12 Sur le jet au feu des Barhis, comp. Kâtyâyana III, 8.
 
@@ -668,7 +668,7 @@ Fin du Premier Kâ<i>nd</i>a.
 
 [^691]: ​​276:29-30 29, 30. Ces Sûtras sont identiques à deux Sûtras du <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 15, 2.3. Voir la note qui s'y trouve. Il me semble inadmissible de traduire le § 29, comme le fait le professeur Stenzler : Der Argha darf aber nicht immer ohne Fleisch sein.
 
-[^692] : 276:31 <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 15, 10.
+[^692]: 276:31 <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 15, 10.
 
 [^693]: 276:1-5 4, 1-5. Voir <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 5, 1-5 et les notes.
 
@@ -698,7 +698,7 @@ Fin du Premier Kâ<i>nd</i>a.
 
 [^706]: 282:3 Rig-veda X, 85, 36; <i>S</i>âṅkhâyana I, 13, 4, etc.
 
-[^707] : 282 : 1 7, 1. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 7, 7 ; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 13, 12.
+[^707]: 282 : 1 7, 1. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 7, 7 ; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 13, 12.
 
 [^708]: 283:4 Voir chap. 6, 1.
 
@@ -714,7 +714,7 @@ Fin du Premier Kâ<i>nd</i>a.
 
 [^714]: 284:10 L'Atharva-veda (XX, 127, 12) a la lecture pra <i>g</i>âyadhvam au lieu de ni shîdantu (dans le premier Pâda) ; le deuxième hémistiche s'énonce ainsi : iho sahasradakshi<i>n</i>oऽpi Pûshâ ni shîdati.
 
-[^715] : 285:12 J'ai osé, contrairement au professeur Stenzler (« Bei der Hochzeit und auf der Leichenstätte richte er sich nach dem Dorfe »), traduire pravi<i>s</i>atât selon son sens originel. Serait-ce là une règle pour les Vânaprasthas qui vivent dans la forêt et n'entrent dans le village qu'à des occasions exceptionnelles ?
+[^715]: 285:12 J'ai osé, contrairement au professeur Stenzler (« Bei der Hochzeit und auf der Leichenstätte richte er sich nach dem Dorfe »), traduire pravi<i>s</i>atât selon son sens originel. Serait-ce là une règle pour les Vânaprasthas qui vivent dans la forêt et n'entrent dans le village qu'à des occasions exceptionnelles ?
 
 [^716]: 285:15-17 <i>S</i>âṅkhâyana I, 14, 13 seqq.
 

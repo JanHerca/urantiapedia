@@ -224,9 +224,6 @@ And so ends the twenty-fourth section in the Astika Parva of the Adi Parva.
 
 And so ends the twenty-fifth section in the Astika Parva of the Adi Parva.
 
-
-
-
 ## SECTION XXVI
 
 

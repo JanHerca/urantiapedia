@@ -199,7 +199,7 @@ Tenant son arme puissante, il se tient debout.
 Son message est le conducteur du char
 Cela rapproche l'envoyé impatient,
 Poussé en avant par son intention audacieuse,
-Et envoyé par ordre de Rama. [1](Livre_4_40#fn636)
+Et envoyé par ordre de Rama. [1](Book_4_40#fn636)
 Les Vánars rassemblés virent et s'enfuirent,
 Et ils poussèrent haut leur cri de terreur.
 Fils de la reine Tárá, Angad courut
@@ -1330,7 +1330,7 @@ Il paiera de sa vie le prix perdu.
 
 [^638]: 364:1b Maireya, une liqueur spiritueuse à base de fleurs de Lythrum fruticosum, avec du sucre, etc.
 
-[^639] : 364:2b Leurs noms sont les suivants : Angad, Mainda, Dwida, Gavaya, Gaváksha, Gaja, Sarabha, Vidyunmáli, Sampáti, Súryáksa, Hanumán, Virabáhu, Subáha, Nala, Kúmuda, Sushena, Tára, Jámbuvatu, Dadhivakra, \*Nila, S'upatala et Sunetra.
+[^639]: 364:2b Leurs noms sont les suivants : Angad, Mainda, Dwida, Gavaya, Gaváksha, Gaja, Sarabha, Vidyunmáli, Sampáti, Súryáksa, Hanumán, Virabáhu, Subáha, Nala, Kúmuda, Sushena, Tára, Jámbuvatu, Dadhivakra, \*Nila, S'upatala et Sunetra.
 
 [^640]: 366:1 Le Kalpadruma ou arbre à souhaits est l'un des arbres de Svarga ou du paradis d'Indra : il a le pouvoir d'exaucer tous les désirs.
 
@@ -1373,9 +1373,9 @@ Il paiera de sa vie le prix perdu.
 
 [^659]: 371:5 "Je réunis ici sous une même rubrique deux animaux de la p. 372 mais qui, de par certaines ressemblances grossières, probablement aidées par une équivoque dans le langage, sont étroitement affiliés dans le mythe hindou.....une couleur rougeâtre de la peau, un manque de symétrie et une forme maladroite, la force de serrer avec les pattes avant ou les bras, la faculté de grimper, une queue courte (?), la sensualité, la capacité d'instruction en danse et en musique, sont autant de caractéristiques qui se distinguent et se rencontrent plus ou moins chez les ours comme chez les singes. Dans le _Rámáyanam_, le sage Jámnavant, l'Ulysse de l'expédition de Lanká, est appelé tantôt roi des ours (rikshaparthivah), tantôt grand singe (_Mahákapih_). DeGubernatis : _Mythologie zoologique_, Vol. II. p. 97.
 
-[^660] : 面面面面面面面面面面面面面面面面1b:1b Gandhamádana, Angad, Tára, Indrajánu, Rambha, Durmukha, Hanumán, Nala, Da mukha, S'arabha, Kumuda, Vahni.
+[^660]: 面面面面面面面面面面面面面面面面1b:1b Gandhamádana, Angad, Tára, Indrajánu, Rambha, Durmukha, Hanumán, Nala, Da mukha, S'arabha, Kumuda, Vahni.
 
-[^661] : 面面面面面面面面面面面面面面面面2b:2b Daityas et Dánavas sont des démons et des ennemis des dieux, la vie des Titans de la mythologie grecque.
+[^661]: 面面面面面面面面面面面面面面面面2b:2b Daityas et Dánavas sont des démons et des ennemis des dieux, la vie des Titans de la mythologie grecque.
 
 [^662]: 372:1 Je réduis les nombres encombrants de l'original à des chiffres plus modestes.
 

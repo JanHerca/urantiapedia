@@ -224,9 +224,6 @@ Sauti dijo: «Entonces, ese pájaro de gran fuerza y ​​energía, capaz de ir
 
 Y así termina la sección veinticinco del Astika Parva del Adi Parva.
 
-
-
-
 ## SECCIÓN XXVI
 
 

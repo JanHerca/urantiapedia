@@ -72,7 +72,7 @@ Il y a un directeur [^1346] ; il n'y a pas de second directeur. Je parle de celu
 
 [^1356]: 282:1 Nîlaka<i>nth</i>a prend ce mot pour « élève », mais il est difficile de le concilier avec le reste du passage. Ar<i>g</i>una Mi<i>s</i>ra le traduit par « le destructeur des doutes de chacun ». Pour cela, il faudra prendre le mot comme une forme du causatif, et non la simple racine <i>s</i>ru, entendre. Mais voir aussi, [p. 283](#p283), « l'instructeur… l'auditeur ».
 
-[^1357] : 282:2 Cf. Sanatsu<i>g</i>âtîya, [p. 152](Sanatsugatiya_2#p152), note [1](Sanatsugatiya_2#fn618).
+[^1357]: 282:2 Cf. Sanatsu<i>g</i>âtîya, [p. 152](Sanatsugatiya_2#p152), note [1](Sanatsugatiya_2#fn618).
 
 [^1358]: 282:3 Les mots sont ici presque les mêmes que précédemment ; les commentateurs ne donnent aucune explication quant à la répétition. Voir [p. 281](Anugita_10#p281), note [^1347].
 
@@ -84,8 +84,8 @@ Il y a un directeur [^1346] ; il n'y a pas de second directeur. Je parle de celu
 
 [^1362]: 283:2 Le sens est que le véritable instructeur est en soi, « demeurant dans le cœur », comme dit précédemment, bien que l'instruction puisse être reçue sous forme de quelqu'un de l'extérieur, dont on cherche à apprendre, et que l'on respecte (ou que l'on exalte hautement, comme le dit le texte), et bien qu'une telle instruction puisse être bien appréhendée.
 
-[^1363] : 283 : 3 Cf. B<i>ri</i>hadâra<i>n</i>yaka, pp. 546-853.
+[^1363]: 283 : 3 Cf. B<i>ri</i>hadâra<i>n</i>yaka, pp. 546-853.
 
-[^1364] : 283:4 Voir Gîtâ, [p. 117](Bhagavadgita_16#p117).
+[^1364]: 283:4 Voir Gîtâ, [p. 117](Bhagavadgita_16#p117).
 
 [^1365]: 283:5 C'est-à-dire les jeûnes et autres observances similaires.

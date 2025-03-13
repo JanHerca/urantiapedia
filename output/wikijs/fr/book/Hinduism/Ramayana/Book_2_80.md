@@ -938,7 +938,7 @@ Et les chanteurs sacerdotaux qui répètent
 
 <span id="p186">[<sup><small>p. 186</small></sup>]</span>
 
-Les S'aman [1](Livre_2_80#fn352) ont chanté leurs vers sacrés.
+Les S'aman [1](Book_2_80#fn352) ont chanté leurs vers sacrés.
 De la ville sont venus en litière,
 Ou des chars, bien des dames royales,
 Et ainsi honoré le lieu des funérailles,
@@ -1074,7 +1074,7 @@ Et habile dans la vérité, son auditeur enseignait
 Comment toutes choses sont et deviennent anéanties,
 Quand chaque héros s'est levé du sol,
 Un lion seigneur des hommes, renommé,
-Il se montra comme le drapeau d'Indra, [2](Livre_2_80#fn355) sur lequel
+Il se montra comme le drapeau d'Indra, [2](Book_2_80#fn355) sur lequel
 Des pluies torrentielles se sont abattues et le soleil a brillé.
 Ils essuyèrent leurs yeux rouges et pleurants,
 Et ils répondirent doucement et tristement :
@@ -1379,7 +1379,7 @@ Orné par l'art d'ouvriers qualifiés.
 
 [^348]: 178:1 'Le S'atadrú, 'le cent-canalisé' — le Zaradrus de Ptolémée, Hesydrus de Pline — est le Sutlej.' WILSON'S _Vishnu Purána_, Vol. II. p. 130.
 
-[^349] : 178 : 2 Le Sarasvatí ou Sursooty est un affluent du Caggar ou Guggur à Sirhind.
+[^349]: 178 : 2 Le Sarasvatí ou Sursooty est un affluent du Caggar ou Guggur à Sirhind.
 
 [^350]: 184:1 _S'úryamcha pratimehata_, adversus solem mingat. Une offense expressément interdite par les lois de Manu.
 

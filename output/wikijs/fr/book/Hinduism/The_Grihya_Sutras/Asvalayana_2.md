@@ -421,11 +421,11 @@ Fin du deuxième Adhyâya.
 
 [^506]: 209:9 Comp. la note sur <i>S</i>âṅkhâyana-G<i>ri</i>hya III, 13, 1.
 
-[^507] : 209:10 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 1, 1.
+[^507]: 209:10 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 1, 1.
 
-[^508] : 209:13 <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 4.
+[^508]: 209:13 <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 4.
 
-[^509] : 209:15 <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 6. 9.
+[^509]: 209:15 <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 6. 9.
 
 [^510]: 209:1 6, 1. 'Il doit toucher en même temps la roue droite avec sa main droite, la roue gauche avec sa main gauche.' Nârâya<i>n</i>a.
 
@@ -455,7 +455,7 @@ Fin du deuxième Adhyâya.
 
 [^523]: 215:3 <i>S</i>âṅkhâyana IV, 13, 1.
 
-[^524] : 215:5 <i>S</i>âṅkhâyana-G<i>ri</i>hya III, 9.
+[^524]: 215:5 <i>S</i>âṅkhâyana-G<i>ri</i>hya III, 9.
 
 [^525]: 215:6 <i>S</i>âṅkhâyana, loc. cit.—La lecture upa maitu doit-elle être corrigée en upa maita ?
 

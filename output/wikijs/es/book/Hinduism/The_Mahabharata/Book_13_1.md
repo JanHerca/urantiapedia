@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T22:56:14Z
   </table>
 </figure>
 
-
-
-
 <span id="p1">[<sup><small>pág. 1</small></sup>]</span>
 
 EL MAHABHARATA
@@ -292,80 +289,6 @@ El bendito Vishnu continuó: «Entonces le dije: «Oh, regenerado, por tu gracia
 
 El bendito Vishnu dijo: «Saludé a Mahadeva, diciendo: Saludos a ti, oh tú, que eres el origen eterno de todas las cosas. Los Rishis dicen que eres el Señor de los Vedas. Los justos dicen que eres Penitencia, eres Sattva, eres Rajas, eres Tamas y eres Verdad. Tú eres Brahman, tú eres Rudra, tú eres Varuna, tú eres Agni, tú eres Manu, tú eres Bhava, tú eres Dhatri, tú eres Tashtri, tú eres Vidhatri, tú eres el poderoso Maestro de todas las cosas y estás en todas partes. Todos los seres, móviles e inmóviles, han surgido de ti. Este triple mundo con todas sus entidades móviles e inmóviles, ha sido creado por ti.» Los Rishis dicen que eres superior a los sentidos, la mente, los alientos vitales, los siete fuegos sacrificiales, todos los demás que tienen su refugio en el Alma omnipresente, y todas las deidades que son adoradas y dignas de adoración. Tú, oh ilustre, eres los Vedas, los Sacrificios, Soma, Dakshina, Pavaka, Havi y todos los demás requisitos del sacrificio. El mérito obtenido por los sacrificios, las ofrendas hechas a otros, el estudio de los Vedas, los votos, las regulaciones con respecto a la moderación, la Modestia, la Fama, la Prosperidad, el Esplendor, la Contentación y el Éxito, todo existe para conducirte a ti. [^68] El Deseo, la Ira, el Miedo, la Avaricia, el Orgullo, la Estupefacción y la Malicia, los Dolores y las Enfermedades, son, oh ilustre, tus hijos. Tú eres todos los actos que realizan las criaturas, tú eres la alegría y la tristeza que fluyen de esos actos, tú eres la ausencia de alegría y tristeza, tú eres esa Ignorancia que es la semilla indestructible del Deseo, tú eres el origen elevado de la Mente, tú eres Poder y tú eres Eternidad. [^69] Tú eres lo Inmanifestado, tú eres Pavana, tú eres inconcebible, tú eres el Sol de mil rayos, tú eres el refulgente Chit, tú eres el primero de todos los tópicos y tú eres el refugio de la vida. [^70] El uso de palabras como Mahat, Alma, Entendimiento, Brahman, Universo, Sambhu y Nacido por Sí Mismo, y otras palabras que aparecen en sucesión (en los Vedas), muestra que tu naturaleza ha sido juzgada (por personas versadas en los Vedas) como idéntica a Mahat y Alma. En verdad, considerándote como todo <span id="p65">[<sup><small>p. 65</small></sup>]</span> Con esto, los brahmanes eruditos superan la ignorancia que yace en la raíz del mundo. Tú resides en el corazón de todas las criaturas y eres adorado por los Rishis como Kshetrajna. Tus brazos y pies se extienden a todo lugar, y tus ojos, cabeza y rostro están en todas partes. Tú escuchas en todo el universo y permaneces, impregnándolo todo. De todos los actos que se realizan en los Nimeshas y otras divisiones del tiempo que surgen como consecuencia del poder del Sol, tú eres el fruto. [^71] Tú eres la refulgencia original (del Chit supremo). Tú eres Purusha y resides en el corazón de todas las cosas. Tú eres los diversos atributos yóguicos del éxito, a saber:Sutileza, Densidad, Fruición, Supremacía, Refulgencia e Inmutabilidad. [^72] El entendimiento, la inteligencia y todos los mundos descansan en ti. Quienes se dedican a la meditación, quienes se dedican constantemente al yoga, quienes son devotos o firmes en la Verdad y han dominado sus pasiones, te buscan y descansan en ti. [^73] Quienes te conocen como el Inmutable, o quien reside en todos los corazones, o quien está dotado de poder supremo, o quien es el antiguo Purusha, o quien es el Conocimiento puro, o quien es el Chit refulgente, o quien es el refugio supremo de todas las personas dotadas de inteligencia, son ciertamente personas de gran inteligencia. En verdad, tales personas permanecen, trascendiendo la inteligencia. [^74] Al comprender las siete entidades sutiles (a saber, Mahat, Ego y los cinco elementos primarios sutiles llamados Tanmatras), al comprender tus seis atributos (de Omnisciencia, Contentamiento de Plenitud, Conocimiento sin principio, Independencia, Poder que no falla en ningún momento y que es infinito), y al estar versado en el Yoga que está libre de toda noción falsa, el hombre de conocimiento logra entrar en tu gran ser. —Después de que dije estas palabras, oh Partha, a Bhava, ese disipador de pena y dolor, el universo, tanto móvil como inmóvil, lanzó un grito leonino (expresando su aprobación de la exactitud de mis palabras). Los innumerables Brahmanas allí presentes, las deidades y los Asuras, los Nagas, los Pisachas, los Pitris, las aves, diversos Rakshasas, diversas clases de fantasmas y espíritus, y todos los grandes Rishis, entonces se inclinaron ante esa gran Deidad. Entonces cayeron sobre mi cabeza lluvias de flores celestiales de gran fragancia, y vientos deliciosos soplaron en el lugar. El poderoso Sankara, entonces, consagrado al bien del universo, miró a la diosa Uma, al señor de los <span id="p66">[<sup><small>p. 66</small></sup>]</span> celestiales y a mí también, y me habló así: «Sabemos, oh Krishna, que tú, oh matador de enemigos, estás lleno de la mayor devoción hacia nosotros. Haz lo que sea para tu bien. Mi amor y afecto por ti son muy grandes. Pide ocho bendiciones. En verdad te las concederé, oh Krishna, oh el mejor de todos los seres, dime cuáles son, oh jefe de los Yadavas. Nombra lo que deseas. Por difícil que sea de conseguir, aún las tendrás». [^75]o aquel que es el refugio supremo de todas las personas dotadas de inteligencia, son ciertamente personas de gran inteligencia. En verdad, tales personas permanecen, trascendiendo la inteligencia. [^74] Al comprender las siete entidades sutiles (a saber, Mahat, Ego y los cinco elementos primarios sutiles llamados Tanmatras), al comprender tus seis atributos (Omnisciencia, Contentamiento de Plenitud, Conocimiento sin principio, Independencia, Poder que no falla en ningún momento y que es infinito), y al estar versado en el Yoga que está libre de toda noción falsa, el hombre de conocimiento logra penetrar en tu gran ser. —Después de haber dicho estas palabras, oh Partha, a Bhava, ese disipador de pena y dolor, el universo, tanto móvil como inmóvil, lanzó un grito leonino (expresando su aprobación por la exactitud de mis palabras). Los innumerables brahmanes allí presentes, las deidades y los asuras, los nagas, los pisachas, los pitris, las aves, diversos rakshasas, diversas clases de fantasmas y espíritus, y todos los grandes rishis, se inclinaron entonces ante esa gran deidad. Cayeron entonces sobre mi cabeza lluvias de flores celestiales de gran fragancia, y vientos deliciosos soplaron en el lugar. El poderoso Sankara, entonces, devoto del bien del universo, miró a la diosa Uma, al señor de los <span id="p66">[<sup><small>p. 66</small></sup>]</span> celestiales y también a mí, y me habló así: «Sabemos, oh Krishna, que tú, oh aniquilador de enemigos, estás lleno de la mayor devoción hacia nosotros. Haz lo que sea para tu bien. Mi amor y afecto por ti son inmensos. Pide ocho bendiciones». En verdad te los daré, ¡oh Krishna!, ¡oh, el mejor de todos! Dime cuáles son, ¡oh, jefe de los Yadavas! Di lo que desees. Por difícil que sea conseguirlos, los tendrás.» [^75]o aquel que es el refugio supremo de todas las personas dotadas de inteligencia, son ciertamente personas de gran inteligencia. En verdad, tales personas permanecen, trascendiendo la inteligencia. [^74] Al comprender las siete entidades sutiles (a saber, Mahat, Ego y los cinco elementos primarios sutiles llamados Tanmatras), al comprender tus seis atributos (Omnisciencia, Contentamiento de Plenitud, Conocimiento sin principio, Independencia, Poder que no falla en ningún momento y que es infinito), y al estar versado en el Yoga que está libre de toda noción falsa, el hombre de conocimiento logra penetrar en tu gran ser. —Después de haber dicho estas palabras, oh Partha, a Bhava, ese disipador de pena y dolor, el universo, tanto móvil como inmóvil, lanzó un grito leonino (expresando su aprobación por la exactitud de mis palabras). Los innumerables brahmanes allí presentes, las deidades y los asuras, los nagas, los pisachas, los pitris, las aves, diversos rakshasas, diversas clases de fantasmas y espíritus, y todos los grandes rishis, se inclinaron entonces ante esa gran deidad. Cayeron entonces sobre mi cabeza lluvias de flores celestiales de gran fragancia, y vientos deliciosos soplaron en el lugar. El poderoso Sankara, entonces, devoto del bien del universo, miró a la diosa Uma, al señor de los <span id="p66">[<sup><small>p. 66</small></sup>]</span> celestiales y también a mí, y me habló así: «Sabemos, oh Krishna, que tú, oh aniquilador de enemigos, estás lleno de la mayor devoción hacia nosotros. Haz lo que sea para tu bien. Mi amor y afecto por ti son inmensos. Pide ocho bendiciones». En verdad te los daré, ¡oh Krishna!, ¡oh, el mejor de todos! Dime cuáles son, ¡oh, jefe de los Yadavas! Di lo que desees. Por difícil que sea conseguirlos, los tendrás.» [^75]Y vientos deliciosos soplaron en el lugar. El poderoso Sankara, entonces, consagrado al bien del universo, miró a la diosa Uma, al señor de los <span id="p66">[<sup><small>p. 66</small></sup>]</span> celestiales y también a mí, y me habló así: «Sabemos, oh Krishna, que tú, oh matador de enemigos, estás lleno de la mayor devoción hacia nosotros. Haz lo que sea para tu bien. Mi amor y afecto por ti son muy grandes. Pide ocho bendiciones. En verdad te las concederé, oh Krishna, oh el mejor de todos los seres, dime cuáles son, oh jefe de los Yadavas. Di lo que deseas. Por difícil que sea conseguirlas, las tendrás». [^75]Y vientos deliciosos soplaron en el lugar. El poderoso Sankara, entonces, consagrado al bien del universo, miró a la diosa Uma, al señor de los <span id="p66">[<sup><small>p. 66</small></sup>]</span> celestiales y también a mí, y me habló así: «Sabemos, oh Krishna, que tú, oh matador de enemigos, estás lleno de la mayor devoción hacia nosotros. Haz lo que sea para tu bien. Mi amor y afecto por ti son muy grandes. Pide ocho bendiciones. En verdad te las concederé, oh Krishna, oh el mejor de todos los seres, dime cuáles son, oh jefe de los Yadavas. Di lo que deseas. Por difícil que sea conseguirlas, las tendrás». [^75]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SECCIÓN XV
 
 El bendito Krishna dijo: «Inclinando la cabeza con gran alegría ante esa masa de energía y refulgencia, le dije estas palabras a la gran Deidad, con el corazón lleno de alegría: Firmeza en la virtud, la derrota de los enemigos en la batalla, la más alta fama, el mayor poder, la devoción al yoga, tu proximidad y cientos y cientos de hijos, estos son los dones que te solicito. Que así sea», dijo Sankara repitiendo las palabras que yo había pronunciado. Después de esto, la madre del universo, la sustentadora de todas las cosas, quien purifica todas las cosas, es decir, la esposa de Sarva, ese vasto receptáculo de penitencias, me dijo con alma contenida estas palabras: «El poderoso Mahadeva te ha concedido, oh inmaculado, un hijo que se llamará Samva. Acepta también de mí los ocho dones que elijas». Ciertamente te los concederé. Inclinándome ante ella con una inclinación de cabeza, le dije: ¡Oh, hijo de Pandu!, te solicito la no ira contra los brahmanas, la gracia de mi padre, cien hijos, los más altos goces, amor por mi familia, la gracia de mi madre, el logro de la tranquilidad y la paz, y la inteligencia en cada acto.
@@ -389,12 +312,6 @@ El santo dijo: «Serás indestructible y eterno. Te liberarás de toda pena. Gra
 
 Upamanyu continuó: «Tras otorgarle a Tandi estas bendiciones y recibir la adoración tanto de las deidades como de los Rishis, la gran Deidad desapareció en ese instante. Cuando la ilustre deidad, ¡oh, señor de los Yadavas!, desapareció con todos sus seguidores, el Rishi acudió a mi refugio y me contó todo lo que le había sucedido. ¿Escuchas, oh, el más destacado de los hombres, todos esos célebres nombres (de Mahadeva) que Tandi me dijo para tu éxito espiritual? El Abuelo recitó en una ocasión diez mil nombres que se aplican a Mahadeva. En las escrituras, aparecen mil nombres de esa ilustre deidad. Estos nombres no son conocidos por todos. ¡Oh, tú, que trasciendes la destrucción!, en tiempos pasados, el Abuelo Brahma pronunció estos nombres para adorar a la Deidad de alma elevada. Habiéndolos adquirido por la gracia del Abuelo, ¡Tandi me los comunicó!» [^86]
 
-
-
-
-
-
-
 <span id="p73">[<sup><small>pág. 73</small></sup>]</span>
 
 ## SECCIÓN XVII
@@ -408,188 +325,6 @@ Tú eres aquel que está dotado de un vasto vientre. Tú eres aquel que lleva lo
 Así, oh Krishna, he cantado las alabanzas de la ilustre Deidad recitando sus nombres en orden de importancia. ¿Quién puede cantar las alabanzas del señor del universo, ese gran Señor de todo, merecedor de nuestra adoración, veneración y reverencia, a quien los mismos dioses, con Brahma a la cabeza, son incapaces de alabar y a quien los Rishis tampoco cantan? Con la ayuda, sin embargo, de mi devoción hacia él y habiendo recibido su permiso, he alabado a ese Señor de los sacrificios, esa Deidad de supremo poder, la más destacada de todas las criaturas, dotada de inteligencia. Al alabar con estos nombres que realzan la auspiciosidad del gran señor de la bienaventuranza, un adorador de alma devota y corazón puro logra alcanzar su propio ser. Estos nombres constituyen un himno que proporciona el mejor medio para alcanzar a Brahman. Con la ayuda de este himno, uno tiene la certeza de alcanzar la Emancipación. Los Rishis y las deidades alaban a la deidad suprema entonando este himno. Himnado por personas de espíritu moderado, Mahadeva se complace con quienes cantan sus alabanzas de esta manera. La ilustre deidad siempre está llena de compasión por sus devotos. Dotado de omnipotencia, es él quien otorga la Emancipación a quienes lo adoran. Así también, aquellos entre los hombres más destacados, poseedores de fe y devoción, escuchan y recitan para los demás <span id="p99">[<sup><small>p. 99</small></sup>]</span> y pronuncian con reverencia las alabanzas de ese Señor supremo y eterno, a saber, Isana, en todas sus vidas sucesivas y lo adoran en pensamiento, palabra y obra, adorándolo así en todo momento, a saber, Cuando están acostados, sentados, caminando, despiertos, abriendo o cerrando los párpados, y pensando en él repetidamente, se convierten en objeto de reverencia para todos sus semejantes y obtienen gran gratificación y alegría inmensa. Cuando una criatura se purifica de todos sus pecados a lo largo de millones de nacimientos en diversos órdenes de existencia, es entonces cuando la devoción por Mahadeva brota en su corazón. Es solo por buena fortuna que la devoción indivisa a Bhava, la causa original (del universo), brota plenamente en el corazón de quien está versado en todas las formas de adoración a esa gran Deidad. [^184] Una devoción tan pura e inmaculada a Rudra, con un propósito único y una irresistibilidad inquebrantable, rara vez se encuentra incluso entre las deidades, y nunca entre los hombres. Es por la gracia de Rudra que tal devoción surge en los corazones de los seres humanos. Como consecuencia de tal devoción, los hombres, identificándose plenamente con Mahadeva, logran el éxito supremo. La ilustre Deidad, siempre dispuesta a extender su gracia a quienes la buscan con humildad y se entregan con toda su alma a él, los rescata del mundo. Excepto la gran Deidad que libera a las criaturas del renacimiento, todos los demás dioses anulan constantemente las penitencias de los hombres.Pues los hombres no tienen otra fuente de poder tan grande como estas. [^185] Así fue como Tandi, de alma tranquila, con esplendor semejante al mismísimo Indra, alabó al ilustre Señor de todo lo existente y lo inexistente, esa gran Deidad vestida con pieles de animales. De hecho, Brahma había cantado este himno en presencia de Sankara. Eres un Brahmana (conocedor de Brahman y devoto de quienes lo conocen). Por lo tanto, debes comprenderlo bien. Esto purifica y limpia todos los pecados. Esto otorga yoga, emancipación, cielo y satisfacción. Quien recita este himno con devoción indivisa a Sankara logra alcanzar ese fin supremo que les corresponde a quienes se dedican a las doctrinas de la filosofía Sankhya. El adorador que recita este himno diariamente durante un año con devoción pura logra alcanzar el fin que desea. Este himno es un gran misterio. Antiguamente residía en el pecho de Brahma, el Creador. Brahma se lo impartió a Sakra. Sakra se lo impartió a Mrityu. Mrityu se lo impartió a los Rudras. De los Rudras, Tandi lo obtuvo. De hecho, Tandi lo adquirió en la región de Brahman como recompensa por sus rigurosas austeridades. Tandi se lo comunicó a Sukra, y Sukra, de la raza de Bhrigu, se lo comunicó <span id="p100">[<sup><small>p. 100</small></sup>]</span> a Gautama. Gautama, a su vez, ¡oh, descendiente de Madhu!, se lo comunicó a Vaivaswata-Manu. Manu se lo comunicó a Narayana, de gran inteligencia, contado entre los Sadhyas y muy querido por él. El ilustre Narayana, contado entre los Sadhyas y poseedor de una gloria inmensurable, se lo comunicó a Yama. Vaivaswat Yama se lo comunicó a Nachiketa. Nachiketa, oh tú, de la raza de Vrishni, se lo comunicó a Markandeya. De Markandeya, oh Janarddana, lo obtuve como recompensa por mis votos y ayunos. A ti, oh aniquilador de enemigos, te comunico este himno inaudito. Este himno conduce al cielo. Disipa las enfermedades y otorga larga vida. Esto es digno de la mayor alabanza y concuerda con los Vedas.El adorador que recita este himno diariamente durante un año con devoción sincera logra alcanzar el fin que desea. Este himno es un gran misterio. Anteriormente residía en el pecho de Brahma, el Creador. Brahma se lo impartió a Sakra. Sakra se lo impartió a Mrityu. Mrityu se lo impartió a los Rudras. De los Rudras, Tandi lo obtuvo. De hecho, Tandi lo adquirió en la región de Brahman como recompensa por sus rigurosas austeridades. Tandi se lo comunicó a Sukra, y Sukra, de la raza de Bhrigu, se lo comunicó <span id="p100">[<sup><small>p. 100</small></sup>]</span> a Gautama. Gautama, a su vez, ¡oh, descendiente de Madhu!, se lo comunicó a Vaivaswata-Manu. Manu se lo comunicó a Narayana, de gran inteligencia, contado entre los Sadhyas y a quien apreciaba enormemente. El ilustre Narayana, contado entre los Sadhyas y poseedor de una gloria inagotable, se lo comunicó a Yama. Vaivaswat Yama se lo comunicó a Nachiketa. Nachiketa, ¡oh, tú, de la raza de Vrishni!, se lo comunicó a Markandeya. De Markandeya, ¡oh, Janarddana!, lo obtuve como recompensa por mis votos y ayunos. A ti, ¡oh, exterminador de enemigos!, te comunico ese himno inaudito. Este himno conduce al cielo. Disipa la enfermedad y otorga larga vida. Esto es digno de la mayor alabanza y concuerda con los Vedas.El adorador que recita este himno diariamente durante un año con devoción sincera logra alcanzar el fin que desea. Este himno es un gran misterio. Anteriormente residía en el pecho de Brahma, el Creador. Brahma se lo impartió a Sakra. Sakra se lo impartió a Mrityu. Mrityu se lo impartió a los Rudras. De los Rudras, Tandi lo obtuvo. De hecho, Tandi lo adquirió en la región de Brahman como recompensa por sus rigurosas austeridades. Tandi se lo comunicó a Sukra, y Sukra, de la raza de Bhrigu, se lo comunicó <span id="p100">[<sup><small>p. 100</small></sup>]</span> a Gautama. Gautama, a su vez, ¡oh, descendiente de Madhu!, se lo comunicó a Vaivaswata-Manu. Manu se lo comunicó a Narayana, de gran inteligencia, contado entre los Sadhyas y a quien apreciaba enormemente. El ilustre Narayana, contado entre los Sadhyas y poseedor de una gloria inagotable, se lo comunicó a Yama. Vaivaswat Yama se lo comunicó a Nachiketa. Nachiketa, ¡oh, tú, de la raza de Vrishni!, se lo comunicó a Markandeya. De Markandeya, ¡oh, Janarddana!, lo obtuve como recompensa por mis votos y ayunos. A ti, ¡oh, exterminador de enemigos!, te comunico ese himno inaudito. Este himno conduce al cielo. Disipa la enfermedad y otorga larga vida. Esto es digno de la mayor alabanza y concuerda con los Vedas.
 
 Krishna continuó: «Oh, Partha, quien recita este himno con un corazón puro, observando el voto de Brahmacharyya y con los sentidos bajo control, regularmente durante un año entero, logra obtener los frutos de un sacrificio de caballo. Danavas, Yakshas, ​​Rakshasas, Pisachas, Yatudhanas, Guhyakas y serpientes no pueden hacerle daño».
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## SECCIÓN XVIII
 
@@ -631,12 +366,6 @@ Ashtavakra dijo: «Oh, bendita dama, jamás me acerco a quien sea la esposa de o
 La dama dijo: «Las mismas deidades del viento, el fuego y el agua, o los demás seres celestiales, oh regenerada, no son tan agradables a las mujeres como la deidad del deseo. En verdad, las mujeres son extremadamente aficionadas al encuentro sexual. Entre mil mujeres, o quizás entre cientos de miles, a veces solo se encuentra una que sea devota de su esposo. Bajo la influencia del deseo, no se preocupan por la familia, ni por el padre, ni por la madre, ni por el hermano, ni por el esposo, ni por los hijos, ni por el cuñado (sino que siguen el camino que el deseo les indica). En verdad, en busca de lo que consideran felicidad, destruyen la familia (a la que pertenecen por nacimiento o matrimonio), como muchos ríos majestuosos erosionan las orillas que las contienen. El mismo Creador lo dijo, señalando rápidamente las faltas de las mujeres». [^195]
 
 Bhishma continuó: «El Rishi, empeñado en descubrir los defectos de las mujeres, se dirigió entonces a aquella dama, diciendo: —Deja de hablarme en este tono. El anhelo nace del gusto. Dime qué más debo hacer. [^196]\—Aquella dama respondió: —Oh, ilustre, verás según el tiempo y el lugar si hay algo agradable en mí. Vive aquí solo por un tiempo.» Oh, bendito, me consideraré ampliamente recompensado. —Así se dirigió ella, el regenerado Rishi, oh Yudhishthira, expresó su resolución de acceder a su petición, diciendo: —En verdad, moraré contigo en este lugar mientras pueda hacerlo. —El Rishi entonces, al contemplar a aquella dama afligida por la decrepitud, comenzó a reflexionar seriamente sobre el asunto. Parecía incluso atormentado por sus pensamientos. Los ojos del más destacado de los brahmanes no encontraban deleite alguno en aquellas partes de la persona de aquella dama en las que se posaban. Por otro lado, sus miradas parecían disiparse por la fealdad de aquellas extremidades en particular. —Esta dama es sin duda la diosa de este palacio. ¿Se ha vuelto fea por alguna maldición? No es apropiado que averigüe apresuradamente la causa. —Reflexionando sobre esto en secreto, y curioso por saber la razón, el Rishi pasó el resto del día angustiado. La dama entonces se dirigió a él, diciendo: —Oh, ilustre, contempla el aspecto del Sol enrojecido por las nubes vespertinas. ¿Qué servicio te prestaré? —El Rishi se dirigió a ella, diciendo: —Trae agua para mis abluciones. Después de bañarme, rezaré mis oraciones vespertinas, refrenando mi lengua y mis sentidos.
-
-
-
-
-
-
 
 ## SECCIÓN XX
 
@@ -744,34 +473,6 @@ Bhishma dijo: «Tú, Yudhishthira, alimenta a esos brahmanes cuyas esposas esper
 
 “Todos estos hombres enumerados arriba tienen que ir al infierno. Escúchame ahora, oh toro de la raza de Bharata, mientras te digo quiénes son esos hombres que <span id="p127">[<sup><small>p. 127</small></sup>]</span> ascienden al cielo. Quien transgrede contra un brahmana impidiéndole realizar todos los actos en los que se adora a las deidades, sufre la pérdida de todos sus hijos y animales. (Quienes no transgreden contra los brahmanes obstruyendo sus actos religiosos ascienden al cielo). Aquellos hombres, oh Yudhishthira, que cumplen con los deberes establecidos en las escrituras y practican las virtudes de la caridad, el autocontrol y la veracidad, ascienden al cielo. Aquellos hombres que, habiendo adquirido conocimiento mediante la obediencia a sus preceptores y la observancia de austeras penitencias, se muestran reacios a aceptar ofrendas, logran ascender al cielo. Aquellos hombres que alivian y rescatan a otros del miedo, el pecado, los obstáculos que les impiden alcanzar sus metas, la pobreza y las aflicciones de la enfermedad, logran ascender al cielo. Aquellos hombres dotados de una disposición indulgente, pacientes, diligentes en la realización de todas las acciones correctas y de conducta auspiciosa, logran ascender al cielo. Aquellos hombres que se abstienen de miel y carne, de tener relaciones sexuales con esposas ajenas y de vinos y licores, logran ascender al cielo. Aquellos hombres que ayudan a establecer retiros para ascetas, que se convierten en fundadores de familias, ¡oh Bharata!, que abren nuevos países para habitarlos y construyen pueblos y ciudades, logran ascender al cielo. Aquellos hombres que regalan ropa y adornos, así como comida y bebida, y que ayudan a casarse, logran ascender al cielo. [^229] Aquellos hombres que se han abstenido de toda clase de daño o perjuicio a todas las criaturas, que son capaces de soportarlo todo y que se han convertido en el refugio de todas las criaturas, logran ascender al cielo. Aquellos hombres que atienden con humildad a sus padres y madres, que han dominado sus sentidos y son cariñosos con sus hermanos, logran ascender al cielo. Aquellos hombres que dominan sus sentidos a pesar de ser ricos en bienes mundanos, fuertes en fuerza y ​​disfrutar de la juventud, logran ascender al cielo. Aquellos hombres que son amables incluso con quienes los ofenden, que son apacibles, que sienten afecto por todos los de comportamiento afable y que contribuyen a la felicidad de los demás prestándoles todo tipo de servicio con humildad, logran ascender al cielo. Aquellos hombres que protegen a miles de personas, que hacen regalos a miles de personas y que rescatan a miles de personas de la aflicción, logran ascender al cielo. Aquellos hombres que hacen regalos de oro y de ganado,Oh, jefe de la raza de Bharata, así como quienes poseen medios de transporte y animales, logran ascender al cielo. Quienes donan artículos necesarios para los matrimonios, sirvientes y criadas, ropa y túnicas, logran ascender al cielo [230]. Quienes construyen casas de recreo, jardines y pozos, casas de descanso y edificios para reuniones públicas, estanques para que el ganado y los hombres sacien su sed, y campos de cultivo, oh Bharata, logran ascender al cielo. [231] Quienes donan casas, campos y aldeas pobladas a quienes las solicitan, logran ascender al cielo. Quienes, habiendo elaborado ellos mismos bebidas jugosas de sabor dulce, semillas y arroz, los donan a otros, logran ascender al cielo. Aquellos hombres que, naciendo en familias de alta o baja cuna, engendran cientos de hijos y viven una larga vida practicando la compasión y dominando la ira por completo, logran ascender al cielo. Así te he explicado, oh Bharata, cuáles son los ritos en honor a las deidades y los Pitris que la gente realiza por el bien del otro mundo, cuáles son las ordenanzas respecto a las ofrendas y cuáles son las opiniones de los Rishis de antaño respecto a los artículos de ofrenda y la forma de entregarlos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SECCIÓN XXIV
 
 Yudhishthira dijo: «Oh, hijo real de la raza de Bharata, te corresponde responder a esta pregunta mía con veracidad y detalle. ¿En qué circunstancias una persona puede ser culpable de brahmanicidio sin llegar a matar a un brahmana?».
@@ -807,12 +508,6 @@ El Rishi, coronado por el éxito, dijo: «Esos países, esas provincias, esos re
 Bhishma continuó: «El erudito asceta, dotado de gran inteligencia y gran iluminación, y coronado por el éxito, tras haberle hablado así a aquel pobre brahmana, en observancia del voto de Sila, sobre los infinitos méritos del Ganges, ascendió al firmamento. El brahmana, en observancia del voto de Sila, despertado por las palabras de aquel asceta coronado por el éxito, adoró debidamente al Ganges y alcanzó un gran éxito. Tú también, oh hijo de Kunti, busca al Ganges con gran devoción, pues entonces, como recompensa, alcanzarás un gran y excelente éxito».
 
 Vaisampayana continuó: «Al escuchar este discurso de Bhishma, pleno de alabanzas al Ganges, Yudhishthira y sus hermanos se llenaron de gran deleite. Quien recita o escucha recitar este sagrado discurso, pleno de alabanzas al Ganges, se purifica de todo pecado».
-
-
-
-
-
-
 
 ## SECCIÓN XXVII
 

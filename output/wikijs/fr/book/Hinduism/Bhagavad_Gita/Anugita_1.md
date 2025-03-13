@@ -120,15 +120,15 @@ Mortels, ô cher ami [^1053] ! Par leurs actions mixtes, ou méritoires et pures
 
 [^1049]: 231:8 C'est-à-dire comme indiqué, par exemple, dans Gîtâ, [p. 79](Bhagavadgita_8#p79), B<i>ri</i>hadâra<i>ri</i>aka, p. 613.
 
-[^1050] : 232:1 Cf. infra, [p. 245](Anugita_3#p245). 
+[^1050]: 232:1 Cf. infra, [p. 245](Anugita_3#p245). 
 
-[^1051] : 232:2 Cf. Gîtâ, pp. [48](Bhagavadgita_2#p48), [103](Bhagavadgita_13#p103). 
+[^1051]: 232:2 Cf. Gîtâ, pp. [48](Bhagavadgita_2#p48), [103](Bhagavadgita_13#p103). 
 
-[^1052] : 232 : 3 Cf. Gîtâ, passim. 
+[^1052]: 232 : 3 Cf. Gîtâ, passim. 
 
-[^1053] : 232:4 Cf. Sanatsugâtîya, [p. 162](Sanatsugatiya_2#p162). 
+[^1053]: 232:4 Cf. Sanatsugâtîya, [p. 162](Sanatsugatiya_2#p162). 
 
-[^1054] : 232 : 5 C.-à-d. se déplacer pour ne pas être vu de tout le monde. 
+[^1054]: 232 : 5 C.-à-d. se déplacer pour ne pas être vu de tout le monde. 
 
 [^1055]: 232:6 Littéralement, « détenteurs de roues », ce qu'Ar<i>g</i>una Mi<i>s</i>ra interprète comme signifiant « K</i>âra<i>n</i>as ». Dans <i>S</i>ânti Parvan (Moksha Dharma) CCXLIV, 26, Nîlaka<i>nth</i>a rend <i>K</i>akradhara par <i>K</i>akravartin ou Empereur. 
 

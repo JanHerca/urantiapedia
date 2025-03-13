@@ -990,7 +990,7 @@ Surpris chaque sentinelle éloignée.
 
 [^961]: 460:1 J'ai omis plusieurs de ces combats singuliers, car il y a peu de variété dans les détails et chaque duel aboutit à la victoire du Vánar ou de son allié.
 
-[^962] : 460 : 1b Yajnas'atru, Maháphráva, Mahodar, Vajradanshtra, S'uka et Sáran.
+[^962]: 460 : 1b Yajnas'atru, Maháphráva, Mahodar, Vajradanshtra, S'uka et Sáran.
 
 [^963]: 460:2b Angad.
 
@@ -1006,4 +1006,4 @@ Surpris chaque sentinelle éloignée.
 
 [^969]: 464:1 Le précepteur des Dieux.
 
-[^970] : 465:1 Le grand-père de Ráma.
+[^970]: 465:1 Le grand-père de Ráma.

@@ -32,7 +32,9 @@ dateCreated: 2025-1-16T20:2:59Z
   </table>
 </figure>
 
+L'Anusasana Parva, comme le Santi Parva avant lui, constitue une longue interruption dans le récit du Mahabharata. Situé sur le lit de mort de Bhishma, l'Anusasana Parva est un immense trésor de traditions brahmaniques, manifestement une interpolation ultérieure dans l'épopée.
 
+NOTES DE PRODUCTION : (1/12/2004) L'édition imprimée que nous avons utilisée divisait ce livre en deux parties. Notez que la numérotation des pages de chaque partie commence à la première page ; ainsi, si vous citez un numéro de page dans ce texte électronique pour une raison quelconque, vous devrez également citer la partie en question. — John Bruno Hare.
 
 <figure class="table chapter-navigator">
   <table>

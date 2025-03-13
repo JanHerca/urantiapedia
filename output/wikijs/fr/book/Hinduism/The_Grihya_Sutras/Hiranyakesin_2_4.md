@@ -179,7 +179,7 @@ Fin du Quatrième Pa<i>t</i>ala.
 
 [^679]: 227:1 11, 1. <i>Ri</i>g-veda X, 15, 53; Atharva-veda XVIII, 4, 64; Â<i>ri</i>valâyana-G<i>ri</i>hya II, 4, 13, etc. Avant le verset «Portez l'Â<i>ri</i>ya», les Udî<i>ri</i>yas, comme le dit Mât<i>ri</i>datta, insèrent les mots «Il fait ensuite des oblations d'Â<i>ri</i>ya (avec le Mantra, etc.).» Selon cette lecture, les mots du deuxième Sûtra, «De la même manière, etc.», ne se référeraient qu'à ces dernières oblations.
 
-[^680] : 228 : 5 Comp. Taittirîya Âra<i>n</i>yaka X, 84.
+[^680]: 228 : 5 Comp. Taittirîya Âra<i>n</i>yaka X, 84.
 
 [^681]: 229:3 Selon le commentaire après chaque formule, les mots sont ajoutés, 'et à ceux qui te suivent'; comp. Taitt. Sa<i>m</i>h. I, 8, 5, 1; III, 2, 5, 5; Kâty.-<i>S</i>raut. IV, 1, 12.
 

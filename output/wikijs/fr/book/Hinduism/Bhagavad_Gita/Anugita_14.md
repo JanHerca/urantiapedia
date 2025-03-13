@@ -76,7 +76,7 @@ Les Pitri ont dit :
 
 ## Notes de bas de page
 
-[^1422] : 293 : 1 Cf. Taittirîya-upanishad, p. 40.
+[^1422]: 293 : 1 Cf. Taittirîya-upanishad, p. 40.
 
 [^1423]: 293:2 Les lectures données ici dans le manuscrit ne sont pas satisfaisantes. J'adopte comme le meilleur ce qui semble avoir été fait avant Ar<i>g</i>una Mi<i>s</i>ra. Le sens semble être le suivant : j'ai maintenant compris la vérité, mais on ne peut me reprocher d'avoir jusqu'ici fait ce que j'ai vu tout le monde faire. J'ai maintenant eu le bénéfice d'une conversation avec un homme de bien et je me suis libéré de mon illusion.
 
@@ -94,6 +94,6 @@ Les Pitri ont dit :
 
 [^1430]: 295:4 Comme les Kshatriyas étaient nécessaires à la protection du peuple, les Brâhmanes les engendraient sur des femmes Kshatriyas. Voir Muir, Sanskrit Texts, vol. ii, p. 451 et suiv. Et comme ils étaient issus de ces connexions anormales, ils sont décrits comme « parents des Kshatriyas ». Cf. <i>Kh</i>ândogya, p. 317 ; B<i>ri</i>hadâra<i>n</i>yaka, p. 1037 et ses commentaires. Quant à l'héroïsme, voir Muir, Sanskrit Texts, vol. iv, p. 302 note.
 
-[^1431] : 295:5 Cf. Gîtâ, [p. 40](Bhagavadgita_1#p40), note [1](Bhagavadgita_1#fn97).
+[^1431]: 295:5 Cf. Gîtâ, [p. 40](Bhagavadgita_1#p40), note [1](Bhagavadgita_1#fn97).
 
 [^1432]: 295:6 Voir pour l'histoire complète, Muir, Sanskrit Texts, vol. i, p. 442.

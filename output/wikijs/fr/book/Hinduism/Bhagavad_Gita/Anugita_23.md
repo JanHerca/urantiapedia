@@ -68,9 +68,9 @@ Français Je vais maintenant décrire la troisième qualité, la meilleure, bén
 
 [^1580]: 325:3 Voir [p. 321](Anugita_21#p321) et noter [5](Anugita_21#fn1548) ici.
 
-[^1581] : 325:4 Cf. entre autres, Gîtâ, [p. 48](Bhagavadgita_2#p48).
+[^1581]: 325:4 Cf. entre autres, Gîtâ, [p. 48](Bhagavadgita_2#p48).
 
-[^1582] : 325 : 5 À savoir. paradis. Cf. Gîtâ, [p. 48](Bhagavadgita_2#p48).
+[^1582]: 325 : 5 À savoir. paradis. Cf. Gîtâ, [p. 48](Bhagavadgita_2#p48).
 
 [^1583]: 325:6 C'est-à-dire des offrandes aux mânes.
 
@@ -78,7 +78,7 @@ Français Je vais maintenant décrire la troisième qualité, la meilleure, bén
 
 [^1585]: 326:1 Telle est la lecture de Nîlaka<i>ntha</i>a, et il prend la connaissance pour signifier la simple connaissance dérivée des livres, etc. A<i>g</i>una Mi<i>s</i>ra a une lecture différente de vain, qu'il interprète comme signifiant « souhait de fruit ».
 
-[^1586] : 326 : 2 Voir Sanatsugâtîya, [p. 162](Sanatsugatiya_2#p162).
+[^1586]: 326 : 2 Voir Sanatsugâtîya, [p. 162](Sanatsugatiya_2#p162).
 
 [^1587]: 326:3 C'est-à-dire une conduite pure et directe dans l'accomplissement de tout ce qui est fait pour atteindre l'émancipation finale.
 
@@ -86,7 +86,7 @@ Français Je vais maintenant décrire la troisième qualité, la meilleure, bén
 
 [^1589]: 326:5 L'état d'être indifférent, udâsîna, Nîlaka<i>nth</i>a.
 
-[^1590] : 326:6 Cf. Gîtâ, [p. 60](Bhagavadgita_4#p60), entre autres.
+[^1590]: 326:6 Cf. Gîtâ, [p. 60](Bhagavadgita_4#p60), entre autres.
 
 [^1591]: 326:7 Arguna Mi<i>s</i>ra comprend ici l'original comme signifiant « ne pas être sous le contrôle d'un autre ».
 

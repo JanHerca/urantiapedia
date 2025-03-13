@@ -150,15 +150,15 @@ Il existe deux index : le premier est un index général des sujets, le second c
 
 [^18]: 8:1 Voir l'Essai introductif à ma Bhagavadgîtâ, traduit en anglais en vers blancs, p. lxvii. Voir aussi les Restes de Goldstücker, I, 48, 77 ; II, 10.
 
-[^19] : 8:2 [p. 317](Anugita_20#p317); cf. aussi [p. 338](Anugita_27#p338).
+[^19]: 8:2 [p. 317](Anugita_20#p317); cf. aussi [p. 338](Anugita_27#p338).
 
-[^20] : 8 : 3 Préface de Sânkhya Sâra, p. 7 (Bibl. Indic. Éd.)
+[^20]: 8 : 3 Préface de Sânkhya Sâra, p. 7 (Bibl. Indic. Éd.)
 
 [^21]: 8:4 Histoire de la littérature indienne, p. 28.
 
 [^22]: 8:5 Devons-nous déduire de la circonstance mentionnée dans l'Histoire de la littérature indienne de Weber (p. 223, note, 235), que l'auteur de ces Sûtras était plus âgé que Bouddha ?
 
-[^23] : 9 : 1 Sûtra, 12, Abhyâsa-vairâgyâbhyâ<i>m</i> tannirodha<i>h</i>.
+[^23]: 9 : 1 Sûtra, 12, Abhyâsa-vairâgyâbhyâ<i>m</i> tannirodha<i>h</i>.
 
 [^24]: 10:1 Dans la préface de son Sânkhya Sâra, je pense.
 
@@ -178,13 +178,13 @@ Il existe deux index : le premier est un index général des sujets, le second c
 
 [^32]: 16:2 Conférences Hibbert, p. 340 seq.
 
-[^33] : 16 : 3 II, 42-45 ; IX, 20, 21.
+[^33]: 16 : 3 II, 42-45 ; IX, 20, 21.
 
 [^34]: 16:4 XVII, 12.
 
-[^35] : 16 : 5 VII, 21-23 ; IX, 23-24.
+[^35]: 16 : 5 VII, 21-23 ; IX, 23-24.
 
-[^36] : 16 :6 VIII, 14-16 ; IX, 39-33.
+[^36]: 16 :6 VIII, 14-16 ; IX, 39-33.
 
 [^37]: 17:1 Voir <i>Kh</i>ândogya-upanishad, p. 473, ou plutôt j'aurais dû me référer au Mu<i>nd</i>aka-upanishad, où la supériorité et l'infériorité sont énoncées plus distinctement en mots, pp. 266, 267.
 
@@ -192,13 +192,13 @@ Il existe deux index : le premier est un index général des sujets, le second c
 
 [^39]: 19:1 Voir aussi Sutta Nipâta, p. 115.
 
-[^40] : 19 : 2 édition de Haug, p. 68.
+[^40]: 19 : 2 édition de Haug, p. 68.
 
 [^41]: 20:1 Bibl. Ind. éd. 12
 
 [^42]: 20:2 Bibl. Ind. éd., p. 221 seq.
 
-[^43] : 20 :3 Bibl. Éd. ind. : p. 11.
+[^43]: 20 :3 Bibl. Éd. ind. : p. 11.
 
 [^44]: 20:4 Chapitre IV, strophes 123, 124.
 
@@ -216,15 +216,15 @@ Il existe deux index : le premier est un index général des sujets, le second c
 
 [^51]: 22:2 Quant aux Kshatriyas, le contraste avec les règles de Manu est encore plus fort qu'avec celles d'Âpastamba. Voir notre Introduction à la Gîtâ en vers anglais, p. cxiii.
 
-[^52] : 23:1 P. [120](Bhagavadgita_17#p120).
+[^52]: 23:1 P. [120](Bhagavadgita_17#p120).
 
-[^53] : 23:2 Pp. [129](Bhagavadgita_18#p129), [130](Bhagavadgita_18#p130).
+[^53]: 23:2 Pp. [129](Bhagavadgita_18#p129), [130](Bhagavadgita_18#p130).
 
 [^54]: 23:3 Voir [p. 58](Bhagavadgita_3#p58) intra; et comparer avec cela les remarques de Weber sur l'une des classes dans lesquelles il divise l'ensemble des Upanishads, History of Indian Literature, p. 165. Voir aussi Muir, Sanskrit Texts, vol. i, p. 508; Max Müller, Upanishads, vol. i, p. lxxv.
 
 [^55]: 23:4 Cf. Sutta Nipâta, p. 32; et aussi la note de M. Davids sur ce passage dans son Bouddhisme, p. 131.
 
-[^56] : 24:1 P. [89](Bhagavadgita_10#p89) infra.
+[^56]: 24:1 P. [89](Bhagavadgita_10#p89) infra.
 
 [^57]: 24:2 Essais sur la littérature sanskrite, vol. iii, p. 150.
 
@@ -262,26 +262,26 @@ Il existe deux index : le premier est un index général des sujets, le second c
 
 [^74]: 31:2 Voir Sâmavidhâna-brâhmana de Burnell, Introduction, p. vi note.
 
-[^75] : 32 : 1 Les autorités sont rassemblées dans notre édition de Bhart<i>ri</i>hâri (Bombay Series of Sanskrit Classics), Introd. p. xi remarque. Voir aussi Âpastamba de Bühler dans cette série, Introd. p. xxviii.
+[^75]: 32 : 1 Les autorités sont rassemblées dans notre édition de Bhart<i>ri</i>hâri (Bombay Series of Sanskrit Classics), Introd. p. xi remarque. Voir aussi Âpastamba de Bühler dans cette série, Introd. p. xxviii.
 
 [^76]: 32:2 Voir Colebrooke's Essays, vol. i, p. 332. Un Upavarsha est mentionné dans le Kathâsaritsâgara comme vivant à l'époque du roi Nanda, et ayant Pâ<i>n</i>ini, Kâtyâyana et Vyâ<i>d</i>i pour élèves.
 
 [^77]: 32:3 Voir le Râmânu<i>g</i>a Bhâshya; et le Râmânu<i>g</i>a Dar<i>s</i>ana dans Sarvadar<i>s</i>ana-sangraha.
 
-[^78] : 32 : 4 Âpastamba, p. XVI.
+[^78]: 32 : 4 Âpastamba, p. XVI.
 
-[^79] : 32 : 5 Voir Siddhânta Kaumudî, vol. je, p. 592.
+[^79]: 32 : 5 Voir Siddhânta Kaumudî, vol. je, p. 592.
 
 [^80]: 33:1 Voir son Pânini; et voir aussi l'Âpastamba de Bühler dans cette série, Introd. p. xxxii note.
 
 [^81]: 33:2 L’exactitude de cette tradition est très douteuse.
 
-[^82] : 33 : 3 Indische Studien I. 470.
+[^82]: 33 : 3 Indische Studien I. 470.
 
 [^83]: 34:1 Voir l'édition de la Gîtâ de ce dernier, Préface, p. xxvii.
 
 [^84]: 34:2 Dans l'édition de la Gîtâ publiée à Bombay en <i>S</i>aka 1782, il y a une strophe qui dit que les Upanishads sont les vaches, K<i>ri</i>sh<i>n</i>a le laitier, Ar<i>g</i>una le veau, et que le lait est la Gîtâ semblable au nectar, ce qui indique la vision traditionnelle de la Gîtâ — une vision en accord avec celle à laquelle nous ont conduit les faits et les arguments contenus dans cette introduction.
 
-[^85] : 35:1 p. xl (éd. de Lassen)
+[^85]: 35:1 p. xl (éd. de Lassen)
 
 [^86]: 35:2 Le commentaire de Sankara affirme en d'autres termes que la Gîtâ qu'il a utilisée ne contenait que 700 <i>s</i>lokas.

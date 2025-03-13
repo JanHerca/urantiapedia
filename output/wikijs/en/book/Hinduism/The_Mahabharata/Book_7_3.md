@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
-
-
-
 <span id="p165">[<sup><small>p. 165</small></sup>]</span>
 
 ## SECTION LXXXV

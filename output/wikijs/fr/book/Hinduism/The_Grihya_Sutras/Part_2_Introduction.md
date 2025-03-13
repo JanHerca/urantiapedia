@@ -259,21 +259,21 @@ L'autre passage que je souhaite aborder ici est Pâraskara <span id="pxxxix">[<s
 
 [^9]: xiii:1 Par exemple, dans les versets qui apparaissent dans l'histoire bien connue de Suna<i>h</i><i>h</i>epa (Aitareya-Brâhma<i>h</i>a VII, 13 seq.).
 
-[^10] : xiii:2 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 15, 2.
+[^10]: xiii:2 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 15, 2.
 
 [^11]: xiii:3 Mantra-Brâhma<i>n</i>a I, 5, 9; cf. Gobhila-G<i>n</i>hya II, 7, 21.
 
 [^12]: xiv:1 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 21, 1. Dans Pâraskara et dans le Mantra-Brâhma<i>ri</i>a, seul le premier hémistiche a la forme Anush<i>ri</i>ubh.
 
-[^13] : xiv:2 Aitareya-Brâhma<i>n</i>a VIII, 10, 9 : etya g<i>n</i>hân pa<i>nd</i>âd g<i>n</i>hyasyâgner upavish<i>n</i>âyânvârabdhâya p. xv _ri<i>n</i>h<i>n</i>m<i>n</i>k<i>n</i>ri<i>n</i>g<i>n</i>h<i>n</i>m<i>n</i>g_uhoti, &c.
+[^13]: xiv:2 Aitareya-Brâhma<i>n</i>a VIII, 10, 9 : etya g<i>n</i>hân pa<i>nd</i>âd g<i>n</i>hyasyâgner upavish<i>n</i>âyânvârabdhâya p. xv _ri<i>n</i>h<i>n</i>m<i>n</i>k<i>n</i>ri<i>n</i>g<i>n</i>h<i>n</i>m<i>n</i>g_uhoti, &c.
 
 [^14]: xv:1 Certains des endroits où le dictionnaire de Saint-Pétersbourg voit des noms du feu G<i>ri</i>hya dans les textes de Brâhma<i>ri</i>a sont erronés ou douteux. Taittirîya Sa<i>ri</i>hitâ V, 5, 9, 2, il ne faut pas lire g<i>ri</i>hya mais gahya. Aupâsana, <i>S</i>atapatha Brâhma<i>ri</i>a XII, 3, 5, 5, ne semble pas faire référence à un feu sacrificiel. Suivant l'identité d'aupâsana et de sabhya maintenue dans le dictionnaire sous le titre aupâsana, on pourrait être tenté, dans un passage comme Satapatha Brâhmaaria II, 3, 2, 3, de rapporter les mots ya esha sabhâyâm agnih au feu domestique. Or, il s'agit en réalité d'un feu différent (Kâtyâyana-Srauta-sûtra IV, 9, 20).
 
 [^15]: xv:2 <i>S</i>âṅkhâyana I, 1, 1: pâkaya<i>g</i>g</i>ân vyâkhyâsyâma_h_; I, 5, 1 =Pâraskara I, 4, 1: _k<i>g</i>h<i>g</i>g_<i>g</i>â hutoऽhuta_h<i>g</i>h<i>g</i>s_ita iti.
 
-[^16] : xv:3 I, 4, 2, 10 : sarvân ya<i>g</i><i>g</i>ân . . . vous _k<i>g</i>g_<i>g</i>â vous <i>k</i>etare.
+[^16]: xv:3 I, 4, 2, 10 : sarvân ya<i>g</i><i>g</i>ân . . . vous _k<i>g</i>g_<i>g</i>â vous <i>k</i>etare.
 
-[^17] : xv:4 I, 7, 1, 3 : sarve<i>n</i>a vai ya<i>nd</i>ena devâ_h<i>n</i>m_ lokam âyan, pâkaya<i>et</i>ena Manur a<i>n</i>râmyat, &c.
+[^17]: xv:4 I, 7, 1, 3 : sarve<i>n</i>a vai ya<i>nd</i>ena devâ_h<i>n</i>m_ lokam âyan, pâkaya<i>et</i>ena Manur a<i>n</i>râmyat, &c.
 
 [^18]: xv:5 I, 8, 1, 6 seq. La traduction est celle du Prof. Max Müller (L'Inde, que peut-elle nous apprendre ? p. 135 seq.).
 
@@ -365,7 +365,7 @@ L'autre passage que je souhaite aborder ici est Pâraskara <span id="pxxxix">[<s
 
 [^62]: xxxi:1 Dans le seul domaine de la littérature Atharva-veda, nous trouvons cette relation inversée ; ici le Srauta-sûtra (le Vaitâna-sûtra) présuppose le Girihya-sûtra (le Kauriika-sûtra). Cf. la préface du professeur Garbe à son édition du Vaitâna-sûtra, p. vii. Cette relation n'a rien d'extraordinaire, compte tenu du caractère secondaire du Vaitâna-sûtra.
 
-[^63] : xxxi:2 Uktâni vaitânikâni, g<i>ri</i>hyâ<i>ri</i>i vakshyâma_h_.
+[^63]: xxxi:2 Uktâni vaitânikâni, g<i>ri</i>hyâ<i>ri</i>i vakshyâma_h_.
 
 [^64]: xxxii:1 Les passages parallèles du <i>S</i>rauta-sûtra et du G<i>ri</i>hya-sûtra des Mânavas sont réunis dans le Dr. A.S. L'intéressant article de Von Bradke, « Over the Mânava-Grihya-sûtra », Journal of the German Morning Country. Société, vol. xxxvi, p. 451.
 

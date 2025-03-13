@@ -202,12 +202,12 @@ Le baume guérisseur pour me faire vivre.' [^904]
 
 [^899]: 426:1 Trois chants de répétition sont omis.
 
-[^900] : 426 : 2 _Madhuvan_ le « bois de miel ».
+[^900]: 426 : 2 _Madhuvan_ le « bois de miel ».
 
 [^901]: 426:3 Le lieu de plaisir ou l'Élysée d'Indra.
 
 [^902]: 426:1b Trois chants, composés de peu de répétitions, sont omis. Dadhimukh échappe aux singes furieux et se précipite vers Sugríva pour lui rapporter leur mauvaise conduite. Sugríva en déduit qu'Hanuman et sa bande ont réussi dans leurs recherches, et que l'exubérance des esprits et les méfaits dont ils se plaignent ne sont que l'expression naturelle de leur joie. Dadhimukh n'obtient que peu de sympathie de la part de Sugríva, et on lui dit de revenir et de renvoyer les singes au plus vite.
 
-[^903] : 427 : 1 Janak était le roi de Videha ou Mithilá à Behar.
+[^903]: 427 : 1 Janak était le roi de Videha ou Mithilá à Behar.
 
 [^904]: 427:2 L'original contient deux autres chants qui terminent le livre, le chant LXVII commence ainsi : « Hanumán, ainsi adressé par le fils à l'âme généreuse de Raghu, raconta au fils de Raghu tout ce que Sitá avait dit. » Et les deux chants ne contiennent rien d'autre que le récit d'Hanumán de son entrevue avec Sitá, et le compte rendu de ses propres discours ainsi que des siens.

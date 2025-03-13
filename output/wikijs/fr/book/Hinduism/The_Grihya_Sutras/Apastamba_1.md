@@ -194,21 +194,21 @@ dateCreated: 2025-1-16T20:2:26Z
 
 [^714]: 252:12 12 seq. Description de la forme régulière d'un Pâkaya<i>g</i><i>g</i>a.
 
-[^715] : 252:19 Comp. <i>S</i>rauta-sûtra I, 11, 6 suiv.
+[^715]: 252:19 Comp. <i>S</i>rauta-sûtra I, 11, 6 suiv.
 
 [^716]: 252:20 C'est l'eau Pra<i>n</i>îtâ.
 
 [^717]: 252:21 Le Brahman.
 
-[^718] : 253 : 2 2, 2. Sur les bois de Paridhi, comp. principalement Hillebrandt, Neu-und Vollmondsopfer, 66 suiv.
+[^718]: 253 : 2 2, 2. Sur les bois de Paridhi, comp. principalement Hillebrandt, Neu-und Vollmondsopfer, 66 suiv.
 
 [^719]: 253:5 Les règles du Srauta sur les deux Âghâras sont données dans le Srauta-sûtra II, 12, 7 ; 14, 1.
 
-[^720] : 254:6 Comp. <i>Srauta-sûtra II, 18, 5; Hillebrandt, loc. cit., p. 106, note 3.
+[^720]: 254:6 Comp. <i>Srauta-sûtra II, 18, 5; Hillebrandt, loc. cit., p. 106, note 3.
 
 [^721]: 254:7 Sur les formules de Gaya, Abhyâtâna et Râsh<i>t</i>rabh<i>t</i>t, comp. Pâraskara I, 5, 7 seq. ; Hiratyaketin I, I, 3, 7 seq. ; Taitt. Sathitâ III, 4, 4-7. — La dernière formule apparaît également dans Âtvalâyana I, 10, 23 ; Hiratyaketin I, I, 3, 6, etc.
 
-[^722] : 254:8 Comp. ci-dessus, Sûtra 3.
+[^722]: 254:8 Comp. ci-dessus, Sûtra 3.
 
 [^723]: 254:10 Selon Haradatta, ce Sûtra impliquerait que partout où le rituel décrit dans les Sûtras précédents est valable, p. 255 un autre rituel basé sur le Brâhma<i>n</i>a, et plus particulièrement sur le traitement de l'Agnihotra dans le Brâhma<i>n</i>a, peut être utilisé à sa place.
 
@@ -218,9 +218,9 @@ dateCreated: 2025-1-16T20:2:26Z
 
 [^726]: 255:1 3, 1, 2. Comp. <i>Ri</i>g-veda X, 85, 13; Atharva-veda XIV, i, 13; Kau<i>s</i>ika-sûtra 75; Râmâya<i>s</i>a I, 71, 24; 72, 13; Weber, Die vedischen Nachrichten von den Naxatra, II, 364 seq. Ces passages parallèles montrent très clairement que dans le Sûtra 2 nous devrions lire vyuhyate, et non vyûhyate.
 
-[^727] : 256:3 Comp. Taittirîya Brâhma<i>n</i>a I, 5, 2, 3.
+[^727]: 256:3 Comp. Taittirîya Brâhma<i>n</i>a I, 5, 2, 3.
 
-[^728] : 256:4 Comp. Sûtra 3 et supérieur, section 2, Sûtra 16.
+[^728]: 256:4 Comp. Sûtra 3 et supérieur, section 2, Sûtra 16.
 
 [^729]: 256:5 5-8. Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 12, 10. Il est clair qu'avec la première vache, le père de la mariée doit recevoir le marié. La « maison » mentionnée dans le Sûtra 6 semble être la maison des nouveaux mariés. Dans l'expression « qu'il révère », « il », selon les commentaires, est le marié.
 

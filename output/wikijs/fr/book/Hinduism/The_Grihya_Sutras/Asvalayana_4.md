@@ -555,7 +555,7 @@ Fin du Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^581]: 238:4 Voir chap. 3, 20-25.
 
-[^582] : 238:10 Kartodakena (c'est-à-dire kartâ udakena) est évidemment la bonne lecture, pas gartodakena.
+[^582]: 238:10 Kartodakena (c'est-à-dire kartâ udakena) est évidemment la bonne lecture, pas gartodakena.
 
 [^583]: 238:12-13 12, 13. Les mots « sur un coin élevé » (Sûtra 11) doivent être ajoutés.
 
@@ -647,7 +647,7 @@ Fin du Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^627]: 251:9 Yâ<i>g</i><i>g</i>avalkya I, 230. La lecture de plusieurs mots du Mantra est douteuse, et les textes parallèles, comme le professeur Stenzler n'a pas manqué de le remarquer, diffèrent ; les mots pratnavadbhi_h<i>g</i>h_ en particulier me semblent corrompus. Le mot pratnavat n'est connu du Dictionnaire de Saint-Pétersbourg que pour avoir le sens de « contenant le mot pratna », ce qui ne convient pas ici. Ainsi, je pense que la lecture pratnam adbhi_h<i>g</i>ri<i>g</i>h_ devrait être adoptée ; la traduction serait : « Autrefois, tu as été mêlé à l'eau. »
 
-[^628] : 252:12 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 6.
+[^628]: 252:12 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 4, 6.
 
 [^629]: 252:13 La partie de la main au-dessus du pouce est appelée le « Tîrtha appartenant aux Mânes » ; voir, par exemple, le Dharma-sûtra I, 8, 16 de Baudhâyana. On comprend ici que le sacrifiant porte son cordon sacrificiel suspendu sur l'épaule gauche (il est « yâ<i>g</i>opavîtin »). Mais comme l'oblation dont il est question ici est adressée aux Mânes, il est requis qu'il soit prâ<i>g</i>înâvîtin. Or, il est considéré comme prâ<i>g</i>înâvîtin, selon Nârâya<i>g</i>a, non seulement si le cordon est suspendu sur son épaule droite (ce qui est le sens ordinaire de prâ<i>g</i>înâvîtin), mais aussi si la main avec laquelle il accomplit les rites et l'épaule sur laquelle il porte le cordon sacré sont toutes deux droites ou toutes deux gauches. Ainsi, ici, agissant de la main gauche et portant le cordon sur l'épaule gauche, il devient prâ<i>g</i>înâvîtin.
 

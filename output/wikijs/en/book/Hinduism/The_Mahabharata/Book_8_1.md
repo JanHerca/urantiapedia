@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
-
-
-
 ## 1
 
 _Om!_ Having bowed down unto Narayana, and unto that most exalted of male beings, Nara, and unto the goddess Sarasvati also, must the word _Jaya_ be uttered.

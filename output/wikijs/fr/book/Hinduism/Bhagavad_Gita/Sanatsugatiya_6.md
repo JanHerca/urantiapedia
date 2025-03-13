@@ -70,13 +70,13 @@ Cette pure [^894], grande lumière [^895], qui est rayonnante ; cette grande glo
 
 [^902]: 186:4 <i>S</i>ankara fait référence à B<i>ri</i>hadâranyaka, p. 887.
 
-[^903] : 186:5 Cf. Gîtâ, [p. 112](Bhagavadgita_15#p112), remarque .
+[^903]: 186:5 Cf. Gîtâ, [p. 112](Bhagavadgita_15#p112), remarque .
 
 [^904]: 186:6 'Nommé Hira<i>n</i>yagarbha', <i>S</i>ankara. Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107) ; <i>S</i>vetâ<i>s</i>vatara, p. 354 ; Mu<i>nd</i>aka, p. 309 ; Maitrî, ​​p. 130 ; Taitt. Âra<i>n</i>. p. 894.
 
 [^905]: 186:7 'Sous la forme de Virâ<i>g</i>', dit Sankara. Quant à ces deux-là, cf. Mundaka, pp. 270-272 ; et les notes de Sankara et d'Ânandagiri. Voir aussi Svetâ<i>s</i>vatara, pp. 324, 325 ; et Nndsi<i>m</i>ha Tâpinî, pp. 233, 234 ; Colebrooke, Essays, pp. 344, 368 (réimpression de Madras). Le Virâ<i>g</i> correspond plutôt au monde matériel grossier considéré dans son ensemble ; le Hira<i>n</i>yagarbha aux éléments subtils considérés de manière similaire, un stade antérieur du développement. Cf. le Vedântasâra.
 
-[^906] : 186:8 Cf. Mundaka, p. 303, et Gîtâ, [p. 112](Bhagavadgita_15#p112).
+[^906]: 186:8 Cf. Mundaka, p. 303, et Gîtâ, [p. 112](Bhagavadgita_15#p112).
 
 [^907]: 186:9 Le soi individuel fait partie du suprême (Gîtâ, [p. 112](Bhagavadgita_15#p112)) ; parfait = non limité par l'espace, le temps, etc. ; en tant que partie d'une chose parfaite dans son essence, l'âme individuelle est également parfaite. Le soi individuel est retiré du parfait, c'est-à-dire de l'agrégat entier du corps, des sens, etc. présidé par le soi, et lorsqu'il est ainsi retiré, il apparaît comme n'être que le soi pur. Cf. B<i>ri</i>hadâra<i>n</i>yaka, p. 948.
 
@@ -178,17 +178,17 @@ Cette pure [^894], grande lumière [^895], qui est rayonnante ; cette grande glo
 
 [^956]: 192:2 Cf. <i>S</i>vetâ<i>s</i>vatara, p. 342; Ka<i>th</i>a, pp. 100, 107; Maitrî, ​​p. 134.
 
-[^957] : 192:3 Cf. Taittiriya, p. 67 ; Ka<i>th</i>a, p. 146 ; Mu<i>th</i>aka, p. 293.
+[^957]: 192:3 Cf. Taittiriya, p. 67 ; Ka<i>th</i>a, p. 146 ; Mu<i>th</i>aka, p. 293.
 
 [^958]: 192:4 Ka<i>th</i>a, p. 298; Mu<i>th</i>aka, p. 288.
 
-[^959] : 192:5 Voir [p. 180](Sanatsugatiya_4#p180), remarque .
+[^959]: 192:5 Voir [p. 180](Sanatsugatiya_4#p180), remarque .
 
-[^960] : 192:6 Voir [p. 180](Sanatsugatiya_4#p180) ci-dessus.
+[^960]: 192:6 Voir [p. 180](Sanatsugatiya_4#p180) ci-dessus.
 
 [^961]: 192:7 « L'âme individuelle et Dieu », disent les commentateurs, ce dernier étant distinct du soi suprême. « L'univers », dit Nîlaka<i>nth</i>a, « signifie la terre », etc., par lesquels je suppose qu'il entend la terre, le ciel, les quartiers, mentionnés immédiatement après.
 
-[^962] : 192:8 Ka<i>th</i>a, p. 293.
+[^962]: 192:8 Ka<i>th</i>a, p. 293.
 
 [^963]: 192:9 Cette figure est implicite dans l'Îsopanishad, p. 10.
 
@@ -218,7 +218,7 @@ Cette pure [^894], grande lumière [^895], qui est rayonnante ; cette grande glo
 
 [^976]: 194:5 Cf. Mu<i>nd</i>aka, p. 298; Maitrî, ​​p. 84, et commentaire qui y figure.
 
-[^977] : 194:6 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [109](Bhagavadgita_14#p109), et <i>Kh</i>ândogya, pp. 535, 550.
+[^977]: 194:6 Cf. Gîtâ, pp. [77](Bhagavadgita_7#p77), [109](Bhagavadgita_14#p109), et <i>Kh</i>ândogya, pp. 535, 550.
 
 [^978]: 194:7 Voir [p. 192](#p192), note .
 
@@ -228,4 +228,4 @@ Cette pure [^894], grande lumière [^895], qui est rayonnante ; cette grande glo
 
 [^981]: 194:10 Cf. Gîtâ, [p. 113](Bhagavadgita_15#p113), et note ; et aussi Îsopanishad, p. 12.
 
-[^982] : 194:11 <i>Kh</i>ândogya, p. 528 ; et cf. Gîtâ, [p. 113](Bhagavadgita_15#p113).
+[^982]: 194:11 <i>Kh</i>ândogya, p. 528 ; et cf. Gîtâ, [p. 113](Bhagavadgita_15#p113).

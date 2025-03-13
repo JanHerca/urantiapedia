@@ -161,19 +161,19 @@ Fin du Cinquième Pa<i>t</i>ala.
 
 [^590]: 179:16 Ce chapitre contient différents Prâya<i>s</i><i>s</i>ittas.
 
-[^591] : 180:2 Â<i>ri</i>valâyana-G<i>ri</i>hya. III, 6, 7.
+[^591]: 180:2 Â<i>ri</i>valâyana-G<i>ri</i>hya. III, 6, 7.
 
-[^592] : 180 : 3 Pâraskara III, 15, 17.
+[^592]: 180 : 3 Pâraskara III, 15, 17.
 
 [^593]: 180:5 Je propose de lire, nir<i>ri</i>thai<i>h</i> saha.
 
-[^594] : 180 : 6 Atharva-veda VI, 124, 1. Lisez suk<i>ri</i>tâ_m<i>ri</i>ri_tena.
+[^594]: 180 : 6 Atharva-veda VI, 124, 1. Lisez suk<i>ri</i>tâ_m<i>ri</i>ri_tena.
 
 [^595]: 180:7 Atharva-veda VI, 124, 2. L'Atharva-veda montre la voie pour corriger le troisième Pâda corrompu.
 
 [^596]: 180:8 8 seq. Comp. Pâraskara III, 15, 7 seq.
 
-[^597] : 181 : 14 14, 15. Âpastamba II, 5, 1 2, 13. 14 ; Gobhila III, 3, 34, etc.
+[^597]: 181 : 14 14, 15. Âpastamba II, 5, 1 2, 13. 14 ; Gobhila III, 3, 34, etc.
 
 [^598]: 181:16 Gobhila III, 3, 34. Devrait-il être esha te vâyur iti ?
 

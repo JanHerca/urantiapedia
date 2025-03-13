@@ -82,9 +82,9 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^154]: 52:3 L'état d'identification de soi-même avec le Brahman, qui résulte d'une connaissance correcte du Brahman.
 
-[^155] : 52 : 4 Infra, [p. 66](Bhagavadgita_5#p66).
+[^155]: 52 : 4 Infra, [p. 66](Bhagavadgita_5#p66).
 
-[^156] : 52 : 5 Supra, [p. 47](Bhagavadgita_2#p47).
+[^156]: 52 : 5 Supra, [p. 47](Bhagavadgita_2#p47).
 
 [^157]: 52:6 C'est-à-dire, selon <i>S</i>ankara, l'identification de soi-même avec Brahman.
 
@@ -92,7 +92,7 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^159]: 52:8 C'est-à-dire non associé à la connaissance et à la pureté du cœur.
 
-[^160] : 53:1 Cf. infra, pp.
+[^160]: 53:1 Cf. infra, pp.
 
 [^161]: 53:2 Mains, pieds, etc.
 
@@ -128,7 +128,7 @@ C'est le désir, c'est la colère [^177], née de la qualité de la passion ; el
 
 [^177]: 56:4 Cf. Sutta Nipâta, p. 101, quant aux « goûts et aux dégoûts ».
 
-[^178] : 57:1 Vidéo [p. 50](Bhagavadgita_2#p50) supra.
+[^178]: 57:1 Vidéo [p. 50](Bhagavadgita_2#p50) supra.
 
 [^179]: 57:2 C'est-à-dire la connaissance, mentionnée dans la phrase suivante, pour laquelle les constructions [p. 71](Bhagavadgita_6#p71) et [p. 98](Bhagavadgita_11#p98) peuvent être comparées.
 

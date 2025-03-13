@@ -781,11 +781,11 @@ Fin du Troisième Prapâ<i>th</i>aka.
 
 [^269]: 73:30 Voir Sûtras 13. 18. 19. 16. 14.
 
-[^270] : 74:35 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya VI, 3, 7.
+[^270]: 74:35 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya VI, 3, 7.
 
 [^271]: 74:36 C'est-à-dire que le jeûne prescrit dans les Sûtras 34 et 37 peut, s'ils le souhaitent, suivre l'enseignement du chant sacré, au lieu de le précéder.
 
-[^272] : 74:37 <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 12, 6 suiv.
+[^272]: 74:37 <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 12, 6 suiv.
 
 [^273]: 75:43 Comp. ci-dessus, I, 9, 29; <i>S</i>âṅkhâyana VI, 3, 11 seq.
 
@@ -831,7 +831,7 @@ Fin du Troisième Prapâ<i>th</i>aka.
 
 [^294]: 79:16 La manière la plus naturelle d'interpréter le texte serait, à mon avis, de supposer que le « second Upâkara<i>n</i>a » (pratyupâkara<i>n</i>a) est identique à l'Utsarga. Le second Upâkara<i>n</i>a conclurait ainsi en même temps le premier trimestre d'étude du Veda p. 80 et en ouvrirait un second. La distinction de deux de ces périodes, que l'on peut appeler deux trimestres, se rencontre fréquemment dans d'autres textes, par exemple dans Vasish<i>n</i>a XIII, 5-7 (SBE XIV, 63) ; Manu IV, 98. Selon le commentaire, en revanche, le second Upâkara<i>n</i>a est accompli au début de la course septentrionale du soleil (comp. Sûtras 10-12) ; Il est indiqué qu'après cette cérémonie, les textes Uttara (c'est-à-dire l'Uttarâr<i>n</i>ika ?) et Rahasya sont étudiés. Il convient de noter que Manu (IV, 96) prescrit d'accomplir l'Utsarga soit sous le Nakshatra Pushya (c'est-à-dire Tishya), soit le premier jour de la quinzaine lumineuse de Mâgha, qui est considérée comme coïncidant, au moins approximativement, avec le début de la course septentrionale du soleil.
 
-[^295] : 80:18 Comp. Manu IV, 105.
+[^295]: 80:18 Comp. Manu IV, 105.
 
 [^296]: 80:22 Ce sont les jours des anciens sacrifices védiques <i>k</i>âturmâsya.
 
@@ -849,7 +849,7 @@ Fin du Troisième Prapâ<i>th</i>aka.
 
 [^303]: 82:6 Selon le G<i>ri</i>hya-sa<i>ri</i>graha (II, 17. 18), une fille « nue » est une fille qui n'a pas encore ses règles ou dont la poitrine n'est pas encore développée. Comp. Vasish<i>ri</i>a XVII, 70 ; Gautama XVIII, 23.
 
-[^304] : 82:7 7 suiv. Comp. Khâdira-G<i>ri</i>hya III, 1, 1 suiv.
+[^304]: 82:7 7 suiv. Comp. Khâdira-G<i>ri</i>hya III, 1, 1 suiv.
 
 [^305]: 83:13 Dans les Mantras prescrits pour l'aspersion de l'étudiant (Mantra-Brâhma<i>n</i>a I, 7, 1 seq.) on trouve des passages tels que, par exemple, « Avec cela, moi, NN, je m'asperge. »
 
@@ -925,9 +925,9 @@ Fin du Troisième Prapâ<i>th</i>aka.
 
 [^341]: 97:10 Voir ci-dessus, I, 7, 2 seq.
 
-[^342] : 98:11 G<i>ri</i>hya-sa<i>ri</i>graha II, 71 : p<i>ri</i>thakkapâlân kurvîta apûpân ash<i>ri</i>akâvidhau.
+[^342]: 98:11 G<i>ri</i>hya-sa<i>ri</i>graha II, 71 : p<i>ri</i>thakkapâlân kurvîta apûpân ash<i>ri</i>akâvidhau.
 
-[^343] : 98:14 Concernant les gâteaux Traiyambaka, comp. Kâtyâyana <i>S</i>rauta-sûtra V, 10, 1 suiv.; Vaitâna-sûtra IX, 18, etc.
+[^343]: 98:14 Concernant les gâteaux Traiyambaka, comp. Kâtyâyana <i>S</i>rauta-sûtra V, 10, 1 suiv.; Vaitâna-sûtra IX, 18, etc.
 
 [^344]: 98:16 Voir ci-dessus, I, 8, 5 seq.
 

@@ -689,7 +689,7 @@ Français Outre les Brâhma<i>n</i>as mentionnés dans ce Sûtra, qui représent
 
 [^235]: 108:10-11 10, 11. Le Pi<i>nd</i>ân appartient évidemment au dixième Sûtra, et non, comme le veut la tradition indienne, au onzième. Entre les Pi<i>nd</i>as des pères et ceux des mères, il place, selon Nârâya<i>n</i>a, par exemple, l'herbe Darbha.
 
-[^236] : 108:13 <i>S</i>rauta-sûtra IV, 3 suiv.
+[^236]: 108:13 <i>S</i>rauta-sûtra IV, 3 suiv.
 
 [^237]: 108:1 2, 1. Eka uddish<i>t</i>o yasmin _s<i>t</i>t_am (Nâr.). C'est le genre de sacrifice S<i>r</i>ddha qui doit être accompli pour un deux fois né durant la première année suivant sa mort ; voir Manu III, 247 ; Yâ<i>t</i><i>t</i>avalkya I, 250.
 
@@ -739,17 +739,17 @@ Français Outre les Brâhma<i>n</i>as mentionnés dans ce Sûtra, qui représent
 
 [^260]: 115:2 7, 2. La traduction de âkâlam donnée dans mon édition allemande (Während der betreffenden Zeit) est erronée : cf. le commentaire cité à la p. 150 ; Gautama XVI, 22 ; note du professeur Stenzler sur Pâraskara II, II, 2.
 
-[^261] : 115:7\_6 Agha_m<i> sapi</i>n_<i> sapi</i>asodakayor mara<i> sapi</i>a_m_. Nârâya<i>sapi</i>a.
+[^261]: 115:7\_6 Agha_m<i> sapi</i>n_<i> sapi</i>asodakayor mara<i> sapi</i>a_m_. Nârâya<i>sapi</i>a.
 
 [^262]: 115:7 Selon Nârâya<i>n</i>a, le <i>k</i>a à la fin de ce Sûtra serait destiné à transmettre le sens que les jours de pratipad de chaque quinzaine, l'étude devrait également être interrompue.
 
 [^263]: 116:8 La traduction de nabhya est tout à fait conjecturale. Nârâya<i>n</i>a donne un sens différent à ce mot ; comp. p. 150 de l'édition allemande.
 
-[^264] : 116:11 Â<i>âryaputrâdaya</i>âryaputrâdaya_h_. Nârâya<i>âryaputrâdaya</i>a.
+[^264]: 116:11 Â<i>âryaputrâdaya</i>âryaputrâdaya_h_. Nârâya<i>âryaputrâdaya</i>a.
 
 [^265]: 116:21 La raison pour laquelle la récitation du Rig-veda est interdite lorsqu'on entend le son d'un Sâman devient manifeste, par exemple, dans Âpastamba I à 7, où l'on prescrit l'interruption de l'étude du Veda lorsqu'on entend des aboiements de chiens, des braiments d'ânes, le cri d'un loup, etc., le son d'instruments de musique, des pleurs et un Sâman. De tels sons forts perturberaient la récitation des textes Rik ou Yag. Une opinion très curieuse a été récemment avancée par le professeur Aufrecht (voir son édition du Rig-veda, deuxième édition, vol. ii, p. xxxviii) selon laquelle l'incompatibilité de la récitation des hymnes <i>Rik<i> et des Sâmans 'beruht auf der Kenntniss von der Willkür et der zum Theil unwürdigen Weise, dans welcher der alte Text des Rig-veda in diesem Gesangbuche (c'est-à-dire le Sâmavedâr<i>g</i>ika) behandelt ist.'
 
-[^266] : 117:23 Grâmâra<i>n</i>ye grâmam (lire, grâma ?) evâra<i>n</i>ya_m<i>n</i>m_ tatra nâdhîyîta. Nârâya<i>n</i>a.
+[^266]: 117:23 Grâmâra<i>n</i>ye grâmam (lire, grâma ?) evâra<i>n</i>ya_m<i>n</i>m_ tatra nâdhîyîta. Nârâya<i>n</i>a.
 
 [^267]: 117:29 Sauf pendant la saison des pluies. Nârâya<i>n</i>a.
 
@@ -759,7 +759,7 @@ Français Outre les Brâhma<i>n</i>as mentionnés dans ce Sûtra, qui représent
 
 [^270]: 118:55 Comp. Manu IV, 117; Vasishta XIII, 16.
 
-[^271] : 119 : 1 8, 1. Nyâyena _s<i>ishyadharme</i>n<i>ishyadharme</i>h<i>ishyadharme</i>h<i>ishyadharme</i>s<i>ishyadharme</i>k<i>ishyadharme</i>h_ pravartayet. Nârâya<i>ishyadharme</i>a.
+[^271]: 119 : 1 8, 1. Nyâyena _s<i>ishyadharme</i>n<i>ishyadharme</i>h<i>ishyadharme</i>h<i>ishyadharme</i>s<i>ishyadharme</i>k<i>ishyadharme</i>h_ pravartayet. Nârâya<i>ishyadharme</i>a.
 
 [^272]: 119:11 _K<i>ara</i>n<i>ara</i>m<i>ara</i>th<i>ara</i>m<i>ara</i>ri<i>ara</i>th<i>ara</i>h_. Nârâya<i>ara</i>a.
 
@@ -775,7 +775,7 @@ Français Outre les Brâhma<i>n</i>as mentionnés dans ce Sûtra, qui représent
 
 [^277]: 123:1 11, 1 seq. Règles de conduite pour un Snâtaka, c'est-à-dire un homme qui a terminé son stage.
 
-[^278] : 123:7 Etai_h<i> pûrvoktai</i>h<i> pûrvoktai</i>m_vadet. Nârâya<i>pûrvoktai</i>a.
+[^278]: 123:7 Etai_h<i> pûrvoktai</i>h<i> pûrvoktai</i>m_vadet. Nârâya<i>pûrvoktai</i>a.
 
 [^279]: 123:10 Nârâya<i>n</i>a déclare que « avec sa femme » doit être ajouté à ce Sûtra, ce qui est en effet rendu probable par la comparaison de Gautama IX, 32 ; Manu IV, 43, etc.
 
@@ -799,11 +799,11 @@ Français Outre les Brâhma<i>n</i>as mentionnés dans ce Sûtra, qui représent
 
 [^289]: 129:19 Sur le Pratyavaroha<i>n</i>a, voir chap. 17.
 
-[^290] : 129:20 Nârâya<i>n</i>a : vâgyamayuktâ ya<i>n</i>amânapatnî eva<i>m</i> balidravyâdikam upasâdayet.
+[^290]: 129:20 Nârâya<i>n</i>a : vâgyamayuktâ ya<i>n</i>amânapatnî eva<i>m</i> balidravyâdikam upasâdayet.
 
 [^291]: 129:22 'D'après le _S<i>râva</i>n<i>râva</i>n_î (voir chap. 1 7, 1) on ne dormira pas sur le sol par peur des serpents.' Nârâya<i>râva</i>a.
 
-[^292] : 130 : 3 16, 3. Gh<i>ri</i>tami<i>ri</i>ra_m<i>ri</i>ri_shâtakam. Nârâya<i>ri</i>a. Comp. le G<i>ri</i>hya-sa<i>ri</i>graha II, 59.
+[^292]: 130 : 3 16, 3. Gh<i>ri</i>tami<i>ri</i>ra_m<i>ri</i>ri_shâtakam. Nârâya<i>ri</i>a. Comp. le G<i>ri</i>hya-sa<i>ri</i>graha II, 59.
 
 [^293]: 130:1 17, 1. La Pratyavaroha<i>n</i>a (c'est-à-dire la redescente) décrite ici est la cérémonie accomplie à la fin de la période pendant laquelle il est prescrit de dormir sur des lits hauts (chap. 15, 22). À partir de la pleine lune _S<i>n</i>n_î jusqu'au Pratyavaroha<i>n</i>a, les offrandes aux Serpents mentionnées ci-dessus doivent être répétées chaque jour (chap. 15, 19) ; le Pratyavaroha<i>n</i>a est la cérémonie de conclusion de ces rites consacrés aux Serpents.
 

@@ -106,11 +106,11 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2014]: 386:7 Ou cela peut signifier, parmi tous les hommes.
 
-[^2015] : 386:8 Voir [p. 164](Sanatsugatiya_3#p164) supra, note [2](Sanatsugatiya_3#fn719) ; et [p. 295](Anugita_14#p295), note [4](Anugita_14#fn1425).
+[^2015]: 386:8 Voir [p. 164](Sanatsugatiya_3#p164) supra, note [2](Sanatsugatiya_3#fn719) ; et [p. 295](Anugita_14#p295), note [4](Anugita_14#fn1425).
 
 [^2016]: 386:9 C'est-à-dire qu'il inclut tous les Sa<i>m</i>sâra, tous les éléments reconnus par la philosophie Sânkhya, sauf l'Être ou Purusha.
 
-[^2017] : 387:1 Cf. [p. 371](Anugita_32#p371) ci-dessus.
+[^2017]: 387:1 Cf. [p. 371](Anugita_32#p371) ci-dessus.
 
 [^2018]: 387:2 Une autre lecture signifie « ils sont dissous dans les eaux ». Quant à l'ordre, cf. Vedânta Paribhâshâ, p. 48, et [p. 335](Anugita_27#p335) supra.
 
@@ -146,11 +146,11 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2034]: 389:2 Ou, peut-être, du bétail. L'original est pas<i>s</i>u.
 
-[^2035] : 389:3 Voir [p. 160](Sanatsugatiya_2#p160) supra, et cf. [p. 178](Sanatsugatiya_4#p178).
+[^2035]: 389:3 Voir [p. 160](Sanatsugatiya_2#p160) supra, et cf. [p. 178](Sanatsugatiya_4#p178).
 
 [^2036]: 389:4 C'est-à-dire Ka<i>s</i>yapa, comme dieux, etc. Cela semble être l'interprétation d'Ar<i>g</i>una Mi<i>s</i>ra. Cette condition est inférieure à celle décrite dans la phrase suivante.
 
-[^2037] : 389:5 Voir [p. 162](Sanatsugatiya_2#p162), note [1](Sanatsugatiya_3#fn705).
+[^2037]: 389:5 Voir [p. 162](Sanatsugatiya_2#p162), note [1](Sanatsugatiya_3#fn705).
 
 [^2038]: 389:6 La traduction de Nîlaka<i>nth</i>a est « ce par quoi le bonheur (mondain) est p. 390 accru ». Il compare B<i>nth</i>hadâra<i>n</i>yaka, p. 816. Voir aussi Taittirîya, p. 112.
 
@@ -166,21 +166,21 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2044]: 390:6 Cette expression a déjà été utilisée ; elle désigne tous les développements qui constituent la vie terrestre. Voir Sânkhya-sâra, p. 5.
 
-[^2045] : 390:7 Voir [p. 371](Anugita_32#p371) ci-dessus.
+[^2045]: 390:7 Voir [p. 371](Anugita_32#p371) ci-dessus.
 
 [^2046]: 391:1 Voir <i>S</i>ânti Parvan (Râ<i>g</i>adharma) XIII, 4. Cf. Maitrî, ​​p. 180 Cela signifie les deux et trois syllabes de 'mama' et 'na mama', mine et not mine. Cf. B<i>ri</i>hadâra<i>n</i>yaka p. 970, et <i>Kh</i>ândogya, p. 118, et p. 548, pour une conception similaire.
 
 [^2047]: 391:2 L'émancipation finale suit l'abandon de l'idée du « mien » ; l'esclavage suit le fait de l'héberger.
 
-[^2048] : 391:3 Voir Mu<i>nd</i>aka, p. 279.
+[^2048]: 391:3 Voir Mu<i>nd</i>aka, p. 279.
 
 [^2049]: 391:4 Les onze organes et les cinq grands éléments qui composent le corps. Voir Sânkhya-kârikâ 3 et son commentaire ; Sânti Parvan, chap. 210, st. 32 s. ; chap. 242, st. 7 s. ; Prasna, p. 230.
 
 [^2050]: 391:5 C'est-à-dire montre.
 
-[^2051] : 391:6 Cf. Gîtâ, [p. 118](Bhagavadgita_17#p118) ; <i>S</i>ânti Parvan, ch. 242, st. 15.
+[^2051]: 391:6 Cf. Gîtâ, [p. 118](Bhagavadgita_17#p118) ; <i>S</i>ânti Parvan, ch. 242, st. 15.
 
-[^2054] : 391:7 Voir [p. 367](Anugita_31#p367) supra, note [6](Anugita_31#fn1875) ; et cf. Ka<i>th</i>a, p. 155, 156.
+[^2054]: 391:7 Voir [p. 367](Anugita_31#p367) supra, note [6](Anugita_31#fn1875) ; et cf. Ka<i>th</i>a, p. 155, 156.
 
 [^2053]: 391:8 C'est-à-dire qui reste indifférent, cf. Î<i>s</i>a, p. 10. Apûrvam (auquel il n'y a rien de antérieur), A<i>g</i>una Mi<i>s</i>ra rend par 'pas familièrement connu', et Nîlaka<i>nth</i>a par 'pas compris par aucun autre moyen de connaissance'. Voir aussi B<i>nth</i>hadâra<i>n</i>yaka, p. 502, et <i>S</i>ankara à ce sujet.
 
@@ -200,9 +200,9 @@ Lorsque K<i>ri</i>sh<i>n</i>a prononça ces mots, Dhanañgaya répondit (en disa
 
 [^2062]: 392:6 Autrement dit, dit Nîlaka<i>nth</i>a, ils voient tous les objets du monde passés et futurs. Ar<i>g</i>una Mi<i>s</i>ra : « Ils voient les actions accomplies pour une certaine richesse, etc. » Je ne suis satisfait d'aucun de ces deux sens. Celui d'Ar<i>g</i>una Mi<i>s</i>ra est d'ailleurs basé sur une interprétation différente de celle adoptée dans le texte, à savoir Parimâ<i>n</i>a<i>g</i>âh, au lieu de Pari<i>n</i>âma<i>g</i>âh. Je pense que « pari<i>n</i>âma » est le développement qui, selon la philosophie Sânkhya, produit l'univers, et les mouvements sont les actions que ce développement – ​​à savoir, ici, l'activité de l'égoïsme et ses produits – occasionne. Cf. comme dans une certaine mesure soutenant cela, Sânkhya-sâra, p. 16.
 
-[^2063] : 392:7 Voir entre autres Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
+[^2063]: 392:7 Voir entre autres Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
 
-[^2064] : 393 : 1 Voir entre autres Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
+[^2064]: 393 : 1 Voir entre autres Gîtâ, pp. [68](Bhagavadgita_6#p68)\-[70](Bhagavadgita_6#p70).
 
 [^2065]: 393:2 C'est-à-dire, je présume, Bhûr et les autres. Mais voir aussi Khândogya, pp. 212, 541, 620, et B<i>ri</i>hadâra<i>n</i>yaka, pp. 302, 608.
 

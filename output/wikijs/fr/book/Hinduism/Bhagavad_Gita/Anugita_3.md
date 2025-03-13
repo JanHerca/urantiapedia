@@ -104,7 +104,7 @@ Il n'y a ici aucune destruction des actions bonnes ou mauvaises [^1108]. Venant 
 
 [^1133]: 243:6 De l'illusion, Ar<i>g</i>una Mi<i>s</i>ra ; émancipé par la force de sa dévotion, Nîlakantha.
 
-[^1134] : 243:7 Cf. Gîtâ, [p. 73](Bhagavadgita_6#p73) ; <i>Kh</i>ândogya, pp. 136, 137.
+[^1134]: 243:7 Cf. Gîtâ, [p. 73](Bhagavadgita_6#p73) ; <i>Kh</i>ândogya, pp. 136, 137.
 
 [^1135]: 243:8 Scil. l'action.
 

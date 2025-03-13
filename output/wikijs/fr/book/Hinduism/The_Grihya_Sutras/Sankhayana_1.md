@@ -910,7 +910,7 @@ Pragâpati l'a créé, Savitar l'a façonné. Puisse-t-il donner naissance à d'
 
 [^17]: 14:9-11 9-11. Je diffère maintenant de l'opinion que j'ai exprimée dans mon édition allemande en ce qui concerne la relation dans laquelle ces trois Sûtras se trouvent les uns par rapport aux autres. Je pense qu'ils doivent être compris ainsi : 9. Certains enseignants disent que le fait d'aller chercher le feu dans son yoni, comme enseigné dans le Sûtra 8, doit être fait deux fois ; le soir, de sorte que le feu, après que les rites nécessaires ont été accomplis, s'éteigne, puis de nouveau le matin. 10. Mais mon maître (celui de l'auteur) (comparer pour a<i>k</i>âryâ_h_, le <i>S</i>rauta-sûtra I, 3, 7 de Kâtyâyana ; la note du professeur Garbe sur le Vaitâna-sûtra 1, 3) est d'avis que le feu ne doit être apporté qu'une seule fois, et qu'avec ce feu les cérémonies qui sont enseignées par les Adhvaryus doivent être accomplies le soir (voir, par exemple, Kâty. IV, 7. 8, passage qui est paraphrasé ici par Nârâya<i>k</i>a). 11. Le matin (selon le même maître, et non, comme je l'ai compris autrefois, selon l'eke mentionné dans le Sûtra 9), une oblation complète doit être offerte, etc.
 
-[^18] : 14:12 <i>S</i>rauta-sûtra II, 6, 2 suiv.
+[^18]: 14:12 <i>S</i>rauta-sûtra II, 6, 2 suiv.
 
 [^19]: 15:13 <i>S</i>rauta-sûtra I, 1, 6. 7: ya<i>g</i>opavîtî devakarmâ<i>g</i>i karoti, prâ<i>g</i>înâvîtî pitryâ<i>g</i>i, etc. L'unité du rituel signifie bien sûr l'unité des deux grands domaines du rituel <i>S</i>rauta et G<i>g</i>hya.
 
@@ -926,7 +926,7 @@ Français Les divinités des fêtes de la nouvelle et de la pleine lune (c'est-�
 
 [^24]: 17:4 Par exemple, la prise de la portion de nourriture destinée à Agni doit être effectuée avec le Mantra : Agnaye tvâ _g<i>ushta</i>m<i>ushta</i>ri<i>ushta</i>n_âmi, etc. Un certain nombre de cérémonies communes au rituel Sthâlîpâka et au rituel ordinaire des oblations Â<i>ushta</i>ya, telles que la dispersion d'herbe Ku<i>ushta</i>a autour du feu, les cérémonies concernant les Pavitras (passoires), etc., doivent être fournies ici à partir du rituel Â<i>ushta</i>ya donné ci-dessous (ch. 7 seq.) ; ceci peut être considéré comme un argument en faveur de notre conjecture qui sera énoncée dans la préface (vol. ii des G<i>ushta</i>hya-sûtras), que notre texte, comme c'est probablement le cas aussi avec le Pâraskara-sûtra, est basé sur un original, dont les phrases d'ouverture nous sont conservées dans <i>S</i>âṅkh. I, 5, 1-5 = Pâraskara I, 4, 1-5, de sorte que les premiers chapitres de <i>S</i>âṅkhâyana, et parmi eux l'exposition des fêtes de la pleine et de la nouvelle lune, auraient été préfixés au commencement original du texte.
 
-[^25] : 18 : 5 Sur la compilation avadânadharmâs. Weber, Indische Studien, X, 95 ; Hillebrandt, Neu- und Vollmondsopfer, pp. 122 suiv.
+[^25]: 18 : 5 Sur la compilation avadânadharmâs. Weber, Indische Studien, X, 95 ; Hillebrandt, Neu- und Vollmondsopfer, pp. 122 suiv.
 
 [^26]: 18:6 L'Anvârambha<i>îyâ-ish</i>îyâ-ish<i>îyâ-ish</i>i est le sacrifice enseigné dans les textes de la Srauta qui doit être accompli avant que le sacrificateur n'offre pour la première fois le sacrifice de Dar<i>îyâ-ish</i>apûr<i>îyâ-ish</i>amâsa. Voir Weber, Indische Studien, X, 330 ; Hillebrandt, loc. cit., p. 185. Les divinités de cette cérémonie sont Agnîvish<i>îyâ-ish</i>û, Sarasvatî et Sarasvat.
 
@@ -944,9 +944,9 @@ Français Les divinités des fêtes de la nouvelle et de la pleine lune (c'est-�
 
 En ce qui concerne la division quadruple de Pâkaya<i>g</i><i>g</i> comme indiqué ici, voir ci-dessous, chap. 10, 7.
 
-[^33] : 20:2 Comp. le Kârikâ cité par Nârâya<i>n</i>a, 'vivâhâdishu bâhyo 'gnir ma<i>nd</i>ape <i>k</i>a tad ishyata iti.'
+[^33]: 20:2 Comp. le Kârikâ cité par Nârâya<i>n</i>a, 'vivâhâdishu bâhyo 'gnir ma<i>nd</i>ape <i>k</i>a tad ishyata iti.'
 
-[^34] : 20:3 Sur la composition Agni-pra<i>n</i>ayana. les détails donnés dans le G<i>n</i>hya-sa<i>n</i>graha-pari<i>n</i>ish<i>n</i>a (Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. xxxv), I, 64-69.
+[^34]: 20:3 Sur la composition Agni-pra<i>n</i>ayana. les détails donnés dans le G<i>n</i>hya-sa<i>n</i>graha-pari<i>n</i>ish<i>n</i>a (Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. xxxv), I, 64-69.
 
 [^35]: 21:9 Sur âvartau comp. la note dans l'édition allemande, p. 121.
 
@@ -968,19 +968,19 @@ En ce qui concerne la division quadruple de Pâkaya<i>g</i><i>g</i> comme indiqu
 
 [^44]: 24:6 D'ordinaire, il n'y avait pas de véritable Brahman présent, et sa place était prise par un bouquet d'herbe Ku<i>s</i>a qui le représentait. Nârâya<i>s</i>a déclare que ce bouquet devrait être composé de cinquante brins d'herbe Ku<i>s</i>a. Voir aussi le G<i>s</i>hya-sa<i>s</i>graha-pari<i>s</i>ish<i>s</i>a I, 89-90.
 
-[^45] : Comp. 24:8. les passages cités par le Dr Bloomfield, Zeitschrift der Deutschen Morgenländ. Gesellschaft, vol. xxxv, p. 565, note 2.
+[^45]: Comp. 24:8. les passages cités par le Dr Bloomfield, Zeitschrift der Deutschen Morgenländ. Gesellschaft, vol. xxxv, p. 565, note 2.
 
 [^46]: 24:9 Ce Sûtra montre que le paristaranā, bien que déjà traité dans les Sûtras 1 à 4, ne doit être accompli qu'après le « report » de l'eau Pranîtā. Voir la note de Nârâyaṭa sur le Sûtra 1 (p. 123 de l'édition allemande). Que tel soit bien l'ordre des différents actes est confirmé par Pâraskara I, 1, 2.
 
 [^47]: 25:13 'Dans les offrandes debout, comme le sacrifice de Vai<i>s</i>vadeva le matin et le soir.' Nârâya<i>s</i>a.
 
-[^48] : 25 : 14-16 Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ I, 12 h.
+[^48]: 25 : 14-16 Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ I, 12 h.
 
-[^49] : 25:18 Vâ_g_. Sa<i>m</i>h. IV, 3 heures du matin.
+[^49]: 25:18 Vâ_g_. Sa<i>m</i>h. IV, 3 heures du matin.
 
-[^50] : 25:19 Vâ_g_. Sa<i>m</i>h. Moi, 22 j.
+[^50]: 25:19 Vâ_g_. Sa<i>m</i>h. Moi, 22 j.
 
-[^51] : 25h20 Vâ_g_. Sa<i>m</i>h. Moi, 30 ch.
+[^51]: 25h20 Vâ_g_. Sa<i>m</i>h. Moi, 30 ch.
 
 [^52]: 25:21 Vâ_g_. Sa<i>m</i>h. I, 12 b.—La division des Sûtras 21 et 22 devrait se faire après iti, et non, comme le veut la tradition indienne, après ra<i>m</i>mibhi_h_.
 
@@ -1010,7 +1010,7 @@ En ce qui concerne la division quadruple de Pâkaya<i>g</i><i>g</i> comme indiqu
 
 [^65]: 30:3 'C'est la norme des sacrifices prescrits dans les règles : “L'animal (offert) au maître est sacré pour Agni ; pour un prêtre officiant, pour B<i>ri</i>haspati, etc..”' Nârâya<i>ri</i>a. Ceci fait référence au sacrifice d'animaux qui fait partie de la cérémonie d'Arghya ; voir II, 15, 4 ss.
 
-[^66] : 30:4 _K<i>arû</i>n<i>arû</i>m<i>arû</i>g_<i>arû</i>ânâ_m<i>arû</i>k_a. Nârâya<i>arû</i>a.
+[^66]: 30:4 _K<i>arû</i>n<i>arû</i>m<i>arû</i>g_<i>arû</i>ânâ_m<i>arû</i>k_a. Nârâya<i>arû</i>a.
 
 [^67]: 30:5 Sur les cinq Prayâ<i>g</i>as et les trois Anuyâ<i>g</i>as (oblations introductives et oblations suivant les offrandes principales) prescrits dans le rituel <i>S</i>rauta, comp. Neu- und Vollmondsopfer de Hillebrandt, pp. 94 et suiv., 134 et suiv. Sur l'Ilâ, voir ibid., 122 et suiv. ; sur nigada, Weber's Ind. Studien, IX, 217, etc. ; sur les versets Sâmidhenî, Hillebrandt, loc. cit., pp. 74 et suiv. Sur ce Sûtra, comparer également le passage du <i>S</i>rauta-sûtra de Kâtyâyana, VI, 10, 22 et suiv.
 
@@ -1022,7 +1022,7 @@ En ce qui concerne la division quadruple de Pâkaya<i>g</i><i>g</i> comme indiqu
 
 [^71]: 31:1 11, 1. La cérémonie décrite dans ce chapitre est appelée Indrâ<i>n</i>îkarman. La déesse Indrâ<i>n</i>î est mentionnée dans le Sûtra 4 parmi les divinités auxquelles sont faites les oblations Â<i>g</i>ya.
 
-[^72] : 31:2 Ni<i>s</i>âkâle, ni<i>s</i>â madhyastha_m<i>s</i>m_, tasmin kale atîte. Nârâya<i>s</i>a.
+[^72]: 31:2 Ni<i>s</i>âkâle, ni<i>s</i>â madhyastha_m<i>s</i>m_, tasmin kale atîte. Nârâya<i>s</i>a.
 
 Sur l'anvârambha, comp. Indische Studien de Weber, IX, 224.
 
@@ -1089,9 +1089,9 @@ Français Sur ku<i>s</i>aka<i>s</i><i>s</i>aka Nârâya<i>s</i>a dit : ku<i>s</i
 
 [^102]: 48:13 Dans ma traduction allemande, il y a une erreur qui devrait être corrigée. J'y ai fait référence aux versets Râkâm p. 79 aham, qui ne sont en réalité que cinq. Les six versets sont Vishriur yonim, etc., et les cinq versets mentionnés.
 
-[^103] : 49:15 Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ XII, 4.
+[^103]: 49:15 Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ XII, 4.
 
-[^104] : 49 : 16-17 16, 17. Nârâya<i>n</i>a : modamânî_m<i>n</i>m<i>n</i>m_ mâṅgalikair gîtair gâyayet . . . mahâhemavatî_m<i>n</i>n<i>n</i>m_ vâ gâyayet.
+[^104]: 49 : 16-17 16, 17. Nârâya<i>n</i>a : modamânî_m<i>n</i>m<i>n</i>m_ mâṅgalikair gîtair gâyayet . . . mahâhemavatî_m<i>n</i>n<i>n</i>m_ vâ gâyayet.
 
 [^105]: 49:1 24, 1. Comp. l'essai du Dr Speijer sur le <i>G</i>âtakarman</i> (Leyde, 1872). Nârâya<i>n</i>a observe que, comme il est prescrit ci-dessous (chap. 25, 4) qu'un plat de nourriture doit être cuit dans le sûtikâgni, ici le sûtikâgni est établi et le sacrifice y est accompli. Le Sûtra I, 25, 4, d'où il faut déduire que le sûtikâgni doit être observé, est considéré, en conséquence, comme un _G_<i>n</i>âpaka (voir les notes du professeur Bühler sur Âpastamba I, II, 7 ; Gautama p. 50 I, 31 ; note de Nârâya<i>n</i>a sur le chap. 25, 4, p. 133 de l'édition allemande).
 

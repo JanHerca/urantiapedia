@@ -284,7 +284,7 @@ Cherchez Rávanthe dame près du ruisseau,
 Dans un vallon sans chemin, dans un coin feuillu
 Sur la crête de Meru vit un ermite
 Lumineux de la lumière que donne la pénitence :
-Sávarni [3b](Livre_4_50#fn734) est son nom, célèbre
+Sávarni [3b](Book_4_50#fn734) est son nom, célèbre
 En tant qu'égal de Brahma, couronné de gloire.
 Là, s'inclinant avec révérence, ils parlent
 Et demande-lui la dame que tu cherches.
@@ -390,7 +390,7 @@ Sur la musique des cordes argentées. [1b](Book_4_50#fn743)
 Continuez toujours votre voyage en avant,
 Et repose-toi près des profondeurs du nord,
 Là où jaillissant des hautes vagues
-Le mont Somagiri [2b](Livre_4_50#fn744) cherche le ciel,
+Le mont Somagiri [2b](Book_4_50#fn744) cherche le ciel,
 Et s'illumine d'une lueur perpétuelle
 Le royaume sans soleil qui se trouve en dessous.
 Là, présent à travers toute l'étendue de la vie,
@@ -528,7 +528,7 @@ Et regarda Asta, [^748] où le soleil
 Il coule quand il court son parcours quotidien
 Puis de cette colline la plus noble je me suis enfui
 Et se précipita vers le pays du nord,
-J'ai vu Himavant [1](Livre_4_50#fn749) et Meru'Meru'sp,
+J'ai vu Himavant [1](Book_4_50#fn749) et Meru'Meru'sp,
 Et se tenait près de l'abîme du nord.
 Mais lorsque, opprimé par la puissance de Báli,
 Même dans ces étendues sauvages, je ne pouvais pas me reposer,

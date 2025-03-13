@@ -1562,7 +1562,7 @@ Délicieux pour l'esprit et l'oreille.
 
 [^120]: 28:2b La divinité des eaux.
 
-[^121] : 28:3b Parjanya, parfois confondu avec Indra.
+[^121]: 28:3b Parjanya, parfois confondu avec Indra.
 
 [^122]: 28:4b L'oiseau et le véhicule de Visnu. Il est généralement représenté comme un être intermédiaire entre l'homme et l'oiseau, et considéré comme le souverain de la race ailée. On peut le comparer au Simurgh des Perses, à l'Anká des Arabes, au Griffon de la chevalerie, au Phénix d'Égypte et à l'oiseau assis sur le frêne Yggdrasil de l'Edda.
 
@@ -1585,7 +1585,7 @@ Délicieux pour l'esprit et l'oreille.
 
 [^130]: 31:2b Le régent de la planète Jupiter.
 
-[^131] : 31:3b Indra=Jupiter Tonans.
+[^131]: 31:3b Indra=Jupiter Tonans.
 
 [^132]: 32:1 '_Pushya_ est le nom d'un mois ; mais ici, il désigne la huitième demeure. La neuvième est appelée _Aslesh_, ou le serpent. Il en ressort clairement que Bharat, bien que sa naissance soit mentionnée avant celle des jumeaux, était le plus jeune des quatre frères et le cadet de Rama de onze mois.
 
@@ -1601,6 +1601,6 @@ Délicieux pour l'esprit et l'oreille.
 
 Ce saint a donné son nom au district et à la ville à l'est de Bénarès. Le nom original, conservé sur une concession de terre en cuivre aujourd'hui conservée au musée du Collège de Bénarès, a été islamisé en Ghazeepore (la Cité du Soldat-Martyr).
 
-[^138] : 33 : 2 Le fils de Kus'ik est Vis'vámitra.
+[^138]: 33 : 2 Le fils de Kus'ik est Vis'vámitra.
 
 [^139]: 33:3 Au souvenir de leur ancienne inimitié, qui sera décrite ci-après.

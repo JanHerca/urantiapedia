@@ -1600,7 +1600,7 @@ L'accueil d'un ennemi sera donné.
 
 [^500]: 283:2b Maruts, les serviteurs d'Indra.
 
-[^501] : 283 : 3b Demi-dieux rayonnants.
+[^501]: 283 : 3b Demi-dieux rayonnants.
 
 [^502]: 285:1 La montagne qui a été utilisée par les Dieux comme un bâton de barattage lors du Barattage de l'Océan.
 

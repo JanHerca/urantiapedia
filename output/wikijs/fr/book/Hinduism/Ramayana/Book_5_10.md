@@ -34,7 +34,7 @@ dateCreated: 2025-1-16T20:1:34Z
 
 <span id="p394">[<sup><small>p. 394</small></sup>]</span>
 
-[1](Livre_5_10#fn789)
+[1](Book_5_10#fn789)
 
 
 
@@ -633,7 +633,7 @@ De beaux lacs brillaient où poussaient des nénuphars,
 Et des lotus avec des fleurs et des bourgeons
 Brilla au sein du déluge.
 Il y avait des pierres précieuses qui brillaient au loin
-La merveille de la voiture nommée Fleur [1](Livre_5_10#fn815),
+La merveille de la voiture nommée Fleur [1](Book_5_10#fn815),
 Au milieu des demeures merveilleuses encore confessées
 Suprême et plus noble que les autres.
 Là-dessus, avec un art merveilleux conçu
@@ -660,7 +660,7 @@ De pierres précieuses et d’or bruni ;
 
 Le fils du Dieu du Vent ne pouvait pas non plus se retirer
 Son regard ravi par la vue qu'il vit,
-Par Vis'vakarmá [1b](Livre_5_10#fn817) autoproclamé
+Par Vis'vakarmá [1b](Book_5_10#fn817) autoproclamé
 L'œuvre la plus noble que sa main ait jamais réalisée.
 Élevé dans l'air, il brillait
 Brillant comme la route diurne du soleil.
@@ -891,7 +891,7 @@ La reine Maithil doit sûrement l'être.
 
 [^790]: 394:2 Brahmá l'Existant par Lui-même.
 
-[^791] : 394:1b Maináka était le fils de Rimálaya\* et Mená ou Menaka.
+[^791]: 394:1b Maináka était le fils de Rimálaya\* et Mená ou Menaka.
 
 [^792]: 394:2b Ainsi Milton rend les collines du ciel mobiles sur commande :
 
@@ -921,7 +921,7 @@ La reine Maithil doit sûrement l'être.
 
 [^804]: 397:1 Le Buchanania Latifolia.
 
-[^805] : 397 : 2 Le Bauhinia Variegata.
+[^805]: 397 : 2 Le Bauhinia Variegata.
 
 [^806]: 397:3 Grâce au pouvoir que les sévères mortifications de Rávan ​​lui avaient valu, ses arbres portèrent simultanément des fleurs et des fruits.
 

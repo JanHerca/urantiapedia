@@ -648,9 +648,9 @@ Fin du G<i>ri</i>hya-sûtra de Pâraskara.
 
 [^868]: 337:3 Les divinités de la cérémonie Âgraya<i>n</i>a, qui occupe dans le rituel <i>S</i>rauta la place correspondant au rite décrit ici, sont Indra et Agni, les devâs Vi<i>n</i>fs, le Ciel et la Terre.
 
-[^869] : 338:5 Le verset Annapatîya est Vâ_g_. Sa<i>m</i>h. XI, 83.
+[^869]: 338:5 Le verset Annapatîya est Vâ_g_. Sa<i>m</i>h. XI, 83.
 
-[^870] : 338:6 Comp. manâv adhi, Rig-veda VIII, 72, 2.
+[^870]: 338:6 Comp. manâv adhi, Rig-veda VIII, 72, 2.
 
 [^871]: 338:2 2, 2. Les deux oblations appartenant à la cérémonie _S<i>rava</i>n_â sont celles indiquées ci-dessus, II, 14, 4. 5.
 
@@ -686,11 +686,11 @@ Fin du G<i>ri</i>hya-sûtra de Pâraskara.
 
 [^886]: 345:13 J'ai exposé dans la note sur <i>S</i>âṅkhâyana III, 13, 1 mes raisons de croire que la véritable lecture de ce Sûtra n'est pas madhyâvarshe (au milieu de la saison des pluies), mais mâghyavarshe (la fête célébrée pendant la saison des pluies sous le Nakshatra Maghâs). Il n'y a pas de règles expresses données concernant le troisième Ash<i>t</i>akâ, mais je pense que nous devrions comprendre ce Sûtra comme impliquant une déclaration sur cet Ash<i>t</i>akâ : (Le troisième Ash<i>t</i>akâ) et le quatrième, le jour du Mâghyavarsha, sont des Sâkâsh<i>t</i>akâs (Ash<i>t</i>akâs sur lesquels des légumes sont offerts). <i>S</i>âṅkhâyana (G<i>t</i>hya III, 13, 1) déclare que le rituel du quatrième Ash<i>t</i>akâ est identique à celui du second.
 
-[^887] : 345 : 3 4, 3. Â<i>ri</i>valâyana-G<i>ri</i>hya II, 8, 15.
+[^887]: 345 : 3 4, 3. Â<i>ri</i>valâyana-G<i>ri</i>hya II, 8, 15.
 
 [^888]: 345:4 Sur gagadai_h<i> saha (dans le troisième verset) voir ma note sur </i>S_âṅkhâyana-G<i> saha (dans le troisième verset) voir ma note sur </i>hya III, 2, 9.
 
-[^889] : 346 : 7 Rig-veda VII, 54 ; 55, 1.
+[^889]: 346 : 7 Rig-veda VII, 54 ; 55, 1.
 
 [^890]: 347:a 8 a. Vâ<i>g</i>î est, comme son nom l'indique, la déesse de la vigueur rapide. <i>G</i>ayarâma explique Vâ<i>g</i>î, un nom de Sîtâ, comme une personnification de la nourriture.
 
@@ -698,7 +698,7 @@ Fin du G<i>ri</i>hya-sûtra de Pâraskara.
 
 [^892]: 349:18 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya III, 3, 7 seq.; chap. 4, 10. La comparaison de Sâṅkhâyana montre que nous devons diviser saha pra<i>ri</i>ayâ pa<i>ri</i>ubhi_h_, saha yan me ki<i>ri</i><i>ri</i>id asty, upahûta_h_, etc. Sâdhusa<i>ri</i>v<i>ri</i>ta<i>h</i> (si la lecture est correcte) me semble être le nom. pluriel de sâdhusa<i>ri</i>v<i>ri</i>t. Je comprends qu'il s'agit d'un composé Bahuvrîhi, dans lequel sa<i>ri</i>v<i>ri</i>t signifie « l'approche ». Dans l'Atharva-veda VII, 60, 4, nous avons sakhâya_h<i>ri</i>m<i>ri</i>h_. Après <i>s</i>âle, un verbe signifiant « j'entre », ou quelque chose de similaire, a été perdu.
 
-[^893] : 349 : 3 5, 3. Rig-veda X, 30, 12.
+[^893]: 349 : 3 5, 3. Rig-veda X, 30, 12.
 
 [^894]: 350:1 7, 1. Utûla-parimeha_h_. Il est probable qu'utûla, comme signifiant un esclave qui s'enfuit habituellement, est lié à l'utilisation de ce mot comme nom d'une tribu du nord-ouest de l'Inde.
 
@@ -708,21 +708,21 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^896]: 351:4 Ce Sûtra est mot pour mot identique au chap. 6, 4.
 
-[^897] : 351 : 18, 1. Â<i>ri</i>valâyana-G<i>ri</i>hya IV, 8.
+[^897]: 351 : 18, 1. Â<i>ri</i>valâyana-G<i>ri</i>hya IV, 8.
 
-[^898] : 351:2 Â<i>s</i>valâyana, loc. cit. § 35.
+[^898]: 351:2 Â<i>s</i>valâyana, loc. cit. § 35.
 
 [^899]: 351:8\_3 La « propagation » est l'établissement des trois feux sacrés <i>S</i>rauta, de sorte que le feu G<i>ri</i>hya est considéré comme le Gârhapatya, et l'Âhavanîya et le Dakshi<i>ri</i>âgni en sont tirés.
 
 [^900]: 352:5 En raison de la désignation du sacrifice comme <i>s</i>ûla-gava.
 
-[^901] : 352:6 Â<i>s</i>valâyana, loc. cit. § 19.
+[^901]: 352:6 Â<i>s</i>valâyana, loc. cit. § 19.
 
 [^902]: 352:9 <i>G</i>ayarâma : la tâche de vasayâ bhavati yathâgnishomîye.
 
 [^903]: 352:10 Sur les offrandes de Patnî-sa<i>m</i>yâ<i>m</i>a, ainsi appelées parce qu'elles sont principalement destinées aux épouses des dieux, voir Hillebrandt, Neu- und Vollmondsopfer, pp. 151 seqq.
 
-[^904] : 352:11 Â<i>s</i>valâyana, loc. cit. § 22.
+[^904]: 352:11 Â<i>s</i>valâyana, loc. cit. § 22.
 
 [^905]: 353:12 Quant à ûvadhya, comp. Â<i>s</i>valâyana, § 28.
 
@@ -730,15 +730,15 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^907]: 353:15 Gobhila III, 6.
 
-[^908] : 353 : 19, 1 suiv. Comp. <i>S</i>âṅkhâyana III, 11.
+[^908]: 353 : 19, 1 suiv. Comp. <i>S</i>âṅkhâyana III, 11.
 
 [^909]: 353:2 Voir ci-dessus, chap. 8, 15.
 
-[^910] : 353:3 <i>S</i>âṅkhâyana, loc. cit. §2.
+[^910]: 353:3 <i>S</i>âṅkhâyana, loc. cit. §2.
 
-[^911] : 353:4 <i>S</i>âṅkhâyana, § 3. Bien sûr, dans la traduction du professeur Stenzler, « in der Mitte der Küche » est une erreur d'impression pour « in der Mitte der Kühe ».
+[^911]: 353:4 <i>S</i>âṅkhâyana, § 3. Bien sûr, dans la traduction du professeur Stenzler, « in der Mitte der Küche » est une erreur d'impression pour « in der Mitte der Kühe ».
 
-[^912] : 354 : 5 Rig-veda VI, 54, 5 ; <i>S</i>âṅkhâyana, § 5.
+[^912]: 354 : 5 Rig-veda VI, 54, 5 ; <i>S</i>âṅkhâyana, § 5.
 
 [^913]: 354:6 <i>S</i>âṅkhâyana, §§ 6-54. Sur les hymnes Rudra, voir ci-dessus, chap. 8, § 13. Il est possible que les mots mâ na_h<i> </i>s_âpta soient corrompus ; la lecture correcte pourrait être mâऽvasthâta.
 
@@ -748,9 +748,9 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^916]: 355:9\_10 Voir chap. 8.
 
-[^917] : 355 : 2 10, 2. Manu V, 68 ; Yâ<i>g</i><i>g</i>avalkya III, 1.
+[^917]: 355 : 2 10, 2. Manu V, 68 ; Yâ<i>g</i><i>g</i>avalkya III, 1.
 
-[^918] : 355:7 Manu V, 68 ; Yâ<i>g</i><i>g</i>avalkya III, 1.
+[^918]: 355:7 Manu V, 68 ; Yâ<i>g</i><i>g</i>avalkya III, 1.
 
 [^919]: 355:10\_9 Le chant Yama est présenté comme étant le deuxième verset du Taittirîya Âra<i>n</i>yaka VI, 5, 3 (« Celui qui, jour après jour, emmène les vaches, les chevaux, les hommes et tout ce qui bouge, le fils de Vivasvat, Yama, est insatiable des cinq tribus humaines ») ; l'hymne Yama est le Rig-veda X, 14. Comp. Yâ<i>nd</i>avalkya III, 2.
 
@@ -764,13 +764,13 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^923]: 357:24 Yâ<i>g</i><i>g</i>avalkya III, 12. 13.
 
-[^924] : 357 : 25-26 25, 26. Yâ<i>g</i><i>g</i>avalkya III, 16 ; Manu V, 73 ans ; Vasish<i>g</i>a IV, 15.
+[^924]: 357 : 25-26 25, 26. Yâ<i>g</i><i>g</i>avalkya III, 16 ; Manu V, 73 ans ; Vasish<i>g</i>a IV, 15.
 
 [^925]: 357:27 Voir sur le lavage et sur l'offrande du Pi<i>nd</i>a, Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 10. 11. Comp. Weber, Indische Studien, X, 82.
 
 [^926]: 357:28 Yâgavalkya III, 17.
 
-[^927] : 357 : 29-30 29, 30. Yâ<i>g</i><i>g</i>avalkya III, 18 ; Manu V, 59 ans.
+[^927]: 357 : 29-30 29, 30. Yâ<i>g</i><i>g</i>avalkya III, 18 ; Manu V, 59 ans.
 
 [^928]: 358:37 La position de ce Sûtra après les 35 et 36 me semble indiquer qu'il se réfère à ceux qui ont touché le corps du défunt ; comp. Yâ<i>g</i><i>g</i>avalkya III, 14 : prave<i>g</i>anâdika_m<i>g</i>m<i>g</i>s_inâm api. Je crois que les mêmes personnes sont également concernées dans le Sûtra 38.
 
@@ -782,7 +782,7 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^932]: 359:47 Voir ci-dessus, § 42.
 
-[^933] : 359:51 Voir <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 2, 8.
+[^933]: 359:51 Voir <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 2, 8.
 
 [^934]: 359:52 <i>S</i>âṅkhâyana-G<i>ri</i>hya VIII, 2. Comp. la description du Sapi<i>ri</i>îkara<i>ri</i>a, ibid., chap. 3.
 
@@ -796,7 +796,7 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^939]: 360:3 Kâtyâyana VI, 5, 22: Il sacrifie (Â<i>s</i>ya) avec les mots, Svâhâ aux dieux. § 24: Il sacrifie (Â<i>s</i>ya) avec les mots, Aux dieux svâhâ. Dans le commentaire du § 25, ces deux oblations sont appelées paripa<i>s</i>avyâhutî.
 
-[^940] : 360:4 Voir Kâtyâyana VI, 6, 13 ; Â<i>ri</i>valâyana-G<i>ri</i>hya I, 11, 10.
+[^940]: 360:4 Voir Kâtyâyana VI, 6, 13 ; Â<i>ri</i>valâyana-G<i>ri</i>hya I, 11, 10.
 
 [^941]: 360:5 Voir ci-dessus, Sûtra 2.
 
@@ -806,7 +806,7 @@ Dans le Mantra, je propose de lire : pari tvâ hvalano, etc. Niv<i>ri</i>ttendra
 
 [^944]: 361:10-11 10, 11. La manière d'interpréter ces Sûtras est montrée par Â<i>ri</i>valâyana-G<i>ri</i>hya I, 12. Je ne pense pas qu'ils aient quoi que ce soit à voir, comme le dit <i>G</i>ayarâma, en référence au Sûtra II, avec l'offrande due à un parent décédé en voyage (chap. 10, 44).
 
-[^945] : 361 : 1 12, 1. Voir les passages parallèles cités par le professeur Bühler dans sa note sur Âpastamba I, 26, 8 (SBE, II, 85), et par ailleurs, Kâtyâyana I, I, 13 suiv. ; Gautama XXIII, 17 suiv., etc.
+[^945]: 361 : 1 12, 1. Voir les passages parallèles cités par le professeur Bühler dans sa note sur Âpastamba I, 26, 8 (SBE, II, 85), et par ailleurs, Kâtyâyana I, I, 13 suiv. ; Gautama XXIII, 17 suiv., etc.
 
 [^946]: 361:4 Ce Sûtra est identique au Kâtyâyana I, I, 16.
 

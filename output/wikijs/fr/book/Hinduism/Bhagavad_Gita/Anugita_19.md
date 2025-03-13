@@ -94,7 +94,7 @@ Sache que mon esprit est celui du Brâhmane, et que ma compréhension est celle 
 
 [^1478]: 308:3 C'est-à-dire le Brahman, dit Ar<i>g</i>una Mi<i>s</i>ra, dont le Kshetra<i>g</i>a n'est qu'un symbole. Pour une définition du Kshetra<i>g</i>a, voir <i>S</i>ânti Parvan (Moksha), chap. 187, st. 23.
 
-[^1479] : 309:1 Voir Sanatsu<i>g</i>âtîya, [p. 160](Sanatsugatiya_2#p160).
+[^1479]: 309:1 Voir Sanatsu<i>g</i>âtîya, [p. 160](Sanatsugatiya_2#p160).
 
 [^1480]: 309:2 C'est-à-dire ce qui est requis comme préliminaire à l'acquisition de la connaissance, et qui est donc nécessaire à l'émancipation finale.
 

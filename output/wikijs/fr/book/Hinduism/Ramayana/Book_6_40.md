@@ -840,7 +840,7 @@ Ainsi avec leurs branches entrelacées,
 Qui, cramoisi des fleurs du printemps,
 D'un côté à l'autre, les brises se balancent,
 Dans une lutte furieuse, vous pouvez voir
-Le Kins'uk et l'arbre Seemal. [1](Livre_6_50#fn958)
+Le Kins'uk et l'arbre Seemal. [1](Book_6_50#fn958)
 Ils se sont battus avec les poings et les mains, pareillement
 Prêt à parer et à frapper.
 Longtemps le combat douteux, mené

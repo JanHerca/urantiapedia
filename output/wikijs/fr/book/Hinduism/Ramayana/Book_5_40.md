@@ -559,7 +559,7 @@ Elle s'est détachée de son diadème.
 
 ## Notes de bas de page
 
-[^854] : 412 : 1 Svayambhu, l'Auto-existant, Brahmá.
+[^854]: 412 : 1 Svayambhu, l'Auto-existant, Brahmá.
 
 [^855]: 412:2 Vrihaspati ou Váchaspati, le Seigneur de la Parole et précepteur des Dieux.
 
@@ -586,7 +586,7 @@ Elle s'est détachée de son diadème.
 
 [^866]: 415:1 S'achí est l'épouse aimée et charmante d'Indra, et elle est considérée comme le type d'une femme protégée par un mari jaloux et tout-puissant.
 
-[^867] : 415 : 2 La montagne près de Kishkindhá.
+[^867]: 415 : 2 La montagne près de Kishkindhá.
 
 [^868]: 415:3 Airávat est le puissant éléphant sur lequel Indra se plaît à monter.
 

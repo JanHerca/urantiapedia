@@ -139,7 +139,7 @@ Il ne fait donc guère de doute quant au caractère secondaire du cinquième liv
 
 [^3]: 5:1 Voir, par exemple, G<i>ri</i>hya I, 16, 1 (<i>S</i>rauta IV, 16, 2).
 
-[^4] : 5 : 2 Indische Studien, vol. XV, p. 11, 12.
+[^4]: 5 : 2 Indische Studien, vol. XV, p. 11, 12.
 
 [^5]: 5:3 Les Sûtras en référence auxquels j'ai fait cette observation sont I, 8, 14; 14, 13-15; II, 15, 10. Comp. <i>S</i>rauta-sûtra II, 7, 12; IV, 21.
 
@@ -151,6 +151,6 @@ Il ne fait donc guère de doute quant au caractère secondaire du cinquième liv
 
 [^9]: 10:1 vâgnaye le MS.
 
-[^10] : 10:2 Nârâya<i>n</i>a sur I, 9, 3 ; 10, 2.
+[^10]: 10:2 Nârâya<i>n</i>a sur I, 9, 3 ; 10, 2.
 
 [^11]: 10:3 La Paddhati insère la paraphrase de plusieurs de ces règles dans l'explication du premier Adhyâya.

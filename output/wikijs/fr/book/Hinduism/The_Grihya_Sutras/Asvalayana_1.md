@@ -943,7 +943,7 @@ Fin du premier Adhyâya.
   (3) Ensuite (suit) l'offrande des Balis.
   Comp. Sâṅkh.-G<i>ri</i>hya II, 14, 4. 5, passage qui semble confirmer le point de vue exprimé ici.
 
-[^366] : 161 : 5 Manu III, 87.
+[^366]: 161 : 5 Manu III, 87.
 
 [^367]: 162:1 3, 1. Comp. Sâṅkh.-G<i>ri</i>hya I, 7, 6 seq., où les déclarations concernant les lignes à tracer sont quelque peu différentes, et la note qui s'y trouve.
 
@@ -959,7 +959,7 @@ Fin du premier Adhyâya.
 
 [^373]: 163:9 Sur l'oblation à Agni Svish<i>t</i>ak<i>t</i>t, voir Indische Studien, IX, 257.
 
-[^374] : 164 : 4\_1 4, 1. Sâṅkh.-G<i>ri</i>hya I, 5, 2-5.
+[^374]: 164 : 4\_1 4, 1. Sâṅkh.-G<i>ri</i>hya I, 5, 2-5.
 
 [^375]: 164:5 Avec les mots bhû_h_, bhuva_h_, sva_h_, et avec les trois mots ensemble.
 
@@ -975,13 +975,13 @@ Fin du premier Adhyâya.
 
 [^381]: 166:1 6, 1. Comp. Vasish<i>th</i>a I, 30; Âpastamba II, 11, 17; Baudhâyana I, 20, 2.
 
-[^382] : 166 : 2 Vasish<i>th</i>a I, 31 ; Âpastamba II, 11, 19 ; Baudhâyana I, 20, 5.
+[^382]: 166 : 2 Vasish<i>th</i>a I, 31 ; Âpastamba II, 11, 19 ; Baudhâyana I, 20, 5.
 
 [^383]: 166:3 Baudhâyana I, 20, 3.
 
-[^384] : 166 : 4 Vasish<i>th</i>a I, 32 ; Âpastamba II, 11, 18 ; Baudhâyana I, 20, 4.
+[^384]: 166 : 4 Vasish<i>th</i>a I, 32 ; Âpastamba II, 11, 18 ; Baudhâyana I, 20, 4.
 
-[^385] : 166 : 5 Vasish<i>th</i>a I, 33 ; Âpastamba II, II, 20 ; Baudhâyana I, 20, 6.
+[^385]: 166 : 5 Vasish<i>th</i>a I, 33 ; Âpastamba II, II, 20 ; Baudhâyana I, 20, 6.
 
 [^386]: 166:6 Vasish<i>th</i>a I, 35 (où ce rite est désigné comme Mânusha) ; Âpastamba II, 12, 1 ; Baudhâyana I, 20, 7.
 
@@ -1188,4 +1188,4 @@ Fin du premier Adhyâya.
 
 [^483]: 199:28 Comp. ci-dessus, Sutra 13.
 
-[^484] : 200:33 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 15, 2.
+[^484]: 200:33 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 15, 2.

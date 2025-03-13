@@ -1573,7 +1573,7 @@ En dessous : mes cheveux, les mauvaises herbes emmêlées :
 Sa source sont les larmes versées pour Ráma :
 Les paroles de la baleine à bosse sont redoutées par ses monstres :
 La faveur que j'ai donnée au misérable est son rivage,
-Jusqu'à ce que le bannissement de Rama soit terminé. [1](Livre_2_60#fn334)
+Jusqu'à ce que le bannissement de Rama soit terminé. [1](Book_2_60#fn334)
 Ah ! moi, si j'avais envie de mettre
 Mes yeux avides aujourd'hui
 Sur le fils de Raghu, et il sera encore

@@ -281,7 +281,7 @@ Fin du Premier Pa<i>t</i>ala.
 
 [^656]: 215:17 Comp. ci-dessus, I, 2, 5, 14.
 
-[^657] : 216 : 18 18. 1, 2, 5, 15 ; 2, 6, 1.
+[^657]: 216 : 18 18. 1, 2, 5, 15 ; 2, 6, 1.
 
 [^658]: 217:3 6, 3, 4. Certains considèrent, selon Mât<i>ri</i>datta, ces deux Sûtras comme un seul. Il dit (p. 149 de l'édition du Dr Kirste), uttarata ity etadâdi pratig<i>ri</i>h<i>ri</i>âtîty etadanta_m<i>ri</i>m_, dhâraya<i>ri</i>s tenâsya ke<i>ri</i>ân pratipa<i>ri</i>itavya<i>m</i> (lire, pratig<i>ri</i>h<i>ri</i>âtîti pa<i>ri</i>itavya<i>m</i>).
 

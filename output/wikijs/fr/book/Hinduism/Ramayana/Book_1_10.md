@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-[3b](Livre_1_10#fn5)
+[3b](Book_1_10#fn5)
 
 ## CHANT I : NÁRAD.
 
@@ -1774,7 +1774,7 @@ Honoré comme le roi d'amour et de louanges
 Et brillait avec elle dans une lumière glorieuse,
 Doux S'ántá, pour son ministre,
 En tant que fils de Brahmá, Vas'ishtha, il
-Qui a épousé Sainte Arundhati. [1](Livre_1_20#fn83)
+Qui a épousé Sainte Arundhati. [1](Book_1_20#fn83)
 
 <figure class="table chapter-navigator">
   <table>
@@ -1844,7 +1844,7 @@ L'édition de Bombay dit _trilokajna, qui connaît les trois mondes_ (terre, air
 
 [^19]: 3:2b Chef des trois reines de Das'aratha et mère de Ráma.
 
-[^20] : 3:3b De _hima_ neige, (grec χειμ-ών latin hiems) et _álaya_ demeure, le manoir de neige.
+[^20]: 3:3b De _hima_ neige, (grec χειμ-ών latin hiems) et _álaya_ demeure, le manoir de neige.
 
 [^21]: 3:4b La lune (_Soma, Indu, Chandra etc._) est masculine chez les Indiens comme chez les Allemands.
 
@@ -1917,7 +1917,7 @@ Dum stabunt montes, campis dum flumina current, Usque tuum toto carmen, Celebrab
 
 [^52]: 9:3 La direction dans laquelle l'herbe doit être placée sur le sol comme siège pour les dieux, à l'occasion d'offrandes qui leur sont faites.
 
-[^53] : 9 : 4 Parasúráma ou Ráma avec la hache. Voir Chant LXXIV.
+[^53]: 9 : 4 Parasúráma ou Ráma avec la hache. Voir Chant LXXIV.
 
 [^54]: 9:1b Sitá. Videha était le pays dont Mithilá était la capitale.
 

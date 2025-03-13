@@ -785,7 +785,7 @@ La race et le nom doivent être défendus,
 L'hôte doit être célèbre, fort et audacieux.
 Qui aura lequel ? Alors Kes'inî
 La mère d'un héritier serait.
-Sumati, sœur du roi [1](Livre_1_40#fn181)
+Sumati, sœur du roi [1](Book_1_40#fn181)
 De tous les oiseaux qui volent,
 À cet illustre brahmane s'adressa
 Afin qu'elle puisse supporter la multitude

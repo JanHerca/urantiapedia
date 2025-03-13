@@ -84,9 +84,9 @@ On dit que l'inépuisable Asvattha [^467] a ses racines en haut et ses branches 
 
 [^477]: 113:2 C'est-à-dire ce qui est bu, ce qui est léché, ce qui est poudré avec les dents et ce qui est mangé sans ce poudrage.
 
-[^478] : 113:3 Cf. [p. 104](Bhagavadgita_13#p104) supra.
+[^478]: 113:3 Cf. [p. 104](Bhagavadgita_13#p104) supra.
 
-[^479] : 113:4 Voir Introduction, [p. 17](Bhagavadgita_Intro#p17).
+[^479]: 113:4 Voir Introduction, [p. 17](Bhagavadgita_Intro#p17).
 
 [^480]: 113:5 Cf. <i>S</i>vetâ<i>s</i>vatara, p. 294.
 

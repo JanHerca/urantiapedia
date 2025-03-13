@@ -870,7 +870,7 @@ Reine Fortune, aimée des dieux et des rois,
 Il doit cette chaîne à la grâce de Rama,
 Et Tárá et sa place royale.
 En lui, connais le grand Sugríva,
-Que Rama a sauvé de son ennemi. [1](Livre_6_30#fn952)
+Que Rama a sauvé de son ennemi. [1](Book_6_30#fn952)
 
 
 

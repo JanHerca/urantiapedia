@@ -213,7 +213,7 @@ Fin du Quatrième Pa<i>t</i>ala.
 
 [^566]: 171:10 10 seq. Pâraskara I, 3, 5; Â<i>s</i>valâyana I, 24, 5 seq.
 
-[^567] : 171:14 Pâraskara, loc. cit.; Â<i>s</i>valâyana, loc. cit., § 7.
+[^567]: 171:14 Pâraskara, loc. cit.; Â<i>s</i>valâyana, loc. cit., § 7.
 
 [^568]: 172:15 Le texte est corrompu et la traduction très douteuse. Les manuscrits ont : anusa<i>m</i>v<i>m</i><i>m</i>inâ soऽnupaki<i>m</i><i>m</i>ayâ vâ<i>m</i>â. La note de Mât<i>m</i>datta, qui est également très corrompue, est ainsi rédigée : anusa<i>m</i>vra<i>m</i>inâ saha kûr<i>m</i>âdinâ dravye<i>m</i>a tad agrata_h<i>m</i>ri_tvânugantâ. anusa<i>m</i>v<i>m</i><i>m</i>ineti (sic : anuga<i>m</i>a<i>m</i>nnusa<i>m</i>v°, MS. du Dr Kielhorn) pramâdapâ<i>m</i>a_h_. sampradâtânupaki<i>m</i><i>m</i>ayâ na vidyata upaghâtikâ vâg yasya \[yasyâ, MS. du Dr K.\] seyam anupaki<i>m</i><i>m</i>â vâk . . . L'anus (anus, Dr Kirste) est un traitement médical d'urgence. apare yathâpâ<i>m</i>am evârtham i<i>m</i><i>m</i>anti. — Peut-être pouvons-nous corriger, anusa<i>m</i>v<i>m</i><i>m</i>inayânupaki<i>m</i><i>m</i>ayâ vâ<i>m</i>â. Comp. ci-dessous, I, 4, 13, 16.
 
@@ -223,9 +223,9 @@ Fin du Quatrième Pa<i>t</i>ala.
 
 [^571]: 172:1 13, 1. Comp. <i>S</i>âṅkhâyana III, 7, 5, &c.
 
-[^572] : 173 : 3 Pâraskara I, 3, 15.
+[^572]: 173 : 3 Pâraskara I, 3, 15.
 
-[^573] : 173 : 4 Pâraskara I, 3, 14.
+[^573]: 173 : 4 Pâraskara I, 3, 14.
 
 [^574]: 173:6 Â<i>s</i>valâyana I, 21, 13.
 
@@ -237,7 +237,7 @@ Fin du Quatrième Pa<i>t</i>ala.
 
 [^578]: 174:13 NN, bien sûr, signifie le nom de l'hôte.
 
-[^579] : 174:14 14 séq. Comp. Gobhila I, 3, 16 suiv.; Âpastamba II, 2, 3, 11.
+[^579]: 174:14 14 séq. Comp. Gobhila I, 3, 16 suiv.; Âpastamba II, 2, 3, 11.
 
 [^580]: 175:16 La signification de anusa<i>m</i>v<i>m</i><i>m</i>inam (comp. ci-dessus, I, 4, 12, 15) est incertaine. Voir le commentaire, p. 120 de l'édition du Dr Kirste.
 

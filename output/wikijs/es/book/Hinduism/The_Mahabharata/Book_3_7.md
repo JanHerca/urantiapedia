@@ -530,9 +530,6 @@ Ashtavakra dijo: «Cuando no se encuentra ningún brahmana en el camino, el cami
 
 El rey dijo: «Parece, oh poseedor de energía divina, que no eres un ser humano. No te considero un niño, sino un hombre maduro; no hay otro hombre que pueda compararse contigo en el arte de la palabra. Por lo tanto, te doy entrada. Ahí está Vandin».
 
-
-
-
 ## SECCIÓN CXXXIV
 
 Ashtavakra dijo: «Oh, rey, oh, líder de legiones feroces, en esta asamblea de monarcas de poder inigualable que se han reunido, no puedo encontrar a Vandin, jefe de los polemistas. Pero lo busco, como quien busca un cisne en una vasta extensión de agua. Oh, Vandin, te consideras el más destacado de los polemistas. Si te enfrentas a mí en una estaca, no podrás fluir como la corriente de un río. Soy como un fuego abrasador. ¡Guarda silencio ante mí, oh, Vandin! No despiertes a un tigre dormido. Ten presente que no escaparás ileso tras pisotear la cabeza de una serpiente venenosa, lamerle las comisuras de la boca con la lengua, y ser herido por tu pie. Ese hombre débil que, en su orgullo de fuerza, intenta asestar un golpe a una montaña, solo se lastima las manos y las uñas, pero no queda herida en la montaña misma.» Así como las demás montañas son inferiores al Mainaka, y como los terneros son inferiores <span id="p277">[<sup><small>p. 277</small></sup>]</span> al buey, así también todos los demás reyes de la tierra son inferiores al señor de Mithila. Y así como Indra es el más importante de los celestiales, y como el Ganges es el mejor de los ríos, así solo tú eres, oh rey, el más grande de los monarcas. Oh rey, haz que traigan a Vandin ante mi presencia.

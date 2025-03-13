@@ -66,7 +66,7 @@ Le Brâhmane, chef de famille, qui a des vœux rigides, qui est ainsi dévoué, 
 
 ## Notes de bas de page
 
-[^1778] : 355:1 Cf. Gîtâ, [p. 45](Bhagavadgita_2#p45).
+[^1778]: 355:1 Cf. Gîtâ, [p. 45](Bhagavadgita_2#p45).
 
 [^1779]: 355:2 Tout cela est action, dont le fruit est périssable ; le fruit de la connaissance, au contraire, est éternel.
 
@@ -120,7 +120,7 @@ Le Brâhmane, chef de famille, qui a des vœux rigides, qui est ainsi dévoué, 
 
 [^1804]: 358:3 C'est-à-dire le Samnyâsin.
 
-[^1805] : 358:4 <i>S</i>âstra. Cf. Gîtâ, [p. 117](Bhagavadgita_16#p117).
+[^1805]: 358:4 <i>S</i>âstra. Cf. Gîtâ, [p. 117](Bhagavadgita_16#p117).
 
 [^1806]: 358:5 « Telle est la renommée éternelle », littéralement.
 
@@ -140,7 +140,7 @@ Le Brâhmane, chef de famille, qui a des vœux rigides, qui est ainsi dévoué, 
 
 [^1814]: 359:2 Cf. Âpastamba II, 1, 1, 2 seq.
 
-[^1815] : 359 : 3 Cf. Manu IV, 36 ans ; Âpastamba II, 1, 1, 15.
+[^1815]: 359 : 3 Cf. Manu IV, 36 ans ; Âpastamba II, 1, 1, 15.
 
 [^1816]: 359:4 Voici les six devoirs bien connus des Brâhmanes, tels que spécifiés par Manu et d'autres. Voir la discussion de ce point dans l'Introduction.
 

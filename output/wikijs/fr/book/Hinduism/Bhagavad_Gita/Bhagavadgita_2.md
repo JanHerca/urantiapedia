@@ -130,7 +130,7 @@ Lorsqu'un homme, ô fils de P<i>ri</i>thâ!, abandonne tous les désirs de son c
 
 [^127]: 47:4 C'est-à-dire de l'Être suprême ; Yoga signifiant en réalité la dédicace de tous les actes à cet Être.
 
-[^128] : 48 : 1 Voir Sutta Nipâta, p. 4.
+[^128]: 48 : 1 Voir Sutta Nipâta, p. 4.
 
 [^129]: 48:2 Il s'agit là d'un bien purement temporaire, et qui ne mérite donc pas d'être recherché avant l'émancipation définitive.
 
@@ -148,9 +148,9 @@ Lorsqu'un homme, ô fils de P<i>ri</i>thâ!, abandonne tous les désirs de son c
 
 [^136]: 49:1 Le mérite conduit simplement au ciel, à ce sujet voir la note à la dernière page. Cf. Sutta Nipâta, pp. 4, 136, 145 note.
 
-[^137] : 49 : 2 Sutta Nipâta, pp. 3-7, etc.
+[^137]: 49 : 2 Sutta Nipâta, pp. 3-7, etc.
 
-[^138] : 49 : 3 Sutta Nipata, p. 21.
+[^138]: 49 : 3 Sutta Nipata, p. 21.
 
 [^139]: 49:4 Ceci, selon Ânandagiri, signifie tous les écrits autres que ceux sur la science de l'âme.
 
@@ -160,7 +160,7 @@ Lorsqu'un homme, ô fils de P<i>ri</i>thâ!, abandonne tous les désirs de son c
 
 [^142]: 50:1 C'est-à-dire satisfait, sans égard aux objets extérieurs, par la seule contemplation de soi.
 
-[^143] : 50:2 Cf. Sutta Nipata, p. 3.
+[^143]: 50:2 Cf. Sutta Nipata, p. 3.
 
 [^144]: 50:3 Le mot <i>s</i>ubhâ<i>s</i>ubha dans ce sens apparaît également dans le Dhammapada, strophe 78, et dans le Maitrî-upanishad, p. 34.
 
@@ -170,7 +170,7 @@ Lorsqu'un homme, ô fils de P<i>ri</i>thâ!, abandonne tous les désirs de son c
 
 [^147]: 50:6 C'est-à-dire entre le bien et le mal. Confusion de mémoire = oubli des <i>S</i>âstras et des règles qui y sont prescrites.
 
-[^148] : 51:1 Cf. Sutta Nipata, p. 45.
+[^148]: 51:1 Cf. Sutta Nipata, p. 45.
 
 [^149]: 51:2 Cf. Maitrî-upanishad, p. 134, où le commentateur explique que cela signifie la liberté des désirs.
 

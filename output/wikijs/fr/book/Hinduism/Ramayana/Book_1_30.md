@@ -456,7 +456,7 @@ Et brûlé tous les membres.
 Depuis la terrible rage du grand Dieu
 Détruit sa forme et son corps,
 Káma à chaque âge successif
-A porté le nom d'Ananga [1](Livre_1_30#fn156).
+A porté le nom d'Ananga [1](Book_1_30#fn156).
 Alors, là où sa belle forme s'est décomposée,
 Ce terrain est de style Anga :
 Cette ombre lui était autrefois sacrée,
@@ -1108,7 +1108,7 @@ De tes propres lèvres, mon seigneur, pour apprendre.
 
 [^155]: 37:5b La pratique des austérités, des tortures volontaires et des mortifications était anciennement universelle en Inde, et les Indiens la considéraient comme d'une immense efficacité. C'est pourquoi ils se mortifiaient pour expier leurs péchés, acquérir des mérites et obtenir des dons et des pouvoirs surhumains ; les dieux eux-mêmes s'exerçaient parfois à de telles austérités, soit pour s'élever à une puissance et une grandeur supérieures, soit pour contrecarrer les austérités humaines qui menaçaient de les vaincre et de les priver du ciel... De telles austérités étaient appelées en Inde tapas (ardeur ardente, dévotion fervente) et celui qui les pratiquait tapasvin.
 
-[^156] : 38 : 1 _Le sans-corps._
+[^156]: 38 : 1 _Le sans-corps._
 
 [^157]: 38:1b 'Un lac célèbre considéré en Inde comme sacré. Il se trouve dans la haute région entre les hautes terres du nord de l'Himalaya et le mont Kailása, la région des lacs sacrés. Le poème, suivant la croyance populaire indienne, fait couler la rivière Sarayú (aujourd'hui Sarjú) du lac Mánasa ; les sources de la rivière se trouvent un peu plus au sud, à environ une journée de voyage du lac. Voir Lassen, _Indische Alterthumsbunde_, page 34.' GORBESIO. _Manas_ signifie esprit ; _mánasa_, mental, né de l'esprit.
 

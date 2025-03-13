@@ -792,7 +792,7 @@ Oui, Vishnu, Dieu omniprésent,
 Sous ses pieds marchaient les Titans
 La race d'Aditi, les fils de la lumière,
 a tué la progéniture de Diti dans un combat cruel.
-Puis, détruisant la ville [2b](Livre_1_50#fn211), Indra gagna
+Puis, détruisant la ville [2b](Book_1_50#fn211), Indra gagna
 Son empire, et dans la gloire régnait
 Sur les trois mondes avec barde et sage
 Se réjouissant de son héritage.

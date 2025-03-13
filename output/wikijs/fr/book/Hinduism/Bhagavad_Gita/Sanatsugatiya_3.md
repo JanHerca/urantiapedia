@@ -122,7 +122,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^716]: 162:7 C'est-à-dire le siège le plus élevé : le Brahman ; car l'esprit, les sens, etc., y sont inexistants. Cf. Ka<i>th</i>a, p. 151, et Maitrî, ​​p. 161
 
-[^717] : 163:1 Cf. Kenopanishad, p. 39 ; Ka<i>th</i>a, p. 152 ; Taittiriya, p. 119.
+[^717]: 163:1 Cf. Kenopanishad, p. 39 ; Ka<i>th</i>a, p. 152 ; Taittiriya, p. 119.
 
 [^718]: 163:2 « Taciturnité est son nom », dit Nîlaka<i>nth</i>a.
 
@@ -150,7 +150,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^730]: 164:8 C'est-à-dire le Brahman, c'est-à-dire pour y parvenir. Pénitence = kândrâyanâ et autres observances ; sacrifice = gyotishtoma, etc.
 
-[^731] : 164:9 Cf. [p. 158](Sanatsugatiya_2#p158) supra, et Taittirîya-âra<i>ny</i>aka, p. 888.
+[^731]: 164:9 Cf. [p. 158](Sanatsugatiya_2#p158) supra, et Taittirîya-âra<i>ny</i>aka, p. 888.
 
 [^732]: 165:1 Cf. <i>S</i>vetâ<i>s</i>vatara, p. 327; Mu<i>nd</i>aka, p. 323.
 
@@ -158,7 +158,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^734]: 165:3 C'est-à-dire sous forme de mérite, etc.
 
-[^735] : 165:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
+[^735]: 165:4 Cf. Gîtâ, [p. 84](Bhagavadgita_9#p84).
 
 [^736]: 165:5 Cf. <i>Kh</i>ândogya, p. 23. Brâhma<i>n</i>as = ceux qui connaissent le Brahman. Voir [p. 171](#p171) infra.
 
@@ -198,7 +198,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^754]: 167:5 Lié à ce monde ou à l'autre, Nîlaka<i>nth</i>a. Je place cette strophe et une autre plus loin entre parenthèses, car il n'est pas certain que l'exemplaire de Sankara les contienne, bien qu'elles figurent maintenant dans certains de nos exemplaires du texte avec son commentaire. Voir Introduction.
 
-[^755] : 167:6 Cf. Mu<i>nd</i>aka, p. 319 ; <i>Kh</i>ândogya, p. 494.
+[^755]: 167:6 Cf. Mu<i>nd</i>aka, p. 319 ; <i>Kh</i>ândogya, p. 494.
 
 [^756]: 167:7 Voir note , à la page [165](#p165).
 
@@ -210,7 +210,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^760]: 167:11 Restriction des sens en présence de leurs objets.
 
-[^761] : 167:12 Cf. Gîtâ, pp. [69](Bhagavadgita_6#p69), [70](Bhagavadgita_6#p70).
+[^761]: 167:12 Cf. Gîtâ, pp. [69](Bhagavadgita_6#p69), [70](Bhagavadgita_6#p70).
 
 [^762]: 167:13 Qui sont utiles pour atteindre le but le plus élevé.
 
@@ -258,7 +258,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^784]: 170:4 Cf. Mu<i>nd</i>aka, p. 312; <i>S</i>ânti Parvan (Moksha), chap. 199, st. 64 seq. Immortalité = émancipation finale.
 
-[^785] : 170:5 [p. 165](#p165) ci-dessus.
+[^785]: 170:5 [p. 165](#p165) ci-dessus.
 
 [^786]: 170:6 De la pénitence, c'est-à-dire.
 
@@ -278,7 +278,7 @@ Par ignorance du Véda unique [^787] — l'unique vérité — ô roi des rois !
 
 [^794]: 171:5 Ceux qui ne comprennent pas le Brahman perdent leur pouvoir naturel d'obtenir ce qu'ils désirent, et se livrent alors à diverses cérémonies pour divers bienfaits particuliers. Cf. <i>Kh</i>ândogya, p. 541 ; Gîtâ, [p. 47](Bhagavadgita_2#p47) ; et [p. 184](Sanatsugatiya_5#p184) infra.
 
-[^795] : 171:6 Cf. B<i>ri</i>hadâranyaka, p. 893.
+[^795]: 171:6 Cf. B<i>ri</i>hadâranyaka, p. 893.
 
 [^796]: 171:7 Ibid. p. 636.
 

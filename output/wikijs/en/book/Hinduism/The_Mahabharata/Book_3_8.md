@@ -32,9 +32,6 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
-
-
-
 <span id="p364">[<sup><small>p. 364</small></sup>]</span>
 
 ## SECTION CLXXXI

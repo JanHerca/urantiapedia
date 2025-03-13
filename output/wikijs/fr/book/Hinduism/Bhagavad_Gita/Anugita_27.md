@@ -74,9 +74,9 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1638]: 335:1 Le contact des objets des sens avec les sens est la source de l'illusion.
 
-[^1639] : 335:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107), et notez [1](Bhagavadgita_14#fn444) ici.
+[^1639]: 335:2 Cf. Gîtâ, [p. 107](Bhagavadgita_14#p107), et notez [1](Bhagavadgita_14#fn444) ici.
 
-[^1640] : 335:3 Cf. Sânkhya-sûtra I, 121, et [p. 387](Anugita_36#p387) infra.
+[^1640]: 335:3 Cf. Sânkhya-sûtra I, 121, et [p. 387](Anugita_36#p387) infra.
 
 [^1641]: 335:4 C'est-à-dire la connaissance de la vérité, Ar<i>g</i>una Mi<i>s</i>ra.
 
@@ -98,7 +98,7 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1650]: 336:5 C'est-à-dire vexé par les opérations de l'un d'entre eux.
 
-[^1651] : 337:1 Cf. Sânkhya-kârikâ 2 7; Sânkhya-sâra, p. 17.
+[^1651]: 337:1 Cf. Sânkhya-kârikâ 2 7; Sânkhya-sâra, p. 17.
 
 [^1652]: 337:2 Cf. Ka<i>th</i>a, p. 148.
 
@@ -138,7 +138,7 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1670]: 341:6 Tels que la méditation ou upâsana, et prâ<i>n</i>âyama ou la retenue des vents de la vie respectivement, Ar<i>g</i>una Mi<i>s</i>ra.
 
-[^1671] : 341:7 Cf. [p. 310](Anugita_19#p310) ci-dessus.
+[^1671]: 341:7 Cf. [p. 310](Anugita_19#p310) ci-dessus.
 
 [^1672]: 341:8 C'est-à-dire que la bravoure, l'apprentissage, etc. sont considérés comme n'étant pas des mérites, car ils provoquent de l'orgueil, etc., Nîlaka<i>nth</i>a.
 
@@ -154,11 +154,11 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1678]: 342:2 C'est-à-dire de tous les liens, je suppose. Voir [p. 292](Anugita_13#p292) supra.
 
-[^1679] : 342 : 3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
+[^1679]: 342 : 3 Cf. Gîtâ, [p. 51](Bhagavadgita_2#p51).
 
-[^1680] : 342:4 Cf. Gîtâ, [p. 110](Bhagavadgita_14#p110).
+[^1680]: 342:4 Cf. Gîtâ, [p. 110](Bhagavadgita_14#p110).
 
-[^1681] : 342:5 Cf. Gîtâ, [p. 68](Bhagavadgita_6#p68).
+[^1681]: 342:5 Cf. Gîtâ, [p. 68](Bhagavadgita_6#p68).
 
 [^1682]: 342:6 C'est-à-dire l'expérience, Nîlaka<i>nth</i>a. Cela signifie la perception directe des relations entre le soi suprême et le soi individuel, Cf. Gîtâ, [p. 111](Bhagavadgita_15#p111).
 
@@ -178,9 +178,9 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1690]: 343:2 C'est-à-dire les sens. Cf. [p. 238](Anugita_2#p238) supra, note [7](Anugita_2#fn1090).
 
-[^1691] : 343 : 3 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
+[^1691]: 343 : 3 Cf. Gîtâ, [p. 65](Bhagavadgita_5#p65).
 
-[^1692] : 343:4 Voir Sanatsu<i>g</i>âtîya, [p. 187](6#p187) supra.
+[^1692]: 343:4 Voir Sanatsu<i>g</i>âtîya, [p. 187](6#p187) supra.
 
 [^1693]: 343:5 Comme étant impur, Nîlaka<i>nth</i>a ; comme les corps des Kâ<i>nth</i>âlas, etc., lorsqu'ils sont vus, sont générateurs de péché, Ar<i>g</i>una Mi<i>s</i>ra. Voir [p. 155](Sanatsugatiya_2#p155) supra.
 
@@ -198,7 +198,7 @@ L'homme instruit qui absorbe les objets de désir de tous côtés, comme une tor
 
 [^1700]: 344:1 Je ne suis pas sûr du sens ici. Ar<i>g</i>una Mi<i>s</i>ra dit (lisant vi<i>s</i>riget, « envoyer », au lieu de vikshipet, « mettre de côté ») « envoyer à la création, restreindre à la dissolution et retenir à l'émancipation finale ». Le commentaire lit rodhayet, que nous avons adopté ci-dessus. Le texte dans la même copie, cependant, est bodhayet. Ar<i>g</i>una Mi<i>s</i>ra ajoute, pour autant que je puisse le déduire d'une copie incorrecte : « Comme dans cette vie, tout est accompli par ces actions » (à savoir, je suppose, le rejet, etc.). Nîlaka<i>nth</i>a dit : « Cette même chose est la cause de la création, de la destruction et de la connaissance », lisant bodhayet.
 
-[^1701] : 344:2 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57).
+[^1701]: 344:2 Cf. Gîtâ, [p. 57](Bhagavadgita_3#p57).
 
 [^1702]: 344:3 C'est-à-dire les cinq grands éléments, comme indiqué dans le Dictionnaire de Williams, citant Yâgñavalkya III, 145. Voir Sânti Parvan (Moksha), chap. 182, st. 16 ; chap. 184, st. 1.
 

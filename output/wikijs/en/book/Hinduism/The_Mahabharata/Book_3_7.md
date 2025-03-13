@@ -530,9 +530,6 @@ Vaisampayana said, “Then that most praiseworthy of Pandu's sons, there bathed 
 
 “The king said, ‘It seemeth, O possessor of divine energy, that thou art no human being. I consider thee not a boy, but a matured man; there is no other man who can compare with thee in the art of speech. I therefore give thee admittance. There is Vandin.’”
 
-
-
-
 ## SECTION CXXXIV
 
 “Ashtavakra said, ‘O king, O leader of fierce legions, in this assembly of monarchs of unrivalled power who have met together, I am unable to find out Vandin, chief of the controversialists. But I am searching for him, even as one doth for a swan on a vast expanse of water. O Vandin, thou regardest thyself as the foremost of controversialists. When though wilt engage with me in staking, thou wilt not be able to flow like the current of a river. I am like a full-flaming fire. Be silent before me, O Vandin! Do not awaken a sleeping tiger. Know that thou shalt not escape unstung, after trampling on the head of a venomous snake, licking the corners of its mouth with its tongue, and who hath been hurt by thy foot. That weak man who, in pride of strength, attempts to strike a blow at a mountain, only gets his hands and nails hurt, but no wound is left on the mountain itself. As the other mountains are inferior to the Mainaka, and as calves are inferior <span id="p277">[<sup><small>p. 277</small></sup>]</span> to the ox, so are all other kings of the earth inferior to the lord of Mithila. And as Indra is the foremost of celestials, and as the Ganga is the best of rivers, so thou alone art, O king, the greatest of monarchs. O king, cause Vandin to be brought to my presence.’

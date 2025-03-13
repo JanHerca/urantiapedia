@@ -91,7 +91,7 @@ Les nobles enfants du roi, [^357]
 
 <span id="p190">[<sup><small>p. 190</small></sup>]</span>
 
-Yudhājit [1](Livre_2_90#fn358) et Sumantra, tous
+Yudhājit [1](Book_2_90#fn358) et Sumantra, tous
 L'appel du véridique et du vertueux,
 Il termina : bientôt un bruit puissant
 Un tumulte grandissant s'éleva autour de nous,
@@ -100,7 +100,7 @@ Avec voiture, éléphant et cheval,
 Le peuple tout entier acclame joyeusement
 Il a accueilli le prince Bharat à son arrivée :
 Même s'ils aimaient saluer leur roi,
-Ou comme les dieux Seigneur Indra [2](Livre_2_90#fn359) se rencontrent.
+Ou comme les dieux Seigneur Indra [2](Book_2_90#fn359) se rencontrent.
 La vaste assemblée brillait comme une belle
 Avec le visage royal de Bharat
 Comme Das'aratha lui-même était là

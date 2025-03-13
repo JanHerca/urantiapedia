@@ -560,7 +560,7 @@ Du frein et du repaire inquiet.
 
 [^782]: 391:1b Prahlá\*da, le fils de H\*\*\*iranyakasipu, était un Datya pieux remarquable par sa dévotion à Vishnu, et fut pour cette raison persécuté par son père.
 
-[^783] : 392 : 1 La critique du Bengale l'appelle le frère d'Arishtaneimi. « Le commentateur dit « Arishtanemi est Aruna ». Aruna le cocher du soleil est le fils de Kas'yapa et Vinatá et par conséquent frère de Garuda appelé Vainat\*eya de Vinatá sa mère », GORRESIO.
+[^783]: 392 : 1 La critique du Bengale l'appelle le frère d'Arishtaneimi. « Le commentateur dit « Arishtanemi est Aruna ». Aruna le cocher du soleil est le fils de Kas'yapa et Vinatá et par conséquent frère de Garuda appelé Vainat\*eya de Vinatá sa mère », GORRESIO.
 
 [^784]: 392:2 Une nymphe du Paradis.
 
