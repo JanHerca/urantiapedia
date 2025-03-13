@@ -286,87 +286,14 @@ The Panchîkarana process is clearly illustrated in the following table.
 
 &nbsp;&nbsp;&nbsp;&nbsp;TABLE
 
-Ether
-
-&nbsp;&nbsp;&nbsp;&nbsp;Air
-
-Fire
-
-Water
-
-Earth
-
-Ether
-
-1/2
-
-1/8
-
-1/8
-
-1/8
-
-1/8
-
-Air
-
-1/8
-
-1/2
-
-1/8
-
-1/8
-
-1/8
-
-Fire
-
-1/8
-
-1/8
-
-1/2
-
-1/8
-
-1/8
-
-Water
-
-1/8
-
-1/8
-
-1/8
-
-1/2
-
-1/8
-
-&nbsp;&nbsp;&nbsp;&nbsp;Earth
-
-1/8
-
-1/8
-
-1/8
-
-1/8
-
-1/2
-
-Gross element
-
-1
-
-1
-
-1
-
-1
-
-1
+&nbsp; | Ether | Air | Fire | Water | Earth
+--- | --- | --- | --- | --- | ---
+Ether | 1/2 | 1/8 | 1/8 | 1/8 | 1/8
+Air | 1/8 | 1/2 | 1/8 | 1/8 | 1/8
+Fire | 1/8 | 1/8 | 1/2 | 1/8 | 1/8
+Water | 1/8 | 1/8 | 1/8 | 1/2 | 1/8
+Earth | 1/8 | 1/8 | 1/8 | 1/8 | 1/2
+Gross element | 1 | 1 | 1 | 1 | 1
 
 When the five gross elements are thus produced, consciousness then enters into these elements as their presiding deities; next comes the feeling of egoism (I ness) identifying itself with the body thus created out of the five elements. (I am this body and so forth).
 

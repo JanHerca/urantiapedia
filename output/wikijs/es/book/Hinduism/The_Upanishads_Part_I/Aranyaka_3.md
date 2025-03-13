@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:56:43Z
   </table>
 </figure>
 
-
+TERCER ÂRAN YAKA
 
 <figure class="table chapter-navigator">
   <table>

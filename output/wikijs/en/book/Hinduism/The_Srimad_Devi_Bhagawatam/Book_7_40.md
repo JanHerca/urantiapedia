@@ -34,8 +34,7 @@ dateCreated: 2025-1-14T22:24:17Z
 
 <span id="c31"></span>
 
-Chapter XXXI
-============
+## Chapter XXXI
 
 ### On the Birth of Pârvatî in the House of Himâlayâs
 
@@ -66,11 +65,9 @@ Here ends the Thirty-first Chapter of the Seventh Book on the birth of Pârvatî
 
 <span id="c32"></span>
 
-Chapter XXXII
-=============
+## Chapter XXXII
 
 <span id="p707">[<sup><small>p. 707</small></sup>]</span>
-======
 
 ### On Self-realization, Spoken by the World Mother
 
@@ -98,10 +95,8 @@ Here ends the Thirty-second Chapter of the Seventh Book on Self-realization, spo
 <span id="c33"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XXXIII
-==============
+## Chapter XXXIII
 
 ### On the Devî’s Virat Rûpa
 
@@ -135,10 +130,8 @@ Here ends the Thirty-third Chapter of the Seventh Book on the Devî's Virât Rû
 <span id="c34"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XXXIV
-=============
+## Chapter XXXIV
 
 ### On the Knowledge and Final Emancipation
 
@@ -157,8 +150,7 @@ Here ends the Thirty-fourth Chapter of the Seventh Book on the Knowledge, Final 
 
 <span id="c35"></span>
 
-Chapter XXXV
-============
+## Chapter XXXV
 
 ### On the Yoga and Mantra Siddhi
 
@@ -204,10 +196,8 @@ Here ends the Thirty-fifth Chapter of the Seventh Book on the Yoga and the Mantr
 <span id="c36"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XXXVI
-=============
+## Chapter XXXVI
 
 ### On the Highest Knowledge of Brahma
 
@@ -297,10 +287,8 @@ Here ends theThirty-sixth Chapter of the Seventh Book on the Highest Knowledge o
 <span id="c37"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XXXVII
-==============
+## Chapter XXXVII
 
 ### On Bhakti Yoga
 
@@ -326,10 +314,8 @@ Here ends the Thirty-seventh Chapter of the Seventh Book on the glories of Bhakt
 <span id="c38"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XXXVIII
-===============
+## Chapter XXXVIII
 
 ### The Vows and the Sacred Places of the Devi
 
@@ -359,10 +345,8 @@ Here ends the Thirty-eighth Chapter of the Seventh Book on the vows and the sacr
 <span id="c39"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XXXIX
-=============
+## Chapter XXXIX
 
 ### The Worship of the World Mother
 
@@ -386,10 +370,8 @@ Here ends the Thirty-ninth Chapter of tho Seventh Book on the worship of the Wor
 <span id="c40"></span>
 
 THE SEVENTH BOOK
-================
 
-Chapter XL
-==========
+## Chapter XL
 
 ### The External Worship of the Devî
 

@@ -177,12 +177,32 @@ Italic inside words ||
 `_([A-Za-zâêîôûñ])_` | `<i>$1</i>`
 `_([A-Za-zâêîôûñ])([A-Za-zâêîôûñ])_` | `<i>$1$2</i>`
 
-Greeks letters
+## Greeks letters
 
-Alpha - Α α Beta - Β β Gamma - Γ γ Delta - Δ δ Epsilon - Ε ε Zeta - Ζ ζ
-Eta - Η η Theta - Θ θ Iota - Ι ι Kappa - Κ κ Lambda - Λ λ Mu - Μ μ
-Nu - Ν ν Xi - Ξ ξ Omicron - Ο ο Pi - Π π Rho - Ρ ρ Sigma - Σ σ/ς
-Tau - Τ τ Upsilon - Υ υ Phi - Φ φ Chi - Χ χ Psi - Ψ ψ Omega - Ω ω
+* Alpha - Α α
+* Beta - Β β
+* Gamma - Γ γ
+* Delta - Δ δ
+* Epsilon - Ε ε
+* Zeta - Ζ ζ
+* Eta - Η η
+* Theta - Θ θ
+* Iota - Ι ι
+* Kappa - Κ κ
+* Lambda - Λ λ
+* Mu - Μ μ
+* Nu - Ν ν
+* Xi - Ξ ξ
+* Omicron - Ο ο
+* Pi - Π π
+* Rho - Ρ ρ
+* Sigma - Σ σ/ς
+* Tau - Τ τ
+* Upsilon - Υ υ
+* Phi - Φ φ
+* Chi - Χ χ
+* Psi - Ψ ψ
+* Omega - Ω ω
 
 ## VS Code tricks
 
