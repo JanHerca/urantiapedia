@@ -58,6 +58,7 @@ NEW YORK :: 1926 :: LONDON <br>
 - [IX. Ethical Religion and the Religion of Future](/en/book/Alfred_W_Martin/Comparative_Religion_and_Future/9)
 - [X. The Historical Religions and the Religion of the Future](/en/book/Alfred_W_Martin/Comparative_Religion_and_Future/10)
 - [XI. Christianity and the Religion of the Future](/en/book/Alfred_W_Martin/Comparative_Religion_and_Future/11)
+- [XII. The Bible and the Religion of the Future](/en/book/Alfred_W_Martin/Comparative_Religion_and_Future/12)
 
 ## External links
 
