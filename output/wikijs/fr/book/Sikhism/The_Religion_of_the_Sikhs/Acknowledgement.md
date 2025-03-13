@@ -29,7 +29,15 @@ dateCreated: 2025-2-12T22:30:50Z
   </table>
 </figure>
 
+<span id="p5">[<sup><small>p. 5</small></sup>]</span>
 
+<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+
+Tout écrivain sur la religion des Sikhs doit nécessairement être grandement redevable à l'ouvrage unique de M. Max A. Macauliffe sur le sujet, _La religion sikh : ses gourous, ses saints et ses auteurs_.
+
+Je tiens à remercier tout particulièrement les Presses universitaires d'Oxford pour leur aimable autorisation de citer de nombreux extraits de la traduction des hymnes. Les détails de la vie des gourous sont tirés de la même source, ainsi que de la version anglaise des prophéties de Teg Bahādur et Gobind Singh.
+
+DF
 
 <figure class="table chapter-navigator">
   <table>
