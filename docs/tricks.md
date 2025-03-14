@@ -6,11 +6,52 @@
 
 Description | Origin | Fix
 --- | --- | ---
-Replace hyphenation | `-\n` | `(blank)` | 
+Replace hyphenation | `[-¬] +\n` | `(blank)` | 
 Replace paragraph separators | `^\n` | `%%\n\n` | 
 Replace end lines not preceded by % | `(?<!%)\n` | `(one space)` | 
 Replace %% | `%%` | `\n` | 
 Replace spaces at beginning | `^[ ]+` | `(blank)` | 
+Multiple carriages (execute several) | `\n\n\n` | `\n\n`
+Spaces at the end | ` +$` | `(blank)`
+Doble spaces | `  ` | ` `
+Pages | `^(\d+)\n\n[A-Z][A-Z].+` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
+Pages | `^(\d+) [A-Z][A-Z].+` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
+Pages | `^[A-Z ]+ (\d+)` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
+Pages | `^[A-Z ]+\n\n(\d+)` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
+
+### Books
+
+Origin | Fix
+--- | ---
+`^p\. ([0-9ivxlc]+)` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
+`\n\n<span id=@p([0-9ivxl]+)@>\[<sup><small>p\. ([0-9ivxlc]+)</small></sup>\]</span>\n\n\\\[paragraph continues\\\]` | ` <span id=@p$1@>[<sup><small>p. $2</small></sup>]</span>`
+`\n\n<span id=@p([0-9ivxlc]+)@>\[<sup><small>p\. ([0-9ivxlc]+)</small></sup>\]</span>\n\n([a-z0-9])` | ` <span id=@p$1@>[<sup><small>p. $2</small></sup>]</span> $3`
+`([a-z0-9])\n\n<span id=@p([0-9ivxlc]+)@>\[<sup><small>p\. ([0-9ivxlc]+)</small></sup>\]</span>\n\n([A-Z])` | `$1 <span id=@p$2@>[<sup><small>p. $3</small></sup>]</span> $4`
+`// File: tests\\\\book.+\n` | ``
+`\[Sacred Texts\]\(\.\./\.\..+\n` | ``
+`\[Buy this Book at Amazon.+\n` | ``
+`\[!\[\]\(\.\./\.\./cdshop.+\n` | ``
+`\* \* \*\n` | ``
+`\[!\[\]\(img/tease\.jpg.+\n` | ``
+`(?<!\w)'([^']*)'(?!\w)` | `‘$1’`
+`"([^"]*)"` | `“$1”`
+`@` | `"`
+`\[[^\]]+\]\(#fn_(\d+)\)` | `[^$1]`
+`\[([^\]]+)\]\(\w+\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
+`### Footnotes` | `## Footnotes`
+`  $` | ``
+`^"` | `“`
+`"$` | `”`
+`^'` | `‘`
+`'$` | `’`
+`--` | `—`
+` ` | ` `
+`^ +` | `&nbsp;&nbsp;&nbsp;&nbsp;`
+`#page_` | `#p`
+`\[([^\]]+)\]\(errata\.htm#\d+\)` | `$1`
+Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `<i>$1</i>`
+`_([A-Za-zâêîôûñ])_` | `<i>$1</i>`
+`_([A-Za-zâêîôûñ])([A-Za-zâêîôûñ])_` | `<i>$1$2</i>`
 
 ### After translation with Google Translator of Markdown articles to Spanish 
 
@@ -145,37 +186,6 @@ Search existing old UB refs ||
 `\(\d{1,4}(\.\d{1,2})?\)` | &nbsp;
 Search existing new UB refs ||
 `(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?` | &nbsp;
-Books ||
-`^p\. ([0-9ivxlc]+)` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
-`\n\n<span id=@p([0-9ivxl]+)@>\[<sup><small>p\. ([0-9ivxlc]+)</small></sup>\]</span>\n\n\\\[paragraph continues\\\]` | ` <span id=@p$1@>[<sup><small>p. $2</small></sup>]</span>`
-`\n\n<span id=@p([0-9ivxlc]+)@>\[<sup><small>p\. ([0-9ivxlc]+)</small></sup>\]</span>\n\n([a-z0-9])` | ` <span id=@p$1@>[<sup><small>p. $2</small></sup>]</span> $3`
-`([a-z0-9])\n\n<span id=@p([0-9ivxlc]+)@>\[<sup><small>p\. ([0-9ivxlc]+)</small></sup>\]</span>\n\n([A-Z])` | `$1 <span id=@p$2@>[<sup><small>p. $3</small></sup>]</span> $4`
-`// File: tests\\\\book.+\n` | ``
-`\[Sacred Texts\]\(\.\./\.\..+\n` | ``
-`\[Buy this Book at Amazon.+\n` | ``
-`\[!\[\]\(\.\./\.\./cdshop.+\n` | ``
-`\* \* \*\n` | ``
-`\[!\[\]\(img/tease\.jpg.+\n` | ``
-`(?<!\w)'([^']*)'(?!\w)` | `‘$1’`
-`"([^"]*)"` | `“$1”`
-`@` | `"`
-`\[[^\]]+\]\(#fn_(\d+)\)` | `[^$1]`
-`\[([^\]]+)\]\(\w+\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
-`### Footnotes` | `## Footnotes`
-`  $` | ``
-`^"` | `“`
-`"$` | `”`
-`^'` | `‘`
-`'$` | `’`
-`--` | `—`
-` ` | ` `
-`^ +` | `&nbsp;&nbsp;&nbsp;&nbsp;`
-`#page_` | `#p`
-`\[([^\]]+)\]\(errata\.htm#\d+\)` | `$1`
-Italic inside words ||
-`(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `<i>$1</i>`
-`_([A-Za-zâêîôûñ])_` | `<i>$1</i>`
-`_([A-Za-zâêîôûñ])([A-Za-zâêîôûñ])_` | `<i>$1$2</i>`
 
 ## Greeks letters
 
