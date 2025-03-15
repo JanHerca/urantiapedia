@@ -111,9 +111,11 @@
   ],
   "markdown.suggest.paths.enabled": false,
   "prettier.proseWrap": "always",
-  "spellright.documentTypes": [],
+  "spellright.documentTypes": [
+    "markdown"
+  ],
   "spellright.language": [
-    "es"
+    "en"
   ],
   "svg.preview.background": "editor"
 }
