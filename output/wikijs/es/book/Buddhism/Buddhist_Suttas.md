@@ -58,7 +58,7 @@ Volumen XI de Los Libros Sagrados de Oriente<br>
 	- [Traducción](/es/book/Buddhism/Buddhist_Suttas/Akankheyya_Sutta_Translation)
 - Ketokhila-Sutta: Esterilidad y esclavitud
 	- [Introducción](/es/book/Buddhism/Buddhist_Suttas/Ketokhila_Sutta_Intro)
-	- [Traducción](/es/book/Buddhism/Buddhist_Suttas/Akankheyya_Sutta_Translation)
+	- [Traducción](/es/book/Buddhism/Buddhist_Suttas/Ketokhila_Sutta_Translation)
 - Mahâ-Sudassana Sutta: Leyenda del Gran Rey de la Gloria
 	- [Introducción](/es/book/Buddhism/Buddhist_Suttas/Maha_Sudassana_Sutta_Intro)
 	- [Capítulo I](/es/book/Buddhism/Buddhist_Suttas/Maha_Sudassana_Sutta_1)

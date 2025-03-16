@@ -32,7 +32,21 @@ dateCreated: 2025-2-6T11:21:58Z
   </table>
 </figure>
 
+<span id="pxiv">[<sup><small>p. xiv</small></sup>]</span>
 
+### NOTES ET CORRECTIONS SUPPLÉMENTAIRES.
+
+N° 512. Jātaka-Mālā XVII. Kumbha-Jataka.
+
+N° 513. Cariyā-Piṭaka II. 9, Jayaddisa.
+
+N° 516. Jātaka-Mālā XXIV. Mahakapi-Jataka.
+
+N° 524. Cariyā-Piṭaka II. 10, Sankhapala.
+
+N° 529. Cariyā-Piṭaka III. 5, Soṇapaṇḍita.
+
+Page 25, ligne 34, pour _bois de chauffage_ lire _bâtons de feu_ ou _exercices de feu_.
 
 <figure class="table chapter-navigator">
   <table>

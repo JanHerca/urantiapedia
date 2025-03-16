@@ -32,7 +32,9 @@ dateCreated: 2025-2-6T11:21:28Z
   </table>
 </figure>
 
+P. 30, l. 36, _lire_ 'Celui qui a marché...'
 
+P. 113, dernière l., _lire_ Cf. Vol. np 362 (texte Pāli).
 
 <figure class="table chapter-navigator">
   <table>
