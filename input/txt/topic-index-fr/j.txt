@@ -405,7 +405,7 @@ mondes culturels de transition
 	Jérusem, le siège de notre système local de Satania, possède sept mondes-maisons qui gravitent autour du monde n°1, chacun entouré de sept satellites, servant de culture de transition pour les mortels ascendants. (15:7.5) (47:0.1-2)
 	Le Monde du Père, une sphère de transition silencieuse qui tourne autour, accueille tous les êtres du système comme adorateurs dans son grand temple de lumière. (45:1.9)
 
-Jésus | | Christ; Fils Créateurs; Michel de Nébadon; Ajusteur de Pensée de Jésus; apôtres de Jésus; religion:expliquée | PERSON | OK
+Jésus | | Christ; Fils Créateurs; Michel de Nébadon; Ajusteur de Pensée de Jésus; apôtres de Jésus; religion:expliquée | PERSON | 
 les apôtres croyaient que Jésus était le Fils éternel (157:5.1) (161:2.10)
 croyants destinés à atteindre la perfection en (142:7.15)
 Texte d'anniversaire d'Isaïe (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -1302,41 +1302,44 @@ persécutions contre les juifs
 	Les préjugés chrétiens contre les Juifs sont inexcusables, car le rejet de Jésus par certains il y a longtemps ne justifie pas de maltraiter les Juifs individuellement aujourd’hui. (175:2)
 	Les Juifs ont enduré les souffrances d’un peuple incompris et méprisé, mais leur recherche persistante de Dieu a révélé une image toujours plus claire de la vérité éternelle. (121:6.7) (155:6.10)
 
-Juifs (anciens Hébreux) | | Captivité babylonienne; Juifs | RACE | 
-La descendance d'Abraham formait le noyau de (96:2.3)
-cérémonie d'adoption (70:3.8)
-croyances et attitudes
-	a rapporté de nombreux tabous concernant le sabbat de Mésopotamie (95:1.2) (95:3.1)
-	code d'éthique différent pour traiter avec les Gentils (69:4.3) (70:11.2)
-	méfiant envers les femmes (84:5.6)
-	mauvais œil (87:5.5)
-	évolution du concept de Dieu (97)
-	premier à privilégier le travail (69:2.5)
-	« Dieu des batailles » (70:1.15)
-	Dieu a parlé dans les rêves (86:5.11)
-	attendaient le retour d'Adam (92:5.6)
-	concept mûr de Yahweh comme Père de leur race (97:0.1)
-	la réplique fantôme de l'individu est descendue au Sheol (86:4.8)
-	humiliation physique (89:3.4)
-	L'arc-en-ciel était l'arc de la promesse (85:4.2)
-	serpent adoré comme porte-parole des mauvais esprits (85:3.3) (88:1.5)
-	L'esprit de Dieu demeurait dans des autels de pierre (88:2.3)
-	tabou sur le porc (89:1.5)
-	traité les étrangers adoptés avec gentillesse (70:3.8)
-	considérait toute chose comme habitée par un esprit (85:4.2) (96:1.1)
-raid brutal et efficace sur Og (69:8.3)
-aspect facial caractéristique quelque peu andonite (80:8.2)
-grossier mais bien au-dessus des tribus environnantes (69:8.4)
-Influence égyptienne (95:2.10)
-groupe de bédouins levantins (92:5.11)
-l'idée de création vient des Babyloniens; le concept de Providence vient des Egyptiens (95:2.1)
-Moïse a émancipé le reste submergé de la race violette (45:4.14)
-nation divisée en deux royaumes vers 1000 av. J.-C. (97:2.1)
-la nation était l'union des Israélites et des Cananéens (97:9.1)
-l'égo national déprimé par la captivité babylonienne (93:9.9)
-partie de l'ancienne race sémitique qui comprenait les Babyloniens, les Phéniciens et les Carthaginois (121:1.1) (121:2.1)
-la religion était austère et tyrannique (98:3.2)
-Écritures de | Ancien Testament
+Juifs (anciens Hébreux) | | Captivité babylonienne; Juifs | RACE | OK
+La descendance d'Abraham forma le noyau du peuple juif ultérieur, mais tous les Hébreux ne descendirent pas de lui. (96:2.3)
+Les anciens Hébreux adoptaient les étrangers avec une bienveillance fraternelle, scellant la cérémonie par le contact et la consommation de vin. (70:3.8)
+Influences raciales
+	L'apparence faciale caractéristique des anciens Hébreux provient de la lignée andonite de leurs ancêtres, dispersée et renforcée à travers l'Europe et l'Asie Mineure. (80:8.2)
+	L'influence égyptienne a introduit le concept de jugement dans l'au-delà dans la théologie hébraïque, comme en témoigne un psaume écrit par un Égyptien dans le Livre des Psaumes hébraïques. (95:2.10)
+	Moïse, chef d'un groupe de Bédouins levantins, fut le génie religieux le plus remarquable de l'ère post-Melchisédek, enseignant le monothéisme avec un grand succès. (92:5.11)
+	Jésus s'est incarné dans un monde connaissant un renouveau de la pensée spirituelle. Les Juifs étaient stratégiquement positionnés pour diffuser son message en Orient et en Occident, influencés par la culture grecque et bénéficiant de la domination romaine, en tant que membres de l'ancienne race sémitique qui comprenait les Babyloniens, les Phéniciens et les Carthaginois. (121:1.1) (121:2.1)
+Croyances et attitudes
+	Les Juifs ont rapporté en Palestine de nombreux tabous mésopotamiens liés au sabbat, perpétuant ainsi d'anciennes pratiques adamites malgré la culture empreinte de tabous de l'ère Melchisédek. (95:1.2) (95:3.1)
+	Les premiers commerçants avaient un code d'éthique différent pour leurs relations avec les Gentils, reconnaissant un ensemble de règles distinctes pour les interactions en dehors de leurs propres tribus. (69:4.3) (70:11.2)
+	Les anciens Hébreux étaient extrêmement méfiants envers les femmes, contrairement aux premiers Chinois et aux premiers Grecs qui les traitaient mieux. (84:5.6)
+	Les Juifs croyaient au mauvais œil et au culte phallique comme moyen de défense, ce qui a conduit à des superstitions et à des pratiques cultuelles concernant les marques prénatales et les empreintes maternelles. (87:5.5)
+	Les chefs spirituels hébreux ont réussi à déanthropomorphiser leur conception de Dieu sans la convertir en une abstraction philosophique, développant une conception mature de Yahweh comme Père, facilement compréhensible même pour le commun des mortels. (97)
+	Les Hébreux furent les premiers à valoriser le travail, se distinguant ainsi de ceux qui retournèrent à l'idéal primitif de l'oisiveté. (69:2.5)
+	Les Hébreux croyaient en un « Dieu des batailles », ce qui les conduisit à une cruauté atroce lors de leurs raids, commis au nom du Seigneur Dieu d'Israël. (70:1.15)
+	Malgré les avertissements de Moïse, les anciens Hébreux croyaient à la communication de Dieu par les rêves, une croyance partagée par beaucoup à travers l'histoire. (86:5.11)
+	Les Hébreux attendaient le retour d'Adam, leur souverain matériel, tout comme d'autres races attendaient le retour de leurs chefs miraculeux. (92:5.6)
+	Les chefs spirituels hébreux ont réussi à déanthropomorphiser le concept de Yahweh, permettant même aux gens ordinaires de le considérer comme le Père de leur race. (97:0.1)
+	Les Hébreux croyaient qu'une réplique fantôme de l'individu descendait au Shéol, leur destin après la mort. (86:4.8)
+	Les Hébreux, les Hindous et les Bouddhistes étaient adonnés à l'humiliation physique, adoptant des pratiques comme la flagellation et la castration enseignées par les prêtres du culte maternel. (89:3.4)
+	L'arc-en-ciel était l'arc de la promesse pour les Hébreux et les Chrétiens, tandis que de nombreuses tribus montagnardes d'Inde le vénéraient comme un serpent céleste géant. (85:4.2)
+	Les anciens Hébreux vénéraient les serpents comme porte-parole des mauvais esprits, perpétuant une tradition présente dans diverses cultures. (85:3.3) (88:1.5)
+	Les anciens Hébreux croyaient que l'esprit de Dieu résidait dans des autels de pierre, les élevant au rang de lieux sacrés. (88:2.3)
+	Les anciens Hébreux maintenaient un tabou sur le porc, influencé par leur foi hébraïque et leurs origines égyptiennes. (89:1.5)
+	Les Hébreux scellaient leurs cérémonies d'adoption avec du vin, symbolisé par le contact de coupes de vin, témoignant ainsi de leur bienveillance envers les étrangers adoptés. (70:3.8)
+	Les anciens Hébreux considéraient toute chose comme habitée par un esprit, comme le faisaient de nombreux peuples à travers l'histoire, avec leurs croyances et leurs stimuli religieux variés. (85:4.2) (96:1.1)
+	Le concept de Providence divine chez les Juifs est né en Égypte et s'est répandu en Europe, tandis que leur conception de la création a été influencée par les Babyloniens. (95:2.1)
+Histoire
+	Moïse émancipa un reste submergé de la race violette, ravivant le culte du Père Universel comme « le Dieu d'Israël ». (45:4.14)
+	Vers 1000 av. J.-C., l'ancienne nation hébraïque se divisa en deux royaumes, tandis que des maîtres de vérité comme Élie s'efforçaient de raviver leurs croyances spirituelles chancelantes au milieu des troubles. (97:2.1)
+	L'ancienne nation hébraïque naquit de l'union des Israélites et des Cananéens, avec seulement trois ou quatre tribus installées en Palestine. (97:9.1)
+	Le raid sur Og fut une extermination brutale et efficace des ennemis, illustrant le traitement impitoyable des captifs de guerre par les anciens Hébreux. (69:8.3)
+	Les Hébreux, comme l'homme rouge américain, ne réduisaient pas les captifs en esclavage, mais les adoptaient ou les tuaient, témoignant d'un niveau de civilisation bien supérieur à celui des tribus environnantes. (69:8.4)
+	Les Juifs réagirent à l'affaiblissement de leur ego national par la captivité babylonienne en se tournant vers l'égoïsme racial extrême, déformant leurs traditions pour s'exalter comme le peuple élu de Dieu. (93:9.9)
+	Pendant la renaissance monothéiste de l'Évangile de Melchisédek, peu de missionnaires de Salem atteignirent l'Italie, incapables de contrer les dieux et les temples influents du sacerdoce étrusque, organisés en religion d'État romaine, qui n'était ni triviale ni vénale comme la religion grecque, mais pas aussi austère et tyrannique que celle des Hébreux. (98:3.2)
+Écritures
+	Pour en savoir plus sur les Écritures des anciens Hébreux, voir le lien vers l'Ancien Testament. | Ancien Testament
 
 Jézabel | | | PERSON | OK
 Reine juive d'origine phénicienne. Jésus entendit parler de la reine des Juifs de Phénicie et des actes d'Achab, de Jézabel et de Jéhu alors qu'il traversait des lieux historiques au cours de son voyage. (124:6.3)

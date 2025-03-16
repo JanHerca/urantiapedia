@@ -99,7 +99,7 @@ James' character
 
 James of Safed | | | PERSON | OK
 James of Safed was a citizen of Tiberias who had a fourteen-year-old son who was afflicted with epilepsy, and who was actually possessed by a malevolent midwayer. Jesus healed the boy (158:4-5)
-James is the one who uttered to Jesus the famous phrase that says "Lord, I believe; help my unbelief" (158:5.2)
+James is the one who uttered to Jesus the famous phrase that says “Lord, I believe; help my unbelief” (158:5.2)
 
 James Zebedee; James | (139:3) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | apostles of Jesus | PERSON | OK
 James Zebedee, nicknamed “Son of Thunder” like his brother John, was married when he met Jesus and had four children; he was from Capernaum; he was 30 years old in A.D. 26; his parents were Zebedee and Salome (139:3.1)
@@ -132,7 +132,7 @@ Attitude
 	He ordered the insolent Samaritans to be devoured by fire (139:3.5) (139:4.8) (162:0.2) (181:2.4)
 	He opposed proclaiming Jesus king (152:2.5)
 	He was perplexed during Jesus' triumphal entry into Jerusalem (172:5.4)
-	Jesus called him "Son of Thunder" because of his vehemence (139:3.1,5) (181:2.4)
+	Jesus called him “Son of Thunder” because of his vehemence (139:3.1,5) (181:2.4)
 	He could be talkative or remain in an inexplicable silence for days, alternating between the two moods (139:3.3)
 	He was very vehement when indignation was aroused in him (139:3.2)
 	He was a balanced thinker and planner; he was never in a hurry (139:3.7)
@@ -313,7 +313,7 @@ places in Jerusalem temple
 	The emblem of grape and vine decorating the entrance to Herod's temple symbolized the lineage of David's ancestors, believed by the Jews to be connected to the Messiah. (180:2.3)
 	The Beautiful Gate at the Jerusalem temple was a symbolic entrance for the worshipers facing westward, repeating chants, and marching towards the court of the gentiles. (162:4.3)
 	In the chamber of hewn stone within the temple, Caiaphas reported to the Sanhedrin about the trial and condemnation of Jesus, as Judas sought his reward for betraying him. (173:1.5) (184:3.2) (186:1.1)
-	The Jerusalem temple's court of gentiles connected culture, commerce, and worship with Antioch, where Paul's early converts were first called "Christians." (121:2.5)
+	The Jerusalem temple's court of gentiles connected culture, commerce, and worship with Antioch, where Paul's early converts were first called “Christians.” (121:2.5)
 	During the feast in the court of Israel, seventy bullocks were sacrificed, symbolizing the seventy nations of heathendom. (162:4.3)
 	The nature-loving boy of Nazareth was sickened by the sights and sounds of the priests' court beneath the rock ledge at the Jerusalem temple, begging to be taken away. (125:1.4) (162:4.4)
 	In the court of women, Jesus was indignant at the unjust discrimination against his mother and later commissioned women as gospel teachers, liberating them in religious work. (125:0.4) (135:2.1) (150:1.3) (162:4.2-3)
@@ -382,7 +382,7 @@ physical aspects
 	The celestial artisans create buildings of crystal gems and other precious materials, showcasing transparent structures visible to all visitors. (46:5.31) (46:6.12)
 	Jerusem, devoid of organic evolution or survival of fittest, showcases a harmonious blend of physical and morontia life, reflecting the divine perfection of the central universe. (46:2.5)
 	On Jerusem, there are no rugged mountains, oceans, earthquakes, or rainfall, but there are beauteous highlands and thousands of small lakes connected by sparkling canals. (46:2.1-2)
-	The "gradant" weight on Jerusem is precisely ten ounces and the Jerusem mile is equivalent to seven Urantia miles, while a Satania day equals three Urantia days minus one hour, four minutes, and fifteen seconds. (46:1.2)
+	The “gradant” weight on Jerusem is precisely ten ounces and the Jerusem mile is equivalent to seven Urantia miles, while a Satania day equals three Urantia days minus one hour, four minutes, and fifteen seconds. (46:1.2)
 	On Jerusem, the transportation system allows material beings to travel at speeds ranging from two to five hundred miles per hour, while transport birds fly at around one hundred miles an hour and Material Sons use air mechanisms that travel at approximately five hundred miles per hour, as early morontia and material beings depend on these mechanical means of transport, unlike spirit personalities who rely on superior forces and spirit energy sources for their movement. (46:2.4)
 	Transports depart from Mount Seraph every three seconds, reaching over two thousand miles away at standard velocity. (46:2.8)
 broadcasts
@@ -405,7 +405,7 @@ transitional culture worlds
 	Jerusem, the headquarters of our local system of Satania, has seven mansion worlds which swing around world #1, each surrounded by seven satellites, serving as the transitional culture for ascending mortals. (15:7.5) (47:0.1-2)
 	The World of the Father, a silent transition sphere circling, welcomes all system beings as worshipers at its great temple of light. (45:1.9)
 
-Jesus | | Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; apostles of Jesus; religion:explained | PERSON | OK
+Jesus | | Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; apostles of Jesus; religion:explained | PERSON | 
 apostles believed Jesus was the Eternal Son (157:5.1) (161:2.10)
 believers destined to attain perfection in (142:7.15)
 birthday text from Isaiah (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -502,7 +502,7 @@ attitudes of Jesus
 		He never rejected anyone (149:2.6) (153:2.8) (166:3.3)
 attitudes toward Jesus
 	Only about 10% of those who attended the miracle of the loaves and the attempted coronation episode became followers of Jesus (152:5.2) (152:6.2)
-	Jesus' exquisite personality caused such admiration that when he was introduced, the exclamation was "Behold the man!" (100:7.1) (186:2.11)
+	Jesus' exquisite personality caused such admiration that when he was introduced, the exclamation was “Behold the man!” (100:7.1) (186:2.11)
 	The common people listened with great pleasure to his words (173:3.2) (174:4.7) (196:1.4)
 	Even his enemies feared the well-poised presence of Jesus, who was uniquely unified in his divine enthusiasm and practicality. (100:7.4)
 	Fear has hindered, not inability, from understanding Jesus throughout history. (156:2.4)
@@ -539,7 +539,7 @@ events in Jesus’ life
 		The midway culture preserves and shares the story of Jesus of Nazareth with humanity, safeguarding it from the forgetfulness that plagues mortal civilization. (77:9.9)
 		It is time to revive the true essence of Jesus of Nazareth, freeing him from centuries of theological interpretations, so that his teachings can be embodied in religious practices. (196:1.2)
 		Jesus never experienced serious illness, but did endure minor childhood ailments alongside his siblings this year. (124:1.1)
-		Jesus declined the offer of assistant chaplainship in Alexandria, citing that his "hour has not yet come." (128:5.2-5)
+		Jesus declined the offer of assistant chaplainship in Alexandria, citing that his “hour has not yet come.” (128:5.2-5)
 		Jesus' social life, though limited, was not entirely forgotten, as he had numerous close friends and loyal supporters in Nazareth. (127:3.10)
 		Jesus sought out Roman religious leaders to prepare the way for the reception of his messengers and enhance their understanding of truth, leading to the rapid spread of Christianity in Rome and beyond. (132:0.4)
 		Jesus spent every possible hour with the children, becoming a father figure to them and sharing in their joy and wonderment. (127:1.8) (127:3.8) (128:6.10-12) (138:8.9) (172:1.4)
@@ -549,7 +549,7 @@ events in Jesus’ life
 			Although Jesus might have had better schooling opportunities in Alexandria, his time in Nazareth provided a unique environment for personal growth and understanding of diverse cultures. He experienced minor childhood ailments but continued to excel in school, balancing education with trips to neighboring cities and his uncle's farm. Jesus faced challenges at school due to his artistic interests, which conflicted with Jewish laws, but he adapted by focusing on other activities. His physical, intellectual, social, and spiritual development continued, and he began to understand his unique life mission. Despite occasional conflicts with Jewish customs, Jesus maintained a balance between personal convictions and family obligations, preparing for his future role. (124)
 			No incident in Jesus' life was more thrilling than his first visit to Jerusalem. He was deeply moved by attending temple discussions alone, marking his first taste of independence. Despite initial excitement, he was disillusioned by the temple's rituals and the irreverence he observed. Jesus questioned the necessity of animal sacrifices and the exclusion of women from certain ceremonies. His profound questions during temple discussions astonished the teachers. After being inadvertently left behind by his parents, he spent three days engaging with temple scholars. When found, he expressed his dedication to his heavenly Father's business. This visit profoundly impacted Jesus, shaping his understanding of his mission and deepening his spiritual insights. (125)
 		years 14-15
-			Of all Jesus' earth-life experiences, his fourteenth and fifteenth years were the most crucial. During this period, he became self-conscious of his divinity and destiny, facing significant challenges and temptations. After returning from Jerusalem, Jesus spent more time with his father, distancing himself from his mother. He developed a deep love for the Jewish people but resented the hypocritical religious leaders. His exploits in Jerusalem were praised in Nazareth, and he continued to excel in his studies and work. However, tragedy struck when his father, Joseph, died, leaving Jesus to support his family. Despite the hardships, Jesus managed the family's affairs wisely and continued to grow in favor with God and man. He formulated the prayer later known as "The Lord's Prayer" and began to understand his mission on earth. By the end of his fifteenth year, Jesus had transitioned from childhood to young manhood, ready to take on the responsibilities and opportunities ahead. (126)
+			Of all Jesus' earth-life experiences, his fourteenth and fifteenth years were the most crucial. During this period, he became self-conscious of his divinity and destiny, facing significant challenges and temptations. After returning from Jerusalem, Jesus spent more time with his father, distancing himself from his mother. He developed a deep love for the Jewish people but resented the hypocritical religious leaders. His exploits in Jerusalem were praised in Nazareth, and he continued to excel in his studies and work. However, tragedy struck when his father, Joseph, died, leaving Jesus to support his family. Despite the hardships, Jesus managed the family's affairs wisely and continued to grow in favor with God and man. He formulated the prayer later known as “The Lord's Prayer” and began to understand his mission on earth. By the end of his fifteenth year, Jesus had transitioned from childhood to young manhood, ready to take on the responsibilities and opportunities ahead. (126)
 		years 16-20
 			As Jesus entered his adolescent years, he became the head and sole support of his large family. Over time, he became increasingly aware of his pre-existence and his mission to reveal his Paradise Father to humanity. No youth has faced more complex problems or testing conflicts than Jesus did during these years. He grew physically, intellectually, and spiritually, displaying a blend of human and divine traits. His family struggled to understand him, especially as he denied being the expected Jewish Messiah. Jesus focused on supporting his family, working diligently as a carpenter. He faced social and political pressures, including a nationalist movement, but prioritized his family responsibilities. Despite financial hardships, Jesus maintained a hopeful and optimistic outlook, inspiring his siblings. He continued to develop his moral and spiritual understanding, preparing for his future mission. By the end of this period, Jesus had become a mature, experienced man, ready to reveal God to humanity and lead people to God. (127)
 		years 21-26
@@ -597,7 +597,7 @@ events in Jesus’ life
 		Jesus was not legally convicted on any charges after being brought from the praetorium by Pilate. (185:2.14)
 		The soldiers divided Jesus' clothes among them, leaving the tunic to be cast lots for, as Jesus silently observed his followers and the crowd jeering at him. (187:2.8-9)
 		Jesus of Nazareth died in 5-1/2 hours due to overwhelming emotional agony and acute spiritual anguish, much to the surprise of the soldiers who found him already dead upon arrival at Golgotha. (187:5.8)
-		Before leaving the courtyard of the praetorium, Jesus was compelled to carry the crossbeam to Golgotha, where he was crucified as "Jesus of Nazareth—the King of the Jews." (187:1.1-5) (187:2.1)
+		Before leaving the courtyard of the praetorium, Jesus was compelled to carry the crossbeam to Golgotha, where he was crucified as “Jesus of Nazareth—the King of the Jews.” (187:1.1-5) (187:2.1)
 		The humiliation and crucifixion of Jesus serve as the greatest evidence of his humanity before his resurrection and ultimate reveal of divinity. (182:3.5-7)
 		Physically exhausted before, Jesus succumbed to the weight of the crossbeam on the way to Golgotha, as his suffering reached its peak. (187:1.8-9)
 		Jesus' side was pierced with a spear, marking the end of his mortal life in less than five and a half hours. (187:5.8)
@@ -1302,41 +1302,44 @@ persecutions against the Jews
 	Christian prejudice against Jews is inexcusable, as the rejection of Jesus by some long ago does not justify mistreating individual Jews today. (175:2)
 	The Jews have endured the sorrows of a misunderstood and despised people, yet their persistent search for God has revealed an ever clearer picture of the eternal truth. (121:6.7) (155:6.10)
 
-Jews (ancient Hebrews) | | Babylonian captivity; Jews | RACE | 
-Abraham’s offspring formed nucleus of (96:2.3)
-adoption ceremony (70:3.8)
+Jews (ancient Hebrews) | | Babylonian captivity; Jews | RACE | OK
+Abraham’s offspring formed nucleus of the later Jewish people, but not all Hebrews were his descendants. (96:2.3)
+The ancient Hebrews adopted aliens with fraternal kindness, sealing the ceremony through the touching and drinking of wine. (70:3.8)
+racial influences
+	The characteristic facial appearance of ancient Hebrews stems from the Andonite strain in their ancestry, dispersed and reinforced throughout Europe and Asia Minor. (80:8.2)
+	Egyptian influence carried the concept of judgment in the hereafter into Hebrew theology, as seen in a single psalm written by an Egyptian in the Book of Hebrew Psalms. (95:2.10)
+	Moses, leader of a group of Levantine Bedouins, was the outstanding religious genius of the post-Melchizedek era, teaching monotheism with great success. (92:5.11)
+	Jesus was incarnated into a world experiencing a revival of spiritual thinking, with the Jews strategically positioned to spread his message across East and West, influenced by Greek culture and benefiting from Roman rule, as part of the ancient Semitic race that included Babylonians, Phoenicians, and Carthaginians. (121:1.1) (121:2.1)
 beliefs and attitudes
-	carried back many taboos regarding Sabbath from Mesopotamia (95:1.2) (95:3.1)
-	different code of ethics for dealing with gentiles (69:4.3) (70:11.2)
-	distrustful of women (84:5.6)
-	evil eye (87:5.5)
-	evolution of God concept (97)
-	first to put premium on labor (69:2.5)
-	“God of battles” (70:1.15)
-	God spoke in dreams (86:5.11)
-	looked for return of Adam (92:5.6)
-	matured concept of Yahweh as Father of their race (97:0.1)
-	phantom replica of individual went down to Sheol (86:4.8)
-	physical humiliation (89:3.4)
-	rainbow was bow of promise (85:4.2)
-	snake worshiped as mouthpiece of evil spirits (85:3.3) (88:1.5)
-	spirit of God dwelt in stone altars (88:2.3)
-	taboo on pork (89:1.5)
-	treated adopted aliens kindly (70:3.8)
-	viewed everything as indwelt by a spirit (85:4.2) (96:1.1)
-brutal and effective raid upon Og (69:8.3)
-characteristic facial appearance somewhat Andonite (80:8.2)
-crude but far above surrounding tribes (69:8.4)
-Egyptian influence (95:2.10)
-group of Levantine Bedouins (92:5.11)
-idea of creation came from Babylonians; concept of Providence came from Egyptians (95:2.1)
-Moses emancipated submerged remnant of violet race (45:4.14)
-nation divided into two kingdoms ca. 1000 B.C. (97:2.1)
-nation was union of Israelites and Canaanites (97:9.1)
-national ego depressed by Babylonian captivity (93:9.9)
-part of older Semitic race which included Babylonians, Phoenicians, and Carthaginians (121:1.1) (121:2.1)
-religion was austere and tyrannical (98:3.2)
-scriptures of | Old Testament
+	The Jews carried back many Mesopotamian Sabbath taboos to Palestine, continuing ancient Adamite practices despite the taboo-ridden culture of the Melchizedek era. (95:1.2) (95:3.1)
+	Early traders had a different code of ethics for dealing with gentiles, recognizing a separate set of rules for interactions outside their own tribes. (69:4.3) (70:11.2)
+	The ancient Hebrews were exceedingly distrustful of women, unlike the early Chinese and Greeks who treated them better. (84:5.6)
+	The Jews believed in the evil eye and the phallic cult as defenses against it, leading to superstitions and cult practices regarding prenatal markings and maternal impressions. (87:5.5)
+	The Hebrew spiritual leaders accomplished the deanthropomorphization of their God concept without converting it into a philosopher's abstraction, evolving a matured concept of Yahweh as a Father readily comprehensible even to common people. (97)
+	The Hebrews were the first to put a premium on labor, distinguishing themselves from those who reverted to the early ideal of idleness. (69:2.5)
+	The Hebrews believed in a "God of battles", leading to atrocious cruelty in their raids, done in the name of the Lord God of Israel. (70:1.15)
+	Despite Moses' warnings, the ancient Hebrews believed in God's communication through dreams, a belief shared by many throughout history. (86:5.11)
+	The Hebrews looked for the return of Adam, their material ruler, much like other races awaited the return of their miraculous leaders. (92:5.6)
+	The Hebrew spiritual leaders successfully deanthropomorphized the concept of Yahweh, allowing even common people to view him as the Father of their race. (97:0.1)
+	The Hebrews believed that a phantom replica of the individual went down to Sheol as their destiny after death. (86:4.8)
+	The Hebrews, Hindus, and Buddhists were devoted to physical humiliation, embracing practices like flogging and castration taught by the mother cult priests. (89:3.4)
+	The rainbow was the bow of promise for Hebrews and Christians, while many hill tribes in India worship it as a giant celestial snake. (85:4.2)
+	The ancient Hebrews worshiped serpents as the mouthpiece of evil spirits, continuing a tradition seen across various cultures. (85:3.3) (88:1.5)
+	The ancient Hebrews believed the spirit of God dwelt in stone altars, elevating them to sacred spots. (88:2.3)
+	The ancient Hebrews maintained a taboo on pork, influenced by their Hebraic faith and Egyptian origins. (89:1.5)
+	The Hebrews sealed their adoption ceremonies with wine, symbolized by touching wine cups, showing kindness to adopted aliens. (70:3.8)
+	Ancient Hebrews viewed everything as indwelt by a spirit, as did many different peoples throughout history with various religious stimuli and beliefs. (85:4.2) (96:1.1)
+	The concept of divine Providence among the Jews originated in Egypt and spread to Europe, while their idea of creation was influenced by the Babylonians. (95:2.1)
+history
+	Moses emancipated a submerged remnant of the violet race, reviving worship of the Universal Father as "The God of Israel." (45:4.14)
+	In circa 1000 B.C., the ancient Hebrew nation split into two kingdoms, with truth teachers like Elijah striving to revive their faltering spiritual beliefs amidst the turmoil. (97:2.1)
+	The ancient Hebrew nation was formed through the union of Israelites and Canaanites, with only three or four tribes settling in Palestine. (97:9.1)
+	The raid upon Og was a brutal and effective extermination of enemies, showcasing the ruthless treatment of war captives by the ancient Hebrews. (69:8.3)
+	The Hebrews, like the American red man, did not enslave captives but either adopted or killed them, showing a level of civilization far above the surrounding tribes. (69:8.4)
+	The Jews reacted to their national ego being depressed by Babylonian captivity by swinging to the extreme of racial egotism, distorting their traditions to exalt themselves as the chosen people of God. (93:9.9)
+	During the monotheistic renaissance of Melchizedek's gospel, few Salem missionaries reached Italy, unable to counter the influential Etruscan priesthood's gods and temples, organized into the Roman state religion, which was neither trivial nor venal like the Greek, but not as austere and tyrannical as the Hebrews'. (98:3.2)
+Scriptures
+	about the scriptures of ancient Hebrews see link to Old Testament | Old Testament
 
 Jezebel | | | PERSON | OK
 Jewish queen of Phoenician origin. Jesus heard of the Queen of Jews from Phoenicia and the deeds of Ahab, Jezebel, and Jehu while passing through historic locations on his journey. (124:6.3)
@@ -1422,7 +1425,7 @@ education
 	Upon the death of his mother Elizabeth, twenty-eight-year-old John the Baptist began his powerful ministry as the herald of the Messiah. (135:4)
 teachings
 	John kingdom concept laid the groundwork for the expanded idea of the kingdom taught by Jesus. (170:1.3) (170:2.9)
-	John early cryptic message was "Repent and be baptized", but he later expanded his teachings to include the good tidings of the joy and liberty of the new kingdom. (135:7.3) (136:0.2) (136:1.5) (138:8.8)
+	John early cryptic message was “Repent and be baptized”, but he later expanded his teachings to include the good tidings of the joy and liberty of the new kingdom. (135:7.3) (136:0.2) (136:1.5) (138:8.8)
 	John the Baptist taught a simple prayer to be a guide for others, but not as a rigid formula for personal expression in prayer. (144:2.1) (144:3.9)
 	John presented his flock to the Nazarites. (135:4.2)
 	John acknowledged the prophecy regarding Jesus and declared, “He must increase but I must decrease.” (135:11.2-3)
@@ -1498,11 +1501,11 @@ life as apostle
 	John, the apostle of love, was the son of thunder and brother of James. (139:3.1,5) (139:4.6) (181:2.4)
 	Peter, James, and John were the primary public preachers among the apostles. (141:3.2)
 	John asked Jesus about the kingdom of heaven and learned that recognition of God's sovereignty, belief in sonship with God, and faith in doing God's will are the essentials of salvation. (140:10.9) (148:6.1)
-	John Zebedee, referred to as a prophet, saw the "seven spirits of God" in his vision, but did not see the seats of the four and twenty sentinels, representing a confusion between universe headquarters and system capital. (34:4.11)
+	John Zebedee, referred to as a prophet, saw the “seven spirits of God” in his vision, but did not see the seats of the four and twenty sentinels, representing a confusion between universe headquarters and system capital. (34:4.11)
 	John was a chief supporter of the Jerusalem church and the right-hand support of Peter on the day of Pentecost. (139:4.11)
 	Jesus gave special instructions to Peter, James, and John, in order to clarify and deepen their understanding of his teachings on the spiritual kingdom. (140:8.1)
 	Jesus’ admonitions to John: “Be gentle; love even your enemies; be tolerant. And remember that I have trusted you with many things." (174:0.2) (181:2.2-5) (192:2.1)
-	John Zebedee preferred to use the term "eternal life" in place of the problematic term "kingdom of heaven". (170:2.24)
+	John Zebedee preferred to use the term “eternal life” in place of the problematic term “kingdom of heaven”. (170:2.24)
 	John married his brother James's widow after the custom of raising up seed for his brother, exemplifying the ancient practice of in-marriage. (82:5.5) (83:5.4) (139:4.12)
 only apostle present at all important events
 	At the transfiguration, Jesus took only Peter, James, and John with him to share in the unique experience. (158:0.2) (158:2.5)
@@ -1639,7 +1642,7 @@ Gabriel instructed Mary to name her son Joshua, who would inaugurate the kingdom
 
 Joshua (Old Testament) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | OK
 Jesus recalled how Joshua and the Israelites came up to Jerusalem through Jericho. (135:6.1) (172:1.3)
-Jesus quoted Joshua, saying "Choose you this day whom you will serve; many stand at the parting of the ways." (153:2.5)
+Jesus quoted Joshua, saying “Choose you this day whom you will serve; many stand at the parting of the ways.” (153:2.5)
 Despite the belief that only a few will enter the promised land, all who seek the kingdom of heaven shall find salvation. (166:3.2)
 Upon Moses turning over command of the Hebrews to Joshua, he had already built a self-sustaining nation of pastoral warriors from collateral descendants of Abraham and other related tribes. (96:5.9)
 Joshua preached a stern gospel to a disbelieving people, emphasizing Yahweh as a holy, jealous, and unforgiving God of power, judgment, and justice. (96:6.1,3)
@@ -1653,7 +1656,7 @@ Josiah, a recipient of Jesus's miraculous ministry, became a lifelong preacher o
 Josiah's healing on the Sabbath day sparked a heated debate among the Sanhedrin, who ultimately failed to ensnare him in their traps, leading Josiah to boldly proclaim Jesus as a prophet before them. (164:4)
 Cast out of synagogue, Josiah boldly proclaimed the truth and was rewarded with the revelation of the Son of God by Jesus. (164:4.11) (164:5.4-5)
 Josiah, the blind beggar, was healed by Jesus, challenging the religious leaders and teaching the apostles to not neglect material means in healing. (164:3)
-Josiah, neither dumb nor lacking in humor, responded to the court officer: "Whether this man is a sinner, I know not; but one thing I do know—that, whereas I was blind, now I see." (164:4.9)
+Josiah, neither dumb nor lacking in humor, responded to the court officer: “Whether this man is a sinner, I know not; but one thing I do know—that, whereas I was blind, now I see.” (164:4.9)
 Josiah's parents, poor and fear-ridden souls, stood silent before the Sanhedrin, unable to explain how their blind son could now see, directing the court to question him instead. (164:4.7)
 
 Josiah (disciple of Abner) | | | PERSON | OK
