@@ -1,11 +1,11 @@
 ---
-title: "Yasna XLI. A Prayer to Ahura as the King, the Life, and the Rewarder"
-description: "The Zend Avesta, Part III: “The Yasna, Visparad, Âfrînagân, Gâhs and Miscellaneous Fragments” (SBE 31)"
+title: "Yasna XLI. Prière à Ahura en tant que Roi, Vie et Rémunérateur"
+description: "Le Zend Avesta, partie III : « Le Yasna, Visparad, Âfrînagân, Gâhs et divers fragments » (SBE 31)"
 published: true
-date: 2025-2-12T12:15:42Z
+date: 2025-3-16T22:11:40Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:42Z
+dateCreated: 2025-3-16T22:11:40Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,18 +13,18 @@ dateCreated: 2025-2-12T12:15:42Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_40">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XL. Prayers for Helpers</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_40">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XL. Prières pour les personnes qui aident</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_42">
-          <span class="pr-2">Yasna XLII. A Supplement to the Haptanghâiti</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_42">
+          <span class="pr-2">Yasna XLII. Supplément à l'Haptanghâiti</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -39,18 +39,18 @@ dateCreated: 2025-2-12T12:15:42Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_40">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XL. Prayers for Helpers</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_40">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XL. Prières pour les personnes qui aident</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_42">
-          <span class="pr-2">Yasna XLII. A Supplement to the Haptanghâiti</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_42">
+          <span class="pr-2">Yasna XLII. Supplément à l'Haptanghâiti</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

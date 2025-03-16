@@ -1,55 +1,55 @@
 ---
-title: "The Zend Avesta, Part II: “The Sîrôzahs, Yasts and Nyâyis” (SBE 23)"
+title: "Le Zend Avesta, partie II : « Les Sîrôzahs, Yasts et Nyâyis » (SBE 23)"
 description: 
 published: true
-date: 2025-2-12T12:15:34Z
+date: 2025-3-16T22:11:32Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:34Z
+dateCreated: 2025-3-16T22:11:32Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-zoroaster"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">J. Darmesteter and L.H. Mills (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880-1887</text>		<text style="font-size:9px" x="61" y="60">The Zend Avesta</text>		<text style="font-size:9px" x="61" y="70">Part II</text>		<text style="font-size:9px" x="61" y="80">The Sîrôzahs,</text>		<text style="font-size:9px" x="61" y="90">Yasts and Nyâyis</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">THE ZEND-AVESTA</span><br>PART II<br><span class="text-h3">The Sîrôzahs, Yasts and Nyâyis</span><br>TRANSLATED BY<br><span class="text-h5">JAMES DARMESTETER</span><br>Sacred Books of the East, Volume 23.<br>Oxford University Press<br>[1882]<br>Scanned and proofed at sacred-texts.com, January-May, 2001, by John Bruno Hare. Formatted and additional proofing January-February, 2007. This text is in the public domain in the US because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies.<br><br></p><br>
-## Index
+<div class="urantiapedia-book-front urantiapedia-book-zoroaster"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">J. Darmesteter and L.H. Mills (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880-1887</text>		<text style="font-size:9px" x="61" y="60">Le Zend Avesta</text>		<text style="font-size:9px" x="61" y="70">Partie II</text>		<text style="font-size:9px" x="61" y="80">Les Sîrôzah,</text>		<text style="font-size:9px" x="61" y="90">Yasts et Nyâyis</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">LE ZEND-AVESTA</span><br>PARTIE II<br><span class="text-h3">Les Sîrôzahs, Yasts et Nyâyis</span><br>TRADUIT PAR<br><span class="text-h5">JAMES DARMESTETER</span><br>Livres sacrés de l'Orient, tome 23.<br>Presses universitaires d'Oxford<br>[1882]<br>Numérisé et corrigé sur sacred-texts.com, janvier-mai 2001, par John Bruno Hare. Formaté et corrigé en janvier-février 2007. Ce texte est dans le domaine public aux États-Unis car il a été publié avant le 1er janvier 1923. Ces fichiers peuvent être utilisés à des fins non commerciales, à condition que cette mention d'attribution soit laissée intacte dans toutes les copies.<br><br></p><br>
+## Table des matières
 
-- [Contents](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Contents)
-- [Introduction](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Introduction)
+- [Contenu](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Contents)
+- [Introduction](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Introduction)
 - Sîrôzahs
-	- [Preliminary Observations to the Yasts and Sîrôzahs](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Preliminary)
-	- [Sîrôzah I](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Sirozahs_1)
-	- [Sîrôzah II](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Sirozahs_2)
+	- [Observations préliminaires sur les Yasts et les Sîrôzahs](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Preliminary)
+	- [Sîrôzah I](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Sirozahs_1)
+	- [Sirôzah II](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Sirozahs_2)
 - Yasts
-	- [I. Ormazd Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_1)
-	- [II. Haptân Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_2)
-	- [III. Ardibehist Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_3)
-	- [IV. Khordâd Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_4)
-	- [V. Âbân Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_5)
-	- [VI. Khôrshêd Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_6)
-	- [VII. Mâh Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_7)
-	- [VIII. Tîr Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_8)
-	- [IX. Gôs Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_9)
-	- [X. Mihir Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_10)
-	- [XI. Srôsh Yast Hâdhôkht](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_11)
-	- [XII. Rashn Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_12)
-	- [XIII. Farvardîn Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_13)
-	- [XIV. Bahrâm Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_14)
-	- [XV. Râm Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_15)
-	- [XVI. Dîn Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_16)
-	- [XVII. Ashi Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_17)
-	- [XVIII. Âstâd Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_18)
-	- [XIX. Zamyâd Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_19)
-	- [XX. Vanant Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_20)
-	- [XXI. Yast Fragment](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_21)
-	- [Yast XXII](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_22)
-	- [XXIII. Âfrîn Paighambar Zartûst](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_23)
-	- [XXIV. Vîstâsp Yast](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_24)
+	- [I. Ormazd Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_1)
+	- [II. Haptân Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_2)
+	- [III. Ardibehist Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_3)
+	- [IV. Khordâd Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_4)
+	- [V. Âbân Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_5)
+	- [VI. Khôrshêd Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_6)
+	- [VII. Mâh Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_7)
+	- [VIII. Tîr Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_8)
+	- [IX. Gôs Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_9)
+	- [X. Mihir Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_10)
+	- [XI. Srôsh Yast Hâdhôkht](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_11)
+	- [XII. Rashn Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_12)
+	- [XIII. Farvardîn Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_13)
+	- [XIV. Bahrâm Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_14)
+	- [XV. Râm Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_15)
+	- [XVI. Dîn Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_16)
+	- [XVII. Ashi Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_17)
+	- [XVIII. Âstad Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_18)
+	- [XIX. Zamyâd Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_19)
+	- [XX. Vanant Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_20)
+	- [XXI. Fragment de Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_21)
+	- [Yast XXII](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_22)
+	- [XXIII. Âfrîn Paighambar Zartûst](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_23)
+	- [XXIV. Visite de Yast](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_24)
 - Nyâyis
-	- [I. Khôrshêd Nyâyis](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_1)
-	- [II. Mihir Nyâyis](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_2)
-	- [III. Mâh Nyâyis](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_3)
-	- [IV. Âbân Nyâyis](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_4)
-	- [V. Âtas Nyâyis](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_5)
-- [Index to Volumes IV and XXIII](/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Index)
+	- [I. Khôrshêd Nyâyis](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_1)
+	- [II. Mihir Nyâyis](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_2)
+	- [III. Mâh Nyâyis](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_3)
+	- [IV. Âbân Nyâyis](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_4)
+	- [V. Âtas Nyâyis](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Nyayis_5)
+- [Index des volumes IV et XXIII](/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Index)
 
-## External links
+## Liens externes
 
-- [Sacred texts website](https://sacred-texts.com/zor/sbe23/index.htm)
+- [Site web de textes sacrés](https://sacred-texts.com/zor/sbe23/index.htm)

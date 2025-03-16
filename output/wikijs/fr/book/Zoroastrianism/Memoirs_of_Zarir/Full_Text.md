@@ -1,11 +1,11 @@
 ---
-title: "Full Text"
-description: "The Yatkar-i-Zariran or Memoirs of Zarir"
+title: "Texte intégral"
+description: "Le Yatkar-i-Zariran ou Mémoires de Zarir"
 published: true
-date: 2025-2-12T12:15:14Z
+date: 2025-3-16T22:26:50Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:14Z
+dateCreated: 2025-3-16T22:26:50Z
 ---
 
 <figure class="table chapter-navigator">
@@ -15,8 +15,8 @@ dateCreated: 2025-2-12T12:15:14Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/Memoirs_of_Zarir">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/Memoirs_of_Zarir">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
@@ -35,8 +35,8 @@ dateCreated: 2025-2-12T12:15:14Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/Memoirs_of_Zarir">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/Memoirs_of_Zarir">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>

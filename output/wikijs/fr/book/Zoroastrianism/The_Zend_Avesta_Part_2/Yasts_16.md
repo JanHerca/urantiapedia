@@ -1,11 +1,11 @@
 ---
 title: "XVI. Dîn Yast"
-description: "The Zend Avesta, Part II: “The Sîrôzahs, Yasts and Nyâyis” (SBE 23)"
+description: "Le Zend Avesta, partie II : « Les Sîrôzahs, Yasts et Nyâyis » (SBE 23)"
 published: true
-date: 2025-2-12T12:15:34Z
+date: 2025-3-16T22:11:32Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:34Z
+dateCreated: 2025-3-16T22:11:32Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,17 +13,17 @@ dateCreated: 2025-2-12T12:15:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_15">
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_15">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. Râm Yast</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_2">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_17">
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_17">
           <span class="pr-2">XVII. Ashi Yast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -39,17 +39,17 @@ dateCreated: 2025-2-12T12:15:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_15">
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_15">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. Râm Yast</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_2">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_17">
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_2/Yasts_17">
           <span class="pr-2">XVII. Ashi Yast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

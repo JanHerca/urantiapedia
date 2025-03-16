@@ -1,11 +1,11 @@
 ---
-title: "Contents"
-description: "The Teachings of Zoroaster"
+title: "Contenu"
+description: "Les enseignements de Zoroastre"
 published: true
-date: 2025-2-12T12:15:21Z
+date: 2025-3-16T22:26:58Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:21Z
+dateCreated: 2025-3-16T22:26:58Z
 ---
 
 <figure class="table chapter-navigator">
@@ -15,13 +15,13 @@ dateCreated: 2025-2-12T12:15:21Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Teachings_of_Zoroaster">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Teachings_of_Zoroaster">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Teachings_of_Zoroaster/Editorial_Note">
-          <span class="pr-2">Editorial Note</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Teachings_of_Zoroaster/Editorial_Note">
+          <span class="pr-2">Note éditoriale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -38,13 +38,13 @@ dateCreated: 2025-2-12T12:15:21Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Teachings_of_Zoroaster">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Teachings_of_Zoroaster">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Teachings_of_Zoroaster/Editorial_Note">
-          <span class="pr-2">Editorial Note</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Teachings_of_Zoroaster/Editorial_Note">
+          <span class="pr-2">Note éditoriale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

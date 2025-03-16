@@ -1,11 +1,11 @@
 ---
-title: "Yasna VIII. Offering of the Meat-Offering in Particular"
-description: "The Zend Avesta, Part III: “The Yasna, Visparad, Âfrînagân, Gâhs and Miscellaneous Fragments” (SBE 31)"
+title: "Yasna VIII. L'offrande de la viande en particulier"
+description: "Le Zend Avesta, partie III : « Le Yasna, Visparad, Âfrînagân, Gâhs et divers fragments » (SBE 31)"
 published: true
-date: 2025-2-12T12:15:42Z
+date: 2025-3-16T22:11:40Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:42Z
+dateCreated: 2025-3-16T22:11:40Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,18 +13,18 @@ dateCreated: 2025-2-12T12:15:42Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_7">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna VII. Presentation of Offerings by the Priest with the Object of Propitiation Named</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna VII. Présentation des offrandes par le prêtre dans le but de propitiation nommé</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_9">
-          <span class="pr-2">Yasna IX. The Hôm Yast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_9">
+          <span class="pr-2">Yasna IX. Le Hom Yast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -39,18 +39,18 @@ dateCreated: 2025-2-12T12:15:42Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_7">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna VII. Presentation of Offerings by the Priest with the Object of Propitiation Named</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna VII. Présentation des offrandes par le prêtre dans le but de propitiation nommé</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_9">
-          <span class="pr-2">Yasna IX. The Hôm Yast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_9">
+          <span class="pr-2">Yasna IX. Le Hom Yast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

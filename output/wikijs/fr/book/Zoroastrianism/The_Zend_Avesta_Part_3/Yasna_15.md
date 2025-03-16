@@ -1,11 +1,11 @@
 ---
-title: "Yasna XV. The Sacrifice Continues"
-description: "The Zend Avesta, Part III: “The Yasna, Visparad, Âfrînagân, Gâhs and Miscellaneous Fragments” (SBE 31)"
+title: "Yasna XV. Le sacrifice continue"
+description: "Le Zend Avesta, partie III : « Le Yasna, Visparad, Âfrînagân, Gâhs et divers fragments » (SBE 31)"
 published: true
-date: 2025-2-12T12:15:42Z
+date: 2025-3-16T22:11:40Z
 tags: Zoroastrianism, book
 editor: markdown
-dateCreated: 2025-2-12T12:15:42Z
+dateCreated: 2025-3-16T22:11:40Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,18 +13,18 @@ dateCreated: 2025-2-12T12:15:42Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_14">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XIV. Dedications</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_14">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XIV. Dédicaces</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_16">
-          <span class="pr-2">Yasna XVI. The Sacrifice Continues with Increased Fulness of Expression</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_16">
+          <span class="pr-2">Yasna XVI. Le sacrifice continue avec une plénitude d'expression accrue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -39,18 +39,18 @@ dateCreated: 2025-2-12T12:15:42Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_14">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XIV. Dedications</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_14">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yasna XIV. Dédicaces</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_16">
-          <span class="pr-2">Yasna XVI. The Sacrifice Continues with Increased Fulness of Expression</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/book/Zoroastrianism/The_Zend_Avesta_Part_3/Yasna_16">
+          <span class="pr-2">Yasna XVI. Le sacrifice continue avec une plénitude d'expression accrue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
