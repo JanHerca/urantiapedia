@@ -29,7 +29,11 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
+<span id="p6">[<sup><small>p. 6</small></sup>]</span>
 
+## LA BÉNÉDICTION D'ABBAS EFFENDI, LE PROPHÈTE DE LA RELIGION BAHAI, À L'AUTEUR DE CE LIVRE :
+
+« Ô Dieu, amène ton serviteur près du seuil divin ; donne-lui la vie par le souffle du Saint-Esprit. Ouvre-lui les yeux, délie sa langue et fais-le marcher sur le chemin du Royaume. Confirme-le dans ton service. Accorde-lui un discours éloquent et une plume fluide. Fais-le aimer dans les deux mondes. Si tu lui accordes de telles grâces, il sera accepté par les gens de la connaissance et deviendra célèbre dans le monde entier. Tu es le Puissant, le Fort. »
 
 <figure class="table chapter-navigator">
   <table>

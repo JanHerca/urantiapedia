@@ -32,7 +32,15 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
+<span id="p91">[<sup><small>p. 91</small></sup>]</span>
 
+[1](Quelques_Mots_Cachés_1#fn7)
+
+Il est la Gloire du Très Glorieux !
+
+C’est ce qui est descendu de la Source de Majesté, à travers la langue du Pouvoir et de la Force, sur les prophètes du passé.
+
+Nous avons pris son essence et l'avons revêtue du vêtement de la brièveté, comme une faveur envers les bien-aimés ; afin qu'ils puissent accomplir l'Alliance de Dieu ; afin qu'ils puissent accomplir en eux-mêmes ce qu'Il leur a confié, et atteindre la victoire en vertu de la dévotion dans le pays de l'Esprit.
 
 <figure class="table chapter-navigator">
   <table>

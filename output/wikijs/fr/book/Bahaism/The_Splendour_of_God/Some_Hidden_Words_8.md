@@ -32,7 +32,13 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
+Débarrassez-vous du vêtement d’orgueil, et laissez de côté la robe de l’arrogance.
 
+Je déclare par Ma Beauté que Je vous ai tous créés de la poussière, et que Je vous retournerai en poussière.
+
+Ô Fils de l'Orgueil ! Pendant quelques jours de règne mortel, vous avez rejeté Mon Immortel Dominion, et vous vous êtes vêtus de robes écarlates et dorées, et vous vous en êtes vantés. Je déclare par Ma Beauté que Je vous rassemblerai tous sous la tente incolore de la poussière, et que j'effacerai les couleurs de tous, sauf ceux qui choisissent Ma Couleur, qui est pure de toute couleur.
+
+En vérité, l’homme est élevé au ciel de gloire et de puissance par la douceur ; de nouveau, par l’orgueil, il est dégradé au plus bas rang.
 
 <figure class="table chapter-navigator">
   <table>

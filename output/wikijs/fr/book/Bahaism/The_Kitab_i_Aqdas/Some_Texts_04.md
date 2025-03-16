@@ -32,7 +32,13 @@ dateCreated: 2025-2-5T10:14:9Z
   </table>
 </figure>
 
+Je témoigne, ô mon Dieu, que tu as créé
 
+Je te connais et je t'adore. Je témoigne en ce moment de mon impuissance et de ta puissance, de ma pauvreté et de ta richesse.
+
+Il n’y a pas d’autre Dieu que Toi, le Secours dans le péril, Celui qui subsiste par Lui-même.
+
+(Prières et méditations de Bahá'u'lláh, CLXXXI)
 
 <figure class="table chapter-navigator">
   <table>

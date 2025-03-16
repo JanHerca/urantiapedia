@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:14:9Z
   </table>
 </figure>
 
-
+Un certain nombre de tablettes révélées par Bahá'u'lláh après le Kitab-i-Aqdas contiennent des passages qui complètent les dispositions du Livre Très Saint. Les plus remarquables d'entre eux ont été publiés dans les Tablettes de Bahá'u'lláh révélées après le Kitab-i-Aqdas. Cette section comprend un extrait de la Tablette d'Ishraqat. Le texte des trois prières obligatoires mentionnées dans Questions et réponses et la prière pour les morts mentionnée dans le texte sont également reproduits ici.
 
 <figure class="table chapter-navigator">
   <table>
