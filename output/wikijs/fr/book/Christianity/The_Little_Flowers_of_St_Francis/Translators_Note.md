@@ -32,7 +32,17 @@ dateCreated: 2025-1-18T19:43:56Z
   </table>
 </figure>
 
+<span id="pxxxii">[<sup><small>p. xxxii</small></sup>]</span>
 
+## NOTE DU TRADUCTEUR
+
+Sauf indication contraire, la traduction suivante a été faite à partir du texte des _Fioretti di San Francesco con Prefazione_ di PAOLO SABATIER, Assise, Tip Metastasio, 1901. J'ai cependant consulté diverses autres versions, parmi lesquelles les suivantes sont les plus importantes :
+
+_I Fioretti di S. Francesco, Testo di Lingua secondo la lezione adottata dal_ P. ANTONIO CESARI, Milan, Casa editrice Guigoni, 1893.
+
+_Floretum S. Francisci Assisiensis. Liber aureus qui italice dicitur I Fioretti di San Francesco_, Editit PAUL SABATIER, Paris, Librairie Fischbacher, 1902.
+
+_I Fioretti del Glorioso Messere Santo Francesco e de' suoi Frati_, a cura di GL PASSERINI, Firenze, GC Sansoni, 1903.
 
 <figure class="table chapter-navigator">
   <table>

@@ -29,7 +29,18 @@ dateCreated: 2025-1-18T19:34:13Z
   </table>
 </figure>
 
+**[POST-SCRIPTUM ULTÉRIEUR]**
 
+. . . . . .
+
+La proclamation des apôtres… l'homme juste. Ils s'en allèrent trois par trois vers les quatre coins du ciel et proclamèrent la bonté du royaume dans le monde entier, le Christ œuvrant avec eux par les paroles de confirmation, les signes et les prodiges qui les accompagnaient. Ainsi fut connu le royaume de Dieu sur toute la terre et dans le monde entier d'Israël, en témoignage pour toutes les nations, du lever au coucher du soleil.
+
+. . . . . .
+. . . . . .
+
+**[DEUX LIGNES EFFAÇÉES.]**
+
+**LA FIN**.
 
 <figure class="table chapter-navigator">
   <table>

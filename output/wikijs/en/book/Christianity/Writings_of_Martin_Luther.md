@@ -62,7 +62,7 @@ This page has a selection of the writings of Martin Luther.
 - Sermons
 	- [Sermons — Enemies of the Cross of Christ](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_1)
 	- [Sermons — Christ Our Great High Priest](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_2)
-	- [Sermons — The Twofold Use of the Law & Gospel: "Letter" & "Spirit"](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_3)
+	- [Sermons — The Twofold Use of the Law & Gospel: “Letter” & “Spirit”](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_3)
 	- [Sermons — Of The Office of Preaching](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_4)
 	- [Sermons — The Parable of the Sower](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_5)
 	- [Sermons — Christ's Holy Sufferings](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_6)
