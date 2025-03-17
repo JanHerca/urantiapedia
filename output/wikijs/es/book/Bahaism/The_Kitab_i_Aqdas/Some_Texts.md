@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T9:13:18Z
   </table>
 </figure>
 
-
+Varias Tablas reveladas por Bahá'u'lláh después del Kitab-i-Aqdas contienen pasajes complementarios a las disposiciones del Libro Más Sagrado. Los más notables de ellos han sido publicados en las Tablas de Bahá'u'lláh reveladas después del Kitab-i-Aqdas. En esta sección se incluye un extracto de la Tabla de Ishraqat. El texto de las tres Oraciones Obligatorias a las que se hace referencia en Preguntas y Respuestas y la Oración por los Muertos mencionada en el Texto también se reproducen aquí.
 
 <figure class="table chapter-navigator">
   <table>

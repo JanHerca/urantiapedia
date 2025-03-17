@@ -32,7 +32,13 @@ dateCreated: 2025-2-5T9:13:18Z
   </table>
 </figure>
 
+Doy testimonio, oh Dios mío, que Tú has creado
 
+Yo te conozco y te adoro. Testifico, en este momento, mi impotencia y tu poder, mi pobreza y tu riqueza.
+
+No hay otro Dios sino Tú, el que ayuda en el peligro, el que subsiste por Sí mismo.
+
+(Oraciones y meditaciones de Bahá'u'lláh, CLXXXI)
 
 <figure class="table chapter-navigator">
   <table>

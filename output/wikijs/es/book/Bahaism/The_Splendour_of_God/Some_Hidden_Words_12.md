@@ -32,7 +32,19 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
+Mi Eternidad es Mi creación. La he creado para ti. Mi Unicidad es Mi diseño. La he diseñado para ti; por lo tanto, vístete con ella. Así podrás ser una estrella de Mi Omnipresencia para siempre.
 
+¡Ay!, que cien mil idiomas ideales son hablados por una sola lengua, y que cien mil significados ocultos se revelan en una sola melodía, y no hay oídos que escuchen, ni corazón que perciba una sola letra.
+
+Que la gente de la Certeza sepa que un nuevo Jardín ha aparecido en el Atrio Abierto de la Santidad, y que toda la gente de las Alturas y los templos del Cielo Exaltado están a su alrededor.
+
+<span id="p116">[<sup><small>pág. 116</small></sup>]</span>
+
+Esfuérzate por alcanzar esa estación y descubre las verdades del misterio del Amor desde sus flores, y desvela el abundante conocimiento de la Unidad desde sus frutos eternos. Radiantes son los ojos de quien ha entrado allí con confianza.
+
+¡Oh, muertos en el lecho de la negligencia! Han pasado siglos, y habéis agotado vuestras preciosas vidas; sin embargo, ni un solo aliento de pureza ha emanado de vosotros ante Nuestra Santa Presencia. Os hundís en el mar del politeísmo mientras habláis de Unidad.
+
+La unidad, en su verdadero significado, significa que sólo Dios debe ser realizado como el Poder Único que anima y domina todas las cosas, que no son más que manifestaciones de su energía.
 
 <figure class="table chapter-navigator">
   <table>

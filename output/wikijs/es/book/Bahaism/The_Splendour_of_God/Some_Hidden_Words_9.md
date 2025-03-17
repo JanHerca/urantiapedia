@@ -32,7 +32,15 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
+La compañía de los malvados aumenta el dolor, pero la compañía de los justos quita la herrumbre de la mente.
 
+El que quiera asociarse con Dios, que se asocie con Su Amado; y el que quiera oír la Palabra de Dios, que oiga las palabras de Sus escogidos.
+
+No andes con los malvados ni te unas a ellos, porque la compañía de los malvados cambia la Luz de la Vida en fuego de remordimiento.
+
+Si buscas alcanzar el Espíritu Santo, sé compañero de los nobles, pues los justos han bebido del Cáliz de la Inmortalidad que pasó por la mano del Copero de la Eternidad, y ellos vivifican e iluminan los corazones de los muertos como lo hace la verdadera mañana.
+
+¡Oh, amigo! En el jardín del corazón, planta solo flores de amor. Valora la amistad de los justos; pero aparta tu mente y tus manos de la compañía de los malvados.
 
 <figure class="table chapter-navigator">
   <table>

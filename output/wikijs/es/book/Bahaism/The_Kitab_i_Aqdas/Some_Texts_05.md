@@ -32,7 +32,27 @@ dateCreated: 2025-2-5T9:13:18Z
   </table>
 </figure>
 
+¡Oh, Dios mío! Éste es Tu siervo y el hijo de Tu siervo, que ha creído en Ti y en Tus signos y ha vuelto su rostro hacia Ti, completamente desprendido de todo excepto de Ti. Tú eres, en verdad, el más misericordioso de los que practican la misericordia.
 
+Trátalo, oh Tú que perdonas los pecados de los hombres y ocultas sus faltas, como corresponde al cielo de Tu generosidad y al océano de Tu gracia. Concédele la entrada en los recintos de Tu misericordia trascendente que existía antes de la fundación de la tierra y del cielo. No hay más Dios que Tú, el Siempre Perdonador, el Más Generoso.
+
+Que repita seis veces el saludo “Allah-u-Abha”, y luego repita diecinueve veces cada uno de los siguientes versos:
+
+Todos nosotros, verdaderamente, adoramos a Dios.
+
+Todos nosotros, verdaderamente, nos inclinamos ante Dios.
+
+Todos nosotros, verdaderamente, estamos consagrados a Dios.
+
+Todos nosotros, en verdad, damos alabanzas a Dios.
+
+Todos nosotros, verdaderamente, rendimos gracias a Dios.
+
+Todos nosotros, en verdad, somos pacientes en Dios.
+
+(Si la muerta es mujer, diga: Ésta es tu sierva y la hija de tu sierva, etc.)
+
+(Oraciones y meditaciones de Bahá'u'lláh, CLXVII)
 
 <figure class="table chapter-navigator">
   <table>

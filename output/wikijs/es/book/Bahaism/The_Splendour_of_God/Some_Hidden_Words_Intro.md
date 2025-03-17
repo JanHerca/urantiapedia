@@ -32,7 +32,15 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
+<span id="p91">[<sup><small>pág. 91</small></sup>]</span>
 
+[1](Algunas_Palabras_Ocultas_1#fn7)
+
+¡Él es la Gloria del Más Glorioso!
+
+Esto es lo que descendió de la Fuente de Majestad, a través de la lengua del Poder y la Fuerza, sobre los profetas del pasado.
+
+Hemos tomado su esencia y la hemos revestido con la vestidura de la brevedad, como un favor a los amados; para que cumplan el Pacto de Dios; para que realicen en sí mismos lo que Él les ha confiado, y alcancen la victoria en virtud de la devoción en la tierra del Espíritu.
 
 <figure class="table chapter-navigator">
   <table>

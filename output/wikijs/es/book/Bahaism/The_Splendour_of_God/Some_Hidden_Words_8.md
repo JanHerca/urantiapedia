@@ -32,7 +32,13 @@ dateCreated: 2025-2-5T9:13:35Z
   </table>
 </figure>
 
+Despojaos del manto de soberbia, y dejad a un lado el manto de altivez.
 
+Declaro por Mi Belleza que os he creado a todos del polvo, y al polvo os convertiré de nuevo.
+
+¡Oh, Hijos del Orgullo! Durante unos días de reinado mortal, han rechazado Mi Dominio Inmortal y se visten con ropajes escarlata y dorados, jactándose de ello. Declaro por Mi Belleza que los reuniré a todos bajo la incolora tienda del polvo y borraré los colores de todos, excepto de aquellos que elijan Mi Color, que es puro de todo color.
+
+En verdad, el hombre es elevado al cielo de la gloria y del poder mediante la mansedumbre; de ​​nuevo, mediante el orgullo es degradado a la posición más baja.
 
 <figure class="table chapter-navigator">
   <table>
