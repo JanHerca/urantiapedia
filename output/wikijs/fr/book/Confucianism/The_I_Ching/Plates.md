@@ -32,7 +32,41 @@ dateCreated: 2025-2-12T22:26:12Z
   </table>
 </figure>
 
+## PLANCHE I.
 
+Les HEXAGRAMMES, dans l'ordre dans lequel ils apparaissent dans le Yî, et ont été arrangés par Kin Wăn.
+
+![](image/book/Confucianism/The_I_Ching/pl1.jpg)
+
+
+## PLANCHE II.
+
+Fig. 1.
+
+Les HEXAGRAMMES, exposés circulairement et en carré, selon le processus naturel de développement à partir des lignes entières et divisées, et l'ordre attribué à Fû-hsî.
+
+![](image/book/Confucianism/The_I_Ching/pl2-1.jpg)
+
+Fig 2.
+
+Les trigrammes sont distingués comme Yin et Yang.
+
+![](image/book/Confucianism/The_I_Ching/pl2-2.jpg)
+
+
+## PLANCHE III.
+
+Fig 1.
+
+Illustrant le dixième paragraphe de l’annexe V.
+
+![](image/book/Confucianism/The_I_Ching/pl3-1.jpg)
+
+Fig 2.
+
+ORDRE DES TRIGRAMMES, avec les points cardinaux et autres auxquels ils se réfèrent séparément.
+
+![](image/book/Confucianism/The_I_Ching/pl3-2.jpg)
 
 <figure class="table chapter-navigator">
   <table>
