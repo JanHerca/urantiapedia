@@ -34,25 +34,25 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p270">[<sup><small>p. 270</small></sup>]</span>
 
-Ashi Vanguhi or ‘the good Ashi [^1150]’ is a feminine impersonation of piety [^1151], and she is, at the same time, the source of all the good and riches that are connected with piety [^1152]. She is described, therefore, as a goddess of Fortune and Wealth, and is invoked in company with Pâre_n_di, the goddess of Treasures (Sîrôzah 25).
+Ashi Vanguhi or ‘the good Ashi [^1150]’ is a feminine impersonation of piety [^1151], and she is, at the same time, the source of all the good and riches that are connected with piety [^1152]. She is described, therefore, as a goddess of Fortune and Wealth, and is invoked in company with Pâre<i>n</i>di, the goddess of Treasures (Sîrôzah 25).
 
-She appears in the latter character in the first part of the Ya_s_t (§§ 1-14); she praises and loves Zarathu_s_tra (§§ 15-21). She is worshipped by Hao_s_yangha (§ 26), Yima (§ 28), Thraêtaona (§33), Haoma (§ 37), Husravah (§ 41), Zarathu_s_tra (§ 45), and Vî_s_tâspa (§ 49) [^1153]. She rejects the offerings of all sterile people (old men, courtezans, and children, §§ 53-61).
+She appears in the latter character in the first part of the Ya<i>s</i>t (§§ 1-14); she praises and loves Zarathu<i>s</i>tra (§§ 15-21). She is worshipped by Hao<i>s</i>yangha (§ 26), Yima (§ 28), Thraêtaona (§33), Haoma (§ 37), Husravah (§ 41), Zarathu<i>s</i>tra (§ 45), and Vî<i>s</i>tâspa (§ 49) [^1153]. She rejects the offerings of all sterile people (old men, courtezans, and children, §§ 53-61).
 
 ## I.
 
 1\. We sacrifice to Ashi Vanguhi, who is shining, high, tall-formed, well worthy of sacrifice, with a loud-sounding chariot, strong, welfare-giving, healing, with fulness of intellect [^1154], and powerful;
 
-2\. The daughter of Ahura Mazda, the sister of the Amesha-Spe_n_tas, who endows all the <span id="p271">[<sup><small>p. 271</small></sup>]</span> Saoshya_n__t_s [^1155] with the enlivening intelligence; she also brings heavenly wisdom at her wish, and comes to help him who invokes her from near and him who invokes her from afar, and worships her with offerings of libations.
+2\. The daughter of Ahura Mazda, the sister of the Amesha-Spe<i>n</i>tas, who endows all the <span id="p271">[<sup><small>p. 271</small></sup>]</span> Saoshya<i>n</i><i>t</i>s [^1155] with the enlivening intelligence; she also brings heavenly wisdom at her wish, and comes to help him who invokes her from near and him who invokes her from afar, and worships her with offerings of libations.
 
 3 [^1156]. For her brightness and glory, I will offer her a sacrifice worth being heard; I will offer up unto Ashi Vanguhi a good sacrifice with an offering of libations. We sacrifice unto Ashi Vanguhi with the libations; with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words.
 
-Yê_n_hê hâtãm: All those beings of whom Ahura Mazda . . . .
+Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 ## II.
 
 4\. We sacrifice to Ashi Vanguhi, who is shining, high, tall-formed, well worthy of sacrifice, with a loud-sounding chariot, strong, welfare-giving, healing, with fulness of intellect, and powerful.
 
-5\. Homage unto Haoma, and unto the Mãthra [^1157], and unto the holy Zarathu_s_tra!
+5\. Homage unto Haoma, and unto the Mãthra [^1157], and unto the holy Zarathu<i>s</i>tra!
 
 Homage unto Haoma, because all other drinks are attended with Aêshma [^1158], the fiend of the wounding spear: but the drinking of Haoma is attended with Asha and with Ashi Vanguhi herself [^1159].
 
@@ -74,21 +74,21 @@ Homage unto Haoma, because all other drinks are attended with Aêshma [^1158], t
 
 14\. The men whom thou dost attend, O Ashi Vanguhi! have hoards of silver and gold brought together from far distant regions; and garments of splendid make. Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong! <span id="p274">[<sup><small>p. 274</small></sup>]</span> 15\. Do not turn thy look from me! turn thy mercy towards me, O great Ashi! thou art well-made and of a noble seed [^1166]; thou art sovereign at thy wish; thou art Glory in a bodily form.
 
-16\. Thy father is Ahura Mazda, the greatest of all gods, the best of all gods; thy mother is Ârmaiti Spe_n_ta; thy brothers are Sraosha [^1167], a god of Asha, and Rashnu [^1168], tall and strong, and Mithra [^1169], the lord of wide pastures, who has ten thousand spies and a thousand ears; thy sister is the Law of the worshippers of Mazda.
+16\. Thy father is Ahura Mazda, the greatest of all gods, the best of all gods; thy mother is Ârmaiti Spe<i>n</i>ta; thy brothers are Sraosha [^1167], a god of Asha, and Rashnu [^1168], tall and strong, and Mithra [^1169], the lord of wide pastures, who has ten thousand spies and a thousand ears; thy sister is the Law of the worshippers of Mazda.
 
 17\. Praised of the gods, unoffended by the righteous [^1170], the great Ashi Vanguhi stood up on her chariot, thus speaking: ‘Who art thou who dost invoke me, whose voice is to my ear the sweetest of all that invoked me most?’
 
-18\. And he [^1171] said aloud: 'I am Spitama Zarathu_s_tra, who, first of mortals, recited the praise of the excellent Asha [^1172] and offered up sacrifice unto Ahura Mazda and the Amesha-Spe_n_tas; in whose birth and growth the waters and the plants rejoiced; in whose birth and growth the waters and the plants grew; in whose birth and growth all the creatures of the good creation cried out, Hail [^1173]!
+18\. And he [^1171] said aloud: 'I am Spitama Zarathu<i>s</i>tra, who, first of mortals, recited the praise of the excellent Asha [^1172] and offered up sacrifice unto Ahura Mazda and the Amesha-Spe<i>n</i>tas; in whose birth and growth the waters and the plants rejoiced; in whose birth and growth the waters and the plants grew; in whose birth and growth all the creatures of the good creation cried out, Hail [^1173]!
 
-19\. 'In whose birth and growth Angra Mainyu rushed away from this wide, round earth, whose ends lie afar, and he, the evil-doing Angra Mainyu, who is all death, said: "All the gods together <span id="p275">[<sup><small>p. 275</small></sup>]</span> have not been able to smite me down in spite of myself, and Zarathu_s_tra alone can reach me in spite of myself.
+19\. 'In whose birth and growth Angra Mainyu rushed away from this wide, round earth, whose ends lie afar, and he, the evil-doing Angra Mainyu, who is all death, said: "All the gods together <span id="p275">[<sup><small>p. 275</small></sup>]</span> have not been able to smite me down in spite of myself, and Zarathu<i>s</i>tra alone can reach me in spite of myself.
 
-20\. ‘ “He smites me with the Ahuna Vairya, as strong a weapon as a stone big as a house [^1174]; he burns me with Asha-Vahi_s_ta, as if it were melting brass [^1175]. He makes it better for me that I should leave this earth, he, Spitama Zarathu_s_tra, the only one who can daunt me.” ’
+20\. ‘ “He smites me with the Ahuna Vairya, as strong a weapon as a stone big as a house [^1174]; he burns me with Asha-Vahi<i>s</i>ta, as if it were melting brass [^1175]. He makes it better for me that I should leave this earth, he, Spitama Zarathu<i>s</i>tra, the only one who can daunt me.” ’
 
 21\. And the great Ashi Vanguhi exclaimed: ‘Come nearer unto me, thou pure, holy Spitama! lean against my chariot!’
 
-Spitama Zarathu_s_tra came nearer unto her, he leant against her chariot.
+Spitama Zarathu<i>s</i>tra came nearer unto her, he leant against her chariot.
 
-22\. And she caressed him with the left arm and the right, with the right arm and the left, thus speaking: ‘Thou art beautiful, O Zarathu_s_tra! thou art well-shapen, O Spitama! strong are thy legs and long are thy arms: Glory is given to thy body and long cheerfulness [^1176] to thy soul, as sure as I proclaim it unto thee.’
+22\. And she caressed him with the left arm and the right, with the right arm and the left, thus speaking: ‘Thou art beautiful, O Zarathu<i>s</i>tra! thou art well-shapen, O Spitama! strong are thy legs and long are thy arms: Glory is given to thy body and long cheerfulness [^1176] to thy soul, as sure as I proclaim it unto thee.’
 
 ## III.
 
@@ -124,7 +124,7 @@ For her brightness and glory, I will offer her a sacrifice . . . .
 
 33 [^1180]. To her did Thraêtaona, the heir of the valiant Âthwya clan, offer up a sacrifice in the four-cornered Varena.
 
-34\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may overcome A_z_i Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Dru_g_, that demon, baleful to the world, the strongest Dru_g_ that Angra Mainyu created against the material world, to destroy the world of the good principle; and that I may deliver his two wives, Savanghavâ_k_ and Erenavâ_k_, who are the fairest of body amongst women, and the most wonderful creatures in the world.’
+34\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may overcome A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Dru<i>g</i>, that demon, baleful to the world, the strongest Dru<i>g</i> that Angra Mainyu created against the material world, to destroy the world of the good principle; and that I may deliver his two wives, Savanghavâ<i>k</i> and Erenavâ<i>k</i>, who are the fairest of body amongst women, and the most wonderful creatures in the world.’
 
 35\. The great Ashi Vanguhi ran and came to his side. Thraêtaona, the heir of the valiant Âthwya clan, obtained that boon.
 
@@ -134,7 +134,7 @@ For her brightness and glory, I will offer her a sacrifice . . . .
 
 36\. We sacrifice to Ashi Vanguhi, who is shining, high . . . . and powerful.
 
-37 [^1181]. To her did Haoma offer up a sacrifice, Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, upon the highest height of the Haraiti Bareza. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 38\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may bind the Turanian murderer, Franghrasyan, that I may drag him bound, that I may bring him bound unto king Husravah, that king Husravah may kill him, behind the _K_aê_k_asta lake, the deep lake of salt waters, to avenge the murder of his father Syâvarshâna, a man, and of Aghraêratha, a semi-man.’
+37 [^1181]. To her did Haoma offer up a sacrifice, Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, upon the highest height of the Haraiti Bareza. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 38\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may bind the Turanian murderer, Franghrasyan, that I may drag him bound, that I may bring him bound unto king Husravah, that king Husravah may kill him, behind the <i>K</i>aê<i>k</i>asta lake, the deep lake of salt waters, to avenge the murder of his father Syâvarshâna, a man, and of Aghraêratha, a semi-man.’
 
 39\. The great Ashi Vanguhi ran and came to his side. Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, obtained that boon.
 
@@ -144,9 +144,9 @@ For her brightness and glory, I will offer her a sacrifice . . . .
 
 40\. We sacrifice to Ashi Vanguhi, who is shining, high . . . and powerful.
 
-41 [^1182]. To her did the gallant Husravah, he who united the Aryan nations into one kingdom, offer up a sacrifice, behind the _K_aê_k_asta lake, the deep lake of salt waters.
+41 [^1182]. To her did the gallant Husravah, he who united the Aryan nations into one kingdom, offer up a sacrifice, behind the <i>K</i>aê<i>k</i>asta lake, the deep lake of salt waters.
 
-42\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may kill the Turanian murderer, Franghrasyan, behind the _K_aê_k_asta lake, the deep lake of salt waters, to avenge the murder of my father Syâvarshâna, a man, and of Aghraêratha, a semi-man.’
+42\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may kill the Turanian murderer, Franghrasyan, behind the <i>K</i>aê<i>k</i>asta lake, the deep lake of salt waters, to avenge the murder of my father Syâvarshâna, a man, and of Aghraêratha, a semi-man.’
 
 43\. The great Ashi Vanguhi ran and came to his side. The gallant Husravah, he who united the Aryan nations into one kingdom, obtained that boon.
 
@@ -156,13 +156,13 @@ For her brightness and glory, I will offer her a sacrifice worth being heard . .
 
 ## VIII.
 
-44\. We sacrifice to Ashi Vanguhi, who is shining, high . . . _a_nd powerful.
+44\. We sacrifice to Ashi Vanguhi, who is shining, high . . . <i>a</i>nd powerful.
 
-45 [^1183]. To her did the holy Zarathu_s_tra offer up a sacrifice in the Airyana Vaê_g_ah, by the good river Dâitya, with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the speech, with the deeds, with the libations, and with the rightly-spoken words.
+45 [^1183]. To her did the holy Zarathu<i>s</i>tra offer up a sacrifice in the Airyana Vaê<i>g</i>ah, by the good river Dâitya, with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the speech, with the deeds, with the libations, and with the rightly-spoken words.
 
 46\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may bring the good and noble Hutaosa to think according to the law, to speak according to the law, to do according to the law, that she may spread my law and make it known, that she may bestow beautiful praises upon my deeds.’
 
-47\. The great Ashi Vanguhi ran and came to his side: the holy Zarathu_s_tra obtained that boon.
+47\. The great Ashi Vanguhi ran and came to his side: the holy Zarathu<i>s</i>tra obtained that boon.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
@@ -170,13 +170,13 @@ For her brightness and glory, I will offer her a sacrifice worth being heard . .
 
 48\. We sacrifice to Ashi Vanguhi, who is shining, high . . . . and powerful.
 
-49\. To her did the tall Kavi Vî_s_tâspa offer up a sacrifice behind the waters of the river Dâitya.
+49\. To her did the tall Kavi Vî<i>s</i>tâspa offer up a sacrifice behind the waters of the river Dâitya.
 
-50\. He begged of her a boon, saying: 'Grant me this, O great Ashi Vanguhi! that I may put to flight A_s_ta-aurva_n__t_, the son of Vîspô-thaurvô-asti, the all-afflicting, of the brazen helmet, of the brazen armour, of the thick neck, behind whom seven <span id="p280">[<sup><small>p. 280</small></sup>]</span> hundred camels . . . .; that I may put to flight the _H__v_yaona murderer, Are_g_a_t_\-aspa; that I may put to flight Dar_s_inika, the worshipper of the Daêvas;
+50\. He begged of her a boon, saying: 'Grant me this, O great Ashi Vanguhi! that I may put to flight A<i>s</i>ta-aurva<i>n</i><i>t</i>, the son of Vîspô-thaurvô-asti, the all-afflicting, of the brazen helmet, of the brazen armour, of the thick neck, behind whom seven <span id="p280">[<sup><small>p. 280</small></sup>]</span> hundred camels . . . .; that I may put to flight the <i>H</i><i>v</i>yaona murderer, Are<i>g</i>a<i>t</i>\-aspa; that I may put to flight Dar<i>s</i>inika, the worshipper of the Daêvas;
 
-51\. ‘And that I may smite Tãthrava_n__t_ of the bad law; that I may smite Spin_g_auru_s_ka, the worshipper of the Daêvas; and that I may bring unto the good law the nations of the Varedhakas and of the _H__v_yaonas; and that I may smite of the _H__v_yaona nations their fifties and their hundreds, their hundreds and their thousands, their thousands and their tens of thousands, their tens of thousands and their myriads of myriads.’
+51\. ‘And that I may smite Tãthrava<i>n</i><i>t</i> of the bad law; that I may smite Spin<i>g</i>auru<i>s</i>ka, the worshipper of the Daêvas; and that I may bring unto the good law the nations of the Varedhakas and of the <i>H</i><i>v</i>yaonas; and that I may smite of the <i>H</i><i>v</i>yaona nations their fifties and their hundreds, their hundreds and their thousands, their thousands and their tens of thousands, their tens of thousands and their myriads of myriads.’
 
-52\. The great Ashi Vanguhi ran and came to his side: the tall Kavi Vî_s_tâspa obtained that boon.
+52\. The great Ashi Vanguhi ran and came to his side: the tall Kavi Vî<i>s</i>tâspa obtained that boon.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
@@ -198,13 +198,13 @@ For her brightness and glory, I will offer her a sacrifice worth being heard . .
 
 60\. Ahura Mazda answered: ‘O fair and wise Ashi, go not back to the heavens, sink not into the <span id="p282">[<sup><small>p. 282</small></sup>]</span> earth! Stay here and walk inside the fine kingly palace.’
 
-61\. I shall worship thee with such a sacrifice, I shall worship and forward thee with such a sacrifice as Vî_s_tâspa offered unto thee, behind the river Dâitya [^1188]. The Zoatar lifted up a loud voice, with baresma before him. With that sort of sacrifice shall I worship thee? With that sort of sacrifice shall I worship and forward thee, O fair and wise Ashi?
+61\. I shall worship thee with such a sacrifice, I shall worship and forward thee with such a sacrifice as Vî<i>s</i>tâspa offered unto thee, behind the river Dâitya [^1188]. The Zoatar lifted up a loud voice, with baresma before him. With that sort of sacrifice shall I worship thee? With that sort of sacrifice shall I worship and forward thee, O fair and wise Ashi?
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
 62\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-I bless the sacrifice and prayer, and the strength and vigour of Ashi Vanguhi; of the good _K_isti; of the good Ereth_e_; of the good Rasãstâ_t_; of the Glory and Weal, made by Mazda [^1189].
+I bless the sacrifice and prayer, and the strength and vigour of Ashi Vanguhi; of the good <i>K</i>isti; of the good Ereth<i>e</i>; of the good Rasãstâ<i>t</i>; of the Glory and Weal, made by Mazda [^1189].
 
 Ashem Vohû: Holiness is the best of all good .
 
@@ -238,17 +238,17 @@ Ashem Vohû: Holiness is the best of all good .
 
 ## Footnotes
 
-[^1212]: 270:1 In Parsi Ardi_s_vang or Ard (Ardi_s_ from Arti_s_, the Persian form of Ashi_s_); she presides over the 25th day of the month; cf. Sîrôzah 25.
+[^1212]: 270:1 In Parsi Ardi<i>s</i>vang or Ard (Ardi<i>s</i> from Arti<i>s</i>, the Persian form of Ashi<i>s</i>); she presides over the 25th day of the month; cf. Sîrôzah 25.
 
-[^1213]: 270:2 Ashi is not the feminine adjective of Asha, as the i was originally short (genitive ashôi_s_, not ashy_a_u); ashi is ar-ti, and means bhakti, piety (Neriosengh).
+[^1213]: 270:2 Ashi is not the feminine adjective of Asha, as the i was originally short (genitive ashôi<i>s</i>, not ashy<i>a</i>u); ashi is ar-ti, and means bhakti, piety (Neriosengh).
 
-[^1214]: 270:3 The so-called Ashi's remedies (ashôi_s_ baêshaza; cf. Yt. XIII, 32).
+[^1214]: 270:3 The so-called Ashi's remedies (ashôi<i>s</i> baêshaza; cf. Yt. XIII, 32).
 
-[^1215]: 270:4 This enumeration is the same as in the Gô_s_ Ya_s_t (§§ 3, 8, 14, 17, 21, 26, 29),
+[^1215]: 270:4 This enumeration is the same as in the Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
 
 [^1216]: 270:5 Perethu-vîra; see Études Iraniennes, II, 183.
 
-[^1217]: 271:1 The allies of Saoshya_n__t_, who are to be active in the restoration of the world to eternal life (frashô-kereti). Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769). Ashi gives them the ‘intelligence of life’ (frasha khratu), through which they will be enabled to perform their task.
+[^1217]: 271:1 The allies of Saoshya<i>n</i><i>t</i>, who are to be active in the restoration of the world to eternal life (frashô-kereti). Cf. [p. 165](Yasts_11#p165), note [1](Yasts_11#fn769). Ashi gives them the ‘intelligence of life’ (frasha khratu), through which they will be enabled to perform their task.
 
 [^1218]: 271:2 Cf. Yt. V, 10.
 
@@ -258,13 +258,13 @@ Ashem Vohû: Holiness is the best of all good .
 
 [^1221]: 271:5 As drinking Haoma is an act of religion (cf. Yasna XI, 12 \[31\] seq.).
 
-[^1222]: 272:1 ? Âgairimaiti_s_.
+[^1222]: 272:1 ? Âgairimaiti<i>s</i>.
 
 [^1223]: 272:2 Cf. Yt. V, 130.
 
-[^1224]: 272:3 ? A_n_kupasman_a_u.
+[^1224]: 272:3 ? A<i>n</i>kupasman<i>a</i>u.
 
-[^1225]: 273:1 ? Ãgamô-paidhi_s_a.
+[^1225]: 273:1 ? Ãgamô-paidhi<i>s</i>a.
 
 [^1226]: 273:2 Doubtful.
 
@@ -280,7 +280,7 @@ Ashem Vohû: Holiness is the best of all good .
 
 [^1232]: 274:5 Or, ‘doing no harm to the righteous.’
 
-[^1233]: 274:6 Zarathu_s_tra.
+[^1233]: 274:6 Zarathu<i>s</i>tra.
 
 [^1234]: 274:7 The Ahuna Vairya.
 
@@ -312,7 +312,7 @@ Ashem Vohû: Holiness is the best of all good .
 
 [^1248]: 280:3 She refuses the offerings of all barren beings.
 
-[^1249]: 280:4 Cf. Yt. V, 98. The following clauses allude to some myth of Ashi Vanguhi connected with the conflict between the Turanians and the Naotaras (either Tusa and Vistauru; cf. [p. 71](Yasts_5#p71), note [7](Yasts_5#fn352), or more likely Vî_s_tâspa himself, to whom the preceding chapter p. 281 \[§§ 48-52\] and the last but one clause of the Ya_s_t refer). She tried to flee in the way practised by Ulysses in the Cyclops’ cavern; both parties were pursuing the animal that bore her, though they knew not what it bore, till children discovered her.
+[^1249]: 280:4 Cf. Yt. V, 98. The following clauses allude to some myth of Ashi Vanguhi connected with the conflict between the Turanians and the Naotaras (either Tusa and Vistauru; cf. [p. 71](Yasts_5#p71), note [7](Yasts_5#fn352), or more likely Vî<i>s</i>tâspa himself, to whom the preceding chapter p. 281 \[§§ 48-52\] and the last but one clause of the Ya<i>s</i>t refer). She tried to flee in the way practised by Ulysses in the Cyclops’ cavern; both parties were pursuing the animal that bore her, though they knew not what it bore, till children discovered her.
 
 [^1250]: 282:1 Cf. §§ 49 seq.
 

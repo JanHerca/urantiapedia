@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 <span id="p296">[<sup><small>p. 296</small></sup>]</span>
 
-## YASNA LVI (SP. LV). INTRODUCTION TO THE SRÔSH YA_S_T.
+## YASNA LVI (SP. LV). INTRODUCTION TO THE SRÔSH YA<i>S</i>T.
 
 1\. Let Sraosha (the listening Obedience) be present here for the worship of Ahura Mazda, the most beneficent, and holy, of him) who is desired by us as at the first, so at the last; and so again may attentive Obedience be present here for the worship of Ahura Mazda, the most beneficent and the holy who (is so) desired by us.
 

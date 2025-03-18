@@ -36,11 +36,11 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1\. We worship Ahura Mazda, the holy lord of the ritual order, who disposes (all) aright, the greatest Yazad, who is also the most beneficent, and the one who causes the settlements to advance, the creator of good creatures; yea, we worship Him with these offered Zaothras, and with truthfully and scrupulously delivered words; and we worship every holy Yazad of the heaven (as well)!
 
-2\. And we worship Zarathu_s_tra Spitâma in our sacrifice, the holy lord of the ritual order with these Zaothras, and with faithfully delivered words; and we worship every holy earthly Yazad as we worship him; and we worship also the Fravashi of Zarathu_s_tra Spitâma, the saint. And we worship the utterances of Zarathu_s_tra and his religion, his faith and his lore.
+2\. And we worship Zarathu<i>s</i>tra Spitâma in our sacrifice, the holy lord of the ritual order with these Zaothras, and with faithfully delivered words; and we worship every holy earthly Yazad as we worship him; and we worship also the Fravashi of Zarathu<i>s</i>tra Spitâma, the saint. And we worship the utterances of Zarathu<i>s</i>tra and his religion, his faith and his lore.
 
-3\. And we worship the former religions of the world [^1072] devoted to Righteousness which were instituted <span id="p256">[<sup><small>p. 256</small></sup>]</span> at the creation, the holy religions of the Creator Ahura Mazda, the resplendent and glorious. And we worship Vohu Manah (the Good Mind), and Asha Vahi_s_ta (who is Righteousness the Best), and Khshathra-vairya, the Kingdom to be desired, and the good and bountiful Âramaiti (true piety in the believers), and Haurvatâ_t_ and Ameretatâ_t_ (our Weal and Immortality).
+3\. And we worship the former religions of the world [^1072] devoted to Righteousness which were instituted <span id="p256">[<sup><small>p. 256</small></sup>]</span> at the creation, the holy religions of the Creator Ahura Mazda, the resplendent and glorious. And we worship Vohu Manah (the Good Mind), and Asha Vahi<i>s</i>ta (who is Righteousness the Best), and Khshathra-vairya, the Kingdom to be desired, and the good and bountiful Âramaiti (true piety in the believers), and Haurvatâ<i>t</i> and Ameretatâ<i>t</i> (our Weal and Immortality).
 
-4\. Yea, we worship the Creator Ahura Mazda and the Fire, Ahura Mazda's son, and the good waters which are Mazda-made and holy, and the resplendent sun of the swift horses, and the moon with the seed of cattle (in his beams [^1073]); and we worship the star Ti_s_trya, the lustrous and glorious; and we worship the soul of the Kine of blessed endowment, (5) and its Creator Ahura Mazda; and we worship Mithra of the wide pastures, and Sraosha (Obedience) the blessed, and Rashnu the most just, and the good, heroic, bountiful Fravashis of the saints, and the Blow-of-victory Ahura-given (as it is). And we worship Râman _H__v_âstra, and the bounteous Wind of blessed gift, (6) and (its) Creator Ahura Mazda, and the good Mazdayasnian Religion, and the good Blessedness and Ar_s_tâ_t_.
+4\. Yea, we worship the Creator Ahura Mazda and the Fire, Ahura Mazda's son, and the good waters which are Mazda-made and holy, and the resplendent sun of the swift horses, and the moon with the seed of cattle (in his beams [^1073]); and we worship the star Ti<i>s</i>trya, the lustrous and glorious; and we worship the soul of the Kine of blessed endowment, (5) and its Creator Ahura Mazda; and we worship Mithra of the wide pastures, and Sraosha (Obedience) the blessed, and Rashnu the most just, and the good, heroic, bountiful Fravashis of the saints, and the Blow-of-victory Ahura-given (as it is). And we worship Râman <i>H</i><i>v</i>âstra, and the bounteous Wind of blessed gift, (6) and (its) Creator Ahura Mazda, and the good Mazdayasnian Religion, and the good Blessedness and Ar<i>s</i>tâ<i>t</i>.
 
 And we worship the heaven and the earth of blessed gift, and the bounteous Mãthra, and the stars without beginning (to their course), self-disposing as they are.
 
@@ -82,17 +82,17 @@ And we worship the heaven and the earth of blessed gift, and the bounteous Mãth
 
 ## Footnotes
 
-[^1080]: 255:2 So the Pahlavi translator, probably reading angheu_s_; otherwise p. 256 ‘of the conscience that loves the right.’ In Ya_s_t XIII, 118 the word is a proper name through an error.
+[^1080]: 255:2 So the Pahlavi translator, probably reading angheu<i>s</i>; otherwise p. 256 ‘of the conscience that loves the right.’ In Ya<i>s</i>t XIII, 118 the word is a proper name through an error.
 
 [^1081]: 256:1 Possibly in allusion to the menses. The moon is masc.
 
-[^1083]: 257:1 We cannot mistake a connection here with yó áhi_m_ _g_aghâ´na—avâ´s_ri__g_at sártave saptá síndhûn.
+[^1083]: 257:1 We cannot mistake a connection here with yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
 
-[^1084]: 257:2 Or is it possible that a plague of mice is meant, mû_s_ being here indeclinable?
+[^1084]: 257:2 Or is it possible that a plague of mice is meant, mû<i>s</i> being here indeclinable?
 
 [^1085]: 257:3 Ordering the execution of many of his subjects.
 
-[^1086]: 257:4 Gaêthyâ_k_a with J3, K11.
+[^1086]: 257:4 Gaêthyâ<i>k</i>a with J3, K11.
 
 [^1087]: 257:5 Later association of Â. and the earth.
 

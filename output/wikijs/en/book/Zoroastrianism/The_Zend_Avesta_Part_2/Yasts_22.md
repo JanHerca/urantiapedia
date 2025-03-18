@@ -34,27 +34,27 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p314">[<sup><small>p. 314</small></sup>]</span>
 
-This Ya_s_t is a description of the fate that attends the soul of the righteous (§§ 1-18) and the soul of the wicked (§§ 19-37) after death. They spend the first three nights (the sadis or sidôs; cf. Commentaire du Vendîdâd, XIII, 55) amongst the highest enjoyments or pains; they are then met by their own conscience in the shape of a beautiful heavenly maiden (or a fiendish old woman [^1330]), and are brought in four steps up to heaven or down to hell, through the three paradises of Good-Thought, Good-Word, and Good-Deed, or the three hells of Evil-Thought, Evil-Word, and Evil-Deed: there they are praised and glorified by Ahura, or rebuked and insulted by Angra Mainyu, and fed with ambrosia or poison.
+This Ya<i>s</i>t is a description of the fate that attends the soul of the righteous (§§ 1-18) and the soul of the wicked (§§ 19-37) after death. They spend the first three nights (the sadis or sidôs; cf. Commentaire du Vendîdâd, XIII, 55) amongst the highest enjoyments or pains; they are then met by their own conscience in the shape of a beautiful heavenly maiden (or a fiendish old woman [^1330]), and are brought in four steps up to heaven or down to hell, through the three paradises of Good-Thought, Good-Word, and Good-Deed, or the three hells of Evil-Thought, Evil-Word, and Evil-Deed: there they are praised and glorified by Ahura, or rebuked and insulted by Angra Mainyu, and fed with ambrosia or poison.
 
-Similar developments are to be found in Ya_s_t XXIV, 53-65; Ardâ Vîrâf XVII; Minokhired II, 123-194.
+Similar developments are to be found in Ya<i>s</i>t XXIV, 53-65; Ardâ Vîrâf XVII; Minokhired II, 123-194.
 
 ---
 
 ## I.
 
-1\. Zarathu_s_tra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
+1\. Zarathu<i>s</i>tra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
 ‘When one of the faithful departs this life, where does his soul abide on that night?’
 
 Ahura Mazda answered:
 
-2\. ‘It takes its seat near the head, singing the U_s_tavaiti Gâtha [^1331] and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes [^1332] as much of pleasure as the whole of the living world can taste.’ <span id="p315">[<sup><small>p. 315</small></sup>]</span> 3\. —'On the second night where does his soul abide?
+2\. ‘It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha [^1331] and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes [^1332] as much of pleasure as the whole of the living world can taste.’ <span id="p315">[<sup><small>p. 315</small></sup>]</span> 3\. —'On the second night where does his soul abide?
 
-4\. Ahura Mazda answered: ‘It takes its seat near the head, singing the U_s_tavaiti Gâtha and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes as much of pleasure as the whole of the living world can taste.’
+4\. Ahura Mazda answered: ‘It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes as much of pleasure as the whole of the living world can taste.’
 
 5\. —'On the third night where does his soul abide?
 
-6\. Ahura Mazda answered: ‘It takes its seat near the head, singing the U_s_tavaiti Gâtha and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes as much of pleasure as the whole of the living world can taste.’
+6\. Ahura Mazda answered: ‘It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes as much of pleasure as the whole of the living world can taste.’
 
 7\. At the end [^1333] of the third night, when the dawn appears, it seems to the soul of the faithful one as if it were brought amidst plants and scents: it seems as if a wind were blowing from the region of the south, from the regions of the south, a sweet-scented wind, sweeter-scented than any other wind in the world.
 
@@ -88,11 +88,11 @@ Ahura Mazda answered:
 
 ## II.
 
-19\. Zarathu_s_tra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
+19\. Zarathu<i>s</i>tra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
 ‘When one of the wicked perishes, where does his soul abide on that night?’
 
-20\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima [^1344] Gâtha, O holy Zarathu_s_tra!
+20\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima [^1344] Gâtha, O holy Zarathu<i>s</i>tra!
 
 ‘ “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
 
@@ -100,17 +100,17 @@ Ahura Mazda answered:
 
 21\. —‘On the second night, where does his soul abide?’
 
-22\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima Gâtha, O holy <span id="p319">[<sup><small>p. 319</small></sup>]</span> Zarathu_s_tra! “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
+22\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima Gâtha, O holy <span id="p319">[<sup><small>p. 319</small></sup>]</span> Zarathu<i>s</i>tra! “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
 
 ‘On that night his soul tastes as much of suffering as the whole of the living world can taste.’
 
 23\. —‘On the third night, where does his soul abide?’
 
-24\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima Gâtha, O holy Zarathu_s_tra! “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
+24\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima Gâtha, O holy Zarathu<i>s</i>tra! “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
 
 ‘On that night his soul tastes as much of suffering as the whole of the living world can taste.’
 
-25\. At the end of the third night, O holy Zarathu_s_tra! when the dawn appears, it seems to the soul of the faithless one as if it were brought amidst snow and stench, and as if a wind were blowing from the region of the north, from the regions of the north, a foul-scented wind, the foulest-scented of all the winds in the world.
+25\. At the end of the third night, O holy Zarathu<i>s</i>tra! when the dawn appears, it seems to the soul of the faithless one as if it were brought amidst snow and stench, and as if a wind were blowing from the region of the north, from the regions of the north, a foul-scented wind, the foulest-scented of all the winds in the world.
 
 26-32. And it seems to the soul of the wicked man as if he were inhaling that wind with the nostrils, and he thinks: ‘Whence does that wind blow, the foulest-scented wind that I ever inhaled with my nostrils [^1345]?’ <span id="p320">[<sup><small>p. 320</small></sup>]</span> 33\. The first step that the soul of the wicked man made laid him in the Evil-Thought Hell;
 
@@ -126,7 +126,7 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 36\. 'Let him eat of the food brought unto him, of poison and poisonous stench [^1346]: this is the food, after he has perished, for the youth of evil thoughts, evil words, evil deeds, evil religion after he has perished; this is the food for the fiendish woman, rich in evil thoughts, evil words, and evil deeds, evil religion, ill-principled, and disobedient to her husband.
 
-37 [^1347]. 'We worship the Fravashi of the holy man, whose name is Asmô-_h__v_anva_n__t_ [^1348]; then I will worship the Fravashis of the other holy Ones who were strong of faith [^1349].
+37 [^1347]. 'We worship the Fravashi of the holy man, whose name is Asmô-<i>h</i><i>v</i>anva<i>n</i><i>t</i> [^1348]; then I will worship the Fravashis of the other holy Ones who were strong of faith [^1349].
 
 38 [^1347]. 'We worship the memory of Ahura Mazda, to keep the Holy Word.
 
@@ -142,7 +142,7 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 ---
 
-41 [^1355]. Then towards the dawning of the dawn [^1356], that bird Parôdar_s_ [^1357], that bird Karetô-dãsu [^1358] hears the voice of the Fire. <span id="p323">[<sup><small>p. 323</small></sup>]</span> 42\. Here the fiendish Bûshyãsta, the long-handed, rushes from the region of the north, from the regions of the north, speaking thus, lying thus: ‘Sleep on, O men! Sleep on, O sinners! Sleep on and live in sin.’
+41 [^1355]. Then towards the dawning of the dawn [^1356], that bird Parôdar<i>s</i> [^1357], that bird Karetô-dãsu [^1358] hears the voice of the Fire. <span id="p323">[<sup><small>p. 323</small></sup>]</span> 42\. Here the fiendish Bûshyãsta, the long-handed, rushes from the region of the north, from the regions of the north, speaking thus, lying thus: ‘Sleep on, O men! Sleep on, O sinners! Sleep on and live in sin.’
 
 
 
@@ -174,11 +174,11 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 [^1397]: 314:1 See [p. 319](#p319), note [^1345].
 
-[^1398]: 314:2 The name of the second Gâtha, which begins with the word u_s_ta: the words in the text, ‘Happy the man . . . .,’ are its opening line (Ya_s_na XLII, 1).
+[^1398]: 314:2 The name of the second Gâtha, which begins with the word u<i>s</i>ta: the words in the text, ‘Happy the man . . . .,’ are its opening line (Ya<i>s</i>na XLII, 1).
 
 [^1399]: 314:3 Literally, sees, perceives.
 
-[^1400]: 315:1 Thrao_s_ta: in Pahlavi rôi_s_man.
+[^1400]: 315:1 Thrao<i>s</i>ta: in Pahlavi rôi<i>s</i>man.
 
 [^1401]: 316:1 ‘That is to say, from the gods’ (Pahl. Comm.).
 
@@ -186,7 +186,7 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 [^1403]: 316:3 Doubtful. The Pahlavi commentary has the following gloss: ‘He would not give his friends what they begged for.’
 
-[^1404]: 316:4 To the poor:—Urvarô-straya: urvar babâi_k_ kart (Pahl. Comm.): âighshân babâ barâ asrûnast (star, to tie, as in frastaretem baresma). Cf. Yt. XXIV, 37, 59.
+[^1404]: 316:4 To the poor:—Urvarô-straya: urvar babâi<i>k</i> kart (Pahl. Comm.): âighshân babâ barâ asrûnast (star, to tie, as in frastaretem baresma). Cf. Yt. XXIV, 37, 59.
 
 [^1405]: 316:5 With alms to the poor Mazdayasnians (ashô-dâd).
 
@@ -225,13 +225,13 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 [^1419]: 322:2 A Pahlavi translation of the following two fragments is found in MS. 33, Paris, Supplément Persan (edited in Études Iraniennes, II).
 
-[^1420]: 322:3 _K_ithra (Paris MS. p. 255).
+[^1420]: 322:3 <i>K</i>ithra (Paris MS. p. 255).
 
 [^1421]: 322:4 ‘How do they manifest their assistance?’ (Pahl. tr. ibid.); that is to say, when do they assist their relations and countrymen? (see Yt. XIII, 49 seq.)
 
 [^1422]: 322:5 When men are instinct with good spirit and good thought.
 
-[^1423]: 322:6 The Pahlavi translation of this fragment has here §§ 14-16 of the Âtash Nyâyi_s_, then §§ 18-19 of Vendîdâd XVIII. Therefore the whole passage is to be restored as follows:
+[^1423]: 322:6 The Pahlavi translation of this fragment has here §§ 14-16 of the Âtash Nyâyi<i>s</i>, then §§ 18-19 of Vendîdâd XVIII. Therefore the whole passage is to be restored as follows:
   Âtar looks at the hands of all those who pass by: ‘What does the friend bring to his friend . . . .?’ (Âtash N. 14.)
   
   And if that passer-by brings him wood holily brought, or bundles of baresma holily tied up . . . ., then Âtar . . . . will bless him thus:
@@ -246,8 +246,8 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 [^1424]: 322:7 Cf. Vend. XVIII, 23.
 
-[^1425]: 322:8 ‘He who has knowledge made,’ or ‘He who has the knowledge of what is made’ (kartak dânishn); his other name Parôdar_s_ is ‘He who foresees.’
+[^1425]: 322:8 ‘He who has knowledge made,’ or ‘He who has the knowledge of what is made’ (kartak dânishn); his other name Parôdar<i>s</i> is ‘He who foresees.’
 
 [^1426]: 322:9 Here again a large passage is omitted: it can only partly be p. 323 supplied from the Pahlavi translation; the words in brackets refer to Zend texts lost to us:
-  ‘Then he flaps his wings and lifts up his voice, saying: “Arise, O men! \[and also women, grown-up people, and children, &c . . . . Put on well your girdle and shirt, wash your hands, put your girdle around your body, go and give food to the cattle and recite aloud the five holy Gâthas of Spitama Zarathu_s_tra.”\]
+  ‘Then he flaps his wings and lifts up his voice, saying: “Arise, O men! \[and also women, grown-up people, and children, &c . . . . Put on well your girdle and shirt, wash your hands, put your girdle around your body, go and give food to the cattle and recite aloud the five holy Gâthas of Spitama Zarathu<i>s</i>tra.”\]
   ‘Here the fiendish Bûshyãsta . . . .’ (see the text). Then the Pahlavi translation has: ‘Never care for the three excellent things, good thoughts, good words, good deeds’ (cf. Vend. XVIII, 25).

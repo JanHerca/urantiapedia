@@ -34,11 +34,11 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p168">[<sup><small>p. 168</small></sup>]</span>
 
-Rashnu Razi_s_ta, ‘the truest True,’ is the Genius of Truth: he is one of the three judges of the departed, with Mithra and Sraosha: he holds the balance in which the deeds of men are weighed after their death: 'he makes no unjust balance . . . ., neither for the pious nor yet the wicked, neither for lords nor yet rulers; as much as a hair's breadth he will not vary, and he shows no favour [^777].' He is an offshoot either of Mithra, the God of Truth and the avenger of lies, or of Ahura Mazda himself, the all-knowing lord (§ 2 seq.).
+Rashnu Razi<i>s</i>ta, ‘the truest True,’ is the Genius of Truth: he is one of the three judges of the departed, with Mithra and Sraosha: he holds the balance in which the deeds of men are weighed after their death: 'he makes no unjust balance . . . ., neither for the pious nor yet the wicked, neither for lords nor yet rulers; as much as a hair's breadth he will not vary, and he shows no favour [^777].' He is an offshoot either of Mithra, the God of Truth and the avenger of lies, or of Ahura Mazda himself, the all-knowing lord (§ 2 seq.).
 
-This Ya_s_t seems to be an appeal made to Rashnu to come and attend the performance of the var nîrang or ordeal (see [p. 170](#p170), note [^787]), of which Rashnu, as the Genius of Truth, was the natural witness and arbiter (cf. Vend. IV, 54-55 \[154-156\]). As a god of Truth must know everything and be present everywhere, he is called from whatever part of the world he may actually be in. This brings about an enumeration of all the parts of the world, from this earth (§§ 9-22) to the highest heaven (§ 37), passing through the Albôrz (§§ 23-26), the star region (§§ 26-32), the moon region (§ 33), and the sun region (§ 34; cf. [p. 73](Yasts_5#p73), note [2](Yasts_5#fn359)).
+This Ya<i>s</i>t seems to be an appeal made to Rashnu to come and attend the performance of the var nîrang or ordeal (see [p. 170](#p170), note [^787]), of which Rashnu, as the Genius of Truth, was the natural witness and arbiter (cf. Vend. IV, 54-55 \[154-156\]). As a god of Truth must know everything and be present everywhere, he is called from whatever part of the world he may actually be in. This brings about an enumeration of all the parts of the world, from this earth (§§ 9-22) to the highest heaven (§ 37), passing through the Albôrz (§§ 23-26), the star region (§§ 26-32), the moon region (§ 33), and the sun region (§ 34; cf. [p. 73](Yasts_5#p73), note [2](Yasts_5#fn359)).
 
-This Ya_s_t is recited on the days of Rashn, Murdâd, Âshtâd, and Zemyâd (the 18th, 7th, 26th, and 28th of the month).
+This Ya<i>s</i>t is recited on the days of Rashn, Murdâd, Âshtâd, and Zemyâd (the 18th, 7th, 26th, and 28th of the month).
 
 ---
 
@@ -46,11 +46,11 @@ This Ya_s_t is recited on the days of Rashn, Murdâd, Âshtâd, and Zemyâd (the
 
 Ashem Vohû: Holiness is the best of all good . . . .
 
-I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra, one who hates the Daêvas and obeys the laws of Ahura;
+I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura;
 
 For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness.
 
-Unto Rashnu Razi_s_ta; unto Ar_s_tâ_t_, who makes the world grow, who makes the world increase; unto the true-spoken speech, that makes the world grow [^778];
+Unto Rashnu Razi<i>s</i>ta; unto Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase; unto the true-spoken speech, that makes the world grow [^778];
 
 <span id="p169">[<sup><small>p. 169</small></sup>]</span>
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## I.
 
-1\. The holy (Zarathu_s_tra) asked him [^779]: 'O holy Ahura Mazda! I ask thee; answer me with words of truth, thou who knowest the truth. Thou art undeceivable, thou hast an undeceivable understanding; thou art undeceivable, as thou knowest everything.
+1\. The holy (Zarathu<i>s</i>tra) asked him [^779]: 'O holy Ahura Mazda! I ask thee; answer me with words of truth, thou who knowest the truth. Thou art undeceivable, thou hast an undeceivable understanding; thou art undeceivable, as thou knowest everything.
 
 ‘What of the Holy Word is created true? what is created progress-making? what is fit to discern? what is healthful? what is wise? what is happy and more powerful to destroy than all other creatures [^780]?
 
@@ -100,15 +100,15 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## VI.
 
-13\. 'Whether thou, O holy Rashn! art in the Karshvare Vouru-bare_s_ti [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
+13\. 'Whether thou, O holy Rashn! art in the Karshvare Vouru-bare<i>s</i>ti [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
 
 ## VII.
 
-14\. 'Whether thou, O holy Rashnu! art in the Karshvare Vouru-bare_s_ti [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
+14\. 'Whether thou, O holy Rashnu! art in the Karshvare Vouru-bare<i>s</i>ti [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
 
 ## VIII.
 
-15\. 'Whether thou, O holy Rashnu! art in this Karshvare, the bright _H__v_aniratha [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
+15\. 'Whether thou, O holy Rashnu! art in this Karshvare, the bright <i>H</i><i>v</i>aniratha [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
 
 ## IX.
 
@@ -158,15 +158,15 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## XIX.
 
-26\. 'Whether thou, O holy Rashnu! art in the star Vana_n__t_ [^801], made by Mazda, we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
+26\. 'Whether thou, O holy Rashnu! art in the star Vana<i>n</i><i>t</i> [^801], made by Mazda, we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
 
 ## XX.
 
-27\. 'Whether thou, O holy Rashnu! art in the bright and glorious star Ti_s_trya [^802], we invoke, we bless Rashnu, the strong. I invoke his friendship towards the var prepared . . . .
+27\. 'Whether thou, O holy Rashnu! art in the bright and glorious star Ti<i>s</i>trya [^802], we invoke, we bless Rashnu, the strong. I invoke his friendship towards the var prepared . . . .
 
 ## XXI.
 
-28\. 'Whether thou, O holy Rashnu! art in the group of the Haptôiri_n_ga stars [^802], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
+28\. 'Whether thou, O holy Rashnu! art in the group of the Haptôiri<i>n</i>ga stars [^802], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
 
 ## XXII.
 
@@ -214,11 +214,11 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 <span id="p178">[<sup><small>p. 178</small></sup>]</span>
 
-‘Yê_n_hê hâtãm: All those beings of whom Ahura Mazda. . . .
+‘Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda. . . .
 
 40\. 'Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-‘I bless the sacrifice and prayer, and the strength and vigour of Rashnu Razi_s_ta; of Ar_s_tâ_t_, who makes the world grow, who makes the world increase; and of the true-spoken speech that makes the world grow.
+‘I bless the sacrifice and prayer, and the strength and vigour of Rashnu Razi<i>s</i>ta; of Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase; and of the true-spoken speech that makes the world grow.
 
 ‘Ashem Vohû: Holiness is the best of all good . . . .
 
@@ -274,11 +274,11 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 [^821]: 170:3 Varô; this seems to be the Var nîrang or ordeal which is alluded to in several passages of the Avesta; cf. Afrîgân I, 9; Yasna XXXI, 3 b (see Pahl. Comm.; cf. Comm. ad XXXI V, 4 a); cf. Vend. IV, 46, 55. According to the Dînkart, there were thirty-three kinds of var ordeals (Haug, Ardâ Vîrâf, p. 245); the most common was to pour melted copper upon the breast of the man whose truth was to be tested: if he went off uninjured, he was considered to have spoken the truth. Cf. Vend. Introd. III, 9.
 
-[^822]: 171:1 Arethama_t_\-bairishta: aretha is dînâ, dâdistân (law, justice).
+[^822]: 171:1 Arethama<i>t</i>\-bairishta: aretha is dînâ, dâdistân (law, justice).
 
-[^823]: 171:2 Ke_s_a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
+[^823]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
 
-[^824]: 171:3 I cannot make anything of the rest of the sentence hadhanâ tanasu_s_; cf. § 38.
+[^824]: 171:3 I cannot make anything of the rest of the sentence hadhanâ tanasu<i>s</i>; cf. § 38.
 
 [^828]: 171:4 See Yt. X, 15, note 5.
 
@@ -288,7 +288,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 [^833]: 172:2 See [p. 54](Yasts_5#p54), note [6](Yasts_5#fn279).
 
-[^834]: 173:1 The Saêna, in later mythology the Sînamrû or Sîmûrgh; his ‘resting-place is on the tree which is Ja_d_\-bêsh (opposed to harm) of all seeds; and always when he rises aloft, a thousand twigs will shoot forth from that tree; and when he alights, he will break off the thousand twigs, and he sheds their seed therefrom. And the bird Chañmrôsh for ever sits in that vicinity; and his work is this, that he collects that seed which sheds from the tree of all seeds, which is Ja_d_\-bêsh, and conveys it there where Tishtar seizes the water, so that Tishtar may seize the water with that seed of all kinds, and may rain it on the world with the rain’ (Minokhirad LXII, 37; tr. West).
+[^834]: 173:1 The Saêna, in later mythology the Sînamrû or Sîmûrgh; his ‘resting-place is on the tree which is Ja<i>d</i>\-bêsh (opposed to harm) of all seeds; and always when he rises aloft, a thousand twigs will shoot forth from that tree; and when he alights, he will break off the thousand twigs, and he sheds their seed therefrom. And the bird Chañmrôsh for ever sits in that vicinity; and his work is this, that he collects that seed which sheds from the tree of all seeds, which is Ja<i>d</i>\-bêsh, and conveys it there where Tishtar seizes the water, so that Tishtar may seize the water with that seed of all kinds, and may rain it on the world with the rain’ (Minokhirad LXII, 37; tr. West).
 
 [^835]: 173:2 By the floods (? Vend. I, 26); it has probably a geographical meaning; cf. the following paragraph; perhaps the marshy country at the mouth of the Tigris.
 
@@ -314,6 +314,6 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 [^848]: 177:1 The highest heaven, the abode of Ormazd.
 
-[^849]: 177:2 ? Upa hadhana hadhanâ tanasu_s_; cf. § 8, [p. 171](#p171), note [^790].
+[^849]: 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i>; cf. § 8, [p. 171](#p171), note [^790].
 
 [^850]: 178:1 Who shall have worshipped Rashnu.

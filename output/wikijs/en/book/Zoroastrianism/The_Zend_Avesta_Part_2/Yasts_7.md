@@ -35,9 +35,9 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p88">[<sup><small>p. 88</small></sup>]</span>
 
-This Ya_s_t to the Moon is recited on the day of the Moon, and on those of Bahman, Gô_s_, and Râm [^430] (Anquetil, II, 185). Bah-man and Gô_s_ are so far connected with the Moon that all three are gao_k_ithra: ‘Bahman [^431], the Moon, and Gô_s_ [^432], all three, are having in them the seed of the bull; Bahman can neither be seen nor seized with the hand; the Moon proceeded from Bahman [^433] and can be seen, but cannot be seized with the hand; Gô_s_ proceeded from the Moon [^434] and can both be seen and seized with the hand [^435].’ Râm is referred to here as being _h__v_âstra, ‘lord of good pastures [^436].’
+This Ya<i>s</i>t to the Moon is recited on the day of the Moon, and on those of Bahman, Gô<i>s</i>, and Râm [^430] (Anquetil, II, 185). Bah-man and Gô<i>s</i> are so far connected with the Moon that all three are gao<i>k</i>ithra: ‘Bahman [^431], the Moon, and Gô<i>s</i> [^432], all three, are having in them the seed of the bull; Bahman can neither be seen nor seized with the hand; the Moon proceeded from Bahman [^433] and can be seen, but cannot be seized with the hand; Gô<i>s</i> proceeded from the Moon [^434] and can both be seen and seized with the hand [^435].’ Râm is referred to here as being <i>h</i><i>v</i>âstra, ‘lord of good pastures [^436].’
 
-Of this Ya_s_t we have translations in Pahlavi, Persian, and Sanskrit (edited in Études Iraniennes, II).
+Of this Ya<i>s</i>t we have translations in Pahlavi, Persian, and Sanskrit (edited in Études Iraniennes, II).
 
 ---
 
@@ -45,7 +45,7 @@ Of this Ya_s_t we have translations in Pahlavi, Persian, and Sanskrit (edited in
 
 Ashem Vohû: Holiness is the best of all good . . . .
 
-I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra, one who hates the Daêvas and obeys the laws of Ahura; For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness . . . .
+I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura; For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness . . . .
 
 Unto the Moon that keeps in it the seed of the <span id="p89">[<sup><small>p. 89</small></sup>]</span> Bull; unto the only-created Bull and unto the Bull [^437] of many species;
 
@@ -53,7 +53,7 @@ Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
 Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-1\. Hail to Ahura Mazda! Hail to the Amesha-Spe_n_tas! Hail to the Moon that keeps in it the seed of the Bull [^438]! Hail to thee when we look at thee! Hail to thee when thou lookest at us [^439]!
+1\. Hail to Ahura Mazda! Hail to the Amesha-Spe<i>n</i>tas! Hail to the Moon that keeps in it the seed of the Bull [^438]! Hail to thee when we look at thee! Hail to thee when thou lookest at us [^439]!
 
 2\. How does the moon wax? How does the moon wane?
 
@@ -61,7 +61,7 @@ For fifteen days does the moon wax [^440]; for fifteen days does the moon wane. 
 
 ‘Who is there but thee [^442] who makes the moon wax and wane [^443]?’ <span id="p90">[<sup><small>p. 90</small></sup>]</span> 3\. We sacrifice unto the Moon that keeps in it the seed of the Bull, the holy and master of holiness.
 
-Here I look at the moon, here I perceive the moon; here I look at the light of the moon, here I perceive the light of the moon. The Amesha-Spe_n_tas stand up [^444], holding its glory; the Amesha-Spe_n_tas stand up, pouring its glory upon the earth, made by Mazda [^445].
+Here I look at the moon, here I perceive the moon; here I look at the light of the moon, here I perceive the light of the moon. The Amesha-Spe<i>n</i>tas stand up [^444], holding its glory; the Amesha-Spe<i>n</i>tas stand up, pouring its glory upon the earth, made by Mazda [^445].
 
 4\. And when the light of the moon waxes warmer, golden-hued plants grow on [^446] from the earth during the spring [^447].
 
@@ -79,7 +79,7 @@ We sacrifice unto the Vîshaptatha, the holy and master of holiness.
 
 Unto the Moon that keeps in it the seed of the Bull, we offer up the libations, the Haoma and meat, the baresma, the wisdom of the tongue, the holy spells, the speech, the deeds, the libations, and the rightly-spoken words.
 
-Yê_n_hê Ham: All those beings of whom Ahura Mazda . . . .
+Yê<i>n</i>hê Ham: All those beings of whom Ahura Mazda . . . .
 
 7\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
@@ -123,11 +123,11 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 [^453]: 88:3 The Genius of Cattle; see Yt. IX.
 
-[^454]: 88:4 Bahman is ‘good thought, good mind,’ Vohu-Manô; in the Vedas the moon is said to have been made out of the mind (manas) of Puru_s_a. For an explanation of that old mystical myth, see Ormazd et Ahriman, p. 74, note 3.
+[^454]: 88:4 Bahman is ‘good thought, good mind,’ Vohu-Manô; in the Vedas the moon is said to have been made out of the mind (manas) of Puru<i>s</i>a. For an explanation of that old mystical myth, see Ormazd et Ahriman, p. 74, note 3.
 
 [^455]: 88:5 See Vend. XXI, 9 \[51\], note 4.
 
-[^456]: 88:6 Pahlavi commentary to this Ya_s_t, I.
+[^456]: 88:6 Pahlavi commentary to this Ya<i>s</i>t, I.
 
 [^457]: 88:7 Vend. Introd. IV, 16, and Études Iraniennes, II, 187 seq.
 
@@ -139,7 +139,7 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 [^461]: 89:4 The Pahlavi translation has the following interesting details: ‘For fifteen days they take good deeds from the earthly creatures and the rewards for virtue from the heavens; for fifteen days they make the rewards pass to the earth and the good deeds pass to the heavens.’ The moon is thus a sort of moral clearing-house between earth and heaven.
 
-[^462]: 89:5 According to the Parsis this waning does not refer to the moon, but to the constellations that help it in the struggle against the planets, which are supposed to belong to the Ahrimanian world (see Ormazd et Ahriman, §§ 223-226): ‘while it waxes—namely, the moon—they wane,—namely, those that are opposed to the planets, to the bad stars; for instance, Haftôiring, Vana_n__d_, Ti_s_tar, Satvês; . . . . while it wanes—namely, the moon—they wax, that is to say, they are strong for doing good.’ Thus the moon and the stars relieve each other in the battle against Ahriman.
+[^462]: 89:5 According to the Parsis this waning does not refer to the moon, but to the constellations that help it in the struggle against the planets, which are supposed to belong to the Ahrimanian world (see Ormazd et Ahriman, §§ 223-226): ‘while it waxes—namely, the moon—they wane,—namely, those that are opposed to the planets, to the bad stars; for instance, Haftôiring, Vana<i>n</i><i>d</i>, Ti<i>s</i>tar, Satvês; . . . . while it wanes—namely, the moon—they wax, that is to say, they are strong for doing good.’ Thus the moon and the stars relieve each other in the battle against Ahriman.
 
 [^463]: 89:6 Ahura.
 
@@ -149,20 +149,20 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 [^466]: 90:2 Cf. Yt. VI, 2.
 
-[^467]: 90:3 Mi_s_ti, meaning sadâ, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09000.jpg) cf. mi-_s_â_k_i.
+[^467]: 90:3 Mi<i>s</i>ti, meaning sadâ, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09000.jpg) cf. mi-<i>s</i>â<i>k</i>i.
 
 [^468]: 90:4 Zaremaêm, meaning vasantamâse, 09001
 
-[^469]: 90:5 New moon and full moon are not used here in the English meaning: the month was divided into six parts, of five days each (the Norse fimt or five days’ week; see Vigfusson, Icelandic Dictionary, s. v.): the first five days (pan_k_ak fartûm) formed the new moon or a_n_tare-m_a__u_ngha, literally ‘the moon within;’ the next five days (pan_k_ak datîgar) formed the perenô-m_a__u_ngha, literally ‘the moon full,’ which in fact partly answered to our first quarter; the next five days (pan_k_ak sitîgar), belonging to the full moon, were called the Vîshaptatha; no mention is made of the last three pan_k_ak, forming the second half of the month. It may be they were not mentioned, as belonging to the waning period, when the powers of the moon are suffering an eclipse. Cf. Neriosengh to Yasna I, (23.)
+[^469]: 90:5 New moon and full moon are not used here in the English meaning: the month was divided into six parts, of five days each (the Norse fimt or five days’ week; see Vigfusson, Icelandic Dictionary, s. v.): the first five days (pan<i>k</i>ak fartûm) formed the new moon or a<i>n</i>tare-m<i>a</i><i>u</i>ngha, literally ‘the moon within;’ the next five days (pan<i>k</i>ak datîgar) formed the perenô-m<i>a</i><i>u</i>ngha, literally ‘the moon full,’ which in fact partly answered to our first quarter; the next five days (pan<i>k</i>ak sitîgar), belonging to the full moon, were called the Vîshaptatha; no mention is made of the last three pan<i>k</i>ak, forming the second half of the month. It may be they were not mentioned, as belonging to the waning period, when the powers of the moon are suffering an eclipse. Cf. Neriosengh to Yasna I, (23.)
 
 [^470]: 91:1 Or possessing: giving may be replaced by possessing in this word as in the following.
 
-[^471]: 91:2 Vare_k_angha_n_tem: dânâk (Phl.); _g__ñ_ânitaram (Sansk.).
+[^471]: 91:2 Vare<i>k</i>angha<i>n</i>tem: dânâk (Phl.); <i>g</i><i>ñ</i>ânitaram (Sansk.).
 
-[^472]: 91:3 Kh_s_tâva_n_tem: lakshmîvantam (Sansk.).
+[^472]: 91:3 Kh<i>s</i>tâva<i>n</i>tem: lakshmîvantam (Sansk.).
 
-[^473]: 91:4 Yaokh_s_tiva_n_tem, ‘pondering on what good is to be done’ (vi_k_âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
+[^473]: 91:4 Yaokh<i>s</i>tiva<i>n</i>tem, ‘pondering on what good is to be done’ (vi<i>k</i>âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
 
-[^474]: 91:5 Zairimyâva_n_tem: haritavar_n_avantam, kila p_ri_thivî(m) sârdratarâm karoti (Sansk.).
+[^474]: 91:5 Zairimyâva<i>n</i>tem: haritavar<i>n</i>avantam, kila p<i>ri</i>thivî(m) sârdratarâm karoti (Sansk.).
 
-[^475]: 91:6 Vohvâva_n_tern: uttamasam.iddhimantam (Sansk.).
+[^475]: 91:6 Vohvâva<i>n</i>tern: uttamasam.iddhimantam (Sansk.).

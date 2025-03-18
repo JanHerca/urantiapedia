@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-1 [^1526]. Hail to Ahura Mazda! Hail to the Amesha-Spe_n_tas! Hail to the Moon that keeps in it the seed of the Bull! Hail to thee when we look at thee! Hail to thee when thou lookest at us!
+1 [^1526]. Hail to Ahura Mazda! Hail to the Amesha-Spe<i>n</i>tas! Hail to the Moon that keeps in it the seed of the Bull! Hail to thee when we look at thee! Hail to thee when thou lookest at us!
 
 2 [^1527]. Unto the Moon that keeps in it the seed of the Bull; unto the only-created Bull and unto the Bull of many species;
 
@@ -86,8 +86,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1597]: 355:2 § 1 = Mâh Ya_s_t, § 1.
+[^1597]: 355:2 § 1 = Mâh Ya<i>s</i>t, § 1.
 
-[^1598]: 355:3 §§ 2-9 = Mâh Ya_s_t.
+[^1598]: 355:3 §§ 2-9 = Mâh Ya<i>s</i>t.
 
 [^1599]: 355:4 §§ 10-11; cf. Yt. XXIV, 6-8.

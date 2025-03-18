@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-## YASNA LVII (SP. LVI). THE SRÔSH YA_S_T 
+## YASNA LVII (SP. LVI). THE SRÔSH YA<i>S</i>T 
 
 [^1238].
 
@@ -48,7 +48,7 @@ Propitiation be to Sraosha, Obedience the blessed, the mighty, the incarnate wor
 
 3\. For his splendour and his glory, for his might, and the blow which smites with victory, I will worship him with the Yasna of the Yazads, with a Yasna loud intoned, him Obedience the blessed, with the consecrated waters, and the good Blessedness, the lofty, and Nairya-sangha, the stately; and may he draw near to us to aid us, he who smites with victory, Obedience the blessed!
 
-4\. We worship Sraosha, Obedience the blessed, and that lofty Lord who is Ahura Mazda Himself, Him who has attained the most to this our ritual, Him who has approached the nearest to us in our celebrations. And we worship all the words of Zarathu_s_tra, and all the deeds well done (for him), both those that have been done (in times gone by), <span id="p299">[<sup><small>p. 299</small></sup>]</span> and those which are yet to be done (for him in times to come).
+4\. We worship Sraosha, Obedience the blessed, and that lofty Lord who is Ahura Mazda Himself, Him who has attained the most to this our ritual, Him who has approached the nearest to us in our celebrations. And we worship all the words of Zarathu<i>s</i>tra, and all the deeds well done (for him), both those that have been done (in times gone by), <span id="p299">[<sup><small>p. 299</small></sup>]</span> and those which are yet to be done (for him in times to come).
 
 ## II.
 
@@ -60,7 +60,7 @@ For his splendour and his glory, for his might, and the blow which smites with v
 
 7\. We worship Sraosha (Obedience) the blessed, the stately, who smites with the blow of victory, who furthers the settlements, the holy ritual chief.
 
-8\. Who first chanted the Gâthas, the five [^1243] Gâthas of Zarathu_s_tra, the Spitâma, the holy (with the fashion) of their metres [^1244], and after the well-constructed order of their words, together with the Zand which they contain, and the questions [^1245] which they <span id="p300">[<sup><small>p. 300</small></sup>]</span> utter, and the answers which they give, for the Bountiful Immortals, for their sacrifice and homage, their propitiation, and their praise.
+8\. Who first chanted the Gâthas, the five [^1243] Gâthas of Zarathu<i>s</i>tra, the Spitâma, the holy (with the fashion) of their metres [^1244], and after the well-constructed order of their words, together with the Zand which they contain, and the questions [^1245] which they <span id="p300">[<sup><small>p. 300</small></sup>]</span> utter, and the answers which they give, for the Bountiful Immortals, for their sacrifice and homage, their propitiation, and their praise.
 
 For his splendour and his glory, for his might . . . .
 
@@ -128,7 +128,7 @@ For his splendour and his glory, for his might . . . .
 
 ## XII.
 
-30\. We worship Obedience the blessed and the stately, who though lofty and so high, yea, even to the girdle, yet stoops to Mazda's creatures, (31) who thrice within the day, and three times of a night, will drive on to that Karshvar _H__v_aniratha, called the luminous, as he holds in both the hands [^1269] and poizes his knife-like battle-axe, which flies as of itself, and to cleave the Daêvas’ skulls, (32) to hew down Angra Mainyu, the wicked, and to hew down Rapine of the bloody spear, to hew down the Daêvas of Mazendran [^1270], and every Demon-god.
+30\. We worship Obedience the blessed and the stately, who though lofty and so high, yea, even to the girdle, yet stoops to Mazda's creatures, (31) who thrice within the day, and three times of a night, will drive on to that Karshvar <i>H</i><i>v</i>aniratha, called the luminous, as he holds in both the hands [^1269] and poizes his knife-like battle-axe, which flies as of itself, and to cleave the Daêvas’ skulls, (32) to hew down Angra Mainyu, the wicked, and to hew down Rapine of the bloody spear, to hew down the Daêvas of Mazendran [^1270], and every Demon-god.
 
 For his splendour and his glory, for his might . . . .
 
@@ -136,7 +136,7 @@ For his splendour and his glory, for his might . . . .
 
 33\. We worship Sraosha (Obedience) the blessed and the stately, him who smites with victory, both here and not here, and on this entire earth. And we worship all the (gifts) of Sraosha (Obedience) the blessed, the mighty, and the strong, whose body is the Mãthra.
 
-Yea, we worship (all the martial gifts) of Sraosha (Obedience) the mighty, both armed with shielding armour, and a warrior strong of hand, skull-cleaver of the Daêvas, conquering the endowments [^1271] of the conqueror, the holy conqueror of the conqueror, and (his) victorious powers, and the Ascendency which it bestows, and we worship <span id="p306">[<sup><small>p. 306</small></sup>]</span> this Ascendency of Sraosha's (the same which conquers theirs); and that of Ar_s_ti do we praise as well. 34. And every house by Sraosha guarded do we worship, wherein the blessed friendly Sraosha is befriended and made welcome, where, the holy man is far advanced (?) in holy thoughts, and righteous words and deeds.
+Yea, we worship (all the martial gifts) of Sraosha (Obedience) the mighty, both armed with shielding armour, and a warrior strong of hand, skull-cleaver of the Daêvas, conquering the endowments [^1271] of the conqueror, the holy conqueror of the conqueror, and (his) victorious powers, and the Ascendency which it bestows, and we worship <span id="p306">[<sup><small>p. 306</small></sup>]</span> this Ascendency of Sraosha's (the same which conquers theirs); and that of Ar<i>s</i>ti do we praise as well. 34. And every house by Sraosha guarded do we worship, wherein the blessed friendly Sraosha is befriended and made welcome, where, the holy man is far advanced (?) in holy thoughts, and righteous words and deeds.
 
 For his splendour and his glory, for his might, which smites with victory, I will worship him with the Yasna of the Yazads, with a Yasna loud-intoned, him Obedience the blessed, with the consecrated waters, and the good Blessedness, the lofty, and Nairya-sangha, the stately, and may he come to us to aid us, he who smites with victory, Obedience the blessed!
 
@@ -168,21 +168,21 @@ For his splendour and his glory, for his might, which smites with victory, I wil
 
 ## Footnotes
 
-[^1248]: 297:4 As Sraosha is the only divinity of the later groups mentioned in the first four Gâthas, this Ya_s_t would seem to have claims to antiquity next after the pieces in the Gâthic dialect. The name Sraosha does not appear to have lost its meaning as an abstract quality, notwithstanding the materialistic imagery. With Y. XXVIII, 6 in view, where Sraosha ‘finds the way’ to Ahura, or ‘finds His throne,’ we may understand that the worshippers, who first heard this Ya_s_t, praised listening obedience, or repentance, as they did nearly all the remaining abstract qualities, together with their principal prayers, and hymns themselves. The rhythm of the original has been somewhat imitated in the rendering given, as it is difficult to avoid doing so, and to avoid other objectionable features at the same time.
+[^1248]: 297:4 As Sraosha is the only divinity of the later groups mentioned in the first four Gâthas, this Ya<i>s</i>t would seem to have claims to antiquity next after the pieces in the Gâthic dialect. The name Sraosha does not appear to have lost its meaning as an abstract quality, notwithstanding the materialistic imagery. With Y. XXVIII, 6 in view, where Sraosha ‘finds the way’ to Ahura, or ‘finds His throne,’ we may understand that the worshippers, who first heard this Ya<i>s</i>t, praised listening obedience, or repentance, as they did nearly all the remaining abstract qualities, together with their principal prayers, and hymns themselves. The rhythm of the original has been somewhat imitated in the rendering given, as it is difficult to avoid doing so, and to avoid other objectionable features at the same time.
 
 [^1249]: 298:1 So ‘tradition.’
 
 [^1250]: 298:2 Sraosha was not reckoned as one of the Ameshôspends at the time of the composition of this verse.
 
-[^1251]: 298:3 Comp. Y. XXX, 4; but Ahura and some one of the Immortals, or possibly Zarathu_s_tra (see Y. XLII, 2), must be meant here. Angra Mainyu could not have been worshipped as either protector or creator. Observe the present tense.
+[^1251]: 298:3 Comp. Y. XXX, 4; but Ahura and some one of the Immortals, or possibly Zarathu<i>s</i>tra (see Y. XLII, 2), must be meant here. Angra Mainyu could not have been worshipped as either protector or creator. Observe the present tense.
 
 [^1252]: 299:1 Le Barsom est de cinq branches dans les Darouns ordinaires. Il est de sept branches pour le Daroun No naber, pour le Freoueschi, et pour le Gâhânbâr. Il est de neuf branches pour le Daroun des Rois, et pour celui du Mobed des Mobeds (Anquetil).
 
-[^1253]: 299:2 This proves that the Gâthas were greatly older than this Ya_s_t. That the Gâthas were originally five seems improbable; yet they had become reduced to that number at this time.
+[^1253]: 299:2 This proves that the Gâthas were greatly older than this Ya<i>s</i>t. That the Gâthas were originally five seems improbable; yet they had become reduced to that number at this time.
 
 [^1254]: 299:3 Nom. sing.?
 
-[^1255]: 299:4 Comp. ta_t_ thwâ peresâ, &c.; ‘questions back and forth.’
+[^1255]: 299:4 Comp. ta<i>t</i> thwâ peresâ, &c.; ‘questions back and forth.’
 
 [^1256]: 300:1 One of the earliest notices of the kind.
 
@@ -190,18 +190,18 @@ For his splendour and his glory, for his might, which smites with victory, I wil
 
 [^1258]: 300:3 This is possibly the origin of a later view which established Sraosha as one of the Immortals, to fill up the number seven without including Ahura. The original ‘seven spirits’ included Ahura.
 
-[^1259]: 301:1 = kat-tare_s_temem, comp. for form katpayâ´m.
+[^1259]: 301:1 = kat-tare<i>s</i>temem, comp. for form katpayâ´m.
 
 [^1260]: 301:2 Possibly an ancient interpolation. Repetitions are curtailed.
 
-[^1261]: 301:3 This verse 14 may be an ancient extension of the Ya_s_t; it may of course be taken for granted that within a certain period at a very remote time, the Ya_s_t was altered and improved.
+[^1261]: 301:3 This verse 14 may be an ancient extension of the Ya<i>s</i>t; it may of course be taken for granted that within a certain period at a very remote time, the Ya<i>s</i>t was altered and improved.
   Verse 16 may have originally formed two sections; the formula ‘we worship,’ &c. having been omitted.
 
 [^1262]: 302:1 This seems a gloss; its import is correct.
 
 [^1263]: 302:2 The renovator, as completing the progress which makes things fresh, frashôkereti.
 
-[^1264]: 302:3 Possibly compare soma râ´_g_an; but see the following adjective, and read as alternative ‘brilliant.’
+[^1264]: 302:3 Possibly compare soma râ´<i>g</i>an; but see the following adjective, and read as alternative ‘brilliant.’
 
 [^1265]: 302:4 Possibly ‘who excites to much speech.’
 
@@ -223,16 +223,16 @@ For his splendour and his glory, for his might, which smites with victory, I wil
 
 [^1274]: 304:2 So the Pahlavi and Ner. See also Y. IX, 21.
 
-[^1275]: 304:3 Spe_n_ta can hardly mean ‘holy’ here.
+[^1275]: 304:3 Spe<i>n</i>ta can hardly mean ‘holy’ here.
 
 [^1276]: 304:4 Âsava for asaya(?); ‘y’ miswritten for ‘v.’ Comp. gâtava (form).
 
-[^1277]: 304:5 Reading anghamanay_a_u for aNhê manay_a_u; otherwise, 'swifter than one's thought' (?).
+[^1277]: 304:5 Reading anghamanay<i>a</i>u for aNhê manay<i>a</i>u; otherwise, 'swifter than one's thought' (?).
 
 [^1278]: 304:6 Lit. ‘not those after overtake.’ Possibly ‘these who all overtake those who fly with turned backs, who are not overtaken from behind.’
 
-[^1279]: 305:1 Snaithi_s_ must designate a two-handed weapon.
+[^1279]: 305:1 Snaithi<i>s</i> must designate a two-handed weapon.
 
 [^1280]: 305:2 Observe how far West the word Daêva is applied; also, if Hindvô is not in a gloss in verse 29, the fact proves that a vast geographical extent was familiar to the writers of the Avesta.
 
-[^1281]: 305:3 Vanaitî_s_, fem. as vîsp_a_u refers to attributes celebrated in the Ya_s_t.
+[^1281]: 305:3 Vanaitî<i>s</i>, fem. as vîsp<i>a</i>u refers to attributes celebrated in the Ya<i>s</i>t.

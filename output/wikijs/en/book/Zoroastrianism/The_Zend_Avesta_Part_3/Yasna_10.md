@@ -68,7 +68,7 @@ Who as a tender son caresses H(a)oma, forth to the bodies of such persons H(a)om
 
 14\. Do not vanish from me suddenly like milk-drops in the rain; let thine exhilarations go forth ever vigorous and fresh; and let them come to me with strong effect. Before thee, holy H(a)oma, thou bearer of the ritual truth, and around thee would I cast this body, a body which (as all) may see (is fit for gift and) grown [^1002].
 
-15\. I renounce with vehemence the murderous woman's [^1003] emptiness, the _G_aini's, hers, with intellect <span id="p243">[<sup><small>p. 243</small></sup>]</span> dethroned [^1004]. She vainly thinks to foil us, and would beguile both Fire-priest and H(a)oma; but she herself, deceived therein, shall perish. And when she sits at home [^1005], and wrongly eats of H(a)oma's offering, priest's mother will that never make her, nor give her holy [^1006] sons!
+15\. I renounce with vehemence the murderous woman's [^1003] emptiness, the <i>G</i>aini's, hers, with intellect <span id="p243">[<sup><small>p. 243</small></sup>]</span> dethroned [^1004]. She vainly thinks to foil us, and would beguile both Fire-priest and H(a)oma; but she herself, deceived therein, shall perish. And when she sits at home [^1005], and wrongly eats of H(a)oma's offering, priest's mother will that never make her, nor give her holy [^1006] sons!
 
 ---
 
@@ -78,7 +78,7 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 ---
 
-17\. Thereupon spake Zarathu_s_tra: Praise to H(a)oma, Mazda-made. Good is H(a)oma, Mazda-made. All the plants of H(a)oma praise I, on the heights of lofty mountains, in the gorges of the valleys, in the clefts (of sundered hill-sides) cut for the bundles bound by women. From the silver cup I pour Thee to the golden chalice over [^1008]. Let me not thy (sacred) liquor spill to earth, of precious cost.
+17\. Thereupon spake Zarathu<i>s</i>tra: Praise to H(a)oma, Mazda-made. Good is H(a)oma, Mazda-made. All the plants of H(a)oma praise I, on the heights of lofty mountains, in the gorges of the valleys, in the clefts (of sundered hill-sides) cut for the bundles bound by women. From the silver cup I pour Thee to the golden chalice over [^1008]. Let me not thy (sacred) liquor spill to earth, of precious cost.
 
 18\. These are thy Gâthas [^1009], holy H(a)oma, these <span id="p244">[<sup><small>p. 244</small></sup>]</span> thy songs, and these thy teachings [^1010], and these thy truthful ritual words, health [^1011]\-imparting, victory-giving, from harmful hatred healing giving.
 
@@ -86,7 +86,7 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 20\. Praise to the Kine; praise and victory (be) spoken to her! Food for the Kine, and pasture! ‘For the Kine let thrift use toil; yield thou us food [^1012].’
 
-21\. We worship the yellow lofty one; we worship H(a)oma who causes progress, who makes the settlements advance; we worship H(a)oma who drives death afar; yea, we worship all the H(a)oma plants. And we worship (their) blessedness, and the Fravashi of Zarathu_s_tra Spitâma, the saint [^1013].
+21\. We worship the yellow lofty one; we worship H(a)oma who causes progress, who makes the settlements advance; we worship H(a)oma who drives death afar; yea, we worship all the H(a)oma plants. And we worship (their) blessedness, and the Fravashi of Zarathu<i>s</i>tra Spitâma, the saint [^1013].
 
 
 
@@ -116,9 +116,9 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 ## Footnotes
 
-[^1000]: 240:1 The Pahlavi as corrected by the MS. of Dastur Hoshang_g_i _G_âmâsp_g_i has barâ akhar min latamman pa_d_ênd barâ shêdâ-; Ner. _Ri_te pa_s__k_ât asmât prapatanti, _ri_te devâ_h_ _ri_te devasahâyâ_h_ devyâ_h_, uttama_h_ _S_ro_s_o nivasati.
+[^1000]: 240:1 The Pahlavi as corrected by the MS. of Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i has barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i><i>k</i>ât asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati.
 
-[^1001]: 240:2 Or, ‘where, O Haoma! thou hast grown,’ reading—i_s_a with Barth. as 2nd sing. perf. pret. middle.
+[^1001]: 240:2 Or, ‘where, O Haoma! thou hast grown,’ reading—i<i>s</i>a with Barth. as 2nd sing. perf. pret. middle.
 
 [^1002]: 240:3 Or, ‘on the pathways of the birds.’
 
@@ -130,11 +130,11 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 [^1006]: 242:2 Elsewhere and here also possibly a proper name.
 
-[^1007]: 242:3 Or the ‘pathways of the birds;’ so Haug, following Spiegel and Justi. Gu_g_rati, as above.
+[^1007]: 242:3 Or the ‘pathways of the birds;’ so Haug, following Spiegel and Justi. Gu<i>g</i>rati, as above.
 
 [^1008]: 242:4 Which is seen as mine well-grown.
 
-[^1009]: 242:5 _G_aini seems always used in an evil sense in the later Avesta.
+[^1009]: 242:5 <i>G</i>aini seems always used in an evil sense in the later Avesta.
 
 [^1010]: 243:1 I would correct to a form of khratu.
 
@@ -146,11 +146,11 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 [^1014]: 243:5 Here the priest evidently manipulates the cups containing the Haoma-juice.
 
-[^1015]: 243:6 The application of this term here seems to point to a high antiquity for the Haoma Ya_s_t; if not in the present piece, which is not so old as the Gâthas, then in previous hymns to Haoma of which this Ya_s_t is an improvement, or extension.
+[^1015]: 243:6 The application of this term here seems to point to a high antiquity for the Haoma Ya<i>s</i>t; if not in the present piece, which is not so old as the Gâthas, then in previous hymns to Haoma of which this Ya<i>s</i>t is an improvement, or extension.
 
-[^1016]: 244:1 Ner. possibly figuratively yâ_h_ ka_s__k_it asvâdanâ_h_.
+[^1016]: 244:1 Ner. possibly figuratively yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>.
 
-[^1017]: 244:2 Ner. saundarya_m_.
+[^1017]: 244:2 Ner. saundarya<i>m</i>.
 
 [^1018]: 244:3 See Y. XLVIII, 5.
 

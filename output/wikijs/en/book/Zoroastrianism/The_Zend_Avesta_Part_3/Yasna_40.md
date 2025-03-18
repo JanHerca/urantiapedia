@@ -80,6 +80,6 @@ So may we be to You, O Mazda Ahura! holy and true [^1207], and with free giving 
 
 [^1215]: 289:4 May we be rejoicing(?).
 
-[^1216]: 289:5 Hakh_e_mã (= -a) replacing the airyaman of the Gâthas, and throwing light upon its meaning. The form is irregular.
+[^1216]: 289:5 Hakh<i>e</i>mã (= -a) replacing the airyaman of the Gâthas, and throwing light upon its meaning. The form is irregular.
 
-[^1217]: 289:6 Or, ‘holy _ri_shis’ (ereshayô?).
+[^1217]: 289:6 Or, ‘holy <i>ri</i>shis’ (ereshayô?).

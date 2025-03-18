@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA XIII (SP. XIV). INVOCATIONS AND DEDICATIONS.
 
-1\. I address (my invocation to) Ahura Mazda. And I invoke (among guardian beings) the chief [^1045] of <span id="p251">[<sup><small>p. 251</small></sup>]</span> the house-lord, and the chief of the Vîs-lord [^1046], and the chief of the Za_n_tu-lord [^1047]. And I invoke the chief of the province-lord [^1048]. And the chief of women I invoke, the Mazdayasnian Faith, the blessed and good Pare_n_di [^1049], her who is the holy one of human-kind [^1050]. And I invoke this (holy) earth which bears us.
+1\. I address (my invocation to) Ahura Mazda. And I invoke (among guardian beings) the chief [^1045] of <span id="p251">[<sup><small>p. 251</small></sup>]</span> the house-lord, and the chief of the Vîs-lord [^1046], and the chief of the Za<i>n</i>tu-lord [^1047]. And I invoke the chief of the province-lord [^1048]. And the chief of women I invoke, the Mazdayasnian Faith, the blessed and good Pare<i>n</i>di [^1049], her who is the holy one of human-kind [^1050]. And I invoke this (holy) earth which bears us.
 
 2\. And I invoke the friendly and most helpful person's [^1051] lord, the Fire of Ahura Mazda, and also the most energetic lords of holy men, those who are most strenuous [^1052] in their care of cattle and the fields, and the chief of the thrifty tiller of the earth. And I invoke the steady settler [^1053] of sanctity, (and) the chief of the charioteer.
 
@@ -50,11 +50,11 @@ Thus [^1055] the two spirits [^1056] thought, thus they spoke, and thus they did
 
 6\. By the kinship of the good kindred [^1057], by that of Righteousness the good (Thy righteous servant's nature) would we approach Thee, and by that of the good thrift-law, and of Piety the good.
 
-7\. And we would worship the Fravashi of the Kine of blessed gift [^1058], and that of the holy Gaya Maretan, and we would worship the holy Fravashi [^1059] <span id="p253">[<sup><small>p. 253</small></sup>]</span> of Zarathu_s_tra Spitâma, the saint. Yea, that one of beings do we worship whose better (service) in the sacrifice Ahura Mazda knows; (even those women do we worship) whose [^1060] (better service thus is known). Yea, both (holy) men and women (do we worship whom Ahura Mazda knows [^1061]). As the Ahû is excelling, so is our Ratu, one who rules from the Righteous Order, a creator of mental goodness, and of life's actions done for Mazda; and the Kingdom is to Ahura which to the poor (may offer) nurture [^1061].
+7\. And we would worship the Fravashi of the Kine of blessed gift [^1058], and that of the holy Gaya Maretan, and we would worship the holy Fravashi [^1059] <span id="p253">[<sup><small>p. 253</small></sup>]</span> of Zarathu<i>s</i>tra Spitâma, the saint. Yea, that one of beings do we worship whose better (service) in the sacrifice Ahura Mazda knows; (even those women do we worship) whose [^1060] (better service thus is known). Yea, both (holy) men and women (do we worship whom Ahura Mazda knows [^1061]). As the Ahû is excelling, so is our Ratu, one who rules from the Righteous Order, a creator of mental goodness, and of life's actions done for Mazda; and the Kingdom is to Ahura which to the poor (may offer) nurture [^1061].
 
 A blessing is the Right called the best, there is weal, there is weal to this (man), when toward Righteousness Best (he does) right [^1061].
 
-8\. We worship the Ahuna-vairya; and we worship Asha Vahi_s_ta the best(?), the bountiful Immortal. And we sacrifice to the Hâ fraoreti, even to the confession and laudation of the Mazdayasnian Faith!
+8\. We worship the Ahuna-vairya; and we worship Asha Vahi<i>s</i>ta the best(?), the bountiful Immortal. And we sacrifice to the Hâ fraoreti, even to the confession and laudation of the Mazdayasnian Faith!
 
 
 
@@ -88,9 +88,9 @@ A blessing is the Right called the best, there is weal, there is weal to this (m
 
 [^1052]: 251:1 Vîsya.
 
-[^1053]: 251:2 Za_n_tuma.
+[^1053]: 251:2 Za<i>n</i>tuma.
 
-[^1054]: 251:3 Da_h__v_yuma = Dahyuma.
+[^1054]: 251:3 Da<i>h</i><i>v</i>yuma = Dahyuma.
 
 [^1055]: 251:4 The goddess of riches.
 
@@ -98,7 +98,7 @@ A blessing is the Right called the best, there is weal, there is weal to this (m
 
 [^1057]: 251:6 Or, ‘households.’
 
-[^1058]: 251:7 Ashethwôzgatemã (several manuscripts have ashe) finds its explanation from the Pahlavi of Dastur Hoshang_g_i _G_âmâsp_g_i's MS. it may be read kabed ran_g_ rasi_s_ntûm instead of kabed yôm rasi_s_ntûm. The ancient error of yôm arose from the fact that the copyist had before him a form which might be read either rô_g_ or ran_g_, the characters being identical for either word. He could not reconcile himself to ran_g_ in the sense of effort, and so decided for rô_g_; but in order to guide his successors aright, he changed it for its synonym yôm, which, as Spiegel well remarks, affords but little sense. But the word is ran_g_, as I believe, and this is at once corroborated by Ner.'s bahukle_s_a. Read a_s_ + thwakh_s_a + gatemã = kabed + ran_g_ + rasi_s_ntûm, the most progressing with painful energy.
+[^1058]: 251:7 Ashethwôzgatemã (several manuscripts have ashe) finds its explanation from the Pahlavi of Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i's MS. it may be read kabed ran<i>g</i> rasi<i>s</i>ntûm instead of kabed yôm rasi<i>s</i>ntûm. The ancient error of yôm arose from the fact that the copyist had before him a form which might be read either rô<i>g</i> or ran<i>g</i>, the characters being identical for either word. He could not reconcile himself to ran<i>g</i> in the sense of effort, and so decided for rô<i>g</i>; but in order to guide his successors aright, he changed it for its synonym yôm, which, as Spiegel well remarks, affords but little sense. But the word is ran<i>g</i>, as I believe, and this is at once corroborated by Ner.'s bahukle<i>s</i>a. Read a<i>s</i> + thwakh<i>s</i>a + gatemã = kabed + ran<i>g</i> + rasi<i>s</i>ntûm, the most progressing with painful energy.
 
 [^1059]: 251:8 Or, ‘steadiest forces.’
 
@@ -110,7 +110,7 @@ A blessing is the Right called the best, there is weal, there is weal to this (m
 
 [^1063]: 252:4 Or, ‘of the good kinsman, the lord (?).’
 
-[^1064]: 252:5 Elsewhere meaning ‘meat,’ just as Ameretatâ_t_ and Haurvatâ_t_ mean wood and water.
+[^1064]: 252:5 Elsewhere meaning ‘meat,’ just as Ameretatâ<i>t</i> and Haurvatâ<i>t</i> mean wood and water.
 
 [^1065]: 252:6 Or, ‘sanctity and the Fravashi.’
 

@@ -32,7 +32,9 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
+[^1091].
 
+1\. Accorde-moi, Toi qui es créateur du Veau, des plantes et des eaux, l'Immortalité, Mazda ! Accorde aussi, Bien-être, Esprit généreux.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-3-16T22:11:40Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1100]: 259:4 Voir Y. LI, 7, et Y. XLVII.

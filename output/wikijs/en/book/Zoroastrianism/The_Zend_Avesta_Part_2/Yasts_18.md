@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p283">[<sup><small>p. 283</small></sup>]</span>
 
-Ar_s_tâ_t_ is Truthfulness: she is invoked in company with the Genius of Truth, Rashnu Razi_s_ta (Sîrôzah, § 18), on the day Rashn. On the day especially dedicated to her, the 26th day of the month, she is invoked in company with Mount Ushi-darena, which accounts for the singular fact that her Ya_s_t is wholly devoted to the _H__v_arenô, and thus is hardly distinguishable from the Zamyâd Ya_s_t, as Mount Ushi-darena is the actual seat of the _H__v_arenô (Yt. I, 31, text and note; cf. Yt. XIX, 66). Whence comes this particular connection of Ar_s_tâ_t_ with Mount Ushi-darena is uncertain, unless it alludes to the fact that the possession of the _H__v_arenô can be secured only through truthfulness: as soon as Yima ‘began to find delight in words of falsehood and untruth,’ the _H__v_arenô flew away from him (Yt. XIX, 34).
+Ar<i>s</i>tâ<i>t</i> is Truthfulness: she is invoked in company with the Genius of Truth, Rashnu Razi<i>s</i>ta (Sîrôzah, § 18), on the day Rashn. On the day especially dedicated to her, the 26th day of the month, she is invoked in company with Mount Ushi-darena, which accounts for the singular fact that her Ya<i>s</i>t is wholly devoted to the <i>H</i><i>v</i>arenô, and thus is hardly distinguishable from the Zamyâd Ya<i>s</i>t, as Mount Ushi-darena is the actual seat of the <i>H</i><i>v</i>arenô (Yt. I, 31, text and note; cf. Yt. XIX, 66). Whence comes this particular connection of Ar<i>s</i>tâ<i>t</i> with Mount Ushi-darena is uncertain, unless it alludes to the fact that the possession of the <i>H</i><i>v</i>arenô can be secured only through truthfulness: as soon as Yima ‘began to find delight in words of falsehood and untruth,’ the <i>H</i><i>v</i>arenô flew away from him (Yt. XIX, 34).
 
 ---
 
@@ -42,7 +42,7 @@ Ar_s_tâ_t_ is Truthfulness: she is invoked in company with the Genius of Truth,
 
 Ashem Vohû: Holiness is the best of all good . . . .
 
-I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra, one who hates the Daêvas and obeys the laws of Ahura;
+I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura;
 
 For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness . . . .
 
@@ -50,7 +50,7 @@ Unto the Glory of the Aryans, made by Mazda, Be propitiation, with sacrifice, pr
 
 Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
-1\. Ahura Mazda spake unto Spitama Zarathu_s_tra, saying: 'I made the Aryan Glory, rich in food, rich in flocks, rich in wealth [^1190], rich in Glory; provided with full store of intelligence, with full store of money, to withstand Need, and to withstand enemies. <span id="p284">[<sup><small>p. 284</small></sup>]</span> 2\. 'It destroys Angra Mainyu, who is all death: it destroys Aêshma, the fiend of the wounding spear [^1191]; it destroys the yellow Bûshyãsta [^1192]; it destroys the contagion [^1193] of Aêkha [^1194]; it destroys the fiend of death, Apaosha [^1195]; it destroys the non-Aryan nations.
+1\. Ahura Mazda spake unto Spitama Zarathu<i>s</i>tra, saying: 'I made the Aryan Glory, rich in food, rich in flocks, rich in wealth [^1190], rich in Glory; provided with full store of intelligence, with full store of money, to withstand Need, and to withstand enemies. <span id="p284">[<sup><small>p. 284</small></sup>]</span> 2\. 'It destroys Angra Mainyu, who is all death: it destroys Aêshma, the fiend of the wounding spear [^1191]; it destroys the yellow Bûshyãsta [^1192]; it destroys the contagion [^1193] of Aêkha [^1194]; it destroys the fiend of death, Apaosha [^1195]; it destroys the non-Aryan nations.
 
 3\. 'And I made the great Ashi Vanguhi; she comes in, amid the family; she comes in, inside the fine royal palace [^1196].
 
@@ -58,11 +58,11 @@ Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
 ‘With all sorts of flocks, with all victory, with all intelligence, with all Glory, the great Ashi Vanguhi puts one foot [^1198] inside his family; she comes in, inside his fine royal palace.
 
-5\. 'Horses multiply a thousandfold, flocks multiply a thousandfold; and so does his virtuous offspring, (as) the bright, glorious star Ti_s_trya moves on equally [^1199], and so does the strong wind made by Mazda, and so does the Glory of the Aryas.
+5\. 'Horses multiply a thousandfold, flocks multiply a thousandfold; and so does his virtuous offspring, (as) the bright, glorious star Ti<i>s</i>trya moves on equally [^1199], and so does the strong wind made by Mazda, and so does the Glory of the Aryas.
 
 6\. 'And they bring increase on the tops of all mountains, down the depths of all vales; they bring increase to all the growing plants [^1200], the fair, the golden-hued. And they bring (away) [^1201] the contagion <span id="p285">[<sup><small>p. 285</small></sup>]</span> of Aêkha, they bring (away) the fiend of death, Apaosha.
 
-7\. 'Hail to the bright and glorious star Ti_s_trya! Hail to the strong wind, made by Mazda! Hail to the Glory of the Aryas!
+7\. 'Hail to the bright and glorious star Ti<i>s</i>trya! Hail to the strong wind, made by Mazda! Hail to the Glory of the Aryas!
 
 ‘Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
@@ -70,15 +70,15 @@ Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
 8\. 'We worship the Ahuna Vairya.
 
-‘We worship Asha-Vahi_s_ta, the fairest Amesha Spe_n_ta.
+‘We worship Asha-Vahi<i>s</i>ta, the fairest Amesha Spe<i>n</i>ta.
 
 ‘We worship the rightly-spoken Words [^1202], fiend-smiting and healing.
 
 ‘We worship the healing, well-spoken Words, the fiend-smiting.
 
-‘We worship the Mãthra Spe_n_ta and the Law of Mazda, and (piety) that delights in Haoma [^1203]. We worship the Glory of the Aryas.
+‘We worship the Mãthra Spe<i>n</i>ta and the Law of Mazda, and (piety) that delights in Haoma [^1203]. We worship the Glory of the Aryas.
 
-‘Yê_n_hê hâtãm: All those beings of whom Ahura Mazda . . . .
+‘Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 9\. 'Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
@@ -140,8 +140,8 @@ Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
 [^1263]: 284:11 Cf. § 2.
 
-[^1264]: 285:1 Arshukhdha va_k_ô, the words conformable to the rites.
+[^1264]: 285:1 Arshukhdha va<i>k</i>ô, the words conformable to the rites.
 
-[^1265]: 285:2 Haoma_k_inem; see Études Iraniennes, II, 148.
+[^1265]: 285:2 Haoma<i>k</i>inem; see Études Iraniennes, II, 148.
 
 [^1266]: 285:3 Who shall have sacrificed to the Aryan Glory.

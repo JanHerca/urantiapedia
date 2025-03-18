@@ -32,7 +32,9 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
+## YASNA XIII [^1324] (SP. XII).
 
+(Voir Y. XV, 2; Y. LXVI, 2; Y. XXXVIII, 3.)
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-3-16T22:11:40Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1335]: 316:4 Ce chapitre est composé de courts passages d'autres parties du Yasna rassemblés peut-être dans le but de compléter le nombre de sections jusqu'à un chiffre désormais inconnu.

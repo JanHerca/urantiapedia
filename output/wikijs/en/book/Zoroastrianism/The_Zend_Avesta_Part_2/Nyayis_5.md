@@ -50,9 +50,9 @@ Unto Âtar, the son of Ahura Mazda; unto thee Âtar, son of Ahura Mazda!
 
 5 [^1542]. Unto Âtar, the son of Ahura Mazda; unto the Glory and the Weal, made by Mazda; unto the Glory of the Aryas, made by Mazda; unto the Glory of the Kavis, made by Mazda.
 
-Unto Âtar, the son of Ahura Mazda; unto king Husravah; unto the lake of Husravah; unto Mount Âsnava_n__t_, made by Mazda; unto Lake _K_aê_k_asta, made by Mazda; unto the Glory of the Kavis, made by Mazda.
+Unto Âtar, the son of Ahura Mazda; unto king Husravah; unto the lake of Husravah; unto Mount Âsnava<i>n</i><i>t</i>, made by Mazda; unto Lake <i>K</i>aê<i>k</i>asta, made by Mazda; unto the Glory of the Kavis, made by Mazda.
 
-6\. Unto Âtar, the son of Ahura Mazda; unto Mount Raêva_n__t_, made by Mazda; unto the Glory of the Kavis, made by Mazda.
+6\. Unto Âtar, the son of Ahura Mazda; unto Mount Raêva<i>n</i><i>t</i>, made by Mazda; unto the Glory of the Kavis, made by Mazda.
 
 Unto Âtar, the son of Ahura Mazda.
 
@@ -144,9 +144,9 @@ Ashem Vohû: Holiness is the best of all good . . .
 
 [^1610]: 357:7 ‘Deliver me from Ahriman’ (Pahl. Comm.).
 
-[^1611]: 357:8 As in Ormazd Ya_s_t, 0.
+[^1611]: 357:8 As in Ormazd Ya<i>s</i>t, 0.
 
-[^1612]: 358:1 As in Ormazd Ya_s_t, 0.
+[^1612]: 358:1 As in Ormazd Ya<i>s</i>t, 0.
 
 [^1613]: 358:2 Cf. Sîrôzah, § 9.
 
@@ -160,7 +160,7 @@ Ashem Vohû: Holiness is the best of all good . . .
 
 [^1618]: 359:4 The gaoshô-srûta khratu and the âsna khratu (see [p. 7](Sirozahs_1#p7). note [1](Sirozahs_1#fn39)).
 
-[^1619]: 360:1 Yâ mê afras_a_ungh_a_u angha_t_: yâ me abhût ayogyatâ (Sansk. trans.).
+[^1619]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (Sansk. trans.).
 
 [^1620]: 360:2 Here.
 
@@ -170,7 +170,7 @@ Ashem Vohû: Holiness is the best of all good . . .
 
 [^1623]: 360:5 Âtar.
 
-[^1624]: 360:6 ‘Bodily he is infirm (armê_s_t, motionless); spiritually he is a warrior’ (Pahl. Comm.).
+[^1624]: 360:6 ‘Bodily he is infirm (armê<i>s</i>t, motionless); spiritually he is a warrior’ (Pahl. Comm.).
 
 [^1625]: 361:1 See Vend. p. 94, note 1.
 

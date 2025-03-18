@@ -43,19 +43,19 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p349">[<sup><small>p. 349</small></sup>]</span>
 
-A Nyâyi_s_ is properly a begging prayer, as opposed to Sitâyi_s_, a prayer of praise. It is a term particularly applied to five prayers addressed to the Sun, to Mithra, to the Moon, to Waters, and to Fire. Every layman over eight years old is bound to recite the Nyâyi_s_: he recites it standing and girded with his Kôstî.
+A Nyâyi<i>s</i> is properly a begging prayer, as opposed to Sitâyi<i>s</i>, a prayer of praise. It is a term particularly applied to five prayers addressed to the Sun, to Mithra, to the Moon, to Waters, and to Fire. Every layman over eight years old is bound to recite the Nyâyi<i>s</i>: he recites it standing and girded with his Kôstî.
 
-The Sun Nyâyi_s_ is recited three times a day, at the rising of the sun (Gâh Hâvan), at noon (Gâh Rapitvin), and at three o'clock in the afternoon (Gâh Uzîren). The Mithra Nyâyi_s_ is recited with the Sun Nyâyi_s_, as Mithra follows the sun in its course (see Yt. X, 13).
+The Sun Nyâyi<i>s</i> is recited three times a day, at the rising of the sun (Gâh Hâvan), at noon (Gâh Rapitvin), and at three o'clock in the afternoon (Gâh Uzîren). The Mithra Nyâyi<i>s</i> is recited with the Sun Nyâyi<i>s</i>, as Mithra follows the sun in its course (see Yt. X, 13).
 
-The Moon Nyâyi_s_ is recited three times a month: first, at the time when it begins to be seen; second, when it is at the full; third, when it is on the wane.
+The Moon Nyâyi<i>s</i> is recited three times a month: first, at the time when it begins to be seen; second, when it is at the full; third, when it is on the wane.
 
-The Waters Nyâyi_s_ and the Fire Nyâyi_s_ are recited every day, when one finds oneself in the proximity of those elements. The Fire Nyâyi_s_ is recited with the Penôm on (see Vend. p. 168, 7).
+The Waters Nyâyi<i>s</i> and the Fire Nyâyi<i>s</i> are recited every day, when one finds oneself in the proximity of those elements. The Fire Nyâyi<i>s</i> is recited with the Penôm on (see Vend. p. 168, 7).
 
-The first four Nyâyi_s_ must be recited especially on the days over which the Izads invoked preside; that is to say, on the Khôrshê_d_, Mihir, Mâh, and Âbân days (the eleventh, sixteenth, twelfth, and tenth days of the month) [^1499].
+The first four Nyâyi<i>s</i> must be recited especially on the days over which the Izads invoked preside; that is to say, on the Khôrshê<i>d</i>, Mihir, Mâh, and Âbân days (the eleventh, sixteenth, twelfth, and tenth days of the month) [^1499].
 
 ---
 
-## I. KHÔRSHÊ_D_ NYÂYI_S_.
+## I. KHÔRSHÊ<i>D</i> NYÂYI<i>S</i>.
 
 1\. \[^1500]!\]
 
@@ -63,9 +63,9 @@ The first four Nyâyi_s_ must be recited especially on the days over which the I
 
 Hail unto thee, O Ahura Mazda, in the threefold way [^1501]! \[Hail unto thee\] before all other creatures!
 
-Hail unto you, O Amesha-Spe_n_tas, who are all of you of one accord with the Sun!
+Hail unto you, O Amesha-Spe<i>n</i>tas, who are all of you of one accord with the Sun!
 
-May this prayer come unto Ahura Mazda! May it come unto the Amesha-Spe_n_tas! May it come unto the Fravashis of the holy Ones! May it come unto the Sovereign Vayu of the long Period [^1502]!
+May this prayer come unto Ahura Mazda! May it come unto the Amesha-Spe<i>n</i>tas! May it come unto the Fravashis of the holy Ones! May it come unto the Sovereign Vayu of the long Period [^1502]!
 
 2\. \[Hail unto the Sun, the swift-horsed!\]
 
@@ -75,7 +75,7 @@ I recite the ‘Praise of Holiness [^1503]:’
 
 3\. I praise well-thought, well-spoken, and well-done thoughts, words, and deeds. I embrace all good thoughts, good words, and good deeds; I reject all evil thoughts, evil words, and evil deeds [^1504].
 
-4\. I give sacrifice and prayer unto you, O Amesha-Spe_n_tas! even with the fulness of my thoughts, of my words, of my deeds, and of my heart: I give unto you even my own life.
+4\. I give sacrifice and prayer unto you, O Amesha-Spe<i>n</i>tas! even with the fulness of my thoughts, of my words, of my deeds, and of my heart: I give unto you even my own life.
 
 I recite the ‘Praise of Holiness [^1503]:’
 
@@ -83,7 +83,7 @@ I recite the ‘Praise of Holiness [^1503]:’
 
 5 [^1505]. Hail to Ahura Mazda!
 
-Hail to the Amesha-Spe_n_tas!
+Hail to the Amesha-Spe<i>n</i>tas!
 
 Hail to Mithra, the lord of wide pastures!
 
@@ -97,11 +97,11 @@ Hail to Gaya [^1506]!
 
 <span id="p351">[<sup><small>p. 351</small></sup>]</span>
 
-Hail to the Fravashi of the holy Spitama Zarathu_s_tra!
+Hail to the Fravashi of the holy Spitama Zarathu<i>s</i>tra!
 
 Hail to the whole of the holy creation that was, is, or will be!
 
-May I grow in health of body through Vohu-Manô, Khshathra, and Asha, and come to that luminous space, to that highest of all high things [^1507], when the world, O Spe_n_ta Mainyu! has come to an end!
+May I grow in health of body through Vohu-Manô, Khshathra, and Asha, and come to that luminous space, to that highest of all high things [^1507], when the world, O Spe<i>n</i>ta Mainyu! has come to an end!
 
 Ashem Vohû: Holiness is the best of all good . . . .
 
@@ -115,17 +115,17 @@ So may Mithra and Ahura, the two great gods, come to us for help!
 
 We sacrifice unto the bright, undying, shining, swift-horsed Sun.
 
-8\. We sacrifice unto Ti_s_trya, whose sight is sound [^1510].
+8\. We sacrifice unto Ti<i>s</i>trya, whose sight is sound [^1510].
 
-We sacrifice unto Ti_s_trya; we sacrifice unto the rains of Ti_s_trya [^1511].
+We sacrifice unto Ti<i>s</i>trya; we sacrifice unto the rains of Ti<i>s</i>trya [^1511].
 
-We sacrifice unto Ti_s_trya, bright and glorious.
+We sacrifice unto Ti<i>s</i>trya, bright and glorious.
 
-We sacrifice unto the star Vana_n__t_ [^1512], made by Mazda.
+We sacrifice unto the star Vana<i>n</i><i>t</i> [^1512], made by Mazda.
 
 <span id="p352">[<sup><small>p. 352</small></sup>]</span>
 
-We sacrifice unto Ti_s_trya, the bright and glorious star.
+We sacrifice unto Ti<i>s</i>trya, the bright and glorious star.
 
 We sacrifice unto the sovereign sky.
 
@@ -135,7 +135,7 @@ We sacrifice unto the sovereign Time of the long Period.
 
 We sacrifice unto the beneficent, well-doing Wind.
 
-We sacrifice unto the most upright _K_ista [^1513], made by Mazda and holy.
+We sacrifice unto the most upright <i>K</i>ista [^1513], made by Mazda and holy.
 
 We sacrifice unto the good Law of the worshippers of Mazda.
 
@@ -143,7 +143,7 @@ We sacrifice unto the way of content [^1514].
 
 We sacrifice unto the golden instrument [^1515].
 
-We sacrifice unto Mount Saoka_n_ta, made by Mazda [^1515].
+We sacrifice unto Mount Saoka<i>n</i>ta, made by Mazda [^1515].
 
 9\. We sacrifice unto all the holy gods of the world unseen.
 
@@ -157,7 +157,7 @@ We sacrifice unto the good, strong, beneficent Fravashis of the holy Ones.
 
 We sacrifice unto the bright, undying, shining, swift-horsed Sun.
 
-10\. I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra . . . .
+10\. I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra . . . .
 
 <span id="p353">[<sup><small>p. 353</small></sup>]</span>
 
@@ -233,9 +233,9 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 [^1584]: 352:2 Or, of pleasure.
 
-[^1586]: 352:3 ‘On Mount Saoka_n_ta there is a golden tube coming from the root of the earth; the water that is on the surface of the earth goes up through the hole of that tube to the heavens, and being driven by the wind, spreads everywhere, and thus the dew is produced’ (Sansk. transl.).
+[^1586]: 352:3 ‘On Mount Saoka<i>n</i>ta there is a golden tube coming from the root of the earth; the water that is on the surface of the earth goes up through the hole of that tube to the heavens, and being driven by the wind, spreads everywhere, and thus the dew is produced’ (Sansk. transl.).
 
-[^1587]: 353:1 The whole of the Khôrshê_d_ Ya_s_t is inserted here.
+[^1587]: 353:1 The whole of the Khôrshê<i>d</i> Ya<i>s</i>t is inserted here.
 
 [^1588]: 353:2 Rivers considered as Ahura's wives (cf. Ormazd et Ahriman, § 32).
 

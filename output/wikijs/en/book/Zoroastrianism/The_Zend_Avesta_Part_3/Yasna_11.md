@@ -48,7 +48,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 6\. In his house is born no fire-priest, warrior ne’er in chariot standing, never more the thrifty tiller. In his home be born Dahâkas, Mûrakas of evil practice, doing deeds of double nature.
 
-7\. Quick, cut off then H(a)oma's portion, gift of flesh for doughty H(a)oma! Heed lest H(a)oma <span id="p246">[<sup><small>p. 246</small></sup>]</span> bind thee fettered, as he bound the fell Turanian Frangrasyan [^1020] (the murderous robber) fast in iron close-surrounded in the mid-third [^1021] of this earth! 8. Thereupon spake Zarathu_s_tra [^1022]; Praise to H(a)oma made by Mazda, good is H(a)oma Mazda-made.
+7\. Quick, cut off then H(a)oma's portion, gift of flesh for doughty H(a)oma! Heed lest H(a)oma <span id="p246">[<sup><small>p. 246</small></sup>]</span> bind thee fettered, as he bound the fell Turanian Frangrasyan [^1020] (the murderous robber) fast in iron close-surrounded in the mid-third [^1021] of this earth! 8. Thereupon spake Zarathu<i>s</i>tra [^1022]; Praise to H(a)oma made by Mazda, good is H(a)oma Mazda-made.
 
 ---
 
@@ -60,7 +60,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 12-15. May’st Thou rule at Thy will, O Lord [^1027]!
 
-16\. I confess myself a Mazdayasnian of Zarathu_s_tra's order [^1028].
+16\. I confess myself a Mazdayasnian of Zarathu<i>s</i>tra's order [^1028].
 
 17\.  [^1029]I celebrate my praises for good thoughts, good words, and good deeds for my thoughts, my speeches, and (my) actions. With chanting praises I present all good thoughts, good words, and good deeds, and with rejection I repudiate all evil thoughts, and words, and deeds. 18. Here I give to you, O ye Bountiful Immortals! sacrifice and homage with the mind, with words, deeds, and my entire person; yea, (I offer) to you the flesh of my very body (as your own). And I praise Righteousness. A blessing is Righteousness (called) the Best, &c.
 
@@ -94,9 +94,9 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1020]: 244:5 This characteristic fragment is repeated and extended in the later literature of the Parsis. The curse of the cow, horse, and of Haoma (scilicet the priest) when they are stinted, was extended to all domestic animals. It has been difficult to avoid the full metrical rhythm of the original with its jingling cadence. A full freedom is also not avoided.
 
-[^1021]: 244:6 Not ‘to the priest;’ Ner. g_ri_hîtâram.
+[^1021]: 244:6 Not ‘to the priest;’ Ner. g<i>ri</i>hîtâram.
 
-[^1022]: 245:1 ‘Who dost not give me cooked (food)’ seems improbable. If _h__v_âstãm means fodder, why is it fem., especially here with a feminine correlative? I think that ‘having good food’ is the meaning of the word, as an adjective, and agreeing with gãm understood. Possibly, ‘who dost not bestow upon me as the one well-foddered.’
+[^1022]: 245:1 ‘Who dost not give me cooked (food)’ seems improbable. If <i>h</i><i>v</i>âstãm means fodder, why is it fem., especially here with a feminine correlative? I think that ‘having good food’ is the meaning of the word, as an adjective, and agreeing with gãm understood. Possibly, ‘who dost not bestow upon me as the one well-foddered.’
 
 [^1023]: 245:2 Dialectically used.
 
@@ -112,7 +112,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1029]: 246:4 The Raspi at present hands the Haoma-cup to the priest at this point; the efficacy of the liquor is supposed to be multiplied.
 
-[^1030]: 246:5 Pe_n_daidyâi is to be read as of course; the letter ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), not unlike ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) in a MS. when turned, was probably half inverted.
+[^1030]: 246:5 Pe<i>n</i>daidyâi is to be read as of course; the letter ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), not unlike ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) in a MS. when turned, was probably half inverted.
 
 [^1031]: 246:6 This seems rendered by the Pahlavi as an interlude between the Ratu and the Zaotar; comp. Y. XXVIII, 11. Several broken sentences from other parts of the Avesta are here doubtfully recalled, perhaps as having especial sanctity.
 

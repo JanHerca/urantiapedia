@@ -42,7 +42,7 @@ D. = dastur.
 
 De inf. = De infinitivi linguarum sanskritae bactricae persicae graecae oscae umbricae latinae gotticae forma et usu, scripsit Eugenius Wilhelmus, phil. doctor. 1872.
 
-_G_. = _G_âmâsp_g_i.
+<i>G</i>. = <i>G</i>âmâsp<i>g</i>i.
 
 H. = Hübschmann.
 
@@ -58,7 +58,7 @@ Ner. = Neryosangh.
 
 P. = Paris MSS.
 
-_R_v. = _Ri_g-veda.
+<i>R</i>v. = <i>Ri</i>g-veda.
 
 Sp. = Spiegel.
 

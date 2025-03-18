@@ -32,31 +32,31 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-## YASNA IX. THE HÔM YA_S_T.
+## YASNA IX. THE HÔM YA<i>S</i>T.
 
-The Haoma-ya_s_t has claims to antiquity (owing to its subject, but not to its dialect), next after the Srô_s_\-ya_s_t. H(a)oma = Soma, as a deity, flourished not only before the Gâthas, but before the _Ri_ks of the Veda, in Aryan ages before Iranian and Indian became two peoples.
+The Haoma-ya<i>s</i>t has claims to antiquity (owing to its subject, but not to its dialect), next after the Srô<i>s</i>\-ya<i>s</i>t. H(a)oma = Soma, as a deity, flourished not only before the Gâthas, but before the <i>Ri</i>ks of the Veda, in Aryan ages before Iranian and Indian became two peoples.
 
 The astonishing circumstance has been elsewhere noted that a hymn, which is a reproduction of an Aryan original, should, notwithstanding its earlier characteristics, be necessarily assigned to <span id="p231">[<sup><small>p. 231</small></sup>]</span> a date much later than the Gâthas in which H(a)oma worship is not mentioned.
 
-Probably on account of bitter animosities prevailing between their more southern neighbours and themselves, and the use of Soma by the Indians as a stimulant before battle, the Iranians of the Gâthic period had become lukewarm in their own H(a)oma worship. But that it should have revived, as we see it in this Ya_s_t, after having nearly or quite disappeared, is most interesting and remarkable. Was it definitively and purposely repudiated by Zarathu_s_tra, afterwards reviving as by a relapse? I do not think that it is well to hold to such deliberate and conscious antagonisms, and to a definite policy and action based upon them. The Soma-worship, like the sacramental acts of other religions which have become less practised after exaggerated attention, had simply fallen into neglect, increased by an aversion to practices outwardly similar to those of ‘Daêva-worshippers.’ The Ya_s_t is, of course, made up of fragments, which I have endeavoured to separate by lines. In the translation I have given a rhythmical rendering, necessarily somewhat free. It was difficult to import sufficient vivacity to the piece, while using a uselessly awkward literalness. The freedom, as elsewhere, often consists in adding words to point the sense, or round the rhythm. (Expressions for identical Zend words have been here, as elsewhere, purposely varied.)
+Probably on account of bitter animosities prevailing between their more southern neighbours and themselves, and the use of Soma by the Indians as a stimulant before battle, the Iranians of the Gâthic period had become lukewarm in their own H(a)oma worship. But that it should have revived, as we see it in this Ya<i>s</i>t, after having nearly or quite disappeared, is most interesting and remarkable. Was it definitively and purposely repudiated by Zarathu<i>s</i>tra, afterwards reviving as by a relapse? I do not think that it is well to hold to such deliberate and conscious antagonisms, and to a definite policy and action based upon them. The Soma-worship, like the sacramental acts of other religions which have become less practised after exaggerated attention, had simply fallen into neglect, increased by an aversion to practices outwardly similar to those of ‘Daêva-worshippers.’ The Ya<i>s</i>t is, of course, made up of fragments, which I have endeavoured to separate by lines. In the translation I have given a rhythmical rendering, necessarily somewhat free. It was difficult to import sufficient vivacity to the piece, while using a uselessly awkward literalness. The freedom, as elsewhere, often consists in adding words to point the sense, or round the rhythm. (Expressions for identical Zend words have been here, as elsewhere, purposely varied.)
 
-1\. At the hour of Hâvani [^951]. H(a)oma came to Zarathu_s_tra, as he served the (sacred) Fire, and sanctified (its flame), while he sang aloud the Gâthas.
+1\. At the hour of Hâvani [^951]. H(a)oma came to Zarathu<i>s</i>tra, as he served the (sacred) Fire, and sanctified (its flame), while he sang aloud the Gâthas.
 
-And Zarathu_s_tra asked him: Who art thou, O man! who art of all the incarnate world the most beautiful in Thine own body [^952] of those whom I have seen, (thou) glorious \[immortal\]?
+And Zarathu<i>s</i>tra asked him: Who art thou, O man! who art of all the incarnate world the most beautiful in Thine own body [^952] of those whom I have seen, (thou) glorious \[immortal\]?
 
-2\. Thereupon gave H(a)oma answer [^953], the holy one who driveth death afar: I am, O Zarathu_s_tra <span id="p232">[<sup><small>p. 232</small></sup>]</span> H(a)oma, the holy and driving death afar; pray to me, O Spitâma, prepare me for the taste. Praise toward me in (Thy) praises as the other \[Saoshya_n_ts\] praise.
+2\. Thereupon gave H(a)oma answer [^953], the holy one who driveth death afar: I am, O Zarathu<i>s</i>tra <span id="p232">[<sup><small>p. 232</small></sup>]</span> H(a)oma, the holy and driving death afar; pray to me, O Spitâma, prepare me for the taste. Praise toward me in (Thy) praises as the other \[Saoshya<i>n</i>ts\] praise.
 
-3\. Thereupon spake Zarathu_s_tra: Unto H(a)oma be the praise [^954]. What man, O H(a)oma! first prepared thee for the corporeal world? What blessedness was offered him? what gain did he acquire?
+3\. Thereupon spake Zarathu<i>s</i>tra: Unto H(a)oma be the praise [^954]. What man, O H(a)oma! first prepared thee for the corporeal world? What blessedness was offered him? what gain did he acquire?
 
-4\. Thereupon did H(a)oma answer me, he the holy one, and driving death afar: Vîvanghva_n_t [^955] was the first of men who prepared me for the incarnate world. This blessedness was offered him; this gain did he acquire, that to him was born a son who was Yima, called the brilliant, (he of the many flocks, the most glorious of those yet born, the sunlike-one of men [^956]), that he made from his authority both herds and people free from dying, both plants and waters free from drought, and men could eat imperishable food.
+4\. Thereupon did H(a)oma answer me, he the holy one, and driving death afar: Vîvanghva<i>n</i>t [^955] was the first of men who prepared me for the incarnate world. This blessedness was offered him; this gain did he acquire, that to him was born a son who was Yima, called the brilliant, (he of the many flocks, the most glorious of those yet born, the sunlike-one of men [^956]), that he made from his authority both herds and people free from dying, both plants and waters free from drought, and men could eat imperishable food.
 
-5\. In the reign of Yima swift of motion was there neither cold nor heat, there was neither age nor death, nor envy [^957] demon-made. Like fifteen-yearlings [^958] walked the two forth, son and father, in their stature and their form, so long as Yima, son of Vîvanghva_n_t ruled, he of the many herds!
+5\. In the reign of Yima swift of motion was there neither cold nor heat, there was neither age nor death, nor envy [^957] demon-made. Like fifteen-yearlings [^958] walked the two forth, son and father, in their stature and their form, so long as Yima, son of Vîvanghva<i>n</i>t ruled, he of the many herds!
 
 6\. Who was the second man, O H(a)oma! who <span id="p233">[<sup><small>p. 233</small></sup>]</span> prepared thee for the corporeal world? What sanctity was offered him? what gain did he acquire?
 
 7\. Thereupon gave H(a)oma answer, he the holy one, and driving death afar: Âthwya [^959] was the second who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that to him a son was born, Thraêtaona [^960] of the heroic tribe,
 
-8\. Who smote the dragon Dahâka [^961], three jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of [^962] the Daêvas, evil for our settlements, and wicked, whom the evil spirit Angra Mainyu made as the most mighty Dru_g_(k) \[against the corporeal world\], and for the murder of (our) settlements, and to slay the (homes) of Asha!
+8\. Who smote the dragon Dahâka [^961], three jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of [^962] the Daêvas, evil for our settlements, and wicked, whom the evil spirit Angra Mainyu made as the most mighty Dru<i>g</i>(k) \[against the corporeal world\], and for the murder of (our) settlements, and to slay the (homes) of Asha!
 
 9\. Who was the third man, O H(a)oma! who prepared thee for the corporeal world? What blessedness was given him? what gain did he acquire?
 
@@ -66,11 +66,11 @@ And Zarathu_s_tra asked him: Who art thou, O man! who art of all the incarnate w
 
 12\. Who was the fourth man who prepared thee, <span id="p235">[<sup><small>p. 235</small></sup>]</span> O H(a)oma! for the corporeal world? What blessedness was given him? what gain did he acquire?
 
-13\. Thereupon gave H(a)oma answer, he the holy, and driving death afar: Pourushaspa [^970] was the fourth man who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that thou, O Zarathu_s_tra! wast born to him, the just, in Pourushaspa's house, the D(a)êva's foe, the friend of Mazda's lore, (14) famed in Airyêna Vaê_g_ah; and thou, O Zarathu_s_tra I didst recite the first the Ahuna-vairya [^971], four times intoning it, and with verses kept apart \[(Pâzand) each time with louder and still louder voice\].
+13\. Thereupon gave H(a)oma answer, he the holy, and driving death afar: Pourushaspa [^970] was the fourth man who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that thou, O Zarathu<i>s</i>tra! wast born to him, the just, in Pourushaspa's house, the D(a)êva's foe, the friend of Mazda's lore, (14) famed in Airyêna Vaê<i>g</i>ah; and thou, O Zarathu<i>s</i>tra I didst recite the first the Ahuna-vairya [^971], four times intoning it, and with verses kept apart \[(Pâzand) each time with louder and still louder voice\].
 
-15\. And thou didst cause, O Zarathu_s_tra! all the demon-gods to vanish in the ground who aforetime flew about this earth in human shape (and power. This hast thou done), thou who hast been the strongest, and the staunchest, the most active, and the swiftest, and (in every deed) the most victorious in the two spirits’ [^972] world.
+15\. And thou didst cause, O Zarathu<i>s</i>tra! all the demon-gods to vanish in the ground who aforetime flew about this earth in human shape (and power. This hast thou done), thou who hast been the strongest, and the staunchest, the most active, and the swiftest, and (in every deed) the most victorious in the two spirits’ [^972] world.
 
-16\. Thereupon spake Zarathu_s_tra: Praise to H(a)oma. Good is H(a)oma, and the well-endowed, exact and righteous in its nature, and good inherently, and healing, beautiful of form, and good in deed, and most successful in its working [^973], golden-hued, with bending sprouts. As it is the best for drinking, so (through its sacred stimulus) is it the most nutritious [^974] for the soul.
+16\. Thereupon spake Zarathu<i>s</i>tra: Praise to H(a)oma. Good is H(a)oma, and the well-endowed, exact and righteous in its nature, and good inherently, and healing, beautiful of form, and good in deed, and most successful in its working [^973], golden-hued, with bending sprouts. As it is the best for drinking, so (through its sacred stimulus) is it the most nutritious [^974] for the soul.
 
 ---
 
@@ -160,7 +160,7 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 [^958]: 231:2 Or, ‘beautiful of life’
 
-[^959]: 231:3 ‘Me,’ omitted as interrupting rhythm, seems to be merely dramatic; or did it indicate that there was an original Zarathu_s_trian Haoma Gâtha from which this is an extension?
+[^959]: 231:3 ‘Me,’ omitted as interrupting rhythm, seems to be merely dramatic; or did it indicate that there was an original Zarathu<i>s</i>trian Haoma Gâtha from which this is an extension?
 
 [^960]: 232:1 Might not the entire sixteenth verse be placed here?
 
@@ -180,7 +180,7 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 [^968]: 233:4 Free.
 
-[^969]: 233:5 In the _Ri_g-veda âptyá seems only an epithet added to the name Tritá, [^965]; and the two serpents of the Avesta are suspicious. Two names seem to have become two persons, or has the Avesta the more correct representation?
+[^969]: 233:5 In the <i>Ri</i>g-veda âptyá seems only an epithet added to the name Tritá, [^965]; and the two serpents of the Avesta are suspicious. Two names seem to have become two persons, or has the Avesta the more correct representation?
 
 [^970]: 233:6 Have we the Semites here? They certainly penetrated as conquerors far into Media, and it seems uncritical to deny their leaving traces. The gloss may be very old.
 
@@ -188,13 +188,13 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 [^972]: 234:1 Comp. Kapardínam.
 
-[^973]: 234:2 I abandon reluctantly the admirable comparison of hvîs with the Indian svid (Geldner), also when explained as an inchoative (Barth.), but the resulting meaning is far from natural either here or in Vend. III, 32 (Sp. 305). That the dragon should begin to sweat (!) under the fire which was kindled upon his back, and which caused him to spring away, seems difficult. The process was not so deliberate. He was scorched, started, and then sprang. Also in Vend. III, 32 when the barley is produced the demons hardly ‘sweat (with mental misery).’ The idea is too advanced for the document. Burnouf's and Haug's ‘hiss’ was much better in both places. But I prefer the hint of the Pahlavi lâlâ vazlûn_d_. In Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta_s__k_a sa n_ri__s_a_m_sa_h_ _k_ukshubhe \[dvipâdo\* babhûva\]. Whether _h__v_îsa_t__k_a = hîsa_t__k_a (?) has anything to do with hiz or khiz = Pahlavi âkhîzîdanŏ [^969], N. P. ‘hizîdan, is a question. I follow tradition without etymological help; perhaps we might as well write the word like the better known form as a conjecture.
+[^973]: 234:2 I abandon reluctantly the admirable comparison of hvîs with the Indian svid (Geldner), also when explained as an inchoative (Barth.), but the resulting meaning is far from natural either here or in Vend. III, 32 (Sp. 305). That the dragon should begin to sweat (!) under the fire which was kindled upon his back, and which caused him to spring away, seems difficult. The process was not so deliberate. He was scorched, started, and then sprang. Also in Vend. III, 32 when the barley is produced the demons hardly ‘sweat (with mental misery).’ The idea is too advanced for the document. Burnouf's and Haug's ‘hiss’ was much better in both places. But I prefer the hint of the Pahlavi lâlâ vazlûn<i>d</i>. In Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta<i>s</i><i>k</i>a sa n<i>ri</i><i>s</i>a<i>m</i>sa<i>h</i> <i>k</i>ukshubhe \[dvipâdo\* babhûva\]. Whether <i>h</i><i>v</i>îsa<i>t</i><i>k</i>a = hîsa<i>t</i><i>k</i>a (?) has anything to do with hiz or khiz = Pahlavi âkhîzîdanŏ [^969], N. P. ‘hizîdan, is a question. I follow tradition without etymological help; perhaps we might as well write the word like the better known form as a conjecture.
 
-[^974]: 234:3 The Pahlavi translator makes the attempt to account for the epithet ‘manly-minded’ as applied to Keresâspa while yet he fled affrighted; he says: Hôman_d_ mar_d_mîni_s_nîh hanâ yehevûn_d_, aîgha_s_ libbemman pavan gâsdâ_s_t; Ner. asya paurushamânasatvam\* ida_m_ babhûva yad asau _k_aitanya_m_ sthâne dadhau, ‘his manly-mindedness was this, that he kept his wits on the occasion.’ See the same story treated somewhat differently in the Ya_s_ts by Darmesteter (p. 295, note 2).
+[^974]: 234:3 The Pahlavi translator makes the attempt to account for the epithet ‘manly-minded’ as applied to Keresâspa while yet he fled affrighted; he says: Hôman<i>d</i> mar<i>d</i>mîni<i>s</i>nîh hanâ yehevûn<i>d</i>, aîgha<i>s</i> libbemman pavan gâsdâ<i>s</i>t; Ner. asya paurushamânasatvam\* ida<i>m</i> babhûva yad asau <i>k</i>aitanya<i>m</i> sthâne dadhau, ‘his manly-mindedness was this, that he kept his wits on the occasion.’ See the same story treated somewhat differently in the Ya<i>s</i>ts by Darmesteter (p. 295, note 2).
 
 [^975]: 234:† Or, âkhêzîdanŏ.
 
-[^976]: 235:1 Son of Pâîtirasp or Spêtârasp; Bundahi_s_ XXXII, 1, 2, &c.
+[^976]: 235:1 Son of Pâîtirasp or Spêtârasp; Bundahi<i>s</i> XXXII, 1, 2, &c.
 
 [^977]: 235:2 The Ahuna-vairya is in the Gâthic dialect, and in the Ahunavaiti metre; it may have been composed by Z. It named the Gâtha.
 
@@ -202,7 +202,7 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 [^979]: 235:4 Free.
 
-[^980]: 235:5 Comp. pathm_e_ng gavôi.
+[^980]: 235:5 Comp. pathm<i>e</i>ng gavôi.
 
 [^981]: 236:1 Or, is madhem related to medhâ´ as well as mazdâ (fem.)?
 
@@ -212,25 +212,25 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 [^984]: 236:4 Pahl. sâstârânŏ.
 
-[^985]: 236:5 Pahl. pavan frîftârîh; Ner. pratâra_n_atayâ.
+[^985]: 236:5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
 
-[^986]: 236:6 Vîspô-_h__v_âthrem does not mean ‘comfortable’ here. _H__v_an is the root; comp. _h__v_e_n_g = sun.
+[^986]: 236:6 Vîspô-<i>h</i><i>v</i>âthrem does not mean ‘comfortable’ here. <i>H</i><i>v</i>an is the root; comp. <i>h</i><i>v</i>e<i>n</i>g = sun.
 
-[^987]: 237:1 Pahl. min _h__v_âstâr.
+[^987]: 237:1 Pahl. min <i>h</i><i>v</i>âstâr.
 
-[^988]: 237:2 Pahl. vânî_d_âr pavan kûshânŏ.
+[^988]: 237:2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
 
-[^989]: 237:3 Arva_n_tô = aurva_n_tô; so the Pahl. arvand.
+[^989]: 237:3 Arva<i>n</i>tô = aurva<i>n</i>tô; so the Pahl. arvand.
 
-[^990]: 237:4 Comp. the Vedic K_ri__s_â´nu, archer and demi-god who guarded the Soma. Ner. seems to notice that the name recalls that of the Christians.
+[^990]: 237:4 Comp. the Vedic K<i>ri</i><i>s</i>â´nu, archer and demi-god who guarded the Soma. Ner. seems to notice that the name recalls that of the Christians.
 
 [^991]: 238:1 So the Pahlavi, before others, read apãs; comp. frãs.
 
-[^992]: 238:2 Haug's keen-sighted suggestion, pourvanîm = paurva = the Pleiades + nî = leading the P., looks doubtful, and seems refuted by Ya_s_t XXIV, 29, where Darmesteter renders a word probably akin, as ‘the many.’ I would here render ‘the former.’
+[^992]: 238:2 Haug's keen-sighted suggestion, pourvanîm = paurva = the Pleiades + nî = leading the P., looks doubtful, and seems refuted by Ya<i>s</i>t XXIV, 29, where Darmesteter renders a word probably akin, as ‘the many.’ I would here render ‘the former.’
 
 [^993]: 238:3 The ‘grasp,’ the summary of them.’
 
-[^994]: 239:1 Pahl. sakhmakan; Ner. bhaya_m_kare.
+[^994]: 239:1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
 
 [^995]: 239:2 Or, ‘strike thy club.’
 

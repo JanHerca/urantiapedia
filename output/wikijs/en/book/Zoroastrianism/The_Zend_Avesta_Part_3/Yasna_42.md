@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1\. We worship You, O Ye Bountiful Immortals! with the entire collection of this Yasna, Haptanghâiti <span id="p291">[<sup><small>p. 291</small></sup>]</span> (as we sum up all). And we sacrifice to the fountains of the waters, and to the fordings of the rivers, to the forkings of the highways, and to the meetings of the roads.
 
-2\. And we sacrifice to the hills that run with torrents, and the lakes that brim with waters, and to the corn that fills the corn-fields; and we sacrifice to both the protector and the Creator, to both Zarathu_s_tra and the Lord.
+2\. And we sacrifice to the hills that run with torrents, and the lakes that brim with waters, and to the corn that fills the corn-fields; and we sacrifice to both the protector and the Creator, to both Zarathu<i>s</i>tra and the Lord.
 
 3\. And we sacrifice to both earth and heaven, and to the stormy wind that Mazda made, and to the peak of high Haraiti, and to the land, and all things good.
 
@@ -72,10 +72,10 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1222]: 290:5 Of not greatly later origin.
 
-[^1223]: 291:1 See, however, Bundahi_s_ (West), p. 66.
+[^1223]: 291:1 See, however, Bundahi<i>s</i> (West), p. 66.
 
-[^1224]: 291:2 See Bundahi_s_, chap. XIX, also Darmesteter, Ormuzd and Ahriman (pp. 148-150).
+[^1224]: 291:2 See Bundahi<i>s</i>, chap. XIX, also Darmesteter, Ormuzd and Ahriman (pp. 148-150).
 
-[^1225]: 291:3 Yôi yêyã dûrâ_t_ points to a migration of Zoroastrianism, coming West (?).
+[^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> points to a migration of Zoroastrianism, coming West (?).
 
 [^1226]: 291:4 For Yasna XLIII-LI, see above, pp. [98](Gathas_43#p98)\-[187](Gathas_51#p187).

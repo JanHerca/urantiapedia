@@ -80,4 +80,4 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1078]: 254:6 See Y. LI, 1.
 
-[^1079]: 255:1 This fragment in the Gâthic dialect might more properly be placed before the Srôsh Ya_s_t.
+[^1079]: 255:1 This fragment in the Gâthic dialect might more properly be placed before the Srôsh Ya<i>s</i>t.

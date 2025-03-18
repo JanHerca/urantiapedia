@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1\. This is to render [^1171] Him who is of all the greatest, our lord [^1172] and master [^1173] (even) Ahura Mazda. And this to smite [^1174] the wicked Angra Mainyu, and to smite Aêshma of the bloody spear, and the Mazainya Daêvas, and to smite all the wicked Varenya Daêvas.
 
-2\. And this is to further Ahura Mazda, the resplendent, the glorious, to further the Bountiful Immortals, and the influences of the star Ti_s_trya, the resplendent, the glorious, (and) to the furtherance of the holy man, and of all the (bountiful and) holy creatures of the Bounteous Spirit.
+2\. And this is to further Ahura Mazda, the resplendent, the glorious, to further the Bountiful Immortals, and the influences of the star Ti<i>s</i>trya, the resplendent, the glorious, (and) to the furtherance of the holy man, and of all the (bountiful and) holy creatures of the Bounteous Spirit.
 
 3-5 [^1175]. 6. The Haomas are crushed, O Mazda, Khshathra, and Asha, O ye Lords! Good is Sraosha who accompanies the sacrifice with the great glory [^1176], and may he be present affording strenuous help.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 8-12 [^1178]. 13. As the Ahû is excellent, so is the Ratu (one who rules) from (his) sanctity, a creator of mental goodness, and of life's actions done for Mazda; and the Kingdom (is) for Ahura, which to the poor may offer a nurturer. 14. (What is Your Kingdom, Your riches; how may I be Your own in my actions, to nourish Your poor, O Mazda? Beyond; yea, beyond all we declare You, far from Daêvas and Khrafstra-accursed mortals [^1179]!)
 
-15\. We worship the Ahuna-vairya. We worship Asha Vahi_s_ta, the most beautiful [^1180], the Bountiful Immortal [^1181].
+15\. We worship the Ahuna-vairya. We worship Asha Vahi<i>s</i>ta, the most beautiful [^1180], the Bountiful Immortal [^1181].
 
 
 
@@ -84,7 +84,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1183]: 280:4 Comp. Vend. XIX, 9 (Wg.).
 
-[^1184]: 280:5 The Ahuna appears here in the MS. with Y. XXXIV, 5, the â airy_e_mâ, and the Ashem Vohû.
+[^1184]: 280:5 The Ahuna appears here in the MS. with Y. XXXIV, 5, the â airy<i>e</i>mâ, and the Ashem Vohû.
 
 [^1185]: 280:6 Mãzâ rayâ; otherwise mãzarayâ, with greatness (see Y. XLIII, 12).
 

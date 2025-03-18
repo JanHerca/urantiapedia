@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 2\. And to You, O Ye Bountiful Immortals [^1062]! would I dedicate the flesh of my very body [^1063], and all the blessings of a prospered life [^1064].
 
-3\. In this Zaothra with this Baresman, I desire to <span id="p254">[<sup><small>p. 254</small></sup>]</span> approach the holy Yazads with my praise [^1065], and all the holy lords of the ritual order at their times, Hâvani at his time, and Sâvanghi and Vîsya at their times. 4. I confess myself a Mazdayasnian, and of Zarathu_s_tra's order [^1066].
+3\. In this Zaothra with this Baresman, I desire to <span id="p254">[<sup><small>p. 254</small></sup>]</span> approach the holy Yazads with my praise [^1065], and all the holy lords of the ritual order at their times, Hâvani at his time, and Sâvanghi and Vîsya at their times. 4. I confess myself a Mazdayasnian, and of Zarathu<i>s</i>tra's order [^1066].
 
 5\. The Zaotar speaks: As an Ahû (revered and) chosen, the Zaotar (?) speaks forth to me (?).
 

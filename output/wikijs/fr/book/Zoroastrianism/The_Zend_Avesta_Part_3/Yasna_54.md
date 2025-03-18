@@ -32,7 +32,15 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
+## YASNA LIV (SP. LIII). L'AÉRIENNE<i>E</i>MÂ-ISHYÔ.
 
+[^1224]
+
+1. Que l'Aïryaman, l'ami désiré et l'homme de son rang, s'approche pour obtenir la grâce des hommes et des femmes qui reçoivent l'enseignement de Zarathoustra, pour la grâce joyeuse du Bon Esprit, par laquelle la conscience peut atteindre la récompense tant désirée. Je prie pour la récompense sacrée de l'ordre rituel, qui est (également) tant désirée ; et puisse Ahura Mazda l'accorder (ou la faire croître).
+
+---
+
+2\. Nous sacrifions à l'Airy<i>e</i>mâ-ishyô, le puissant ; celui qui frappe victorieusement, l'adversaire de la malice agressive, la plus grande des sentences du saint ordre rituel. Et nous sacrifions aux généreux Gâthas qui règnent en maître dans le rituel, les saints (et augustes). Et nous sacrifions aux Louanges du Yasna, qui furent les productions du monde ancien [^1226].
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +65,11 @@ dateCreated: 2025-3-16T22:11:40Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1234]: 293:2 Ce morceau en dialecte gâtique, et dans un mètre que certains supposent identique à celui du Vahi<i>s</i>tôi<i>s</i>ti, est très ancien et se classe avec l'Ahuna-vairya et l'Ashem Vohû en importance.
+
+[^1235]: 293:3 Ou bien, masatâ (sic) peut-il être égal à « sa libéralité ou sa majesté », laissant ya<i>n</i>tu à comprendre avec Ahurô ?
+
+[^1236]: 293:4 L'Avesta postérieur note l'antiquité de l'ancien.

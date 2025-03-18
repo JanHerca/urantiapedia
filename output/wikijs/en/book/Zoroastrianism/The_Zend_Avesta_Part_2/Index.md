@@ -31,7 +31,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p362">[<sup><small>p. 362</small></sup>]</span> p. 363
 
-INDEX TO THE VENDÎDÂD, VOLUME IV; AND TO THE SÎRÔZAHS, YA_S_TS, AND NYÂYI_S_, VOLUME XXIII.
+INDEX TO THE VENDÎDÂD, VOLUME IV; AND TO THE SÎRÔZAHS, YA<i>S</i>TS, AND NYÂYI<i>S</i>, VOLUME XXIII.
 
 <span id="p364">[<sup><small>p. 364</small></sup>]</span> p. 365
 
@@ -39,13 +39,13 @@ The references in small Roman numerals are to the Introduction to the Vendîdâd
 
 Aal, fairy, page xciii. n 4.
 
-Âbân Nyâyi_s_, II, 356-357.
+Âbân Nyâyi<i>s</i>, II, 356-357.
 
-Âbân Ya_s_t, II, 52-84.
+Âbân Ya<i>s</i>t, II, 52-84.
 
-Âba_s_tâ, xxx. n 1.
+Âba<i>s</i>tâ, xxx. n 1.
 
-Âbere_t_, priest, 63, 64. n 1, 78, 79; II, 332.
+Âbere<i>t</i>, priest, 63, 64. n 1, 78, 79; II, 332.
 
 Abortion, 175.
 
@@ -57,7 +57,7 @@ Abortion, 175.
 
 Âdarbâd Mahraspandân, man, xxxiii, xxxvii.
 
-Âdarbî_g_ân, land l. n 2; II, 123. n 3.
+Âdarbî<i>g</i>ân, land l. n 2; II, 123. n 3.
 
 Âdar Burzîn Mihr, fire, II, 8. n 2, 294. n 2.
 
@@ -67,7 +67,7 @@ Abortion, 175.
 
 Âdar Gushasp, fire, II, 294. n 2. See Gushasp.
 
-Âdhutav_a_u, mount, II, 289.
+Âdhutav<i>a</i>u, mount, II, 289.
 
 Âdityas, lx.
 
@@ -81,7 +81,7 @@ Aêta, man, II, 217.
 
 Aêthrapaiti, 45.
 
-Aêvo-saredha-fyaê_s_ta, man, II, 218.
+Aêvo-saredha-fyaê<i>s</i>ta, man, II, 218.
 
 Aêzakha, mount, II, 288.
 
@@ -101,13 +101,13 @@ Agriculture, 28.
 
 Ahriman, demon, xliv, lxx, lxxi, lxxvi, xcii, 59. n 4, 99. n 1; II, 26. n 2, 135. n 2, 176. n 2, 252. n 1, 260. n 5. See Angra Mainyu.
 
-Ahûm-stû_t_, man, II, 203.
+Ahûm-stû<i>t</i>, man, II, 203.
 
 Ahuna, man, II, 288.
 
 Ahuna Vairya, prayer, lxix, lxxviii, 98, 110, 139, 206. n 5; II, 3; serves as a weapon, II, 275.
 
-Ahura Mazda, god lviii, lxi; 4 (his creations), 207; 208 (his Fravashi); II, 3, 6, 9, 10, 13, 15; 21-34 (Ormazd Ya_s_t); 57 (sacrifices to Ardvi Sûra Anâhita); 86, 116, 119, 138, 142, 151, 152, 154, 155, 156, 157, 162, 164, 169, 180, 199, 201, 227, 228, 230, 231, 232 seq.; 250 (sacrifices to Vayu), 274, 317, 351, &c.
+Ahura Mazda, god lviii, lxi; 4 (his creations), 207; 208 (his Fravashi); II, 3, 6, 9, 10, 13, 15; 21-34 (Ormazd Ya<i>s</i>t); 57 (sacrifices to Ardvi Sûra Anâhita); 86, 116, 119, 138, 142, 151, 152, 154, 155, 156, 157, 162, 164, 169, 180, 199, 201, 227, 228, 230, 231, 232 seq.; 250 (sacrifices to Vayu), 274, 317, 351, &c.
 
 Ahuranis, 140. n 2.
 
@@ -117,15 +117,15 @@ Aipivanghu, II, 222, 303. See Apîvêh.
 
 Aipivôhu, II, 303.
 
-Aîrî_z_\-râsp Aûspôsînân, II, 216. n 6.
+Aîrî<i>z</i>\-râsp Aûspôsînân, II, 216. n 6.
 
 Airyaman, 140, 222, 228, 229, 230-235; II, 4, 13, 35, 37, 41, 42, 43-45, 48.
 
-Airyanem vaê_g_ah, 2, 5, 13, 15, 20. n 2, 30, 57, 78, 116, 279. See Irân Vê_g_.
+Airyanem vaê<i>g</i>ah, 2, 5, 13, 15, 20. n 2, 30, 57, 78, 116, 279. See Irân Vê<i>g</i>.
 
 Airyu, II, 62. n 2, 222, 226. n 6.
 
-Aiwi_h__v_arenah, man, II, 214.
+Aiwi<i>h</i><i>v</i>arenah, man, II, 214.
 
 Akatasha, demon, 136, 218.
 
@@ -139,7 +139,7 @@ Akem Mano, demon, lxxii; II, 297, 308.
 
 Âkhrûra, man, II, 223.
 
-Âkh_s_ti, genius, II, 4, 13, 35, 37, 39, &c. See Peace.
+Âkh<i>s</i>ti, genius, II, 4, 13, 35, 37, 39, &c. See Peace.
 
 Akht, sorcerer, II, 72. n 5.
 
@@ -153,9 +153,9 @@ Alexander eschata, land, II, 123. n 4.
 
 Ambrosia, II, 152. n 5.
 
-Ameretâ_t_, god, lx, lxxi; II, 5, 31, 36, 37, 40, 49, 143, 308, 312.
+Ameretâ<i>t</i>, god, lx, lxxi; II, 5, 31, 36, 37, 40, 49, 143, 308, 312.
 
-Amesha-Spe_n_tas, gods, lix, lxxi, 207, 209; II, 3, 6, 9, 10, 13, 15, 34, 35-40 (Haftân Ya_s_t), 43, 49, 86, 90, 103, 132, 142, 143. n 1, 156, 163, 164,166, 193, 194, 199, 202, 230,290, 291,336, 339, 340, 350.
+Amesha-Spe<i>n</i>tas, gods, lix, lxxi, 207, 209; II, 3, 6, 9, 10, 13, 15, 34, 35-40 (Haftân Ya<i>s</i>t), 43, 49, 86, 90, 103, 132, 142, 143. n 1, 156, 163, 164,166, 193, 194, 199, 202, 230,290, 291,336, 339, 340, 350.
 
 Amru, bird, II, 210.
 
@@ -163,7 +163,7 @@ Amuyamna, genius, II, 164. n 2.
 
 Anahata, goddess, II, 53.
 
-Anâhî_d_, goddess, II, 295. n 2.
+Anâhî<i>d</i>, goddess, II, 295. n 2.
 
 Anâhita, goddess, lv. See Ardvi Sûra.
 
@@ -179,17 +179,17 @@ Anêrân, genius, II, 12, 20, 85.
 
 Anghuyu, II, 215.
 
-Angra Mainyu, demon, lvi, lxii, 4 (his counter-creations), 24, 142-143 (expelled), 204-207 (tempts Zarathu_s_tra), 217-218 (in despair), 228, 229, 230 (creates diseases); II, 29, 33, 44, 105, 113, 144, 150, 154,198, 242; 250 (a part of Vayu belongs to him); 252, 292 (turned to a horse), 255; 274 (dismayed by the birth of Zarathu_s_tra), 284, 308, 310; 317 (mocks the souls of the wicked in hell), 338, 340.
+Angra Mainyu, demon, lvi, lxii, 4 (his counter-creations), 24, 142-143 (expelled), 204-207 (tempts Zarathu<i>s</i>tra), 217-218 (in despair), 228, 229, 230 (creates diseases); II, 29, 33, 44, 105, 113, 144, 150, 154,198, 242; 250 (a part of Vayu belongs to him); 252, 292 (turned to a horse), 255; 274 (dismayed by the birth of Zarathu<i>s</i>tra), 284, 308, 310; 317 (mocks the souls of the wicked in hell), 338, 340.
 
 Animals, lxxiii; five classes of, II, 82.
 
-A_n_kata, mount, II, 218.
+A<i>n</i>kata, mount, II, 218.
 
 Anquetil Duperron, xiv.
 
-A_n_tare-danghu, mount, II, 288.
+A<i>n</i>tare-danghu, mount, II, 288.
 
-A_n_tare-kangha, mount, II, 67. n 5, 288.
+A<i>n</i>tare-kangha, mount, II, 67. n 5, 288.
 
 Anthesterion, month, II, 192. n 1.
 
@@ -205,7 +205,7 @@ Apagadha, 224.
 
 Apakhshîra, land, II, 219.
 
-Apãm Napâ_t_, god, II, 6, 12, 14, 20, 36, 38, 39, 71, 94, 102, 202.
+Apãm Napâ<i>t</i>, god, II, 6, 12, 14, 20, 36, 38, 39, 71, 94, 102, 202.
 
 Apaosha, demon, lxiii; II, 92, 99, 100, 284, 285.
 
@@ -227,7 +227,7 @@ Aras, river, xlix, 3.
 
 Ârâsti, man, II, 203. n 1.
 
-Aravao_s_tra, man, II, 218.
+Aravao<i>s</i>tra, man, II, 218.
 
 Araxes, river, 3.
 
@@ -239,21 +239,21 @@ Ardavan, king, xxxv; II, 237. n 3.
 
 Ardâ Vîrâf, man, 166. n 2; II, 267. n 3.
 
-Ardibehi_s_t, god. See Asha Vahi_s_ta.
+Ardibehi<i>s</i>t, god. See Asha Vahi<i>s</i>ta.
 
-Ardi_s_vang, goddess, II, 270. n 1. See Ashi Vanguhi.
+Ardi<i>s</i>vang, goddess, II, 270. n 1. See Ashi Vanguhi.
 
 Ardvi Sûra Anâhita, goddess, 78; II, 8, 16, 30, 52-84, 106, n 2, 174, 181, 182, 356.
 
-Aredu_s_, 39, 41.
+Aredu<i>s</i>, 39, 41.
 
 Aredvi, measure, 16.
 
-Are_g_angha_n__t_, man, II, 212.
+Are<i>g</i>angha<i>n</i><i>t</i>, man, II, 212.
 
-Are_g_aona, man, II, 214.
+Are<i>g</i>aona, man, II, 214.
 
-Are_g_a_t_\-aspa, man, II, 79, 80, 117, 289. See Ar_g_âsp.
+Are<i>g</i>a<i>t</i>\-aspa, man, II, 79, 80, 117, 289. See Ar<i>g</i>âsp.
 
 Arezahi, region, 216; II, 123, 136, 154, 171. See Arzâh.
 
@@ -263,11 +263,11 @@ Arezura, demon, 24.
 
 Arezva, man, II, 213.
 
-Ar_g_âsp, man, II, 206. n 2, 256. n 3.
+Ar<i>g</i>âsp, man, II, 206. n 2, 256. n 3.
 
-Ari_s_, king, II, 222. n 5. See Arshan.
+Ari<i>s</i>, king, II, 222. n 5. See Arshan.
 
-Ari_s_ shîvâtîr, man, II, 95. n 2.
+Ari<i>s</i> shîvâtîr, man, II, 95. n 2.
 
 Armêsht, 64. n 3.
 
@@ -283,11 +283,11 @@ Arshan, king, II, 222, 303.
 
 Arshya, man, II, 209.
 
-Ar_s_tâ_t_, genius, 11,6,9, 15, 17, 19, 36, 38, 156, r66, 168, 278, 584, 283-285 (Â_s_tâd Ya_s_t). See Â_s_tâd.
+Ar<i>s</i>tâ<i>t</i>, genius, 11,6,9, 15, 17, 19, 36, 38, 156, r66, 168, 278, 584, 283-285 (Â<i>s</i>tâd Ya<i>s</i>t). See Â<i>s</i>tâd.
 
-Ar_s_ti, genius, II, 166.
+Ar<i>s</i>ti, genius, II, 166.
 
-Ar_s_va_n__t_, man, II, 210.
+Ar<i>s</i>va<i>n</i><i>t</i>, man, II, 210.
 
 <span id="p367">[<sup><small>p. 367</small></sup>]</span>
 
@@ -311,11 +311,11 @@ Asabana, man. See Kara Asabana, Vara Asabana.
 
 Asabani, woman, II, 225.
 
-Asan h_v_anva_n__t_, man, II, 203.
+Asan h<i>v</i>anva<i>n</i><i>t</i>, man, II, 203.
 
 Asaya, man, II, 288.
 
-Ascendant (Uparatâ_t_), genius, II, 6, 15, 36, 38, 128, 133, 188, 189, &c.
+Ascendant (Uparatâ<i>t</i>), genius, II, 6, 15, 36, 38, 128, 133, 188, 189, &c.
 
 Asha, lxx.
 
@@ -329,83 +329,83 @@ Ashasaredha, man, II, 213.
 
 Ashasavah, man, II, 254.
 
-Ashâshagaha_d_\-ê _H__v__a__n_da_k_ân, II, 210. n 2.
+Ashâshagaha<i>d</i>\-ê <i>H</i><i>v</i><i>a</i><i>n</i>da<i>k</i>ân, II, 210. n 2.
 
-Asha_s_kyaothna, man, II, 212.
+Asha<i>s</i>kyaothna, man, II, 212.
 
 Asha-stembana, mount, II, 288.
 
 Ashastu, man, II, 209.
 
-Asha Vahi_s_ta, god, lx, lxxii, 207; II, 4, 5, 13, 14, 30, 31, 33. n 1, 35, 36, 37, 38, 40, 41-48 (Ardibehi_s_t Ya_s_t), 49, 128, 133, 142, 275, 285, 297, 351.
+Asha Vahi<i>s</i>ta, god, lx, lxxii, 207; II, 4, 5, 13, 14, 30, 31, 33. n 1, 35, 36, 37, 38, 40, 41-48 (Ardibehi<i>s</i>t Ya<i>s</i>t), 49, 128, 133, 142, 275, 285, 297, 351.
 
 Ashâvanghu, man, II, 210.
 
-Ashavazdah, son of Pourudhâkh_s_ti, II, 70, 71. n 1, 212.
+Ashavazdah, son of Pourudhâkh<i>s</i>ti, II, 70, 71. n 1, 212.
 
-Ashavazdah, son of Sâyu_z_dri, II, 71, 212.
+Ashavazdah, son of Sâyu<i>z</i>dri, II, 71, 212.
 
 Ashemaogha, xl. n 2, lxxiv, 47, 60, 192, 224; II, 26, 45, 46, 184. n 2, 261.
 
-Ashem-yahmài-u_s_ta, man, II, 216.
+Ashem-yahmài-u<i>s</i>ta, man, II, 216.
 
-Ashem-yê_n_hê-rao_k__a_u, man, II, 215.
+Ashem-yê<i>n</i>hê-rao<i>k</i><i>a</i>u, man, II, 215.
 
-Ashi Vanguhi, goddess, lxx; II, 11, 18, 104, 136, 157. n 2, 162, 164, 188, 209, 230, 270-282 (Ashi Ya_s_t), 284, 330.
+Ashi Vanguhi, goddess, lxx; II, 11, 18, 104, 136, 157. n 2, 162, 164, 188, 209, 230, 270-282 (Ashi Ya<i>s</i>t), 284, 330.
 
 Ashô-paoirya, man, II, 214.
 
-Ashô-rao_k_ah, man, II, 204.
+Ashô-rao<i>k</i>ah, man, II, 204.
 
 Ashô-urvatha, man, II, 214.
 
-Ashô-zu_s_ta, bird, 188. n 2.
+Ashô-zu<i>s</i>ta, bird, 188. n 2.
 
 Asklepios, 85. n 5, 219. n 6.
 
 Âsmân, II, 85.
 
-Asmo-_h__v_anva_n__t_, man, II, 33. n 2, 203, 320.
+Asmo-<i>h</i><i>v</i>anva<i>n</i><i>t</i>, man, II, 33. n 2, 203, 320.
 
 Âsnâtar, priest, 63, 64. n 1, 78, 79; II, 332.
 
-Âsnava_n__t_, mount, II, 7, 15, 288, 358.
+Âsnava<i>n</i><i>t</i>, mount, II, 7, 15, 288, 358.
 
-Aspahê a_s_tra, xcvi. n 3.
+Aspahê a<i>s</i>tra, xcvi. n 3.
 
 Aspendyârji's translation, ci.
 
-Aspô-padhô-makh_s_ti, man, II, 214.
+Aspô-padhô-makh<i>s</i>ti, man, II, 214.
 
 Assaults, xcvi, 39-44.
 
 Assyrian Sîrôzah, II, 3.
 
-A_s_ta-aurva_n__t_, man, II, 279.
+A<i>s</i>ta-aurva<i>n</i><i>t</i>, man, II, 279.
 
-Â_s_tâd Ya_s_t, II, 283-285.
+Â<i>s</i>tâd Ya<i>s</i>t, II, 283-285.
 
-A_s_ti, measure, 159.
+A<i>s</i>ti, measure, 159.
 
 Astô-vîdôtu, demon, lxviii, 46, 51, 87. n 4.
 
-A_s_tra, 168. n 5.
+A<i>s</i>tra, 168. n 5.
 
-A_s_tra mairya, 190.
+A<i>s</i>tra mairya, 190.
 
-Astva_t_\-ereta, man, II, 211, 215, 220, 307, 308.
+Astva<i>t</i>\-ereta, man, II, 211, 215, 220, 307, 308.
 
 Asura, lviii, lxxv.
 
-Âtare, god, lxii, lxv, 180; II, 5, 8, 15, 16, 36, 38, 153, 198, 297, 339, 344, 357-361 (Âta_s_ Nyâyi_s_).
+Âtare, god, lxii, lxv, 180; II, 5, 8, 15, 16, 36, 38, 153, 198, 297, 339, 344, 357-361 (Âta<i>s</i> Nyâyi<i>s</i>).
 
 Âtare-danghu, man, II, 207.
 
 Âtare-dâta, man, II, 206.
 
-Âtare-_h__v_arenah, man, II, 207.
+Âtare-<i>h</i><i>v</i>arenah, man, II, 207.
 
-Âtare-_k_ithra, man, II, 206.
+Âtare-<i>k</i>ithra, man, II, 206.
 
 Âtare-pâta, man, II, 206.
 
@@ -415,7 +415,7 @@ Asura, lviii, lxxv.
 
 Âtare-vanu, man, II, 206.
 
-Âtare-za_n_tu, man, II, 207.
+Âtare-za<i>n</i>tu, man, II, 207.
 
 Athenians, xcviii; II, 192. n 1.
 
@@ -423,31 +423,31 @@ Athenians, xcviii; II, 192. n 1.
 
 Âthwya family, II, 61, 113, 221, 254, 326, 328.
 
-Atropatene, land, xlviii. See Âdarbî_g_ân.
+Atropatene, land, xlviii. See Âdarbî<i>g</i>ân.
 
 Âtûrpât, man, II, 329. n 2. See Âdarbâd.
 
 Aurvasâra, man, II, 256.
 
-Aûrvata_d_\-nar, man, II, 204. n 1. See Urvata_t_\-nara.
+Aûrvata<i>d</i>\-nar, man, II, 204. n 1. See Urvata<i>t</i>\-nara.
 
-Aurva_t_\-aspa, king, II, 78, 205. n 5. See Lôhrasp.
+Aurva<i>t</i>\-aspa, king, II, 78, 205. n 5. See Lôhrasp.
 
-Aûsindôm, river, II, 101, n 5, 204. n 3. See Us-hi_n_du.
+Aûsindôm, river, II, 101, n 5, 204. n 3. See Us-hi<i>n</i>du.
 
 Avahya, man, II, 217.
 
-Avaoiri_s_ta, 39, 40.
+Avaoiri<i>s</i>ta, 39, 40.
 
-Avârao_s_tri, man, II, 208.
+Avârao<i>s</i>tri, man, II, 208.
 
-Avareg_a_u, man, II, 218.
+Avareg<i>a</i>u, man, II, 218.
 
 Avarethrabah, man, II, 209.
 
-Avesta, lii. n 2. Meaning of the word, xxx. See Âba_s_tâ and Zand Âvastâ.
+Avesta, lii. n 2. Meaning of the word, xxx. See Âba<i>s</i>tâ and Zand Âvastâ.
 
-Aw_z_\-dânva, lake, II, 301.
+Aw<i>z</i>\-dânva, lake, II, 301.
 
 <span id="p368">[<sup><small>p. 368</small></sup>]</span>
 
@@ -463,7 +463,7 @@ Azerekhsh, xlix.
 
 Âzi, demon, lxv, 194.
 
-A_z_i Dahâka, demon, lxii, lxv, 2, 9, 206. n 4; II, 60, 61, 68. n 3, 75. n 2, 113, 195. n 1, 242, 251. n 4, 253, 254, 294, 297, 307, 326. See Dahâk.
+A<i>z</i>i Dahâka, demon, lxii, lxv, 2, 9, 206. n 4; II, 60, 61, 68. n 3, 75. n 2, 113, 195. n 1, 242, 251. n 4, 253, 254, 294, 297, 307, 326. See Dahâk.
 
 Babylon, land, II, 60. n 3, 253. n 3.
 
@@ -483,23 +483,23 @@ Bahman, day, II, 83.
 
 Bahman, god. See Vohu-manô.
 
-Bahman Ya_s_t, II, 22, 31-34.
+Bahman Ya<i>s</i>t, II, 22, 31-34.
 
 Bahrâm fire, lxxxix, 60. n 2, 62. n 2, 112-116.
 
 Bahrâm, god. See Verethraghna.
 
-Bahrâm Ya_s_t, II, 231-248.
+Bahrâm Ya<i>s</i>t, II, 231-248.
 
 Bâkhdhi, land, 2, 6.
 
 Bâmîân, land, II, 95. n 3.
 
-Bang of Zoroaster and Gû_s_tasp, II, 267. n 3.
+Bang of Zoroaster and Gû<i>s</i>tasp, II, 267. n 3.
 
 Banga, 175.
 
-Baodhô-var_s_ta, 84. n 1, 154, 175. n 1; II, 335.
+Baodhô-var<i>s</i>ta, 84. n 1, 154, 175. n 1; II, 335.
 
 Barana, mount, II, 289.
 
@@ -521,29 +521,29 @@ Bari, demon, II, 49.
 
 Bathing forbidden, xc.
 
-Ba_u_ngha, man, II, 218.
+Ba<i>u</i>ngha, man, II, 218.
 
 Bawri, land, II, 60, 68. n 3.
 
 Bayana, mount, II, 288.
 
-Berezi_s_nu, man, II, 211.
+Berezi<i>s</i>nu, man, II, 211.
 
-Berezva_n__t_, man, II, 215, 218.
+Berezva<i>n</i><i>t</i>, man, II, 215, 218.
 
-Berezy-ar_s_ti, man, II, 206.
+Berezy-ar<i>s</i>ti, man, II, 206.
 
 Bîdirafsh, man, II, 80. n 6.
 
 Bitch (killing a), 173; how treated, 175-180.
 
-Biva_n_dangha, man, II, 210.
+Biva<i>n</i>dangha, man, II, 210.
 
 Bodily punishments, xcix.
 
 Bohlen (P. de), xxii.
 
-Bôr_g_, genius, II, 94. n 2, 102. n 5.
+Bôr<i>g</i>, genius, II, 94. n 2, 102. n 5.
 
 Borrowing, 34. n 2.
 
@@ -553,15 +553,15 @@ Brisson, xiii.
 
 Buddhists, II, 184. n 2.
 
-Bû_g_i, demon, II, 49, 50.
+Bû<i>g</i>i, demon, II, 49, 50.
 
-Bû_g_i-sravah, man, II, 205.
+Bû<i>g</i>i-sravah, man, II, 205.
 
-Bû_g_ra, man, II, 209.
+Bû<i>g</i>ra, man, II, 209.
 
 Bûidhi, demon, 141, 142.
 
-Bûidhi_z_a, demon, 141, 142.
+Bûidhi<i>z</i>a, demon, 141, 142.
 
 Bûiti, demon, 204, 218.
 
@@ -605,7 +605,7 @@ Clothes of the unclean woman, 63-64; thrown on the dead, 65; defiled by the dead
 
 Clouds destroy diseases, 224.
 
-Cock. See Parôdar_s_.
+Cock. See Parôdar<i>s</i>.
 
 Commodianus quoted, II, 141. n 3.
 
@@ -631,13 +631,13 @@ Daênô-vazah, man, II, 214.
 
 Daêvas, lxxx, 30, 102, 205; II, 32, 110, 126, 153, 154, 161, 163, 188, 194, 201, 245, 262, 292.
 
-Daêvô-_t_bi_s_, man, II, 204.
+Daêvô-<i>t</i>bi<i>s</i>, man, II, 204.
 
 Dahae, people, II, 227. n 2.
 
 <span id="p369">[<sup><small>p. 369</small></sup>]</span>
 
-Dahâk, demon, II, 298. n 1. See A_z_i Dahâka.
+Dahâk, demon, II, 298. n 1. See A<i>z</i>i Dahâka.
 
 Dâhi countries, II, 227.
 
@@ -663,27 +663,27 @@ Danghu-srûta, man, II, 214.
 
 Dânus, men, II, 71, 189.
 
-Dâraya_t_\-ratha, man, II, 210.
+Dâraya<i>t</i>\-ratha, man, II, 210.
 
-Dare_g_a river, xlix, 205, 207.
+Dare<i>g</i>a river, xlix, 205, 207.
 
 Darius, II, 107.
 
-Dar_s_inika, man, II, 117, 280.
+Dar<i>s</i>inika, man, II, 117, 280.
 
 Dashtânistân, xciv. n 3, 180-183.
 
-Dâ_s_tâghni, man, II, 218.
+Dâ<i>s</i>tâghni, man, II, 218.
 
-Dâ_s_tayana, man, II, 296.
+Dâ<i>s</i>tayana, man, II, 296.
 
 Dâtem, lxxviii. n 3.
 
-D_a_ungha, man, II, 204.
+D<i>a</i>ungha, man, II, 204.
 
 Dawrâmaêshi, man, II, 217.
 
-Dâzgarag_a_u, man, II, 219.
+Dâzgarag<i>a</i>u, man, II, 219.
 
 Dâzgarâspa, man, II, 209.
 
@@ -691,29 +691,29 @@ Dead matter, c, 49, 50.
 
 Deva, lxxx.
 
-Dîn Ya_s_t, II, 264-269.
+Dîn Ya<i>s</i>t, II, 264-269.
 
-Dînkar_t_, xxxii; II, 159. n 3, 170. n 3.
+Dînkar<i>t</i>, xxxii; II, 159. n 3, 170. n 3.
 
 Diseases created by Ahriman, xciii, 230; cured by Thrita, 219-223; by Airyaman, 233-235. See Medicine, Thraêtaona.
 
 Dis Het, place, II, 253. n 3.
 
-Di_s_ti, measure, 187.
+Di<i>s</i>ti, measure, 187.
 
-Di_z_ukht, II, 254.
+Di<i>z</i>ukht, II, 254.
 
 Dog, 58, 180; described, 151-172, 161-163; praised, 163; how fed, 173; offences to, 153-155; mad, 159-160; yellow-eared, lxxxviii. See Sagdîd, Vanghâpara, Vohunazga, Zairimyangura.
 
-Draf_s_a, II, 26. n 5.
+Draf<i>s</i>a, II, 26. n 5.
 
 Draona, 56. See Drôn.
 
-Draoshi_s_v_a_u, mount, II, 288.
+Draoshi<i>s</i>v<i>a</i>u, mount, II, 288.
 
 Drâtha, man, II, 210.
 
-Dregva_n__t_, demon, lxvii.
+Dregva<i>n</i><i>t</i>, demon, lxvii.
 
 Dried corpse, 103.
 
@@ -721,15 +721,15 @@ Driwi, demon, 218.
 
 Drôn ceremony, II, 319. n 1.
 
-Dru_g_, demon, lxxxvi, 24; her paramours, 196-200, 217; II, 29, 47, 59, 141, 160, 163, 183, 197, 205, 221, 290, 291, 292, 306, 307, 335.
+Dru<i>g</i>, demon, lxxxvi, 24; her paramours, 196-200, 217; II, 29, 47, 59, 141, 160, 163, 183, 197, 205, 221, 290, 291, 292, 306, 307, 335.
 
-Dru_g_askân, demon, II, 334. n 5.
+Dru<i>g</i>askân, demon, II, 334. n 5.
 
-Drva_n__t_, demon, lxvii, lxxii, lxxiv.
+Drva<i>n</i><i>t</i>, demon, lxvii, lxxii, lxxiv.
 
 Drvâspa, genius, II, 9, 17, 110-118, 245. n 1.
 
-Drv_a_u, II, 307.
+Drv<i>a</i>u, II, 307.
 
 Dualism, xliii, xliv. n 1, lvi, lxxi.
 
@@ -737,15 +737,15 @@ Dûraêkaêta, man, II, 71.
 
 Dûsh-hûmat Hell, II, 317. n 1.
 
-Du_z_aka, animal, 152.
+Du<i>z</i>aka, animal, 152.
 
-Du_z_yâirya, II, 107, 108.
+Du<i>z</i>yâirya, II, 107, 108.
 
-Dvara_n__t_s, lxvii, 205.
+Dvara<i>n</i><i>t</i>s, lxvii, 205.
 
 Dvâzdah hômâst, II, 165. n 2.
 
-Earth, worship of the, xci. n 3; genius of the, II, 11, 19; what pleases and what grieves her, 21-33; formulas to purify her, 140; how long unclean from the dead, 66-67; Ya_s_t to the, II, 286.
+Earth, worship of the, xci. n 3; genius of the, II, 11, 19; what pleases and what grieves her, 21-33; formulas to purify her, 140; how long unclean from the dead, 66-67; Ya<i>s</i>t to the, II, 286.
 
 Elements (worship of), liv.
 
@@ -755,15 +755,15 @@ Ephialtes, II, 297. n 1.
 
 Epic (the Persian), lv.
 
-Ereda_t_\-fedhri, woman, II, 195. n 2, 226.
+Ereda<i>t</i>\-fedhri, woman, II, 195. n 2, 226.
 
 Eredhwa, man, II, 215.
 
 Erekhsha, man, II, 95, 103.
 
-Erenavâ_k_, woman, II, 62, 113, 255, 227.
+Erenavâ<i>k</i>, woman, II, 62, 113, 255, 227.
 
-Ereth_e_, genius, II, 11, 18, 282.
+Ereth<i>e</i>, genius, II, 11, 18, 282.
 
 Erezifya, mount, II, 65, 287.
 
@@ -773,7 +773,7 @@ Erezrâspa, man, II, 216.
 
 Erezura, mount, II, 287.
 
-Erezva_n__t_\-danghu, man, II, 218.
+Erezva<i>n</i><i>t</i>\-danghu, man, II, 218.
 
 Erskine, xxii.
 
@@ -793,7 +793,7 @@ Farhangi Jehangiri, xxii.
 
 Farsistan, II, 123. n 3.
 
-Farvardîn Ya_s_t, II, 179.
+Farvardîn Ya<i>s</i>t, II, 179.
 
 Ferîdûn, II, 297. n 5.
 
@@ -803,7 +803,7 @@ Firdausi quoted, 167. n 3; II, 5 8. n 1, 60. n 2, 62. n 2, n 4, 63. n 1, 64. n 2
 
 Fire, its purity, xx, lxxxix; how defiled, 9, 80, 110, 168. n 7; how purified, 135; its innocuity, 51; son of Ahura Mazda, II, 322. n 5.
 
-Fire Nyâyi_s_, II, 349, 356-361.
+Fire Nyâyi<i>s</i>, II, 349, 356-361.
 
 Forest of the holy questions, 234.
 
@@ -811,21 +811,21 @@ Formulas to cleanse a house, fire, water, &c., 133-138, 139-140.
 
 Frabaretar, priest, 63, 64. n 1, 78, 79, 332.
 
-Frâda_d_\-gadman, man, II, 220. n 1.
+Frâda<i>d</i>\-gadman, man, II, 220. n 1.
 
 Fradadhafshu, region, 216; II, 123, 154, 171, 216. n 5, 220. n 1.
 
-Frâda_t_\-_h__v_arenah, man, II, 219.
+Frâda<i>t</i>\-<i>h</i><i>v</i>arenah, man, II, 219.
 
-Frâda_t_\-nara, man, II, 217.
+Frâda<i>t</i>\-nara, man, II, 217.
 
-Fradhâkh_s_ti, the son of the jar, II, 224.
+Fradhâkh<i>s</i>ti, the son of the jar, II, 224.
 
 Fradhidhaya, II, 203.
 
-Frâ_k_ithra, II, 218.
+Frâ<i>k</i>ithra, II, 218.
 
-Frâ_k_ya, II, 213.
+Frâ<i>k</i>ya, II, 213.
 
 Franghâdh, woman, II, 225.
 
@@ -833,19 +833,19 @@ Frangrasyan, man, II, 64, 114, 115, 223. n 1, 278, 300-302, 304, 305, 307. See A
 
 Frânya, man, II, 204.
 
-Fraorao_s_tra, II, 217.
+Fraorao<i>s</i>tra, II, 217.
 
 Fraorepa, mount, II, 287.
 
-Frâpay_a_u, mount, II, 289.
+Frâpay<i>a</i>u, mount, II, 289.
 
 Frârâzi, man, II, 217.
 
 Fraser, xiv.
 
-Fra_s_\-hãm-vareta, man, II, 206.
+Fra<i>s</i>\-hãm-vareta, man, II, 206.
 
-Frashao_s_tra, man, II, 77. n 1, 207, 208, 224. n 3, 331, 342, 343.
+Frashao<i>s</i>tra, man, II, 77. n 1, 207, 208, 224. n 3, 331, 342, 343.
 
 Frashâvakhsha, man, II, 210.
 
@@ -863,23 +863,23 @@ Fratîra, man, II, 218.
 
 Fraya, man, II, 214.
 
-Frâva_n_ku, mount, II, 288.
+Frâva<i>n</i>ku, mount, II, 288.
 
 Fravashis, lxxiv. n 1, 215; II, 6, 10, 13, 14, 17, 20, 26, 33. n 2, 36, 38, 102, 120, 136, 145, 322, 350, 352.
 
 Frayaodha, man, II, 209.
 
-Frâya_t_\-ratha, man, II, 210.
+Frâya<i>t</i>\-ratha, man, II, 210.
 
-Frâyaza_n_ta, man, II, 212, 225.
+Frâyaza<i>n</i>ta, man, II, 212, 225.
 
 Frazdânava, lake, II, 79.
 
-Frên, woman, II, 204. n 1. See Fr_e_ni.
+Frên, woman, II, 204. n 1. See Fr<i>e</i>ni.
 
 Frênah, man, II, 212.
 
-Fr_e_ni, woman, 1° II, 224;—2° II, 225.
+Fr<i>e</i>ni, woman, 1° II, 224;—2° II, 225.
 
 Frînâspa, man, II, 217.
 
@@ -891,7 +891,7 @@ Frya, man, II, 211, 215.
 
 Fryâna, family, II, 71, 216.
 
-F_s_û_s_a-mãthra, II, 27.
+F<i>s</i>û<i>s</i>a-mãthra, II, 27.
 
 Funerals, 26, 94-97.
 
@@ -905,11 +905,11 @@ Gâh, xxx.
 
 Gâhambâr, II, 192. n 1.
 
-Ga_n_darewa, demon, II, 63, 217, 255, 256. n 1, 293.
+Ga<i>n</i>darewa, demon, II, 63, 217, 255, 256. n 1, 293.
 
 Gaokerena, plant, lxix, 219, 221; II, 5, 14, 32, 36, 37.
 
-Gaoma_n__t_, man, II, 218.
+Gaoma<i>n</i><i>t</i>, man, II, 218.
 
 Gaopi-vanghu, man, II, 211.
 
@@ -923,9 +923,9 @@ Garôthmân, II, 317. n 4, 337. n 5.
 
 Garshâh, II, 33. n 1.
 
-Gar_s_ta, man, II, 218.
+Gar<i>s</i>ta, man, II, 218.
 
-Ga_s_i, demon, II, 50.
+Ga<i>s</i>i, demon, II, 50.
 
 Gâthas, liii, 215.
 
@@ -937,11 +937,11 @@ Gavayan, man, II, 203.
 
 Gayadhâsti, man, II, 212, 225.
 
-Gaya, man, II, 350. See Gaya Mare-tan and Gayômar_d_.
+Gaya, man, II, 350. See Gaya Mare-tan and Gayômar<i>d</i>.
 
 Gaya Maretan, man, lxxviii; II, 98. n 3, 200, 227.
 
-Gayômar_d_, man, 20. n 4; II, 33. n 1, 58. n 1.
+Gayômar<i>d</i>, man, 20. n 4; II, 33. n 1, 58. n 1.
 
 Ghilan, land, II, 61. n 3, 117. n 6.
 
@@ -955,7 +955,7 @@ Glory (kingly), II, 7, 8, 11, 15, 18, 136, 153, 156, 170, 232; praised, 280-309.
 
 — (Aryan), 216.
 
-Gôgô_s_asp, man, II, 226. n 5.
+Gôgô<i>s</i>asp, man, II, 226. n 5.
 
 Gômêz, lxxxvi, lxxxviii.
 
@@ -969,11 +969,11 @@ Gôpatishâh, man, 20. n 2; II, 114. n 7, 307. n 6.
 
 <span id="p371">[<sup><small>p. 371</small></sup>]</span>
 
-Gô_s_, genius, II, 9, 17, 88, 110-118 (Gô_s_ Ya_s_t).
+Gô<i>s</i>, genius, II, 9, 17, 88, 110-118 (Gô<i>s</i> Ya<i>s</i>t).
 
-Gô_s_ti Fryân, II, 72. n 5.
+Gô<i>s</i>ti Fryân, II, 72. n 5.
 
-Gô_s_ûrûn, genius, II, 245. n 1.
+Gô<i>s</i>ûrûn, genius, II, 245. n 1.
 
 Gotama, man, II, 184. n 2.
 
@@ -991,33 +991,33 @@ Gushnasp (fire), II, 7. n 5.
 
 Gustahm, II, 71. n 7, 206. n 1.
 
-Gû_s_tâsp, man, II, 8. n 2, 70. n 1, 207. n 3, 256. n 3, 267. n 3. See Vî_s_tâspa.
+Gû<i>s</i>tâsp, man, II, 8. n 2, 70. n 1, 207. n 3, 256. n 3, 267. n 3. See Vî<i>s</i>tâspa.
 
-_G_ad bêsh, II, 173. n 1.
+<i>G</i>ad bêsh, II, 173. n 1.
 
-_G_aghrûdh, woman, II, 225.
+<i>G</i>aghrûdh, woman, II, 225.
 
-_G_ahi, demon, lxvii, 200, 224, 228; II, 45, 47, 226.
+<i>G</i>ahi, demon, lxvii, 200, 224, 228; II, 45, 47, 226.
 
-_G_aini, demon, 222, 223, 224, 228.
+<i>G</i>aini, demon, 222, 223, 224, 228.
 
-_G_âmâsp, man, xxxviii; II, 70. n 1, 77. n 1, 329. n 6.
+<i>G</i>âmâsp, man, xxxviii; II, 70. n 1, 77. n 1, 329. n 6.
 
-_G_âmâspa, man, II, 70, 207, 208, 219, 325, 326, 328, 331.
+<i>G</i>âmâspa, man, II, 70, 207, 208, 219, 325, 326, 328, 331.
 
-_G_amshêd, man, 10. See Yima.
+<i>G</i>amshêd, man, 10. See Yima.
 
-_G_anara, man, II, 213.
+<i>G</i>anara, man, II, 213.
 
-_G_arô-danghu, man, II, 210.
+<i>G</i>arô-danghu, man, II, 210.
 
-_G_arô-vanghu, II, 212.
+<i>G</i>arô-vanghu, II, 212.
 
-_G_atara, mount, II, 289.
+<i>G</i>atara, mount, II, 289.
 
-_G_ihûn, river, II, 95. n 2.
+<i>G</i>ihûn, river, II, 95. n 2.
 
-_G_î_s_ti, man, II, 212.
+<i>G</i>î<i>s</i>ti, man, II, 212.
 
 Habâspa, man, II, 206.
 
@@ -1027,15 +1027,15 @@ Hâdhôkht êvak hômâst, II, 165. n 2.
 
 Hâdhôkht Nask, xxxi; II, 159, 311.
 
-Haêtuma_n__t_, river, 2, 8, 216; II, 302.
+Haêtuma<i>n</i><i>t</i>, river, 2, 8, 216; II, 302.
 
-Haftoiring, II, 89. n 5. See Haptôiri_n_ga.
+Haftoiring, II, 89. n 5. See Haptôiri<i>n</i>ga.
 
 Hair, how disposed of, 186.
 
-Hama_n_kuna, mount, II, 288.
+Hama<i>n</i>kuna, mount, II, 288.
 
-Hamaspa_t_maêdha, II, 192.
+Hamaspa<i>t</i>maêdha, II, 192.
 
 Hãm-beretar vanghvãm, man, II, 211.
 
@@ -1043,19 +1043,19 @@ Hamûn, sea, II, 302. n 2.
 
 Hana, 27.
 
-Hanghaurv_a_ungh, man, II, 208.
+Hanghaurv<i>a</i>ungh, man, II, 208.
 
 Haoma, lii. n 1, lxix, 23. n 1, 72; II, 12, 20, 47, 102, 114, 141, 146. n 2, 246, 271, 277, 312.
 
-Haomô-_h__v_arenah, man, II, 214.
+Haomô-<i>h</i><i>v</i>arenah, man, II, 214.
 
 Haoshyangha, king, II, 58, 224, 251, 275, 292.
 
 Haperesi wood, II, 245.
 
-Hapta Hi_n_du, 2.
+Hapta Hi<i>n</i>du, 2.
 
-Haptôiri_n_ga, II, 9, 16, 97, 175, 194. See Haftoiring.
+Haptôiri<i>n</i>ga, II, 9, 16, 97, 175, 194. See Haftoiring.
 
 Hara Berezaiti, mount, 213, 225, 226, 227, 228; II, 58, 122, 132, 150, 174, 251, 275.
 
@@ -1073,11 +1073,11 @@ Harût, river, 7. n 10.
 
 Harvispotokhm tree, 54. n 2.
 
-Ha_s_i, demon, II, 49, 50.
+Ha<i>s</i>i, demon, II, 49, 50.
 
 Hâthra, measure, 156.
 
-Haurvatâ_t_, genius, lxx, lxxi; II, 5, 14, 31, 37, 40, 48-52 (Khordâd Ya_s_t), 92, 143, 308, 312.
+Haurvatâ<i>t</i>, genius, lxx, lxxi; II, 5, 14, 31, 37, 40, 48-52 (Khordâd Ya<i>s</i>t), 92, 143, 308, 312.
 
 Hâvanan, priest, 63, 64. n 1, 78, 79; II, 332.
 
@@ -1093,7 +1093,7 @@ Hell, 24. n 1, 75. n 2, 204. n 2, 218; II, 320.
 
 Hell's dog, lxxxvii.
 
-Helmend, river, 8. n 2; II, 302. n 3. See Haêtuma_n__t_.
+Helmend, river, 8. n 2; II, 302. n 3. See Haêtuma<i>n</i><i>t</i>.
 
 Herat, land, II, 123. n 4, 288.
 
@@ -1109,9 +1109,9 @@ Highwaymen, 111. n 1.
 
 Hitâspa, man, II, 255, 296.
 
-Hoazarôdathhri-ê Parê_s_tyarô, man, II, 210. n 2.
+Hoazarôdathhri-ê Parê<i>s</i>tyarô, man, II, 210. n 2.
 
-Holy word, 208. See Mãthra Spe_n_ta.
+Holy word, 208. See Mãthra Spe<i>n</i>ta.
 
 Hôm, 59, n 4. See Haoma.
 
@@ -1123,13 +1123,13 @@ House, formula to purify a, 139.
 
 Hufravâkhs, man, II, 219.
 
-Hug_a_u, man, II, 215.
+Hug<i>a</i>u, man, II, 215.
 
 Hukairya, mount, II, 52, 54, 76, 81, 212, 174, 181, 253.
 
 Hukht Paradise, II, 317.
 
-Hu_k_ithra, II, 225.
+Hu<i>k</i>ithra, II, 225.
 
 Huma, woman, II, 224.
 
@@ -1151,7 +1151,7 @@ Husravah, king, II, 65, 114, 115, 222, 223, 256, 257, 278, 303, 307, 327, 328, 3
 
 Husrû, lake, II, 300. n 2.
 
-Hu_s_kyaothna, man, II, 207, 208.
+Hu<i>s</i>kyaothna, man, II, 207, 208.
 
 Hutaosa, woman, II, 77. n 1, 116, 224, 257, 258. n 1, 279, 327. n 1.
 
@@ -1161,45 +1161,45 @@ Huyâirya, II, 107.
 
 Huyazata, man, II, 214.
 
-_H__v_adhâta, man, II, 215.
+<i>H</i><i>v</i>adhâta, man, II, 215.
 
-_H__v_aêtvadatha, xlv.
+<i>H</i><i>v</i>aêtvadatha, xlv.
 
-_H__v_âirizem, land, II, 123.
+<i>H</i><i>v</i>âirizem, land, II, 123.
 
-_H__v_âkhshathra, man, 214.
+<i>H</i><i>v</i>âkhshathra, man, 214.
 
-_H__v_aniratha, lix. n 4, 123, 136, 154, 171, 216. n 1, 313.
+<i>H</i><i>v</i>aniratha, lix. n 4, 123, 136, 154, 171, 216. n 1, 313.
 
-_H__v_a_n_va_n__t_, man, II, 214.
+<i>H</i><i>v</i>a<i>n</i>va<i>n</i><i>t</i>, man, II, 214.
 
 — mount, II, 95, 103, 104. n 3.
 
-_H__v_aredhi, woman, II, 225.
+<i>H</i><i>v</i>aredhi, woman, II, 225.
 
-_H__v_are-_k_aê_s_man, man, II, 218, 219.
+<i>H</i><i>v</i>are-<i>k</i>aê<i>s</i>man, man, II, 218, 219.
 
-_H__v_are-_k_ithra, man, 21. n 2; II, 201. n 1, 204.
+<i>H</i><i>v</i>are-<i>k</i>ithra, man, 21. n 2; II, 201. n 1, 204.
 
-_H__v_arenô, lxii, lxiii. n 1; II, 283, 286-309. See Glory.
+<i>H</i><i>v</i>arenô, lxii, lxiii. n 1; II, 283, 286-309. See Glory.
 
-_H__v_areza, man, II, 218.
+<i>H</i><i>v</i>areza, man, II, 218.
 
 Hvarsht Paradise, II, 317.
 
 Hvaspa, II, 217.
 
-_H__v_embya, man, II, 224. n 2.
+<i>H</i><i>v</i>embya, man, II, 224. n 2.
 
-_H__v_ogvi, woman, lxxix.
+<i>H</i><i>v</i>ogvi, woman, lxxix.
 
-_H__v_ov, woman, II, 195. n 2.
+<i>H</i><i>v</i>ov, woman, II, 195. n 2.
 
-_H__v_ôva, family, II, 77, 207.
+<i>H</i><i>v</i>ôva, family, II, 77, 207.
 
-_H__v_ôvi, woman, II, 207, 224, 267.
+<i>H</i><i>v</i>ôvi, woman, II, 207, 224, 267.
 
-_H__v_yaona, people, II, 79. n 1, 117, 205. n 4, 280.
+<i>H</i><i>v</i>yaona, people, II, 79. n 1, 117, 205. n 4, 280.
 
 Hyde, xiv.
 
@@ -1217,23 +1217,23 @@ Infanticide, II, 335.
 
 Iran, land, II, 123. n 2.
 
-Irân vê_g_, land, xlix, 5. n 4; II, 289. n 3.
+Irân vê<i>g</i>, land, xlix, 5. n 4; II, 289. n 3.
 
-Isa_d_ vâstar, man, 21. n 2; II, 204. n 1. 224. n 4.
+Isa<i>d</i> vâstar, man, 21. n 2; II, 204. n 1. 224. n 4.
 
-Isa_t_\-vâstra, man, II, 201. n 1, 204.
+Isa<i>t</i>\-vâstra, man, II, 201. n 1, 204.
 
 Isfendyâr, 220. n 2; II, 79. n 4, 81, 206. n 2, 241. n 2, 329. n 3.
 
-Ishu_s_ _h__v_âthakhto, lxviii.
+Ishu<i>s</i> <i>h</i><i>v</i>âthakhto, lxviii.
 
-Isva_t_, man, II, 203.
+Isva<i>t</i>, man, II, 203.
 
-I_s_avaê, mount, II, 288.
+I<i>s</i>avaê, mount, II, 288.
 
-I_s_kata, land, II, 123, 288.
+I<i>s</i>kata, land, II, 123, 288.
 
-Ithyê_g_ô, demon, lxviii.
+Ithyê<i>g</i>ô, demon, lxviii.
 
 Joint responsibility, 36. n 1.
 
@@ -1247,9 +1247,9 @@ Kahrkana family, II, 219.
 
 Kahrkatâs, bird, 193.
 
-Ka_h__v_aredha, demon, lxix; II, 45. n 1.
+Ka<i>h</i><i>v</i>aredha, demon, lxix; II, 45. n 1.
 
-Ka_h__v_u_z_i, demon, 228.
+Ka<i>h</i><i>v</i>u<i>z</i>i, demon, 228.
 
 Kakahyu, mount, II, 288.
 
@@ -1257,11 +1257,11 @@ Kalasyâk. lii. n 1. See Krasîâk.
 
 Kamak, bird, II, 296. n 2.
 
-Kamak-sû_d_, man, 220. n 1.
+Kamak-sû<i>d</i>, man, 220. n 1.
 
-Kâmak-vakhshi_s_n, man, II, 220. n 1.
+Kâmak-vakhshi<i>s</i>n, man, II, 220. n 1.
 
-Kang de_z_, land, II, 67, 68, 204. n 1, 288. n 5, 329. n 7.
+Kang de<i>z</i>, land, II, 67, 68, 204. n 1, 288. n 5, 329. n 7.
 
 Kanuka, woman, II, 225.
 
@@ -1269,7 +1269,7 @@ Kaoirisa, mount, II, 289.
 
 Kapasti, 141.
 
-Kapô_t_, wolf, II, 295. n 4,
+Kapô<i>t</i>, wolf, II, 295. n 4,
 
 Kapul, land, 2.
 
@@ -1319,7 +1319,7 @@ Kavis, heretics, II, 26. n 2.
 
 <span id="p373">[<sup><small>p. 373</small></sup>]</span>
 
-Kavis, kings, II, 213, 215, 218. See Aipivôhu, Apîvêh, Ari_s_, Armîn, Arshan, Byârshan, Husravah, Kavâta, Kaus, Khosrav, Pashîn, Qobad, Syâvakhsh, Syâvarshâna, Usa, Usadha.
+Kavis, kings, II, 213, 215, 218. See Aipivôhu, Apîvêh, Ari<i>s</i>, Armîn, Arshan, Byârshan, Husravah, Kavâta, Kaus, Khosrav, Pashîn, Qobad, Syâvakhsh, Syâvarshâna, Usa, Usadha.
 
 Kayadha, lxix.
 
@@ -1337,15 +1337,15 @@ Khashm, demon, II, 224. n 2. See Aêshma.
 
 Khnãthaiti, demon, lxvi, 7, 205; II, 296. n 3.
 
-Khne_n_ta, land, 7.
+Khne<i>n</i>ta, land, 7.
 
 Khorda Avasta, xxx.
 
-Khordâd. See Haurvatâ_t_.
+Khordâd. See Haurvatâ<i>t</i>.
 
-Khordâd Ya_s_t, II, 48-52.
+Khordâd Ya<i>s</i>t, II, 48-52.
 
-Khôrshê_d_ Ya_s_t, II, 87.
+Khôrshê<i>d</i> Ya<i>s</i>t, II, 87.
 
 Khosrav, king, II, 64. n 1, 67. n 6, 114. n 2, 222. n 6, 223. n 5, 327. n 8. See Husravah.
 
@@ -1365,21 +1365,21 @@ Khshaotha, mount, II, 95, 103.
 
 Khshathra vairya, genius, lx, lxxii, 207, 220; II, 5, 14, 34, 36, 37, 40, 49, 95, 103, 142, 351.
 
-Khshathrô-_k_inah, man, II, 212.
+Khshathrô-<i>k</i>inah, man, II, 212.
 
 Khshathrô-saoka, II, 67, 68.
 
 Khshvôiwrâspa, man, II, 211, 212. n 2, 225.
 
-Kh_s_tâvaênya, man, II, 211.
+Kh<i>s</i>tâvaênya, man, II, 211.
 
-Khumbya, man, lxxvi; II, 224. n 2. See _H__v_embya.
+Khumbya, man, lxxvi; II, 224. n 2. See <i>H</i><i>v</i>embya.
 
-Khûr-_k_ashm, II, 220. n 1.
+Khûr-<i>k</i>ashm, II, 220. n 1.
 
-Khûrshê_d_\-_k_îhar, II, 204. n 1.
+Khûrshê<i>d</i>\-<i>k</i>îhar, II, 204. n 1.
 
-Khvanîras, region, II, 220. n 1. See _H__v_aniratha.
+Khvanîras, region, II, 220. n 1. See <i>H</i><i>v</i>aniratha.
 
 Khvarizem, land, II, 123. n 4.
 
@@ -1387,7 +1387,7 @@ Kima Gâtha, II, 318.
 
 Kirman, land, 2.
 
-Kissahi San_g_âh, xxxvii.
+Kissahi San<i>g</i>âh, xxxvii.
 
 Kleuker, xvii.
 
@@ -1399,37 +1399,37 @@ Kostî, 189. n 3, 191. n 4; II, 349.
 
 Krasîâk, II, 161. n 6.
 
-K_ri_sânu, man, lii. n 1.
+K<i>ri</i>sânu, man, lii. n 1.
 
 Kuleng Dis, place, II, 253. n 3.
 
-Ku_n_da, demon, 217; II, 334.
+Ku<i>n</i>da, demon, 217; II, 334.
 
-Ku_n_di, demon, 141, 142.
+Ku<i>n</i>di, demon, 141, 142.
 
-Ku_n_di_z_a, demon, 141, 142.
+Ku<i>n</i>di<i>z</i>a, demon, 141, 142.
 
-Kviri_n_ta, place, II, 253.
+Kviri<i>n</i>ta, place, II, 253.
 
-_K_aê_k_asta, lake, II, 7, 15, 66, 114, 115, 278, 300. n 2.
+<i>K</i>aê<i>k</i>asta, lake, II, 7, 15, 66, 114, 115, 278, 300. n 2.
 
-_K_akhra, land, 2, 9.
+<i>K</i>akhra, land, 2, 9.
 
-_K_akhravâk, bird, II, 217. n 2.
+<i>K</i>akhravâk, bird, II, 217. n 2.
 
 Kâkhshni, man, II, 213.
 
-_K_amru, bird, II, 210.
+<i>K</i>amru, bird, II, 210.
 
-_K_athru_s_amrûta, 134.
+<i>K</i>athru<i>s</i>amrûta, 134.
 
-_K_athwaraspa, man, II, 217.
+<i>K</i>athwaraspa, man, II, 217.
 
-_K_inva_t_\-bridge, lxxxviii, 152, 190, 212-213, 215; II, 12, 20, 121. n 1, 335. n 2, 339.
+<i>K</i>inva<i>t</i>\-bridge, lxxxviii, 152, 190, 212-213, 215; II, 12, 20, 121. n 1, 335. n 2, 339.
 
-_K_ista, genius, II, 10, 18, 153, 164, 166, 216, 264-269, 352.
+<i>K</i>ista, genius, II, 10, 18, 153, 164, 166, 216, 264-269, 352.
 
-_K_isti, genius, 216; II, 11, 18, 164, 166, 282.
+<i>K</i>isti, genius, 216; II, 11, 18, 164, 166, 282.
 
 Law of Mazda, II, 10, 12, 18, 19, 39, 153, 160, 164, 274, 352.
 
@@ -1437,7 +1437,7 @@ Libations unclean, 93.
 
 Light (endless), lxxxii; II, 177, 317, 344.
 
-Lôhrasp, man, II, 78. n 3, 223. n 5. See Aurva_t_\-aspa.
+Lôhrasp, man, II, 78. n 3, 223. n 5. See Aurva<i>t</i>\-aspa.
 
 Maênakha, mount, II, 288.
 
@@ -1447,19 +1447,19 @@ Magism, xxxiv. n 3, liv.
 
 Magophonia, 1.
 
-Magû_s_, II, 4. 11 5.
+Magû<i>s</i>, II, 4. 11 5.
 
 Mahâbâdian, 102. n 2.
 
-Mâh Ya_s_t, II, 88-91.
+Mâh Ya<i>s</i>t, II, 88-91.
 
-Mahraspand, man, II, 329. n 2; genius: see Mãthra Spe_n_ta.
+Mahraspand, man, II, 329. n 2; genius: see Mãthra Spe<i>n</i>ta.
 
-Maid, at the _K_inva_t_\-bridge, 213.
+Maid, at the <i>K</i>inva<i>t</i>\-bridge, 213.
 
-Maidhyô-ma_u_ngha, man, 1° II, 203-209; —2° II, 219.
+Maidhyô-ma<i>u</i>ngha, man, 1° II, 203-209; —2° II, 219.
 
-Malko_s_ân, rain, 16. n 1.
+Malko<i>s</i>ân, rain, 16. n 1.
 
 Man, formulas to purify, 140.
 
@@ -1471,9 +1471,9 @@ Manichees, xxxix, xl.
 
 Manusha, mount, II, 287.
 
-Mânû_s_\-_k_îhar, man, II, 287. n 4.
+Mânû<i>s</i>\-<i>k</i>îhar, man, II, 287. n 4.
 
-Manus-_k_ithra, man, II, 222.
+Manus-<i>k</i>ithra, man, II, 222.
 
 Marcellinus, xlvi.
 
@@ -1497,7 +1497,7 @@ Masmoghân, xlviii.
 
 Maternus, II, 741. n 3.
 
-Mãthra Spe_n_ta, lxxviii. n 6, 230, 231; II, 12, 19, 160, 164, 166, 200, 285.
+Mãthra Spe<i>n</i>ta, lxxviii. n 6, 230, 231; II, 12, 19, 160, 164, 166, 200, 285.
 
 Mãthravâka, man, II, 208, 213.
 
@@ -1517,9 +1517,9 @@ Mazdeism, evolution of, lxxxi.
 
 Mãdrâvangha, man, II, 215.
 
-Mazi_s_i_s_v_a_u, mount, II, 288.
+Mazi<i>s</i>i<i>s</i>v<i>a</i>u, mount, II, 288.
 
-Measures. See Aredvi, A_s_ti, Di_s_ti, Hâthra, Vîbâzu, Vîtâra, Vîtasti, Yu_g_yê_s_ti.
+Measures. See Aredvi, A<i>s</i>ti, Di<i>s</i>ti, Hâthra, Vîbâzu, Vîtâra, Vîtasti, Yu<i>g</i>yê<i>s</i>ti.
 
 Media, seat of Magism, xlvi.
 
@@ -1539,27 +1539,27 @@ Merezu, man, 217.
 
 Microcosm, 187. n 2.
 
-Mihir Nyâyi_s_, II, 349, 353-355.
+Mihir Nyâyi<i>s</i>, II, 349, 353-355.
 
-Mihir Ya_s_t, II, 119-158.
+Mihir Ya<i>s</i>t, II, 119-158.
 
-Mino_k_ihr, man, xlvii; II, 95. n 2, 114. n 7.
+Mino<i>k</i>ihr, man, xlvii; II, 95. n 2, 114. n 7.
 
-Mithra, genius, created by Ahura, lxi; his attributes, lxi. n 1; coequal to Ahura, lx; praised, II, 119-158 (Mihir Ya_s_t), 23, 87. n 4, 208; II, 5, 9, 14, 17, 36, 38, 39, 86, 87, 95, 166, 181, 184, 191, 200, 202, 244, 274, 327, 329, 342, 350, 351; seizes the glory of Yima, II, 294; God of contracts, 48; Mihir Nyâyi_s_, II, 353-355.
+Mithra, genius, created by Ahura, lxi; his attributes, lxi. n 1; coequal to Ahura, lx; praised, II, 119-158 (Mihir Ya<i>s</i>t), 23, 87. n 4, 208; II, 5, 9, 14, 17, 36, 38, 39, 86, 87, 95, 166, 181, 184, 191, 200, 202, 244, 274, 327, 329, 342, 350, 351; seizes the glory of Yima, II, 294; God of contracts, 48; Mihir Nyâyi<i>s</i>, II, 353-355.
 
 Mithra and Ahura, II, 148, 158, 151, 353.
 
-Mithradru_g_es, 48. n 2; II, 120. n 2. 129, 138. n 1, 248.
+Mithradru<i>g</i>es, 48. n 2; II, 120. n 2. 129, 138. n 1, 248.
 
 Mithriac mysteries, II, 151. n 3.
 
-Mitrâ-Varu_n_â, lx.
+Mitrâ-Varu<i>n</i>â, lx.
 
-Mi_z_a, land, II, 218.
+Mi<i>z</i>a, land, II, 218.
 
-Moghu-_t_bi_s_, lii.
+Moghu-<i>t</i>bi<i>s</i>, lii.
 
-Moon, 226-227; II, 8, 16, 176, 88-91 (Mâh Ya_s_t), 355 (Mâh Nyâyi_s_).
+Moon, 226-227; II, 8, 16, 176, 88-91 (Mâh Ya<i>s</i>t), 355 (Mâh Nyâyi<i>s</i>).
 
 Mountain of the holy questions, 234.
 
@@ -1573,7 +1573,7 @@ Murghâb, river, II, 123. n 4.
 
 Myazda, lxix.
 
-Nabânazdi_s_ta, 36. n 3.
+Nabânazdi<i>s</i>ta, 36. n 3.
 
 Naglfar, 186. n 3.
 
@@ -1585,13 +1585,13 @@ Nâîvtâk, river, II, 216. n 1.
 
 Nanârâsti, man, II, 213.
 
-Nanghu_s_m_a_u, mount, II, 288.
+Nanghu<i>s</i>m<i>a</i>u, mount, II, 288.
 
 Naotara, family, II, 66. n 11, 71, 77, 206; Naotaras, II, 257; pursue Ashi, II, 280-281. See Nodar.
 
 Naptya, man, II, 206.
 
-Narâ_s_ansa, god, lxx, 231. n 2.
+Narâ<i>s</i>ansa, god, lxx, 231. n 2.
 
 Nasâ-burner, 211.
 
@@ -1601,7 +1601,7 @@ Nastûr, man, II, 207. n 2.
 
 Nasu, demon, 26; contagion of, 75, 76-77, 57-60, 70, 71, 72, 80, 103-110, 205; expelled, 122-129, 143; II, 49, 50, 51.
 
-N_a_unghaitya, demon, lxxii, 135, 218.
+N<i>a</i>unghaitya, demon, lxxii, 135, 218.
 
 Nemetka wood, II, 245.
 
@@ -1629,7 +1629,7 @@ Nosks, xxxii; II, 159. See Hâdhôkht.
 
 Nû zâdî, 119.
 
-Nyâyi_s_, xxx; II, 349-361.
+Nyâyi<i>s</i>, xxx; II, 349-361.
 
 Oath, formula of, 48. n 2; false, 46.
 
@@ -1659,23 +1659,23 @@ Paêshatah, man, II, 213.
 
 Paêshatah Paitisrîra, man, II, 216.
 
-Paê_s_i_s_, demon, II, 309.
+Paê<i>s</i>i<i>s</i>, demon, II, 309.
 
-Pairikas, demons, lxvi, 112, 142, 222, 223, 228; II, 26, 43, 50, 57, 59, 66, 86, 95, 97, 104, 105, 128, 134, 161, 223, 232, 247, 252, 296. See Khnãthaiti, Du_z_yâirya.
+Pairikas, demons, lxvi, 112, 142, 222, 223, 228; II, 26, 43, 50, 57, 59, 66, 86, 95, 97, 104, 105, 128, 134, 161, 223, 232, 247, 252, 296. See Khnãthaiti, Du<i>z</i>yâirya.
 
-Pairi_s_ta-khshudra, 27.
+Pairi<i>s</i>ta-khshudra, 27.
 
-Pairi_s_tîra, man, II, 210.
+Pairi<i>s</i>tîra, man, II, 210.
 
 Paitidrâtha, man, II, 220.
 
-Paiti_s_a, demon, 218.
+Paiti<i>s</i>a, demon, 218.
 
 Paitivangha, man, II, 210.
 
-Paityar_s_va_n__t_, man, II, 210.
+Paityar<i>s</i>va<i>n</i><i>t</i>, man, II, 210.
 
-Paoiryô-_t_kaêsha, II, 68. n 2, 180. n 1.
+Paoiryô-<i>t</i>kaêsha, II, 68. n 2, 180. n 1.
 
 Paradhâta, man, 220. n 3; II, 7. n 2, 58, 251.
 
@@ -1683,19 +1683,19 @@ Paradise, 213; II, 317, 344.
 
 Paravidyâ, II, 4. n 5.
 
-Pâre_n_di, genius, lxx; II, 11, 18, 104, 136, 330.
+Pâre<i>n</i>di, genius, lxx; II, 11, 18, 104, 136, 330.
 
 Paretacene, land, II, 123. n 4.
 
 Pari. See Pairikas.
 
-Parôdar_s_, bird, 193, 194; II, 322.
+Parôdar<i>s</i>, bird, 193, 194; II, 322.
 
 Parôdasma, man, II, 218.
 
-Parsha_n_ta, man, II, 217.
+Parsha<i>n</i>ta, man, II, 217.
 
-Parsha_t_\-g_a_u_s_, man, II, 203, 219.
+Parsha<i>t</i>\-g<i>a</i>u<i>s</i>, man, II, 203, 219.
 
 Parsis, xi.
 
@@ -1711,17 +1711,17 @@ Paulo de St. Barthélemy, xxi.
 
 Pausanias, xlii.
 
-Payanghrô-makh_s_ti, man, II, 214.
+Payanghrô-makh<i>s</i>ti, man, II, 214.
 
 Pâzinah, man, II, 214.
 
-Peace, II, 164, 249. See Âkh_s_ti.
+Peace, II, 164, 249. See Âkh<i>s</i>ti.
 
 Peacock, lxxxiii. n 4.
 
-P_e_dvaêpa, II, 73.
+P<i>e</i>dvaêpa, II, 73.
 
-P_e_han, man, II, 293. n 4.
+P<i>e</i>han, man, II, 293. n 4.
 
 Penalties, in the Vendîdâd, xcviii; for a woman unclean drinking water, 91; for breach of contract, 37; for burning dead matter, 111; for burying a corpse, 31; for defiling fire or water, 80-81; a river or trees, 118; the ground, 67-69; for eating of a corpse, 80; for giving bad food to a dog, 156-158; for a false oath, 47-48; for a false cleanser, 131; for intercourse with a menstruous woman, 184-185, 202; for killing a Vanghâpara dog, 153;—any dog, 165-169; for smiting a dog, 153-155;—a bitch pregnant, 180; for sodomy, 111. n 1; for sowing or watering the ground unclean, 67; for throwing clothes on the dead, 99-100.
 
@@ -1731,7 +1731,7 @@ Penom, xciii, 168. n 7.
 
 Perethu-afzem, man, II, 219.
 
-Perethu-ar_s_ti, man, II, 206.
+Perethu-ar<i>s</i>ti, man, II, 206.
 
 Persian inscriptions, xxv.
 
@@ -1741,7 +1741,7 @@ Peshana, man, II, 79.
 
 Peshdâdians, men, II, 58. n 1. See Paradhâta.
 
-Peshô-_k_angha, man, II, 80.
+Peshô-<i>k</i>angha, man, II, 80.
 
 Peshôtanu, lxxvi, xcvi, 39, 40, 41, 42, 43, 44, 49, 50, 61, 67, 68, 74, 91, 103, 144, 154, 157, 160, 172-174.
 
@@ -1761,13 +1761,13 @@ Pisanah, lake, II, 62.
 
 — prince, II, 222, 303.
 
-Pi_s_în, valley, II, 62. n 5.
+Pi<i>s</i>în, valley, II, 62. n 5.
 
-Pi_s_kyaothna, man, II, 207.
+Pi<i>s</i>kyaothna, man, II, 207.
 
 Pitaona, man, II, 296.
 
-Pit_ri_s, lxxiv. n 2; II, 179.
+Pit<i>ri</i>s, lxxiv. n 2; II, 179.
 
 Planets, II, 92, 176. n 2.
 
@@ -1781,15 +1781,15 @@ Poseidon, II, 152. n 5.
 
 Pouru-bangha, man, II, 218.
 
-Pourudhâkh_s_ti, II, 70, 211, 212, 225.
+Pourudhâkh<i>s</i>ti, II, 70, 211, 212, 225.
 
-Pouru-_g_îra, man, II, 22 1.
+Pouru-<i>g</i>îra, man, II, 22 1.
 
-Pouru-_k_ista, man, II, 204. n 1, 224.
+Pouru-<i>k</i>ista, man, II, 204. n 1, 224.
 
 Pourushaspa, man, 205, 206, 218; II, 58, 203. n 1, 325, 328.
 
-Pouru_s_ti, man, II, 213.
+Pouru<i>s</i>ti, man, II, 213.
 
 Pouruta, land, II, 123.
 
@@ -1819,51 +1819,51 @@ Qobad, king, II, 222. n 3. See Kavâta.
 
 Raêmana, mount, II, 288.
 
-Raêva_n__t_, mount, II, 8, 15, 289, 356.
+Raêva<i>n</i><i>t</i>, mount, II, 8, 15, 289, 356.
 
 Ragha, land, 2, 8. See Rai.
 
 Rai, land, xlvii.
 
-Rama _H__v_âstra, genius, lxiv, 23; II, 5, 9, 14, 17, 18, 34, 36, 38, 119, 158, 249, 263, 327.
+Rama <i>H</i><i>v</i>âstra, genius, lxiv, 23; II, 5, 9, 14, 17, 18, 34, 36, 38, 119, 158, 249, 263, 327.
 
 Râm day, II, 88.
 
-Râm Ya_s_t, II, 249.
+Râm Ya<i>s</i>t, II, 249.
 
 Rangha, river, 3; II, 69, 73, 146, 173, 255, 326, 328.
 
 Raoidhita, mount, II, 287.
 
-Rao_k_as-_k_aê_s_man, man, II, 216, 219.
+Rao<i>k</i>as-<i>k</i>aê<i>s</i>man, man, II, 216, 219.
 
-Rao_z_dya, country, II, 218.
+Rao<i>z</i>dya, country, II, 218.
 
 Rapitvin, II, 159.
 
 Rasa, 3.
 
-Rasãstâ_t_, genius, II, 11, 18, 282.
+Rasãstâ<i>t</i>, genius, II, 11, 18, 282.
 
 Râshidaddin, xliii.
 
-Rashn Ya_s_t, II, 168-178.
+Rashn Ya<i>s</i>t, II, 168-178.
 
 Rashnu, genius, lxi, xcix, 48, 87. n 4; II, 6, 9, 15, 17, 36, 38, 40, 129, 139, 145, 152, 156, 164, 166, 168-178, 181, 191, 200, 244, 274, 283, 327, 342.
 
 Rask, xxii.
 
-Raspi. See Rathwi_s_kare.
+Raspi. See Rathwi<i>s</i>kare.
 
-Râstare-vagha_n__t_, man, II, 209.
+Râstare-vagha<i>n</i><i>t</i>, man, II, 209.
 
 Rata, genius, lxx, 209; II, 5, 14, 36, 37, 40, 330, 338.
 
-Rathwi_s_kare, priest, 64, 78, 79; II, 332.
+Rathwi<i>s</i>kare, priest, 64, 78, 79; II, 332.
 
 Ratu, priest, 56, 91.
 
-Rava_n__t_, man, II, 217.
+Rava<i>n</i><i>t</i>, man, II, 217.
 
 Raven, an incarnation of Victory, II, 236; of Glory, 294. n 3.
 
@@ -1877,7 +1877,7 @@ Romans on Manes, II, 192.
 
 Romer, xxv. n.
 
-Rôshanô-_k_a_s_m, man, II, 220. n 1.
+Rôshanô-<i>k</i>a<i>s</i>m, man, II, 220. n 1.
 
 Royishnômand, mount, II, 287. n 9.
 
@@ -1909,7 +1909,7 @@ Sairima, II, 62. n 2, 226. n 6.
 
 Sairimyan countries, II, 226, 227.
 
-Sairiv_a_u, mount, II, 288.
+Sairiv<i>a</i>u, mount, II, 288.
 
 Saka, II, 161. n 4.
 
@@ -1919,9 +1919,9 @@ Sanaka, II, 146, 173.
 
 Saoka, genius, 215, 230, 231; II, 4, 13, 30, 35, 37, 48, 160.
 
-Saoka_n_ta, mount, II, 352.
+Saoka<i>n</i>ta, mount, II, 352.
 
-Saoshya_n__t_, man, lxvii, lxxix, 205; II, 165, 167, 184, 189, 195. n 2, 197, 211. n 1, 220, 224. n 3, 226. n 3, 227, 270, 306. See Sôshyôs.
+Saoshya<i>n</i><i>t</i>, man, lxvii, lxxix, 205; II, 165, 167, 184, 189, 195. n 2, 197, 211. n 1, 220, 224. n 3, 226. n 3, 227, 270, 306. See Sôshyôs.
 
 Sârana, 221. n 1.
 
@@ -1935,15 +1935,15 @@ Satvês, star, II, 89. n 5.
 
 Saukavastân, land, II, 114.
 
-S_a_ungha, man, II, 218.
+S<i>a</i>ungha, man, II, 218.
 
 Sauru, demon, lxviii, lxxii, lxxxi, 135, 218; II, 123, 136, 154, 171.
 
 Savahi, region, II, 210. n 2, 216.
 
-Savanghavâ_k_, woman, II, 62, 113, 255, 277.
+Savanghavâ<i>k</i>, woman, II, 62, 113, 255, 277.
 
-Sâyu_z_dri, man, II, 71, 212.
+Sâyu<i>z</i>dri, man, II, 71, 212.
 
 Scythes, II, 161. n 4.
 
@@ -1973,11 +1973,11 @@ Shîz, land, xlvii, xlix.
 
 Sidôs, II, 314. See Sadis.
 
-Si_k_idava, II, 288.
+Si<i>k</i>idava, II, 288.
 
-Si_k_idâv, II, 288. n 5.
+Si<i>k</i>idâv, II, 288. n 5.
 
-Sîmaê_z_i, II, 208.
+Sîmaê<i>z</i>i, II, 208.
 
 Sîmûrgh, II, 173. n 1, 203. n 4, 241. n 2. See Sînamrû and Saêna.
 
@@ -1993,7 +1993,7 @@ Sîrôzah, xxx; II, 1-20.
 
 Sî-shû, 117. n 2.
 
-Skâraya_t_\-ratha, II, 210.
+Skâraya<i>t</i>\-ratha, II, 210.
 
 Slavonian fire-worship, 168. n 7.
 
@@ -2025,19 +2025,19 @@ Spendârmad, genius, II, 192. n 1.
 
 Spend-dât, man, II, 329. n 3.
 
-Spen_g_aghra, demon, lxiii, 217.
+Spen<i>g</i>aghra, demon, lxiii, 217.
 
-Spen_g_auru_s_ka, man, II, 117, 280.
+Spen<i>g</i>auru<i>s</i>ka, man, II, 117, 280.
 
-Spe_n_ta, man, II, 217.
+Spe<i>n</i>ta, man, II, 217.
 
-Spe_n_ta Ârmaiti, genius, lx, lxix, lxxii, 13, 15, 20. n 4, 31, 110, 207, 208; II, 5, 14, 31, 32, 33. n 1, 36, 37, 40, 49, 142, 181, 274, 340.
+Spe<i>n</i>ta Ârmaiti, genius, lx, lxix, lxxii, 13, 15, 20. n 4, 31, 110, 207, 208; II, 5, 14, 31, 32, 33. n 1, 36, 37, 40, 49, 142, 181, 274, 340.
 
-Spe_n_ta Mainyu, II, 10, 18, 34, 157, 183, 187, 297, 351.
+Spe<i>n</i>ta Mainyu, II, 10, 18, 34, 157, 183, 187, 297, 351.
 
-Spe_n_tô-dâta, man, II, 207, 289.
+Spe<i>n</i>tô-dâta, man, II, 207, 289.
 
-Spe_n_tô-khratu, man, II, 213.
+Spe<i>n</i>tô-khratu, man, II, 213.
 
 Sphinx, 205. n 2.
 
@@ -2049,17 +2049,17 @@ Spitavarena, mount, II, 289.
 
 Spiti, man, II, 216.
 
-Spîtôî_d_\-i Aûspôsînân, II, 216. n 5.
+Spîtôî<i>d</i>\-i Aûspôsînân, II, 216. n 5.
 
 Spîtûr, man, II, 297. n 5.
 
 Spityura, man, II, 297.
 
-Sraosha, genius, lxx, 87. n 4, 194, 208, 216, 217; II, 6, 15, 25, 30, 38, 40, 129, 132, 145, 159-167 (Srôsh Ya_s_t), 200, 227, 274, 327, 332, 339.
+Sraosha, genius, lxx, 87. n 4, 194, 208, 216, 217; II, 6, 15, 25, 30, 38, 40, 129, 132, 145, 159-167 (Srôsh Ya<i>s</i>t), 200, 227, 274, 327, 332, 339.
 
 Sraoshâ-varez, 56, 64, 78, 79, 91, 192; II, 332.
 
-Sraoshô-_k_arana, xliv. n 3, 56. n 2, 151. n 3, 169.
+Sraoshô-<i>k</i>arana, xliv. n 3, 56. n 2, 151. n 3, 169.
 
 Sravah, 217.
 
@@ -2071,15 +2071,15 @@ Srît, woman, II, 204. n 1.
 
 Srôsh, 20. n 2; II, 9, 17. See Sraosha.
 
-Srôsh Ya_s_t Hâdhôkht, II, 159-167.
+Srôsh Ya<i>s</i>t Hâdhôkht, II, 159-167.
 
-Srûta_t_\-fedhri, woman, II, 195. n 2, 226.
+Srûta<i>t</i>\-fedhri, woman, II, 195. n 2, 226.
 
-Srûta_t_\-spâdha, man, II, 213.
+Srûta<i>t</i>\-spâdha, man, II, 213.
 
 Srvara, II, 293.
 
-Staotar vahi_s_tahê ashyêhê, II, 211, 225.
+Staotar vahi<i>s</i>tahê ashyêhê, II, 211, 225.
 
 Staota yêsnya, II, 335.
 
@@ -2089,7 +2089,7 @@ Stars, lxxiv, 227; II, 9, 16, 89. n 5, 92, 176.
 
 Stipi, man, II, 217.
 
-Stiva_n__t_, man, II, 216.
+Stiva<i>n</i><i>t</i>, man, II, 216.
 
 Strabo, xlvi, 22. n 2; II, 227. n 2.
 
@@ -2099,13 +2099,13 @@ Sugdha, land, 2, 5; II, 123.
 
 Suidas, II, 151. n 3.
 
-Sun, 225; II, 8, 16, 85-87 (Sun Ya_s_t), 177, 349 (Sun Nyâyi_s_).
+Sun, 225; II, 8, 16, 85-87 (Sun Ya<i>s</i>t), 177, 349 (Sun Nyâyi<i>s</i>).
 
 Sûroyazata, man, II, 215.
 
 Susiana, land, II, 288. n 2.
 
-Sutûd Yê_s_t, II, 152. n 1.
+Sutûd Yê<i>s</i>t, II, 152. n 1.
 
 Syâk-ômand, mount, II, 288. n 7.
 
@@ -2119,7 +2119,7 @@ Syâvarshâna, prince, II, 67. n 5, 114, 115, 222, 278, 303-304, 326. See Syâva
 
 Syâvâspi, man, II, 213.
 
-_S_abdabrahma, II, 4. n 5.
+<i>S</i>abdabrahma, II, 4. n 5.
 
 Taêra, mount, II, 58, 175, 251, 289.
 
@@ -2139,19 +2139,19 @@ Tanuperetha, xcvi.
 
 Tanya, land, II, 218.
 
-Tãthrava_n__t_, man, II, 79, 117, 280.
+Tãthrava<i>n</i><i>t</i>, man, II, 79, 117, 280.
 
 Tauru, demon, lxxii, 135, 218; II, 213.
 
 Theopomp, xliii.
 
-Thraêtaona, kills A_z_i, xxiv, lxiii, 2, 9; II, 61, 63, 113, 221, 222. n 2, 226. n 6, 242, 254, 277, 294, 307, 326; as a physician, 219.
+Thraêtaona, kills A<i>z</i>i, xxiv, lxiii, 2, 9; II, 61, 63, 113, 221, 222. n 2, 226. n 6, 242, 254, 277, 294, 307, 326; as a physician, 219.
 
-Thrimithva_n__t_, man, II, 204.
+Thrimithva<i>n</i><i>t</i>, man, II, 204.
 
-Thri_s_amrûta, 134.
+Thri<i>s</i>amrûta, 134.
 
-Thri_t_, man, II, 218.
+Thri<i>t</i>, man, II, 218.
 
 Thrita, man, 219-223; II, 212. See Ashavazdah.
 
@@ -2167,11 +2167,11 @@ Tiridates, prince, xxxiv.
 
 Tîrô-nakathwa, man, II, 219.
 
-Tîr Ya_s_t, II, 92-109.
+Tîr Ya<i>s</i>t, II, 92-109.
 
-Ti_s_trya, star, lxiii, lxviii, lxxiv, 54. n 2, 215; II, 9, 16, 34, 89. n 5, 92-109 (Tîr Ya_s_t), 157, 173. n 1, 175, 284, 285, 351, 354.
+Ti<i>s</i>trya, star, lxiii, lxviii, lxxiv, 54. n 2, 215; II, 9, 16, 34, 89. n 5, 92-109 (Tîr Ya<i>s</i>t), 157, 173. n 1, 175, 284, 285, 351, 354.
 
-Tî_z_yar_s_ti, man, II, 206.
+Tî<i>z</i>yar<i>s</i>ti, man, II, 206.
 
 Tortoise, to be killed, 167.
 
@@ -2197,7 +2197,7 @@ Tus, a city, 7. n 6.
 
 Tusa, man, II, 66, 68, 206. n 1, 280. n 4.
 
-Tu_s_nâmaiti, woman, II, 225.
+Tu<i>s</i>nâmaiti, woman, II, 225.
 
 Tychsen, xviii.
 
@@ -2205,11 +2205,11 @@ Udrya, mount, II, 289.
 
 Ukhshan, man, II, 215.
 
-Ukhshya_t_\-ereta, man, II, 79, 195. n 2, 220, 226. n 1.
+Ukhshya<i>t</i>\-ereta, man, II, 79, 195. n 2, 220, 226. n 1.
 
-Ukhshya_t_\-nemah, man, II, 195. n 2, 220, 226. n 2.
+Ukhshya<i>t</i>\-nemah, man, II, 195. n 2, 220, 226. n 2.
 
-Ukhshyê_n_ti, woman, II, 225.
+Ukhshyê<i>n</i>ti, woman, II, 225.
 
 Ulysses, II, 280. n 4.
 
@@ -2217,7 +2217,7 @@ Unlawful unions, 174-175.
 
 Upaman, duration of the, 145-151.
 
-Urûdhaya_n__t_, woman, II, 225.
+Urûdhaya<i>n</i><i>t</i>, woman, II, 225.
 
 Urûdhu, man, II, 212.
 
@@ -2233,7 +2233,7 @@ Urvarân, 190. n 1.
 
 Urvâsni, 94. n 1.
 
-Urvata_t_\-nara, man, 21; II, 201, 204, 219.
+Urvata<i>t</i>\-nara, man, 21; II, 201, 204, 219.
 
 Usa, king, II, 65, 242. n 1.
 
@@ -2245,35 +2245,35 @@ Ushaoma, mount, II, 288.
 
 Ushi-darena, mount, II, II, 19, 33. n 1, 283, 285, 287, 309.
 
-Ushi-dh_a_u, mount, II, 287, 302.
+Ushi-dh<i>a</i>u, mount, II, 287, 302.
 
-Us-hi_n_du, mount, II, 101. See Aûsindôm.
+Us-hi<i>n</i>du, mount, II, 101. See Aûsindôm.
 
 Usmânara, man, II, 203, 215.
 
 Usnâka, man, II, 214.
 
-Uspaê_s_ta-saêna family, II, 219.
+Uspaê<i>s</i>ta-saêna family, II, 219.
 
 Uspãsnu, man, II, 216.
 
-U_s_ta-_h__v_arenah, man, II, 288.
+U<i>s</i>ta-<i>h</i><i>v</i>arenah, man, II, 288.
 
-U_s_tavaiti, II, 225, 314.
+U<i>s</i>tavaiti, II, 225, 314.
 
-U_s_tâza_n_ta, man, II, 214.
+U<i>s</i>tâza<i>n</i>ta, man, II, 214.
 
-U_s_tra, man, II, 214.
+U<i>s</i>tra, man, II, 214.
 
-U_s_tûnavand, land, xlviii.
+U<i>s</i>tûnavand, land, xlviii.
 
-Utayuti-Vi_t_kavi, man, II, 219.
+Utayuti-Vi<i>t</i>kavi, man, II, 219.
 
 Uzava, king, II, 221, 222. n 3, 329. n 4.
 
 Uzya, man, II, 215.
 
-Vadhû_t_, woman, II, 225.
+Vadhû<i>t</i>, woman, II, 225.
 
 Vaêdhayangha, II, 210.
 
@@ -2283,7 +2283,7 @@ Vaêsaka, man, II, 67, 68.
 
 Vafra Navâza, man, II, 68, 78. n 2, 326, 328.
 
-Vafray_a_u, mount, II, 288.
+Vafray<i>a</i>u, mount, II, 288.
 
 Vafrômand, mount, II, 288. n 7.
 
@@ -2301,19 +2301,19 @@ Vâkhedhrakaê, mount, II, 288.
 
 Valkash, man, xxxiii, xxxiv, xxxv.
 
-Vanand, star, II, 89. n 5. See Vana_n__t_.
+Vanand, star, II, 89. n 5. See Vana<i>n</i><i>t</i>.
 
-Vana_n__t_, star, II, 9, 16, 97. n 6, 175, 310, 351.
+Vana<i>n</i><i>t</i>, star, II, 9, 16, 97. n 6, 175, 310, 351.
 
 Vanâra, man, II, 205.
 
-Va_n_daremaini, man, II, 80.
+Va<i>n</i>daremaini, man, II, 80.
 
 <span id="p379">[<sup><small>p. 379</small></sup>]</span>
 
 Vanghâpara, 152.
 
-Vanghazd_a_u, II, 301.
+Vanghazd<i>a</i>u, II, 301.
 
 Vanghu-dhâta, man, II, 215.
 
@@ -2333,15 +2333,15 @@ Varasio, 210. n 2.
 
 Varâza, man, II, 203, 205.
 
-Vâreda_d_\-gadman, II, 220. n 1.
+Vâreda<i>d</i>\-gadman, II, 220. n 1.
 
-Vareda_t_\-_h__v_arenah, man, II, 220.
+Vareda<i>t</i>\-<i>h</i><i>v</i>arenah, man, II, 220.
 
 Varedhakas, people, II, 117, 205. n 4, 280.
 
 Varena, land, lviii, lxiii, 2, 9, 113; II, 254. See Varenya.
 
-Vâren_g_ana, bird, II, 241.
+Vâren<i>g</i>ana, bird, II, 241.
 
 Varenya Daêvas, lxvii, 136; II, 29, 33, 59, 136, 144, 154, 197, 224, 251.
 
@@ -2353,27 +2353,27 @@ Vareshnu, II, 208.
 
 Varesmapa, man, II, 213.
 
-Varesmô-rao_k_ah, man, II, 204, 219.
+Varesmô-rao<i>k</i>ah, man, II, 204, 219.
 
-Var_g_emkard, 16. n 4.
+Var<i>g</i>emkard, 16. n 4.
 
-Var_s_ni, man, II, 213.
+Var<i>s</i>ni, man, II, 213.
 
-Varu_n_a, god, xxix, lviii.
+Varu<i>n</i>a, god, xxix, lviii.
 
-Vasish_th_a, II, 224. n 2.
+Vasish<i>th</i>a, II, 224. n 2.
 
 Vasna, man, II, 188.
 
 Vaya, 51.
 
-Vayu, genius, lxiv, 87. n 4, 207, 208; II, 10, 18, 34, 334; his names, II, 258-260; his Ya_s_t, II, 249-263. See Vai.
+Vayu, genius, lxiv, 87. n 4, 207, 208; II, 10, 18, 34, 334; his names, II, 258-260; his Ya<i>s</i>t, II, 249-263. See Vai.
 
 Vâyu, god, lxiv.
 
-Va_z_âspa, man, II, 206.
+Va<i>z</i>âspa, man, II, 206.
 
-Vâzi_s_ta (fire), lxiii, 216.
+Vâzi<i>s</i>ta (fire), lxiii, 216.
 
 Veh, river, 3.
 
@@ -2391,7 +2391,7 @@ Vîdadâfsh, region; II, 220. n 1.
 
 Vîdadhafshu, region, II, 123, 154, 171, 216.
 
-Vîda_t_\-g_a_u, man, II, 219.
+Vîda<i>t</i>\-g<i>a</i>u, man, II, 219.
 
 Vidhvana, mount, II, 288.
 
@@ -2421,13 +2421,13 @@ Vîsrûta, man, 217.
 
 Vîsrûtâra, man, II, 218.
 
-Vî_s_tâspa, man, II, 70. n 1, 77, 78, 79, 81, 117, 204, 205. n 5, 224. n 5, n 6, 257, 258. n 1, 280. n 4, 306, 308; sacrifices to Ashi, II, 279; to Ahura, II, 282.
+Vî<i>s</i>tâspa, man, II, 70. n 1, 77, 78, 79, 81, 117, 204, 205. n 5, 224. n 5, n 6, 257, 258. n 1, 280. n 4, 306, 308; sacrifices to Ashi, II, 279; to Ahura, II, 282.
 
-Vî_s_tâsp Ya_s_t, II, 328-345.
+Vî<i>s</i>tâsp Ya<i>s</i>t, II, 328-345.
 
 Vistauru, man, II, 71, 206.
 
-Vi_s_ve deva, 102. n 1.
+Vi<i>s</i>ve deva, 102. n 1.
 
 Vîtanguhaiti, river, II, 72.
 
@@ -2437,9 +2437,9 @@ Vîtasti, measure, 187.
 
 Vîvanghat, man, 10, 11, 13; II, 217, 221, 293, 294, 295.
 
-Vîzare_s_a, demon, lxviii. n 7, 87. n 4, 212.
+Vîzare<i>s</i>a, demon, lxviii. n 7, 87. n 4, 212.
 
-Vî_z_yar_s_ti, man, II, 206.
+Vî<i>z</i>yar<i>s</i>ti, man, II, 206.
 
 Vohu-manô, god, lx, lxxii, 46, 207, 209; II, 4, 13, 30, 31, 35, 37, 39, 49, 88, 102. n 2, 142, 198, 218, 297, 308, 351; door-keeper of Paradise, 213; his riches, 204; righteous man, 209; clothes, 210.
 
@@ -2449,9 +2449,9 @@ Vohu-nemah, man, II, 208, 213.
 
 Vohu-peresa, man, II, 218.
 
-Vohu-rao_k_ah, man, II, 204, 212.
+Vohu-rao<i>k</i>ah, man, II, 204, 212.
 
-Vohu-u_s_tra, man, II, 217.
+Vohu-u<i>s</i>tra, man, II, 217.
 
 Vohu-vazdah, II, 213.
 
@@ -2459,9 +2459,9 @@ Vohv-asti, man, II, 203, 211.
 
 Vologeses, king. See Valkash.
 
-Vouru-bare_s_ti, region, 216; II, 123, 154, 171, 217. n 1, 220. n 1.
+Vouru-bare<i>s</i>ti, region, 216; II, 123, 154, 171, 217. n 1, 220. n 1.
 
-Vouru-gare_s_ti, region, 216; II, 123, 154, 171, 217. n 1, 220. n 1.
+Vouru-gare<i>s</i>ti, region, 216; II, 123, 154, 171, 217. n 1, 220. n 1.
 
 Vouru-Kasha, sea, lxiii, 53, 54, 59. n 4, 214, 225, 226, 227; II, 54, 63, 64, 81, 94, 96, 99, 100, 101, 103, 104, 106, 172, 173, 181, 194, 196.
 
@@ -2471,13 +2471,13 @@ Vouru-savah, man, II, 220.
 
 Vourusha, man, II, 288.
 
-V_ri_tra, demon, II, 141. n 3.
+V<i>ri</i>tra, demon, II, 141. n 3.
 
-V_ri_trahan, lxiv.
+V<i>ri</i>trahan, lxiv.
 
 Vyâmbura, demon, II, 245. n 2.
 
-Vyar_s_va_n__t_, man, II, 210.
+Vyar<i>s</i>va<i>n</i><i>t</i>, man, II, 210.
 
 Vyâtana, man, II, 218.
 
@@ -2493,7 +2493,7 @@ Water, 50, 53; II, 8, 16. See Âbân and Ardvi Sûra.
 
 — formula to cleanse, 140.
 
-— Nyâyi_s_, II, 349, 356-357.
+— Nyâyi<i>s</i>, II, 349, 356-357.
 
 Weasel, 59. n 1.
 
@@ -2515,9 +2515,9 @@ Xanthus, on the Avesta, xii.
 
 Yâdkâr î Zarîrân, II, 205, 206. n 2, 208.
 
-Yaêtu_s_\-g_a_u, man, II, 218.
+Yaêtu<i>s</i>\-g<i>a</i>u, man, II, 218.
 
-Ya_g_ata, lxxx.
+Ya<i>g</i>ata, lxxx.
 
 Yama, man, xxiv, lxxv, 12. n 1.
 
@@ -2525,7 +2525,7 @@ Yaqût, xlviii.
 
 Yasna, II, 165. n 2.
 
-Ya_s_ts, II, 21-345.
+Ya<i>s</i>ts, II, 21-345.
 
 Yathâ ahû vairyô, 128; II, 23, 30, 39, &c.
 
@@ -2539,17 +2539,17 @@ Yazishn, II, 319. n 1.
 
 Yim's var, II, 204. n 1.
 
-Yima, man, lxxv, 7; legends of, 12-21, 216; II, 59, 60. n 2, 112, 221, 252, 253, 276, 283; his Glory, 293;—lost, 297; his lie, 297; sawed in twain, 297. See _G_amshêd.
+Yima, man, lxxv, 7; legends of, 12-21, 216; II, 59, 60. n 2, 112, 221, 252, 253, 276, 283; his Glory, 293;—lost, 297; his lie, 297; sawed in twain, 297. See <i>G</i>amshêd.
 
-Yôi_s_ta, man, II, 72, 216.
+Yôi<i>s</i>ta, man, II, 72, 216.
 
-Yu_g_yê_s_ti, measure, 156.
+Yu<i>g</i>yê<i>s</i>ti, measure, 156.
 
 Yûkhtâspa, man, II, 212.
 
 Yukhtavairi, man, II, 205.
 
-Yû_s_ta, man, II, 215.
+Yû<i>s</i>ta, man, II, 215.
 
 Zab, king, II, 221. n 9. See Uzava.
 
@@ -2557,7 +2557,7 @@ Zâdmarg, 52, 95. n 1.
 
 Zairi, demon, lxxii, 1351 218.
 
-Zairi_k_i, woman, II, 224.
+Zairi<i>k</i>i, woman, II, 224.
 
 Zairimyangura, animal, 153.
 
@@ -2567,17 +2567,17 @@ Zairivairi, prince, II, 80, 81, 205.
 
 Zairyãs, man, II, 213.
 
-Zamyâd Ya_s_t, II, 286-309.
+Zamyâd Ya<i>s</i>t, II, 286-309.
 
-Zand Âvastâ, its authenticity, xv; interpretation, xxv; contents, xxx; age, xxxviii; revealed to Zarathu_s_tra, 204-218;
+Zand Âvastâ, its authenticity, xv; interpretation, xxv; contents, xxx; age, xxxviii; revealed to Zarathu<i>s</i>tra, 204-218;
 
-—to Vî_s_tâspa, II, 324.
+—to Vî<i>s</i>tâspa, II, 324.
 
 — language, xxxvi.
 
 — meaning of the word, xxx. n 1.
 
-Za_n_da, demon, lxix, 199, 200.
+Za<i>n</i>da, demon, lxix, 199, 200.
 
 Zanda ravân, 132. n 4, 165. n 1.
 
@@ -2589,9 +2589,9 @@ Zaothra, lxix.
 
 Zarah sea, II, 302. n 2.
 
-Zarathu_s_tra's birth, xlix, 218; he destroys the Daêvas, II, 304-305; founds the Law, II, 201; his sacrifices, II, 74, 78, 265-267, 279 (see Zartusht and Zoroastrian); reveals the Law, II, 324; his Glory, 205; II, 11, 19, 300; Fravashi, II, 351; his sons, 21. n 2; II, 204; his seed, II, 195; tempted, 204-207; leader of men, II, 105; ratu in the Yima Var, 21; his narcotic, II, 267; converses with Ashi, II, 274-275; with Ahura Mazda, II, 31, 32, 38, 58, 119, 151, 155, 162, 207. n 4, 224. n 3, n 4, 227, 228, 229, 231, 232 seq., 328.
+Zarathu<i>s</i>tra's birth, xlix, 218; he destroys the Daêvas, II, 304-305; founds the Law, II, 201; his sacrifices, II, 74, 78, 265-267, 279 (see Zartusht and Zoroastrian); reveals the Law, II, 324; his Glory, 205; II, 11, 19, 300; Fravashi, II, 351; his sons, 21. n 2; II, 204; his seed, II, 195; tempted, 204-207; leader of men, II, 105; ratu in the Yima Var, 21; his narcotic, II, 267; converses with Ashi, II, 274-275; with Ahura Mazda, II, 31, 32, 38, 58, 119, 151, 155, 162, 207. n 4, 224. n 3, n 4, 227, 228, 229, 231, 232 seq., 328.
 
-Zarathu_s_trôtema, II, 149, 185.
+Zarathu<i>s</i>trôtema, II, 149, 185.
 
 Zarazdâta, man, II, 213.
 
@@ -2599,7 +2599,7 @@ Zaremaya, month, II, 318. n 1.
 
 Zarîr, prince, II, 80. n 1, 205. n 1. See Zairivairi.
 
-Zartusht's sacrifice in Irân Vê_g_, xlix.
+Zartusht's sacrifice in Irân Vê<i>g</i>, xlix.
 
 Zarvândâd, man, xli. n 3.
 
@@ -2611,7 +2611,7 @@ Zav, king, II, 329. n 4. See Zab and Uzava.
 
 Zavan, Ivan, II, 218.
 
-Zbaurva_n__t_, man, II, 209.
+Zbaurva<i>n</i><i>t</i>, man, II, 209.
 
 Zeredhô, mount, II, 287.
 

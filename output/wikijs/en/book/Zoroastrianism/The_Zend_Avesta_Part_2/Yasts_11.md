@@ -34,11 +34,11 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p159">[<sup><small>p. 159</small></sup>]</span>
 
-There are two Ya_s_ts dedicated to Sraosha, the angel of divine worship [^731]: one is a part of the Yasna (LVII \[LVI\]), and this, the other, is called the Srôsh Ya_s_t Hâdhôkht. Whether it belonged to the so-called Hâdhôkht Nosk [^732], one of the twenty-one Nosks of which the original Avesta was formed [^733], or whether it was recited in the Hâdhôkht sacrifice [^734], a particular liturgy, is a matter on which we have no sufficient information.
+There are two Ya<i>s</i>ts dedicated to Sraosha, the angel of divine worship [^731]: one is a part of the Yasna (LVII \[LVI\]), and this, the other, is called the Srôsh Ya<i>s</i>t Hâdhôkht. Whether it belonged to the so-called Hâdhôkht Nosk [^732], one of the twenty-one Nosks of which the original Avesta was formed [^733], or whether it was recited in the Hâdhôkht sacrifice [^734], a particular liturgy, is a matter on which we have no sufficient information.
 
-The two Ya_s_ts have a few developments in common (see §§ 89, 10-13): the Hâdhôkht is more liturgical, the Yasna Ya_s_t is more descriptive, and has to a greater degree the poetical imagery of a Ya_s_t.
+The two Ya<i>s</i>ts have a few developments in common (see §§ 89, 10-13): the Hâdhôkht is more liturgical, the Yasna Ya<i>s</i>t is more descriptive, and has to a greater degree the poetical imagery of a Ya<i>s</i>t.
 
-The Srôsh Ya_s_t Hâdhôkht is recited every day, during any gâh except the Rapitvîn. A Pahlavi translation of this Ya_s_t is extant (East India Office, XII, 102; Paris, Supplément Persan, XXXIII, 259; edited in Études Iraniennes, II), and Anquetil mentions a Sanskrit translation.
+The Srôsh Ya<i>s</i>t Hâdhôkht is recited every day, during any gâh except the Rapitvîn. A Pahlavi translation of this Ya<i>s</i>t is extant (East India Office, XII, 102; Paris, Supplément Persan, XXXIII, 259; edited in Études Iraniennes, II), and Anquetil mentions a Sanskrit translation.
 
 ---
 
@@ -46,7 +46,7 @@ The Srôsh Ya_s_t Hâdhôkht is recited every day, during any gâh except the Ra
 
 Ashem Vohû: Holiness is the best of all good . . . .
 
-I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra, one who hates the Daêvas and obeys the laws of Ahura;
+I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura;
 
 For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness . . . .
 
@@ -62,17 +62,17 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 1\. We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world increase, the holy and master of holiness.
 
-Good prayer, excellent prayer to the worlds [^735], O Zarathu_s_tra!
+Good prayer, excellent prayer to the worlds [^735], O Zarathu<i>s</i>tra!
 
-2\. This it is that takes away the friendship of the fiend and fiends, of the he-fiend and of the she-fiend; it turns away in giddiness their eyes, minds, ears [^736], hands, feet, mouths, and tongues [^737]; as good prayer, without deceit and without harm, is Manly Courage [^738], and turns away the Dru_g_ [^739].
+2\. This it is that takes away the friendship of the fiend and fiends, of the he-fiend and of the she-fiend; it turns away in giddiness their eyes, minds, ears [^736], hands, feet, mouths, and tongues [^737]; as good prayer, without deceit and without harm, is Manly Courage [^738], and turns away the Dru<i>g</i> [^739].
 
-3\. The holy Sraosha, the best protector of the poor, is fiend-smiting; he is the best smiter of the Dru_g_.
+3\. The holy Sraosha, the best protector of the poor, is fiend-smiting; he is the best smiter of the Dru<i>g</i>.
 
-The faithful one who pronounces most words of blessing is the most victorious in victory; the Mãthra Spe_n_ta takes best the unseen Dru_g_ away. The Ahuna Vairya [^740] is the best fiend-smiter among all spells; the word of truth is the fighter [^741] that is the best of all fiend-smiters.
+The faithful one who pronounces most words of blessing is the most victorious in victory; the Mãthra Spe<i>n</i>ta takes best the unseen Dru<i>g</i> away. The Ahuna Vairya [^740] is the best fiend-smiter among all spells; the word of truth is the fighter [^741] that is the best of all fiend-smiters.
 
-The Law of the worshippers of Mazda is the truest giver of all the good things, of all those that are the offspring of the good principle; and so is the Law of Zarathu_s_tra.
+The Law of the worshippers of Mazda is the truest giver of all the good things, of all those that are the offspring of the good principle; and so is the Law of Zarathu<i>s</i>tra.
 
-4\. And he who should pronounce that word [^742], O Zarathu_s_tra! either a man or a woman, with a mind all intent on holiness, with words all intent on <span id="p161">[<sup><small>p. 161</small></sup>]</span> holiness, with deeds all intent on holiness, when he is in fear either of high waters or of the darkness of a rainy night;
+4\. And he who should pronounce that word [^742], O Zarathu<i>s</i>tra! either a man or a woman, with a mind all intent on holiness, with words all intent on <span id="p161">[<sup><small>p. 161</small></sup>]</span> holiness, with deeds all intent on holiness, when he is in fear either of high waters or of the darkness of a rainy night;
 
 Or at the fords of a river, or at the branching-off of roads;
 
@@ -80,7 +80,7 @@ Or in the meeting together of the faithful, or the rushing together of the worsh
 
 5\. Whether on the road [^744] or in the law [^745] he has to fear, not in that day nor in that night shall the tormenting fiend, who wants to torment him, prevail to throw upon him the look of his evil eye, and the malice of the thief [^746] who carries off cattle shall not reach him.
 
-6\. Pronounce then that word, O Zarathu_s_tra! that word to be spoken [^747], when thou fall upon the idolaters [^748] and thieves and Daêvas rushing together. Then the malice of the wicked worshippers of the Daêvas, of the Yâtus and their followers, of the Pairikas and their followers, will be affrighted and rush away. Down are the Daêvas! Down are the Daêva-worshippers, and they take back their mouths from biting [^749]. <span id="p162">[<sup><small>p. 162</small></sup>]</span> 7\. And therefore we take around us the holy-natured Sraosha, the holy, the fiend-smiter, as one does with shepherds’ dogs; therefore we sacrifice unto the holy-natured Sraosha, the holy, the fiend-smiter, with good thoughts, good words, and good deeds.
+6\. Pronounce then that word, O Zarathu<i>s</i>tra! that word to be spoken [^747], when thou fall upon the idolaters [^748] and thieves and Daêvas rushing together. Then the malice of the wicked worshippers of the Daêvas, of the Yâtus and their followers, of the Pairikas and their followers, will be affrighted and rush away. Down are the Daêvas! Down are the Daêva-worshippers, and they take back their mouths from biting [^749]. <span id="p162">[<sup><small>p. 162</small></sup>]</span> 7\. And therefore we take around us the holy-natured Sraosha, the holy, the fiend-smiter, as one does with shepherds’ dogs; therefore we sacrifice unto the holy-natured Sraosha, the holy, the fiend-smiter, with good thoughts, good words, and good deeds.
 
 8 [^750]. For his brightness and glory, for his strength and victorious power, for his offering sacrifices unto the gods [^751], I will offer him a sacrifice worth being heard. I will offer up libations unto the holy Sraosha, unto the great Ashi Vanguhi [^752], and unto Nairyô-sangha [^753], the tall-formed.
 
@@ -88,15 +88,15 @@ So may the holy Sraosha, the fiend-smiter, come to us for help!
 
 9\. We worship the holy Sraosha; we worship the great master, Ahura Mazda, who is supreme in holiness, who is the foremost to do deeds of holiness.
 
-We worship all the words [^754] of Zarathu_s_tra, and all the good deeds, those done and those to be done.
+We worship all the words [^754] of Zarathu<i>s</i>tra, and all the good deeds, those done and those to be done.
 
-Yê_n_hê hâtãm: All those beings of whom Ahura Mazda . . . .
+Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 ## II.
 
 10 [^755]. We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world increase, the holy and master of holiness;
 
-Who strikes the evil-doing [^756] man, who strikes the evil-doing woman; who smites the fiendish <span id="p163">[<sup><small>p. 163</small></sup>]</span> Dru_g_, and is most strong and world-destroying; who maintains and looks over all this moving [^757] world;
+Who strikes the evil-doing [^756] man, who strikes the evil-doing woman; who smites the fiendish <span id="p163">[<sup><small>p. 163</small></sup>]</span> Dru<i>g</i>, and is most strong and world-destroying; who maintains and looks over all this moving [^757] world;
 
 11\. Who, never sleeping, wakefully guards the creation of Mazda; who, never sleeping, wakefully maintains the creation of Mazda; who protects all the material world with his club uplifted, from the hour when the sun is down;
 
@@ -112,7 +112,7 @@ For his brightness and glory, for his strength and victorious power . . . . [^75
 
 We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world increase, the holy and master of holiness;
 
-Who with peace and friendship [^760] watches the Dru_g_ and the most beneficent Spirit: so that the Amesha-Spe_n_tas may go along the seven Karshvares of the earth [^761]; who is the teacher of the <span id="p164">[<sup><small>p. 164</small></sup>]</span> Law [^762]: he himself was taught it by Ahura Mazda, the holy One.
+Who with peace and friendship [^760] watches the Dru<i>g</i> and the most beneficent Spirit: so that the Amesha-Spe<i>n</i>tas may go along the seven Karshvares of the earth [^761]; who is the teacher of the <span id="p164">[<sup><small>p. 164</small></sup>]</span> Law [^762]: he himself was taught it by Ahura Mazda, the holy One.
 
 For his brightness and glory, for his strength and victorious power . . . .
 
@@ -126,27 +126,27 @@ Whom the holy Ahura Mazda has created to withstand Aêshma, the fiend of the wou
 
 16\. The friends of the holy Sraosha;
 
-The friends of Rashnu Razi_s_ta [^764];
+The friends of Rashnu Razi<i>s</i>ta [^764];
 
 The friends of the good Law of the worshippers of Mazda;
 
-The friends of Ar_s_tâ_t_ [^765], who makes the world grow, who makes the world increase, who makes the world prosper;
+The friends of Ar<i>s</i>tâ<i>t</i> [^765], who makes the world grow, who makes the world increase, who makes the world prosper;
 
 The friends of Ashi Vanguhi [^766];
 
-The friends of the good _K_isti [^767];
+The friends of the good <i>K</i>isti [^767];
 
-The friends of the most right _K_ista [^768]; <span id="p165">[<sup><small>p. 165</small></sup>]</span> 17\. The friends of all gods;
+The friends of the most right <i>K</i>ista [^768]; <span id="p165">[<sup><small>p. 165</small></sup>]</span> 17\. The friends of all gods;
 
-The friends of the Mãthra Spe_n_ta;
+The friends of the Mãthra Spe<i>n</i>ta;
 
 The friends of the fiend-destroying Law;
 
 The friends of the long-traditional teaching;
 
-The friends of the Amesha-Spe_n_tas;
+The friends of the Amesha-Spe<i>n</i>tas;
 
-The friends of ourselves, the Saoshya_n__t_s [^769], the two-footed part of the holy creation;
+The friends of ourselves, the Saoshya<i>n</i><i>t</i>s [^769], the two-footed part of the holy creation;
 
 The friends of all the beings of the holy world.
 
@@ -160,13 +160,13 @@ We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the wo
 
 The first \[Sraosha\], the next, the middle, and the highest; with the first sacrifice, with the next, with the middle, and with the highest [^770]. We sacrifice unto all \[the moments\] [^771] of the holy and strong Sraosha, who is the incarnate Word;
 
-19\. The strong Sraosha, of the manly courage, the warrior of the strong arms, who breaks the skulls of the Daêvas; who smites with heavy blows [^772] and is strong to smite; the holy Sraosha, who smites <span id="p166">[<sup><small>p. 166</small></sup>]</span> with heavy blows; we sacrifice unto the crushing Ascendant of both the holy Sraosha and Ar_s_ti [^773].
+19\. The strong Sraosha, of the manly courage, the warrior of the strong arms, who breaks the skulls of the Daêvas; who smites with heavy blows [^772] and is strong to smite; the holy Sraosha, who smites <span id="p166">[<sup><small>p. 166</small></sup>]</span> with heavy blows; we sacrifice unto the crushing Ascendant of both the holy Sraosha and Ar<i>s</i>ti [^773].
 
 20\. We sacrifice for all the houses protected by Sraosha, where the holy Sraosha is dear and friendly treated and satisfied, as well as the faithful man [^774], rich in good thoughts, rich in good words, rich in good deeds.
 
 21\. We sacrifice unto the body of the holy Sraosha;
 
-We sacrifice unto the body of Rashnu Razi_s_ta;
+We sacrifice unto the body of Rashnu Razi<i>s</i>ta;
 
 We sacrifice unto the body of Mithra, the lord of wide pastures;
 
@@ -174,27 +174,27 @@ We sacrifice unto the body of the holy wind;
 
 We sacrifice unto the body of the good Law of the worshippers of Mazda;
 
-We sacrifice unto the body of Ar_s_tâ_t_, who makes the world grow, who makes the world increase, who makes the world prosper;
+We sacrifice unto the body of Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase, who makes the world prosper;
 
 We sacrifice unto the body of Ashi Vanguhi;
 
-We sacrifice unto the body of the good _K_isti;
+We sacrifice unto the body of the good <i>K</i>isti;
 
-We sacrifice unto the body of the most right _K_ista;
+We sacrifice unto the body of the most right <i>K</i>ista;
 
 We sacrifice unto the bodies of all the gods;
 
-22\. We sacrifice unto the body of the Mãthra Spe_n_ta;
+22\. We sacrifice unto the body of the Mãthra Spe<i>n</i>ta;
 
 We sacrifice unto the body of the fiend-destroying Law;
 
 We sacrifice unto the body of the long-traditional teaching;
 
-We sacrifice unto the bodies of the Amesha-Spe_n_tas;
+We sacrifice unto the bodies of the Amesha-Spe<i>n</i>tas;
 
 <span id="p167">[<sup><small>p. 167</small></sup>]</span>
 
-We sacrifice unto the bodies of ourselves, the Saoshya_n__t_s, the two-footed part of the holy creation;
+We sacrifice unto the bodies of ourselves, the Saoshya<i>n</i><i>t</i>s, the two-footed part of the holy creation;
 
 We sacrifice unto the bodies of all the beings of the holy world [^775].
 
@@ -250,7 +250,7 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^771]: 160:4 Is the same with it, is as powerful.
 
-[^772]: 160:5 Doubtful (vârethrem dâre_s_tâ . . . . zak drû_g_ vartî dâ_s_târtûm).
+[^772]: 160:5 Doubtful (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
 [^773]: 160:6 See [p. 23](Yasts_1#p23).
 
@@ -264,11 +264,11 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^778]: 161:3 Arethyanãm: dâdistân (from aretha, meaning dînâ, dâdistân).
 
-[^779]: 161:4 Gadha: n_ri__s_a_m_sa (Neriosengh); the Pahlavi has ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), a Saka, a Scythe.
+[^779]: 161:4 Gadha: n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh); the Pahlavi has ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), a Saka, a Scythe.
 
 [^780]: 161:5 The praise of Sraosha.
 
-[^781]: 161:6 Keresas_k_a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; that name was in the later periods applied to Christians, as if keresa were the name of Christ; cf. Bahman Ya_s_t II, 19; III, 2.
+[^781]: 161:6 Keresas<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; that name was in the later periods applied to Christians, as if keresa were the name of Christ; cf. Bahman Ya<i>s</i>t II, 19; III, 2.
 
 [^782]: 161:7 Doubtful.
 
@@ -294,11 +294,11 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^793]: 163:4 To the creation of Ormazd.
 
-[^794]: 163:5 Doubtful. The Yasna has: ‘Through whose strength, victorious power, wisdom, and knowledge the Amesha-Spe_n_tas go (avãn; Phl. sâtûnand) along the seven Karshvares of the earth’ (LVII, 23 \[LVI, 10, 2\]).
+[^794]: 163:5 Doubtful. The Yasna has: ‘Through whose strength, victorious power, wisdom, and knowledge the Amesha-Spe<i>n</i>tas go (avãn; Phl. sâtûnand) along the seven Karshvares of the earth’ (LVII, 23 \[LVI, 10, 2\]).
 
 [^795]: 164:1 He teaches the law to the three saviours to come, Oshêdar Bâmî, Oshêdar Mâh, and Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\]; Phl. tr.).
 
-[^796]: 164:2 Pare_s_tas_k_a mravay_â_os_k_a, to be corrected, according to various readings, into staretas_k_a mavay_â_os_k_a or something like it; the two genii here alluded to are Anâstareta and Amuyamna, Sinlessness and Innocence, who are invoked in company with Akh_s_ti hamvai_ñ_ti in Vispêrad VIII, 4.
+[^796]: 164:2 Pare<i>s</i>tas<i>k</i>a mravay<i>â</i>os<i>k</i>a, to be corrected, according to various readings, into staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a or something like it; the two genii here alluded to are Anâstareta and Amuyamna, Sinlessness and Innocence, who are invoked in company with Akh<i>s</i>ti hamvai<i>ñ</i>ti in Vispêrad VIII, 4.
 
 [^797]: 164:3 See Yt. XII.
 
@@ -310,7 +310,7 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^801]: 164:7 See Yt. XVI, 1.
 
-[^802]: 165:1 The faithful, as helping through their good deeds in the work of final restoration, to be performed by Saoshya_n__t_ (cf. Yt. XIII, 17).
+[^802]: 165:1 The faithful, as helping through their good deeds in the work of final restoration, to be performed by Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17).
 
 [^803]: 165:2 The first sacrifice is the Yasna sacrifice; the next (literally, superior) is the Vispêrad; the middle sacrifice is the Hâdhôkht \[and\] êvak hômâst; the highest sacrifice is the Dvâzdah hômâst (Pahl. Comm.). Sraosha is called the first, next, middle, and highest, accordingly as he presides over one or the other of those sacrifices. For a definition of the êvak hômâst and Dvâzdah hômâst, see West, Pahlavi Texts, I, 212, note 5.
 
@@ -318,7 +318,7 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 [^805]: 165:4 Literally, the smiter who smites with smitings.
 
-[^806]: 166:1 The same as Ar_s_tâ_t_. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
+[^806]: 166:1 The same as Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
 
 [^807]: 166:2 He receives alms (the ashô-dâd).
 

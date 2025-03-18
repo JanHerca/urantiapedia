@@ -66,11 +66,11 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1227]: 292:1 Or, ‘for that which is past?’ bavãithyâi_k_a.
+[^1227]: 292:1 Or, ‘for that which is past?’ bavãithyâi<i>k</i>a.
 
 [^1228]: 292:2 Dareghô-vârethmanem is treated as a feminine; see also dareghô-vârethmanô in verse 3.
 
-[^1229]: 292:3 Have we hvô-aiwishâ_k_îm, as representing some more regular form?
+[^1229]: 292:3 Have we hvô-aiwishâ<i>k</i>îm, as representing some more regular form?
 
 [^1230]: 292:4 Medicinal springs.
 

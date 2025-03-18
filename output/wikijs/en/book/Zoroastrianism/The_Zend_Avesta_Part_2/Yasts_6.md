@@ -34,11 +34,11 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p85">[<sup><small>p. 85</small></sup>]</span>
 
-## (YA_S_T TO THE SUN.)
+## (YA<i>S</i>T TO THE SUN.)
 
-This Ya_s_t is recited at any time, but particularly on the days consecrated to the sun and to Khshathra-Vairya (Shahrîvar),Mithra (Mihir), Asman (Âsmân), and Anaghra rao_k__a__u_ (Anîrân [^420]): the last three, Mithra, Asman (the Heaven), Anaghra (the infinite Light), have a natural connection with the sun, but its connection with Khshathra-Vairya is not so clear.
+This Ya<i>s</i>t is recited at any time, but particularly on the days consecrated to the sun and to Khshathra-Vairya (Shahrîvar),Mithra (Mihir), Asman (Âsmân), and Anaghra rao<i>k</i><i>a</i><i>u</i> (Anîrân [^420]): the last three, Mithra, Asman (the Heaven), Anaghra (the infinite Light), have a natural connection with the sun, but its connection with Khshathra-Vairya is not so clear.
 
-Of this Ya_s_t we have a Pahlavi (East India Office, XII), a Persian (ibid. XXIV), and a Sanskrit translation (Fonds Burnouf V; all three edited in Études Iraniennes, II).
+Of this Ya<i>s</i>t we have a Pahlavi (East India Office, XII), a Persian (ibid. XXIV), and a Sanskrit translation (Fonds Burnouf V; all three edited in Études Iraniennes, II).
 
 ---
 
@@ -46,7 +46,7 @@ Of this Ya_s_t we have a Pahlavi (East India Office, XII), a Persian (ibid. XXIV
 
 Ashem Vohû: Holiness is the best of all good . . . .
 
-I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra, one who hates the Daêvas and obeys the laws of Ahura; For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness [^421] . . . .
+I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura; For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness [^421] . . . .
 
 Unto the undying, shining, swift-horsed Sun [^422];
 
@@ -62,7 +62,7 @@ When the light of the sun waxes warmer [^423], when the brightness of the sun wa
 
 3\. Should not the sun rise up, then the Daêvas would destroy all the things that are in the seven Karshvares, nor would the heavenly Yazatas find any way of withstanding or repelling them in the material world.
 
-4\. He who offers up a sacrifice unto the undying, shining, swift-horsed Sun—to withstand darkness, to withstand the Daêvas born of darkness, to withstand the robbers and bandits, to withstand the Yâtus and Pairikas, to withstand death that creeps in unseen—offers it up to Ahura Mazda, offers it up to the Amesha-Spe_n_tas, offers it up to his own soul [^426]. He rejoices all the heavenly and worldly Yazatas, who offers up a sacrifice unto the undying, shining, swift-horsed Sun.
+4\. He who offers up a sacrifice unto the undying, shining, swift-horsed Sun—to withstand darkness, to withstand the Daêvas born of darkness, to withstand the robbers and bandits, to withstand the Yâtus and Pairikas, to withstand death that creeps in unseen—offers it up to Ahura Mazda, offers it up to the Amesha-Spe<i>n</i>tas, offers it up to his own soul [^426]. He rejoices all the heavenly and worldly Yazatas, who offers up a sacrifice unto the undying, shining, swift-horsed Sun.
 
 5\. I will sacrifice unto Mithra, the lord of wide <span id="p87">[<sup><small>p. 87</small></sup>]</span> pastures, who has a thousand ears, ten thousand eyes.
 
@@ -72,7 +72,7 @@ I will sacrifice unto that friendship, the best of all friendships, that reigns 
 
 6\. For his brightness and glory, I will offer unto him a sacrifice worth being heard, namely, unto the undying, shining, swift-horsed Sun. Unto the undying, shining, swift-horsed Sun we offer up the libations, the Haoma and meat, the baresma, the wisdom of the tongue, the holy spells, the speech, the deeds, the libations, and the rightly-spoken words [^429].
 
-Yê_n_hê hâtãm: All those beings of whom Ahura Mazda . . . .
+Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 7\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 

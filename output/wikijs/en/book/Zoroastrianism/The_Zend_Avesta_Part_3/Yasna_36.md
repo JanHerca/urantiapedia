@@ -70,7 +70,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1197]: 284:2 Or, ‘in the service of the Fire;’ so the Pahlavi: consider also the occurrence of forms of var(e)z in the other sense in the close proximity. Fire temples did not exist; some shelter, however, must have been afforded. Also the dual pouruyê(-ve) may refer to Ahura and the Fire. Comp. Y. XXX, 3. Or, is it ‘at first?’
 
-[^1198]: 284:3 Possibly, ‘but most favoured is he whom (y_e_m).’
+[^1198]: 284:3 Possibly, ‘but most favoured is he whom (y<i>e</i>m).’
 
 [^1199]: 285:1 Vôi looks as if it represented vâí here.
 
