@@ -8,7 +8,42 @@ editor: markdown
 dateCreated: 2025-2-12T22:37:26Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Alfred E. Martin, A.M., S.T.B.</text>		<text style="font-size:4px" x="61" y="125">New York: D. Appleton and Company, 1926</text>		<text style="font-size:9px" x="61" y="60">Religion</text>		<text style="font-size:9px" x="61" y="70">comparée et</text>		<text style="font-size:9px" x="61" y="80">religion</text>		<text style="font-size:9px" x="61" y="90">du futur</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">RELIGION COMPARÉE</span><br><span class="text-h3">ET</span><br><span class="text-h3">RELIGION DU FUTUR</span><br>PAR<br><span class="text-h5">ALFRED W. MARTIN, A.M., STB</span><br>AUTEUR DE « UNE PHILOSOPHIE DE LA VIE ET ​​DE SON SPIRITUEL<br>VALEURS”, “LES GRANDES RELIGIONS DU MONDE ET LA<br>RELIGION DU FUTUR », ETC,<br>D. APPLETON ET COMPAGNIE<br>NEW YORK :: 1926 :: LONDRES <br>1932<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Alfred E. Martin, A.M., S.T.B.</text>
+		<text style="font-size:4px" x="61" y="125">New York: D. Appleton and Company, 1926</text>
+		<text style="font-size:9px" x="61" y="60">Religion</text>
+		<text style="font-size:9px" x="61" y="70">comparée et</text>
+		<text style="font-size:9px" x="61" y="80">religion</text>
+		<text style="font-size:9px" x="61" y="90">du futur</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">RELIGION COMPARÉE</span><br>
+<span class="text-h3">ET</span><br>
+<span class="text-h3">RELIGION DU FUTUR</span><br>
+PAR<br>
+<span class="text-h5">ALFRED W. MARTIN, A.M., STB</span><br>
+AUTEUR DE « UNE PHILOSOPHIE DE LA VIE ET ​​DE SON SPIRITUEL<br>
+VALEURS”, “LES GRANDES RELIGIONS DU MONDE ET LA<br>
+RELIGION DU FUTUR », ETC,<br>
+D. APPLETON ET COMPAGNIE<br>
+NEW YORK :: 1926 :: LONDRES <br>
+1932<br>
+<br>
+</p>
+
+<br>
+
+
+
+
+
 ## Table des matières
 
 - [Graphique présentant une synthèse des religions](/fr/book/Alfred_W_Martin/Comparative_Religion_and_Future/Chart)
@@ -23,6 +58,7 @@ dateCreated: 2025-2-12T22:37:26Z
 - [IX. Religion éthique et religion du futur](/fr/book/Alfred_W_Martin/Comparative_Religion_and_Future/9)
 - [X. Les religions historiques et la religion du futur](/fr/book/Alfred_W_Martin/Comparative_Religion_and_Future/10)
 - [XI. Le christianisme et la religion du futur](/fr/book/Alfred_W_Martin/Comparative_Religion_and_Future/11)
+- [XII. La Bible et la religion du futur](/fr/book/Alfred_W_Martin/Comparative_Religion_and_Future/12)
 
 ## Liens externes
 
