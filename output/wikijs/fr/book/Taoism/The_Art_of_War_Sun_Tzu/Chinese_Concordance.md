@@ -32,7 +32,9 @@ dateCreated: 2025-2-12T22:33:36Z
   </table>
 </figure>
 
+<span id="p176">[<sup><small>p. 176</small></sup>]</span>
 
+### (omis)
 
 <figure class="table chapter-navigator">
   <table>
