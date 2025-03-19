@@ -32,7 +32,17 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
+QUATORZIÈME LEÇON.
 
+Il ne faut pas se réjouir ni interdire une action réciproque qui se rapporte à soi-même et produit du karman.
+
+Un mendiant ne devrait pas être satisfait ni interdire que (lui et l'autre) s'essuient ou se frottent mutuellement les pieds, etc.
+
+De cette façon, toute la Treizième Leçon devrait être répétée ici.
+
+C'est là tout le devoir, etc. Ainsi dis-je. (1)
+
+Fin de la deuxième partie, appelée les Sept Conférences.
 
 <figure class="table chapter-navigator">
   <table>

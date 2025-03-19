@@ -32,7 +32,9 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
+DOUZIÈME CONFÉRENCE.
 
+Si un moine ou une nonne voit diverses couleurs (ou formes), par exemple dans des couronnes, des images habillées, des poupées, des vêtements [^474], des boiseries, des plâtres, des peintures, des bijoux, des objets en ivoire, des cordes, des feuilles coupées, il ne doit pas, pour le plaisir des yeux, se résoudre à aller là où il verra diverses couleurs (ou formes). Tout ce qui a été dit <span id="p186">[<sup><small>p. 186</small></sup>]</span> dans le dernier chapitre concernant les sons doit être répété ici concernant les couleurs (ou formes) ; seuls les passages sur la musique doivent être omis. (1)
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-1-12T19:28:7Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^480]: 185:2 J'ai traduit les quatre derniers mots, ga<i>m</i>thimâ<i>n</i>i, ve<i>dh</i>imâ<i>n</i>i, pûrimâ<i>n</i>i, sa<i>m</i>ghâtimâ<i>n</i>i, selon le commentaire. Plus tard, je les traduirai par guirlandes, rubans, foulards et ceintures.

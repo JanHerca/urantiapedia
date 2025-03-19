@@ -32,7 +32,9 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
+KALPA SÛTRA.
 
+LA VIE DES GINAS.
 
 <figure class="table chapter-navigator">
   <table>
