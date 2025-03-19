@@ -29,7 +29,21 @@ dateCreated: 2025-2-12T22:27:19Z
   </table>
 </figure>
 
-
+<p style="text-align:center;">
+À MON ONCLE BIEN-AIMÉ<br>
+<br>
+TOKITOSHI OTA<br>
+<br>
+QUI M'A APPRIS À VÉNÉRER LE PASSÉ<br>
+<br>
+ET<br>
+<br>
+POUR ADMIRER LES ACTES DES SAMOURAÏS<br>
+<br>
+JE DÉDIE<br>
+<br>
+CE PETIT LIVRE<br>
+</p>
 
 <figure class="table chapter-navigator">
   <table>

@@ -490,6 +490,7 @@ Communauté|Fellowship
 « clear:les deux; »|"clear:both;"
 ( *)(Le )*Livre d['|’]Urantia([ |\.|,|;|:|\?|!])|$1_$2Livre d'Urantia_$3
 `^\[LU (\d{1,3}):(\d{1,2})\.(\d{1,3})\]\(/fr/The_Urantia_Book/(\d{1,3})#p(\d{1,2})_(\d{1,3})\) \(\d{1,4}\.\d{1,2}\) *(.+)`|`> $7 [LU $1:$2.$3](/fr/The_Urantia_Book/$4#p$5_$6)`
+`^\[\^(\d+)\] : ` | `[^$1]: `
 
 in books there is a frequent `Français ` with or without space that is wrong
 

@@ -29,7 +29,24 @@ dateCreated: 2025-2-12T22:27:33Z
   </table>
 </figure>
 
+**Pleine page**
 
+&nbsp; | &nbsp;
+--- | ---
+LA MONTAGNE DES CRÂNES | _Frontispice_
+L'ENCENS MAGIQUE | _Vers la page d'accueil_ 43
+LA LANTERNE PIVOINE | 80
+LES LUMIÈRES DES MORTS | 230
+
+**Illustrations dans le texte**
+
+&nbsp; | &nbsp;
+--- | ---
+S'RÎPADÂ-TRACING CHEZ DENTSU-IN, KOISIKAWA, TÔKYÔ | 121
+SHÔ-EKÔ-HÔ-KWAN | 124
+CARRÉ ET TRIANGLE | 104
+JIZÔ | 178
+EMMA, DAI-Ô | 179
 
 <figure class="table chapter-navigator">
   <table>
