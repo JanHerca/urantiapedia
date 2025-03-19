@@ -43,7 +43,6 @@ dateCreated: 2025-2-6T12:55:40Z
 § 4. While she continues in her father's house, [^953] she is entitled at any time to claim \[the amount of\] her Ketubah: but if she remained in her husband's house \[she is entitled to claim it only during\] twenty-five years; for in the twenty-five years she will have done \[herself\] good, [^954] \[derived benefits\] equal to \[the amount of\] her Ketubah. Such is the dictum of R. Meir, which he advanced on the authority of R. Simeon ben Gamaliel; but the sages hold, “As long as she remains in her husband's house, she is entitled at any time to claim her Ketubah; as long as she remains in her father's house, she is entitled to claim her Ketubah \[only during\] twenty-five years. If she dies, her heirs can claim \[the amount of\] her Ketubah \[only\] before the expiration of the twenty-five years.”
 
 
-## Footnotes
 
 <figure class="table chapter-navigator">
   <table>
@@ -69,6 +68,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+## Footnotes
 
 [^956]: 273:1 In the Ketubah which, under such circumstances, they signed.
 

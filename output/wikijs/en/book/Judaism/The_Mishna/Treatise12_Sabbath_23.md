@@ -45,13 +45,6 @@ dateCreated: 2025-2-6T12:55:40Z
 § 5. They may do all that is needful to the corpse \[on the Sabbath\], anoint and wash it, provided they do not strain its limbs. [^174] The pillow may be moved from under its head; it may be put on sand, that it keep the longer \[from putrefaction\]: its jaws may be tied, not to force them closer, but to prevent them dropping lower. In like manner a beam that has been broken \[cracked\] may be upheld \[supported\] by a stool or a bedstead, not that it may again become erect, but that it do not break more. They must not close the eyes of the dead on the Sabbath, nor \[yet\] on the week-day, while he is expiring. Whoever closes the eyes of a dying person the instant he expires, is as if he shed blood \[like a murderer\].
 
 
-## Footnotes
-
-[^172]: 67:1 From the Greek κυβεια, dice. The prohibition is, lest the casting of lots degenerate into a game of hazard.
-
-[^173]: 68:2 The distance of 2000 amoth, which may be traversed on the Sabbath. (Vide Treatise Erubin.)
-
-[^174]: 68:3 Out of their natural position \[out of joint\].
 
 <figure class="table chapter-navigator">
   <table>
@@ -76,3 +69,12 @@ dateCreated: 2025-2-6T12:55:40Z
     </tbody>
   </table>
 </figure>
+
+
+## Footnotes
+
+[^172]: 67:1 From the Greek κυβεια, dice. The prohibition is, lest the casting of lots degenerate into a game of hazard.
+
+[^173]: 68:2 The distance of 2000 amoth, which may be traversed on the Sabbath. (Vide Treatise Erubin.)
+
+[^174]: 68:3 Out of their natural position \[out of joint\].

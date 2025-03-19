@@ -32,6 +32,9 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+\[Contient les lois relatives aux sacrifices lors des fêtes.\]
+
+QUI CLÔTURE LE SEDER MOED.
 
 
 <figure class="table chapter-navigator">

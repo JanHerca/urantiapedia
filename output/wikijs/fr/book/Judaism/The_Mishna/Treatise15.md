@@ -32,7 +32,9 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+## XV. TRAITÉ SHEKALIM.
 
+\[Contient des lois relatives à l'impôt par tête d'un demi-sicle, fondé sur Exode xiii. 12.\]
 
 <figure class="table chapter-navigator">
   <table>

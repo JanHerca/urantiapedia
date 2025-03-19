@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+<span id="p192">[<sup><small>p. 192</small></sup>]</span>
 
+## XXII. TRAITÉ MOED KATAN OU, LES JOURS MOYENS DES FESTIVALS.
+
+### Introduction.
+
+Ce traité contient des règles pour une meilleure observance des jours mineurs ou intermédiaires de la Pâque et des Tabernacles, indiquant les travaux autorisés et interdits lors de ces jours. Il établit également certaines règles pour les personnes en deuil.
 
 <figure class="table chapter-navigator">
   <table>

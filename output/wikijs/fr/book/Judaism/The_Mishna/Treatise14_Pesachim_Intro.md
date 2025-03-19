@@ -32,6 +32,19 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+
+Pâques
+
+\_\_\_\_
+
+## XIV. TRAITÉ DE PÊCHES,
+
+OU, DE LA PÂQUE; RELATIF AUX LOIS CONCERNANT LA FÊTE DE LA PÂQUE ET LE SACRIFICE DE L'AGNEAU PASCAL LE QUATORZIÈME JOUR DU MOIS DE NISSAN.
+
+### INTRODUCTION.
+
+Il traite plus particulièrement de toutes les questions relatives à l'élimination du levain de nos maisons ou des lieux sous notre juridiction ou contrôle ; il définit ce qui constitue le levain et comment le bannir ou l'annuler avant ou pendant la fête ; quelles herbes amères devaient être mangées avec le sacrifice pascal ; les lois relatives à la bonne observance de la fête, des jours intermédiaires de celle-ci et du 14 Nissan ; également, concernant l'observance de la deuxième Pâque, par ceux qui ne pouvaient pas l'observer à son heure appropriée (Nombres ix.), et d'autres lois mentionnées incidemment, ou se rapportant directement au sujet.
 
 
 <figure class="table chapter-navigator">

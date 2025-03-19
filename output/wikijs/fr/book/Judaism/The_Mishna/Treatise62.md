@@ -29,7 +29,16 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+## LXII. TRAITÉ OOKEZIN, TIGES.
 
+\[Traite des légumineuses et des fruits qui contractent l'impureté.\]
+
+Ce qui clôture le Seder Taharoth.
+
+TERMINÉ.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Wertheimer & Co., Imprimeurs, Circus Place, Finsbury Circus.
 
 <figure class="table chapter-navigator">
   <table>

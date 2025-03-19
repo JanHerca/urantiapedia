@@ -32,6 +32,15 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+
+## XVIII. TRAITÉ YOM TOB, OU, DE LA FÊTE.
+
+### Introduction.
+
+Ce livre, communément appelé ‏ביצה‎, ou œuf \[du mot par lequel il commence\], contient des lois et des règlements pour la bonne observance des fêtes. Il explique les œuvres interdites le jour du sabbat, mais qui peuvent être faites pendant la fête ; et prescrit les restrictions et la manière de les accomplir.
+
+Il est nécessaire, pour bien comprendre ce traité, d'expliquer ici trois expressions qui y reviennent souvent : נולד, c'est-à-dire tout ce qui est né, a existé, a été produit ou est devenu utilisable le jour même de la fête. Tels sont l'œuf pondu le jour de la fête, les fruits tombés des arbres, etc. Tous ces aliments ne peuvent être consommés pendant la fête, car seuls peuvent être consommés les aliments préparés avant la fête. Le troisième terme, מוקצה, désigne les aliments qui n'ont pas été préalablement préparés ou mis à part pour la fête ; et qui, par conséquent, ne peuvent y être consommés.
 
 
 <figure class="table chapter-navigator">

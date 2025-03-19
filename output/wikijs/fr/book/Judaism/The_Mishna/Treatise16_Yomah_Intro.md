@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+<span id="p126">[<sup><small>p. 126</small></sup>]</span>
 
+## XVI. TRAITÉ YOMAH, OU, LE JOUR DES EXPIATIONS.
+
+### INTRODUCTION.
+
+Les sept premiers chapitres traitent de la manière dont le jour des expiations [^352] était célébré dans le second temple ; des différents sacrifices apportés ce jour-là, de la préparation du grand prêtre à son ministère et du déroulement du service tel qu'il l'accomplissait, entrant dans les moindres détails de chaque circonstance qui s'y rapportait. Le huitième chapitre traite de l'observance générale du jour, concernant le jeûne, la pénitence, etc., ainsi que des règles et règlements qui s'y rapportent. Les préceptes contenus dans les sept premiers chapitres étant actuellement en suspens, seul le huitième chapitre a été traduit.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,7 @@ dateCreated: 2025-2-6T12:58:24Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^352]: 126 : 1 Lévit. XVI. 1 à 34. Lévit. XXII. 26-32. Engourdi. XXIX. 7-11.

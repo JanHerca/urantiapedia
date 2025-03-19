@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+<span id="p280">[<sup><small>p. 280</small></sup>]</span>
 
+## XXVIII. TU AS SUIVI UN TRAITEMENT.
+
+### Introduction.
+
+Sous ce titre sont spécifiées les lois relatives au Get (acte ou lettre de divorce, dont le mot Gittin est le pluriel), document sans lequel aucun mariage ne peut être légalement dissous. Les textes de la Sainte Loi sur lesquels se fondent les dispositions de ce traité figurent au chapitre 24 du Deutéronome.
 
 <figure class="table chapter-navigator">
   <table>

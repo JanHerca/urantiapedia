@@ -32,7 +32,19 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
+<span id="p279">[<sup><small>p. 279</small></sup>]</span>
 
+## XXV. TRAITÉ NEDARIM.
+
+\[Contient des lois relatives aux vœux faits par les femmes, que le père et le mari ont le pouvoir d'annuler, fondées sur Nombres xxx. 4–16.\]
+
+## XXVI. TRAITÉ DE NAZIR.
+
+\[Relatif aux vœux d'abstinence. Les préceptes sont fondés sur Nombres VI, 1-21.\]
+
+## XXVII. TRAITÉ DE SOUTHAH.
+
+\[Contient des lois relatives à la femme soupçonnée d'adultère, fondées sur Nombres v. 11–31.\]
 
 <figure class="table chapter-navigator">
   <table>
