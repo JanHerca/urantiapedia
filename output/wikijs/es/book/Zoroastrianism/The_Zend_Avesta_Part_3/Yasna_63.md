@@ -32,7 +32,9 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
+## YASNA LXIII [^1324] (ESP. LXII).
 
+(Ver Y. XV, 2; Y. LXVI, 2; Y. XXXVIII, 3.)
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-2-12T13:0:42Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1335]: 316:4 Este capítulo está compuesto de pasajes cortos de otras partes del Yasna recopilados posiblemente con el propósito de completar el número de secciones hasta una cifra que ya no se conoce.

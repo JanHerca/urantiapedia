@@ -32,6 +32,9 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
+[^1091].
+
+1\. Concédeme, Tú que creas las vacas, las plantas y las aguas, ¡la inmortalidad, Mazda! Concédeme también la riqueza, Espíritu generoso.
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +60,7 @@ dateCreated: 2025-2-12T13:0:42Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1100]: 259:4 Véase Y. LI, 7, y Y. XLVII.

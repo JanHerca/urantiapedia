@@ -32,6 +32,38 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
+<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+
+Este Yast debe seguir inmediatamente después del Tîr Yast, ya que se deriva de la misma fórmula de Sîrôzah; aquella en la que se invoca a Tistrya junto con Vana't y Haptôiri'ga (Sîrôzah, § 13). Es un mero complemento de ese Yast. Sobre Vana't, véase [p. 97](Yasts_8#p97), nota [6](Yasts_8#fn481).
+
+---
+
+0\. ¡Que Ahura Mazda se regocije! . . . .
+
+Ashem Vohû: La santidad es el mejor de todos los bienes...
+
+Me confieso adorador de Mazda, seguidor de Zaratustra, que odia a los Daêvas y obedece las leyes de Ahura;
+
+Para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el santo y maestro de la santidad . . . .
+
+Hacia la estrella Vana<i>n</i><i>t</i>, hecha por Mazda,
+
+Sé propiciación, con sacrificio, oración, propiciación y glorificación.
+
+Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
+
+1\. Sacrificamos a la estrella Vana<i>n</i><i>t</i>, hecha por Mazda, el santo y maestro de la santidad.
+
+Sacrificaré a Vana<i>n</i><i>t</i>, fuerte, invocado por su propio nombre [^1322], sanador, para resistir a los malditos y más vil Khrafstras [^1323] del más abominable Angra Mainyu.
+
+2\. Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
+
+Bendigo el sacrificio y la oración, y la fuerza y ​​el vigor de la estrella Vana<i>n</i><i>t</i>, hecha por Mazda.
+
+Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
+
+\[Dale\] a ese hombre [^1324] brillo y gloria, . . . dale la morada brillante, feliz y dichosa de los Santos.
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +89,11 @@ dateCreated: 2025-2-12T13:0:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1388]: 310:1 Véase [p. 13](Sirozahs_1#p13), nota [2](Sirozahs_1#fn96).
+
+[^1389]: 310:2 Los reptiles y otras criaturas ahrimanianas (Vendîdâd, Introd. V, 11) que son destruidos por la lluvia (Bund. VII, 7).
+
+[^1390]: 310:3 Quien ofrece sacrificios a Vana<i>n</i><i>t</i>.

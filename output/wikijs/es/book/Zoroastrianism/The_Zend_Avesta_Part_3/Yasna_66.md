@@ -32,7 +32,11 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
+## YASNA LXVI (SP. LXV). AL AHURIAN
 
+[^1341].
+
+1\. Ofrezco ahora este Zaothra aquí con santidad [^1342], junto con el Haoma y la carne, y el Hadhânaêpata elevado con sagrada regularidad hacia ti, oh Ahuriano, para la propiciación de Ahura Mazda, de los Generosos Inmortales, de Sraosha (Obediencia) el bendito, y del Fuego de Ahura Mazda, el sublime señor del ritual. 2. Y. VII, 5-19. 3. Y. XXII, XXVIII, 24-27.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-2-12T13:0:42Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1352]: 320:5 Debería decir Ardvi Sûra Anâhita; ver Y. LXVIII, 10, donde las buenas aguas son llamadas Ahurian de Ahura.
+
+[^1353]: 320:6 O, para una bendición.'

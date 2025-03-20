@@ -69,7 +69,7 @@ II. Mihir Nyâyi<i>s</i> | [353](Nyayis_1#p353)
 III. Mâh Nyâyi<i>s</i> | [355](Nyayis_2#p355)
 IV. Âbân Nyâyi<i>s</i> | [356](Nyayis_3#p356)
 V. Âta<i>s</i> Nyâyi<i>s</i> | [357](Nyayis_4#p357)
-INDEX to the Translations of the Vendîdâd, Sîrôzahs, Ya<i>s</i>ts, and Nyâyi<i>s</i> | [363](sbe2335.htm#p363)
+INDEX to the Translations of the Vendîdâd, Sîrôzahs, Ya<i>s</i>ts, and Nyâyi<i>s</i> | [363](Index#p363)
 Transliteration of Oriental Alphabets adopted for the Translations of the Sacred Books of the East | 381
 
 <figure class="table chapter-navigator">

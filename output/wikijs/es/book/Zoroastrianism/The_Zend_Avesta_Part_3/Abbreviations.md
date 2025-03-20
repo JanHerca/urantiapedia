@@ -32,7 +32,45 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
+<span id="pxlviii">[<sup><small>pág. xlviii</small></sup>]</span>
 
+Barth. = Bartolomae.
+
+BVS = Vendidad Sade, von Dr. Hermann Brockhaus. Leipzig, 1850.
+
+D. = dastur.
+
+De inf. = De infinitivi linguarum sanskritae bactricae persicae graecae oscae umbricae latinae gotticae forma et usu, scripsit Eugenius Wilhelmus, phil. doctor. 1872.
+
+<i>G</i>. = <i>G</i>âmâsp<i>g</i>i.
+
+H. = Hübschmann.
+
+inf. = Geschichte des Infinitivs im Indogermanischen, von Dr. Julius Jolly. 1873.
+
+K. = Manuscritos de Copenhague.
+
+KZ = Kuhnische Zeitschrift für vergleichende Sprachforschung.
+
+M. î K. = Mainyô-î Khard. Ed. Oeste. 1871.
+
+Ner. = Neryosangh.
+
+P. = Manuscritos de París.
+
+<i>R</i>v. = <i>Ri</i>g-veda.
+
+Sp. = Espejo.
+
+Trlr. = traductor.
+
+VS = Sintaxis vergleichender de Ein Kapitel, por Dr. Julius Jolly. 1872.
+
+Wg. = Westergaard.
+
+ZDMG = Zeitschrift der deutschen morgenländischen Gesellschaft.
+
+Un asterisco denota irregularidades.
 
 <figure class="table chapter-navigator">
   <table>

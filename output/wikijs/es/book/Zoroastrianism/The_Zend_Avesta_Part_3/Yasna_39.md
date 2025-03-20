@@ -32,7 +32,15 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
+## YASNA XXXIX. AL ALMA DEL VACUNO, etc.
 
+1\. Y ahora sacrificamos al alma de la vaca y a su cuerpo creado, y sacrificamos a las almas <span id="p288">[<sup><small>p. 288</small></sup>]</span> del ganado que es apto para vivir [^1198] (para nosotros), y de quienes (¿nosotros?) somos, como si fueran iguales a ellos.
+
+2\. Y adoramos las almas de los animales domesticados y domados, y de las manadas salvajes, y las almas de los santos dondequiera que hayan nacido, tanto hombres como mujeres, cuyas buenas conciencias están triunfando en la lucha contra los Daevas, o triunfarán, o han triunfado.
+
+3\. Y ahora adoramos a los Generosos Inmortales (todos) los buenos, y tanto a los hombres [^1199] como a las mujeres [^1200] (por sus nombres). Adoramos a los hombres entre ellos, siempre vivos y siempre serviciales, que habitan junto a los piadosos, y a las mujeres de igual manera. 4. Como Tú, ¡oh Ahura Mazda!, has pensado y hablado, como has determinado y has hecho estas cosas (que efectúan) lo bueno, por eso te ofrecemos, por eso te atribuimos nuestras alabanzas, te adoramos y nos inclinamos ante Ti; y por eso, ¡Ahura!, dirigimos nuestras oraciones a Ti, confesando nuestros pecados.
+
+5\. Y así nos acercamos a Ti junto con la buena afinidad de nuestros parientes, con la de la Rectitud, la bienaventurada, y la buena ley del ahorro y la energía, y la buena Piedad, la mente dispuesta (dentro de Tu pueblo).
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +65,11 @@ dateCreated: 2025-2-12T13:0:42Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1208]: 288:1 Ganado.
+
+[^1209]: 288:2 Oh.
+
+[^1210]: 288:3 Yahvé.

@@ -58,7 +58,9 @@ Removals—Work to be avoided—Discussion between the Schools of Shammai and Hi
 
 8\. The school of Shammai said, “they must not give skins to a tanner, nor articles to a strange laundress; except they can be sufficiently done while it is yet day.” But all of them the school of Hillel allow “with the sun.”
 
-9\. Said Rabbi Simon, the son of Gamaliel, “the house of my father used to give white articles to a strange laundress three days before the Sabbath.” But both schools agree that “they may carry [^92] beams to the oil-press and logs to the wine-press.” <span id="p85">[<sup><small>p. 85</small></sup>]</span> 10\. “They must not fry flesh, onions, and eggs; except they be sufficiently fried while it is yet day. They must not put bread in the oven at dusk, nor a cake on coals, except its face be sufficiently crusted while it is yet day.” Rabbi Eliezer said, “that its under side be sufficiently crusted.”
+9\. Said Rabbi Simon, the son of Gamaliel, “the house of my father used to give white articles to a strange laundress three days before the Sabbath.” But both schools agree that “they may carry [^92] beams to the oil-press and logs to the wine-press.” <span id="p85">[<sup><small>p. 85</small></sup>]</span> 
+
+10\. “They must not fry flesh, onions, and eggs; except they be sufficiently fried while it is yet day. They must not put bread in the oven at dusk, nor a cake on coals, except its face be sufficiently crusted while it is yet day.” Rabbi Eliezer said, “that its under side be sufficiently crusted.”
 
 11\. “They may hang up the passover [1](Treatise3_2#fn93) offering in an oven at dusk.” And they may take a light from the wood pile in the house of burning. [2](Treatise3_2#fn94) And in the suburbs “when the fire has sufficiently lighted the greater part.” Rabbi Judah says, “from the coals however little” (kindled before the Sabbath).
 

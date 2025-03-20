@@ -32,6 +32,9 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
+## YASNA LXVII (SP. LXVI).
+
+1-4. (Véase Y. XXIII, 1-4, sustituyendo «Deseo acercarme con santidad» por «Ofrezco con santidad»; véase también Y. VII, 24.) 5-7. (Véase Y. XXXVIII, 3-5.)
 
 
 <figure class="table chapter-navigator">

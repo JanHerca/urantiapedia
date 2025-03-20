@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-
+Este capítulo es idéntico a Yasna XXXVII.
 
 <figure class="table chapter-navigator">
   <table>
