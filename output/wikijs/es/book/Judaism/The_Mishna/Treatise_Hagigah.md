@@ -32,7 +32,9 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+\[Contiene leyes relativas a los sacrificios en los festivales.\]
 
+QUE CIERRA EL SEDER MOED.
 
 <figure class="table chapter-navigator">
   <table>

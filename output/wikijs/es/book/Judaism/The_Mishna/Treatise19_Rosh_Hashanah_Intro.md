@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p156">[<sup><small>pág. 156</small></sup>]</span>
 
+## XIX. TRATADO DE ROSH HASHANÁ, O, DEL AÑO NUEVO.
+
+### Introducción.
+
+En este Tratado se enumeran diversos períodos de inicio del año para diferentes propósitos durante la existencia del Segundo Templo. A continuación, se describe el modo de determinar el día de la fiesta de la luna nueva a partir de la observación de testigos, así como la manera de examinarlos y otros asuntos relacionados. Finalmente, este Tratado trata de la fiesta del año nuevo y sus peculiaridades, como el toque de la corneta (שופר), las oraciones y el servicio de dicha festividad.
 
 <figure class="table chapter-navigator">
   <table>

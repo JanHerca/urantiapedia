@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p280">[<sup><small>pág. 280</small></sup>]</span>
 
+## XXVIII. TRATADO DE GITTIN.
+
+### Introducción.
+
+Bajo este título se especifican las leyes relativas al Get [es decir, la carta de divorcio, cuyo plural es Gittin], documento sin el cual ningún matrimonio puede disolverse legalmente. Los textos de la Sagrada Ley, en los que se fundamentan las normas de este Tratado, se encuentran en el capítulo 24 del Deuteronomio.
 
 <figure class="table chapter-navigator">
   <table>

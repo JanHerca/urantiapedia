@@ -32,7 +32,15 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+## II. TRATADO PEAH.
 
+\[Contiene leyes relativas al rincón del campo que debe dejarse para los pobres (Levítico xxiii. 22, y Deuteronomio xxiv. 19), y, en general, leyes relacionadas con los derechos de los pobres en el suelo de la Tierra Santa.\]
+
+## III. TRATADO DEMAI.
+
+\[Contiene leyes relativas a los productos agrícolas en la debida liquidación de los diezmos y ofrendas, cuyo pago es dudoso.\]
+
+NB Debe notarse que la Mishná en ningún momento se limita al tema que pretende tratar, sino que ocasionalmente introduce observaciones y opiniones que no hacen referencia al tema que las precede o las sucede.
 
 <figure class="table chapter-navigator">
   <table>

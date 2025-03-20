@@ -32,6 +32,14 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p126">[<sup><small>pág. 126</small></sup>]</span>
+
+## XVI. TRATADO YOMAH, O, EL DÍA DE LA EXPIACIÓN.
+
+### INTRODUCCIÓN.
+
+Los primeros siete capítulos tratan de la manera en que se celebraba el Día de la Expiación [^352] en el segundo templo; los diferentes sacrificios que se ofrecían ese día, la preparación del sumo sacerdote para su ministerio y el orden del servicio, tal como lo realizaba, detallando detalladamente cada circunstancia relacionada con él. El octavo capítulo trata de la observancia general del día, con respecto al ayuno, la penitencia, etc., y las reglas y regulaciones correspondientes. Dado que los preceptos contenidos en los primeros siete capítulos están actualmente en suspenso, solo se ha traducido el octavo capítulo.
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +65,7 @@ dateCreated: 2025-2-6T12:57:9Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^352]: 126:1 Levítico 12:1 dieciséis. 1–34. Levíticio. 23º. 26–32. Adormecer. 29. 7–11.

@@ -32,7 +32,15 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p144">[<sup><small>pág. 144</small></sup>]</span>
 
+## XVIII. TRATADO YOM TOB, O, DEL FESTIVAL.
+
+### Introducción.
+
+Este libro, comúnmente llamado ביצה, o huevo [de la palabra con la que comienza], contiene leyes y normas para la correcta observancia de las festividades. Explica las obras prohibidas en el Shabat, pero que pueden realizarse durante la festividad; y prescribe las restricciones y la forma en que pueden realizarse.
+
+Para la correcta comprensión de este Tratado, es necesario explicar aquí tres frases que aparecen con frecuencia; a saber, נולד, es decir, todo lo que nació, se ha creado, se ha producido o se ha vuelto apto para el consumo el mismo día de la festividad. Tales son el huevo puesto el día de la festividad, la fruta caída de los árboles, etc. Ninguno de estos puede usarse en la festividad, ya que solo se pueden usar los alimentos que han sido מוכן, o preparados antes de la festividad. El tercer término, מוקצה, designa los alimentos, etc., que no han sido previamente preparados o reservados para la festividad; y que, por lo tanto, no pueden usarse en ella.
 
 <figure class="table chapter-navigator">
   <table>

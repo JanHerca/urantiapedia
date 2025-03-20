@@ -32,6 +32,13 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p180">[<sup><small>pág. 180</small></sup>]</span>
+
+## XXI. TRATADO DE MEGUILLAH, O, DEL ROLLO DEL LIBRO DE ESTER.
+
+### Introducción.
+
+Este Tratado, según su título, trata de los períodos señalados para la lectura del libro, de la manera en que debe escribirse y leerse en la fiesta de las suertes. Sin embargo, una parte considerable de este Tratado se dedica a asuntos no directamente relacionados con el tema de su título, como las leyes relativas a las sinagogas, las lecturas públicas de la Sagrada Ley en diversos días solemnes, etc., y a otros asuntos mencionados incidentalmente.
 
 
 <figure class="table chapter-navigator">

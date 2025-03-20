@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p306">[<sup><small>pág. 306</small></sup>]</span>
 
+## XXIX. TRATADO KEDUSHIN, O, DEL COMPROMISO.
+
+### Introducción.
+
+Bajo este título se mencionan varias leyes relativas a la adquisición de una mujer como esposa. Se llama קדושין, de קדש, «consagrar o apartar», ya que mediante ese acto la mujer queda «apartada», por así decirlo, solo para su esposo. Como es habitual en la Mishná, se introducen ocasionalmente otras normas, no directamente relacionadas con el tema del tratado.
 
 <figure class="table chapter-navigator">
   <table>

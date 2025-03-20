@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p192">[<sup><small>pág. 192</small></sup>]</span>
 
+## XXII. TRATADO MOED KATAN O, LOS DÍAS MEDIOS DE LAS FIESTAS.
+
+### Introducción.
+
+Este Tratado contiene normas para la mejor observancia de los días menores o intermedios de la Pascua y los Tabernáculos, señalando qué trabajos pueden realizarse en estos días intermedios y cuáles están prohibidos. También establece ciertas reglas para los dolientes.
 
 <figure class="table chapter-navigator">
   <table>

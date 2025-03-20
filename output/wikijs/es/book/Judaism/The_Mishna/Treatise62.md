@@ -29,7 +29,16 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+## LXII. TREATISE OOKEZIN, STALKS.
 
+\[Treats of legumes and fruits which contract uncleanness.\]
+
+Which closes Seder Taharoth.
+
+FINIS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Wertheimer & Co., Printers, Circus Place, Finsbury Circus.
 
 <figure class="table chapter-navigator">
   <table>

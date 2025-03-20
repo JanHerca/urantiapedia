@@ -32,7 +32,19 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+<span id="p279">[<sup><small>pág. 279</small></sup>]</span>
 
+## XXV. TRATADO NEDARIM.
+
+\[Contiene leyes relativas a los votos hechos por las mujeres, que el padre y el marido tienen el poder de anular, fundadas en Números xxx. 4–16.\]
+
+## XXVI. TRATADO NAZIR.
+
+\[Se refiere a los votos de abstinencia. Los preceptos se basan en Números 6:1-21.\]
+
+## XXVII. TRATADO SOOTAH.
+
+\[Contiene leyes relativas a la mujer sospechosa de adulterio, fundadas en Números 5:11-31.\]
 
 <figure class="table chapter-navigator">
   <table>

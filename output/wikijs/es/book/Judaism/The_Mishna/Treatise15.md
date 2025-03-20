@@ -32,7 +32,9 @@ dateCreated: 2025-2-6T12:57:9Z
   </table>
 </figure>
 
+## XV. TRATADO SHEKALIM.
 
+\[Contiene leyes relativas al impuesto de capitación de medio shekel, fundadas en Éxodo 13:12.\]
 
 <figure class="table chapter-navigator">
   <table>
