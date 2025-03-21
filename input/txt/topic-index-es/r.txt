@@ -142,7 +142,7 @@ Ninguna en Jerusem, sólo la precipitación diaria de condensación durante el t
 Los antiguos chamanes se especializaban en hacer llover, buscando ayuda y control sobrehumanos sobre los peligros de la vida. (90:2.1,6)
 
 arco iris | | | | OK
-El arcoíris tiene diversos significados simbólicos en diferentes culturas y religiones: desde ser adorado por las tribus de las montañas de la India y África como una serpiente celestial hasta ser visto como una promesa de Dios en las tradiciones hebreas y cristianas (85:4.2).
+El arcoíris tiene diversos significados simbólicos en diferentes culturas y religiones: desde ser adorado por las tribus de las montañas de la India y África como una serpiente celestial hasta ser visto como una promesa de Dios en las tradiciones hebreas y cristianas (85:4.2)
 
 Ramá | | | PLACE | OK
 Jesús predicó en Ramá a un anciano filósofo griego, enseñándole las verdades salvadoras del evangelio del reino. (138:9.3) (146:3) (152:7.3) (156:6.2)
@@ -1077,7 +1077,7 @@ características
 	A medida que pasa cada día, los verdaderos creyentes se vuelven más hábiles para guiar a otros hacia la verdad eterna, revelar la bondad, recomendar la rectitud y conducir a las almas hambrientas al reino espiritual. (156:5.15)
 	El único propósito del verdadero creyente es amar a los demás como Dios los ha amado, en una conexión viva entre la divinidad y la humanidad. (180:2.5)
 	Como hijos iluminados por la fe, debemos cumplir un triple deber para con el hombre, Dios y la hermandad, al tiempo que encarnamos nuestra doble ciudadanía como ciudadanos terrenales y celestiales. (178:1.5)
-	Los verdaderos creyentes siguen adorando a Dios a pesar de todo y se atreven a declarar: «Aunque él me mate, le serviré» (101:3.16).
+	Los verdaderos creyentes siguen adorando a Dios a pesar de todo y se atreven a declarar: «Aunque él me mate, le serviré» (101:3.16)
 	Los creyentes del Reino deben tener una fe inquebrantable en la justicia, una creencia indudable en la salvación eterna y buscar la renovación espiritual mediante la comunión llena de adoración. (156:5.12)
 	Los creyentes del Reino, que poseen el don de la vida eterna otorgado por Jesús, nunca probarán la muerte si mantienen viva la palabra de verdad en sus corazones. (162:7.5) (190:0.2) (193:1.2)
 	Los verdaderos creyentes, en quienes mora el Espíritu de la Verdad, serán guiados a través de la vida y por la eternidad por la encarnación espiritual del Hijo del Hombre. (181:1.1-2)
@@ -1708,11 +1708,11 @@ religión
 	La religión romana fue muy influida por las extensas importaciones culturales de Grecia, absorbiendo la mayoría de los dioses olímpicos en el panteón latino y más tarde adoptando a Cristo como su filosofía moral. (98:3.3) (195:2.5)
 	El Imperio Romano adoraba a dioses en tríada, un concepto que se originó a partir de asociaciones naturales en la experiencia humana y que apareció en varias religiones antes de la revelación de la Trinidad del Paraíso. (104:0.3)
 Situación social
-	En el primer siglo después de Cristo, el Imperio romano tenía cinco estratos sociales distintos y apenas había un descontento social generalizado (121:3.1,9).
-	En el siglo II d. C., las condiciones eran ideales para la propagación de una nueva religión en el Imperio romano, pero a pesar de la aceptación del cristianismo, el imperio todavía se enfrentaba a desafíos que condujeron a su colapso final (195:3.7-11).
-	Los griegos y los romanos favorecían el matrimonio monógamo, influenciados por el culto a los antepasados, las creencias cristianas y las normas sociales (83:6.3).
-	La ​​mitad de la población del Imperio romano eran esclavos, y muchos ascendían a posiciones altas a pesar de haber comenzado como inferiores (121:3.6-8).
-	El Imperio romano perdía la mitad del año en ceremonias de culto, con doce fiestas de fantasmas y numerosos rituales acompañantes cada año (87:3.4).
+	En el primer siglo después de Cristo, el Imperio romano tenía cinco estratos sociales distintos y apenas había un descontento social generalizado (121:3.1,9)
+	En el siglo II d. C., las condiciones eran ideales para la propagación de una nueva religión en el Imperio romano, pero a pesar de la aceptación del cristianismo, el imperio todavía se enfrentaba a desafíos que condujeron a su colapso final (195:3.7-11)
+	Los griegos y los romanos favorecían el matrimonio monógamo, influenciados por el culto a los antepasados, las creencias cristianas y las normas sociales (83:6.3)
+	La ​​mitad de la población del Imperio romano eran esclavos, y muchos ascendían a posiciones altas a pesar de haber comenzado como inferiores (121:3.6-8)
+	El Imperio romano perdía la mitad del año en ceremonias de culto, con doce fiestas de fantasmas y numerosos rituales acompañantes cada año (87:3.4)
 	Los judíos esparcidos por todo el mundo romano se convirtieron en centros culturales para la propagación del cristianismo. (121:2.3-4)
 	Las laxas prácticas del divorcio del Imperio Romano contrastaban con el énfasis de Jesús en la santidad de las relaciones familiares. (140:8.14)
 	El Imperio Romano en el primer siglo d.C. se caracterizaba por la ausencia de problemas sociales generalizados, con una población satisfecha que aceptaba su rango social y tenía la oportunidad de ascender, ya que el cristianismo no era visto como un movimiento económico para abordar las disparidades de clase. (121:3.9)
@@ -1724,7 +1724,7 @@ Fortalezas y debilidades
 	Las fortalezas y debilidades del Imperio romano se centraban en su exitoso estado basado en la familia, la agricultura, las ciudades, la conquista y los gobernantes personales, con una gran debilidad en sus liberales disposiciones para la emancipación que llevaron a una rápida degeneración interna y al colapso final. (71:1.13-22)
 
 juez romano en Corinto | | | PERSON | OK
-La conversación de Jesús con el juez romano de Corinto hizo hincapié en el juicio justo, recordándole la responsabilidad universal por la justicia y la misericordia (133:4.7).
+La conversación de Jesús con el juez romano de Corinto hizo hincapié en el juicio justo, recordándole la responsabilidad universal por la justicia y la misericordia (133:4.7)
 
 magistrado romano en Roma | | | PERSON | OK
 El discurso de Jesús con el magistrado romano en Roma sobre la justicia y la misericordia fue una poderosa demostración de su compromiso de garantizar la equidad y la integridad en el sistema legal de una nación. (132:4.8)
@@ -1736,9 +1736,9 @@ soldado romano en Roma | | | PERSON | OK
 Durante la conversación que Jesús mantuvo con un soldado romano en Roma, le instó a ser valiente, justo, misericordioso, noble, veraz, virtuoso, amoroso y a buscar a Dios con todo el corazón. (132:4.6)
 
 soldados romanos en Jerusalén | | | PERSON | OK
-Los soldados romanos de Jerusalén fueron sobornados para que dijeran que los discípulos se habían llevado el cuerpo de Jesús cuando huyeron despavoridos de la tumba (189:2.4).
-Los soldados romanos de Jerusalén huyeron cuando se quitó la piedra de la tumba de Jesús (189:2.4).
-Sensibles a la falta de respeto de los judíos, los soldados romanos de Jerusalén arrestaron rápidamente a Judas por expresar una indignación ardiente hacia un guardia que hizo comentarios inapropiados (128:6.5).
+Los soldados romanos de Jerusalén fueron sobornados para que dijeran que los discípulos se habían llevado el cuerpo de Jesús cuando huyeron despavoridos de la tumba (189:2.4)
+Los soldados romanos de Jerusalén huyeron cuando se quitó la piedra de la tumba de Jesús (189:2.4)
+Sensibles a la falta de respeto de los judíos, los soldados romanos de Jerusalén arrestaron rápidamente a Judas por expresar una indignación ardiente hacia un guardia que hizo comentarios inapropiados (128:6.5)
 
 romance | | | | OK
 Los antiguos creían en poderosos amuletos de amor hechos de diversos ingredientes místicos. (88:5.2)
@@ -1800,8 +1800,8 @@ La raza azul de la Rusia actual absorbió una cantidad considerable de sangre an
 En el este de Rusia, los espíritus de los árboles son considerados crueles. (85:2.4)
 
 Rut (hija de Mateo) | | | PERSON | OK
-Rut, hija de Mateo, era miembro del cuerpo de mujeres que Jesús había escogido para ministrar la obra del reino el 16 de enero (150:1.1).
-En la decimosexta aparición de Jesús, dio instrucciones a sus discípulos para que proclamaran el evangelio del reino, haciendo hincapié en la realidad de la paternidad de Dios y la verdad de la filiación del hombre (193:0).
+Rut, hija de Mateo, era miembro del cuerpo de mujeres que Jesús había escogido para ministrar la obra del reino el 16 de enero (150:1.1)
+En la decimosexta aparición de Jesús, dio instrucciones a sus discípulos para que proclamaran el evangelio del reino, haciendo hincapié en la realidad de la paternidad de Dios y la verdad de la filiación del hombre (193:0)
 
 Rut (Antiguo Testamento) | | | PERSON | OK
 María, madre de Jesús, descendía de una línea de mujeres notables, entre ellas Rut y otros antepasados ​​notables. (122:1.2)

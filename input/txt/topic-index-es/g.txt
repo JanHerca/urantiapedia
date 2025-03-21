@@ -304,8 +304,8 @@ la genética en los cielos
 	Las limitaciones del intelecto, las restricciones de la educación, la privación de cultura, el empobrecimiento de la posición social e incluso unos criterios morales humanos inferiores ocasionados por la falta desafortunada de ventajas educativas, culturales y sociales, no pueden invalidar la presencia del espíritu divino en esos individuos desafortunados y humanamente perjudicados, pero creyentes. (5:1.4-7) (5:5.13-14)
 la evolución genética
 	Los esfuerzos realizados en Urantia por los Portadores de Vida para mejorar los modelos de vida de Satania tuvieron como resultado necesario la producción de numerosas formas de vida transitorias, aparentemente inútiles. (65:4.10-12)
-	La aparición repentina de especies nuevas y de órdenes diversificadas de organismos vivientes es un fenómeno enteramente biológico, estrictamente natural. Estas mutaciones genéticas no tienen nada de sobrenatural. (58:6.4)
 	El proceso de la evolución planetaria es ordenado y está controlado.  Una vez que las cepas seleccionadas y superiores de protoplasma viviente han hecho su aparición, son celosa e inteligentemente protegidas. (49:1.7)
+	La aparición repentina de especies nuevas y de órdenes diversificadas de organismos vivientes es un fenómeno enteramente biológico, estrictamente natural. Estas mutaciones genéticas no tienen nada de sobrenatural. (58:6.4)
 	Cada generación tiende ahora a eliminar de la corriente reproductora de la raza a aquellos individuos cuyo instinto parental no es lo suficientemente fuerte como para asegurar la procreación de hijos, los futuros padres de la siguiente generación. (84:7.7)
 históricamente
 	hubo exactamente 70 generaciones entre los mamíferos precursores y los mamíferos intermedios (61:6.1) (62:2.6)
@@ -863,13 +863,13 @@ Dios el Padre | | Padre Universal | PERSON | OK
 
 Dios Séptuple; Deidad Séptuple; El Séptuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
 Dios Séptuple es la divinidad compuesta por (56:5.3) (116:2.4-11)
-	# Los Hijos Creadores y los Espíritus Maternos de los universos locales
-	# Los Ancianos de los Días
-	# Los Siete Espíritus Maestros
-	# Ser Supremo
-	# El Espíritu Infinito
-	# El Hijo Eterno
-	# El Padre Universal
+# Los Hijos Creadores y los Espíritus Maternos de los universos locales
+# Los Ancianos de los Días
+# Los Siete Espíritus Maestros
+# Ser Supremo
+# El Espíritu Infinito
+# El Hijo Eterno
+# El Padre Universal
 Los Hijos Creadores son las focalizaciones finales del poder y de la personalidad de los poderosos atributos espacio-temporales de Dios Séptuple (33:1.3)
 Dios Séptuble es la personalidad de la Deidad funcionando en cualquier parte del espacio-tiempo (0:2.16)
 Los tres primeros niveles, los Espíritus Maternos, los Ancianos de los Días y los Espíritus Maestros, son conocidos como Creadores Supremos del tiempo y el espacio (31:9.14) (36:6.7) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)
@@ -1032,7 +1032,7 @@ Todo hijo de criatura puede decir en verdad: «Él conoce el camino que tomo, y 
 
 edad de oro; era de oro | | | | OK
 La expresión moderna «regreso a la naturaleza» es una ilusión de la ignorancia, una creencia en la realidad de una antigua «edad de oro» ficticia. La única base que tiene la leyenda de la edad de oro es el hecho histórico de la existencia de Dalamatia y del Edén. Pero aquellas sociedades mejoradas estaban lejos de haber realizado los sueños utópicos. Pero estas ideas eran desalentadoras, puesto que estaban basadas en una creencia en la regresión más bien que en la progresión, y además implicaban una Deidad vengativa (68:1.7) (74:8.13-14)
-La tradición de Adán y del Jardín del Edén también dio consistencia a la ilusión de una antigua «era de oro» en los albores de las razas. (89:2.3).
+La tradición de Adán y del Jardín del Edén también dio consistencia a la ilusión de una antigua «era de oro» en los albores de las razas. (89:2.3)
 la verdad es que las experiencias iniciales de la raza humana se caracterizaron por unas terribles condiciones antisociales (81:5.4)
 los tiempos de Onagar fueron en verdad la edad de oro para el hombre primitivo (63:6.9)
 las edades de luz y vida que llegarán a Urantia en un futuro distante serán auténticas edades de oro (50:5.10) | luz y vida
@@ -1176,7 +1176,7 @@ el evangelio, explicado | religión:explicado
 		# La voluntad como factor determinante en la experiencia del hombre. (170:4.10) | consagración de elección; decisiones; voluntad
 		# La comunión espiritual con Dios Padre. (170:4.11) | comunión espiritual; crecimiento espiritual; renacimiento espiritual
 		# Las satisfacciones supremas de servir con amor a los hombres. (170:4.12) | servicio
-		# La trascendencia de lo espiritual sobre lo material en la personalidad humana. (170:4.13).
+		# La trascendencia de lo espiritual sobre lo material en la personalidad humana. (170:4.13)
 	las fases superiores y más espirituales del nuevo evangelio del reino son la filiación divina, la libertad espiritual y la salvación eterna. (152:5.6)
 	La oración es algo natural para los hijos de la luz, pero el ayuno no forma parte del evangelio del reino de los cielos. (147:7.2)
 	el evangelio de Jesús consiste en la Paternidad de Dios y la filiación de todos los hombres, con la fraternidad consiguiente, que se lleva a cabo personalmente mediante el ministerio amoroso y el servicio social. (92:5.16) (94:4.10) (132:4.2) (142:7.4) (143:1.7) (143:6.6) (149:2.4) (191:4.4) (192:4.7) (193:0.4) (194:0.3-4) (195:10.21)
@@ -1399,7 +1399,7 @@ etapas de evolución de gobierno
 	# Unos representantes inteligentes y cualificados.
 la calidad del Estado
 	El estado más fuerte tiene un lenguaje, costumbres e instituciones comunes (71:1.1)
-	El sistema sólo tiene valor si mejora el bienestar del individuo y la humanidad (134:5.2).
+	El sistema sólo tiene valor si mejora el bienestar del individuo y la humanidad (134:5.2)
 	la característica del verdadero Estado es una soberanía que trasciende todas las luchas menores y todas las diferencias entre los grupos (71:1.23)
 	El Estado es una organización reguladora social y territorial, y el Estado más fuerte, más eficaz y más duradero está compuesto por una sola nación cuya población posee una lengua, unas costumbres y unas instituciones comunes. (71:1.1)
 	La capacidad de los ciudadanos que se ofrecen para aceptar las responsabilidades del Estado retrata fielmente la categoría de cualquier nivel de civilización. (71:3.10-12)
@@ -1622,8 +1622,8 @@ tipos de gravedad
 		esta gravedad espiritual del Hijo, que atrae constantemente a todas las realidades espirituales hacia él, es tan real y absoluta como la todopoderosa atracción material de la Isla del Paraíso. (7:1.3) (12:8.4)
 		Las realidades del espíritu reaccionan al poder de atracción del centro de la gravedad espiritual con arreglo a su valor cualitativo, a su grado efectivo de naturaleza espiritual. (7:1.3-4,8)
 		El funcionamiento discriminatorio del circuito de la gravedad espiritual podría compararse quizás con las funciones de los circuitos neuronales del cuerpo humano material (7:3.4)
-		Los grandes circuitos de la energía, la mente y el espíritu no son nunca una propiedad permanente de la personalidad ascendente; estos ministerios son siempre una parte de la Supremacía. (117:5.7-8).
-		Los circuitos en Nebadon son el Espíritu Santo y el Espíritu de la Verdad (34:4.3-4).
+		Los grandes circuitos de la energía, la mente y el espíritu no son nunca una propiedad permanente de la personalidad ascendente; estos ministerios son siempre una parte de la Supremacía. (117:5.7-8)
+		Los circuitos en Nebadon son el Espíritu Santo y el Espíritu de la Verdad (34:4.3-4)
 		El poder de atracción espiritual del Hijo es inherente, en menor grado, a muchas órdenes paradisiacas de filiación. (7:1.5)
 		El alma inmortal y evolutiva del hombre, creación conjunta de la mente material y del Ajustador, asciende como tal hasta el Paraíso, y cuando es enrolada posteriormente en el Cuerpo de la Finalidad, se conecta de alguna nueva manera con el circuito de la gravedad espiritual del Hijo Eterno mediante una técnica experiencial conocida con el nombre de trascendencia finalitaria. (117:5.3)
 		La atracción de la gravedad espiritual del Hijo Eterno constituye el secreto inherente a la ascensión al Paraíso de las almas humanas sobrevivientes. Todos los valores espirituales auténticos y todos los individuos sinceros espiritualizados son mantenidos en la atracción infalible de la gravedad espiritual del Hijo Eterno. (7:3.2)
@@ -1636,7 +1636,7 @@ tipos de gravedad
 		la acción de la gravedad espiritual es la medida cualitativa de la energía viviente de la divinidad (12:8.5)
 		las reacciones del espíritu omnipresente del Hijo Eterno son confiables y mensurables (7:1.8)
 		El pecado y la rebelión pueden dificultar el funcionamiento de los circuitos de un universo local, pero nada puede interrumpir la gravedad espiritual del Hijo Eterno. (7:1.7)
-		La presencia espiritual del Hijo Eterno es el canal de toda comunión espiritual (194:2.12).
+		La presencia espiritual del Hijo Eterno es el canal de toda comunión espiritual (194:2.12)
 		El circuito de la gravedad espiritual es el canal fundamental para transmitir las oraciones sinceras del corazón humano creyente, desde el nivel de la conciencia humana hasta la conciencia efectiva de la Deidad. (7:3.3)
 	gravedad de la personalidad | circuito de personalidad
 		La Gravedad de Personalidad no es calculable. El circuito es reconocible, pero no se puede medir ninguna realidad cualitativa o cuantitativa que responda a él (12:3.12)
@@ -1956,7 +1956,7 @@ después de la muerte de los sujetos
 	El guardián asignado patrocina el nuevo cuerpo, la forma morontial, como nuevo vehículo de vida para el alma inmortal y para ser habitado por el Ajustador que ha regresado. (30:4.15)
 	los tribunales deben absolver a los guardianres de la culpa si los sujetos no logran sobrevivir (108:5.10) (113:6.3)
 asignación
-	Desarrollan un afecto duradero por sus asociados humanos (113:2.5).
+	Desarrollan un afecto duradero por sus asociados humanos (113:2.5)
 	se asignan dos guardianes a cada mortal; el complemento del ser, uno de los dos ángeles, es el registrador (113:1.8) (113:2.7,9)
 	en el logro del tercer círculo de la intelectualidad humana y la espiritualidad adquirida, o en la inscripción en el cuerpo de reserva, se adquiere un guardián personal del destino (113:1.5-8) (113:2.1)
 	la asignación de un guardián personal hacía que el Ajustador llegara enseguida antes de la época del Espíritu de la Verdad (108:2.6)
@@ -1977,7 +1977,7 @@ Asignados notables
 técnica de servicio
 	Una de las cosas más importantes que un guardián del destino hace por su sujeto mortal es efectuar una coordinación personal de las numerosas influencias espirituales impersonales que habitan, rodean e inciden en la mente y en el alma de la criatura material en evolución. (113:3.1-5)
 	Muchos guardianes han conseguido una gran experiencia valiosa en los mundos pertenecientes a la serie donde no se fusiona con el Ajustador. (113:2.3)
-	El guardián del destino os influye de todas las maneras posibles que estén de acuerdo con la dignidad de vuestra personalidad; estos ángeles no interfieren bajo ninguna circunstancia en la acción libre de la voluntad humana. (113:5.1).
+	El guardián del destino os influye de todas las maneras posibles que estén de acuerdo con la dignidad de vuestra personalidad; estos ángeles no interfieren bajo ninguna circunstancia en la acción libre de la voluntad humana. (113:5.1)
 	los intermedios son imprescindibles para los serafines que ejercen como guardianes personales de los mortales. (77:8.4)
 	los guardianes seráficos del destino continúan su ministerio personal hacia los mortales que progresan en la luz; estos ángeles llegan en verdad en cantidades crecientes durante las eras establecidas, puesto que grupos cada vez más grandes de seres humanos alcanzan el tercer círculo cósmico de consecución humana coordinada durante el período de la vida planetaria. El Espíritu Santo y el ministerio de los ángeles son incluso más eficaces a medida que se experimentan las épocas sucesivas de vida establecida. (55:4.2) (55:6.4)
 	Las razas humanas de Urantia son muy difíciles de trabajar. No es raro escuchar a un guardián del destino presentar una declaración formal para excusar las dificultades que había encontrado mientras servía a su sujeto mortal. (111:7.4-5)
