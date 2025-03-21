@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:42:11Z
   </table>
 </figure>
 
-“Las palabras de los sabios y sus dichos oscuros” (Prov. 1:6).
+«Las palabras de los sabios y sus dichos oscuros» (Prov. 1:6).
 
 <span id="p266">[<sup><small>pág. 266</small></sup>]</span>
 
@@ -48,15 +48,15 @@ La Cábala se divide en dos partes: la simbólica y la real.
 
 Esto enseña el secreto del sentido místico de las Escrituras y las trece reglas mediante las cuales se explica la observancia de la ley, no de forma lógica, sino cabalística; a saber, las reglas de la «Gematría», del «Notricón», del «Temurah», etc. Para dar una idea de este tipo de exposición, explicaremos cada una de estas tres reglas de una manera que, aunque al estilo de los rabinos, sea fácilmente comprensible para el lector gentil.
 
-1\. “Gematría”. Esta regla depende del valor numérico de cada letra del alfabeto. Su aplicación en la solución de un punto controvertido suele ser tan absurda como ingeniosa. Para aclarar aún más el tema, supongamos que se asigna un valor numérico estándar a cada letra del alfabeto inglés. _A_ tiene el valor de 1, _B_ 2, _C_ 3, _D_ 4, _E_ 5, _F_ 6, _G_ 7, _H_ 8, _I_ 9, _J_ 10, _K_ 20, _L_ 30, _M_ 40, _N_ 50, _O_ 60, _P_ 70, _Q_ 80, _R_ 90, _S_ 100, _T_ 200, _U_ 300, _V_ 400, _W_ 500, _X_ 1000, _Y_ 10.000, _Z_ 100.000. Y ahora supongamos un punto en disputa para ilustrar cómo se resuelve por Gematría. Supongamos que el tema de discusión es la superioridad comparativa de los idiomas hebreo e inglés, y Hugo y Baruch son los disputantes. El primero, siendo hebreo, sostiene que el hebreo es superior al inglés,
+1\. «Gematría». Esta regla depende del valor numérico de cada letra del alfabeto. Su aplicación en la solución de un punto controvertido suele ser tan absurda como ingeniosa. Para aclarar aún más el tema, supongamos que se asigna un valor numérico estándar a cada letra del alfabeto inglés. _A_ tiene el valor de 1, _B_ 2, _C_ 3, _D_ 4, _E_ 5, _F_ 6, _G_ 7, _H_ 8, _I_ 9, _J_ 10, _K_ 20, _L_ 30, _M_ 40, _N_ 50, _O_ 60, _P_ 70, _Q_ 80, _R_ 90, _S_ 100, _T_ 200, _U_ 300, _V_ 400, _W_ 500, _X_ 1000, _Y_ 10.000, _Z_ 100.000. Y ahora supongamos un punto en disputa para ilustrar cómo se resuelve por Gematría. Supongamos que el tema de discusión es la superioridad comparativa de los idiomas hebreo e inglés, y Hugo y Baruch son los disputantes. El primero, siendo hebreo, sostiene que el hebreo es superior al inglés,
 
 <span id="p268">[<sup><small>pág. 268</small></sup>]</span>
 
-“Porque”, dice él, “el valor numérico de las letras que forman la palabra hebreo es 610; mientras que el valor numérico de inglés es solo 209”. Este último, siendo inglés, sostiene, por supuesto, exactamente la opinión contraria y argumenta lo siguiente: “Todo el mundo erudito debe admitir que el inglés es una lengua viva, pero no así el hebreo; y como está escrito (Eclesiastés ix. 4) que 'Un perro vivo es mejor que un león muerto', sostengo, por tanto, que el inglés es superior al hebreo”. La disputa se remitió a una autoridad de Oxford para su decisión, y un erudito doctor la resolvió mediante:
+«Porque», dice él, «el valor numérico de las letras que forman la palabra hebreo es 610; mientras que el valor numérico de inglés es solo 209». Este último, siendo inglés, sostiene, por supuesto, exactamente la opinión contraria y argumenta lo siguiente: «Todo el mundo erudito debe admitir que el inglés es una lengua viva, pero no así el hebreo; y como está escrito (Eclesiastés ix. 4) que 'Un perro vivo es mejor que un león muerto', sostengo, por tanto, que el inglés es superior al hebreo». La disputa se remitió a una autoridad de Oxford para su decisión, y un erudito doctor la resolvió mediante:
 
-2\. “Notricón”. Consiste en formar una oración decisiva compuesta por palabras cuyas letras iniciales se encuentran en una palabra dada; por ejemplo, _Hebreo:_\—“_El razonamiento de Hugo supera al de Baruc en todos los sentidos”. _Inglés:_\—“_El inglés no es buen idioma, es escasamente armonioso”; pero _Hebreo:_\—“_¡Santo, elegante, brillante, resonante, evocador de maravillas!”. Este es un buen ejemplo de cómo llegar al sentido secreto de una palabra mediante la regla del “Notricón”, y ahora procederemos a explicarlo.
+2\. «Notricón». Consiste en formar una oración decisiva compuesta por palabras cuyas letras iniciales se encuentran en una palabra dada; por ejemplo, _Hebreo:_\—«_El razonamiento de Hugo supera al de Baruc en todos los sentidos». _Inglés:_\—«_El inglés no es buen idioma, es escasamente armonioso»; pero _Hebreo:_\—«_¡Santo, elegante, brillante, resonante, evocador de maravillas!». Este es un buen ejemplo de cómo llegar al sentido secreto de una palabra mediante la regla del «Notricón», y ahora procederemos a explicarlo.
 
-3\. “Temurah”. Significa permutación, o cambio de las letras del alfabeto según un sistema adoptado regularmente. Solo conocemos cinco de estos alfabetos permutados, pero podría haber más. Los nombres técnicos de estos cinco alfabetos son: “Atbash”, “Atbach”, “Albam”, “Aiakbechar” y “Tashrak”. Intentaremos explicar el primer alfabeto permutado únicamente, a modo de ejemplo, ya que el lector general no está del todo preparado para comprender el resto, y una pista para el erudito es suficiente.
+3\. «Temurah». Significa permutación, o cambio de las letras del alfabeto según un sistema adoptado regularmente. Solo conocemos cinco de estos alfabetos permutados, pero podría haber más. Los nombres técnicos de estos cinco alfabetos son: «Atbash», «Atbach», «Albam», «Aiakbechar» y «Tashrak». Intentaremos explicar el primer alfabeto permutado únicamente, a modo de ejemplo, ya que el lector general no está del todo preparado para comprender el resto, y una pista para el erudito es suficiente.
 
 Observe el lector que, dado que las letras del alfabeto inglés son más numerosas y se designan y organizan de forma diferente que las del hebreo, el «Atbash» del hebreo debe convertirse necesariamente en «Azby» en inglés. Si ahora escribimos en una línea y en orden regular la primera mitad del alfabeto, y la otra mitad en la segunda línea, pero en orden inverso, así:
 
@@ -70,7 +70,7 @@ Obtenemos trece parejas de letras que se intercambian una con la otra, a saber, 
 
 ### LA VERDADERA KÁBALA
 
-La “Verdadera Cábala” se compone de misterios teóricos y prácticos.
+La «Verdadera Cábala» se compone de misterios teóricos y prácticos.
 
 1\. Los misterios teóricos tratan sobre las diez esferas, los cuatro mundos, la esencia y los diversos nombres de Dios y de los ángeles, así como de la jerarquía celestial y sus influencias y efectos en este mundo inferior, los misterios de la creación, el carro místico descrito por el profeta Ezequiel, los diferentes órdenes y oficios de ángeles y demonios, y muchos otros temas profundos, demasiado profundos para su comprensión.
 
@@ -82,7 +82,7 @@ La “Verdadera Cábala” se compone de misterios teóricos y prácticos.
 
 ## LA KÁBALA
 
-Sabe que los 613 Preceptos de la Ley forman un pacto con el Santo —¡bendito sea Él!— y con Israel, como se explica a menudo en el Zóhar. Está escrito (Éxodo 3:15): «Este es mi nombre, y este es mi memorial». «Mi nombre», en caracteres hebreos, junto con «Yeho», suma numéricamente 365; «Vah», junto con «Mi memorial», suma 248. Aquí tenemos el número 613 en el Santo —¡bendito sea Él! El alma es una porción de Dios desde arriba, y esto se insinúa místicamente en los grados de «aliento, espíritu, alma», cuyas letras inicial y final suman 613, mientras que las letras centrales de estas suman el número de «Señor, Dios Todopoderoso». El alma de Moisés, nuestro Rabino —¡la paz sea con él!— abrazó a todas las almas de Israel; como se dice, Moisés equivalía a todo Israel, “Moisés nuestro Rabino” equivale a 613; y “Señor Dios de Israel” también equivale a 613.
+Sabe que los 613 Preceptos de la Ley forman un pacto con el Santo —¡bendito sea Él!— y con Israel, como se explica a menudo en el Zóhar. Está escrito (Éxodo 3:15): «Este es mi nombre, y este es mi memorial». «Mi nombre», en caracteres hebreos, junto con «Yeho», suma numéricamente 365; «Vah», junto con «Mi memorial», suma 248. Aquí tenemos el número 613 en el Santo —¡bendito sea Él! El alma es una porción de Dios desde arriba, y esto se insinúa místicamente en los grados de «aliento, espíritu, alma», cuyas letras inicial y final suman 613, mientras que las letras centrales de estas suman el número de «Señor, Dios Todopoderoso». El alma de Moisés, nuestro Rabino —¡la paz sea con él!— abrazó a todas las almas de Israel; como se dice, Moisés equivalía a todo Israel, «Moisés nuestro Rabino» equivale a 613; y «Señor Dios de Israel» también equivale a 613.
 
 _Kitzur Sh'lu_, pág. 2, col. 2.
 
@@ -162,21 +162,21 @@ El asesino se transmigra en agua. La señal mística de esto se indica en Deuter
 
 _Ibíd._, fol. 153, cols. 1, 2.
 
-Quien peca con una mujer casada, después de sufrir la pena de vagar errante y fugitivo, <span id="p276">[<sup><small>p. 276</small></sup>]</span> es transmigrado, junto con su cómplice, a la piedra de molino de un molino de agua, según el misterio de (Job xxxi. 10), “Deja que mi mujer muela para otro”.
+Quien peca con una mujer casada, después de sufrir la pena de vagar errante y fugitivo, <span id="p276">[<sup><small>p. 276</small></sup>]</span> es transmigrado, junto con su cómplice, a la piedra de molino de un molino de agua, según el misterio de (Job xxxi. 10), «Deja que mi mujer muela para otro».
 
 _Emeh Hamelech_, fol. 153, columnas. 1, 2.
 
-El carnicero que mata a un animal con un cuchillo defectuoso morirá de peste, y su alma pasará a un perro, al que así priva de lo que le pertenece, pues está dicho (Éxodo 22:30): “A los perros la echaréis”.
+El carnicero que mata a un animal con un cuchillo defectuoso morirá de peste, y su alma pasará a un perro, al que así priva de lo que le pertenece, pues está dicho (Éxodo 22:30): «A los perros la echaréis».
 
 _Kitzur Sh'lh_, fol. 17, col. 2.
 
 Un animal sacrificado con un cuchillo inadecuado se considera como si hubiera sido descuartizado en el campo, y su carne, según la ley, pertenece a los perros. Un carnicero descuidado, al vender la carne como alimento para el hombre, priva al perro de lo que le corresponde.
 
-Los sabios de la verdad han escrito: “Quien no se lava las manos antes de comer, como ordenaron los Rabinos de bendita memoria, será transmigrado a una catarata, donde no tendrá descanso, así como un asesino, que también es transmigrado al agua”.
+Los sabios de la verdad han escrito: «Quien no se lava las manos antes de comer, como ordenaron los Rabinos de bendita memoria, será transmigrado a una catarata, donde no tendrá descanso, así como un asesino, que también es transmigrado al agua».
 
 _Ibíd._, fol. 21, col. 2.
 
-Después de lavarse las manos antes de comer, debe extender los dedos y girar las palmas de las manos hacia arriba, como si estuviera recibiendo algo de un amigo, y luego repetir (Sal. cxxxiv. 2): “¡Alzad vuestras santas manos y bendecid al Señor!”
+Después de lavarse las manos antes de comer, debe extender los dedos y girar las palmas de las manos hacia arriba, como si estuviera recibiendo algo de un amigo, y luego repetir (Sal. cxxxiv. 2): «¡Alzad vuestras santas manos y bendecid al Señor!»
 
 _Ibídem._
 
@@ -230,7 +230,7 @@ En toda acción o transacción que un hombre realiza por voluntad propia, ya sea
 
 _Ibídem._
 
-Bismillahi Arrahmani Arraheemi, “En el nombre de Dios, el más misericordioso y compasivo”, es el lema de todo trabajo que realiza un musulmán.
+Bismillahi Arrahmani Arraheemi, «En el nombre de Dios, el más misericordioso y compasivo», es el lema de todo trabajo que realiza un musulmán.
 
 Un hombre debe siempre desear que su prójimo se beneficie de él, y no esforzarse por aprovecharse de él. Que sus palabras sean agradables a los hijos de los hombres si lo avergüenzan, y que él no los avergüence a cambio. Si lo engañan, que él no los engañe a cambio, y que cargue con el yugo del público, y no se lo imponga pesadamente a cambio.
 
@@ -248,11 +248,11 @@ Un hombre no debe vadear el agua ni atravesar ningún lugar peligroso en compañ
 
 _Ibíd._, fol. 10, col. 2.
 
-La influencia del hijo es relativamente mayor y más bendita que la del padre, pues los méritos del padre no aprovechan al hijo excepto en asuntos relacionados con este mundo (como legándole una herencia mundana); mientras que los méritos del hijo hacen más que beneficiar al padre en este mundo; lo benefician también en el mundo venidero (al decir “Kadish”), lo cual es suficiente para liberar su alma del purgatorio.
+La influencia del hijo es relativamente mayor y más bendita que la del padre, pues los méritos del padre no aprovechan al hijo excepto en asuntos relacionados con este mundo (como legándole una herencia mundana); mientras que los méritos del hijo hacen más que beneficiar al padre en este mundo; lo benefician también en el mundo venidero (al decir «Kadish»), lo cual es suficiente para liberar su alma del purgatorio.
 
 _Ibíd._, fol. 11, col. 2.
 
-Un proverbio común dice: “Un padre mantiene voluntariamente a diez hijos, pero diez hijos no están dispuestos a sustentar a un padre”.
+Un proverbio común dice: «Un padre mantiene voluntariamente a diez hijos, pero diez hijos no están dispuestos a sustentar a un padre».
 
 _Ibíd._, fol. 12, col. 2.
 
@@ -260,11 +260,11 @@ El uso correcto del dinero es aprender a tratar con honestidad, para que tu no s
 
 _Ibídem._
 
-El sabio dice: “El ojo de una aguja no es lo suficientemente estrecho para dos amigos, pero el mundo no es lo suficientemente ancho para dos enemigos”.
+El sabio dice: «El ojo de una aguja no es lo suficientemente estrecho para dos amigos, pero el mundo no es lo suficientemente ancho para dos enemigos».
 
 _Ibíd._, fol. 14, col. 1.
 
-“Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí” (Salmo 10). Debes saber que el corazón es la fuente de la vida y está situado en el centro del cuerpo, como el Santo de los Santos, como afirma el Libro Zóhar, es la parte central del mundo. Por lo tanto, uno debe tener el corazón limpio de maldad y de todos los malos pensamientos; de lo contrario, <span id="p280">[<sup><small>p. 280</small></sup>]</span> introduce un ídolo en la parte más interna del Templo, que debería ser la morada de la Shejiná. (Véase 1 Corintios 3:16, 17 y 6:19).
+«Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí» (Salmo 10). Debes saber que el corazón es la fuente de la vida y está situado en el centro del cuerpo, como el Santo de los Santos, como afirma el Libro Zóhar, es la parte central del mundo. Por lo tanto, uno debe tener el corazón limpio de maldad y de todos los malos pensamientos; de lo contrario, <span id="p280">[<sup><small>p. 280</small></sup>]</span> introduce un ídolo en la parte más interna del Templo, que debería ser la morada de la Shejiná. (Véase 1 Corintios 3:16, 17 y 6:19).
 
 _Kitzur Sh'lh_, fol. 14, col. 2.
 
@@ -290,7 +290,7 @@ Las siguientes son algunas de las muchas leyes relacionadas con la Shemonah-esre
 
 Antes de comenzar la Shemoná-esré, se deben retroceder tres pasos para poder avanzar tres. Esto se debe a que Moisés, nuestro Rabino —¡la paz sea con él!—, avanzó antes de su oración hacia las tres divisiones: «oscuridad, nubes y densa oscuridad» (Deuteronomio 4:2). Y esta es también la razón por la que, tras finalizar la Shemoná-esré, se deben dar tres pasos hacia atrás, regresando a través de estas tres partes o divisiones.
 
-Esta oración debe realizarse de pie, y los pies juntos de tal manera que parezcan un solo pie, para ser como los ángeles, de quienes está escrito (Ezequiel 1:7), “Y sus pies eran (así en el original) un pie recto”, es decir, sus pies parecían un solo pie.
+Esta oración debe realizarse de pie, y los pies juntos de tal manera que parezcan un solo pie, para ser como los ángeles, de quienes está escrito (Ezequiel 1:7), «Y sus pies eran (así en el original) un pie recto», es decir, sus pies parecían un solo pie.
 
 Esta actitud es señal de que ha perdido la capacidad de locomoción; no puede perseguir ni alcanzar ningún otro objetivo que no sea Dios. Los gentiles juntan las manos, queriendo decir con ello que sus manos están como atadas; pero nosotros, al juntar los pies, queremos significar que están completamente atados, lo cual indica mayor humildad; pues con las manos atadas uno aún podría huir en busca de su propio placer, lo cual no puede hacer con los pies atados.
 
@@ -360,7 +360,7 @@ _Kitzur Sh'lh_, fols. 65-67.
 
 Al final del Shabat, debe pronunciar, sobre una copa de vino, lo que técnicamente se denomina la «Separación», para la salida del Shabat, según consta en el libro de oraciones. Luego, debe plegar su Talit o velo y cantar el «Hamavdil», cuya primera estrofa dice así:
 
-“Que Aquel que hace distinción entre el día santo (el sábado) y el profano (los días de la semana) perdone nuestros pecados y multiplique nuestros hijos y nuestro dinero como la arena y como las estrellas en la noche”.
+«Que Aquel que hace distinción entre el día santo (el sábado) y el profano (los días de la semana) perdone nuestros pecados y multiplique nuestros hijos y nuestro dinero como la arena y como las estrellas en la noche».
 
 Si olvida doblar su velo (Tallit), debe sacudirlo completamente a la mañana siguiente, para librarse de los malos espíritus que se han albergado allí durante la noche, y la razón es conocida por los señores de la Cábala.
 

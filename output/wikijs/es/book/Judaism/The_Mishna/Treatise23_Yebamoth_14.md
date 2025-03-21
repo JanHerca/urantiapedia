@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO XIV.
 
-§ 1. Cuando un hombre sordomudo se casa con una mujer sana [^751], o un hombre sano se casa con una mujer sordomuda, puede divorciarse de su esposa o conservarla, e incluso si se casó con ella mediante ciertas señales [hechas ante testigos], puede divorciarse de la misma manera. Un hombre sano que se casó con una mujer sana y que posteriormente se volvió sordomuda, puede divorciarse o conservarla como desee, pero si ella se volvió loca, no tiene derecho a divorciarse. Si se vuelve sordomudo o loco, no puede divorciarse de ella en absoluto. R. Jochanan ben Noori preguntó: "¿Por qué se puede divorciar a una mujer que se volvió sordomuda, y un esposo que se volvió loco no puede divorciarse de su esposa?". Ellos [los sabios] le respondieron: “Porque hay una diferencia material a este respecto entre las dos partes, pues una mujer puede divorciarse con o sin su consentimiento, pero el consentimiento del hombre es necesario para que el divorcio sea válido”.
+§ 1. Cuando un hombre sordomudo se casa con una mujer sana [^751], o un hombre sano se casa con una mujer sordomuda, puede divorciarse de su esposa o conservarla, e incluso si se casó con ella mediante ciertas señales [hechas ante testigos], puede divorciarse de la misma manera. Un hombre sano que se casó con una mujer sana y que posteriormente se volvió sordomuda, puede divorciarse o conservarla como desee, pero si ella se volvió loca, no tiene derecho a divorciarse. Si se vuelve sordomudo o loco, no puede divorciarse de ella en absoluto. R. Jochanan ben Noori preguntó: "¿Por qué se puede divorciar a una mujer que se volvió sordomuda, y un esposo que se volvió loco no puede divorciarse de su esposa?". Ellos [los sabios] le respondieron: «Porque hay una diferencia material a este respecto entre las dos partes, pues una mujer puede divorciarse con o sin su consentimiento, pero el consentimiento del hombre es necesario para que el divorcio sea válido».
 
 § 2. R. Jochanan ben Gudgodah testificó haber sido instruido: «Que una mujer sordomuda, que en su minoría de edad fue desposeída en matrimonio por su padre, puede ser divorciada mediante la entrega de un _Get_». Ellos [los sabios] le dijeron: «Esto también se aplica al caso en que la pérdida de audición y habla ocurre después del matrimonio».
 
@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^756]: 231:1 Observe que dondequiera que en este capítulo se menciona la palabra “sonido”, aplicada tanto al hombre como a la mujer, significa una persona que está en posesión de las facultades de oír y hablar.
+[^756]: 231:1 Observe que dondequiera que en este capítulo se menciona la palabra «sonido», aplicada tanto al hombre como a la mujer, significa una persona que está en posesión de las facultades de oír y hablar.
 
 [^757]: 232:2 Él no puede recibir _Chalitzah_ de ella, ya que esa ceremonia sólo puede ser realizada por personas que están en posesión de sus facultades de audición y habla.
 

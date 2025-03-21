@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. Está prohibido atar un caballo para domarlo a los costados o detrás de una carreta tirada por bueyes, así como atar, para tiro, un asno libio con un camello. R. Jehudah dice: «Todo lo que nace de una yegua puede unirse, aunque el padre haya sido un asno; y, de igual manera, todo lo que nace de una asna puede unirse, aunque el padre haya sido un caballo; pero es ilegal unir lo que nace de una yegua con lo que nace de una asna».
 
-§ 5. Está prohibido provocar la copulación de la ‏פרוטיות‎ [^62]; pero está permitido <span id="p30">[<sup><small>p. 30</small></sup>]</span> hacerlo con la ‏רמך‎. [^63] La ‏אדני שדה‎ [^64] es un animal salvaje; R. José dice: «Su cadáver, incluso como el de un ser humano, contamina todo lo que se encuentra bajo una tienda». El puercoespín y el ‏חולדת הסניים‎ [^65] harán, como dice R. José, según Beth Shammai, “que una persona contraiga contaminación si ha llevado alguna porción de sus cadáveres que tenga el tamaño de una aceituna, o si ha tocado alguna parte del tamaño de una lenteja”.
+§ 5. Está prohibido provocar la copulación de la ‏פרוטיות‎ [^62]; pero está permitido <span id="p30">[<sup><small>p. 30</small></sup>]</span> hacerlo con la ‏רמך‎. [^63] La ‏אדני שדה‎ [^64] es un animal salvaje; R. José dice: «Su cadáver, incluso como el de un ser humano, contamina todo lo que se encuentra bajo una tienda». El puercoespín y el ‏חולדת הסניים‎ [^65] harán, como dice R. José, según Beth Shammai, «que una persona contraiga contaminación si ha llevado alguna porción de sus cadáveres que tenga el tamaño de una aceituna, o si ha tocado alguna parte del tamaño de una lenteja».
 
 El uro, o búfalo, debe considerarse un animal doméstico; R. José, sin embargo, dice: «Como un animal salvaje. El perro, como un animal salvaje»; pero R. Meir dice: «Como un animal doméstico». El cerdo, como un animal doméstico; la cebra, como un animal salvaje. El elefante y el mono, como animales salvajes. Es lícito para un ser humano tirar, arar o conducir junto con cualquiera de estos animales.
 
@@ -80,7 +80,7 @@ El uro, o búfalo, debe considerarse un animal doméstico; R. José, sin embargo
 
 [^62]: 29:2 Mulas, de las cuales no se puede determinar si la madre era una yegua o un asno.
 
-[^63]: 30:3 El término ‏בני הדמכים‎ ha sido traducido, en la versión inglesa de Ester, (viii. 14), como “mulas y camellos”, lo cual no puede significar aquí; pero el verdadero significado, y que se aplica plenamente aquí, parece ser el dado por Aben Ezra, en sus Comentarios sobre Ester, _ad loc. cit._ “Mulas paridas por yeguas, que son más fuertes que las paridas por asnas”.
+[^63]: 30:3 El término ‏בני הדמכים‎ ha sido traducido, en la versión inglesa de Ester, (viii. 14), como «mulas y camellos», lo cual no puede significar aquí; pero el verdadero significado, y que se aplica plenamente aquí, parece ser el dado por Aben Ezra, en sus Comentarios sobre Ester, _ad loc. cit._ «Mulas paridas por yeguas, que son más fuertes que las paridas por asnas».
 
 [^64]: 30:4 La descripción de este animal, dada por varios comentaristas de la Mishná, es la de uno absolutamente fabuloso, lo cual no pudo haber sido mencionado en el texto. Según la conjetura del Dr. Jost, «Podría ser una especie de simio, quizás un orangután o un chimpancé».
 

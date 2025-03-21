@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. Mientras sea lícito para los sacerdotes comer de la ofrenda elevada, [^255] el israelita puede dar levadura no consagrada a sus animales domésticos o salvajes, o a sus aves; también puede venderla a extraños, [^256] o aprovecharla de cualquier otra manera; pero transcurrido ese tiempo, es ilegal aprovecharla de cualquier manera, ni siquiera usarla como combustible ni encender un horno o estufa. [^257] R. Jehudah dice: «La levadura debe eliminarse quemándola», pero los sabios dicen: «Debe desmenuzarse en pequeñas partículas, arrojarse al viento o al mar».
 
-§ 2. La levadura perteneciente a un extraño, que haya estado presente durante la Pascua, se puede usar después de esa fiesta, pero no cuando perteneció a un israelita, porque se dice (Éxodo 13:7): “No se verá levadura en ninguna de tus habitaciones”.
+§ 2. La levadura perteneciente a un extraño, que haya estado presente durante la Pascua, se puede usar después de esa fiesta, pero no cuando perteneció a un israelita, porque se dice (Éxodo 13:7): «No se verá levadura en ninguna de tus habitaciones».
 
 § 3. Cuando un extraño le ha prestado dinero a un israelita con la garantía de artículos leudados, estos pueden utilizarse después de la Pascua; pero cuando un israelita le ha prestado dinero a un extraño con artículos leudados, no puede utilizarse después de la Pascua; la levadura que haya sido cubierta por escombros debe considerarse expulsada y eliminada. Rabbon Simeon ben Gamaliel dice: «Solo cuando esté tan cubierta que ni un perro pueda sacarla».
 
@@ -81,15 +81,15 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^255]: 99:1 Esto es según la opinión de R. Gamaliel, mencionado anteriormente, cap. I, § 5.
 
-[^256]: 99:2 Dondequiera que se menciona la palabra “extranjeros” en este capítulo, se refiere a aquellos que no son israelitas.
+[^256]: 99:2 Dondequiera que se menciona la palabra «extranjeros» en este capítulo, se refiere a aquellos que no son israelitas.
 
-[^257]: 100:3 Es decir, cuando se usa para preparar comida. La palabra ‏כירים‎ significa “hornos abiertos” o estufas, y ‏תנור‎ “hornos cerrados”.
+[^257]: 100:3 Es decir, cuando se usa para preparar comida. La palabra ‏כירים‎ significa «hornos abiertos» o estufas, y ‏תנור‎ «hornos cerrados».
 
 [^258]: 100:4 Esto se entenderá comparando el capítulo VI del Tratado Terumoth, o de las Ofrendas elevadas.
 
 [^259]: 100:5 De comer panes sin levadura la primera noche de la Pascua.
 
-[^260]: 101:6 Original, ‏תמכה‎. Según De Pomis en “Zemach David”, se trata del _cardus marrubium_; otros consideran que se trata de las hojas verdes del rábano picante.
+[^260]: 101:6 Original, ‏תמכה‎. Según De Pomis en «Zemach David», se trata del _cardus marrubium_; otros consideran que se trata de las hojas verdes del rábano picante.
 
 [^261]: 101:7 Una especie de ortiga; _urtica_, según el Diccionario de Landau.
 

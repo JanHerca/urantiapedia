@@ -76,4 +76,4 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^958]: 274:3 Cuando los herederos del marido le concedan una manutención.
 
-[^959]: 274:4 El texto dice ‏שתעשה טובה‎ “habrá hecho el bien”. Algunos comentaristas interpretan: “que habrá hecho el bien a los pobres”, otros: “que habrá obsequiado a sus vecinos y visitantes con una cantidad igual a su Ketubá”. Jost, en su traducción, ha adoptado esta interpretación; sin embargo, nosotros hemos preferido adoptar la redacción simple del texto.
+[^959]: 274:4 El texto dice ‏שתעשה טובה‎ «habrá hecho el bien». Algunos comentaristas interpretan: «que habrá hecho el bien a los pobres», otros: «que habrá obsequiado a sus vecinos y visitantes con una cantidad igual a su Ketubá». Jost, en su traducción, ha adoptado esta interpretación; sin embargo, nosotros hemos preferido adoptar la redacción simple del texto.

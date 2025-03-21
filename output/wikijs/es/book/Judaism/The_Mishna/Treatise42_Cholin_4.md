@@ -82,7 +82,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^1214]: 335:2 Porque se considera no nacido. Pues un primogénito, al ser consagrado, no puede ser arrojado a los perros cuando muere, sino que debe ser enterrado.
 
-[^1215]: 335:3 Es decir, cualquier hijo que ella pueda tener en el futuro no debe ser considerado como un primogénito “que abre la matriz”. (Véase Éxodo 13:1.)
+[^1215]: 335:3 Es decir, cualquier hijo que ella pueda tener en el futuro no debe ser considerado como un primogénito «que abre la matriz». (Véase Éxodo 13:1.)
 
 [^1216]: 336:4 Es decir, ‏שחיטה‎ no se aplica a un feto animal de ocho meses.
 

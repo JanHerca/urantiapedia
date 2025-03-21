@@ -78,6 +78,6 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^163]: 63:2 Génesis xxxiv. 25.
 
-[^164]: 63:3 “Dudoso”; un niño que se supone nació en el octavo mes de embarazo, y se considera que no puede vivir, y por lo tanto no debe ser circuncidado en sábado.
+[^164]: 63:3 «Dudoso»; un niño que se supone nació en el octavo mes de embarazo, y se considera que no puede vivir, y por lo tanto no debe ser circuncidado en sábado.
 
 [^165]: 64:4 A partir de cuyo período se computarán los ocho días.

@@ -72,8 +72,8 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^145]: 57:1 Levítico 14:1-20. xi. 29.
 
-[^146]: 57:2 “Flor de los rebaños”; se dice que es una planta que crece en un solo tallo, y es un antídoto contra todos los líquidos perniciosos.
+[^146]: 57:2 «Flor de los rebaños»; se dice que es una planta que crece en un solo tallo, y es un antídoto contra todos los líquidos perniciosos.
 
-[^147]: 57:3 “Agua de árboles”; el Talmud explica esta designación, al relatar que en Palestina hay un manantial entre dos árboles, cuyas aguas tienen el efecto de que la primera copa promueve la digestión, la segunda actúa como laxante y la tercera como emético.
+[^147]: 57:3 «Agua de árboles»; el Talmud explica esta designación, al relatar que en Palestina hay un manantial entre dos árboles, cuyas aguas tienen el efecto de que la primera copa promueve la digestión, la segunda actúa como laxante y la tercera como emético.
 
 [^148]: 57:4 Un mucílago o ungüento compuesto de ciertas hierbas pulverizadas y goma, mezcladas con vino.

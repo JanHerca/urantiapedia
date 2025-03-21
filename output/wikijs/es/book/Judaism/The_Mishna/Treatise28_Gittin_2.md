@@ -90,7 +90,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^996]: 283:7 Original ‏סם‎, que algunos explican que es una especie de tierra encontrada en la isla de Samos, de ahí su nombre en hebreo.
 
-[^997]: 283:8 Porque es necesario que él pueda dar fe y decir: “Vi el Get escrito y firmado”.
+[^997]: 283:8 Porque es necesario que él pueda dar fe y decir: «Vi el Get escrito y firmado».
 
 [^998]: 284:9 Porque no estaba sujeto a la ley judía, y la regla es que todo lo que una persona no está obligada a hacer por sí misma, no está calificada para hacerlo por los demás.
 

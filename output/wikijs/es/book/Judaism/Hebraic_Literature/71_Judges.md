@@ -60,7 +60,7 @@ El rabino Ismael, hijo del rabino Yossi, tenía un jardinero que le traía regul
 
 _Kethuboth_, fol. 105, col. 1.
 
-El juez que acepta soborno sólo provoca la ira, en lugar de calmarla, pues ¿no se dice (Prov. 21:14): “La recompensa en el seno acarrea fuerte ira”?
+El juez que acepta soborno sólo provoca la ira, en lugar de calmarla, pues ¿no se dice (Prov. 21:14): «La recompensa en el seno acarrea fuerte ira»?
 
 _Bava Bathra_, fol. 9, col. 2.
 
@@ -93,7 +93,7 @@ Dos discípulos de los sabios naufragaron con el rabino Yossi ben Simaii, y el r
 
 _Yevamoth_, fol. 115, col. 1.
 
-“Quien no esté instruido en las Escrituras, la Mishná y las buenas costumbres”, dice el rabino Yojanán, “no está calificado para actuar como testigo”. “Quien se acuesta en la calle”, dicen los rabinos, “es como un perro”; y algunos añaden que tal persona no es elegible como testigo, y el rabino Iddi bar Avin dice que la Halajá es como “dicen algunos”.
+«Quien no esté instruido en las Escrituras, la Mishná y las buenas costumbres», dice el rabino Yojanán, «no está calificado para actuar como testigo». «Quien se acuesta en la calle», dicen los rabinos, «es como un perro»; y algunos añaden que tal persona no es elegible como testigo, y el rabino Iddi bar Avin dice que la Halajá es como «dicen algunos».
 
 _Kidushin_, fol. 40, col. 2.
 
@@ -107,7 +107,7 @@ El testimonio que es invalidado en parte es invalidado en su totalidad.
 
 _Bava Kama_, fol. 73, col. 1.
 
-Que los testigos sepan con quién y ante quién dan testimonio, y quién un día los llamará a cuentas, porque está dicho (Deut. 19:17): “Ambos hombres entre quienes hay controversia comparecerán ante el Señor”.
+Que los testigos sepan con quién y ante quién dan testimonio, y quién un día los llamará a cuentas, porque está dicho (Deut. 19:17): «Ambos hombres entre quienes hay controversia comparecerán ante el Señor».
 
 _Sanedrín_, fol. 6, col. 2.
 
@@ -123,7 +123,7 @@ El que repudia un préstamo es apto para ser testigo; pero el que repudia un dep
 
 _Shevuoth_, fol. 40, col. 2.
 
-Shimon ben Shetach dice: “Examina a fondo a los testigos; ten cuidado con tus palabras, no sea que aprendan a mentir por ellos”. Avot, cap. I.
+Shimon ben Shetach dice: «Examina a fondo a los testigos; ten cuidado con tus palabras, no sea que aprendan a mentir por ellos». Avot, cap. I.
 
 
 ## DELINCUENTES Y SANCIONES PENALES.
@@ -170,7 +170,7 @@ Los rabinos enseñan que, cuando la mujer debe ser azotada, el hombre solo debe 
 
 _Kerithoth_, fol. 11, col. 1.
 
-Rav Yehudah dice: “Quien come cierto insecto acuático, cuya ingestión mientras se bebe no implica penalidad alguna (Tosefoth), recibe cuarenta azotes menos uno (la penalidad por transgredir los preceptos negativos), porque pertenece a la clase de ‘cosas que se arrastran sobre la tierra’ (Lev. xi. 29)”. Rav Yehudah una vez dio una ejemplificación práctica de esta decisión suya.
+Rav Yehudah dice: «Quien come cierto insecto acuático, cuya ingestión mientras se bebe no implica penalidad alguna (Tosefoth), recibe cuarenta azotes menos uno (la penalidad por transgredir los preceptos negativos), porque pertenece a la clase de ‘cosas que se arrastran sobre la tierra’ (Lev. xi. 29)». Rav Yehudah una vez dio una ejemplificación práctica de esta decisión suya.
 
 Abaii dice: «Quien coma un animal en particular hallado en agua estancada, recibirá cuatro veces cuarenta azotes menos uno. Por comer una hormiga, esta pena se repetirá cinco veces, y por comer una avispa, seis veces».
 

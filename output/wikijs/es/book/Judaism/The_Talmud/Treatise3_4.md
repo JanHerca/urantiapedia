@@ -32,6 +32,12 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
+<span id="p88">[<sup><small>pág. 88</small></sup>]</span>
+
+1\. "¿Con qué se pueden cubrir (las ollas para conservar el calor)?" "¿Y con qué no se pueden cubrir?" "No se pueden cubrir con restos de aceite, ni estiércol, ni sal, ni cal, ni arena fresca ni seca, ni paja, ni pieles de uva, ni lana, ni hierbas cuando estén frescas, pero sí se pueden cubrir con ellas cuando estén secas. Se pueden cubrir con prendas de vestir, frutas, con alas de paloma, con aserrín de carpintero y con estopa de lino fino". El rabino Judah prohíbe el lino fino, pero permite el lino grueso.
+
+2\. Pueden cubrirse con pieles y quitárselas, con vellones de lana, pero no deben quitárselas. "¿Cómo se hace?" "Quita la tapa y se caen". Rabí Eleazar, hijo de Azarías, dice: "La vasija se inclina de lado y él las retira". "¿Quizás las retiró y no puede devolverlas?" [^99] Pero los Sabios dicen: "Puede retirarlas y devolverlas". "¿No la cubre mientras aún es de día?" "No debe cubrirla cuando empieza a oscurecer". "¿La cubrió y se abrió?" "Está permitido volver a cubrirla". Se puede llenar la copa y colocarla debajo de la almohada o del cabezal (para calentarla).
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +63,7 @@ dateCreated: 2025-2-7T10:40:34Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^101]: 88:1 Porque eso implicaría «trabajo».

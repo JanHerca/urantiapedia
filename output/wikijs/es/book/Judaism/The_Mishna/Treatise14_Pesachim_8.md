@@ -78,7 +78,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^333]: 116:1 Para formar una de las personas “designadas y contadas” para comerlo.
+[^333]: 116:1 Para formar una de las personas «designadas y contadas» para comerlo.
 
 [^334]: 117:2 Tal persona es inmunda por siete días, sin estar obligada a presentar sacrificio; pero si lo ha experimentado tres veces en el mismo día, no es considerada limpia antes de haber sacrificado.
 

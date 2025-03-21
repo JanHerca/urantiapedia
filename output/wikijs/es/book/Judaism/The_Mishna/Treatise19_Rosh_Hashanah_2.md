@@ -90,7 +90,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^483]: 159:5 Como cada judío solía subir a su tejado agitando una antorcha encendida.
 
-[^484]: 160:6 Si llegasen en aquel día, cuando, según la ley, sólo podían ir cuatro “amoth”.
+[^484]: 160:6 Si llegasen en aquel día, cuando, según la ley, sólo podían ir cuatro «amoth».
 
 [^485]: 160:7 Véase Tratado de Erubin, cap. IV.
 
@@ -100,7 +100,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^488]: 161:10 El trigésimo primer día desde el primero del mes pasado, y el segundo o día intercalar de la fiesta de la luna nueva.
 
-[^489]: 161:11 En el original, “con la barriga hasta los dientes”.
+[^489]: 161:11 En el original, «con la barriga hasta los dientes».
 
 [^490]: 161:12 Rabón Gamaliel era príncipe de la cautividad y jefe del Sanedrín.
 

@@ -76,7 +76,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^1247]: 344:1 Este término incluye la carne de ganado y de venado, y también de aves; la prohibición de los dos primeros se deriva de la Ley, la de los últimos mencionados es de origen rabínico.
 
-[^1248]: 344:2 Algunas especies de langostas se utilizan incluso hoy en día como alimento común (p. 345) en algunos países del este. La especie a la que se alude aquí en particular es la especie cucullada o encapuchada, y se llama “Locusta minor flavicans _Chagab_ edulis”, es decir, la langosta amarilla menor o _Chagab_ comestible. (Scheuchzer, Physica Sacra).
+[^1248]: 344:2 Algunas especies de langostas se utilizan incluso hoy en día como alimento común (p. 345) en algunos países del este. La especie a la que se alude aquí en particular es la especie cucullada o encapuchada, y se llama «Locusta minor flavicans _Chagab_ edulis», es decir, la langosta amarilla menor o _Chagab_ comestible. (Scheuchzer, Physica Sacra).
 
 [^1249]: 345:3 Generalmente ocurre lo contrario, siendo Bet Hillel en su mayoría menos rígida en sus decisiones que Bet Shamai.
 
@@ -86,7 +86,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^1252]: 346:6 Éxodo xxiii. 19; ibid. xxxiv. 26; y Deut. xiv. 21.
 
-[^1253]: 346:7 Hebreo, “que no tienen leche materna”. La Halajá o decisión rabínica es, sin embargo, según R. Akivah.
+[^1253]: 346:7 Hebreo, «que no tienen leche materna». La Halajá o decisión rabínica es, sin embargo, según R. Akivah.
 
 [^1254]: 346:8 Que es carne.
 

@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 2. Si alguien la lee de modo que haga largas pausas entre las partes y duerma mientras tanto, quedará exonerado de su obligación. Si alguien lee la Meguilá mientras la escribe, la explica o la corrige, con la intención de eximirse así de su obligación, la habrá cumplido, pero no si no tenía tal intención. Si la Meguilá fue escrita con pintura, tiza, goma, negro de vitriolo, sobre papiro o pergamino rugoso, la obligación no se cumple debidamente; pero debe estar escrita en caracteres hebreos, en buen pergamino y con tinta.
 
-§ 3. Si un habitante de una ciudad abierta [^584] se dirigió a una ciudad amurallada [^585], o si uno de ellos se dirigió a una ciudad abierta; si tiene intención de regresar a su lugar cuando se lea la Meguillah, deberá leerla al mismo tiempo que la lean en su lugar; si no, deberá leerla con los habitantes del lugar donde se encuentre. ¿Desde dónde es necesario haber comenzado la lectura de la Meguillah para cumplir debidamente con la obligación? R. Meir dice: «Es obligatorio leerla completa». R. Jehudah dice: «Basta con que haya comenzado איש יהודי‎ (Ester ii. 5)». R. José dice: “\[Aun si\] de ‏אחר הדברים האלה‎ (Ester iii)”.
+§ 3. Si un habitante de una ciudad abierta [^584] se dirigió a una ciudad amurallada [^585], o si uno de ellos se dirigió a una ciudad abierta; si tiene intención de regresar a su lugar cuando se lea la Meguillah, deberá leerla al mismo tiempo que la lean en su lugar; si no, deberá leerla con los habitantes del lugar donde se encuentre. ¿Desde dónde es necesario haber comenzado la lectura de la Meguillah para cumplir debidamente con la obligación? R. Meir dice: «Es obligatorio leerla completa». R. Jehudah dice: «Basta con que haya comenzado איש יהודי‎ (Ester ii. 5)». R. José dice: «\[Aun si\] de ‏אחר הדברים האלה‎ (Ester iii)».
 
 <span id="p185">[<sup><small>pág. 185</small></sup>]</span>
 
@@ -76,7 +76,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^586]: 184:1 Por lenguas “extranjeras” se deben entender aquí todas las lenguas que no sean hebreas.
+[^586]: 184:1 Por lenguas «extranjeras» se deben entender aquí todas las lenguas que no sean hebreas.
 
 [^587]: 184:2 Quien leyó el día 14 de Adar.
 

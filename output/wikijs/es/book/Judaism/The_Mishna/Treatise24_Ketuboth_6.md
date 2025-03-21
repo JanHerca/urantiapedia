@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. Todo lo que una mujer encuentre, e igualmente el fruto de su trabajo, pertenece a su esposo: de lo que herede, él disfruta del usufructo durante su vida. La indemnización que se le conceda por insultos o agravios [^849] le pertenece. R. Jehudah ben Bethera dice: «Si el daño infligido es oculto, dos tercios de los daños recuperados le pertenecen a ella y un tercio a él, el esposo. Pero si es evidente, dos tercios le pertenecen a él y un tercio a ella. Su parte se le paga de inmediato; por la parte de ella, se compra la tierra, de la cual él tiene el usufructo».
 
-§ 2. Si un hombre estipula dar cierta suma de dinero como dote a su yerno, y este muere, puede decir al hermano del difunto que se casará con su viuda sin hijos: “A tu hermano le habría dado el dinero, pero a ti no pienso dártelo”.
+§ 2. Si un hombre estipula dar cierta suma de dinero como dote a su yerno, y este muere, puede decir al hermano del difunto que se casará con su viuda sin hijos: «A tu hermano le habría dado el dinero, pero a ti no pienso dártelo».
 
 § 3. Si ella [la novia] estipula traerle mil dinares [en efectivo como dote], él debe asignarle [en la Ketubá] quince maneh por esa suma. [^850] Pero por los objetos sujetos a tasación, le asigna una quinta parte menos de su valoración. [^851] Si los objetos están tasados ​​en un maneh y realmente valen un maneh, le asigna solo un maneh. [Pero si se le exige asignarle esa suma por objetos que se valorarán en un maneh, ella debe traerle [propiedades por un valor de treinta y un selah], [^852] y si debe asignar cuatrocientos dinares, ella debe traerle [por un valor de] quinientos. <span id="p257">[<sup><small>p. 257</small></sup>]</span> Pero si asigna \[el monto de su dote en la Ketubah después de que la propiedad haya sido tasada\], deduce una quinta parte \[del monto de la tasación\].
 
@@ -84,7 +84,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^857]: 256:4 Un selah son cuatro dinares, de modo que el valor real debe exceder la cantidad que se le asigna en una quinta parte.
 
-[^858]: 257:5 ‏קופה‎ caja: algunos comentaristas lo traducen como “caja de perfumes”, otros como “caja de efectivo”.
+[^858]: 257:5 ‏קופה‎ caja: algunos comentaristas lo traducen como «caja de perfumes», otros como «caja de efectivo».
 
 [^859]: 257:6 Si los fondos de caridad se agotaran, los supervisores están obligados a tomar prestado el dinero necesario para este propósito, con la garantía de las tasas.
 

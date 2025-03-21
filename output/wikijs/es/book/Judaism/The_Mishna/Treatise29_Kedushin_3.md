@@ -104,7 +104,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^1126]: 314:7 Por supuesto, la niña, al convertirse en núbil, no está obligada por tal acuerdo, pero puede hacer uso de su derecho de ‏מאון‎, o rechazo, si lo considera apropiado, como se menciona en el capítulo IX de Yebamoth; pero obliga al padre a no poder desposarla durante su minoría de edad con otro hombre, antes de que haya recibido un Get del primero.
 
-[^1127]: 314:8 Esto es, en caso de que dijera: “Si mi padre no expresa su desaprobación dentro de un tiempo determinado, digamos treinta días”.
+[^1127]: 314:8 Esto es, en caso de que dijera: «Si mi padre no expresa su desaprobación dentro de un tiempo determinado, digamos treinta días».
 
 [^1128]: 314:9 Dentro de los treinta días, o el tiempo estipulado.
 

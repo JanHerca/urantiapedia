@@ -82,7 +82,7 @@ CONTIENE LEYES PARA REGULAR LAS ORACIONES DIARIAS Y EL RITUAL DEL CULTO DIVINO.
 
 ## Notas al pie
 
-[^1]: iv:1 Deut. vi. 3. “Escucha, Israel, el Señor nuestro Dios, el Señor uno es”, etc.
+[^1]: iv:1 Deut. vi. 3. «Escucha, Israel, el Señor nuestro Dios, el Señor uno es», etc.
 
 [^2]: iv:2 Los sacerdotes que eran impuros debían abstenerse de alimentos consagrados hasta la puesta del sol. (Levítico xxii. 7.)
 
@@ -94,6 +94,6 @@ CONTIENE LEYES PARA REGULAR LAS ORACIONES DIARIAS Y EL RITUAL DEL CULTO DIVINO.
 
 [^6]: 2:6 Ibíd.
 
-[^7]: 2:7 Una bendición larga comienza y termina con la forma ‏ברוך אתה ה׳‎ “Bendito seas, oh Señor”; mientras que una bendición corta es aquella que solo termina con esa frase.
+[^7]: 2:7 Una bendición larga comienza y termina con la forma ‏ברוך אתה ה׳‎ «Bendito seas, oh Señor»; mientras que una bendición corta es aquella que solo termina con esa frase.
 
 [^8]: 3:8 Deuteronomio xvi. 3.

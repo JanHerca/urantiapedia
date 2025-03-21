@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO V.
 
-§ 1. Rabbon Gamaliel dice: “En el matrimonio por Yeboom, ninguna otra carta de divorcio es válida después de que ya se haya dado, [^698] <span id="p213">[<sup><small>p. 213</small></sup>]</span> ni una promesa de matrimonio después de dicha promesa, ni unión con otra cuñada después de dicha unión con una primera, ni ninguna Jalitzah después de que se haya dado una primera Jalitzah”. Pero los sabios dicen: “Se puede dar otro divorcio después de una primera, o una promesa de matrimonio después de dicha promesa, pero no puede haber nada más de la misma naturaleza después de una unión ni después de una Jalitzah”.
+§ 1. Rabbon Gamaliel dice: «En el matrimonio por Yeboom, ninguna otra carta de divorcio es válida después de que ya se haya dado, [^698] <span id="p213">[<sup><small>p. 213</small></sup>]</span> ni una promesa de matrimonio después de dicha promesa, ni unión con otra cuñada después de dicha unión con una primera, ni ninguna Jalitzah después de que se haya dado una primera Jalitzah». Pero los sabios dicen: «Se puede dar otro divorcio después de una primera, o una promesa de matrimonio después de dicha promesa, pero no puede haber nada más de la misma naturaleza después de una unión ni después de una Jalitzah».
 
 § 2. Como en los siguientes casos: Cuando un cuñado prometió matrimonio por medio de _Yeboom_ a su cuñada viuda y luego le entregó un _Get_, ella estará obligada a realizarle también _Jalitzah_. [^699] Si él le prometió matrimonio y luego recibió _Jalitzah_ de ella, ella requerirá un _Get_ [además_] para ser completamente liberada. Si, después de haberle prometido matrimonio, él tenía vínculos con ella, actuó conforme a la ley. [^700]
 

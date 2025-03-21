@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 CONTIENE LEYES DERIVADAS DE LOS MANDAMIENTOS DIVINOS Y QUE LOS HACEN CUMPLIR.—(Levítico xix. 19; Deuteronomio xxii. 9, 11).
 
-“No dejarás que tu ganado se aparee con animales de diferente especie, ni sembrarás tu campo con mezcla de semillas, ni te pondrás vestido de lana mezclada” (Levítico 19:19).
+«No dejarás que tu ganado se aparee con animales de diferente especie, ni sembrarás tu campo con mezcla de semillas, ni te pondrás vestido de lana mezclada» (Levítico 19:19).
 
 No sembrarás tu viña con semillas diversas, para que no se contaminen el fruto de la semilla que sembraste y el de tu viña. No ararás con buey y asno juntos. No usarás ropa de lana y lino diferentes juntos (Deuteronomio 22:9, 11).
 
@@ -94,7 +94,7 @@ No sembrarás tu viña con semillas diversas, para que no se contaminen el fruto
 
 [^32]: 14:1 Los comentaristas difieren en cuanto al tipo de planta que se designa con este nombre. Surenhusius lo traduce como lolium (cizaña). Algunos creen que se trata de alguna especie de _vicia_ (alverja), mientras que otros la consideran una especie de ervum (tara): todos coinciden en que no es comestible.
 
-[^33]: 14:2 La palabra “kilaim” denota la mezcla de cosas que difieren en clase, especie o naturaleza; aquí significa semillas mezcladas de varios tipos.
+[^33]: 14:2 La palabra «kilaim» denota la mezcla de cosas que difieren en clase, especie o naturaleza; aquí significa semillas mezcladas de varios tipos.
 
 [^34]: 14:3 Una especie de guisante o legumbre \[una verdura de vaina\].
 

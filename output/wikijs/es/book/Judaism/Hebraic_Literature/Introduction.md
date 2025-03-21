@@ -55,7 +55,7 @@ El burro se queja de frío incluso en julio.
 
 Un mirto en el desierto sigue siendo un mirto.
 
-Enseña tu lengua a decir: “No sé”.
+Enseña tu lengua a decir: «No sé».
 
 La hospitalidad es una expresión del culto divino.
 

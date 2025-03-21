@@ -92,9 +92,9 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^686]: 206:5 Es decir, un hermano a una de las hermanas, y otro a la otra hermana.
 
-[^687]: 207:6 Como dirían: “Es digno de lástima por haber perdido así, sin culpa alguna de su parte, tanto a su esposa como a su cuñada”.
+[^687]: 207:6 Como dirían: «Es digno de lástima por haber perdido así, sin culpa alguna de su parte, tanto a su esposa como a su cuñada».
 
-[^688]: 207:7 Por la palabra “extraña” debe entenderse una mujer que no tenía ninguna relación con las hermanas antes de su matrimonio.
+[^688]: 207:7 Por la palabra «extraña» debe entenderse una mujer que no tenía ninguna relación con las hermanas antes de su matrimonio.
 
 [^689]: 208:8 Véase el capítulo anterior, § 10.
 

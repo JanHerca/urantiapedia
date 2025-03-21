@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. Quien lee la Torá [la parashá שמע], al llegar el momento de recitar las oraciones, si dedica su corazón a la oración, ha cumplido con la obligación de recitar la שמע; si no, no la ha cumplido. Al final de las diferentes secciones, se saluda por respeto y se responde al saludo; pero en medio de una sección, se saluda por temor y se responde. Tal es el dictamen de R. Meir. R. Jehudah dice: «En medio de una sección, se saluda por temor y se responde por respeto. Al final de una sección, se saluda por respeto y se devuelve el saludo a cualquier persona». [^9]
 
-2\. Las secciones \[cierre de la\] son, entre la primera bendición y la segunda: entre la segunda y ‏שמע ישראל‎ \[Escucha, oh Israel\]: entre ‏שמע‎ y ‏והיה אם שמע‎ \[y sucederá, &c\]: [^10] entre ‏יהוה אם שמע‎ y ‏ויאמר‎ [^11] \[y el Señor habló a Moisés\]: entre ‏ויאמר‎ y ‏אמת ויציב‎, \[es verdad y confirmado\]. R. Jehudah dice: “Entre ‏ויאמר‎ y ‏אמת ויציב‎, el hombre no debe separarse”. R. Joshua ben Korha dice: "¿Por qué la ‏שמע‎ precede a \[la sección\] ‏והיה אם שמע‎? Para que el hombre pueda rendir homenaje al reino de los cielos, antes de tomar sobre sí el yugo de los mandamientos. ¿Por qué \[la sección\] ‏יהוה אם שמע‎ precede ‏ויאמר‎? porque \[los preceptos de\] ‏והיה אם שמע‎, pueden practicarse de día y de noche, [^12] mientras que los preceptos de ‏ויאמר‎ sólo pueden practicarse de día.” [^13]
+2\. Las secciones \[cierre de la\] son, entre la primera bendición y la segunda: entre la segunda y ‏שמע ישראל‎ \[Escucha, oh Israel\]: entre ‏שמע‎ y ‏והיה אם שמע‎ \[y sucederá, &c\]: [^10] entre ‏יהוה אם שמע‎ y ‏ויאמר‎ [^11] \[y el Señor habló a Moisés\]: entre ‏ויאמר‎ y ‏אמת ויציב‎, \[es verdad y confirmado\]. R. Jehudah dice: «Entre ‏ויאמר‎ y ‏אמת ויציב‎, el hombre no debe separarse». R. Joshua ben Korha dice: "¿Por qué la ‏שמע‎ precede a \[la sección\] ‏והיה אם שמע‎? Para que el hombre pueda rendir homenaje al reino de los cielos, antes de tomar sobre sí el yugo de los mandamientos. ¿Por qué \[la sección\] ‏יהוה אם שמע‎ precede ‏ויאמר‎? porque \[los preceptos de\] ‏והיה אם שמע‎, pueden practicarse de día y de noche, [^12] mientras que los preceptos de ‏ויאמר‎ sólo pueden practicarse de día.” [^13]
 
 § 3. Quien dice la שמע de forma que no sea audible para sí mismo, ha cumplido con su deber de decirla. R. José dice: <span id="p4">[<sup><small>p. 4</small></sup>]</span> «No ha cumplido con su deber si la ha dicho sin prestar la debida atención a la ortografía y la pronunciación». R. José dice que ha cumplido con su deber. R. Jehudah dice que no. Si la ha dicho en un orden irregular, no ha cumplido con su deber. Si ha cometido un error, vuelve a empezar desde donde se equivocó.
 
@@ -78,12 +78,12 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^9]: 3:1 Así como en aquellos días el saludo: “La paz sea con vosotros” transmitía la seguridad de intenciones amistosas y de seguridad personal, omitir el saludo o descuidar la respuesta a un saludo podía acarrear consecuencias peligrosas.
+[^9]: 3:1 Así como en aquellos días el saludo: «La paz sea con vosotros» transmitía la seguridad de intenciones amistosas y de seguridad personal, omitir el saludo o descuidar la respuesta a un saludo podía acarrear consecuencias peligrosas.
 
 [^10]: 3:2 Deuteronomio 11:13.
 
 [^11]: 3:3 Números xvi. 37.
 
-[^12]: 3:4 Dice: “Las enseñaréis a vuestros hijos” (Deut. xi. 18).
+[^12]: 3:4 Dice: «Las enseñaréis a vuestros hijos» (Deut. xi. 18).
 
-[^13]: 3:5 Indica: “Para que podáis mirarlo” [el fleco]. (Núm. 16:39.)
+[^13]: 3:5 Indica: «Para que podáis mirarlo» [el fleco]. (Núm. 16:39.)

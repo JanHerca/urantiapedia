@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 9. Los muchachos pueden salir con sus bandas y los príncipes con campanillas de oro: así puede hacerlo cualquier persona, pero los sabios aducen sus ejemplos a partir de cosas existentes y conocidas.
 
-§ 10. Está permitido salir con un huevo de saltamontes, o <span id="p47">[<sup><small>p. 47</small></sup>]</span> un diente de zorro, o la uña de un ahorcado, como remedios medicinales: tal es el dictamen de R. Meir; pero los sabios sostienen \[según otra versión; tal es el dictamen de R. José, pero R. Meir sostiene\], “Que incluso en día laborable esto está prohibido, por imitar las costumbres de los amorreos”. [^112]
+§ 10. Está permitido salir con un huevo de saltamontes, o <span id="p47">[<sup><small>p. 47</small></sup>]</span> un diente de zorro, o la uña de un ahorcado, como remedios medicinales: tal es el dictamen de R. Meir; pero los sabios sostienen \[según otra versión; tal es el dictamen de R. José, pero R. Meir sostiene\], «Que incluso en día laborable esto está prohibido, por imitar las costumbres de los amorreos». [^112]
 
 
 

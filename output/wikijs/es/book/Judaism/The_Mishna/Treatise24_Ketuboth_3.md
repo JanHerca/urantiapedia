@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 <span id="p248">[<sup><small>pág. 248</small></sup>]</span>
 
-§ 5. ¿Cómo debe entenderse que “él debe beber de su vasija contaminada”? Aunque ella sea coja, ciega o tenga llagas [lepra], debe casarse y no puede divorciarse de ella. Pero si descubre en ella una conducta vergonzosa [después del matrimonio], [^809] o si no es apta para entrar en la congregación de Israel, no se le permite conservarla; pues está dicho: “Para él será una esposa, una esposa idónea y apropiada para él”. [^810]
+§ 5. ¿Cómo debe entenderse que «él debe beber de su vasija contaminada»? Aunque ella sea coja, ciega o tenga llagas [lepra], debe casarse y no puede divorciarse de ella. Pero si descubre en ella una conducta vergonzosa [después del matrimonio], [^809] o si no es apta para entrar en la congregación de Israel, no se le permite conservarla; pues está dicho: «Para él será una esposa, una esposa idónea y apropiada para él». [^810]
 
 § 6. De un huérfano que había estado comprometido y se había divorciado, R. Eleazar dice: "El seductor está libre de pena, pero el violador es culpable". [^811]
 

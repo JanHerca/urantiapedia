@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 7. Si un hombre es Mekadesh [^871] con una mujer, con la condición de que ella no esté sujeta a ningún voto, y se descubre que sí lo está, los Kidushin [^872] son ​​nulos. Si se ha casado con ella sin investigar la condición estipulada y luego descubre que está sujeta a votos, puede divorciarse sin pagarle la Ketubá. Si la ha mekadeshed con la condición de que esté libre de imperfecciones corporales y se descubre que las tiene, los Kidushin son nulos. Si se ha casado con ella sin investigar y luego descubre imperfecciones, puede divorciarse sin pagarle la Ketubá. Todas las imperfecciones que descalifican a los sacerdotes [^873] para ministrar en el altar también descalifican a las mujeres para insistir en la validez de su Kidushin.
 
-§ 8. Si las imperfecciones se descubren mientras ella aún está en casa de su padre, le corresponde al padre probar que, después de su desposada, estas imperfecciones aparecieron y que el campo del novio quedó devastado. [^874] Pero si ella está bajo la autoridad del esposo, le corresponde al esposo probar que, antes de su desposada, estas imperfecciones existían en ella y que el contrato se realizó por error. Tal es el dictamen de R. Meir, pero los sabios dicen: “¿A qué se aplican estas observaciones? A las imperfecciones ocultas [fuera de la vista]; pero respecto a las evidentes, no puede oponerse. Y si hubiera un baño en la ciudad donde se celebrarán los esponsales, no puede oponerse, ni siquiera respecto a las imperfecciones ocultas, ya que podría obligarla a ser examinada por sus parientes femeninas”.
+§ 8. Si las imperfecciones se descubren mientras ella aún está en casa de su padre, le corresponde al padre probar que, después de su desposada, estas imperfecciones aparecieron y que el campo del novio quedó devastado. [^874] Pero si ella está bajo la autoridad del esposo, le corresponde al esposo probar que, antes de su desposada, estas imperfecciones existían en ella y que el contrato se realizó por error. Tal es el dictamen de R. Meir, pero los sabios dicen: «¿A qué se aplican estas observaciones? A las imperfecciones ocultas [fuera de la vista]; pero respecto a las evidentes, no puede oponerse. Y si hubiera un baño en la ciudad donde se celebrarán los esponsales, no puede oponerse, ni siquiera respecto a las imperfecciones ocultas, ya que podría obligarla a ser examinada por sus parientes femeninas».
 
 § 9. Si el esposo contrae algún defecto físico, los Bethdin no lo obligan a divorciarse de su esposa. R. Simeón ben Gamaliel dice: «¿A qué caso se aplica esta afirmación? A defectos menores. Pero en caso de defectos graves, lo obligan a divorciarse de su esposa».
 
@@ -90,7 +90,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^868]: 259:4 Bajo pena de que, si lo hiciera, renunciaría a toda relación conyugal con su marido.
 
-[^869]: 259:5 El texto aquí requiere la siguiente enmienda: “Pero si es para dos festivales, debe divorciarse de ella y pagarle la Ketubah; pero en el caso de una sacerdotisa, si el voto se extiende a dos festivales, puede quedársela, pero si es para tres,” etc.
+[^869]: 259:5 El texto aquí requiere la siguiente enmienda: «Pero si es para dos festivales, debe divorciarse de ella y pagarle la Ketubah; pero en el caso de una sacerdotisa, si el voto se extiende a dos festivales, puede quedársela, pero si es para tres,» etc.
 
 [^870]: 259:6 Bajo la misma pena que en la nota 4.
 

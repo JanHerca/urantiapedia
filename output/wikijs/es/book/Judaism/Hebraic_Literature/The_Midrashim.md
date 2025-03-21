@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:42:11Z
   </table>
 </figure>
 
-“Preciosa a los ojos del Señor es la Agadá, como se explica en el Midrashim”
+«Preciosa a los ojos del Señor es la Agadá, como se explica en el Midrashim»
 
 <span id="p234">[<sup><small>pág. 234</small></sup>]</span>
 
@@ -50,11 +50,11 @@ Los Midrashim, en su mayor parte, surgieron de un loable deseo de familiarizar a
 
 ## LOS MIDRASHIM
 
-El nombre de Abraham siempre precede a los de Isaac y Jacob excepto en un lugar (Lev. xxvi. 42), donde se dice: “Y me acordaré de mi pacto con Jacob, y también de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré”; y así aprendemos que todos eran de igual importancia.
+El nombre de Abraham siempre precede a los de Isaac y Jacob excepto en un lugar (Lev. xxvi. 42), donde se dice: «Y me acordaré de mi pacto con Jacob, y también de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré»; y así aprendemos que todos eran de igual importancia.
 
 _Midrash Rabbah_, Gen. cap. 1.
 
-En las Selijot para el Día de la Expiación se hace referencia a la inversión antes mencionada del orden usual de los nombres de Abraham, Isaac y Jacob: “Tú exaltaste el primer pacto, y has invertido el orden de las partes contratantes en él”.
+En las Selijot para el Día de la Expiación se hace referencia a la inversión antes mencionada del orden usual de los nombres de Abraham, Isaac y Jacob: «Tú exaltaste el primer pacto, y has invertido el orden de las partes contratantes en él».
 
 Abraham merecía haber sido creado antes que Adán, pero el Santo —¡bendito sea Él!— dijo: «Si él pervirtiera las cosas como Yo las hago, entonces no habrá nadie que las rectifique; así que he aquí que yo crearé a Adán primero, y si él hiciera las cosas torcidas, entonces Abraham, después de él, las enderezará de nuevo».
 
@@ -64,15 +64,15 @@ Abram se llamaba Abraham, e Isaac también se llamaba Abraham, como está escrit
 
 _Ibíd._, cap. 63.
 
-“Y se acostó en ese lugar” (Génesis 28:4). Rabí Yuda dijo: “Allí se acostó, pero no se acostó durante los catorce años que estuvo escondido en la casa de Éber”. Rabí Nehemías dijo: “Allí se acostó, pero no se acostó durante los veinte años que estuvo en la casa de Labán”.
+«Y se acostó en ese lugar» (Génesis 28:4). Rabí Yuda dijo: «Allí se acostó, pero no se acostó durante los catorce años que estuvo escondido en la casa de Éber». Rabí Nehemías dijo: «Allí se acostó, pero no se acostó durante los veinte años que estuvo en la casa de Labán».
 
 _Ibíd._, cap. 68.
 
-Vayash Kihu, “Y lo besaron” (Génesis 33:4), el rabino Yanai pregunta: “¿Por qué esta palabra (en el hebreo original) es tan incisiva?”. “Es para enseñar que Esaú no vino a besarlo, sino a morderlo”; solo el cuello de nuestro padre Jacob se endureció como el mármol, y esto embotó los dientes del malvado. “¿Y qué enseña la <span id="p238">[<sup><small>p. 238</small></sup>]</span> expresión 'Y lloraron'? “Uno lloró por su cuello y el otro por sus dientes”.
+Vayash Kihu, «Y lo besaron» (Génesis 33:4), el rabino Yanai pregunta: «¿Por qué esta palabra (en el hebreo original) es tan incisiva?». «Es para enseñar que Esaú no vino a besarlo, sino a morderlo»; solo el cuello de nuestro padre Jacob se endureció como el mármol, y esto embotó los dientes del malvado. «¿Y qué enseña la <span id="p238">[<sup><small>p. 238</small></sup>]</span> expresión 'Y lloraron'? “Uno lloró por su cuello y el otro por sus dientes».
 
 _Midrash Rabá_, cap. 78.
 
-En Sifri, el rabino Shimon ben Yochai contradice deliberadamente esta interpretación, y Aben Ezra dice que es una “exposición apta sólo para niños”.
+En Sifri, el rabino Shimon ben Yochai contradice deliberadamente esta interpretación, y Aben Ezra dice que es una «exposición apta sólo para niños».
 
 Esaú dijo: «No mataré a mi hermano Jacob con arco y flecha, sino que con mi boca chuparé su sangre», como se dice (Génesis 33:4): «Y Esaú corrió a su encuentro, lo abrazó y lo besó, y lloraron». No diga «y lo besó», sino «y lo mordió». El cuello de Jacob, sin embargo, se endureció como el marfil, y es respecto a él que la Escritura dice (Cant. 7:5): «Tu cuello es como una torre de marfil», de modo que los dientes de Esaú se embotaron; y cuando vio que su deseo no podía ser satisfecho, comenzó a enojarse y a rechinar los dientes, como se dice (Sal. 122:10): «Los malvados lo verán y se entristecerán; rechinarán los dientes».
 
@@ -106,17 +106,17 @@ La tradición varía respecto al trágico final de Esaú. Tanto el Libro de Jase
 
 _Bereshith Rabbah_, cap. 39.
 
-El Santo —¡bendito sea!— le dijo a Abraham: “¿Qué debo decirte? ¿Y con qué te bendeciré? ¿Te diré que seas perfectamente justo, o que tu esposa Sara sea justa ante mí? Que ambos ya lo son. ¿O diré que tus hijos serán justos? Ya lo son. Pero te bendeciré para que todos tus hijos que nazcan de ti en las eras futuras sean como tú”. ¿De dónde aprendemos esto? De Génesis 15:5: “Y le dijo: Así será tu descendencia”.
+El Santo —¡bendito sea!— le dijo a Abraham: «¿Qué debo decirte? ¿Y con qué te bendeciré? ¿Te diré que seas perfectamente justo, o que tu esposa Sara sea justa ante mí? Que ambos ya lo son. ¿O diré que tus hijos serán justos? Ya lo son. Pero te bendeciré para que todos tus hijos que nazcan de ti en las eras futuras sean como tú». ¿De dónde aprendemos esto? De Génesis 15:5: «Y le dijo: Así será tu descendencia».
 
 _Bamidbar Rabbah_, cap. 2.
 
-“Cada uno por su bandera” (Núm. 2:2). Los diversos príncipes de Israel seleccionaron los colores de sus estandartes según el color de las piedras que estaban sobre el pectoral de Aarón. De ellos, otros príncipes aprendieron a adornar sus estandartes con diferentes colores distintivos. Rubén tenía su bandera roja, con hojas de mandrágora sobre ella. Isacar tenía su bandera azul, con el sol y la luna sobre ella. Neftalí tenía en su bandera un olivo, por esta razón (Gén. 49:20): “De Aser será su pan abundante”.
+«Cada uno por su bandera» (Núm. 2:2). Los diversos príncipes de Israel seleccionaron los colores de sus estandartes según el color de las piedras que estaban sobre el pectoral de Aarón. De ellos, otros príncipes aprendieron a adornar sus estandartes con diferentes colores distintivos. Rubén tenía su bandera roja, con hojas de mandrágora sobre ella. Isacar tenía su bandera azul, con el sol y la luna sobre ella. Neftalí tenía en su bandera un olivo, por esta razón (Gén. 49:20): «De Aser será su pan abundante».
 
 _Ibíd._, cap. 7.
 
 <span id="p241">[<sup><small>pág. 241</small></sup>]</span>
 
-“Y Abraham se levantó temprano y ensilló su asno” (Génesis 12:3). Este es el asno en el que Moisés también cabalgó al entrar en Egipto; pues se dice (Éxodo 4:20): “Y Moisés tomó a su mujer y a sus hijos, y los montó en un asno”. Este es el asno en el que también cabalgará el Hijo de David; como se dice (Zacarías 9:9): “Pobre, y cabalgando sobre un asno”.
+«Y Abraham se levantó temprano y ensilló su asno» (Génesis 12:3). Este es el asno en el que Moisés también cabalgó al entrar en Egipto; pues se dice (Éxodo 4:20): «Y Moisés tomó a su mujer y a sus hijos, y los montó en un asno». Este es el asno en el que también cabalgará el Hijo de David; como se dice (Zacarías 9:9): «Pobre, y cabalgando sobre un asno».
 
 _Pirke d'Rab. Eliezer_, cap. 31.
 
@@ -130,7 +130,7 @@ Abraham se casó con tres esposas: Sara, hija de Sem; Cetura, hija de Jafet; y A
 
 _Yalkut, Job_, cap. 8.
 
-Rashi supone que Keturah era una y la misma persona con Agar—así lo dicen el Midrash, el Targum Yerushalmi y el de Jonatán. Este último dice: “Keturah, ella es Agar, quien había estado ligada a él desde el principio”, pero Aben Ezra y la mayoría de los comentaristas sostienen que Keturah y Agar son dos personas distintas, y el uso del plural concubinas, en el versículo 6, confirma esta afirmación.
+Rashi supone que Keturah era una y la misma persona con Agar—así lo dicen el Midrash, el Targum Yerushalmi y el de Jonatán. Este último dice: «Keturah, ella es Agar, quien había estado ligada a él desde el principio», pero Aben Ezra y la mayoría de los comentaristas sostienen que Keturah y Agar son dos personas distintas, y el uso del plural concubinas, en el versículo 6, confirma esta afirmación.
 
 El Santo —bendito sea Él— proclama diariamente una nueva ley en la corte celestial, y Abraham conocía todas ellas.
 
@@ -152,7 +152,7 @@ En cierta ocasión, Rabí Shimón ben Yebozedek se dirigió a Rabí Shmuel ben N
 
 _Bereshith Rabbah_, cap. 3.
 
-“Como las tiendas de Cedar” (Cant. i. 5). Así como las tiendas de los ismaelitas son feas por fuera y hermosas por dentro, así también los discípulos de los sabios, aunque aparentemente carentes de belleza, están llenos de Escrituras, de la Mishná, del Talmud, de la Halajá y de las Agadót.
+«Como las tiendas de Cedar» (Cant. i. 5). Así como las tiendas de los ismaelitas son feas por fuera y hermosas por dentro, así también los discípulos de los sabios, aunque aparentemente carentes de belleza, están llenos de Escrituras, de la Mishná, del Talmud, de la Halajá y de las Agadót.
 
 _Shemoth Rabbah_, cap. 23.
 
@@ -176,7 +176,7 @@ Rabí Jeremías, hijo de Elazar, dijo: «Cuando el Santo —bendito sea Él— c
 
 _Midrash Rabá_, cap. 8.
 
-“Y se arrepintió el Señor de haber creado al hombre (Adán) en la tierra, y le dolió en su corazón” (Génesis 6:6). Rabí Berajías dice que cuando Dios estaba a punto de crear a Adán, previó que de él surgirían tanto justos como malvados, y por eso razonó consigo mismo así: “Si lo creo, entonces los malvados procederán de él; pero si no lo creo, ¿cómo entonces surgirán los justos?”. ¿Qué hizo entonces Dios? Separó los caminos de los malvados de delante de Él, y asumiendo el atributo de la misericordia, así lo creó. Esto explica lo que está escrito (Salmo 1:6): “Porque el Señor conoce el camino de los justos, pero el camino de los malvados se extraviará”. El camino de los malvados se extraviaba ante Él, pero asumiendo el atributo de la misericordia, lo creó. El Rabino Janina dice: “¡No fue así! Pero cuando Dios estaba a punto de crear a Adán, consultó a los ángeles ministradores y les dijo (Génesis 1:26): “¿Haremos al hombre a nuestra imagen y semejanza?”. Respondieron: “¿Para qué lo crearás?”. Él respondió: “Para que de él surja el justo”. Esto explica lo que está escrito: “Porque el Señor conoce el camino de los justos, pero el camino de los malvados se extraviará”. Dios solo les informó sobre los justos, pero no dijo nada sobre los malvados; de lo contrario, los ángeles ministradores no habrían dado su consentimiento para la creación del hombre.
+«Y se arrepintió el Señor de haber creado al hombre (Adán) en la tierra, y le dolió en su corazón» (Génesis 6:6). Rabí Berajías dice que cuando Dios estaba a punto de crear a Adán, previó que de él surgirían tanto justos como malvados, y por eso razonó consigo mismo así: «Si lo creo, entonces los malvados procederán de él; pero si no lo creo, ¿cómo entonces surgirán los justos?». ¿Qué hizo entonces Dios? Separó los caminos de los malvados de delante de Él, y asumiendo el atributo de la misericordia, así lo creó. Esto explica lo que está escrito (Salmo 1:6): «Porque el Señor conoce el camino de los justos, pero el camino de los malvados se extraviará». El camino de los malvados se extraviaba ante Él, pero asumiendo el atributo de la misericordia, lo creó. El Rabino Janina dice: «¡No fue así! Pero cuando Dios estaba a punto de crear a Adán, consultó a los ángeles ministradores y les dijo (Génesis 1:26): “¿Haremos al hombre a nuestra imagen y semejanza?». Respondieron: «¿Para qué lo crearás?». Él respondió: «Para que de él surja el justo». Esto explica lo que está escrito: «Porque el Señor conoce el camino de los justos, pero el camino de los malvados se extraviará». Dios solo les informó sobre los justos, pero no dijo nada sobre los malvados; de lo contrario, los ángeles ministradores no habrían dado su consentimiento para la creación del hombre.
 
 _Bereshith Rabbah_, cap. 8.
 
@@ -184,7 +184,7 @@ El rabino Hoshaiah dijo: «Cuando Dios creó a Adán, los ángeles ministradores
 
 _Ibídem._
 
-El rabino Yojanán dice: “Adán y Eva parecían tener unos veinte años cuando fueron creados”.
+El rabino Yojanán dice: «Adán y Eva parecían tener unos veinte años cuando fueron creados».
 
 _Ibíd._, cap. 14.
 
@@ -216,7 +216,7 @@ Noé no tenía fe, porque no entró en el arca hasta que el agua le llegaba a lo
 
 _Ibíd._, cap. 32.
 
-“Y envió un cuervo” (Génesis 8:7). El cuervo protestó, diciendo: “De todos los ganados, bestias y aves, no envías a nadie más que a mí”. “¿Qué necesidad tiene el mundo de ti?”, replicó Noé; “no sirves ni para alimento ni para sacrificio”. El rabino Eliezer dice que Dios le ordenó a Noé que recibiera al cuervo, pues el mundo un día lo necesitaría. “¿Cuándo?”, preguntó Noé. “Cuando las aguas se sequen sobre la tierra, en un tiempo venidero surgirá un hombre justo que secará el mundo, y entonces lo necesitaré”. Esto explica lo que está escrito (1 Reyes 17:6): “Y los cuervos le trajeron pan y carne por la mañana”. Ibíd., cap. 33.
+«Y envió un cuervo» (Génesis 8:7). El cuervo protestó, diciendo: «De todos los ganados, bestias y aves, no envías a nadie más que a mí». «¿Qué necesidad tiene el mundo de ti?», replicó Noé; «no sirves ni para alimento ni para sacrificio». El rabino Eliezer dice que Dios le ordenó a Noé que recibiera al cuervo, pues el mundo un día lo necesitaría. «¿Cuándo?», preguntó Noé. «Cuando las aguas se sequen sobre la tierra, en un tiempo venidero surgirá un hombre justo que secará el mundo, y entonces lo necesitaré». Esto explica lo que está escrito (1 Reyes 17:6): «Y los cuervos le trajeron pan y carne por la mañana». Ibíd., cap. 33.
 
 Cuando Dios le dijo a la serpiente: «Sobre tu vientre andarás» (Génesis 3:14), los ángeles ministradores descendieron y le cercenaron las manos y los pies. Entonces su voz se oyó de un extremo a otro del mundo. Bereshit Midrash Rabá, cap. 20.
 
@@ -228,7 +228,7 @@ _Cartas del Rabino Akiva_.
 
 _Pirke d'Rab. Eliezer_, cap. 23.
 
-“El Señor Dios hizo a Adán y a su esposa túnicas de pieles” (Gén. 3:21), es decir, para cubrir su desnudez; pero ¿con qué? Con flecos y filacterias, “túnicas de pieles”, es decir, las correas de cuero de las filacterias; “y cosieron hojas de higuera” (Gén. 3:7), es decir, flecos; “y se hicieron delantales”, esto significa la proclamación del Shemá: “Escucha, Israel”, etc.
+«El Señor Dios hizo a Adán y a su esposa túnicas de pieles» (Gén. 3:21), es decir, para cubrir su desnudez; pero ¿con qué? Con flecos y filacterias, «túnicas de pieles», es decir, las correas de cuero de las filacterias; «y cosieron hojas de higuera» (Gén. 3:7), es decir, flecos; «y se hicieron delantales», esto significa la proclamación del Shemá: «Escucha, Israel», etc.
 
 _Yalkut Jadash_.
 
@@ -250,7 +250,7 @@ Ningún hombre recibió jamás una sola blanca (en caridad) de Job, y necesitó 
 
 _Ibídem._
 
-En Polonia, tanto entre la población cristiana como entre los judíos, prevalece en cierta medida la creencia supersticiosa de que las monedas obtenidas en ciertas circunstancias traen suerte, independientemente de cualquier virtud que se suponga que transmitan de quien las da. Un penique obtenido, por ejemplo, a primera hora de la mañana, al encontrarlo por casualidad en la calle, al vender un artículo en el mercado o como donativo, se considera un presagio de buena suerte y se atesora como prenda de buena fortuna al ser escupido ligeramente varias veces al recibirlo y luego guardado cuidadosamente, durante un periodo más o menos largo, en algún lugar seguro. Job fue el hombre más afortunado que jamás haya existido; incluso sus cabras tuvieron la fortuna de matar a los lobos que vinieron a devorarlas; y un mendigo, como vemos, que recibía una pequeña cantidad de sus manos, nunca más necesitaba pedirle limosna. (Véase “Génesis según el Talmud”, pág. 288, n.º 16).
+En Polonia, tanto entre la población cristiana como entre los judíos, prevalece en cierta medida la creencia supersticiosa de que las monedas obtenidas en ciertas circunstancias traen suerte, independientemente de cualquier virtud que se suponga que transmitan de quien las da. Un penique obtenido, por ejemplo, a primera hora de la mañana, al encontrarlo por casualidad en la calle, al vender un artículo en el mercado o como donativo, se considera un presagio de buena suerte y se atesora como prenda de buena fortuna al ser escupido ligeramente varias veces al recibirlo y luego guardado cuidadosamente, durante un periodo más o menos largo, en algún lugar seguro. Job fue el hombre más afortunado que jamás haya existido; incluso sus cabras tuvieron la fortuna de matar a los lobos que vinieron a devorarlas; y un mendigo, como vemos, que recibía una pequeña cantidad de sus manos, nunca más necesitaba pedirle limosna. (Véase «Génesis según el Talmud», pág. 288, n.º 16).
 
 “Y Saúl dijo a los ceneos: «Vayan, retírense, etc., porque han mostrado bondad a todos los hijos de Israel» (1 Samuel 15:6). ¿Y mostraron bondad a todos los hijos de Israel? No; pero lo que está escrito enseña que quien recibe a un discípulo del sabio como huésped en su casa, y le da de comer y beber, es como si hubiera mostrado bondad a todos los hijos de Israel.
 
@@ -264,7 +264,7 @@ La tierra de Israel está situada en el centro del mundo, y Jerusalén en el cen
 
 _Midrash Tillin Terumá, Kedoshim_.
 
-En Ezequiel 5:5 leemos: «He puesto a Jerusalén en medio de las naciones y países que la rodean». Según la interpretación literal de estas palabras, se afirmaba que Jerusalén era el centro mismo del mundo, o, como lo llamó pintorescamente Jerónimo, «el ombligo de la tierra». En el Talmud encontramos una hermosa metáfora que ilustra esta visión. Se encuentra en las últimas seis líneas del noveno capítulo de Derech Eretz Zuta, que dicen así: «Issi ben Yochanan, en nombre de Shemuel Hakaton, dice: “El mundo es como el globo ocular del hombre; lo blanco es el océano que rodea el mundo, lo negro es el mundo mismo, la pupila es Jerusalén y la imagen en la pupila es el Templo. ¡Que sea construido en nuestros días y en los días de todo Israel! ¡Amén!”». El recuerdo de esta idea se mantiene vivo hasta el día de hoy entre los cristianos griegos, quienes aún muestran la piedra sagrada en la Iglesia del Santo Sepulcro en Jerusalén. Esta noción no se limita al judaísmo. Los lectores clásicos recordarán de inmediato el apelativo de Omphalos u ombligo aplicado al templo de Delfos (Píndaro, Pitágoras, iv. 131, vi. 3; Eurip. Ion., 461; Esc. Coef., 1034; Eum. 40, 167; Estrabón, etc.).
+En Ezequiel 5:5 leemos: «He puesto a Jerusalén en medio de las naciones y países que la rodean». Según la interpretación literal de estas palabras, se afirmaba que Jerusalén era el centro mismo del mundo, o, como lo llamó pintorescamente Jerónimo, «el ombligo de la tierra». En el Talmud encontramos una hermosa metáfora que ilustra esta visión. Se encuentra en las últimas seis líneas del noveno capítulo de Derech Eretz Zuta, que dicen así: «Issi ben Yochanan, en nombre de Shemuel Hakaton, dice: «El mundo es como el globo ocular del hombre; lo blanco es el océano que rodea el mundo, lo negro es el mundo mismo, la pupila es Jerusalén y la imagen en la pupila es el Templo. ¡Que sea construido en nuestros días y en los días de todo Israel! ¡Amén!»». El recuerdo de esta idea se mantiene vivo hasta el día de hoy entre los cristianos griegos, quienes aún muestran la piedra sagrada en la Iglesia del Santo Sepulcro en Jerusalén. Esta noción no se limita al judaísmo. Los lectores clásicos recordarán de inmediato el apelativo de Omphalos u ombligo aplicado al templo de Delfos (Píndaro, Pitágoras, iv. 131, vi. 3; Eurip. Ion., 461; Esc. Coef., 1034; Eum. 40, 167; Estrabón, etc.).
 
 Dos chispas salieron de entre los dos querubines y destruyeron las serpientes y los escorpiones, y quemaron los espinos en el desierto. Su humo, que se elevaba y se extendía, perfumó el mundo, de modo que las naciones dijeron (Cant. iii. 6): "¿Quién es esta que sube del desierto como columnas de humo, perfumada?".
 
@@ -274,11 +274,11 @@ Mejor es vivir en el desierto de la tierra de Israel que morar en los palacios f
 
 _Midrash Rabá_, cap. 39.
 
-“Y te daré una tierra deseable” (una tierra codiciada) (Jeremías 3:19). ¿Por qué se le llama tierra codiciada? Porque allí se encontraba el Templo. Otra razón por la que se le llamó así es porque los padres del mundo la codiciaron. Rabí Shimón ben Leví dice: “Porque quienes estén enterrados allí serán los primeros en ser resucitados en los días del Mesías”.
+«Y te daré una tierra deseable» (una tierra codiciada) (Jeremías 3:19). ¿Por qué se le llama tierra codiciada? Porque allí se encontraba el Templo. Otra razón por la que se le llamó así es porque los padres del mundo la codiciaron. Rabí Shimón ben Leví dice: «Porque quienes estén enterrados allí serán los primeros en ser resucitados en los días del Mesías».
 
 _Shemoth Rabbah_, cap. 32.
 
-“Cuando el Señor tu Dios ensanche tu territorio, como te ha prometido” (Deuteronomio 12:20). Rabí Yitzchak dijo: “Este rollo nadie sabe cuánto mide de largo ni de ancho, pero al desenrollarlo habla por sí solo y muestra su grandeza. Así sucede con la tierra de Israel, que, en su mayor parte, está compuesta de colinas y montañas; pero cuando el Santo —¡bendito sea!— la nivele, como se dice (Isaías 4:4): “Todo valle se elevará, toda montaña y colina se bajará, lo torcido se enderezará y lo áspero se allanará”, entonces esa tierra hablará, por así decirlo, por sí misma, y ​​su extensión quedará al descubierto”.
+«Cuando el Señor tu Dios ensanche tu territorio, como te ha prometido» (Deuteronomio 12:20). Rabí Yitzchak dijo: «Este rollo nadie sabe cuánto mide de largo ni de ancho, pero al desenrollarlo habla por sí solo y muestra su grandeza. Así sucede con la tierra de Israel, que, en su mayor parte, está compuesta de colinas y montañas; pero cuando el Santo —¡bendito sea!— la nivele, como se dice (Isaías 4:4): “Todo valle se elevará, toda montaña y colina se bajará, lo torcido se enderezará y lo áspero se allanará», entonces esa tierra hablará, por así decirlo, por sí misma, y ​​su extensión quedará al descubierto”.
 
 _Devarim Rabbah_, cap. 4.
 
@@ -286,7 +286,7 @@ Bienaventurados los que habitan en la tierra de Israel, porque no tienen pecado 
 
 _Midrash Shochar Tov en Ps. lxxxv_.
 
-“Mejor es un bocado seco y con él tranquilidad” (Prov. 17:1). Esto, dice el Rabino, se refiere a la tierra de Israel, pues incluso si un hombre no tiene más que pan y sal para comer, si mora en la tierra de Israel, está seguro de ser hijo del mundo venidero. “Que una casa llena de sacrificios y contiendas”. Esto se refiere al exterior de la tierra, que está lleno de robo y violencia. El Rabino Y——- dice: “Quien camina solo una hora en la tierra de Israel y luego muere dentro de ella, puede estar seguro de ser hijo del mundo venidero; porque está escrito (Deut. 32:43): “Y su tierra expiará a su pueblo””.
+«Mejor es un bocado seco y con él tranquilidad» (Prov. 17:1). Esto, dice el Rabino, se refiere a la tierra de Israel, pues incluso si un hombre no tiene más que pan y sal para comer, si mora en la tierra de Israel, está seguro de ser hijo del mundo venidero. «Que una casa llena de sacrificios y contiendas». Esto se refiere al exterior de la tierra, que está lleno de robo y violencia. El Rabino Y——- dice: «Quien camina solo una hora en la tierra de Israel y luego muere dentro de ella, puede estar seguro de ser hijo del mundo venidero; porque está escrito (Deut. 32:43): “Y su tierra expiará a su pueblo»”.
 
 _Midrash Mishle_.
 
@@ -302,19 +302,19 @@ Diez porciones de sabiduría, diez porciones de la ley y diez porciones de hipoc
 
 _Midrash Rabá Ester_.
 
-“Y sucederá que de luna nueva en luna nueva, y de sábado en sábado, vendrá toda carne a adorar delante de mí, dice el Señor” (Isaías 66:23). Pero ¿cómo es posible que toda carne venga cada luna nueva y sábado a Jerusalén? El rabino Levi dice: “En el futuro, Jerusalén será como la tierra de Israel, y la tierra de Israel será como el mundo entero”. Pero ¿cómo vendrán desde el fin del mundo cada luna nueva y sábado? “Las nubes vendrán y los llevarán a Jerusalén, donde realizarán su oración matutina, y los llevarán de regreso a sus hogares; y este es el significado del dicho del profeta (Isaías 9:8): “¿Quiénes son estos que vuelan como una nube (por la mañana) y como palomas a sus ventanas (por la tarde)?”.
+«Y sucederá que de luna nueva en luna nueva, y de sábado en sábado, vendrá toda carne a adorar delante de mí, dice el Señor» (Isaías 66:23). Pero ¿cómo es posible que toda carne venga cada luna nueva y sábado a Jerusalén? El rabino Levi dice: «En el futuro, Jerusalén será como la tierra de Israel, y la tierra de Israel será como el mundo entero». Pero ¿cómo vendrán desde el fin del mundo cada luna nueva y sábado? «Las nubes vendrán y los llevarán a Jerusalén, donde realizarán su oración matutina, y los llevarán de regreso a sus hogares; y este es el significado del dicho del profeta (Isaías 9:8): “¿Quiénes son estos que vuelan como una nube (por la mañana) y como palomas a sus ventanas (por la tarde)?».
 
 _Pesikta_.
 
-“Se detuvo y midió la tierra” (Hab. iii. 6). Rabí Shimon ben Yochai explicó así: “El Santo —¡bendito sea Él!— midió a todas las naciones, y no halló a ninguna digna de recibir la ley, excepto a la generación del desierto. Midió todos los montes, y no halló a ninguna donde impartir la ley, excepto al Monte Sinaí. Midió todas las ciudades, y no halló a ninguna donde construir el Templo, excepto Jerusalén. Midió todas las tierras, y no halló a ninguna digna de ser entregada a Israel, excepto la que ahora se llama la tierra de Israel. Esto es lo que está escrito: “Se detuvo y midió la tierra”.
+«Se detuvo y midió la tierra» (Hab. iii. 6). Rabí Shimon ben Yochai explicó así: «El Santo —¡bendito sea Él!— midió a todas las naciones, y no halló a ninguna digna de recibir la ley, excepto a la generación del desierto. Midió todos los montes, y no halló a ninguna donde impartir la ley, excepto al Monte Sinaí. Midió todas las ciudades, y no halló a ninguna donde construir el Templo, excepto Jerusalén. Midió todas las tierras, y no halló a ninguna digna de ser entregada a Israel, excepto la que ahora se llama la tierra de Israel. Esto es lo que está escrito: “Se detuvo y midió la tierra».
 
 _Vayekra Rabbah_, cap. 13.
 
-“Bajé a las faldas de los montes” (Jonás ii. 6). De esto aprendemos que Jerusalén está situada sobre siete colinas. La piedra fundamental del mundo se hundió hasta las profundidades bajo el Templo del Señor, y sobre ella los hijos de Coré oran. Se lo señalaron a Jonás. El pez le dijo: “Jonás, mira que estás bajo el Templo del Señor; ora, y serás escuchado”.
+«Bajé a las faldas de los montes» (Jonás ii. 6). De esto aprendemos que Jerusalén está situada sobre siete colinas. La piedra fundamental del mundo se hundió hasta las profundidades bajo el Templo del Señor, y sobre ella los hijos de Coré oran. Se lo señalaron a Jonás. El pez le dijo: «Jonás, mira que estás bajo el Templo del Señor; ora, y serás escuchado».
 
 _Pirke d'Rab. Eliezer_, cap. 10.
 
-“Y salió fuego del Señor” (Levítico 10:2). Abba Yossi dice: “Dos hilos de fuego salieron del Lugar Santísimo, y se dividieron en cuatro: dos entraron en la nariz de uno (es decir, Nadab), y dos en la del otro (es decir, Abiú), y así los consumieron. Sus almas se quemaron, pero no sus ropas; pues está escrito: “Se acercaron, pues, y los llevaron en sus túnicas”” (v. 5).
+«Y salió fuego del Señor» (Levítico 10:2). Abba Yossi dice: «Dos hilos de fuego salieron del Lugar Santísimo, y se dividieron en cuatro: dos entraron en la nariz de uno (es decir, Nadab), y dos en la del otro (es decir, Abiú), y así los consumieron. Sus almas se quemaron, pero no sus ropas; pues está escrito: “Se acercaron, pues, y los llevaron en sus túnicas»” (v. 5).
 
 _Torath Cohanim_, sec. _Shemini_.
 
@@ -362,7 +362,7 @@ _Midrash Vayosha_.
 
 _Midrash Rabá Devarim_.
 
-“Huye, amado mío” (RV “date prisa”, Cantares 8:14). Cuando Israel come y bebe, bendice y alaba al Santo —¡bendito sea Él!—, Él escucha su voz y se reconcilia; pero cuando los gentiles comen, beben, blasfeman y provocan al Santo —¡bendito sea Él!—, Él tiene la intención de destruir su mundo, hasta que la Ley entra y suplica en defensa: “¡Señor del universo! Antes de que te fijes en los que blasfeman, mira y contempla a tu pueblo Israel, que bendice, alaba y ensalza tu gran Nombre con la Ley, con cánticos y alabanzas”. Y el Espíritu Santo grita: “¡Huye, amado mío! ¡Huye de los gentiles y aférrate a Israel!”.
+«Huye, amado mío» (RV «date prisa», Cantares 8:14). Cuando Israel come y bebe, bendice y alaba al Santo —¡bendito sea Él!—, Él escucha su voz y se reconcilia; pero cuando los gentiles comen, beben, blasfeman y provocan al Santo —¡bendito sea Él!—, Él tiene la intención de destruir su mundo, hasta que la Ley entra y suplica en defensa: «¡Señor del universo! Antes de que te fijes en los que blasfeman, mira y contempla a tu pueblo Israel, que bendice, alaba y ensalza tu gran Nombre con la Ley, con cánticos y alabanzas». Y el Espíritu Santo grita: «¡Huye, amado mío! ¡Huye de los gentiles y aférrate a Israel!».
 
 _Midrash Rabá Shir-Hashirim_.
 
@@ -374,7 +374,7 @@ Descubrirás que dondequiera que van los justos, una bendición los acompaña. I
 
 _Yalkut Ekev_.
 
-“Y el Señor puso una palabra en la boca de Balaam” (Núm. xxiii. 5). Un ángel se sentó en la garganta de Balaam, de modo que cuando él quería bendecir, el ángel se lo permitía, pero cuando quería maldecir, el ángel le hacía cosquillas en la garganta y lo detenía. “Palabra” en este lugar significa simplemente un ángel; como se dice (Sal. cvii. 20): “Él envió su palabra y los sanó”. Rabí Yojanán dice: “Había un clavo de hierro en su garganta que le permitía bendecir, pero le raspaba la garganta y se lo impedía cuando estaba a punto de maldecir”. “Palabra” en este lugar significa solo un clavo de hierro; pues se dice (Núm. xxxi. 23): “Todo lo que puede soportar el fuego”.
+«Y el Señor puso una palabra en la boca de Balaam» (Núm. xxiii. 5). Un ángel se sentó en la garganta de Balaam, de modo que cuando él quería bendecir, el ángel se lo permitía, pero cuando quería maldecir, el ángel le hacía cosquillas en la garganta y lo detenía. «Palabra» en este lugar significa simplemente un ángel; como se dice (Sal. cvii. 20): «Él envió su palabra y los sanó». Rabí Yojanán dice: «Había un clavo de hierro en su garganta que le permitía bendecir, pero le raspaba la garganta y se lo impedía cuando estaba a punto de maldecir». «Palabra» en este lugar significa solo un clavo de hierro; pues se dice (Núm. xxxi. 23): «Todo lo que puede soportar el fuego».
 
 _Ibídem._
 
@@ -402,7 +402,7 @@ Por amor a mí, por amor a mí, lo haré (Isaías 48:11). ¿Por qué esta repeti
 
 _Midrash Shojar Tov Tehilim_, 107.
 
-“Sus hijos fueron llevados al cautiverio ante el enemigo” (Lamentaciones i. 5). Rabí Isaac dice: “¡Vengan y vean cuán amados son los hijos!”. El Sanedrín fue exiliado, pero la Shejiná no fue exiliada con ellos. Los guardias del Templo fueron exiliados, pero la Shejiná no fue exiliada con ellos. Pero con los hijos, la Shejiná también fue exiliada. Esto es lo que está escrito (Lamentaciones i. 5, 6): “Sus hijos se han ido, [...] y de la hija de Sión se ha apartado toda su hermosura (es decir, la Shejiná)”.
+«Sus hijos fueron llevados al cautiverio ante el enemigo» (Lamentaciones i. 5). Rabí Isaac dice: «¡Vengan y vean cuán amados son los hijos!». El Sanedrín fue exiliado, pero la Shejiná no fue exiliada con ellos. Los guardias del Templo fueron exiliados, pero la Shejiná no fue exiliada con ellos. Pero con los hijos, la Shejiná también fue exiliada. Esto es lo que está escrito (Lamentaciones i. 5, 6): «Sus hijos se han ido, [...] y de la hija de Sión se ha apartado toda su hermosura (es decir, la Shejiná)».
 
 _Midrash Rabá Eijá_.
 
@@ -430,7 +430,7 @@ El rabino Berachia dice: «Para que los minim, apóstatas e israelitas malvados 
 
 _Midrash Rabbath Shemoth_, cap. 19.
 
-“Dios también ha puesto a uno frente al otro” (Eclesiastés 7:14), es decir, a los justos y a los malvados, para que unos expiaran a los otros. Dios creó a los pobres y a los ricos para que unos se sustentaran mutuamente. Creó el Paraíso y la Gehena para que quienes están en uno liberen a quienes están en el otro. ¿Y cuál es la distancia entre ellos? Rabí Janina dice que el ancho del muro (entre el Paraíso y la Gehena) es de un palmo.
+«Dios también ha puesto a uno frente al otro» (Eclesiastés 7:14), es decir, a los justos y a los malvados, para que unos expiaran a los otros. Dios creó a los pobres y a los ricos para que unos se sustentaran mutuamente. Creó el Paraíso y la Gehena para que quienes están en uno liberen a quienes están en el otro. ¿Y cuál es la distancia entre ellos? Rabí Janina dice que el ancho del muro (entre el Paraíso y la Gehena) es de un palmo.
 
 _Yalkut Koheleth_.
 
@@ -446,13 +446,13 @@ La Gehena fue creada antes del Paraíso: la primera en el segundo día y la segu
 
 _Yalkut_.
 
-En TB P'sachim, fol. 54, col. 1, se dice que la razón de la omisión de las palabras, “Y vio Dios que era bueno”, con respecto al segundo día de la semana creativa, fue porque entonces se creó el fuego del infierno; pero véase el contexto.
+En TB P'sachim, fol. 54, col. 1, se dice que la razón de la omisión de las palabras, «Y vio Dios que era bueno», con respecto al segundo día de la semana creativa, fue porque entonces se creó el fuego del infierno; pero véase el contexto.
 
 Cuando Adán vio (por el Espíritu) que su posteridad sería condenada a la Gehena, desobedeció el precepto de procrear. Pero cuando percibió que después de veintiséis <span id="p261">[<sup><small>p. 261</small></sup>]</span> generaciones los israelitas aceptarían la ley, se apresuró a cumplirla; como se dice (Génesis 4:1): _Adam vero cognovit uxorem suam Hevam_. {Y Adán "conoció" a su esposa Eva—_jbh_}
 
 _Yalkut_.
 
-“Y las almas que habían adquirido en Harán” (Génesis 12:5). Estos son los que se hicieron prosélitos. Quien atrae a un gentil y lo convierte en proselitista es como si lo hubiera creado. Abraham lo hizo con los hombres y Sara con las mujeres.
+«Y las almas que habían adquirido en Harán» (Génesis 12:5). Estos son los que se hicieron prosélitos. Quien atrae a un gentil y lo convierte en proselitista es como si lo hubiera creado. Abraham lo hizo con los hombres y Sara con las mujeres.
 
 _Bereshith Midrash Rabá_.
 
@@ -464,7 +464,7 @@ _P'sikta_.
 
 _Yalkut Yehoshua_, 9.
 
-“El Señor guarda a los prosélitos” (Sal. 146:9). “Considero un gran honor para el prosélito dejar su familia y la casa de su padre para venir a mí. Por lo tanto, yo, por mi parte, ordenaré respecto a él (Deut. 10:19): 'Amad, pues, al prosélito'”.
+«El Señor guarda a los prosélitos» (Sal. 146:9). «Considero un gran honor para el prosélito dejar su familia y la casa de su padre para venir a mí. Por lo tanto, yo, por mi parte, ordenaré respecto a él (Deut. 10:19): 'Amad, pues, al prosélito'».
 
 _Midrash Shojar Tov_, 146.
 
@@ -478,7 +478,7 @@ _Midrash Shojar Tov_, 117
 
 <span id="p262">[<sup><small>pág. 262</small></sup>]</span>
 
-David era un pastor de Israel, y el Pastor de David era el Santo, ¡bendito sea Él!, como está dicho (Salmo 23:10): “El Señor es mi Pastor”.
+David era un pastor de Israel, y el Pastor de David era el Santo, ¡bendito sea Él!, como está dicho (Salmo 23:10): «El Señor es mi Pastor».
 
 _Midrash Rabá_, cap. 59.
 
@@ -486,7 +486,7 @@ Rav Pinjás dice: «David, en los Salmos, invoca cinco veces al Santo —¡bendi
 
 _Bamidbar Rabbah_, cap. 75.
 
-“Y la sabiduría de Salomón sobreabundó” (1 Reyes 4:30). Descubres que cuando Salomón quiso construir el Templo, envió al faraón Necao una solicitud para que le enviara artesanos contratados. El faraón convocó a sus astrólogos, quienes le indicaron los artesanos que morirían ese año, y los envió a Salomón; pero este, por obra del Espíritu Santo, al ver el destino que les aguardaba, les proporcionó un sudario a cada uno y los envió de vuelta al faraón con el mensaje: “¿No tienes sudarios para enterrar a tus muertos? ¡Mira, aquí se los he proporcionado!”. “Porque él era más sabio que todos los hombres” (1 Reyes 4:31), “que todos los hombres”, incluso que el primer hombre, Adán.
+«Y la sabiduría de Salomón sobreabundó» (1 Reyes 4:30). Descubres que cuando Salomón quiso construir el Templo, envió al faraón Necao una solicitud para que le enviara artesanos contratados. El faraón convocó a sus astrólogos, quienes le indicaron los artesanos que morirían ese año, y los envió a Salomón; pero este, por obra del Espíritu Santo, al ver el destino que les aguardaba, les proporcionó un sudario a cada uno y los envió de vuelta al faraón con el mensaje: «¿No tienes sudarios para enterrar a tus muertos? ¡Mira, aquí se los he proporcionado!». «Porque él era más sabio que todos los hombres» (1 Reyes 4:31), «que todos los hombres», incluso que el primer hombre, Adán.
 
 _Yalkut Eliezer_, fol. 65, col. 2, n-36.
 
@@ -496,7 +496,7 @@ _Yalkut Jethro_, n. 271.
 
 <span id="p263">[<sup><small>pág. 263</small></sup>]</span>
 
-“Escuchemos la conclusión de todo el asunto” (Eclesiastés 12:13). Siempre escucharás la Ley, incluso cuando no la entiendas. “Teme a Dios” y entrégale tu corazón. “Y guarda sus mandamientos”, pues por causa de la Ley fue creado el mundo entero para que la estudiara.
+«Escuchemos la conclusión de todo el asunto» (Eclesiastés 12:13). Siempre escucharás la Ley, incluso cuando no la entiendas. «Teme a Dios» y entrégale tu corazón. «Y guarda sus mandamientos», pues por causa de la Ley fue creado el mundo entero para que la estudiara.
 
 _Koheleth, como se da en Tse-enah Ure-enah_.
 

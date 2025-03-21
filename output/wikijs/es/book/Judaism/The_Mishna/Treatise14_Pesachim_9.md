@@ -94,7 +94,7 @@ _interino_, antes de ser sacrificado_], su hijo no puede traerlo como ofrenda pa
 
 [^343]: 121:3 Por supuesto, esto sólo se aplica en el caso de que ese hijo no haya sido incluido entre los designados y contados para comerlo.
 
-[^344]: 121:4 La diferencia entre esta y la proposición precedente de nuestra Mishná consiste en que en la parte precedente dijo: “Matadlo por mí si me alejo”, los otros no dijeron: “Lo haremos así”, sino que aquí hay un acuerdo mutuo _expresado_ para realizar ciertos actos por _ambas_ partes.
+[^344]: 121:4 La diferencia entre esta y la proposición precedente de nuestra Mishná consiste en que en la parte precedente dijo: «Matadlo por mí si me alejo», los otros no dijeron: «Lo haremos así», sino que aquí hay un acuerdo mutuo _expresado_ para realizar ciertos actos por _ambas_ partes.
 
 [^345]: 122:5 Y su sacrificio pascual será comido por la otra compañía.
 

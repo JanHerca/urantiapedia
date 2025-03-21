@@ -210,7 +210,7 @@ El Decimotercer Sendero se denomina la Inteligencia Unificadora y se le llama as
 
 El Decimocuarto Sendero es la Inteligencia Iluminadora, y se llama así porque es en sí mismo ese CHASHMAL que es el fundador de las ideas ocultas y fundamentales de la santidad y de sus etapas de preparación.
 
-El Decimoquinto Sendero es la Inteligencia Constituyente, llamada así porque constituye la sustancia de la creación en la oscuridad pura, y los hombres han hablado de estas contemplaciones; es esa oscuridad de la que se habla en la escritura, Job 38:9, “y densas tinieblas como un pañal para ella”.
+El Decimoquinto Sendero es la Inteligencia Constituyente, llamada así porque constituye la sustancia de la creación en la oscuridad pura, y los hombres han hablado de estas contemplaciones; es esa oscuridad de la que se habla en la escritura, Job 38:9, «y densas tinieblas como un pañal para ella».
 
 El Decimosexto Sendero es la Inteligencia Triunfal o Eterna, llamada así porque es el placer de la Gloria, más allá de la cual no hay otra Gloria igual, y se llama también el Paraíso preparado para los Justos.
 

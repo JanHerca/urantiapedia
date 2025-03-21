@@ -38,33 +38,33 @@ dateCreated: 2025-2-7T10:42:11Z
 
 Se decía del rabino Tarfón que, aunque era un hombre muy rico, no era caritativo según sus posibilidades. En una ocasión, el rabino Akiba le preguntó: "¿Quieres que invierta algo de dinero en bienes raíces, de una manera que sea muy rentable?". El rabino Tarfón respondió afirmativamente y le entregó cuatro mil denarios en oro para que los usara. El rabino Akiba distribuyó inmediatamente esa cantidad entre los pobres. Tiempo después, el rabino Tarfón se encontró con el rabino Akiba y le preguntó dónde se encontraba la propiedad que le había comprado. Akiba llevó a su amigo a la universidad y le mostró a un niño pequeño, quien recitó para ellos el salmo 112. Al llegar al versículo noveno, "Él distribuye, da a los necesitados, su justicia perdura para siempre".
 
-“Allí”, dijo Akiba, “tu propiedad está con David, el rey de Israel, quien dijo: “Él distribuye, él da a los necesitados”.
+«Allí», dijo Akiba, «tu propiedad está con David, el rey de Israel, quien dijo: “Él distribuye, él da a los necesitados».
 
 —¿Y por qué has hecho esto? —preguntó Tarfón.
 
-“¿No sabes”, respondió Rabí Akiba, “cómo Nakdimon, el hijo de Guryon, fue castigado porque no dio conforme a sus posibilidades?”
+«¿No sabes», respondió Rabí Akiba, «cómo Nakdimon, el hijo de Guryon, fue castigado porque no dio conforme a sus posibilidades?»
 
 —Bueno —respondió el otro—, ¿por qué no me lo dijiste? ¿No habría podido distribuir mis recursos sin tu ayuda?
 
-“No”, dijo Akiba, “es una virtud mayor hacer que otro dé que darse uno mismo”.
+«No», dijo Akiba, «es una virtud mayor hacer que otro dé que darse uno mismo».
 
 El rabino Jojanán, hijo de Lakkai, cabalgaba una vez fuera de Jerusalén, y sus discípulos lo habían seguido. Vieron a una mujer pobre recogiendo el grano que caía de las bocas y comederos de un ganado que pertenecía a los árabes. Al ver al rabino, se dirigió a él con estas breves palabras: «Oh, rabino, ayúdame». Él respondió: «Hija mía, ¿de quién eres hija?».
 
 <span id="p292">[<sup><small>pág. 292</small></sup>]</span>
 
-“Soy la hija de Nakdimon, el hijo de Guryon”, respondió ella.
+«Soy la hija de Nakdimon, el hijo de Guryon», respondió ella.
 
-“¿Pero qué ha sido del dinero de tu padre?”, preguntó el rabino, “¿la cantidad que recibiste como dote el día de tu boda?”
+«¿Pero qué ha sido del dinero de tu padre?», preguntó el rabino, «¿la cantidad que recibiste como dote el día de tu boda?»
 
-—Ah —respondió ella—, ¿no hay un dicho en Jerusalén: “Faltó la sal al dinero”?
+—Ah —respondió ella—, ¿no hay un dicho en Jerusalén: «Faltó la sal al dinero»?
 
 —Y el dinero de tu marido —continuó el rabino—, ¿qué hay con eso?
 
-“Eso siguió a lo otro”, respondió ella; “los he perdido a ambos”.
+«Eso siguió a lo otro», respondió ella; «los he perdido a ambos».
 
 El rabino se volvió hacia sus estudiantes y dijo:
 
-“Recuerdo que, cuando firmé su contrato de matrimonio, su padre le dio como dote un millón de denares de oro, y además su marido era rico.”
+«Recuerdo que, cuando firmé su contrato de matrimonio, su padre le dio como dote un millón de denares de oro, y además su marido era rico.»
 
 El rabino se compadeció de la mujer, la ayudó y lloró por ella.
 
@@ -72,15 +72,15 @@ El rabino se compadeció de la mujer, la ayudó y lloró por ella.
 
 Nachum, pasara lo que pasara, solía decir: «Esto también es para bien». En su vejez, quedó ciego; le amputaron ambas manos y piernas, y una dolorosa inflamación cubrió su cuerpo. Sus discípulos le dijeron: «Si eres justo, ¿por qué estás tan afligido?».
 
-“Todo esto”, respondió, “lo busqué yo mismo. Una vez iba de camino a casa de mi suegro, con treinta asnos cargados de provisiones y todo tipo de objetos preciosos. Un hombre al borde del camino me llamó: “¡Rabí, ayúdame!”. Le dije que esperara hasta que descargara mis asnos. Cuando llegó ese momento y les quité las cargas a mis bestias, descubrí con tristeza que el pobre hombre había caído y expirado. Me arrojé sobre su cuerpo y lloré amargamente. “Que estos ojos, que no te tuvieron piedad, queden ciegos”, dije; “que estas manos que tardaron en ayudarte, que sean cortadas, y también estos pies que no corrieron a ayudarte”. Y aun así no quedé satisfecho hasta que oré para que una dolorosa inflamación me afectara todo el cuerpo. El rabino Akiba me dijo: "¡Ay de mí, que te encuentre en este estado!". Pero yo respondí: "¡Feliz de que me encuentres en este estado, pues con esto espero que mi iniquidad sea perdonada y que todas mis buenas obras queden registradas para obtener la recompensa de la vida eterna en el mundo futuro!".
+«Todo esto», respondió, «lo busqué yo mismo. Una vez iba de camino a casa de mi suegro, con treinta asnos cargados de provisiones y todo tipo de objetos preciosos. Un hombre al borde del camino me llamó: “¡Rabí, ayúdame!». Le dije que esperara hasta que descargara mis asnos. Cuando llegó ese momento y les quité las cargas a mis bestias, descubrí con tristeza que el pobre hombre había caído y expirado. Me arrojé sobre su cuerpo y lloré amargamente. «Que estos ojos, que no te tuvieron piedad, queden ciegos», dije; «que estas manos que tardaron en ayudarte, que sean cortadas, y también estos pies que no corrieron a ayudarte». Y aun así no quedé satisfecho hasta que oré para que una dolorosa inflamación me afectara todo el cuerpo. El rabino Akiba me dijo: "¡Ay de mí, que te encuentre en este estado!". Pero yo respondí: "¡Feliz de que me encuentres en este estado, pues con esto espero que mi iniquidad sea perdonada y que todas mis buenas obras queden registradas para obtener la recompensa de la vida eterna en el mundo futuro!".
 
 ---
 
 Rabí Janay al ver a un hombre dando limosna en un lugar público, dijo: "Mejor sería que no hubieras dado nada, que haber dado limosna tan abiertamente y avergonzar al pobre hombre.
 
-“Uno debería ser mejor arrojado a un horno de fuego que ser el medio para traer a otro a la vergüenza pública”.
+«Uno debería ser mejor arrojado a un horno de fuego que ser el medio para traer a otro a la vergüenza pública».
 
-Dijo el rabino Juda: “Nadie debe sentarse a comer hasta asegurarse de que todos los animales que dependen de su cuidado estén atendidos”.
+Dijo el rabino Juda: «Nadie debe sentarse a comer hasta asegurarse de que todos los animales que dependen de su cuidado estén atendidos».
 
 El Rabino Jojanán dijo que es tan grato a Dios ser amables y hospitalarios con los extraños como madrugar para estudiar su ley; porque lo primero es, de hecho, ponerla en práctica. También dijo: «A quien se muestra bondadoso con sus semejantes se le perdonan sus pecados».
 
@@ -88,21 +88,21 @@ Tanto este Rabino como Abba dicen que es mejor prestar a los pobres que darles, 
 
 ---
 
-Dijo el rabino Hunnah: “Quien es orgulloso de corazón es tan pecador como el idólatra”.
+Dijo el rabino Hunnah: «Quien es orgulloso de corazón es tan pecador como el idólatra».
 
-Dijo el rabino Abira: “El que es orgulloso será humillado”.
+Dijo el rabino Abira: «El que es orgulloso será humillado».
 
-Dijo Heskaiah: “Las oraciones del hombre orgulloso de corazón nunca son escuchadas”.
+Dijo Heskaiah: «Las oraciones del hombre orgulloso de corazón nunca son escuchadas».
 
-Rabí Ashi dijo: “Quien endurece su corazón con el orgullo, ablanda su cerebro con el mismo”.
+Rabí Ashi dijo: «Quien endurece su corazón con el orgullo, ablanda su cerebro con el mismo».
 
-El rabino Joshua dijo: “La mansedumbre es mejor que el sacrificio”; porque ¿no está escrito: “Los sacrificios de Dios son un corazón quebrantado, un espíritu contrito y humillado, Tú, oh Señor, no los despreciarás”?
+El rabino Joshua dijo: «La mansedumbre es mejor que el sacrificio»; porque ¿no está escrito: «Los sacrificios de Dios son un corazón quebrantado, un espíritu contrito y humillado, Tú, oh Señor, no los despreciarás»?
 
 <span id="p294">[<sup><small>pág. 294</small></sup>]</span>
 
-El hijo del rabino Hunnah dijo: “Quien posee el conocimiento de la ley de Dios, sin temor a Él, es como alguien a quien se le han confiado las llaves internas de un tesoro, pero a quien se le niegan las externas”.
+El hijo del rabino Hunnah dijo: «Quien posee el conocimiento de la ley de Dios, sin temor a Él, es como alguien a quien se le han confiado las llaves internas de un tesoro, pero a quien se le niegan las externas».
 
-El rabino Alexander dijo: “Quien posee la sabiduría mundana y no teme al Señor, es como quien diseña la construcción de una casa y solo completa la puerta, porque como escribió David en el Salmo 111: “El principio de la sabiduría es el temor del Señor”.
+El rabino Alexander dijo: «Quien posee la sabiduría mundana y no teme al Señor, es como quien diseña la construcción de una casa y solo completa la puerta, porque como escribió David en el Salmo 111: “El principio de la sabiduría es el temor del Señor».
 
 Cuando el rabino Jochanan enfermó, sus alumnos lo visitaron y le pidieron una bendición. Con voz moribunda, el rabino dijo: «Ruego que teman a Dios como temen al hombre». «¡Qué!», exclamaron sus alumnos, «¿no deberíamos temer a Dios más que al hombre?».
 
@@ -110,25 +110,25 @@ Cuando el rabino Jochanan enfermó, sus alumnos lo visitaron y le pidieron una b
 
 Abba dice que podemos demostrar nuestro temor de Dios en nuestra relación con los demás. «Hablad con amabilidad y bondad a todos», dice, «tratando de apaciguar la ira, buscando la paz y buscándola con vuestros hermanos y con todo el mundo, y así obtendréis ese 'favor y buena comprensión ante Dios y los hombres', que Salomón tanto apreciaba».
 
-Rabí Jojanán había oído a Rabí Simón, hijo de Jojay, ilustrar con una parábola el pasaje de Isaías que dice así: “Yo, el Señor, amo la rectitud, pero aborrezco el robo convertido en holocausto”.
+Rabí Jojanán había oído a Rabí Simón, hijo de Jojay, ilustrar con una parábola el pasaje de Isaías que dice así: «Yo, el Señor, amo la rectitud, pero aborrezco el robo convertido en holocausto».
 
 Un rey, habiendo importado ciertas mercancías sobre las cuales había impuesto un impuesto, ordenó a sus oficiales que, al pasar por la aduana, se detuvieran y pagaran el arancel usual.
 
 Muy asombrados, sus asistentes le hablaron así: «¡Señor! Todo lo recaudado pertenece a Su Majestad; ¿por qué entonces dar lo que finalmente debe pagarse a su tesoro?»
 
-“Porque”, respondió el monarca, “quiero que los viajeros aprendan de la acción que ahora os ordeno realizar, cuán aborrecible es la deshonestidad a mis ojos”.
+«Porque», respondió el monarca, «quiero que los viajeros aprendan de la acción que ahora os ordeno realizar, cuán aborrecible es la deshonestidad a mis ojos».
 
 <span id="p295">[<sup><small>pág. 295</small></sup>]</span>
 
 El rabino Eleazar dijo: «Quien se guía por la rectitud y la justicia en todas sus acciones, con razón puede afirmarse que ha imitado a Dios en su infinita bondad. Pues de Él (bendito sea Su nombre) leemos: 'Él ama la rectitud y la justicia'; es decir, 'La tierra está llena de la bondad amorosa de Dios'». ¿Acaso pensamos que seguir tal camino es tarea fácil? ¡No! La virtud de la beneficencia solo se puede alcanzar con grandes esfuerzos. Sin embargo, ¿será difícil para quien tiene el temor de Dios constantemente presente adquirir este atributo? No; lo alcanzará fácilmente quien realiza cada acto en el temor del Señor.
 
-“Corona de gracia es la cabeza cana; en el camino de la justicia se puede encontrar.”
+«Corona de gracia es la cabeza cana; en el camino de la justicia se puede encontrar.»
 
 Así lo enseñó Salomón en sus Proverbios. Por ello, varios rabinos de edad avanzada fueron interrogados por sus alumnos sobre la probable causa que les había asegurado esa marca del favor divino. El rabino Nechumah respondió que, en lo que respecta a él, Dios había tomado nota de tres principios por los cuales se había esforzado en guiar su conducta.
 
 En primer lugar, nunca se había esforzado por enaltecer su propia posición rebajando la de su prójimo. Esto concordaba con el ejemplo del rabino Hunna, pues este, mientras cargaba sobre sus hombros una pesada pala, fue recibido por el rabino Choana Ben Chanilai, quien, considerando la carga denigrante para la dignidad de un hombre tan eminente, insistió en quitarle la herramienta y cargarla él mismo. Pero el rabino Hunna se negó, diciendo: «Si esta fuera tu profesión habitual, podría permitírtelo, pero ciertamente no permitiré que otro realice una tarea que, si la hago yo mismo, algunos podrían considerarla servil».
 
-En segundo lugar, nunca se había ido a dormir con un corazón que albergara mala voluntad contra sus semejantes, conforme a la práctica de Mar Zutra, quien, antes de dormir, ofrecía esta oración: “¡Oh Señor! Perdona a todos los que me han hecho daño”.
+En segundo lugar, nunca se había ido a dormir con un corazón que albergara mala voluntad contra sus semejantes, conforme a la práctica de Mar Zutra, quien, antes de dormir, ofrecía esta oración: «¡Oh Señor! Perdona a todos los que me han hecho daño».
 
 En tercer lugar, no era tacaño, siguiendo el ejemplo del justo Job, de quien los sabios cuentan que se negó a recibir el cambio que le correspondía después de hacer una compra.
 
@@ -144,7 +144,7 @@ El rabino Zera afirmó que el mérito de haber llegado a una edad avanzada se de
 
 El rabino Judah dijo: «Conocidos y revelados son los caminos del hombre. Una madre consiente a su hijo con palabras amables y tratos cariñosos, ganándose honor y afecto; por eso, la Biblia dice: «Honra a tu padre» antes que «honra a tu madre». Pero en cuanto al temor, siendo el padre el preceptor del hijo, enseñándole la ley, la Biblia dice: «Todo hombre temerá a su madre» antes que a la palabra «padre».
 
-Una vez le preguntaron al Rabino Ulah: “¿Hasta qué punto debe extenderse este honor a los padres?”
+Una vez le preguntaron al Rabino Ulah: «¿Hasta qué punto debe extenderse este honor a los padres?»
 
 Él respondió:
 
@@ -160,7 +160,7 @@ Hijo mío, me has preparado una comida deliciosa. ¿De dónde sacaste estas exqu
 
 Y el hijo respondió insultantemente:
 
-“Come como los perros, viejo, sin hacer preguntas”.
+«Come como los perros, viejo, sin hacer preguntas».
 
 Ese hijo heredó el castigo de la falta de respeto.
 
@@ -172,33 +172,33 @@ Dijo esto porque quienes trabajaban para el gobierno eran golpeados si su trabaj
 
 El rabino Chiyah afirmó que Dios prefería honrar a los padres que honrarse a Sí mismo. «Está escrito», dijo, «'Honra al Señor con tus bienes'. ¿Cómo? Mediante la caridad, las buenas obras, colocando la mezuzá en los postes de tu puerta, construyendo un tabernáculo para ti durante Sucot, etc.; todo esto si puedes. Si eres pobre, la omisión no se considera pecado ni negligencia. Pero está escrito: 'Honra a tu padre y a tu madre', y este deber se exige por igual a ricos y pobres; sí, incluso si te vieras obligado a mendigar por ellos de puerta en puerta».
 
-Dijo Rabí Abahu: “Abini, mi hijo, ha obedecido este precepto tal como debe ser observado”.
+Dijo Rabí Abahu: «Abini, mi hijo, ha obedecido este precepto tal como debe ser observado».
 
 Abini tenía cinco hijos, pero no permitía que ninguno le abriera la puerta a su abuelo ni le atendiera cuando él estaba en casa. Así como deseaba que lo honraran en vida, también él le rendía homenaje a su padre. En una ocasión, su padre le pidió un vaso de agua. Mientras se lo conseguía, el anciano se durmió, y Abini, al volver a entrar en la habitación, se quedó junto a su padre con el vaso en la mano hasta que este despertó.
 
-“¿Qué es el temor?” y “¿Qué es el honor?”, preguntan los rabinos.
+«¿Qué es el temor?» y «¿Qué es el honor?», preguntan los rabinos.
 
 Teme a tu madre y a tu padre, no sentándote en sus asientos ni permaneciendo de pie en sus lugares; prestando atención a sus palabras y no interrumpiendo su discurso. Sé doblemente cuidadoso al no criticar ni juzgar sus argumentos o controversias.
 
 Honra a tu padre y a tu madre atendiendo a sus necesidades, dándoles de comer y de beber, vistiendo sus vestidos y atándoles los zapatos si no pueden realizar estos servicios por sí mismos.
 
-Cuando le preguntaron al rabino Eleazar hasta qué punto debía honrarse a los padres, él respondió: “Arroja toda tu riqueza al mar, pero no molestes a tu padre ni a tu madre”.
+Cuando le preguntaron al rabino Eleazar hasta qué punto debía honrarse a los padres, él respondió: «Arroja toda tu riqueza al mar, pero no molestes a tu padre ni a tu madre».
 
 Dijo Simón, hijo de Jocai: «Así como es grande la recompensa para quienes honran a sus padres, también es grande el castigo para quienes descuidan el precepto».
 
 ---
 
-El rabino Jochanan dijo: “Es mejor estudiar de noche, cuando todo está tranquilo, como está escrito: “Gritad alabanzas en la noche”.
+El rabino Jochanan dijo: «Es mejor estudiar de noche, cuando todo está tranquilo, como está escrito: “Gritad alabanzas en la noche».
 
 <span id="p299">[<sup><small>pág. 299</small></sup>]</span>
 
-Reshbi Lakish dijo: “Estudia de día y de noche, como está escrito: “Meditarás en ello día y noche”.
+Reshbi Lakish dijo: «Estudia de día y de noche, como está escrito: “Meditarás en ello día y noche».
 
 El rabino Chonan, de Zepora, dijo: «El estudio de la ley puede compararse con un enorme montón de polvo que hay que limpiar. El necio dice: «Es imposible que pueda quitar este inmenso montón; no lo intentaré»; pero el sabio dice: «Quitaré un poco hoy, un poco más mañana y más pasado mañana, y así, con el tiempo, lo habré quitado todo».
 
 Lo mismo ocurre con el estudio de la ley. El alumno indolente dice: «Me es imposible estudiar la Biblia. Piénsenlo: cincuenta capítulos del Génesis; sesenta y seis de Isaías; ciento cincuenta Salmos, etc. No puedo». Pero el estudiante aplicado dice: «Estudiaré seis capítulos cada día, y así, con el tiempo, lo aprenderé todo».
 
-En Proverbios 24:7 encontramos esta frase: “La sabiduría es demasiado alta para el necio”.
+En Proverbios 24:7 encontramos esta frase: «La sabiduría es demasiado alta para el necio».
 
 El rabino Jochanan ilustra este versículo con una manzana que cuelga del techo. El necio dice: «No puedo alcanzar la fruta, está demasiado alta»; pero el sabio dice: «Se puede obtener fácilmente poniendo un escalón tras otro hasta que tu brazo esté a su alcance». El necio dice: «Solo un sabio puede estudiar toda la ley», pero el sabio responde: «No te corresponde adquirirla toda».
 
@@ -218,9 +218,9 @@ Los rabinos han aplicado a menudo, en sentido figurado, diversos pasajes de las 
 
 Los tres líquidos que los hombres se ven así impulsados ​​a procurarse son considerados por los sabios de Israel como típicos de la ley.
 
-Un rabino preguntó: “¿Por qué se compara la palabra de Dios con el agua?”
+Un rabino preguntó: «¿Por qué se compara la palabra de Dios con el agua?»
 
-A esta pregunta se respondió lo siguiente: “Así como el agua desciende de una eminencia (las montañas) y reposa en un lugar bajo (el mar), así también la ley, que emana del Cielo, puede permanecer en posesión sólo de aquellos que son humildes de espíritu”.
+A esta pregunta se respondió lo siguiente: «Así como el agua desciende de una eminencia (las montañas) y reposa en un lugar bajo (el mar), así también la ley, que emana del Cielo, puede permanecer en posesión sólo de aquellos que son humildes de espíritu».
 
 Otro rabino preguntó: «¿Por qué se ha comparado la Palabra de Dios con el vino y la leche?». La respuesta fue: «Como estos fluidos no pueden conservarse en vasos de oro, sino solo en los de barro, así también las mentes que se encuentran en cuerpos sencillos serán los mejores receptáculos del conocimiento».
 
@@ -228,7 +228,7 @@ El rabino Joshua ben Chaninah, de apariencia sencilla, poseía gran sabiduría y
 
 Los preceptos se comparan con una lámpara; la ley de Dios con una luz. La lámpara alumbra solo mientras contiene aceite. Así, quien observa los preceptos recibe su recompensa al cumplirlos. La ley, sin embargo, es una luz perpetua; es una protección eterna para quien la estudia, como está escrito:
 
-“Cuando andes, ella (la ley) te guiará; cuando te acuestes, ella velará por ti; y cuando despiertes, conversará contigo.”
+«Cuando andes, ella (la ley) te guiará; cuando te acuestes, ella velará por ti; y cuando despiertes, conversará contigo.»
 
 Cuando camines, te guiará en este mundo; cuando te acuestes, te cuidará en la tumba; cuando despiertes, conversará contigo en la vida venidera.
 
@@ -236,23 +236,23 @@ Un viajero, en su camino, atravesó el bosque en una noche oscura y sombría. Vi
 
 La oscuridad en la que el hombre caminaba era la falta de conocimiento religioso. La antorcha que descubrió personifica los preceptos de Dios, que lo ayudaron en el camino hasta que obtuvo la bendita luz del sol, en comparación con la santa palabra de Dios, la Biblia. Sin embargo, mientras el hombre está en el bosque (el mundo), no está completamente en paz; su corazón es débil y puede perder el camino correcto; pero cuando llega a la encrucijada (la muerte), entonces podemos proclamarlo verdaderamente justo y exclamar:
 
-“El buen nombre es más fragante que el perfume rico, y el día de la muerte es mejor que el día del nacimiento.”
+«El buen nombre es más fragante que el perfume rico, y el día de la muerte es mejor que el día del nacimiento.»
 
 <span id="p302">[<sup><small>pág. 302</small></sup>]</span>
 
 Rabí Jochanan, hijo de Broka, y Rabí Eleazer, hijo de Chismah, visitaron a su maestro, Rabí Josah, y él les dijo:
 
-“¿Qué hay de nuevo en la universidad? ¿Qué está pasando?”
+«¿Qué hay de nuevo en la universidad? ¿Qué está pasando?»
 
-“No”, respondieron, “somos tus discípulos; a ti te corresponde hablar y a nosotros escuchar”.
+«No», respondieron, «somos tus discípulos; a ti te corresponde hablar y a nosotros escuchar».
 
 —Sin embargo —respondió el rabino Josah—, no pasa ningún día sin que ocurra algo importante en la universidad. ¿Quién dio la conferencia hoy?
 
-“Rabí Eleazar, hijo de Azarías.”
+«Rabí Eleazar, hijo de Azarías.»
 
-“¿Y cuál era su tema?”
+«¿Y cuál era su tema?»
 
-“Eligió este versículo del Deuteronomio”, respondió el erudito:
+«Eligió este versículo del Deuteronomio», respondió el erudito:
 
 “'Reúnan al pueblo, a los hombres, a las mujeres y a los niños'; y así lo explicó:
 
@@ -262,9 +262,9 @@ Los hombres vinieron a aprender, las mujeres a escuchar; pero ¿para qué los ni
 
 “'Las palabras de los sabios son como aguijones, y como clavos clavados (son las palabras de) los hombres de las asambleas, las cuales son dadas por un solo pastor.'
 
-“¿Por qué se compara la ley de Dios con un aguijón?”, dijo. “Porque el aguijón hace que el buey trace el surco recto, y el surco recto produce abundante alimento para la vida del hombre. Así también la ley de Dios mantiene recto el corazón del hombre, para que produzca buen alimento que provea para la vida eterna. Pero para que no digas: “El aguijón es movible, por lo tanto, también debe serlo la ley”, también está escrito: “como clavos”, y asimismo, como “clavos clavados”, para que no alegues que los clavos clavados en la madera disminuyen de vista con cada golpe, y que, por lo tanto, por esta comparación, la ley de Dios también estaría sujeta a disminución. No; como un clavo clavado o plantado, como un árbol se planta para dar fruto y multiplicarse.
+«¿Por qué se compara la ley de Dios con un aguijón?», dijo. «Porque el aguijón hace que el buey trace el surco recto, y el surco recto produce abundante alimento para la vida del hombre. Así también la ley de Dios mantiene recto el corazón del hombre, para que produzca buen alimento que provea para la vida eterna. Pero para que no digas: “El aguijón es movible, por lo tanto, también debe serlo la ley», también está escrito: «como clavos», y asimismo, como «clavos clavados», para que no alegues que los clavos clavados en la madera disminuyen de vista con cada golpe, y que, por lo tanto, por esta comparación, la ley de Dios también estaría sujeta a disminución. No; como un clavo clavado o plantado, como un árbol se planta para dar fruto y multiplicarse.
 
-Los hombres de las asambleas son aquellos que se reúnen en masa para estudiar la ley. Con frecuencia surgen controversias entre ellos, y podrías decir: “Con tantas opiniones diferentes, ¿cómo puedo dedicarme a estudiar la ley?”. Tu respuesta está escrita en las palabras de un solo pastor. De un solo Dios proceden todas las leyes. Por lo tanto, usa tus oídos como un colador e inclina tu corazón a poseer todas estas palabras.
+Los hombres de las asambleas son aquellos que se reúnen en masa para estudiar la ley. Con frecuencia surgen controversias entre ellos, y podrías decir: «Con tantas opiniones diferentes, ¿cómo puedo dedicarme a estudiar la ley?». Tu respuesta está escrita en las palabras de un solo pastor. De un solo Dios proceden todas las leyes. Por lo tanto, usa tus oídos como un colador e inclina tu corazón a poseer todas estas palabras.
 
 Entonces dijo Rabí Josah: «Feliz la generación a quien enseña Rabí Eleazar».
 
@@ -276,21 +276,21 @@ Soy una criatura de Dios, y también lo es mi prójimo. Él puede preferir traba
 
 Abaygeh ofreció el siguiente como su mejor consejo:
 
-“...Que sea también afable y dispuesto a fomentar la bondad entre todas las personas; al hacerlo, se ganará el amor tanto del Creador como de sus criaturas.”
+«...Que sea también afable y dispuesto a fomentar la bondad entre todas las personas; al hacerlo, se ganará el amor tanto del Creador como de sus criaturas.»
 
 Rabba siempre decía que poseer sabiduría y un conocimiento de la ley necesariamente conducía a la penitencia y a las buenas obras. «Pues», decía, «sería inútil adquirir un gran conocimiento y el dominio de la ley bíblica y tradicional y actuar irreverentemente con los padres o con personas superiores por edad o mayor conocimiento».
 
-“El temor del Señor es el principio de la sabiduría; buen entendimiento tienen todos los que practican sus mandamientos.”
+«El temor del Señor es el principio de la sabiduría; buen entendimiento tienen todos los que practican sus mandamientos.»
 
 Rabba dijo: «Las Sagradas Escrituras no nos dicen que estudiar los mandamientos de Dios demuestra buen entendimiento, sino que hay que ponerlos en práctica. Sin embargo, debemos aprender antes de poder cumplirlos; y quien actúa en contra de las enseñanzas del Altísimo durante su vida, mejor sería que nunca hubiera nacido».
 
 <span id="p304">[<sup><small>pág. 304</small></sup>]</span>
 
-“El sabio es grande en sus pequeñas acciones; el necio es pequeño en sus grandes acciones”.
+«El sabio es grande en sus pequeñas acciones; el necio es pequeño en sus grandes acciones».
 
 Un alumno le preguntó una vez a su maestro: "¿Qué es la verdadera sabiduría?". El maestro respondió: "Juzgar con liberalidad, pensar con pureza y amar al prójimo". Otro maestro respondió: "La mayor sabiduría es conocerse a uno mismo".
 
-“Cuídate de la vanidad y del orgullo del saber; aprende a decir: “No sé”.
+«Cuídate de la vanidad y del orgullo del saber; aprende a decir: “No sé».
 
 Si un hombre se dedica al estudio y se vuelve erudito, para deleite y satisfacción de sus maestros, y aun así es modesto en la conversación con personas menos inteligentes, honesto en sus tratos, veraz en su vida diaria, la gente dice: «¡Feliz el padre que le permitió estudiar la ley de Dios; felices los maestros que lo instruyeron en los caminos de la verdad! ¡Qué hermosos son sus caminos! ¡Qué meritorias sus obras! De tal persona la Biblia dice: «Me dijo: Tú eres mi siervo; oh Israel, por ti soy glorificado».
 
@@ -308,7 +308,7 @@ Cuando el malvado alega la tentación como excusa para su mala conducta, se le p
 
 Sin embargo, aunque se nos manda estudiar la ley de Dios, no debemos convertirla en una carga; ni debemos descuidar por el estudio ningún otro deber o recreación razonable. "¿Por qué —preguntó una vez un alumno— es un mandato bíblico 'recogerás tu trigo a su tiempo'? ¿Acaso el pueblo no recogería su trigo cuando estuviera maduro como algo normal? El mandato es superfluo".
 
-“No es así”, respondieron los rabinos; “el maíz podría pertenecer a alguien que, por estudiar, descuidara su trabajo. El trabajo es sagrado y honorable a los ojos de Dios, y Él no permitiría que los hombres descuidaran sus deberes diarios ni siquiera por estudiar su ley”.
+«No es así», respondieron los rabinos; «el maíz podría pertenecer a alguien que, por estudiar, descuidara su trabajo. El trabajo es sagrado y honorable a los ojos de Dios, y Él no permitiría que los hombres descuidaran sus deberes diarios ni siquiera por estudiar su ley».
 
 ---
 
@@ -318,11 +318,11 @@ La oración es la única arma de Israel, un arma heredada de sus padres, un arma
 
 Leemos que en la contienda con Amalec, cuando Moisés alzó sus armas, Israel prevaleció. ¿Acaso las manos de Moisés influyeron en la guerra, para ganarla o para destruirla? No; pero mientras los israelitas miren con humildad al Gran Padre Celestial, ningún mal podrá prevalecer contra ellos.
 
-“Y Moisés hizo una serpiente de bronce y la puso sobre una asta; y sucedía que si una serpiente mordía a alguno, éste miraba la serpiente de bronce y vivía.”
+«Y Moisés hizo una serpiente de bronce y la puso sobre una asta; y sucedía que si una serpiente mordía a alguno, éste miraba la serpiente de bronce y vivía.»
 
 ¿Tenía la serpiente de bronce el poder de matar o de dar vida? No; pero mientras Israel mire hacia el Gran Padre Celestial, Él concederá vida.
 
-“¿Se complace Dios en la carne y en la sangre de los sacrificios?”, preguntan los profetas.
+«¿Se complace Dios en la carne y en la sangre de los sacrificios?», preguntan los profetas.
 
 No. Él no los ha ordenado, sino más bien los ha permitido. «Es para vosotros», dice, «no para mí, lo que ofrecéis».
 
@@ -344,35 +344,35 @@ El que sacrifica ofrenda completa, recibirá recompensa por ofrenda completa; el
 
 El Dios de Abraham ayudará a quien señale un lugar determinado para orar al Señor.
 
-Dijo el rabino Henah: “Cuando muera un hombre así, dirán de él: “Ha muerto un hombre piadoso, un hombre manso; siguió el ejemplo de nuestro padre Abraham”.
+Dijo el rabino Henah: «Cuando muera un hombre así, dirán de él: “Ha muerto un hombre piadoso, un hombre manso; siguió el ejemplo de nuestro padre Abraham».
 
 ¿Cómo sabemos que Abraham designó un lugar determinado para orar?
 
-“Abraham se levantó muy de mañana y fue al lugar donde estaba delante del Señor.”
+«Abraham se levantó muy de mañana y fue al lugar donde estaba delante del Señor.»
 
-El rabino Chelboh dijo: “No debemos apresurarnos cuando salimos de un lugar de culto”.
+El rabino Chelboh dijo: «No debemos apresurarnos cuando salimos de un lugar de culto».
 
-“Esto”, dijo Abayyeh, “se refiere a abandonar un lugar de culto; pero sin duda debemos apresurarnos en nuestro camino hacia allá, como está escrito: ‘Conozcámoslo y apresurémonos a servir al Señor’”.
+«Esto», dijo Abayyeh, «se refiere a abandonar un lugar de culto; pero sin duda debemos apresurarnos en nuestro camino hacia allá, como está escrito: ‘Conozcámoslo y apresurémonos a servir al Señor’».
 
 El rabino Zabid dijo: «Cuando veía a los rabinos apresurándose a una conferencia por conseguir buenos asientos, pensaba: 'Están violando el sabbat'. Sin embargo, cuando oía al rabino Tarfón decir: 'Siempre hay que apresurarse a cumplir un mandamiento, incluso en sabbat', como está escrito: 'Seguirán al Señor cuando ruge como un león', yo también me apresuraba para llegar temprano.»
 
 El lugar donde mejor podemos orar a Dios es Su casa; como está escrito:
 
-“Para escuchar las alabanzas y oraciones que tu siervo hace delante de ti.” Aludiendo al servicio en la casa de Dios.
+«Para escuchar las alabanzas y oraciones que tu siervo hace delante de ti.» Aludiendo al servicio en la casa de Dios.
 
 Dijo Rabin, el hijo de Ada: "¿De dónde deriva la tradición de que cuando diez hombres están orando en la casa de Dios la Presencia Divina reposa entre ellos?
 
 Está escrito: «Dios está en la asamblea de los poderosos». Que una asamblea o congregación consta de no menos de diez personas, lo aprendemos de las palabras de Dios a Moisés respecto a los espías enviados a reconocer la tierra de Canaán. «¿Hasta cuándo —dijo él— se concederá indulgencia a esta malvada congregación?». Los espías eran doce hombres; pero Josué y Caleb, siendo leales y fieles, solo quedaron diez para formar la «malvada congregación».
 
-“¿De dónde deriva la tradición de que cuando uno estudia la ley, la Presencia Divina reside en él?”
+«¿De dónde deriva la tradición de que cuando uno estudia la ley, la Presencia Divina reside en él?»
 
-“Está escrito: ‘En todo lugar donde permita que mi nombre sea mencionado, vendré a ti y te bendeciré’”.
+«Está escrito: ‘En todo lugar donde permita que mi nombre sea mencionado, vendré a ti y te bendeciré’».
 
 ---
 
 Tus personajes bíblicos ofrecieron sus oraciones de forma descuidada e irreflexiva; a tres de ellos Dios les dio prosperidad; al otro, le causó tristeza. Eran Eleazar, siervo de Abraham; Caleb, hijo de Ye Phuné; Saúl, hijo de Cis; y Jefté el galadita.
 
-Eleazar oró: “Sea que la doncella a quien yo diga: “Baja tu cántaro, te ruego, para que yo beba”, y ella responda: “Bebe, y también a tus camellos daré de beber”, sea la que tú has destinado para tu siervo Isaac”.
+Eleazar oró: «Sea que la doncella a quien yo diga: “Baja tu cántaro, te ruego, para que yo beba», y ella responda: «Bebe, y también a tus camellos daré de beber», sea la que tú has destinado para tu siervo Isaac”.
 
 Supongamos que un esclavo hubiera aparecido y cumplido con todos los requisitos que Eleazar propuso, ¿habrían quedado satisfechos Abraham e Isaac? Pero Dios prosperó su misión, y «Rebeca salió».
 
@@ -384,11 +384,11 @@ Caleb respondió: «Al que ataque a Quiriat-sefer y la tome, yo le daré a Acsa 
 
 Pero Dios le dio prosperidad, y Otoniel, hijo de Cenaz, hermano menor de Caleb, la conquistó, y él le dio a Acsa, su hija, por mujer.
 
-Saúl dijo: “Y al hombre que lo venciere (a Goliat), el rey lo enriquecerá con grandes riquezas, y le dará su hija”.
+Saúl dijo: «Y al hombre que lo venciere (a Goliat), el rey lo enriquecerá con grandes riquezas, y le dará su hija».
 
 Corrió el mismo riesgo que Caleb, y Dios también fue bueno con él; y David, hijo de Isaí, logró aquello por lo que había orado.
 
-Jefté se expresó así: “Si en verdad entregas a los hijos de Amón en mi mano, entonces cualquier cosa que salga de las puertas de mi casa a recibirme, cuando regrese en paz de los hijos de Amón, será del Señor, y lo ofreceré en holocausto”.
+Jefté se expresó así: «Si en verdad entregas a los hijos de Amón en mi mano, entonces cualquier cosa que salga de las puertas de mi casa a recibirme, cuando regrese en paz de los hijos de Amón, será del Señor, y lo ofreceré en holocausto».
 
 Suponiendo que un asno, un perro o un gato lo hubiera encontrado a su regreso, ¿lo habría sacrificado en holocausto? Dios no permitió que se arriesgara, y la Biblia dice: «Y Jefté llegó a su casa en Mizpa, y he aquí que su hija salía a recibirlo».
 
@@ -396,9 +396,9 @@ Dijo el rabino Simón ben Jochai: "Las peticiones de tres personas fueron conced
 
 “En cuanto a Eleazar, aprendemos: 'Y antes de que él terminara de decir esto, he aquí que Rebeca salió'.
 
-En cuanto a Moisés, encontramos: “Y aconteció que cuando terminó de decir todas estas palabras, la tierra que estaba debajo de ellos se partió, y la tierra abrió su boca y los tragó” (Koraj y compañía).
+En cuanto a Moisés, encontramos: «Y aconteció que cuando terminó de decir todas estas palabras, la tierra que estaba debajo de ellos se partió, y la tierra abrió su boca y los tragó» (Koraj y compañía).
 
-“En cuanto a Salomón, encontramos: 'Y justo cuando Salomón terminó de orar, descendió un fuego'”, etc.
+«En cuanto a Salomón, encontramos: 'Y justo cuando Salomón terminó de orar, descendió un fuego'», etc.
 
 ---
 
@@ -414,7 +414,7 @@ Al rabino Ismael, hijo de Josué, le preguntaron: "¿Cómo se hicieron tan ricos
 
 <span id="p310">[<sup><small>pág. 310</small></sup>]</span>
 
-El rabino Achiya, hijo de Abah, dijo: «Una vez estuve de paso en Ludik y fui agasajado por un hombre adinerado el día de reposo. La mesa estaba servida con un banquete suntuoso, y los platos eran de plata y oro. Antes de bendecir la comida, el dueño de la casa dijo: «Del Señor es la tierra con todo lo que contiene». Después de la bendición, dijo: «Los cielos son los cielos del Señor, pero la tierra la ha dado a los hijos de los hombres». Le dije a mi anfitrión: «Confío en que me disculpará, mi querido señor, si me tomo la libertad de preguntarle cómo ha merecido esta prosperidad». Respondió: «Antes era carnicero y siempre seleccionaba el mejor ganado para matarlo el día de reposo, para que la gente tuviera la mejor carne ese día. A esto, creo firmemente, debo mi prosperidad». Respondí: “Bendito sea el Señor, que te ha dado todo esto”.
+El rabino Achiya, hijo de Abah, dijo: «Una vez estuve de paso en Ludik y fui agasajado por un hombre adinerado el día de reposo. La mesa estaba servida con un banquete suntuoso, y los platos eran de plata y oro. Antes de bendecir la comida, el dueño de la casa dijo: «Del Señor es la tierra con todo lo que contiene». Después de la bendición, dijo: «Los cielos son los cielos del Señor, pero la tierra la ha dado a los hijos de los hombres». Le dije a mi anfitrión: «Confío en que me disculpará, mi querido señor, si me tomo la libertad de preguntarle cómo ha merecido esta prosperidad». Respondió: «Antes era carnicero y siempre seleccionaba el mejor ganado para matarlo el día de reposo, para que la gente tuviera la mejor carne ese día. A esto, creo firmemente, debo mi prosperidad». Respondí: «Bendito sea el Señor, que te ha dado todo esto».
 
 El gobernador Turnusrupis le preguntó una vez al rabino Akiba: "¿Qué día es este que llamas Shabat más que cualquier otro día?". El rabino respondió: "¿Qué eres tú más que cualquier otra persona?". "Soy superior a los demás", respondió, "porque el emperador me ha nombrado gobernador sobre ellos".
 
@@ -424,9 +424,9 @@ Cuando un hombre sale de la sinagoga para ir a su casa, un ángel del bien y un 
 
 Que el próximo sábado y todos tus sábados sean así. Paz a esta morada, paz; y el ángel del mal se ve obligado a decir: «¡Amén!».
 
-Pero si la casa no está preparada, si no se han hecho preparativos para recibir el sábado, si ningún corazón dentro de la morada ha cantado: “Ven, amado mío, a recibir a la novia; recibamos la presencia del sábado”; entonces el ángel del mal habla y dice:
+Pero si la casa no está preparada, si no se han hecho preparativos para recibir el sábado, si ningún corazón dentro de la morada ha cantado: «Ven, amado mío, a recibir a la novia; recibamos la presencia del sábado»; entonces el ángel del mal habla y dice:
 
-“Que todos tus sábados sean así”; y el ángel de la bondad, llorando, responde: “¡Amén!”
+«Que todos tus sábados sean así»; y el ángel de la bondad, llorando, responde: «¡Amén!»
 
 <span id="p311">[<sup><small>pág. 311</small></sup>]</span>
 
@@ -440,7 +440,7 @@ José enterró a su padre. «Y José subió a enterrar a su padre». No había n
 
 ---
 
-Cuando los problemas y el dolor llegan a ser la porción de Israel, y los de corazón débil se separan de su pueblo, dos ángeles ponen sus manos sobre la cabeza de aquel que se retira, diciendo: “Este no verá el consuelo de la congregación”.
+Cuando los problemas y el dolor llegan a ser la porción de Israel, y los de corazón débil se separan de su pueblo, dos ángeles ponen sus manos sobre la cabeza de aquel que se retira, diciendo: «Este no verá el consuelo de la congregación».
 
 Cuando la congregación se ve afectada por problemas, no es correcto decir: «Me iré a casa; comeré y beberé; y todo estará en paz». De esta persona habla el libro sagrado, diciendo: «Y he aquí, hay alegría y gozo; matanza de bueyes y ovejas; comer carne y beber vino. 'Comamos y bebamos, porque mañana moriremos'. Y el Señor de los Ejércitos me reveló a mis oídos: «Ciertamente, la iniquidad no les será perdonada hasta que mueran».
 
@@ -466,13 +466,13 @@ Así también el hombre: pobre y desnudo entra al mundo, pobre y desnudo sale.
 
 Alejandro se dirigió a las puertas del Paraíso y llamó para entrar.
 
-“¿Quién llama?” preguntó el ángel guardián.
+«¿Quién llama?» preguntó el ángel guardián.
 
 "Alejandro."
 
-“¿Quién es Alejandro?”
+«¿Quién es Alejandro?»
 
-“Alejandro, el Alejandro, Alejandro Magno, el conquistador del mundo”.
+«Alejandro, el Alejandro, Alejandro Magno, el conquistador del mundo».
 
 «No lo conocemos», respondió el ángel; «ésta es la puerta del Señor; sólo los justos entran por aquí».
 
@@ -486,7 +486,7 @@ Cuando muere el justo, es la tierra la que sufre la pérdida. La joya siempre se
 
 La vida es una sombra pasajera, dicen las Escrituras. ¿La sombra de una torre o de un árbol; la sombra que prevalece por un tiempo? No; como la sombra de un pájaro en su vuelo, desaparece de nuestra vista, y ni el pájaro ni la sombra permanecen.
 
-“Mi amado desciende a su jardín, a los erales de los aromas, para vagar por el jardín y coger rosas” (Cantar de los Cantares).
+«Mi amado desciende a su jardín, a los erales de los aromas, para vagar por el jardín y coger rosas» (Cantar de los Cantares).
 
 El mundo es el jardín de mi amado, y él, mi amado, es el Rey de reyes. Como un lecho de fragantes especias es Israel, el dulce aroma de la piedad asciende a lo alto, el perfume del conocimiento perdura en la brisa pasajera, y el lecho de belleza está rodeado de una suave paz. Las plantas florecen y echan hojas, hojas que dan grato refugio a quienes sufren los calores y las decepciones de la vida, y mi amado, buscando la flor más hermosa, arranca las rosas, los estudiantes de la ley, cuya fe es su deleite.
 
@@ -510,17 +510,17 @@ En una ocasión, mientras el rabino Gamliel, el rabino Eleazar, hijo de Azaria, 
 
 «Akiba», le dijeron los demás, «¿por qué te ríes? Estos paganos que adoran ídolos viven en paz y son felices, mientras nuestra ciudad santa yace en ruinas; llora, no te rías».
 
-“Por eso mismo me río y me alegro”, respondió el rabino Akiba. “Si Dios permite que quienes transgreden su voluntad vivan felices en la tierra, ¡cuán infinitamente grande debe ser la felicidad que Él ha reservado en el mundo venidero para quienes observan sus mandamientos!”
+«Por eso mismo me río y me alegro», respondió el rabino Akiba. «Si Dios permite que quienes transgreden su voluntad vivan felices en la tierra, ¡cuán infinitamente grande debe ser la felicidad que Él ha reservado en el mundo venidero para quienes observan sus mandamientos!»
 
 En otra ocasión, estos mismos rabinos subieron a Jerusalén. Al llegar al Monte Zofim y ver la desolación que los rodeaba, rasgaron sus vestiduras, y al llegar al lugar donde antes se alzaba el Templo y ver un zorro salir corriendo del mismo lugar del Sanctasanctórum, cuatro de ellos lloraron amargamente; pero de nuevo el rabino Akiba se mostró alegre. Sus compañeros lo reprendieron de nuevo por este estado de ánimo, para ellos indecoroso.
 
-“Me preguntáis por qué estoy alegre”, dijo él; “vamos, decidme ¿por qué lloráis?”
+«Me preguntáis por qué estoy alegre», dijo él; «vamos, decidme ¿por qué lloráis?»
 
 <span id="p316">[<sup><small>pág. 316</small></sup>]</span>
 
 Porque la Biblia nos dice que un extraño (que no sea descendiente de Aarón) que se acerque al Lugar Santísimo será condenado a muerte, y ahora, he aquí, las zorras lo han convertido en su morada. ¿Por qué no deberíamos llorar?
 
-“Lloráis”, respondió Akiba, “por la misma razón que alegra mi corazón. ¿No está escrito: “Y testificadme, testigos fieles, el sacerdote Urías y Zacarías, hijo de Berequías”? Ahora bien, ¿qué tiene que ver Urías con Zacarías? Urías vivió durante la existencia del primer Templo, y Zacarías durante el segundo. ¿Acaso no sabéis que la profecía de Urías se compara con la profecía de Zacarías? De la profecía de Urías encontramos: “Por tanto, por amor a vosotros, Sión será arada como un campo, y Jerusalén será una desolación, y el monte de Sión será como un bosque”; y en Zacarías encontramos: “Se sentarán, ancianos y ancianas, en las calles de Jerusalén”. Antes de que se cumpliera la profecía de Urías, yo podría haber dudado de la verdad de las palabras consoladoras de Zacarías; pero ahora que se ha cumplido, me siento seguro de que las promesas a Zacarías también se cumplirán; por lo tanto, estoy contento.
+«Lloráis», respondió Akiba, «por la misma razón que alegra mi corazón. ¿No está escrito: “Y testificadme, testigos fieles, el sacerdote Urías y Zacarías, hijo de Berequías»? Ahora bien, ¿qué tiene que ver Urías con Zacarías? Urías vivió durante la existencia del primer Templo, y Zacarías durante el segundo. ¿Acaso no sabéis que la profecía de Urías se compara con la profecía de Zacarías? De la profecía de Urías encontramos: «Por tanto, por amor a vosotros, Sión será arada como un campo, y Jerusalén será una desolación, y el monte de Sión será como un bosque»; y en Zacarías encontramos: «Se sentarán, ancianos y ancianas, en las calles de Jerusalén». Antes de que se cumpliera la profecía de Urías, yo podría haber dudado de la verdad de las palabras consoladoras de Zacarías; pero ahora que se ha cumplido, me siento seguro de que las promesas a Zacarías también se cumplirán; por lo tanto, estoy contento.
 
 —Tus palabras nos reconfortan, Akiba —respondieron sus compañeros—. Que Dios siempre nos consuele.
 
@@ -532,9 +532,9 @@ Mientras el rabino Eleazar estaba enfermo, los cuatro ancianos, el rabino Tarfó
 
 <span id="p317">[<sup><small>pág. 317</small></sup>]</span>
 
-“Tú eres mejor para Israel que las gotas de lluvia para la tierra, o las gotas de lluvia son sólo para este mundo, mientras que tú, mi maestro, has ayudado a la maduración del fruto para este mundo y el próximo”, dijo el rabino Tarfón.
+«Tú eres mejor para Israel que las gotas de lluvia para la tierra, o las gotas de lluvia son sólo para este mundo, mientras que tú, mi maestro, has ayudado a la maduración del fruto para este mundo y el próximo», dijo el rabino Tarfón.
 
-“Tú eres mejor para Israel que el sol, porque el sol es sólo para este mundo; tú has dado luz para este mundo y el próximo”, dijo el rabino Joshua.
+«Tú eres mejor para Israel que el sol, porque el sol es sólo para este mundo; tú has dado luz para este mundo y el próximo», dijo el rabino Joshua.
 
 Entonces habló Rabí Eleazar, hijo de Azoria:
 
@@ -542,11 +542,11 @@ Entonces habló Rabí Eleazar, hijo de Azoria:
 
 Entonces dijo el rabino Akiba:
 
-“Es bueno que el hombre sea afligido, porque sus angustias expían sus pecados”.
+«Es bueno que el hombre sea afligido, porque sus angustias expían sus pecados».
 
-“¿La Biblia hace tal afirmación, Akiba?”, preguntó su maestro.
+«¿La Biblia hace tal afirmación, Akiba?», preguntó su maestro.
 
-“Sí”, respondió Akiba. "Manasés tenía doce años cuando ascendió al trono, y cincuenta y cinco años reinó en Jerusalén, e hizo lo que maldecía al Señor" (Reyes). Ahora bien, ¿cómo fue esto? ¿Acaso Ezequías enseñó la ley al mundo entero y no a su hijo Manasés? Ciertamente no; pero Manasés no hizo caso de sus preceptos y descuidó la palabra de Dios hasta que sufrió dolores corporales, como está escrito: "Y el Señor habló a Manasés y a su pueblo, pero no escucharon, por lo que el Señor trajo sobre ellos a los capitanes de los ejércitos pertenecientes al rey de Asiria, y tomaron a Manasés prisionero con cadenas, lo ataron con grilletes y lo llevaron a Babilonia; y cuando estuvo en apuros, suplicó al Señor su Dios, y se humilló grandemente ante el Dios de sus padres. Y le oró, y se dejó suplicar por él y escuchó sus ruegos". súplica, y lo trajo de vuelta a Jerusalén, a su reino. Entonces Manasés sintió que el Señor es verdaderamente el Dios verdadero.
+«Sí», respondió Akiba. "Manasés tenía doce años cuando ascendió al trono, y cincuenta y cinco años reinó en Jerusalén, e hizo lo que maldecía al Señor" (Reyes). Ahora bien, ¿cómo fue esto? ¿Acaso Ezequías enseñó la ley al mundo entero y no a su hijo Manasés? Ciertamente no; pero Manasés no hizo caso de sus preceptos y descuidó la palabra de Dios hasta que sufrió dolores corporales, como está escrito: "Y el Señor habló a Manasés y a su pueblo, pero no escucharon, por lo que el Señor trajo sobre ellos a los capitanes de los ejércitos pertenecientes al rey de Asiria, y tomaron a Manasés prisionero con cadenas, lo ataron con grilletes y lo llevaron a Babilonia; y cuando estuvo en apuros, suplicó al Señor su Dios, y se humilló grandemente ante el Dios de sus padres. Y le oró, y se dejó suplicar por él y escuchó sus ruegos". súplica, y lo trajo de vuelta a Jerusalén, a su reino. Entonces Manasés sintió que el Señor es verdaderamente el Dios verdadero.
 
 Ahora bien, ¿qué le hizo el rey de Asiria a Manasés? Lo metió en un barril de cobre y encendió fuego debajo, y mientras soportaba una gran tortura física, Manasés sufría aún más tortura mental. "¿Debo invocar al Todopoderoso?", pensó. "¡Ay! Su ira arde contra mí. Invocar a mis ídolos es invocar en vano; ¡ay, ay, qué esperanza me queda!".
 
@@ -554,19 +554,19 @@ Oró al mayor de sus ídolos y esperó en vano una respuesta. Llamó a los diose
 
 ¡Oh Eterno! Dios de Abraham, Isaac y Jacob, y sus descendientes, los cielos y la tierra son obra de tu mano. Diste al mar una orilla, controlando con una palabra el poder del abismo. Eres misericordioso como eres grande, y has prometido aceptar el arrepentimiento de quienes regresan a ti con corazón recto. Tan numerosos son mis pecados como la arena que cubre la orilla del mar. He obrado mal ante ti, cometiendo abominaciones en tu presencia y actuando con maldad. Atado con grilletes, vengo ante ti, y de rodillas te suplico, en nombre de tus grandes atributos de misericordia, que te compadezcas de mi sufrimiento y mi angustia. Perdóname, oh Señor, perdóname. No me destruyas por completo a causa de mis transgresiones. No permitas que mi castigo continúe eternamente. Aunque soy indigno de tu bondad, oh Señor, sálvame en tu misericordia. De ahora en adelante alabaré tu nombre todos los días de mi vida, por todo Tus criaturas se deleitan en alabarte, y a Ti pertenecen la grandeza y la bondad por los siglos de los siglos, ¡Selah!'”
 
-Dios escuchó esta oración, tal como está escrito: “Y se dejó rogar por él y lo trajo de regreso a Jerusalén, a su reino”.
+Dios escuchó esta oración, tal como está escrito: «Y se dejó rogar por él y lo trajo de regreso a Jerusalén, a su reino».
 
-“De lo cual podemos aprender”, continuó Akiba, “que la aflicción es una expiación por el pecado”.
+«De lo cual podemos aprender», continuó Akiba, «que la aflicción es una expiación por el pecado».
 
 ---
 
-Dijo el gran rabino Eleazar: “Está ordenado: Amarás al Señor tu Dios con toda tu alma y con todo lo que amas”.
+Dijo el gran rabino Eleazar: «Está ordenado: Amarás al Señor tu Dios con toda tu alma y con todo lo que amas».
 
 “¿‘Con toda tu alma’ no incluye ‘con todo lo que amas’?
 
-“Hay quienes se aman a sí mismos más que a su dinero; a ellos se les dice: 'con toda tu alma'; mientras que para quienes aman su dinero más que a sí mismos, el mandamiento dice: 'con todo lo que amas'”.
+«Hay quienes se aman a sí mismos más que a su dinero; a ellos se les dice: 'con toda tu alma'; mientras que para quienes aman su dinero más que a sí mismos, el mandamiento dice: 'con todo lo que amas'».
 
-Pero el Rabino Akiba siempre explicó las palabras “con toda tu alma” en el sentido de “aunque te sea exigida la vida”.
+Pero el Rabino Akiba siempre explicó las palabras «con toda tu alma» en el sentido de «aunque te sea exigida la vida».
 
 Cuando se emitió el decreto que prohibía a los israelitas estudiar la ley, ¿qué hizo el rabino Akiba?
 
@@ -584,7 +584,7 @@ Entonces Papus, hijo de Judá, le dijo:
 
 Pero los peces se rieron.
 
-“¿Y te llaman la más sabia de las bestias?”, exclamaron; “en verdad, eres la más insensata. Si estamos en peligro incluso en nuestro elemento, ¿cuánto mayor sería nuestro riesgo al salir de él?”.
+«¿Y te llaman la más sabia de las bestias?», exclamaron; «en verdad, eres la más insensata. Si estamos en peligro incluso en nuestro elemento, ¿cuánto mayor sería nuestro riesgo al salir de él?».
 
 Lo mismo nos ocurre a nosotros. Se nos dice que la ley es «nuestra vida y la prolongación de nuestros días». Esto es así cuando estamos en paz; ¿cuánto más la necesitamos entonces en tiempos como estos?
 
@@ -596,7 +596,7 @@ Papus, ¿qué te trajo aquí?
 
 Y Papus respondió:
 
-“Gozo, gozo para ti, que estás preso por estudiar la ley de Dios; pero ay, ay para mí, que estoy aquí por vanidad.”
+«Gozo, gozo para ti, que estás preso por estudiar la ley de Dios; pero ay, ay para mí, que estoy aquí por vanidad.»
 
 Cuando llevaron al Rabino Akiba a la ejecución, fue justo en el momento del servicio de la mañana.
 
@@ -604,7 +604,7 @@ Cuando llevaron al Rabino Akiba a la ejecución, fue justo en el momento del ser
 
 «¡Escucha, Israel! El Señor nuestro Dios, el Señor uno es», exclamó con voz fuerte y firme.
 
-Los torturadores le desgarraron la carne con cartas puntiagudas, pero él seguía repitiendo: “El Señor es uno”.
+Los torturadores le desgarraron la carne con cartas puntiagudas, pero él seguía repitiendo: «El Señor es uno».
 
 Siempre dije —continuó— que «con toda tu alma» significaba incluso si te exigieran la vida, y me preguntaba si alguna vez podría cumplirlo. Ahora, mira, hoy lo hago: «El Señor es uno».
 
@@ -616,31 +616,31 @@ Elishah ben Abuyah, un hombre erudito, se convirtió en apóstata en la vida pos
 
 Sucedió en una ocasión en que el rabino Meir estaba dando una conferencia en la universidad, que algunos estudiantes entraron y le dijeron:
 
-“Tu maestro, Eliseo, está cabalgando en este santo día de reposo”.
+«Tu maestro, Eliseo, está cabalgando en este santo día de reposo».
 
 El rabino Meir salió de la universidad, y alcanzando a Elishah, comenzó a caminar al lado de su caballo.
 
 Este último lo saludó y le preguntó:
 
-“¿Qué pasaje de la Escritura has estado explicando?”
+«¿Qué pasaje de la Escritura has estado explicando?»
 
 —Del libro de Job —respondió el rabino Meir—. «El Señor bendijo los últimos días de Job más que los primeros».
 
-“¿Y cómo explicaste el versículo?” dijo Eliseo.
+«¿Y cómo explicaste el versículo?» dijo Eliseo.
 
-“Que el Señor duplicó sus riquezas.”
+«Que el Señor duplicó sus riquezas.»
 
 —Pero tu maestro, Akiba, no dijo eso —respondió Eliseo—. Dijo que el Señor bendijo los últimos días de Job con el doble de arrepentimiento y buenas obras.
 
-“¿Cómo —preguntó el rabino Meir— explicarías el versículo: “Mejor es el fin de un asunto que su principio”? Si un hombre compra mercancías en su juventud y sufre pérdidas, ¿es probable que recupere su fortuna en la vejez? O, si una persona estudia la ley de Dios en su juventud y la olvida, ¿es probable que la recuerde en su vejez?”
+«¿Cómo —preguntó el rabino Meir— explicarías el versículo: “Mejor es el fin de un asunto que su principio»? Si un hombre compra mercancías en su juventud y sufre pérdidas, ¿es probable que recupere su fortuna en la vejez? O, si una persona estudia la ley de Dios en su juventud y la olvida, ¿es probable que la recuerde en su vejez?”
 
-“Tu maestro, Akiba, no dijo eso”, respondió Elishah; “explicó el versículo: ‘Mejor es el fin de las cosas cuando <span id="p321">[<sup><small>p. 321</small></sup>]</span> el principio fue bueno’. Mi propia vida demuestra la solidez de esta explicación. El día en que fui admitido en el pacto de Abraham, mi padre ofreció un gran banquete. Algunos de sus visitantes cantaron, otros bailaron, pero los rabinos conversaron sobre la sabiduría de Dios y sus leyes. Esto último agradó a mi padre, Abuyah, quien dijo: ‘Cuando mi hijo crezca, le enseñaréis y será como vosotros; él no me hizo estudiar por amor a Dios, sino solo para darme a conocer. Por lo tanto, en mis últimos días me he vuelto malvado y apóstata; y ahora, regresa a casa’”.
+«Tu maestro, Akiba, no dijo eso», respondió Elishah; «explicó el versículo: ‘Mejor es el fin de las cosas cuando <span id="p321">[<sup><small>p. 321</small></sup>]</span> el principio fue bueno’. Mi propia vida demuestra la solidez de esta explicación. El día en que fui admitido en el pacto de Abraham, mi padre ofreció un gran banquete. Algunos de sus visitantes cantaron, otros bailaron, pero los rabinos conversaron sobre la sabiduría de Dios y sus leyes. Esto último agradó a mi padre, Abuyah, quien dijo: ‘Cuando mi hijo crezca, le enseñaréis y será como vosotros; él no me hizo estudiar por amor a Dios, sino solo para darme a conocer. Por lo tanto, en mis últimos días me he vuelto malvado y apóstata; y ahora, regresa a casa’».
 
-“¿Y por qué?”
+«¿Y por qué?»
 
-“Porque en día de reposo se te permite ir hasta cierto punto y no más allá, y he calculado la distancia que has recorrido conmigo según las huellas de mi caballo.”
+«Porque en día de reposo se te permite ir hasta cierto punto y no más allá, y he calculado la distancia que has recorrido conmigo según las huellas de mi caballo.»
 
-“Si eres tan sabio”, dijo el rabino Meir, “como para calcular la distancia que puedo recorrer siguiendo las huellas de tu caballo, y eres tan particular por mi bien, ¿por qué no regresas a Dios y te arrepientes de tu apostasía?”
+«Si eres tan sabio», dijo el rabino Meir, «como para calcular la distancia que puedo recorrer siguiendo las huellas de tu caballo, y eres tan particular por mi bien, ¿por qué no regresas a Dios y te arrepientes de tu apostasía?»
 
 Eliseo respondió:
 
@@ -660,7 +660,7 @@ Entonces Eliseo dijo: «Si una lengua que solo dice la verdad se usa así, y un 
 
 Cuando Eliseo envejeció, enfermó, y el rabino Meir, al enterarse de la enfermedad de su anciano maestro, lo visitó.
 
-“¡Oh, regresa, regresa a tu Dios!”, suplicó el rabino Meir.
+«¡Oh, regresa, regresa a tu Dios!», suplicó el rabino Meir.
 
 —¡Qué! —exclamó Eliseo—. ¡Regresa! ¿Y podría Él aceptar mi arrepentimiento, el arrepentimiento de un apóstata que se ha rebelado contra Él?
 
@@ -680,7 +680,7 @@ Judá ben Gerim repitió estas palabras a sus amigos, y finalmente llegaron a o�
 
 Este último, con su hijo, huyó y se ocultó en la universidad al enterarse de este fiat. Durante un tiempo permaneció allí relativamente seguro, con su esposa llevándole la comida a diario. Pero cuando los oficiales recibieron instrucciones de realizar un registro minucioso, temió que, por indiscreción de su esposa, se descubriera su escondite.
 
-“La mente de la mujer es débil e inestable”, dijo él, “quizás la interroguen y la confundan, y así pueda llegarme la muerte”.
+«La mente de la mujer es débil e inestable», dijo él, «quizás la interroguen y la confundan, y así pueda llegarme la muerte».
 
 Así que, al salir de la ciudad, Simón y su hijo se refugiaron en una cueva solitaria. Cerca de su entrada crecían árboles frutales que les proporcionaban alimento, y un manantial de agua pura brotaba de las rocas cercanas. Durante trece años, el rabino Simón vivió allí, hasta que el emperador murió y sus decretos fueron revocados. Entonces regresó a la ciudad.
 
@@ -696,7 +696,7 @@ No es así; qué suerte que me encuentres en esta condición, pues no me encuent
 
 Antonino, conversando con el rabino Judah, le dijo:
 
-“En el mundo futuro, cuando el alma comparezca ante el Creador Todopoderoso para ser juzgada, ¿no podrá encontrar una excusa para la maldad mundana diciendo: “Mira, el pecado es del cuerpo; ahora estoy libre del cuerpo; los pecados no fueron míos”?”
+«En el mundo futuro, cuando el alma comparezca ante el Creador Todopoderoso para ser juzgada, ¿no podrá encontrar una excusa para la maldad mundana diciendo: “Mira, el pecado es del cuerpo; ahora estoy libre del cuerpo; los pecados no fueron míos»?”
 
 Rabí Judá respondió: «Déjame contarte una parábola. Un rey tenía un huerto de higos finos, que apreciaba muchísimo. Para que no robaran ni maltrataran la fruta, puso a dos vigilantes en el huerto, y para que ellos mismos no se sintieran tentados a comerla, escogió a uno de ellos, un ciego, y al otro, un cojo. Pero he aquí que, estando en el huerto, el cojo le dijo a su compañero: «Veo higos muy finos; son deliciosos y tentadores; llévame al árbol para que ambos podamos comerlos».
 
@@ -710,37 +710,37 @@ Entonces el ciego llevó al cojo, y comieron de los higos.
 
 “Y el cojo respondió:—
 
-“'Tampoco podía robarlos; no podía acercarme al árbol.'”
+«'Tampoco podía robarlos; no podía acercarme al árbol.'»
 
 “Pero el rey era sabio y respondió:
 
-“Mira, los ciegos llevaban a los cojos”, y los castigó como corresponde.
+«Mira, los ciegos llevaban a los cojos», y los castigó como corresponde.
 
 Así es con nosotros. El mundo es el huerto donde el Rey Eterno nos ha puesto para vigilar y proteger, para cultivar su tierra y cuidar sus frutos. Pero el alma y el cuerpo son el hombre; si uno viola los preceptos, también lo hace el otro, y después de la muerte el alma no podrá decir: «Es culpa del cuerpo al que estaba ligada que cometí pecados»; no, Dios hará lo mismo que el dueño del huerto, como está escrito:
 
-“'Él llamará desde los cielos arriba y a la tierra para juzgar a su pueblo.'”
+«'Él llamará desde los cielos arriba y a la tierra para juzgar a su pueblo.'»
 
-“Él llamará desde el ‘cielo arriba’, que es el alma, y ​​a la ‘tierra abajo’, que es el cuerpo, mezclándose con el polvo de donde surgió.”
+«Él llamará desde el ‘cielo arriba’, que es el alma, y ​​a la ‘tierra abajo’, que es el cuerpo, mezclándose con el polvo de donde surgió.»
 
-Un pagano le dijo al rabino Joshua: “¿Crees que Dios conoce el futuro?”
+Un pagano le dijo al rabino Joshua: «¿Crees que Dios conoce el futuro?»
 
-“Sí”, respondió el rabino.
+«Sí», respondió el rabino.
 
-“Entonces”, dijo el interrogador, “¿por qué está escrito: “El Señor dijo: Destruiré todo lo que he creado, porque me arrepiento de haberlo hecho”? ¿No previó el Señor que el hombre se corrompería?”
+«Entonces», dijo el interrogador, «¿por qué está escrito: “El Señor dijo: Destruiré todo lo que he creado, porque me arrepiento de haberlo hecho»? ¿No previó el Señor que el hombre se corrompería?”
 
-Entonces dijo Rabí Josué: “¿Tienes hijos?”
+Entonces dijo Rabí Josué: «¿Tienes hijos?»
 
-“Sí”, fue la respuesta.
+«Sí», fue la respuesta.
 
-“Cuando nació el niño, ¿qué hiciste?”
+«Cuando nació el niño, ¿qué hiciste?»
 
-“Hice una gran fiesta.”
+«Hice una gran fiesta.»
 
 ¿Por qué te alegraste? ¿No sabes que deben morir?
 
-“Sí, eso es verdad; pero en el momento de disfrutar no pienso en el futuro”.
+«Sí, eso es verdad; pero en el momento de disfrutar no pienso en el futuro».
 
-“Así fue con Dios”, dijo el rabino Joshua. “Él sabía que los hombres pecarían; sin embargo, ese conocimiento no impidió que se cumpliera su propósito benéfico de crearlos”.
+«Así fue con Dios», dijo el rabino Joshua. «Él sabía que los hombres pecarían; sin embargo, ese conocimiento no impidió que se cumpliera su propósito benéfico de crearlos».
 
 Uno de los emperadores le dijo a Rabón Gamliel:
 
@@ -758,13 +758,13 @@ El rabino Joshua, de Saknin, dijo en nombre del rabino Levi: «El Señor conside
 
 Los eruditos del rabino Simón ben Jochai una vez le preguntaron:
 
-“¿Por qué el Señor no dio a Israel suficiente maná para que les bastara durante un año, de una sola vez, en lugar de dárselo diariamente?”
+«¿Por qué el Señor no dio a Israel suficiente maná para que les bastara durante un año, de una sola vez, en lugar de dárselo diariamente?»
 
 El rabino respondió:
 
 Les responderé con una parábola. Había una vez un rey que tenía un hijo al que le daba una pensión anual, pagándole la suma total para su manutención en un día determinado. Pronto sucedió que ese día, en el que debía pagarse la pensión, era el único día del año en que el padre veía a su hijo. Así que el rey cambió de plan y le dio a su hijo cada día la manutención de ese día únicamente, y luego el hijo visitaba a su padre con la salida del sol.
 
-“Así sucedió con Israel: cada padre de familia, que dependía del maná que Dios le proveía cada día para su sustento y el de su familia, tenía su mente dedicada al Gran Dador y Sustentador de la vida.”
+«Así sucedió con Israel: cada padre de familia, que dependía del maná que Dios le proveía cada día para su sustento y el de su familia, tenía su mente dedicada al Gran Dador y Sustentador de la vida.»
 
 Cuando Rabí Eleazar estaba enfermo, sus discípulos lo visitaron y le dijeron: «Rabí, enséñanos el camino de la vida, para que heredemos la eternidad».
 
@@ -782,11 +782,11 @@ Los eruditos de Rabí Johanan, hijo de Zakai, le hicieron esta pregunta a su mae
 
 ¿Por qué, según la ley, el castigo de un salteador de caminos no es tan severo como el de un ladrón? Según la ley mosaica, si alguien roba un buey o una oveja, y lo mata o lo vende, debe devolver cinco bueyes por el buey y cuatro ovejas por la oveja; pero para el salteador de caminos encontramos: «Cuando haya pecado y sea consciente de su culpa, restituirá lo que haya robado violentamente; lo restituirá con su parte principal, y añadirá la quinta parte». Por lo tanto, quien comete un robo en un camino paga como castigo una quinta parte de la misma, mientras que un ladrón de caminos está obligado a devolver cinco bueyes por un buey y cuatro ovejas por una oveja. ¿A qué se debe esto?
 
-“Porque”, respondió el maestro, “el salteador de caminos trata al sirviente como a su amo. Robó con violencia en presencia del sirviente, del despojado y del amo, Dios. Pero el ladrón furtivo se imagina que Dios no lo ve. Actúa en secreto, pensando, como dice el salmista: “El Señor no ve, ni el Dios de Jacob lo tendrá en cuenta”. Escuchen una parábola. Dos hombres organizaron un banquete. Uno invitó a todos los habitantes de la ciudad y omitió invitar al rey. El otro no invitó ni al rey ni a sus súbditos. ¿Cuál merece la condenación? Sin duda, el que invitó a los súbditos y no al rey. Los habitantes de la tierra son súbditos de Dios. El ladrón furtivo teme a sus ojos, pero no honra la mirada del rey, la mirada de Dios, que vigila todas sus acciones”.
+«Porque», respondió el maestro, «el salteador de caminos trata al sirviente como a su amo. Robó con violencia en presencia del sirviente, del despojado y del amo, Dios. Pero el ladrón furtivo se imagina que Dios no lo ve. Actúa en secreto, pensando, como dice el salmista: “El Señor no ve, ni el Dios de Jacob lo tendrá en cuenta». Escuchen una parábola. Dos hombres organizaron un banquete. Uno invitó a todos los habitantes de la ciudad y omitió invitar al rey. El otro no invitó ni al rey ni a sus súbditos. ¿Cuál merece la condenación? Sin duda, el que invitó a los súbditos y no al rey. Los habitantes de la tierra son súbditos de Dios. El ladrón furtivo teme a sus ojos, pero no honra la mirada del rey, la mirada de Dios, que vigila todas sus acciones”.
 
 El rabino Meir dice: «Esta ley nos enseña cómo Dios considera la laboriosidad. Si alguien roba un buey, debe devolver cinco en su lugar, porque mientras el animal estuvo en su posesión ilícita no podía trabajar para su legítimo dueño. Un cordero, en cambio, no trabaja, y por lo tanto no es rentable; por lo tanto, solo está obligado a reponerlo cuatro veces».
 
-El rabino Najman cenó con su maestro, el rabino Yitzchak, y al despedirse después de la comida, dijo: “Maestro, ¡bendíceme!”.
+El rabino Najman cenó con su maestro, el rabino Yitzchak, y al despedirse después de la comida, dijo: «Maestro, ¡bendíceme!».
 
 «Escucha», respondió el rabino Yitzchak. Un viajero recorría el desierto y, cansado, hambriento y sediento, se topó con un oasis donde crecía un árbol fructífero de amplias ramas, al pie del cual brotaba un manantial de agua clara y fresca.
 
@@ -802,11 +802,11 @@ Un hombre sabio, dicen los rabinos, fue Gebiah ben Pesisah. Cuando los hijos de 
 
 Dijo Gebiah a los africanos: «Traen su prueba del Pentateuco, y por el Pentateuco la refutaré. 'Maldito sea Canaán; siervo de siervos será para sus hermanos'. ¿A quién pertenece la propiedad de un esclavo? A su amo. Aunque la tierra les pertenecía, por su servidumbre pasó a ser de Israel».
 
-“Respóndele”, dijo el gobernante.
+«Respóndele», dijo el gobernante.
 
 Los acusadores pidieron tres días para preparar su respuesta, pero al cabo de los tres días habían desaparecido.
 
-Entonces vinieron los egipcios, diciendo: «“Dios concedió a los israelitas su favor ante los egipcios, y les prestaron oro y plata”. Ahora, devuélvannos el oro y la plata que les prestaron nuestros antepasados».
+Entonces vinieron los egipcios, diciendo: ««Dios concedió a los israelitas su favor ante los egipcios, y les prestaron oro y plata». Ahora, devuélvannos el oro y la plata que les prestaron nuestros antepasados».
 
 Nuevamente Gebiah apareció ante los sabios de Israel.
 

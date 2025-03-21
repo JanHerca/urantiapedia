@@ -42,11 +42,11 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. En el caso de un hombre que demandó a su vecino por unas tinajas de aceite, y el demandado admitió que le debía las tinajas, pero negó deberle el aceite, Admón decidió: «Como admite parcialmente la demanda, debe prestar juramento». Los sabios dijeron: «Esto no es una admisión, pues difiere de la demanda». [960] Rabbon Gamaliel dijo: «Apruebo la decisión de Admón».
 
-§ 5. En el caso de un hombre que se compromete a dar cierta cantidad de dinero a su futuro yerno como dote matrimonial para su hija, y luego le muestra la pierna, la regla es que el esposo puede dejarla sentada hasta que se le pongan canas. Admón decidió: «Tiene derecho a decir: “Si hubiera contraído este compromiso por mí mismo y te hubiera engañado, debería quedarme abandonada hasta que se me pongan canas; pero como es mi padre quien se comprometió por mí, ¿qué puedo hacer? O me aceptas como tu esposa o me liberas de mi obligación matrimonial mediante el divorcio”. Rabón Gamaliel dijo: “Apruebo la decisión de Admón”.
+§ 5. En el caso de un hombre que se compromete a dar cierta cantidad de dinero a su futuro yerno como dote matrimonial para su hija, y luego le muestra la pierna, la regla es que el esposo puede dejarla sentada hasta que se le pongan canas. Admón decidió: «Tiene derecho a decir: «Si hubiera contraído este compromiso por mí mismo y te hubiera engañado, debería quedarme abandonada hasta que se me pongan canas; pero como es mi padre quien se comprometió por mí, ¿qué puedo hacer? O me aceptas como tu esposa o me liberas de mi obligación matrimonial mediante el divorcio». Rabón Gamaliel dijo: «Apruebo la decisión de Admón».
 
-§ 6. \[En el caso de\] un hombre que disputó el título de un campo, [^962] y fue él mismo un testigo firmante, [^963] Admón sostuvo, “Él \[el eyector\] puede alegar '\[Me presento ahora porque\] puedo \[disputar la posesión con\] el segundo \[poseedor\] más fácilmente que el primero, quien era demasiado poderoso para mí.'” [^964] Pero los sabios dicen, “Él \[el eyector\] ha perdido su título \[y derecho al campo\].” [^965] Si hubiera designado [^966] \[el campo en cuestión\] como límite de otro \[campo\], también pierde su derecho y título.”
+§ 6. \[En el caso de\] un hombre que disputó el título de un campo, [^962] y fue él mismo un testigo firmante, [^963] Admón sostuvo, «Él \[el eyector\] puede alegar '\[Me presento ahora porque\] puedo \[disputar la posesión con\] el segundo \[poseedor\] más fácilmente que el primero, quien era demasiado poderoso para mí.'» [^964] Pero los sabios dicen, «Él \[el eyector\] ha perdido su título \[y derecho al campo\].» [^965] Si hubiera designado [^966] \[el campo en cuestión\] como límite de otro \[campo\], también pierde su derecho y título.”
 
-§ 7. \[En el caso de\] un hombre que fue más allá de los mares, y \[durante su ausencia\] pierde el camino \[que conduce a\] su campo, [^967] Admón sostuvo: “Puede tomar un atajo para llegar hasta él”; pero los sabios sostienen: “Debe comprar un camino, aunque le cueste cien maneh, ya que de lo contrario debe volar por el aire [^968] \[para llegar a su campo\]”.
+§ 7. \[En el caso de\] un hombre que fue más allá de los mares, y \[durante su ausencia\] pierde el camino \[que conduce a\] su campo, [^967] Admón sostuvo: «Puede tomar un atajo para llegar hasta él»; pero los sabios sostienen: «Debe comprar un camino, aunque le cueste cien maneh, ya que de lo contrario debe volar por el aire [^968] \[para llegar a su campo\]».
 
 <span id="p277">[<sup><small>pág. 277</small></sup>]</span>
 
@@ -88,9 +88,9 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^960]: 274:1 Lo cual no fue aprobado por todos los sabios, pero algunos obtuvieron fuerza de ley.
 
-[^961]: 274:2 No hasta que ella reclame el monto de su Ketubah, habiendo comprobado que su marido ha muerto; o, según Rambam, no hasta que el marido regrese y suplique: “Te dejé medios suficientes para tu manutención”, cuando ella debe jurar que no lo hizo.
+[^961]: 274:2 No hasta que ella reclame el monto de su Ketubah, habiendo comprobado que su marido ha muerto; o, según Rambam, no hasta que el marido regrese y suplique: «Te dejé medios suficientes para tu manutención», cuando ella debe jurar que no lo hizo.
 
-[^962]: 275:3 Como el marido a su regreso puede decir, “No te solicité ni te autoricé a que me adelantaras dinero para tal propósito, y por lo tanto no me he comprometido a devolverlo”. Sin embargo, si el anticipo se hizo a petición de la mujer, y bajo su promesa de que sería devuelto, el hombre puede demandarla, y ella citar a su marido, quien en ese caso está obligado a devolverlo, a menos que pueda jurar que le dejó medios suficientes para su sustento.
+[^962]: 275:3 Como el marido a su regreso puede decir, «No te solicité ni te autoricé a que me adelantaras dinero para tal propósito, y por lo tanto no me he comprometido a devolverlo». Sin embargo, si el anticipo se hizo a petición de la mujer, y bajo su promesa de que sería devuelto, el hombre puede demandarla, y ella citar a su marido, quien en ese caso está obligado a devolverlo, a menos que pueda jurar que le dejó medios suficientes para su sustento.
 
 [^963]: 275:4 Expresión figurativa, que significa que al arriesgar su dinero en tal adelanto, lo pone en un peligro tan grande como si lo hubiera puesto en las astas de un ciervo, que huye con él sin que él pueda alcanzarlo.
 
@@ -98,7 +98,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^965]: 275:6 Los sabios asumen que la demanda se refiere únicamente al aceite; pues si el demandante hubiera considerado las tinajas como una parte distinta de su reclamación, habría demandado al demandado por «ciertas tinajas que contenían aceite». Y como la demanda se refiere únicamente al aceite, mientras que la admisión se limita a las tinajas, que no forman parte de la demanda del demandante, la decisión de Admón es errónea. R. Gamaliel, sin embargo, coincide con Admón en que «tinajas de aceite» se refiere tanto a las tinajas como al aceite.
 
-[^966]: 275:7 ‏פשט לו את הרגל‎ “le extiende el pie”, un gesto de desprecio, como si dijera, p. 276: “Saca tu dote del polvo de mi zapato”. Rambam explica: “Si después de la boda el padre huye a un país lejano”, según esta exposición, la frase del texto diría: “le da fianza”.
+[^966]: 275:7 ‏פשט לו את הרגל‎ «le extiende el pie», un gesto de desprecio, como si dijera, p. 276: «Saca tu dote del polvo de mi zapato». Rambam explica: «Si después de la boda el padre huye a un país lejano», según esta exposición, la frase del texto diría: «le da fianza».
 
 [^967]: 276:8 De lo cual declara haber sido desposeído por la fuerza.
 

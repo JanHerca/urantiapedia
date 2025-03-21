@@ -80,14 +80,14 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^540]: 174:1 Esto es para evitar el uso de una expresión que implique mal; pero el verdadero significado es: “Por toda plaga que pueda sobrevenir a la comunidad”, etc.
+[^540]: 174:1 Esto es para evitar el uso de una expresión que implique mal; pero el verdadero significado es: «Por toda plaga que pueda sobrevenir a la comunidad», etc.
 
 [^541]: 175:2 Si no daña el cultivo del maíz. Observen que esta Mishná se aplica exclusivamente a la Tierra Santa y a otros países montañosos, donde la lluvia escasea.
 
 [^542]: 175:3 Los hornos que usaban para asar el cordero pascual, que eran móviles, de barro o de loza ligeramente cocida, y que generalmente se mantenían fuera de la casa cuando no se usaban.
 
-[^543]: 175:4 Algunos lo explican: “Cavó una zanja circular en la que se colocó”.
+[^543]: 175:4 Algunos lo explican: «Cavó una zanja circular en la que se colocó».
 
-[^544]: 175:5 En el original, “Que yo soy como un hijo de la casa delante de ti”.
+[^544]: 175:5 En el original, «Que yo soy como un hijo de la casa delante de ti».
 
 [^545]: 175:6 Una piedra alta en Jerusalén se llamaba así porque quienes encontraban algún objeto lo depositaban allí y proclamaban por toda la ciudad que habían encontrado algo. El dueño del objeto perdido solicitaba entonces la devolución, y si la descripción del objeto que alegaba haber perdido era correcta, se le devolvía.

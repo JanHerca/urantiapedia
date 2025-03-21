@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO IV.
 
-§ 1. La oración de la mañana [puede rezarse] hasta el mediodía. R. Jehudah dice: “hasta la hora cuarta”. La oración de la מנחה hasta la tarde. R. Jehudah dice: “hasta [la expiración] de la mitad del tiempo [designado para] el sacrificio de la מנחה”. La oración de la tarde [no está limitada] a una hora fija, y la oración adicional de la מוסף [puede rezarse] todo el día. R. Jehudah dice: “hasta la hora séptima [solamente]”.
+§ 1. La oración de la mañana [puede rezarse] hasta el mediodía. R. Jehudah dice: «hasta la hora cuarta». La oración de la מנחה hasta la tarde. R. Jehudah dice: «hasta [la expiración] de la mitad del tiempo [designado para] el sacrificio de la מנחה». La oración de la tarde [no está limitada] a una hora fija, y la oración adicional de la מוסף [puede rezarse] todo el día. R. Jehudah dice: «hasta la hora séptima [solamente]».
 
 § 2. R. Nehooniah ben Hakanah solía pronunciar una breve oración al entrar en el Colegio Beth Hamedrash, y de nuevo <span id="p6">[<sup><small>p. 6</small></sup>]</span> al salir. Los sabios le preguntaron: "¿Qué motivo hay para esta oración?". Él les respondió: "Al entrar, ruego para que no me ofendan; y al salir, doy gracias por mi vocación como maestro de la ley".
 

@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 8. No deben depositar el féretro en ningún lugar público, para evitar que el duelo se extienda. El féretro de las mujeres no debe depositarse allí en ningún momento, por respeto al sexo del difunto. Las dolientes pueden gemir durante el Moed, pero no aplaudir. R. Ismael dice: «Quienes estén más cerca del féretro pueden aplaudir». [^655]
 
-§ 9. En las festividades de luna nueva, de dedicación y de purim, las plañideras pueden gemir en voz alta y aplaudir, pero no deben cantar lamentaciones fúnebres; pero cuando el cadáver sea enterrado, no deben gemir en voz alta ni cantar lamentaciones. ¿Qué significa gemir? Cuando todas [^656] se unen en un solo coro. ¿Qué significa lamentación? Cuando una recita y las demás responden o repiten, como se dice: «Enseñad a vuestras hijas el gemido y cada una a su vecina el lamento». [^657] Pero de las eras futuras que están por venir se dice: “La muerte será tragada [destruida] para siempre, y el Señor enjugará las lágrimas de todos los rostros”, etc. [^658]
+§ 9. En las festividades de luna nueva, de dedicación y de purim, las plañideras pueden gemir en voz alta y aplaudir, pero no deben cantar lamentaciones fúnebres; pero cuando el cadáver sea enterrado, no deben gemir en voz alta ni cantar lamentaciones. ¿Qué significa gemir? Cuando todas [^656] se unen en un solo coro. ¿Qué significa lamentación? Cuando una recita y las demás responden o repiten, como se dice: «Enseñad a vuestras hijas el gemido y cada una a su vecina el lamento». [^657] Pero de las eras futuras que están por venir se dice: «La muerte será tragada [destruida] para siempre, y el Señor enjugará las lágrimas de todos los rostros», etc. [^658]
 
 
 

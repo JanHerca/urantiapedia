@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 2. R. Eleazar ben Azarías dice: «No deben cavar una nueva zanja [conducto o curso de agua] en el Moed ni durante el año sabático». Pero los sabios sostienen que se puede cavar una nueva zanja [curso de agua] durante el año sabático, y que los conductos que estén obstruidos se pueden reparar en el Moed. Asimismo, pueden reparar los depósitos de agua que se encuentran en la fuente pública [^616] y purificarlos. También pueden reparar las calles, los mercados y los baños termales. En resumen, pueden hacer lo que requieran las exigencias del servicio público. 193</small></sup>]</span> pueden marcar las tumbas \[encaladas\], [^617] e incluso enviar \[inspectores\] del Kilaim. [^618]
 
-§ 3. R. Eleazar ben Jacob dice: “Pueden conducir agua de árbol en árbol, siempre que no se riegue todo el huerto; las plantas que no hayan absorbido [^619] \[agua\] antes del Moed, no deben regarse durante el Moed”. [^620] Pero los sabios permiten lo uno y lo otro.
+§ 3. R. Eleazar ben Jacob dice: «Pueden conducir agua de árbol en árbol, siempre que no se riegue todo el huerto; las plantas que no hayan absorbido [^619] \[agua\] antes del Moed, no deben regarse durante el Moed». [^620] Pero los sabios permiten lo uno y lo otro.
 
 § 4. Pueden atrapar topos y ratones de campo en huertos y campos mediante trampas y trampas, pero no deben hacerlo de la manera habitual, tanto en el Moed como durante el año sabático. Sin embargo, los sabios sostienen que en un huerto se pueden atrapar las alimañas de la manera habitual, pero que en un campo de trigo no se deben atrapar de la manera habitual. Durante el Moed se pueden apilar piedras sueltas para tapar una brecha en una cerca, pero durante el año sabático se repara de la manera habitual.
 
@@ -110,6 +110,6 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^630]: 194:13 Si son demasiado lisas como para no moler, no se pueden desportillar ni afilar durante el Moed.
 
-[^631]: 194:14 Según Bartenora, debe traducirse como “y luego alisado \[con la mano y el pie como si\] se usara un rodillo”.
+[^631]: 194:14 Según Bartenora, debe traducirse como «y luego alisado \[con la mano y el pie como si\] se usara un rodillo».
 
 [^632]: 194:15 Comestibles que requieren ser curados en sal o en vinagre, como el pescado, la col y similares.

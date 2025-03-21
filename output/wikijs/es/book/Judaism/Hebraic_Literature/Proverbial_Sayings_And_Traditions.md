@@ -88,7 +88,7 @@ La juventud es una corona de rosas.
 
 Un mirto incluso en el desierto sigue siendo un mirto.
 
-Enseña tu lengua a decir: “No sé”.
+Enseña tu lengua a decir: «No sé».
 
 La casa que no se abre al pobre, se abrirá al médico.
 
@@ -348,7 +348,7 @@ El gallo y el búho esperan la luz del día. «La luz», dice el gallo, «me ale
 
 El ladrón que no encuentra oportunidad para robar, se considera un hombre honesto.
 
-Un galileo dijo: “Cuando el pastor se enoja con su rebaño, pone como guía a un pastor ciego”.
+Un galileo dijo: «Cuando el pastor se enoja con su rebaño, pone como guía a un pastor ciego».
 
 Aunque no te incumbe completar la obra, no por ello debes dejar de perseguirla. Si la obra es grande, grande será tu recompensa, y tu Maestro es fiel en sus pagos.
 
@@ -394,35 +394,35 @@ Quien da caridad en secreto es mayor que Moisés.
 
 Encuentra autoridad para este dicho en las palabras de Moisés:
 
-“Porque temí la ira”, y las palabras de Salomón que presenta como respuesta: “Un regalo dado en secreto apacigua la ira”.
+«Porque temí la ira», y las palabras de Salomón que presenta como respuesta: «Un regalo dado en secreto apacigua la ira».
 
 Un avaro es tan malvado como un idólatra.
 
 La caridad es más que sacrificios.
 
-“Quien da (caridad) se enriquece”, o como está escrito: “Un alma benéfica será abundantemente gratificada”.
+«Quien da (caridad) se enriquece», o como está escrito: «Un alma benéfica será abundantemente gratificada».
 
-Un día, un filósofo le preguntó al rabino Akiba: “Si tu Dios ama a los pobres, ¿por qué no los apoya?”
+Un día, un filósofo le preguntó al rabino Akiba: «Si tu Dios ama a los pobres, ¿por qué no los apoya?»
 
 <span id="p340">[<sup><small>pág. 340</small></sup>]</span>
 
-“Dios permite que los pobres estén siempre con nosotros”, respondió Akiba, “para que las oportunidades de hacer el bien nunca falten”.
+«Dios permite que los pobres estén siempre con nosotros», respondió Akiba, «para que las oportunidades de hacer el bien nunca falten».
 
 —Pero —respondió el filósofo—, ¿cómo sabes que esta virtud de la caridad agrada a Dios? Si un amo castiga a sus esclavos privándolos de comida y ropa, ¿se siente complacido cuando otros los alimentan y visten?
 
-“Pero supongamos, por otro lado”, dijo el Rabino, “que los hijos de un padre tierno, hijos a quienes ya no podía ayudar con justicia, cayeran en la pobreza, ¿se disgustaría si almas bondadosas se compadecieran de ellos y los ayudaran? No somos esclavos de un amo severo. Dios nos llama sus hijos, y nosotros a Él mismo lo llamamos nuestro Padre.”
+«Pero supongamos, por otro lado», dijo el Rabino, «que los hijos de un padre tierno, hijos a quienes ya no podía ayudar con justicia, cayeran en la pobreza, ¿se disgustaría si almas bondadosas se compadecieran de ellos y los ayudaran? No somos esclavos de un amo severo. Dios nos llama sus hijos, y nosotros a Él mismo lo llamamos nuestro Padre.»
 
 Cuando uno se encuentra ante el tribunal de Dios se hacen estas preguntas:
 
-“¿Has sido honesto en todos tus tratos?”
+«¿Has sido honesto en todos tus tratos?»
 
-“¿Has reservado una parte de tu tiempo para el estudio de la ley?”
+«¿Has reservado una parte de tu tiempo para el estudio de la ley?»
 
-“¿Has observado el primer mandamiento?”
+«¿Has observado el primer mandamiento?»
 
-“¿Aún has esperado y creído en Dios en medio de la angustia?”
+«¿Aún has esperado y creído en Dios en medio de la angustia?»
 
-“¿Has hablado sabiamente?”
+«¿Has hablado sabiamente?»
 
 Todas las bendiciones de un hogar vienen a través de la esposa, por lo tanto, su esposo debe honrarla.
 
@@ -434,11 +434,11 @@ La muerte de una mujer no es tan sentida por nadie como por su marido.
 
 Se derraman lágrimas en el altar de Dios por aquel que abandona su primer amor.
 
-El que ama a su esposa como a sí mismo y la honra más que a sí mismo, educará adecuadamente a sus hijos; cumplirá también el versículo: “Y sabrás que hay paz en tu tienda, y cuidarás de tu morada y nada te faltará”.
+El que ama a su esposa como a sí mismo y la honra más que a sí mismo, educará adecuadamente a sus hijos; cumplirá también el versículo: «Y sabrás que hay paz en tu tienda, y cuidarás de tu morada y nada te faltará».
 
 <span id="p341">[<sup><small>pág. 341</small></sup>]</span>
 
-Nunca llamo a mi esposa “esposa”, sino “hogar”, porque ella, de hecho, constituye mi hogar.
+Nunca llamo a mi esposa «esposa», sino «hogar», porque ella, de hecho, constituye mi hogar.
 
 El que posee un conocimiento de Dios y un conocimiento del hombre, no cometerá pecado fácilmente.
 
@@ -454,9 +454,9 @@ Aquel que se deja llevar por la pasión es tan malo como un idólatra.
 
 La hospitalidad es una virtud tan grande como el estudio de la ley.
 
-“Nunca te pongas en el camino de la tentación”, aconsejó el rabino Judah; “ni siquiera David pudo resistirla”.
+«Nunca te pongas en el camino de la tentación», aconsejó el rabino Judah; «ni siquiera David pudo resistirla».
 
-Cuando sus alumnos le pidieron al rabino Tyra que les contara el secreto que le había proporcionado una vejez feliz y pacífica, respondió: “Nunca he albergado enojo con mi familia; nunca he envidiado a aquellos más grandes que yo, y nunca me he alegrado por la caída de nadie”.
+Cuando sus alumnos le pidieron al rabino Tyra que les contara el secreto que le había proporcionado una vejez feliz y pacífica, respondió: «Nunca he albergado enojo con mi familia; nunca he envidiado a aquellos más grandes que yo, y nunca me he alegrado por la caída de nadie».
 
 Desdichado aquel que confunde la rama con el árbol, la sombra con la sustancia.
 
@@ -484,15 +484,15 @@ El que puede avergonzarse no hará fácilmente el mal.
 
 Hay una gran diferencia entre quien puede sentirse avergonzado ante su propia alma y quien sólo se avergüenza ante su prójimo.
 
-El pacto de Dios con nosotros incluía el trabajo; porque el mandato: “Seis días trabajarás, y el séptimo descansarás”, hacía que el “descanso” estuviera condicionado al “trabajo”.
+El pacto de Dios con nosotros incluía el trabajo; porque el mandato: «Seis días trabajarás, y el séptimo descansarás», hacía que el «descanso» estuviera condicionado al «trabajo».
 
 Dios primero le dijo a Adán que cultivara el Jardín del Edén y lo cuidara, y luego le permitió comer del fruto de su trabajo.
 
-Dios no habitó en medio de Israel hasta que ellos hubieron trabajado para merecer su presencia, porque Él ordenó: “Me harán un santuario, y entonces yo habitaré en medio de ellos”.
+Dios no habitó en medio de Israel hasta que ellos hubieron trabajado para merecer su presencia, porque Él ordenó: «Me harán un santuario, y entonces yo habitaré en medio de ellos».
 
 Cuando Jerusalén estaba en manos de los romanos, uno de sus filósofos preguntó a los rabinos:
 
-“Si a tu Dios no le gusta la idolatría, ¿por qué no destruye los ídolos y así elimina la tentación?”
+«Si a tu Dios no le gusta la idolatría, ¿por qué no destruye los ídolos y así elimina la tentación?»
 
 Los sabios respondieron:
 
@@ -502,7 +502,7 @@ El rabino Judah dijo:
 
 Quien se niega a enseñar un precepto a su alumno es culpable de robo, como quien roba de la herencia de su padre; como está escrito: «La ley que Moisés nos ordenó es la herencia de la congregación de Jacob». Pero si le enseña, ¿cuál es su recompensa?
 
-Raba dice: “Obtendrá la bendición de José”.
+Raba dice: «Obtendrá la bendición de José».
 
 El rabino Eleazer dijo:
 
@@ -510,11 +510,11 @@ El rabino Eleazer dijo:
 
 “El hombre rico que no ayuda al erudito deseoso de estudiar la ley de Dios no prosperará.
 
-“El que cambia su palabra, diciendo una cosa y haciendo otra, es como el que sirve a los ídolos.”
+«El que cambia su palabra, diciendo una cosa y haciendo otra, es como el que sirve a los ídolos.»
 
 Dijo el rabino Chamah, hijo de Pappa:
 
-“Quien come o bebe y no bendice al Señor es como quien roba, pues está dicho: “Los cielos son los cielos del Señor, y la tierra ha sido dada a los hijos de los hombres”.
+«Quien come o bebe y no bendice al Señor es como quien roba, pues está dicho: “Los cielos son los cielos del Señor, y la tierra ha sido dada a los hijos de los hombres».
 
 Dijo el rabino Simón, hijo de Lakish:
 
@@ -536,7 +536,7 @@ Mejor es la maldición del justo que la bendición del malvado. Mejor la maldici
 
 Un hombre muy rico, de carácter bondadoso y benévolo, deseaba hacer feliz a su esclavo. Por ello, le concedió la libertad y le regaló un cargamento de mercancías.
 
-“Ve”, le dijo, “navega hacia diferentes países, vende estos bienes y lo que recibas por ellos será tuyo”.
+«Ve», le dijo, «navega hacia diferentes países, vende estos bienes y lo que recibas por ellos será tuyo».
 
 El esclavo navegó por el vasto océano, pero antes de que hubiera avanzado mucho en su viaje, una tormenta lo sorprendió; su barco chocó contra una roca y se hizo añicos; todos a bordo se perdieron, todos menos este esclavo, que nadó hasta la costa de una isla cercana. Triste, abatido, sin nada en el mundo, atravesó la isla hasta llegar a una ciudad grande y hermosa; y mucha gente se le acercó con alegría, gritando: "¡Bienvenido! ¡Bienvenido! ¡Viva el rey!". Trajeron un lujoso carruaje y, tras colocarlo en él, lo escoltaron hasta un magnífico palacio, donde muchos sirvientes lo rodearon, lo vistieron con ropas reales, lo llamaron su soberano y le expresaron su obediencia a su voluntad.
 
@@ -544,13 +544,13 @@ El esclavo quedó asombrado y deslumbrado, creyendo que estaba soñando, y que t
 
 ¿Cómo es esto? No lo entiendo. Que eleven y honren así a un hombre que no conocen, un pobre vagabundo desnudo, a quien nunca han visto, convirtiéndolo en su gobernante, me causa una admiración indescriptible.
 
-“Señor”, respondieron, “esta isla está habitada por espíritus. Hace mucho tiempo que oraron a Dios para que les enviara anualmente un hijo del hombre para reinar sobre ellos, y Él ha respondido a sus oraciones. Anualmente les envía un hijo del hombre, a quien reciben con honor y elevan al trono; pero su dignidad y poder terminan con el año. Al cierre de este, le quitan sus vestiduras reales, lo suben a bordo de un barco y lo llevan a una isla vasta y desolada, donde, a menos que previamente haya sido sabio y se haya preparado para este día, no encontrará ni amigo ni súbdito, y se verá obligado a llevar una vida cansada, solitaria y miserable. Entonces se elige un nuevo rey, y así año tras año. Los reyes que te precedieron fueron descuidados e indiferentes, disfrutando al máximo de su poder y sin pensar en el día en que terminaría. Sé más sabio; deja que nuestras palabras encuentren descanso en tu corazón."
+«Señor», respondieron, “esta isla está habitada por espíritus. Hace mucho tiempo que oraron a Dios para que les enviara anualmente un hijo del hombre para reinar sobre ellos, y Él ha respondido a sus oraciones. Anualmente les envía un hijo del hombre, a quien reciben con honor y elevan al trono; pero su dignidad y poder terminan con el año. Al cierre de este, le quitan sus vestiduras reales, lo suben a bordo de un barco y lo llevan a una isla vasta y desolada, donde, a menos que previamente haya sido sabio y se haya preparado para este día, no encontrará ni amigo ni súbdito, y se verá obligado a llevar una vida cansada, solitaria y miserable. Entonces se elige un nuevo rey, y así año tras año. Los reyes que te precedieron fueron descuidados e indiferentes, disfrutando al máximo de su poder y sin pensar en el día en que terminaría. Sé más sabio; deja que nuestras palabras encuentren descanso en tu corazón."
 
 El recién nombrado rey escuchó atentamente todo esto y se sintió afligido por haber perdido incluso el tiempo que ya había perdido haciendo preparativos para su pérdida de poder.
 
-Se dirigió al sabio que había hablado, diciendo: “Aconséjame, oh espíritu de sabiduría, cómo puedo prepararme para los días que me sobrevendrán en el futuro”.
+Se dirigió al sabio que había hablado, diciendo: «Aconséjame, oh espíritu de sabiduría, cómo puedo prepararme para los días que me sobrevendrán en el futuro».
 
-“Desnudo viniste a nosotros y desnudo serás enviado a la isla desolada de la que te hablé”, respondió el otro. “Actualmente eres rey y puedes hacer lo que quieras; por lo tanto, envía obreros a esta isla; que construyan casas, cultiven la tierra y embellezcan los alrededores. La tierra árida se transformará en campos fértiles, la gente viajará allí para vivir, y habrás establecido un nuevo reino para ti, con súbditos que te recibirán con alegría cuando hayas perdido tu poder aquí. El año es corto, el trabajo es largo: por lo tanto, sé diligente y enérgico”.
+«Desnudo viniste a nosotros y desnudo serás enviado a la isla desolada de la que te hablé», respondió el otro. «Actualmente eres rey y puedes hacer lo que quieras; por lo tanto, envía obreros a esta isla; que construyan casas, cultiven la tierra y embellezcan los alrededores. La tierra árida se transformará en campos fértiles, la gente viajará allí para vivir, y habrás establecido un nuevo reino para ti, con súbditos que te recibirán con alegría cuando hayas perdido tu poder aquí. El año es corto, el trabajo es largo: por lo tanto, sé diligente y enérgico».
 
 El rey siguió este consejo. Envió obreros y materiales a la isla desolada, y antes del fin de su poder temporal, esta se había convertido en un lugar floreciente, agradable y atractivo. Los gobernantes que lo precedieron habían anticipado con temor el día del fin de su poder, o habían reprimido cualquier pensamiento al respecto con jolgorio; pero él lo esperaba como un día de alegría, cuando comenzaría una vida de paz y felicidad permanentes.
 
@@ -570,11 +570,11 @@ El anciano respondió:
 
 En mi juventud trabajé y sigo trabajando. Con el beneplácito de Dios, incluso podré disfrutar del fruto de este árbol que planté. Estoy en sus manos.
 
-“Dime tu edad”, dijo el emperador.
+«Dime tu edad», dijo el emperador.
 
-“He vivido cien años.”
+«He vivido cien años.»
 
-“¿Tienes cien años y todavía esperas comer del fruto de este árbol?”
+«¿Tienes cien años y todavía esperas comer del fruto de este árbol?»
 
 «Si así lo desea Dios», respondió el anciano, «si no, lo dejaré para mi hijo, como mi padre dejó para mí el fruto de su trabajo».
 
@@ -588,13 +588,13 @@ El anciano vivía para disfrutar de ese mismo fruto, y recordando las palabras d
 
 El anciano respondió:
 
-Mira, yo soy el anciano a quien le dijiste, el día que lo viste plantar una higuera: “Si vives para comer de su fruto, te ruego que me lo hagas saber”. Y he aquí, he venido y te he traído del fruto, para que tú también puedas participar.
+Mira, yo soy el anciano a quien le dijiste, el día que lo viste plantar una higuera: «Si vives para comer de su fruto, te ruego que me lo hagas saber». Y he aquí, he venido y te he traído del fruto, para que tú también puedas participar.
 
 El emperador quedó muy contento y, vaciando la cesta de higos del hombre, ordenó que la llenaran con monedas de oro.
 
 Cuando el anciano se hubo marchado, los cortesanos dijeron al emperador:
 
-“¿Por qué honraste tanto a este viejo judío?”
+«¿Por qué honraste tanto a este viejo judío?»
 
 «El Señor lo ha honrado, ¿y por qué yo no?», respondió el emperador.
 
@@ -604,7 +604,7 @@ Cuando su marido se acercó a las puertas del palacio, contó su misión a los g
 
 Cuando se lo comunicaron al emperador, este ordenó al anciano que se quedara en el vestíbulo del palacio, y todos los que pasaban le arrojaron higos. Regresó a casa herido y abatido junto a su esposa decepcionada.
 
-“No te preocupes, tienes un consuelo”, dijo ella: “si hubieran sido cocos en lugar de higos, podrías haber sufrido golpes más fuertes”.
+«No te preocupes, tienes un consuelo», dijo ella: «si hubieran sido cocos en lugar de higos, podrías haber sufrido golpes más fuertes».
 
 ---
 
@@ -612,7 +612,7 @@ Un ciudadano de Jerusalén que viajaba por el país enfermó gravemente en una p
 
 El hombre murió y fue enterrado según los ritos judíos, y su muerte se hizo pública para que sus herederos pudieran comparecer. Cuando su hijo se enteró del fallecimiento de su padre, partió de Jerusalén hacia el lugar donde había muerto. Cerca de las puertas de la ciudad se encontró con un hombre que vendía un cargamento de leña. La compró y mandó que se la entregaran en la posada a la que se dirigía. El hombre a quien se la compró fue inmediatamente a la posada y dijo: «Aquí está la leña».
 
-“¿Qué madera?” respondió el propietario; “no pedí madera”.
+«¿Qué madera?» respondió el propietario; «no pedí madera».
 
 —No —respondí al leñador—, pero el hombre que me sigue sí; entraré y lo esperaré.
 
@@ -624,11 +624,11 @@ El dueño le preguntó: ¿Quién eres tú?
 
 Le prepararon una cena y pusieron sobre la mesa cinco pichones y un pollo. El dueño de la casa, su esposa, dos hijos y dos hijas se sentaron con él a la mesa.
 
-“Sirva la comida”, dijo el propietario.
+«Sirva la comida», dijo el propietario.
 
-“No”, respondió el joven; “tú eres el amo, es tu privilegio”.
+«No», respondió el joven; «tú eres el amo, es tu privilegio».
 
-“Deseo que hagas esto; eres mi invitado, el hijo del comerciante; te ruego que me ayudes con la comida”.
+«Deseo que hagas esto; eres mi invitado, el hijo del comerciante; te ruego que me ayudes con la comida».
 
 El joven, suplicando así, dividió una paloma entre los dos hijos, otra entre las dos hijas, dio la tercera al hombre y a su esposa, y se quedó con las otras dos. Esta fue su segunda sabia decisión.
 
@@ -664,7 +664,7 @@ Al día siguiente, caminando con el mismo hombre, rompió la cuerda de su otro z
 
 —Sí —respondió el otro—; traen nueve ducados, e incluso en los tiempos más baratos, de siete a ocho.
 
-“Entonces sería un trabajo rentable para mí tomar zapatos de mi ciudad y venderlos en la tuya”.
+«Entonces sería un trabajo rentable para mí tomar zapatos de mi ciudad y venderlos en la tuya».
 
 —Sí, por supuesto; y si me avisas de tu llegada, te pondré en camino de clientes.
 
@@ -678,9 +678,9 @@ Entonces el extranjero, rapándose el cabello y ennegreciéndose el rostro (moti
 
 Los compradores se detuvieron frente a su puesto y le preguntaron:
 
-“¿Cuánto por los zapatos?”
+«¿Cuánto por los zapatos?»
 
-“Diez ducados el par”, respondió; “o puedo venderlos por nueve; pero ciertamente por no menos de ocho”.
+«Diez ducados el par», respondió; «o puedo venderlos por nueve; pero ciertamente por no menos de ocho».
 
 Esto provocó una gran risa y alboroto en el mercado, y el extraño fue expulsado del mercado en señal de burla y sus zapatos arrojados tras él.
 
@@ -718,13 +718,13 @@ El joven hizo lo que le aconsejaron y después le dio la libertad al esclavo. Pe
 
 <span id="p353">[<sup><small>pág. 353</small></sup>]</span>
 
-“La sabiduría reside en los ancianos, y el entendimiento en la larga vida.”
+«La sabiduría reside en los ancianos, y el entendimiento en la larga vida.»
 
 ---
 
 David, rey de Israel, estaba una vez acostado en su lecho y muchos pensamientos pasaban por su mente.
 
-“¿De qué sirve la araña en este mundo?”, pensó; “solo aumenta el polvo y la suciedad del mundo, haciendo que los lugares sean desagradables y causando grandes molestias”.
+«¿De qué sirve la araña en este mundo?», pensó; «solo aumenta el polvo y la suciedad del mundo, haciendo que los lugares sean desagradables y causando grandes molestias».
 
 Entonces pensó en un hombre loco:
 
@@ -736,7 +736,7 @@ Entonces los mosquitos le molestaron, y el rey pensó:
 
 Sin embargo, el rey David vivió para descubrir que estos mismos insectos y la misma condición de vida, cuya existencia él deploraba, estaban ordenados incluso para su propio beneficio.
 
-Cuando huyó de delante de Saúl, David fue capturado en la tierra de los filisteos por los hermanos de Goliat, quienes lo llevaron ante el rey de Gat, y solo fingiendo idiotez escapó de la muerte, pues el rey consideró imposible que un hombre así pudiera ser el rey David, como está escrito: “Y disfrazó su razón ante los ojos de ellos, e hizo como un loco en sus manos, y escribió en las puertas de las puertas, y dejó correr su saliva sobre su barba”.
+Cuando huyó de delante de Saúl, David fue capturado en la tierra de los filisteos por los hermanos de Goliat, quienes lo llevaron ante el rey de Gat, y solo fingiendo idiotez escapó de la muerte, pues el rey consideró imposible que un hombre así pudiera ser el rey David, como está escrito: «Y disfrazó su razón ante los ojos de ellos, e hizo como un loco en sus manos, y escribió en las puertas de las puertas, y dejó correr su saliva sobre su barba».
 
 En otra ocasión, David se ocultó en la cueva de Adulam, y tras entrar, una araña tejió una tela sobre la entrada. Sus perseguidores pasaron por allí, pero pensando que nadie podría haber entrado en la cueva protegida por la tela sin destruirla, continuaron su camino.
 
@@ -744,7 +744,7 @@ El mosquito también le fue útil a David cuando entró en el campamento de Saú
 
 Por eso cantó David:
 
-“Todos mis huesos dirán: Oh Señor, ¿quién como tú?”
+«Todos mis huesos dirán: Oh Señor, ¿quién como tú?»
 
 ---
 
@@ -762,21 +762,21 @@ Había una familia, la de Abtinoss, cuyos miembros eran expertos en el arte de p
 
 Un caso exactamente similar al anterior ocurrió con la familia de Garmah, que tenía el monopolio del conocimiento de la preparación del pan de la proposición utilizado en los servicios del Templo.
 
-Fue en referencia a estos casos que el hijo de Azai dijo: “En tu nombre te llamarán, y en tu ciudad te harán vivir, y de lo tuyo te darán”, es decir, que las personas confiadas no deben temer que otros puedan robarles sus ocupaciones; “porque en tu nombre te llamarán”, como en el caso de las familias de Abtinoss y Garmah; “y de lo tuyo te darán”, es decir, que lo que un hombre gana es suyo, y no se le puede quitar.
+Fue en referencia a estos casos que el hijo de Azai dijo: «En tu nombre te llamarán, y en tu ciudad te harán vivir, y de lo tuyo te darán», es decir, que las personas confiadas no deben temer que otros puedan robarles sus ocupaciones; «porque en tu nombre te llamarán», como en el caso de las familias de Abtinoss y Garmah; «y de lo tuyo te darán», es decir, que lo que un hombre gana es suyo, y no se le puede quitar.
 
 ---
 
 El rabino Jojanán, hijo de Leví, ayunó y oró al Señor para que le permitiera contemplar al ángel Elías, quien había ascendido vivo al cielo. Dios accedió a su petición, y Elías se le apareció con apariencia humana.
 
-“Déjame viajar contigo en tus viajes por el mundo”, rogó el rabino a Elías; “déjame observar tus acciones y ganar en sabiduría y entendimiento”.
+«Déjame viajar contigo en tus viajes por el mundo», rogó el rabino a Elías; «déjame observar tus acciones y ganar en sabiduría y entendimiento».
 
-“No”, respondió Elías; “no podrías entender mis acciones; mis hechos te perturbarían, pues están más allá de tu comprensión”.
+«No», respondió Elías; «no podrías entender mis acciones; mis hechos te perturbarían, pues están más allá de tu comprensión».
 
 Pero aún así el rabino insistió:
 
 <span id="p356">[<sup><small>pág. 356</small></sup>]</span>
 
-“No te molestaré ni te preguntaré”, dijo; “sólo déjame acompañarte en tu camino”.
+«No te molestaré ni te preguntaré», dijo; «sólo déjame acompañarte en tu camino».
 
 —Ven, pues —dijo Elías—; pero calla. Con tu primera pregunta, con tu primera expresión de asombro, debemos separarnos.
 
@@ -800,7 +800,7 @@ Por la mañana, al despedirse de ellos, Elías dijo: «Que el Señor ponga sobre
 
 Jochanan ya no pudo resistir su curiosidad. «Dime», le dijo a Elías, «dime el significado de todas estas acciones que he presenciado. A quienes nos han tratado con frialdad les has expresado buenos deseos; a quienes nos han sido amables no les has correspondido como corresponde. Aunque debamos separarnos, te ruego que me expliques el significado de tus actos».
 
-“Escucha”, dijo Elías, “y aprende a confiar en Dios, aunque no puedas entender sus caminos. Primero entramos en la casa del hombre pobre, que nos trató con tanta bondad. Sepan que se había decretado que ese mismo día su esposa moriría. Oré al Señor para que la vaca fuera una redención para ella; Dios concedió mis oraciones, y la mujer fue preservada para su esposo. El hombre rico, a quien llamamos después, nos trató con frialdad, y reparé su pared. La reparé sin cimientos nuevos, sin excavar hasta el antiguo. Si la hubiera reparado él mismo, habría cavado, y así habría descubierto un tesoro que yace allí enterrado, pero que ahora está perdido para siempre. A los miembros de la sinagoga que fueron inhóspitos les dije: “Que todos ustedes sean presidentes, y donde muchos gobiernan no puede haber paz; pero a los demás les dije: 'Que tengan un solo presidente'; con un solo líder no puede haber malentendidos”. Ahora bien, si ves que los malvados prosperan, no tengas envidia; si ves a los justos en la pobreza y la angustia, no te irrites ni dudes de la justicia de Dios. El Señor es justo, todos sus juicios son verdaderos; sus ojos observan a toda la humanidad, y nadie puede decir: "¿Qué haces?".
+«Escucha», dijo Elías, «y aprende a confiar en Dios, aunque no puedas entender sus caminos. Primero entramos en la casa del hombre pobre, que nos trató con tanta bondad. Sepan que se había decretado que ese mismo día su esposa moriría. Oré al Señor para que la vaca fuera una redención para ella; Dios concedió mis oraciones, y la mujer fue preservada para su esposo. El hombre rico, a quien llamamos después, nos trató con frialdad, y reparé su pared. La reparé sin cimientos nuevos, sin excavar hasta el antiguo. Si la hubiera reparado él mismo, habría cavado, y así habría descubierto un tesoro que yace allí enterrado, pero que ahora está perdido para siempre. A los miembros de la sinagoga que fueron inhóspitos les dije: “Que todos ustedes sean presidentes, y donde muchos gobiernan no puede haber paz; pero a los demás les dije: 'Que tengan un solo presidente'; con un solo líder no puede haber malentendidos». Ahora bien, si ves que los malvados prosperan, no tengas envidia; si ves a los justos en la pobreza y la angustia, no te irrites ni dudes de la justicia de Dios. El Señor es justo, todos sus juicios son verdaderos; sus ojos observan a toda la humanidad, y nadie puede decir: "¿Qué haces?".
 
 Con estas palabras Elías desapareció y Jocanán quedó solo.
 
@@ -814,11 +814,11 @@ Israel, en la miseria y el cautiverio, fue objeto de burla por parte de las naci
 
 Dios la redimirá con el tiempo; y cuando dice:
 
-“¿Cómo podrías tú solo ser fiel entre todas las naciones que se burlan?”
+«¿Cómo podrías tú solo ser fiel entre todas las naciones que se burlan?»
 
 Ella señalará la ley y responderá:
 
-“Si tu ley no hubiera sido mi delicia, hace tiempo que habría perecido en mi aflicción.”
+«Si tu ley no hubiera sido mi delicia, hace tiempo que habría perecido en mi aflicción.»
 
 Cuando Dios estaba a punto de crear al hombre, los ángeles se reunieron a su alrededor. Algunos, abriendo los labios, exclamaron: «Crea, oh Dios, un ser que te alabe desde la tierra, como nosotros en el cielo cantamos tu gloria».
 
@@ -840,7 +840,7 @@ Entonces el Ángel de la Misericordia cesó, y el Ángel de la Paz con ojos llor
 
 Entonces habló en tono severo el Ángel de la Justicia:
 
-“Y tú lo juzgarás, oh Dios; estará sujeto a mi autoridad.”
+«Y tú lo juzgarás, oh Dios; estará sujeto a mi autoridad.»
 
 El Ángel de la Verdad se acercó y dijo:
 
@@ -848,7 +848,7 @@ El Ángel de la Verdad se acercó y dijo:
 
 Entonces todos quedaron en silencio, y del profundo silencio surgieron las palabras divinas:
 
-“Tú, oh Verdad, irás a la tierra con él, y aun así permanecerás como un ciudadano del cielo; flotarás entre el cielo y la tierra, conectando así los dos”.
+«Tú, oh Verdad, irás a la tierra con él, y aun así permanecerás como un ciudadano del cielo; flotarás entre el cielo y la tierra, conectando así los dos».
 
 ---
 
@@ -864,7 +864,7 @@ Cuando la ciudad fue capturada, marchó con sus príncipes y oficiales al Templo
 
 En una de las paredes encontró la señal de una punta de flecha, como si alguien hubiera sido asesinado o alcanzado cerca, y preguntó: "¿Quién murió aquí?"
 
-“Zacarías, hijo de Joiada, el sumo sacerdote”, respondió el pueblo, “nos reprendió incesantemente a causa de nuestras transgresiones, y nos cansamos de sus palabras y lo condenamos a muerte”.
+«Zacarías, hijo de Joiada, el sumo sacerdote», respondió el pueblo, «nos reprendió incesantemente a causa de nuestras transgresiones, y nos cansamos de sus palabras y lo condenamos a muerte».
 
 Los seguidores de Nabucodonosor masacraron a los habitantes de Jerusalén, a los sacerdotes y al pueblo, a ancianos y jóvenes, mujeres y niños que asistían a la escuela, incluso a bebés en la cuna. El festín de sangre finalmente <span id="p361">[<sup><small>p. 361</small></sup>]</span> conmocionó incluso al líder de los paganos hostiles, quien ordenó detener este asesinato en masa. Entonces retiró todos los vasos de oro y plata del Templo y los envió en sus barcos a Babel, tras lo cual prendió fuego al Templo.
 
@@ -880,7 +880,7 @@ Pero Pelatya, hijo de Joiada, salió y se dirigió a Nabucodonosor de esta maner
 
 <span id="p362">[<sup><small>pág. 362</small></sup>]</span>
 
-“Mira, si un rebaño es entregado en manos de un pastor, y un lobo roba un cordero del rebaño, dime, ¿quién es responsable ante el dueño del animal perdido?”
+«Mira, si un rebaño es entregado en manos de un pastor, y un lobo roba un cordero del rebaño, dime, ¿quién es responsable ante el dueño del animal perdido?»
 
 —Seguramente el pastor —respondió Nabucodonosor.
 
@@ -902,17 +902,17 @@ Bar Kamtzah aceptó la invitación y estuvo presente a la hora señalada, pero c
 
 Pero Bar Kamtzah persistió.
 
-“Yo pagaré todos los gastos de tu banquete”, dijo; “no permitas que me degraden a los ojos de tus invitados”.
+«Yo pagaré todos los gastos de tu banquete», dijo; «no permitas que me degraden a los ojos de tus invitados».
 
 El anfitrión estaba decidido y Bar Kamtzah se retiró del salón de banquetes enojado.
 
-“Muchos rabinos estaban presentes”, dijo en su corazón, “y ninguno de ellos interfirió en mi favor, por lo tanto, este insulto que vieron sobre mí debe haberles complacido”.
+«Muchos rabinos estaban presentes», dijo en su corazón, «y ninguno de ellos interfirió en mi favor, por lo tanto, este insulto que vieron sobre mí debe haberles complacido».
 
 Entonces Bar Kamtzah habló traicioneramente contra los judíos al rey, diciendo: "Los judíos se han rebelado contra ti".
 
-“¿Cómo puedo saber esto?” preguntó el rey.
+«¿Cómo puedo saber esto?» preguntó el rey.
 
-“Envía un sacrificio a su Templo y será rechazado”, respondió Bar Kamtzah.
+«Envía un sacrificio a su Templo y será rechazado», respondió Bar Kamtzah.
 
 El gobernante envió entonces un becerro en buenas condiciones para ser sacrificado por él en el Templo, pero debido a las maquinaciones <span id="p363">[<sup><small>p. 363</small></sup>]</span> de Bar Kamtzah, el mensajero le infligió un defecto y, por supuesto, al no ser apto para el sacrificio, no fue aceptado.
 
@@ -920,7 +920,7 @@ Por esta causa, César fue enviado a tomar Jerusalén, y durante dos años siti�
 
 Una noble dama, Miriam, hija de Baytus, envió a su sirviente a comprar harina para el hogar. El sirviente descubrió que toda la harina se había vendido, pero aún quedaba harina que podría haber comprado. Sin embargo, se apresuró a volver a casa para conocer los deseos de su señora al respecto, y a su regreso descubrió que también se había vendido, y no pudo conseguir nada más que harina de cebada gruesa. Como no quería comprarla sin órdenes, regresó a casa, pero cuando regresó al almacén para conseguir la harina de cebada, esta también había desaparecido. Entonces su señora salió a comprar comida, pero no encontró nada. Atormentada por el hambre, cogió de la calle la piel de un higo y se la comió; esto la enfermó y murió. Pero antes de morir, arrojó todo su oro y plata a la calle, diciendo: "¿De qué me sirve esta riqueza si no puedo conseguir comida con ella?". Así se cumplieron las palabras de Ezequiel:
 
-“Arrojarán su plata a las calles.”
+«Arrojarán su plata a las calles.»
 
 Tras la destrucción de los almacenes, el rabino Jochanan, al caminar por la ciudad, vio a la gente hervir paja en agua y beberla para alimentarse. "¡Ay de mí por esta calamidad!", exclamó; "¿Cómo puede semejante pueblo luchar contra una hueste tan poderosa?". Solicitó a Ben Batiach, su sobrino y uno de los jefes de la ciudad, permiso para salir de Jerusalén. Pero Ben Batiach respondió: "No puede ser; ningún ser vivo puede salir de la ciudad". "Sáquenme entonces como un cadáver", suplicó Jochanan. Ben Batiach accedió, y Jochanan fue colocado en un ataúd y llevado a través de las puertas de la ciudad; los rabinos Eleazer, Joshua y Ben Batiach actuaron como portadores del féretro. El ataúd fue colocado en una cueva, y después de que todos regresaran a sus hogares, Jochanan se levantó del ataúd y se dirigió al campamento enemigo. Obtuvo del comandante permiso para establecer una academia en Jabna, dirigida por Rabbon Gamliel.
 
@@ -938,27 +938,27 @@ Según su edad fueron llevados ante el tirano conquistador y se les ordenó rend
 
 Lo llevaron inmediatamente a la ejecución y le exigieron lo mismo a su hermano, el segundo hijo.
 
-“Mi hermano no se inclinó”, respondió, “y yo tampoco lo haré”.
+«Mi hermano no se inclinó», respondió, «y yo tampoco lo haré».
 
-“¿Por qué no?”, pregunté al tirano.
+«¿Por qué no?», pregunté al tirano.
 
 —Porque —respondió el muchacho— el segundo mandamiento del Decálogo nos dice: «No tendrás otro Dios fuera de mí».
 
 Su muerte siguió inmediatamente a sus valientes palabras.
 
-“Mi religión me enseña: ‘No adorarás a ningún otro dios’, dijo el tercer hijo, “y acojo el destino que les corresponde a mis hermanos antes que inclinarme ante ti o ante tus imágenes”.
+«Mi religión me enseña: ‘No adorarás a ningún otro dios’, dijo el tercer hijo, “y acojo el destino que les corresponde a mis hermanos antes que inclinarme ante ti o ante tus imágenes».
 
-El mismo homenaje se le exigió al cuarto hijo, pero valiente y fiel como sus hermanos, respondió: “'El que <span id="p365">[<sup><small>p. 365</small></sup>]</span> sacrifica a cualquier dios, excepto al Señor solo'”, y fue asesinado sin piedad.
+El mismo homenaje se le exigió al cuarto hijo, pero valiente y fiel como sus hermanos, respondió: «'El que <span id="p365">[<sup><small>p. 365</small></sup>]</span> sacrifica a cualquier dios, excepto al Señor solo'», y fue asesinado sin piedad.
 
-“Escucha, Israel: el Señor nuestro Dios, el Señor Uno es”, exclamó el quinto muchacho, entregando su joven vida con la consigna de las huestes de Israel.
+«Escucha, Israel: el Señor nuestro Dios, el Señor Uno es», exclamó el quinto muchacho, entregando su joven vida con la consigna de las huestes de Israel.
 
-“¿Por qué eres tan obstinado?”, le preguntaron al sexto hermano, cuando él también fue llevado ante el tirano y despreció las proposiciones que le hicieron.
+«¿Por qué eres tan obstinado?», le preguntaron al sexto hermano, cuando él también fue llevado ante el tirano y despreció las proposiciones que le hicieron.
 
-“‘El Señor tu Dios está en medio de ti, Dios fuerte y temible’”, dijo; y murió por los principios que proclamaba.
+«‘El Señor tu Dios está en medio de ti, Dios fuerte y temible’», dijo; y murió por los principios que proclamaba.
 
 Entonces el séptimo y más joven muchacho fue llevado ante el asesino de sus parientes, quien se dirigió a él amablemente y le dijo:
 
-“Hijo mío, ven a inclinarte ante mis dioses”.
+«Hijo mío, ven a inclinarte ante mis dioses».
 
 Y el niño respondió:
 
@@ -974,25 +974,25 @@ Aún así el tirano habló con suavidad y con palabras amables.
 
 <span id="p366">[<sup><small>pág. 366</small></sup>]</span>
 
-“¿Crees que temo tus amenazas?”, respondió el muchacho impasible; “¿por qué debería temer a un ser humano más que al gran Dios, el Rey de reyes?”
+«¿Crees que temo tus amenazas?», respondió el muchacho impasible; «¿por qué debería temer a un ser humano más que al gran Dios, el Rey de reyes?»
 
 "¿Dónde está tu Dios y qué es?", preguntó el opresor. "¿Hay un Dios en el mundo?"
 
-“¿Puede haber un mundo sin Creador?”, respondió el joven. “De tus dioses se dice: “Tienen boca, pero no hablan”. De nuestro Dios, el salmista dice: “Por la palabra del Señor fueron hechos los cielos”. Tus dioses tienen “ojos, pero no ven”, pero “los ojos del Señor recorren toda la tierra”. Tus dioses tienen “oídos, pero no oyen”, pero de nuestro Dios está escrito: “El Señor escuchó y oyó”. De tus dioses se dice: “Tienen nariz, pero no huelen”, mientras que nuestro Dios “olió el olor grato”. “Tienen manos, pero no tocan”, mientras que nuestro Dios dice: “Mi mano también fundó la tierra”. De tus dioses está escrito: “Tienen pies, pero no andan”, mientras que Zacarías nos dice de nuestro Dios: “Sus pies se afirmarán aquel día sobre el monte de los Olivos”.
+«¿Puede haber un mundo sin Creador?», respondió el joven. «De tus dioses se dice: “Tienen boca, pero no hablan». De nuestro Dios, el salmista dice: «Por la palabra del Señor fueron hechos los cielos». Tus dioses tienen «ojos, pero no ven», pero «los ojos del Señor recorren toda la tierra». Tus dioses tienen «oídos, pero no oyen», pero de nuestro Dios está escrito: «El Señor escuchó y oyó». De tus dioses se dice: «Tienen nariz, pero no huelen», mientras que nuestro Dios «olió el olor grato». «Tienen manos, pero no tocan», mientras que nuestro Dios dice: «Mi mano también fundó la tierra». De tus dioses está escrito: «Tienen pies, pero no andan», mientras que Zacarías nos dice de nuestro Dios: «Sus pies se afirmarán aquel día sobre el monte de los Olivos».
 
 Entonces dijo el cruel:
 
-“Si tu Dios tiene todos estos atributos, ¿por qué no te libra de mi poder?”
+«Si tu Dios tiene todos estos atributos, ¿por qué no te libra de mi poder?»
 
 El muchacho respondió:
 
-“Él libró a Cananías y a sus compañeros del poder de Nabucodonosor, pero eran hombres justos, y Nabucodonosor era un rey merecedor de ver realizado un milagro, pero yo, ay, no soy digno de redención, ni tú eres digno de una demostración del poder de Dios.”
+«Él libró a Cananías y a sus compañeros del poder de Nabucodonosor, pero eran hombres justos, y Nabucodonosor era un rey merecedor de ver realizado un milagro, pero yo, ay, no soy digno de redención, ni tú eres digno de una demostración del poder de Dios.»
 
 «Que el muchacho sea asesinado como lo fueron sus hermanos», ordenó el tirano.
 
 Entonces habló Ana, la madre de los muchachos:
 
-“¡Dame a mi hijo!”, exclamó, “¡oh, rey cruel! Déjame abrazarlo antes de que destruyas su joven e inocente vida”.
+«¡Dame a mi hijo!», exclamó, «¡oh, rey cruel! Déjame abrazarlo antes de que destruyas su joven e inocente vida».
 
 Abrazó al muchacho, estrechándolo contra su pecho y apretando sus labios contra los de él. «¡Quítame la vida!», gritó; «mátame primero antes que a mi hijo».
 
@@ -1054,7 +1054,7 @@ Habiendo rechazado a varios mensajeros del Obispo, finalmente se les ordenó apr
 
 —Déjame —respondió Amnón—, pronunciar mi propia sentencia por esta negligencia. Que me corten la lengua, que pronunció esas palabras precipitadas y dubitativas; fue una mentira, pues nunca tuve intención de considerar la proposición.
 
-“No”, dijo el Obispo, “no te cortaré la lengua, pero tus pies que se negaron a venir a mí serán cortados, y las otras partes de tu obstinado cuerpo también serán castigadas y atormentadas”.
+«No», dijo el Obispo, «no te cortaré la lengua, pero tus pies que se negaron a venir a mí serán cortados, y las otras partes de tu obstinado cuerpo también serán castigadas y atormentadas».
 
 Bajo la mirada y orden del Obispo, los dedos de los pies y los pulgares del Rabino Amnon fueron cortados y, después de haber sido severamente torturado, fue enviado a casa en un carruaje, con sus miembros destrozados a su lado.
 

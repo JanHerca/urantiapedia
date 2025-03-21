@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 8. ¿Cuál es la cantidad legal de alimentos para unir calles o callejones? Si son muchos, se les proporciona alimento suficiente para dos comidas sabáticas; si son pocos, el tamaño de un higo seco, que también es la cantidad de alimento que no está permitido llevar a cabo en sábado, [^226] por cada uno.
 
-§ 9. R. José dijo: “¿A qué se aplica la regla anterior? A la primera preparación para el erub; pero para continuarlo, cualquier cantidad de alimento, por pequeña que sea, es suficiente”. Los sabios tampoco indicaron que, cuando se hubieran realizado las combinaciones de un callejón, se preparara un erub para los diferentes patios, salvo para que los niños no olvidaran por completo la regla del erub.
+§ 9. R. José dijo: «¿A qué se aplica la regla anterior? A la primera preparación para el erub; pero para continuarlo, cualquier cantidad de alimento, por pequeña que sea, es suficiente». Los sabios tampoco indicaron que, cuando se hubieran realizado las combinaciones de un callejón, se preparara un erub para los diferentes patios, salvo para que los niños no olvidaran por completo la regla del erub.
 
 § 10. Con todo tipo de alimento se puede realizar el erub o combinación, excepto solo agua y sal. Tal es el dictamen de R. Eleazar; pero R. Joshua dice: «Solo una hogaza de pan entera es un erub lícito». Si incluso una hogaza entera de harina se hornea en una sola hogaza, pero esta se parte, no debe usarse para el erub; en cambio, una hogaza pequeña para un eesar, siempre que sea entera, puede usarse para un erub.
 
@@ -92,4 +92,4 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^226]: 87:3 Vide Tratado del Sábado, cap. VIII, § 4.
 
-[^227]: 88:4 Una moneda pequeña; probablemente el “as” romano.
+[^227]: 88:4 Una moneda pequeña; probablemente el «as» romano.

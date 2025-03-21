@@ -66,15 +66,15 @@ A nadie se le permitía sentarse en el Sanedrín a menos que tuviera conocimient
 
 _Sanedrín_, fol. 17, col. 1.
 
-Rabí Shimón dijo: «Un hechicero es quien hace pasar la exudación de siete tipos diferentes de criaturas masculinas por el ojo». Los sabios dicen que practica y hace pasar ilusiones ópticas. Rabí Akiva dice: «Es quien calcula tiempos y horas, y dice: «Hoy es un buen día para emprender un viaje, mañana será un día de suerte para vender, el año anterior al año sabático suele ser bueno para el cultivo del trigo, arrancar los guisantes los protegerá de que se echen a perder». Según los rabinos, “Un encantador es aquel que augura mal cuando se le cae el pan de la boca, o si se le cae el bastón que lo sostiene de la mano, o si su hijo lo llama, o un cuervo grazna en su oído, o un ciervo se cruza en su camino, o ve una serpiente a su mano derecha o un zorro a su izquierda, o si dice: “Mira al recaudador de impuestos: 'No comiences conmigo a primera hora de la mañana'; o, 'Es el primero del mes'; o, 'Es la salida del Shabat', es decir, el comienzo de una nueva semana”.
+Rabí Shimón dijo: «Un hechicero es quien hace pasar la exudación de siete tipos diferentes de criaturas masculinas por el ojo». Los sabios dicen que practica y hace pasar ilusiones ópticas. Rabí Akiva dice: «Es quien calcula tiempos y horas, y dice: «Hoy es un buen día para emprender un viaje, mañana será un día de suerte para vender, el año anterior al año sabático suele ser bueno para el cultivo del trigo, arrancar los guisantes los protegerá de que se echen a perder». Según los rabinos, «Un encantador es aquel que augura mal cuando se le cae el pan de la boca, o si se le cae el bastón que lo sostiene de la mano, o si su hijo lo llama, o un cuervo grazna en su oído, o un ciervo se cruza en su camino, o ve una serpiente a su mano derecha o un zorro a su izquierda, o si dice: “Mira al recaudador de impuestos: 'No comiences conmigo a primera hora de la mañana'; o, 'Es el primero del mes'; o, 'Es la salida del Shabat', es decir, el comienzo de una nueva semana».
 
 _Ibíd._, fol. 65, col. 2.
 
-“Por el término bruja”, dicen los rabinos, “debemos entender tanto a hombre como a mujer”. “De ser así”, se pregunta, “¿por qué el término 'bruja', en Éxodo 22:18, en el versículo hebreo 17, está en género femenino?” “Porque”, responden, “la mayoría de las mujeres son brujas”.
+«Por el término bruja», dicen los rabinos, «debemos entender tanto a hombre como a mujer». «De ser así», se pregunta, «¿por qué el término 'bruja', en Éxodo 22:18, en el versículo hebreo 17, está en género femenino?» «Porque», responden, «la mayoría de las mujeres son brujas».
 
 _Ibíd._, fol. 67, col. 1.
 
-Si los orgullosos (en Israel) cesaran, los magos también cesarían, como está escrito (Isaías 1:25): “Yo limpiaré tu escoria y quitaré todo tu estaño”.
+Si los orgullosos (en Israel) cesaran, los magos también cesarían, como está escrito (Isaías 1:25): «Yo limpiaré tu escoria y quitaré todo tu estaño».
 
 _Ibíd._, fol. 98, col. 1.
 
@@ -108,7 +108,7 @@ Una pitón es un espíritu familiar que habla desde las axilas; un mago es quien
 
 _Sanedrín_, fol. 65, cols. 1, 2.
 
-El que le dice a un cuervo: “Croa”, y a una cuerva: “Inclina tu cola y gírala hacia aquí, como señal de buena suerte”, es un imitador de las costumbres de los amorreos (Lev. xviii. 3).
+El que le dice a un cuervo: «Croa», y a una cuerva: «Inclina tu cola y gírala hacia aquí, como señal de buena suerte», es un imitador de las costumbres de los amorreos (Lev. xviii. 3).
 
 _Shabat_, fol. 67, col. 2.
 
@@ -120,7 +120,7 @@ Rav Hunna añade entonces una receta para la fiebre terciana, y Rabí Yojanán d
 
 _Shabbath_, fol. 66, col. 2, etc
 
-Español Una vez, Rabba creó a un hombre (del polvo) y lo envió a Rabí Zira, quien, habiéndose dirigido a la figura y no recibiendo respuesta, dijo: “Tú fuiste (creado) por brujería; regresa a tu polvo nativo”. Rav Chaneanah y Rav Oshayah se sentaban juntos cada víspera de Shabat estudiando el libro Yetzirah (es decir, el libro de la Creación), hasta que pudieron crear para sí mismos un ternero (tan grande como un) niño de tres años, y comieron de él.
+Español Una vez, Rabba creó a un hombre (del polvo) y lo envió a Rabí Zira, quien, habiéndose dirigido a la figura y no recibiendo respuesta, dijo: «Tú fuiste (creado) por brujería; regresa a tu polvo nativo». Rav Chaneanah y Rav Oshayah se sentaban juntos cada víspera de Shabat estudiando el libro Yetzirah (es decir, el libro de la Creación), hasta que pudieron crear para sí mismos un ternero (tan grande como un) niño de tres años, y comieron de él.
 
 _Sanedrín_, fol. 65, col. 2.
 
@@ -140,7 +140,7 @@ El rabino Yochanan ben Zachai adquirió el conocimiento del lenguaje de los áng
 
 _Bava Bathra_, fol. 134, col. 1.
 
-“No usaréis encantamientos…” (Levítico 19:26). Como, por ejemplo, los que se practican con gatos, aves y peces.
+«No usaréis encantamientos…» (Levítico 19:26). Como, por ejemplo, los que se practican con gatos, aves y peces.
 
 _Sanedrín_, fol. 66, col. 1.
 

@@ -80,7 +80,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^249]: 98:2 De un lugar que no ha sido buscado a otro que sí lo ha sido.
 
-[^250]: 98:3 La palabra ‏מועד‎ se traduce aquí según Rashi; otros la han explicado en su sentido habitual, es decir, “festival”.
+[^250]: 98:3 La palabra ‏מועד‎ se traduce aquí según Rashi; otros la han explicado en su sentido habitual, es decir, «festival».
 
 [^251]: 98:4 Después que se haya hecho la búsqueda para servir al consumo de la familia, entre ese tiempo y el período en que toda levadura debe ser quemada, o removida de otra manera.
 

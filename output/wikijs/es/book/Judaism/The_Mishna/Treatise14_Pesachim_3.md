@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO III.
 
-§ 1. La ley concerniente a la debida observancia de la Pascua, será transgredida por el uso de los siguientes artículos: a saber, la כותח babilónica, [^264] la cerveza meda \[hecha de trigo o cebada\], el vinagre edomita, [^265] el zeitum egipcio, [^266] la masa de salvado usada por los tintoreros, la masa usada <span id="p102">[<sup><small>p. 102</small></sup>]</span> por los cocineros, [^267] y la pasta usada por los escritores; [^268] R. Eleazar dice, también la pasta usada por las mujeres para adornarse. [^269] Esta es la regla general: cualquier cosa que esté compuesta de cualquier tipo de grano, puede causar una transgresión de las leyes pascuales; y los que son culpables de esto, incurren en la pena asociada a la transgresión de un precepto admonitorio, [^270] pero no en la de ser “completamente cortados” \[‏כרת‎\].
+§ 1. La ley concerniente a la debida observancia de la Pascua, será transgredida por el uso de los siguientes artículos: a saber, la כותח babilónica, [^264] la cerveza meda \[hecha de trigo o cebada\], el vinagre edomita, [^265] el zeitum egipcio, [^266] la masa de salvado usada por los tintoreros, la masa usada <span id="p102">[<sup><small>p. 102</small></sup>]</span> por los cocineros, [^267] y la pasta usada por los escritores; [^268] R. Eleazar dice, también la pasta usada por las mujeres para adornarse. [^269] Esta es la regla general: cualquier cosa que esté compuesta de cualquier tipo de grano, puede causar una transgresión de las leyes pascuales; y los que son culpables de esto, incurren en la pena asociada a la transgresión de un precepto admonitorio, [^270] pero no en la de ser «completamente cortados» \[‏כרת‎\].
 
 § 2. Si hay masa en los agujeros o grietas de una artesa: [^271] si hay una cantidad del tamaño de una aceituna en algún lugar, debe retirarse de inmediato; pero si hay menos, puede considerarse inexistente, por ser tan insignificante; y lo mismo ocurre con las contaminaciones. [^272] Pero cuando se cuida la masa, cuando el dueño desea usarla, forma una separación, [^273] y la artesa queda impoluta. Pero cuando se desea dejar la masa en la artesa, debe considerarse parte integral de la misma; [^274] no se puede usar una masa sin brillo, [^275] si otra de la misma calidad y tamaño puede leudar al mismo tiempo.
 
@@ -84,7 +84,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^265]: 101:2 Es decir, vinagre hecho a la manera idumea, mediante la fermentación de cebada y vino.
 
-[^266]: 101:3 Nombre de una medicina de origen egipcio, mencionada por Plinio (libro xxii. c.82), con el nombre de “zythum”; según el Talmud, estaba compuesta de partes iguales de cebada, sal y azafrán silvestre.
+[^266]: 101:3 Nombre de una medicina de origen egipcio, mencionada por Plinio (libro xxii. c.82), con el nombre de «zythum»; según el Talmud, estaba compuesta de partes iguales de cebada, sal y azafrán silvestre.
 
 [^267]: 102:4 Tapar las ollas para atraer las impurezas de los alimentos al hervir; el amylos de los antiguos.
 
@@ -102,7 +102,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^274]: 102:11 Esta parte se aplica más particularmente a otros tiempos del año, y no exclusivamente a la Pascua.
 
-[^275]: 102:12 En el original, “una masa sorda”, ‏בצק החרש‎; o como otros lo leen ‏בצק החרס‎, una masa \[como\] un ladrillo, es decir, una masa que no muestra pronto ninguna señal de levado, o que produce un sonido sordo cuando se la golpea con la mano \[como una persona sorda que no responde cuando se le habla\]; según la otra derivación, cuando es tan dura como un ladrillo.
+[^275]: 102:12 En el original, «una masa sorda», ‏בצק החרש‎; o como otros lo leen ‏בצק החרס‎, una masa \[como\] un ladrillo, es decir, una masa que no muestra pronto ninguna señal de levado, o que produce un sonido sordo cuando se la golpea con la mano \[como una persona sorda que no responde cuando se le habla\]; según la otra derivación, cuando es tan dura como un ladrillo.
 
 [^276]: 102:13 Porque no se puede hornear en la festividad, ni usarse en ella de ninguna manera.
 

@@ -46,7 +46,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 <span id="p146">[<sup><small>pág. 146</small></sup>]</span>
 
-§ 6. Beth Shammai considera ilegal llevar al sacerdote durante la festividad חלה u otros regalos [pertenecientes a los sacerdotes], ya sea que se hubieran apartado para tal fin ese día o el anterior; pero Beth Hillel lo permite. Beth Shammai alegó, para respaldar su decisión, la similitud de expresión en ambos, y dijo que חלה y otros derechos sacerdotales se llaman _dones_ [מתנות_], debidos a los sacerdotes: תרומה, u ofrenda elevada, también es uno de estos regalos; ahora bien, así como no se puede llevar ofrenda elevada al sacerdote durante la festividad, también es ilegal llevarle cualquier otro regalo sacerdotal ese día. Pero Beth Hillel responde: “Lo que se afirma de la ofrenda elevada no puede aplicarse a los otros dones, [^410] porque aquello no se puede incurrir en la fiesta, pero los otros dones sí”.
+§ 6. Beth Shammai considera ilegal llevar al sacerdote durante la festividad חלה u otros regalos [pertenecientes a los sacerdotes], ya sea que se hubieran apartado para tal fin ese día o el anterior; pero Beth Hillel lo permite. Beth Shammai alegó, para respaldar su decisión, la similitud de expresión en ambos, y dijo que חלה y otros derechos sacerdotales se llaman _dones_ [מתנות_], debidos a los sacerdotes: תרומה, u ofrenda elevada, también es uno de estos regalos; ahora bien, así como no se puede llevar ofrenda elevada al sacerdote durante la festividad, también es ilegal llevarle cualquier otro regalo sacerdotal ese día. Pero Beth Hillel responde: «Lo que se afirma de la ofrenda elevada no puede aplicarse a los otros dones, [^410] porque aquello no se puede incurrir en la fiesta, pero los otros dones sí».
 
 § 7. Beth Shammai dice: «En la festividad, las especias se pueden machacar solo con un mortero de madera, y la sal con una jarra de barro o con una cuchara grande de madera». Pero Beth Hillel dice: «Las especias se pueden machacar, como de costumbre, con un mortero de piedra, y la sal con una cuchara de madera».
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 9. Beth Shammai enseña que es ilegal enviar a otra persona como regalo durante la festividad cualquier cosa que no sean comestibles. [^411] Beth Hillel permite enviar incluso ganado, caza y aves de corral, [^412] ya sean vivas o muertas; también se permiten regalos de vino, aceite, harina fina y legumbres, pero no grano. [^413] Pero R. Simeón también permite enviar grano. [^414]
 
-§ 10. También es lícito enviar ropa, cosida o no, incluso de “Kilaim”, si se usa en la festividad, pero no sandalias con clavos de hierro, [^415] ni zapatos sin coser ni terminar. R. Jehudah dice: <span id="p147">[<sup><small>p. 147</small></sup>]</span> “Tampoco se pueden enviar zapatos blancos, porque requieren un artesano para hacerlos aptos para su uso”. [^416] Esta es la regla general: todo lo que se pueda usar en la festividad puede enviarse como regalo.
+§ 10. También es lícito enviar ropa, cosida o no, incluso de «Kilaim», si se usa en la festividad, pero no sandalias con clavos de hierro, [^415] ni zapatos sin coser ni terminar. R. Jehudah dice: <span id="p147">[<sup><small>p. 147</small></sup>]</span> «Tampoco se pueden enviar zapatos blancos, porque requieren un artesano para hacerlos aptos para su uso». [^416] Esta es la regla general: todo lo que se pueda usar en la festividad puede enviarse como regalo.
 
 
 
@@ -84,7 +84,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ## Notas al pie
 
-[^408]: 145:1 Para “prepararlos” para ser utilizados en la fiesta.
+[^408]: 145:1 Para «prepararlos» para ser utilizados en la fiesta.
 
 [^409]: 145:2 Sin siquiera manipular las aves.
 

@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. Si una entrada tiene más de veinte metros de altura, debe reducirse su altura bajando la viga transversal. R. Jehudah dice: «Esto no es necesario; si tiene más de diez metros de ancho, debe reducirse su anchura; pero si tiene la apariencia de una puerta, aunque tenga más de diez metros de ancho, no es necesario reducirla».
 
-§ 2. Para legalizar \[el transporte o traslado dentro\] de una entrada \[a un lugar cerrado por tres lados\], Beth Shammai sostiene, “\[que\] se requiere un poste y una viga\[];” pero Beth Hillel sostiene, “\[que basta\] con un poste o una viga\[];” R. Eleazar dice, “dos postes”. Con la autoridad de R. Ismael, un discípulo declaró ante R. Akivah “Beth Shammai y Beth Hillel no diferían \[en opinión\] en cuanto a una <span id="p72">[<sup><small>p. 72</small></sup>]</span> entrada de menos de cuatro amo de ancho, \[pues ambos estaban de acuerdo en que\] dicha \[entrada\] se legaliza ya sea a través de una viga o un poste”. ¿En qué diferían? Respecto a las entradas de más de cuatro amoth de ancho y hasta diez amoth: de estas, Beth Shammai sostiene que se requieren un poste y una viga; mientras que Beth Hillel sostiene que basta con un poste o una viga. R. Akivah dijo: «Difieren en cuanto a uno y a otro».
+§ 2. Para legalizar \[el transporte o traslado dentro\] de una entrada \[a un lugar cerrado por tres lados\], Beth Shammai sostiene, «\[que\] se requiere un poste y una viga\[];» pero Beth Hillel sostiene, «\[que basta\] con un poste o una viga\[];» R. Eleazar dice, «dos postes». Con la autoridad de R. Ismael, un discípulo declaró ante R. Akivah «Beth Shammai y Beth Hillel no diferían \[en opinión\] en cuanto a una <span id="p72">[<sup><small>p. 72</small></sup>]</span> entrada de menos de cuatro amo de ancho, \[pues ambos estaban de acuerdo en que\] dicha \[entrada\] se legaliza ya sea a través de una viga o un poste». ¿En qué diferían? Respecto a las entradas de más de cuatro amoth de ancho y hasta diez amoth: de estas, Beth Shammai sostiene que se requieren un poste y una viga; mientras que Beth Hillel sostiene que basta con un poste o una viga. R. Akivah dijo: «Difieren en cuanto a uno y a otro».
 
 § 3. La viga en cuestión debe ser lo suficientemente ancha para recibir un ‏אריח‎, que es la mitad de un ladrillo, de tres palmos de largo y tres palmos de ancho; es suficiente, sin embargo, que la viga tenga un palmo de ancho, para sostener medio ladrillo a lo largo.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 5. Si la viga es de paja o de caña, se considera legalmente como si fuera de metal; si está torcida, se considera recta; si es cilíndrica, se considera cuadrada. Todo lo que mide tres palmos de circunferencia, tiene un palmo de ancho. [^182]
 
-§ 6. Los postes en cuestión deben tener diez manos de alto, sea cual sea su ancho y grosor: dice R. José: “Su ancho debe ser de tres manos”.
+§ 6. Los postes en cuestión deben tener diez manos de alto, sea cual sea su ancho y grosor: dice R. José: «Su ancho debe ser de tres manos».
 
 § 7. Dichos postes pueden hacerse de cualquier cosa, incluso de algo que posea vida; esto último, sin embargo, R. José lo prohíbe. Un animal vivo atado a una tumba para cerrarla comunica impureza, incluso después de ser retirado de ella. R. Meir dice que es puro: «También se puede escribir sobre él una carta de divorcio para una mujer [^183] un animal vivo»; pero R. José, el Galileo, la declara «[la carta de divorcio así escrita] nula, [no válida legalmente]».
 

@@ -58,19 +58,19 @@ Lutterbeck, _die neutestamentlichen Lehrbegriffe_, vol. 1., 1853.
 
 Señoritas, _Zaphnath Paneach, Darstellung und Kritsche Beleuchtung der jüdischen Geheimlehre_, 2 partes. Cracovia, 1862-63.
 
-Lichtenberger, _Enclypédie des'sciences religieuses_, art. “Cábala”, vol. II, págs. 497 y siguientes, París, 1878.
+Lichtenberger, _Enclypédie des'sciences religieuses_, art. «Cábala», vol. II, págs. 497 y siguientes, París, 1878.
 
 Bloch, _Geschichte der Entwickelung der Kabbala_, Tréveris, 1894.
 
 Ehrenpreis, _Kabbalistische Studien_, Parte 1., Frankfort-on-the-Main, 1895.
 
-Vacante, _Dictionaire de théologie catholique_, París, 1899, ss., art. “Cábala”, vol. II, 1271-91.
+Vacante, _Dictionaire de théologie catholique_, París, 1899, ss., art. «Cábala», vol. II, 1271-91.
 
-Wünsche, art. “Kabbala” en _Herzog-Hauck Realencyklopädie für Protestantische Theologie und Kirche_, vol. IX, Leipzig, 1901.
+Wünsche, art. «Kabbala» en _Herzog-Hauck Realencyklopädie für Protestantische Theologie und Kirche_, vol. IX, Leipzig, 1901.
 
 Bischoff, _die Kabbalah; Einführung in die jüdische Mystik und Geheimwissenschaft_, Leipzig, 1903 (trata el tema de manera catequética).
 
-Schülein, art. “Kabbala” en _Kirchliches Handlexikon_, München, 1907, ff. vol. II, 255-257.
+Schülein, art. «Kabbala» en _Kirchliches Handlexikon_, München, 1907, ff. vol. II, 255-257.
 
 Nos hemos abstenido deliberadamente de hacer referencia a los manuales históricos de D. Cassel, S. Back, G. Karpeles, etc., porque no ofrecen nada nuevo desde un punto de vista crítico; y por razones obvias no hacemos mención de artículos sobre la Cábala en las enciclopedias inglesas.
 

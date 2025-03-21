@@ -102,7 +102,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 [^326]: 115:7 Con este término la Mishná y el Talmud expresan la contaminación que se contrae al pasar sobre un terreno que contiene un cadáver, sin que la persona que pasa sea consciente de ello.
 
-[^327]: 115:8 Rashi y Bartenora explican esta frase así: “Debe dejarse durante la noche para que se convierta en ‏נותר‎, o un sacrificio pascual que ha permanecido durante la noche sin ser comido, y que debe ser quemado, según el mandato de la Santa Ley.” (Éxodo xii. 10.)
+[^327]: 115:8 Rashi y Bartenora explican esta frase así: «Debe dejarse durante la noche para que se convierta en ‏נותר‎, o un sacrificio pascual que ha permanecido durante la noche sin ser comido, y que debe ser quemado, según el mandato de la Santa Ley.» (Éxodo xii. 10.)
 
 [^328]: 115:9 Según Maimónides, el sacrificio debe dejarse hasta que se descomponga y se pudra.
 
