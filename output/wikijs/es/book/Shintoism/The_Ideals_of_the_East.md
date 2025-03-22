@@ -8,7 +8,40 @@ editor: markdown
 dateCreated: 2025-2-12T12:54:31Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-shinto"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Kakuzo Okakura</text>		<text style="font-size:4px" x="61" y="125">1904</text>		<text style="font-size:9px" x="61" y="60">Los ideales</text>		<text style="font-size:9px" x="61" y="70">de Oriente</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">LOS IDEALES DE ORIENTE</span><br>CON ESPECIAL REFERENCIA AL ARTE DEL JAPÓN<br><span class="text-h5">por KAKUZO OKAKURA</span><br>E.P. Dutton & Co., Nueva York<br>[1904]<br>escaneado en sacred-texts.com, abril de 2004. John Bruno Hare, redactor. Este texto es de dominio público. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución.<br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Shintoism/The_Ideals_of_the_East/kannon.jpg"></figure><br style="clear:both;"/>Esta es una breve pero muy concisa introducción al arte asiático del autor de [El libro del té](/es/libro/Sintoísmo/El_libro_del_té). Escrita desde una perspectiva japonesa y centrándose en el arte japonés, uno de los temas principales es la relación entre la espiritualidad, en particular el budismo, y la evolución del arte asiático.
+<div class="urantiapedia-book-front urantiapedia-book-shinto">/book/
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Kakuzo Okakura</text>
+		<text style="font-size:4px" x="61" y="125">1904</text>
+		<text style="font-size:9px" x="61" y="60">Los ideales</text>
+		<text style="font-size:9px" x="61" y="70">de Oriente</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">LOS IDEALES DE ORIENTE</span><br>
+CON ESPECIAL REFERENCIA AL ARTE DEL JAPÓN<br>
+<span class="text-h5">por KAKUZO OKAKURA</span><br>
+E.P. Dutton & Co., Nueva York<br>
+[1904]<br>
+escaneado en sacred-texts.com, abril de 2004. John Bruno Hare, redactor. Este texto es de dominio público. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que se deje intacto este aviso de atribución.<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Shintoism/The_Ideals_of_the_East/kannon.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Esta es una breve pero muy concisa introducción al arte asiático del autor de [El libro del té](/es/book/Shintoism/The_Book_of_Tea). Escrita desde una perspectiva japonesa y centrándose en el arte japonés, uno de los temas principales es la relación entre la espiritualidad, en particular el budismo, y la evolución del arte asiático.
+
+
+
 ## Índice
 
 - [Introducción](/es/book/Shintoism/The_Ideals_of_the_East/Introduction)

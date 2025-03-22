@@ -29,7 +29,21 @@ dateCreated: 2025-2-12T12:53:39Z
   </table>
 </figure>
 
-
+<p style="text-align:center;">
+A MI AMADO TÍO
+<br>
+TOKITOSHI OTA
+<br>
+¿QUIÉN ME ENSEÑÓ A REVERENCIAR EL PASADO?
+<br>
+Y
+<br>
+PARA ADMIRAR LAS HAZAÑAS DEL SAMURAI
+<br>
+ME DEDICO<br>
+<br>
+ESTE PEQUEÑO LIBRO<br>
+</p>
 
 <figure class="table chapter-navigator">
   <table>

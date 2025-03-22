@@ -29,7 +29,24 @@ dateCreated: 2025-2-12T12:53:55Z
   </table>
 </figure>
 
+**Página llena**
 
+&nbsp; | &nbsp;
+--- | ---
+LA MONTAÑA DE LAS CALAVERAS | _Frontispicio_
+EL INCIENSO MÁGICO | _A la página siguiente_ 43
+LA LINTERNA DE PEONÍA | 80
+LAS LUCES DE LOS MUERTOS | 230
+
+**Ilustraciones en el texto**
+
+&nbsp; | &nbsp;
+--- | ---
+RASTREANDO S'RIPADÂ EN DENTSU-IN, KOISHIKAWA, TOKIO | 121
+SHO-EKÔ-HÔ-KWAN | 124
+CUADRADO Y TRIÁNGULO | 104
+JIZO | 178
+EMMA, VAMOS | 179
 
 <figure class="table chapter-navigator">
   <table>
