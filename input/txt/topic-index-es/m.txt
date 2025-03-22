@@ -194,7 +194,7 @@ Malaquías | | | PERSON | OK
 Juan el Bautista quedó impresionado por la profecía de Malaquías acerca de Elías (135:4.4)
 Malaquías surgió como un líder espiritual que no fue silenciado en medio de la creciente esclavitud y tiranía del sacerdocio, y ayudó a preservar el concepto del Padre Universal para los judíos (97:10.3)
 
-inadaptación | | mala adaptación | | OK
+inadaptación | | inadaptaciones | | OK
 
 paludismo | | | | OK
 Amatha, que sufría de fiebre palúdica, no fue sanada milagrosamente por Jesús hasta varias horas después. (145:2.16)
@@ -1831,7 +1831,7 @@ El «Monumento a Miguel» en el primer mundo de estancia de Satania está sellad
 Memorial de Miguel (en Jerusem); monumento conmemorativo a Miguel | | Miguel de Nebadon | PLACE | OK
 El monumento conmemorativo de Miguel, en el centro de los círculos de los Hijos de Dios en Jerusalén, está atendido por más de un millón de personalidades, y simboliza el corazón de todas las actividades del sistema desde la donación de Miguel en Urantia. (46:5.19)
 
-Miguel de Nebadon; Miguel; Nuestro Hijo Creador; Cristo Miguel | (119) (33:1-2) | Cristo; Hijos Creadores; Jesús; Migueles Maestros | PERSON | OK
+Miguel de Nebadon; Miguel; Nuestro Hijo Creador; nuestro Hijo Creador; Cristo Miguel | (119) (33:1-2) | Cristo; Hijos Creadores; Jesús; Migueles Maestros | PERSON | OK
 descripción
 	Miguel de Nebadon es la cabeza de todas las personalidades de Nebadon y el creador de Nebadon. Es a la vez un padre, un creador y un soberano para todos los habitantes de Nebadon. (33:3.2) (37:0.1) (128:1.13)
 	[Miguel de Nebadon](/image/The_Urantia_Book/Celestials/Michael_of_Nebadon_01.jpg) {image-style-align-right}
@@ -1946,7 +1946,7 @@ futuro
 
 Hijos Migueles; Hijo Miguel | | Hijos Creadores | ORDER | OK
 
-Miguel (original) | | Hijos Creadores; Hijos Paradisíacos de Dios | PERSON | OK
+Miguel (original); Miguel original | | Hijos Creadores; Hijos Paradisíacos de Dios | PERSON | OK
 El Miguel original pasó por siete circuitos de Havona, compartiendo las experiencias de los ascendentes y revelando la donación trascendente del Hijo Eterno a todas las criaturas de Havona. (7:5.8-9) (8:4.3) (21:0.4)
 El Miguel original es el líder que preside a los Hijos Paradisiacos primarios durante las reuniones en el centro de todas las cosas. (21:0.5)
 
@@ -1956,7 +1956,7 @@ A David se le exigió que pagara cien prepucios filisteos como dote por su espos
 Michigan | | | PLACE | OK
 La antigua capa de piedra que contiene fósiles emerge en Michigan y otras regiones de América del Norte. (58:7.4)
 
-respiradores intermedios | | | | OK
+respiradores medios | | | | OK
 Los que respiran a medias, como los urantianos, constituyen el 91% de los mortales atmosféricos en Satania. (49:2.12-13)
 
 mamíferos intermedios | (62:3) | | | OK
@@ -1971,15 +1971,15 @@ mitad de la mente | | alma | | OK
 
 Edad Media | | edades de tinieblas | | OK
 
-madianitas | | | RACE | OK
+madianitas; medianitas | | | RACE | OK
 Los hebreos cometieron atrocidades en la antigua guerra contra los madianitas en nombre de su Dios (70:1.15)
 En el segundo día de viaje, recordaron los días de Gedeón, cuando los madianitas invadieron la región (124:6.6)
 
-mundo midsonita | | midsonitarios | ORDER | OK
+mundo midsonita; esferas midsonitas; mundo midsonito | | midsonitarios | ORDER | OK
 El grupo de mundos de los finalistas en el circuito de Salvington alberga a los midsonitas, seres que no son ni mortales ni inmortales, que nunca han experimentado la muerte. (36:4.4-5)
 Los Hijos e Hijas Materiales pueden elegir recibir Ajustadores en el mundo midsonita. (55:4.27)
 
-midsonitarios | (30:1.111) (36:4.5-6) (45:6.9) | mundo midsonita | ORDER | OK
+midsonitarios; midsonitos | (30:1.111) (36:4.5-6) (45:6.9) | mundo midsonita | ORDER | OK
 En cada sistema local de mundos habitados por todo Nebadon, hay una sola esfera designada como mundo midsonita donde los Melquisedek sirven como portadores de vida, eligiendo a las Madres Evas entre las voluntarias seleccionadas por el Soberano del Sistema. (36:4.1)
 Los midsonitas llegan a los sistemas locales en luz y vida, sirviendo como consejeros y asesores, inculcando significados supremos de mota a los finalistas. (55:8.4)
 Los grupos de padres midsonitas se ofrecen como voluntarios para ayudar en la guardería probatoria del sistema supervisada por Hijos e Hijas Materiales de Jerusem. (45:6.9)
@@ -1990,7 +1990,7 @@ Los midsonitas son la progenie de los Portadores de Vida de Melquisedek y las Hi
 Los midsonitas viven como seres reproductores durante 1.000 años antes de ser removidos por transporte seráfico y volverse no reproductores para siempre. (36:4.3)
 El propósito de las criaturas midsonitas sigue siendo desconocido, ya que se reúnen en el séptimo mundo finalista en preparación para un evento futuro en la evolución del universo, a pesar de la negativa de los finalistas a discutir el destino de sus protegidos. (36:4.8)
 
-zonas del espacio intermedio | | espacio | PLACE | OK
+zonas del espacio intermedio; zona espacial de quietud relativa; zona intermedia; zonas en reposo del espacio intermedio; zonas de espacio intermedio; zonas relativamente inmóviles de espacio intermedio; zonas en reposo del espacio intermedio | | espacio | PLACE | OK
 Las zonas del espacio intermedio, de 400.000 años luz de ancho entre los 7 superuniversos y el primer nivel del espacio exterior, contienen circuitos de fuerza y ​​energías materializantes inmensos e increíblemente estupendos. (12:1.14)
 Se detectan señales de manifestaciones de fuerza a 50.000.000 de años luz más allá del primer nivel del espacio exterior, lo que indica la organización del segundo nivel del espacio exterior. (12:1.15)
 En las zonas del espacio intermedio libres de polvo estelar y niebla cósmica, se reúnen en los niveles del espacio exterior circuitos inmensos y estupendos de fuerza y ​​energías. (12:1.14)
@@ -2079,7 +2079,7 @@ Estado futuro
 	Los Hijos de Selección Trinidizados son reclutados entre serafines evolutivos y seres intermedios, así como mortales fusionados con el Espíritu y con el Hijo. Son abrazados por la Trinidad del Paraíso y entrenados en Havona antes de ser asignados a las cortes de los Ancianos de los Días. (22:1.11)
 	Los seres intermedios, tras largos períodos de fiel servicio manteniendo la soberanía del Hijo Creador y atendiendo a los mortales materiales, son finalmente liberados por los Hijos Instructores de la Trinidad para ascender al Paraíso con sus hermanos terrestres. (38:9.13) (40:3) (55:4.8-10)
 
-intermedios (jefe de Urantia) | (74:2.5) (91:9.9) | | PERSON | OK
+intermedios (jefe de Urantia); Jefe de los Intermedios de Urantia | (74:2.5) (91:9.9) | | PERSON | OK
 El Jefe de los Seres Intermedios de Urantia escribió el Documento 91. (91:9.9)
 
 intermedios primarios; Intermedios Primarios | (77:1) | intermedios | ORDER | OK
@@ -2135,11 +2135,11 @@ En Urantia
 	Los intermedios, que sirven como guardianes de contacto para los reservistas cuando los Ajustadores se desprendieron, coordinan personalidades y circunstancias para facilitar las revelaciones planetarias. (77:7.5) (77:8.13)
 	Tres intermedios escribieron conferencias sobre Urmia adaptando las enseñanzas de Jesús a las condiciones religiosas y políticas modernas. (134:3.8)
 
-partería | | embarazo | | OK
+partería; comadrona; comadronas | | embarazo | | OK
 La profesión de partera se originó a partir de antiguas prácticas de asistencia a las madres durante el parto. (84:4.6)
 Los chamanes aprendieron diversas técnicas de curación, incluidas cirugías como la trepanación, mientras que las chamanes se volvieron expertas en la partería. (90:4.4)
 
-fuerza bruta | | compulsión | | OK
+fuerza bruta; fuerza | | compulsión | | OK
 La fuerza hace valer los derechos reconocidos por todos y garantiza la protección de los derechos tanto individuales como de los de grupo. (81:5.6)
 La fuerza moldea la historia, sea o no moralmente justa. (81:6.15)
 En los días de la barbarie, la fuerza era la regla entre los antiguos para regular el combate en la corte. (70:11.13) (70:12.2)
@@ -2173,7 +2173,7 @@ Milca | | | PERSON | OK
 En la decimosexta aparición de Jesús, instruyó al grupo más representativo de creyentes acerca de la realidad de la paternidad de Dios y la verdad de la filiación del hombre, instándolos a proclamar el evangelio del reino con fe y amor. (193:0)
 Milcha, prima del apóstol Tomás, estaba entre las diez mujeres que Jesús escogió para ministrar en favor del reino. (150:1.1)
 
-milla | | | | OK
+milla; kilómetro; legua | | | | OK
 Una milla de Jerusem equivale aproximadamente a siete millas de Urantia; el peso estándar de Jerusem se deriva de los ultimatones y el año del sistema está compuesto por cien días de Jerusem. (46:1.2)
 La verdadera transformación del hombre y su mundo proviene de la segunda milla de servicio y devoción gratuitos, no de la primera. (195:10.5)
 
@@ -2202,13 +2202,13 @@ La Vía Láctea está compuesta por un gran número de nebulosas, muchas de las 
 El centro físico de Orvontón se encuentra en el denso diámetro de la Vía Láctea, lejos del sistema de Satania. (32:2.11)
 La Vía Láctea representa el núcleo central de Orvontón, abarcando una vasta gama de cuerpos celestes y formando una porción significativa de universos evolutivos habitados. (15:3.1-3) (42:5.5)
 
-molinero en Corinto | | | PERSON | OK
+molinero en Corinto; molinero | | | PERSON | OK
 La enseñanza de Jesús al molinero de Corinto consistía en moler los granos de la verdad en el molino de la experiencia viviente, haciendo que la vida divina fuera fácilmente recibible incluso por los débiles y endebles. (133:4.2)
 
 piedra de molino | | | | OK
 Hacer tropezar a un niño es como si le colgaran una piedra de molino al cuello y lo arrojaran al mar. (158:8.1)
 
-mente | (9:5) (42:10) | conciencia; mente cósmica; mente mortal | | OK
+mente; mental | (9:5) (42:10) | conciencia; mente cósmica; mente mortal | | OK
 Los tres Absolutos trascienden la mente y superan a la materia, desconcertándome constantemente con sus complejas transacciones. (4:1.8)
 La concesión de la mente por parte de Dios a seres de estado superior e inferior no disminuye la sabiduría eterna de la fuente central. (3:4.3)
 Espíritu Infinito
@@ -2336,7 +2336,7 @@ Reservas Ministrantes | | | ORDER | OK
 Los serafines de transición del séptimo orden ejercen su ministerio como voluntarios, encendiendo el fuego divino de la voluntad de servir mediante la amistad personal con los mortales ascendentes. (48:6.34)
 Los serafines de transición que tienen su sede en el primer mundo de estancia suelen acercarse más a los humanos y encienden el fuego divino del servicio mediante la amistad personal. (48:6.34)
 
-cuarteto de espíritus ministrantes | | | | OK
+cuarteto de espíritus ministrantes; cuartetos de espíritus ministrantes | | | | OK
 Durante esta era, un Hijo Instructor extiende su ayuda al jefe ejecutivo mortal en asociación con un cuarteto de espíritus ministradores, facilitando la administración conjunta de los asuntos mundiales con el Soberano Planetario. (55:4.15,16)
 
 espíritus ministrantes | (26:1) | ángeles; Espíritu Infinito:familia | ORDER | OK
@@ -2420,7 +2420,7 @@ La venta de leche y mantequilla de Miriam en Nazaret ayudó a mantener a su fami
 El matrimonio de Miriam con Jacob, el albañil, fue una ocasión alegre que se produjo porque Santiago obtuvo la aprobación y la bendición de Jesús. (128:5.8) (128:7.10,12)
 La cuarta aparición de Jesús ante los mortales tuvo lugar poco antes de las dos de la tarde en la casa de Marta y María, donde Miriam y sus amigas lo presenciaron desaparecer de su vista. (190:2.6)
 
-espejos | | | | OK
+espejos; espejo | | | | OK
 Confucio enseñó que la civilización terrenal refleja el orden celestial eterno. (94:6.10)
 Tu capacidad espiritual se mide por tu fe y amor, mientras que tu fuerza humana se revela en tu habilidad para resistir los rencores y la melancolía; la derrota es el espejo honesto de tu verdadero ser. (156:5.17)
 Cada superuniverso refleja la naturaleza y el carácter del Espíritu Rector que preside, guiando el crecimiento evolutivo de una manera profunda. (25:2.4)
@@ -2430,12 +2430,12 @@ Los primitivos reverenciaban los espejos con un temor supersticioso, ya que cre�
 Para obtener ayuda celestial, abandona el orgullo y acude con un corazón limpio que refleje la verdad como un espejo. (131:7.3)
 La filosofía refleja la sabiduría de la divinidad para que todos la absorban. (28:5.11)
 
-mala adaptación | | confusión; dificultades | | OK
+inadaptaciones | | confusión; dificultades | | OK
 Dios permite la falta de armonía en el universo para permitir el libre albedrío, lo que lleva a la posibilidad de desacuerdos y malentendidos como evidencia de la existencia de la personalidad en nuestro universo en evolución. (75:8.6-7)
 En el futuro, los superuniversos agotarán las posibilidades de desadaptación a medida que se esfuercen por alcanzar la perfección en todos los aspectos del desarrollo físico, espiritual, administrativo, gubernamental y fraternal. (117:7.13)
 La imperfección y el mal potencial surgen de la desadaptación inherente al crecimiento evolutivo. (105:6.4)
 
-miseria | | dificultades; sufrimiento | | OK
+miseria; desdicha | | dificultades; sufrimiento | | OK
 Enseña a los creyentes a evitar la mera participación en la miseria y, en cambio, alienta los esfuerzos valientes y valerosos para enfrentar las pruebas. (159:3.11)
 
 desgracia | | dificultades | | OK
@@ -2472,7 +2472,7 @@ Misioneros cristianos
 En la nación principal de un planeta cercano
 	Una cultura superior debería educar y enviar a extranjeros capacitados de regreso a su propia tierra para que se enriquecieran culturalmente. (72:12.2)
 
-río Misisipí | (59:3.9) (59:5.20) (61:7.2) | | PLACE | OK
+río Misisipí; valle del Misisipí | (59:3.9) (59:5.20) (61:7.2) | | PLACE | OK
 Los Grandes Lagos alguna vez desembocaron en el río Misisipi, tallando su forma actual a lo largo de treinta y siete mil años. (61:7.10)
 
 Missouri | (61:7.9) | | PLACE | OK
@@ -2499,7 +2499,7 @@ Jesús habló con el sacerdote mitraico de Persia acerca de la inmortalidad, el 
 sacerdote mitríaco en Corinto; jefe sincero del culto mitríaco | | | PERSON | OK
 Jesús habló con el sacerdote mitraico en Corinto, instándolo a buscar la salvación eterna dentro de su propia alma en lugar de en misterios creados por el hombre o filosofías humanas. (133:4.4)
 
-mitraísmo | | Mitra; cultos de misterio | RELIGION | OK
+mitraísmo; mitracismo; culto mitríaco | | Mitra; cultos de misterio | RELIGION | OK
 El culto a Mitra, salvador de la humanidad pecadora, surgió en Irán a pesar de la oposición de los seguidores de Zoroastro, y más tarde influyó en el cristianismo a través de sus enseñanzas. (98:4.5) (98:5.2)
 El culto al sol en Persia dio origen al culto mitraico, un legado duradero de reverencia solar a través de las civilizaciones antiguas. (85:5.2)
 El mitraísmo, con su estímulo militarista y tolerancia hacia otras religiones, finalmente cayó debido a su admisión de mujeres en la comunidad cristiana. (98:6.4)
@@ -2528,7 +2528,7 @@ El grupo de Jerusem aprobó los planes de iniciación de vida planetaria para Ur
 Mo-Ti | | | PERSON | OK
 Mo Ti combatió el confucianismo, proclamando una hermandad fundada en el amor a Dios en un intento de revivir la antigua búsqueda de una nueva verdad en medio de la abrumadora influencia de los preceptos confucianos en la cultura china. (94:6.11)
 
-colinas de Moab | (123:5.12) | | PLACE | OK
+colinas de Moab; colinas rocosas de Moab | (123:5.12) | | PLACE | OK
 Desde la alta colina cerca de Nazaret, José y Jesús podían ver las colinas de Moab al este, el monte Carmelo al noroeste y el monte Hermón al norte, entre otras vistas. (123:5.12)
 
 moabitas | | | RACE | OK
@@ -2540,8 +2540,8 @@ moderación | | | | OK
 La fuerza se logra mediante la acción, mientras que el encanto se otorga mediante la moderación. (48:7.11)
 La moderación en todas las cosas es buena; la sabiduría y la virtud conducen a la verdadera nobleza y a la paz. (131:3.6)
 
-civilización moderna | | | | OK
-En medio de la agitación psicológica del siglo XX, marcada por trastornos económicos y transiciones sociológicas, hay un estancamiento espiritual y un caos filosófico en la civilización moderna. (99:4.6)
+civilización moderna; civilización | | | | OK
+En medio de la agitación psicológica del siglo XX, marcada por trastornos económicos y transiciones sociológicas, hay un estancamiento espiritual y un caos filosófico en la civilización moderna. (99:4.4-6)
 
 modestia | | | | OK
 La antigua práctica de insultar a los afortunados evolucionó hacia la modestia y la moderación civilizadas para evitar la envidia de los espíritus. (87:5.7)
@@ -2561,7 +2561,7 @@ Las especies no progresivas de moluscos (ostras, pulpos y caracoles) representan
 Durante la Edad Oscura, la alianza de la Iglesia con la política condujo a una decadencia de la espiritualidad y al surgimiento de las órdenes monásticas. (195:4.1)
 A medida que la pubertad se acercaba a la edad común para contraer matrimonio, con el progreso de la civilización, surgieron órdenes peculiares y célibes de hombres y mujeres, mantenidas por individuos que carecían de los impulsos sexuales normales. (82:3.9)
 
-dinero | | denarios; ganarse la vida; ébolos; libras; siclos; talentos:dinero; pieza de diez centavos; riqueza | | OK
+dinero | | denarios; ganarse la vida; ébolos; talentos; siclos; talentos:dinero; pieza de diez centavos; riqueza | | OK
 El dinero no puede amar, y el primer deber de cualquiera es atender las necesidades físicas de su familia y cuidarla, a pesar de las ofertas de apoyo material. (127:2.8)
 El primer medio de intercambio fue un pez, una cabra o una vaca, mientras que las primeras pesas fueron granos de trigo y otros cereales. (69:4.5)
 El primer crédito comercial se practicó en Dalamatia, donde las fichas reemplazaron a los objetos de trueque en el intercambio. (66:5.12)
@@ -2580,7 +2580,7 @@ En el atrio de los gentiles, Jesús quedó consternado por la irreverencia de lo
 Jesús limpió el templo de los cambistas de dinero que se beneficiaban de la comercialización de las prácticas religiosas para proteger a los pobres de la especulación injusta. (173:1)
 Los cambistas autorizados cambiaban diversas monedas por siclos en el recinto del templo, y se beneficiaban de las cuotas del templo y de las transacciones comerciales. (173:1.3) (173:2.3)
 
-prestamistas | | | | OK
+prestamistas; prestamista | | | | OK
 Los prestamistas se convirtieron en reyes creando un ejército permanente de deudores, cuyos primeros acreedores controlaban el cuerpo después de la muerte. (69:5.8)
 La riqueza legítima merece un interés justo, pero la usura nunca debe utilizarse para explotar a los demás. (132:5.19)
 La parábola de los dos deudores ilustra el poder del perdón y el amor, como se ve en el arrepentimiento y la gratitud de la mujer hacia Jesús. (147:5.4)
@@ -2591,10 +2591,10 @@ En Mongolia, donde la adoración de las aguas fluyentes sigue siendo fuerte, pro
 mercader de Mongolia | | | PERSON | OK
 El mercader mongol que habló con Jesús en Cesarea se convirtió en un devoto maestro de verdades avanzadas, inspirando a generaciones de seguidores a abrazar el concepto del Gobernante Supremo del Cielo. (130:2.2)
 
-mongoloides | | razas | RACE | OK
+mongoloides; mongoloide | | razas | RACE | OK
 La raza mongoloide es una mezcla de sangiks rojos, amarillos y azules, que abarca a los chinos, amerindios, europeos modificados por una mezcla secundaria de sangik y andónico, infusión andita, así como a los malayos y otros pueblos indonesios con un alto porcentaje de sangre sangik secundaria. (81:4.12)
 
-monos | | simios | | OK
+monos; simiescos | | simios | | OK
 La aparición de los monos primitivos desempeñó un papel importante en la evolución de la vida de los mamíferos hace 45.000.000 de años. (61:1.9) (61:3.12) (61:4.4)
 Los monos, al igual que los simios, se convirtieron en animales fetiche, lo que dio lugar a diversos tabúes sobre el consumo de su carne, como se ve en la reverencia a otros animales y la creencia en sus poderes de encanto. (88:1.5)
 Los mamíferos intermedios retardados fueron los antepasados ​​de los monos, los babuinos, los chimpancés y los gorilas. (62:3.12)
@@ -2722,7 +2722,7 @@ Los orígenes inconscientes de las costumbres fueron moldeados por las reaccione
 El personal de Prince respetaba las costumbres de cada tribu con la que se topaban, y nunca imponían sus propias costumbres. (66:6.5)
 Las costumbres del hombre primitivo actúan como un freno biológico de seguridad contra un avance demasiado rápido, asegurando que la evolución de la civilización continúe sin caer en la ruina. (68:4.5-6)
 
-morontia | (48) | mundos de las mansiones; mente:tipos de mente; progresores morontiales; mundos morontiales | | OK
+morontia; morontial | (48) | mundos de las mansiones; mente:tipos de mente; progresores morontiales; mundos morontiales | | OK
 Definición
 	La morontia tiende un puente entre lo material y lo espiritual, creando una fase de la realidad universal desconocida en Urantia. (0:5.12) (16:4.5,6) (48:0.2,3) (48:1.1,2) (130:7.8) (133:5.9) (133:6.7)
 	La materia morontial, consistente en una organización energética única creada mediante revoluciones modificadoras de unidades primarias de materia, existe en esferas arquitectónicas con el doble de elementos que los planetas evolucionados. (48:1.3)
@@ -2880,7 +2880,7 @@ La traslación de los mortales vivientes tiene lugar en el templo morontial, don
 El templo de traslación, compuesto de materiales morontiales, proporciona un lugar de reunión para presenciar la transformación de los mortales vivientes a la existencia morontial sin ser destruidos por el fuego consumidor. (55:1.5)
 Los Hijos Instructores Trinitarios inauguran la era de luz y vida en un mundo cuando establecen un templo morontial, señalando su admisión a las eras establecidas de la evolución. (55:1.1) (55:7.1)
 
-mundo morontial | | Jerusem:mundos culturales de transición | PLACE | OK
+mundo morontial; mundo de la morontia | | Jerusem:mundos culturales de transición | PLACE | OK
 El segundo mundo cultural de transición sirve como centro neurálgico para la supervisión y el entrenamiento de los seres morontiales y los mortales ascendentes. (45:1.3-4)
 
 ministros morontiales de transición mundial | | ministros de transición | ORDER | OK
@@ -2901,12 +2901,12 @@ Los univitatia, espiritualmente parecidos pero intelectualmente variables como l
 
 morontianos | | Estudiantes de los Mundos de las Mansiones; progresores morontiales | ORDER | OK
 
-yacimientos Morrison | | | | OK
+yacimientos Morrison; yacimientos «Morrison» | | | | OK
 Los yacimientos de Morrison de Colorado, Montana y Wyoming contienen abundantes fósiles de agua dulce, lo que indica una era de agua dulce con muchos lagos interiores y depósitos combinados de agua salada y dulce de entre 2.000 y 5.000 pies de espesor, con poca piedra caliza. (60:2.5)
 
 Cuerpo Mortal de la Finalidad | | Cuerpo de los Finalitarios Mortales | ORDER | OK
 
-mente mortal | | Espíritus Ayudantes de la Mente; ideas; liderazgos; lógica; mente; pensamiento | | OK
+mente mortal; mente del hombre; mente material | | Espíritus Ayudantes de la Mente; ideas; liderazgos; lógica; mente; pensamiento | | OK
 El universo es inteligible porque la mente humana solo puede percibir fenómenos mentales de otras mentes, lo que sugiere una mente y una personalidad divinas ocultas en ella. (1:6.7)
 Las ideas y conceptos de la vida y las enseñanzas de Jesús, originados en la mente mortal, son más aceptables y útiles para todas las mentes humanas. (121:8.12-14)
 La mente mortal puede alcanzar la comprensión espiritual y los valores divinos mediante la evidencia de la morada espiritual, manifestada en la camaradería humanitaria, la interpretación del universo y la evaluación espiritual de la vida. (196:3.6-9)
@@ -3254,7 +3254,7 @@ Los Asistentes Altísimos operan dentro de roles de universo local y constelaci�
 Millones de Asistentes Altísimos de más allá del universo local sirven como representantes en las creaciones locales. (37:4.1)
 Los Asistentes Altísimos, supervisados ​​por el Unión de los Días, operan en Nebadon bajo la supervisión del embajador de la Trinidad del Paraíso, siguiendo la misión que se les ha asignado y las regulaciones del universo local. (37:4.3)
 
-jefe Altísimo de los observadores de Urantia | | Altísimos observadores; Altísimos; Hijos Vorondadek | PERSON | OK
+jefe Altísimo de los observadores de Urantia; Altísimo custodio; jefe Altísimo; observador Altísimo | | Altísimos observadores; Altísimos; Hijos Vorondadek | PERSON | OK
 El Altísimo observador de Urantia, que recientemente asumió la autoridad de emergencia en el planeta, comenzó inmediatamente su administración con un equipo escogido, pero no asignó deberes a los tres Ajustadores Personalizados que aparecieron en su presencia. (109:7.7)
 El Altísimo observador de Urantia, depositario de la soberanía de Urantia, gobierna en los reinos de los hombres con autoridad y sabiduría. (43:5.8,16-17) (114:4)
 
@@ -3363,7 +3363,7 @@ Madres Evas | | Hijos Materiales de Dios | | OK
 fuerza madre del espacio | | absoluta | | OK
 Se trata de una denominación común para la absoluta
 
-culto a la Madre de Dios | | | RELIGION | OK
+secta de la Madre de Dios; adoración de la Gran Madre; templos de la Gran Madre; culto de la Madre de Dios | | | RELIGION | OK
 El evangelio de Salem tuvo dificultades para arraigarse entre las tribus debido a su arraigada adhesión a cultos antiguos como el de la Gran Madre. (93:7.3)
 El culto misterioso de la Madre de Dios fue el más grande y destructivo de los cultos mistéricos romanos, destinado al colapso a pesar de su naturaleza formal y carente de emociones. (98:3.5)
 La influencia del culto de la Madre de Dios en el cristianismo se ve en los paralelos entre el nacimiento milagroso de Jesús y el héroe salvador iraní, Mitra. (98:7.7)
@@ -3376,7 +3376,7 @@ Madre hijo | | Hijo Eterno | PERSON | OK
 
 Espíritus Maternos | | Espíritus Maternos de los universos locales | ORDER | OK
 
-madres | | crianza de los hijos; niños; hogar; matrimonio; mujer | | OK
+madres; madre; mujeres | | crianza de los hijos; niños; hogar; matrimonio; mujer | | OK
 Los creyentes deben amar el evangelio más que a la familia para ser dignos del reino. (150:4.3) (163:3.4) (171:2.2)
 Los hijos obtienen las primeras impresiones del universo del cuidado de su madre y dependen de su padre terrenal para sus primeras ideas sobre el Padre celestial, las cuales moldean su vida posterior y la de ultratumba. (177:2.5)
 El devoto amor materno, no la gratificación sexual, impulsó el establecimiento temprano del mantenimiento del hogar por parte de los hombres y mujeres primitivos, como las hembras de todos los animales superiores comparten este sentimiento. (68:2.6)
@@ -3396,7 +3396,7 @@ La economía universal se basa en la entrada y la salida, y el progreso es posib
 
 motivación | | motivos | | OK
 
-motivos | | prejuicios; sinceridad | | OK
+motivos; móviles; móvil | | prejuicios; sinceridad | | OK
 A pesar de recibir instrucciones pacientes y advertencias amorosas acerca de sus tendencias críticas y orgullo, Caligastia y Lucifer malinterpretaron los consejos útiles como críticas injustificadas, proyectando su propio egoísmo en evolución sobre sus bien intencionados consejeros. (66:8.2)
 Eva creyó en la garantía de Cano de que quienes tienen buenos motivos no cometerán el mal. (75:4.5)
 No prejuzguéis los motivos de los demás; dejad el juicio a quienes tienen un estatus espiritual superior. (38:2.4) (133:1.2)
@@ -3412,19 +3412,19 @@ Son las creencias, no el conocimiento, las que dictan la conducta y el desempeñ
 
 lemas | | lemas | | OK
 
-monte Ararat | | | PLACE | OK
+monte Ararat; Monte Ararat | | | PLACE | OK
 El monte Ararat, similar al monte Sinaí para los hebreos, era la montaña sagrada de los vanitas, con tradiciones que se remontan a diez mil años atrás. (77:4.11-12)
 El monte Ararat es la montaña sagrada de los vanitas en el norte de Mesopotamia, donde se creía que se originaron antiguas tradiciones y leyes morales. (77:4.11-12)
 > https://es.wikipedia.org/wiki/Monte_Ararat
 
-Monte de la Asamblea | | | PLACE | OK
+Monte de la Asamblea; monte de la asamblea | | | PLACE | OK
 El monte de la asamblea más sagrado es la morada de los Fieles de los Días, representantes de la Trinidad del Paraíso en Edentia, en constante comunicación con todos los universos. (43:4)
 Los mortales morontiales se reúnen en el Monte de la Asamblea para escuchar a los Fieles de los Días compartir el viaje de los mortales en progreso a través de Havona y hacia el Paraíso. (43:4.5)
 
-monte Carmelo | (123:5.12) (128:3.2) | | PLACE | OK
+monte Carmelo; Monte Carmelo | (123:5.12) (128:3.2) | | PLACE | OK
 Juan el Bautista, a los dieciséis años, quedó muy impresionado por el estilo de vestir del profeta del monte Carmelo Elías y decidió adoptarlo, usando siempre una prenda peluda con un cinturón de cuero. (135:1.4)
 
-monte Gerizim | (126:1.2) | | PLACE | OK
+monte Gerizim; Monte Gerizim | (126:1.2) | | PLACE | OK
 Un gobernante romano vacilante sacrificó a Jesús y fue depuesto después de que un falso Mesías condujera tropas al monte Gerizim. (185:1.6)
 Jesús y los apóstoles acamparon en el monte Gerizim, predicando las buenas nuevas del reino y preparando almas para la paternidad de Dios. (143:6.2-6)
 Los samaritanos adoraron a Yahvé en el monte Gerizim, pero su templo fue destruido por Juan Hircano. (143:4.2) (143:5.5)
@@ -3432,7 +3432,7 @@ No adoréis en el monte Gerizim, sino donde estáis, en espíritu y en verdad, p
 
 monte Gilboa | | Gilboa | PLACE | OK
 
-monte Hermón | | | PLACE | OK
+monte Hermón; Monte Hermón | | | PLACE | OK
 El monte Hermón, resplandeciente de nieve perpetua, se alzaba majestuoso hacia el norte mientras Jesús y José hacían sus paseos del sábado por la tarde en la alta colina cercana a su hogar en Nazaret. (123:5.12) (124:6.5)
 El monte Hermón, visible desde Cesarea de Filipo, tenía un significado especial para Jesús y sus apóstoles durante su último viaje juntos. (157:3.1-2)
 Jesús
@@ -3442,19 +3442,19 @@ Jesús
 	Jesús experimentó la transfiguración en el monte Hermón, preparándose para los acontecimientos que vendrían después. (158) (196:1.10)
 	Jesús inauguró la cuarta fase de su ministerio en el monte Hermón. (157:7.5)
 
-monte Hood | | | PLACE | OK
+monte Hood; Hood | | | PLACE | OK
 Hace diez millones de años, el monte Hood comenzó su carrera montañosa junto con Shasta y Rainier en medio de depósitos de tierra locales generalizados en las tierras bajas de los continentes. (61:4.2)
 
 monte Horeb | | monte Sinaí | PLACE | OK
 
-monte Líbano | | | PLACE | OK
+monte Líbano; Monte Líbano | | | PLACE | OK
 Un grupo de veinticinco maestros de la verdad partió de Cesarea de Filipo y viajó hacia la costa fenicia, pasando por el monte Líbano en el camino. (155:4.1)
 
 monte Olivete | | monte de los Olivos | PLACE | OK
 
 monte de la transfiguración | | Jesús:eventos en la vida de Jesús; monte Hermón | PLACE | OK
 
-monte de los Olivos | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE | OK
+monte de los Olivos; Monte de los Olivos; Olivete | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE | OK
 La primera vez que Jesús vio el monte de los Olivos, su corazón se llenó de gozosa expectativa por contemplar pronto la ciudad y la casa de su Padre celestial. (124:6.8-10)
 Cuando era joven, Jesús prometió volver y purificar el templo que estaba en la cima del monte de los Olivos. (125:4.2) (125:6.9)
 Getsemaní, en el monte de los Olivos, era un refugio sagrado donde Jesús y sus apóstoles residieron en pacífica reclusión durante su estancia en Jerusalén. (142:8.4)
@@ -3466,27 +3466,27 @@ La última oración en grupo en el monte de los Olivos fue un momento sagrado y 
 Jesús pasó tres horas en el palacio de Anás en el monte de los Olivos, cerca de Getsemaní, donde fue arrestado, mientras que Juan Zebedeo residió a salvo en el palacio debido a su familiaridad con los sirvientes mayores y a sus lazos familiares con el ex sumo sacerdote. (184:0.3)
 Jesús se despidió de sus apóstoles en el Monte de los Olivos, el lugar desde el que ascendió. (193:5.1)
 
-monte Olimpo | | | PLACE | OK
+monte Olimpo; Monte Olimpo | | | PLACE | OK
 Los despreocupados dioses griegos del Monte Olimpo nunca fueron reverenciados ni temidos por los inteligentes griegos, quienes los consideraban más humanos que divinos. (98:1.4)
 
-monte Rainier | (61:4.2) | | PLACE | OK
+monte Rainier; Rainier | (61:4.2) | | PLACE | OK
 El Monte Rainier comenzó su carrera montañosa durante una época de depósitos terrestres generalizados en los continentes hace diez millones de años. (61:4.2)
 
-monte Real | (59:4.16) | | PLACE | OK
+monte Real; Monte Real | (59:4.16) | | PLACE | OK
 El Monte Real en Montreal es el cuello erosionado de una actividad volcánica que ocurrió hace 230 millones de años. (59:4.16)
 
-monte Sartaba | (122:7.6) | | PLACE | OK
+monte Sartaba; Monte Sartaba | (122:7.6) | | PLACE | OK
 Unas vacaciones de tres días en el monte Sartaba trajeron a los apóstoles la paz y el descanso que tanto necesitaban en medio de tensiones y agitación emocional cada vez mayores (143:3.1)
 Cerca del río Jaboc, los viajeros llegaron al monte Sartaba, el lugar de la fortaleza de Herodes, donde encarceló a su esposa y enterró a sus hijos (124:6.6)
 En su segundo día de viaje, acamparon cerca de la base del monte Sartaba, la montaña más alta que domina el valle del Jordán (124:6.6)
 
-monte Serafín | | | PLACE | OK
+monte Serafín; Monte Serafín | | | PLACE | OK
 El monte Serafín, de casi quince mil pies, es la elevación más alta de Jerusalén y el punto de partida de todos los serafines de transporte. (46:2.8)
 
-monte Shasta | (61:4.2) | | PLACE | OK
+monte Shasta; Shasta | (61:4.2) | | PLACE | OK
 Hace diez millones de años, el monte Shasta y Shasta comenzaron su carrera montañosa, con extensos depósitos de tierra y grandes lagos de agua dulce formándose en América del Norte. (61:4.2)
 
-monte Sinaí | | | PLACE | OK
+monte Sinaí; Monte Sinaí | | | PLACE | OK
 El monte Sinaí, al igual que el monte Ararat, tenía un significado sagrado para culturas antiguas como la asiria y la hebrea (77:4.11-12)
 Los egipcios trabajaban los minerales de hierro del monte Sinaí, mejorando enormemente su habilidad para trabajar los metales con la pericia de los artesanos anditas del valle del Éufrates (80:6.3)
 La ​​adoración ceremonial avanzada de Moisés y sus seguidores se mantuvieron intactos gracias a la violenta erupción del Horeb durante su estancia en el monte Sinaí (96:4.5)
@@ -3494,7 +3494,7 @@ La ​​actividad volcánica intermitente del monte Sinaí hasta el año 2000 a
 La ​​evolución de los conceptos religiosos, desde el monte Horeb hasta el monte Sinaí, moldeó la percepción de la deidad tanto para los semitas hebreos como para los cristianos ilustrados. (94:12.1) (96:1.3,11)
 Los Diez Mandamientos fueron promulgados en el Monte Sinaí por Moisés en el nombre de Yahvé, el dios de los hebreos. (96:4.4)
 
-monte Tabor | (122:6.1) | | PLACE | OK
+monte Tabor; Monte Tabor | (122:6.1) | | PLACE | OK
 A finales de junio del año 3 d.C., Jesús y su padre José llegaron a la cima del monte Tabor y se maravillaron ante la impresionante vista que ofrecían en un día claro. (124:1.6)
 
 montañas | | | | OK
@@ -3558,13 +3558,13 @@ música celestial
 	Las funciones morontiales se ejecutan a menudo con ritmo, lo que aumenta la eficiencia y el placer tanto para los seres morontiales como para los espirituales. (44:4.11)
 	Hay una vastedad de alcance y un alma de expresión que va más allá de la comprensión humana en las melodías morontiales y espirituales, no ondas sonoras materiales sino pulsaciones espirituales recibidas por personalidades celestiales. (44:1.1)
 
-bueyes almizcleros | | | | OK
+bueyes almizcleros; buey almizclero | | | | OK
 Los bueyes almizcleros estuvieron entre las pocas especies animales que sobrevivieron al riguroso período glacial en América del Norte. (61:5.7) (61:7.13)
 
 mejillones | | | | OK
 Los mejillones forman parte del antiguo linaje de gasterópodos bivalvos que han persistido durante millones de años. (59:2.12)
 
-semilla de mostaza | | | | OK
+semilla de mostaza; grano de mostaza | | | | OK
 El reino de los cielos es como una semilla de mostaza, que crece constantemente y se adapta a las necesidades de cada generación. (140:8.27) (178:1.15)
 La parábola de la semilla de mostaza enseña el crecimiento y la transformación en el reino de los cielos. (151:4.2)
 
