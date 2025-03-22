@@ -35,7 +35,7 @@ Treatise on the Hexagrams taken promiscuously, according to the opposition or di
 
 This last of the Appendixes is touched on very briefly in the concluding paragraph of the Introduction, [p. 55](Introduction_3#p55). It is stated there to be in rhyme, and I have endeavoured to give a similar form to the following version of it. The rhymes and length of the lines in the original, however, are very irregular, and I found it impossible to reproduce that irregularity in English.
 
-1, 2. Strength in _Kh_ien, weakness in Khwăn we find.
+1, 2. Strength in <i>Kh</i>ien, weakness in Khwăn we find.
 
 8, 7. Pî shows us joy, and Sze the anxious mind.
 
@@ -43,19 +43,19 @@ This last of the Appendixes is touched on very briefly in the concluding paragra
 
 Their different figures were to teach designed.
 
-3\. _K_un manifests itself, yet keeps its place;
+3\. <i>K</i>un manifests itself, yet keeps its place;
 
 4\. 'Mid darkness still, to light Măng sets its face.
 
-51, 52. _K_ăn starts; Kăn stops. In Sun and Yî are seen
+51, 52. <i>K</i>ăn starts; Kăn stops. In Sun and Yî are seen
 
 41, 42. How fulness and decay their course begin.
 
-26\. Tâ _Kh_û keeps still, and waits the proper time.
+26\. Tâ <i>Kh</i>û keeps still, and waits the proper time.
 
 25\. Wû Wang sets forth how evil springs from crime. <span id="p442">[<sup><small>p. 442</small></sup>]</span> 45, 46. Good men in Žhui collect; in Shang they rise:
 
-15, 16. _Kh_ien itself, Yü others doth despise.
+15, 16. <i>Kh</i>ien itself, Yü others doth despise.
 
 21, 22. Shih Ho takes eating for its theme; and Pî
 
@@ -81,29 +81,29 @@ Takes what is plain, from ornament quite free.
 
 59,60. Hwân scatters; but Žieh its code of rules uprears.
 
-40\. Relief and ease with _K_ieh are sure to come;
+40\. Relief and ease with <i>K</i>ieh are sure to come;
 
-41\. Hard toil and danger have in _K_ien their home.
+41\. Hard toil and danger have in <i>K</i>ien their home.
 
 38\. Khwei looks on others as beyond its care;
 
-37\. Kiâ _Z_ăn all includes within its sphere. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. While Phî and Thâi their different scopes prefer,
+37\. Kiâ <i>Z</i>ăn all includes within its sphere. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. While Phî and Thâi their different scopes prefer,
 
-34, 33. Tâ _K_wang stops here as right; withdraws Thun there.
+34, 33. Tâ <i>K</i>wang stops here as right; withdraws Thun there.
 
 14\. Tâ Yû adhering multitudes can show;
 
-13\. Thung _Z_ăn reflects their warm affection's glow.
+13\. Thung <i>Z</i>ăn reflects their warm affection's glow.
 
 50, 51. Ting takes what's new; the old is left by Ko.
 
-61, 62. Sincere is _K_ung Fû; but exceeds, Hsiâo Kwo.
+61, 62. Sincere is <i>K</i>ung Fû; but exceeds, Hsiâo Kwo.
 
 55, 56. Făng tells of trouble; Lü can boast few friends.
 
 30, 29. Fire mounts in Lî; water in Khân descends.
 
-9\. Hsiâo _Kh_û with few 'gainst many foes contends.
+9\. Hsiâo <i>Kh</i>û with few 'gainst many foes contends.
 
 10\. Movement in Lî, unresting, never ends.
 
@@ -117,7 +117,7 @@ Takes what is plain, from ornament quite free.
 
 Are met by one that's weak, yet struggles long.
 
-53\. In _K_ien we see a bride who will delay
+53\. In <i>K</i>ien we see a bride who will delay
 
 To move until the bridegroom takes his way.
 

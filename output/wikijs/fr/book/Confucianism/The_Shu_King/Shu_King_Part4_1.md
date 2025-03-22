@@ -48,7 +48,7 @@ Le roi dit : « Venez, multitudes du peuple, écoutez bien mes paroles. Ce n'est
 
 Maintenant, multitudes, vous dites : « Notre prince ne nous a pas fait miséricorde, mais il nous appelle à quitter nos terres pour attaquer et punir Hsiâ. » J'ai certes entendu ces paroles de vous tous ; mais le souverain de Hsiâ est coupable, et, craignant Dieu, je n'ose m'empêcher de le punir.
 
-« Maintenant, vous dites : “Quels sont pour nous les crimes de Hsiâ ?” Le roi de Hsiâ épuise par tous les moyens les forces de son peuple et exerce l’oppression dans les villes de Hsiâ. Ses multitudes sont devenues totalement indifférentes (à son service) et ne ressentent aucun lien d’union (avec lui). Ils disent : “Quand expireras-tu, ô soleil ? Nous périrons tous avec toi [^96].” Telle est la conduite (du souverain) de Hsiâ, et maintenant je dois aller (le punir).
+« Maintenant, vous dites : « Quels sont pour nous les crimes de Hsiâ ? » Le roi de Hsiâ épuise par tous les moyens les forces de son peuple et exerce l’oppression dans les villes de Hsiâ. Ses multitudes sont devenues totalement indifférentes (à son service) et ne ressentent aucun lien d’union (avec lui). Ils disent : « Quand expireras-tu, ô soleil ? Nous périrons tous avec toi [^96]. » Telle est la conduite (du souverain) de Hsiâ, et maintenant je dois aller (le punir).
 
 Aidez-moi, je vous prie, moi, l'Unique, à exécuter le châtiment ordonné par le Ciel. Je vous récompenserai largement. Ne me croyez en aucun cas ; ne renie pas mes paroles. Si vous n'obéissez pas aux paroles que je vous ai ainsi dites, je ferai mourir vos enfants avec vous ; vous ne trouverez aucun pardon.
 

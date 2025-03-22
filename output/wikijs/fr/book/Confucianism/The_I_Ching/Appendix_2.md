@@ -72,7 +72,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 » <span id="p270">[<sup><small>p. 270</small></sup>]</span> 
 
-[^192]. Le trigramme représentant les nuages ​​et le tonnerre forment _K_un. L'homme supérieur, conformément à cela, ajuste ses mesures de gouvernement comme il trie les fils de la chaîne et de la trame. 
+[^192]. Le trigramme représentant les nuages ​​et le tonnerre forment <i>K</i>un. L'homme supérieur, conformément à cela, ajuste ses mesures de gouvernement comme il trie les fils de la chaîne et de la trame. 
 
 1. Bien qu'il y ait une difficulté à progresser, l'esprit (du sujet de la ligne) est déterminé à faire ce qui est juste. Bien que noble, il s'humilie devant le juste milieu et gagne grandement le peuple. 
 
@@ -160,7 +160,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Il recherche l'union et l'attachement sans faire le premier (pas dans un tel but) » : « il n'y a aucune possibilité d'une (bonne) issue. 
 
-[^198]. (Le trigramme représentant) le ciel, et celui représentant le vent se déplaçant au-dessus de lui, forment Hsiâo _Kh_û. L'homme supérieur, conformément à cela, orne la manifestation extérieure de sa vertu. 
+[^198]. (Le trigramme représentant) le ciel, et celui représentant le vent se déplaçant au-dessus de lui, forment Hsiâo <i>Kh</i>û. L'homme supérieur, conformément à cela, orne la manifestation extérieure de sa vertu. 
 
 1\. 'Il revient et poursuit son propre chemin' : — il est juste qu'il y ait de la bonne fortune. 
 
@@ -216,7 +216,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 <span id="p284">[<sup><small>p. 284</small></sup>]</span> 
 
-[^202]. (Les trigrammes pour) le ciel et le feu forment Thung _Z_ăn. L'homme supérieur, conformément à cela, distingue les choses selon leurs espèces et leurs classes. 
+[^202]. (Les trigrammes pour) le ciel et le feu forment Thung <i>Z</i>ăn. L'homme supérieur, conformément à cela, distingue les choses selon leurs espèces et leurs classes. 
 
 1\. « (Le représentant de) l'union des hommes sort juste de sa porte » : qui le blâmera ? 
 
@@ -244,7 +244,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 5\. « Sa sincérité est réciproque chez tous les autres » : sa sincérité sert à éveiller et à faire ressortir ce qu'ils ont en tête. « La bonne fortune découlant d'un déploiement de majesté appropriée » montre comment ils pourraient (autrement) se sentir trop à l'aise et ne rien préparer (à le servir). <span id="p286">[<sup><small>p. 286</small></sup>]</span> 6\. « La bonne fortune attachée à la ligne la plus élevée de Tâ Yû » provient de l'aide du Ciel. 
 
-[^204]. (Le trigramme pour) la terre et (celui d') une montagne au milieu d'elle forment _Kh_ien. L'homme supérieur, conformément à cela, diminue ce qui est excessif (en lui-même), et augmente là où il y a un défaut, apportant une égalité, selon la nature du cas, dans son traitement (de lui-même et des autres). 
+[^204]. (Le trigramme pour) la terre et (celui d') une montagne au milieu d'elle forment <i>Kh</i>ien. L'homme supérieur, conformément à cela, diminue ce qui est excessif (en lui-même), et augmente là où il y a un défaut, apportant une égalité, selon la nature du cas, dans son traitement (de lui-même et des autres). 
 
 1\. « L'homme supérieur qui ajoute humilité à humilité » est celui qui nourrit sa (vertu) dans l'humilité. 
 
@@ -398,7 +398,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 <span id="p300">[<sup><small>p. 300</small></sup>]</span> 
 
-[^215]. (Le trigramme représentant) une montagne, et au milieu d'elle celui (représentant) le ciel, forment Tâ _Kh_û. L'homme supérieur, conformément à cela, stocke largement dans sa mémoire les paroles et les actes des hommes passés, pour servir à l'accumulation de sa vertu. 
+[^215]. (Le trigramme représentant) une montagne, et au milieu d'elle celui (représentant) le ciel, forment Tâ <i>Kh</i>û. L'homme supérieur, conformément à cela, stocke largement dans sa mémoire les paroles et les actes des hommes passés, pour servir à l'accumulation de sa vertu. 
 
 1\. « Il est dans une position périlleuse ; il lui sera avantageux d'arrêter son avance : il ne devrait pas s'exposer imprudemment à la calamité. 
 
@@ -521,7 +521,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 <span id="p309">[<sup><small>p. 309</small></sup>]</span> 
 
-[^223]. (Le trigramme représentant) le ciel et au-dessus de lui celui du tonnerre forment Tâ _K_wang. L'homme supérieur, conformément à cela, ne fait pas un pas qui ne soit pas conforme à la convenance. 
+[^223]. (Le trigramme représentant) le ciel et au-dessus de lui celui du tonnerre forment Tâ <i>K</i>wang. L'homme supérieur, conformément à cela, ne fait pas un pas qui ne soit pas conforme à la convenance. 
 
 1\. « Il manifeste sa vigueur dans ses orteils » : cela conduira certainement à l'épuisement. 
 
@@ -563,11 +563,11 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Il vient (de) pénétrer dans le côté gauche du ventre (du pays obscur) » : il est encore capable de réaliser l'idée dans son esprit (intérieur). 
 
-5\. « Avec la ferme justesse du compte de _K_î », sa clarté ne pouvait être (complètement) éteinte. 
+5\. « Avec la ferme justesse du compte de <i>K</i>î », sa clarté ne pouvait être (complètement) éteinte. 
 
 6\. « Il était d'abord monté au sommet du ciel » : il aurait pu illuminer les quatre coins du royaume. « Son avenir sera d'aller sur terre » : il n'a pas réussi à satisfaire au modèle (d'un dirigeant). 
 
-[^226]. (Le trigramme représentant) le feu, et celui du vent qui en sort, forment _K_iâ _Z_ăn. L'homme supérieur, conformément à cela, ordonne ses paroles selon (la vérité des) choses, et sa conduite de telle sorte qu'elle soit uniformément cohérente. 
+[^226]. (Le trigramme représentant) le feu, et celui du vent qui en sort, forment <i>K</i>iâ <i>Z</i>ăn. L'homme supérieur, conformément à cela, ordonne ses paroles selon (la vérité des) choses, et sa conduite de telle sorte qu'elle soit uniformément cohérente. 
 
 1\. « Il établit des règles restrictives dans sa maisonnée : (il le fait), avant qu'aucun changement n'ait eu lieu dans leurs volontés. 
 
@@ -601,7 +601,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 <span id="p315">[<sup><small>p. 315</small></sup>]</span> 
 
-[^228]. (Le trigramme représentant) une montagne, et au-dessus d'elle celui de l'eau, forment _K_ien. L'homme supérieur, conformément à cela, se retourne (et s'examine) et cultive sa vertu. 
+[^228]. (Le trigramme représentant) une montagne, et au-dessus d'elle celui de l'eau, forment <i>K</i>ien. L'homme supérieur, conformément à cela, se retourne (et s'examine) et cultive sa vertu. 
 
 1\. 'Avancer mènera à de (plus grandes) difficultés, tandis que rester stationnaire donnera lieu à des éloges' — la bonne conduite est d'attendre. 
 
@@ -619,7 +619,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 <span id="p316">[<sup><small>p. 316</small></sup>]</span> 
 
-[^229]. (Le trigramme représentant) le tonnerre et celui de la pluie, avec ces phénomènes en état de manifestation, forment _K_ieh. L'homme supérieur, conformément à cela, pardonne les erreurs et traite les crimes avec douceur. 
+[^229]. (Le trigramme représentant) le tonnerre et celui de la pluie, avec ces phénomènes en état de manifestation, forment <i>K</i>ieh. L'homme supérieur, conformément à cela, pardonne les erreurs et traite les crimes avec douceur. 
 
 1\. La ligne forte (quatrième) et la ligne faible sont ici en corrélation : nous jugeons juste en disant que « son sujet ne commettra aucune erreur ». 
 
@@ -717,7 +717,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 3\. « Il s'avance vers le haut (comme dans) une ville vide » : (il n'a ni doute ni hésitation). 
 
-4\. « Le roi l'emploie pour empêcher ses offrandes sur le mont _Kh_î » : (un tel service (des Êtres spirituels) est selon (leur esprit). <span id="p325">[<sup><small>p. 325</small></sup>]</span> 5\. « Il a parfaitement raison et jouira donc de la bonne fortune. Il monte les marches (avec toute la cérémonie requise) : il atteint son but avec majesté. 
+4\. « Le roi l'emploie pour empêcher ses offrandes sur le mont <i>Kh</i>î » : (un tel service (des Êtres spirituels) est selon (leur esprit). <span id="p325">[<sup><small>p. 325</small></sup>]</span> 5\. « Il a parfaitement raison et jouira donc de la bonne fortune. Il monte les marches (avec toute la cérémonie requise) : il atteint son but avec majesté. 
 
 6\. « Il s'avance aveuglément vers le haut » et occupe la place la plus élevée : mais la décadence l'attend, et il ne préservera pas ses richesses. 
 
@@ -793,7 +793,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 6\. « Les anneaux de jade » sont tout en haut : — le fort et le faible se rencontrent dans leurs proportions appropriées. 
 
-[^240]. (Le trigramme représentant) le tonnerre, étant répété, forme _K_ăn. L’homme supérieur, conformément à cela, est craintif et appréhensif, cultive (sa vertu) et examine (ses défauts). 
+[^240]. (Le trigramme représentant) le tonnerre, étant répété, forme <i>K</i>ăn. L’homme supérieur, conformément à cela, est craintif et appréhensif, cultive (sa vertu) et examine (ses défauts). 
 
 1\. « Quand le moment du mouvement arrive, il sera trouvé regardant dehors avec appréhension » — ce sentiment de terreur mène au bonheur. 
 
@@ -833,7 +833,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 <span id="p333">[<sup><small>p. 333</small></sup>]</span> 
 
-[^242]. (Le trigramme représentant) une montagne et au-dessus d'elle celui pour un arbre forment _K_ien. L'homme supérieur, conformément à cela, atteint et maintient sa vertu extraordinaire, et rend les manières du peuple bonnes. 
+[^242]. (Le trigramme représentant) une montagne et au-dessus d'elle celui pour un arbre forment <i>K</i>ien. L'homme supérieur, conformément à cela, atteint et maintient sa vertu extraordinaire, et rend les manières du peuple bonnes. 
 
 1\. 'Le danger d'un petit officier (tel que représenté dans la première ligne)' n'est dû à aucune faute de sa part en matière de ce qui est juste. 
 
@@ -965,7 +965,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 <span id="p342">[<sup><small>p. 342</small></sup>]</span> 
 
-[^249]. (Le trigramme représentant) un lac, et au-dessus celui pour l'eau, forment _K_ieh. L'homme supérieur, conformément à cela, construit ses méthodes de comptage et de mesure, et discute des points de vertu et de conduite. 
+[^249]. (Le trigramme représentant) un lac, et au-dessus celui pour l'eau, forment <i>K</i>ieh. L'homme supérieur, conformément à cela, construit ses méthodes de comptage et de mesure, et discute des points de vertu et de conduite. 
 
 1. « Il ne quitte pas la cour devant sa porte » : il sait quand il a libre cours et quand il est gêné. 
 
@@ -979,7 +979,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 6\. « Les règlements sont sévères et difficiles. Même avec une correction ferme, il y aura du mal » : la voie (indiquée par l'hexagramme) est arrivée à son terme. 
 
-[^250]. (Le trigramme représentant les eaux d') un marais et celui du vent au-dessus forment _K_ung Fû. L'homme supérieur, conformément à cela, délibère sur les cas de litige et retarde (l'infliction de) la mort. 
+[^250]. (Le trigramme représentant les eaux d') un marais et celui du vent au-dessus forment <i>K</i>ung Fû. L'homme supérieur, conformément à cela, délibère sur les cas de litige et retarde (l'infliction de) la mort. 
 
 1\. « Le premier NEUF, (indivis), montre son sujet se reposant (en lui-même). Il y aura de la bonne fortune » : aucun changement n'a encore eu lieu dans son dessein. 
 
@@ -1007,7 +1007,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 6\. « Il ne fait pas face aux exigences (de sa situation) et excède (la ligne appropriée) » —« — (la position indique) l’habitude de dominer.
 
-[^252]. (Le trigramme représentant) le feu et celui de l'eau au-dessus forment _K_î Žî. L'homme supérieur, conformément à cela, pense au mal (qui peut arriver) et s'en prémunit à l'avance. 
+[^252]. (Le trigramme représentant) le feu et celui de l'eau au-dessus forment <i>K</i>î Žî. L'homme supérieur, conformément à cela, pense au mal (qui peut arriver) et s'en prémunit à l'avance. 
 
 1\. « Il traîne sa roue en arrière » : comme nous pouvons le juger à juste titre, il n'y aura pas d'erreur. 
 
@@ -1063,9 +1063,9 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 [^189] : 267:1 Comme le Texte sous chaque hexagramme, ce qui est dit sous chacun dans ce traité sur son symbolisme est divisé en deux parties. La première p. 267 est appelée « le Grand Symbolisme » et traite de la composition trigrammatique de l'hexagramme, à l'énoncé de laquelle est toujours jointe une exposition de l'usage qui devrait être fait, ou qui a été fait, de la leçon suggérée par la signification de la figure entière dans l'administration des affaires ou dans l'auto-gouvernance. Si le traité est à juste titre attribué à Confucius, cette application pratique de l'enseignement des symboles est éminemment caractéristique de sa méthode pour inculquer la vérité et le devoir ; bien que nous ayons souvent du mal à établir le lien entre sa prémisse et sa conclusion. Cette partie du traité sera séparée par un double espace de ce qui suit, « le Petit Symbolisme », dans les explications des différentes lignes. 
 
-[^190]: 268:I _Kh_ien est formé en redoublant le trigramme du même nom. Dans le cas d'autres hexagrammes de formation similaire, la répétition du trigramme est soulignée. Cela n'est pas fait ici, selon _K_û Hsî, « car il n'y a qu'un seul ciel ». Mais le mouvement du ciel est une révolution complète chaque jour, reprise le lendemain ; ainsi se déplace « le soleil infatigable de jour en jour », ce qui en fait un bon symbole d'effort renouvelé et infatigable. 
+[^190]: 268:I <i>Kh</i>ien est formé en redoublant le trigramme du même nom. Dans le cas d'autres hexagrammes de formation similaire, la répétition du trigramme est soulignée. Cela n'est pas fait ici, selon <i>K</i>û Hsî, « car il n'y a qu'un seul ciel ». Mais le mouvement du ciel est une révolution complète chaque jour, reprise le lendemain ; ainsi se déplace « le soleil infatigable de jour en jour », ce qui en fait un bon symbole d'effort renouvelé et infatigable. 
 
-[^191]: 269:II Khwăn est formé en redoublant le trigramme du même nom et ayant « la terre pour symbole ». Comme dans l'hexagramme précédent, la répétition est emphatique, sans autre effet sur le sens de l'hexagramme. « Comme il n'y a qu'un seul ciel », dit _K_û Hsî, « ainsi il n'y a qu'une seule terre. » La première partie du « Grand Symbolisme » apparaît dans la version du chanoine McClatchie ainsi : « Khwăn est la partie génératrice de la terre. » Par « partie génératrice », il entend probablement « la faculté productive ou prolifique ». S'il entend autre chose, il en résulte une conclusion contraire à sa propre vision de la « mythologie » des Yî. Le caractère Shî, qu'il traduit par « partie génératrice », est défini dans le dictionnaire du Dr Williams comme « la virilité des mâles ». Telle est sa signification particulière. S'il était utilisé ainsi ici, la terre serait masculine.
+[^191]: 269:II Khwăn est formé en redoublant le trigramme du même nom et ayant « la terre pour symbole ». Comme dans l'hexagramme précédent, la répétition est emphatique, sans autre effet sur le sens de l'hexagramme. « Comme il n'y a qu'un seul ciel », dit <i>K</i>û Hsî, « ainsi il n'y a qu'une seule terre. » La première partie du « Grand Symbolisme » apparaît dans la version du chanoine McClatchie ainsi : « Khwăn est la partie génératrice de la terre. » Par « partie génératrice », il entend probablement « la faculté productive ou prolifique ». S'il entend autre chose, il en résulte une conclusion contraire à sa propre vision de la « mythologie » des Yî. Le caractère Shî, qu'il traduit par « partie génératrice », est défini dans le dictionnaire du Dr Williams comme « la virilité des mâles ». Telle est sa signification particulière. S'il était utilisé ainsi ici, la terre serait masculine.
   Il est difficile de dire exactement ce que l'auteur voulait dire par : « L'homme supérieur, conformément à cela et à sa grande nature, soutient (les hommes et) les choses. » Lin Hsî-yüan (dynastie Ming) dit : « L'homme supérieur, dans sa seule personne, supporte le fardeau de tout ce qui est sous le ciel. Les gens du commun dépendent de lui pour leur repos et leur plaisir. Les oiseaux, les bêtes et les créatures rampantes, ainsi que les tribus du règne végétal, dépendent de lui pour l'accomplissement de leur destinée. S'il est d'un esprit étroit et d'une vertu froide, comment peut-il les aider ? Leur espoir en lui serait vain. » 
   Le « Petit Symbolisme » est suffisamment traité dans les notes sur le Texte. 
 
@@ -1074,7 +1074,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Vers 2. « Les choses reprennent leur cours régulier » : le sujet est alors libre de chercher une union avec le sujet du vers 5, selon les règles du symbolisme. Les vers 1 et 4, 2 et 5, 3 et 6, les lys correspondants des trigrammes, sont corrélats. 
   Le sujet de la ligne 4 renvoie naturellement au corrélat de la ligne 1. Il est l'assistant naturel dans ce cas, et il en a la capacité. 
 
-[^193]: 272:IV « La source jaillissant ici » est différent du défilé traversé par un ruisseau, dans l'explication du Thwan ; différent en outre de la « pluie », mentionnée également comme le phénomène symbole naturel de Khan. La présence d'eau, cependant, est commune aux trois. Mais l'eau de la source, ou du ruisseau, s'écoulerait loin de la colline, sans être arrêtée par elle ; en tant qu'emblème de l'ignorance et de l'inexpérience dénotées par Măng, elle ne convient donc pas. _K_û Hsî dit que « l'eau d'une source est sûre de continuer et de progresser progressivement. » Cela peut servir de symbole du processus général et du progrès de l'éducation, bien que cela ne rende pas compte du symbolisme de la colline. Cela sert également à expliquer en partie la transition de l'auteur vers le sujet de l'homme supérieur, et son rapport apparent à lui-même. 
+[^193]: 272:IV « La source jaillissant ici » est différent du défilé traversé par un ruisseau, dans l'explication du Thwan ; différent en outre de la « pluie », mentionnée également comme le phénomène symbole naturel de Khan. La présence d'eau, cependant, est commune aux trois. Mais l'eau de la source, ou du ruisseau, s'écoulerait loin de la colline, sans être arrêtée par elle ; en tant qu'emblème de l'ignorance et de l'inexpérience dénotées par Măng, elle ne convient donc pas. <i>K</i>û Hsî dit que « l'eau d'une source est sûre de continuer et de progresser progressivement. » Cela peut servir de symbole du processus général et du progrès de l'éducation, bien que cela ne rende pas compte du symbolisme de la colline. Cela sert également à expliquer en partie la transition de l'auteur vers le sujet de l'homme supérieur, et son rapport apparent à lui-même. 
   La ligne 1 présente-t-elle le recours à la punition comme le dernier recours, indésirable, mais peut-être inévitable, pour soumettre les hommes à la loi ?
   La force du vers 2 transparaît pleinement dans le Thwan. 
   Qu'une femme telle que celle représentée au vers 3 ne doive pas être prise en mariage est assez clair ; mais je ne vois pas le rapport de cette illustration avec la leçon propre à l'hexagramme. Le 
@@ -1086,14 +1086,14 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   « Le cours régulier » du sujet du vers 1 semble être la détermination d'attendre, à distance du danger, le moment opportun pour agir. 
   Le sujet du vers 2, qui est indivisible et au centre, est ainsi montré comme possédant une grande et généreuse patience. 
   La reconnaissance des circonstances de l'époque et l'écoute de ses exigences expliquent, au paragraphe 4, « la retraite de la caverne », qui n'est pas reprise ici dans le Texte. Le vers étant faible et divisé, son sujet est conscient de son incompétence et prend cette mesure prudente. 
-  _K_û dit ne pas comprendre ce qui est dit au vers 6 : l'occupant et le lieu ne sont pas compatibles, car le vers yin, situé au sixième rang, semble être là où il devrait être. Nous sommes seulement surpris que les cas d'incohérence dans ces explications ne soient pas plus nombreux. 
+  <i>K</i>û dit ne pas comprendre ce qui est dit au vers 6 : l'occupant et le lieu ne sont pas compatibles, car le vers yin, situé au sixième rang, semble être là où il devrait être. Nous sommes seulement surpris que les cas d'incohérence dans ces explications ne soient pas plus nombreux. 
 
 [^195]: 275:VI Le symbolisme est ici différent de celui du Texte du Thwan. Nous avons le ciel visible qui s'élève et l'eau ou la pluie qui descend, ce qui indique, on voit mal comment, l'opposition et la dispute. La leçon quant à la conduite de l'homme supérieur est pertinente, mais pourrait tout aussi bien être déduite de nombreux autres hexagrammes.
   Hsiang An-shih (dynastie Song) dit que la première partie du paragraphe 2 doit être entièrement prise comme le langage du duc de Kâu, les caractères étant variés ; le reste est la remarque de l'auteur de ce traité. 
   On observe que le retour aux ordonnances (du Ciel) et le changement du désir de lutter, dans le paragraphe 4, ne sont pas deux choses, mais une seule ; « les ordonnances (ming) signifiant ce qui est juste en principe. » Le désir de lutter était erroné en principe et est maintenant abandonné. 
   « La robe » remplace « la ceinture de cuir » dans le paragraphe 6 ; mais la ceinture n'était qu'un appendice de la robe. 
 
-[^196]: 276:VII « Le Grand Symbolisme » n'est pas ici plus satisfaisant que dans d'autres paragraphes qui nous ont déjà été présentés. _K_û Hsî dit : « De même que l'eau n'est pas hors de la terre, de même les soldats ne sont pas hors du peuple. Par conséquent, si (un dirigeant) peut nourrir le peuple, il peut attirer les multitudes (de ses armées). » Le sens est-il le suivant : à l'origine, le peuple et les soldats ne font qu'un ; qu'une partie du peuple est prélevée parmi la masse, selon les besoins, pour accomplir le devoir de soldat ; et que la nourriture et l'éducation du peuple sont le meilleur moyen d'avoir de bons soldats prêts à être utilisés en toute urgence ? Comparez la parole de Confucius dans les Entretiens XIII, xxx. 
+[^196]: 276:VII « Le Grand Symbolisme » n'est pas ici plus satisfaisant que dans d'autres paragraphes qui nous ont déjà été présentés. <i>K</i>û Hsî dit : « De même que l'eau n'est pas hors de la terre, de même les soldats ne sont pas hors du peuple. Par conséquent, si (un dirigeant) peut nourrir le peuple, il peut attirer les multitudes (de ses armées). » Le sens est-il le suivant : à l'origine, le peuple et les soldats ne font qu'un ; qu'une partie du peuple est prélevée parmi la masse, selon les besoins, pour accomplir le devoir de soldat ; et que la nourriture et l'éducation du peuple sont le meilleur moyen d'avoir de bons soldats prêts à être utilisés en toute urgence ? Comparez la parole de Confucius dans les Entretiens XIII, xxx. 
   Ce qui est dit à la deuxième ligne, que le général « a reçu la faveur du Ciel », fait bien sûr référence à l'entière confiance que lui accorde le dirigeant ou le roi, sujet de la ligne 5. De cette façon, Thien ici est égal à Thien wang, si fréquent dans les « Printemps et Automnes », et qui signifie « Roi par la grâce du Ciel ». Mais les grands pouvoirs conférés au général découlent de la volonté du roi, par son intermédiaire, de promouvoir le bien de toute la nation. 
   Dans les opérations militaires, une volonté et un esprit communs doivent prévaloir. Une autorité divisée est vouée à l'échec. Mais une « retraite » n'est pas une preuve d'échec dans une campagne. Lorsqu'une avancée mènerait au désastre, la retraite est la voie à suivre. 
   D'autres moyens peuvent être trouvés pour récompenser les hommes modestes. Ils ne doivent pas être placés dans des situations où la condition d'autrui dépendrait d'eux. 
@@ -1103,7 +1103,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Il est difficile de faire concorder ce qui est dit à la ligne 5, sur les chasses royales, avec le récit qui en est donné à la même ligne dans le texte du duc de Kâu. Je soupçonne une certaine corruption du texte. Les deux verbes « négliger » et « prendre » semblent être utilisés l'un pour l'autre. 
 
 [^198]: 279:IX La pertinence du symbolisme ici est entièrement tournée vers le vent. « Le vent », dit Kâu, « est simplement l'air, sans substance solide ; il peut retenir, mais pas pour longtemps. » Le vent se déplace dans le ciel pendant un certain temps, puis cesse. Le processus de pensée du symbole à la leçon n'est pas facile à retracer. Est-ce à dire que la vertu se manifestant extérieurement – ​​dans le maintien et le langage – est, aussi bonne soit-elle, une chose mineure, admirable chez un officier, voire un seigneur féodal, mais que nous en attendons davantage chez un roi, chef d'une nation ? 
-  _Kh_ăng-žze attire l'attention sur l'ajout à l'explication du duc de Kâu dans la notice de la ligne 2, selon laquelle « elle est au centre », ajoutant que cela explique comment le sujet de la ligne se retient et ne va pas au-delà de ce qui lui est dû. 
+  <i>Kh</i>ăng-žze attire l'attention sur l'ajout à l'explication du duc de Kâu dans la notice de la ligne 2, selon laquelle « elle est au centre », ajoutant que cela explique comment le sujet de la ligne se retient et ne va pas au-delà de ce qui lui est dû. 
   Seule la moitié du symbolisme du texte de la ligne 3 est reprise ici. La ligne 1, dit-on, est éloignée de la ligne 4, le mauvais sujet de l'hexagramme, et peu affectée par elle ; la ligne 2 est plus proche, mais, étant au centre, souffre peu ; la ligne 3 est proche de lui, et, n'étant pas au centre, subit sa mauvaise influence ; tandis que la ligne 6 n'apporte aucun secours. 
   Le vers 4 est faible et, à un endroit régulier, lui convient parfaitement ; c'est pourquoi son sujet est dit « sincère ». Étant le premier vers de Sun, les deux autres en tirent leur caractère. 
   Le vers 5, indivisible et occupant la place la plus importante dans la figure, selon la valeur généralement accordée aux vers, est dit (p. 280) « riche » ou « doté de ressources abondantes ». Avec ces éléments, il s'unit aux « sujets » du vers 4 pour atteindre leur objectif commun. 
@@ -1111,13 +1111,13 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
     Voilà ! pluie, voilà ! repos, la puissance est pleine ! 
   Homme de bien ! tiens bon. Les obstacles règnent. » 
 
-[^199]: 281:X « Le ciel au-dessus et un marais en dessous sont vrais », dit _Kh_ăng-žze, « dans la nature et la raison ; et il devrait en être de même des règles de bienséance sur lesquelles les hommes marchent. » Ce symbolisme est tiré par les cheveux ; et son application l'est aussi, si elle en est tirée de quelque façon que ce soit. Mais il est vrai que les membres d'une communauté ou d'une nation doivent conserver leurs différentes places et devoirs afin qu'elle soit dans un état de bon ordre. 
+[^199]: 281:X « Le ciel au-dessus et un marais en dessous sont vrais », dit <i>Kh</i>ăng-žze, « dans la nature et la raison ; et il devrait en être de même des règles de bienséance sur lesquelles les hommes marchent. » Ce symbolisme est tiré par les cheveux ; et son application l'est aussi, si elle en est tirée de quelque façon que ce soit. Mais il est vrai que les membres d'une communauté ou d'une nation doivent conserver leurs différentes places et devoirs afin qu'elle soit dans un état de bon ordre. 
   Pour les lignes 1, 2, 3 et 4, voir les notes sur le texte.
   Français Si nous pouvions traduire la conclusion de ce qui est dit à la ligne 5, par « dans la position qui lui est correctement appropriée », le sens serait plus clair, bien que l'hypothèse que j'ai soulignée sur le Texte sous-tende toujours l'affirmation ; et aussi évidemment qu'ici, ce qui est dit à la ligne 6 n'est qu'un truisme. 
 
-[^200]: 282:XI Il est difficile de traduire l'application du « Grand Symbolisme » ici, de manière à ce qu'elle soit intelligible pour un lecteur. _Kh_ăng-žze dit : « Un dirigeant devrait établir ses lois et ses règlements afin que le peuple puisse profiter des saisons du ciel et des avantages offerts par la terre, aidant leurs services transformateurs et nourriciers, et complétant leurs abondants et admirables bienfaits. Ainsi, le souffle du printemps, appelant toute vie végétale, donne la loi pour semer et planter ; le souffle de l'automne, complétant et solidifiant toutes choses, donne la loi pour récolter et stocker, etc. 
+[^200]: 282:XI Il est difficile de traduire l'application du « Grand Symbolisme » ici, de manière à ce qu'elle soit intelligible pour un lecteur. <i>Kh</i>ăng-žze dit : « Un dirigeant devrait établir ses lois et ses règlements afin que le peuple puisse profiter des saisons du ciel et des avantages offerts par la terre, aidant leurs services transformateurs et nourriciers, et complétant leurs abondants et admirables bienfaits. Ainsi, le souffle du printemps, appelant toute vie végétale, donne la loi pour semer et planter ; le souffle de l'automne, complétant et solidifiant toutes choses, donne la loi pour récolter et stocker, etc. 
   Le sujet du vers 1 exprime « sa volonté sur ce qui est extérieur à lui-même » : il est déterminé à aller de l'avant. 
-  _K_û Hsî explique ce qui est dit au paragraphe 4, selon lequel les vers supérieurs « ont perdu leur place réelle », ou, littéralement, « ont perdu leur substance », par la remarque que « leur place véritable, étant des vers faibles, est en dessous ». Les éditeurs de l'édition impériale préfèrent une autre explication, sur laquelle je n'ai pas besoin d'entrer. 
+  <i>K</i>û Hsî explique ce qui est dit au paragraphe 4, selon lequel les vers supérieurs « ont perdu leur place réelle », ou, littéralement, « ont perdu leur substance », par la remarque que « leur place véritable, étant des vers faibles, est en dessous ». Les éditeurs de l'édition impériale préfèrent une autre explication, sur laquelle je n'ai pas besoin d'entrer. 
 
 [^201]: 283:XII « Le Grand Symbolisme » est ici suffisamment expliqué dans le premier appendice. L'application, cependant, est ici encore difficile, bien que nous puissions essayer d'y trouver un exemple particulier d'interruption de communication, – dans un grand mérite qui n'a pas été récompensé. 
   Le sujet du premier vers fait partie de ce groupe d'hommes modestes capables de changer d'avis et de mettre leur cœur à aimer leur dirigeant. 
@@ -1126,7 +1126,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Le quatrième vers est proche du cinquième, la place du souverain. C'est un vers fort en un lieu stable ; mais agissant selon la volonté du Ciel ou du souverain, son sujet réalise son dessein. 
   Le sujet du cinquième vers est le grand homme, le souverain à sa juste place. Il réussit donc, et dans le dernier vers, nous voyons p. 284 comment la détresse et l'obstruction prennent fin. C'était dans l'ordre du changement qu'ils devaient le faire. 
 
-[^202]: 284:XIII Le style de « ciel et feu forment Thung _Z_ăn » est tel qu'il suggère l'apparence du feu s'élevant, flamboyant vers le ciel et s'unissant à lui. L'application du symbolisme est à nouveau déroutante. 
+[^202]: 284:XIII Le style de « ciel et feu forment Thung <i>Z</i>ăn » est tel qu'il suggère l'apparence du feu s'élevant, flamboyant vers le ciel et s'unissant à lui. L'application du symbolisme est à nouveau déroutante. 
   Au vers 1, le groupe qui sort de sa porte a le monde entier p. 285 devant lui, avec lequel s'unir. Les pensées égoïstes qui poussent à l’union n’ont pas leur place en lui.
   Français À la ligne 2, l'union (uniquement) avec la parenté implique une étroitesse d'esprit. Pour la ligne 3, voir la note sur le texte. 
   À la ligne 4, l'accent doit être mis sur « céder à droite ». 
@@ -1140,7 +1140,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   À la ligne 1, « nourrit sa (vertu) » signifie littéralement « se nourrit lui-même ». Il est tout humilité. C'est ce qui fait de lui ce qu'il est. 
   À la ligne 4, « la règle (appropriée) » est la règle qui s'applique au sujet de la ligne dans sa situation si proche du lieu du souverain. 
   À la ligne 5, « le refus de se soumettre » rend nécessaire le recours à la force. Même le meilleur et le plus humble des souverains porte l'épée, et ne doit pas la porter en vain.
-  _K_û Hsî fonde tout ce qui est dit sous la ligne 6 sur le fait qu'il s'agit d'une ligne faible ; de sorte que l'humble souverain est incapable, même à la fin de l'action décrite dans la figure, d'accomplir tous ses objectifs, et doit limiter son champ même en faisant appel aux armes. 
+  <i>K</i>û Hsî fonde tout ce qui est dit sous la ligne 6 sur le fait qu'il s'agit d'une ligne faible ; de sorte que l'humble souverain est incapable, même à la fin de l'action décrite dans la figure, d'accomplir tous ses objectifs, et doit limiter son champ même en faisant appel aux armes. 
 
 [^205]: 288:XVI « Le Grand Symbolisme » est ici plus obscur que d'habitude. Un orage purifie l'air et supprime le sentiment d'oppression, dont on est conscient avant qu'il ne se produise. Est-ce tout ce que l'on entend en faisant des trigrammes de la terre et du tonnerre former Yü, l'hexagramme de l'harmonie et de la satisfaction ? Que signifie, d'ailleurs, en faisant du tonnerre « sortir », comme le dit le texte chinois, de la terre ? Quant à l'application de ce symbolisme, je ne peux retracer l'idée de l'auteur qu'imparfaitement. Dire que le coup de tonnerre a suggéré l'utilisation de la musique, comme le font certains critiques, est absurde (p. 289). L'utilisation de la musique lors des sacrifices, cependant, comme moyen d'unifier Dieu et ses adorateurs, ainsi que les générations présentes et passées, concorde avec l'idée générale de la figure. Je suppose que l'auteur avait à l'esprit les sacrifices institués par le duc de Kâu, relatés dans le Hsiâo King, chap. ix. 
   Le plaisir a eu un effet néfaste sur le sujet du vers 1. Il attire l'attention sur lui-même. 
@@ -1151,25 +1151,25 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 [^206]: 290:XVII Une explosion de tonnerre au milieu des eaux d'un marais serait suivie d'une agitation tremblante de ces eaux ; dans cette mesure, il y aurait une suite du mouvement du trigramme inférieur par le supérieur. Ensuite, dans l'application du symbolisme, nous avons une illustration de l'action suivant le temps, c'est-à-dire selon le temps ; ce qui est un usage courant du caractère chinois Sui. Ni le symbolisme, cependant, ni son application n'ajoutent beaucoup à notre compréhension du texte. 
   Le paragraphe 1 se compose de deux lignes qui riment ; et les paragraphes 4 (deux lignes), 5 et 6 font de même. Selon Kû Yen-wû, les paragraphes 2 et 3 riment également ; mais cela me paraît douteux. Le symbolisme de ces paragraphes est suffisamment expliqué dans les notes sur le Texte. Certaines particularités de leur style (en chinois) sont dues aux liens de la rime. 
 
-[^207]: 291:XVIII 'Quand le vent', dit _Kh_ăng-žze, 'rencontre la montagne, elle est repoussée, et les choses alentour sont toutes dispersées en désordre ; tel est l'emblème de l'état désigné par Kû.' 
+[^207]: 291:XVIII 'Quand le vent', dit <i>Kh</i>ăng-žze, 'rencontre la montagne, elle est repoussée, et les choses alentour sont toutes dispersées en désordre ; tel est l'emblème de l'état désigné par Kû.' 
   'La nourriture de la vertu' apparaît surtout au vers 6 ; tous les autres vers appartiennent à 'l'aide au peuple'.
   Le sujet du vers 1 s'est immiscé dans l'œuvre de son père, ce qui fait que ce dernier est considéré comme irréprochable. Le juste milieu du vers 2 est conforme à la mise en garde du Texte. Les éditeurs de Khang-hsî interprètent l'explication du vers 5 comme « il reprend (la voie de son père) avec toute sa vertu ». Je pense qu'ils se trompent. 
 
-[^208]: 292:XIX « La terre descendant ou s'approchant du marais » est, selon _K_û Hsî, symbolique de l'approche des supérieurs vers les inférieurs, et les deux prédicats concernant l'homme supérieur le décrivent dans cette approche, l'instruction étant symbolisée par Tui et le soutien par Khwăn. Les éditeurs de Khang-hsî, souhaitant défendre l'explication de lin par « grand », dans l'Appendice VI, qu'ils attribuent à Confucius, disent : « Lin signifie “grand”. » La terre au-dessus des eaux du marais montre combien ces eaux sont pleines, s'élevant jusqu'au niveau de la terre, exprimant ainsi l'idée de grandeur. Cette représentation est boiteuse et impuissante. 
-  _K_û Hsî dit ne pas comprendre ce qui est dit à la ligne 2. L'interprétation dans ma version est l'interprétation ordinaire, mais je n'en suis pas satisfait. Les éditeurs de Khang-hsî tentent de résoudre la difficulté ; mais je ne parviens pas à les suivre. 
-  Les mêmes éditeurs comparent la conclusion du paragraphe 6 au symbolisme de l'hexagramme 11. « Ce qui est extérieur » là, et « ce qui est intérieur ici », ont, disent-ils, la même référence : l'état, à savoir, du royaume tout entier, les expressions différant selon les différents points de vue à partir desquels elles sont formulées. Le point de vue de la traduction est celui de _K_û Hsî. Il est difficile de maintenir l'équilibre entre les deux. Le point de vue le plus récent est peut-être le préférable. 
+[^208]: 292:XIX « La terre descendant ou s'approchant du marais » est, selon <i>K</i>û Hsî, symbolique de l'approche des supérieurs vers les inférieurs, et les deux prédicats concernant l'homme supérieur le décrivent dans cette approche, l'instruction étant symbolisée par Tui et le soutien par Khwăn. Les éditeurs de Khang-hsî, souhaitant défendre l'explication de lin par « grand », dans l'Appendice VI, qu'ils attribuent à Confucius, disent : « Lin signifie « grand ». » La terre au-dessus des eaux du marais montre combien ces eaux sont pleines, s'élevant jusqu'au niveau de la terre, exprimant ainsi l'idée de grandeur. Cette représentation est boiteuse et impuissante. 
+  <i>K</i>û Hsî dit ne pas comprendre ce qui est dit à la ligne 2. L'interprétation dans ma version est l'interprétation ordinaire, mais je n'en suis pas satisfait. Les éditeurs de Khang-hsî tentent de résoudre la difficulté ; mais je ne parviens pas à les suivre. 
+  Les mêmes éditeurs comparent la conclusion du paragraphe 6 au symbolisme de l'hexagramme 11. « Ce qui est extérieur » là, et « ce qui est intérieur ici », ont, disent-ils, la même référence : l'état, à savoir, du royaume tout entier, les expressions différant selon les différents points de vue à partir desquels elles sont formulées. Le point de vue de la traduction est celui de <i>K</i>û Hsî. Il est difficile de maintenir l'équilibre entre les deux. Le point de vue le plus récent est peut-être le préférable. 
 
 [^209]: 293:XX Le vent qui se déplace au-dessus de la terre a la plus grande portée, et rien n'échappe à son influence ; il pénètre partout. Ce symbolisme est plus approprié au sujet traité que celui de nombreux autres hexagrammes. L'influence personnelle d'un souverain est très importante ; mais les anciens rois souhaitaient y ajouter le pouvoir des instructions publiées, spécialement adaptées au caractère et à la situation du peuple. Le Soleil, représentant le vent, est bien adapté pour désigner cette influence ; voir les Analectes, XII, xix. 
   Le regard du vers 1 est superficiel et ne porte pas loin. 
   Vers 3. « Il ne s'égarera pas dans le chemin à suivre » ; avançant ou reculant selon le mieux. 
   Vers 4. « La gloire du royaume » est la vertu du souverain et le caractère de son administration. Avec ce sentiment, comparer Mencius, VII, i, chap. 21. 2. 
 
-[^210]: 294:XXI _Kh_ăng-žze dit que le tonnerre et l'éclair se rencontrent toujours ensemble, et que leurs trigrammes s'associent donc pour donner l'idée d'union voulue dans Shih Ho. L'un des trigrammes symbolisant la majesté et l'autre la luminosité ou l'intelligence, l'application de l'hexagramme est ici plus facile et plus naturelle que dans beaucoup d'autres cas.
+[^210]: 294:XXI <i>Kh</i>ăng-žze dit que le tonnerre et l'éclair se rencontrent toujours ensemble, et que leurs trigrammes s'associent donc pour donner l'idée d'union voulue dans Shih Ho. L'un des trigrammes symbolisant la majesté et l'autre la luminosité ou l'intelligence, l'application de l'hexagramme est ici plus facile et plus naturelle que dans beaucoup d'autres cas.
   1\. « Il n'y a pas de marche » : c'est-à-dire que le sujet de la ligne n'osera plus offenser. 
-  2\. « « Être monté sur la première ligne forte » signifie », dit _Kh_ăng-žze, « punir un homme fort et véhément, lorsque la sévérité est requise, comme l'indique la position centrale de la ligne. » 
+  2\. « « Être monté sur la première ligne forte » signifie », dit <i>Kh</i>ăng-žze, « punir un homme fort et véhément, lorsque la sévérité est requise, comme l'indique la position centrale de la ligne. » 
   4\. « Sa lumière n'a pas été suffisamment déployée » ; c'est-à-dire qu'il lui reste encore quelque chose à faire : il doit se rendre compte de la difficulté de sa position et être ferme. 
 
-[^211]: 295:XXII « Une montagne », dit _Kh_ăng-žze, « est un endroit où l'on trouve de l'herbe, des arbres et cent autres choses. Un feu brûlant en dessous projette sa lumière et les fait toutes ressortir en beauté ; et cela donne l'idée d'ornement, ou d'être orné. Les divers processus de gouvernement sont des questions mineures, et l'élégance et l'ornement aident à leur déroulement ; mais les grandes questions de jugement exigent la vérité simple et sans ornement. 
+[^211]: 295:XXII « Une montagne », dit <i>Kh</i>ăng-žze, « est un endroit où l'on trouve de l'herbe, des arbres et cent autres choses. Un feu brûlant en dessous projette sa lumière et les fait toutes ressortir en beauté ; et cela donne l'idée d'ornement, ou d'être orné. Les divers processus de gouvernement sont des questions mineures, et l'élégance et l'ornement aident à leur déroulement ; mais les grandes questions de jugement exigent la vérité simple et sans ornement. 
   Le sujet du vers 1 ne se soucie pas de l'ornement et n'en a pas besoin. Il marchera dans la voie de la droiture sans lui. 
   Le paragraphe 3 nous dit que ce n'est pas l'ornement, mais la fermeté correcte, qui assure le respect des autres. 
   En quatrième lieu, et coupé du vers 1 par les vers 2 et 3, nous pourrions douter de la mesure dans laquelle le sujet du vers 4 resterait fidèle à son sujet. Mais il reste fidèle, à travers le caractère et l'objet du sujet du vers 3. 
@@ -1178,14 +1178,14 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 [^212]: 296:XXIII Une montagne, L'application pourrait être déduite de l'un ou l'autre point de vue. 
   Il est difficile de dire si « le plus bas » du paragraphe 1 doit être complété comme je l'ai fait. Si ce n'est pas le cas, alors l'explication n'est qu'un truisme. 
-  _Kh_ăng-žze est précis et décisif en complétant l'explication du paragraphe 2 comme dans la traduction. 
+  <i>Kh</i>ăng-žze est précis et décisif en complétant l'explication du paragraphe 2 comme dans la traduction. 
   Voir sur le texte des lignes 3 et 4. 
   Au paragraphe 5, les éditeurs de Khang-hsî disent admirablement : « La cinquième ligne est faible, et pourtant occupe la place la plus honorable dans la figure, emblématique d'une reine ; et comme son sujet incite les sujets des autres lignes à obtenir les faveurs accordées aux habitants du palais, elle, il est clair, n'a ni jalousie ni aucun autre tempérament nuisible qui pourrait encourir le blâme pour avoir tendance à renverser le souverain. » Le 
   paragraphe 6 montre le souverain restauré dans la faveur du peuple et le rétablissement de la concorde dans l'État. Les petits hommes ont fait de leur pire, et leurs tentatives sont terminées pour un temps.
 
 [^213]: 298:XXIV « Le tonnerre au cœur de la terre » est un tonnerre silencieux, capable de se faire sentir. Il en est de même des premiers frémissements de la vie après le solstice d'hiver ; ainsi en est-il des premiers pas du voyageur qui retourne à la vertu. De même que la source de la vie doit être nourrie dans le calme, ainsi doit l'être le but du bien. Les anciens statuts mentionnés ici devaient ressembler à la cessation actuelle des affaires publiques et privées au moment du nouvel an, lorsque tout le peuple chinois est pour un temps plongé dans les festivités et la joie. Le 
   chanoine McClatchie traduit ici : « Les anciens rois, en ce jour culminant (le septième), fermèrent leurs portes », etc. « Jour culminant » ne nous donne pas le même sens que « le jour du solstice » ; mais où le traducteur trouve-t-il l'explication du « septième », qu'il met entre parenthèses ? À l'époque où je connaissais le chinois, j'imaginais qu'il pourrait y avoir dans le paragraphe 1 du Texte une allusion à un sabbat primitif ; mais il n'y a aucune raison d'introduire « sept jours » ou « le septième jour » dans ce paragraphe du Grand Symbolisme. 
-  Le sujet vertueux de la première ligne est appelé dans le paragraphe 2 _z_ăn, « le bienveillant » ou « aimant ». C'est le seul cas dans tout le symbolisme du Yî où nous trouvons ce terme utilisé comme adjectif. Il est ici emphatique pour « l'humanité », l'homme dans son idéal. 
+  Le sujet vertueux de la première ligne est appelé dans le paragraphe 2 <i>z</i>ăn, « le bienveillant » ou « aimant ». C'est le seul cas dans tout le symbolisme du Yî où nous trouvons ce terme utilisé comme adjectif. Il est ici emphatique pour « l'humanité », l'homme dans son idéal. 
   Les autres paragraphes ne présentent rien à remarquer au-delà de ce qui a été dit sur le Texte du duc de <i>K</i>âu. 
 
 [^214]: 299:XXV La composition de l'hexagramme est donnée ici d'une manière différente de ce que nous avons rencontré dans le récit de l'une des figures précédentes ; et comme le texte n'est pas remis en question, j'ai fait de mon mieux pour traduire les deux propositions initiales. L'application du symbolisme aux actions des anciens rois est également difficile à comprendre. 
@@ -1195,7 +1195,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Paragraphe 5. La maladie ne devrait pas toucher celui qui est parfaitement sincère. Si elle survient, il doit en référer à une volonté inexplicable du Ciel. Comme cela a affligé, cela guérira. 
   Paragraphe 6. « Lorsqu'une chose est terminée, ce qui est requis, c'est la soumission et l'acquiescement, et non de nouvelles tentatives d'action. »
 
-[^215]: 300:XXVI J'ai cité, dans l'Introduction, [p. 37](Introduction_3#p37), la remarque de _K_û Hsî sur le Grand Symbolisme ici. _Kh_ăng-žze dit : — 'Le ciel est la plus grande de toutes les choses, et sa présence au milieu d'une montagne nous donne l'idée d'une très grande accumulation. Et si grand est p. 301 le travail de l'homme supérieur pour apprendre, acquérir et se souvenir, pour accumuler sa vertu.' 
+[^215]: 300:XXVI J'ai cité, dans l'Introduction, [p. 37](Introduction_3#p37), la remarque de <i>K</i>û Hsî sur le Grand Symbolisme ici. <i>Kh</i>ăng-žze dit : — 'Le ciel est la plus grande de toutes les choses, et sa présence au milieu d'une montagne nous donne l'idée d'une très grande accumulation. Et si grand est p. 301 le travail de l'homme supérieur pour apprendre, acquérir et se souvenir, pour accumuler sa vertu.' 
   Paragraphe 1. La 'calamité' est celle de l'opposition ou de la répression par le sujet de la ligne 4. 
   Paragraphe 3. Lorsque l'action de l'hexagramme a atteint la ligne 6, son travail est terminé. Le sujet de 6 n'exercera plus de répression, mais se joindra à celui de 3, l'aidant à progresser. 
   Paragraphe 4. Le sujet de la ligne 4 a en effet lieu de se réjouir. Sans recourir à la punition pour les crimes commis, par précaution les anticipant, sans aucun trouble, il a réprimé le mal. La « joie » fait place au paragraphe 5 à la « félicitation », le peuple étant tout intéressé par l'action du dirigeant. 
@@ -1205,7 +1205,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Paragraphe 2. Ni le sujet de la ligne 1, ni de la ligne 6, ne sont l'associé approprié de 2. 
   Les autres paragraphes sont suffisamment illustrés dans les notes sur le Texte. 
 
-[^217]: 303:XXVIII _Kh_ăng-žze dit à propos du Grand Symbolisme : « Les eaux d'un marais humidifient et nourrissent les arbres. Lorsqu'il est dit ici qu'elles détruisent et éteignent les arbres, leur action est très extraordinaire. » Cette explication est très tirée par les cheveux ; et ce que le même érudit dit sur son application l'est tout autant. Je n'ai pas besoin de la donner ici, et je n'en ai pas trouvé, ni moi-même conçu, d'autre plus facile et naturelle. 
+[^217]: 303:XXVIII <i>Kh</i>ăng-žze dit à propos du Grand Symbolisme : « Les eaux d'un marais humidifient et nourrissent les arbres. Lorsqu'il est dit ici qu'elles détruisent et éteignent les arbres, leur action est très extraordinaire. » Cette explication est très tirée par les cheveux ; et ce que le même érudit dit sur son application l'est tout autant. Je n'ai pas besoin de la donner ici, et je n'en ai pas trouvé, ni moi-même conçu, d'autre plus facile et naturelle. 
   Paragraphe 2. « Une telle association est extraordinaire » : les caractères impliquent aussi, peut-être, qu'elle est réussie. 
   Paragraphe 3. La poutre étant brisée, toute tentative de la soutenir n'aura aucun effet sur le toit. 
   Paragraphe 5. Les pousses produites au vers 2 donneront un nouvel arbre vigoureux. Les fleurs ici se faneront bientôt, et le tronc desséché restera le même. Car pourquoi un jeune homme épouserait-il une vieille femme ? Il n'y aura pas d'enfants ; cela ne peut être que par intérêt personnel. 
@@ -1232,10 +1232,10 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Paragraphe 3. Les éditeurs de Khang-hsî font ici l'application = 'nulle part il ne peut supporter (de rester).' <span id="p308">[<sup><small>p. 308</small></sup>]</span> 
   Du paragraphe 5, il apparaît que ce qui est juste variera selon les cas. La leçon de l'hexagramme est la persévérance dans ce qui est juste dans chaque cas particulier. 
 
-[^222]: 308:XXXIII _K_û Hsî dit : — 'Le ciel est illimité ; une montagne est haute, mais a ses limites ; l'union de ces deux éléments est un emblème de retrait.' Je ne comprends pas un tel emblème. _Kh_ăng-žze dit : « Sous le ciel se trouve une montagne. La montagne s'élève sous le ciel, et sa hauteur est arrêtée, tandis que le ciel monte de plus en plus haut, jusqu'à ce qu'ils finissent par s'éloigner l'un de l'autre. Nous avons là un emblème de retrait et d'évitement. » Nous avons un peu le sentiment, comme p. 309, qu'il y avait un sens à cela ; mais, comme dans beaucoup d'autres cas, le symbolisme et son application ne sont que vaguement appréhendés. 
+[^222]: 308:XXXIII <i>K</i>û Hsî dit : — 'Le ciel est illimité ; une montagne est haute, mais a ses limites ; l'union de ces deux éléments est un emblème de retrait.' Je ne comprends pas un tel emblème. <i>Kh</i>ăng-žze dit : « Sous le ciel se trouve une montagne. La montagne s'élève sous le ciel, et sa hauteur est arrêtée, tandis que le ciel monte de plus en plus haut, jusqu'à ce qu'ils finissent par s'éloigner l'un de l'autre. Nous avons là un emblème de retrait et d'évitement. » Nous avons un peu le sentiment, comme p. 309, qu'il y avait un sens à cela ; mais, comme dans beaucoup d'autres cas, le symbolisme et son application ne sont que vaguement appréhendés. 
   Le symbolisme des différentes lignes est suffisamment expliqué dans le Texte. Le paragraphe 5 n'est qu'une répétition du Texte sans explication supplémentaire. 
 
-[^223]: 309:XXXIV Pour illustrer le symbolisme des trigrammes ici, _Kh_ăng-žze dit bien : « Le tonnerre roulant au-dessus du ciel et faisant trembler toutes choses est l'emblème d'une grande puissance. » Passant à son application, il commence par un beau dicton de l'Antiquité, selon lequel « l'homme fort est celui qui se surmonte lui-même ». Je peux bien croire que cette pensée était présente à l'esprit de l'auteur du paragraphe sur le Grand Symbolisme ; mais l'analogie entre les mondes naturel, moral et spirituel, en passant du phénomène du tonnerre à cette vérité, est une chose palpable, et qui peut difficilement être décrite. <span id="p310">[<sup><small>p. 310</small></sup>]</span> 
+[^223]: 309:XXXIV Pour illustrer le symbolisme des trigrammes ici, <i>Kh</i>ăng-žze dit bien : « Le tonnerre roulant au-dessus du ciel et faisant trembler toutes choses est l'emblème d'une grande puissance. » Passant à son application, il commence par un beau dicton de l'Antiquité, selon lequel « l'homme fort est celui qui se surmonte lui-même ». Je peux bien croire que cette pensée était présente à l'esprit de l'auteur du paragraphe sur le Grand Symbolisme ; mais l'analogie entre les mondes naturel, moral et spirituel, en passant du phénomène du tonnerre à cette vérité, est une chose palpable, et qui peut difficilement être décrite. <span id="p310">[<sup><small>p. 310</small></sup>]</span> 
   Paragraphe 1. « Cela mènera à l'épuisement » ; et de là s'ensuivront la détresse et d'autres maux. 
   La position centrale et le juste milieu moral du paragraphe 2 sont un autre exemple de l'analogie ressentie mentionnée ci-dessus. 
   Au paragraphe 3, rien n'est ajouté au Texte ; et rien n'est dit sur le symbolisme. 
@@ -1256,13 +1256,13 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Plus tôt les mesures préventives sont présentées à l'esprit jeune, mieux c'est ; mais l'interdiction n'implique-t-elle pas qu'un changement dans la bonne volonté a eu lieu ? 
   Dans le paragraphe 2, la « docilité » est suggérée par la ligne faible. « L'humilité » vient du Soleil, le trigramme supérieur, dont l'attribut est la flexibilité souple. 
   Yü Yen (dynastie Yüan) observe ingénieusement au paragraphe 4 que les richesses d'une famille ne doivent pas être recherchées dans sa richesse, mais dans l'affection et l'harmonie de ses membres. Là où ces conditions prévalent, la famille ne risque pas d’être pauvre et tout ce qu’elle possède sera bien préservé.
-  Français La mention de « l'amour mutuel » est inhabituelle dans les écrits chinois et doit être considérée comme remarquable ici. « Le mari », dit _Kh_ăng-žze, « aime son aide dans la maison ; la femme aime celui qui est le modèle de la famille. » Mais si admirable que soit le sentiment, il vient de l'esprit de l'écrivain et n'est pas tiré du Texte. 
+  Français La mention de « l'amour mutuel » est inhabituelle dans les écrits chinois et doit être considérée comme remarquable ici. « Le mari », dit <i>Kh</i>ăng-žze, « aime son aide dans la maison ; la femme aime celui qui est le modèle de la famille. » Mais si admirable que soit le sentiment, il vient de l'esprit de l'écrivain et n'est pas tiré du Texte. 
   Paragraphe 6. Il est dit à ce sujet que la majesté n'est pas intentionnellement assumée ou mise en scène ; mais l'effet du caractère remodelé et perfectionné. Les mots de Mencius sont judicieusement cités pour illustrer la leçon : « Si un homme lui-même ne marche pas dans le (bon) chemin, il ne sera pas suivi (même) par sa femme et ses enfants. » 
 
 [^227]: 314:XXXVIII L'application ici du Symbolisme est correcte, mais aucun d'eux n'atteint l'idée de désunion qui est dans Khwei. 
   Français Les différents paragraphes ne semblent pas avoir besoin d'illustration au-delà de ce que l'on peut trouver dans les notes sur le texte. 
 
-[^228]: 315:XXXIX Le symbolisme est décrit ici un peu différemment de la forme qu'il présente dans l'appendice I. _Kh_ăng-žze en tire cependant le même sens de la manière suivante : « Nous avons ici une montagne escarpée et difficile, et de nouveau au sommet de celle-ci il y a de l'eau ; chacun des deux trigrammes est un emblème de péril. Il y a du péril, à la fois au-dessus et au-dessous, dans la figure ; et par conséquent, il représente les difficultés de l'État. » L'application du symbolisme est illustrée par les mots de Mencius : « Lorsque nous ne réalisons pas, par ce que nous faisons, (ce que nous désirons), nous devons nous tourner vers l'intérieur et nous examiner en chaque point. » 
+[^228]: 315:XXXIX Le symbolisme est décrit ici un peu différemment de la forme qu'il présente dans l'appendice I. <i>Kh</i>ăng-žze en tire cependant le même sens de la manière suivante : « Nous avons ici une montagne escarpée et difficile, et de nouveau au sommet de celle-ci il y a de l'eau ; chacun des deux trigrammes est un emblème de péril. Il y a du péril, à la fois au-dessus et au-dessous, dans la figure ; et par conséquent, il représente les difficultés de l'État. » L'application du symbolisme est illustrée par les mots de Mencius : « Lorsque nous ne réalisons pas, par ce que nous faisons, (ce que nous désirons), nous devons nous tourner vers l'intérieur et nous examiner en chaque point. » 
   De la leçon du paragraphe 2, nous avons vu que la valeur morale de la conduite est indépendante de l'échec ou du succès. Français On dit : « Bien que les difficultés soient trop grandes pour lui à surmonter, le sage accepte son désir, afin de stimuler les autres à un dévouement loyal. » 
   Au paragraphe 3, Khung Ying-tâ dit : « Des trois lignes du trigramme inférieur, seule la troisième est yang, au-dessus des deux autres qui sont de nature yin. Ils s'y accrochent et sont représentés comme s'ils s'en réjouissaient. » 
   Le point de vue donné au paragraphe 4 est celui des éditeurs de Khang-hsî. 
@@ -1274,12 +1274,12 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Au paragraphe 4, les mêmes éditeurs écrivent : « Le sujet de cette ligne n'est ni central ni isolé ; il a pour corrélat le sujet de la ligne 1 et pour proche associé celui de la ligne 3, deux lignes faibles dans des endroits forts. C'est pourquoi on dit qu'elles sont toutes dans des endroits qui ne leur conviennent pas. » 
   Ce que dit le paragraphe 5, « les petits hommes se retirent », signifie que, convaincus de la sincérité de la détermination du dirigeant à éliminer tous les hommes mauvais, ils se retirent d'eux-mêmes ou s'efforcent de se conformer à ses souhaits. 
 
-[^230]: 318:XLI « Les eaux d'un marais s'élèvent continuellement en vapeur pour arroser la colline qui le surplombe et ainsi augmenter sa verdure ; ce qui est pris au marais fait croître la colline. » C'est très tiré par les cheveux. Dans l'application, encore une fois, l'homme supérieur n'agit que sur lui-même et pour lui-même ; ce qui n'a rien à voir avec ceux de bas rang donnant à ceux qui sont au-dessus d'eux. Cette application, cependant, concorde avec ce que, comme nous l'avons vu dans le Texte, était la vision de _Kh_ăng-žze sur la signification de l'hexagramme. 
+[^230]: 318:XLI « Les eaux d'un marais s'élèvent continuellement en vapeur pour arroser la colline qui le surplombe et ainsi augmenter sa verdure ; ce qui est pris au marais fait croître la colline. » C'est très tiré par les cheveux. Dans l'application, encore une fois, l'homme supérieur n'agit que sur lui-même et pour lui-même ; ce qui n'a rien à voir avec ceux de bas rang donnant à ceux qui sont au-dessus d'eux. Cette application, cependant, concorde avec ce que, comme nous l'avons vu dans le Texte, était la vision de <i>Kh</i>ăng-žze sur la signification de l'hexagramme. 
   L'explication annexée au paragraphe 1 semble expliquer pourquoi le sujet de la ligne 1 se précipite au secours de la ligne 4. 
   « Son but » est de demeurer là où il est et d'aider le sujet de 5 en faisant preuve d'une « correction ferme ». 
   Les éditeurs de Khang-hsî observent que le paragraphe 3 est vrai en effet pour trois hommes ; et non pas seulement pour trois hommes, mais pour de nombreuses répétitions de pensée ou d'action. 
   Les mêmes éditeurs disent au paragraphe 5 que « la bénédiction d'en haut est expliquée, par beaucoup, par les oracles obtenus par la divination avec l'écaille de tortue ; mais qu'en regardant le texte de la ligne 2 de l'hexagramme suivant, et que Tî (dont il est question ici) est le seigneur de tous les esprits, le terme « d'en haut » ici s'explique le plus naturellement par l'esprit du Ciel, dont l'acceptation ne peut être contestée par les hommes ou les esprits. » 
-  _Kh_ăng-žze dit au paragraphe 6, bien que je ne voie pas la pertinence de la page 319 de ses remarques : « Demeurant en haut, et ne prenant rien à ceux qui sont en dessous de lui, mais au contraire leur donnant davantage, l'homme supérieur accomplit son but à grande échelle. Le but de l'homme supérieur est simplement d'accroître ce que les autres ont ; cela et rien d'autre. »
+  <i>Kh</i>ăng-žze dit au paragraphe 6, bien que je ne voie pas la pertinence de la page 319 de ses remarques : « Demeurant en haut, et ne prenant rien à ceux qui sont en dessous de lui, mais au contraire leur donnant davantage, l'homme supérieur accomplit son but à grande échelle. Le but de l'homme supérieur est simplement d'accroître ce que les autres ont ; cela et rien d'autre. »
 
 [^231]: 319:XLII Le symbolisme ici est différent de ce que nous comprenons de l'appendice précédent. Le soleil ne symbolise plus le bois, mais, comme c'est plus communément le cas à la p. 320, le vent. Le tonnerre et le vent, suppose-t-on, s'accroissent mutuellement ; et leur combinaison donne l'idée d'augmentation. Ensuite, l'application, bonne en elle-même, doit être traitée très délicatement, comme c'est le cas par les éditeurs de Khang-hsî, afin d'établir un lien entre elle et le symbolisme. 
   Paragraphe 1. « Celui qui occupe une position inférieure ne devrait pas intervenir dans les grandes affaires » ; — pas un fils, dit-on, tant que son père est vivant ; ni un ministre, tant que son souverain gouverne ; ni un membre d'un département officiel, tant que son chef dirige ses affaires. Si une telle personne initie une telle affaire, seul un grand succès excusera sa témérité. 
@@ -1288,10 +1288,10 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Paragraphe 6. De même que la ligne 2 montre le pouvoir attractif de la bienveillance, la ligne 6 montre le pouvoir répulsif de l'égoïsme. Notez le « d'au-delà » dans les deux paragraphes. 
 
 [^232]: 321:XLIII Nous ne pouvons comprendre la montée des eaux d'un marais vers le ciel que par le phénomène de l'évaporation ; et certainement les eaux ainsi formées en nuages ​​se condenseront et retomberont sous forme de pluie. Cela peut être pris comme une image de dispersion, mais pas de déplacement au sens du Texte de l'hexagramme. 
-  La première clause de l'application découle assez naturellement de l'interprétation ci-dessus du Symbolisme. _K_û Hsî dit qu'il ne comprend pas la deuxième clause. De nombreux critiques adoptent le point de vue qui apparaît dans la traduction. 
+  La première clause de l'application découle assez naturellement de l'interprétation ci-dessus du Symbolisme. <i>K</i>û Hsî dit qu'il ne comprend pas la deuxième clause. De nombreux critiques adoptent le point de vue qui apparaît dans la traduction. 
   Le paragraphe 2 ne mentionne pas les mesures de précaution prises dans le texte par le sujet du vers, dont la conclusion découlerait tout aussi naturellement que de sa position centrale. Les éditeurs de Khang-hsî, cependant, affirment que le fait de ne pas recourir à la force à la légère est en soi la bonne conduite. 
   Le vers 3, répondant seul à 6, peut paraître irrésolu et peu préparé à des mesures décisives ; mais « en fin de compte », son sujet fait ce qu'on attend de lui. 
-  La contiguïté du vers 5 avec le 6 divisé est censée avoir un effet néfaste sur son sujet, de sorte que, même s'il fait ce que sa position centrale exige, ce n'est pas sans effort. « Si un homme », dit _Kh_ăng-žze, « nourrit un seul désir illicite dans son esprit, il a quitté le droit chemin. L'avertissement ici transmis est profond. »
+  La contiguïté du vers 5 avec le 6 divisé est censée avoir un effet néfaste sur son sujet, de sorte que, même s'il fait ce que sa position centrale exige, ce n'est pas sans effort. « Si un homme », dit <i>Kh</i>ăng-žze, « nourrit un seul désir illicite dans son esprit, il a quitté le droit chemin. L'avertissement ici transmis est profond. »
 
 [^233]: 322:XLIV Le vent, soufflant sous le ciel, pénètre partout et produit son effet naturel ; et c'est une bonne application de ce phénomène qui suit ; mais cela n'a rien à voir avec la signification de Kâu et l'interprétation de l'hexagramme, telles qu'enseignées dans le Texte. Les éditeurs du Khang-hsî le perçoivent et traitent le Symbolisme selon une méthode qui leur est propre, sur laquelle il est inutile d'entrer. 
   Paragraphe 1. Mon supplément, « Ceci décrit l'arrestation de », est une conclusion de l'ensemble du Texte sur cette ligne. Tous les commentaires la contiennent. 
@@ -1306,13 +1306,13 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Paragraphe 6. La position la plus élevée est celle du trigramme ; le sujet du trait pourrait dire adieu à tout le travail de l’hexagramme ; mais il ne peut le supporter.
 
 [^235]: 325:XLVI Voir ce qui a été dit sur le Grand Symbolisme dans l'Appendice I. L'application qui en est faite ici peut être acceptée, bien qu'elle n'ait rien à voir avec l'enseignement du Texte sur l'ascension graduelle d'un bon officier vers une haute distinction sociale et une grande influence. 
-  Paragraphe x. Au lieu de trouver ici les trois lignes de Khwăn et de leurs sujets, _Kh_ăng-žze fait que « le supérieur » désigne uniquement la ligne 2. 
+  Paragraphe x. Au lieu de trouver ici les trois lignes de Khwăn et de leurs sujets, <i>Kh</i>ăng-žze fait que « le supérieur » désigne uniquement la ligne 2. 
   Paragraphe 2. Le sujet de la ligne 2, dans sa dévotion loyale à 5, fera beaucoup de bien et bénéficiera à beaucoup ; d'où les mots, offre une occasion de joie. 
   Paragraphe 3. « Il n'a aucun doute ni hésitation » : — mais c'est plutôt présumer de sa force. 
   Paragraphe 4. Les éditeurs de Khang-hsî disent : — « Un tel emploi d'hommes de valeur pour rendre service à des Êtres spirituels, c'est les servir selon leur esprit. » 
   Paragraphe 6. Quand on a atteint le plus haut sommet, on devrait penser à se retirer. Autrement, l'ambition risque de se dépasser. 
 
-[^236]: 326:XLVII La première phrase du Grand Symbolisme est construite différemment de toutes celles qui se sont présentées dans les 46 hexagrammes précédents. Traduite littéralement, elle serait « un marais sans eau est Khwăn » ; et cela pourrait certainement nous suggérer un état de détresse. Mais comment cela ressort-il des trigrammes ? Le supérieur est Tui, représentant un marais ; et l'inférieur est Khân, représentant l'eau dans un défilé. La collocation des deux suggère l'écoulement de l'eau du marais ou du lac dans le ruisseau, qui videra bientôt l'autre. Telle est l'opinion qui m'est venue ; et c'est la même que celle donnée par _K_û Hsî : « L'eau descendant et s'écoulant, le marais au-dessus deviendra sec. » L'application est bonne en soi, mais la concaténation entre elle et le Symbolisme est à peine discernable. <span id="p327">[<sup><small>p. 327</small></sup>]</span> 
+[^236]: 326:XLVII La première phrase du Grand Symbolisme est construite différemment de toutes celles qui se sont présentées dans les 46 hexagrammes précédents. Traduite littéralement, elle serait « un marais sans eau est Khwăn » ; et cela pourrait certainement nous suggérer un état de détresse. Mais comment cela ressort-il des trigrammes ? Le supérieur est Tui, représentant un marais ; et l'inférieur est Khân, représentant l'eau dans un défilé. La collocation des deux suggère l'écoulement de l'eau du marais ou du lac dans le ruisseau, qui videra bientôt l'autre. Telle est l'opinion qui m'est venue ; et c'est la même que celle donnée par <i>K</i>û Hsî : « L'eau descendant et s'écoulant, le marais au-dessus deviendra sec. » L'application est bonne en soi, mais la concaténation entre elle et le Symbolisme est à peine discernable. <span id="p327">[<sup><small>p. 327</small></sup>]</span> 
   Le sujet de la ligne 1 est si stupide qu'il accroît sa détresse par son propre acte. 
   Les éditeurs de Khang-hsî disent que « le motif de félicitations du paragraphe 2 est le banquet et le sacrifice ». Je pense plutôt que c'est la mesure de l'aide que le sujet est censé apporter pour sortir de la détresse et de la détresse du moment. 
   Voir l'extrait des éditeurs de Khang-hsî sur le symbolisme de la troisième ligne du Texte. 
@@ -1339,14 +1339,14 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
 [^241]: 332:LII Selon l'avis des éditeurs de Khang-hsî, l'application devrait être traduite ainsi : « L'homme supérieur, conformément à cela, réfléchit anxieusement à la manière dont il ne doit pas outrepasser les devoirs de sa position. » Il est difficile de décider entre cette nuance de sens et celle plus courante que j'ai suivie. 
   Les orteils jouent un grand rôle dans la marche ; mais ils sont ici maintenus au repos, et ainsi ne perdent pas l'idée correcte de Kăn. 
   Il n'y a pas de corrélation entre les lignes 2 et 3, et donc le sujet de 3 maintiendra son chemin ascendant sans condescendre à 2. 
-  _Kh_ăng-žze trouve un auspice insatisfaisant dans le paragraphe 4. La ligne 4 représente un grand ministre qui devrait être capable de guider tous les gens vers le repos où ils devraient être ; mais il ne peut que se maintenir de l'agitation. 
+  <i>Kh</i>ăng-žze trouve un auspice insatisfaisant dans le paragraphe 4. La ligne 4 représente un grand ministre qui devrait être capable de guider tous les gens vers le repos où ils devraient être ; mais il ne peut que se maintenir de l'agitation. 
   Yü Păn (dynastie Ming) dit au paragraphe 5 : « Les mots ne doivent pas être prononcés à la légère. Alors, une fois prononcés, ils seront jugés p. 333 conformes au principe. Mais seul le maître de la vertu appartenant au juste milieu peut y parvenir. » 
 
 [^242]: 333:LIII Les éditeurs de Khang-hsî, pour faire ressortir la pertinence du Grand Symbolisme et de son application, disent : « Un arbre qui pousse sur le sol est un arbre qui commence à pousser. Un arbre sur une colline est haut et grand. Chaque arbre, lorsqu'il commence à pousser, montre ses p. 334 branches et ses rameaux qui deviennent progressivement longs. Chaque matin et chaque soir montrent une différence ; et lorsque l'arbre est haut et grand, qu'il soit d'une taille ordinaire ou extraordinaire, il lui a fallu des années pour atteindre ses dimensions. Ceci illustre la différence entre l'avancée de Shăng (46) et celle de K_ien. Français Le maintien d'une vertu extraordinaire dans l'application et l'amélioration des manières est un processus graduel. L'amélioration des manières découle, de plus, du maintien de cette vertu extraordinaire ; ce qui implique également une opération et un progrès graduels. 
   Paragraphe 1. Le danger est le résultat des circonstances ; le petit officier ne l'a pas provoqué lui-même. 
   Paragraphe 2. Seules les oies apparaissent dans ce paragraphe ; mais l'auteur pense à l'officier qui progresse. Je ne peux m'empêcher de penser que dans le langage et le sentiment, il y a aussi un écho du Shih King, 1, ix, ode 6. 
   La « séparation d'avec ses camarades » a trait au vers 3, qui ne trouve pas son corrélat dans le vers 6. « L'épouse manque à sa bonne voie » a trait au fait que le vers est indivisible et non central. 
-  _Kh_ăng-žze dit, au paragraphe 4, que l'humilité et la bonne action trouveront repos et paix en tous lieux et en toutes circonstances. 
+  <i>Kh</i>ăng-žze dit, au paragraphe 4, que l'humilité et la bonne action trouveront repos et paix en tous lieux et en toutes circonstances. 
   Paragraphe 5. « L'issue naturelle est inévitable » : la femme aura un enfant, le ministre et le souverain se rencontreront heureux. 
   Paragraphe 6. Voir le texte. Mais il est difficile de saisir la pertinence du symbolisme.
 
@@ -1355,7 +1355,7 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
   L'ajout au Texte de « le but » au paragraphe 4 est de montrer que le report du mariage est du côté de la dame et non de l'autre côté. 
 
 [^244]: 336:LV La foudre apparaît ici comme le phénomène naturel dont Lî est le symbole. Les vertus attribuées aux deux trigrammes sont certainement requises dans leur application qui est ci-dessous ; mais cette application n'a que peu ou rien à voir avec l'explication de l'hexagramme fournie par le Texte. 
-  Je comprends à peine la conclusion du paragraphe 1. Ma traduction est conforme à l'opinion de _K_û Hsî, si je la comprends bien. 
+  Je comprends à peine la conclusion du paragraphe 1. Ma traduction est conforme à l'opinion de <i>K</i>û Hsî, si je la comprends bien. 
   Paragraphe 2. C'est par une telle sincérité que l'esprit est affecté, c'est-à-dire l'esprit du dirigeant occupant la ligne 5. <span id="p337">[<sup><small>p. 337</small></sup>]</span> 
   La ligne 3 a un corrélat dans la 6, qui est faible, et comme hors jeu. La lumière dans la 3 est de plus cachée. D'où le symbolisme ; et par l'aveuglement de son sujet sa blessure, qui le rend impropre à être employé. 
   La ligne indivise comme la 4 est la 1 ; peut-être pourrions-nous traduire : « Il rencontre le sujet de la ligne parallèle. » 
@@ -1369,7 +1369,7 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
   Il est difficile de dire ce que « il a atteint une place élevée » signifie. Le cinquième trait n'est pas dans cet hexagramme le siège du souverain ; mais par ses qualités et ses dons, le sujet de celui-ci attire l'attention et le respect de ses amis et de son souverain. 
   L'esprit qui possède le sujet du trait 6 est celui d'une arrogance hautaine, avec laquelle l'humilité qui devrait le caractériser ne peut coexister. Son autosuffisance insouciante a fermé son esprit à toute leçon de sagesse. 
 
-[^246]: 339:LVII J'ai dit sur le Thwan que certains commentateurs font du trigramme supérieur le symbole des ordonnances du souverain et du trigramme inférieur celui de l'obéissance du peuple. Par exemple, _Kh_ăng-žze dit : « Les supérieurs, en harmonie avec le devoir des inférieurs, donnent leurs ordres ; Les inférieurs, en harmonie avec les souhaits de leurs supérieurs, les suivent. Au-dessus et en dessous règnent cette harmonie et cette déférence ; et c'est la signification du Soleil redoublé. Lorsque les ordres et les affaires du gouvernement sont conformes à ce qui est juste, ils concordent avec les tendances d'esprit de ceux qui les suivent. Le 
+[^246]: 339:LVII J'ai dit sur le Thwan que certains commentateurs font du trigramme supérieur le symbole des ordonnances du souverain et du trigramme inférieur celui de l'obéissance du peuple. Par exemple, <i>Kh</i>ăng-žze dit : « Les supérieurs, en harmonie avec le devoir des inférieurs, donnent leurs ordres ; Les inférieurs, en harmonie avec les souhaits de leurs supérieurs, les suivent. Au-dessus et en dessous règnent cette harmonie et cette déférence ; et c'est la signification du Soleil redoublé. Lorsque les ordres et les affaires du gouvernement sont conformes à ce qui est juste, ils concordent avec les tendances d'esprit de ceux qui les suivent. Le 
   paragraphe 2 semble dire que la sincérité de l'intention indiquée par la position centrale de la deuxième ligne conduit son sujet sur la bonne voie, malgré les nombreuses considérations qui pourraient le distraire. 
   « La volonté est épuisée » au paragraphe 3 suggère que « les efforts répétés » de son sujet l'ont épuisé. Il ne peut désormais que regretter ses échecs. <span id="p340">[<sup><small>p. 340</small></sup>]</span> 
   Ce qui est dit au paragraphe 6 procède d'une interprétation du Texte différente de celle que j'ai suivie. 
@@ -1383,10 +1383,10 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
 [^248]: 341:LIX Le « conformément à cela » doit être équivalent à « pour remédier à l'état de choses ainsi symbolisé ». Ce qui suit, p. 342, revient certainement à dire que les anciens rois considéraient les services religieux, accomplis avec sincérité et sérieux, comme destinés à contrecarrer la tendance à l'aliénation mutuelle et à l'égoïsme dans l'esprit des hommes. On ne nous dit pas comment ils ont agi pour obtenir cet effet bénéfique. Il est également difficile d'expliquer l'extension de ce qui est dit dans le Texte concernant l'établissement du temple ancestral à la présentation d'offrandes à Dieu. L'auteur avait probablement la même idée en tête que dans le Grand Symbolisme de l'hexagramme 16, qv. 
   « Le cours naturel » suivi par le sujet du vers 1 est probablement celui exigé par l'époque. 
   « Ce que le sujet de la ligne 2 désirait », c'était de réussir à contrecarrer la tendance dominante à la désunion. 
-  Le point de vue exprimé au paragraphe 5 est celui de _K_û Hsî. 
+  Le point de vue exprimé au paragraphe 5 est celui de <i>K</i>û Hsî. 
   Pour le paragraphe 6, voir la note à la ligne 6 sous le Texte. 
 
-[^249]: 343:LX Diverses explications du Grand Symbolisme ont été tentées. Par exemple, _Kh_ăng-žze dit : « L'eau que contient un lac ou un marais est limitée à une certaine quantité. Si l'eau qui s'y écoule dépasse cette quantité, elle déborde. Cela nous donne l'idée de _K_ieh. » Ce que l'on trouve sur son application est, à mon avis, tout aussi insatisfaisant. 
+[^249]: 343:LX Diverses explications du Grand Symbolisme ont été tentées. Par exemple, <i>Kh</i>ăng-žze dit : « L'eau que contient un lac ou un marais est limitée à une certaine quantité. Si l'eau qui s'y écoule dépasse cette quantité, elle déborde. Cela nous donne l'idée de <i>K</i>ieh. » Ce que l'on trouve sur son application est, à mon avis, tout aussi insatisfaisant. 
   Le sujet de la ligne 1 sait quand il pourrait avoir libre cours et quand il est gêné, et agit en conséquence. Il est guidé par une considération du temps. 
   Le sujet de la ligne 1 ne devrait pas agir, et il est immobile. Le sujet de la ligne 2 devrait agir, et il est également immobile. L'erreur et ses conséquences sont considérables. 
   Le sujet de la ligne 3 montre, par ses lamentations, comment il se blâme. 
@@ -1406,7 +1406,7 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
   Les notes sur les différentes lignes ne présentent rien qui n'ait été traité dans les notes sur le Texte. 
 
 [^253]: 347:LXIV Dans ce dernier hexagramme, nous avons l'eau en dessous et le feu au-dessus, de sorte que les deux ne peuvent pas agir l'un sur l'autre, et le Symbolisme peut représenter l'état non réglementé des affaires générales, les différentes classes de la société ne s'harmonisant pas ni n'agissant ensemble. L'application suit naturellement.
-  _K_û Hsî et d'autres soupçonnent une erreur dans le texte du paragraphe 1 ; pourtant, tel qu'il est, il en ressort un sens acceptable. 
+  <i>K</i>û Hsî et d'autres soupçonnent une erreur dans le texte du paragraphe 1 ; pourtant, tel qu'il est, il en ressort un sens acceptable. 
   Les éditeurs de Khang-hsî observent, au paragraphe 2, qu'une ligne indivise à la deuxième place et une ligne divisée à la cinquième place sont toutes deux incorrectes, et pourtant on dit souvent d'elles qu'une correction ferme dans leurs sujets apportera la bonne fortune ; telle est la vertu de la position centrale. Ce principe est enfin clairement énoncé dans ce paragraphe. 
-  _Kh_ăng-žze dit : « Le sujet de la ligne 4 possède les capacités requises par le temps et une ferme solidité. Il peut donc mener à bien son projet. La bonne fortune sera au rendez-vous, et toute raison de repentir disparaîtra. La destruction de la région démoniaque était le plus bel exemple de correction ferme. » 
+  <i>Kh</i>ăng-žze dit : « Le sujet de la ligne 4 possède les capacités requises par le temps et une ferme solidité. Il peut donc mener à bien son projet. La bonne fortune sera au rendez-vous, et toute raison de repentir disparaîtra. La destruction de la région démoniaque était le plus bel exemple de correction ferme. » 
   Les deux symboles du paragraphe 6 indiquent un manque de prudence et une réticence à soumettre ses impulsions à la raison et à la prudence.

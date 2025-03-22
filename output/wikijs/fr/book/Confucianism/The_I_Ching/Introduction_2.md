@@ -50,7 +50,7 @@ _L'origine des figures linéaires_
 
 « Autrefois, lorsque le pouvoir sur tout ce qui est sous le ciel était entre les mains de Pâo-hsî, levant les yeux, il contemplait les formes brillantes qui se déployaient dans le ciel ; et, baissant les yeux, il observait les motifs de la terre. Il remarquait les ornements des oiseaux et des bêtes, ainsi que les caractéristiques du sol. De près, en lui-même, il trouvait des choses à considérer, et de loin, dans les choses en général. Sur cette base, il conçut les huit figures linéaires de trois lignes chacune, pour illustrer pleinement les opérations spirituelles et intelligentes (de la nature), et pour classer les qualités des myriades de choses. »
 
-Pâo-hsî est l'autre nom de Fû-hsî, le personnage le plus ancien mentionné avec précision dans l'histoire chinoise, bien que de nombreuses légendes existent à son sujet. Sa place dans la chronologie commence en 3322 av. J.-C., il y a 5203 ans. Il apparaît dans ce paragraphe comme l'inventeur des huit kwâ ou trigrammes. Les processus qui l'ont conduit à les former, ainsi que les objectifs qu'il entendait leur assigner, sont décrits, mais en termes vagues et généraux qui ne satisfont pas notre curiosité. Les huit personnages, cependant, étaient ![](image/book/Confucianism/The_I_Ching/tri111.jpg), ![](image/book/Confucianism/The_I_Ching/tri011.jpg), ![](image/book/Confucianism/The_I_Ching/tri101.jpg), ![](image/book/Confucianism/The_I_Ching/tri001.jpg), ![](image/book/Confucianism/The_I_Ching/tri110.jpg), ![](image/book/Confucianism/The_I_Ching/tri010.jpg), ![](image/book/Confucianism/The_I_Ching/tri100.jpg), et ![](image/book/Confucianism/The_I_Ching/tri000.jpg); appelés _kh_ien, tui, lî, _k_ăn, soleil, khân, kăn et khwăn ; et représentant le ciel ou le paradis ; l'eau, en particulier une collection d'eau comme dans un marais ou un lac ; le feu, le soleil, la foudre ; le tonnerre ; le vent et le bois ; l'eau, en particulier comme dans la pluie, les nuages, les sources, les ruisseaux dans les défilés et la lune ; une colline ou une montagne ; et la terre. À chacune de ces figures est attribué un certain attribut ou une certaine qualité qui devrait être suggérée par l'objet naturel qu'il symbolise ; mais nous n'avons pas besoin d'entrer dans ces attributs pour le moment.
+Pâo-hsî est l'autre nom de Fû-hsî, le personnage le plus ancien mentionné avec précision dans l'histoire chinoise, bien que de nombreuses légendes existent à son sujet. Sa place dans la chronologie commence en 3322 av. J.-C., il y a 5203 ans. Il apparaît dans ce paragraphe comme l'inventeur des huit kwâ ou trigrammes. Les processus qui l'ont conduit à les former, ainsi que les objectifs qu'il entendait leur assigner, sont décrits, mais en termes vagues et généraux qui ne satisfont pas notre curiosité. Les huit personnages, cependant, étaient ![](image/book/Confucianism/The_I_Ching/tri111.jpg), ![](image/book/Confucianism/The_I_Ching/tri011.jpg), ![](image/book/Confucianism/The_I_Ching/tri101.jpg), ![](image/book/Confucianism/The_I_Ching/tri001.jpg), ![](image/book/Confucianism/The_I_Ching/tri110.jpg), ![](image/book/Confucianism/The_I_Ching/tri010.jpg), ![](image/book/Confucianism/The_I_Ching/tri100.jpg), et ![](image/book/Confucianism/The_I_Ching/tri000.jpg); appelés <i>kh</i>ien, tui, lî, <i>k</i>ăn, soleil, khân, kăn et khwăn ; et représentant le ciel ou le paradis ; l'eau, en particulier une collection d'eau comme dans un marais ou un lac ; le feu, le soleil, la foudre ; le tonnerre ; le vent et le bois ; l'eau, en particulier comme dans la pluie, les nuages, les sources, les ruisseaux dans les défilés et la lune ; une colline ou une montagne ; et la terre. À chacune de ces figures est attribué un certain attribut ou une certaine qualité qui devrait être suggérée par l'objet naturel qu'il symbolise ; mais nous n'avons pas besoin d'entrer dans ces attributs pour le moment.
 
 (ii) Les paragraphes 70 et 71 de la section i donnent une autre explication de l’origine des trigrammes :
 
@@ -66,7 +66,7 @@ Mais lorsque l'on part des deux lignes comme bases, la formation de tous les dia
 
 _Qui a multiplié les chiffres jusqu'à 64 en premier ?_
 
-C'est une question discutable de savoir qui a le premier multiplié les figures des trigrammes universellement attribués à Fû-hsî aux 64 hexagrammes du Yî. L'opinion la plus commune est que c'était le roi Wăn ; mais _K_û Hsî, lorsqu'il fut interrogé sur le sujet, pencha plutôt pour soutenir que Fû-hsî les avait multipliés lui-même, mais refusa de dire s'il pensait que leurs noms étaient aussi vieux que les figures elles-mêmes, ou dataient seulement du XIIe siècle avant J.-C. [^16] Je ne m'aventurerai pas à contester <span id="p14">[<sup><small>p. 14</small></sup>]</span> son opinion sur la multiplication des figures, mais je dois penser que les noms, tels que nous les avons maintenant, étaient du roi Wăn.
+C'est une question discutable de savoir qui a le premier multiplié les figures des trigrammes universellement attribués à Fû-hsî aux 64 hexagrammes du Yî. L'opinion la plus commune est que c'était le roi Wăn ; mais <i>K</i>û Hsî, lorsqu'il fut interrogé sur le sujet, pencha plutôt pour soutenir que Fû-hsî les avait multipliés lui-même, mais refusa de dire s'il pensait que leurs noms étaient aussi vieux que les figures elles-mêmes, ou dataient seulement du XIIe siècle avant J.-C. [^16] Je ne m'aventurerai pas à contester <span id="p14">[<sup><small>p. 14</small></sup>]</span> son opinion sur la multiplication des figures, mais je dois penser que les noms, tels que nous les avons maintenant, étaient du roi Wăn.
 
 _Pourquoi les chiffres n'ont pas été poursuivis après 64_
 
@@ -196,7 +196,7 @@ Ce qui précède est un échantillon de ce que j'ai appelé les essais qui const
 
 Sze est un bon spécimen de sa catégorie. Des 63 autres hexagrammes se dégagent des leçons, pour la plupart tout aussi bonnes et frappantes. Mais pourquoi, pourrait-on se demander, nous les transmet-on par un tel étalage de figures linéaires et un tel foisonnement de représentations emblématiques ? Il n'appartient pas à l'étranger d'insister sur une telle question. Les Chinois ne les ont pas moins appréciés malgré le style désuet dont leurs leçons sont ornées. Des centaines de leurs commentateurs ont évolué et développé leur signification avec une minutie et une finesse d'illustration qui ne laissent rien à désirer. Il appartient aux étudiants étrangers du chinois de se préparer à la maîtrise de ce livre au lieu de le présenter comme mystérieux et presque inexplicable.
 
-En admettant, cependant, que le sujet du Yî soit celui qui a été décrit, très précieux pour sa sagesse pratique, mais non tiré d'un abîme de spéculation philosophique, on peut encore insister : « Mais dans tout cela nous ne trouvons rien qui justifie le nom du livre comme Yî King, le “Classique des Mutations”. N'y a-t-il pas quelque chose de plus, de plus élevé ou de plus profond, dans les Appendices qui ont été attribués à Confucius, dont l'autorité n'est certainement pas inférieure à celle du roi Wăn, ou du duc de <i>K</i>âu ? » Répondre pleinement à cette question nécessitera un autre chapitre.
+En admettant, cependant, que le sujet du Yî soit celui qui a été décrit, très précieux pour sa sagesse pratique, mais non tiré d'un abîme de spéculation philosophique, on peut encore insister : « Mais dans tout cela nous ne trouvons rien qui justifie le nom du livre comme Yî King, le « Classique des Mutations ». N'y a-t-il pas quelque chose de plus, de plus élevé ou de plus profond, dans les Appendices qui ont été attribués à Confucius, dont l'autorité n'est certainement pas inférieure à celle du roi Wăn, ou du duc de <i>K</i>âu ? » Répondre pleinement à cette question nécessitera un autre chapitre.
 
 <figure class="table chapter-navigator">
   <table>
@@ -226,13 +226,13 @@ En admettant, cependant, que le sujet du Yî soit celui qui a été décrit, tr�
 
 [^14]: 10:10:1 Voir la planche I à la fin de l'introduction.
 
-[^15]: 12:12:1 <i>K</i>âu-žze, appelé <i>K</i>âu Tun-î et <i>K</i>âu Mâu-shuh, et, plus communément encore, du ruisseau près duquel se trouvait sa résidence préférée, <i>K</i>âu Lien-_kh_î. Mayers (Manuel du lecteur chinois, p. 23) dit : « Il a occupé diverses fonctions d'État et a été pendant de nombreuses années à la tête d'une galaxie d'érudits qui cherchaient à s'instruire en matière de philosophie et de recherche : deuxième seulement après _K_û Hsî en réputation littéraire. »
+[^15]: 12:12:1 <i>K</i>âu-žze, appelé <i>K</i>âu Tun-î et <i>K</i>âu Mâu-shuh, et, plus communément encore, du ruisseau près duquel se trouvait sa résidence préférée, <i>K</i>âu Lien-<i>kh</i>î. Mayers (Manuel du lecteur chinois, p. 23) dit : « Il a occupé diverses fonctions d'État et a été pendant de nombreuses années à la tête d'une galaxie d'érudits qui cherchaient à s'instruire en matière de philosophie et de recherche : deuxième seulement après <i>K</i>û Hsî en réputation littéraire. »
 
-[^16] : 13:13:1 _K_û-žze <i>Kh</i>wan shû, ou Recueil des œuvres de _K_û-žze, chap. 26 (le premier chapitre sur le Yî), art. 16.
+[^16] : 13:13:1 <i>K</i>û-žze <i>Kh</i>wan shû, ou Recueil des œuvres de <i>K</i>û-žze, chap. 26 (le premier chapitre sur le Yî), art. 16.
 
 [^17] : 14:14:1 Analectes IX, viii.
 
-[^18] : 14:14:2 Lî _K_î VIII, iv, 16.
+[^18] : 14:14:2 Lî <i>K</i>î VIII, iv, 16.
 
 [^19] : 14:14:3 Shû V, xxii, 19.
 
@@ -240,13 +240,13 @@ En admettant, cependant, que le sujet du Yî soit celui qui a été décrit, tr�
 
 [^21]: 17:17:1 Ce n'était certainement pas Confucius. Voir la paternité des Appendices, et en particulier de l'Appendice III, au chapitre suivant.
 
-[^22]: 18:18:1 Pour cette dissection, que l'on peut aussi appeler réduction à l'absurde, de l'écriture Lo, je suis d'abord redevable à P. Regis. Voir son Y-King I, p. 60. Mais _K_û Hsî l'a aussi dans l'appendice de ses « Leçons sur le Yî pour les jeunes ».
+[^22]: 18:18:1 Pour cette dissection, que l'on peut aussi appeler réduction à l'absurde, de l'écriture Lo, je suis d'abord redevable à P. Regis. Voir son Y-King I, p. 60. Mais <i>K</i>û Hsî l'a aussi dans l'appendice de ses « Leçons sur le Yî pour les jeunes ».
 
 [^23] : 19:19:1 Le Shû IV, xi, 1, 2.
 
 [^24]: 19:19:2 Ce furent des exemples bien connus de la cruauté gratuite de Shâu. Observant des gens un jour d'hiver pataugeant dans un ruisseau, il ordonna qu'on leur coupe les jambes jusqu'au jarret, afin de voir la moelle qui pouvait si bien supporter le froid. « L'homme de bien » était un de ses proches, appelé Pî-kan. Ayant rendu Shâu furieux par la sévérité de ses réprimandes, le tyran ordonna qu'on lui arrache le cœur, afin de voir la structure du cœur d'un sage.
 
-[^25]: 20:20:1 Nous ignorons quels étaient ces stratagèmes. Mais pour plaire à sa femme, l'infâme Tâ-_k_î, Shâu avait fabriqué « le Chauffeur » et « le Rôtisseur », deux instruments de torture. Ce dernier était un pilier de cuivre posé au-dessus d'une fosse de charbon ardent, et rendu glissant ; les coupables étaient obligés de marcher dessus.
+[^25]: 20:20:1 Nous ignorons quels étaient ces stratagèmes. Mais pour plaire à sa femme, l'infâme Tâ-<i>k</i>î, Shâu avait fabriqué « le Chauffeur » et « le Rôtisseur », deux instruments de torture. Ce dernier était un pilier de cuivre posé au-dessus d'une fosse de charbon ardent, et rendu glissant ; les coupables étaient obligés de marcher dessus.
 
 [^26] : 20:20:2 Le Shû V, i, Sect. III, 2, 3.
 

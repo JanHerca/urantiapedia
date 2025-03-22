@@ -53,21 +53,21 @@ III. | THE APPENDIXES | [26](Introduction_2#p26)
 
 Hexagram | &nbsp; | PAGE
 --- | --- | ---:
-I. | _Kh_ien | [57](Section_1#p57)
+I. | <i>Kh</i>ien | [57](Section_1#p57)
 II. | Khwăn | [59](Section_1#p59)
-III. | _K_un | [62](Section_1#p62)
+III. | <i>K</i>un | [62](Section_1#p62)
 IV. | Măng | [64](Section_1#p64)
 V. | Hsü | [67](Section_1#p67)
 VI. | Sung | [69](Section_1#p69)
 VII. | Sze | [71](Section_1#p71)
 VIII. | Pî | [73](Section_1#p73)
-IX. | Hsiâo _Kh_û | [76](Section_1#p76)
+IX. | Hsiâo <i>Kh</i>û | [76](Section_1#p76)
 X. | Lî | [78](Section_1#p78)
 XI. | Thâi | [81](Section_1#p81)
 XII. | Phî | [83](Section_1#p83)
-XIII. | Thung _Z_ăn | [86](Section_1#p86)
+XIII. | Thung <i>Z</i>ăn | [86](Section_1#p86)
 XIV. | Tâ Yû | [88](Section_1#p88)
-XV. | _Kh_ien | [89](Section_1#p89)
+XV. | <i>Kh</i>ien | [89](Section_1#p89)
 XVI. | Yü | [91](Section_1#p91)
 XVII. | Sui | [93](Section_1#p93)
 XVIII. | Kû | [95](Section_1#p95)
@@ -78,7 +78,7 @@ XXII. | Pî | [103](Section_1#p103)
 XXIII. | Po | [105](Section_1#p105)
 XXIV. | Fû | [107](Section_1#p107)
 XXV. | Wû Wang | [109](Section_1#p109)
-XXVI. | Tâ _Kh_û | [112](Section_1#p112)
+XXVI. | Tâ <i>Kh</i>û | [112](Section_1#p112)
 XXVII.Î[114](Section_1#p114)
 XXVIII. | Tâ Kwo | [116](Section_1#p116) <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 XXIX. | Khân | [118](Section_1#p118)
@@ -92,13 +92,13 @@ Hexagram | &nbsp; | PAGE
 XXXI. | Hsien | [123](Section_2#p123)
 XXXII. | Hăng | [125](Section_2#p125)
 XXXIII. | Thun | [127](Section_2#p127)
-XXXIV. | Tâ _K_wang | [129](Section_2#p129)
+XXXIV. | Tâ <i>K</i>wang | [129](Section_2#p129)
 XXXV. | Žin | [131](Section_2#p131)
 XXXVI. | Ming Î | [134](Section_2#p134)
-XXXVII. | _K_iâ Zăn | [136](Section_2#p136)
+XXXVII. | <i>K</i>iâ Zăn | [136](Section_2#p136)
 XXXVIII. | Khwei | [139](Section_2#p139)
-XXXIX. | _K_ien | [141](Section_2#p141)
-XL. | _K_ieh | [144](Section_2#p144)
+XXXIX. | <i>K</i>ien | [141](Section_2#p141)
+XL. | <i>K</i>ieh | [144](Section_2#p144)
 XLI. | Sun | [146](Section_2#p146)
 XLII. | Yî | [149](Section_2#p149)
 XLIII. | Kwâi | [151](Section_2#p151)
@@ -109,19 +109,19 @@ XLVII. | Khwăn | [161](Section_2#p161)
 XLVIII. | Žing | [164](Section_2#p164)
 XLIX. | Ko | [167](Section_2#p167)
 L. | Ting | [169](Section_2#p169)
-LI. | _K_ăn | [172](Section_2#p172)
+LI. | <i>K</i>ăn | [172](Section_2#p172)
 LII. | Kăn | [175](Section_2#p175)
-LIII. | _K_ien | [178](Section_2#p178)
+LIII. | <i>K</i>ien | [178](Section_2#p178)
 LIV. | Kwei Mei | [180](Section_2#p180)
 LV. | Făng | [183](Section_2#p183)
 LVI. | Lü | [187](Section_2#p187)
 LVII. | Sun | [189](Section_2#p189)
 LVIII. | Tui | [192](Section_2#p192)
 LIX. | Hwân | [194](Section_2#p194)
-LX. | _K_ieh | [197](Section_2#p197)
-LXI. | _K_ung Fû | [199](Section_2#p199)
+LX. | <i>K</i>ieh | [197](Section_2#p197)
+LXI. | <i>K</i>ung Fû | [199](Section_2#p199)
 LXII. | Hsiâo Kwo | [201](Section_2#p201)
-LXIII. | _K_î Žî | [204](Section_2#p204)
+LXIII. | <i>K</i>î Žî | [204](Section_2#p204)
 LXIV. | Wei Ži | [207](Section_2#p207) <span id="px">[<sup><small>p. x</small></sup>]</span>
 
 
@@ -131,12 +131,12 @@ CHAP. | &nbsp; | PAGE
 --- | --- | ---:
 I. | TREATISE ON THE THWAN, THAT IS, ON KING WAN'S EXPLANATIONS OF THE ENTIRE HEXAGRAMS. | 
 &nbsp; | SECTION I. | 
-&nbsp; | _Kh_ien to Lî | [213-237](Appendix_1#p213)
+&nbsp; | <i>Kh</i>ien to Lî | [213-237](Appendix_1#p213)
 &nbsp; | SECTION II.
 &nbsp; | Hsien to Wei Žî | [238-266](Appendix_1#p238)
 II. | TREATISE ON THE SYMBOLISM OF THE HEXAGRAMS, AND OF THE DUKE OF KAU'S EXPLANATIONS OF THE SEVERAL LINES. | 
 &nbsp; | SECTION I. | 
-&nbsp; | _Kh_ien to Lî | [267-305](Appendix_2#p267)
+&nbsp; | <i>Kh</i>ien to Lî | [267-305](Appendix_2#p267)
 &nbsp; | SECTION II. | 
 &nbsp; | Hsien to Wei Žî | [305-347](Appendix_2#p305)
 III. | THE GREAT APPENDIX. | 
@@ -146,14 +146,14 @@ III. | THE GREAT APPENDIX. |
 &nbsp; | Chapters I-XII | [379](Appendix_3#p379)
 IV. | SUPPLEMENTARY TO THE THWAN AND YÂO ON THE FIRST AND SECOND HEXAGRAMS, AND SHOWING HOW THEY MAY BE INTERPRETED OF MAN'S NATURE AND DOINGS. | 
 &nbsp; | SECTION I. | 
-&nbsp; | On _Kh_ien | [408](Appendix_4#p408)
+&nbsp; | On <i>Kh</i>ien | [408](Appendix_4#p408)
 &nbsp; | SECTION II. | 
 &nbsp; | On Khwăn | [418](Appendix_4#p418)
 V. | TREATISE OF REMARKS ON THE TRIGRAMS. | 
 &nbsp; | Chapters I-IX | [422](Appendix_5#p422) <span id="pxi">[<sup><small>p. xi</small></sup>]</span>
 VI. | THE ORDERLY SEQUENCE OF THE HEXAGRAMS. | 
 &nbsp; | SECTION I. | 
-&nbsp; | _Kh_ien to Lî | [433](Appendix_6#p433)
+&nbsp; | <i>Kh</i>ien to Lî | [433](Appendix_6#p433)
 &nbsp; | SECTION II. | 
 &nbsp; | Hsien to Wei Žî | [435](Appendix_6#p435)
 VII. | TREATISE ON THE HEXAGRAMS TAKEN PROMISCUOUSLY, ACCORDING TO THE OPPOSITION OR DIVERSITY OF THEIR MEANING | [441](Appendix_7#p441)

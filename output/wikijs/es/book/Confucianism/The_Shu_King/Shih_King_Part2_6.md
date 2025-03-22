@@ -32,7 +32,19 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
+<span id="p376">[<sup><small>pág. 376</small></sup>]</span>
 
+## La Octava Década, o la de Po Hwâ.
+
+<a id="o5"></a>
+
+### ODA 5, ESTROFAS 1 Y 2. THE PO HW.
+
+LA REINA DEL REY YÛ SE QUEJA DE SER DEGRADADA Y ABANDONADA.
+
+Las fibras del junco de flores blancas están unidas con la hierba blanca [^469]. El hecho de que este hombre me haya enviado lejos me hace vivir sola.
+
+Las nubes ligeras y brillantes rocían los juncos y la hierba [^470]. El camino del Cielo es duro y difícil [^471]; —Este hombre no se conforma (a los buenos principios).
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +69,11 @@ dateCreated: 2025-2-12T12:52:26Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^486]: 376:1 Los tallos de junco se ataban con la hierba en manojos para su maceración, una operación con la que se suponía que las damas de aquella época estaban familiarizadas. Las dos líneas sugieren la idea de la estrecha conexión entre ambas plantas y la necesidad de una para la otra, como debería ser entre marido y mujer.
+
+[^487]: 376:2 Las nubes depositaron su influencia de rocío sobre las plantas, mientras su marido descuidó al orador.
+
+[^488]: 376:3 «El camino del Cielo» equivale a nuestro «El curso de la Providencia». Las palabras de la dama son, literalmente, «Los pasos del Cielo». Emite apenas un débil gemido; pero, según la opinión china, cumple así, mucho mejor, con el deber de una esposa.

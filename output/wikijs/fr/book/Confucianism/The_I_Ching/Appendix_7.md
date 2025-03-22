@@ -35,7 +35,7 @@ Traité des Hexagrammes pris pêle-mêle, selon l'opposition ou la diversité de
 
 Ce dernier appendice est brièvement évoqué dans le dernier paragraphe de l'introduction, [p. 55](Introduction_3#p55). Il y est indiqué qu'il est en rimes, et je me suis efforcé de lui donner une forme similaire dans la version suivante. Cependant, les rimes et la longueur des vers dans l'original sont très irrégulières, et il m'a été impossible de reproduire cette irrégularité en anglais.
 
-1, 2. Force en _Kh_ien, faiblesse en Khwăn nous trouvons.
+1, 2. Force en <i>Kh</i>ien, faiblesse en Khwăn nous trouvons.
 
 8, 7. Pî nous montre la joie, et Sze l'esprit anxieux.
 
@@ -43,19 +43,19 @@ Ce dernier appendice est brièvement évoqué dans le dernier paragraphe de l'in
 
 Leurs différentes figures étaient destinées à enseigner.
 
-3\. _K_un se manifeste, mais garde sa place ;
+3\. <i>K</i>un se manifeste, mais garde sa place ;
 
 4\. « Au milieu des ténèbres, Măng tourne son visage vers la lumière.
 
-51, 52. _K_ăn démarre ; Kăn s'arrête. On voit Sun et Yî
+51, 52. <i>K</i>ăn démarre ; Kăn s'arrête. On voit Sun et Yî
 
 41, 42. Comment la plénitude et la décadence commencent leur cours.
 
-26\. Tâ _Kh_û reste immobile et attend le moment opportun.
+26\. Tâ <i>Kh</i>û reste immobile et attend le moment opportun.
 
 25\. Wû Wang explique comment le mal naît du crime. <span id="p442">[<sup><small>p. 442</small></sup>]</span> 45, 46. Les hommes de bien de Žhui se rassemblent ; de Shang, ils s'élèvent :
 
-15, 16. _Kh_ien lui-même, vous le méprisez pour les autres.
+15, 16. <i>Kh</i>ien lui-même, vous le méprisez pour les autres.
 
 21, 22. Shih Ho prend la nourriture pour thème ; et Pî
 
@@ -81,29 +81,29 @@ Prend ce qui est simple, de l'ornement tout à fait libre.
 
 59,60. Hwân disperse ; mais Žieh dresse son code de règles.
 
-40\. Le soulagement et la facilité avec _K_ieh viendront certainement ;
+40\. Le soulagement et la facilité avec <i>K</i>ieh viendront certainement ;
 
 41\. Le dur labeur et le danger ont leur domicile à K_ien.
 
 38\. Khwei considère les autres comme hors de sa portée ;
 
-37\. Kiâ _Z_ăn inclut tout dans sa sphère. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. Tandis que Phî et Thâi préfèrent leurs domaines d'action différents,
+37\. Kiâ <i>Z</i>ăn inclut tout dans sa sphère. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. Tandis que Phî et Thâi préfèrent leurs domaines d'action différents,
 
-34, 33. Tâ _K_wang s'arrête ici comme à droite ; Thun se retire là.
+34, 33. Tâ <i>K</i>wang s'arrête ici comme à droite ; Thun se retire là.
 
 14\. Les multitudes adhérentes à Tâ Yû peuvent se montrer ;
 
-13\. Thung _Z_ăn reflète la lueur de leur chaleureuse affection.
+13\. Thung <i>Z</i>ăn reflète la lueur de leur chaleureuse affection.
 
 50, 51. Ting prend ce qui est nouveau ; l'ancien est laissé par Ko.
 
-61, 62. Sincère est _K_ung Fû; mais dépasse, Hsiâo Kwo.
+61, 62. Sincère est <i>K</i>ung Fû; mais dépasse, Hsiâo Kwo.
 
 55, 56. Făng parle de problèmes ; Lü peut se vanter d'avoir peu d'amis.
 
 30, 29. Le feu monte dans Lî ; l'eau dans Khân descend.
 
-9\. Hsiâo _Kh_û combat avec peu d'adversaires contre de nombreux ennemis.
+9\. Hsiâo <i>Kh</i>û combat avec peu d'adversaires contre de nombreux ennemis.
 
 10\. Le mouvement dans Lî, incessant, ne finit jamais.
 
@@ -117,7 +117,7 @@ Prend ce qui est simple, de l'ornement tout à fait libre.
 
 Ils sont rencontrés par quelqu'un qui est faible, mais qui lutte longtemps.
 
-53\. Dans _K_ien, nous voyons une mariée qui tardera
+53\. Dans <i>K</i>ien, nous voyons une mariée qui tardera
 
 Se déplacer jusqu'à ce que l'époux prenne son chemin.
 

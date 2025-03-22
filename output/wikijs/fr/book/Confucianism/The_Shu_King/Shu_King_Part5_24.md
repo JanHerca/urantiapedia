@@ -48,7 +48,7 @@ Les coutumes en vigueur tantôt tendent au progrès, tantôt à la dégénéresc
 
 4\. Le roi dit : « Oh ! Grand Maître, la sécurité ou le danger du royaume dépend de ces officiers de Yin. Si vous n'êtes ni trop sévère ni trop doux avec eux, leur vertu sera véritablement cultivée. » Le duc de Kâu a fait preuve de la prudence nécessaire au début (de l'entreprise) ; Kün-khăn a fait preuve de l'harmonie qui lui était propre au milieu ; et vous, ô duc, pouvez enfin la mener à bien. Vous trois princes aurez été d'un même objectif et aurez tous suivi la bonne voie. La puissance pénétrante de vos principes et la bonne réputation de vos mesures de gouvernement exerceront une influence enrichissante sur le caractère du peuple, de sorte que les tribus sauvages, avec leurs manteaux boutonnés à gauche [^284], trouveront toutes en eux leur juste soutien, et moi, le petit enfant, je jouirai longtemps d'un grand bonheur. Ainsi, ô duc, là, à Khăng-_k_âu, tu établiras pour toujours la puissance (de Kâu), et tu jouiras d'une renommée inépuisable. Tes descendants suivront ton modèle parfait et gouverneront en conséquence.
 
-Oh ! ne dites pas : “Je ne suis pas à la hauteur”, mais concentrez-vous au maximum. Ne dites pas : “Le peuple est peu nombreux”, mais concentrez-vous soigneusement sur vos affaires. Suivez avec respect les exploits des rois précédents et parachevez l’excellence du gouvernement de vos prédécesseurs.
+Oh ! ne dites pas : « Je ne suis pas à la hauteur », mais concentrez-vous au maximum. Ne dites pas : « Le peuple est peu nombreux », mais concentrez-vous soigneusement sur vos affaires. Suivez avec respect les exploits des rois précédents et parachevez l’excellence du gouvernement de vos prédécesseurs.
 
 <figure class="table chapter-navigator">
   <table>

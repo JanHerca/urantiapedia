@@ -8,7 +8,40 @@ editor: markdown
 dateCreated: 2025-2-12T12:52:26Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-tao"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">James Legge, (tr.)</text>		<text style="font-size:4px" x="61" y="125">1879</text>		<text style="font-size:9px" x="61" y="60">El Rey Shû,</text>		<text style="font-size:9px" x="61" y="70">Rey Shih</text>		<text style="font-size:9px" x="61" y="80">y el rey Hsiâo</text>		<text style="font-size:9px" x="61" y="90">(SBE 3)</text>	</g></svg></div><p style="text-align:center;">LOS<br><span class="text-h3">LIBROS SAGRADOS DE CHINA</span><br>LOS TEXTOS DEL CONFUCIANISMO<br>TRADUCIDO POR<br><span class="text-h5">JAMES LEGGE</span><br>PARTE I<br>EL REY SHÛ<br>LAS PORCIONES RELIGIOSAS DEL REY SHIH<br>EL REY HSIAO<br>[Libros Sagrados de Oriente Vol. III]<br>[1879]<br>Escaneado en wwwsacred-texts.com Agosto-Septiembre 2000<br>Revisado en julio de 2005<br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-tao">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">James Legge, (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1879</text>
+		<text style="font-size:9px" x="61" y="60">El Rey Shû,</text>
+		<text style="font-size:9px" x="61" y="70">Rey Shih</text>
+		<text style="font-size:9px" x="61" y="80">y el rey Hsiâo</text>
+		<text style="font-size:9px" x="61" y="90">(SBE 3)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+LOS<br>
+<span class="text-h3">LIBROS SAGRADOS DE CHINA</span><br>
+LOS TEXTOS DEL CONFUCIANISMO<br>
+TRADUCIDO POR<br>
+<span class="text-h5">JAMES LEGGE</span><br>
+PARTE I<br>
+EL REY SHÛ<br>
+LAS PORCIONES RELIGIOSAS DEL REY SHIH<br>
+EL REY HSIAO<br>
+[Libros Sagrados de Oriente Vol. III]<br>
+[1879]<br>
+Escaneado en wwwsacred-texts.com Agosto-Septiembre 2000<br>
+Revisado en julio de 2005<br>
+</p>
+
+<br>
+
+
 ## Índice
 
 - [Contenido](/es/book/Confucianism/The_Shu_King/Contents)
@@ -202,7 +235,7 @@ dateCreated: 2025-2-12T12:52:26Z
 			- [Oda 6, Estrofas 1 y 2. El Ting Kih Fang Kûng](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_4#o6)
 		- [Shi King: Lecciones de los Estados: Libro V. Las Odas de Wei](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_5)
 			- [Introducción](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_5#o0)
-			- [Oda 4, estrofas 1 y 2. El Măng](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_5#o4)
+			- [Oda 4, estrofas 1 y 2. El Măng«Regla de conducta universal»hu_King/Shih_King_Part4_5#o4)
 		- [Shi King: Lecciones de los Estados: Libro VI. Las odas del dominio real](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_6)
 			- [Introducción](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_6#o0)
 			- [Oda 1, Estrofa 1. El Shû-Lî](/es/book/Confucianism/The_Shu_King/Shih_King_Part4_6#o1)
