@@ -14,7 +14,7 @@ It was one of the towns visited during the Perea mission of the seventy, between
 
 Maccabee, Judas | | Judas Maccabee | PERSON | OK
 
-Maccabees | | Judas Maccabee | | OK
+Maccabees; Maccabean | | Judas Maccabee | | OK
 The ancestors of Mary, mother of Jesus, were closely associated with the Maccabees, with Joseph's family embracing Jesus' teachings while Mary's family held a different belief about the Messiah. (122:5.10)
 The Asmonean palace of the Maccabees was seen by Jesus and Joseph during a stroll in Jerusalem. (125:1.5) (128:3.5) (185:4.1)
 The Essenes, a religious sect, originated during the Maccabean revolt and followed strict practices that even surpassed those of the Pharisees, living in brotherhood, abstaining from marriage, and focusing on teachings about angels. (137:7.8)
@@ -29,7 +29,7 @@ Machaerus, fortress of; fortress of Machaerus; Machaerus | | | PLACE | OK
 John was arrested while working in southern Perea and taken to the fortress of Machaerus, where Herod Antipas maintained residence and where he remained until his execution. (135:12.1,4)
 John was imprisoned at Machaerus fortress until his execution, where he was comforted by the words of Jesus. (135:12.1) (144:8.6) (144:9.1)
 
-machines | | tools | | OK
+machines; machinery | | tools | | OK
 The survival of contending groups in advancing civilization hinges on the effectiveness of machines. (81:6.20)
 The inestimable benefits of machinery are slowly conferring increasing liberty on mankind. (81:2.14)
 The self-conscious evaluation of one's self is never an attribute of a mere machine. (195:6.11,13) (195:7.3,8-14)
@@ -196,7 +196,7 @@ Malachi emerged as an unsilenced spiritual leader amid the increasing bondage an
 
 maladjustment | | misadaptation | | OK
 
-malaria | | | | OK
+malaria; malarial | | | | OK
 Amatha, suffering from malarial fever, was not miraculously healed by Jesus until several hours later. (145:2.16)
 
 Malaysia; Malayan; Malay | | | PLACE | OK
@@ -216,7 +216,7 @@ The vertical cross section of total space resembles a Maltese cross with horizon
 Malvorian | | | PERSON | OK
 Malvorian, the first Graduate Guide with Grandfanda, is the chief of his order, guiding mortal pilgrims on their journey to the Source and Destiny of all personality. (24:6.4-6)
 
-mammals | (61) (59:0.6) | animals | | OK
+mammals; Mammalian | (61) (59:0.6) | animals | | OK
 The first appearance of nonplacental mammals on Urantia failed. (60:1.11)
 Mammals possess immense survival advantages due to basic instincts manifested in primitive types. (61:1.3)
 45 million years ago, small egg-laying reptilian mammals flourished as continental backbones were elevated and coastlines sank, leading to rapid mammalian evolution. (61:1.9)
@@ -237,7 +237,7 @@ man | |  mortals | | OK
 man of sorrows | | | | OK
 Do not portray Jesus as a man of sorrows, but as a beacon of joy in our religion's transformative message. (159:3.10)
 
-man who attacked wife at Tarentum | | | PERSON | OK
+man who attacked wife at Tarentum; man mistreating his wife | | | PERSON | OK
 A man in Tarentum mistreated his wife publicly, prompting Jesus to intervene. Speaking kindly, Jesus helped the man realize his wrongdoing. The man admitted he lost his temper due to his wife's public criticism and promised to improve. Jesus reminded him that true manhood lies in love, respect, and partnership with his wife. (133:2.1-2)
 
 Manasseh | | | PERSON | OK
@@ -248,7 +248,7 @@ mandates | | commandments; law | | OK
 mandrakes | | | | OK
 Jesus denounced belief in mandrakes and all other forms of ignorant superstition. (150:3.12)
 
-manger | | | | OK
+manger; mangers | | | | OK
 Jesus’ birth in the caravan stables was a fortunate and cozy arrangement due to the overcrowded inn. (122:7.7)
 
 Mangus | | | PERSON | OK
@@ -272,7 +272,7 @@ Mansant | | | PERSON | OK
 Mansant, the great teacher of post-Planetary Prince days, guided his community in honoring “The Great Light” during times of cultural and spiritual renewal, influencing future generations. (45:4.4) (64:6.29)
 Mansant was one of 24 counselors who pointed his fellows to the veneration of “The Great Light.” (45:4.4)
 
-mansion world students | | ascending mortals; mansion worlds; morontia progressors | ORDER | OK
+mansion world students; morontia pupils; educational worlds | | ascending mortals; mansion worlds; morontia progressors | ORDER | OK
 One Morontia Companion is assigned to each company of one thousand ascending mortals on the first mansion world, with larger numbers encountered on subsequent worlds, serving as charming guides and companionable associates throughout the journey. (47:3.12)
 Once delivered from material eyes, mansion world students gain the ability to see lower spirit associates. (9:8.13)
 Each advance to a new mansion world brings a newly developed and suitably adjusted morontia body. (47:4.4)
@@ -325,7 +325,7 @@ Mansion World Teachers train children in probationary nursery after being entrus
 Advanced cherubim, inherently sympathetic teachers of ascending mortals, usually work in pairs on mansion worlds. (48:5.5)
 Mansion World Teachers, working in pairs, are inherently sympathetic instructors operating at a very near morontia level of existence. (48:5.5)
 
-mansion worlds | (47) | architectural spheres; Jerusem; mansion world students; morontia | PLACE | OK
+mansion worlds; mansion worlds; Mansonia; mansonia | (47) | architectural spheres; Jerusem; mansion world students; morontia | PLACE | OK
 The finaliter sphere, surrounded by seven mansion worlds, serves as the headquarters for ascending mortals on the transition world. (30:4.16) (45:0.2) (45:1.2) (47:0.1) (48:1.2)
 First mansion world
 	On the 1st mansion world, resurrected mortal survivors pick up where they left off, with their memories transformed from material to spiritual and reassembled in the enormous temple of personality assembly. (47:3)
@@ -398,7 +398,7 @@ The first assistant System Sovereign, Mansurotia, number 17,841 of the tertiary 
 
 manufacturing | | industry | | OK
 
-maples | | | | OK
+maples; maple | | | | OK
 Maples first appeared during a period of major plant evolution when angiosperms dominated. Alongside trees like beech and oak, maples emerged as part of a rapid global spread of flowering plants. These seed-bearing trees were highly significant in evolution, second only to humans in importance within their respective domains. (60:3.19)
 
 marble | | | | OK
@@ -421,7 +421,7 @@ The commingling of Atlantic and Pacific marine life marked the beginning of rapi
 The gradual cooling of oceans 170 million years ago led to the destruction of marine life, prompting new species to emerge from three specific retreats. (59:6.9)
 The trilobite age dominated marine life around 400,000,000 years ago, before the emergence of land organisms. (59:1)
 The Paleozoic was an era of marine life spanning two hundred and fifty million years. (59:0.4)
-types named | ammonites; amphibians; anthropods; barnacles; brachiopods; clams; coral; crabs; crinoids; crustaceans; cuttlefish; dolphins; echinoderms; fish; foraminifers; gastropods; jellyfish; lobsters; mollusks; octopuses; oysters; pearly nautilus; periwinkles; porpoises; Protozoa; scallops; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; shrimps; sponges; squid; starfish; sturgeon; trilobites; turtles; watersnake; whales
+types named | ammonites; amphibians; arthropods; barnacles; brachiopods; clams; coral; crabs; crinoids; crustaceans; cuttlefish; dolphins; echinoderms; fish; foraminifers; gastropods; jellyfish; lobsters; mollusks; octopuses; oysters; pearly nautilus; periwinkles; porpoises; Protozoa; scallops; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; shrimps; sponges; squid; starfish; sturgeon; trilobites; turtles; watersnake; whales
 
 marital guilt test | | | | OK
 In the Old Testament, a marital guilt test involved a woman drinking a concoction to prove whether she had been unfaithful or not. (70:10.6)
@@ -437,7 +437,7 @@ Mark, Mary | | Mary Mark | PERSON | OK
 mark of the beast | | | | OK
 The purging of unfortunate heredity and bad environment on the seventh mansion world prepares mortals for residence on Jerusem, where the last remnants of the “mark of the beast” are eradicated. (47:9.1) (47:10.2)
 
-market places | | | | OK
+market places; market place | | | | OK
 Like children playing in the market place, some will never accept John's message or my teachings. (144:8.7)
 Early market places secured goods with fetishes to ensure honesty and safety, though cheating was accepted with distant strangers. (69:4.3)
 The first cities of refuge were established on sacred market places where fugitives were safe from attack. (69:4.4)
@@ -569,7 +569,7 @@ Martha and Mary disposed of their lands at Bethany, joined Lazarus at Philadelph
 Martha (wife of Justus) | | | PERSON | OK
 Justus' wife, Martha, welcomed Jesus and the two courtesans, offering them food and counsel to help them start anew. (133:3.8-10)
 
-martyrs | | stonings | | OK
+martyrs; martyr | | stonings | | OK
 The supreme adventure of all time is the service of the kingdom, requiring high devotion, courage, and martyrdom for the love of truth and spiritual realities. (143:1.6-7)
 Jesus and martyrdom
 	Jesus, willingly and royally, submitted to crucifixion by Pilate as a righteous man, fulfilling his purpose of laying down his life for humanity. (187)
@@ -604,7 +604,8 @@ Mary Magdalene wept when the apostles refused to believe Jesus risen, despite he
 Mary Mark | | | PERSON | OK
 Mary Mark, the wife of Elijah and mother of John Mark, welcomed Jesus and the eleven apostles into their home before they departed for the Gethsemane camp. (182:0.1)
 
-Mary (mother of Alpheus twins) | (189:4.4) | | PERSON | OK
+Mary (mother of Alpheus twins); Mary the mother of the Alpheus twins | | | PERSON | OK
+The women who went on the mission of anointing Jesus’ body in the tomb were: Mary Magdalene, Mary the mother of the Alpheus twins, Salome the mother of the Zebedee brothers, Joanna the wife of Chuza, and Susanna the daughter of Ezra of Alexandria. (189:4.4)
 At Jesus' 5th appearance, he encouraged the women believers to spread the gospel of sonship with God and minister to those in need. (190:3.1)
 
 Mary (mother of Jesus) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Jesus:family | PERSON | OK
@@ -663,7 +664,7 @@ present at
 Mary (sister of Lazarus) | (127:3.5) | | PERSON | OK
 Jesus, two years older than Mary and idolized by Lazarus, Martha, and Mary, passed through Jerusalem with an aversion to the Herod-built temple. (127:6.5)
 At Jesus’ 4th appearance, he spoke words of peace and fellowship to Mary, Martha, and their friends, urging them to follow the light of truth with whole hearts. (190:2.6)
-“It was at resurrection of Lazarus that Jesus proclaimed, 'I am the resurrection and the life.'” (168)
+“It was at resurrection of Lazarus that Jesus proclaimed, ‘I am the resurrection and the life.’” (168)
 Mary's belief in Jesus' warning that he must die led Judas Iscariot to seek revenge, fueled by hurt feelings and selfish desires. (172:1.7)
 Mary chose the good and needful part while Martha busied herself with supposed duties. (162:8.3)
 Martha and Mary disposed of their lands at Bethany and joined Lazarus at Philadelphia, where he served as treasurer and supported Abner in his dispute with Paul and the Jerusalem church before ultimately passing away. (168:5.3) (190:1.9)
@@ -674,7 +675,7 @@ Mary loved Jesus as if he were her own brother. (125:2.7)
 Mary's act of anointing Jesus with expensive ointment sparked Judas' resentment, leading to his ultimate betrayal. (139:12.10) (172:1.5-8)
 Mary (sister of Lazarus), wealthy and highly respected, inherited extensive vineyards and olive orchards, and was beloved for her precious ointment offering to Jesus. (168:0.4) (172:1.7)
 
-Mary (wife of Clopas) | | | PERSON | OK
+Mary (wife of Clopas); Mary the wife of Clopas; Mary the wife of Clopas and sister of Jesus’ mother | | | PERSON | OK
 Mary, the wife of Clopas and sister of Jesus' mother, stood in solemn silence at the foot of the cross, along with other devoted friends of Jesus. (187:3.2)
 Mary (wife of Clopas) tarried by Jesus' tomb with the other women, secretly watching where the Master had been laid, planning to return to properly prepare His body for burial. (188:1.7)
 Mary, the wife of Clopas, witnessed Jesus' crucifixion with a group of earnest women believers and other friends of Jesus, holding their peace as they gazed upon his intense sufferings. (187:3.2)
@@ -682,8 +683,8 @@ Mary, the wife of Clopas, witnessed Jesus' crucifixion with a group of earnest w
 Mary (wife of Ezra) | | | PERSON | OK
 Jesus compassionately affirmed his commitment to his family, leaving Mary and her husband in awe of his noble character. (127:5.3)
 
-masks | | | | OK
-Revenge is the shadow of fear, a mask of cowardice, not the true nature of man as the son of God. (145:3.4)
+masks; mask | | | | OK
+“Revenge is the shadow of fear, a mask of cowardice, not the true nature of man as the son of God.” (145:3.4)
 Secret societies, through mysterious initiations and masked rituals, played a critical role in establishing social hierarchies and maintaining traditions. (70:7.15)
 
 massage | | | | OK
@@ -695,7 +696,7 @@ Among Zebedee's numerous employees in Capernaum, Jesus was first known as “Mas
 
 Master Architects | | Architects of the Master Universe | | OK
 
-Master Force Organizers | (29:5) | Universe Power Directors | ORDER | OK
+Master Force Organizers; Paradise force organizers | (29:5) | Universe Power Directors | ORDER | OK
 The Master Force Organizers can affect the genetic and composite motions of astronomic systems within the master universe. (15:3.15)
 The Master Force Organizers function in outer space alongside Solitary Messengers and Inspired Trinity Spirits. (29:5.7)
 Force organizers control universe making, ensuring endless metamorphoses of creation and destruction. (15:8.10)
@@ -732,7 +733,7 @@ master frandalanks | | frandalanks | ORDER | OK
 Master Mathematician | | | | OK
 Master Mathematician orchestrates the vast universe of mathematics, while religion safeguards the conservation of men's souls and their experience with eternal values. (195:6.8)
 
-Master Michaels | | Creator Sons; Paradise Sons of God | ORDER | OK
+Master Michaels; Master Michael | | Creator Sons; Paradise Sons of God | ORDER | OK
 After achieving supreme local universe sovereignty, Master Michaels may not create entirely new types of creatures, but instead must focus on fostering and administering those already designed and created. (21:5.6) (21:6.2)
 Master Michaels, also known as sevenfold Creator Sons, embody eternal unity between Creator and creature in compassionate association. (20:1.15)
 Master Michaels reach a point where their finite capacities are liberated, allowing for more-than-finite service and the creation of new beings, holding vast potentialities for the future. (21:6.2-3)
@@ -972,12 +973,12 @@ masters | | | | OK
 No man can serve two masters; either he will hate the one and love the other, or else he will hold to one while he despises the other. (140:6.13) (163:3.1) (169:2.7)
 The great problem of life on Urantia is serving two masters: navigating ancestral tendencies while yielding spiritual allegiance to the divine presence. (109:5.4)
 
-masters of philosophy | (27:6) | | ORDER | OK
+masters of philosophy; Masters of Philosophy | (27:6) | | ORDER | OK
 The philosophy of perfection taught only on Paradise is shared with the universe by those who have experienced it firsthand. (27:6.6)
 The primary supernaphim are the masters of philosophy. (27:0.5)
 The secoraphic souls of philosophy are in focal synchrony with the masters of philosophy on Paradise. (28:5.11)
 
-mastodons | (61:3.4) (61:4.4) (61:5.7) | | | OK
+mastodons; mastodon | (61:3.4) (61:4.4) (61:5.7) | | | OK
 The mastodon, preferring sheltered fringes of the forest, was exterminated by red men in the ice age. (61:7.13-14)
 The massiveness of passing Reptilia found echo in the elephant and mastodon, linking ancient reptiles to modern mammals. (65:2.10)
 
@@ -993,7 +994,7 @@ Matchmakers were originally employed to negotiate marriages for deceased individ
 
 Material Daughters | | Material Sons | ORDER | OK
 
-material energy | | energy; matter | | OK
+material energy; physical-energy; Physical energy; physical-energy; Energy-matter; energy-matter | | energy; matter | | OK
 Physical energy encompasses all forms of phenomenal motion, action, and potential. (0:6.3)
 All physical-energy and cosmic-force circuits find their origin on nether Paradise, a realm devoid of spirit intelligences or the function of the Deity Absolute. (11:5.1)
 The vast power currents of space and circuits of spirit energy are controlled by Universe Power Directors, ensuring intelligent supervision and manipulation of all energy systems. (24:1.1)
@@ -1004,7 +1005,7 @@ Gravity is the sole controller of energy-matter, not pattern or space. (0:6.11)
 Master Spirits involved in fluctuations of energy manifestations exhibited by linear-gravity-responding units of organized matter, and the behavior of emergent energy when fully liberated from the grasp of the Unqualified Absolute to become responsive to linear gravity and manipulations of Universe Power Directors. (16:4.11-12)
 The superuniverse power centers and physical controllers regulate energy systems, taking 968 million years to encircle their domain. (15:8.2)
 
-Material Sons | (51) (45:5) | Adam; Eve | ORDER | OK
+Material Sons; Material Sons of God | (51) (45:5) | Adam; Eve | ORDER | OK
 In Nebadon, there are 161,432,840 Material Sons, constantly increasing through natural reproduction and guidance from higher governing bodies. (45:5.4)
 Material Sons are classified as ascending sons, transitioning from their role as planetary administrators to begin the journey towards Havona and Paradise alongside other ascending Sons. (40:2)
 Michael's bestowal as a Material Son brought salvation to a troubled world, showcasing his mysterious and unexplainable incarnations in Nebadon. (119:3)
@@ -1089,7 +1090,7 @@ effects
 	Materialism cheapens human life, while the gospel of Jesus exalts and enhances every mortal, bridging the meeting of human upreach and divine downreach. (102:6.10)
 	The pursuit of truth, not the false science of materialism, helps mortal man avoid becoming an outcast in the universe, by seeking the divinely real and beautiful symmetrical truth that is replete with both good and evil. (2:7.4)
 	The dire harvest of materialism and secularism will bring even more terrible destruction in the future. (195:8.13)
-The error in religion increases in proportion to the amount of materialism that corrupts the concept of the Universal Father. (102:4.4)
+	The error in religion increases in proportion to the amount of materialism that corrupts the concept of the Universal Father. (102:4.4)
 errors of materialism
 	The presence of intelligent purpose in material creation is demonstrated by over 50,000 facts of physics and chemistry that defy accidental chance, as well as numerous other findings outside these domains. (58:2.2-5)
 	In denying the personality of the First Source and Center, one is left with the choice of either materialism or pantheism, both of which fall into the corporeality error of equating personality with physical form. (1:5.11-12)
@@ -1108,7 +1109,7 @@ Science struggles for emancipation from the slavery of mathematics. (12:9.5)
 Science teaches man to speak the new language of mathematics, trains his thoughts along lines of exacting precision, stabilizes philosophy through the elimination of error, and purifies religion by the destruction of superstition. (81:6.10)
 Young Jesus spent much time on mathematics, learning new techniques and developing a keen sense of numbers, distances, and proportions. (123:6.3)
 
-mathematics teacher of Damascus | | | PERSON | OK
+mathematics teacher of Damascus; teacher of mathematics from Damascus | | | PERSON | OK
 The mathematics teacher of Damascus helped Jesus develop a keen sense of numbers and proportions after he learned new techniques. (123:6.3)
 
 mating instinct | | sex:urge | | OK
@@ -1178,10 +1179,10 @@ kinds of matter in the universe
 	From the vast quantity of matter circulating in space, small planets slowly accumulate through meteoric accretion and minor collisions, giving rise to many inhabited worlds. (15:5.9)
 	The work resting matter can perform is equal to the energy expended bringing its parts together from Paradise minus the resistance of the forces overcome in transit and the attraction exerted by the parts of matter on one another. (42:4.11)
 
-matter, mind, and spirit | (12:8) | science, philosophy, and religion | | OK
+matter, mind, and spirit; physical, mental, and spiritual | (12:8) | science, philosophy, and religion | | OK
 The domains of physical, mental, and spiritual gravity are distinct realms of cosmic reality, maintaining their intimate interrelations. (65:7.8)
 
-Matthew Levi | (139:7) (143:3.5) (144:1.7) | apostles of Jesus | PERSON | OK
+Matthew Levi; Matthew | (139:7) (143:3.5) (144:1.7) | apostles of Jesus | PERSON | OK
 Matthew Levi served as the apostolic fiscal agent and publicity spokesman, overseeing the budget, ensuring the treasury was replenished, and managing the financial aspects of the apostolic organization. (138:10.6) (139:7.2) (163:0.2)
 Jesus called Matthew Levi and dined with him and other sinners, proclaiming joy and spiritual liberty to all. (138:3)
 Matthew Levi was chased out of a Samaritan town with stones for informing villagers they were declining to entertain Jesus, the Holy One of Israel. (162:0.1)
@@ -1195,7 +1196,7 @@ Jesus’ admonitions to Matthew Levi focused on trusting in spiritual foundation
 Matthew Levi was killed by Jews at Lysimachia while spreading the gospel of the kingdom. (139:7.10)
 Matthew Levi quietly and personally raised funds among devoted believers, giving his modest fortune to the work of the Master and apostles without openly soliciting from the masses. (139:7.8)
 Matthew Levi remained noncommittal on the plan to make Jesus king, amidst the growing enthusiasm and division among the apostles. (152:2.5)
-Matthew Levi witnessed Jesus’ thirteenth appearance to the apostles at the shore in Bethsaida, where they caught 153 large fish and received instructions on serving and loving others. (191:2.5) (192:1-4) (193:0.3,5)
+Matthew Levi witnessed Jesus’ thirteenth appearance to the apostles at the shore in Bethsaida, where they caught 153 large fish and received instructions on serving and loving others. (192:1-4) (193:0.3,5)
 Matthew Levi was among the apostles who participated in the meeting at Pentecost, where more than two thousand souls were won over by an impassioned appeal delivered by Peter. (194:1.2)
 personal characteristics
 	Matthew was initially puzzled by the pageant performance but became ecstatic as the Master approached the temple, though later feeling depressed and exhausted, only to be cheered by morning as a cheerful loser. (172:5.8)
@@ -1259,7 +1260,7 @@ Meaning requires unraveling and correlation in the mind for true unity and under
 
 means versus ends | | ends versus means | | OK
 
-measures | | light-years; time:days and years; weights | | OK
+measures; measurement | | light-years; time:days and years; weights | | OK
 The measures used in constellation headquarters worlds are consistent with those of local universes, including Edentia time reckoning and distance measurement. (43:0.3)
 One Jerusem mile equals seven Urantia miles, reflecting the precision and decimal-based gradant weight system of this advanced civilization, where the Satania day is three Urantia days minus one hour, four minutes, and fifteen seconds, while the system year is composed of one hundred Jerusem days, all meticulously monitored by the master chronoldeks. (46:1.2)
 Simultaneous measurement of location and velocity is impossible due to the inherent paradoxes, as seen in the analysis of protoplasm by chemists who must kill it to study its chemistry. (65:6.1)
@@ -1267,7 +1268,7 @@ Simultaneous measurement of location and velocity is impossible due to the inher
 Mecca | | | | OK
 The Kaaba stone fetish at Mecca unified Arabian tribes and sparked the establishment of the Islamic religion. (95:7.5)
 
-mechanical controllers | | Master Physical Controllers | ORDER | OK
+mechanical controllers; Mechanical Controllers | | Master Physical Controllers | ORDER | OK
 Ten of the most powerful Master Physical Controllers, possessing antigravity capabilities exceeding all others, are currently stationed on Urantia to facilitate the departure of seraphic transports. (29:4.19)
 Ten mechanical controllers are stationed on the capital of each constellation for optimal power distribution and control. (41:1.4)
 The mechanical controllers excel at directing energy into specialized circuits and equalizing pressures within interplanetary circuits, playing a crucial role in managing and controlling various forms of physical energy within the superuniverse. (29:4.20)
@@ -1280,7 +1281,7 @@ Trillions of versatile and intelligent mechanical controllers are commissioned i
 The mechanical controllers, with their antigravity surpassing all beings, are the most powerful of all Master Physical Controllers on the inhabited worlds. (29:4.19)
 The type of Master Physical Controller is 2. Mechanical Controllers. (29:4.6)
 
-mechanism (theory) | | materialism; secularism | | OK
+mechanism (theory); mechanistic cosmology; mechanistic naturalism; mechanistic | | materialism; secularism | | OK
 The intricate design of the ozone layer, just a tenth of an inch thick, protects Earth from harmful ultraviolet rays and highlights the intelligent purpose in material creation, with over 50,000 facts supporting this theory. (58:2.2-5)
 A mechanistic theory fails to explain varying interpretations of the mind, as the concepts of truth, beauty, and goodness cannot be derived solely from physics and chemistry. (195:6.11)
 The mechanist's rejection of universal will unintentionally acknowledges the sovereignty of the law-Creator, highlighting the folly of humanizing or mechanizing the concept of God. (3:6.4-5)
@@ -1376,7 +1377,7 @@ Nazareth in Galilee became a vital crossroads for trade from the Orient to the f
 The Mediterranean Sea greatly expanded in 15,000 B.C., redirecting early migrations and shaping the course of civilization. (81:1.2)
 Marine life evolved in three favorable retreats, including the Sicilian Bay of the Mediterranean basin. (59:6.9)
 
-medium-heads | | skulls | | OK
+medium-heads; medium-headed | | skulls | | OK
 Sangik races were medium-headed, with variations towards broad-headedness in yellow and blue men. (81:4.2)
 
 mediumship | | spiritualism | | OK
@@ -1401,24 +1402,24 @@ Mek led the planetary council on art and science, improving early man's industri
 Melanesians | | | RACE | OK
 Prereligious prayer and mana practices were observed among the Melanesians, African Pygmies, and North American Indians, while the Baganda tribes have recently transitioned from the mana level of prayer. (91:0.5)
 
-melanin | | | | OK
+melanin; Melanin | | | | OK
 Melanin is the original Andonic skin pigment, giving early Andonites a swarthy complexion resembling Eskimos. (63:4.1)
 
 Melchizedek, Father | | Father Melchizedek | PERSON | OK
 
-Melchizedek, Machiventa; Machiventa Melchizedek; Melchizedek | (93) | Melchizedek Sons; missionaries:Salem missionaries | PERSON | OK
+Machiventa Melchizedek; Machiventa Melchizedek; Melchizedek | (93) | Melchizedek Sons; missionaries:Salem missionaries | PERSON | OK
 Melchizedek's appearance and departure unannounced marked the end of Machiventa's emergency bestowal on Urantia. (93:8.1) (93:10.2)
 Melchizedek, known as the Prince of Salem, appeared at Salem to contact the children of Terah, fostering truth and passing it on to Abraham and his associates. (35:4.5) (93:5.3)
 Paper 56 was co-authored on Urantia by a Mighty Messenger at the request of the Nebadon Revelatory Corps and in collaboration with Melchizedek, the vicegerent Planetary Prince. (56:10.22)
-After the departure of Melchizedek, Machiventa, the great leader's emergency bestowal on Urantia came to an end due to the fear of his followers revering him as a demigod. (93:8.1) (93:9.1)
+After the departure of Machiventa Melchizedek, the great leader's emergency bestowal on Urantia came to an end due to the fear of his followers revering him as a demigod. (93:8.1) (93:9.1)
 Melchizedek, like Jesus, focused on fulfilling his mission without trying to change societal norms or introduce new practices. (93:4.15)
-Melchizedek, Machiventa curtailed Caligastia’s power to disturb, and Michael in the flesh ultimately stripped him of all authority on Urantia. (66:8.5)
-Melchizedek, Machiventa wisely offered a sacrament of bread and wine as a substitute for sacrificing, but failed to eradicate his followers' proclivity for the barbarous practice. (93:4.14)
-Melchizedek and Machiventa prohibited missionaries from accepting fees or establishing exclusive congregations, hindering the development of a significant religious structure among the Greeks. (98:1.1)
-The Hebrew scribes destroyed almost every record of Melchizedek, Machiventa, distorting their traditions to exalt themselves as the chosen people of God. (93:9.9)
-Melchizedek, Machiventa was bestowed upon the human races of Urantia 1,973 years before the birth of Jesus, his coming unspectacular and not witnessed by human eyes, first observed by mortal man when he entered the tent of Amdon and proclaimed his mission as priest of El Elyon, the Most High, the one and only God. (93:2.1)
+Machiventa Melchizedek curtailed Caligastia’s power to disturb, and Michael in the flesh ultimately stripped him of all authority on Urantia. (66:8.5)
+Machiventa Melchizedek wisely offered a sacrament of bread and wine as a substitute for sacrificing, but failed to eradicate his followers' proclivity for the barbarous practice. (93:4.14)
+Machiventa Melchizedek prohibited missionaries from accepting fees or establishing exclusive congregations, hindering the development of a significant religious structure among the Greeks. (98:1.1)
+The Hebrew scribes destroyed almost every record of Machiventa Melchizedek, distorting their traditions to exalt themselves as the chosen people of God. (93:9.9)
+Machiventa Melchizedek was bestowed upon the human races of Urantia 1,973 years before the birth of Jesus, his coming unspectacular and not witnessed by human eyes, first observed by mortal man when he entered the tent of Amdon and proclaimed his mission as priest of El Elyon, the Most High, the one and only God. (93:2.1)
 Jesus of Nazareth, perfect in mind and spirit, had a Thought Adjuster previously prepared by the indwelling Machiventa Melchizedek. (93:2.7) (136:2.2)
-Melchizedek, Machiventa laid foundations for the spiritual rehabilitation of Urantia, continuing the supermaterial government after the physical contact had been severed. (76:5.6)
+Machiventa Melchizedek laid foundations for the spiritual rehabilitation of Urantia, continuing the supermaterial government after the physical contact had been severed. (76:5.6)
 Melchizedek's peaceful approach with surrounding tribes led to a friendly separation from Abraham, who sought conquest instead of defense. (93:5.11)
 Melchizedek organized schools at Salem on Sethite model and introduced a tithing system inspired by Abraham. (93:3.1)
 Melchizedek incarnated to foster a religion of one God, preparing the way for the bestowal of Michael on Earth. (96:0.2)
@@ -1426,7 +1427,7 @@ The Melchizedek, Prince of Salem, fostered truth and passed it on to Abraham, ai
 personal details
 	Melchizedek, resembling a 6-foot tall Nodite in appearance, dressed like a priest with a sacred emblem of three concentric circles, lived a commanding and celibate life, speaking multiple languages, and completing his bestowal mission in ninety-four years. (93:2.5-6)
 	During his incarnation, Machiventa communicated solely with his eleven Melchizedek companions, lacking contact with other celestial beings. (93:2.8)
-	Melchizedek, Machiventa lived 94 years as a material being, sustained by material food, partaking of it for the first time with a herder who was astonished by his presence. (93:2.2,5-6)
+	Machiventa Melchizedek lived 94 years as a material being, sustained by material food, partaking of it for the first time with a herder who was astonished by his presence. (93:2.2,5-6)
 	Despite living among men, Machiventa never married and couldn't leave offspring, possessing a specially constructed body that did not carry human life plasm. (93:2.6)
 	Melchizedek, resembling Nodite and Sumerian peoples, spoke Chaldean and 6 other languages, wearing a sacred emblem on his breast. (93:2.5)
 	Melchizedek, resembling Nodite and Sumerian peoples, stood six feet tall and wore 3 concentric circles on his breast, symbolizing the Paradise Trinity. (93:2.5)
@@ -1440,7 +1441,7 @@ since his incarnation
 	Machiventa Melchizedek, the vicegerent Planetary Prince of Urantia, forever representing Christ Michael. (45:4.16) (93:10.5) (114:0.11) (114:1.2-4)
 	Machiventa, as a member of the Urantia directors on Jerusem, will accompany Urantia mortals to the Corps of Finality in their universal progression and ascension journey. (93:10.9)
 teachings | Salem teachings
-	Melchizedek, Machiventa's cardinal precepts were trust and faith, teaching men to trust in God's beneficence and earn His favor through faith. (92:4.7)
+	Machiventa Melchizedek's cardinal precepts were trust and faith, teaching men to trust in God's beneficence and earn His favor through faith. (92:4.7)
 	covenant with Abraham whereby God does everything and
 	Man believes in the spiritual concept of the kingdom of heaven, following the covenant of righteousness made with Melchizedek. (93:6)
 	The creed and commandments of the Melchizedek church emphasized faith over sacrifices, with a focus on belief in the Most High God and obedience to the seven commandments. (93:4.1-13)
@@ -1488,7 +1489,7 @@ When the proclamation was issued for Adamic volunteers, Melchizedek receivers me
 Due to being thrown completely on their own resources, Machiventa Melchizedek volunteered to incarnate on earth as a temporary man of the realm for world ministry. (93:1.3)
 The Melchizedek receivers duly warned Adam and Eve about the dangers, but the traitorous Planetary Prince still managed to compromise them. (51:3.4)
 
-Melchizedek Sons | (35:2.4) | Father Melchizedek; Melchizedek, Machiventa; Melchizedek receivers | ORDER | OK
+Melchizedek Sons; Melchizedeks | (35:2.4) | Father Melchizedek; Machiventa Melchizedek; Melchizedek receivers | ORDER | OK
 who they are
 	The Melchizedek Sons, as unprejudiced observers, maintain an autonomous organization devoted to universe intelligence and assume the responsibility of the eldest son in a large family. (35:2.3)
 	The Melchizedek Sons, chief aids of Gabriel, carry out the mandates of the Creator Son with full authority on remote worlds where higher Sons have not yet appeared in the likeness of the creatures of the realm. (35:2.5)
@@ -1558,7 +1559,7 @@ Melchizedek University is attended by ascending mortals just before superunivers
 Material Sons are ineligible for admission to Melchizedek University, but receive top-notch educational and spiritual training on each system's headquarters. (45:5.7)
 Ascending mortals are free to roam the cultural worlds and training spheres of Melchizedek University, but numerous restricted zones remain off limits, including the forty-nine spheres controlled by the finaliters. (36:4.7)
 
-Melchizedek worlds | | | PLACE | OK
+Melchizedek worlds; worlds | | | PLACE | OK
 The Melchizedek worlds consist of seven spheres encircling Salvington, serving as a training ground for ascending mortals from all of Nebadon's constellations to acquire residential status on Salvington. (35:3)
 
 Melkarth temple | | | PLACE | OK
@@ -1566,12 +1567,12 @@ The Melkarth temple in Tyre became a site of Christian church after believers me
 
 melodies | | music | | OK
 
-memorials | | | | OK
+memorials; memorial | | | | OK
 The central area of the circles of the ascending mortals on Jerusem is adorned with 619 planetary memorials, symbolizing the inhabited worlds of the system, undergoing periodic changes decided upon by the mortals. (46:5.27,31)
 The Michael Memorial on Jerusem, surrounded by circles of Sons, is the central hub of activities influenced by Michael's bestowal on Urantia, embracing a vast area and staffed by over one million personalities. (46:5.19)
 On Jerusem, the circle of finaliters is sealed by Gabriel with the insignia of Michael, undedicated to the seventh stage of spirit. (46:5.32)
 
-Memories of Mercy | | | ORDER | OK
+Memories of Mercy; Memory of Mercy | | | ORDER | OK
 Tertiary seconaphim are collectively assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number, and are created serially in seven reflective types. (28:6.1)
 The Memory of Mercy discloses individuals’ and races’ moral and spiritual liabilities in the divine trial balance of the realms. (28:6.5-6)
 The Memory of Mercy must show that the saving credit established by the Sons of God has been fully paid out, but when mercy is exhausted, justice prevails. (28:6.7)
@@ -1593,13 +1594,13 @@ On mansion worlds, memories of our associates are essential for our universe car
 Despite our understanding of memory reconstruction techniques, the process of personality recognition remains elusive and independent of memory. (40:9.8)
 Subsequent to survival, mortals remember only experiences of spiritual value. (40:9.4-9) (47:4.5) (112:5.22)
 
-menstruation | | | | OK
+menstruation; menstruating | | | | OK
 Respecting women's modesty and enforcing complete quarantine during menstruation was rooted in the fear of being detected and seen as a grievous sin in ancient times. (84:4.8-9)
 In early times, the woman's periodic hemorrhage and loss of blood at childbirth suggested blood as the creator of the child and led to the blood-bond concept of human relationships. (84:2.1)
 
 mental illness | | insanity | | OK
 
-merchant of Damascus | | | PERSON | OK
+merchant of Damascus; merchant from Damascus | | | PERSON | OK
 The merchant of Damascus asked Jesus to enter his import business after developing a great liking for the Nazareth couple during their stay in Jerusalem. (128:3.3)
 Jesus refused the offer to establish a school in Damascus despite the insistence of the merchant and his supporters. (128:4.1-4)
 Jesus translated Greek into an Indian language while working in Damascus for four months. (130:0.4)
@@ -1679,7 +1680,7 @@ The second garden, located in Mesopotamia, was the cradle of civilization for al
 Strange priests from Mesopotamia sought the light of life in Jesus' birth after being guided by a dream from a teacher from their country. (122:8.6)
 Todan carried the gospel into Mesopotamia and far beyond the Euphrates. (146:1.4)
 
-mesotrons | | atoms; matter | | OK
+mesotrons; mesotron | | atoms; matter | | OK
 Mesotrons, 180 times heavier than electrons, reciprocate to hold together the charged protons and uncharged neutrons of the atom's nucleus, preventing disruption from the protons' electric charge. (42:8.3)
 Mesotrons reciprocate to cohere atomic nuclei, preventing the disruptive electric charge of protons and maintaining nuclear stability by rapidly exchanging energy status. (42:8.3-7)
 Mesotronic disintegration explains excess radiation in radioactive atoms by transforming into electrons and emitting small uncharged particles. (42:8.5)
@@ -1704,7 +1705,7 @@ David remained in Jerusalem during the tragic last week, but after the crucifixi
 David Zebedee's messenger corps, with forty to fifty messengers, served as a vital communication link for the rapidly expanding work of the kingdom during Jesus' time on earth. (149:0.4)
 Six messenger corps followed Jesus in boat, maintaining contact and ensuring his whereabouts were transmitted to Zebedee's headquarters. (154:7.2)
 Through David Zebedee’s messenger corps, the groups of believers were kept fully informed, demonstrating the great value of their services in advancing the kingdom of Jesus. (150:6.2) (155:4.1) (159:6.2-4) (167:0.3) (191:0.3)
-The messenger corps (David Zebedee’s) maintained a clearinghouse at Gethsemane. (183:4.2,8-9)
+The messenger corps (David Zebedee’s) maintained a clearinghouse at Gethsemane. (183:4.2,7-8)
 David Zebedee's permanent headquarters at Bethsaida served as the clearinghouse for Jesus' work on earth and the relay station for the messenger corps he established. (149:0.4)
 Jesus appeared in morontia form before Rodan and some eighty other believers in Alexandria, at the conclusion of David Zebedee's messenger's report on the crucifixion, delivered by Nathan of Busiris. (191:6.1)
 Over four hundred members of David Zebedee's messenger corps arrived to witness the ordination of the seventy at the lake of Galilee. (163:1.2)
@@ -1714,7 +1715,7 @@ David Zebedee’s messenger corps rapidly spread the report of Jesus’ triumpha
 Jacob, a once fleet messenger, was told by Jesus to deliver a message of peace and prophecy to Abner in Philadelphia, with the assurance of an unseen messenger running by his side. (182:2.5)
 The messengers of David Zebedee would not heed words of doubt over resurrection, departing swiftly on their mission with great confidence in him. (190:1.6)
 
-messenger corps (Lanonandek) | | | ORDER | OK
+messenger corps (Lanonandek); Messenger Corps | | | ORDER | OK
 Messenger Corps is a group inside Lanonandek Sons consisting of 400,000 members. (35:8.12)
 
 Messenger Hosts of Space | (25) | | ORDER | OK
@@ -1727,7 +1728,7 @@ The Messenger Hosts of Space appear in the Uversa personality register as a grou
 	# Morontia Companions
 	# Paradise Companions
 
-messengers (tertiary supernaphim) | | | ORDER | OK
+messengers (tertiary supernaphim); Messengers | | | ORDER | OK
 The group inside Tertiary supernaphim originates on circuit number four to convey personal messages throughout the Paradise-Havona system. (26:3.7)
 
 Messiah | | Deliverer | | OK

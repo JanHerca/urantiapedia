@@ -86,7 +86,7 @@ Que votre lumière brille sur un support où tous peuvent la contempler. (151:3.
 Lanaforge | | Fils Lanonandeks; Souverains de Système | PERSON | OK
 Lanaforge, un visiteur fréquent sur Urantia, révèle un grand intérêt pour le bien-être des mondes isolés de Satania. (45:2.4)
 Lanaforge a donné la permission au Fascicule 72 de faire progresser la civilisation et d'accroître l'évolution gouvernementale sur Urantia. (72:0.1) (72:12.3)
-Installé comme Souverain du Système 10 ans après la rébellion de Lucifer, Lanaforge est un administrateur éprouvé, gouvernant Satania avec sagesse et grâce. (45:2.2-4) (45:3.2) (53:7.12,13) ​​(93:3.2) (114:2.4)
+Installé comme Souverain du Système 10 ans après la rébellion de Lucifer, Lanaforge est un administrateur éprouvé, gouvernant Satania avec sagesse et grâce. (45:2.2-4) (45:3.2) (53:7.12,13) (93:3.2) (114:2.4)
 Melchizédek a introduit l'idée d'un Dieu unique, El Elyon, mais s'est abstenu de discuter de Lucifer, laissant Lanaforge sans implication avec Urantia jusqu'à l'effusion de Michael. (93:3.2)
 Lanaforge, le seul Fils Lanonandek de Nébadon qui soit resté loyal pendant la défaillance d'un supérieur, est un dirigeant expérimenté et capable dans Satania. (45:2.3)
 Lanaforge a ordonné un appel spécial des survivants distingués de la défaillance adamique pour un mandat de résurrection sur Urantia. (76:6.2)
@@ -108,15 +108,15 @@ rapport terre-homme
 	L'évolution des mœurs dépend toujours du ratio terre-homme, le fondement de la civilisation sociale. (68:5.1) (68:6.1)
 
 ponts terrestres | | | | OK
-Il y a 85 millions d'années, le détroit de Béring se fermait, unifiant la vie marine des eaux de l'Atlantique-Golfe et de l'océan Pacifique. (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1.2,6,13) (64:6.5) (79:5.6)
+Il y a 85 millions d'années, le détroit de Béring se fermait, unifiant la vie marine des eaux de l'Atlantique-Golfe et de l'océan Pacifique. (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1.2-3) (64:6.5) (79:5.6)
 Pendant ces élévations de terre, la disparition de certains ponts terrestres a considérablement modifié la connectivité entre les continents. (59:6.5)
-Pendant la période glaciaire, une connexion terrestre entre l'Angleterre et la France s'est formée à travers la Manche. (64:1.5-6) ​​(64:2.6)
+Pendant la période glaciaire, une connexion terrestre entre l'Angleterre et la France s'est formée à travers la Manche. (64:1.5-6) (64:2.6)
 L'isthme de Gibraltar reliait autrefois l'Espagne et l'Afrique, formant un pont terrestre avant que des changements géologiques ne conduisent à la création de la Méditerranée et de l'océan Atlantique en tant que masses d'eau distinctes. (61:3.8) (80:1.1) (80:2.4)
 Le pont terrestre islandais fut submergé, isolant l’hémisphère occidental alors que des formes de vie distinctes commencèrent à se développer. (61:3.9) (61:4.6)
 Les descendants d’Andon et de Fonta émigrèrent à Java il y a 950 000 ans. (64:1.6)
 Le pont terrestre reliait la Méditerranée à l’océan Indien, poussant les races de couleur à s’installer en Afrique. (64:7.13)
 Pendant l’ère cénozoïque, l’isthme de Panama et le pont terrestre du détroit de Béring se sont élevés et sont tombés, reliant divers types d’animaux dans un paradis animal au milieu des luttes entre espèces en évolution. (61:0.2) (61:1.12)
-Pendant l’ère glaciaire, un pont terrestre sicilien reliait l’Afrique à l’Europe, introduisant de nouveaux animaux qui en ont pratiquement exterminé d’autres. (64:1,5) (64:4,7) (73:7,1) (80:1,1) (80:2,4)
+Pendant l’ère glaciaire, un pont terrestre sicilien reliait l’Afrique à l’Europe, introduisant de nouveaux animaux qui en ont pratiquement exterminé d’autres. (64:1.5) (64:4.7) (73:7.1) (80:1.1) (80:2.4)
 
 ère de la vie terrestre primitive | (60) | | | OK
 Le Mésozoïque est l'ère de la vie terrestre primitive, qui s'étend sur les cent millions d'années suivantes. (59:0.5)
@@ -179,7 +179,7 @@ Langues célestes
 	Les traducteurs sur les mondes morontiels vous aideront à apprendre efficacement de nouvelles langues. (48:3.13)
 	Sur les mondes des maisons, communiquer avec des mortels de type modifié est facile car ils parlent la même langue du système mais par une technique modifiée. (40:5.15)
 langues mentionnées dans Le Livre d'Urantia
-	pour une liste des langues citées dans Le Livre d'Urantia, voir les liens | Araméen; Langue anglaise; langue grecque; langue hébraïque; latin; Nébadon:langue de; Satania:langue de; Uversa:langue de
+	pour une liste des langues citées dans Le Livre d'Urantia, voir les liens | Araméen; Langue anglaise; Grèce:langue grecque; langue hébraïque; latin; Nébadon:langue de; Satania:langue de; Uversa:langue de
 
 Fils Lanonandeks | (35:8-9) | Princes Planétaires; Souverains de Système | ORDER | OK
 Les Fils Lanonandeks assistent les Princes Planétaires dans leur règne autocratique sur les planètes évolutionnaires. (50:2.3)
@@ -355,8 +355,8 @@ Les dangers liés aux prétendues directives spirituelles
 	L’atteinte de la maturité spirituelle est un partenariat avec l’Ajusteur, progressant indépendamment vers la suprématie et l’auto-activité, pour éviter les interprétations fanatiques des directives spirituelles. (110:6.2)
 	Confondre l’élan de l’inconscient avec les directives spirituelles peut conduire au danger de considérer les expériences psychiques comme des communications divines. (100:5.6-7)
 	Les Ajusteurs de Pensée sont incapables de transmettre l’intelligence cosmique aux esprits mortels en raison du manque de banalité, malgré leur effort constant pour spiritualiser et faire évoluer l’âme. (110:4.1-6) (196:0.10)
-Les validations pratiques de l’inspiration assurent une amélioration holistique du bien-être physique, mental, social et spirituel, élevant la compréhension de la vérité, de la beauté et de la bonté. (91:7.5-12)
-Reconnaissez les pensées pour ce qu’elles sont, ignorez ce qu’elles auraient pu être, pour éviter de contrecarrer les plans et d’interrompre le travail des Ajusteurs en raison d’opinions préconçues, d’idées établies et de préjugés de longue date. (109:5.3)
+	Les validations pratiques de l’inspiration assurent une amélioration holistique du bien-être physique, mental, social et spirituel, élevant la compréhension de la vérité, de la beauté et de la bonté. (91:7.5-12)
+	Reconnaissez les pensées pour ce qu’elles sont, ignorez ce qu’elles auraient pu être, pour éviter de contrecarrer les plans et d’interrompre le travail des Ajusteurs en raison d’opinions préconçues, d’idées établies et de préjugés de longue date. (109:5.3)
 
 ligues des nations | | | | OK
 Une paix durable sur Urantia requiert la reddition totale des pouvoirs souverains à un gouvernement humain, car les Sociétés des Nations ne peuvent pas empêcher la guerre menée par les gouvernements les plus puissants. (134:5.10)
@@ -446,7 +446,7 @@ défini comme
 	La vraie liberté est construite sur des motivations intelligentes, conditionnées et contrôlées, enracinées dans l'existence cosmique et respectueuses de l'équité sociale, de la justice et des obligations divines. (54:1.3)
 	Aucun être n'a la liberté légitime de priver un autre de la vraie liberté, du droit d'aimer et d'être aimé, du privilège d'adorer Dieu et de servir ses semblables. (54:2.5)
 accomplissement
-	La vraie liberté dans l’état idéal est le résultat d’une meilleure maîtrise de soi, conduisant au service altruiste et au progrès positif de la liberté individuelle. (54:1.5-6) ​​(71:3.7)
+	La vraie liberté dans l’état idéal est le résultat d’une meilleure maîtrise de soi, conduisant au service altruiste et au progrès positif de la liberté individuelle. (54:1.5-6) (71:3.7)
 	Les finalitaires font l’expérience de la finalité de la loyauté, de l’amour et de la liberté lorsqu’ils réalisent eux-mêmes la liberté ultime de la perfection. (39:4.11)
 	La loyauté, l’amour et la fraternité doivent être apprises avant d’obtenir la vraie liberté. (39:4.11)
 	La vraie liberté ne peut être atteinte que sous le règne de la loi, où les libertés individuelles sont protégées dans un cadre de réglementations sociétales. (71:2.12) (81:5.7) (134:6.1)
@@ -672,7 +672,7 @@ travail sur Urantia
 	Adam et Ève furent accueillis par le comité d'accueil d'Urantia pour leur installation comme nouveaux dirigeants du monde. (74:2.5)
 	La conservation de la vie sur le Monde Numéro Trois est supervisée et développée par une équipe dévouée de vingt-quatre gardiens. (36:2.16) (36:3.2)
 ont écrit les Fascicules 57-65
-	Les Porteurs de Vie qui ont écrit les Fascicules 57-65 sur Urantia sont des résidents de la planète et des membres du Corps Urantien originel. (57:8,27) (58:7,13) (59:6,13) (60:4,7) (61:7,20) (62:7,8) (63:7,5) (64:7,21) (65:8,7)
+	Les Porteurs de Vie qui ont écrit les Fascicules 57-65 sur Urantia sont des résidents de la planète et des membres du Corps Urantien originel. (57:8.27) (58:7.13) (59:6.13) (60:4.7) (61:7.20) (62:7.8) (63:7.5) (64:7.21) (65:8.7)
 
 ère de l’aurore de la vie | (58:4) | protérozoïque | | OK
 L'ère protérozoïque, caractérisée par des restes fossiles anciens, marque la transition entre l'âge cataclysmique pré-vie et la vie marine hautement développée. (58:7.1) (59:0.3)
@@ -686,7 +686,7 @@ planètes qui modifient la vie | | planètes décimales | | OK
 
 plasma vital; plasma vivant; plasma germinatif; plasma vital originel | | Porteurs de Vie | | OK
 Toutes les races à trois cerveaux, à un cerveau et à deux cerveaux partagent le même type de plasma vital, guidant leur évolution planétaire de manière similaire. (49:5.17)
-Le plasma vital andonique transplanté dans Caligastia 100 a apporté des formes corporelles, relativement humaines, de service planétaire spécial à Urantia. (66:2.5-6) ​​(66:4.4)
+Le plasma vital andonique transplanté dans Caligastia 100 a apporté des formes corporelles, relativement humaines, de service planétaire spécial à Urantia. (66:2.5-6) (66:4.4)
 L’étincelle vitale de vie, le mystère de la vie, est conférée par les Porteurs de Vie, qui catalysent et organisent la matière inerte pour devenir de la matière vivante. (36:3.3-5)
 Le plasma vital consiste en unités essentielles d’énergie vitale manipulées par les physiciens et les électrochimistes de l’univers. (36:2.14)
 La métamorphose du plasma germinatif par l’action des courants de vie systémiques a abouti à la création d’un nouveau type de mortel conçu pour la souveraineté sociale, bien que le projet ait finalement échoué. (77:2.2,5)
@@ -830,7 +830,7 @@ Les pierres de foudre que l’on croyait être une protection contre la foudre p
 lignite | | charbon | | OK
 Il y a 85 millions d'années, les dépôts de craie et de marne de grès vert, qui donnent son nom à cette période, comprenaient de petites quantités de calcaire et de lignite, avec des épaisseurs variant de 60 mètres à 3 000 mètres, et peuvent être observés dans les contreforts orientaux des montagnes Rocheuses. (60:3.9)
 
-lis | | | | 
+lis | | | | OK
 Considérez les lis, comment ils poussent ; ils ne travaillent ni ne filent – ​​faites confiance à Dieu pour tous vos besoins. (165:5.3)
 L’homme mortel peut élever sa nature spirituelle de la boue des origines humaines, comme un lis blanc avec sa tête enneigée. (156:5.1)
 
@@ -1026,7 +1026,7 @@ progéniture (37:0.1)
 	Avec leur Esprit-Mère Infini, les ordres angéliques de l'univers local sont créés par un Esprit Créateur. (17:8.2) (26:1.13) (33:3.8) (38:1.1)
 	Les Compagnons Morontiels, amis et hôtes de ceux qui sont sur le chemin morontiel ascendant, ne remplacent pas le travail des gardiens séraphiques mais aident au jeu et à la guidance. (25:7.1) (48:3.1)
 	Les Superviseurs du Pouvoir Morontiel sont des entités uniques créées par un Esprit-Mère d'un univers local pour leur fonction spécifique, ne nécessitant aucune formation avant d'assumer leurs responsabilités. (48:2.2)
-	Les séraphins, transformés de chérubins et de sanobins, peuvent atteindre le statut prestigieux d'Instructeurs du Monde des Maisons au sein de l'étreinte de l'Esprit-Mère de l'Univers. (38:8.5-6) ​​(48:5.2)
+	Les séraphins, transformés de chérubins et de sanobins, peuvent atteindre le statut prestigieux d'Instructeurs du Monde des Maisons au sein de l'étreinte de l'Esprit-Mère de l'Univers. (38:8.5-6) (48:5.2)
 également connu sous le nom
 	* Filles du ministère de coordination (14:6.32)
 	* Filles Créatrices (21:2.2) (36:3.4)
@@ -1588,4 +1588,4 @@ La société ne punit pas les crimes, ce qui conduit à la loi du lynchage comme
 Les sociétés secrètes pratiquaient la loi du lynchage pour effrayer et contrôler les foules, agir comme des sociétés de vigilance et maintenir les rois sans scrupules sur le siège anxieux. (70:7.16)
 
 Lysimachie | | | PLACE | OK
-Les Juifs conspirèrent pour tuer Matthieu à Lysimachie pendant sa tournée de prédication dans diverses régions.
+Les Juifs conspirèrent pour tuer Matthieu à Lysimachie pendant sa tournée de prédication dans diverses régions. (139:7.10)

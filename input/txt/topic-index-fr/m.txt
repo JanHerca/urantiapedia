@@ -103,7 +103,7 @@ Qui sont-ils ?
 	Les Fils Magistraux constituent un ordre autonome basé sur le Paradis, créé par l'effusion du Père et du Fils, et complété par l'Esprit Infini. (10:2.2)
 	Les Avonals, dans les registres de personnalité, sont des Fils Magistraux. (30:1.32) (30:2.40)
 missions d'effusion | Fils Paradisiaques de Dieu:effusions
-	Ils sont accompagnés lors des effusions par :
+	Ils sont accompagnés lors des effusions par:
 	* Les Fils Magistraux sont assistés par deux Étoiles Brillantes du Soir dans leurs missions sur les mondes habités. (20:2.9) (37:2.8)
 	* Dans leur travail sur les mondes habités, les Fils Magistraux sont assistés par 12 Melchisédeks, ainsi que par d’autres créatures de l’univers local. (20:2.9) (35:2.6)
 	* Cent archanges accompagnent chaque Fils Magistraux dans ses missions planétaires. (20:2.9) (37:3.5-6)
@@ -148,8 +148,8 @@ Les taches solaires, fonctionnant comme d'énormes aimants, ont le pouvoir de mo
 magnolias | | | | OK
 Les magnolias sont apparus il y a environ 90 millions d'années, au début du Crétacé, avec d'autres plantes à fleurs comme les figuiers et les arbres à tulipe. Ils se sont rapidement répandus sur les continents, poussant même dans des régions telles que le Groenland, aux côtés des séquoias. Cependant, avec le refroidissement progressif du climat et la migration des plantes de climat chaud vers le sud, les magnolias et arbres similaires ont en grande partie disparu des latitudes nordiques pour être remplacés par des espèces plus robustes et des arbres à feuilles caduques. (60:3.7) (61:3.1)
 
-mutilé | | | | OK
-« Invitez les pauvres, les estropiés et les aveugles aux banquets, car en agissant ainsi vous serez bénis dans votre cœur. » (167:1.5)
+infirmes | | | | OK
+« Invitez les pauvres, les infirmes et les aveugles aux banquets, car en agissant ainsi vous serez bénis dans votre cœur. » (167:1.5)
 
 Maine | | | PLACE | OK
 Pendant l'âge silurien, des roches volcaniques et de la lave ont été trouvées dans l'est du Maine, le sud de l'Europe et le Québec. L'activité volcanique avait largement cessé, et c'était une période de dépôt d'eau significatif avec peu de formation de montagnes. Pendant l'âge glaciaire, le climat loin des glaces restait doux, et le climat côtier variait considérablement. D'énormes icebergs glissaient parfois de la côte du Maine dans l'Atlantique. (59:3.2) (61:5.8)
@@ -164,11 +164,11 @@ Majeston, le centre infaillible et chef de la réflectivité, est la source pers
 Majeston est une véritable personne au centre des phénomènes de réflectivité dans les sept superunivers. (17:2.3)
 Majeston nomme les Compagnons du Paradis, la plus haute distinction pour les armées angéliques commissionnées par les Sept Esprits Maîtres sur l'Ile centrale. (25:8.2)
 Majeston préside les conclaves millénaires des Sept Exécutifs Suprêmes sur le Paradis, communiquant avec toutes les armées intelligentes de la création par la réflectivité universelle. (17:1.10)
-« Les Liaisons Réflectivatrices Sans Nom de Majeston. » (30:1.110)
+Les Liaisons Réflectivatrices Sans Nom de Majeston. (30:1.110)
 Les Aides à l'Image Réfléchissante représentent des êtres influents dans les gouvernements des superunivers, y compris les réflectivateurs de liaison anonymes de Majeston. (15:10.21)
 Majeston, engendré par l'Être Suprême, est le coordinateur synthétique de toutes les activités des créatures-Créateurs dans l'univers. (0:7.9)
 
-principaux secteurs | | Splandon | PLACE | OK
+secteurs majeurs | | Splandon | PLACE | OK
 Chaque secteur majeur d’un superunivers est supervisé par trois Perfections des Jours et comprend cent secteurs mineurs, dix mille univers locaux et environ cent milliards de mondes habitables. (15:13.1)
 Les soixante-dix mondes d’étude tournent autour d’Umajor le cinquième, consacré à la formation intellectuelle des mortels ascendants de tout Orvonton. (15:13.3)
 Un secteur majeur (100 secteurs mineurs) comprend 100 000 000 000 de mondes habitables. (15:2.23) (15:13.1)
@@ -194,9 +194,9 @@ Malachie | | | PERSON | OK
 Jean-Baptiste fut impressionné par la prophétie de Malachie concernant Élie. (135:4.4)
 Malachie s’est révélé être un chef spirituel non-silencieux au milieu de l’esclavage et de la tyrannie croissantes de la prêtrise, contribuant à préserver le concept du Père universel pour les Juifs. (97:10.3)
 
-inadaptation | | mésadaptation | | OK
+inadaptation | | mauvaise adaptation | | OK
 
-paludisme | | | | OK
+malaria | | | | OK
 Amatha, qui souffrait de fièvre paludique, ne fut miraculeusement guérie par Jésus que plusieurs heures plus tard. (145:2.16)
 
 Malaisie; malais; Malais | | | PLACE | OK
@@ -234,10 +234,10 @@ Des êtres célestes apparurent à Abraham à Mamré, après qu'il se fut soumis
 
 homme | | mortels | | OK
 
-homme de douleur | | | | OK
+homme de douleur; homme de chagrins | | | | OK
 Ne dépeignez pas Jésus comme un homme de douleur, mais comme un phare de joie dans le message transformateur de notre religion. (159:3.10)
 
-homme qui a attaqué sa femme à Tarente | | | PERSON | OK
+homme qui a attaqué sa femme à Tarente; homme qui maltraitait sa femme | | | PERSON | OK
 Un homme de Tarente maltraitait sa femme en public, ce qui poussa Jésus à intervenir. Parlant avec gentillesse, Jésus aida l’homme à prendre conscience de sa faute. L’homme avoua avoir perdu son sang-froid à cause des critiques publiques de sa femme et promit de s’améliorer. Jésus lui rappela que la véritable virilité réside dans l’amour, le respect et le partenariat avec sa femme. (133:2.1-2)
 
 Manassé | | | PERSON | OK
@@ -248,14 +248,14 @@ mandats | | commandements; loi | | OK
 mandragores | | | | OK
 Jésus a dénoncé la croyance aux mandragores et toutes les autres formes de superstition ignorante. (150:3.12)
 
-crèche | | | | OK
+mangeoire; mangeoires | | | | OK
 La naissance de Jésus dans les étables de la caravane était une heureuse et confortable situation en raison de l’auberge surpeuplée. (122:7.7)
 
 Mangus | | | PERSON | OK
 Mangus, le centurion et commandant de la garnison de Capharnaüm, construisit une synagogue et demanda l’aide de Jésus pour guérir son serviteur malade. (129:1.7) (147:1.1)
 Jésus guérit le serviteur de Mangus, un centurion romain, démontrant ainsi une grande foi envers les Gentils. (147:1)
 
-superstitions du manitou | | | | OK
+superstitions manitou | | | | OK
 Les superstitions des Manitous faisaient partie des diverses pratiques préreligieuses observées par différentes tribus comme les Baganda, les Mélanésiens et les Pygmées africains. (91:0.5)
 
 manne | | | | OK
@@ -272,7 +272,7 @@ Mansant | | | PERSON | OK
 Mansant, le grand enseignant de l’époque post-Prince Planétaire, a guidé sa communauté dans l’honneur de « La Grande Lumière » pendant les périodes de renouveau culturel et spirituel, influençant ainsi les générations futures. (45:4.4) (64:6.29)
 Mansant était l’un des 24 conseillers qui ont orienté ses compagnons vers la vénération de « La Grande Lumière » (45:4.4)
 
-étudiants des mondes des manoirs | | mortels ascendants; mondes des manoirs; progresseurs morontiels | ORDER | OK
+étudiants des mondes des manoirs; élèves morontiels; mondes éducatifs | | mortels ascendants; mondes des manoirs; progresseurs morontiels | ORDER | OK
 Un Compagnon Morontiel est assigné à chaque groupe de mille mortels ascendants sur le premier monde des maisons, et un plus grand nombre en est rencontré sur les mondes suivants, servant de guides charmants et d’associés sociables tout au long du voyage. (47:3.12)
 Une fois délivrés des yeux matériels, les étudiants du monde des maisons acquièrent la capacité de voir les associés spirituels inférieurs. (9:8.13)
 Chaque avancée vers un nouveau monde des maisons apporte un corps morontiel nouvellement développé et convenablement ajusté. (47:4.4)
@@ -325,7 +325,7 @@ Les Instructeurs des Mondes des Maisons forment les enfants dans une nurserie pr
 Les chérubins avancés, enseignants naturellement sympathiques des mortels ascendants, travaillent généralement en binôme sur les mondes des maisons. (48:5.5)
 Les enseignants des mondes des maisons, travaillant en binôme, sont des instructeurs naturellement sympathiques qui opèrent à un niveau d'existence morontiel très proche. (48:5.5)
 
-mondes des manoirs | (47) | sphères architecturales; Jérusalem; étudiants des mondes des manoirs; morontia | PLACE | OK
+mondes des maisons; monde des maisons; Maisonnia; maisonnia  | (47) | sphères architecturales; Jérusalem; étudiants des mondes des manoirs; morontia | PLACE | OK
 La sphère finalitaire, entourée de sept mondes des maisons, sert de quartier général aux mortels ascendants sur le monde de transition. (30:4.16) (45:0.2) (45:1.2) (47:0.1) (48:1.2)
 Premier monde des maisons
 	Sur le premier monde des maisons, les mortels ressuscités reprennent là où ils s'étaient arrêtés, leurs souvenirs étant transformés de matériels en spirituels et rassemblés dans l'énorme temple de l'assemblée des personnalités. (47:3)
@@ -391,7 +391,7 @@ objectifs des mondes-maisons
 maisons | | | PLACE | OK
 Dans l’univers du Père, il y a de nombreuses demeures qui attendent les enfants de lumière, où abondent la justice et la joie dans la vérité. (47:0.1) (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-mondes de mansonia | | mondes des manoirs | PLACE | OK
+mondes de mansonia | | mondes des mansions | PLACE | OK
 
 Mansurotia | | | PERSON | OK
 Le premier Souverain Système Assistant, Mansurotia, numéro 17 841 des Lanonandeks tertiaires, fut envoyé à Satania avec Lanaforge. (45:3.3)
@@ -421,7 +421,7 @@ Le mélange de la vie marine de l’Atlantique et du Pacifique a marqué le déb
 Le refroidissement progressif des océans il y a 170 millions d’années a conduit à la destruction de la vie marine, ce qui a incité de nouvelles espèces à émerger de trois zones de retrait spécifiques. (59:6.9)
 L’ère des trilobites a dominé la vie marine il y a environ 400 000 000 d’années, avant l’émergence des organismes terrestres. (59:1)
 Le Paléozoïque était une ère de vie marine qui s’est étendue sur deux cent cinquante millions d’années. (59:0.4)
-types nommés | ammonites; amphibiens; anthropodes; bernacles; brachiopodes; palourdes; corail; crabes; crinoïdes; crustacés; seiche; dauphins; échinodermes; poisson; foraminifères; gastéropodes; méduse; homards; mollusques; poulpes; huîtres; nautile nacré; pervenches; marsouins; protozoaires; coquilles Saint-Jacques; concombres de mer; lions de mer; serpents de mer; ascidies; oursins; vers marins; phoques; requins; crevettes; éponges; calmar; étoile de mer; esturgeon; trilobites; tortues; couleuvre d'eau; baleines
+types nommés | ammonites; amphibiens; arthropodes; bernacles; brachiopodes; palourdes; corail; crabes; crinoïdes; crustacés; seiche; dauphins; échinodermes; poisson; foraminifères; gastéropodes; méduse; homards; mollusques; poulpes; huîtres; nautile nacré; pervenches; marsouins; protozoaires; coquilles Saint-Jacques; concombres de mer; lions de mer; serpents de mer; ascidies; oursins; vers marins; phoques; requins; crevettes; éponges; calmar; étoile de mer; esturgeon; trilobites; tortues; serpent d’eau; baleines
 
 test de culpabilité conjugale | | | | OK
 Dans l’Ancien Testament, un test de culpabilité conjugale impliquait qu’une femme boive une décoction pour prouver si elle avait été infidèle ou non. (70:10.6)
@@ -437,7 +437,7 @@ Marc, Marie | | Marie Marc | PERSON | OK
 marque de la bête | | | | OK
 La purification de l’hérédité malheureuse et du mauvais environnement sur le septième monde des maisons prépare les mortels à résider sur Jérusalem, où les derniers restes de la « marque de la bête » sont éradiqués. (47:9.1) (47:10.2)
 
-marchés | | | | OK
+place du marché; lieux de marché; lieu du marché | | | | OK
 Comme des enfants qui jouent sur la place du marché, certains n’accepteront jamais le message de Jean ou mes enseignements. (144:8.7)
 Les premiers marchés protégeaient les marchandises avec des fétiches pour garantir l’honnêteté et la sécurité, bien que la tricherie était acceptée avec des étrangers éloignés. (69:4.3)
 Les premières villes de refuge furent établies sur des places de marché sacrées où les fugitifs étaient à l’abri des attaques. (69:4.4)
@@ -474,7 +474,7 @@ chez les primitifs
 	Polygamie
 		La polygamie et la polyandrie étaient courantes aux débuts du mariage, évoluant des mariages de groupe et des phases communautaires vers divers types de mariages pluralistes, la richesse et le statut déterminant souvent le nombre et le statut des épouses. (83:5)
 		La polyandrie était limitée aux reines et aux femmes riches, étant une affaire de famille où une épouse épousait plusieurs frères, tandis que les restrictions économiques et de caste obligeaient parfois plusieurs hommes à se contenter d'une seule épouse. (83:5.3)
-		L'institution de la polygamie reconnaissait quatre types d'épouses : les épouses cérémonielles ou légales, les épouses d'affection et de permission, les concubines et les épouses esclaves. (83:5.3-15)
+		L'institution de la polygamie reconnaissait quatre types d'épouses: les épouses cérémonielles ou légales, les épouses d'affection et de permission, les concubines et les épouses esclaves. (83:5.3-15)
 		En dehors du Jardin, les unions multiples étaient une pratique courante, ce qui alimentait la croyance de Cano dans la justesse du projet Serapatatia. (75:3.8)
 		Les maris ne pouvaient prendre qu'autant d'épouses qu'ils pouvaient en subvenir aux besoins financiers, ce qui conduisait les hommes riches à avoir de nombreux enfants grâce à une association d'épouses ouvrières et esclaves. (83:5.14)
 		La transition de la polygamie à la monogamie a marqué la fin de l'esclavage des femmes dans le mariage. (69:9.7)
@@ -489,10 +489,10 @@ Institution du mariage
 	Trouvez un équilibre entre l'idéalisation de la jeunesse et la désillusion prénuptiale pour naviguer dans les réalités du mariage et de la vie de famille. (83:8.6-7)
 L'idéal du mariage
 	L'idéal du mariage en tant qu'institution humaine ne doit pas être confondu avec un sacrement, mais plutôt considéré comme un partenariat social sacré et évolutif. (83:8)
-	Voici une règle d'or pour les maris : « Chérissez votre femme comme le Père exalte la Mère Spirituelle. » (133:2.2)
+	Voici une règle d'or pour les maris : « Chérissez votre femme comme le Père exalte la Mère Spirituelle. » (133:2.2)
 	Le mariage est une union à vie faite d'effacement de soi, de compromis, de dévouement et de dévouement désintéressé à la culture de l'enfant, éprouvée par une intimité continue et fondée sur un dévouement personnel authentique. (83:7.6) (160:2.10)
 	Les Fils Matériels représentent les idéaux du mariage comme humainement sacrés dans les hautes sphères. (83:8.5)
-	Michel et l'Esprit-Mère représentent l'union éternelle et le partenariat égalitaire dans l'organisation familiale et le mariage volontaire. (17:6.5-6) ​​(33:3.6)
+	Michel et l'Esprit-Mère représentent l'union éternelle et le partenariat égalitaire dans l'organisation familiale et le mariage volontaire. (17:6.5-6) (33:3.6)
 	L'idéal du mariage est la relation humaine la plus sacrée et la plus élevée. (83:8.5) (167:5.3-8)
 Monogamie
 	La monogamie est idéale pour ceux qui atteignent cet état désirable, mais elle tend à être difficile pour ceux qui en sont exclus, et pourtant, elle est incontestablement la meilleure solution pour les enfants. (83:6)
@@ -525,7 +525,7 @@ Valeur du mariage
 Jésus
 	Emmanuel a découragé Jésus de contracter mariage, car sa destinée devait d'abord être manifestée. (120:3.8) (127:5.5) (127:6.8)
 
-fête de mariage | | | | OK
+fête de mariage; festin de mariage | | | | OK
 La parabole des noces illustre le royaume des cieux comme un roi qui invite des invités mais est rejeté, et qui finit par accueillir tous ceux qui sont disposés à y participer. (173:5)
 Lorsque vous êtes invité à un festin de noces, ne vous asseyez pas à la première place. (167:1.5) (179:1.3-5)
 
@@ -569,7 +569,7 @@ Marthe et Marie se débarrassèrent de leurs terres à Béthanie, rejoignirent L
 Marthe (épouse de Justus) | | | PERSON | OK
 Marthe, la femme de Justus, accueillit Jésus et les deux courtisanes, leur offrant de la nourriture et des conseils pour les aider à prendre un nouveau départ. (133:3.8-10)
 
-martyrs | | lapidations | | OK
+martyrs; martyr | | lapidations | | OK
 L'aventure suprême de tous les temps est le service du royaume, qui exige une grande dévotion, du courage et le martyre pour l'amour de la vérité et des réalités spirituelles. (143:1.6-7)
 Jésus et le martyre
 	Jésus, volontairement et royalement, s'est soumis à la crucifixion par Pilate en tant qu'homme juste, accomplissant ainsi son objectif de donner sa vie pour l'humanité. (187)
@@ -593,7 +593,7 @@ individus martyrisés
 	* Etienne fut lapidé à Jérusalem, devenant le premier martyr de la nouvelle foi et déclenchant l'organisation formelle de l'église chrétienne primitive. (194:4.11-12)
 	* Thomas fut martyrisé à Malte après une vie de foi et de prédication. (139:8.13)
 
-Marie Madeleine | | | PERSON | OK
+Marie Madeleine; Marie-Madeleine | | | PERSON | OK
 Marie Madeleine fut gagnée pour le royaume lors d’un séjour malfaisant à Magdala par Marthe, sœur d’André. (150:2.2)
 Marie Madeleine était la principale porte-parole du corps des femmes et l’enseignante la plus efficace parmi les douze femmes évangélistes commissionnées par Jésus. (150:1.1) (150:2.3) (190:0.5)
 Marie Madeleine découvrit le tombeau vide où Jésus avait été déposé. (188:1.7) (189:4.2-14) (190:2.2)
@@ -604,7 +604,8 @@ Marie-Madeleine a pleuré lorsque les apôtres ont refusé de croire que Jésus 
 Marie Marc | | | PERSON | OK
 Marie Marc, l'épouse d'Élie et la mère de Jean Marc, accueillit Jésus et les onze apôtres dans leur maison avant leur départ pour le camp de Gethsémané. (182:0.1)
 
-Marie (mère des jumeaux Alphée) | (189:4.4) | | PERSON | OK
+Marie (mère des jumeaux Alphée); Marie la mère des jumeaux Alphée | | | PERSON | OK
+Voici les noms des femmes qui partirent en mission pour oindre le corps de Jésus : Marie-Madeleine, Marie la mère des jumeaux Alphée, Salomé la mère des frères Zébédée, Jeanne la femme de Chuza et Suzanne la fille d’Ezra d’Alexandrie. (189:4.4)
 Lors de sa cinquième apparition, Jésus a encouragé les femmes croyantes à répandre l’évangile de la filiation avec Dieu et à servir ceux qui sont dans le besoin. (190:3.1)
 
 Marie (mère de Jésus) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Jésus:famille | PERSON | OK
@@ -663,7 +664,7 @@ présent à
 Marie (sœur de Lazare) | (127:3.5) | | PERSON | OK
 Jésus, deux ans plus âgé que Marie et idolâtré par Lazare, Marthe et Marie, traversa Jérusalem avec une aversion pour le temple construit par Hérode. (127:6.5)
 Lors de sa quatrième apparition, Jésus adressa des paroles de paix et de communion à Marie, Marthe et leurs amis, les exhortant à suivre la lumière de la vérité de tout leur cœur. (190:2.6)
-« C’est à la résurrection de Lazare que Jésus a proclamé : « Je suis la résurrection et la vie. » » (168)
+C’est à la résurrection de Lazare que Jésus a proclamé : « Je suis la résurrection et la vie. » (168)
 La croyance de Marie en l’avertissement de Jésus selon lequel il devait mourir a conduit Judas Iscariote à chercher à se venger, alimenté par des sentiments blessés et des désirs égoïstes. (172:1.7)
 Marie a choisi la part bonne et nécessaire pendant que Marthe s’occupait de prétendues tâches. (162:8.3)
 Marthe et Marie se débarrassèrent de leurs terres à Béthanie et rejoignirent Lazare à Philadelphie, où il servit comme trésorier et soutint Abner dans son conflit avec Paul et l’église de Jérusalem avant de finalement mourir. (168:5.3) (190:1.9)
@@ -674,7 +675,7 @@ Marie aimait Jésus comme s’il était son propre frère. (125:2.7)
 L’acte de Marie d’oindre Jésus avec un onguent coûteux a déclenché le ressentiment de Judas, qui a conduit à sa trahison ultime. (139:12.10) (172:1.5-8)
 Marie (sœur de Lazare), riche et très respectée, a hérité de vastes vignobles et d’oliviers, et était aimée pour son offrande de parfum précieux à Jésus. (168:0.4) (172:1.7)
 
-Marie (épouse de Clopas) | | | PERSON | OK
+Marie (épouse de Clopas); Marie la femme de Clopas; Marie (femme de Clopas et sœur de la mère de Jésus) | | | PERSON | OK
 Marie, la femme de Clopas et la sœur de la mère de Jésus, se tenait dans un silence solennel au pied de la croix, avec d’autres amis dévoués de Jésus. (187:3.2)
 Marie (la femme de Clopas) s’attarda près du tombeau de Jésus avec les autres femmes, observant secrètement l’endroit où le Maître avait été déposé, prévoyant de revenir pour préparer correctement Son corps pour l’enterrement. (188:1.7)
 Marie, la femme de Clopas, assista à la crucifixion de Jésus avec un groupe de femmes croyantes ferventes et d’autres amis de Jésus, gardant le silence pendant qu’ils contemplaient ses intenses souffrances. (187:3.2)
@@ -682,8 +683,8 @@ Marie, la femme de Clopas, assista à la crucifixion de Jésus avec un groupe de
 Marie (épouse d'Esdras) | | | PERSON | OK
 Jésus a affirmé avec compassion son engagement envers sa famille, laissant Marie et son mari dans l’admiration devant son caractère noble. (127:5.3)
 
-masques | | | | OK
-La vengeance est l’ombre de la peur, un masque de lâcheté, et non la véritable nature de l’homme en tant que fils de Dieu. (145:3.4)
+masques; masque | | | | OK
+« La vengeance est l’ombre de la peur, un masque de lâcheté, et non la véritable nature de l’homme en tant que fils de Dieu. » (145:3.4)
 Les sociétés secrètes, par le biais d’initiations mystérieuses et de rituels masqués, ont joué un rôle essentiel dans l’établissement de hiérarchies sociales et le maintien des traditions. (70:7.15)
 
 massage | | | | OK
@@ -695,7 +696,7 @@ Parmi les nombreux employés de Zébédée à Capharnaüm, Jésus était d’abo
 
 Maîtres architectes | | Architectes du Maitre Univers | | OK
 
-Maitres Organisateurs de Force | (29:5) | Directeurs de Pouvoir d'Univers | ORDER | OK
+Maitres Organisateurs de Force; organisateurs de force du Paradis | (29:5) | Directeurs de Pouvoir d'Univers | ORDER | OK
 Les Organisateurs de Force Majeurs peuvent influencer les mouvements génétiques et composites des systèmes astronomiques au sein du Maître Univers. (15:3.15)
 Les Organisateurs de Force Majeurs opèrent dans l'espace aux côtés des Messagers Solitaires et des Esprits Inspirés de la Trinité. (29:5.7)
 Les Organisateurs de Force contrôlent la création de l'univers, assurant des métamorphoses infinies de création et de destruction. (15:8.10)
@@ -732,7 +733,7 @@ maître frandalanks | | frandalanks | ORDER | OK
 Maitre Mathématicien | | | | OK
 Le maître mathématicien orchestre le vaste univers des mathématiques, tandis que la religion préserve la conservation des âmes des hommes et leur expérience des valeurs éternelles. (195:6.8)
 
-Maitres Micaëls | | Fils Créateurs; Fils Paradisiaques de Dieu | ORDER | OK
+Maitres Micaëls; Maitre Micaël | | Fils Créateurs; Fils Paradisiaques de Dieu | ORDER | OK
 Après avoir atteint la souveraineté suprême de l’univers local, les Maîtres Michaels ne peuvent pas créer des types de créatures entièrement nouveaux, mais doivent plutôt se concentrer sur l’entretien et l’administration de celles déjà conçues et créées. (21:5.6) (21:6.2)
 Les Maîtres Michaels, également connus sous le nom de Fils Créateurs septuples, incarnent l’unité éternelle entre le Créateur et la créature dans une association compatissante. (20:1.15)
 Les Maîtres Michaels atteignent un point où leurs capacités finies sont libérées, ce qui permet un service plus que fini et la création de nouveaux êtres, détenant de vastes potentialités pour l’avenir. (21:6.2-3)
@@ -789,7 +790,7 @@ Fonctions
 Nature
 	Les contrôleurs physiques et les centres de pouvoir, dénués de toute nostalgie, demeurent toujours diligents dans leur devoir, absents des occasions de réjouissance. (29:3.5) (47:10.1)
 	Les Maîtres Contrôleurs Physiques utilisent leurs dons antigravité pour établir l'équilibre physique dans le grand univers. (9:3.6) (29:3.6) (42:4.4)
-	Les Maîtres Contrôleurs Physiques sont les descendants directs des Centres de Pouvoir Suprêmes, et leur nombre comprend les suivants : (29:4.4)
+	Les Maîtres Contrôleurs Physiques sont les descendants directs des Centres de Pouvoir Suprêmes, et leur nombre comprend les suivants : (29:4.4)
 	Les Maîtres Contrôleurs Physiques font partie de Dieu le Septuple. (116:5.2)
 	Les Maîtres Contrôleurs Physiques sont toujours très pragmatiques dans toutes leurs réactions. (48:4.11)
 	Les Maîtres Contrôleurs Physiques traversent l'espace local tels des Messagers Solitaires, aidés par leurs capacités de métamorphose uniques et l'assistance de leurs semblables pour surmonter la gravité et l'inertie. (29:4.1)
@@ -870,7 +871,7 @@ Le Maître Esprit Numéro Sept est l'incarnation de l'union équilibrée et de l
 Le Maître Esprit Numéro Sept, représentant de la Trinité du Paradis, fonctionne comme chef président du conseil des Sept Maîtres Esprits et parle pour confirmer les attitudes de la Trinité. (16:3.15-20)
 Dans l'univers central, les êtres intelligents progressent du septième circuit de Havona au premier, aboutissant à leur acceptation au service du Paradis. (14:5.4)
 
-Maîtres Esprits, Sept; Sept Maîtres Esprits; Maitre Esprit; Sept Esprits | (16) | Maitre Esprit Numéro Un; Maitre Esprit Numéro Deux; Maitre Esprit Numéro Trois; Maitre Esprit Numéro Quatre; Maitre Esprit Numéro Cinq; Maitre Esprit Numéro Six; Maitre Esprit Numéro Sept | ORDER | OK
+Maîtres Esprits, Sept; Sept Maîtres Esprits; Maitre Esprit; Sept Esprits; Sept Maitres Esprits | (16) | Maitre Esprit Numéro Un; Maitre Esprit Numéro Deux; Maitre Esprit Numéro Trois; Maitre Esprit Numéro Quatre; Maitre Esprit Numéro Cinq; Maitre Esprit Numéro Six; Maitre Esprit Numéro Sept | ORDER | OK
 Les sept Maîtres Architectes des sept superunivers collaborent à égalité avec les Sept Maîtres Esprits du Paradis et les Sept Exécutants Suprêmes des mondes spéciaux de l'Esprit Infini, servant de supercoordinateurs du grand univers. (31:9.5)
 Chaque créature du grand univers porte l'empreinte unique de son individualité, signe de la nature ancestrale d'un Maître Esprit. (16:5) (26:2.5)
 Les Sept Maîtres Esprits sont la représentation personnalisée de l'Esprit Infini, supervisant le contrôle administratif universel, dont l'origine se trouve dans les actes créateurs des Déités du Paradis. (16:4.1) (16:5.2)
@@ -879,7 +880,7 @@ L'apparition des Sept Maîtres Esprits était une étape nécessaire vers l'ach�
 L'actualisation du Suprême est l'inévitabilité évolutive de la Trinité. (115:7.5)
 Les Ascendeurs de Havona communient avec l'un des Sept Maîtres Esprits, révélant l'Esprit Infini et Divin. (16:2.1)
 À Havona, le temps n'a pas d'importance ; l'avancement est déterminé par la réussite et la réussite des épreuves du cercle pour reconnaître le Maître Esprit. (26:5.5)
-attributs et fonctions (16:4)
+attributs et fonctions
 	Les Sept Maîtres Esprits incarnent les attributs et les fonctions de l'Esprit Infini dans les univers évolutionnaires, supervisant le contrôle administratif à tous les niveaux de réalité, sauf l'absolu. (16:4)
 	Les créatures évolutionnaires peuvent approcher le Père Universel par l'intermédiaire des Sept Maîtres Esprits, élargissant ainsi leur conscience de Dieu le Suprême. (117:6.15)
 	Seul le Fils Éternel fait l'expérience de la plénitude de la relation de personnalité divine, de la conscience et de l'égalité avec le Père, qui est ancestral, tout en étant le coparent de l'Esprit Infini, conscient d'une double ascendance de personnalité. (10:2.7)
@@ -968,11 +969,11 @@ Fonctions
 	Les transcendantaux concernés par la superadministration du maître univers transcendent l'ascension des mortels vers Havona et les affaires des sept superunivers. (31:8.2)
 	Le maître univers est impensable sans la Trinité. (10:0.3)
 
-maîtres | | | | OK
+maitres | | | | OK
 Aucun homme ne peut servir deux maîtres ; soit il haïra l’un et aimera l’autre, soit il s’attachera à l’un tout en méprisant l’autre. (140:6.13) (163:3.1) (169:2.7)
 Le grand problème de la vie sur Urantia est de servir deux maîtres : naviguer entre les tendances ancestrales tout en cédant l’allégeance spirituelle à la présence divine. (109:5.4)
 
-maîtres de la philosophie | (27:6) | | ORDER | OK
+maitres de philosophie | (27:6) | | ORDER | OK
 La philosophie de la perfection enseignée uniquement au Paradis est partagée avec l’univers par ceux qui en ont fait l’expérience de première main. (27:6.6)
 Les supernaphins primaires sont les maîtres de la philosophie. (27:0.5)
 Les âmes sécoraphiques de la philosophie sont en synchronie focale avec les maîtres de la philosophie au Paradis. (28:5.11)
@@ -987,13 +988,13 @@ Pour entrer dans le royaume des cieux, Matadormus a dû renoncer à son mal favo
 Matadormus et d’autres dirigeants juifs ont rencontré Jésus dans la maison de Nicodème pour discuter de ses enseignements et de son message de lumière. (164:2.1)
 Matadormus, un jeune pharisien riche et membre du Sanhédrin de Jérusalem, désirait la vie éternelle mais a eu du mal à abandonner sa richesse pour suivre Jésus comme l’un de ses messagers. (163:2.4-9) (163:3.3)
 
-entremetteurs | | | | OK
+marieurs | | | | OK
 D’abord les barbiers, puis les prêtres, les marieurs ont fait passer les mariages primitifs de la planification parentale au libre choix. (83:2.1)
 Les marieurs étaient à l’origine employés pour négocier les mariages des personnes décédées, car la croyance ancienne voulait que même les morts doivent se marier. (82:3.8)
 
 Filles matérielles | | Fils Matériels | ORDER | OK
 
-énergie matérielle | | énergie; matière | | 
+énergie matérielle; énergie physique; énergie purement physique ou matérielle; énergie-matière | | énergie; matière | | OK
 L’énergie physique englobe toutes les formes de mouvement, d’action et de potentiel phénoménaux. (0:6.3)
 Tous les circuits d’énergie physique et de force cosmique trouvent leur origine au-dessous du Paradis, un royaume dépourvu d’intelligences spirituelles ou de la fonction de l’Absolu de Déité. (11:5.1)
 Les vastes courants de puissance de l’espace et les circuits d’énergie spirituelle sont contrôlés par les Directeurs de Pouvoir de l’Univers, assurant une supervision et une manipulation intelligentes de tous les systèmes énergétiques. (24:1.1)
@@ -1004,7 +1005,7 @@ La gravité est le seul contrôleur de l'énergie-matière, et non pas le modèl
 Les Esprits Maîtres impliqués dans les fluctuations des manifestations énergétiques manifestées par les unités de matière organisée réagissant à la gravité linéaire, et le comportement de l'énergie émergente lorsqu'elle est complètement libérée de l'emprise de l'Absolu Non Qualifié pour devenir réceptive à la gravité linéaire et aux manipulations des Directeurs de Pouvoir de l'Univers. (16:4.11-12)
 Les centres de pouvoir et les contrôleurs physiques des superunivers régulent les systèmes énergétiques, prenant 968 millions d'années pour encercler leur domaine. (15:8.2)
 
-Fils Matériels; Fils et Filles Matériels | (51) (45:5) | Adam; Ève | ORDER | OK
+Fils Matériels; Fils et Filles Matériels; Fils et de Filles Matériels; Fils Matériels de Dieu | (51) (45:5) | Adam; Ève | ORDER | OK
 Dans Nébadon, on compte 161 432 840 Fils Matériels, dont le nombre augmente constamment grâce à la reproduction naturelle et à la guidance des instances dirigeantes supérieures. (45:5.4)
 Les Fils Matériels sont classés comme Fils ascendants, quittant leur rôle d'administrateurs planétaires pour entreprendre le voyage vers Havona et le Paradis aux côtés d'autres Fils ascendants. (40:2)
 L'effusion de Michael en tant que Fils Matériel a apporté le salut à un monde troublé, mettant en lumière ses incarnations mystérieuses et inexplicables dans Nébadon. (119:3)
@@ -1173,15 +1174,15 @@ Les différents types de matière dans l'univers
 	La matière est soumise à la gravité absolue du Paradis, la guidant à travers d'infinies transmutations et transformations, conformément à la Personnalité Infinie. (21:2.12) (42:4.2) (115:6.1)
 	Les organisations matérielles sont soumises au surcontrôle cosmique de l'Absolu Non Qualifié, rendant la présence personnelle d'un Fils Créateur inutile à leur bon fonctionnement. (21:2.12)
 	Les soleils peuvent convertir la matière en énergie, mais l'espace extérieur peut ralentir l'activité pour retransformer les énergies en matière. (42:4.9)
-	Toute matière, sauf dans l'univers central, possède des propriétés physiques identiques, basées sur les taux de révolution de ses composants, le nombre et la taille des éléments en rotation, leur distance au corps nucléaire ou au contenu spatial, et des forces inconnues. Ces propriétés forment dix grandes divisions de la matière : ultimatonique, subélectronique, électronique, subatomique, atomes brisés, ionisée, atomique, moléculaire, radioactive et effondrée. (42:3)
+	Toute matière, sauf dans l'univers central, possède des propriétés physiques identiques, basées sur les taux de révolution de ses composants, le nombre et la taille des éléments en rotation, leur distance au corps nucléaire ou au contenu spatial, et des forces inconnues. Ces propriétés forment dix grandes divisions de la matière : ultimatonique, subélectronique, électronique, subatomique, atomes brisés, ionisée, atomique, moléculaire, radioactive et effondrée. (42:3)
 	Les unités de matière sont stables et pourtant efficacement flexibles grâce à la sagesse transcendantale des Maîtres Architectes de la création. (42:9.5)
 	De l'immense quantité de matière en circulation dans l'espace, de petites planètes s'accumulent lentement par accrétion météorique et collisions mineures, donnant naissance à de nombreux mondes habités. (15:5.9)
 	Le travail que la matière au repos peut accomplir est égal à l'énergie dépensée pour rassembler ses parties depuis le Paradis, moins la résistance des forces vaincues lors du transit et l'attraction exercée par les parties de matière les unes sur les autres. (42:4.11)
 
-matière, esprit et âme | (12:8) | science, philosophie et religion | | OK
+matière, mental et esprit; physique, mentale et spirituelle | (12:8) | science, philosophie et religion | | OK
 Les domaines de gravité physique, mentale et spirituelle sont des domaines distincts de la réalité cosmique, conservant leurs interrelations intimes. (65:7.8)
 
-Matthieu Lévi | (139:7) (143:3.5) (144:1.7) | apôtres de Jésus | PERSON | OK
+Matthieu Lévi; Matthieu | (139:7) (143:3.5) (144:1.7) | apôtres de Jésus | PERSON | OK
 Matthieu Lévi servait d'agent financier apostolique et de porte-parole, supervisant le budget, assurant le réapprovisionnement de la trésorerie et gérant les aspects financiers de l'organisation apostolique. (138:10.6) (139:7.2) (163:0.2)
 Jésus appela Matthieu Lévi et dîna avec lui et d'autres pécheurs, proclamant la joie et la liberté spirituelle à tous. (138:3)
 Matthieu Lévi fut chassé d'une ville samaritaine à coups de pierres pour avoir informé les villageois qu'ils refusaient de recevoir Jésus, le Saint d'Israël. (162:0.1)
@@ -1195,11 +1196,11 @@ Les exhortations de Jésus à Matthieu Lévi portaient sur la confiance dans les
 Matthieu Lévi fut tué par les Juifs à Lysimachie alors qu'il prêchait l'Évangile du royaume. (139:7.10)
 Matthieu Lévi collecta discrètement et personnellement des fonds parmi les croyants dévoués, consacrant sa modeste fortune à l'œuvre du Maître et des apôtres sans solliciter ouvertement les masses. (139:7.8)
 Matthieu Lévi resta évasif quant au projet de faire de Jésus un roi, face à l'enthousiasme croissant et aux divisions parmi les apôtres. (152:2.5)
-Matthieu Lévi fut témoin de la treizième apparition de Jésus aux apôtres sur le rivage de Bethsaïde, où ils pêchèrent 153 gros poissons et reçurent des instructions sur le service et l'amour d'autrui. (191:2.5) (192:1-4) (193:0.3,5)
+Matthieu Lévi fut témoin de la treizième apparition de Jésus aux apôtres sur le rivage de Bethsaïde, où ils pêchèrent 153 gros poissons et reçurent des instructions sur le service et l'amour d'autrui. (192:1-4) (193:0.3,5)
 Matthieu Lévi était parmi les apôtres qui participèrent à la réunion de la Pentecôte, où plus de deux mille âmes furent conquises par un appel passionné lancé par Pierre. (194:1.2)
 Caractéristiques personnelles
 	Matthieu fut d'abord déconcerté par la performance du spectacle, mais il fut transporté de joie lorsque le Maître s'approcha du temple. Il se sentit ensuite déprimé et épuisé, pour finalement être acclamé au matin comme un joyeux perdant. (172:5.8)
-	Matthieu Lévi, l'apôtre compétent, possédait deux natures : l'une calme comme celle d'André et l'autre fougueuse comme celle de Jacques, ce qui faisait de lui un orateur public talentueux. (139:3.2)
+	Matthieu Lévi, l'apôtre compétent, possédait deux natures : l'une calme comme celle d'André et l'autre fougueuse comme celle de Jacques, ce qui faisait de lui un orateur public talentueux. (139:3.2)
 	Malgré son passé, Matthieu excella et gagna la fierté de ses associés, devenant finalement célèbre pour ses notes détaillées sur les enseignements de Jésus. (139:7.5)
 	Matthieu Lévi, le riche percepteur des douanes choisi comme septième apôtre par André, était un homme d'affaires habile, doué pour se faire des amis. Il était marié et père de quatre enfants à l'âge de 31 ans en 26 apr. J.-C. (139:7.1)
 	Matthieu Lévi, publicain, fut accueilli avec une immense gratitude par Jésus et ses apôtres, malgré les objections initiales de certains, et finit par donner toute sa fortune à l'œuvre du Maître. (138:3.1,7) (139:7.3,8,10) (181:2.14)
@@ -1232,10 +1233,10 @@ Rodan a dit : L’effort vers la maturité nécessite du travail, qui requiert d
 La maturité est l’abandon des désirs transitoires et des plaisirs personnels pour des aspirations supérieures, conduisant à la poursuite de réalités spirituelles idéalistes et à la quête de la divinité. (100:1.1) (160:1.4,13)
 La maturité est directement liée à l’unité de temps utilisée par le moi conscient pour évaluer les circonstances de la vie et l’existence temporelle. (118:1.3)
 
-maximums | | | | OK
-Les maximums primaires du type Havona sont la réalité parfaite constitutive qui marque le début de l'histoire de l'univers et la genèse du temps lui-même. (105:5.6-9)
-Les maximums secondaires représentent la réalité évolutionnaire suprêmement parfaite du type superunivers, marquant le début de l'histoire de l'univers et l'avènement du temps lui-même. (105:5.6-9)
-Les maximums tertiaires sont coordonnés avec des facteurs ancestraux, ni parfaits ni perfectionnés. (105:5.10)
+maxima; maximas | | | | OK
+Les maxima primaires du type Havona sont la réalité parfaite constitutive qui marque le début de l'histoire de l'univers et la genèse du temps lui-même. (105:5.6-9)
+Les maxima secondaires représentent la réalité évolutionnaire suprêmement parfaite du type superunivers, marquant le début de l'histoire de l'univers et l'avènement du temps lui-même. (105:5.6-9)
+Les maxima tertiaires sont coordonnés avec des facteurs ancestraux, ni parfaits ni perfectionnés. (105:5.10)
 
 1er Mai; le 1er Mai | | | | OK
 Les anciens suspendaient les règles sexuelles les jours de grandes fêtes comme le 1er mai, favorisant ainsi les concepts de vice, de crime et de péché. (82:2.4)
@@ -1259,7 +1260,7 @@ La signification exige un démêlage et une corrélation dans l’esprit pour un
 
 moyens contre fins | | fins contre moyens | | OK
 
-mesures | | années-lumière; temps:jours et années; poids | | OK
+mesures; mesurer | | années-lumière; temps:jours et années; poids | | OK
 Les mesures utilisées dans les mondes sièges des constellations sont cohérentes avec celles des univers locaux, y compris le calcul du temps et la mesure des distances d'Edentia. (43:0.3)
 Un mile de Jérusalem équivaut à sept miles d'Urantia, ce qui reflète la précision et le système de pondération graduée décimale de cette civilisation avancée, où le jour de Satania est de trois jours d'Urantia moins une heure, quatre minutes et quinze secondes, tandis que l'année du système est composée de cent jours de Jérusalem, tous méticuleusement surveillés par les maîtres chronoldeks. (46:1.2)
 La mesure simultanée de la localisation et de la vitesse est impossible en raison des paradoxes inhérents, comme on le voit dans l'analyse du protoplasme par les chimistes qui doivent le tuer pour étudier sa chimie. (65:6.1)
@@ -1267,7 +1268,7 @@ La mesure simultanée de la localisation et de la vitesse est impossible en rais
 la Mecque | | | | OK
 Le fétiche de pierre de la Kaaba à la Mecque a unifié les tribus arabes et a déclenché l'établissement de la religion islamique. (95:7.5)
 
-contrôleurs mécaniques | | Maitres Contrôleurs Physiques | ORDER | OK
+contrôleurs mécaniques; contrôleurs machinaux | | Maitres Contrôleurs Physiques | ORDER | OK
 Dix des plus puissants Maîtres Contrôleurs Physiques, possédant des capacités antigravitationnelles surpassant toutes les autres, sont actuellement en poste sur Urantia pour faciliter le départ des transports séraphiques. (29:4.19)
 Dix contrôleurs mécaniques sont en poste sur la capitale de chaque constellation pour une distribution et un contrôle optimaux de l'énergie. (41:1.4)
 Les contrôleurs mécaniques excellent à diriger l'énergie dans des circuits spécialisés et à égaliser les pressions dans les circuits interplanétaires, jouant un rôle crucial dans la gestion et le contrôle de diverses formes d'énergie physique au sein du superunivers. (29:4.20)
@@ -1280,7 +1281,7 @@ Des milliards de contrôleurs mécaniques polyvalents et intelligents sont commi
 Les contrôleurs mécaniques, avec leur antigravité surpassant celle de tous les êtres, sont les plus puissants de tous les Contrôleurs Physiques Maîtres sur les mondes habités. (29:4.19)
 Le type de Contrôleur Physique Maître est 2. Contrôleurs Mécaniques. (29:4.6)
 
-mécanisme (théorie) | | matérialisme; laïcité | | OK
+mécanisme (théorie); cosmologie mécanique; philosophies mécanistes; naturalisme mécaniste; mécaniste | | matérialisme; laïcité | | OK
 La conception complexe de la couche d’ozone, épaisse d’à peine un dixième de pouce, protège la Terre des rayons ultraviolets nocifs et met en évidence le but intelligent de la création matérielle, avec plus de 50 000 faits à l’appui de cette théorie. (58:2.2-5)
 Une théorie mécaniste ne parvient pas à expliquer les différentes interprétations de l’esprit, car les concepts de vérité, de beauté et de bonté ne peuvent pas être dérivés uniquement de la physique et de la chimie. (195:6.11)
 Le rejet par le mécaniste de la volonté universelle reconnaît involontairement la souveraineté du Créateur de la loi, soulignant la folie d’humaniser ou de mécaniser le concept de Dieu. (3:6.4-5)
@@ -1338,7 +1339,7 @@ Une vie religieuse dynamique transforme les médiocres en individus puissants, f
 Le développement de l’individualité entraîne le progrès, tandis que la médiocrité s’accroche à la standardisation. (48:7.29)
 Les principales lois, la charte des libertés, doivent empêcher l’impasse de la domination de la médiocrité. (70:12.10)
 
-méditation | | prière; communion spirituelle; culte | | OK
+méditation | | prière; communion spirituelle; adoration | | OK
 Jésus a enseigné à ses disciples qu’après la prière, ils devraient rester dans une réceptivité silencieuse pour permettre à l’esprit qui habite en eux de parler à l’âme qui écoute, les transformant pour ressembler à l’être qu’ils adorent. (146:2.17)
 Communiquer avec l’esprit de votre propre âme par la méditation est toujours réussi, même si l’expérience reste sous forme d’enregistrement supraconscient. (133:4.10)
 La méditation sur Dieu apporte la délivrance des illusions du mal et le salut ultime de toutes les entraves matérielles. (131:4.7)
@@ -1357,7 +1358,7 @@ La valeur de la résolution de problèmes par la méditation adoratrice, telle q
 Pont terrestre Méditerranée-Océan Indien; pont terrestre | | | PLACE | OK
 Différentes races ont migré vers l’Afrique par le pont terrestre Méditerranée-océan Indien. (64:7.13)
 
-région méditerranéenne; Méditerranée | | ports; mer Méditerranée | PLACE | OK
+région méditerranéenne; Méditerranée; fosse méditerranéenne; méditerranéennes | | ports; mer Méditerranée | PLACE | OK
 Les Andites se déplacèrent vers les îles de la région méditerranéenne, où ils prospérèrent et avancèrent longtemps après le déclin de leur source en Mésopotamie. (78:6.8) (80:7)
 La région méditerranéenne est une zone très mélangée de races du nord, du sud et de l'est. (78:1.11)
 La civilisation méditerranéenne fut perturbée par un déluge en 15 000 av. J.-C. (78:3.7)
@@ -1381,7 +1382,7 @@ Les races Sangik avaient une tête moyenne, avec des variations vers une tête l
 
 médiumnité | | spiritualisme | | OK
 
-mansuétude | | humilité; soumission | | OK
+mansuétude; douceur | | humilité; soumission | | OK
 La conscience de la domination de l’esprit dans une vie humaine conduit à une manifestation croissante du fruit de l’Esprit, y compris la douceur, alors que les mortels divinement illuminés commencent à discerner les lumières de la vie éternelle et trouvent du réconfort dans le royaume de Dieu. (34:6.13)
 Dieu est près de ceux qui ont le cœur brisé, sauvant ceux qui ont un esprit d’enfant et offrant la paix aux justes qui ont confiance en Lui. (131:2.10)
 En coopérant avec Dieu, les doux hériteront de la terre et embrasseront la patience et la tolérance avec une foi inébranlable dans un univers respectueux des lois et de l’amitié. (140:5.11)
@@ -1414,7 +1415,7 @@ Après le départ de Melchizédek, l'effusion d'urgence de Machiventa, le grand 
 Melchizédek, comme Jésus, se concentra sur l'accomplissement de sa mission sans chercher à modifier les normes sociales ni à introduire de nouvelles pratiques. (93:4.15)
 Melchizédek Machiventa limita le pouvoir de perturbation de Caligastia, et Micaël, incarné, finit par le dépouiller de toute autorité sur Urantia. (66:8.5)
 Melchizédek Machiventa offrit sagement un sacrement de pain et de vin en remplacement du sacrifice, mais ne parvint pas à éradiquer la propension de ses disciples à cette pratique barbare. (93:4.14)
-Melchizédek et Machiventa interdisaient aux missionnaires d'accepter des honoraires ou d'établir des congrégations exclusives, entravant ainsi le développement d'une structure religieuse significative parmi les Grecs. (98:1.1)
+Machiventa Melchizédek interdisait aux missionnaires d'accepter des honoraires ou d'établir des congrégations exclusives, entravant ainsi le développement d'une structure religieuse significative parmi les Grecs. (98:1.1)
 Les scribes hébreux détruisirent presque tous les écrits de Melchizédek Machiventa, déformant leurs traditions pour s'exalter comme le peuple élu de Dieu. (93:9.9)
 Melchizédek, Machiventa fut accordé aux races humaines d'Urantia 1 973 ans avant la naissance de Jésus. Sa venue fut discrète et invisible aux yeux des humains. Elle fut observée pour la première fois par un mortel lorsqu'il entra dans la tente d'Amdon et proclama sa mission de prêtre d'El Elyon, le Très-Haut, le Dieu unique. (93:2.1)
 Jésus de Nazareth, d'esprit et de pensée parfaits, avait un Ajusteur de Pensée préalablement préparé par le Melchizédek Machiventa qui l'habitait. (93:2.7) (136:2.2)
@@ -1488,7 +1489,7 @@ Lorsque la proclamation fut émise pour les volontaires adamiques, les administr
 Comme il était livré à ses propres ressources, Machiventa Melchizédek se porta volontaire pour s'incarner sur terre en tant qu'homme temporaire du royaume pour le ministère mondial. (93:1.3)
 Les administrateurs Melchizédeks avertirent dûment Adam et Ève des dangers, mais le Prince Planétaire traître réussit quand même à les compromettre. (51:3.4)
 
-Fils Melchizédek | (35:2.4) | Père Melchizédek; Melchizédek, Machiventa; administrateurs provisoires Melchizédeks | ORDER | OK
+Fils Melchizédek; Melchizédeks | (35:2.4) | Père Melchizédek; Melchizédek, Machiventa; administrateurs provisoires Melchizédeks | ORDER | OK
 Qui sont-ils ?
 	Les Fils Melchisédeks, en tant qu'observateurs impartiaux, maintiennent une organisation autonome dédiée à l'intelligence universelle et assument la responsabilité du fils aîné d'une grande famille. (35:2.3)
 	Les Fils Melchisédeks, principaux assistants de Gabriel, exécutent les mandats du Fils Créateur avec pleine autorité sur des mondes lointains où les Fils supérieurs ne sont pas encore apparus à l'image des créatures du royaume. (35:2.5)
@@ -1543,7 +1544,7 @@ Service
 	Selon les enseignements des Melchisédeks, qui n'ont jamais été contredits, des changements radicaux se produiraient dans l'organisation et l'administration de toutes les créations si un superunivers était établi dans la lumière. (55:12.1)
 	Les Fils Melchisédeks, en tant que conseillers techniques, aident dans les affaires juridiques du monde spirituel et instruisent divers êtres sur les usages et les techniques appropriés. (25:4.18)
 	Les Fils Melchizédeks firent leurs adieux à Adam et Ève et partirent pour Jérusem par transport séraphique. (74:5.2)
-	Un Melchizédek de Nébadon, chargé par Gabriel de superviser la reformulation de la vie de Micaël sur Urantia, présente un récit dans le cadre de la série sponsorisée par Mantutia Melchizédek. (38:9.14) (39:9.4) (43:9.6) (45:7.9) (49:6.22) (53:9.9) (56:10.23) (66:8.8) (67:8.6) (68:6.12) (69:9.19) (70:12.21) (71:8.16) (72:12,6) (90:5,9) (92:7,16) (93:10,12) (94:12,8) (95:7,7) (96:7,9) (97:10,9) (98:7,13) (99:7,6) (100:7,19) (101:10,10) (102:8,8) (103:9.13) (104:5,13) (105:7,19) (106:9,13) (120:0,1)
+	Un Melchizédek de Nébadon, chargé par Gabriel de superviser la reformulation de la vie de Micaël sur Urantia, présente un récit dans le cadre de la série sponsorisée par Mantutia Melchizédek. (38:9.14) (39:9.4) (43:9.6) (45:7.9) (49:6.22) (53:9.9) (56:10.23) (66:8.8) (67:8.6) (68:6.12) (69:9.19) (70:12.21) (71:8.16) (72:12.6) (90:5.9) (92:7.16) (93:10.12) (94:12.8) (95:7.7) (96:7.9) (97:10.9) (98:7.13) (99:7.6) (100:7.19) (101:10.10) (102:8.8) (103:9.13) (104:5.13) (105:7.19) (106:9.13) (120:0.1)
 
 sphère Melchizédek | | | PLACE | OK
 La première effusion de Michael eut lieu sur la sphère de Melchisédek, où un étrange Fils Melchisédek arriva accompagné d’un omniaphin solitaire porteur d’ordres d’Uversa et affecté au service d’urgence à Nébadon. (119:1.3)
@@ -1558,7 +1559,7 @@ L'Université Melchizédek est fréquentée par les mortels ascendants juste ava
 Les Fils Matériels ne sont pas éligibles pour l'admission à l'Université Melchizédek, mais reçoivent une formation éducative et spirituelle de premier ordre dans le siège de chaque système. (45:5.7)
 Les mortels ascendants sont libres de parcourir les mondes culturels et les sphères d’entraînement de l’Université Melchizédek, mais de nombreuses zones restreintes restent interdites, y compris les quarante-neuf sphères contrôlées par les finalitaires. (36:4.7)
 
-mondes Melchizédek | | | PLACE | OK
+mondes Melchizédek; mondes Melchizédeks; mondes | | | PLACE | OK
 Les mondes Melchizédek se composent de sept sphères encerclant Salvington, servant de terrain d'entraînement aux mortels ascendants de toutes les constellations de Nébadon pour acquérir le statut résidentiel sur Salvington. (35:3)
 
 temple de Melkarth | | | PLACE | OK
@@ -1566,7 +1567,7 @@ Le temple de Melkarth à Tyr est devenu un site d'église chrétienne après que
 
 mélodies | | musique | | OK
 
-monuments commémoratifs | | | | OK
+monuments commémoratifs; monument | | | | OK
 La zone centrale des cercles des mortels ascendants de Jérusem est ornée de 619 mémoriaux planétaires, symbolisant les mondes habités du système, qui subissent des changements périodiques décidés par les mortels. (46:5.27,31)
 Le Mémorial de Michael à Jérusem, entouré de cercles de Fils, est le centre central des activités influencées par l'effusion de Michael sur Urantia, embrassant une vaste zone et dotée d'un personnel de plus d'un million de personnalités. (46:5.19)
 A Jérusem, le cercle des finalitaires est scellé par Gabriel avec l'insigne de Michael, non dédié au septième stade de l'esprit. (46:5.32)
@@ -1679,7 +1680,7 @@ Le deuxième jardin, situé en Mésopotamie, fut le berceau de la civilisation p
 Des prêtres étrangers de Mésopotamie ont cherché la lumière de la vie dans la naissance de Jésus après avoir été guidés par un rêve d'un enseignant de leur pays. (122:8.6)
 Todan a porté l'évangile en Mésopotamie et bien au-delà de l'Euphrate. (146:1.4)
 
-mésotrons | | atomes; matière | | OK
+mésotrons; mésotron | | atomes; matière | | OK
 Les mésotrons, 180 fois plus lourds que les électrons, agissent en réciprocité pour maintenir ensemble les protons chargés et les neutrons non chargés du noyau de l'atome, empêchant ainsi la rupture de la charge électrique des protons. (42:8.3)
 Les mésotrons agissent en réciprocité pour assurer la cohésion des noyaux atomiques, empêchant la rupture de la charge électrique des protons et maintenant la stabilité nucléaire en échangeant rapidement leur statut énergétique. (42:8.3-7)
 La désintégration mésotronique explique l'excès de rayonnement dans les atomes radioactifs en se transformant en électrons et en émettant de petites particules non chargées. (42:8.5)
@@ -1688,12 +1689,12 @@ Des mésotrons abondants sont constamment présents dans les rayons spatiaux aff
 mésozoïque | | âges géologiques | | OK
 L'ère mésozoïque, de 150 à 50 millions d'années, a marqué une période importante d'évolution de la vie terrestre. (59:0.5) (60:4.6)
 
-bâton de message | | | | OK
+bâton-message | | | | OK
 Les premières écritures ont évolué du « bâton de message » aux alphabets symboliques, tandis que la transmission de messages est passée des signaux de fumée au télégraphe, au téléphone et à la communication sans fil. (69:4.7)
 
 messages | | communication | | OK
 
-corps de messagers (David Zébédée) | (157:0.2) (163:5.2-3) | | PERSON | OK
+corps de messagers (David Zébédée); corps des messagers | (157:0.2) (163:5.2-3) | | PERSON | OK
 David Zébédée avait posté 25 sentinelles autour de sa maison, s’assurant que personne ne puisse les surprendre, ce qui poussa André à demander conseil à Jésus. (154:6.7)
 Le corps de messagers de David Zébédée, composé de vingt-six volontaires, fut envoyé comme hérauts de la résurrection de Jésus, diffusant la puissante vérité de son retour aux croyants dans diverses régions. (190:1.3-8) (191:6.4)
 Bethléem devint le quartier général judéen du corps de messagers de David Zébédée, facilitant un service de relais de nuit entre Jérusalem et Bethsaïda. (159:6.4)
@@ -1704,7 +1705,7 @@ David resta à Jérusalem pendant la dernière semaine tragique, mais après la 
 Le corps de messagers de David Zébédée, composé de quarante à cinquante messagers, servit de lien de communication vital pour l'œuvre du royaume en pleine expansion pendant le temps que Jésus passa sur terre. (149:0.4)
 Six corps de messagers suivirent Jésus en bateau, gardant le contact et s'assurant que ses allées et venues étaient transmises au quartier général de Zébédée. (154:7.2)
 Grâce au corps de messagers de David Zébédée, les groupes de croyants étaient tenus pleinement informés, ce qui démontrait la grande valeur de leurs services dans l’avancement du royaume de Jésus. (150:6.2) (155:4.1) (159:6.2-4) (167:0.3) (191:0.3)
-Le corps de messagers (celui de David Zébédée) maintenait un centre d’échange à Gethsémané. (183:4.2,8-9)
+Le corps de messagers (celui de David Zébédée) maintenait un centre d’échange à Gethsémané. (183:4.2,7-8)
 Le quartier général permanent de David Zébédée à Bethsaïda servait de centre d’échange pour l’œuvre de Jésus sur terre et de station relais pour le corps de messagers qu’il avait établi. (149:0.4)
 Jésus apparut sous une forme morontielle devant Rodan et quelque quatre-vingts autres croyants à Alexandrie, à la fin du rapport du messager de David Zébédée sur la crucifixion, délivré par Nathan de Busiris. (191:6.1)
 Plus de quatre cents membres du corps des messagers de David Zébédée arrivèrent pour assister à l’ordination des soixante-dix au lac de Galilée. (163:1.2)
@@ -1714,7 +1715,7 @@ Le corps des messagers de David Zébédée répandit rapidement la nouvelle de l
 Jésus demanda à Jacob, autrefois messager rapide, de délivrer un message de paix et de prophétie à Abner à Philadelphie, avec l’assurance d’un messager invisible courant à ses côtés. (182:2.5)
 Les messagers de David Zébédée ne voulurent pas tenir compte des paroles de doute concernant la résurrection, et partirent rapidement en mission avec une grande confiance en lui. (190:1.6)
 
-corps de messagers (Lanonandek) | | | ORDER | OK
+corps de messagers (Lanonandek); Corps des messagers | | | ORDER | OK
 Messenger Corps est un groupe au sein des Fils de Lanonandek composé de 400 000 membres. (35:8.12)
 
 Armées des Messagers de l'Espace | (25) | | ORDER | OK
@@ -1751,7 +1752,7 @@ Jésus n'était pas le Messie
 	La confession de Pierre selon laquelle Jésus était le Fils de Dieu marqua une reconnaissance nouvelle et vitale de sa divinité incontestée, un concept traditionnellement absent de la conception juive du Messie. (157:5.1)
 	Jésus attaqua hardiment le concept du Messie matériel, choisissant de se concentrer sur la conversion spirituelle durable à la véritable fraternité religieuse de l'humanité. (153:1.2) (153:2.6)
 	Jésus n'était pas le Messie juif attendu, mais le libérateur du monde. (122:4.2-4) (126:3.6-11) (127:1.7) (136:1.3) (136:6.6-8) (157:6.6,12) (185:8.1)
-	Les points de vue de Joseph et de Marie sur le Messie différaient : la famille de Joseph devint majoritairement croyante aux enseignements de Jésus, tandis que très peu de membres de la famille de Marie crurent en lui avant son départ. (122:5.10)
+	Les points de vue de Joseph et de Marie sur le Messie différaient : la famille de Joseph devint majoritairement croyante aux enseignements de Jésus, tandis que très peu de membres de la famille de Marie crurent en lui avant son départ. (122:5.10)
 	Jésus s'efforça de répondre partiellement aux attentes messianiques de ses disciples en proclamant ouvertement sa divinité et en se préparant à accomplir une autre œuvre puissante pour eux. (157:5.2) (167:4.5)
 	L'idée du Messie comme faiseur de miracles nationaliste empêcha Jésus de répondre à l'attente juive d'une restauration matérialiste de la gloire nationale juive. (136:1.3) (136:9.7-8) (137:5.2-3) (171:0.2-4) (171:1.3) (171:2.6) (172:0.2)
 	Jésus, en fin de compte, ne nia jamais être le Messie, laissant la résolution de la situation à la volonté du Père. (136:9.12) (137:5.3)
@@ -1767,7 +1768,7 @@ Idée pour les chrétiens
 Messine | (130:0.2) | ports | PLACE | OK
 À Messine, l'arrêt de Jésus pour une seule journée a changé la vie d'un petit garçon, un vendeur de fruits, qu'il a nourri avec le pain de vie et qu'il a inspiré à nourrir aussi l'âme. (130:8.3)
 
-travail des métaux | | | | OK
+travail des métaux; travailler les métaux | | | | OK
 J.-C., les Andites crétois, hautement qualifiés, pratiquaient le travail des métaux après avoir émigré en Crète depuis le continent. (80:7.2)
 Le commerce précoce des métaux accéléra l’urbanisation et la spécialisation des échanges entre les tribus hautement civilisées du monde antique. (79:1.4)
 Les premières guerres furent livrées pour des gisements naturels de métaux. (69:4.6)
@@ -1787,7 +1788,7 @@ La métaphysique échoue complètement à unifier la Cause Première de la scien
 La métaphysique est une tentative vaine de combler le fossé entre la science et la religion sans la présence de la mota. (103:6.7-15) (103:7.8-9)
 Les Grecs cherchèrent vainement du réconfort dans la philosophie et la métaphysique, échouant à saisir le véritable remède à l’inquiétude spirituelle et au désespoir moral. (98:2.2-3)
 
-météores | | comètes; corps spatiaux | | OK
+météores; météorites | | comètes; corps spatiaux | | OK
 L’oxygène atmosphérique fut épuisé par la combustion de fortes pluies de météores sur la surface planétaire primitive. (57:7.6,9)
 L’étoile filante, redoutable pour l’homme primitif, suscita la vénération pour toutes les pierres. (85:1.2)
 Les mondes non-respirables de Satania sont protégés du bombardement de météores par des races avancées dotées d’installations électriques, mais ils sont toujours confrontés à un grand danger lorsqu’ils s’aventurent au-delà de ces zones protégées. (49:3.2-3)
@@ -1812,10 +1813,10 @@ Mexique | (58:7.4) (59:2.4,7) (60:3.2-6) | | PLACE | OK
 Au Mexique et ailleurs, le sacrement des gâteaux et du vin a remplacé les sacrifices humains dans le culte de la Mère de Dieu. (89:9.2)
 Les civilisations du Mexique, de l’Amérique centrale et de l’Amérique du Sud ont été fondées par une race amalgamée, à prédominance rouge mais avec des mélanges de jaune, d’orange et de bleu. (64:7.5) (79:5.8)
 
-Michée | | | PERSON | OK
+Michée (prophète) | | | PERSON | OK
 Michée a attaqué sans crainte le système sacrificiel et a confirmé l’évangile d’Isaïe qui satisfait l’âme. (97:5.4)
 
-Michée | | | PERSON | OK
+Michée (prophète assistant d'Élisée) | | | PERSON | OK
 Michée a apporté une aide inestimable à Élisée pour maintenir vivante la lumière de la vérité en Palestine après qu’Élie ait été appelé au loin. (97:2.2)
 
 souris | | | | OK
@@ -2023,7 +2024,7 @@ Nature et attributs
 	À Havona, les servites et les médians sont des êtres élevés dont le service sacré est apprécié et respecté de tous. (25:1.1)
 	Les spirongas de Jérusem servent de serviteurs de transition, tout comme les médians d'Urantia, contribuant au ministère spirituel et à l'entretien des créations morontielles. (46:4.7)
 Quartiers
-	Les médians se trouvent toujours sur les planètes décimales et sont de deux types : primaires et secondaires. (38:9.2)
+	Les médians se trouvent toujours sur les planètes décimales et sont de deux types : primaires et secondaires. (38:9.2)
 	Les médians, bien que capables de quitter une planète, sont résolument déterminés à rester sur Urantia jusqu'à leur libération par les autorités de l'univers. (77:9.4)
 Service des types primaires et secondaires
 	Les 50 000 faits rassemblés par les médians d'Urantia prouvent que l'évolution n'est pas accidentelle et affirment la présence d'un dessein intelligent dans la création matérielle. (58:2.3)
@@ -2758,7 +2759,7 @@ Les Compagnons Morontiels, presque entièrement autonomes, maintiennent dix mill
 Sur le premier monde des maisons, un Compagnon Morontiel est assigné à chaque millier de mortels ascendants, mais un nombre plus important vous attend à mesure que vous progressez. (47:3.12)
 Les Compagnons Morontiels, guides beaux, polyvalents et agréables à vivre, accompagnent les mortels ascendants dans leur voyage à travers les mondes des maisons et les sphères de culture de transition. (47:3.12)
 Les Compagnons Morontiels apparaissent dans les registres de personnalité (30:1.80) (30:2.80)
-Il existe deux types distincts de Compagnons Morontiels : l’un agressif, l’autre réservé, mais de statut égal, voué à faciliter les relations morontielles et à prévenir la confusion. (48:3.4,11) (84:6.5)
+Il existe deux types distincts de Compagnons Morontiels : l’un agressif, l’autre réservé, mais de statut égal, voué à faciliter les relations morontielles et à prévenir la confusion. (48:3.4,11) (84:6.5)
 Les Compagnons ne sont pas assignés de façon permanente aux individus, leur affectation variant selon les besoins et les disponibilités. (48:3.9)
 Les Compagnons Morontiels sont des hôtes bienveillants et des parrains de jeu habiles, contribuant au plaisir des mortels ascendants, bien que techniquement non essentiels à leur survie. (25:7.1) (48:3.18)
 Soixante-dix milliards de Compagnons Morontiels dans Nébadon exercent leur ministère auprès des pèlerins sur les planètes de transition. (37:8.9) (48:3.1)
@@ -2972,7 +2973,7 @@ Nature de l'esprit mortel
 	L'esprit humain, non entièrement matériel, peut atteindre des niveaux élevés de perspicacité spirituelle car il commence tôt à manifester des qualités supramatérielles et n'est pas entièrement lié au temps. (133:7.11) (195:7.6) (196:3.6)
 	L'esprit mortel est la technique par laquelle les réalités spirituelles deviennent expérientielles pour les personnalités des créatures. (12:8.8)
 	Imaginant des choses invisibles en termes de choses visibles, la croyance en une existence future trouve son origine dans les rêves, contrebalançant la peur de la mort. (86:4.2)
-	Temps perçu par l'esprit : conscience de la séquence, du mouvement et sens de la durée. (12:5.7)
+	Temps perçu par l'esprit : conscience de la séquence, du mouvement et sens de la durée. (12:5.7)
 	L'esprit mortel englobe les mécanismes de pensée, de perception et de ressenti de l'organisme humain, combinant expériences conscientes et inconscientes pour atteindre le niveau spirituel par l'adoration et la sagesse. (0:5.8)
 	L'esprit mortel, entièrement dépendant de ses capacités cérébrales, doit évoluer de l'association matérielle à l'union spirituelle pour atteindre la survie et l'éternité de l'existence de la personnalité. (1:3.7) (58:6.7)
 	La survie humaine n'est pas assurée par ce que l'esprit mortel comprend, mais par ce qu'il désire comprendre. (111:1.5)
@@ -2992,7 +2993,7 @@ Esprit supraconscient
 		Les révélations de l'Ajusteur spiritualisent l'esprit pour faire évoluer l'âme morontielle, émergeant souvent sous forme de présentations abruptes de pensées issues du supraconscient. (110:4.2-3)
 		Les Ajusteurs Suprêmes opèrent de profondes transformations spirituelles dans les canaux libérés de l'imagination créatrice. (109:5.1)
 		produisent des duplicatas morontiels de chaque concept de mortel.
-		Les Ajusteurs cherchent à dupliquer les concepts de l'intellect mortel dans les niveaux supérieurs de l'esprit humain, reliant deux réalités : le soi mortel et l'entité immortelle. (110:2.4)
+		Les Ajusteurs cherchent à dupliquer les concepts de l'intellect mortel dans les niveaux supérieurs de l'esprit humain, reliant deux réalités : le soi mortel et l'entité immortelle. (110:2.4)
 		Les professions de loyauté envers les idéaux suprêmes peuvent être une croissance graduelle ou une expérience soudaine, la véritable conversion impliquant une mobilisation mentale totale vers l'accomplissement spirituel et un but synchronisé de l'esprit supraconscient, en contact avec l'Ajusteur. (100:5.3-6)
 	Existence supraconsciente
 		L'inspiration du supraconscient ou du subconscient peut rendre les augmentations de conscience étrangères à l'esprit mortel. (91:7.4)
@@ -3016,7 +3017,7 @@ après la mort
 	Les mortels sont appelés « fils de la foi » avant la fusion, représentant l'ordre le plus bas de la création intelligente et personnelle, divinement aimés et dotés du potentiel d'atteindre une ascension glorieuse par la foi et la coopération libre avec les activités spiritualisantes de l'Ajusteur intérieur. (40:6.1) (40:7.2)
 	Les mortels ne retournent pas sur leur planète natale pendant la dispensation de leur existence temporelle, mais peuvent être transportés par des séraphins de transport vers d'autres mondes du système pour des missions ultérieures. (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	étapes de l'existence
-		Le récit décrit la carrière ascendante de l'univers. des mortels à travers les sept stades : Mortels planétaires, Survivants endormis, Étudiants des Mondes des Maisons, Progresseurs morontiels, Paroisses du Superunivers, Pèlerins de Havona et Arrivées au Paradis. (30:4) (31:3.4)
+		Le récit décrit la carrière ascendante de l'univers. des mortels à travers les sept stades : Mortels planétaires, Survivants endormis, Étudiants des Mondes des Maisons, Progresseurs morontiels, Paroisses du Superunivers, Pèlerins de Havona et Arrivées au Paradis. (30:4) (31:3.4)
 		# mortels planétaires | mortels
 		# survivants endormis
 		# étudiants des Mondes des Maisons
@@ -3090,7 +3091,7 @@ Nature humaine | Chair
 planetary-mortal epochs | planetary epochs
 	Voir les époques planétaires
 Types planétaires
-	Il existe sept types physiques distincts de mortels : atmosphérique, élémentaire, gravitationnel, thermique, électrique, énergétique et non identifié, chacun s’adaptant aux conditions planétaires selon le modèle universel de vie intelligente. (15:6.16) (49:2-5)
+	Il existe sept types physiques distincts de mortels : atmosphérique, élémentaire, gravitationnel, thermique, électrique, énergétique et non identifié, chacun s’adaptant aux conditions planétaires selon le modèle universel de vie intelligente. (15:6.16) (49:2-5)
 	Les types atmosphériques d’habitation des mortels sont déterminés par la nature de l’atmosphère, la majorité étant des respirateurs intermédiaires dans les mondes de Satania. (49:2.10-14)
 	## sous-respirateurs
 	##* Parmi les types atmosphériques de Satania, environ deux et demi pour cent sont des Martiens. (49:2.12-13)
@@ -3121,7 +3122,7 @@ Types planétaires
 	Les mortels sont confrontés à des combats similaires contre des ennemis microscopiques dans leur jeunesse, avec des espérances de vie allant de 25 à 500 ans sur différentes planètes. (49:4.6)
 	Séries planétaires
 		L'adaptation à l'environnement planétaire varie entre les groupes normaux, radicaux et expérimentaux, la Terre se classant dans ces derniers en tant que monde expérimental avec des formes de vie uniques. (49:5.10-12)
-		La série des types de cerveau englobe les mortels ayant un potentiel de fusion avec l'Ajusteur, divisés en types monocerveau, bicerveau et tricerveau. (40:5.17) (49:4.2-3) (49:5.13-18) | cerveaux : aptitude au cerveau
+		La série des types de cerveau englobe les mortels ayant un potentiel de fusion avec l'Ajusteur, divisés en types monocerveau, bicerveau et tricerveau. (40:5.17) (49:4.2-3) (49:5.13-18) | cerveaux:aptitude au cerveau
 		La série de réception spirituelle classe la conception mentale des mortels en relation avec la chimie des glandes et la réceptivité spirituelle, influençant l'imagination et la réceptivité durant la vie terrestre. (49:5.19-20)
 		La classification des époques planétaires-mortelles guide la progression des dispensations temporelles pour l'humanité sur Terre, depuis l'émergence de la civilisation sous le Prince Planétaire jusqu'à l'arrivée ultime des Fils Instructeurs de la Trinité, menant à l'ère de lumière et de vie. (49:5.21-28) | Époques planétaires
 		L'administration de l'univers favorise les liens de parenté entre diverses classes de créatures, y compris les mortels, afin d'assurer la cohérence et la coordination de leurs activités. (49:5.29-30)
@@ -3145,7 +3146,7 @@ Types planétaires
 		La raison pour laquelle les mortels ne peuvent fusionner avec les Ajusteurs demeure inconnue, ce qui conduit à des spéculations sur la nature intentionnelle ou non de cette limitation dans le plan d'ascension. (40:5.16)
 	Mortels de la série 3
 		Les mortels ayant un potentiel de fusion avec l'Ajusteur se présentent sous les formes tri-cérébrale, bi-cérébrale et mono-cérébrale, avec des différences intellectuelles et spirituelles qui caractérisent les individus. (40:5.17) (49:4.2-3) (49:5.13-18)
-		Série 3 : mortels ayant un potentiel de fusion avec l'Ajusteur, comprenant les types mono-cérébrale, bi-cérébrale et tri-cérébrale, tous dotés du potentiel d'union éternelle avec leur Ajusteur. (40:5.17) (109:3.4)
+		Série 3 : mortels ayant un potentiel de fusion avec l'Ajusteur, comprenant les types mono-cérébrale, bi-cérébrale et tri-cérébrale, tous dotés du potentiel d'union éternelle avec leur Ajusteur. (40:5.17) (109:3.4)
 		Les Ajusteurs ont davantage de contacts réels avec les mortels tri-cérébrale durant leur vie temporelle, mais tous les types progressent de manière similaire après la mort. (109:3.5)
 		Les Urantiens sont du type bi-cérébrale, plus imaginatifs et philosophiques que les mortels mono-cérébrale, mais moins spirituels et adorateurs que les ordres tri-cérébrale. (49:5.13-18) (109:3.4)
 Mortels primitifs | Époques planétaires:ère du Premier Prince Planétaire; religion:religion primitive
@@ -3598,7 +3599,7 @@ Mystères particuliers
 	La compréhension humaine de l'infini est une unité et une diversité paradoxales qui dépassent les limites finies. (115:3.4)
 	Les Esprits inspirés de la Trinité peuvent être reconnus individuellement par des êtres d'origine trinitaire sous certaines conditions, contribuant ainsi à l'accomplissement de missions et révélant occasionnellement leur présence, un secret de la Trinité du Paradis. (19:5.3)
 	Les mystères des dons mortels des Fils du Paradis sont transcendants et voilés de secret à Sonarington. (7:5.7) (13:1.8) (20:6.1) (119:5.5) (119:7.5)
-	Le mystère de la Trinité du Paradis est ineffable : trois sont un et en un, et un sont deux et agissent pour deux, tandis que l’Esprit Infini agit comme Acteur Conjoint par l’intermédiaire du Père et du Fils. (10:4.5)
+	Le mystère de la Trinité du Paradis est ineffable : trois sont un et en un, et un sont deux et agissent pour deux, tandis que l’Esprit Infini agit comme Acteur Conjoint par l’intermédiaire du Père et du Fils. (10:4.5)
 	Le mystère de la personnalité demeure insaisissable, sa véritable nature et sa signification dépassant notre pleine compréhension. (5:6.2)
 	Les personnalisations des Esprits-Mères reflètent les profonds mystères de la transformation divine. (34:1.3)
 	Le rassemblement de la personnalité à la résurrection transcende l’entendement, mais sera connu par l’expérience par l’acceptation du plan de survie mortelle. (30:4.15)
