@@ -52,3 +52,24 @@ J. H. JEANS
 DORKING 
 
 2 August 1930 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Sir_James_Jeans/The_Universe_Around_Us#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Sir_James_Jeans/The_Universe_Around_Us/0">
+          <span class="pr-2">Introduction</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
