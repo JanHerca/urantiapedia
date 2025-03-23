@@ -32,20 +32,15 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p127">[<sup><small>p. 127</small></sup>]</span>
 
-### V.
-
-### À TOUS LES GARDIENS.
+## V. À TOUS LES GARDIENS.
 
 Wadding semble avoir eu connaissance de cette lettre indirectement. Il nous en donne au moins une plus courte, adressée aux custodes. Le début de l'épître numérotée XIV est similaire à celui traduit ici et semble en être un résumé incomplet. Il est cependant difficile de trancher définitivement, car la forme originale de la lettre, traduite de l'espagnol par Wadding, fait défaut. La solution consisterait à déterminer de quelle source provient cette lettre espagnole.
 
 La lettre fut publiée pour la première fois sous sa forme actuelle par M. Sabatier en 1900, à partir d'un manuscrit du XIVe siècle conservé à la bibliothèque Guarnacci de Volterra. [^512] Le texte de Quaracchi s'appuie également sur ce codex, dont on ne connaît aucune autre version. Des arguments internes pourraient cependant être avancés pour établir l'authenticité de la lettre, à savoir :
 
-#### À TOUS LES GARDIENS.
+## À TOUS LES GARDIENS.
 
 A tous les custode des Frères Mineurs à qui parviendra cette lettre, Frère François, votre serviteur et petit dans le Seigneur Dieu, vous envoie ses salutations avec de nouveaux signes du ciel et de la terre [^513] qui, de la part du Seigneur, sont grands et très excellents et qui sont considérés comme les moindres de tous par beaucoup de religieux et par d'autres hommes.
 
@@ -85,7 +80,7 @@ Et à tous mes frères gardiens qui recevront ce document, qu'ils le copient, le
 
 ## Notes de bas de page
 
-[^512] : 127:1 Cod. 225, mentionné ci-dessus ([p. 110](wosf13.htm#p110)). Voir Bartholi de Sabatier, p. 135.
+[^512] : 127:1 Cod. 225, mentionné ci-dessus ([p. 110](Part_2_2#p110)). Voir Bartholi de Sabatier, p. 135.
 
 [^513]: 127:2 Apparemment une allusion aux mystères de l'Eucharistie.
 

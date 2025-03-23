@@ -29,7 +29,18 @@ dateCreated: 2025-1-18T17:53:4Z
   </table>
 </figure>
 
+**[UNA POSDATA POSTERIOR]**
 
+. . . . . .
+
+La proclamación de los apóstoles... el justo. Salieron de tres en tres a las cuatro zonas del cielo y proclamaron la bondad del reino en todo el mundo, con Cristo obrando con ellos mediante las palabras de confirmación y las señales y prodigios que las siguieron. Y así se dio a conocer el reino de Dios en toda la tierra y en todo el mundo de Israel como testimonio para todas las naciones, desde la salida hasta la puesta del sol.
+
+. . . . . .
+. . . . .
+
+**[DOS LÍNEAS BORRADAS.]**
+
+**EL FIN**.
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,18 +32,13 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p22">[<sup><small>p. 22</small></sup>]</span>
 
-### III.
-
-### SUR LA RÉVÉRENCE POUR LE CORPS DU SEIGNEUR ET SUR LA PROPRETÉ DE L'AUTEL.
+## III. SUR LA RÉVÉRENCE POUR LE CORPS DU SEIGNEUR ET SUR LA PROPRETÉ DE L'AUTEL.
 
 Les arguments déjà avancés pour établir l'authenticité des Admonitions peuvent également être utilisés en faveur de cette instruction adressée « à tous les clercs ». On la trouve dans huit des codex mentionnés ci-dessus, à savoir ceux d'Assise, de Liegnitz, de Paris (manuscrits mazarins et au lib. du Prot. theol. fac.), de Rome (manuscrits de saint Antoine et de saint Isidore 1/73) et de Düsseldorf. Dans l'édition Wadding des Opuscula, cette instruction sur le Saint-Sacrement est placée parmi les lettres de saint François [^137] (n° XIII), mais les premiers codex ne la donnent pas sous forme épistolaire [^138], mais plutôt telle qu'elle est imprimée ici sans adresse ni salutation. Pour la présente édition, le codex d'Assise [^139] a <span id="p23">[<sup><small>p. 23] a été utilisé, ainsi que les codex de saint Antoine et de saint Isidore à Rome. Le texte est le suivant :
 
-#### SUR LA RÉVÉRENCE POUR LE CORPS DU SEIGNEUR ET SUR LA PROPRETÉ DE L'AUTEL.
+## SUR LA RÉVÉRENCE POUR LE CORPS DU SEIGNEUR ET SUR LA PROPRETÉ DE L'AUTEL.
 
 Considérons tous, ô clercs, le grand péché et l'ignorance dont certains se rendent coupables concernant le Corps et le Sang très saints de notre Seigneur Jésus-Christ, son Nom très saint et les paroles écrites de consécration. Car nous savons que le Corps ne peut exister qu'après ces paroles de consécration. Car nous n'avons rien et ne voyons rien du Très-Haut lui-même en ce monde, si ce n'est son Corps et son Sang, ses noms et ses paroles par lesquels nous avons été créés et rachetés de la mort à la vie.
 

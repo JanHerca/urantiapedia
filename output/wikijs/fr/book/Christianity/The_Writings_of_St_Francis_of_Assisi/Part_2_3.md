@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p119">[<sup><small>p. 119</small></sup>]</span>
 
-### III.
-
-### À UN CERTAIN MINISTRE.
+## III. À UN CERTAIN MINISTRE.
 
 La teneur de cette lettre semble indiquer qu'elle fut écrite avant la confirmation de la Seconde Règle par le pape Honorius [^482] ; et très probablement au début de 1223. Tous les manuscrits anciens l'attribuent à saint François et, tant sur le fond que sur la forme, elle ressemble beaucoup aux autres écrits du saint. Il existe cependant une grande diversité d'opinions quant à son destinataire. Mais d'après la formulation du dernier paragraphe de la lettre, se référant au chapitre : « Tu seras là avec tes frères », elle semble avoir été adressée à un ministre provincial plutôt qu'au ministre général. De plus, comme le remarque à juste titre le professeur Goetz [^483], le début de la lettre implique que ce ministre avait émis des doutes ou des difficultés quant à la manière de traiter les frères tombés dans le péché. Ainsi, l'ouverture abrupte de la lettre, « Je te parle au sujet de ton âme », etc., renvoie à une question à laquelle la lettre est censée répondre, et du fait que la patience est louée « plus que l'ermitage », les éditeurs de Quaracchi pensent que l'on peut déduire que le ministre en question désirait embrasser une vie solitaire. Quoi qu'il en soit, je ne puis <span id="p120">[<sup><small>p. 120</small></sup>]</span> donner raison à M. Sabatier lorsqu'il trouve dans cette lettre « plus d'objurgations et de reproches que de conseils ». [^484]
 
@@ -49,7 +44,7 @@ Français Le texte complet de cette importante lettre a d'abord été publié <s
 
 Passons maintenant au texte de la lettre
 
-#### À UN CERTAIN MINISTRE. [^494]
+## À UN CERTAIN MINISTRE. [^494]
 
 _Au frère N. . . Ministre ; que le Seigneur vous bénisse_.
 
@@ -87,7 +82,7 @@ Afin que cette écriture soit mieux observée, garde-la avec toi jusqu'à la Pen
 
 ## Notes de bas de page
 
-[^482]: 119:1 Il se réfère aux « chapitres qui parlent du péché mortel » qui ne se trouvent que dans la Première Règle (voir pp. [37](wosf06.htm#p37), [47](wosf06.htm#p47), [53](wosf06.htm#p53)), et parle de changements proposés dans la Règle qui n'auraient pas pu, comme il est clair, être faits après novembre 1223. En particulier, le sujet du dixième chapitre de la nouvelle Règle discuté dans le Chapitre tenu à Portioncule, le 11 juin de cette année (voir _Spec. Perf._, éd. Sabatier, c. t), est mentionné comme n'étant pas encore définitivement réglé.
+[^482]: 119:1 Il se réfère aux « chapitres qui parlent du péché mortel » qui ne se trouvent que dans la Première Règle (voir pp. [37](Part_1_4#p37), [47](Part_1_4#p47), [53](Part_1_4#p53)), et parle de changements proposés dans la Règle qui n'auraient pas pu, comme il est clair, être faits après novembre 1223. En particulier, le sujet du dixième chapitre de la nouvelle Règle discuté dans le Chapitre tenu à Portioncule, le 11 juin de cette année (voir _Spec. Perf._, éd. Sabatier, c. t), est mentionné comme n'étant pas encore définitivement réglé.
 
 [^483]: 119:2 Voir _Quellen_, etc. t. XXII, p. 547.
 
@@ -121,12 +116,12 @@ Afin que cette écriture soit mieux observée, garde-la avec toi jusqu'à la Pen
 
 [^498]: 123:1 Le manuscrit napolitain pour « apparaît » dit « péchés ».
 
-[^499]: 123:2 Chap. V, XIII et XX de la première Règle. (Voir ci-dessus, pp. [37](wosf06.htm#p37), [47](wosf06.htm#p47) et [53](wosf06.htm#p53).)
+[^499]: 123:2 Chap. V, XIII et XX de la première Règle. (Voir ci-dessus, pp. [37](Part_1_4#p37), [47](Part_1_4#p47) et [53](Part_1_4#p53).)
 
 [^500]: 123:3 Voir Matthieu 9: 12.
 
 [^501]: 123:4 Cod. O. se lit : « un autre ».
 
-[^502]: 124:1 Au chap. XX de la Première Règle (voir ci-dessus, [p. 53](wosf06.htm#p53)). Le passage entre parenthèses est la partie omise par Wadding et ceux qui l'ont suivi.
+[^502]: 124:1 Au chap. XX de la Première Règle (voir ci-dessus, [p. 53](Part_1_4#p53)). Le passage entre parenthèses est la partie omise par Wadding et ceux qui l'ont suivi.
 
 [^503]: 124:2 Voir Jean 8: 11.

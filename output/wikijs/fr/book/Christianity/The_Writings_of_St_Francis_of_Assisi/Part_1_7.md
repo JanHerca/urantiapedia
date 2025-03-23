@@ -32,20 +32,15 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p87">[<sup><small>p. 87</small></sup>]</span>
 
-### VII.
-
-### DE VIVRE RELIGIEUSEMENT DANS UN ERMITAGE.
+## VII. DE VIVRE RELIGIEUSEMENT DANS UN ERMITAGE.
 
 Nous apprenons de saint Bonaventure [^354] et des _Fioretti_ [^355] qu'à mesure que ses compagnons commençaient à affluer vers saint François, l'homme de Dieu hésita un temps entre une vie de prière et une vie de prédication. Bien que, comme nous le savons, il se soit finalement décidé en faveur de l'apostolat, il n'a jamais pour autant complètement séparé la vie contemplative de la vie active. Un précieux témoignage de ce fait se trouve dans le Règlement concernant les frères pendant leur séjour en ermitage qui nous intéresse ici. Pour comprendre la portée de cette législation particulière, il faut se rappeler qu'au début du mouvement franciscain, les frères n'avaient pas de domicile fixe [^356]. Le vaste monde était leur cloître [^357]. Ne possédant rien, ils erraient comme des enfants insouciants du jour, enseignant ou prêchant, passant la nuit dans les greniers à foin ou sous les églises <span id="p88">[<sup><small>p. 88</small></sup>]</span> porches, dans des lazarets, ou des cabanes et grottes abandonnées. [^358] Le besoin d'avoir une sorte de retraite permanente où ils pourraient se retirer de temps en temps pour prier ou se reposer, a conduit à l'institution des ermitages. Ces petites solitudes, où François aimait se retirer, peuvent être trouvées partout où le saint est allé. La Celle près de Cortina, le Carénage sur le mont Subasio, Greccio dans la vallée de Rieti, et les ermitages plus solitaires, comme Lo Speco, forment, comme quelqu'un l'a dit, une série de documents sur la vie de saint François, tout aussi importants que les écrits. Et une bonne partie de son esprit subsiste encore dans ceux de ces ermitages qui subsistent encore. C'est pour le gouvernement de petits _loci_ [^359] comme ceux-ci que la présente petite Règle spéciale a été écrite. Son attribution à saint François n'a pas été mise en doute. La simplicité pittoresque de sa conception témoigne de son authenticité, et dans aucun codex il ne porte le nom d'un autre auteur que saint François. Il a peut-être été écrit vers 1217 ; sa composition appartient certainement à la première décennie de l'Ordre.
 
 Dans les anciens recueils d'écrits de saint François, retrouvés dans les codex de Florence (Ognissanti), Foligno et Rome (MS. 1/25 de saint Isidore et MS. 7650 du Vatican), ainsi que dans les copies de la compilation commençant par _Fac secundum exemplar_, cette Instruction se trouve à la fin des Admonitions. Mais dans la plupart des codex anciens, les Admonitions se terminent comme dans la présente traduction, et l'opuscule sur les ermitages en est de préférence séparé, comme dans le codex d'Assise et celui de saint Isidore de Rome (MS. 1/73). Le texte qui suit est basé sur le manuscrit d'Assise, qui a été collationné avec celui d'Ognissanti et ceux de Saint-Isidore, ainsi qu'avec la version de ce règlement donnée par Barthélemy de Pise dans ses _Conformités_. [^360] Voici le texte :
 
-#### DE VIVRE RELIGIEUSEMENT DANS UN ERMITAGE.
+## DE VIVRE RELIGIEUSEMENT DANS UN ERMITAGE.
 
 Que ceux qui désirent vivre religieusement dans les ermitages soient trois frères ou quatre au plus. Que deux d'entre eux soient mères et aient deux fils, ou au moins un. Que les deux premières mènent la vie de Marthe et les deux autres celle de Marie-Madeleine. [^361]
 
@@ -83,7 +78,7 @@ Et ils ne doivent permettre à personne [^366] d'entrer dans le cloître où ils
 
 [^355]: 87:2 Voir _Floretum S. Francisci_, éd. Sabatier, cap. 16, p. 60. Ce chapitre, qui est l'un des plus intéressants au point de vue critique, représente saint François consultant sainte Claire et frère Sylvestre au sujet de son doute.
 
-[^356]: 87:3 Voir Première Règle, chap. vii (ci-dessus, [p. 40](wosf06.htm#p40)); également _Speculum Perf._, éd. Sabatier, pp. 25-26.
+[^356]: 87:3 Voir Première Règle, chap. vii (ci-dessus, [p. 40](Part_1_4#p40)); également _Speculum Perf._, éd. Sabatier, pp. 25-26.
 
 [^357]: 87:4 Comme le décrit avec beaucoup de poésie l'auteur du Sacrum Commercium. « Montrez-moi votre cloître », demande Dame Pauvreté aux frères. Et ceux-ci, la conduisant au sommet d'une colline, lui montrèrent le vaste monde en disant : « Ceci est notre cloître, ô Dame Pauvreté. » (Voir Dame Pauvreté, de M. Carmichael, p. 128.)
 

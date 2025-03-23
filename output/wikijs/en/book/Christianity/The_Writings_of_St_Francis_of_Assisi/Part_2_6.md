@@ -32,30 +32,20 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p130">[<sup><small>p. 130</small></sup>]</span>
 
-### VI.
-
-### TO BROTHER LEO.
+## VI. TO BROTHER LEO.
 
 The authenticity of this letter cannot be challenged. The original autograph is jealously preserved at the Cathedral of Spoleto. In Wadding's time it was kept at the Conventual church in that place, but subsequently disappeared in some way and there was no trace of it until 1895, when Father Cardinali, a priest of Spoleto, placed it in the hands of Mgr. Faloci. The latter presented it to Pope Leo XIII and, after reposing for some three years in the Vatican, it was, at the request of Mgr. Serafini, Archbishop of Spoleto, returned to the cathedral there. [^516] Only one other autograph of St. Francis is known to exist. [^517] The scope of the letter is obvious: it is a word of tender encouragement and counsel to the _Frate pecorello de Dio_, St. Francis’ most intimate companion and friend, who at the time was harassed with doubts and fears. The form of the letter seems to present some difficulties to certain critics. For example, St. Francis at the outset uses the words: _F. Leo F. Francisco tuo salutem et pacem_. It is, of course, clear that this superscription cannot be interpreted in such a way as to make Brother Leo the author of the letter; in that case it would be _Francisco suo_, and no one, so far as I know, has ever attempted this violence to the text. But there have been some who, thinking St. Francis did not know the difference between a dative and a nominative,
 
-[![Letter of St. Francis to Brother Leo, Preserved at Spoleto](tn/13000.jpg)
-Click to enlarge](img/13000.jpg)
+![Letter of St. Francis to Brother Leo, Preserved at Spoleto](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/13000.jpg)
 
 
 LETTER OF ST. FRANCIS TO BROTHER LEO, PRESERVED AT SPOLETO. (_See page [130](#p130)_.) <span id="p131">[<sup><small>p. 131</small></sup>]</span> have not hesitated to tamper with the text so as to bring the Latin of the _Poverello_ into conformity with what they think to be better grammar. [^518] I confess that .I find no difficulty in translating the superscription as it stands in the original autograph. As a general rule, no doubt, it is the sender of a letter that greets the one to whom it is sent. But, in this case, the humility of St. Francis has led him to change parts and he appeals for a blessing instead of bestowing one. I find myself therefore in thorough accord with Mr. Carmichael's clever solution of this question and agree with him that St. Francis, always imaginative, meant what he wrote, and that “there is really a deep, sweet, and most pathetic meaning in the Saint's peculiar mode of address.” Accordingly, the superscription ought to read “Brother Leo, wish thy brother Francis health and peace.” It is thus, following Mr. Carmichael, that I have translated it here.
 
 As regards the use of the plural (_faciatis_) in the body of the note which perplexed Wadding, since the singular seems to be called for, some think with the Quaracchi editors that the Saint, writing so familiarly to Leo, adopts the Italian form; others, with M. Sabatier, [^519] that Brother Leo had spoken in the name of a group. Perhaps it may not be amiss to recall in this connection, what Celano tells us of St. Francis’ method of composition [^520] as well as of the letter <span id="p132">[<sup><small>p. 132</small></sup>]</span> of the Saint mentioned by Eccleston, in which there was faulty Latin. [^521] A French critic [^522] thinks we might perhaps be justified in identifying the letter referred to by Eccleston with the one to Brother Leo now under consideration. Be this as it may, the context of the present letter leads one to suppose that at the time it was written Brother Leo was not yet habitually with St. Francis. In this hypothesis, we must fix the date of its composition not later than 1220. [^523] It need not be wondered at if, after nearly seven centuries, some words in the autograph letter preserved at Spoleto are difficult to read. Hence some trifling variants occur in the texts published by Wadding [^524] and Faloci. [^525] The Quaracchi text which I have here translated is edited after the original:—
 
-#### TO BROTHER LEO.
+## TO BROTHER LEO.
 
 Brother Leo, wish thy brother Francis health and peace!
 

@@ -32,18 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p146">[<sup><small>p. 146</small></sup>]</span>
 
-### IV.
-
-### THE SHEET WHICH ST. FRANCIS GAVE BROTHER LEO.
+## IV. THE SHEET WHICH ST. FRANCIS GAVE BROTHER LEO.
 
 The earliest witness to this document is Thomas of Celano, who in his Second Life (written about 1247) records that “while the Saint was remaining secluded in his cell on Mount La Verna, one of the companions conceived a great desire to have some memorial from words of the Lord written by the hand of St. Francis and briefly annotated by him. . . . One day Blessed Francis called him, saying, ‘Bring me paper and ink, for I wish to write the words of God and His praises which I have been meditating in my heart.’ What he asked for being straightway brought, he writes with his own hand the praises of God and the words which he \[his companion\] wished, and lastly a blessing of the brother, saying: ‘Take this sheet (_chartulam_) for thyself and until the day of thy death guard it carefully.’ All temptation was at once driven away; the letter is kept and worked wonders for the time to come.” [^551]
 
@@ -53,19 +44,18 @@ To authenticate this relic Brother Leo himself added to it three notes; the firs
 
 An examination of the original autograph shows that, while the side of the sheet containing the Blessing is excellently preserved, the other one on which the Praises are written, is, for the most part, illegible and in consequence some variants are to be found in different MS. versions of it. After a careful collation of these MSS. with the autograph, the Quaracchi editors found the Assisi codex 344 more conformable to the original than any other. It is after this fourteenth century MS. of the library of the Sacro Convento and which appears to have been copied from the autograph, that the Quaracchi editors published the text which I now translate:—
 
-#### PRAISES OF GOD.
+## PRAISES OF GOD.
 
 Thou art holy, Lord God, who alone workest wonders. Thou art strong. Thou art great. Thou art most high. Thou art the Almighty King, Thou, holy Father, King of heaven and earth. Thou art the Lord God Triune and One; all good. Thou art good, all good, highest good, Lord God living and true. Thou art charity, love [^556] Thou art wisdom. Thou art humility. Thou art patience. Thou art security. Thou art quietude. Thou art joy and gladness. Thou
 
-[![Autograph Blessing Given by St. Francis to Brother Leo, Preserved in the Sacro Convento at Assisi](tn/14800.jpg)
-Click to enlarge](img/14800.jpg)
+![Autograph Blessing Given by St. Francis to Brother Leo, Preserved in the Sacro Convento at Assisi](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/14800.jpg)
 
 
 AUTOGRAPH BLESSING GIVEN BY ST. FRANCIS TO BROTHER LEO, PRESERVED IN THE SACRO CONVENTO AT ASSISI. (See page [146](#p146).) <span id="p149">[<sup><small>p. 149</small></sup>]</span> art justice and temperance. Thou art all riches to sufficiency. [^557] Thou art beauty. Thou art meekness. Thou art protector. Thou art guardian and defender. Thou art strength. Thou art refreshment. Thou art our hope. Thou art l our faith. Thou art our great sweetness. Thou art our eternal life, great and admirable Lord, God Almighty, merciful Saviour.
 
 After this expression of the mystical ardors which consumed the _Poverello_ comes:—
 
-### THE BLESSING OF BROTHER LEO.
+## THE BLESSING OF BROTHER LEO.
 
 May the Lord bless thee and keep thee. May He shew His face to thee and have mercy on thee. May He turn His countenance to thee and give thee peace. [^558] Brother Le**T**o [^559] may the Lord bless thee.
 

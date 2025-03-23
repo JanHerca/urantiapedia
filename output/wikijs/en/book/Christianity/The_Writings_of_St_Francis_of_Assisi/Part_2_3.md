@@ -32,18 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p119">[<sup><small>p. 119</small></sup>]</span>
 
-### III.
-
-### TO A CERTAIN MINISTER.
+## III. TO A CERTAIN MINISTER.
 
 The tenor of this letter seems to indicate that it was written before the confirmation of the Second Rule by Pope Honorius; [^482] and very likely in the early part of 1223. All the early MSS. attribute it to St. Francis and, as regards both matter and form, it closely resembles the Saint's other writings. There is, however, no small diversity of opinion as to whom it was addressed. But from the wording of the last paragraph of the letter, referring to the chapter: “thou wilt be there with thy brothers,” it would appear to have been sent to some provincial minister rather than to the minister general. Moreover, as Professor Goetz rightly remarks, [^483] the beginning of the letter implies that this minister had proposed some doubts or difficulties as to the manner of dealing with brothers who had fallen into sin. Hence the abrupt opening of the letter, “I speak to thee on the subject of thy soul,” etc., refers to some question which the letter is intended to answer, and from the fact that patience is commended “more than a hermitage,” the Quaracchi editors think we might infer that the minister in question was desirous of embracing a solitary life. Be this as it may, I am unable to <span id="p120">[<sup><small>p. 120</small></sup>]</span> agree with M. Sabatier in so far as he finds in this letter “more objurgations and reproaches than counsels.” [^484]
 
@@ -53,7 +44,7 @@ The complete text of this important letter was first <span id="p121">[<sup><smal
 
 Now for the text of the letter
 
-#### TO A CERTAIN MINISTER. [^494]
+## TO A CERTAIN MINISTER. [^494]
 
 _To Brother N. . . Minister; may Me Lord bless thee_.
 
@@ -94,7 +85,7 @@ In order that this writing may be able to be better observed, have it by thee un
 
 ## Footnotes
 
-[^482]: 119:1 It refers to “the chapters which speak of mortal sin” which are only found in the First Rule (see pp. [37](wosf06.htm#p37), [47](wosf06.htm#p47), [53](wosf06.htm#p53)), and speaks of proposed changes in the Rule which could not, as is clear, have been made after November, 1223. In particular the subject of the tenth chapter of the new Rule discussed in the Chapter held at Portiuncula, June 11th of that year (see _Spec. Perf._, ed. Sabatier, c. t), is mentioned as not yet definitely settled.
+[^482]: 119:1 It refers to “the chapters which speak of mortal sin” which are only found in the First Rule (see pp. [37](Part_1_4#p37), [47](Part_1_4#p47), [53](Part_1_4#p53)), and speaks of proposed changes in the Rule which could not, as is clear, have been made after November, 1223. In particular the subject of the tenth chapter of the new Rule discussed in the Chapter held at Portiuncula, June 11th of that year (see _Spec. Perf._, ed. Sabatier, c. t), is mentioned as not yet definitely settled.
 
 [^483]: 119:2 See _Quellen_, etc t. XXII, p. 547.
 
@@ -128,12 +119,12 @@ In order that this writing may be able to be better observed, have it by thee un
 
 [^498]: 123:1 The Neapolitan MS. for “appears” reads “sins.”
 
-[^499]: 123:2 Chaps. V, XIII, and XX of the first Rule. (See above, pp. [37](wosf06.htm#p37), [47](wosf06.htm#p47), and [53](wosf06.htm#p53).)
+[^499]: 123:2 Chaps. V, XIII, and XX of the first Rule. (See above, pp. [37](Part_1_4#p37), [47](Part_1_4#p47), and [53](Part_1_4#p53).)
 
 [^500]: 123:3 See Matt. 9: 12.
 
 [^501]: 123:4 Cod. O. reads: “another.”
 
-[^502]: 124:1 In chap. XX of the First Rule (see above, [p. 53](wosf06.htm#p53)). The passage enclosed in brackets is the part omitted by Wadding and those who have followed him.
+[^502]: 124:1 In chap. XX of the First Rule (see above, [p. 53](Part_1_4#p53)). The passage enclosed in brackets is the part omitted by Wadding and those who have followed him.
 
 [^503]: 124:2 See John 8: 11.

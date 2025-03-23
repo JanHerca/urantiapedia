@@ -32,22 +32,13 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p125">[<sup><small>p. 125</small></sup>]</span>
 
-### IV.
-
-### TO THE RULERS OF THE PEOPLE.
+## IV. TO THE RULERS OF THE PEOPLE.
 
 This letter is known to us only by the testimony of the Ven. Francis Gonzaga, O.F.M., [^504] who, speaking of the Province of Aragon in his work on the origin of the Seraphic Order, [^505] mentions that Bl. John Parenti, first Minister General after St. Francis (1227-1232), brought a copy of the letter into Spain. On the good faith of Gonzaga, Wadding included this letter in his edition of the _Opuscula_, where it figures as Epist. XV. As the style of the letter and the ideas it embodies corresponded so admirably with the writings of St. Francis, the Quaracchi editors and Professor Goetz, [^506] have not hesitated to accept it as genuine. No copy of the letter other than that transcribed by Wadding has so far been found, and it is according to his text of 1623 that it is here translated:—
 
-#### TO THE RULERS OF THE PEOPLE.
+## TO THE RULERS OF THE PEOPLE.
 
 To all _podestàs_, and consuls, judges and governors, in whatever part of the world, and to all others to whom this letter may come, Brother Francis, your little and contemptible servant, wishes health and peace to you.
 

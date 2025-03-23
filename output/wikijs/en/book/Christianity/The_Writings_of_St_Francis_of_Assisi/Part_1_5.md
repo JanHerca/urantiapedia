@@ -32,17 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p75">[<sup><small>p. 75</small></sup>]</span>
 
-### V.
-
-### FRAGMENTS FROM THE RULE OF THE SISTERS OF ST. CLARE.
+## V. FRAGMENTS FROM THE RULE OF THE SISTERS OF ST. CLARE.
 
 Of the “many writings” [^307] left by St. Francis to the Poor Ladies at St. Damian's, only two fragments are known to exist, and these have been preserved to us through St. Clare herself, in so far as she incorporated them in the sixth chapter of her Rule. We have it on the authority of Pope Gregory IX that St. Francis wrote for St. Clare and her first companions a _formula vitae_, or “little rule,” at the beginning of their religious life. [^308] But it was this same Pope Gregory IX, then known as Cardinal Ugolino, who about 1219 composed a Rule for the Poor Ladies, which was accepted by St. Francis and confirmed by Honorius III. [^309] This Rule, as the Pontiff himself declares, was solemnly professed by Clare and her Sisters and observed by them for many years in a praiseworthy manner. [^310] Pope Innocent IV bears witness to the same effect. Writing to Blessed Agnes, Princess of Bohemia (who had founded a house of the Second Order at Prague), of this Rule, written by Cardinal <span id="p76">[<sup><small>p. 76</small></sup>]</span> Ugolino, he says: The Sisters of the Monastery of St. Damian and all others of your Order have laudably observed it from the time of its profession _until now_." [^311] These words were written on November 13, 1243.
 
@@ -52,11 +44,11 @@ In the sixth chapter of this Rule, St. Clare describes the circumstances under w
 
 Both these pieces, which Wadding took for letters [^317] addressed to St. Clare, are here translated according to the text of the Rule contained in the original bull of Innocent IV. [^318] They are as follows:
 
-#### 1\. FORM OF LIFE WHICH ST. FRANCIS WROTE FOR ST. CLARE. [^319]
+### 1\. FORM OF LIFE WHICH ST. FRANCIS WROTE FOR ST. CLARE. [^319]
 
 Since, by divine inspiration, you have made yourselves daughters and handmaids of the Most <span id="p78">[<sup><small>p. 78</small></sup>]</span> High Sovereign King, the Heavenly Father, and have espoused yourselves to the Holy Ghost, choosing to live according to the perfection of the holy Gospel, I will, and I promise to have always, by myself and my brothers, a diligent care and special solicitude for you, as for them. [^320]
 
-#### 2\. LAST WISH WHICH ST. FRANCIS WROTE TO ST. CLARE.
+### 2\. LAST WISH WHICH ST. FRANCIS WROTE TO ST. CLARE.
 
 I, little brother Francis, wish to follow the life and poverty of Jesus Christ our Most High Lord and of His Most Holy Mother and to persevere therein until the end. And I beseech you all, my ladies, and counsel you, to live always in this most holy life and poverty. And watch yourselves well that you in no wise depart from it through the teaching or advice of any one.
 

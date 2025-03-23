@@ -32,26 +32,19 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p1">[<sup><small>p. 1</small></sup>]</span>
 
-PARTIE I.
-=======
+**PARTIE I.**
 
 <span id="p2">[<sup><small>p. 2</small></sup>]</span>
 
-ADMINISTRATIONS, RÈGLES, ETC.
-========================
+**ADMINISTRATIONS, RÈGLES, ETC.**
 
 <span id="p3">[<sup><small>p. 3</small></sup>]</span>
 
-### JE.
+## I. PAROLES D'ADMONITION DE NOTRE SAINT-PÈRE SAINT FRANÇOIS.
 
-### PAROLES D'ADMONITION DE NOTRE SAINT-PÈRE SAINT FRANÇOIS.
-
-![](img/00300.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/00300.jpg)
 
 Sous ce titre, une précieuse série de conseils spirituels sur la vie religieuse nous est parvenue de la plume de saint François. Les premières Légendes ne donnent aucune indication sur l'époque ou les circonstances de la composition de ces Admonitions ; il est également impossible de déterminer par qui elles ont été recueillies. Mais elles concordent si parfaitement avec les œuvres authentiques du saint et sont si imprégnées de son esprit que leur authenticité est admise par tous. [^73] De plus, les différents codex où l'on trouve ces Admonitions sont unanimes à les attribuer à saint François, tandis que le nombre des Admonitions [^74] et l'ordre dans lequel elles sont données dans les différents codex sont presque les mêmes que dans le codex laurentien de Florence, datant du XIIIe siècle.
 
@@ -63,9 +56,9 @@ Pour l'édition Quaracchi des Admonitions, sur laquelle est basée la présente 
 
 Voilà en guise de préface à la
 
-### ADMINISTRATIONS.
+## ADMINISTRATIONS.
 
-#### 1\. Du Corps du Seigneur
+### 1\. Du Corps du Seigneur
 
 Le Seigneur Jésus dit à ses disciples : « Je suis le Chemin, la Vérité et la Vie. Nul ne vient au Père que par moi. Si vous m'aviez connu, vous auriez certainement connu aussi mon Père ; et désormais vous le connaîtrez, et vous l'avez vu. » Philippe lui dit : Seigneur, montre-nous le Père, et cela nous suffit. Jésus lui dit : Il y a si longtemps que je suis avec vous, et vous ne m'avez pas connu ? Philippe, celui qui me voit voit aussi mon Père. Comment dis-tu : Montre-nous le Père ? » [^81] Le Père « habite une lumière inaccessible », [^82] et « Dieu est esprit », [^83] et « personne n'a jamais vu Dieu ». [^84] Parce que Dieu est esprit, c'est seulement par l'esprit qu'il peut être vu, car « c'est l'esprit qui vivifie ; la chair ne sert à rien ». [^85] Car le Fils, en tant qu'il est égal au Père, n'est vu par personne d'autre que par le Père, sinon par le Saint-Esprit. C'est pourquoi tous ceux qui ont vu le Seigneur Jésus-Christ selon l'humanité et n'ont pas vu et cru selon l'Esprit et la Divinité, qu'il était le Fils de Dieu, ont été condamnés. De même, tous ceux qui contemplent le sacrement du Corps du Christ, sanctifié par la parole du Seigneur sur l'autel par les mains du prêtre sous forme de pain et de vin, et qui ne voient pas et ne croient pas selon l'Esprit et la Divinité qu'il s'agit réellement du Corps et du Sang très saints de notre Seigneur Jésus-Christ, sont condamnés, Lui le Très-Haut l'ayant déclaré lorsqu'il a dit : « Ceci est mon Corps et le Sang de la Nouvelle Alliance », [^86] et « celui qui mange ma <span id="p7">[<sup><small>p. 7</small></sup>]</span> Chair et boit mon Sang a la vie éternelle. » [^87]
 
@@ -73,123 +66,123 @@ Français C'est pourquoi \[celui qui a\] [^88] l'Esprit du Seigneur qui habite d
 
 <span id="p8">[<sup><small>p. 8</small></sup>]</span>
 
-#### 2\. Le mal de la volonté propre.
+### 2\. Le mal de la volonté propre.
 
 Le Seigneur Dieu dit à Adam : « Tu mangeras de tous les arbres du paradis. Mais tu ne mangeras pas de l'arbre de la connaissance du bien et du mal. » [^94] Adam pouvait donc manger de tous les arbres du paradis et, tant qu'il ne transgressait pas l'obéissance, il ne péchait pas. Car celui qui mange de l'arbre de la connaissance du bien s'approprie sa propre volonté [^95] et s'enorgueillit des biens que le Seigneur publie et opère en lui, et ainsi, par la suggestion du diable et la transgression du commandement, il trouve la pomme de la connaissance du mal ; c'est pourquoi il convient qu'il subisse un châtiment.
 
-#### 3\. De l'obéissance parfaite et imparfaite.
+### 3\. De l'obéissance parfaite et imparfaite.
 
 Le Seigneur dit dans l'Évangile : « Celui qui ne renonce pas à tout ce qu'il possède ne peut être » disciple [^96] et « celui qui veut sauver sa vie la perdra ». [^97] Celui qui abandonne tout ce qu'il possède et perd son corps et son âme s'abandonne entièrement à l'obéissance entre les mains de son supérieur, et tout ce qu'il fait et dit – pourvu qu'il sache lui-même que ce qu'il fait est bon et non contraire à sa volonté [celle du supérieur] – est une véritable obéissance. Et si parfois un sujet voit des choses qui seraient meilleures ou plus utiles à son âme que celles que le supérieur lui commande, qu'il sacrifie sa volonté à Dieu, qu'il s'efforce d'accomplir l'œuvre prescrite par le supérieur. Telle est l'obéissance véritable et charitable, qui plaît à Dieu et au prochain.
 
 Si un supérieur ordonne à un sujet quelque chose qui soit contraire à son âme, il lui est permis de désobéir, mais il ne doit pas le quitter, et si, en conséquence, il subit des persécutions de la part de certains, il doit les aimer d'autant plus pour l'amour de Dieu. Car celui qui préfère subir des persécutions que de vouloir être séparé de ses frères demeure véritablement dans une obéissance parfaite, car il donne sa vie pour eux. [^98] Car nombreux sont les religieux qui, sous prétexte de voir des choses meilleures que celles que leurs supérieurs ordonnent, regardent en arrière [^99] et retournent au vomissement de leur propre volonté [^100]. Ce sont des homicides et, par leur mauvais exemple, causent la perte de nombreuses âmes.
 
-#### 4\. Que personne ne s'arroge la supériorité.
+### 4\. Que personne ne s'arroge la supériorité.
 
 « Je ne suis pas venu pour être servi, mais pour servir », dit le Seigneur. [^101] Que ceux qui sont placés au-dessus des autres se glorifient de cette supériorité autant que s’ils avaient été chargés de laver les pieds des frères ; et s’ils sont plus perturbés par la perte de leur supériorité qu’ils ne le seraient par la perte de la fonction de laver les pieds, d’autant plus <span id="p10">[<sup><small>p. 10</small></sup>]</span> ils amassent des trésors au péril de leur propre âme.
 
-#### 5\. Que personne ne se glorifie, sinon de la Croix du Seigneur.
+### 5\. Que personne ne se glorifie, sinon de la Croix du Seigneur.
 
 Considérez, ô homme, combien grande est l'excellence dans laquelle le Seigneur vous a placé, car il vous a créé et formé à l'image de son Fils bien-aimé, selon le corps, et à sa propre ressemblance, selon l'esprit. [^102] Et toutes les créatures qui sont sous le ciel servent, connaissent et obéissent à leur Créateur à leur manière, mieux que vous. Et même les démons ne l'ont pas crucifié, mais vous l'avez crucifié avec eux et le crucifiez encore en vous complaisant dans les vices et les péchés. Pourquoi donc pouvez-vous vous glorifier ? Si vous étiez si intelligent et sage que vous possédiez toute la science, et si vous saviez interpréter chaque forme de langage et examiner minutieusement les choses célestes, vous ne pourriez pas vous glorifier de tout cela, car un démon a connu plus de choses célestes et en sait encore plus sur les choses terrestres que tous les hommes, bien qu'il puisse y avoir un homme qui ait reçu du Seigneur une connaissance particulière de la sagesse souveraine. De même, quand vous seriez plus beaux et plus riches que tous les autres, et même quand vous pourriez faire des prodiges et mettre les démons en fuite, toutes ces choses vous sont nuisibles et ne vous appartiennent en rien, et vous ne pouvez vous en glorifier ; ce dont nous pouvons nous glorifier, c'est de nos faiblesses, et de porter chaque jour la sainte croix de notre Seigneur Jésus-Christ.
 
-#### 6\. De l'Imitation du Seigneur.
+### 6\. De l'Imitation du Seigneur.
 
 Considérons tous, frères, le Bon Pasteur qui, pour sauver ses brebis, a enduré les souffrances de la Croix. Les brebis du Seigneur l'ont suivi dans la tribulation, la persécution et la honte, dans la faim et la soif, dans l'infirmité et les tentations, et de toutes les autres manières ; [^104] et pour cela, elles ont reçu du Seigneur la vie éternelle. C'est donc une grande honte pour nous, serviteurs de Dieu, que, tandis que les saints ont pratiqué des œuvres, nous nous attendions à recevoir honneur et gloire pour les lire et les prêcher.
 
-#### 7\. Que les bonnes œuvres accompagnent la connaissance.
+### 7\. Que les bonnes œuvres accompagnent la connaissance.
 
 L'Apôtre dit : « La lettre tue, mais l'esprit vivifie. » [^105] Ceux qui cherchent seulement à connaître les mots pour être estimés plus savants parmi les autres et pour acquérir de grandes richesses à léguer à leurs parents et amis sont tués par la lettre. Et ceux qui ne suivent pas l'esprit des Saintes Écritures, mais cherchent plutôt à connaître seulement les mots et à les interpréter pour les autres, sont vivifiés par l'esprit des Saintes Écritures, ceux qui n'interprètent pas matériellement <span id="p12">[<sup><small>p. 12</small></sup>]</span> chaque texte qu'ils connaissent ou souhaitent connaître, mais qui, par la parole et l'exemple, les rendent à Dieu de qui vient tout bien.
 
-#### 8\. D'éviter le péché d'envie.
+### 8\. D'éviter le péché d'envie.
 
 Français L'Apôtre affirme que « nul ne peut dire le Seigneur Jésus si ce n'est par le Saint-Esprit » [^106] et « il n'y en a aucun qui fasse le bien, pas même un seul » [^107]. Quiconque donc envie son frère à cause du bien que le Seigneur dit ou fait en lui, commet un péché apparenté au blasphème, car il envie le Très-Haut lui-même qui dit et fait tout ce qui est bien.
 
-#### 9\. De l'amour.
+### 9\. De l'amour.
 
 Le Seigneur dit dans l'Évangile : « Aimez vos ennemis », etc. [^108] Il aime vraiment son ennemi celui qui ne s'attriste pas à cause du mal qui lui est fait, mais qui s'afflige par amour de Dieu à cause du péché sur l'âme de son frère et qui montre son amour par ses œuvres.
 
-#### 10\. De la mortification corporelle.
+### 10\. De la mortification corporelle.
 
 Nombreux sont ceux qui, s'ils commettent un péché ou subissent un tort, accusent souvent leur ennemi ou leur prochain. Mais cela n'est pas juste, car chacun a son ennemi en son pouvoir, à savoir le corps par lequel il pèche. C'est pourquoi heureux le serviteur qui tient toujours captif l'ennemi ainsi livré en son pouvoir et s'en préserve sagement, car tant qu'il agit ainsi, aucun autre ennemi, visible ou invisible, ne peut lui faire de mal.
 
-#### 11\. Qu'il ne faut pas se laisser séduire par le Mauvais Exemple. [^109]
+### 11\. Qu'il ne faut pas se laisser séduire par le Mauvais Exemple. [^109]
 
 Pour le serviteur de Dieu, rien ne devrait déplaire, si ce n'est le péché. Et quel que soit le péché commis, si le serviteur de Dieu est troublé ou irrité – si ce n'est par charité – il accumule des péchés. [^110] Le serviteur de Dieu qui ne se trouble ni ne s'irrite pour rien vit dans la droiture et sans péché. Et heureux celui qui ne garde rien pour lui-même, rendant « à César ce qui est à César, et à Dieu ce qui est à Dieu ». [^111]
 
-#### 12\. De la connaissance de l'Esprit de Dieu.
+### 12\. De la connaissance de l'Esprit de Dieu.
 
 Ainsi le serviteur de Dieu peut savoir s'il a l'Esprit de Dieu : si, lorsque le Seigneur opère quelque bien par lui, son corps, étant toujours en désaccord avec tout ce qui est bon, ne s'enfle pas pour autant ; mais s'il devient plutôt plus vil à ses propres yeux et s'il s'estime inférieur aux autres hommes. [^112]
 
 <span id="p14">[<sup><small>p. 14</small></sup>]</span>
 
-#### 13\. De la patience.
+### 13\. De la patience.
 
 On ne peut savoir combien de patience et d'humilité intérieures un serviteur de Dieu peut avoir, tant qu'il est content. [^113] Mais quand vient le temps où ceux qui devraient lui plaire se rebellent contre lui, autant il montre alors de patience et d'humilité, autant il en a et rien de plus.
 
-#### 14\. De la pauvreté d'esprit.
+### 14\. De la pauvreté d'esprit.
 
 « Heureux les pauvres en esprit, car le royaume des cieux est à eux. » [^114] Beaucoup s'adonnent aux prières et aux offices, pratiquent l'abstinence et la mortification corporelle, mais à cause d'un seul mot qui semble blesser leur corps ou parce qu'on leur enlève quelque chose, ils sont aussitôt scandalisés et troublés. Ceux-là ne sont pas pauvres en esprit : car celui qui est vraiment pauvre en esprit se hait lui-même et aime ceux qui le frappent. [^115]
 
-#### 15\. Des artisans de paix.
+### 15\. Des artisans de paix.
 
 « Heureux les artisans de paix, car ils seront appelés fils de Dieu. » [^116] Ce sont de véritables artisans de paix qui, au milieu de toutes leurs souffrances dans ce monde, maintiennent la paix dans leur âme et dans leur corps pour l’amour de notre Seigneur Jésus-Christ.
 
 <span id="p15">[<sup><small>p. 15</small></sup>]</span>
 
-#### 16\. De la pureté du cœur.
+### 16\. De la pureté du cœur.
 
 « Heureux ceux qui ont le cœur pur, car ils verront Dieu. » [^117] Sont purs de cœur ceux qui méprisent les choses terrestres et recherchent toujours celles du ciel, et qui ne cessent d'adorer et de contempler le Seigneur Dieu Vivant et Vrai, avec un cœur et un esprit purs.
 
-#### 17\. De l'humble serviteur de Dieu.
+### 17\. De l'humble serviteur de Dieu.
 
 Heureux ce serviteur qui ne s'enfle pas d'orgueil à cause du bien que le Seigneur dit et opère par lui, plutôt qu'à cause de celui qu'il dit et opère par d'autres. Commet un péché celui qui veut recevoir de son prochain plus qu'il n'est disposé à donner au Seigneur Dieu.
 
-#### 18\. De la compassion envers son prochain.
+### 18\. De la compassion envers son prochain.
 
 Heureux l'homme qui supporte son prochain selon la fragilité de sa nature, autant qu'il souhaiterait être supporté par lui s'il se trouvait dans un cas semblable.
 
-#### 19\. Du serviteur heureux et malheureux.
+### 19\. Du serviteur heureux et malheureux.
 
 Heureux le serviteur qui abandonne tous ses biens au Seigneur Dieu, car celui qui garde quelque chose pour lui-même cache « l’argent de son maître » [^118] et ce « qu’il croit avoir lui sera enlevé » [^119].
 
 <span id="p16">[<sup><small>p. 16</small></sup>]</span>
 
-#### 20\. Des bons et humbles religieux.
+### 20\. Des bons et humbles religieux.
 
 Heureux le serviteur qui ne se croit pas meilleur, lorsqu'il est estimé et vanté par les hommes, que lorsqu'il est réputé vil, simple et méprisable ; car ce qu'un homme est aux yeux de Dieu, il l'est autant, et rien de plus. [^120] Malheur au religieux élevé en dignité par d'autres, et qui, de son propre gré, n'est pas prêt à descendre. Et heureux le serviteur élevé en dignité sans l'avoir voulu, et qui désire toujours être sous les pieds des autres.
 
-#### 21\. Des religieux heureux et vaniteux.
+### 21\. Des religieux heureux et vaniteux.
 
 Heureux le religieux qui n'éprouve de plaisir ni de joie que dans les conversations très saintes et les œuvres du Seigneur, et qui, par ces moyens, conduit les hommes [^121] à l'amour de Dieu dans la joie et l'allégresse. Et malheur au religieux qui se complaît dans des paroles vaines et oiseuses et, par ce moyen, provoque le rire.
 
-#### 22\. Des religieux frivoles et bavards. [^122]
+### 22\. Des religieux frivoles et bavards. [^122]
 
 Heureux le serviteur qui ne parle pas par espoir de récompense, qui ne manifeste pas tout et ne se hâte pas de parler, [^123] mais qui <span id="p17">[<sup><small>p. 17</small></sup>]</span> prévoit sagement ce qu'il doit dire et répondre. Malheur au religieux qui, ne cachant pas dans son cœur les bonnes choses que le Seigneur lui a révélées et ne les manifestant pas aux autres par son œuvre, cherche plutôt, par espoir de récompense, à les faire connaître aux hommes par des paroles : car il reçoit déjà sa récompense et ses auditeurs portent peu de fruit.
 
-#### 23\. De la vraie correction.
+### 23\. De la vraie correction.
 
 Heureux le serviteur qui supporte la discipline, les accusations et les reproches des autres avec autant de patience que s'ils venaient de lui-même. Heureux le serviteur qui, lorsqu'il est réprimandé, se soumet avec douceur, obéit modestement, confesse humblement et satisfait volontiers. Heureux le serviteur qui n'est pas prompt à s'excuser et qui supporte humblement la honte et la réprimande pour son péché alors qu'il est sans faute.
 
-#### 24\. De la véritable humilité. [^124]
+### 24\. De la véritable humilité. [^124]
 
 Heureux celui qui se montrera aussi humble parmi ses sujets que s'il était parmi ses maîtres. Heureux le serviteur qui demeure toujours sous la verge de la correction. C'est un « serviteur fidèle et sage » [^126] qui ne tarde pas à se punir de toutes ses offenses, intérieurement par la contrition, extérieurement par la confession et par des œuvres de satisfaction.
 
 <span id="p18">[<sup><small>p. 18</small></sup>]</span>
 
-#### 25\. Du véritable amour.
+### 25\. Du véritable amour.
 
 Heureux le frère qui aime son frère autant lorsqu'il est malade et incapable de l'assister que lorsqu'il est en bonne santé et capable de l'assister. Heureux le frère qui aime et craint son frère autant lorsqu'il est loin de lui que lorsqu'il est avec lui, et qui ne dit rien de lui dans son dos qu'il ne puisse dire avec charité en sa présence.
 
-#### 26\. Que les Serviteurs de Dieu honorent les Clercs.
+### 26\. Que les Serviteurs de Dieu honorent les Clercs.
 
 Heureux le serviteur de Dieu qui fait confiance aux clercs qui vivent dans la droiture, selon la forme de la sainte Église romaine. Malheur à ceux qui les méprisent ! Car, même s'ils sont pécheurs, nul ne doit les juger, car le Seigneur lui-même se réserve le droit de les juger. Car, de même que l'administration qui leur est confiée, à savoir le Corps et le Sang très saints de notre Seigneur Jésus-Christ, qu'ils reçoivent et qu'eux seuls administrent aux autres, est plus grande que toute autre, de même le péché de ceux qui les offensent est plus grand que celui de tous les autres hommes de ce monde.
 
 <span id="p19">[<sup><small>p. 19</small></sup>]</span>
 
-#### 27\. Des Vertus mettant les Vices en fuite.
+### 27\. Des Vertus mettant les Vices en fuite.
 
 Là où règnent la charité et la sagesse, il n'y a ni crainte ni ignorance. Là où règnent la patience et l'humilité, il n'y a ni colère ni inquiétude. [^127] Là où règnent la pauvreté et la joie, il n'y a ni cupidité ni avarice. Là où règnent le calme et la méditation, il n'y a ni sollicitude ni dissipation. Là où règne la crainte du Seigneur pour garder la maison, l'ennemi ne peut trouver d'entrée. Là où règnent la miséricorde et la discrétion, il n'y a ni superfluité ni endurcissement.
 
-#### 28\. De cacher le bien de peur qu'il ne soit perdu.
+### 28\. De cacher le bien de peur qu'il ne soit perdu.
 
 Heureux le serviteur qui accumule dans le ciel [^128] les bonnes choses que le Seigneur lui montre et qui ne veut pas les révéler aux hommes dans l'espoir d'une récompense, car le Très-Haut lui-même manifestera ses œuvres à qui il veut. Heureux le serviteur qui garde les secrets du Seigneur dans son cœur ! [^129]
 
@@ -234,38 +227,14 @@ Heureux le serviteur qui accumule dans le ciel [^128] les bonnes choses que le S
 [^79]: 5:2 Dans cette édition, que Wadding a suivie (fol. 21 v.), les nos. 20, 21 et 23 sont répétés.
 
 [^80]: 5:3 Aux endroits où des variantes sont notées au bas de la page, les abréviations suivantes seront utilisées :
-
-L.
-
-Codex laurentien.
-
-Comme.
-
-Codex d'Assise.
-
-O.
-
-Codex Ognissanti.
-
-Un.
-
-Codex au Collège Saint-Antoine.
-
-Est.
-
-Codex au Collège Saint-Isidore.
-
-_Lun._
-
-Version des _Monumenta_.
-
-_Ferme._
-
-Version du _Firmamenta_.
-
-Pis.
-
-Version donnée par Barthélemy de Pise dans ses _Conformités_.
+  L. &nbsp; &nbsp; &nbsp; &nbsp;Codex laurentien.
+  Comme. &nbsp; &nbsp; &nbsp; &nbsp;Codex d'Assise.
+  O. &nbsp; &nbsp; &nbsp; &nbsp;Codex Ognissanti.
+  Un. &nbsp; &nbsp; &nbsp; &nbsp;Codex au Collège Saint-Antoine.
+  Est. &nbsp; &nbsp; &nbsp; &nbsp;Codex au Collège Saint-Isidore.
+  _Lun._ &nbsp; &nbsp; &nbsp; &nbsp;Version des _Monumenta_.
+  _Ferme._ &nbsp; &nbsp; &nbsp; &nbsp;Version du _Firmamenta_.
+  Pis. &nbsp; &nbsp; &nbsp; &nbsp;Version donnée par Barthélemy de Pise dans ses _Conformités_.
 
 [^81]: 6:1 Jean 14: 6-9.
 

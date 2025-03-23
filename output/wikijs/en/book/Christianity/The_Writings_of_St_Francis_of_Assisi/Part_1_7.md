@@ -32,24 +32,15 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p87">[<sup><small>p. 87</small></sup>]</span>
 
-### VII.
-
-### OF LIVING RELIGIOUSLY IN A HERMITAGE.
+## VII. OF LIVING RELIGIOUSLY IN A HERMITAGE.
 
 We learn from St. Bonaventure [^354] and the _Fioretti_ [^355] that as companions began to flock to St. Francis, the man of God hesitated for a while between adopting a life of prayer or of preaching. Although, as we know, he finally decided in favor of the apostolate, yet withal he never altogether separated the contemplative from the active life. A precious witness to this fact is found in the Regulation for the brothers during their sojourn in hermitages with which we are now concerned. To understand the scope of this peculiar piece of legislation, it must be borne in mind that at the beginning of the Franciscan movement the friars had no settled domicile. [^356] The wide world was their cloister. [^357] Possessing nothing they wandered about like children careless of the day, teaching or preaching, passing the night in hay-lofts or under church <span id="p88">[<sup><small>p. 88</small></sup>]</span> porches, in lazarettos, or deserted huts and grottoes. [^358] The need of having some kind of permanent retreat where they might retire at times to pray or rest, resulted in the institution of hermitages. These little solitudes, to which Francis loved to withdraw, may be found wherever the Saint went. The Celle near Cortina, the Careen on Mount Subasio, Greccio in the valley of Rieti, and the more solitary hermitages, like Lo Speco, form, as some one has said, a series of documents, about St. Francis’ life, quite as important as the written ones. And not a little of his spirit still lingers in such of these hermitages as yet remain. It was for the government of small _loci_ [^359] like these that the present special little Rule was written. Its attribution to St. Francis has not been questioned. The quaint simplicity of its conception proclaims its authenticity, and in none of the codices does it bear the name of any other author than St. Francis. It may have been written about 1217; its composition certainly belongs to the first decade of. the Order.
 
 In the ancient collections of St. Francis’ writings found in the codices at Florence (Ognissanti), Foligno, Rome (St. Isidore's MS. 1/25 and the Vatican MS. 7650), as well as in copies of the compilation which begins _Fac secundum exemplar_, this Instruction is found at the end of the Admonitions. But in the greater number of the early Codices the Admonitions close as in the present translation, and the <span id="p89">[<sup><small>p. 89</small></sup>]</span> opuscule on hermitages is preferably separated from them, as it is in the Assisian codex and that of St. Isidore's, Rome (MS. 1/73). The text which follows is based on the Assisi MS., which has been collated with that of Ognissanti and those at St. Isidore's and with the version of this Regulation given by Bartholomew of Pisa in his _Conformities_. [^360] Here is the text:
 
-#### OF LIVING RELIGIOUSLY IN A HERMITAGE.
+## OF LIVING RELIGIOUSLY IN A HERMITAGE.
 
 Let those who wish to live religiously in hermitages, be three brothers or four at most. Let two of them be mothers and have two sons, or at least one. Let the two former lead the life of Martha and the other two the life of Mary Magdalene. [^361]
 
@@ -90,7 +81,7 @@ And they must not allow any [^366] person to enter into the cloister where they 
 
 [^355]: 87:2 See _Floretum S. Francisci_, ed. Sabatier, cap. 16, p. 60. This chapter, which is one of the most interesting from a critical point of view, represents St. Francis as consulting St. Clare and Brother Sylvester on the subject of his doubt.
 
-[^356]: 87:3 See First Rule, chap. vii (above, [p. 40](wosf06.htm#p40)); also _Speculum Perf._, ed. Sabatier, pp. 25-26.
+[^356]: 87:3 See First Rule, chap. vii (above, [p. 40](Part_1_4#p40)); also _Speculum Perf._, ed. Sabatier, pp. 25-26.
 
 [^357]: 87:4 As is most poetically described by the author of the _Sacrum Commercium_. Show me your cloister, asks the Lady Poverty of the friars. And they, leading her to the summit of a hill, showed her the wide world, saying: This is our cloister, O Lady Poverty. (See _The Lady Poverty_, by M. Carmichael, p. 128.)
 

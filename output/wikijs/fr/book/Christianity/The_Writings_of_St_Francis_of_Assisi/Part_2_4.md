@@ -32,18 +32,13 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p125">[<sup><small>p. 125</small></sup>]</span>
 
-### IV.
-
-### AUX DIRIGEANTS DU PEUPLE.
+## IV. AUX DIRIGEANTS DU PEUPLE.
 
 Cette lettre ne nous est connue que par le témoignage du Vénérable François de Gonzague, OFM, [^504] qui, parlant de la Province d'Aragon dans son ouvrage sur l'origine de l'Ordre Séraphique, [^505] mentionne que le bienheureux Jean Parenti, premier Ministre Général après saint François (1227-1232), en apporta une copie en Espagne. Sur la bonne foi de Gonzague, Wadding incluit cette lettre dans son édition des Opuscula, où elle figure sous le titre d'Épître XV. Le style de la lettre et les idées qu'elle contient correspondant si admirablement aux écrits de saint François, les éditeurs Quaracchi et le professeur Goetz, [^506] n'ont pas hésité à la considérer comme authentique. Aucune copie de la lettre autre que celle transcrite par Wadding n'a été retrouvée jusqu'à présent, et c'est d'après son texte de 1623 qu'elle est traduite ici :
 
-#### AUX DIRIGEANTS DU PEUPLE.
+## AUX DIRIGEANTS DU PEUPLE.
 
 A tous les podestats, consuls, juges et gouverneurs, en quelque partie du monde que ce soit, et à tous ceux à qui cette lettre parviendra, frère François, votre petit et méprisable serviteur, vous souhaite santé et paix.
 

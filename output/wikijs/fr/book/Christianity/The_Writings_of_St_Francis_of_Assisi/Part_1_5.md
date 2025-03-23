@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p75">[<sup><small>p. 75</small></sup>]</span>
 
-### V.
-
-### FRAGMENTS DE LA RÈGLE DES SŒURS DE SAINTE-CLAIRE.
+## V. FRAGMENTS DE LA RÈGLE DES SŒURS DE SAINTE-CLAIRE.
 
 Des « nombreux écrits » [^307] laissés par saint François aux Pauvres Dames de Saint-Damien, seuls deux fragments nous sont connus, et ceux-ci nous ont été conservés par sainte Claire elle-même, dans la mesure où elle les a incorporés au sixième chapitre de sa Règle. Nous savons, par l'autorité du pape Grégoire IX, que saint François écrivit pour sainte Claire et ses premières compagnes une _formula vitae_, ou « petite règle », au début de leur vie religieuse. [^308] Mais c'est ce même pape Grégoire IX, alors connu sous le nom de cardinal Ugolin, qui composa vers 1219 une Règle pour les Pauvres Dames, qui fut acceptée par saint François et confirmée par Honorius III. [^309] Cette Règle, comme le déclare le Pontife lui-même, fut solennellement professée par Claire et ses sœurs et observée par elles pendant de nombreuses années d'une manière louable. [^310] Le pape Innocent IV en témoigne. Écrivant à la bienheureuse Agnès, princesse de Bohême (qui avait fondé une maison du Second Ordre à Prague), au sujet de cette Règle, écrite par le cardinal <span id="p76">[<sup><small>p. 76</small></sup>]</span> Ugolino, il dit : Les sœurs du monastère de Saint-Damien et toutes les autres de votre Ordre l'ont louablement observée depuis le moment de leur profession _jusqu'à présent_." [^311] Ces mots ont été écrits le 13 novembre 1243.
 
@@ -49,11 +44,11 @@ Au sixième chapitre de cette Règle, sainte Claire décrit les circonstances de
 
 Ces deux pièces, que Wadding prenait pour des lettres [^317] adressées à sainte Claire, sont ici traduites selon le texte de la Règle contenue dans la bulle originale d'Innocent IV. [^318] Elles sont les suivantes :
 
-#### 1\. FORME DE VIE QUE SAINT FRANÇOIS A ÉCRITE POUR SAINTE CLAIRE. [^319]
+### 1\. FORME DE VIE QUE SAINT FRANÇOIS A ÉCRITE POUR SAINTE CLAIRE. [^319]
 
 Puisque, par inspiration divine, vous vous êtes faites filles et servantes du Très-Haut Souverain Roi, le Père céleste, et que vous vous êtes fiancées au Saint-Esprit, choisissant de vivre selon la perfection du saint Évangile, j'aurai, et je promets d'avoir toujours, de moi-même et de mes frères, un soin diligent et une sollicitude particulière pour vous comme pour eux. [^320]
 
-#### 2\. DERNIER VŒU QUE SAINT FRANÇOIS A ÉCRIT À SAINTE CLAIRE.
+### 2\. DERNIER VŒU QUE SAINT FRANÇOIS A ÉCRIT À SAINTE CLAIRE.
 
 Moi, petit frère François, je désire suivre la vie et la pauvreté de Jésus-Christ notre Très-Haut Seigneur et de sa Très Sainte Mère et y persévérer jusqu'à la fin. Et je vous exhorte toutes, mesdames, et je vous conseille de vivre toujours dans cette vie très sainte et pauvre. Et veillez bien à ne vous en écarter en aucune façon, par l'enseignement ou les conseils de qui que ce soit.
 

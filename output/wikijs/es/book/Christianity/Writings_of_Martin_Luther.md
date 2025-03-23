@@ -44,7 +44,7 @@ Esta página tiene una selección de los escritos de Martín Lutero.
 		- [Catecismo Mayor — El Octavo Mandamiento.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_8)
 		- [Catecismo Mayor — Noveno y Décimo Mandamientos](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_9)
 		- [Catecismo Mayor — Conclusión de los Diez Mandamientos.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_Conclusion)
-	- [Segunda Parte. DEL CREDO.](/en/book/Christianity/Writings_of_Martin_Luther/Catecismo_Grande_2_0)
+	- [Segunda Parte. DEL CREDO.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_0)
 		- [Catecismo Mayor — Artículo I](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_1)
 		- [Catecismo Mayor — Artículo II.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_2)
 		- [Catecismo Mayor — Artículo III.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_3)

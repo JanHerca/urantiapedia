@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p79">[<sup><small>p. 79</small></sup>]</span>
 
-### VI.
-
-### TESTAMENT DU SAINT-PÈRE SAINT FRANÇOIS.
+## VI. TESTAMENT DU SAINT-PÈRE SAINT FRANÇOIS.
 
 L'opuscule que saint François appelait son Testament est un document précieux et de la plus haute autorité. Renan en a certes nié l'authenticité, mais avec témérité, car, comme le remarque justement M. Sabatier [^321], celle-ci ne saurait être mise en doute [^322]. Le Testament correspond en tous points aux autres écrits de saint François, et révèle d'ailleurs son caractère et son esprit à chaque ligne. Mais nous n'en sommes pas réduits à des preuves internes de son authenticité. Français Tous les historiens, y compris Thomas de Celano, [^323] et saint Bonaventure, [^324] le mentionnent, [^325] tandis que Grégoire IX le cite textuellement dans sa bulle _Quo elongati_ du 28 septembre 1230. Nous savons par cette bulle que le Testament du saint fut publié quelques jours seulement avant sa mort [^326]. Tout semble indiquer qu'il a été écrit à l'ermitage de la Celle près de Cortone, pendant le dernier séjour de saint François dans cette ville (été 1226), bien que certains pensent qu'il ait été dicté à Ange Tancrède, l'un des Trois Compagnons, dans la petite cabane la plus proche de la Portioncule qui servait d'infirmerie et dans laquelle saint François mourut.
 
@@ -47,7 +42,7 @@ Selon M. Sabatier, saint François a écrit plus d'un testament. En effet, le cr
 
 Français Le Testament se trouve parmi les œuvres de saint François dans douze des codex décrits ci-dessus, [^330] à <span id="p81">[<sup><small>p. 81</small></sup>]</span> à savoir ceux d'Assise, [^331] de Berlin, de Florence (MSS d'Ognissanti), de Saint-Florian, de Liegnitz, de Paris (Nat. lib. et Mazarin MSS. 989), de Prague et de Rome (Saint-Antoine et les deux MSS du Vatican), ainsi que dans un MS du XVe siècle à La Haye (Municip. lib. cod. K. 54, fol. 3 v). Le texte traduit ici est celui du codex d'Assise, collationné avec ceux d'Ognissanti (Florence) et de Saint-Antoine (Rome), ainsi qu'avec les versions du Testament contenues dans les Monumenta (fol. 274 v) et les Firmamenta [^332] (fol. 16 v). Ici commence :
 
-#### TESTAMENT DU SAINT-PÈRE SAINT FRANÇOIS.
+## TESTAMENT DU SAINT-PÈRE SAINT FRANÇOIS.
 
 Le Seigneur m'a donné, à frère François, de commencer ainsi ma pénitence ; car lorsque j'étais dans le péché, il me semblait très amer de voir des lépreux, et le Seigneur lui-même m'a conduit parmi eux et je leur ai fait miséricorde. [^333] Et lorsque je les ai quittés, ce qui m'avait semblé amer s'est transformé pour moi en douceur de corps et d'âme. Et ensuite, je suis resté un peu et j'ai quitté le monde. Et le Seigneur m'a donné tant [^334] de foi <span id="p82">[<sup><small>p. 82</small></sup>]</span> dans les églises que je priais simplement et disais ainsi : « Nous t'adorons Seigneur Jésus-Christ ici [^335] et dans toutes tes églises qui sont dans le monde entier, et nous te bénissons parce que par ta sainte croix tu as racheté le monde. »
 
@@ -111,7 +106,7 @@ Et quiconque observera ces choses [^351] sera comblé au ciel de la bénédictio
 
 [^329] : 80 : 2 Voir _Documenta Antiqua Franciscana_, P. II, p. 60.
 
-[^330]: 80:3 Voir page [3](wosf03.htm#p3).
+[^330]: 80:3 Voir page [3](Part_1_1#p3).
 
 [^331]: 81:1 Le texte du Testament donné par M. Sabatier dans son édition du _Speculum Perf._ est celui de ce manuscrit d'Assise.
 

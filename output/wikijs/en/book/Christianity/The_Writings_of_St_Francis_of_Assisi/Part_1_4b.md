@@ -32,14 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
-### SECOND RULE OF THE FRIARS MINOR. [^289]
+## SECOND RULE OF THE FRIARS MINOR. [^289]
 
 1.—_In the Name of the Lord begins the life of the Minor Brothers_.
 
@@ -130,7 +123,7 @@ Moreover, I enjoin on the ministers, by obedience, that they ask of the Lord Pop
 
 [^290]: 65:1 See Matt. 19: 21.
 
-[^291]: 66:1 See above, page [34](wosf06.htm#p34), note [2](wosf06.htm#fn_177).
+[^291]: 66:1 See above, page [34](Part_1_4#p34), note [2](Part_1_4#fn_177).
 
 [^292]: 66:2 Luke 9: 62.
 

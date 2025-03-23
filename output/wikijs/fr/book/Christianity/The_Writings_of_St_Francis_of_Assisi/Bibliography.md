@@ -32,9 +32,6 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p189">[<sup><small>p. 189</small></sup>]</span>
 
 ### BIBLIOGRAPHIE.
@@ -141,7 +138,7 @@ _Miscellanea Francescana di Storia di Lettere, di Arti_. Foligno.
 
 _Monumenta Germaniae Historica_. Berlin.
 
-Professeur Karl Müller : _Anfänge des Minoritenordens und der_ [_Bussbrüderschaften_](errata.htm#5). Fribourg, 1885.
+Professeur Karl Müller : _Anfänge des Minoritenordens und der_ _Bussbrüderschaften_. Fribourg, 1885.
 
 AF Ozanam : _Les Poètes Franciscains en Italie au Treizième Siècle_. Paris, 1882, 6e éd.
 
@@ -177,7 +174,7 @@ Le P. Van Ortroy, SJ Pour son article sur l'_Opuscula_ de saint François, voir 
 
 Le P. Luke Wadding, OFM : _Annales Minorum_. [^629] _B. P. Francisci Assisiatis Opuscula_. Anvers, 1623. _Scriptores Ordinis Minorum_. Rome, 1650.
 
-![](img/19500.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/19500.jpg)
 
 <figure class="table chapter-navigator">
   <table>

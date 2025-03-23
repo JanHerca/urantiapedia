@@ -32,22 +32,13 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p22">[<sup><small>p. 22</small></sup>]</span>
 
-### III.
-
-### ON REVERENCE FOR THE LORD'S BODY AND ON THE CLEANLINESS OF THE ALTAR.
+## III. ON REVERENCE FOR THE LORD'S BODY AND ON THE CLEANLINESS OF THE ALTAR.
 
 The arguments already adduced to establish the authenticity of the Admonitions may also be used in behalf of this instruction addressed “to all clerics.” It is found in eight of the codices above mentioned—to wit, those of Assisi, Liegnitz, Paris (both Mazarin MSS. and at lib. of Prot. theol. fac.), Rome (St. Antony's and St. Isidore's MS. 1/73), and Düsseldorf. In Wadding's edition of the _Opuscula_ this instruction on the Blessed Sacrament is placed among the letters of St. Francis [^137] (No. XIII), but the early codices do not give it in an epistolary form, [^138] but rather as it is printed here without address or salutation. For the present edition the Assisian codex [^139] has <span id="p23">[<sup><small>p. 23</small></sup>]</span> been used as well as the codices of St. Antony's and St. Isidore's at Rome. The text is as follows:
 
-#### ON REVERENCE FOR THE LORD'S BODY AND ON THE CLEANLINESS OF THE ALTAR.
+## ON REVERENCE FOR THE LORD'S BODY AND ON THE CLEANLINESS OF THE ALTAR.
 
 Let us all consider, O clerics, the great sin and ignorance of which some are guilty regarding the most holy Body and Blood of our Lord Jesus Christ and His most holy Name and the written words of consecration. For we know that the Body cannot exist until after these words of consecration. For we have nothing and we see nothing of the Most High Himself in this world except \[His\] Body and Blood, names and words by which we have been created and redeemed from death to life.
 

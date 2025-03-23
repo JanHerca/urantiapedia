@@ -32,24 +32,15 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p127">[<sup><small>p. 127</small></sup>]</span>
 
-### V.
-
-### TO ALL THE CUSTODES.
+## V. TO ALL THE CUSTODES.
 
 Wadding seems to have known of this letter indirectly. At least he gives us a shorter letter addressed to the custodes. The beginning of the epistle he numbers XIV is similar to the one which is translated here and seems to be an incomplete summary of the latter. It is difficult, however, to decide conclusively, since the original form of the letter, which Wadding translated from the Spanish, is wanting. The solution of the question would be to ascertain from what source this Spanish letter was drawn.
 
 The letter was first published in its present form by M. Sabatier in 1900 from a fourteenth century MS. in the Guarnacci library at Volterra. [^512] The Quaracchi text is also based on this codex, than which no other version of the letter is known to exist. Internal arguments might, however, be adduced to establish the authenticity of the letter, which is as follows:—
 
-#### TO ALL THE CUSTODES.
+## TO ALL THE CUSTODES.
 
 To all the custodes of the Brothers Minor to whom this letter shall come, Brother Francis, your servant and little one in the Lord God, sends greeting with new signs of heaven and earth [^513] which on the part of the Lord are great and most excellent and which are accounted least of all by many religious and by other men.
 
@@ -92,7 +83,7 @@ And to whomsoever of my brothers, custodes, this writing shall come, let them co
 
 ## Footnotes
 
-[^512]: 127:1 Cod. 225, mentioned above ([p. 110](wosf13.htm#p110)). See Sabatier's Bartholi, p. 135.
+[^512]: 127:1 Cod. 225, mentioned above ([p. 110](Part_2_2#p110)). See Sabatier's Bartholi, p. 135.
 
 [^513]: 127:2 Seemingly an allusion to the mysteries of the Eucharist.
 

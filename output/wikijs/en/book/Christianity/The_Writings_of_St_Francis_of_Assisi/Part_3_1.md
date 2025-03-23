@@ -32,28 +32,17 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p134">[<sup><small>p. 134</small></sup>]</span> p. 135
 
-PART III
-========
+**PART III**
 
 <span id="p136">[<sup><small>p. 136</small></sup>]</span>
 
-PRAYERS OF ST. FRANCIS
-======================
+**PRAYERS OF ST. FRANCIS**
 
 <span id="p137">[<sup><small>p. 137</small></sup>]</span>
 
-### I.
-
-### THE PRAISES.
+## I. THE PRAISES.
 
 THIS opuscule is composed of two parts: a paraphrase of the Lord's Prayer and the Praises properly so-called. It is contained in all the early MS. collections of St. Francis’ works [^527] either in its entirety as it is given here, or in part—that is, the Paraphrase without the Praises or vice versa. With the exception of a single codex which attributes the paternity of this paraphrase to the Blessed Brother Giles, [^528] the third companion of St. Francis, the MSS. authorities are unanimous in ascribing the entire work to St. Francis. This fact, taken in conjunction with the internal argument in its favor, puts the authority of the Praises beyond doubt, in the opinion of the Quaracchi editors. M. Sabatier is of like mind and even expresses regret [^529] that Professor Boehmer [^530] should have been <span id="p138">[<sup><small>p. 138</small></sup>]</span> misled into classing the Praises as doubtful or unauthentic. Those who accept the French critic's views as to the value of his _Speculum Perfectionis_ will find in that remarkable work an additional argument in favor of the genuinity of the complete opuscule now engaging our attention. In particular M. Sabatier applies to the present Praises what is said in the _Speculum_ of the penance imposed by St. Francis on the brothers at Portiuncula for speaking idle words. [^531]
 
@@ -61,7 +50,7 @@ The Quaracchi Fathers have edited the text of the Praises according to the Assis
 
 <span id="p139">[<sup><small>p. 139</small></sup>]</span>
 
-#### PRAISES.
+## PRAISES.
 
 Here are begun the Praises which the most blessed Father Francis composed; and he said them at all the Hours of the day and night and before the Office of the Blessed Virgin Mary, beginning thus: “Our Father, most holy, who art in heaven,” etc., with “Glory be to the Father.” Then the Praises, Holy, Holy, etc., are to be said. [^533]
 

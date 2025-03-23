@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p96">[<sup><small>p. 96</small></sup>]</span>
 
-### JE.
-
-### LETTRE À TOUS LES FIDÈLES.
+## I. LETTRE À TOUS LES FIDÈLES.
 
 L'authenticité de cette lettre n'a jamais été remise en question. Le texte lui-même et le consensus des codex témoignent de son authenticité. Son inspiration est, comme l'ont souligné les éditeurs Quaracchi, proche de celle d'autres écrits de saint François. De plus, nombre des sentiments contenus dans cette lettre, rédigés en grande partie avec les mots de l'Évangile, sont exprimés par le saint dans un langage presque identique à celui des Règles et ailleurs. [^374]
 
@@ -53,7 +48,7 @@ Français La lettre à tous les fidèles peut être trouvée entière dans dix-s
 
 On trouve également des fragments de la lettre dans les codex de Lüttich (fol. 158) ; de Naples (F. 24, fol. 107) et de Volterra (fol. 148). [^380] Pour le texte contenu dans l'édition Quaracchi, les éditeurs ont pris comme base les manuscrits d'Assise et d'Ognissanti, en les collationnant avec les codex de Saint-Isidore et avec les versions de la lettre données dans les Monumenta (trait II, fol. 278 r) et les Conformités (fruct. XII, p. 11). [^381] C'est le texte de Quaracchi que j'ai traduit ici comme suit :
 
-### 1.—LETTRE À TOUS LES FIDÈLES.
+## 1.—LETTRE À TOUS LES FIDÈLES.
 
 À tous les chrétiens, religieux, clercs et laïcs, hommes et femmes, à tous ceux qui habitent dans le monde entier, frère François, leur serviteur et sujet, présente un hommage respectueux, souhaitant du ciel une vraie paix et une charité sincère dans le Seigneur.
 
@@ -117,7 +112,7 @@ Au nom du Père, du Fils et du Saint-Esprit. Ainsi soit-il. [^435] À tous ceux 
 
 ## Notes de bas de page
 
-[^374]: 96:1 Comparez par exemple le passage de la [p. 101](#p101), commençant par « Aimons donc Dieu », etc., avec le chapitre XXII de la Première Règle ([p. 53](wosf06.htm#p53)) ; et la prière du Christ donnée à la [p. 105](#p105), avec la conclusion du même chapitre ([p. 59](wosf06.htm#p59)).
+[^374]: 96:1 Comparez par exemple le passage de la [p. 101](#p101), commençant par « Aimons donc Dieu », etc., avec le chapitre XXII de la Première Règle ([p. 53](Part_1_4#p53)) ; et la prière du Christ donnée à la [p. 105](#p105), avec la conclusion du même chapitre ([p. 59](Part_1_4#p59)).
 
 [^375]: 96:2 Voir Le Monnier, _l.c._, p. 202, et Knox Little, _l.c._, p. 164. Wadding, _Annales_, ad. an. 1213, place la rédaction de cette lettre deux ou trois ans plus tôt, ce qui paraît moins probable.
 

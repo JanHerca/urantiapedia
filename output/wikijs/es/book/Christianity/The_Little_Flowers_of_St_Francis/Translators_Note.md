@@ -32,6 +32,17 @@ dateCreated: 2025-1-18T17:54:10Z
   </table>
 </figure>
 
+<span id="pxxxii">[<sup><small>pág. xxxii</small></sup>]</span>
+
+## NOTA DEL TRADUCTOR
+
+Salvo que se indique lo contrario, la siguiente traducción se ha realizado a partir del texto de las _Fioretti di San Francesco con Prefazione_ de PAOLO SABATIER, Asís, Tip Metastasio, 1901. Sin embargo, he consultado varias otras versiones, entre las cuales las siguientes son las más importantes:
+
+_Las Florecillas de San Francisco, Texto de la Lengua según la lección adoptada por_ P. ANTONIO CESARI, Milán, Editorial Guigoni, 1893.
+
+_Florete de San Francisco de Asís. El libro de oro que en italiano se llama I Fioretti di San Francesco_, publicado por PAUL SABATIER, París, Librairie Fischbacher, 1902.
+
+_Las Florecitas del Glorioso Señor San Francisco y sus Frailes_, editado por GL PASSERINI, Florencia, GC Sansoni, 1903.
 
 
 <figure class="table chapter-navigator">

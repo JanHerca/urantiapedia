@@ -32,16 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p189">[<sup><small>p. 189</small></sup>]</span>
-
-### BIBLIOGRAPHY.
 
 THE following list of works is intentionally limited. Its aim is to give collectively and in alphabetical order a fuller reference to the principal and most accessible sources of information cited in the course of the present volume.
 
@@ -145,7 +136,7 @@ _Miscellanea Francescana di Storia di Lettere, di Arti_. Foligno.
 
 _Monumenta Germaniae Historica_. Berlin.
 
-Prof. Karl Müller: _Anfänge des Minoritenordens und der_ [_Bussbrüderschaften_](errata.htm#5). Freiburg, 1885.
+Prof. Karl Müller: _Anfänge des Minoritenordens und der Bussbrüderschaften_. Freiburg, 1885.
 
 A. F. Ozanam: _Les Poètes Franciscains en Italie au Treizième Siècle_. Paris, 1882, 6th ed.
 
@@ -181,7 +172,7 @@ Fr. Van Ortroy, S.J. For his article on the _Opuscula_ of St. Francis, see _Anal
 
 Fr. Luke Wadding, O.F.M.: _Annales Minorum_. [^629] _B. P. Francisci Assisiatis Opuscula_. Antwerp, 1623. _Scriptores Ordinis Minorum_. Rome, 1650.
 
-![](img/19500.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/19500.jpg)
 
 
 

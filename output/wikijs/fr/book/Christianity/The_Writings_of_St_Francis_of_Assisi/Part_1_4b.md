@@ -32,10 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
-### DEUXIÈME RÈGLE DES FRÈRES MINEURS. [^289]
+## DEUXIÈME RÈGLE DES FRÈRES MINEURS. [^289]
 
 1.—_Au Nom du Seigneur commence la vie des Frères Mineurs_.
 
@@ -123,7 +120,7 @@ De plus, j'enjoins aux ministres, par obéissance, de demander au Seigneur Pape 
 
 [^290]: 65:1 Voir Matthieu 19: 21.
 
-[^291]: 66:1 Voir ci-dessus, page [34](wosf06.htm#p34), note [2](wosf06.htm#fn_177).
+[^291]: 66:1 Voir ci-dessus, page [34](Part_1_4#p34), note [2](Part_1_4#fn_177).
 
 [^292]: 66:2 Luc 9: 62.
 

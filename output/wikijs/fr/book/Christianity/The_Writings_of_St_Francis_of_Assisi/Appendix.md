@@ -32,9 +32,6 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p177">[<sup><small>p. 177</small></sup>]</span>
 
 APPENDICE
@@ -100,11 +97,11 @@ En attendant, je termine ce volume en souhaitant à ses lecteurs leur pleine par
 
 [^579] : 179 : 1 « Et toto conatu fuerunt solliciti annulare scripta beati patris nostri Francisci, in quibus sua intentio de observantia regulae declaratur. » — Voir Archiv., III, pp. 168-169.
 
-[^580]: 179:2 Voir ci-dessus, [p. 26](wosf06.htm#p26).
+[^580]: 179:2 Voir ci-dessus, [p. 26](Part_1_4#p26).
 
 [^581]: 180:1 Il ne faut pas désespérer d'en trouver d'autres ; les archives des Clares ont pour la plupart échappé à la spoliation.
 
-[^582]: 180:2 Voir _Spec. Perf._ (éd. Sabatier), c. 108, et éd. Lemmens, c. 18. Voir aussi les _Conformités_ (I, fol. 185), et ci-dessus, [p. 75](wosf08.htm#p75).
+[^582]: 180:2 Voir _Spec. Perf._ (éd. Sabatier), c. 108, et éd. Lemmens, c. 18. Voir aussi les _Conformités_ (I, fol. 185), et ci-dessus, [p. 75](Part_1_5#p75).
 
 [^583] : 180 : 3 Voir 2 Cél. 3, 99.
 
@@ -162,7 +159,7 @@ En attendant, je termine ce volume en souhaitant à ses lecteurs leur pleine par
 
 [^610] : 184 : 2 Voir ses _Les Origines de l'ordo de Poenitentia ;_ voir aussi la Revue Thomiste, pp. 295-314.
 
-[^611]: 184:3 _Quellen_, etc., XXII, 362. Mais voir ci-dessus, [p. 89](wosf10.htm#p89), n. [1](wosf10.htm#fn_360) aussi.
+[^611]: 184:3 _Quellen_, etc., XXII, 362. Mais voir ci-dessus, [p. 89](Part_1_7#p89), n. [1](Part_1_7#fn_360) aussi.
 
 [^612] : 184 : 4 « Codiculus quidam vestustus MS. Italico idiomati exaratus mihi à Fano Piceni urbe, ad Metaurum amnem extructa, transmissus. Voir Ouate, _Opusc._, p. 285.
 

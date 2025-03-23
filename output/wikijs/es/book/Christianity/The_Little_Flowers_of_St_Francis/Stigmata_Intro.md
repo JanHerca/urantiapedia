@@ -32,7 +32,36 @@ dateCreated: 2025-1-18T17:54:10Z
   </table>
 </figure>
 
+<span id="p142">[<sup><small>pág. 142</small></sup>]</span>
 
+## DE LOS SANTÍSIMOS ESTIGMAS DE SAN FRANCISCO Y DE SUS CONSIDERACIONES
+
+<p style="text-align:center;">
+EN ESTA PARTE CONTEMPLAREMOS CON DEVOCIÓN
+CONSIDERACIÓN LO GLORIOSO, SAGRADO<br>
+Y SANTOS ESTIGMAS DE NUESTROS BENDITOS<br>
+PADRE, MESSER SAN FRANCISCO,
+LO QUE RECIBIÓ DE
+CRISTO SOBRE EL SANTO<br>
+MONTAÑA DE<br>
+ALVERNIA
+</p>
+
+_Por cuanto dichos estigmas fueron cinco, así como fueron cinco las llagas de nuestro Señor Jesucristo, por tanto este tratado tendrá cinco consideraciones._
+
+_La primera consideración se referirá al modo en que San Francisco llegó a la santa montaña de Alvernia._
+
+_La segunda consideración se referirá a la vida que vivió y a la conversación que mantuvo con sus compañeros en dicha montaña santa._
+
+_La tercera consideración se referirá a la visión seráfica y a la impresión de los estigmas sacratísimos._
+
+_La cuarta consideración será cómo San Francisco descendió del monte Alvernia, después de haber_
+
+<span id="p143">[<sup><small>pág. 143</small></sup>]</span>
+
+_recibió los sagrados estigmas y regresó a Santa Maria degli Angeli._
+
+_La quinta consideración se referirá a ciertas visiones y revelaciones divinas hechas después de la muerte de San Francisco a los santos frailes y a otras personas devotas acerca de los dichos sagrados y gloriosos estigmas_.
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p150">[<sup><small>p. 150</small></sup>]</span>
 
-### V.
-
-### LE CANTIQUE DU SOLEIL.
+## V. LE CANTIQUE DU SOLEIL.
 
 Français Des nombreuses « cantiques vulgaires » composées par saint François, la seule qui nous soit parvenue, pour autant que l'on sache, est la « Louange des créatures », ou, comme on l'appelle plus communément aujourd'hui, le « Cantique du Soleil ». Celano, qui fait allusion à cette louange, dit de saint François qu'il était de la race d'Ananias, d'Azarias et de Misaël, invitant toutes les créatures à glorifier avec lui Celui qui les a faites. [^560] C'est cet aspect de la pensée de saint François qui trouve son expression dans le Cantique ; et dans cet ordre particulier d'idées, la poésie religieuse moderne n'a jamais rien produit de comparable à cette sublime improvisation dans laquelle sont passées à la fois « toute la richesse de l'imagination du saint et toute l'audace de son génie ». [^561] La tradition nous dit que Fra Pacifico a contribué à l'embellissement de cette louange, [^562] autour de laquelle s'est développée toute une littérature controversée. [^563] Peut-être la nouvelle édition critique du Cantique promise par Luigi Suttina apportera-t-elle quelques éclaircissements sur cette délicate question.
 

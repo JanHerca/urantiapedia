@@ -32,18 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p154">[<sup><small>p. 154</small></sup>]</span>
 
-### VI.
-
-### THE OFFICE OF THE PASSION.
+## VI. THE OFFICE OF THE PASSION.
 
 Although the early biographies of St. Francis are silent as to this opuscule, its authenticity is guaranteed by the Legend of St. Clare written by Thomas of Celano toward the end of his life. [^570] In reference to the holy abbess’ devotion to the Passion we are told by Celano that she “learned and frequently recited with attachment the Office of the Cross which Francis, the lover of the Cross, had instituted.” [^571] This passage was rightly understood by Wadding as referring to the Office of the Passion which many early MSS. attribute to St. Francis, and the character of which altogether squares with the Saint's writings. Composed, as it is, of a simple and devout combination of Scriptural texts, this document is at once a witness to St. Francis’ ardent devotion to the Crucified and a precious example of his method of prayer. It comprises five parts:
 
@@ -59,7 +50,7 @@ Although the early biographies of St. Francis are silent as to this opuscule, it
 
 The text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted. The Office may also be <span id="p155">[<sup><small>p. 155</small></sup>]</span> found in MSS. at Oxford, [^572] Berlin, [^573] and Liegnitz [^574] already described. [^575] It has never before, so far as I know, been translated into English. Here it is:—
 
-#### OFFICE OF THE PASSION OF THE LORD.
+## OFFICE OF THE PASSION OF THE LORD.
 
 **Here begin the Psalms which our most blessed Father Francis arranged to reverence and recall and praise the Passion of the Lord. And they begin from Compline on Maundy Thursday because on that night our Lord Jesus Christ was betrayed and taken captive. And note that the Blessed Francis was wont to say this office thus: First he said the Prayer which the Lord and Master taught us: _Our Father most holy_, [^576] with the Praises, to wit, _Holy, Holy, Holy_. [^577] When he had finished the Praises with the Prayer he began this antiphon, namely: _Holy Mary_. First he said the Psalms of the holy Virgin; besides he said other Psalms which he had selected, and at the end of all the Psalms which he said, he said the Psalms of the Passion, the Psalm being finished he said the antiphon, namely, _Holy Virgin Mary_. When this antiphon was finished, the office was completed**.
 
@@ -623,7 +614,7 @@ Ps. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear
 
 **And note that this Psalm is said from Christmas until the octave of the Epiphany at all the Hours**.
 
-![](img/17600.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/17600.jpg)
 
 
 
@@ -666,8 +657,8 @@ Ps. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear
 
 [^575]: 155:4 See above, p. 3-4. Other MSS. containing the Office are enumerated by Wadding. See also Boehmer's _Analekten_.
 
-[^576]: 155:5 See above, [p. 139](wosf18.htm#p139).
+[^576]: 155:5 See above, [p. 139](Part_3_1#p139).
 
-[^577]: 155:6 See above, [p. 141](wosf18.htm#p141).
+[^577]: 155:6 See above, [p. 141](Part_3_1#p141).
 
 [^578]: 166:1 The Oxford Codex here reads “until Easter Sunday.”

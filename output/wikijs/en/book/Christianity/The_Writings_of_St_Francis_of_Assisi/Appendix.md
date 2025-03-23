@@ -32,25 +32,15 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p177">[<sup><small>p. 177</small></sup>]</span>
 
-APPENDIX
-========
+<span id="p178">[<sup><small>p. 178</small></sup>]</span>
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span> p. 179
+<span id="p179">[<sup><small>p. 179</small></sup>]</span>
 
-### APPENDIX.
+## APPENDIX. SOME LOST, DOUBTFUL, AND SPURIOUS WRITINGS.
 
-### SOME LOST, DOUBTFUL, AND SPURIOUS WRITINGS.
-
-![](img/17900.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/17900.jpg)
 
 DOUBTLESS we should have expected every fragment of St. Francis’ writings to have been preserved with loving care throughout the ages. But when we consider the conditions under which some of them were composed and the vicissitudes they afterwards passed through, we need not be surprised if all of them have not come down to us. On the contrary. For if we may believe such writers as Ubertino da Casale, serious attempts were made in certain quarters toward the close of the thirteenth century to suppress altogether part of the Saint's writings. [^579] Be this as it may, it is certain that several of these precious documents disappeared in the course of time. Among such lost treasures we must reckon the primitive Rule of the Friars in the form approved by Innocent III in 1209. [^580] Again only two fragments seem to have survived of the “many writings” which, as has been already mentioned, St. Francis addressed to the Poor Ladies at St. <span id="p180">[<sup><small>p. 180</small></sup>]</span> Damian's. [^581] Whether or not either of these fragments is to be identified with a letter written by St. Francis to console the Clares, of which we read in the _Speculum_ and the _Conformities_, it is well nigh impossible to determine. [^582] Celano speaks [^583] of a letter to St. Antony of Padua, different apparently from the one known to us, and of others to Cardinal Ugolino. [^584] So, too, Eccleston [^585] tells of letters written to the brothers in France and at Bologna. [^586]
 
@@ -107,11 +97,11 @@ Meanwhile I conclude this volume by wishing its readers their full share in the 
 
 [^579]: 179:1 “Et toto conatu fuerunt solliciti annulare scripta beati patris nostri Francisci, in quibus sua intentio de observantia regulae declaratur.”—See Archiv., III, pp. 168-169.
 
-[^580]: 179:2 See above, [p. 26](wosf06.htm#p26).
+[^580]: 179:2 See above, [p. 26](Part_1_4#p26).
 
 [^581]: 180:1 We need not despair of finding others; the Clares’ archives have mostly escaped spoliation.
 
-[^582]: 180:2 See _Spec. Perf._ (ed. Sabatier), c. 108, and ed. Lemmens, c. 18. See also the _Conformities_ (I, fol. 185), and above, [p. 75](wosf08.htm#p75).
+[^582]: 180:2 See _Spec. Perf._ (ed. Sabatier), c. 108, and ed. Lemmens, c. 18. See also the _Conformities_ (I, fol. 185), and above, [p. 75](Part_1_5#p75).
 
 [^583]: 180:3 See 2 Cel. 3, 99.
 
@@ -169,7 +159,7 @@ Meanwhile I conclude this volume by wishing its readers their full share in the 
 
 [^610]: 184:2 See his _Les Origines de l’ordo de Poenitentia;_ see also the Révue Thomiste, pp. 295-314.
 
-[^611]: 184:3 _Quellen_, etc., XXII, 362. But see above, [p. 89](wosf10.htm#p89), n. [1](wosf10.htm#fn_360) also.
+[^611]: 184:3 _Quellen_, etc., XXII, 362. But see above, [p. 89](Part_1_7#p89), n. [1](Part_1_7#fn_360) also.
 
 [^612]: 184:4 “Codiculus quidam vestustus MS. Italico idiomati exaratus mihi à Fano Piceni urbe, ad Metaurum amnem extructa, transmissus.” See Wadding, _Opusc._, p. 285.
 

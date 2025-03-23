@@ -32,18 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p109">[<sup><small>p. 109</small></sup>]</span>
 
-### II.
-
-### LETTER TO ALL THE FRIARS.
+## II. LETTER TO ALL THE FRIARS.
 
 It was at the end of his days [^441] when he was ill, [^442] that St. Francis wrote this letter to the Minister General and to all the Friars. In it he confesses all his sins to God, to the Saints and to the Friars, and in weighty words urges once again what was ever uppermost in his mind and heart: reverence toward the Blessed Sacrament, observance of the Rule and the Divine Office. The same desires and counsels contained in this letter may also be found in the Testament, and there is little doubt that both works were composed about the same time.
 
@@ -55,7 +46,7 @@ For the Quaracchi text of the letter, which is here translated, the MSS. of Assi
 
 <span id="p111">[<sup><small>p. 111</small></sup>]</span>
 
-#### TO ALL THE FRIARS.
+## TO ALL THE FRIARS.
 
 In the name of the Highest Trinity and Holy Unity of the Father and of the Son and of the Holy Ghost. Amen. [^448]
 
@@ -79,7 +70,7 @@ And since “he that is of God heareth the words of God,” [^478] we who have b
 
 Moreover I confess all my sins to God the Father and to the Son and to the Holy Ghost and to the Blessed Mary ever Virgin and to all the Saints in heaven and on earth and to the minister general of this our religion as to my venerable Lord, and to all the priests of our order and to all my other blessed brothers. I have offended in many ways through my grievous fault, especially because I have not observed the Rule which I have promised to the Lord and <span id="p117">[<sup><small>p. 117</small></sup>]</span> I have not said the office as prescribed by the Rule either by reason of my negligence or weakness or because I am ignorant and simple. Wherefore, by all means as far as I am able, I beseech my lord, the general minister, to cause the Rule to be inviolably observed by all, and let the clerics say the office with devotion before God, not attending to melody of voice but to harmony of mind, so that the voice may be in accord with the mind and the mind in accord with God, so that they may please God by purity of mind and not coax the ears of the people by voluptuousness of voice. As for myself I promise to keep these things strictly, as the Lord may give me grace, and I leave them to the brothers who are with me to be observed in the office and in the other appointed regulations. But whosoever of the brothers will not observe them, I do not hold them as Catholics or as my brothers and I do not wish either to see them or speak \[with them\], until they have done penance. I say this also of all others who setting aside the discipline of the Rule, go wandering about; for our Lord Jesus Christ gave His life lest He might lose the obedience of the most Holy Father. [^480]
 
-I, Brother Francis, a useless man and unworthy creature of the Lord God, say to Brother Elias, the minister of our whole religion, by our Lord Jesus Christ, and to all the ministers general who shall be after him and to the other custodes <span id="p118">[<sup><small>p. 118</small></sup>]</span> and guardians of the brothers, who are and shall be, that they have this writing with them, put it in practice and [sedulously](errata.htm#4) preserve it. And I entreat them to guard jealously those things which are written in it and to cause them to be carefully observed according to the good pleasure of the Almighty God now and ever as long as this world may last.
+I, Brother Francis, a useless man and unworthy creature of the Lord God, say to Brother Elias, the minister of our whole religion, by our Lord Jesus Christ, and to all the ministers general who shall be after him and to the other custodes <span id="p118">[<sup><small>p. 118</small></sup>]</span> and guardians of the brothers, who are and shall be, that they have this writing with them, put it in practice and sedulously preserve it. And I entreat them to guard jealously those things which are written in it and to cause them to be carefully observed according to the good pleasure of the Almighty God now and ever as long as this world may last.
 
 Blessed be you by the Lord who shall have done these things and may the Lord be with you forever. Amen.
 

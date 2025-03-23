@@ -32,18 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p150">[<sup><small>p. 150</small></sup>]</span>
 
-### V.
-
-### THE CANTICLE OF THE SUN.
+## V. THE CANTICLE OF THE SUN.
 
 Of the several “cantica in vulgari” which St. Francis composed, the only one that has come down to us, as far as is known, is the “Praises of the Creatures,” or, as it is now more commonly called, “The Canticle of the Sun.” Celano, who alludes to this laud, says of St. Francis that he was of the race of Ananias, Azarias and Misael, inviting all creatures with him to glorify Him who made them. [^560] It is this side of St. Francis’ thoughts which finds expression in the Canticle; and in this particular order of ideas modern religious poetry has never produced anything comparable to this sublime improvisation into which have passed alike “all the wealth of the Saint's imagination and all the boldness of his genius.” [^561] Tradition tells us that Fra Pacifico had a hand in the embellishment of this laud, [^562] about which a whole controversial literature has grown. [^563] Some light may perhaps be thrown on this delicate question in the new critical edition of the Canticle promised by Luigi Suttina.
 

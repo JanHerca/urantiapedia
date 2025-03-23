@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p154">[<sup><small>p. 154</small></sup>]</span>
 
-### VI.
-
-### LE BUREAU DE LA PASSION.
+## VI. LE BUREAU DE LA PASSION.
 
 Bien que les premières biographies de saint François soient muettes sur cet opuscule, son authenticité est garantie par la Légende de sainte Claire écrite par Thomas de Celano vers la fin de sa vie [^570]. À propos de la dévotion de la sainte abbesse à la Passion, Celano nous dit qu'elle « apprit et récita fréquemment avec attachement l'Office de la Croix que François, l'amant de la Croix, avait institué » [^571]. Ce passage fut interprété à juste titre par Wadding comme faisant référence à l'Office de la Passion que de nombreux manuscrits anciens attribuent à saint François, et dont le caractère concorde parfaitement avec les écrits du saint. Composé d'une combinaison simple et pieuse de textes bibliques, ce document est à la fois un témoignage de l'ardente dévotion de saint François au Crucifié et un précieux exemple de sa méthode de prière. Il comprend cinq parties :
 
@@ -55,7 +50,7 @@ Bien que les premières biographies de saint François soient muettes sur cet op
 
 Le texte de l'Office donné dans l'édition Quaracchi est celui du manuscrit d'Assise 338, seules quelques notes de rubrique ayant été omises. On peut également retrouver l'Office dans les manuscrits d'Oxford, [^572] Berlin, [^573] et Leipzig [^574] déjà décrits. [^575] Il n'a jamais été traduit en anglais, à ma connaissance. Le voici :
 
-#### OFFICE DE LA PASSION DU SEIGNEUR.
+## OFFICE DE LA PASSION DU SEIGNEUR.
 
 **Ici commencent les Psaumes que notre bienheureux Père François a composés pour vénérer, commémorer et louer la Passion du Seigneur. Ils commencent à Complies, le Jeudi Saint, car cette nuit-là, notre Seigneur Jésus-Christ fut trahi et emmené captif. Notez que le bienheureux François avait coutume de dire cet office ainsi : il récitait d'abord la Prière que le Seigneur et Maître nous a enseignée : Notre Père très saint, [^576] avec les Louanges, à savoir : Saint, Saint, Saint. [^577] Après avoir terminé les Louanges par la Prière, il commença cette antienne, à savoir : Sainte Marie. Il récita d'abord les Psaumes de la sainte Vierge ; il récita ensuite d'autres Psaumes de son choix, et à la fin de tous les Psaumes qu'il récita, il récita les Psaumes de la Passion. Le Psaume terminé, il récita l'antienne, à savoir : Sainte Vierge Marie. Lorsque cette antienne fut terminée, l’office fut achevé**.
 
@@ -619,7 +614,7 @@ Ps. 95: 8. Apportez au Seigneur la gloire de son nom. Apportez vos propres corps
 
 **Et notez que ce Psaume est dit depuis Noël jusqu'à l'octave de l'Épiphanie à toutes les Heures**.
 
-![](img/17600.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/17600.jpg)
 
 <figure class="table chapter-navigator">
   <table>
@@ -659,8 +654,8 @@ Ps. 95: 8. Apportez au Seigneur la gloire de son nom. Apportez vos propres corps
 
 [^575]: 155:4 Voir ci-dessus, p. 3-4. D'autres manuscrits contenant l'Office sont énumérés par Wadding. Voir aussi les _Analekten_ de Boehmer.
 
-[^576]: 155:5 Voir ci-dessus, [p. 139](wosf18.htm#p139).
+[^576]: 155:5 Voir ci-dessus, [p. 139](Part_3_1#p139).
 
-[^577]: 155:6 Voir ci-dessus, [p. 141](wosf18.htm#p141).
+[^577]: 155:6 Voir ci-dessus, [p. 141](Part_3_1#p141).
 
 [^578]: 166:1 Le Codex d’Oxford dit ici « jusqu’au dimanche de Pâques ».

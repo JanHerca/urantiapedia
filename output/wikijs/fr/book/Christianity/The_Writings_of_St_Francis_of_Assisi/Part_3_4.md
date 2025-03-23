@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p146">[<sup><small>p. 146</small></sup>]</span>
 
-### IV.
-
-### LA FEUILLE QUE SAINT FRANÇOIS A DONNÉE À FRÈRE LÉON.
+## IV. LA FEUILLE QUE SAINT FRANÇOIS A DONNÉE À FRÈRE LÉON.
 
 Le plus ancien témoin de ce document est Thomas de Celano, qui, dans sa Seconde Vie (écrite vers 1247), rapporte que « tandis que le saint restait reclus dans sa cellule du mont La Verna, l’un de ses compagnons conçut un grand désir d’avoir un souvenir des paroles du Seigneur écrit de la main de saint François et brièvement annoté par lui… Un jour, le bienheureux François l’appela et lui dit : « Apportez-moi du papier et de l’encre, car je désire écrire les paroles de Dieu et ses louanges que je médite dans mon cœur. » Ce qu’il demandait lui étant apporté aussitôt, il écrit de sa propre main les louanges de Dieu et les paroles qu’il [son compagnon] désirait, et enfin une bénédiction du frère, en disant : « Prends cette feuille (_chartulam_) pour toi et jusqu’au jour de ta mort, garde-la précieusement. » Toute tentation fut aussitôt chassée ; la lettre est conservée et a fait des merveilles pour l’avenir. » [^551]
 
@@ -49,19 +44,18 @@ Pour authentifier cette relique, frère Léon lui-même y ajouta trois notes ; l
 
 L'examen de l'autographe original montre que, si le côté de la feuille contenant la Bénédiction est parfaitement conservé, l'autre, où sont inscrites les Louanges, est en grande partie illisible et, par conséquent, on trouve des variantes dans différentes versions manuscrites. Après une comparaison minutieuse de ces manuscrits avec l'autographe, les éditeurs Quaracchi ont constaté que le codex 344 d'Assise était plus conforme à l'original que tout autre. C'est à partir de ce manuscrit du XIVe siècle, provenant de la bibliothèque du Sacro Convento et qui semble avoir été copié d'après l'autographe, que les éditeurs Quaracchi ont publié le texte que je traduis aujourd'hui :
 
-#### LOUANGES À DIEU.
+## LOUANGES À DIEU.
 
 Tu es saint, Seigneur Dieu, qui seul accomplis des merveilles. Tu es fort. Tu es grand. Tu es très-haut. Tu es le Roi tout-puissant, Toi, Père saint, Roi du ciel et de la terre. Tu es le Seigneur Dieu Trine et Un ; tout bien. Tu es bon, tout bien, le bien suprême, Seigneur Dieu vivant et vrai. Tu es la charité, l'amour [^556] Tu es la sagesse. Tu es l'humilité. Tu es la patience. Tu es la sécurité. Tu es la quiétude. Tu es la joie et l'allégresse. Toi
 
-[![Bénédiction autographe donnée par saint François à frère Léon, conservée au Sacro Convento d'Assise](tn/14800.jpg)
-Cliquez pour agrandir](img/14800.jpg)
+![Bénédiction autographe donnée par saint François à frère Léon, conservée au Sacro Convento d'Assise](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/14800.jpg)
 
 
 BÉNÉDICTION AUTOGRAPHE DONNÉE PAR SAINT FRANÇOIS À FRÈRE LÉON, CONSERVÉE AU SACRO COUVENT D'ASSISE. (Voir page [146](#p146).) <span id="p149">[<sup><small>p. 149</small></sup>]</span> es justice et tempérance. Tu es toute richesse pour suffire. [^557] Tu es beauté. Tu es douceur. Tu es protecteur. Tu es gardien et défenseur. Tu es force. Tu es rafraîchissement. Tu es notre espérance. Tu es notre foi. Tu es notre grande douceur. Tu es notre vie éternelle, grand et admirable Seigneur, Dieu tout-puissant, Sauveur miséricordieux.
 
 Après cette expression des ardeurs mystiques qui consumaient le _Poverello_ vient :
 
-### LA BÉNÉDICTION DE FRÈRE LÉON.
+## LA BÉNÉDICTION DE FRÈRE LÉON.
 
 Que le Seigneur te bénisse et te garde. Qu'il te montre sa face et ait pitié de toi. Qu'il tourne son visage vers toi et te donne la paix. [^558] Frère Le**T**o [^559] que le Seigneur te bénisse.
 

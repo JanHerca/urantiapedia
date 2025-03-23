@@ -32,18 +32,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p79">[<sup><small>p. 79</small></sup>]</span>
 
-### VI.
-
-### TESTAMENT OF THE HOLY FATHER ST. FRANCIS.
+## VI.TESTAMENT OF THE HOLY FATHER ST. FRANCIS.
 
 The opuscule which St. Francis called his Testament is a precious document of the highest authority. Renan forsooth denied its authenticity, but rashly, for, as M. Sabatier rightly remarks, [^321] this is not to be questioned. [^322] The Testament corresponds throughout with the other writings of St. Francis, and moreover reveals his character and spirit in every line. But we are not reduced to internal proofs for its; genuinity. All the historians, including Thomas of Celano, [^323] and St. Bonaventure, [^324] mention it, [^325] while Gregory IX cites it textually in his bull _Quo elongati_ of September 28, 1230. We know from this bull that the Saint's Testament was published a few days only before his death [^326] Everything seems to point to its having been written at the hermitage of the Celle near Cortona, during St. Francis’ last visit there (summer of 1226), though some think it was dictated to Angelo Tancredi, one of the Three Companions, in the little hut nearest the Portiuncula which served as an infirmary and in which St. Francis died.
 
@@ -51,7 +42,7 @@ According to M. Sabatier, St. Francis wrote more than one testament. Indeed, the
 
 The Testament is to be found among St. Francis' works in twelve of the codices above described, [^330] to <span id="p81">[<sup><small>p. 81</small></sup>]</span> wit, those at Assisi, [^331] Berlin, Florence (Ognissanti MSS.), St. Floriano, Liegnitz, Paris (Nat. lib. and Mazarin MSS. 989), Prague and Rome (St. Antony's and both Vatican MSS.), as well as in a fifteenth century MS. at the Hague (Municip. lib. cod. K. 54, fol. 3 v). The text here translated is that of the Assisi codex collated with those of Ognissanti, Florence, and St. Antony's, Rome, and with the versions of the Testament contained in the _Monumenta_ (fol. 274 v) and _Firmamenta_ [^332] (fol. 16 v). Here begins the:
 
-#### TESTAMENT OF THE HOLY FATHER ST. FRANCIS.
+## TESTAMENT OF THE HOLY FATHER ST. FRANCIS.
 
 The Lord gave to me, Brother Francis, thus to begin to do penance; for when I was in sin it seemed to me very bitter to see lepers, and the Lord Himself led me amongst them and I showed mercy to them. [^333] And when I left them, that which had seemed to me bitter was changed for me into sweetness of body and soul. And afterwards I remained a little and I left the world. And the Lord gave me so much [^334] faith <span id="p82">[<sup><small>p. 82</small></sup>]</span> in churches that I would simply pray and say thus: “We adore Thee Lord Jesus Christ here [^335] and in all Thy churches which are in the whole world, and we bless Thee because by Thy holy cross Thou hast redeemed the world.”
 
@@ -118,7 +109,7 @@ And whoever shall observe these things [^351] may he be filled in heaven with th
 
 [^329]: 80:2 See _Documenta Antiqua Franciscana_, P. II, p. 60.
 
-[^330]: 80:3 See page [3](wosf03.htm#p3).
+[^330]: 80:3 See page [3](Part_1_1#p3).
 
 [^331]: 81:1 The text of the Testament given by M. Sabatier in his edition of the _Speculum Perf._ is that of this Assisi MS.
 

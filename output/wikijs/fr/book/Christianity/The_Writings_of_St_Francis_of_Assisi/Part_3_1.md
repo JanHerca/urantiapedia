@@ -32,24 +32,17 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p134">[<sup><small>p. 134</small></sup>]</span> p. 135
 
-PARTIE III
-========
+**PARTIE III**
 
 <span id="p136">[<sup><small>p. 136</small></sup>]</span>
 
-PRIÈRES DE SAINT FRANÇOIS
-======================
+**PRIÈRES DE SAINT FRANÇOIS**
 
 <span id="p137">[<sup><small>p. 137</small></sup>]</span>
 
-### JE.
-
-### LES LOUANGES.
+## I. LES LOUANGES.
 
 Cet opuscule se compose de deux parties : une paraphrase du Notre Père et les Louanges proprement dites. Il est présent dans tous les premiers recueils de manuscrits de saint François [^527], soit intégralement, comme ici, soit en partie, c'est-à-dire la Paraphrase sans les Louanges, ou vice versa. À l'exception d'un seul codex qui attribue la paternité de cette paraphrase au bienheureux frère Gilles, [^528] troisième compagnon de saint François, les autorités manuscrites sont unanimes à attribuer l'ouvrage entier à saint François. Ce fait, combiné à l'argumentation interne en sa faveur, met hors de doute l'autorité des Louanges, de l'avis des éditeurs Quaracchi. M. Sabatier partage cet avis et regrette même [^529] que le professeur Boehmer [^530] ait été <span id="p138">[<sup><small>p. 138</small></sup>]</span> induit en erreur en classant les Louanges comme douteuses ou inauthentiques. Ceux qui acceptent les vues du critique français quant à la valeur de son Speculum Perfectionis trouveront dans cette œuvre remarquable un argument supplémentaire en faveur de l'authenticité de l'opuscule complet qui nous intéresse maintenant. En particulier, M. Sabatier applique aux présentes Louanges ce que dit le Speculum de la pénitence imposée par saint François aux frères de la Portioncule pour avoir prononcé des paroles vaines. [^531]
 
@@ -57,7 +50,7 @@ Les Pères Quaracchi ont édité le texte des Louanges selon les manuscrits d'As
 
 <span id="p139">[<sup><small>p. 139</small></sup>]</span>
 
-#### LOUANGES.
+## LOUANGES.
 
 Ici commencent les Louanges que le très bienheureux Père François composa ; et il les dit à toutes les Heures du jour et de la nuit et avant l'Office de la Bienheureuse Vierge Marie, commençant ainsi : « Notre Père très saint, qui êtes aux cieux », etc., par : « Gloire au Père ». Puis on dira les Louanges, Saint, Saint, etc. [^533]
 

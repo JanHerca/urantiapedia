@@ -29,16 +29,11 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 
-### INTRODUCTION.
+## INTRODUCTION. I.
 
-#### JE.
-
-![](img/_00900.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/_00900.jpg)
 
 Les écrits de saint François peuvent, comme il est évident, être considérés sous plus d'un point de vue. Ceci nous donne un aperçu de la difficulté qui a conduit les étudiants des sources franciscaines à se diviser en deux camps quant à la valeur objective de ces écrits. En effet, un auteur [^0] va jusqu'à comparer l'attitude des érudits modernes à leur égard à celle des frères « spirituels » et conventuels respectivement au premier siècle de l'histoire franciscaine. Car tandis qu'un parti, mené par M. Paul Sabatier, [^1] accorde ce que certains considèrent comme un poids presque excessif aux écrits de saint François comme source de notre connaissance de lui, l'autre parti, suivant Mgr Faloci Pulignani, [^2] affiche, nous dit-on, une tendance à minimiser leur importance. La vérité est, comme le professeur Müller l'a souligné il y a longtemps, [^3] que ces écrits offrent <span id="px">[<sup><small>p. x</small></sup>]</span> nous donnent peu ou pas d'informations sur la vie de leur auteur, un fait qui peut peut-être expliquer leur négligence relative par tant de biographes du saint, mais il n'en est pas moins vrai qu'elles portent l'empreinte de sa personnalité et reflètent son esprit encore plus fidèlement que les Légendes écrites au lendemain de sa mort par ceux qui l'avaient le mieux connu. [^4] C'est pourquoi elles méritent bien toute l'étude sérieuse que les érudits extérieurs à l'Ordre franciscain commencent maintenant à leur consacrer.
 
@@ -60,14 +55,13 @@ Il reste à dire quelques mots sur l'histoire des écrits de saint François ava
 
 <span id="pxviii">[<sup><small>p. xviii</small></sup>]</span>
 
-#### II.
+### II.
 
 L'histoire des écrits de saint François, depuis leur composition au lointain XIIIe siècle jusqu'à nos jours, ouvre un champ de spéculation des plus intéressants. Qui, pourrait-on se demander, a le premier rassemblé ces écrits ? On ne peut répondre à cette question avec certitude, car les premières Légendes et Chroniques de l'Ordre sont muettes sur le sujet, et nous devons nous contenter de commencer notre enquête par les plus anciens recueils de manuscrits contenant les écrits de saint François. De nombreux recueils de ce type existent dans les codex médiévaux, mais toute tentative de classification de ces manuscrits se heurte, dans l'état actuel de notre documentation, à des difficultés particulières. La moindre de ces difficultés vient du fait que, tout comme dans les Légendes ou Vies de saint François, on distingue un double courant ; [^21] de même, dans les premiers recueils de manuscrits, on trouve deux familles ou catégories distinctes représentant, ou plutôt illustrant, la double tradition et la double observance qui remontent aux tout débuts de l'histoire franciscaine [^22].
 
 La première place parmi ces collections appartient au MS. numéroté 338, anciennement en
 
-[![](tn/_01800.jpg)
-Cliquez pour agrandir](img/_01800.jpg)
+![](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/_01800.jpg)
 
 PAGE DU MANUSCRIT D’ASSISE 338 CONTENANT LA CONCLUSION DE LA « SALUTATION DES VERTUS » ET LE COMMENCEMENT DU « CANTIQUE DU SOLEIL ». (Voir page [xviii](#pxviii). <span id="pxix">[<sup><small>p. xix</small></sup>]</span> du Sacro Convento, mais maintenant à la bibliothèque municipale d'Assise. Les critiques qui ont étudié ce codex ancien ne sont pas d'accord quant à son âge. [^23] Mais il date au moins du début du XIVe siècle. Il comprend onze des dix-neuf œuvres traduites ici. Elles sont contenues dans trois livres de parchemin dans l'ordre suivant : fol. 12-16, La deuxième Règle des Frères Mineurs ; [^24] fol. 16-18, Le Testament ; [^25] fol. 18-23, Les Admonitions ; [^26] fol. 23-28, La Lettre à tous les fidèles ; [^27] fol. 28-31, La Lettre au Chapitre général ; [^28] fol. 31-32, Instruction aux Clercs sur la Sainte Eucharistie ; [^29] fol. 32, Salutation des Vertus ; [^30] fol. 33, Cantique du Soleil ; [^31] fol. 34, Paraphrase du Notre Père ; [^32] fol. 34-43, Office de la Passion ; [^33] et fol. 43, Règlement des Ermitages. [^34]
 
@@ -77,11 +71,11 @@ Nous en venons maintenant au deuxième recueil d'écrits de saint François, que
 
 Ce deuxième recueil des écrits de saint François diffère du premier sur plusieurs points. Tout d'abord, il omet l'Instruction aux clercs sur la Sainte Eucharistie et ajoute la lettre « À un certain ministre ». [^45] De même, les manuscrits d'Assise et de Liegnitz, exemples typiques du premier recueil, placent la prière « Ô Dieu éternel tout-puissant », etc. [^46], à la fin de la lettre au Chapitre général, alors que dans les manuscrits d'Ognissanti et d'autres de la même famille, cette prière se retrouve ailleurs. De même, dans les manuscrits d'Assise et de Liegnitz, la Salutation aux Vertus est inscrite : « Salutation des Vertus qui ont orné l'âme de la bienheureuse Vierge Marie et qui devraient orner la sainte âme », tandis que dans les manuscrits d'Ognissanti et apparentés, le titre de ce texte est : « Salutation des Vertus et de leur efficacité à confondre les vices ». Ces exemples suffisent à indiquer que cette double famille de manuscrits comprend également une double lecture <span id="pxxii">[<sup><small>p. xxii</small></sup>]</span>, comme le montrent plus clairement les variantes relevées ailleurs dans cet ouvrage. En attendant, passons des recueils de manuscrits de saint François aux
 
-#### ÉDITIONS IMPRIMÉES.
+### ÉDITIONS IMPRIMÉES.
 
 Deux compilations diverses, chacune contenant une partie des Opuscula, furent publiées au début du XVIe siècle. La première, connue sous le nom de Speculum Vitae B. Francisci et Sociorum ejus [^47] et tirée en grande partie des Actus Beati Francisci, contient (fol. 126-127) parmi diverses légendes et autres récits quelques prières de saint François, ainsi que (fol. 189) la Première Règle. La seconde compilation, de caractère beaucoup plus polémique [^48] et contenant un plus grand nombre d'Opuscula, parut successivement, avec quelques variantes de forme, à Rouen en 1509 sous le nom de Speculum Minorum [^49], à Salamanque en 1511 sous le nom de Monumenta Ordinis Minorum [^50] et à Paris en 1512 sous le nom de <span id="pxxiii">[<sup><small>p. xxiii</small></sup>]</span> _Firmamenta trium Ordinum B. Francisci_. [^51] Le XVIIe siècle voit apparaître
 
-#### ÉDITION WADDING.
+### ÉDITION WADDING.
 
 Français L'honneur d'avoir fait la première tentative sérieuse de rassembler tous les écrits de saint François appartient au célèbre Annaliste de l'Ordre, le Père Luc Wadding. [^52] Sa célèbre édition des _Opuscula_ [^53] est distribuée en trois parties : la première partie contient les Lettres, les Prières et le Testament ; la deuxième partie, les Règles ; et la troisième partie, les Conférences monastiques, l'Office de la Passion et les Cantiques, suivis d'Apophtegmes, de Colloques, de Prophéties, de Paraboles, d'Exemples, de Bénédictions, etc.
 
@@ -95,7 +89,7 @@ D'autre part, les critiques de M. Sabatier à l'encontre des « nombreux ecclés
 
 L'intérêt croissant pour les sources de l'histoire franciscaine primitive, qui a caractérisé la littérature de la dernière décennie, a accentué la nécessité d'une édition plus complète des écrits de saint François. L'affaire fut rapidement prise en charge par les Frères Mineurs de Quaracchi – déjà célèbres dans l'histoire littéraire de l'Ordre – et, en 1904, ils publièrent l'ouvrage.
 
-#### PREMIÈRE ÉDITION CRITIQUE
+### PREMIÈRE ÉDITION CRITIQUE
 
 des _Opuscula_. [^64] Sans négliger le caractère interne de chaque document, les éditeurs Quaracchi ont basé leur édition sur la tradition des premiers manuscrits, évaluant selon cette norme tous les divers écrits contenus dans les éditions stéréotypées des œuvres de saint François, avec pour résultat que de nombreuses pages familières qui nous étaient parvenues sur la bonne foi de Wadding ont été <span id="pxxvii">[<sup><small>p. xxvii</small></sup>]</span> jugées insuffisantes. Ainsi, les dix-sept lettres communément attribuées à saint François ont été réduites à six, les Règles du Second et du Troisième Ordre ont été supprimées, il ne reste qu'une des vingt-huit conférences monastiques et une des sept bénédictions ; la plupart des prières ont disparu, et tous les colloques, prophéties, paraboles, etc. ont également disparu. Très probablement, les œuvres douteuses et supposées ainsi exclues incarnent souvent la doctrine et les idées de saint François ; dans une plus ou moins grande mesure, certains d'entre eux peuvent même être de lui en substance, mais comme il n'y a aucune bonne raison de croire qu'ils sont de sa propre composition, ils n'ont pas droit à une place parmi ses écrits.
 
@@ -118,7 +112,7 @@ Pour le reste, c'est avec une conscience claire de ses nombreuses lacunes et non
 P. PASCHAL ROBINSON, OFM,
 
 Couvent franciscain, Paterson, NJ
-Fête de sainte Agnès d'[Assise](errata.htm#0), 1905.
+Fête de sainte Agnès d'Assise, 1905.
 
 <figure class="table chapter-navigator">
   <table>
@@ -170,7 +164,7 @@ _Paradiso_, XI-114.
 
 [^10]: xiv:1 Voir _Leg. III Soc._, 10.
 
-[^11]: xiv:2 Eccleston parle de son « faux latin ». Voir ci-dessous, [p. 132](wosf17.htm#p132).
+[^11]: xiv:2 Eccleston parle de son « faux latin ». Voir ci-dessous, [p. 132](Part_2_6#p132).
 
 [^12]: xiv:3 Quelques-uns des plus grands troubadours de Provence séjournaient alors en Italie. Sur leurs voyages et leur influence dans ce pays, voir Fauriel, _Histoire de la poésie provençale_, t. II, et trois articles du même auteur dans la « Bibliothèque de l'École des Chartes », t. III et IV. Des fragments de leurs poèmes sont donnés par Monaci : _Testi antichi provenzali_ (Rome, 1889).
 
@@ -180,15 +174,15 @@ _Paradiso_, XI-114.
 
 [^15]: xv:2 1 Cél. 1.
 
-[^16]: xv:3 Voir ci-dessous, [p. 130](wosf17.htm#p130).
+[^16]: xv:3 Voir ci-dessous, [p. 130](Part_2_6#p130).
 
 [^17]: xv:4 M. Sabatier (_Vie de S. François_, p. 5) suggère que frère Léon a pu agir en cette qualité, et invoque l'autorité de Bernard de Besse pour le prouver.
 
-[^18]: xvi:1 Pour le témoignage de saint Bonaventure et de Celano, voir ci-dessous, [p. 147](wosf21.htm#p147).
+[^18]: xvi:1 Pour le témoignage de saint Bonaventure et de Celano, voir ci-dessous, [p. 147](Part_3_4#p147).
 
 [^19] : xvi : 2 Voir Tract. de Miraculis., _Anal. Boulon. XVIII, p. 115.
 
-[^20]: xvii:1 Voir ci-dessous, [p. 27](wosf06.htm#p27).
+[^20]: xvii:1 Voir ci-dessous, [p. 27](Part_1_4#p27).
 
 [^21] : xviii:1 Voir Lemmens : De duobus generibus vitarum SP Francisci dans _Doct. Fourmi. Franc._, P. II, p. 9 ; et de Kerval : Les Sources de l'histoire de S. François dans _Bullettino Critico_, fasc. Moi, p. 3.
 
@@ -196,27 +190,27 @@ _Paradiso_, XI-114.
 
 [^23] : xix:1 Voir Ehrle, SJ : Die historischen Handschriften des Klosters San Francesco in Assisi dans _Archiv für Litteratur_, etc., t. I, p.484 ; Mgr. Faloci Pulignani dans le _Miscell. Francescana_, t. VI, p. 46 ; M. Sabatier : _Vie de S. François_, I, p. 370 ; et Professeur Alessandri : _Inventario dei manoscritti della biblioteca del conv. de S. Francesco di Assisi_, p. 57.
 
-[^24]: xix:2 Voir page [64](wosf06.htm#p64).
+[^24]: xix:2 Voir page [64](Part_1_4#p64).
 
-[^25]: xix:3 Voir page [81](wosf09.htm#p81).
+[^25]: xix:3 Voir page [81](Part_1_6#p81).
 
-[^26]: xix:4 Voir page [5](wosf03.htm#p5).
+[^26]: xix:4 Voir page [5](Part_1_1#p5).
 
-[^27]: xix:5 Voir page [98](wosf12.htm#p98).
+[^27]: xix:5 Voir page [98](Part_2_1#p98).
 
-[^28]: xix:6 Voir page [111](wosf13.htm#p111).
+[^28]: xix:6 Voir page [111](Part_2_2#p111).
 
-[^29]: xix:7 Voir page [23](wosf05.htm#p23).
+[^29]: xix:7 Voir page [23](Part_1_3#p23).
 
-[^30]: xix:8 Voir page [20](wosf04.htm#p20).
+[^30]: xix:8 Voir page [20](Part_1_2#p20).
 
-[^31]: xix:9 Voir page [152](wosf22.htm#p152).
+[^31]: xix:9 Voir page [152](Part_3_5#p152).
 
-[^32]: xix:10 Voir page [139](wosf18.htm#p139).
+[^32]: xix:10 Voir page [139](Part_3_1#p139).
 
-[^33]: xix:11 Voir page [155](wosf23.htm#p155).
+[^33]: xix:11 Voir page [155](Part_3_6#p155).
 
-[^34]: xix:12 Voir page [89](wosf10.htm#p89).
+[^34]: xix:12 Voir page [89](Part_1_7#p89).
 
 [^35] : xx:1 Voir _Speculum Perfectionis_ (éd. Sabatier), p. clxxvi, pour la description de ces trois MSS.
 
@@ -238,9 +232,9 @@ _Paradiso_, XI-114.
 
 [^44]: xxi:2 Mes références aux _Conformités_ se rapportent à l'édition de Milan de 1510. L'édition publiée en 1590, en particulier dans la partie historique, est mutilée et corrompue à presque chaque page, comme je peux personnellement en témoigner après une comparaison avec plusieurs anciennes versions manuscrites.
 
-[^45]: xxi:3 Voir ci-dessous, [p. 121](wosf14.htm#p121).
+[^45]: xxi:3 Voir ci-dessous, [p. 121](Part_2_3#p121).
 
-[^46]: xxi:4 Voir ci-dessous, [p. 118](wosf13.htm#p118).
+[^46]: xxi:4 Voir ci-dessous, [p. 118](Part_2_2#p118).
 
 [^47]: xxii:1 Il fut imprimé à Venise « expensis domini Jordani de Dinslaken per Simonem de Lucre » en 1504, et à Metz « per Jasparem Hochffeder » en 1509. Ces deux éditions sont identiques. Il fut réédité par Spoelberch à Anvers en 1620.
 

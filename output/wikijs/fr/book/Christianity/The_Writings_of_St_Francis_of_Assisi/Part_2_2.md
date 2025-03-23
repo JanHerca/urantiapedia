@@ -32,14 +32,9 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p109">[<sup><small>p. 109</small></sup>]</span>
 
-### II.
-
-### LETTRE À TOUS LES FRÈRES.
+## II. LETTRE À TOUS LES FRÈRES.
 
 C'est à la fin de ses jours [^441], alors qu'il était malade [^442], que saint François écrivit cette lettre au Ministre général et à tous les frères. Il y confesse tous ses péchés à Dieu, aux saints et aux frères, et, en des termes empreints de force, insiste une fois de plus sur ce qui a toujours été au cœur de son esprit : la révérence envers le Saint-Sacrement, l'observance de la Règle et de l'Office divin. Les mêmes désirs et conseils contenus dans cette lettre se retrouvent également dans le Testament, et il ne fait aucun doute que les deux œuvres ont été composées à peu près à la même époque.
 
@@ -51,7 +46,7 @@ Pour le texte Quaracchi de la lettre, qui est ici traduite, les manuscrits d'Ass
 
 <span id="p111">[<sup><small>p. 111</small></sup>]</span>
 
-#### À TOUS LES FRÈRES.
+## À TOUS LES FRÈRES.
 
 Au nom de la Très Haute Trinité et de la Sainte Unité du Père, du Fils et du Saint-Esprit. Amen. [^448]
 
@@ -75,7 +70,7 @@ Et puisque « celui qui est de Dieu écoute les paroles de Dieu », [478] nous q
 
 Français De plus, je confesse tous mes péchés à Dieu le Père et au Fils et au Saint-Esprit et à la bienheureuse Marie toujours Vierge et à tous les saints du ciel et de la terre et au ministre général de notre religion comme à mon vénérable Seigneur et à tous les prêtres de notre ordre et à tous mes autres bienheureux frères. J'ai commis de nombreuses fautes par ma faute grave, surtout parce que je n'ai pas observé la Règle que j'ai promise au Seigneur et <span id="p117">[<sup><small>p. 117</small></sup>]</span> Je n'ai pas dit l'office prescrit par la Règle, soit par négligence ou par faiblesse, soit par ignorance et simplicité. C'est pourquoi, par tous les moyens possibles, je supplie monseigneur, le ministre général, de faire observer la Règle inviolablement par tous, et que les clercs récitent l'office avec dévotion devant Dieu, non pas à la mélodie de la voix, mais à l'harmonie de l'esprit, afin que la voix soit en accord avec l'esprit et l'esprit en accord avec Dieu, afin qu'ils plaisent à Dieu par la pureté de l'esprit et n'amadouent pas les oreilles du peuple par la volupté de la voix. Pour ma part, je promets d'observer strictement ces choses, selon la grâce du Seigneur, et je les laisse aux frères qui sont avec moi pour qu'ils les observent dans l'office et dans les autres règles établies. Mais quiconque parmi les frères ne les observera pas, je ne le considère ni comme catholique ni comme mes frères, et je ne veux ni le voir ni lui parler, jusqu'à ce qu'il ait fait pénitence. Je dis cela aussi de tous ceux qui, abandonnant la discipline de la Règle, errent çà et là ; car notre Seigneur Jésus-Christ a donné sa vie pour ne pas perdre l'obéissance du Père très saint. [^480]
 
-Moi, frère François, homme inutile et créature indigne du Seigneur Dieu, je dis à frère Élie, ministre de toute notre religion, par Notre Seigneur Jésus-Christ, et à tous les ministres généraux qui lui succéderont, ainsi qu'aux autres custodes <span id="p118">[<sup><small>p. 118</small></sup>]</span> et gardiens des frères, qui sont et seront, qu'ils aient cet écrit avec eux, qu'ils le mettent en pratique et le conservent [assidument](errata.htm#4). Et je les supplie de garder jalousement les choses qui y sont écrites et de les faire observer soigneusement, selon le bon plaisir du Dieu Tout-Puissant, maintenant et à jamais, aussi longtemps que durera ce monde.
+Moi, frère François, homme inutile et créature indigne du Seigneur Dieu, je dis à frère Élie, ministre de toute notre religion, par Notre Seigneur Jésus-Christ, et à tous les ministres généraux qui lui succéderont, ainsi qu'aux autres custodes <span id="p118">[<sup><small>p. 118</small></sup>]</span> et gardiens des frères, qui sont et seront, qu'ils aient cet écrit avec eux, qu'ils le mettent en pratique et le conservent assidument. Et je les supplie de garder jalousement les choses qui y sont écrites et de les faire observer soigneusement, selon le bon plaisir du Dieu Tout-Puissant, maintenant et à jamais, aussi longtemps que durera ce monde.
 
 Soyez bénis par le Seigneur qui aura accompli ces choses, et que le Seigneur soit avec vous pour toujours. Amen.
 

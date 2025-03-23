@@ -29,836 +29,833 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-_Les Écrits de saint François d'Assise_, traduit par Paschal Robinson, \[1905\], sur sacred-texts.com
-
-
 <span id="p196">[<sup><small>p. 196</small></sup>]</span> p. 197
 
 ### INDEX.
 
-**A**bruzzi [182](wosf24.htm#p182), [184](wosf24.htm#p184)
+**A**bruzzi [182](Appendix#p182), [184](Appendix#p184)
 
-_Acta Ordinis Minorum_ [125](wosf15.htm#p125)
+_Acta Ordinis Minorum_ [125](Part_2_4#p125)
 
-_Acta Sanctorum_ [26](wosf06.htm#p26), [115](wosf13.htm#p115), [154](wosf23.htm#p154), [180](wosf24.htm#p180)
+_Acta Sanctorum_ [26](Part_1_4#p26), [115](Part_2_2#p115), [154](Part_3_6#p154), [180](Appendix#p180)
 
-_Actus B. Francisci et Sociorum eius_ [93](wosf11.htm#p93)
+_Actus B. Francisci et Sociorum eius_ [93](Part_2_0#p93)
 
-Admonitions des frères [55](wosf06.htm#p55)
+Admonitions des frères [55](Part_1_4#p55)
 
 Admonitions de saint François :
 
-codex les contenant [3](wosf03.htm#p3), [22](wosf05.htm#p22)
+codex les contenant [3](Part_1_1#p3), [22](Part_1_3#p22)
 
-leur authenticité et leur nombre [3](wosf03.htm#p3)
+leur authenticité et leur nombre [3](Part_1_1#p3)
 
 Aegidius. Voir Gilles.
 
-Agnès de Bohême. Bienheureuse [75](wosf08.htm#p75)
+Agnès de Bohême. Bienheureuse [75](Part_1_5#p75)
 
-Albert de Pise, ministre général [111](wosf13.htm#p111)
+Albert de Pise, ministre général [111](Part_2_2#p111)
 
-Alexandre IV. Pape— [154](wosf23.htm#p154)
+Alexandre IV. Pape— [154](Part_3_6#p154)
 
-Aumône. En cherchant — [42](wosf06.htm#p42), [68](wosf07.htm#p68)
+Aumône. En cherchant — [42](Part_1_4#p42), [68](Part_1_4b#p68)
 
-Autel. Saint François sur la propreté de— [22](wosf05.htm#p22)
+Autel. Saint François sur la propreté de— [22](Part_1_3#p22)
 
-_Amor de Caritade_, Poème [183](wosf24.htm#p183)
+_Amor de Caritade_, Poème [183](Appendix#p183)
 
 _Analekten_. Voir Boehmer.
 
-_Analecta Bollandiana_ [3](wosf03.htm#p3), [27](wosf06.htm#p27), [29](wosf06.htm#p29), [78](wosf08.htm#p78), [94](wosf11.htm#p94), [182](wosf24.htm#p182)
+_Analecta Bollandiana_ [3](Part_1_1#p3), [27](Part_1_4#p27), [29](Part_1_4#p29), [78](Part_1_5#p78), [94](Part_2_0#p94), [182](Appendix#p182)
 
-_Analecta Franciscana_ [25](wosf06.htm#p25), [180](wosf24.htm#p180)
+_Analecta Franciscana_ [25](Part_1_4#p25), [180](Appendix#p180)
 
-_Angelis gaudium_, Taureau [75](wosf08.htm#p75)
+_Angelis gaudium_, Taureau [75](Part_1_5#p75)
 
 Angelo Clareno. Voir Clareno.
 
-_Annales Minorum_ [25](wosf06.htm#p25), [75](wosf08.htm#p75), [76](wosf08.htm#p76), [81](wosf09.htm#p81), [96](wosf12.htm#p96)
+_Annales Minorum_ [25](Part_1_4#p25), [75](Part_1_5#p75), [76](Part_1_5#p76), [81](Part_1_6#p81), [96](Part_2_1#p96)
 
-Rue Anselme — [40](wosf06.htm#p40)
+Rue Anselme — [40](Part_1_4#p40)
 
-Antoine. Lettre de saint François à saint — [93](wosf11.htm#p93), [180](wosf24.htm#p180), [181](wosf24.htm#p181)
+Antoine. Lettre de saint François à saint — [93](Part_2_0#p93), [180](Appendix#p180), [181](Appendix#p181)
 
-Manuscrit d'Antoine. St.— [4](wosf03.htm#p4), [22](wosf05.htm#p22), [31](wosf06.htm#p31), [81](wosf09.htm#p81), [110](wosf13.htm#p110), [138](wosf18.htm#p138)
+Manuscrit d'Antoine. St.— [4](Part_1_1#p4), [22](Part_1_3#p22), [31](Part_1_4#p31), [81](Part_1_6#p81), [110](Part_2_2#p110), [138](Part_3_1#p138)
 
-Aquila [183](wosf24.htm#p183)
+Aquila [183](Appendix#p183)
 
-_Arbor Vitae_ [109](wosf13.htm#p109), [110](wosf13.htm#p110), [145](wosf20.htm#p145), [185](wosf24.htm#p185)
+_Arbor Vitae_ [109](Part_2_2#p109), [110](Part_2_2#p110), [145](Part_3_3#p145), [185](Appendix#p185)
 
-_Archiv für Litteratur_, etc. [27](wosf06.htm#p27), [179](wosf24.htm#p179)
+_Archiv für Litteratur_, etc. [27](Part_1_4#p27), [179](Appendix#p179)
 
-Arnold, Matthew— [150](wosf22.htm#p150)
+Arnold, Matthew— [150](Part_3_5#p150)
 
-Assise MS. 338 [3](wosf03.htm#p3), [20](wosf04.htm#p20), [22](wosf05.htm#p22), [81](wosf09.htm#p81), [89](wosf10.htm#p89), [98](wosf12.htm#p98), [109](wosf13.htm#p109), [137](wosf18.htm#p137), [138](wosf18.htm#p138), [143](wosf19.htm#p143), [151](wosf22.htm#p151), [154](wosf23.htm#p154), [186](wosf24.htm#p186)
+Assise MS. 338 [3](Part_1_1#p3), [20](Part_1_2#p20), [22](Part_1_3#p22), [81](Part_1_6#p81), [89](Part_1_7#p89), [98](Part_2_1#p98), [109](Part_2_2#p109), [137](Part_3_1#p137), [138](Part_3_1#p138), [143](Part_3_2#p143), [151](Part_3_5#p151), [154](Part_3_6#p154), [186](Appendix#p186)
 
-Assise MS. 344 [148](wosf21.htm#p148)
+Assise MS. 344 [148](Part_3_4#p148)
 
-Confession d'Augsbourg [115](wosf13.htm#p115)
+Confession d'Augsbourg [115](Part_2_2#p115)
 
-Autographes de saint François [130](wosf17.htm#p130), [146](wosf21.htm#p146)
+Autographes de saint François [130](Part_2_6#p130), [146](Part_3_4#p146)
 
-Aymon de Faversham, ministre général [111](wosf13.htm#p111)
+Aymon de Faversham, ministre général [111](Part_2_2#p111)
 
 <span id="p198">[<sup><small>p. 198</small></sup>]</span>
 
-**Mauvais exemple. Saint François sur— [13](wosf03.htm#p13)
+**Mauvais exemple. Saint François sur— [13](Part_1_1#p13)
 
-Balfour. Reginald— [147](wosf21.htm#p147)
+Balfour. Reginald— [147](Part_3_4#p147)
 
-Bartholi, _Tractatus_ [97](wosf12.htm#p97), [121](wosf14.htm#p121)
+Bartholi, _Tractatus_ [97](Part_2_1#p97), [121](Part_2_3#p121)
 
-Barthélemy de Pise [5](wosf03.htm#p5), [20](wosf04.htm#p20), [32](wosf06.htm#p32), [89](wosf10.htm#p89), [98](wosf12.htm#p98), [109](wosf13.htm#p109)
+Barthélemy de Pise [5](Part_1_1#p5), [20](Part_1_2#p20), [32](Part_1_4#p32), [89](Part_1_7#p89), [98](Part_2_1#p98), [109](Part_2_2#p109)
 
-Benoît de Prato [80](wosf09.htm#p80)
+Benoît de Prato [80](Part_1_6#p80)
 
-Berlin MS [3](wosf03.htm#p3), [20](wosf04.htm#p20), [81](wosf09.htm#p81), [98](wosf12.htm#p98), [154](wosf23.htm#p154)
+Berlin MS [3](Part_1_1#p3), [20](Part_1_2#p20), [81](Part_1_6#p81), [98](Part_2_1#p98), [154](Part_3_6#p154)
 
-Bernardin de Sienne. Saint— [145](wosf20.htm#p145), [183](wosf24.htm#p183)
+Bernardin de Sienne. Saint— [145](Part_3_3#p145), [183](Appendix#p183)
 
-Bernardo de Fivizzano. Fr.— [131](wosf17.htm#p131)
+Bernardo de Fivizzano. Fr.— [131](Part_2_6#p131)
 
-Bernard de Besse [181](wosf24.htm#p181)
+Bernard de Besse [181](Appendix#p181)
 
-Sainte Vierge. Salutation de la— [143](wosf19.htm#p143)
+Sainte Vierge. Salutation de la— [143](Part_3_2#p143)
 
-Bénédiction donnée par saint François à frère Léon [149](wosf21.htm#p149)
+Bénédiction donnée par saint François à frère Léon [149](Part_3_4#p149)
 
-Bénédiction de saint François sur ceux qui reçoivent ses écrits avec bienveillance [188](wosf24.htm#p188)
+Bénédiction de saint François sur ceux qui reçoivent ses écrits avec bienveillance [188](Appendix#p188)
 
-Boehmer. H.— . [26](wosf06.htm#p26), [121](wosf14.htm#p121), [137](wosf18.htm#p137), [143](wosf19.htm#p143), [144](wosf19.htm#p144), [151](wosf22.htm#p151), [155](wosf23.htm#p155), [181](wosf24.htm#p181), [182](wosf24.htm#p182)
+Boehmer. H.— . [26](Part_1_4#p26), [121](Part_2_3#p121), [137](Part_3_1#p137), [143](Part_3_2#p143), [144](Part_3_2#p144), [151](Part_3_5#p151), [155](Part_3_6#p155), [181](Appendix#p181), [182](Appendix#p182)
 
-Bollandistes [25](wosf06.htm#p25), [115](wosf13.htm#p115)
+Bollandistes [25](Part_1_4#p25), [115](Part_2_2#p115)
 
-Bonaventure. St.— . [16](wosf03.htm#p16), [19](wosf03.htm#p19), [25](wosf06.htm#p25), [26](wosf06.htm#p26), [79](wosf09.htm#p79), [81](wosf09.htm#p81), [82](wosf09.htm#p82), [83](wosf09.htm#p83), [84](wosf09.htm#p84), [87](wosf10.htm#p87), [146](wosf21.htm#p146), [147](wosf21.htm#p147), [185](wosf24.htm#p185), [186](wosf24.htm#p186)
+Bonaventure. St.— . [16](Part_1_1#p16), [19](Part_1_1#p19), [25](Part_1_4#p25), [26](Part_1_4#p26), [79](Part_1_6#p79), [81](Part_1_6#p81), [82](Part_1_6#p82), [83](Part_1_6#p83), [84](Part_1_6#p84), [87](Part_1_7#p87), [146](Part_3_4#p146), [147](Part_3_4#p147), [185](Appendix#p185), [186](Appendix#p186)
 
 “ “ Voir _Leg. Major._
 
-Bréviaire séraphique — [25](wosf06.htm#p25)
+Bréviaire séraphique — [25](Part_1_4#p25)
 
 Frères. Lettre de saint François à tous les—:
 
-sa portée et sa date [109](wosf13.htm#p109)
+sa portée et sa date [109](Part_2_2#p109)
 
-texte de — [111](wosf13.htm#p111)
+texte de — [111](Part_2_2#p111)
 
 Frères mineurs. Voir Frères.
 
-Frères de la Pénitence [25](wosf06.htm#p25)
+Frères de la Pénitence [25](Part_1_4#p25)
 
-_Bullarium Franciscanum_ [34](wosf06.htm#p34), [75](wosf08.htm#p75), [76](wosf08.htm#p76), [79](wosf09.htm#p79)
+_Bullarium Franciscanum_ [34](Part_1_4#p34), [75](Part_1_5#p75), [76](Part_1_5#p76), [79](Part_1_6#p79)
 
-**C**ésar de Spires [27](wosf06.htm#p27), [28](wosf06.htm#p28)
+**C**ésar de Spires [27](Part_1_4#p27), [28](Part_1_4#p28)
 
-Cantique du Soleil [183](wosf24.htm#p183)
+Cantique du Soleil [183](Appendix#p183)
 
-authenticité [151](wosf22.htm#p151)
+authenticité [151](Part_3_5#p151)
 
-sa composition [150](wosf22.htm#p150)
+sa composition [150](Part_3_5#p150)
 
-texte original italien de [151](wosf22.htm#p151)
+texte original italien de [151](Part_3_5#p151)
 
-texte de [152](wosf22.htm#p152)
+texte de [152](Part_3_5#p152)
 
-Capistran MS. XXII [110](wosf13.htm#p110), [182](wosf24.htm#p182), [186](wosf24.htm#p186)
+Capistran MS. XXII [110](Part_2_2#p110), [182](Appendix#p182), [186](Appendix#p186)
 
-Carceri. Le— [88](wosf10.htm#p88)
+Carceri. Le— [88](Part_1_7#p88)
 
-Carmichael. Montgomery — [87](wosf10.htm#p87), [120](wosf14.htm#p120), [131](wosf17.htm#p131), [147](wosf21.htm#p147), [181](wosf24.htm#p181), [185](wosf24.htm#p185), [186](wosf24.htm#p186)
+Carmichael. Montgomery — [87](Part_1_7#p87), [120](Part_2_3#p120), [131](Part_2_6#p131), [147](Part_3_4#p147), [181](Appendix#p181), [185](Appendix#p185), [186](Appendix#p186)
 
-Catane. Pierre de— [121](wosf14.htm#p121)
+Catane. Pierre de— [121](Part_2_3#p121)
 
-Celano. Thomas de— cité [20](wosf04.htm#p20), [25](wosf06.htm#p25), [28](wosf06.htm#p28), [29](wosf06.htm#p29), [45](wosf06.htm#p45), [78](wosf08.htm#p78), [79](wosf09.htm#p79), [81](wosf09.htm#p81), [82](wosf09.htm#p82), [83](wosf09.htm#p83), [85](wosf09.htm#p85), [88](wosf10.htm#p88), [89](wosf10.htm#p89), [93](wosf11.htm#p93), [131](wosf17.htm#p131), [146](wosf21.htm#p146), [147](wosf21.htm#p147), [150](wosf22.htm#p150), [154](wosf23.htm#p154), [180](wosf24.htm#p180), [184](wosf24.htm#p184), [185](wosf24.htm#p185)
+Celano. Thomas de— cité [20](Part_1_2#p20), [25](Part_1_4#p25), [28](Part_1_4#p28), [29](Part_1_4#p29), [45](Part_1_4#p45), [78](Part_1_5#p78), [79](Part_1_6#p79), [81](Part_1_6#p81), [82](Part_1_6#p82), [83](Part_1_6#p83), [85](Part_1_6#p85), [88](Part_1_7#p88), [89](Part_1_7#p89), [93](Part_2_0#p93), [131](Part_2_6#p131), [146](Part_3_4#p146), [147](Part_3_4#p147), [150](Part_3_5#p150), [154](Part_3_6#p154), [180](Appendix#p180), [184](Appendix#p184), [185](Appendix#p185)
 
 <span id="p199">[<sup><small>p. 199</small></sup>]</span>
 
-Celle. Le— [79](wosf09.htm#p79), [88](wosf10.htm#p88)
+Celle. Le— [79](Part_1_6#p79), [88](Part_1_7#p88)
 
-Chérancé. Léopold de— [150](wosf22.htm#p150)
+Chérancé. Léopold de— [150](Part_3_5#p150)
 
-Chiara. Monastère de Santa— [77](wosf08.htm#p77)
+Chiara. Monastère de Santa— [77](Part_1_5#p77)
 
-_Civiltà Cattolica_ [146](wosf21.htm#p146)
+_Civiltà Cattolica_ [146](Part_3_4#p146)
 
-Claire. Fragments, écrits par saint François, de la Règle de saint — [75](wosf08.htm#p75), [94](wosf11.htm#p94)
+Claire. Fragments, écrits par saint François, de la Règle de saint — [75](Part_1_5#p75), [94](Part_2_0#p94)
 
-Canonisation [154](wosf23.htm#p154)
+Canonisation [154](Part_3_6#p154)
 
-consulté par saint François [87](wosf10.htm#p87)
+consulté par saint François [87](Part_1_7#p87)
 
-son témoignage sur l'Office de la Passion composé par saint François [154](wosf23.htm#p154)
+son témoignage sur l'Office de la Passion composé par saint François [154](Part_3_6#p154)
 
-Légende de— par Celano [154](wosf23.htm#p154)
+Légende de— par Celano [154](Part_3_6#p154)
 
-écrit une nouvelle règle [76](wosf08.htm#p76)
+écrit une nouvelle règle [76](Part_1_5#p76)
 
-Clareno. Angelo— [27](wosf06.htm#p27), [29](wosf06.htm#p29), [31](wosf06.htm#p31), [32](wosf06.htm#p32)
+Clareno. Angelo— [27](Part_1_4#p27), [29](Part_1_4#p29), [31](Part_1_4#p31), [32](Part_1_4#p32)
 
-Propreté de l'autel. Saint François le — [22](wosf05.htm#p22)
+Propreté de l'autel. Saint François le — [22](Part_1_3#p22)
 
-La pureté du cœur. Saint François sur — [25](wosf06.htm#p25)
+La pureté du cœur. Saint François sur — [25](Part_1_4#p25)
 
-Clercs. Saint François en l'honneur dû à— [18](wosf03.htm#p18)
+Clercs. Saint François en l'honneur dû à— [18](Part_1_1#p18)
 
-Codex contenant des admonitions [3](wosf03.htm#p3)
+Codex contenant des admonitions [3](Part_1_1#p3)
 
-“ “ Instruction sur le Corps du Seigneur [22](wosf05.htm#p22)
+“ “ Instruction sur le Corps du Seigneur [22](Part_1_3#p22)
 
-“ “ Lettre à tous les fidèles [98](wosf12.htm#p98)
+“ “ Lettre à tous les fidèles [98](Part_2_1#p98)
 
-“ “ “ “ “ “ “ Frères [109](wosf13.htm#p109)
+“ “ “ “ “ “ “ Frères [109](Part_2_2#p109)
 
-“ “ “ “ un ministre [120](wosf14.htm#p120)
+“ “ “ “ un ministre [120](Part_2_3#p120)
 
-“ “ Louanges et paraphrase du _Pater noster_ [137](wosf18.htm#p137)
+“ “ Louanges et paraphrase du _Pater noster_ [137](Part_3_1#p137)
 
-“ “ Règlement pour les ermitages [89](wosf10.htm#p89)
+“ “ Règlement pour les ermitages [89](Part_1_7#p89)
 
-“ “ Salutation des Vertus [20](wosf04.htm#p20)
+“ “ Salutation des Vertus [20](Part_1_2#p20)
 
-“ “ “ “ “ Sainte Vierge, [143](wosf19.htm#p143)
+“ “ “ “ “ Sainte Vierge, [143](Part_3_2#p143)
 
-“ “ Testament [81](wosf09.htm#p81)
+“ “ Testament [81](Part_1_6#p81)
 
-_Collationes_ attribuée à saint François par Wadding [184](wosf24.htm#p184)
+_Collationes_ attribuée à saint François par Wadding [184](Appendix#p184)
 
-_Commercium_. Le _Sacrum_— [87](wosf10.htm#p87), [185](wosf24.htm#p185), [186](wosf24.htm#p186)
+_Commercium_. Le _Sacrum_— [87](Part_1_7#p87), [185](Appendix#p185), [186](Appendix#p186)
 
-Compagnons. Les Trois— [79](wosf09.htm#p79)
+Compagnons. Les Trois— [79](Part_1_6#p79)
 
 “ “ “ Légende. Voir _Leg. III Soc._
 
-Compassion. Saint François sur— [15](wosf03.htm#p15)
+Compassion. Saint François sur— [15](Part_1_1#p15)
 
-Confession des Frères [53](wosf06.htm#p53)
+Confession des Frères [53](Part_1_4#p53)
 
-_Conformitatum. Liber_— [5](wosf03.htm#p5), [20](wosf04.htm#p20), [32](wosf06.htm#p32), [89](wosf10.htm#p89), [98](wosf12.htm#p98), [109](wosf13.htm#p109), [120](wosf14.htm#p120), [122](wosf14.htm#p122), [139](wosf18.htm#p139), [143](wosf19.htm#p143), [151](wosf22.htm#p151), [152](wosf22.htm#p152), [180](wosf24.htm#p180)
+_Conformitatum. Liber_— [5](Part_1_1#p5), [20](Part_1_2#p20), [32](Part_1_4#p32), [89](Part_1_7#p89), [98](Part_2_1#p98), [109](Part_2_2#p109), [120](Part_2_3#p120), [122](Part_2_3#p122), [139](Part_3_1#p139), [143](Part_3_2#p143), [151](Part_3_5#p151), [152](Part_3_5#p152), [180](Appendix#p180)
 
-Vie contemplative. Prédilection de saint François pour… [87](wosf10.htm#p87)
+Vie contemplative. Prédilection de saint François pour… [87](Part_1_7#p87)
 
-Correction. Saint François sur le vrai— [17](wosf03.htm#p17)
+Correction. Saint François sur le vrai— [17](Part_1_1#p17)
 
 <span id="p200">[<sup><small>p. 200</small></sup>]</span>
 
-Correction des Frères. Saint François sur— [37](wosf06.htm#p37)
+Correction des Frères. Saint François sur— [37](Part_1_4#p37)
 
-Cortone [79](wosf09.htm#p79), [88](wosf10.htm#p88)
+Cortone [79](Part_1_6#p79), [88](Part_1_7#p88)
 
-Cozza-Luzi. G.— [77](wosf08.htm#p77)
+Cozza-Luzi. G.— [77](Part_1_5#p77)
 
 Créatures. Louanges de — Voir Cantique.
 
-Croix du Seigneur. Saint François sur— [10](wosf03.htm#p10)
+Croix du Seigneur. Saint François sur— [10](Part_1_1#p10)
 
 Croix. Bureau du— Voir Bureau.
 
-_Cum omnis vera_, Taureau [75](wosf08.htm#p75)
+_Cum omnis vera_, Taureau [75](Part_1_5#p75)
 
-_Cum secundum_, Taureau [34](wosf06.htm#p34)
+_Cum secundum_, Taureau [34](Part_1_4#p34)
 
-Custode. Lettre de saint François à — [95](wosf11.htm#p95), [127](wosf16.htm#p127)
+Custode. Lettre de saint François à — [95](Part_2_0#p95), [127](Part_2_5#p127)
 
-Cuthbert, OSFC Fr.— [132](wosf17.htm#p132), [180](wosf24.htm#p180)
+Cuthbert, OSFC Fr.— [132](Part_2_6#p132), [180](Appendix#p180)
 
-**D**amian's. St.— [75](wosf08.htm#p75), [76](wosf08.htm#p76), [150](wosf22.htm#p150), [152](wosf22.htm#p152), [180](wosf24.htm#p180)
+**D**amian's. St.— [75](Part_1_5#p75), [76](Part_1_5#p76), [150](Part_3_5#p150), [152](Part_3_5#p152), [180](Appendix#p180)
 
-Dante [97](wosf12.htm#p97), [150](wosf22.htm#p150), [183](wosf24.htm#p183)
+Dante [97](Part_2_1#p97), [150](Part_3_5#p150), [183](Appendix#p183)
 
-Mort. Saint François sur les prières pour… [35](wosf06.htm#p35)
+Mort. Saint François sur les prières pour… [35](Part_1_4#p35)
 
-De la Warr. Comtesse— [138](wosf18.htm#p138)
+De la Warr. Comtesse— [138](Part_3_1#p138)
 
 Digne. Hugo de— Voir Hugo.
 
-Amour divin. Prière de saint François pour obtenir — [145](wosf20.htm#p145)
+Amour divin. Prière de saint François pour obtenir — [145](Part_3_3#p145)
 
-“ Office. Saint François sur— [35](wosf06.htm#p35), [66](wosf07.htm#p66), [81](wosf09.htm#p81), [109](wosf13.htm#p109)
+“ Office. Saint François sur— [35](Part_1_4#p35), [66](Part_1_4b#p66), [81](Part_1_6#p81), [109](Part_2_2#p109)
 
 Voir ses lettres _passim_.
 
-_Documenta Antiqua Franciscana_ [3](wosf03.htm#p3), [13](wosf03.htm#p13), [16](wosf03.htm#p16), [80](wosf09.htm#p80), [84](wosf09.htm#p84)
+_Documenta Antiqua Franciscana_ [3](Part_1_1#p3), [13](Part_1_1#p13), [16](Part_1_1#p16), [80](Part_1_6#p80), [84](Part_1_6#p84)
 
-Écrits douteux de saint François [179](wosf24.htm#p179)
+Écrits douteux de saint François [179](Appendix#p179)
 
-Düsseldorf MS. [20](wosf04.htm#p20), [22](wosf05.htm#p22), [98](wosf12.htm#p98), [109](wosf13.htm#p109)
+Düsseldorf MS. [20](Part_1_2#p20), [22](Part_1_3#p22), [98](Part_2_1#p98), [109](Part_2_2#p109)
 
-**E**ccleston. Père Thomas — cité [132](wosf17.htm#p132), [180](wosf24.htm#p180)
+**E**ccleston. Père Thomas — cité [132](Part_2_6#p132), [180](Appendix#p180)
 
-Édouard d'Alençon. Fr.— [121](wosf14.htm#p121), [147](wosf21.htm#p147), [181](wosf24.htm#p181), [185](wosf24.htm#p185)
+Édouard d'Alençon. Fr.— [121](Part_2_3#p121), [147](Part_3_4#p147), [181](Appendix#p181), [185](Appendix#p185)
 
-Ehrle, SJ Fr.— [27](wosf06.htm#p27), [31](wosf06.htm#p31)
+Ehrle, SJ Fr.— [27](Part_1_4#p27), [31](Part_1_4#p31)
 
 Élie. Fr.—:
 
-Bénédiction donnée à— [85](wosf09.htm#p85)
+Bénédiction donnée à— [85](Part_1_6#p85)
 
-Lettre à— [93](wosf11.htm#p93), [116](wosf13.htm#p116), [121](wosf14.htm#p121)
+Lettre à— [93](Part_2_0#p93), [116](Part_2_2#p116), [121](Part_2_3#p121)
 
-écrit des lettres aux frères près de Valenciennes [30](wosf06.htm#p30)
+écrit des lettres aux frères près de Valenciennes [30](Part_1_4#p30)
 
-Envie. Saint François sur— [12](wosf03.htm#p12)
+Envie. Saint François sur— [12](Part_1_1#p12)
 
-**F**_ac secundum exemplaire_ [88](wosf10.htm#p88), [137](wosf18.htm#p137)
+**F**_ac secundum exemplaire_ [88](Part_1_7#p88), [137](Part_3_1#p137)
 
-Fidèles. Lettre de saint François à — [94](wosf11.htm#p94)
+Fidèles. Lettre de saint François à — [94](Part_2_0#p94)
 
-son authenticité, sa date de composition et ses caractéristiques [96](wosf12.htm#p96)
+son authenticité, sa date de composition et ses caractéristiques [96](Part_2_1#p96)
 
-texte de [98](wosf12.htm#p98)
+texte de [98](Part_2_1#p98)
 
 <span id="p201">[<sup><small>p. 201</small></sup>]</span>
 
-Faloci. Gérant — [5](wosf03.htm#p5), [22](wosf05.htm#p22), [110](wosf13.htm#p110), [130](wosf17.htm#p130), [132](wosf17.htm#p132), [14](wosf03.htm#p14)
+Faloci. Gérant — [5](Part_1_1#p5), [22](Part_1_3#p22), [110](Part_2_2#p110), [130](Part_2_6#p130), [132](Part_2_6#p132), [14](Part_1_1#p14)
 
-Jeûne. Saint François sur— [35](wosf06.htm#p35), [36](wosf06.htm#p36), [66](wosf07.htm#p66)
+Jeûne. Saint François sur— [35](Part_1_4#p35), [36](Part_1_4#p36), [66](Part_1_4b#p66)
 
-_Fioretti_. Le— [87](wosf10.htm#p87), [93](wosf11.htm#p93)
+_Fioretti_. Le— [87](Part_1_7#p87), [93](Part_2_0#p93)
 
-_Firmamenta Ordinis Minorum_ [4](wosf03.htm#p4), [27](wosf06.htm#p27), [32](wosf06.htm#p32), [81](wosf09.htm#p81), [82](wosf09.htm#p82), [83](wosf09.htm#p83), [85](wosf09.htm#p85), [110](wosf13.htm#p110), [138](wosf18.htm#p138)
+_Firmamenta Ordinis Minorum_ [4](Part_1_1#p4), [27](Part_1_4#p27), [32](Part_1_4#p32), [81](Part_1_6#p81), [82](Part_1_6#p82), [83](Part_1_6#p83), [85](Part_1_6#p85), [110](Part_2_2#p110), [138](Part_3_1#p138)
 
-_Floretum S. Francisci_ [87](wosf10.htm#p87)
+_Floretum S. Francisci_ [87](Part_1_7#p87)
 
-Église Saint-Floriano — [4](wosf03.htm#p4), [81](wosf09.htm#p81), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [120](wosf14.htm#p120)
+Église Saint-Floriano — [4](Part_1_1#p4), [81](Part_1_6#p81), [98](Part_2_1#p98), [110](Part_2_2#p110), [120](Part_2_3#p120)
 
-Foligno MS. [4](wosf03.htm#p4), [20](wosf04.htm#p20), [88](wosf10.htm#p88), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [137](wosf18.htm#p137)
+Foligno MS. [4](Part_1_1#p4), [20](Part_1_2#p20), [88](Part_1_7#p88), [98](Part_2_1#p98), [110](Part_2_2#p110), [137](Part_3_1#p137)
 
-_Forma vivendi_ donnée par saint François à sainte Claire. [77](wosf08.htm#p77)
+_Forma vivendi_ donnée par saint François à sainte Claire. [77](Part_1_5#p77)
 
-François. Paroles de saint — [16](wosf03.htm#p16), [19](wosf03.htm#p19)
+François. Paroles de saint — [16](Part_1_1#p16), [19](Part_1_1#p19)
 
-compose le Cantique du Soleil [150](wosf22.htm#p150)
+compose le Cantique du Soleil [150](Part_3_5#p150)
 
-compose l'Office de la Passion [154](wosf23.htm#p154)
+compose l'Office de la Passion [154](Part_3_6#p154)
 
-dictats Testament [79](wosf09.htm#p79)
+dictats Testament [79](Part_1_6#p79)
 
-donne une feuille avec bénédiction et laudes au frère Léo [146](wosf21.htm#p146)
+donne une feuille avec bénédiction et laudes au frère Léo [146](Part_3_4#p146)
 
-sa paraphrase du _Pater noster_ [139](wosf18.htm#p139)
+sa paraphrase du _Pater noster_ [139](Part_3_1#p139)
 
-sa Salutation de la Sainte Vierge [143](wosf19.htm#p143)
+sa Salutation de la Sainte Vierge [143](Part_3_2#p143)
 
 Lettres de— Voir Lettres.
 
-poèmes de— [183](wosf24.htm#p183)
+poèmes de— [183](Appendix#p183)
 
-Eloges composées par [137](wosf18.htm#p137), [148](wosf21.htm#p148)
+Eloges composées par [137](Part_3_1#p137), [148](Part_3_4#p148)
 
-Prières de— [136](wosf18.htm#p136), [180](wosf24.htm#p180), [185](wosf24.htm#p185)
+Prières de— [136](Part_3_1#p136), [180](Appendix#p180), [185](Appendix#p185)
 
-Prière pour obtenir l'Amour Divin [145](wosf20.htm#p145)
+Prière pour obtenir l'Amour Divin [145](Part_3_3#p145)
 
-Règle du Troisième Ordre écrite par— [182](wosf24.htm#p182)
+Règle du Troisième Ordre écrite par— [182](Appendix#p182)
 
-sermons attribués à tort à— [184](wosf24.htm#p184)
+sermons attribués à tort à— [184](Appendix#p184)
 
-écrit la Première Règle pour les Frères [25](wosf06.htm#p25).
+écrit la Première Règle pour les Frères [25](Part_1_4#p25).
 
-“ deuxième [26](wosf06.htm#p26)
+“ deuxième [26](Part_1_4#p26)
 
-“ _Formula Vitae_ pour Sainte Claire [75](wosf08.htm#p75)
+“ _Formula Vitae_ pour Sainte Claire [75](Part_1_5#p75)
 
-« dernier souhait » pour Sainte Claire [78](wosf08.htm#p78), [94](wosf11.htm#p94)
+« dernier souhait » pour Sainte Claire [78](Part_1_5#p78), [94](Part_2_0#p94)
 
 Fribourg MS. non
 
 Frères. Lettre de saint François à tous — Voir Frères.
 
-**G**aspary [150](wosf22.htm#p150)
+**G**aspary [150](Part_3_5#p150)
 
-Chapitre général. Lettre de saint François à… [94](wosf11.htm#p94), [109](wosf13.htm#p109)
+Chapitre général. Lettre de saint François à… [94](Part_2_0#p94), [109](Part_2_2#p109)
 
-Giacoma di Settisoli [93](wosf11.htm#p93)
+Giacoma di Settisoli [93](Part_2_0#p93)
 
 Giano. Jordan de— Voir Jordan.
 
-Gilles. Béni — Ses _Dicta_ [137](wosf18.htm#p137), [187](wosf24.htm#p187)
+Gilles. Béni — Ses _Dicta_ [137](Part_3_1#p137), [187](Appendix#p187)
 
-Goetz. Walter — cité [3](wosf03.htm#p3), [79](wosf09.htm#p79), [119](wosf14.htm#p119), [125](wosf15.htm#p125), [151](wosf22.htm#p151), [181](wosf24.htm#p181), [184](wosf24.htm#p184)
+Goetz. Walter — cité [3](Part_1_1#p3), [79](Part_1_6#p79), [119](Part_2_3#p119), [125](Part_2_4#p125), [151](Part_3_5#p151), [181](Appendix#p181), [184](Appendix#p184)
 
-Gonzague, Ministre général. Vénérable François — [125](wosf15.htm#p125)
+Gonzague, Ministre général. Vénérable François — [125](Part_2_4#p125)
 
 <span id="p202">[<sup><small>p. 202</small></sup>]</span>
 
-Bien, de peur qu'il ne se perde. Saint François se cachant — [19](wosf03.htm#p19)
+Bien, de peur qu'il ne se perde. Saint François se cachant — [19](Part_1_1#p19)
 
-Bonnes œuvres. Saint François sur la nécessité de — [11](wosf03.htm#p11)
+Bonnes œuvres. Saint François sur la nécessité de — [11](Part_1_1#p11)
 
-Greccio [88](wosf10.htm#p88)
+Greccio [88](Part_1_7#p88)
 
-Grégoire IX. (Voir aussi Ugolin.) [75](wosf08.htm#p75), [79](wosf09.htm#p79)
+Grégoire IX. (Voir aussi Ugolin.) [75](Part_1_5#p75), [79](Part_1_6#p79)
 
-Grégoire le Grand. St.— [89](wosf10.htm#p89)
+Grégoire le Grand. St.— [89](Part_1_7#p89)
 
 Guarnacci. Voir Volterra.
 
-**H**ague MS. [81](wosf09.htm#p81)
+**H**ague MS. [81](Part_1_6#p81)
 
-Herkless. Professeur John— [180](wosf24.htm#p180)
+Herkless. Professeur John— [180](Appendix#p180)
 
 Ermitages. Règlement pour— Voir Règlement.
 
-Honorius III [26](wosf06.htm#p26), [28](wosf06.htm#p28), [30](wosf06.htm#p30), [31](wosf06.htm#p31), [34](wosf06.htm#p34), [64](wosf06.htm#p64), [75](wosf08.htm#p75), [119](wosf14.htm#p119)
+Honorius III [26](Part_1_4#p26), [28](Part_1_4#p28), [30](Part_1_4#p30), [31](Part_1_4#p31), [34](Part_1_4#p34), [64](Part_1_4#p64), [75](Part_1_5#p75), [119](Part_2_3#p119)
 
-Hugo de Digne [27](wosf06.htm#p27), [29](wosf06.htm#p29), [30](wosf06.htm#p30), [32](wosf06.htm#p32), [45](wosf06.htm#p45)
+Hugo de Digne [27](Part_1_4#p27), [29](Part_1_4#p29), [30](Part_1_4#p30), [32](Part_1_4#p32), [45](Part_1_4#p45)
 
-Humilité. Saint François sur la Vraie Humilité — [17](wosf03.htm#p17)
+Humilité. Saint François sur la Vraie Humilité — [17](Part_1_1#p17)
 
-**Oisiveté**. Saint François sur— [40](wosf06.htm#p40)
+**Oisiveté**. Saint François sur— [40](Part_1_4#p40)
 
-_Imitation du Christ_ [16](wosf03.htm#p16)
+_Imitation du Christ_ [16](Part_1_1#p16)
 
-Imitation du Seigneur. Saint François sur — [11](wosf03.htm#p11)
+Imitation du Seigneur. Saint François sur — [11](Part_1_1#p11)
 
-Innocent III approuve la règle _viva voce_ [25](wosf06.htm#p25), [26](wosf06.htm#p26), [27](wosf06.htm#p27), [30](wosf06.htm#p30), [31](wosf06.htm#p31), [32](wosf06.htm#p32), [179](wosf24.htm#p179)
+Innocent III approuve la règle _viva voce_ [25](Part_1_4#p25), [26](Part_1_4#p26), [27](Part_1_4#p27), [30](Part_1_4#p30), [31](Part_1_4#p31), [32](Part_1_4#p32), [179](Appendix#p179)
 
-Innocent IV [75](wosf08.htm#p75), [76](wosf08.htm#p76)
+Innocent IV [75](Part_1_5#p75), [76](Part_1_5#p76)
 
-Instruction sur la révérence envers le Corps du Seigneur [22](wosf05.htm#p22), [94](wosf11.htm#p94)
+Instruction sur la révérence envers le Corps du Seigneur [22](Part_1_3#p22), [94](Part_2_0#p94)
 
-son authenticité [22](wosf05.htm#p22)
+son authenticité [22](Part_1_3#p22)
 
-Manuscrit d'Isidore, 25 janvier. St.— [4](wosf03.htm#p4), [88](wosf10.htm#p88), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [120](wosf14.htm#p120), [121](wosf14.htm#p121)
+Manuscrit d'Isidore, 25 janvier. St.— [4](Part_1_1#p4), [88](Part_1_7#p88), [98](Part_2_1#p98), [110](Part_2_2#p110), [120](Part_2_3#p120), [121](Part_2_3#p121)
 
-“ “ 1/73 “ [4](wosf03.htm#p4), [22](wosf05.htm#p22), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [137](wosf18.htm#p137)
+“ “ 1/73 “ [4](Part_1_1#p4), [22](Part_1_3#p22), [98](Part_2_1#p98), [110](Part_2_2#p110), [137](Part_3_1#p137)
 
-“ “ 1/92. “ [27](wosf06.htm#p27), [31](wosf06.htm#p31)
+“ “ 1/92. “ [27](Part_1_4#p27), [31](Part_1_4#p31)
 
 **J**acoba. Voir Giacoma.
 
-Jacopone da Todi [183](wosf24.htm#p183)
+Jacopone da Todi [183](Appendix#p183)
 
-Jacques de Vitry [28](wosf06.htm#p28)
+Jacques de Vitry [28](Part_1_4#p28)
 
-Jérôme. St.— [40](wosf06.htm#p40)
+Jérôme. St.— [40](Part_1_4#p40)
 
-Jourdain de Giano [27](wosf06.htm#p27), [28](wosf06.htm#p28)
+Jourdain de Giano [27](Part_1_4#p27), [28](Part_1_4#p28)
 
-Julien de Spire [25](wosf06.htm#p25)
+Julien de Spire [25](Part_1_4#p25)
 
-**F**lles. Pauvres— [25](wosf06.htm#p25)
+**F**lles. Pauvres— [25](Part_1_4#p25)
 
-Dernier souhait écrit par saint François à sainte Claire [78](wosf08.htm#p78)
+Dernier souhait écrit par saint François à sainte Claire [78](Part_1_5#p78)
 
-Édifice Laurentien [3](wosf03.htm#p3), [4](wosf03.htm#p4)
+Édifice Laurentien [3](Part_1_1#p3), [4](Part_1_1#p4)
 
 <span id="p203">[<sup><small>p. 203</small></sup>]</span>
 
-_Légende majeure_ [16](wosf03.htm#p16), [19](wosf03.htm#p19), [25](wosf06.htm#p25), [26](wosf06.htm#p26), [79](wosf09.htm#p79), [81](wosf09.htm#p81), [82](wosf09.htm#p82), [84](wosf09.htm#p84), [87](wosf10.htm#p87), [146](wosf21.htm#p146), [147](wosf21.htm#p147), [185](wosf24.htm#p185)
+_Légende majeure_ [16](Part_1_1#p16), [19](Part_1_1#p19), [25](Part_1_4#p25), [26](Part_1_4#p26), [79](Part_1_6#p79), [81](Part_1_6#p81), [82](Part_1_6#p82), [84](Part_1_6#p84), [87](Part_1_7#p87), [146](Part_3_4#p146), [147](Part_3_4#p147), [185](Appendix#p185)
 
-_Legenda Trium Sociorum_ [27](wosf06.htm#p27), [41](wosf06.htm#p41), [79](wosf09.htm#p79), [81](wosf09.htm#p81), [83](wosf09.htm#p83), [88](wosf10.htm#p88), [180](wosf24.htm#p180)
+_Legenda Trium Sociorum_ [27](Part_1_4#p27), [41](Part_1_4#p41), [79](Part_1_6#p79), [81](Part_1_6#p81), [83](Part_1_6#p83), [88](Part_1_7#p88), [180](Appendix#p180)
 
-Législation. Le Séraphique — [25](wosf06.htm#p25)
+Législation. Le Séraphique — [25](Part_1_4#p25)
 
-Liegnitz MS. [4](wosf03.htm#p4), [20](wosf04.htm#p20), [22](wosf05.htm#p22), [81](wosf09.htm#p81), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [137](wosf18.htm#p137), [154](wosf23.htm#p154), [181](wosf24.htm#p181)
+Liegnitz MS. [4](Part_1_1#p4), [20](Part_1_2#p20), [22](Part_1_3#p22), [81](Part_1_6#p81), [98](Part_2_1#p98), [110](Part_2_2#p110), [137](Part_3_1#p137), [154](Part_3_6#p154), [181](Appendix#p181)
 
-Lemberg MS. [4](wosf03.htm#p4), [98](wosf12.htm#p98), [137](wosf18.htm#p137)
+Lemberg MS. [4](Part_1_1#p4), [98](Part_2_1#p98), [137](Part_3_1#p137)
 
-Lemmens [4](wosf03.htm#p4), [76](wosf08.htm#p76), [80](wosf09.htm#p80)
+Lemmens [4](Part_1_1#p4), [76](Part_1_5#p76), [80](Part_1_6#p80)
 
 Voir aussi _Spec. Perf._ éd. Lemm. et _Doc Ant. Franc._
 
-Le Monnier. Léon— [30](wosf06.htm#p30), [96](wosf12.htm#p96), [97](wosf12.htm#p97)
+Le Monnier. Léon— [30](Part_1_4#p30), [96](Part_2_1#p96), [97](Part_2_1#p97)
 
-Lempp. Dr. E.— [76](wosf08.htm#p76), [120](wosf14.htm#p120), [121](wosf14.htm#p121), [181](wosf24.htm#p181)
+Lempp. Dr. E.— [76](Part_1_5#p76), [120](Part_2_3#p120), [121](Part_2_3#p121), [181](Appendix#p181)
 
-Léo. Frère — [80](wosf09.htm#p80), [94](wosf11.htm#p94), [95](wosf11.htm#p95), [118](wosf13.htm#p118)
+Léo. Frère — [80](Part_1_6#p80), [94](Part_2_0#p94), [95](Part_2_0#p95), [118](Part_2_2#p118)
 
-Bénédiction donnée par saint François à— [146](wosf21.htm#p146), [149](wosf21.htm#p149)
+Bénédiction donnée par saint François à— [146](Part_3_4#p146), [149](Part_3_4#p149)
 
-difficultés de construction dans [130](wosf17.htm#p130)
+difficultés de construction dans [130](Part_2_6#p130)
 
-histoire de l'autographe [130](wosf17.htm#p130)
+histoire de l'autographe [130](Part_2_6#p130)
 
-Lettre de saint François à— [130](wosf17.htm#p130)
+Lettre de saint François à— [130](Part_2_6#p130)
 
-texte de [132](wosf17.htm#p132)
+texte de [132](Part_2_6#p132)
 
-Lépreux. La miséricorde de saint François envers… [81](wosf09.htm#p81)
+Lépreux. La miséricorde de saint François envers… [81](Part_1_6#p81)
 
 Lettres de saint François :
 
-leur nombre et leur classification [93](wosf11.htm#p93), [94](wosf11.htm#p94), [180](wosf24.htm#p180)
+leur nombre et leur classification [93](Part_2_0#p93), [94](Part_2_0#p94), [180](Appendix#p180)
 
-à tous les fidèles [96](wosf12.htm#p96)
+à tous les fidèles [96](Part_2_1#p96)
 
-à tous les frères [109](wosf13.htm#p109)
+à tous les frères [109](Part_2_2#p109)
 
-à un ministre [119](wosf14.htm#p119)
+à un ministre [119](Part_2_3#p119)
 
-aux dirigeants [125](wosf15.htm#p125)
+aux dirigeants [125](Part_2_4#p125)
 
-aux Custodes [127](wosf16.htm#p127)
+aux Custodes [127](Part_2_5#p127)
 
-à frère Léo [130](wosf17.htm#p130)
+à frère Léo [130](Part_2_6#p130)
 
-Petit. AG— [4](wosf03.htm#p4), [155](wosf23.htm#p155)
+Petit. AG— [4](Part_1_1#p4), [155](Part_3_6#p155)
 
-Petit. WJ Knox— [28](wosf06.htm#p28), [96](wosf12.htm#p96), [151](wosf22.htm#p151)
+Petit. WJ Knox— [28](Part_1_4#p28), [96](Part_2_1#p96), [151](Part_3_5#p151)
 
-Corps du Seigneur. Saint François sur la révérence pour… [5](wosf03.htm#p5), [23](wosf05.htm#p23), [109](wosf13.htm#p109)
+Corps du Seigneur. Saint François sur la révérence pour… [5](Part_1_1#p5), [23](Part_1_3#p23), [109](Part_2_2#p109)
 
-Notre Père. Paraphrase de saint François sur le… [137](wosf18.htm#p137)
+Notre Père. Paraphrase de saint François sur le… [137](Part_3_1#p137)
 
-Corps du Seigneur. Instruction de saint François sur la réception du — [20](wosf04.htm#p20), [94](wosf11.htm#p94)
+Corps du Seigneur. Instruction de saint François sur la réception du — [20](Part_1_2#p20), [94](Part_2_0#p94)
 
-révérence pour— [22](wosf05.htm#p22)
+révérence pour— [22](Part_1_3#p22)
 
-Le Speco [88](wosf10.htm#p88)
+Le Speco [88](Part_1_7#p88)
 
-Écrits perdus de saint François [179](wosf24.htm#p179)
+Écrits perdus de saint François [179](Appendix#p179)
 
-Amour. Prière de saint François pour obtenir l'amour divin — [145](wosf20.htm#p145)
+Amour. Prière de saint François pour obtenir l'amour divin — [145](Part_3_3#p145)
 
 “ Saint François sur— II
 
-“ Saint François sur la Vraie— [18](wosf03.htm#p18)
+“ Saint François sur la Vraie— [18](Part_1_1#p18)
 
-Luttich MS. [4](wosf03.htm#p4), [98](wosf12.htm#p98)
+Luttich MS. [4](Part_1_1#p4), [98](Part_2_1#p98)
 
 <span id="p204">[<sup><small>p. 204</small></sup>]</span>
 
-**M**andonnet, OP [182](wosf24.htm#p182), [184](wosf24.htm#p184)
+**M**andonnet, OP [182](Appendix#p182), [184](Appendix#p184)
 
-Marianus de Florence [22](wosf05.htm#p22)
+Marianus de Florence [22](Part_1_3#p22)
 
-Marie-Madeleine. St.— [82](wosf09.htm#p82)
+Marie-Madeleine. St.— [82](Part_1_6#p82)
 
 Marie. La Sainte Vierge — Voir Sainte Vierge.
 
-Rue Marthe — [89](wosf10.htm#p89)
+Rue Marthe — [89](Part_1_7#p89)
 
-Mazarin MS. 989 [4](wosf03.htm#p4), [20](wosf04.htm#p20), [22](wosf05.htm#p22), [81](wosf09.htm#p81), [98](wosf12.htm#p98), [110](wosf13.htm#p110)
+Mazarin MS. 989 [4](Part_1_1#p4), [20](Part_1_2#p20), [22](Part_1_3#p22), [81](Part_1_6#p81), [98](Part_2_1#p98), [110](Part_2_2#p110)
 
-“ “ 1743 [4](wosf03.htm#p4), [20](wosf04.htm#p20), [22](wosf05.htm#p22), [98](wosf12.htm#p98), [110](wosf13.htm#p110)
+“ “ 1743 [4](Part_1_1#p4), [20](Part_1_2#p20), [22](Part_1_3#p22), [98](Part_2_1#p98), [110](Part_2_2#p110)
 
-Mélanchthon. Philippe— [115](wosf13.htm#p115)
+Mélanchthon. Philippe— [115](Part_2_2#p115)
 
-Ministre général. Élection de — [70](wosf07.htm#p70)
+Ministre général. Élection de — [70](Part_1_4b#p70)
 
-Ministre. Lettre de saint François à un— [94](wosf11.htm#p94), [95](wosf11.htm#p95), [118](wosf13.htm#p118)
+Ministre. Lettre de saint François à un— [94](Part_2_0#p94), [95](Part_2_0#p95), [118](Part_2_2#p118)
 
-sa portée [119](wosf14.htm#p119)
+sa portée [119](Part_2_3#p119)
 
-incertitude quant à son destinataire [119](wosf14.htm#p119)
+incertitude quant à son destinataire [119](Part_2_3#p119)
 
 _Minorum Annales_. Voir _Annales_.
 
-_Divers Francescana_ [5](wosf03.htm#p5), [22](wosf05.htm#p22), [81](wosf09.htm#p81), [110](wosf13.htm#p110), [130](wosf17.htm#p130), [183](wosf24.htm#p183)
+_Divers Francescana_ [5](Part_1_1#p5), [22](Part_1_3#p22), [81](Part_1_6#p81), [110](Part_2_2#p110), [130](Part_2_6#p130), [183](Appendix#p183)
 
-Argent interdit aux Frères [41](wosf06.htm#p41), [68](wosf07.htm#p68)
+Argent interdit aux Frères [41](Part_1_4#p41), [68](Part_1_4b#p68)
 
-_Monumenta Germaniae Historica_ [30](wosf06.htm#p30), [132](wosf17.htm#p132)
+_Monumenta Germaniae Historica_ [30](Part_1_4#p30), [132](Part_2_6#p132)
 
-_Monumenta Ordinis Minorum_ [5](wosf03.htm#p5), [27](wosf06.htm#p27), [32](wosf06.htm#p32), [81](wosf09.htm#p81), [85](wosf09.htm#p85), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [138](wosf18.htm#p138), [187](wosf24.htm#p187)
+_Monumenta Ordinis Minorum_ [5](Part_1_1#p5), [27](Part_1_4#p27), [32](Part_1_4#p32), [81](Part_1_6#p81), [85](Part_1_6#p85), [98](Part_2_1#p98), [110](Part_2_2#p110), [138](Part_3_1#p138), [187](Appendix#p187)
 
-Mortification. Saint François sur— [13](wosf03.htm#p13)
+Mortification. Saint François sur— [13](Part_1_1#p13)
 
-Munich MS. 11354 [4](wosf03.htm#p4), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [187](wosf24.htm#p187)
+Munich MS. 11354 [4](Part_1_1#p4), [98](Part_2_1#p98), [110](Part_2_2#p110), [187](Appendix#p187)
 
-“ “ 23648 [27](wosf06.htm#p27)
+“ “ 23648 [27](Part_1_4#p27)
 
-Müller. Karl— [26](wosf06.htm#p26)
+Müller. Karl— [26](Part_1_4#p26)
 
-**N**ames. Saint François sur le saint— [22](wosf05.htm#p22), [82](wosf09.htm#p82)
+**N**ames. Saint François sur le saint— [22](Part_1_3#p22), [82](Part_1_6#p82)
 
 Voir aussi ses Lettres _passim_.
 
-Naples MS. XII F 4, [20](wosf04.htm#p20), [120](wosf14.htm#p120), [121](wosf14.htm#p121), [184](wosf24.htm#p184)
+Naples MS. XII F 4, [20](Part_1_2#p20), [120](Part_2_3#p120), [121](Part_2_3#p121), [184](Appendix#p184)
 
-“ “ F 32 [98](wosf12.htm#p98)
+“ “ F 32 [98](Part_2_1#p98)
 
-**O**bénédiction. Saint François sur le parfait et l'imparfait — [8](wosf03.htm#p8)
+**O**bénédiction. Saint François sur le parfait et l'imparfait — [8](Part_1_1#p8)
 
-Office de la Passion composé par saint François [154](wosf23.htm#p154)
+Office de la Passion composé par saint François [154](Part_3_6#p154)
 
-sa division [155](wosf23.htm#p155)
+sa division [155](Part_3_6#p155)
 
-Sainte Claire y fait référence [154](wosf23.htm#p154)
+Sainte Claire y fait référence [154](Part_3_6#p154)
 
-Français : Ognissanti MS. [4](wosf03.htm#p4), [20](wosf04.htm#p20), [32](wosf06.htm#p32), [81](wosf09.htm#p81), [88](wosf10.htm#p88), [89](wosf10.htm#p89), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [120](wosf14.htm#p120), [121](wosf14.htm#p121), [122](wosf14.htm#p122), [137](wosf18.htm#p137), [143](wosf19.htm#p143)
+Français : Ognissanti MS. [4](Part_1_1#p4), [20](Part_1_2#p20), [32](Part_1_4#p32), [81](Part_1_6#p81), [88](Part_1_7#p88), [89](Part_1_7#p89), [98](Part_2_1#p98), [110](Part_2_2#p110), [120](Part_2_3#p120), [121](Part_2_3#p121), [122](Part_2_3#p122), [137](Part_3_1#p137), [143](Part_3_2#p143)
 
-_Opuscules_. Édition de Wadding des — [20](wosf04.htm#p20), [22](wosf05.htm#p22), [66](wosf07.htm#p66), [77](wosf08.htm#p77), [87](wosf10.htm#p87), [89](wosf10.htm#p89), [93](wosf11.htm#p93), [125](wosf15.htm#p125), [184](wosf24.htm#p184), [185](wosf24.htm#p185)
+_Opuscules_. Édition de Wadding des — [20](Part_1_2#p20), [22](Part_1_3#p22), [66](Part_1_4b#p66), [77](Part_1_5#p77), [87](Part_1_7#p87), [89](Part_1_7#p89), [93](Part_2_0#p93), [125](Part_2_4#p125), [184](Appendix#p184), [185](Appendix#p185)
 
-_Opuscules de Critique Historique_ [4](wosf03.htm#p4), [138](wosf18.htm#p138), [143](wosf19.htm#p143), [144](wosf19.htm#p144), [155](wosf23.htm#p155)
+_Opuscules de Critique Historique_ [4](Part_1_1#p4), [138](Part_3_1#p138), [143](Part_3_2#p143), [144](Part_3_2#p144), [155](Part_3_6#p155)
 
 <span id="p205">[<sup><small>p. 205</small></sup>]</span>
 
-_Opuscules de S. François_ [22](wosf05.htm#p22), [98](wosf12.htm#p98), [118](wosf13.htm#p118), [181](wosf24.htm#p181), [182](wosf24.htm#p182), [183](wosf24.htm#p183)
+_Opuscules de S. François_ [22](Part_1_3#p22), [98](Part_2_1#p98), [118](Part_2_2#p118), [181](Appendix#p181), [182](Appendix#p182), [183](Appendix#p183)
 
-_Oriente Serafico_ [25](wosf06.htm#p25)
+_Oriente Serafico_ [25](Part_1_4#p25)
 
-Ostie. Seigneur de— [85](wosf09.htm#p85)
+Ostie. Seigneur de— [85](Part_1_6#p85)
 
-Oxford MS. [4](wosf03.htm#p4), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [154](wosf23.htm#p154)
+Oxford MS. [4](Part_1_1#p4), [98](Part_2_1#p98), [110](Part_2_2#p110), [154](Part_3_6#p154)
 
-Ozanam. AF — cité [150](wosf22.htm#p150), [183](wosf24.htm#p183)
+Ozanam. AF — cité [150](Part_3_5#p150), [183](Appendix#p183)
 
-**P**acifique. Fra— [150](wosf22.htm#p150), [183](wosf24.htm#p183)
+**P**acifique. Fra— [150](Part_3_5#p150), [183](Appendix#p183)
 
-Témoignage des paléographes sur l'autographe de saint François [147](wosf21.htm#p147)
+Témoignage des paléographes sur l'autographe de saint François [147](Part_3_4#p147)
 
-Panfilo de Magliano. Fr.— [151](wosf22.htm#p151)
+Panfilo de Magliano. Fr.— [151](Part_3_5#p151)
 
-Papini [146](wosf21.htm#p146), [183](wosf24.htm#p183)
+Papini [146](Part_3_4#p146), [183](Appendix#p183)
 
-Paraphrase du Notre Père de saint François [137](wosf18.htm#p137), [139](wosf18.htm#p139)
+Paraphrase du Notre Père de saint François [137](Part_3_1#p137), [139](Part_3_1#p139)
 
-Parents. Jean— [125](wosf15.htm#p125)
+Parents. Jean— [125](Part_2_4#p125)
 
-Paris Nat. Lib. MS. 18327 [81](wosf09.htm#p81), [110](wosf13.htm#p110)
+Paris Nat. Lib. MS. 18327 [81](Part_1_6#p81), [110](Part_2_2#p110)
 
-Faculté de théologie de Paris [4](wosf03.htm#p4), [20](wosf04.htm#p20), [22](wosf05.htm#p22), [98](wosf12.htm#p98), [110](wosf13.htm#p110)
+Faculté de théologie de Paris [4](Part_1_1#p4), [20](Part_1_2#p20), [22](Part_1_3#p22), [98](Part_2_1#p98), [110](Part_2_2#p110)
 
 “ “ Voir aussi Mazarin.
 
 Passion. Bureau de la— Voir Bureau.
 
-La dévotion de saint François à— [154](wosf23.htm#p154)
+La dévotion de saint François à— [154](Part_3_6#p154)
 
-Patience. Saint François sur— [14](wosf03.htm#p14)
+Patience. Saint François sur— [14](Part_1_1#p14)
 
-Patrem. Lion— [25](wosf06.htm#p25)
+Patrem. Lion— [25](Part_1_4#p25)
 
-Artisans de paix. Saint François sur— [14](wosf03.htm#p14)
+Artisans de paix. Saint François sur— [14](Part_1_1#p14)
 
 _Pecorello_. Voir Léon.
 
-Pénitence imposée aux frères. — [69](wosf07.htm#p69), [120](wosf14.htm#p120)
+Pénitence imposée aux frères. — [69](Part_1_4b#p69), [120](Part_2_3#p120)
 
-Pénitence. Frères et sœurs de — [25](wosf06.htm#p25), [181](wosf24.htm#p181)
+Pénitence. Frères et sœurs de — [25](Part_1_4#p25), [181](Appendix#p181)
 
 Chapitre de la Pentecôte. Voir Pentecôte.
 
-Poèmes de saint François [183](wosf24.htm#p183)
+Poèmes de saint François [183](Appendix#p183)
 
-Pauvres dames [25](wosf06.htm#p25), [75](wosf08.htm#p75), [179](wosf24.htm#p179)
+Pauvres dames [25](Part_1_4#p25), [75](Part_1_5#p75), [179](Appendix#p179)
 
-Portioncule [29](wosf06.htm#p29), [52](wosf06.htm#p52), [79](wosf09.htm#p79), [80](wosf09.htm#p80), [119](wosf14.htm#p119), [138](wosf18.htm#p138), [152](wosf22.htm#p152)
+Portioncule [29](Part_1_4#p29), [52](Part_1_4#p52), [79](Part_1_6#p79), [80](Part_1_6#p80), [119](Part_2_3#p119), [138](Part_3_1#p138), [152](Part_3_5#p152)
 
-« Indulgence de— [146](wosf21.htm#p146)
+« Indulgence de— [146](Part_3_4#p146)
 
 _Poverello_. Voir François.
 
-Pauvreté. La Dame — [87](wosf10.htm#p87), [185](wosf24.htm#p185)
+Pauvreté. La Dame — [87](Part_1_7#p87), [185](Appendix#p185)
 
-Pauvreté d'esprit. Saint François sur — [14](wosf03.htm#p14), [185](wosf24.htm#p185)
+Pauvreté d'esprit. Saint François sur — [14](Part_1_1#p14), [185](Appendix#p185)
 
-Louanges composées par saint François [137](wosf18.htm#p137), [139](wosf18.htm#p139), [148](wosf21.htm#p148)
+Louanges composées par saint François [137](Part_3_1#p137), [139](Part_3_1#p139), [148](Part_3_4#p148)
 
-Manuscrit de Prague [4](wosf03.htm#p4), [81](wosf09.htm#p81)
+Manuscrit de Prague [4](Part_1_1#p4), [81](Part_1_6#p81)
 
-Prières de saint François [136](wosf18.htm#p136), [142](wosf18.htm#p142), [145](wosf20.htm#p145), [154](wosf23.htm#p154), [185](wosf24.htm#p185)
+Prières de saint François [136](Part_3_1#p136), [142](Part_3_1#p142), [145](Part_3_3#p145), [154](Part_3_6#p154), [185](Appendix#p185)
 
-Prédication. Saint François sur — [50](wosf06.htm#p50), [71](wosf07.htm#p71)
+Prédication. Saint François sur — [50](Part_1_4#p50), [71](Part_1_4b#p71)
 
-Prêtres. Révérence de saint François pour— [82](wosf09.htm#p82)
+Prêtres. Révérence de saint François pour— [82](Part_1_6#p82)
 
-Psaumes arrangés par saint François [155](wosf23.htm#p155)
+Psaumes arrangés par saint François [155](Part_3_6#p155)
 
 <span id="p206">[<sup><small>p. 206</small></sup>]</span>
 
-**Édition Q**uaracchi des _Opuscula_ [4](wosf03.htm#p4), [20](wosf04.htm#p20), [31](wosf06.htm#p31), [93](wosf11.htm#p93), [95](wosf11.htm#p95), [96](wosf12.htm#p96), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [119](wosf14.htm#p119), [121](wosf14.htm#p121), [122](wosf14.htm#p122), [125](wosf15.htm#p125), [127](wosf16.htm#p127), [131](wosf17.htm#p131), [137](wosf18.htm#p137), [143](wosf19.htm#p143), [145](wosf20.htm#p145), [148](wosf21.htm#p148), [151](wosf22.htm#p151), [181](wosf24.htm#p181), [182](wosf24.htm#p182), [184](wosf24.htm#p184), [186](wosf24.htm#p186)
+**Édition Q**uaracchi des _Opuscula_ [4](Part_1_1#p4), [20](Part_1_2#p20), [31](Part_1_4#p31), [93](Part_2_0#p93), [95](Part_2_0#p95), [96](Part_2_1#p96), [98](Part_2_1#p98), [110](Part_2_2#p110), [119](Part_2_3#p119), [121](Part_2_3#p121), [122](Part_2_3#p122), [125](Part_2_4#p125), [127](Part_2_5#p127), [131](Part_2_6#p131), [137](Part_3_1#p137), [143](Part_3_2#p143), [145](Part_3_3#p145), [148](Part_3_4#p148), [151](Part_3_5#p151), [181](Appendix#p181), [182](Appendix#p182), [184](Appendix#p184), [186](Appendix#p186)
 
 _Quellen_, etc. Voir Goetz.
 
-_Quo elongati_, Bull [79](wosf09.htm#p79)
+_Quo elongati_, Bull [79](Part_1_6#p79)
 
-**R**aphaël. St.— [61](wosf06.htm#p61)
+**R**aphaël. St.— [61](Part_1_4#p61)
 
-Rebolledo [93](wosf11.htm#p93), [184](wosf24.htm#p184)
+Rebolledo [93](Part_2_0#p93), [184](Appendix#p184)
 
-Réception du Corps du Seigneur [53](wosf06.htm#p53)
+Réception du Corps du Seigneur [53](Part_1_4#p53)
 
-Règlement sur les ermitages [87](wosf10.htm#p87)
+Règlement sur les ermitages [87](Part_1_7#p87)
 
-date et authenticité [88](wosf10.htm#p88)
+date et authenticité [88](Part_1_7#p88)
 
-son origine et sa portée [87](wosf10.htm#p87)
+son origine et sa portée [87](Part_1_7#p87)
 
 Religieux. Saint François sur les bons et les humbles,
 
-les heureux et les vaniteux, les frivoles et les bavards— [16](wosf03.htm#p16)
+les heureux et les vaniteux, les frivoles et les bavards— [16](Part_1_1#p16)
 
-Renan. Ernest— [79](wosf09.htm#p79), [151](wosf22.htm#p151)
+Renan. Ernest— [79](Part_1_6#p79), [151](Part_3_5#p151)
 
-Révérence pour le Corps du Seigneur. Instruction sur — [22](wosf05.htm#p22)
+Révérence pour le Corps du Seigneur. Instruction sur — [22](Part_1_3#p22)
 
-Plus riche. Frère— [133](wosf17.htm#p133)
+Plus riche. Frère— [133](Part_2_6#p133)
 
-Rodolfo di Tossignano. Fr.— [97](wosf12.htm#p97)
+Rodolfo di Tossignano. Fr.— [97](Part_2_1#p97)
 
-Rosetti. DG— [183](wosf24.htm#p183)
+Rosetti. DG— [183](Appendix#p183)
 
-Souverains. Lettre de saint François à tous les— [94](wosf11.htm#p94), [95](wosf11.htm#p95), [109](wosf13.htm#p109), [110](wosf13.htm#p110), [120](wosf14.htm#p120)
+Souverains. Lettre de saint François à tous les— [94](Part_2_0#p94), [95](Part_2_0#p95), [109](Part_2_2#p109), [110](Part_2_2#p110), [120](Part_2_3#p120)
 
-Règles des Frères Mineurs [25](wosf06.htm#p25), [179](wosf24.htm#p179), [181](wosf24.htm#p181), [182](wosf24.htm#p182), [186](wosf24.htm#p186)
+Règles des Frères Mineurs [25](Part_1_4#p25), [179](Appendix#p179), [181](Appendix#p181), [182](Appendix#p182), [186](Appendix#p186)
 
-approuvé par Innocent III [25](wosf06.htm#p25)
+approuvé par Innocent III [25](Part_1_4#p25)
 
-pas de troisième rédaction [27](wosf06.htm#p27)
+pas de troisième rédaction [27](Part_1_4#p27)
 
-Saint François l'a écrit deux fois [25](wosf06.htm#p25)
+Saint François l'a écrit deux fois [25](Part_1_4#p25)
 
-texte de First [31](wosf06.htm#p31)
+texte de First [31](Part_1_4#p31)
 
-texte du Second [64](wosf06.htm#p64)
+texte du Second [64](Part_1_4#p64)
 
-Règle. Saint François sur l'observance de— [109](wosf13.htm#p109)
+Règle. Saint François sur l'observance de— [109](Part_2_2#p109)
 
-Règle de sainte Claire écrite par Grégoire IX [75](wosf08.htm#p75)
+Règle de sainte Claire écrite par Grégoire IX [75](Part_1_5#p75)
 
-**S**abatier. Paul— [4](wosf03.htm#p4), [16](wosf03.htm#p16), [22](wosf05.htm#p22), [25](wosf06.htm#p25), [26](wosf06.htm#p26), [28](wosf06.htm#p28), [29](wosf06.htm#p29), [79](wosf09.htm#p79), [80](wosf09.htm#p80), [81](wosf09.htm#p81), [87](wosf10.htm#p87), [93](wosf11.htm#p93), [94](wosf11.htm#p94), [97](wosf12.htm#p97), [98](wosf12.htm#p98), [120](wosf14.htm#p120), [121](wosf14.htm#p121), [127](wosf16.htm#p127), [131](wosf17.htm#p131), [137](wosf18.htm#p137), [138](wosf18.htm#p138), [143](wosf19.htm#p143), [151](wosf22.htm#p151), [180](wosf24.htm#p180), [182](wosf24.htm#p182)
+**S**abatier. Paul— [4](Part_1_1#p4), [16](Part_1_1#p16), [22](Part_1_3#p22), [25](Part_1_4#p25), [26](Part_1_4#p26), [28](Part_1_4#p28), [29](Part_1_4#p29), [79](Part_1_6#p79), [80](Part_1_6#p80), [81](Part_1_6#p81), [87](Part_1_7#p87), [93](Part_2_0#p93), [94](Part_2_0#p94), [97](Part_2_1#p97), [98](Part_2_1#p98), [120](Part_2_3#p120), [121](Part_2_3#p121), [127](Part_2_5#p127), [131](Part_2_6#p131), [137](Part_3_1#p137), [138](Part_3_1#p138), [143](Part_3_2#p143), [151](Part_3_5#p151), [180](Appendix#p180), [182](Appendix#p182)
 
 Voir aussi _Spec. Perf._, éd. Sab.
 
-Sacro Convento d'Assise [64](wosf06.htm#p64), [146](wosf21.htm#p146), [148](wosf21.htm#p148)
+Sacro Convento d'Assise [64](Part_1_4#p64), [146](Part_3_4#p146), [148](Part_3_4#p148)
 
-_Sacrum Commercium_ [87](wosf10.htm#p87), [185](wosf24.htm#p185), [186](wosf24.htm#p186)
+_Sacrum Commercium_ [87](Part_1_7#p87), [185](Appendix#p185), [186](Appendix#p186)
 
-Salutation à la Sainte Vierge par saint François [143](wosf19.htm#p143)
+Salutation à la Sainte Vierge par saint François [143](Part_3_2#p143)
 
-Salutation des Vertus : son authenticité, etc. [20](wosf04.htm#p20)
+Salutation des Vertus : son authenticité, etc. [20](Part_1_2#p20)
 
-Sarrasins [48](wosf06.htm#p48), [73](wosf07.htm#p73)
+Sarrasins [48](Part_1_4#p48), [73](Part_1_4b#p73)
 
 <span id="p207">[<sup><small>p. 207</small></sup>]</span>
 
-Saturnino de Caprese. Fr.— [147](wosf21.htm#p147)
+Saturnino de Caprese. Fr.— [147](Part_3_4#p147)
 
-Jacinthe — [27](wosf06.htm#p27), [186](wosf24.htm#p186)
+Jacinthe — [27](Part_1_4#p27), [186](Appendix#p186)
 
-Volonté personnelle. Saint François sur le mal de — [8](wosf03.htm#p8)
+Volonté personnelle. Saint François sur le mal de — [8](Part_1_1#p8)
 
-Séraphin. Référence de frère Léon au— [148](wosf21.htm#p148)
+Séraphin. Référence de frère Léon au— [148](Part_3_4#p148)
 
-Bréviaire séraphique. Le— [25](wosf06.htm#p25)
+Bréviaire séraphique. Le— [25](Part_1_4#p25)
 
-Législation séraphique : sa complexité [25](wosf06.htm#p25)
+Législation séraphique : sa complexité [25](Part_1_4#p25)
 
-_Seraphicae Legislationis textus originales_ [30](wosf06.htm#p30), [75](wosf08.htm#p75), [76](wosf08.htm#p76), [77](wosf08.htm#p77), [182](wosf24.htm#p182)
+_Seraphicae Legislationis textus originales_ [30](Part_1_4#p30), [75](Part_1_5#p75), [76](Part_1_5#p76), [77](Part_1_5#p77), [182](Appendix#p182)
 
-Serviteur. Saint François sur les humbles, les heureux et les malheureux — [15](wosf03.htm#p15)
+Serviteur. Saint François sur les humbles, les heureux et les malheureux — [15](Part_1_1#p15)
 
-Les serviteurs de Dieu doivent honorer les clercs [18](wosf03.htm#p18)
+Les serviteurs de Dieu doivent honorer les clercs [18](Part_1_1#p18)
 
-Frères malades. Saint François sur le soin des malades : [44](wosf06.htm#p44), [68](wosf07.htm#p68)
+Frères malades. Saint François sur le soin des malades : [44](Part_1_4#p44), [68](Part_1_4b#p68)
 
-Sienne. Saint Bernardin de— [145](wosf20.htm#p145)
+Sienne. Saint Bernardin de— [145](Part_3_3#p145)
 
-Signature de saint François [147](wosf21.htm#p147)
+Signature de saint François [147](Part_3_4#p147)
 
-Sœurs de la Pénitence [25](wosf06.htm#p25)
+Sœurs de la Pénitence [25](Part_1_4#p25)
 
 _Sociorum_. Voir _Leg. III Soc._
 
-Solet annuel, Bull [76](wosf08.htm#p76)
+Solet annuel, Bull [76](Part_1_5#p76)
 
-Texte espagnol des Lettres de saint François [93](wosf11.htm#p93)
+Texte espagnol des Lettres de saint François [93](Part_2_0#p93)
 
-_Speculum Minorum_ [32](wosf06.htm#p32), [60](wosf06.htm#p60), [81](wosf09.htm#p81), [121](wosf14.htm#p121), [137](wosf18.htm#p137), [144](wosf19.htm#p144)
+_Speculum Minorum_ [32](Part_1_4#p32), [60](Part_1_4#p60), [81](Part_1_6#p81), [121](Part_2_3#p121), [137](Part_3_1#p137), [144](Part_3_2#p144)
 
-_Speculum Perfectionis_, éd. Sabatier. [16](wosf03.htm#p16), [22](wosf05.htm#p22), [26](wosf06.htm#p26), [28](wosf06.htm#p28), [31](wosf06.htm#p31), [45](wosf06.htm#p45), [80](wosf09.htm#p80), [81](wosf09.htm#p81), [87](wosf10.htm#p87), [94](wosf11.htm#p94), [138](wosf18.htm#p138), [151](wosf22.htm#p151), [155](wosf23.htm#p155), [180](wosf24.htm#p180)
+_Speculum Perfectionis_, éd. Sabatier. [16](Part_1_1#p16), [22](Part_1_3#p22), [26](Part_1_4#p26), [28](Part_1_4#p28), [31](Part_1_4#p31), [45](Part_1_4#p45), [80](Part_1_6#p80), [81](Part_1_6#p81), [87](Part_1_7#p87), [94](Part_2_0#p94), [138](Part_3_1#p138), [151](Part_3_5#p151), [155](Part_3_6#p155), [180](Appendix#p180)
 
-“ “ éd. Lemmens [3](wosf03.htm#p3), [13](wosf03.htm#p13), [16](wosf03.htm#p16), [80](wosf09.htm#p80)
+“ “ éd. Lemmens [3](Part_1_1#p3), [13](Part_1_1#p13), [16](Part_1_1#p16), [80](Part_1_6#p80)
 
-_Speculum Vitae_ [20](wosf04.htm#p20), [29](wosf06.htm#p29), [143](wosf19.htm#p143)
+_Speculum Vitae_ [20](Part_1_2#p20), [29](Part_1_4#p29), [143](Part_3_2#p143)
 
 Flèches. César de — Voir César.
 
 Flèches. Julien de — Voir Julien.
 
-Esprit de Dieu. Saint François sur— [13](wosf03.htm#p13)
+Esprit de Dieu. Saint François sur— [13](Part_1_1#p13)
 
-Frères spirituels. Les— [31](wosf06.htm#p31)
+Frères spirituels. Les— [31](Part_1_4#p31)
 
 Spoëlberch. Voir _Speculum Vitae_.
 
-Spolète. Autographe de saint François à — [130](wosf17.htm#p130)
+Spolète. Autographe de saint François à — [130](Part_2_6#p130)
 
-Stigmates de saint François [148](wosf21.htm#p148)
+Stigmates de saint François [148](Part_3_4#p148)
 
-Subiaco MS. [110](wosf13.htm#p110)
+Subiaco MS. [110](Part_2_2#p110)
 
-Supérieur. Saint François sur la recherche — [9](wosf03.htm#p9)
+Supérieur. Saint François sur la recherche — [9](Part_1_1#p9)
 
-Suttina. Luigi— [150](wosf22.htm#p150)
+Suttina. Luigi— [150](Part_3_5#p150)
 
-Suyskens, SJ Fr.— [26](wosf06.htm#p26)
+Suyskens, SJ Fr.— [26](Part_1_4#p26)
 
-Sylvestre. Frère— [87](wosf10.htm#p87)
+Sylvestre. Frère— [87](Part_1_7#p87)
 
-**T**ancredi. Angelo— [79](wosf09.htm#p79)
+**T**ancredi. Angelo— [79](Part_1_6#p79)
 
-Testament de saint François [79](wosf09.htm#p79)
+Testament de saint François [79](Part_1_6#p79)
 
 <span id="p208">[<sup><small>p. 208</small></sup>]</span>
 
-Testament de saint François. Codex contenant : [81](wosf09.htm#p81)
+Testament de saint François. Codex contenant : [81](Part_1_6#p81)
 
-son authenticité [79](wosf09.htm#p79)
+son authenticité [79](Part_1_6#p79)
 
-lieu de composition [79](wosf09.htm#p79)
+lieu de composition [79](Part_1_6#p79)
 
-texte de [81](wosf09.htm#p81)
+texte de [81](Part_1_6#p81)
 
-_Thau_. Utilisation de la lettre par saint François — [147](wosf21.htm#p147)
+_Thau_. Utilisation de la lettre par saint François — [147](Part_3_4#p147)
 
 Thomas de Celano. Voir Celano.
 
-“ “ Farignano, Ministre Général [111](wosf13.htm#p111)
+“ “ Farignano, Ministre Général [111](Part_2_2#p111)
 
 Trois Compagnons. Légende de — Voir _Leg. III Soc._
 
-Toledo MS. [4](wosf03.htm#p4)
+Toledo MS. [4](Part_1_1#p4)
 
 _Trium Sociorum_. Voir _Leg. III Soc._
 
-**U**chauve d'Alençon. Fr.— [22](wosf05.htm#p22), [132](wosf17.htm#p132), [183](wosf24.htm#p183)
+**U**chauve d'Alençon. Fr.— [22](Part_1_3#p22), [132](Part_2_6#p132), [183](Appendix#p183)
 
-Ubertin da Casale. Fr.— [109](wosf13.htm#p109), [145](wosf20.htm#p145), [179](wosf24.htm#p179), [185](wosf24.htm#p185), [186](wosf24.htm#p186)
+Ubertin da Casale. Fr.— [109](Part_2_2#p109), [145](Part_3_3#p145), [179](Appendix#p179), [185](Appendix#p185), [186](Appendix#p186)
 
-Ugolin. Card.— (Voir aussi Grégoire IX) [76](wosf08.htm#p76), [84](wosf09.htm#p84), [180](wosf24.htm#p180), [182](wosf24.htm#p182)
+Ugolin. Card.— (Voir aussi Grégoire IX) [76](Part_1_5#p76), [84](Part_1_6#p84), [180](Appendix#p180), [182](Appendix#p182)
 
-Ugolin de Monte Giorgio [93](wosf11.htm#p93)
+Ugolin de Monte Giorgio [93](Part_2_0#p93)
 
-**V**an Ortroy, SJ Fr.— [3](wosf03.htm#p3), [27](wosf06.htm#p27), [29](wosf06.htm#p29), [78](wosf08.htm#p78)
+**V**an Ortroy, SJ Fr.— [3](Part_1_1#p3), [27](Part_1_4#p27), [29](Part_1_4#p29), [78](Part_1_5#p78)
 
-Bibliothèque du Vatican [64](wosf06.htm#p64)
+Bibliothèque du Vatican [64](Part_1_4#p64)
 
-Vatican MS. 7650 [4](wosf03.htm#p4), [20](wosf04.htm#p20), [81](wosf09.htm#p81), [88](wosf10.htm#p88), [98](wosf12.htm#p98), [120](wosf14.htm#p120), [121](wosf14.htm#p121)
+Vatican MS. 7650 [4](Part_1_1#p4), [20](Part_1_2#p20), [81](Part_1_6#p81), [88](Part_1_7#p88), [98](Part_2_1#p98), [120](Part_2_3#p120), [121](Part_2_3#p121)
 
-“ “ B 82 [110](wosf13.htm#p110)
+“ “ B 82 [110](Part_2_2#p110)
 
-“ “ 4354 [4](wosf03.htm#p4), [20](wosf04.htm#p20), [80](wosf09.htm#p80), [81](wosf09.htm#p81), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [137](wosf18.htm#p137), [143](wosf19.htm#p143), [181](wosf24.htm#p181)
+“ “ 4354 [4](Part_1_1#p4), [20](Part_1_2#p20), [80](Part_1_6#p80), [81](Part_1_6#p81), [98](Part_2_1#p98), [110](Part_2_2#p110), [137](Part_3_1#p137), [143](Part_3_2#p143), [181](Appendix#p181)
 
-“ “ Octobre 522 et 666 [27](wosf06.htm#p27)
+“ “ Octobre 522 et 666 [27](Part_1_4#p27)
 
-Verna. La— [109](wosf13.htm#p109), [145](wosf20.htm#p145), [146](wosf21.htm#p146), [152](wosf22.htm#p152)
+Verna. La— [109](Part_2_2#p109), [145](Part_3_3#p145), [146](Part_3_4#p146), [152](Part_3_5#p152)
 
-Vierge. La Bienheureuse— [61](wosf06.htm#p61)
+Vierge. La Bienheureuse— [61](Part_1_4#p61)
 
 « Voir Salutation.
 
-Les vertus chassant les vices. Saint François sur — [19](wosf03.htm#p19)
+Les vertus chassant les vices. Saint François sur — [19](Part_1_1#p19)
 
 Vertus. Salutation de — Voir Salutation.
 
 _Vita S. Clarae_, par Thomas de Celano. Voir Celano.
 
-_Vita S. Francisci_, par Julien de Spire [25](wosf06.htm#p25)
+_Vita S. Francisci_, par Julien de Spire [25](Part_1_4#p25)
 
 “ “ “ “ Saint-Bonaventure. Voir _Leg. Maj._
 
 “ “ “ “ Thomas de Celano. Voir Celano.
 
-Volterra MS. [4](wosf03.htm#p4), [98](wosf12.htm#p98), [110](wosf13.htm#p110), [127](wosf16.htm#p127)
+Volterra MS. [4](Part_1_1#p4), [98](Part_2_1#p98), [110](Part_2_2#p110), [127](Part_2_5#p127)
 
-**W**ajout de [5](wosf03.htm#p5), [20](wosf04.htm#p20), [22](wosf05.htm#p22), [25](wosf06.htm#p25), [32](wosf06.htm#p32), [66](wosf07.htm#p66), [76](wosf08.htm#p76), [77](wosf08.htm#p77), [78](wosf08.htm#p78), [82](wosf09.htm#p82), [83](wosf09.htm#p83), [85](wosf09.htm#p85), [87](wosf10.htm#p87), [89](wosf10.htm#p89), [93](wosf11.htm#p93), [94](wosf11.htm#p94), [95](wosf11.htm#p95), [96](wosf12.htm#p96), [97](wosf12.htm#p97), [109](wosf13.htm#p109), [110](wosf13.htm#p110), [118](wosf13.htm#p118), [120](wosf14.htm#p120), [121](wosf14.htm#p121), [122](wosf14.htm#p122), [125](wosf15.htm#p125), [127](wosf16.htm#p127), [130](wosf17.htm#p130), [131](wosf17.htm#p131), [132](wosf17.htm#p132), [143](wosf19.htm#p143), [144](wosf19.htm#p144), [145](wosf20.htm#p145), [154](wosf23.htm#p154), [155](wosf23.htm#p155), [183](wosf24.htm#p183), [184](wosf24.htm#p184), [185](wosf24.htm#p185)
+**W**ajout de [5](Part_1_1#p5), [20](Part_1_2#p20), [22](Part_1_3#p22), [25](Part_1_4#p25), [32](Part_1_4#p32), [66](Part_1_4b#p66), [76](Part_1_5#p76), [77](Part_1_5#p77), [78](Part_1_5#p78), [82](Part_1_6#p82), [83](Part_1_6#p83), [85](Part_1_6#p85), [87](Part_1_7#p87), [89](Part_1_7#p89), [93](Part_2_0#p93), [94](Part_2_0#p94), [95](Part_2_0#p95), [96](Part_2_1#p96), [97](Part_2_1#p97), [109](Part_2_2#p109), [110](Part_2_2#p110), [118](Part_2_2#p118), [120](Part_2_3#p120), [121](Part_2_3#p121), [122](Part_2_3#p122), [125](Part_2_4#p125), [127](Part_2_5#p127), [130](Part_2_6#p130), [131](Part_2_6#p131), [132](Part_2_6#p132), [143](Part_3_2#p143), [144](Part_3_2#p144), [145](Part_3_3#p145), [154](Part_3_6#p154), [155](Part_3_6#p155), [183](Appendix#p183), [184](Appendix#p184), [185](Appendix#p185)
 
-Chapitre de la Pentecôte [37](wosf06.htm#p37), [70](wosf07.htm#p70)
+Chapitre de la Pentecôte [37](Part_1_4#p37), [70](Part_1_4b#p70)
 
 <figure class="table chapter-navigator">
   <table>

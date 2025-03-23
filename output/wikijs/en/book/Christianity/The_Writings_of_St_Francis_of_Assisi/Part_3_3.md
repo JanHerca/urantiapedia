@@ -32,22 +32,13 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-
-
-
-
-_The Writings of St. Francis of Assisi_, tr. by Paschal Robinson, \[1905\], at sacred-texts.com
-
-
 <span id="p145">[<sup><small>p. 145</small></sup>]</span>
 
-### III.
-
-### PRAYER TO OBTAIN DIVINE LOVE.
+## III. PRAYER TO OBTAIN DIVINE LOVE.
 
 The authenticity of this prayer, accepted by the Quaracchi editors, rests on the authority of St. Bernardine of Siena [^548] and Ubertino da Casale, [^549] both of whom are quoted in its behalf by Wadding. The prayer is here translated according to the text given by Ubertino in his _Arbor Vitae Crucifixae_ composed on La Verna in 1305. [^550] It follows:—
 
-#### PRAYER.
+## PRAYER.
 
 I beseech Thee, O Lord, that the fiery and sweet strength of Thy love may absorb my soul from all things that are under heaven, that I may die for love of Thy love as Thou didst deign to die for love of my love.
 
