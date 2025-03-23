@@ -32,7 +32,9 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
+KALPA SUTRA.
 
+VIDAS DE LAS GINAS.
 
 <figure class="table chapter-navigator">
   <table>

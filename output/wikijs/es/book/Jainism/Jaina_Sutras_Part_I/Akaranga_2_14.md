@@ -32,7 +32,17 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
+DECIMOCUARTA CONFERENCIA.
 
+Uno no debe complacerse ni prohibir una acción recíproca que se relaciona con uno mismo y produce karman.
+
+A un mendigo no debe agradarle ni prohibirle que (él y el otro) se limpien o froten los pies mutuamente, etc.
+
+De este modo debería repetirse aquí toda la Decimotercera Lección.
+
+Este es todo el deber, etc. Así lo digo. (1)
+
+Fin de la Segunda Parte, llamada las Siete Lecciones.
 
 <figure class="table chapter-navigator">
   <table>

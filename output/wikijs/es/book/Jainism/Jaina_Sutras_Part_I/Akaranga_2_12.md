@@ -32,6 +32,10 @@ dateCreated: 2025-1-12T19:26:25Z
   </table>
 </figure>
 
+DUODÉCIMA CONFERENCIA.
+
+Si un monje o una monja ve diversos colores (o formas), por ejemplo, en coronas, imágenes vestidas, muñecas, ropa [^474], trabajos en madera, yeso, pinturas, joyas, trabajos en marfil, cuerdas, hojas cortadas, no debe, por complacer la vista, decidir ir a donde verá diversos colores (o formas). Todo lo dicho <span id="p186">[<sup><small>p. 186</small></sup>]</span> en el capítulo anterior respecto a los sonidos debe repetirse aquí respecto a los colores (o formas); solo se omitirán los pasajes sobre música. (1)
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +61,7 @@ dateCreated: 2025-1-12T19:26:25Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^480]: 185:2 He traducido las últimas cuatro palabras, ga<i>m</i>thimâ<i>n</i>i, ve<i>dh</i>imâ<i>n</i>i, pûrimâ<i>n</i>i, sa<i>m</i>ghâtimâ<i>n</i>i, según el comentario. Más adelante las traduciré como guirnaldas, cintas, pañuelos y fajas.
