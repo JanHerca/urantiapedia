@@ -29,7 +29,1665 @@ dateCreated: 2025-2-5T22:39:43Z
   </table>
 </figure>
 
+<span id="p306">[<sup><small>pág. 306</small></sup>]</span>
 
+<span id="p307">[<sup><small>pág. 307</small></sup>]</span>
+
+### ÍNDICE.
+
+Deidad de Ābhassara [32](539#p32)
+
+_abhijjhitā_ [230](546#p230)
+
+_abhisasim_ [269](547#p269)
+
+Accata [276](547#p276)
+
+Servicio aceptable [109](543#p109)
+
+Accimukhī [101](543#p101), [113](543#p113)
+
+Accuta [305](547#p305)
+
+Acto de verdad [1](538#p1), [51](540#p51)
+
+Actores [102](543#p102)
+
+_adda_ [149](545#p149)
+
+_adubbha_ [149](545#p149)
+
+Ajātasattu [68](541#p68)
+
+Ajjuna [108](543#p108)
+
+Akasiyā [111](543#p111)
+
+Akitti [55](541#p55)
+
+Ālambāna [99](543#p99)
+
+Alambāyam [ff](543#p93)
+
+Alāta, Alātaka [115](544#p115)
+
+Aḷavaka [156](545#p156)
+
+Aims-hall [54](541#p54), [250](547#p250), [251](547#p251) [252](547#p252)
+
+Limosna _versus_ santidad [55](541#p55) ss.
+
+Amarā [182](546#p182), [246](546#p246)
+
+Ambaṭṭha ​​[246](546#p246)
+
+Amittatāpanī [305](547#p305)
+
+_anālayo_ [181](546#p181)
+
+Ānanda [37](539#p37), [52](540#p52), [53](541#p53), [68](541#p68), [113](543#p113), [126](544#p126), [156](545#p156), [246](546#p246)
+
+Angá [108](543#p108), [127](545#p127), [132](545#p132), [134](545#p134)
+
+Angati [114](544#p114)
+
+Angirasa [55](541#p55)
+
+Angulimala [156](545#p156)
+
+Animales con propiedades mágicas [227](546#p227)
+
+_anokkamma_ [294](547#p294)
+
+Anujjā [141](545#p141)
+
+Anukevaṭṭa [ff.](546#p208)
+
+_anumajjatha_ [283](547#p283)
+
+_anūnanāmo?_ [152](545#p152)
+
+Anuruddha [52](540#p52), [68](541#p68), [156](545#p156), [205](546#p205)
+
+Anuttatāpanā [270](547#p270)
+
+Arañjara [256](547#p256), [266](547#p266)
+
+Plano del arquitecto [158](546#p158)
+
+Aritha [86](543#p86)
+
+Ariṭṭhajanaka [19](538#p19), [21](539#p21) [28](539#p28)
+
+Ariṭṭhapura [215](546#p215)
+
+Armadura [231](546#p231), [233](546#p233), [304](547#p304)
+
+_āsada_ [275](547#p275)
+
+Asceta [11](538#p11), [12](538#p12), [13](538#p13), [16](538#p16), [17](538#p17), [19](538#p19), [29](539#p29), [30](539#p30), [40](540#p40), [115](544#p115), [240](546#p240), [275](547#p275)
+
+Pregunta de culo [169](546#p169)
+
+Assaka [55](541#p55)
+
+Assakaṇṇa [66](541#p66)
+
+Assatara [85](543#p85), [169](546#p169)
+
+Logros [18](538#p18), [37](539#p37)
+
+Aṭṭhaka [55](541#p55), [125](544#p125)
+
+_atthara_ [13](538#p13)
+
+_atiyakkhā_ [261](547#p261)
+
+El infierno de Avici [6](538#p6), [178](546#p178)
+
+_bahula_ [137](545#p137)
+
+Bahusodari [47](540#p47)
+
+Baka [156](545#p156)
+
+Equilibrio [119](544#p119)
+
+Bandhuma [247](547#p247)
+
+Bandhumatī [247](547#p247)
+
+Arboleda de banianos [246](546#p246)
+
+Prendas de corteza [13](538#p13), [45](540#p45)
+
+Baño [21](539#p21)
+
+La batalla de la ley [206](546#p206)
+
+Benarés [1](538#p1), [18](538#p18), [40](540#p40), [43](540#p43), [65](541#p65), [69](542#p69), [80](542#p80), [81](543#p81), [82](543#p82), [83](543#p83), [85](543#p85), [88](543#p88), [104](543#p104)
+
+Tela de Benarés [259](547#p259)
+
+Bhaddaji [126](544#p126)
+
+Bhaddakāpilānī [52](540#p52)
+
+Bhaddasena [71](542#p71)
+
+Bhaddiya [72](542#p72)
+
+_bhadra_ [137](545#p137)
+
+Bhaggari [18](538#p18)
+
+Bhagīrasa [55](541#p55)
+
+_bhakuti_ [293](547#p293)
+
+Bharadvaja [276](547#p276)
+
+Bharata [55](541#p55)
+
+Bhavagga [178](546#p178)
+
+Bhavaseṭṭhi [117](544#p117)
+
+Bheṇṇākaṭa [120](544#p120)
+
+Bherī [240](546#p240), [246](546#p246)
+
+Bhikkhudāsikā [248](547#p248)
+
+Bhogavati [132](545#p132)
+
+_bhuja_ [50](540#p50)
+
+Bhūridatta [87](543#p87), [113](543#p113)
+
+_Bhūri-pañho_ [188](546#p188)
+
+Bījaka [117](544#p117), [126](544#p126)
+
+Bimba [246](546#p246)
+
+Biraní [62](541#p62)
+
+Ceremonias de nacimiento [2](538#p2)
+
+Compañeros de nacimiento [157](546#p157)
+
+Compañeros de nacimiento de un Buda [2](538#p2)
+
+Nacimiento, milagroso [41](540#p41)
+
+Pregunta de bola negra [163](546#p163)
+
+Montaña Negra [126](544#p126), [131](545#p131), [146](545#p146)
+
+Bendito [38](540#p38), [69](542#p69), [114](544#p114), [246](546#p246), [247](547#p247)
+
+Bodhisatta [1](538#p1), [3](538#p3), [4](538#p4), [5](538#p5), [8](538#p8), [10](538#p10), [13](538#p13), [15](538#p15), [16](538#p16), [23](539#p23), [24](539#p24), [25](539#p25), [28](539#p28), [29](539#p29), [31](539#p31), [34](539#p34), [36](539#p36), [37](539#p37), [41](540#p41), [42](540#p42), [43](540#p43), [49](540#p49), [52](540#p52), [70](542#p70), [76](542#p76), [79](542#p79), [80](542#p80), [86](543#p86), [87](543#p87), [88](543#p88), [89](543#p89), [91](543#p91), [101](543#p101), [108](543#p108), [109](543#p109), [113](543#p113), [121](544#p121), [126](544#p126), [156](545#p156), [171](546#p171), [177](546#p177), [181](546#p181), [182](546#p182), [185](546#p185), [186](546#p186), [196](546#p196), [207](546#p207), [208](546#p208), [215](546#p215), [225](546#p225), [240](546#p240), [250](547#p250), [252](547#p252), [254](547#p254), [256](547#p256), [264](547#p264), [270](547#p270), [280](547#p280), [281](547#p281)
+
+<span id="p308">[<sup><small>pág. 308</small></sup>]</span>
+
+Pregunta sobre el arroz hervido [168](546#p168)
+
+Bendiciones [294](547#p294)
+
+Arco, poderoso [25](539#p25)
+
+Brahma [18](538#p18), [110](543#p110), [114](544#p114), [121](544#p121), [125](544#p125), [126](544#p126), [251](547#p251), [287](547#p287), [292](547#p292)
+
+El mundo de Brahma [37](539#p37), [40](540#p40), [52](540#p52), [53](541#p53), [54](541#p54), [68](541#p68), [125](544#p125), [127](545#p127), [156](545#p156)
+
+Brahmadatta [80](542#p80), [81](543#p81)
+
+Brahmán [11](538#p11), [40](540#p40), [44](540#p44), [107](543#p107), [108](543#p108), [110](543#p110), [112](543#p112), [115](544#p115), [155](545#p155), [239](546#p239), [261](547#p261), [304](547#p304)
+
+Aliento de serpientes [42](540#p42)
+
+Buda [39](540#p39), [54](541#p54), [65](541#p65), [68](541#p68), [70](542#p70), [80](542#p80), [113](543#p113), [114](544#p114), [116](544#p116), [127](545#p127), [130](545#p130), [141](545#p141), [155](545#p155), [156](545#p156), [169](546#p169), [173](546#p173), [182](546#p182), [247](547#p247), [248](547#p248), [305](547#p305)
+
+Buda nació con una planta medicinal en la mano [157](546#p157)
+
+Edificio [158](546#p158)
+
+Burnouf se refirió a [32](539#p32)
+
+Brote de butea sostenido en sacrificio [111](543#p111)
+
+Cakkavala [137](545#p137)
+
+Calumnia, historia de [197](546#p197)
+
+Pregunta sobre el parto [167](546#p167)
+
+Campā [20](539#p20)
+
+Canda [69](542#p69) y sigs., [80](542#p80), [122](544#p122), [130](545#p130)
+
+Candādevī [1](538#p1), [2](538#p2), [4](538#p4), [7](538#p7), [12](538#p12), [15](538#p15), [17](538#p17)
+
+Candaka [118](544#p118)
+
+Caṇdāla [216](546#p216)
+
+Candasena [80](542#p80)
+
+Castas [11](538#p11), [44](540#p44), [56](541#p56), [107](543#p107), [110](543#p110), [239](546#p239), [250](547#p250), [255](547#p255), [261](547#p261), [304](547#p304)
+
+Pregunta sobre el ganado [160](546#p160)
+
+_Catuposatha-khaṇḍaṁ_ [129](545#p129)
+
+_catusaṭṭh.i_ [251](547#p251)
+
+Ceta [141](545#p141), [266](547#p266)
+
+Cetaputta [305](547#p305)
+
+Ceilán [18](538#p18)
+
+_Chakhattiya-khaṇḍaṁ_ [302](547#p302)
+
+Chambhī [242](546#p242)
+
+Pregunta sobre el camaleón [173](546#p173)
+
+Comité del Chāndogya-upanishad al que se hace referencia [137](545#p137)
+
+Channa [305](547#p305)
+
+_channapatha-_ [183](546#p183)
+
+Carro, magia [25](539#p25)
+
+Pregunta sobre el carro [165](546#p165)
+
+Çikṣāsamuccaya se refiere a [57](541#p57), [121](544#p121), [210](546#p210)
+
+Cincā [305](547#p305)
+
+_citraggalerughusiṭe_ [249](547#p249)
+
+Cittakūḷa [83](543#p83)
+
+Cittakūṭa [66](541#p66)
+
+Ciudadela [136](545#p136), [303](547#p303)
+
+Ropa [259](547#p259)
+
+Pregunta sobre el gallo [167](546#p167)
+
+Méritos comparativos de la madre, la esposa, el hermano, el amigo, el brahmán, uno mismo y el hombre sabio [242](546#p242)
+
+Pregunta sobre hilo de algodón [162](546#p162)
+
+Vaca de la abundancia [110](543#p110)
+
+Cuḷanī [246](546#p246)
+
+Cūlani-Brahmadatta [ff.](546#p198)
+
+Cullanandikā [246](546#p246)
+
+Copa de inauguración [31](539#p31)
+
+Dakarakkhasa, cuestión de [241](546#p241), [242](546#p242)
+
+_Dakarakkhasa-pañho_ [246](546#p246)
+
+_dakkhinodakaṁ_ [293](547#p293)
+
+_Dāna-khaṇḍam_ [266](547#p266)
+
+_dasa disā na paññāyiṁsu_ [287](547#p287)
+
+Dasabala [247](547#p247), [248](547#p248)
+
+Dasaṇṇa [120](544#p120)
+
+_Dasa-rara-gāthā_ [249](547#p249)
+
+Datta [86](543#p86)
+
+Grados de santidad, tres [55](541#p55)
+
+Deidad, cómo se alcanza [108](543#p108)
+
+Deseo [17](538#p17), [29](539#p29)
+
+Devadatta [68](541#p68), [69](542#p69), [80](542#p80), [113](543#p113), [126](544#p126), [246](546#p246), [305](547#p305)
+
+_Devātāpucchita-pañho_ [191](546#p191)
+
+Devinda [156](545#p156) y sigs., [246](546#p246)
+
+Dhamma [248](547#p248)
+
+Dhammadinnā [248](547#p248)
+
+Dhammapada se refirió a [31](539#p31), [189](546#p189)
+
+Dhammapāla [141](545#p141)
+
+Dhanañjaya [ff.](545#p127), [156](545#p156)
+
+Dhanusekha [243](546#p243)
+
+Dhātā [107](543#p107)
+
+Dhataraṭṭha ​​[83](543#p83), [125](544#p125)
+
+Dighapithi [164](546#p164)
+
+Dighatālā [163](546#p163)
+
+Dīghāvu [28](539#p28), [34](539#p34), [37](539#p37)
+
+Diṭṭhamangalikā [246](546#p246)
+
+Perros del infierno [124](544#p124)
+
+_Dohaḷakhaṇḍam_ [134](545#p134)
+
+_dosina_ [116](544#p116)
+
+Sueño [153](545#p153), [279](547#p279)
+
+Sueño en la concepción de Buda [156](545#p156)
+
+Beber [15](538#p15), [200](546#p200)
+
+Dudīpa [55](541#p55)
+
+Dujīpa [108](543#p108)
+
+Dukūla, Dukūlaka [40](540#p40), [41](540#p41), [42](540#p42), [48](540#p48), [49](540#p49)
+
+Dunniviṭṭha [266](547#p266)
+
+Deberes, diez [52](540#p52)
+
+Deber del hombre bueno [149](545#p149)
+
+Dvāravatī [216](546#p216)
+
+Meditación extática [18](538#p18)
+
+Educación [21](539#p21)
+
+Ekabala [198](546#p198)
+
+Ekarājā [69](542#p69)
+
+_Ekūnavisati-pañh_o [172](546#p172)
+
+Ancianos [18](538#p18)
+
+Elefante volando [251](547#p251)
+
+Capa de los elefantes [253](547#p253)
+
+Elefantes encantados con el laúd [127](545#p127)
+
+Enmiendas sugeridas, con observaciones al texto [2](538#p2), [5](538#p5), [15](538#p15), [22](539#p22), [23](539#p23), [39](540#p39), [49](540#p49), [50](540#p50), [73](542#p73), [75](542#p75), [87](543#p87), [93](543#p93), [101](543#p101), [102](543#p102), [106](543#p106), [119](544#p119), [183](546#p183), [187](546#p187), [213](546#p213), [218](546#p218), [221](546#p221), [223](546#p223), [230](546#p230), [231](546#p231), [236](546#p236), [240](546#p240), [243](546#p243), [249](547#p249), [254](547#p254), [256](547#p256),[242](546#p242) [269](547#p269), [270](547#p270), [272](547#p272), [274](547#p274), [285](547#p285), [296](547#p296), [297](547#p297)
+
+<span id="p309">[<sup><small>pág. 309</small></sup>]</span>
+
+El Iluminado [39](540#p39)
+
+Eravana [136](545#p136)
+
+Etiqueta de reverencia [207](546#p207)
+
+Eunucos [261](547#p261)
+
+Excelencias [53](541#p53), [68](541#p68)
+
+Facultades [13](538#p13), [18](538#p18), [32](539#p32), [37](539#p37)
+
+Hada [78](542#p78)
+
+Rápido [22](539#p22)
+
+Suegro [229](546#p229)
+
+Miedo al infierno [4](538#p4), [5](538#p5)
+
+Feer se refirió a [10](538#p10)
+
+Sacrificio de fuego [114](544#p114)
+
+Adoración del fuego [109](543#p109)
+
+Pregunta de luciérnaga [187](546#p187)
+
+Primer Camino [248](547#p248)
+
+Cinco productos sagrados de la ley [153](545#p153)
+
+Comida, lícita [35](539#p35)
+
+Adivinos [7](538#p7)
+
+Cuatro grandes reyes, cielo de [66](541#p66)
+
+Cuádruple voto sabático [88](543#p88)
+
+Amigos, falsos [189](546#p189)
+
+Amigos, honor de [10](538#p10)
+
+Fruto de las obras [151](545#p151)
+
+_Gadrabha-pañho_ [171](546#p171)
+
+Juegos [132](545#p132), [137](545#p137)
+
+Canción de videojuegos [137](545#p137)
+
+Gandhabba [129](545#p129), [131](545#p131)
+
+Gandhamādana [47](540#p47), [51](540#p51), [268](547#p268)
+
+Túnicas de Gandhāra [259](547#p259)
+
+Ganges [40](540#p40), [108](543#p108), [180](546#p180), [220](546#p220), etc.
+
+Entrega en prisión [220](546#p220)
+
+Diosas del jardín [24](539#p24)
+
+Garuḷa [93](543#p93), [94](543#p94), [102](543#p102), [127](545#p127), [129](545#p129)
+
+Puertas [20](539#p20)
+
+Gema octogonal [167](546#p167)
+
+Pregunta sobre gemas [167](546#p167)
+
+_Gharāvāsa-khaṇḍaṁ_ [140](545#p140)
+
+Gigante con 1.000 brazos [108](543#p108)
+
+Don de los Setecientos [256](547#p256), [261](547#p261)
+
+Regalo al Buda recompensado [247](547#p247)
+
+Gijjhakūṭa [68](541#p68)
+
+Pregunta de la cabra [175](546#p175)
+
+Duende [12](538#p12), [45](540#p45), [78](542#p78), [83](543#p83), [89](543#p89), [126](544#p126), [131](545#p131), [131](545#p131), [137](545#p137), [146](545#p146), [163](546#p163), [194](546#p194), [266](547#p266)
+
+Diosa del paraguas blanco [3](538#p3)
+
+_gohanubbeṭhanena_ [263](547#p263)
+
+Goḷakāḷa [163](546#p163)
+
+_Problema de Goḷakāla_ [163](546#p163)
+
+Hogar dorado [132](545#p132)
+
+Buen amigo, el [121](544#p121)
+
+Pregunta de buena suerte y mala suerte [173](546#p173)
+
+Gorimanda [179](546#p179)
+
+Gotama [68](541#p68), [80](542#p80), [248](547#p248)
+
+Gotami [76](542#p76)
+
+Goyāniya [136](545#p136)
+
+Ser Grande [11](538#p11), [15](538#p15), [17](538#p17), [18](538#p18), [20](539#p20), [22](539#p22), [23](539#p23), [25](539#p25), [33](539#p33), [34](539#p34), [35](539#p35), [36](539#p36), [43](540#p43), [45](540#p45), [46](540#p46), [51](540#p51), [52](540#p52), [54](541#p54), [67](541#p67), [87](543#p87), [89](543#p89), [91](543#p91), [97](543#p97), [98](543#p98), [105](543#p105), [107](543#p107), [112](543#p112), [123](544#p123), [124](544#p124), [138](545#p138), [139](545#p139), [140](545#p140), [141](545#p141), [144](545#p144), [145](545#p145), [147](545#p147), [148](545#p148), [149](545#p149), [150](545#p150), [151](545#p151), [152](545#p152), [153](545#p153), [154](545#p154), [155](545#p155), [162](546#p162), [170](546#p170), [177](546#p177), [179](546#p179), [181](546#p181), [182](546#p182), [183](546#p183), [184](546#p184), [185](546#p185), [188](546#p188), [190](546#p190), [191](546#p191), [194](546#p194), [195](546#p195), [196](546#p196), [197](546#p197), [203](546#p203), [206](546#p206), [212](546#p212), [213](546#p213), [214](546#p214), [215](546#p215), [219](546#p219), [203](546#p203), [206](546#p206), [212](546#p212), [213](546#p213), [214](546#p214), [215](546#p215), [219](546#p219), [220](546#p220), [232](546#p232), [241](546#p241), [242](546#p242), [250](547#p250), [251](547#p251), [252](547#p252), [253](547#p253), [255](547#p255), [256](547#p256), [257](547#p257), [262](547#p262), [264](547#p264), [265](547#p265), [266](547#p266), [267](547#p267), [268](547#p268), [269](547#p269), [270](547#p270), [274](547#p274), [279](547#p279), [280](547#p280), [282](547#p282), [283](547#p283), [284](547#p284), [285](547#p285), [286](547#p286), [289](547#p289), [290](547#p290), [291](547#p291), [292](547#p292), [293](547#p293), [299](547#p299), [300](547#p300), [302](547#p302)
+
+Gran Renuncia [1](538#p1), [19](538#p19), [37](539#p37)
+
+Canas [53](541#p53)
+
+Grierson, _Bihār Peasant Life_, mencionado [26](539#p26)
+
+Guna [116](544#p116), [126](544#p126), [169](546#p169)
+
+Infierno de Gūtha [6](538#p6)
+
+Gutta [248](547#p248)
+
+Salón de la Verdad [1](538#p1), [19](538#p19), [80](542#p80), [126](544#p126), [153](545#p153), [156](545#p156)
+
+_hamsi_ [171](546#p171)
+
+Manos, impresiones en las paredes [28](539#p28)
+
+Hardy se refirió a [28](539#p28), [29](539#p29)
+
+Hardy, _Manual_, se refirió a [246](546#p246)
+
+Harṣacarita mencionado [28](539#p28)
+
+_hatthattharādīhi_ [28](539#p28)
+
+Pregunta principal [166](546#p166)
+
+Cielo [18](538#p18), [62](541#p62) y sigs., [66](541#p66), [113](543#p113), [120](544#p120), [125](544#p125), [127](545#p127), [136](545#p136), [155](545#p155)
+
+Infiernos [1](538#p1), [3](538#p3), [6](538#p6), [57](541#p57) y siguientes, [120](544#p120), [123](544#p123) y siguientes, [178](546#p178), [221](546#p221), [222](546#p222), [224](546#p224)
+
+Hereje [121](544#p121)
+
+Ermita [17](538#p17)
+
+Himalaya [29](539#p29), [32](539#p32), [37](539#p37), [40](540#p40), [41](540#p41), [43](540#p43), [44](540#p44), [45](540#p45), [93](543#p93), [96](543#p96), [101](543#p101), [105](543#p105), [127](545#p127), [130](545#p130), [132](545#p132), [136](545#p136), [154](545#p154), [197](546#p197), [217](546#p217), [257](547#p257), [269](547#p269), [287](547#p287)
+
+_Himavanta-vaṇṇanā_ [258](547#p258)
+
+Hitopadesa se refirió a [49](540#p49), [96](543#p96)
+
+Honor ante los reyes, cómo alcanzarlo [142](545#p142)
+
+Vida de un jefe de familia [139](545#p139)
+
+Sacrificio humano [274](547#p274)
+
+Aldea de cazadores [40](540#p40)
+
+_icche_ [263](547#p263)
+
+Inauguración [29](539#p29)
+
+Indapatta [126](544#p126), [134](545#p134), [149](545#p149)
+
+Indestructibles, siete [117](544#p117)
+
+Indra [260](547#p260), [292](547#p292)
+
+El brazo derecho de Indra [111](543#p111)
+
+Inspector de las joyas del rey [194](546#p194)
+
+Irandati [30](539#p30)
+
+Isadhana [66](541#p66)
+
+Jāli [252](547#p252), [305](547#p305)
+
+Jambāvatī [216](546#p216)
+
+Jambudīpa [6](538#p6)
+
+Janaka [33](539#p33)
+
+Janasandha [141](545#p141)
+
+Jātakas tradujo:
+
+Bhūridatta [80](542#p80)
+
+Khaṇḍahāla [68](541#p68)
+
+Mahājanaka [19](538#p19)
+
+Mahānārada-Kassapa [114](544#p114)
+
+Mahāummagga [156](545#p156)
+
+Mugapakkha [1](538#p1)
+
+Nimi [53](541#p53)
+
+Sama [38](540#p38)
+
+<span id="p310">[<sup><small>pág. 310</small></sup>]</span>
+
+Jātakas tradujo:
+
+Vessantara [246](546#p246)
+
+Vidhurapaṇḍita [126](544#p126)
+
+Jātakas a los que se hace referencia en el texto:
+
+Ayoghara [18](538#p18)
+
+Catuposatha [128](545#p128)
+
+Hatthipāla [18](538#p18)
+
+Kuddālaka [18](538#p18)
+
+Kusa [1](538#p1)
+
+Mūgapakkha [18](538#p18), [19](538#p19), [41](540#p41)
+
+Pandara [93](543#p93)
+
+Ummagga [250](547#p250)
+
+Jātakas a los que se hace referencia en las notas:
+
+Catuposatha [88](543#p88)
+
+Java [120](544#p120)
+
+Jetattura [247](547#p247)
+
+Jetavana [1](538#p1), [19](538#p19), [38](540#p38), [39](540#p39), [126](544#p126), [156](545#p156)
+
+Joya, una maravillosa [135](545#p135)
+
+Árbol de Judas [233](546#p233)
+
+Jūjaka [270](547#p270), [305](547#p305)
+
+Escenas de jungla [258](547#p258) y sigs.
+
+Kaccāna [138](545#p138)
+
+Kaccāyana [134](545#p134)
+
+_Kakantaka-pañho_ [173](546#p173)
+
+_kakkaṭaka_ [276](547#p276)
+
+Kālacampā [20](539#p20), [28](539#p28), [127](545#p127) y sigs.
+
+Kāḷadevala [246](546#p246)
+
+Kalagiri [146](545#p146)
+
+Kalapabbata [146](545#p146)
+
+Kāḷavela [18](538#p18)
+
+Kalikara [55](541#p55)
+
+Kalinga [252](547#p252)
+
+Kāḷūpakāḷa [124](544#p124)
+
+Kambala [85](543#p85)
+
+Kamboja [110](543#p110)
+
+_kaṁkham_ [129](545#p129)
+
+Kampilla [198](546#p198)
+
+Kampilliyā [224](546#p224)
+
+Kāṇāriṭṭha [87](543#p87), [113](543#p113)
+
+_kanavera_ [208](546#p208)
+
+_kandi_ [273](547#p273)
+
+Clan Kanhāgana [216](546#p216)
+
+Kaṇhājinā [252](547#p252), [305](547#p305)
+
+_kaṇike_ [168](546#p168)
+
+Kapilavatthu [246](546#p246)
+
+Kara [13](538#p13)
+
+_kāraṇikā_ [60](541#p60)
+
+Karavīka [66](541#p66)
+
+Karma [42](540#p42)
+
+El karma, un mito [116](544#p116), [117](544#p117)
+
+_karoṭiyā_ [304](547#p304)
+
+Kasi [2](538#p2), [7](538#p7), [9](538#p9), [10](538#p10), [14](538#p14), [44](540#p44), [46](540#p46), [48](540#p48), [49](540#p49), [50](540#p50), [85](543#p85), [93](543#p93), [104](543#p104), [105](543#p105), [106](543#p106), [108](543#p108)
+
+Tela Kāsi [29](539#p29)
+
+Seda Kāsi [77](542#p77)
+
+Kāsirājā [1](538#p1), [2](538#p2), [18](538#p18)
+
+Kassapa [33](539#p33), [52](540#p52), [55](541#p55), [80](542#p80), [114](544#p114), [116](544#p116) y sigs.
+
+Kaṭakandhakāra [18](538#p18)
+
+Kaṭarajanaka [68](541#p68)
+
+_katatto_ [143](545#p143)
+
+Kathāsarit-sāgara mencionado [26](539#p26), [31](539#p31), [127](545#p127)
+
+Katiya [144](545#p144)
+
+Katiyana [147](545#p147)
+
+_katte_ [145](545#p145)
+
+Katharaka [13](538#p13)
+
+Kāvinda [156](545#p156) y sigs., [246](546#p246)
+
+Kekaka [137](545#p137)
+
+Kelāsa [267](547#p267)
+
+Kesinī [71](542#p71)
+
+Ketumatī [268](547#p268)
+
+Kevaṭṭa [198](546#p198) y sigs., [246](546#p246)
+
+_Khajjopanaka-pañho_ [187](546#p187)
+
+_khalamkapādo_ [2](538#p2)
+
+Khaṇḍahāla [69](542#p69) y sigs.
+
+_khara_ [124](544#p124)
+
+Khattiya [21](539#p21), [44](540#p44), [55](541#p55), [107](543#p107), [110](543#p110), [112](543#p112), [115](544#p115), [126](544#p126), [261](547#p261), [266](547#p266)
+
+_khattiyamāyā_ [189](546#p189)
+
+Khemā [37](539#p37), [247](547#p247), [248](547#p248)
+
+Khuddakatissa, anciano [18] (538#p18)
+
+_khujjatecalākhhakākiṇṇe_ [249](547#p249)
+
+Kiki [248](547#p248)
+
+_Kiḷana-Khaṇḍam_ [98](543#p98)
+
+Matar [110](543#p110), [117](544#p117)
+
+Kimbilā [64](541#p64)
+
+Kimpurusa [130](545#p130)
+
+Kinnara [41](540#p41), [43](540#p43), [44](540#p44)
+
+Kisavaccha [55](541#p55)
+
+Tela Kodumbara [259](547#p259)
+
+Kokilā [71](542#p71)
+
+Koñca [140](545#p140)
+
+Kontimārā [256](547#p256)
+
+Koravya [127](545#p127)
+
+Kosambī [120](544#p120)
+
+Kosiya [95](543#p95)
+
+_kuḍḍamukhī_ [118](544#p118)
+
+_Kumārapañhaṁ_ [287](547#p287)
+
+Kundali [246](546#p246)
+
+Kuru [126](544#p126), [129](545#p129), [136](545#p136)
+
+Kurukhetta [141](545#p141)
+
+Kusa [167](546#p167)
+
+Kūṭadanta [156](545#p156)
+
+Kuvera [107](543#p107), [132](545#p132), [147](545#p147)
+
+Pregunta del lago [172](546#p172)
+
+_Lakkha-khaṇḍaṁ_ [141](545#p141)
+
+Lalita Vistara referida [85](543#p85)
+
+Lāḷudāyī [246](546#p246)
+
+“Los que llegan tarde” [18](538#p18)
+
+Laṭṭhivana [114](544#p114)
+
+Licchavi [126](544#p126)
+
+Carta [195](546#p195)
+
+La vida se agota [61](541#p61)
+
+La vida en el bosque [270](547#p270)
+
+Larga vida [53](541#p53)
+
+Amores de hadas para los hombres [217](546#p217)
+
+Maccha [137](545#p137)
+
+Maddas, el [1](538#p1)
+
+Maddī [252](547#p252), [305](547#p305)
+
+_Maddi-pabbam_ [292](547#p292)
+
+Magadha [114](544#p114), [120](544#p120)
+
+Magha [55](541#p55)
+
+El Mahābhārata mencionado [31](539#p31), [267](547#p267)
+
+Mahācūḷanī [242](546#p242)
+
+<span id="p311">[<sup><small>pág. 311</small></sup>]</span>
+
+Mahājanaka, Rey [19](538#p19), [21](539#p21), [23](539#p23), [26](539#p26), [34](539#p34), [37](539#p37)
+
+Mahāmaliyadeva, Anciano [18](538#p18)
+
+Mahāmāyā [80](542#p80), [246](546#p246), [248](547#p248), [305](547#p305)
+
+Mahānāga, anciano [18](538#p18)
+
+_Mahārājā-pabbam_ [299](547#p299)
+
+Mahārakkhita, anciano [18](538#p18)
+
+_Mahāsattassa panyesani-khaṇḍam_ [105](543#p105)
+
+Mahāsiva, anciano [18](538#p18)
+
+Mahātissa, anciano [18](538#p18)
+
+_Mahāummagga-khaṇḍaṁ_ [239](546#p239)
+
+Mahāvagga se refirió a [29](539#p29), [52](540#p52)
+
+Mahāvaṁsaka, anciano [18](538#p18)
+
+Mahāvastu se refirió a [57](541#p57), [114](544#p114)
+
+Mahosadha [159](546#p159), [246](546#p246)
+
+Makhādeva [53](541#p53), [54](541#p54)
+
+_māla_ [204](546#p204)
+
+_mālika_ [137](545#p137)
+
+Maliyamakādeva [19](538#p19)
+
+Magana [18](538#p18)
+
+_Maṅi-khaṇḍaṁ_ [136](545#p136)
+
+Maṇimekhalā [22](539#p22)
+
+Manojava [55](541#p55)
+
+Manosilātalaṁ [203](546#p203)
+
+Manu se refirió a [110](543#p110)
+
+Marcas, suerte [2](538#p2), [7](538#p7)
+
+Masakkasāra [140](545#p140)
+
+Mātali [56](541#p56) y sigs.
+
+Mathara [215](546#p215)
+
+_Mātiposakhasatta_ [39](540#p39)
+
+Cabello enmarañado [13](538#p13), [101](543#p101)
+
+Maya [248](547#p248)
+
+Pájaro Maynah [214](546#p214)
+
+Mayura [140](545#p140)
+
+Comidas [21](539#p21)
+
+Dispositivos mecánicos [223](546#p223)
+
+_Meṇḍaka-pañho_ [178](546#p178)
+
+Meru [91](543#p91)
+
+Migācira [127](545#p127)
+
+Migājina [33](539#p33), [34](539#p34), [37](539#p37)
+
+Migasammatā [40](540#p40), [41](540#p41), [43](540#p43), [47](540#p47)
+
+Milinda se refirió a [171](546#p171)
+
+Cuidado con el creador [111](543#p111)
+
+Juglar, celestial [9](538#p9)
+
+Milagro [9](538#p9), [22](539#p22), [51](540#p51), [56](541#p56), [141](545#p141), [209](546#p209), [266](547#p266), [292](547#p292), [301](547#p301), [304](547#p304)
+
+Missaka [136](545#p136)
+
+Mithilā [19](538#p19), [21](539#p21), [22](539#p22), [24](539#p24), [30](539#p30), [31](539#p31), [34](539#p34), [53](541#p53), [54](541#p54), [56](541#p56), [64](541#p64), [67](541#p67), [114](544#p114), [123](544#p123), [156](545#p156) y sigs.
+
+Moggallāna [37](539#p37), [80](542#p80), [113](543#p113), [126](544#p126), [156](545#p156)
+
+Días lunares [54](541#p54)
+
+Festín de la luna [115](544#p115)
+
+Mortalidad [16](538#p16)
+
+Mucalinda [55](541#p55), [269](547#p269), [277](547#p277)
+
+Barro del Himalaya [197](546#p197)
+
+Mudita [71](542#p71)
+
+Mujalinda [108](543#p108)
+
+Música [14](538#p14)
+
+Música delante de un carro que contiene un jinete [25](539#p25)
+
+Nāga [44](540#p44), [48](540#p48), [80](542#p80) y sigs., [127](545#p127)
+
+_Nāgara-khaṇḍam_ [86](543#p86)
+
+_Nāgara pavesana-khaṇḍam_ [105](543#p105)
+
+_najjuha_ [275](547#p275)
+
+Asceta desnudo [115](544#p115), [119](544#p119)
+
+Nālika [268](547#p268)
+
+Nalinī [150](545#p150)
+
+Nandā [70](542#p70), [71](542#p71), [224](546#p224)
+
+Nandana [70](542#p70), [120](544#p120), [136](545#p136), [159](546#p159), [201](546#p201)
+
+Arboleda Nandana [248](547#p248)
+
+Narada [32](539#p32), [33](539#p33), [37](539#p37), [114](544#p114), [121](544#p121), [122](544#p122) [292](547#p292)
+
+Naradeva [194](546#p194)
+
+Naraka [61](541#p61)
+
+Pregunta sobre el collar de hilo [161](546#p161)
+
+Nemi [54](541#p54)
+
+Nemindhara [66](541#p66)
+
+Nimi [54](541#p54), [55](541#p55), [56](541#p56), [58](541#p58) y sigs., [68](541#p68)
+
+Sacrificio del noveno día [271](547#p271)
+
+_nippadesato_ [117](544#p117)
+
+Nirayapālā [180](546#p180)
+
+Nirvana [248](547#p248)
+
+Secta del norte [21](539#p21)
+
+Enfermeras, marcas de la suerte de [251](547#p251)
+
+Enfermeras, cualidades de [2](538#p2)
+
+_odhisuṁkhaṁ_ [136](545#p136)
+
+Aceite sobre las aguas [245](546#p245)
+
+Presagios [287](547#p287)
+
+Osadha-kumāra [158](546#p158)
+
+Parias [79](542#p79)
+
+Pabbata [292](547#p292)
+
+Paccaya [251](547#p251)
+
+_paccayo_ [303](547#p303)
+
+Buda Pacceka [26](539#p26), [28](539#p28), [29](539#p29), [31](539#p31), [32](539#p32), [116](544#p116), [165](546#p165), [270](547#p270)
+
+_pakka_ [204](546#p204)
+
+_pakkhadivasa_ [54](541#p54)
+
+_paṁkamhi_ [262](547#p262)
+
+Pañcāla [78](542#p78), [137](545#p137)
+
+Pañcālacaṇḍa [224](546#p224) y sigs.
+
+Pañcālacaṇḍī [210](546#p210) y sigs., [246](546#p246)
+
+_Pañcapaṇḍita-pañho_ [197](546#p197)
+
+Paṇṇaka [126](544#p126)
+
+Parábola de un carro [125](544#p125)
+
+Cielo Paranimmita [136](545#p136)
+
+Sombrilla, real [240](546#p240)
+
+Pārī, Pārikā [40](540#p40), [41](540#p41), [42](540#p42), [49](540#p49)
+
+_Pārībhindana-kathā_ [197](546#p197)
+
+Pārichatta [136](545#p136)
+
+Parinibbana [19](538#p19)
+
+Pregunta del parque [169](546#p169)
+
+Loro, portador [199](546#p199)
+
+Los loros son de la casta Vessa [215](546#p215)
+
+_pasādiyā_ [276](547#p276)
+
+Paṭācārā [248](547#p248)
+
+Caminos [52](540#p52), [248](547#p248)
+
+Payaga [106](543#p106)
+
+Perfecciones [1](538#p1), [2](538#p2), [20](539#p20)
+
+Mundo de Peta [55](541#p55)
+
+Petavatthu se refirió a [10](538#p10)
+
+Phārusaka [136](545#p136)
+
+Phusatī [247](547#p247), [248](547#p248), [305](547#p305)
+
+Phussadeva, anciano [18](538#p18)
+
+Piliyakkha [43](540#p43), [44](540#p44), [47](540#p47), [48](540#p48)
+
+Pilotika [246](546#p246)
+
+Pingala [117](544#p117)
+
+Pinguttara [173](546#p173)
+
+<span id="p312">[<sup><small>pág. 312</small></sup>]</span>
+
+Pozo del sacrificio [73](542#p73), [77](542#p77)
+
+_piṭṭhimatī_ [202](546#p202)
+
+Piyaketa [140](545#p140)
+
+_piyaṅgu_ [162](546#p162)
+
+Juego de palabras [169](546#p169), [271](547#p271)
+
+Festival del arado [246](546#p246)
+
+Veneno de rana [104](543#p104)
+
+Polajanaka [19](538#p19), [20](539#p20), [21](539#p21), [22](539#p22)
+
+Poste para llevar [13](538#p13)
+
+Pregunta sobre el poste [166](546#p166)
+
+Pregunta de pobres y ricos [179](546#p179)
+
+Poṭṭhapāda [246](546#p246)
+
+Prajāpati [292](547#p292)
+
+Preceptos [54](541#p54), [113](543#p113)
+
+Predestinación [117](544#p117)
+
+Pregunta sobre el precio de la carne [160](546#p160)
+
+Precio fijado para los niños [297](547#p297)
+
+Príncipe, mudo [3](538#p3)
+
+Princesa difícil de complacer [24](539#p24)
+
+_pubbadevatā_ [183](546#p183)
+
+Pukkusa [156](545#p156) y sigs., [246](546#p246)
+
+Juego de palabras [169](546#p169), [271](547#p271)
+
+Castigos [3](538#p3), [197](546#p197)
+
+Punnaka [131](545#p131)
+
+Puṇṇamukha [72](542#p72)
+
+Pupphavatī [69](542#p69), [70](542#p70), [76](542#p76)
+
+Purificación [117](544#p117)
+
+Puthujjana [55](541#p55)
+
+Preguntas difíciles [160](546#p160)
+
+Preguntas de la diosa [187](546#p187)
+
+Rāhula [37](539#p37), [80](542#p80), [156](545#p156), [305](547#p305)
+
+La madre de Rāhula [305](547#p305)
+
+Lluvia, mágica [301](547#p301), [304](547#p304)
+
+Provocando lluvia [252](547#p252)
+
+Lluvia, milagrosa [247](547#p247)
+
+Rājagaha [120](544#p120), [132](545#p132), [246](546#p246)
+
+_Rājavasatikhaṇḍaṁ_ [143](545#p143)
+
+Rama [288](547#p288)
+
+Rāmāyana se refiere a [31](539#p31)
+
+Rathavati [217](546#p217)
+
+Regentes [91](543#p91), [136](545#p136)
+
+Requisitos [13](538#p13)
+
+Adivinanzas [24](539#p24), [177](546#p177), [178](546#p178), [182](546#p182), [183](546#p183)
+
+Lado derecho [24](539#p24)
+
+Movimiento hacia la derecha [8](538#p8), [67](541#p67), [276](547#p276)
+
+Maduración del pecado [58](541#p58) ss.
+
+Ritual de sacrificio [111](543#p111)
+
+Infierno de Roruva [120](544#p120)
+
+Rujā [114](544#p114), [126](544#p126)
+
+_rumbhitvā_ [287](547#p287)
+
+Sabala [124](544#p124)
+
+_sabbasaṁhāraka_ [162](546#p162)
+
+Sabhiya [156](545#p156)
+
+Saccaka [246](546#p246)
+
+Sacrificio y ofrenda [70](542#p70), [71](542#p71), [107](543#p107), [108](543#p108), [109](543#p109)
+
+Sagara [55](541#p55), [108](543#p108)
+
+Sagara-Brahmadatta [82](543#p82)
+
+Sabios, siete [55](541#p55)
+
+Sakka [1](538#p1), [2](538#p2), [9](538#p9), [10](538#p10), [13](538#p13), [17](538#p17), [20](539#p20), [28](539#p28), [29](539#p29), [41](540#p41), [52](540#p52), [54](541#p54). [55](541#p55), [56](541#p56), [57](541#p57), [65](541#p65), [66](541#p66), [67](541#p67), [68](541#p68), [79](542#p79), [88](543#p88), [89](543#p89), [90](543#p90), [91](543#p91), [108](543#p108), [120](544#p120), [125](544#p125), [127](545#p127), [128](545#p128), [130](545#p130), [136](545#p136), [140](545#p140), [156](545#p156), [157](546#p157), [159](546#p159), [165](546#p165), [166](546#p166), [167](546#p167), [194](546#p194), [246](546#p246), [248](547#p248), [249](547#p249), [250](547#p250), [251](547#p251), [270](547#p270), [292](547#p292), [293](547#p293), [294](547#p294), [295](547#p295), [305](547#p305)
+
+_Sakka pabbaṁ_ [295](547#p295)
+
+Sakya [246](546#p246)
+
+Sal, cómo llegó al mar [108](543#p108), [111](543#p111)
+
+Saludo [79](542#p79)
+
+Sama. [42](540#p42), [44](540#p44), [45](540#p45), [46](540#p46), [47](540#p47), [48](540#p48), [49](540#p49), [50](540#p50), [51](540#p51), [52](540#p52), [124](544#p124)
+
+Samaná, la grande [114](544#p114)
+
+Samaṇā [248](547#p248)
+
+Samanī [248](547#p248)
+
+Saṁghadāsī [248](547#p248)
+
+Saṁkhapāla [198](546#p198)
+
+_saṁsādiyā_ [82](543#p82), [276](547#p276)
+
+_saṁsumbhamānā_ [50](540#p50)
+
+Samudda [55](541#p55)
+
+Pregunta de arena [168](546#p168)
+
+Sañjaya [247](547#p247), [305](547#p305)
+
+_santi_ [137](545#p137)
+
+Sāriputta [18](538#p18), [37](539#p37), [80](542#p80), [113](543#p113), [126](544#p126), [156](545#p156), [246](546#p246), [305](547#p305)
+
+_sāvaṭa_ [137](545#p137)
+
+Savatthi [38](540#p38), [39](540#p39), [65](541#p65), [80](542#p80)
+
+_savatthiko_ [167](546#p167)
+
+Pregunta del camino secreto [182](546#p182)
+
+Secretos [192](546#p192)
+
+Sela [55](541#p55)
+
+Senaka [156](545#p156) y sigs., [246](546#p246)
+
+Seta [74](542#p74), [80](542#p80)
+
+Setecientos, donación de los [256](547#p256), [261](547#p261)
+
+La sombra del árbol no se mueve [247](547#p247)
+
+Santuarios en un bosque [90](543#p90)
+
+Sīdā [55](541#p55), [66](541#p66)
+
+Sidantara [66](541#p66)
+
+Siddhattha [246](546#p246)
+
+Asedio [202](546#p202) y sigs.
+
+Señales, acertijos [241](546#p241)
+
+_Sīla-khaṇḍam_ [97](543#p97)
+
+_silesito_ [125](544#p125)
+
+Simbali [127](545#p127)
+
+_simghātakā_ [276](547#p276)
+
+Caballo Sindh, mágico [131](545#p131)
+
+Caballos de Sindh [14](538#p14), [116](544#p116), [171](546#p171), [261](547#p261)
+
+Sineru [66](541#p66), [136](545#p136), [251](547#p251), [265](547#p265), [2](538#p2).[46](540#p46), [301](547#p301)
+
+Siṅgāla [72](542#p72)
+
+_Sirikāḷakaṇṇipañho_ [174](546#p174)
+
+_Sirimandapañho_ [182](546#p182)
+
+Sirivaḍḍhaka [157](546#p157)
+
+Sita [288](547#p288)
+
+Sivali [24](539#p24), [26](539#p26), [28](539#p28), [30](539#p30), [32](539#p32), [35](539#p35), [36](539#p36), [37](539#p37)
+
+Sivi [215](546#p215), [247](547#p247)
+
+Esclavitud [72](542#p72)
+
+Serpiente, danza [98](543#p98), [102](543#p102)
+
+Serpiente, cómo distinguir macho y hembra [167](546#p167)
+
+Serpiente en el hormiguero [42](540#p42)
+
+Pregunta sobre la serpiente [167](546#p167)
+
+Aliento de serpiente [42](540#p42)
+
+Salomón, juicio de [162](546#p162)
+
+Soma [107](543#p107), [292](547#p292)
+
+Somadata [88](543#p88), [113](543#p113)
+
+<span id="p313">[<sup><small>pág. 313</small></sup>]</span>
+
+Somayāga [55](541#p55)
+
+Pregunta del hijo [162](546#p162)
+
+Soṇadinna [62](541#p62)
+
+Sotumbarā [262](547#p262)
+
+Hechizo [93](543#p93) y siguientes.
+
+Espíritus del bosque [268](547#p268)
+
+Licores espirituosos, obsequio de [260](547#p260)
+
+Aspersión [229](546#p229), [252](547#p252)
+
+Acero refinado [231](546#p231)
+
+Padrastro [244](546#p244)
+
+Piedra de ceremonia [24](539#p24), [25](539#p25)
+
+Calle de las Vessas [250](547#p250)
+
+Esforzándose [23](539#p23)
+
+Subhaga [86](543#p86), [113](543#p113)
+
+Ciudades suburbanas a las puertas de la ciudad [157](546#p157)
+
+Sudassara [66](541#p66), [86](543#p86), [113](543#p113)
+
+Sudda [107](543#p107), [110](543#p110), [261](547#p261)
+
+Sudhammā [57](541#p57), [61](541#p61), [66](541#p66), [67](541#p67),[159](546#p159), [246](546#p246), [248](547#p248),[305](547#p305)
+
+Sujampati [249](547#p249)
+
+Sumanā [157](546#p157)
+
+Sumaṅgana-Vilāsini mencionado [151](545#p151)
+
+Sunakkhata [113](543#p113), [126](544#p126)
+
+Sunāma [115](544#p115), [126](544#p126)
+
+Sunanda [10](538#p10), [12](538#p12), [14](538#p14)
+
+Sunanda [71](542#p71)
+
+Sundarī [246](546#p246)
+
+Supaṇṇa [127](545#p127) (_véase también_ Garuḷa)
+
+Sura [80](542#p80)
+
+Surasena [137](545#p137)
+
+Suriya [71](542#p71), [80](542#p80)
+
+Suvaṇṇabhūmi [21](539#p21)
+
+Suvaṇṇagiritāla [266](547#p266)
+
+Suvaṇṇasāma [41](540#p41), [43](540#p43), [45](540#p45), [52](540#p52)
+
+Takkasilā [173](546#p173)
+
+Talatā [224](546#p224), [242](546#p242), [246](546#p246)
+
+Pregunta sobre el tanque [168](546#p168)
+
+Tathāgata [19](538#p19), [38](540#p38), [68](541#p68), [69](542#p69), [80](542#p80), [114](544#p114), [126](544#p126)
+
+Temiya-kumāra [3](538#p3), [4](538#p4), [6](538#p6), [8](538#p8), [13](538#p13), [14](538#p14)
+
+Tentación [7](538#p7)
+
+Pruebas, dieciséis grandes [7](538#p7)
+
+Treinta y tres, Cielo de los [54](541#p54), [57](541#p57), [66](541#p66), [70](542#p70), [120](544#p120), [127](545#p127), [136](545#p136), [157](546#p157), [250](547#p250)
+
+Tres vehículos en el budismo del sur [294](547#p294)
+
+El trono de Sakka se pone caliente [1](538#p1), [9](538#p9), [41](540#p41), [54](541#p54)
+
+Lanzamientos de dados [137](545#p137)
+
+Thūṇā [35](539#p35), [36](539#p36)
+
+Comida para llevar [39](540#p39)
+
+_tidaṇḍam_ [125](544#p125)
+
+Tikhiṇamantī [244](546#p244)
+
+Tope [37](539#p37)
+
+Moño, símbolo de esclavitud [72](542#p72)
+
+_Carrito de juguete_ al que se hace referencia [127](545#p127)
+
+Juguetes [4](538#p4), [9](538#p9), [284](547#p284)
+
+Transformaciones [147](545#p147)
+
+Tesoros, dieciséis grandes [24](539#p24)
+
+Árboles y plantas [258](547#p258), [259](547#p259), [269](547#p269), [275](547#p275)
+
+El truco de la tortuga [83](543#p83)
+
+Túnel [223](546#p223)
+
+El cielo de Tusita [136](545#p136)
+
+Udāyi, anciano [246](546#p246)
+
+_uddharissam_ [282](547#p282)
+
+Udumbarā [174](546#p174), [194](546#p194), [246](546#p246)
+
+Casta Ugga [254](547#p254), [255](547#p255)
+
+_ulloka_ [223](546#p223)
+
+Paraguas, blanco [3](538#p3), [17](538#p17), [19](538#p19), [25](539#p25), [26](539#p26), [82](543#p82), [136](545#p136), [190](546#p190), [197](546#p197)
+
+Paraguas, Diosa de [3](538#p3), [190](546#p190) y sigs.
+
+_upabhoga-paribhoga_ [210](546#p210)
+
+_upādhiratam_ [14](538#p14)
+
+_upaghāte_ [281](547#p281)
+
+Upārīmaṇḍakamāla [18](538#p18)
+
+Upaseṇī [71](542#p71)
+
+_upayanakā_ [276](547#p276)
+
+Uposatha [1](538#p1), [54](541#p54), [64](541#p64), [80](542#p80), [88](543#p88), [98](543#p98), [128](545#p128)
+
+Uposatha-Khaṇḍam [88](543#p88)
+
+Uppalavaṇṇā [18](538#p18), [37](539#p37), [52](540#p52), [80](542#p80), [113](543#p113), [246](546#p246), [248](547#p248), [305](547#p305)
+
+Uracchadā [248](547#p248)
+
+_urūḷhavo_ [253](547#p253)
+
+Uruvelā [114](544#p114)
+
+Uruvela-Kassapa [114](544#p114), [126](544#p126)
+
+_usā_ [45](540#p45)
+
+Usīnara [55](541#p55), [125](544#p125)
+
+Campana de Ussada [1](538#p1), [3](538#p3)
+
+Uttarapañcāla [198](546#p198) y sigs.
+
+Vaccha [217](546#p217)
+
+Vaddha [72](542#p72)
+
+Vajjī [120](544#p120)
+
+_Vaḷabhi_ [132](545#p132)
+
+Familia Vāma [80](542#p80)
+
+Vāmagotta [71](542#p71)
+
+Vāmataggi [125](544#p125)
+
+Vāmatta-pabbhāra [18](538#p18)
+
+Vaṁka [262](547#p262)
+
+Vaṁsa [120](544#p120)
+
+Vanappavesana-Khaṇḍam [92](543#p92), [270](547#p270)
+
+_vappito_ [98](543#p98)
+
+_varapothakattharaṇaṁ_ [136](545#p136)
+
+_varāvaṁ_ [140](545#p140)
+
+Varuṇa [85](543#p85), [107](543#p107), [127](545#p127), [147](545#p147), [154](545#p154), [156](545#p156)
+
+Vāsava [67](541#p67), [249](547#p249), [255](547#p255)
+
+Vasavatti [69](542#p69), [73](542#p73)
+
+Vasula [75](542#p75), [80](542#p80)
+
+_vaṭaṁsakā_ [253](547#p253)
+
+Veda [107](543#p107), [108](543#p108), [109](543#p109), [112](543#p112)
+
+Vedas, tres [21](539#p21)
+
+Vedeha, Videha [19](538#p19), [28](539#p28), [29](539#p29), [34](539#p34), [53](541#p53), [54](541#p54), [56](541#p56), [57](541#p57), [67](541#p67), [85](543#p85), [114](544#p114), [115](544#p115), [136](545#p136), [156](545#p156) y sigs., [246](546#p246)
+
+Vesiya, Vessa [11](538#p11), [44](540#p44), [107](543#p107), [110](543#p110), [155](545#p155), [215](546#p215), [239](546#p239), [250](547#p250), [254](547#p254), [255](547#p255), [261](547#p261), [304](547#p304)
+
+Vejayanta [70](542#p70), [91](543#p91), [136](545#p136)
+
+Velaranī [124](544#p124)
+
+_velli_ [235](546#p235)
+
+Vepulla [132](545#p132)
+
+Tierras altas bermellón [203](546#p203)
+
+Vessāmitta [125](544#p125)
+
+Vessantara [305](547#p305)
+
+Vessavana [131](545#p131), [150](545#p150), [154](545#p154), [292](547#p292)
+
+Vetaraṇī [57](541#p57), [58](541#p58)
+
+Actos viciosos [57](541#p57) y sigs.
+
+Vidhātā [107](543#p107)
+
+Vidhura [126](544#p126) y sigs.
+
+Vijaya [115](544#p115), [126](544#p126)
+
+Vinatā [129](545#p129), [130](545#p130), [146](545#p146), [148](545#p148)
+
+<span id="p314">[<sup><small>pág. 314</small></sup>]</span>
+
+Vinataka [66](541#p66)
+
+Vinaya mencionado [114](544#p114)
+
+_vinaye rataṁ_ [118](544#p118)
+
+Vipassī [247](547#p247)
+
+_vippito_ [98](543#p98)
+
+Vipula [268](547#p268)
+
+Obras virtuosas [62](541#p62) ff.
+
+Virukkha [87](543#p87)
+
+Virūpakkha [87](543#p87)
+
+Visakhā [248](547#p248)
+
+_visamacakkhulo_ [283](547#p283)
+
+Vishnu Purāna mencionado [33](539#p33)
+
+Vissakamma [9](538#p9), [13](538#p13), [18](538#p18), [41](540#p41), [269](547#p269)
+
+_vosagga-vibhangam_ [111](543#p111)
+
+Agua, delicada [55](541#p55)
+
+Agua de donación [293](547#p293)
+
+Adoración al agua [109](543#p109)
+
+La rueda de la ley [246](546#p246)
+
+Amigo malvado [237](546#p237)
+
+Viudez [263](547#p263)
+
+Esposa en común con otro [139](545#p139)
+
+Deberes de la esposa [263](547#p263)
+
+Sabiduría [35](539#p35), [36](539#p36)
+
+Pregunta de sabiduría [188](546#p188)
+
+Juicio sabio [202](546#p202)
+
+Preguntas de los sabios [192](546#p192)
+
+Mujeres sabias [261](547#p261)
+
+Joya de los deseos [92](543#p92)
+
+Árbol de los deseos [260](547#p260)
+
+Escenas de bosques [278](547#p278)
+
+El mundo de Sakka se sacude [20](539#p20)
+
+Yakkha, _ver_ Goblin
+
+Cola de yak [14](538#p14)
+
+Yama [262](547#p262), [292](547#p292)
+
+Cielo Yāma [136](545#p136)
+
+Yamahanu [55](541#p55)
+
+Yamuna [85](543#p85)
+
+Yamunā [80](542#p80), [83](543#p83), [88](543#p88), [89](543#p89), [94](543#p94)
+
+Yasassikā [246](546#p246)
+
+_yavamajjhaka_ [157](546#p157)
+
+El vestido amarillo es una deshonra [79](542#p79)
+
+Océano Yugandhara [28](539#p28), [66](541#p66)
 
 <figure class="table chapter-navigator">
   <table>
