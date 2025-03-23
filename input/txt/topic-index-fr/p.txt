@@ -23,7 +23,7 @@ Portez le paquetage sur le deuxième kilomètre pour défier les injustes. (159:
 rame-gouvernail | | | | OK
 Jésus a aidé à construire une rame-gouvernail pour le navire à Césarée. (130:2.1,4)
 
-paganisme | | mithraïsme; cultes mystérieux | | OK
+paganisme; cultes païens; païen | | mithraïsme; cultes mystérieux | | OK
 Le paganisme combine la mythologie hellénique et latine avec le patriotisme et la tradition dans ses cultes. (121:5.3)
 Jésus comprenait que le païen irréfléchi n’était pas prêt à recevoir la sagesse et l’enseignement supérieur qu’il avait à offrir. (132:7.1-2)
 
@@ -56,9 +56,11 @@ Les Sahraouis émigrèrent en Palestine et en Arabie, formant différentes tribu
 A l’époque de Jésus, la Palestine jouissait de la paix, de la prospérité et d’un commerce important en raison de son contrôle par les Romains. (121:1.9)
 Jésus choisit de naître en Palestine pour sa mission. (134:0.1-2)
 
-Palissades du fleuve Hudson | (60:1.3) | | PLACE | OK
+Palissades du fleuve Hudson | | | PLACE | OK
+Les Palissades du fleuve Hudson furent formées par épanchement de laves basaltiques entre ces strates triasiques. L’activité volcanique était intense dans différentes parties du monde. (60:1.3)
 
-Dimanche des Rameaux | (172:3) | | | OK
+Dimanche des Rameaux; ce dimanche | | | | OK
+Le dimanche des Rameaux commémore pour le christianisme le jour du 2 avril 30 après J.-C., lorsque Jésus entra à Jérusalem monté sur un âne, acclamé par la foule avec des branches de palmier et d'olivier. (172:3)
 
 palmiers | (60:3.7,19) | | | OK
 Les palmiers étaient utilisés par les Juifs pour exprimer leur joie lors de la fête de Pâques. Lorsque Jésus et ses disciples descendirent du Mont des Oliviers, les visiteurs agitèrent des branches de palmier, exprimant leur joie et leur communion après l'arrivée inattendue du Maître. (172:3.11)
@@ -79,7 +81,7 @@ Les fidèles Panoptiens, gardiens du 7e monde de transition, servent les ordres 
 Malgré l'offre de salut de Michael aux rebelles pendant la rébellion de Lucifer, ce sont les mortels de Panoptia qui ont proclamé la miséricorde et ont vu de nombreux êtres réhabilités au moment de la résurrection de Jésus. (53:9.1)
 Panoptia est restée loyale au milieu de la rébellion de Lucifer à l'échelle du système, guidée par Ellanora et servant fidèlement comme gardiens sur le septième monde de transition de Jérusalem. (53:7.1)
 
-panorama, exposition (Jérusem) | | | PLACE | OK
+panorama, exposition (Jérusem); descriptions panoramiques; annales panoramiques; exposition panoramique; expositions | | | PLACE | OK
 L'effacement du règne de Caligastia de l'exposition panoramique de Jérusalem signifie le début de la réhabilitation planétaire. (46:8.1) (67:3.10)
 L'exposition panoramique de Jérusalem, d'une circonférence de cinq mille miles standards, présente une description actualisée de l'état d'avancement des mondes peuplés de Satania, dans l'histoire planétaire du système de 35 000 miles de circonférence. (46:5.23)
 Les médians primaires formulent et conçoivent des reconstitutions historiques planétaires pour les expositions des sièges du système. (38:9.12)
@@ -259,7 +261,7 @@ Origine
 pomme du paradis | | | | OK
 La pomme du paradis, ou citron, était portée par les pèlerins lors d'une cérémonie matinale au temple, symbolisant le fruit défendu. (162:4.4)
 
-arrivants au Paradis | | mortels ascendants | | OK
+arrivants au Paradis; Arrivants au Paradis | | mortels ascendants | | OK
 Les mortels ascendants ayant un statut de résidence au Paradis sont enrôlés dans le Corps des Mortels de la Finalité, signifiant qu'ils ont trouvé Dieu et qu'ils commencent un cours de divinité et d'absonité. (30:4.31-33)
 A votre arrivée au Paradis, vous entreprenez l'étude de la divinité et de l'absonité, signifiant votre résidence et votre initiation dans le Corps des Mortels de la Finalité. (30:4.31)
 Les émotions d'adoration des arrivées au Paradis étonnent les anges par le débordement écrasant d'émotions spirituelles qui dépassent les temps et les lieux préparés pour l'adoration sur l'Ile éternelle. (27:7.6)
@@ -332,7 +334,7 @@ Gravité paradisiaque | | gravité:types | | OK
 système Paradis-Havona | | Havona; Paradis | PLACE | OK
 Le système éternel du Paradis-Havona se présente comme le noyau parfait du maître univers, encerclant l'Ile éternelle dans une danse cosmique. (12:1.11)
 
-Fils trinitisés par le Paradis-Havona; fils trinitisés par les citoyens du Paradis-Havona | | trinitisation | ORDER | OK
+Fils trinitisés par le Paradis-Havona; fils trinitisés par les citoyens du Paradis-Havona; fils trinitisés; fils trinitisés du Paradis-Havona; descendants trinitisés | | trinitisation | ORDER | OK
 Les Fils trinitisés par le Paradis-Havona ont été créés par les Citoyens du Paradis et les Havoniens. (22:7.9-13)
 Les Fils trinitisés par le Paradis-Havona sont enregistrés dans le registre des personnalités d'Uversa. (30:2.63)
 Les Évangélistes de la Lumière, personnalités célestes attachées à des compagnies mortelles finalitaires, peuvent servir dans des missions transitoires avant de reprendre leur ancien statut. (31:7.2)
@@ -342,7 +344,7 @@ commission paradisiaque d'incarnation | | | | OK
 
 Esprits Maîtres du Paradis | | Maîtres Esprits, Sept | ORDER | OK
 
-Fils Paradisiaques de Dieu | (20) (7:6) | Fils Créateurs; Fils Magistraux; Fils Instructeurs de la Trinité | ORDER | OK
+Fils Paradisiaques de Dieu; Fils du Paradis | (20) (7:6) | Fils Créateurs; Fils Magistraux; Fils Instructeurs de la Trinité | ORDER | OK
 Qui sont-ils ?
 	Les Fils de Dieu du Paradis sont des créateurs, des serviteurs, des dispensateurs, des juges, des enseignants et des révélateurs de vérité, parcourant l'univers des univers pour accomplir des services divins sous la direction de leur Fils Créateur. (20:1.12)
 	Les Fils de Dieu du Paradis, issus de la création divine directe au Paradis, se consacrent à faciliter la progression des humbles créatures dans leur ascension vers le Paradis en descendant pour exercer leur ministère sur les mondes et les systèmes du temps et de l'espace. (20:1.1) (35:0.1)
@@ -460,13 +462,13 @@ L’infinité est le paradoxe ultime, qui comble le fossé entre l’unité et l
 Les mesures simultanées de la localisation et de la vitesse impliquent inévitablement des changements les unes dans les autres, créant un paradoxe apparenté à l’analyse du protoplasme mort par rapport au protoplasme vivant. (65:6.1)
 Le paradoxe humain d’être une partie de la nature tout en étant capable de la transcender engendre l’incertitude, l’anxiété et le potentiel de péché. (111:6)
 
-paralysie | | | | OK
+paralysie; paralysante | | | | OK
 Les primitifs étaient paralysés par la peur omniprésente de la malchance, ce qui les conduisait à remettre en question la valeur du travail acharné et soulignait la tendance à négliger la chance. (86:1.3)
 
-paralytique à Bethsaïde | | | PERSON | OK
+paralytique à Bethsaïde; paralytique | | | PERSON | OK
 Un paralytique de Bethsaïda a cherché la guérison auprès de Jésus avec une foi et une détermination inébranlables. (148:9)
 
-paranoïaques | | | | OK
+paranoïaques; paranoïaque | | | | OK
 Certains des premiers prêtres étaient considérés comme paranoïaques en raison d’anomalies mentales et physiques liées à la possession par des esprits et des démons, inspirant d’anciennes croyances. (90:1.2)
 
 parchemin; morceau de parchemin | | | | OK
@@ -493,7 +495,7 @@ L’appréciation limitée des qualités infinies de l’homme mortel, créé à
 Dans les états avancés, les parents sont dûment récompensés par l’excellence de leurs enfants. (71:3.12)
 L’altruisme est inhérent à l’amour parental, car Dieu est révélé comme le Père de chaque être humain, transcendant le concept mortel de Dieu illuminé par Jésus. (2:6.4) (16:9.7)
 
-perroquets | | | | OK
+perroquets; perroquet | | | | OK
 La tribu de Nouvelle-Guinée enseigne la descendance des animaux, y compris du perroquet, reflétant les croyances anciennes sur la lente évolution de l'humanité. (74:8.5)
 
 Parsis | | | RELIGION | OK
@@ -511,7 +513,7 @@ association; s’associe | | groupes; mariage | | OK
 Le partenariat multiplie par quatre les possibilités de réussite en améliorant les potentiels personnels sur les plans intellectuel, social et spirituel. (43:8.11)
 Lorsque l’homme mortel fusionne avec un fragment réel de la Cause existentielle du cosmos total, aucune limite ne peut jamais être imposée au destin d’un partenariat sans précédent et inimaginable avec Dieu. (107:4.7) (118:5.2) (132:7.9)
 
-parties et le tout | (12:7) (12:9.3) (131:8.4) | groupes; individu | | OK
+parties et le tout; la partie et du tout; partie du tout; toutes les parties avec ce tout; somme de deux ou plusieurs facteurs | (12:7) (12:9.3) (131:8.4) | groupes; individu | | OK
 Le progrès de l'ensemble dépend de l'évolution de ses parties, comme il en est des parties, ainsi en est-il du tout. (12:7.11) (116:6.6)
 La croissance évolutive des parties et du tout est guidée par le même dessein divin vers l'unité et l'achèvement ultimes dans l'association de la Trinité. (116:6.6)
 Le bien-être de toutes les créatures planétaires habitées par l'esprit de Dieu, dispersées dans les univers, est déterminé, sage et soucieux du meilleur bien pour tous, du plus bas au plus élevé. (3:2.8)
@@ -527,14 +529,14 @@ L’individualité, qu’elle soit matérielle, morontielle ou spirituelle, est 
 La personnalité de chaque être humain, bien que relativement sans rapport avec l’apparition éventuelle du Tout Suprême, représente une valeur de signification irremplaçable dans le fini, car le tout dépend des actes totaux des multiples parties. (117:4.5)
 La somme des parties en mathématiques et en science des matériaux ne reflète pas toujours le tout, comme on le voit dans la création imprévue de l’eau liquide à partir d’atomes d’hydrogène et d’oxygène gazeux. (12:9.3)
 
-oiseaux voyageurs | | | | OK
+oiseaux voyageurs; oiseaux transporteurs | | | | OK
 Les premiers hommes évolutionnaires, habitants de planètes parfois envahies par de plus gros animaux, font un usage intensif d'oiseaux passagers intelligents, affectueux et obéissants, capables de voler sans s'arrêter sur plus de cinq cents milles et de prononcer de nombreux mots. (52:1.5)
 Bon a dressé avec succès les fandors comme oiseaux passagers avant leur extinction il y a 30 000 ans, marquant la fin d'une époque où les pigeons voyageurs étaient utilisés pour la messagerie longue distance. (66:5.6)
 Les premiers hommes évolutionnaires ont apprivoisé et utilisé des oiseaux passagers intelligents, obéissants et affectueux qui pouvaient faire voler deux hommes sans s'arrêter sur 500 milles. (52:1.5)
 Adam et Ève ont inspecté le jardin d'Éden à partir de grands oiseaux passagers, les fandors, lors de leur troisième jour sur terre, avant d'être emmenés au temple par les médians. (74:3.4) (74:4.4)
 Il y a 45 millions d'années, un oiseau ressemblant à une autruche était l'ancêtre des oiseaux passagers gigantesques qui transportaient les êtres humains dans les airs. (61:1.9)
 
-passivité | | indolence; initiative | | OK
+passivité; passive | | indolence; initiative | | OK
 Les disciples de Jésus, équipés d’armes spirituelles, sont appelés à conquérir le monde avec un pardon sans faille, une bonne volonté sans pareille et un amour abondant, jamais passifs mais toujours actifs et positifs dans leur ministère de miséricorde et d’amour. (194:3.11)
 La justice ne vient pas d’attitudes passives, mais de la victoire active sur le mal par le bien. (159:5.9-15)
 
@@ -601,7 +603,7 @@ L'apôtre André fut finalement appréhendé et crucifié à Patras, en Achaïe,
 
 patriarcat | | famille:familles patriarcales | | OK
 
-patriotisme | | nationalisme | | OK
+patriotisme; question patriotique | | nationalisme | | OK
 Aucune civilisation nationale ne perdure longtemps sans un patriotisme intelligent et un dévouement national de haut niveau (81:6.35)
 Gérer les questions patriotiques, compliquées par les oppresseurs étrangers qui percevaient les impôts, était une question difficile pour le jeune Jésus et reste un défi pour les dirigeants spirituels (127:2.6)
 L’effondrement du patriotisme romain formel et dénué d’émotion était inévitable, parallèlement au déclin du culte intellectuel grec avant l’essor de cultes à mystères fervents et profondément émotionnels comme la secte de la Mère de Dieu (98:3.5)
@@ -609,7 +611,7 @@ Les accès de colère insensés de Jude provoquèrent des conflits avec les auto
 La ​​loyauté humaine, une fois mobilisée, entrave l’évolution de la souveraineté politique de la famille à toute l’humanité, comme le prouve la résistance manifestée à tous les niveaux intermédiaires. (134:5.8)
 Simon Zélote est resté un ardent nationaliste juif malgré les efforts du Maître pour faire de lui un internationaliste. (139:11.9)
 
-motif | | | | OK
+archétype; archétypal | | | | OK
 Le modèle, en tant que configuration d’énergie qui a payé toute dette de gravité et ne réagit pas à la gravité, peut imprégner des personnalités, des identités, des entités ou de la matière non vivante, mais demeure un modèle et ne crée que des copies. (0:6.10-13) (36:6.6)
 La Déité doit toujours fournir l’univers modèle pour que la conscience mortelle progresse du fait à la signification et à la valeur. (118:5.3)
 Le modèle révèle les aspects individuels de l’énergie et de la personnalité, distincts de l’aspect total. (0:6.12)
@@ -732,8 +734,8 @@ Paix dans le monde
 	Les organisations commerciales internationales favoriseront la paix sur Urantia plus efficacement que les plans de paix sentimentaux. (70:3.4)
 	La paix mondiale sous le régime de la loi ne sera instaurée que lorsque les nations renonceront à leur pouvoir de faire la guerre et seront soumises à un gouvernement représentatif de toute l'humanité. (72:12.5) (134:5.10-12)
 
-artisans de paix | | | | OK
-Les artisans de paix, créant la paix personnelle, sociale et politique, seront appelés fils de Dieu. (140:3.10) (140:5.18)
+pacificateurs | | | | OK
+Les pacificateurs, créant la paix personnelle, sociale et politique, seront appelés fils de Dieu. (140:3.10) (140:5.18)
 
 perle de grand prix | | | | OK
 Le prix à payer pour rester dans le royaume est de tout abandonner pour la perle de grande valeur. (140:8.28)
@@ -743,12 +745,14 @@ perles | | | | OK
 La Mémoire de la Miséricorde doit montrer que la miséricorde ne doit pas être imposée à ceux qui la méprisent, car la miséricorde n’est pas un don qui doit être foulé aux pieds par les rebelles persistants du temps, ne présentant pas ce qui est saint aux chiens, ni ne jetant ses perles aux pourceaux. (28:6.7) (140:3.18) (186:2.2)
 Le premier collier porté par l’homme, serti de perles, a été fabriqué avec un cordon ombilical préservé. (88:1.8)
 
-nautile nacré | | | | OK
-Le nautile perlé moderne est un descendant des céphalopodes. (59:2.11)
+nautiles flambés | | | | OK
+Le nautiles flambé moderne est un descendant des céphalopodes. (59:2.11)
 
-tourbe | (59:5.16) | | | OK
+tourbe | | | | OK
+La tourbe, vestige d'une croissance végétale passée, pourrait potentiellement être convertie en charbon grâce à une pression et une chaleur suffisantes. (59:5.16)
 
-pécaris | (61:2.9) | | | OK
+pécaris | | | | OK
+Les pécaris, descendants d'une petite créature ressemblant à un cochon, ont évolué aux côtés d'autres espèces en Amérique du Nord et en Europe à l'époque préhistorique. (61:2.9)
 
 Pella | (169) (128:3.2) (141:1.2) (144:8) (163:5) (165:3) (167:0.1) (171:1) (186:3.2-3) | | PLACE | OK
 L’arrivée de Jean-Baptiste à Pella marqua un moment important dans le voyage de Jésus vers le baptême. (134:9.8)
@@ -761,7 +765,8 @@ Isador écrivit l’Évangile de Matthieu à Pella après s’être échappé de
 pénitence | | repentir | | OK
 La maîtrise de soi, un gain social inestimable issu des premières religions évolutionnaires, est illustrée par la pénitence comme forme négative du rituel de renonciation. (89:3.3)
 
-Pennsylvanie | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE | OK
+Pennsylvanie | | | PLACE | OK
+De la Pennsylvanie au Canada, les gisements de charbon révèlent une histoire géologique ancienne, avec des couches indiquant des mouvements de terrain et des fossiles pointant vers des environnements passés. (58:7.4) (59:5.17) (61:7.2,9)
 
 pensions | | retraite | | OK
 
@@ -770,7 +775,7 @@ Les apôtres ont fait preuve d’un abandon de soi et d’une consécration inte
 La scène du mental humain est préparée pour la réception des Ajusteurs, universellement octroyés à tous les mentals normaux de statut moral sur Urantia depuis le jour de la Pentecôte, lorsque l’Esprit de Vérité est présent en tant que coordinateur spirituel. (108:2.3) (146:3.6)
 Le jour de la Pentecôte, tous les médians rebelles ont été internés, empêchant à jamais la possession démoniaque. (77:7.2,8)
 L’essence de la Pentecôte, l’effusion de l’Esprit de Vérité, a été éclipsée par des manifestations émotionnelles malavisées. (194:3.1)
-La Pentecôte a effacé toute discrimination religieuse, libérant les femmes de l’inégalité de statut spirituel et abolissant les distinctions basées sur la race, la culture, la caste et le sexe. (194:3.14-15) (194:4.15)
+La Pentecôte a effacé toute discrimination religieuse, libérant les femmes de l’inégalité de statut spirituel et abolissant les distinctions basées sur la race, la culture, la caste et le sexe. (194:3.14-15) (194:3.5)
 André et Pierre, différents par leur caractère et leur tempérament, travaillèrent ensemble de façon splendide, ajoutant 2000 âmes au royaume à la Pentecôte. (139:1.6)
 À la Pentecôte, les médians primaires et secondaires s’unirent dans une union volontaire, fonctionnant comme une seule unité dans les affaires mondiales sous une direction alternée. (51:3.8)
 L’Esprit de Vérité rendit la possession démoniaque impossible après le jour de la Pentecôte. (141:4.8) (145:2.13) (153:4.1) (163:6.2)
@@ -802,7 +807,7 @@ Types
 	L'essentiel de la destinée spirituelle dépend de la foi, de l'amour et du désir d'être comme Dieu. (156:5.7)
 	Le Fils Éternel et le Père sont en liaison éternelle dans la poursuite réussie du plan divin pour la création, l'évolution, l'ascension et la perfection des créatures douées de volonté. (7:4) (48:8.1)
 	Toutes les facilités et tous les pouvoirs sont fournis pour assurer votre accomplissement ultime de la perfection divine dans la famille de la filiation divine. (40:10.14)
-	L'invitation-commandement suprême du Père est d'être parfait, tout comme il est parfait au Paradis. (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:2.16) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
+	L'invitation-commandement suprême du Père est d'être parfait, tout comme il est parfait au Paradis. (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
 	Imiter Dieu est la clé de la perfection, de la survie et du service dans l'éternité en choisissant de faire la volonté du Père. (111:5.2) (1:3.6) (111:5.4)
 	La perfection ne s'atteint pas par l'oisiveté, mais par une action réfléchie et intelligente au service de la création. (117:4.7)
 	Au cours du 3e circuit de Havona, les créatures du temps et la personnalité matérielle ont atteint la perfection, prouvant la faisabilité du plan d'ascension et démontrant la justesse du commandement d'être parfait. (26:9.3-4)
@@ -853,12 +858,12 @@ service
 	Les Perfecteurs de Sagesse, avec leurs associés et leurs coordonnées, forment le corps consultatif mobile le plus élevé dans les univers du temps et de l'espace, s'appuyant sur la perspicacité divine et l'expérience personnelle pour atteindre une sagesse administrative maximale. (19:2.4) (19:3.4-7)
 	Les Perfecteurs de Sagesse travaillent sur des planètes individuelles pour révéler la vérité aux mortels ascendants à travers les services célestes. (19:2.6)
 
-parfum | | pommade | | OK
+parfum | | onguent | | OK
 
-tableau périodique | | éléments (chimiques) | | OK
+tableau périodique; caractéristiques périodiques; tableau chimique | | éléments (chimiques) | | OK
 Le tableau périodique présente un modèle récurrent de propriétés en groupes de sept, reflétant une connexion au système spirituel et à l'énergie ancestrale du monde matériel. (42:9.2-3)
 
-pervenches | | | | OK
+bigorneaux | | | | OK
 Les bigorneaux sont d'anciens gastéropodes qui ont évolué avec des organismes à coquille valvulaire pendant des millions d'années. (59:2.12)
 
 parjures | | mensonge | | OK
@@ -876,7 +881,7 @@ Perpétua cuisinait pour les apôtres pendant que sa mère, Amatha, était malad
 Perpétua, l’épouse de Pierre, travailla fidèlement à ses côtés, mais connut une fin tragique lorsqu’elle fut donnée en pâture aux bêtes sauvages dans l’arène de Rome (139:2.14) (163:7.3)
 Perpétua, dirigeante du corps élargi des femmes, s’occupa sans crainte des malades et des affligés aux côtés de ses consœurs en Pérée, soutenant fidèlement les efforts missionnaires de son mari Simon Pierre jusqu’à son martyre dans l’arène romaine (163:7.3)
 
-persécution | | | | OK
+persécution; persécutés; persécutions | | | | OK
 Ne vous inquiétez pas de ce que vous direz en temps de persécution, car l’esprit de mon Père parlera par vous. (140:9.3) (176:1.1)
 Les premières persécutions contre les chrétiens à Rome étaient en grande partie dues à leur utilisation du terme « royaume », qui était considéré comme une menace politique par les Romains. (195:2.2)
 Les Sadducéens ont tenté de ridiculiser Jésus en public, mais leurs actions n’ont servi qu’à créer plus de sympathie pour lui parmi la foule. (174:3.5)
@@ -901,7 +906,7 @@ Une île du golfe Persique a été proposée comme emplacement possible du jardi
 Ur a prospéré grandement dans le golfe Persique pendant les inondations, devenant finalement le centre de l’industrie de la poterie. (78:8.2)
 Des vestiges de Dalamatia existent sous les eaux du golfe Persique, détenant d’anciens secrets du premier Éden. (78:7.7)
 
-Perses | | Iran | RACE | OK
+Perses; Persans | | Iran | RACE | OK
 Les Perses libérèrent les Juifs de Babylone, mais ils retombèrent dans l’esclavage de leurs propres lois et rituels sacerdotaux. (97:10.2)
 Le concept de triade divine apparut dans la religion bien avant la révélation de la Trinité du Paradis, et était répandu parmi diverses civilisations, notamment les Perses, les Hindous, les Grecs, les Égyptiens, les Babyloniens, les Romains et les Scandinaves. (104:0.3)
 
@@ -1141,7 +1146,7 @@ Les valeurs et les faits doivent rester dans une perspective appropriée dans la
 L’immensité du plan de Dieu rend impossible de voir grand-chose en une seule vie, mais toutes nos luttes mortelles font partie d’un projet immense et éternel supervisé par la Première Grande Source et Centre. (32:5.1-2)
 Regardez au-delà de l’incertitude mortelle vers la justice éternelle qui brille à travers les nuages ​​d’opportunités. (108:6.8)
 
-transpiration | | | | OK
+transpiration; la sueur coulait à grosses gouttes | | | | OK
 Alors que Jésus faisait ses adieux à ses apôtres et faisait face à une grande angoisse, la sueur coulait de son visage en grosses gouttes, acceptant que les événements naturels suivent leur cours. (182:3.7)
 
 persuasion | | | | OK
@@ -1156,7 +1161,7 @@ pessimisme | | optimisme | | OK
 Le pessimisme prouve que l’univers n’est pas entièrement matériel, car la conscience des valeurs contredit le matérialisme. (195:7.8)
 La poursuite de la simple connaissance conduit au pessimisme et au désespoir humain sans sagesse ni perspicacité spirituelle. (195:6.3)
 
-animal de compagnie maléfique | | | | OK
+mal familier | | | | OK
 Presque chaque être humain a un mal favori auquel il doit renoncer pour entrer dans le royaume des cieux, comme le montre l'obéissance finale de Matadormus et son rôle de trésorier de l'église de Jérusalem. (163:2.7)
 
 Pierre | | Simon Pierre | PERSON | OK
@@ -1169,7 +1174,7 @@ forêts pétrifiées | (60:1.7) | | | OK
 culte phallique | | | | OK
 Le culte phallique est apparu comme une défense contre le mauvais œil, auquel croyaient les Juifs et qui est abordé dans un chapitre du Coran, considérant les organes reproducteurs comme le seul fétiche capable de conjurer son influence. (87:5.5)
 
-Pharisien et publicain; parabole du pharisien et du publicain | | | | OK
+Pharisien et publicain; parabole du pharisien et du publicain; histoire du pharisien et du publicain | | | | OK
 La parabole du pharisien et du publicain enseigne que le véritable bonheur vient de l’humilité et de la recherche de la richesse spirituelle, et non de l’autosatisfaction ou des possessions matérielles. (140:5.7) (167:5.1-2)
 
 pharisiens | | Judaïsme; rabbins; sanhédrin; scribes | RELIGION | OK
@@ -1247,7 +1252,7 @@ vie
 	Inquiet que Jésus puisse lui demander de nourrir la multitude de Jérusalem, Philippe fut déstabilisé par la soudaineté et la spontanéité de l’explosion, mais trouva du soulagement lorsque Jésus se détourna de la foule. (172:5.6)
 	Jésus a donné des avertissements solennels à Philippe, l’exhortant à rester ferme, loyal et obéissant à son appel d’ambassadeur fidèle du royaume. (174:0.2) (181:2.20) (192:2.11)
 	Jésus dit à Philippe de ne plus s’occuper d’argent et de biens ; Allez, et proclamez l’Évangile du royaume aux nations. (181:2.20) (192:2.11)
-	Philippe était obéissant en allant dans les pays des Gentils pour proclamer l’Évangile, montrant son amour pour Jésus par ses actions. (191:2.5) (192:1-4) (193:0.3,5)
+	Philippe était obéissant en allant dans les pays des Gentils pour proclamer l’Évangile, montrant son amour pour Jésus par ses actions. (192:1-4) (193:0.3,5)
 	Philippe, parmi les 120 présents à la Pentecôte, s'est exprimé en plusieurs langues lors de l'appel passionné qui a conquis des milliers d'âmes. (194:1.2)
 après Jésus
 	Philippe, chargé de prêcher aux Gentils, obéit au commandement du Maître de proclamer l'Évangile du royaume à ceux qui sont dans les ténèbres. (192:2.11)
@@ -1282,7 +1287,7 @@ Les Hébreux apprirent l’alphabet des Philistins, ce qui retarda le développe
 David bâtit un royaume divin en vainquant les Philistins et en assumant la collecte des droits de douane sur les caravanes. (97:9.11-15)
 Les Hébreux ont appris l’alphabet des réfugiés politiques philistins de Crète, ce qui a donné lieu à diverses histoires de création qui ont circulé avant de se tourner vers la version mésopotamienne après la captivité babylonienne. (74:8.9)
 
-Philon d'Alexandrie | | | PERSON | OK
+Philon d'Alexandrie; Philon | | | PERSON | OK
 Philon d’Alexandrie, un Juif riche, a restauré le concept de la Trinité et a peut-être entrevu les Ajusteurs de Pensée ; ses enseignements sur la doctrine de l’expiation ont influencé Paul mais ont finalement été éliminés en raison d’incohérences dans la combinaison des théologies grecque, romaine et hébraïque. (121:6.5-6)
 Philon d’Alexandrie possédait un exemplaire du Livre de la Sagesse, qui renferme les enseignements selon lesquels les richesses terrestres sont éphémères, la peur doit être évitée et l’on doit se concentrer sur les actes de Dieu plutôt que sur les paroles des hommes. (95:4.3)
 Dans diverses régions, y compris parmi les anciens enseignants juifs, Platon, Philon d’Alexandrie et les Esséniens, il y avait une croyance tolérée en la réincarnation. (164:3.4)
@@ -1293,13 +1298,13 @@ réalisations
 	Philon d’Alexandrie a atténué les objections romaines au judaïsme, ouvrant la voie à l’acceptation du concept chrétien d’un seul Dieu. (195:2.9)
 	Philon d’Alexandrie a profondément influencé la pensée religieuse, harmonisant la philosophie grecque et la théologie hébraïque en un système cohérent utilisé plus tard par Paul pour la fondation du christianisme. (121:6.3-6) (121:7.7) (170:5.3,16)
 
-philosophe à Éphèse | | | PERSON | OK
+philosophe à Éphèse; Grec érudit | | | PERSON | OK
 Le philosophe d’Éphèse a eu des discussions fructueuses avec Jésus sur le concept de l’âme, la définissant comme la partie de l’homme qui réfléchit sur elle-même, discerne la vérité et perçoit l’esprit, et qui élève les humains au-dessus du monde animal. (133:6.4-7)
 
 pierre philosophale | | | | OK
 La creencia en la piedra filosofal condujo al dominio de los metales, una piedra angular del avance científico arraigada en la mitología antigua. (88:6.5)
 
-philosophie | (103:6-9) | maîtres de la philosophie; science, philosophie et religion | | OK
+philosophie | (103:6-9) | maitres de philosophie; science, philosophie et religion | | OK
 Philosophie et religion
 	La différence entre une philosophie de vie religieuse et non religieuse réside dans la nature et le niveau des valeurs reconnues et de l'objet des loyautés. (101:7.4) (103:1.5) | théologie
 	La religion évolutionnaire a donné naissance à la science, à l'art et à la philosophie qui ont élevé l'homme à un état capable de recevoir la religion révélée, y compris le don des Ajusteurs et l'avènement de l'Esprit de Vérité. L'existence humaine débute et se termine par diverses formes de religion, ce qui en fait un aspect naturel, mais non obligatoire, de l'humanité. (5:5.5)
@@ -1339,7 +1344,7 @@ points forts
 	La sagesse en philosophie oriente la conscience vers la prise de conscience de la vraie réalité et la croyance en la survie personnelle. (102:3.5)
 
 Phéniciens | (133:6.2) | | RACE | OK
-Les apôtres gagnèrent des âmes parmi les gentils de Phénicie, grandement encouragés par leur accueil chaleureux aux enseignements de Jésus. (155:4.6) (156:2.3)
+Les apôtres gagnèrent des âmes parmi les gentils de Phénicie, grandement encouragés par leur accueil chaleureux aux enseignements de Jésus. (155:4.1-2) (156:2.3)
 Beth-Marion, une Phénicienne, devint si fanatique qu’elle faillit se noyer en essayant de marcher sur l’eau et fut renvoyée par ses amis. (148:8.4)
 Les Phéniciens croyaient que les serpents étaient les porte-parole des mauvais esprits, ce qui a conduit à la vénération des reptiles dans diverses cultures. (88:1.5)
 Les Phéniciens employaient la crucifixion comme punition, une méthode adoptée plus tard par les Grecs et les Romains, mais non utilisée sur les citoyens romains. (187:1.5)
@@ -1365,7 +1370,7 @@ contrôleurs physiques | | Maitres Contrôleurs Physiques | ORDER | OK
 
 énergie physique | | énergie matérielle | | OK
 
-manipulateurs physico-énergétiques | | | ORDER | OK
+Manipulateurs d’énergie physique | | | ORDER | OK
 Les manipulateurs d'énergie physique, les artisans célestes, aident les superviseurs du pouvoir morontiel à manipuler et à contrôler diverses phases de l'énergie physique, connaissant les trois courants fondamentaux et les trente ségrégations énergétiques des superunivers. (44:5.2)
 
 matière physique | | matière | | OK
@@ -1396,10 +1401,10 @@ Pikes Peak est un symbole durable du paysage en constante évolution des montagn
 
 Pilate, Ponce | | Ponce Pilate | PERSON | OK
 
-gardiens pèlerins | | | ORDER | OK
+gardiens des pèlerins | | | ORDER | OK
 Les gardiens des pèlerins n’ont pas reçu de mission spécifique dans leur association avec les progresseurs morontiels. Ces compagnons portent la responsabilité de toute la carrière morontielle et, en conséquence, ils coordonnent le travail de tous les autres ministres morontiels de transition. (48:3.7)
 
-aides aux pèlerins | | | ORDER | OK
+aides des pèlerins | | | ORDER | OK
 Les pèlerins assistants du septième cercle des mondes de Havona enseignent aux ascendeurs la Trinité, le partenariat Père-Fils et l'Esprit Infini dans des détails complexes. (26:5.2)
 Les pèlerins assistants du septième circuit de Havona servent les mortels ascendants en leur transmettant des leçons essentielles sur la Trinité, le partenariat Père-Fils et l'Esprit Infini. (26:5)
 
@@ -1412,8 +1417,8 @@ Les pèlerinages vers des sanctuaires sacrés constituent un rituel ancien qui a
 pilote | | | | OK
 Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine (111:1.9)
 
-veilleuse | | | | OK
-La veilleuse de la luminosité spirituelle de l’Ajusteur est un phare universel de présence divine. (107:4.5)
+lumière pilote | | | | OK
+La lumière pilote de la luminosité spirituelle de l’Ajusteur est un phare universel de présence divine. (107:4.5)
 
 Pindare | | | PERSON | OK
 Pindare et d’autres poètes grecs ont cherché à réformer la religion grecque, mais n’ont finalement pas réussi à développer une méthode durable pour préserver les principes moraux. (98:2.5)
@@ -1421,7 +1426,7 @@ Pindare et d’autres poètes grecs ont cherché à réformer la religion grecqu
 pins | | | | OK
 Au cours de l'ère jurassique, les forêts de pins ont commencé à remplacer les forêts de fougères dans le cadre d'une transition biologique riche en événements et active vers les variétés d'arbres modernes. (60:2.7) (60:4.5)
 
-pinte | | | | OK
+pinte; demi-litre | | | | OK
 Les capacités inhérentes ne peuvent être dépassées, une pinte ne peut jamais contenir un quart, tout comme le concept spirituel ne peut être forcé dans un moule de mémoire matérielle. (48:7.5)
 
 pirates | | | | OK
@@ -1433,7 +1438,7 @@ Luc, le médecin d’Antioche de Pisidie, a écrit l’Évangile en 82 après J.
 expérience de Pitcairn | | | | OK
 Le mélange réussi des races blanches et polynésiennes dans l’expérience de Pitcairn a démontré le potentiel de création de caractéristiques nouvelles et biologiquement efficaces. (82:6.9)
 
-glandes pituitaires | | hormones | | OK
+glandes pituitaires; corps pituitaire | | hormones | | OK
 L’imagination et la réceptivité spirituelle sont influencées par l’organisation de certaines glandes comparables aux corps pituitaires, comme décrit dans la série sur la réception spirituelle. (49:5.19)
 
 pitié | | sympathie | | OK
@@ -1448,14 +1453,14 @@ Le groupe Edentia a approuvé les plans d’initiation à la vie planétaire pro
 
 conseil planétaire sur l'art et la science | | Cent de Caligastia | PERSON | OK
 
-gardiens planétaires | | | ORDER | OK
+conservateurs planétaires; Conservateurs Planétaires | | | ORDER | OK
 Soixante-dix gardiens détiennent l’autorité morontielle suprême sur les sphères morontielles, guidant les créatures ascendantes dans leurs voyages transformateurs sans avoir besoin d’inconscience. (48:2.18)
 Les Gardiens Planétaires sont enregistrés dans le registre de personnalité d’Uversa. (30:2.111)
 Les Gardiens Planétaires, en tant que conseil local de l’autorité morontielle suprême, accordent des formes morontielles à toutes les créatures ascendantes sur les sphères, leur permettant de progresser à travers les phases de la vie morontielle sans abandonner la conscience. (48:2.18)
 
-époques planétaires | (52) (49:5.21-28) | | | OK
+époques planétaires; époque planétaire | (52) (49:5.21-28) | | | OK
 Première ère – pré-Prince Planétaire
-	L’ère pré-Prince Planétaire marque l’époque où les hommes primitifs, évoluant à travers différentes races, s’engagent dans la survie physique et la gouvernance tribale, avant l’arrivée de la guidance divine et du développement spirituel supérieur. (52:1) | mortels : mortels primitifs
+	L’ère pré-Prince Planétaire marque l’époque où les hommes primitifs, évoluant à travers différentes races, s’engagent dans la survie physique et la gouvernance tribale, avant l’arrivée de la guidance divine et du développement spirituel supérieur. (52:1) | mortels:mortels primitifs
 	Six races colorées apparaissent au fur et à mesure que le langage se développe à partir du moment où les hommes primitifs émergent et choisissent d’adorer le Créateur jusqu’à l’arrivée du Prince Planétaire. (52:1.1-2)
 	Les hommes primitifs émergent du niveau animal, durant de 150 000 à 1 000 000 d’années avant l’arrivée du Prince Planétaire. (52:1.1)
 	L’ère de l’homme primitif est un chapitre long, sombre et sanglant dans les annales des époques planétaires. (52:1.4)
@@ -1543,7 +1548,7 @@ avenir immédiat
 lumière et vie
 	à propos des ères de lumière et de vie, voir le lien ci-dessous | light and life
 
-séraphins auxiliaires planétaires | (39:5) | séraphins | ORDER | OK
+séraphins auxiliaires planétaires; aides angéliques planétaires; aides planétaires; séraphins planétaires | (39:5) | séraphins | ORDER | OK
 Environ un tiers des séraphins assistants planétaires furent perdus dans la rébellion de Lucifer. (53:7.7)
 Le cinquième ordre de séraphins, les assistants planétaires, jouent un rôle crucial dans la conduite de la mission adamique sur Terre, illustré par la réprimande de Solonia à Adam et Ève pour leur déviation du plan divin. (51:3.5)
 Les séraphins assistants planétaires, au nombre d'environ 100 000, accompagnent les Adams planétaires sur les mondes évolutionnaires, contribuant à leur élévation physique et intellectuelle. (39:5) (51:3.5)
@@ -1654,7 +1659,7 @@ aptitude à la vie
 	Les Messagers Solitaires enquêtent sur les petites planètes sombres les mieux adaptées aux expériences de vie, guidés par les indices des contemplateurs de l'espace et les connaissances retenues par les Déités du Paradis. (23:2.20)
 	Les aspects physiques des planètes sont largement déterminés par leur mode d'origine, leur situation astronomique, leur environnement physique, leur âge, leur taille, leur vitesse de révolution et leur vitesse dans l'espace - l'eau et l'air étant présents sur toutes les planètes, même s'ils ne sont pas trop petits. (41:10.3)
 
-plans | | | | OK
+plans; projets; plan | | | | OK
 L’âme morontielle évolutive de l’homme, imprégnée de vérité, de beauté et de bonté, devient indestructible si elle est valorisée en tant que conscience de Dieu, car ce qui est commencé dans le temps sera achevé dans l’éternité – s’il en vaut la peine. (111:3.7)
 Apprendre à se gouverner soi-même sur les mondes des maisons comprend la coopération et la planification avec d’autres êtres plus sages pour le bien de tous les concernés et apprécier la moralité cosmique. (39:4.10)
 À propos du plan de Dieu, voir le lien sur le plan divin | plan divin ; volonté de Dieu
@@ -1686,7 +1691,7 @@ Platon | | platonisme | PERSON | OK
 Platon, tout comme Socrate et Aristote, enseignait que la vertu est la connaissance et qu’il vaut mieux subir l’injustice que d’en être coupable. (98:2.6)
 Platon, comme Confucius, n’était pas un enseignant religieux, mais un philosophe. (92:5.12)
 
-platonisme | | Grèce:religion grecque; Platon | RELIGION | OK
+platonisme; philosophie platonicienne; idéalisme grec | | Grèce:religion grecque; Platon | RELIGION | OK
 Quatre grandes philosophies dérivées du platonisme dominèrent le monde païen (121:4.1)
 Le quatrième livre des Maccabées illustre la grande incursion du stoïcisme et la pénétration de la philosophie platonicienne parmi les croyances juives hellénisées (121:6.3)
 Le christianisme incorporait les idées babyloniennes et perses ainsi que les théories de Platon, rendant les enseignements plus acceptables pour des publics divers (146:1.3)
@@ -1698,10 +1703,10 @@ La croyance persistante en la réincarnation était tolérée par les anciens en
 
 jouer | | loisirs | | OK
 
-jouer aux constructeurs | | | ORDER | OK
+bâtisseurs d’édifices récréatifs | | | ORDER | OK
 Les artisans célestes construisent des édifices divins pour les constructeurs de pièces de théâtre, offrant un cadre approprié à la formation des êtres ascendants sur les mondes morontiels. (44:3.4)
 
-plaisirs | | loisirs; autosatisfaction | | OK
+plaisirs; plaisir | | loisirs; autosatisfaction | | OK
 La maturité substitue des significations plus élevées au plaisir personnel, élevant les loyautés aux concepts les plus extrêmes des situations de la vie et des relations cosmiques, tandis que le mal naît du fait de rendre les évaluations personnelles absolues. (100:1.1)
 Dans le monde morontiel, il existe d’innombrables réalités spirituelles qui surpassent et améliorent les plaisirs matériels familiers aux mortels. (44:3.1)
 Le rappel des expériences passées procure des plaisirs, permettant de jouir de l’humour céleste et de l’amusement spirituel tout au long de nos vies ascendantes. (48:4.10,20)
@@ -1745,7 +1750,7 @@ prestance; équilibre | | équilibre| | OK
 Les croyants, libérés de la hâte et du stress douloureux, font preuve d’une stabilité tranquille et d’une originalité unique dans leur vie imprégnée de la présence de l’Éternel. (102:2.3)
 La foi maintient un équilibre mystérieux face à la souffrance physique et à l’injustice. (101:3.8-9)
 
-poison | | | | OK
+poisons; poison | | | | OK
 Les poisons et les substances intoxicantes étaient vénérés comme des fétiches, que l’on croyait possédés. (88:1.9)
 Dans les temps anciens, les crimes étaient détectés par des épreuves de poison, de feu et de douleur, car les hommes-médecine et les prêtres agissaient comme les premiers détecteurs de crimes et officiers de la loi grâce à ces techniques rudimentaires d’arbitrage. (70:10.5-6)
 Les poisons mentaux entravent le progrès spirituel tout comme les poisons physiques entravent les efforts de l’Ajusteur. (110:1.5)
@@ -1762,7 +1767,7 @@ L'entrée en pente de la grande pyramide pointait vers l'étoile polaire, guidan
 
 pôles magnétiques | | magnétisme | | OK
 
-pôles de communication spatiale | | | PLACE | OK
+pôles de communication spatiale; foyer de polarité spirituelle; pôle planétaire de communication spatiale; pôle spirituel de la planète; foyer de polarité spirituelle; pôle d’énergie universelle de la planète | | | PLACE | OK
 Les demeures personnelles des Anciens des Jours sont le point de polarité spirituelle au sein de leurs secteurs administratifs sur Uversa. (18:3.6)
 Sur Urantia, le circuit des archanges a fonctionné pour la première fois, signalant la résurrection des morts et le départ des séraphins pour les mondes des maisons. (62:7.2) (189:3.2)
 La réflexion spirituelle des caractéristiques de la Trinité est réalisée grâce à la nature unique des sept Esprits Réflecteurs assignés à chaque superunivers, chacun reflétant une combinaison différente de caractéristiques de divinité. (17:3.1)
@@ -1795,7 +1800,7 @@ polythéisme | | religion | RELIGION | OK
 Le commandement de Dalamatia contre le polythéisme : « Tu ne craindras ni ne serviras aucun autre Dieu que le Père de tous. » (66:7.9)
 Le polythéisme est un monothéisme en devenir, conduisant l'humanité vers une paix durable et une assurance profonde à travers le concept d'une divinité transcendante et divine. (5:4.2,9)
 
-Ponce Pilate | (174:2.4) (184:3.17) | | PERSON | OK
+Ponce Pilate; Pilate | (174:2.4) (184:3.17) | | PERSON | OK
 Pilate, espérant gagner du temps et améliorer ses relations tendues avec Hérode, envoya Jésus comparaître devant lui en Galilée au milieu de leur animosité. (185:3.8)
 Ponce Pilate était très détesté par les Juifs pour avoir utilisé les fonds du temple pour construire un aqueduc, déclenchant de nombreuses émeutes et effusions de sang. (185:1.5)
 Le tribunal se réunit à nouveau à 17h30, présentant des accusations à Pilate affirmant que le blasphème n’avait aucun poids, avec Jésus gardé par un soldat romain et des gardes du temple pendant qu’Anne soulignait la futilité à ses associés, tandis que Judas restait silencieux. (184:5.1)
@@ -1832,10 +1837,10 @@ Fin tragique
 	Ponce Pilate céda tragiquement à la pression de la foule et condamna à mort le Fils de Dieu innocent. (185:8)
 	Ponce Pilate se retira à Lausanne et se suicida après avoir fait face aux conséquences de son rôle dans la crucifixion de Jésus et le massacre inutile des Samaritains. (185:1.6)
 
-piscine de Bethesda | | | PLACE | OK
+piscine de Béthesda | | | PLACE | OK
 La guérison à la piscine de Béthesda a poussé de nombreuses personnes à croire à l'Évangile du royaume. (147:3)
 
-pauvre | | | | OK
+pauvre; pauvres | | | | OK
 Les pauvres sont toujours avec nous, nous devons donc les aider chaque fois que cela nous semble bon. (172:1.6)
 L’Évangile est prêché à tous, quel que soit leur statut, comme le montre le nombre croissant de pauvres qui l’acceptent volontiers. (143:1.5) (166:4.3)
 Jésus a béni les pauvres sincères et pieux, condamnant les riches débauchés et irréligieux. (196:2.8)
@@ -1843,18 +1848,19 @@ Servez et partagez avec les pauvres pour libérer les opprimés et briser tout j
 
 pauvre en esprit | | humilité | | OK
 
-pauvre homme faussement accusé | (132:4.8) | | | OK
+pauvre homme faussement accusé | | | PERSON | OK
+Jésus intercéda auprès du magistrat romain en faveur d'un pauvre homme faussement accusé, ce qui conduisit à la libération de l'accusé. (132:4.8)
 
-population | | opinion publique | | OK
+populace; populaire | | opinion publique | | OK
 Une force de police bien entraînée peut contrôler efficacement un groupe plus important de personnes grâce à une coopération organisée. (68:1.4)
-Méfiez-vous de l’inconstance de la population, car elle peut rapidement passer d’un héros à un prisonnier aux yeux de Jésus. (185:5.5)
-La population réclamait à grands cris la libération de Barabbas, choisissant un meurtrier plutôt que Jésus. (185:5.4-11)
-La population avait soif de promesses de salut et d’immortalité, abandonnant la philosophie grecque pour le réconfort d’un Dieu personnel et des cultes mystérieux. (98:2.10) (98:4.1)
-La population discernait l’insincérité des dirigeants juifs, ce qui la conduisit à la peur et à la collaboration contre Jésus. (173:2.8)
+Méfiez-vous de l’inconstance de la populace, car elle peut rapidement passer d’un héros à un prisonnier aux yeux de Jésus. (185:5.5)
+La populace réclamait à grands cris la libération de Barabbas, choisissant un meurtrier plutôt que Jésus. (185:5.4-11)
+La populace avait soif de promesses de salut et d’immortalité, abandonnant la philosophie grecque pour le réconfort d’un Dieu personnel et des cultes mystérieux. (98:2.10) (98:4.1)
+La populace discernait l’insincérité des dirigeants juifs, ce qui la conduisit à la peur et à la collaboration contre Jésus. (173:2.8)
 L’accueil superficiel de la multitude en fête n’indiquait pas une croyance authentique, car les gens étaient facilement influencés et irréfléchis. (172:3.15) (185:6.1)
 A l’époque moderne, la religion institutionnelle doit comprendre que la vraie religion est le seul pouvoir de combler le fossé entre les groupes sociaux, car les classes inférieures ne sont plus aussi ignorantes ou politiquement impuissantes. (99:1.5)
 Le prolétariat libre était considéré comme sans valeur par les classes supérieures, seulement utile à la reproduction. (121:3.5)
-Le Sanhédrin craignait la révolte ouverte de la population, comme il redoutait grandement l’approbation de Jésus par les multitudes. (172:3.12-14) (172:4.1) (173:1.9) (173:2.1) (173:4.5) (174:2.1)
+Le Sanhédrin craignait la révolte ouverte de la populace, comme il redoutait grandement l’approbation de Jésus par les multitudes. (172:3.12-14) (172:4.1) (173:1.9) (173:2.1) (173:4.5) (174:2.1)
 Jésus
 	Les gens du commun écoutaient Jésus avec joie parce qu’il était un laïc sans prétention, et ils répondraient à sa vie humaine sincère de motivation religieuse consacrée si de telles vérités étaient proclamées à nouveau. (196:1.4)
 	Le héros autrefois estimé tomba rapidement en disgrâce auprès du peuple après avoir été placé en détention. (185:5.4-5)
@@ -1889,7 +1895,7 @@ Porshunta est l'une des 24 conseillères du « Grand Enseignant » adorées par 
 Portalon | | | PLACE | OK
 Portalon est un univers voisin de Nébadon dans le circuit superuniversel d'Orvonton. (32:2.12)
 
-porteurs | | | | OK
+portefaix | | | | OK
 Le dirigeant de la race bleue avait autrefois 100 000 hommes dans sa colonie de porteurs de fardeaux. (81:2.12)
 
 position | | statut | | OK
@@ -1929,8 +1935,8 @@ L’Absolu de la Trinité achevé atteindra son expression finale, consommant l�
 La transmutation des potentiels statiques en réels est conduite par l’influence des agents transcendantaux et les actions de la Trinité du Paradis, conduisant finalement à l’évolution cosmique continue du grand univers. (118:4.3)
 Le potentiel de la personnalité est le déploiement des mandats intentionnels de la Déité, toujours suprême sur le réel dans le cosmos en évolution. (102:5.1)
 
-nids-de-poule | | | | OK
-Les glaciers seuls laissent des traces distinctives telles que des nids-de-poule, sans rapport avec aucun autre phénomène terrestre. (61:7.1)
+marmites de géants | | | | OK
+Les glaciers seuls laissent des traces distinctives telles que des marmites de géants, sans rapport avec aucun autre phénomène terrestre. (61:7.1)
 
 potiers | | poterie | | OK
 Les spécialistes du premier groupe étaient des potiers qui fabriquaient des poteries simples ou de fantaisie, tandis que les femmes ou les hommes des différentes tribus se spécialisaient dans la couture et le tissage. (69:3.10)
@@ -1945,13 +1951,13 @@ L’idée de la poterie est née des événements accidentels de la vie quotidie
 Les Sumériens apparurent soudainement en Mésopotamie avec une culture complète comprenant la poterie et des systèmes d’écriture qui avaient leur origine il y a deux cent mille ans. (77:4.7) (78:8.2)
 La poterie et les arts décoratifs étaient très avancés, enseignés par le personnel du Prince à Dalamatia. (66:5.24)
 
-volaille | | | | OK
+volailles | | | | OK
 Le chant du coq marqua le reniement de Jésus par Pierre, un moment gravé à jamais dans sa mémoire. (181:2.29) (184:2.8)
 Les coqs perchés sur des girouettes servent de symboles du culte des fantômes, éloignant les esprits par leur chant. (87:6.11)
 Pierre réalisa son reniement de Jésus lorsqu’il entendit un coq chanter dans la cour du palais d’Anne, à l’extérieur de Jérusalem. (184:2.10)
 Jésus, comme une poule qui rassemble sa couvée, chercha à protéger et à unifier le peuple de Jérusalem, mais celui-ci résista à son amour et à ses conseils. (171:4.7) (175:1.23)
 
-talents | | argent | | OK
+mines; mine; talents | | argent | | OK
 La parabole des mines, racontée exclusivement aux apôtres, soulignait l’importance de la fidélité et de la diligence dans l’exercice des responsabilités qui lui étaient confiées. (171:8)
 
 pauvreté | | richesse | | OK
@@ -1996,13 +2002,13 @@ transformateurs de puissance | | transformateurs d'énergie | ORDER | OK
 
 Pouvoirs du Paradis | | Déité | ORDER | OK
 
-modalités pratiques | | circonstances | | OK
+affaires pratiques | | circonstances | | OK
 Dans la vie quotidienne, les aspects pratiques sont gérés par des agences de l’Esprit Infini, tandis que vous coopérez avec des personnalités spirituelles provenant de la Troisième Source dans les détails de votre séjour terrestre. (5:3.5)
 
 prétoire | | | PLACE | OK
 Le procès de Jésus devant Pilate eut lieu devant le prétoire, une annexe de la forteresse d'Antonia. (185:0.2) (185:5.1) (186:4.1) (187:0.4)
 
-louange | | flatterie; reconnaissance; culte | | OK
+louange; éloges; louanges | | flatterie; reconnaissance; culte | | OK
 Le manque d’enthousiasme d’André l’a conduit à ne pas encourager les autres judicieusement, en raison de son dégoût pour la flatterie et le manque de sincérité. (139:1.10)
 Jésus n’est pas influencé par les louanges, il vit toujours indépendamment des êtres humains. (141:7.12)
 Recherchez seulement ce qui vous appartient honnêtement et évitez de rechercher une reconnaissance imméritée ou une sympathie imméritée lorsque vous prêchez la vérité et proclamez l’Évangile. (156:5.19)
@@ -2145,7 +2151,7 @@ pré-Sumériens | | Sumériens | RACE | OK
 
 principes de prédication | | évangile:proclamation | | OK
 
-précédent | | loi | | OK
+précédent; précédents | | loi | | OK
 Los jueces utilizan precedentes para adaptar las leyes a las condiciones sociales cambiantes, equilibrando la tradición con el progreso. (70:11.7)
 
 précipice | | | | OK
@@ -2157,7 +2163,7 @@ La personnalité éternelle de l’homme est conférée par le choix de Dieu, av
 Les mortels sont sujets à la prédestination, mais ont la liberté d’en rejeter toute partie. (110:2.1)
 La corrélation suprême de tous les choix passés, présents et futurs ne nie pas le libre arbitre mais fait plutôt allusion au cours prédéterminé de l’univers. (118:7.2)
 
-prévisibilité | | | | OK
+prévisibilité; prévoir | | | | OK
 En considérant les phénomènes universels, il est important de reconnaître l’imprévisibilité qui résulte des interassociations complexes et des actions de la personnalité. (12:6.4-5)
 Prévoir les phénomènes physiques devient de plus en plus difficile à mesure que nous nous éloignons du Paradis et rencontrons des forces imprévisibles qui dépassent notre compréhension actuelle. (15:8.8-9)
 La présence et l’action de l’Ultime et des Absolus entraînent l’imprévisibilité des réactions de la force primordiale, de l’esprit naissant et d’autres ultimes non personnels. (12:6.6-7) (65:6.8)
@@ -2170,7 +2176,7 @@ Abstenez-vous de rechercher la préférence entre les groupes et efforcez-vous d
 grossesse | | sage-femme | | OK
 Les primitifs croyaient que le mariage et la grossesse étaient le résultat d’esprits entrant dans les femmes. (84:1.3)
 
-préjugé | | intolérance; jugement :par l'homme | | OK
+préjugé; préjugés | | intolérance; jugement :par l'homme | | OK
 La clé d’une vie réussie est l’abandon des préjugés profondément ancrés, permettant l’ouverture d’esprit et une confiance sincère dans la sagesse des autres. (160:1.7) (170:2.21)
 Les préjugés qui scellent l’âme aveuglent et paralyse, entravant le progrès et la poursuite des vérités éternelles. (157:2.2) (162:7.3)
 Dans le gouvernement céleste, les trois ordres sont respectés de la même manière et ne font pas de discrimination dans leur administration des différents mondes. (49:5.18)
@@ -2185,7 +2191,7 @@ Les préjugés inhibent
 	Une imagination créatrice doit être contrôlée et dirigée pour produire des enfants dignes, mais les préjugés et la haine occupent la scène. (111:4.9)
 	Les préjugés entravent la croissance et constituent une menace sérieuse pour le développement spirituel. (100:1.2)
 
-ère pré-vie | | âges géologiques | | OK
+ère pré-vie; ère de la prévie | | âges géologiques | | OK
 L'ère archéozoïque, qui s'étend de 1 milliard à 550 millions d'années, est une période antérieure à l'apparition de la terre sur Terre. (59:0.2) (78:7.4)
 
 entités prépersonnelles | | Ajusteurs de Pensée:nature des Ajusteurs | | OK
@@ -2203,7 +2209,7 @@ L’association avec d’autres renforce notre défense contre le mal, en nous p
 
 pressentiments | | directions | | OK
 
-pression | | contrainte | | OK
+pression; pressions | | contrainte | | OK
 La pression ne sauve pas, n’ennoblit pas et ne stimule pas la croissance ; au contraire, la croissance spirituelle jaillit de l’intérieur de l’âme en évolution. (103:5.11)
 Apprenez à laisser la pression développer la stabilité et la certitude, à maintenir un équilibre, à affronter les défis sans crainte et à vous relever indomptablement pour essayer de nouveau. (48:6.35)
 
@@ -2218,10 +2224,10 @@ Son courage est né de la foi, et non de l’imprudence d’une présomption ave
 
 prétention | | affectation | | OK
 
-détention préventive | | | | OK
+détention préventive; préventivement les crimes | | | | OK
 Dans la principale nation continentale d'une planète habitée voisine, la détention préventive est utilisée pour condamner les meurtriers potentiels et les grands criminels à la prison à vie, mais ceux qui montrent des signes d'amélioration peuvent être libérés sur parole ou graciés, ce qui conduit à un faible taux d'homicide d'un pour cent. (72:10.2)
 
-fierté | | honneur; suffisance; respect de soi | | OK
+fierté; orgueil | | honneur; suffisance; respect de soi | | OK
 Le courage de conquérir la nature peut céder la place à l’orgueil, conduisant à la tentation de déifier sa propre conscience et de succomber au péché. (111:6.2)
 La grande vertu de Nathanaël était son honnêteté et sa sincérité, mais sa faiblesse était son orgueil, louable dans la famille, la réputation et la nation s’il n’était pas poussé trop loin. (139:6.3)
 Lorsque l’on contemple Dieu, l’autoglorification est hilarante et absurde, servant d’antidote divin contre l’ego. (48:4.15)
@@ -2265,7 +2271,7 @@ La prêtrise et la femme
 titre de prêtre | | | | OK
 Les premiers insignes familiaux marquaient la propriété privée, évoluant plus tard vers les armoiries familiales ; les prêtres consacraient la terre avec des tabous, accordant aux propriétaires un « titre de prêtre » indiqué par des initiales sur des marqueurs en pierre et des arbres. (69:9.13)
 
-associateurs primaires | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
+associateurs primaires; associateurs | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
 Les associateurs primaires, avec leurs collègues les dissociateurs, sont le premier groupe de vie à apparaître sur une sphère matérielle organisatrice, fonctionnant à des températures physiques jugées incompatibles avec l’existence des êtres vivants, représentant un ordre de vie au-delà de l’imagination humaine et étant les plus serviles de toutes les créatures intelligentes. (29:4.34)
 Dans la personnalité d’Uversa, les Associateurs primaires sont enregistrés comme les cinquièmes Maîtres Contrôleurs Physiques. (30:2.105)
 Les associateurs primaires sont des agents catalytiques vivants qui agissent par leur présence, convertissant les énergies de l’espace en états physiques et produisant des unités primitives d’existence matérielle. (29:4.32)
@@ -2300,7 +2306,7 @@ Jésus savait que son heure était venue, pleinement conscient de la trahison de
 
 prince des diables | | diable | PERSON | OK
 
-Prince de la Paix | | | PERSON | OK
+Prince de la Paix; Prince planétaire de la Paix | | | PERSON | OK
 Le Fils d'effusion, Christ Micaël, n'a pas apporté le règne habituel de paix sur Urantia ; les guerres et les rumeurs de guerres persistent. (52:6.1)
 Jésus, le Prince de la Paix, rejette la bataille et les conflits, choisissant plutôt de révéler un Dieu d'amour et d'établir un royaume de compréhension spirituelle. (68:3.5) (93:10.7) (136:9.7) (137:8.7)
 Les Juifs croyaient que le Messie régnerait sur eux en tant que Prince de la Paix, conduisant toutes les nations dans la vérité du Dieu unique. (97:10.1)
@@ -2321,7 +2327,7 @@ La perpétuation de la vérité avant l’art de l’imprimerie était difficile
 Priscilla | | | PERSON | OK
 Paul a prolongé son séjour à Corinthe en raison de l’intérêt et de la préparation du couple juif Aquilas et Priscille, avec lesquels il a travaillé et vécu comme fabricants de tentes. (133:3.12)
 
-mondes-prison | | | PLACE | OK
+mondes-prison; mondes-prisons | | | PLACE | OK
 Holdant, numéro 19 du corps tertiaire, détient le contrôle sur tous les esprits internés au-dessus de l'existence mortelle. (45:3.5)
 Les sphères de détention de Satania, sept satellites entourant le monde du Père, servent de mondes-prison pour les groupes internés de la rébellion de Lucifer. (45:1.10-11) (53:9.8)
 Les progresseurs morontiels du septième monde des maisons sont autorisés à visiter les mondes-prison de Satania, où Lucifer et ses disciples sont enfermés. (45:1.11)
@@ -2336,7 +2342,7 @@ L’indignation ardente de Jude envers un garde romain pour manque de respect en
 La détention préventive est utilisée dans la nation continentale pour réformer les criminels potentiels, ce qui conduit à un faible taux d’homicide et à l’absence de besoin de prisons ou d’hôpitaux pour les aliénés. (72:10.1-3)
 Un ami s’est tenu aux côtés du prisonnier comme le permettait la loi romaine, s’assurant qu’il avait du soutien pendant son procès. (183:5.3)
 
-confidentialité | | | | OK
+intimité; privé | | | | OK
 Les hautes personnalités des sept mondes sacrés du Père gardent le secret sacré du contact intime et personnel avec les Déités, respectant l’intimité même des créatures les plus humbles. (18:1.4-6)
 Dans la vie primitive, l’opinion publique réglementait le comportement sans qu’il soit nécessaire de respecter l’intimité ou de faire respecter la loi. (70:10.4)
 
@@ -2357,10 +2363,10 @@ La vie moderne
 	La propriété privée a nécessité le gouvernement pour la sécurité et la régulation des contacts humains. (70:0.1) (71:2.14) (81:2.7)
 	Tout gouvernement, toute liberté et tout bonheur se sont développés autour du droit purement social à la propriété, qui n’est pas absolu. (69:9.17)
 
-privilège | | | | OK
+privilège; privilèges | | | | OK
 Posséder et conserver des privilèges sans en abuser est une marque de haute civilisation. (48:7.8)
 
-crèche probatoire | (47:2) (49:6.11-14) | | PLACE | OK
+nursery probatoire; monde de la nursery | (47:2) (49:6.11-14) | | PLACE | OK
 Quels enfants y a-t-il ?
 	Sans choisir le chemin de vie ascendant, les habitants de la nurserie probatoire font face à la mort sans jugement ni espoir de résurrection. (47:2.7)
 	Les enfants sans Ajusteur de la nurserie probatoire choisissent la voie céleste sous la direction des Enseignants du Monde des Maisons et des Melchizédeks, avec des opportunités de croissance spirituelle et des tuteurs personnels lorsqu'ils atteignent le troisième cercle. (47:2.2) (49:6.11-14)
@@ -2384,7 +2390,7 @@ aidants
 	Les survivants qui manquent d’expérience parentale doivent se qualifier dans la nurserie probatoire, éventuellement avec leurs propres enfants, tout en séjournant dans les maisons des Fils et Filles Matériels de Jérusalem. (45:6.6-8) (47:1.4-5)
 	Les survivants sur le premier monde des maisons doivent satisfaire aux exigences de la commission parentale, avec la visite des parents mortels et la collaboration avec les gardiens morontiels dans la nurserie probatoire. (47:1.4-5)
 
-résolution de problèmes | | défis; décisions; difficultés; opportunités | | OK
+résolution de problèmes; solution des problèmes; résoudre des problèmes; résoudre les problèmes; solution des multiples problèmes; problèmes difficiles à résoudre; résolution des problèmes | | défis; décisions; difficultés; opportunités | | OK
 Prévenez les croyants : la frontière du conflit doit être traversée de la chair à l’esprit. (159:3.7) (160:1.6)
 L’expérience religieuse personnelle et spirituelle trie, évalue et ajuste efficacement tous les problèmes humains, unifiant la personnalité pour une adaptation efficace aux exigences mortelles. (196:3.1)
 technique
@@ -2407,14 +2413,14 @@ valeur de la résolution de problèmes
 Proclamation d'Égalité; Proclamation finale d'Égalité | | | | OK
 Michael a noblement reconnu l’égalité de la Mère Esprit, en publiant la « Proclamation d’Égalité » finale dans son univers. (33:3.6)
 
-procrastination | | | | OK
+temporisation | | | | OK
 La carrière morontielle vise à éradiquer les traits animaux comme la procrastination, en enseignant que le report n'est pas un évitement après la vie dans la chair. (48:5.8)
 
 fils prodigue | | | | OK
 Les parents, comme Michel, le père créateur, peuvent comprendre l’attente de la repentance, comme le montre l’histoire du fils prodigue racontée par Jésus. (54:4.2)
 La parabole du fils prodigue enseigne la volonté du père d’accepter tous ceux qui cherchent le royaume des cieux. (169:1.5-16)
 
-profit | | capital; concurrence; propriété privée | | OK
+bénéfice; profit | | capital; concurrence; propriété privée | | OK
 La croissance du commerce a conduit les femmes commerçantes à devenir des intermédiaires, la première classe de marchands facturant une commission pour leurs services. (69:3.11)
 Jésus détestait le profit injuste et l’exploitation des vulnérables. (173:1.11)
 Les hommes qui font des affaires par le biais du commerce et du troc ont droit à un profit juste et légitime, basé sur des principes de justice et d’équité. (132:5.17)
@@ -2459,8 +2465,8 @@ Facteurs favorisant le progrès
 
 anges du progrès | | maître séraphin de supervision planétaire | ORDER | OK
 
-aides au progrès | | | ORDER | OK
-Les aides au progrès sont des médians spirituels qui assistent les séraphins planétaires dans des groupes spéciaux. (77:8.9)
+aides du progrès | | | ORDER | OK
+Les aides du progrès sont des médians spirituels qui assistent les séraphins planétaires dans des groupes spéciaux. (77:8.9)
 
 prolétariat | | population | | OK
 
@@ -2476,7 +2482,7 @@ Les promesses doivent être tenues, même si l’on doit devenir pêcheur pour h
 promoteurs de l'art oratoire | | | ORDER | OK
 Les artisans célestes sont les promoteurs de l'art oratoire, habiles à préserver et à reproduire des pensées dans la langue de Nébadon, condensant toute une vie d'expérience mortelle en un discours d'une demi-heure. (44:4.7)
 
-prophéties | | prophètes; spéculations; visions | | OK
+prophéties; prophétie | | prophètes; spéculations; visions | | OK
 Les Importances du Temps sont le secret de la prophétie, révélant l'élément temps nécessaire à toute entreprise, et servant d'indicateurs fiables comme les frandalanks et les chronoldeks pour différents êtres. (28:6.11)
 Jean-Baptiste, agité mais certain, prononça une prophétie qui laissa ses disciples dans un étonnement silencieux. (135:11.3)
 L'alliance de Melchizédek avec Abraham prédit l'occupation de Canaan par sa progéniture après l'Égypte. (93:6.3)
@@ -2520,7 +2526,7 @@ L’évolution des observances religieuses est passée de l’évitement, de l�
 
 proportions | | comparaisons | | OK
 
-convenance | | | | OK
+; à-propos | | | | OK
 Le sens extraordinaire de la bienséance de Jésus guidait toutes ses actions et tous ses enseignements avec un discernement exquis. (100:7.3)
 Marie-Madeleine, une femme d’une grande circonspection, proclama courageusement la résurrection du Maître en tant que porte-parole principale du corps des femmes. (190:0.5)
 
@@ -2528,7 +2534,7 @@ prosélyte | | | | OK
 Flavius, le Juif grec, un prosélyte de la porte, invita Jésus dans sa maison magnifiquement décorée, où le Maître montra un grand intérêt pour ses œuvres d’art prisées, dissipant les craintes de réprimande de Flavius. (142:4.1)
 Les pharisiens font de grands efforts pour convertir une seule personne, mais en fin de compte, ils la rendent pire qu’avant. (175:1.13)
 
-prostitution | | sexe:envie | | OK
+prostitution; prostituées | | sexe:envie | | OK
 Malgré son passé de tenancière d’un bordel de luxe, la femme qui était devenue croyante dans l’Évangile ferma son commerce néfaste et convertit d’autres personnes, mais elle fit toujours face au dédain des pharisiens. (147:5.3) (150:2.2)
 Le vice commercialisé de la femme fut orchestré par son mari, que Jésus avait connu comme un fauteur de troubles à Nazareth. (162:3.4)
 La femme de mauvaise réputation, maintenant croyante dans l’Évangile, était toujours obligée de porter ses cheveux détachés comme signe de prostitution, mais elle oignit humblement les pieds de Jésus de larmes de gratitude. (147:5.3)
@@ -2684,7 +2690,7 @@ Dans les premières sociétés, la puberté était autrefois l’âge commun du 
 bains publics | | | | OK
 Jésus a eu un impact durable sur tous ceux qu’il a rencontrés, sauf lorsqu’il a refusé d’entrer dans les bains publics. (132:4.5) (133:3.6)
 
-constructeurs publics | | | ORDER | OK
+bâtisseurs d’édifices publics | | | ORDER | OK
 Les constructeurs publics sont des artisans divins qui créent des lieux de rassemblement impressionnants, invisibles mais grandement appréciés des êtres célestes. (44:3.8-9)
 
 opinion publique | | population | | OK
@@ -2697,7 +2703,7 @@ La loi est un reflet codifié de l’expérience humaine accumulée, cristallisa
 
 femmes en public | | prostitution | | OK
 
-travaux publics | | | | OK
+travaux publics; œuvre publique | | | | OK
 Les apôtres commencent une nouvelle œuvre lorsqu’ils quittent Bethsaïda avec Jésus le premier jour de la semaine, le 19 janvier de l’an 27 après J.C. (141)
 Les plans de Jésus pour le reste de son effusion sur Urantia furent soigneusement formulés jour après jour dans les collines, conduisant à sa décision ultime de toujours choisir la volonté du Père dans sa carrière terrestre. (136:4)
 
@@ -2707,7 +2713,7 @@ Matthieu Lévi, l’ancien publicain, suivit Jésus et consacra sa vie au royaum
 Le salut de Dieu est un don gratuit qui ne peut être gagné par des œuvres de propre justice, comme l’illustre la parabole du pharisien et du collecteur d’impôts. (167:5.1)
 Lorsque Jésus arriva à Jéricho, il appela Zachée et passa la nuit chez lui, à la grande joie du chef des publicains. (171:6.1)
 
-publicains et pécheurs | | | | OK
+publicains et pécheurs; publicains et de pécheurs | | | | OK
 Les pharisiens appelaient les hommes d’affaires et les collecteurs d’impôts « publicains et pécheurs », mais ils retournèrent tous chez Matthieu pour discuter de politique et de religion avant le repas du soir. (138:3.4)
 
 détroit de Puget | | | PLACE | OK
@@ -2738,7 +2744,7 @@ En el norte de la India, hubo una infiltración continua de sangre aria en el Pu
 
 énergie pure | | segregata | | OK
 
-pur de cœur | | | | OK
+pur de cœur; cœurs purs | | | | OK
 Les cœurs purs, libres de tout soupçon et de tout désir de vengeance, verront Dieu par la foi et l’amour pour leur prochain, incarnant l’amour paternel qui recherche le meilleur chez les autres. (140:3.6) (140:5.12)
 
 purge | | | | OK
@@ -2755,7 +2761,7 @@ Les vestiges misérables des anciens Pygmées non sociaux illustrent la résilie
 Les Pygmées et d’autres groupes arriérés d’aujourd’hui n’ont pas d’institution matrimoniale en raison des coutumes simples d’accouplement suivies par les races primitives, reflétant le manque de régulation des relations entre les sexes et l’absence de prostitution chez les premières races. (82:2.2)
 Les Pygmées africains sont à un stade primitif d’évolution religieuse, sans réactions religieuses en tant que classe. (91:0.5) (92:6.1)
 
-pyramides | | | | OK
+pyramides; pyramide | | | | OK
 La première pyramide de pierre d’Égypte fut érigée par l’Andite Imhotep, ce qui illustre le déclin de l’art de la construction à son époque. (80:6.4)
 L’entrée en pente de la grande pyramide dirigeait les âmes des morts dignes directement vers l’étoile polaire, symbolisant leur voyage vers l’au-delà parmi les constellations éternelles. (95:2.7)
 

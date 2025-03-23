@@ -23,7 +23,7 @@ Carry the pack the second mile to challenge the unrighteous. (159:5.15)
 paddle | | | | OK
 Jesus assisted in building a steering paddle for the vessel in Caesarea. (130:2.1,4)
 
-paganism | | Mithraism; mystery cults | | OK
+paganism; pagan cults;pagan | | Mithraism; mystery cults | | OK
 Paganism combines Hellenic and Latin mythology with patriotism and tradition in its cults. (121:5.3)
 Jesus understood that the thoughtless pagan was not ready to receive the wisdom and higher learning he had to offer. (132:7.1-2)
 
@@ -36,7 +36,7 @@ Heat, through methods like sunlight and hot stones, was used to relieve pain and
 Life Carriers’ healing technique affords relief from pain and better control over cell proliferation. (65:4.6)
 No pain on Paradise, only eternal joy and light in the presence of God and his Son. (27:1.5)
 
-Palatine Hill | | | PLACE | OK
+Palatine Hill; Palatine hill | | | PLACE | OK
 Jesus and Ganid, his student, regularly explored Rome during his stay, spending time at the forum, Capitolium, and Palatine Hill where the Roman emperor’s residence was located. (132:0.2)
 
 palavers | | | | OK
@@ -56,9 +56,11 @@ Saharans emigrated to Palestine and Arabia, forming different tribes that spread
 Jesus chose to be born in Palestine for his mission. (134:0.1-2)
 During Jesus' time, Palestine enjoyed peace, prosperity, and extensive trade due to its control by the Romans. (121:1.9)
 
-Palisades of the Hudson | (60:1.3) | | PLACE | OK
+Palisades of the Hudson | | | PLACE | OK
+The Palisades of the Hudson River were formed by the extrusion of basalt lava between these Triassic strata. Volcanic action was extensive in different parts of the world. (60:1.3)
 
-Palm Sunday | (172:3) | | | OK
+Palm Sunday; that Sunday | | | | OK
+Palm Sunday commemorates for Christianity the day of April 2, 30 AD, when Jesus entered Jerusalem riding on a donkey, being acclaimed by the crowd with palm and olive branches. (172:3)
 
 palms | (60:3.7,19) | | | OK
 Palms were used by Jewish people for expressing joy in the Easter festival. When Jesus and his followers descended Olivet, visitors waved branches of palm, expressing joy and fellowship after the Master's unexpected arrival. (172:3.11)
@@ -67,7 +69,7 @@ Palonia | | | PLACE | OK
 The first system rebellion in Nebadon took place in Palonia, where the Savior Sovereign was ardently loved and widely honored, bringing order and forgiveness to the confused and demoralized local system. (119:2.5-6)
 In system 11 of constellation 37, a rebellion erupted after a Lanonandek Son's misunderstanding led to dissatisfaction and a disastrous act against the sovereignty of the Creator Son, despite being adjudicated by higher authorities in the universe of Nebadon. (119:2.1)
 
-Panama Isthmus | | | PLACE | OK
+Panama Isthmus; Panama isthmus; Isthmus of Panama | | | PLACE | OK
 Twice during the Cenozoic age, the Panama Isthmus rose or fell, shaping the world's landscape and connecting oceans. (61:0.2) (61:1.12)
 
 Pandora | | | PERSON | OK
@@ -79,7 +81,7 @@ The loyal Panoptians, caretakers on the 7th transition world, serve Michael's or
 Despite Michael's offer of salvation to rebels during the Lucifer rebellion, it was the mortals from Panoptia who proclaimed mercy and saw many beings rehabilitated at the time of Jesus' resurrection. (53:9.1)
 Panoptia stood loyal amidst the system-wide Lucifer rebellion, guided by Ellanora and serving faithfully as caretakers on the seventh Jerusem transition world. (53:7.1)
 
-panorama, exhibit (Jerusem) | | | PLACE | OK
+panorama, exhibit (Jerusem); panoramic depiction; panoramic reign-records; exhibit panorama; exhibits | | | PLACE | OK
 The erasure of Caligastia's reign from Jerusem's panorama exhibit signifies the beginning of planetary rehabilitation. (46:8.1) (67:3.10)
 The exhibit panorama of Jerusem, five thousand standard miles in circumference, presents an up-to-date depiction of the advancing status of the peopled worlds of Satania, within the system planetary history of 35,000 miles in circumference. (46:5.23)
 Primary midwayers formulate and design planetary history pageants for system headquarters exhibits. (38:9.12)
@@ -87,7 +89,7 @@ Primary midwayers formulate and design planetary history pageants for system hea
 Pantaenus | | | PERSON | OK
 Pantaenus taught Clement and followed Nathaniel into India, carrying Jesus' teachings free from compromise. (195:3.10)
 
-Pantheism | | | RELIGION | OK
+Pantheism; pantheism | | | RELIGION | OK
 During the European “dark ages,” Christianity experienced a decline as it became more monasticized, asceticized, and legalized, while pantheism-like mysticism thrived. (195:4.1)
 The corporeality error in pantheism denies the personality of God and leads to philosophical dilemmas. (1:5.11-12)
 Recognizing Deity omnipotence brings security and assurance on the journey to Paradise, while accepting the fallacy of omnificence leads to the colossal error of pantheism. (118:6.8)
@@ -259,7 +261,7 @@ origin
 paradise apple | | | | OK
 The paradise apple, or citron, was carried by pilgrims during a morning ceremony at the temple, symbolizing the forbidden fruit. (162:4.4)
 
-Paradise arrivals | | ascending mortals | | OK
+Paradise arrivals; Paradise Arrivals | | ascending mortals | | OK
 Ascendant mortals with residential status on Paradise are mustered into the Mortal Corps of the Finality, signifying their found God and beginning a course in divinity and absonity. (30:4.31-33)
 Upon arrival in Paradise, you undertake the study of divinity and absonity, signifying your residence and initiation into the Mortal Corps of the Finality. (30:4.31)
 The worshipful emotions of Paradise arrivals astound angels with the overwhelming overflow of spiritual emotions that surpass the prepared times and places for worship on the eternal Isle. (27:7.6)
@@ -316,7 +318,7 @@ On Paradise, Grandfanda is the chief of the Supreme Council of Destiny, composed
 
 Paradise Creator Sons | | Creator Sons | ORDER | OK
 
-Paradise Deities | | | ORDER | OK
+Paradise Deities; PARADISE DEITIES | | | ORDER | OK
 The Paradise Deities are registered in personality register. (30:2.10-13)
 They are named as follows:
 	# Universal Father
@@ -329,10 +331,10 @@ Paradise force organizers | | Master Force Organizers | ORDER | OK
 
 Paradise gravity | | gravity:types | | OK
 
-Paradise-Havona system | | Havona; Paradise | PLACE | OK
+Paradise-Havona system; Paradise-Havona System | | Havona; Paradise | PLACE | OK
 The eternal Paradise-Havona System stands as the perfect nucleus of the master universe, encircling the eternal Isle in a cosmic dance. (12:1.11)
 
-Paradise-Havona-trinitized Sons | | trinitization | ORDER | OK
+Paradise-Havona-trinitized Sons; creature-trinitized sons; trinitized offspring | | trinitization | ORDER | OK
 The Paradise-Havona-trinitized Sons were created by Paradise Citizens and Havoners. (22:7.9-13)
 The Paradise-Havona-trinitized Sons are recorded in Uversa's personality register. (30:2.63)
 Evangels of Light, celestial personalities attached to mortal finaliter companies, may serve in transient assignments before resuming their former status. (31:7.2)
@@ -342,7 +344,7 @@ At two forty-five Sunday morning, April 9, A.D. 30, the Paradise incarnation com
 
 Paradise Master Spirits | | Master Spirits, Seven | ORDER | OK
 
-Paradise Sons of God | (20) (7:6) | Creator Sons; Magisterial Sons; Trinity Teacher Sons | ORDER | OK
+Paradise Sons of God; Paradise Sons | (20) (7:6) | Creator Sons; Magisterial Sons; Trinity Teacher Sons | ORDER | OK
 who they are
 	The Paradise Sons of God are creators, servers, bestowers, judges, teachers, and truth revealers, ranging the universe of universes to perform divine services under the direction of their Creator Son. (20:1.12)
 	The Paradise Sons of God, of direct divine creation on Paradise, are dedicated to facilitating the progress of lowly creatures in their climb towards Paradise by descending to minister on the worlds and systems of time and space. (20:1.1) (35:0.1)
@@ -460,13 +462,13 @@ Infinity is the ultimate paradox, bridging the gap between unity and diversity i
 Simultaneous measurements of location and velocity inevitably involve change in one another, creating a paradox akin to the analysis of dead versus living protoplasm. (65:6.1)
 The human paradox of being part of nature yet able to transcend it engenders uncertainty, anxiety, and the potential for sin. (111:6)
 
-paralysis | | | | OK
+paralysis; paralyzing | | | | OK
 Primitives were paralyzed by the ever-present dread of bad luck, leading them to question the value of hard work and highlighting the tendency to overlook good luck. (86:1.3)
 
-paralytic at Bethsaida | | | PERSON | OK
+paralytic at Bethsaida; paralytic | | | PERSON | OK
 A paralytic at Bethsaida sought healing from Jesus with unwavering faith and determination. (148:9)
 
-paranoids | | | | OK
+paranoids; paranoiac | | | | OK
 Some early priests were deemed paranoiac due to mental and physical abnormalities linked to spirit and devil possession, inspiring ancient beliefs. (90:1.2)
 
 parchment; bit of parchement | | | | OK
@@ -493,7 +495,7 @@ The finite appreciation of infinite qualities in mortal man, made in the image o
 In advanced states, parents are duly rewarded by the excellency of their children. (71:3.12)
 Selflessness is inherent in parental love, as God is revealed as the Father of each human being, transcending the mortal concept of God illuminated by Jesus. (2:6.4) (16:9.7)
 
-parrots | | | | OK
+parrots; parrot | | | | OK
 The New Guinea tribe teaches descent from animals, including the parrot, reflecting ancient beliefs in the slow evolution of humanity. (74:8.5)
 
 Parsees | | | RELIGION | OK
@@ -511,7 +513,7 @@ partnership | | groups; marriage | | OK
 Partnership quadruples achievement possibilities by enhancing personal potentials intellectually, socially, and spiritually. (43:8.11)
 When mortal man fuses with an actual fragment of the existential Cause of the total cosmos, no limit can ever be placed upon the destiny of such an unprecedented and unimaginable partnership with God. (107:4.7) (118:5.2) (132:7.9)
 
-parts and the whole | (12:7) (12:9.3) (131:8.4) | groups; individual | | OK
+parts and the whole; part and whole; part of the whole; all parts to that whole; sum of two or more things | (12:7) (12:9.3) (131:8.4) | groups; individual | | OK
 The progress of the whole is dependent on the evolution of its parts, as it is with the parts, so it is with the whole. (12:7.11) (116:6.6)
 The evolutionary growth of both parts and whole is guided by the same divine purpose towards ultimate unity and completion in Trinity association. (116:6.6)
 The welfare of all planetary creatures of God's spirit indwelling, scattered throughout the universes, is purposeful, wise, and considerate of the best good for all from the lowest to the highest. (3:2.8)
@@ -534,7 +536,7 @@ Early evolutionary man tamed and utilized intelligent, obedient, and affectionat
 Adam and Eve inspected the Garden of Eden from large passenger birds, the fandors, on their third day on earth, before being taken to the temple by the midwayers. (74:3.4) (74:4.4)
 45 million years ago, an ostrichlike bird was ancestor of gigantic passenger birds that transported human beings through the air. (61:1.9)
 
-passivity | | indolence; initiative | | OK
+passivity; passive | | indolence; initiative | | OK
 Jesus’ disciples, equipped with spiritual weapons, are called to conquer the world with unfailing forgiveness, matchless good will, and abounding love, never passive but always active and positive in their ministry of mercy and love. (194:3.11)
 Righteousness comes not from passive attitudes, but from actively overcoming evil with good. (159:5.9-15)
 
@@ -560,7 +562,7 @@ In the main continental nation of a nearby inhabited planet, profits from patent
 
 paternalism | | favoritism | | OK
 
-patience | | forgiveness; impatience; submission; time | | OK
+patience; Patience | | forgiveness; impatience; submission; time | | OK
 Admonish the upright children to bear with erring brother. (54:5.5)
 Personal satisfaction comes from being just, fair, patient, kind, and ultimately showing true mercy, which is the beautiful climax of spiritual growth. (28:6.8)
 Being long-suffering is a fruit of the spirit and is exhibited by spirit-led mortals who are guided by the presence of the divine Spirit in their lives. (34:6.13)
@@ -601,7 +603,7 @@ Apostle Andrew was finally apprehended and crucified in Patrae, Achaia, after br
 
 patriarchy | | family:patriarchal families | | OK
 
-patriotism | | nationalism | | OK
+patriotism; Patriotic issues | | nationalism | | OK
 No national civilization long endures without high type of intelligent patriotism and national devotion. (81:6.35)
 Dealing with patriotic issues, complicated by tax-gathering foreign oppressors, was a difficult issue for young Jesus and remains challenging for spiritual leaders. (127:2.6)
 The collapse of formal, unemotional Roman patriotism was inevitable, paralleling the decline of intellectual Greek worship before the rise of fervid and deeply emotional mystery cults like the Mother of God sect. (98:3.5)
@@ -609,7 +611,7 @@ Jude's unwise outbursts caused clashes with civil authorities due to his thought
 Human loyalty, once mobilized, hinders the evolution of political sovereignty from the family to all mankind, as evidenced by the resistance exhibited on all intervening levels. (134:5.8)
 Simon Zelotes remained an ardent Jewish nationalist despite the Master's efforts to make him an internationalist. (139:11.9)
 
-pattern | | | | OK
+pattern; Pattern | | | | OK
 Pattern, as a configuration of energy which has paid all gravity debt and is not gravity responsive, can pervade personalities, identities, entities, or nonliving matter, yet remains pattern and only creates copies. (0:6.10-13) (36:6.6)
 Deity must always provide the pattern universe for mortal consciousness to progress from fact to meaning to value. (118:5.3)
 Pattern reveals the individual aspects of energy and personality, distinct from the total aspect. (0:6.12)
@@ -746,9 +748,11 @@ The first necklace worn by man, set with pearls, was made with a preserved umbil
 pearly nautilus | | | | OK
 The modern pearly nautilus is a descendant of cephalopods. (59:2.11)
 
-peat | (59:5.16) | | | OK
+peat; Peat | | | | OK
+Peat, the remains of past vegetable growth, could potentially be converted into coal through enough pressure and heat. (59:5.16)
 
-peccaries | (61:2.9) | | | OK
+peccaries | | | | OK
+Peccaries, descendants of a small hoglike creature, evolved alongside other species in North America and Europe during prehistoric times. (61:2.9)
 
 Pella | (169) (128:3.2) (141:1.2) (144:8) (163:5) (165:3) (167:0.1) (171:1) (186:3.2-3) | | PLACE | OK
 John the Baptist’s arrival at Pella signaled a significant moment in Jesus' journey towards baptism. (134:9.8)
@@ -758,10 +762,11 @@ At camp at Pella, over four thousand gathered to hear Jesus and Peter preach eac
 Believers in Pella found safety before the destruction of Jerusalem, as warned by the Master. (176:1.5)
 Isador wrote the Gospel of Matthew in Pella after escaping Jerusalem in A.D. 70. (121:8.7)
 
-penance | | repentance | | OK
+penance; Penance | | repentance | | OK
 Self-control, an invaluable social gain from early evolutionary religion, is exemplified in penance as the negative form of the ritual of renunciation. (89:3.3)
 
-Pennsylvania | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE | OK
+Pennsylvania | | | PLACE | OK
+From Pennsylvania to Canada, coal beds reveal ancient geological history, with layers indicating land movements and fossils pointing to past environments. (58:7.4) (59:5.17) (61:7.2,9)
 
 pensions | | retirement | | OK
 
@@ -770,7 +775,7 @@ The apostles exhibited intelligent self-surrender and consecration at Pentecost,
 The stage of the human mind is set for the reception of Adjusters, universally bestowed upon all normal minds of moral status on Urantia ever since the day of Pentecost, when the Spirit of Truth is present as a spiritual co-ordinator. (108:2.3) (146:3.6)
 On the day of Pentecost, all rebel midwayers were interned, forever preventing demoniacal possession. (77:7.2,8)
 The essence of Pentecost, the bestowal of the Spirit of Truth, has been overshadowed by misguided emotional displays. (194:3.1)
-Pentecost obliterated all religious discrimination, setting women free from inequality in spiritual standing and abolishing distinctions based on race, culture, caste, and gender. (194:3.14-15) (194:4.15)
+Pentecost obliterated all religious discrimination, setting women free from inequality in spiritual standing and abolishing distinctions based on race, culture, caste, and gender. (194:3.14-15) (194:3.5)
 Andrew and Peter, unlike in character and temperament, worked together splendidly, adding 2000 souls to the kingdom at Pentecost. (139:1.6)
 On Pentecost, primary and secondary midwayers united in a voluntary union, functioning as one unit in world affairs under alternating leadership. (51:3.8)
 The Spirit of Truth made demon possession impossible after the day of Pentecost. (141:4.8) (145:2.13) (153:4.1) (163:6.2)
@@ -802,7 +807,7 @@ types
 	The essentials of spiritual destiny are dependent on faith, love, and the desire to be like God. (156:5.7)
 	The Eternal Son and the Father are in everlasting liaison in the successful prosecution of the divine plan for the creation, evolution, ascension, and perfection of will creatures. (7:4) (48:8.1)
 	Every facility and all power provided to insure your ultimate attainment of divine perfection in the family of divine sonship. (40:10.14)
-	The Father’s supreme invitation-command is to be perfect, even as he is perfect in Paradise. (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:2.16) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
+	The Father’s supreme invitation-command is to be perfect, even as he is perfect in Paradise. (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
 	Imitating God is the key to perfection, survival, and service in eternity through choosing to do the Father's will. (111:5.2) (1:3.6) (111:5.4)
 	Perfection is not achieved through idleness, but through purposeful and intelligent action in service to creation. (117:4.7)
 	On the 3rd circuit of Havona, the creatures of time and material personality have ascended to perfection, proving the feasibility of the ascension plan and demonstrating the righteousness of the command to be perfect. (26:9.3-4)
@@ -855,7 +860,7 @@ service
 
 perfume | | ointment | | OK
 
-periodic table | | elements (chemical) | | OK
+periodic table; periodic characterization; chemical table | | elements (chemical) | | OK
 The periodic table displays a recurrent pattern of properties in groups of seven, reflecting a connection to the spiritual system and ancestral energy of the material world. (42:9.2-3)
 
 periwinkles | | | | OK
@@ -876,7 +881,7 @@ Perpetua cooked for apostles while her mother named Amatha was sick with fever. 
 Perpetua, Peter's able wife, labored faithfully alongside him, but met a tragic end when she was fed to wild beasts in the arena in Rome. (139:2.14) (163:7.3)
 Perpetua, leader of the enlarged women's corps, fearlessly ministered to the sick and afflicted alongside her fellow women in Perea, faithfully supporting her husband Simon Peter's missionary endeavors until her martyrdom in the Roman arena. (163:7.3)
 
-persecution | | | | OK
+persecution; persecuted | | | | OK
 Do not be anxious about what you shall say in times of persecution, for the spirit of my Father will speak through you. (140:9.3) (176:1.1)
 Early persecution of Christians in Rome was largely due to their use of the term “kingdom”, which was seen as a political threat by the Romans. (195:2.2)
 The Sadducees attempted to ridicule Jesus in public, but their actions only served to create more sympathy for him among the crowd. (174:3.5)
@@ -928,7 +933,7 @@ Paradise-origin beings aware of presence of Personal Aids of the Infinite Spirit
 Personal Aids of the Infinite Spirit traverse space like Solitary Messengers, exclusively assisting the Paradise presence of the Third Person of Deity. (24:3.2)
 The Solitary Messengers, Circuit Supervisors, Census Directors, and the Personal Aids possess a tremendous endowment of antigravity, allowing them to fulfill their diverse roles throughout the vast universe. (24:0.10)
 
-personality | (112) (1:6) (16:8) | creatures; identity; mortals; personality circuit; self; Third Source personalities | | OK
+personality; Personality | (112) (1:6) (16:8) | creatures; identity; mortals; personality circuit; self; Third Source personalities | | OK
 We should always respect the personality of man, promoting righteous causes through spiritual power, rather than coercion or the appeal to emotion. (159:3.2)
 Personality is a divine gift bestowed by the Universal Father, functioning on multiple cosmic planes to realize its dimensions of length, depth, and breadth, ultimately unifying all factors of reality. (112:1)
 The anthropomorphic Yahweh carries greater religious value than the remote Absolute in the concept of Buddhism and Brahmanism. (94:11.12)
@@ -1169,7 +1174,7 @@ petrified forests | (60:1.7) | | | OK
 phallic cult | | | | OK
 The phallic cult emerged as a defense against the evil eye believed in by the Jews and addressed in a chapter of the Koran, viewing reproductive organs as the only fetish capable of warding off its influence. (87:5.5)
 
-Pharisee and publican; parable of the Pharisee and the publican | | | | OK
+Pharisee and publican; parable of the Pharisee and the publican; story of the Pharisee and the publican | | | | OK
 The parable of the Pharisee and publican teaches that true happiness comes from humility and seeking spiritual wealth, not self-righteousness or material possessions. (140:5.7) (167:5.1-2)
 
 Pharisees | | Judaism; rabbis; Sanhedrin; scribes | RELIGION | OK
@@ -1247,7 +1252,7 @@ life
 	Worried Jesus might ask him to feed multitude in Jerusalem, Philip was unsettled by the suddenness and spontaneity of the outburst, but found relief when Jesus turned away from the crowds. (172:5.6)
 	Jesus gave solemn admonitions to Philip, urging him to remain steadfast, loyal, and obedient to his calling as a faithful ambassador of the kingdom. (174:0.2) (181:2.20) (192:2.11)
 	Jesus told Philip no more to busy himself with money and goods; go forth and proclaim the gospel of the kingdom to the gentiles. (181:2.20) (192:2.11)
-	Philip was obedient in going into the lands of the Gentiles to proclaim the gospel, showing his love for Jesus through his actions. (191:2.5) (192:1-4) (193:0.3,5)
+	Philip was obedient in going into the lands of the Gentiles to proclaim the gospel, showing his love for Jesus through his actions. (192:1-4) (193:0.3,5)
 	Philip, among the 120 at Pentecost, spoke in multiple languages during the impassioned appeal that won over thousands of souls. (194:1.2)
 after Jesus
 	Philip, asked to preach to gentiles, obeyed the Master's command to proclaim the gospel of the kingdom to those in darkness. (192:2.11)
@@ -1282,7 +1287,7 @@ The Hebrews learned the alphabet from Philistines, leading to a delay in the dev
 David built up a divine kingdom through defeating the Philistines and assuming collection of caravan tariffs. (97:9.11-15)
 The Hebrews learned the alphabet from the Philistine political refugees from Crete, resulting in various creation stories circulating before turning to the Mesopotamian version post-Babylonian captivity. (74:8.9)
 
-Philo of Alexandria | | | PERSON | OK
+Philo of Alexandria; Philo | | | PERSON | OK
 Philo of Alexandria, a wealthy Jew, restored the concept of the Trinity and possibly glimpsed Thought Adjusters; his teachings on the atonement doctrine influenced Paul but were ultimately eliminated due to inconsistencies in combining Greek, Roman, and Hebrew theology. (121:6.5-6)
 Philo of Alexandria possessed a copy of the Book of Wisdom, embodying the teachings that earthly riches are fleeting, fear should be avoided, and one should focus on the acts of God over the words of men. (95:4.3)
 Throughout various regions, including among older Jewish teachers, Plato, Philo of Alexandria, and the Essenes, there was a tolerated belief in reincarnation. (164:3.4)
@@ -1293,7 +1298,7 @@ accomplishments
 	Philo of Alexandria mitigated Roman objections to Judaism, paving the way for the acceptance of Christianity's concept of one God. (195:2.9)
 	Philo of Alexandria profoundly influenced religious thought, harmonizing Greek philosophy and Hebrew theology into a consistent system later utilized by Paul for the foundation of Christianity. (121:6.3-6) (121:7.7) (170:5.3,16)
 
-philosopher in Ephesus | | | PERSON | OK
+philosopher in Ephesus; learned Greek | | | PERSON | OK
 The philosopher in Ephesus engaged in profitable discussions with Jesus about the concept of the soul, defining it as the self-reflective, truth-discerning, and spirit-perceiving part of man that elevates humans above the animal world. (133:6.4-7)
 
 philosopher’s stone | | | | OK
@@ -1339,7 +1344,7 @@ strengths
 	Wisdom in philosophy coordinates consciousness towards the awareness of true reality and belief in personal survival. (102:3.5)
 
 Phoenicians | (133:6.2) | | RACE | OK
-Apostles won souls among the gentiles of Phoenicia, greatly cheered by their warm reception of Jesus' teachings. (155:4.6) (156:2.3)
+Apostles won souls among the gentiles of Phoenicia, greatly cheered by their warm reception of Jesus' teachings. (155:4.1-2) (156:2.3)
 Beth-Marion, a Phoenician woman, became so fanatical that she almost drowned trying to walk on water and was sent away by her friends. (148:8.4)
 Phoenicians believed snakes to be the mouthpiece of evil spirits, leading to the reverence of reptiles in various cultures. (88:1.5)
 The Phoenicians employed crucifixion as punishment, a method later adopted by the Greeks and Romans, but not used on Roman citizens. (187:1.5)
@@ -1396,14 +1401,14 @@ Pikes Peak stands as a lasting symbol of the ever-changing landscape in the Nort
 
 Pilate, Pontius | | Pontius Pilate | PERSON | OK
 
-pilgrim guardians | | | ORDER | OK
+pilgrim guardians; Pilgrim Guardians | | | ORDER | OK
 Pilgrim Guardians are not assigned to specific duties in their association with the morontia progressors. These companions are responsible for the whole of the morontia career and are therefore the co-ordinators of the work of all other morontia and transition ministers. (48:3.7)
 
 pilgrim helpers | | | ORDER | OK
 Pilgrim helpers on the seventh circle of Havona worlds teach ascenders Trinity, Father-Son partnership, and Infinite Spirit in intricate detail. (26:5.2)
 Pilgrim helpers on the seventh circuit of Havona serve ascending mortals by imparting essential lessons on the Trinity, Father-Son partnership, and the Infinite Spirit. (26:5)
 
-pilgrim receivers and free associators | | | ORDER | OK
+pilgrim receivers and free associators; Pilgrim Receivers and Free Associators | | | ORDER | OK
 Pilgrim Receivers and Free Associators are the social companions of new mansion world arrivals, greeting them upon awakening and accompanying them throughout their journey in the morontia life. (48:3.8-9)
 
 pilgrimages | | | | OK
@@ -1433,7 +1438,7 @@ Luke, the physician of Antioch in Pisidia, wrote the Gospel in A.D. 82, portrayi
 Pitcairn experiment | | | | OK
 The successful blending of white and Polynesian races in the Pitcairn experiment demonstrated the potential for creating new and biologically effective characteristics. (82:6.9)
 
-pituitary glands | | hormones | | OK
+pituitary glands; pituitary bodies | | hormones | | OK
 Imagination and spiritual receptivity are influenced by the organization of certain glands comparable to the pituitary bodies, as described in the spirit-reception series. (49:5.19)
 
 pity | | sympathy | | OK
@@ -1448,12 +1453,12 @@ The Edentia group approved the planetary life-initiation plans proposed by the a
 
 planetary council on art and science | | Caligastia one hundred | PERSON | OK
 
-planetary custodians | | | ORDER | OK
+planetary custodians; Planetary Custodians | | | ORDER | OK
 Seventy guardians hold supreme morontia authority over the morontia spheres, guiding ascending creatures through their transformative journeys without the need for unconsciousness. (48:2.18)
 Planetary Custodians are registered in Uversa personality register. (30:2.111)
 The Planetary Custodians, as the local council of supreme morontia authority, grant morontia forms to all ascending creatures on the spheres, enabling them to progress through the phases of morontia life without surrendering consciousness. (48:2.18)
 
-planetary epochs | (52) (49:5.21-28) | | | OK
+planetary epochs; planetary epoch | (52) (49:5.21-28) | | | OK
 First – pre-Planetary Prince era
 	The pre-Planetary Prince era marks the time when primitive men, evolving through different races, engage in physical survival and tribal governance, before the arrival of divine guidance and higher spiritual development. (52:1) | mortals:primitive mortals
 	Six colored races appear as language develops from the time primitive men emerge and choose to worship the Creator until the arrival of the Planetary Prince. (52:1.1-2)
@@ -1543,7 +1548,7 @@ immediate future
 light and life
 	about light and life eras see link below | light and life
 
-planetary helper seraphim | (39:5) | seraphim | ORDER | OK
+planetary helper seraphim; planetary angelic helpers; planetary helpers; planetary seraphim | (39:5) | seraphim | ORDER | OK
 About one third of the planetary helper seraphim were lost in the Lucifer rebellion. (53:7.7)
 The fifth order of seraphim, the planetary helpers, play a crucial role in guiding the Adamic mission on Earth, exemplified by Solonia's reprimand of Adam and Eve for their deviation from the divine plan. (51:3.5)
 Planetary helper seraphim, numbering around 100,000, accompany Planetary Adams on evolutionary worlds, aiding in physical and intellectual upliftment. (39:5) (51:3.5)
@@ -1610,7 +1615,7 @@ rebellion by Planetary Princes in Nebadon
 	Successor Planetary Princes are designated for isolated worlds, where rebellion instantly isolates the planet and only a bestowal Son can re-establish interplanetary lines of communication. (35:9.9)
 	Michael, as an emergency Material Son, successfully restored a quarantined world in rebellion by effecting repentance of defaulting Planetary Princes. (119:3.4)
 
-planetary sentinels | | | ORDER | OK
+planetary sentinels; Planetary sentinels | | | ORDER | OK
 Midwayers patrol and guard the invisible spirit realm of the planet as planetary sentinels. (77:8.7)
 
 Planetary Sovereigns | | Planetary Princes | ORDER | OK
@@ -1654,7 +1659,7 @@ suitability for life
 	Solitary Messengers investigate small dark planets best suited to life experiments, guided by clues from space contemplators and the knowledge withheld by the Paradise Deities. (23:2.20)
 	The physical aspects of planets are largely determined by their mode of origin, astronomical situation, physical environment, age, size, rate of revolution, and velocity through space - with water and air present on all planets if not too small. (41:10.3)
 
-plans | | | | OK
+plans; plan | | | | OK
 Man's evolving morontia soul permeated by truth, beauty, and goodness becomes indestructible if valued as God-consciousness, for what is begun in time will be finished in eternity - if worth finishing. (111:3.7)
 Learning self-government on the mansion worlds includes cooperating and planning with other, wiser beings to benefit all concerned and appreciate cosmic morality. (39:4.10)
 about God’s plan see link on divine plan | divine plan; will of God
@@ -1686,7 +1691,7 @@ Plato | | Platonism | PERSON | OK
 Plato, along with Socrates and Aristotle, taught that virtue is knowledge and that it is better to suffer injustice than to be guilty of it. (98:2.6)
 Plato, like Confucius, was not a religious teacher, but a philosopher. (92:5.12)
 
-Platonism | | Greece:Greek religion; Plato | RELIGION | OK
+Platonism; Platonic philosophy; Greek idealism | | Greece:Greek religion; Plato | RELIGION | OK
 Four great philosophies derived from Platonism dominated the gentile world. (121:4.1)
 The Fourth Book of Maccabees exemplifies the great inroad of Stoicism and the penetration of Platonic philosophy among Hellenized Jewish beliefs. (121:6.3)
 Christianity incorporated Babylonian and Persian ideas and Plato's theories, making the teachings more acceptable to diverse audiences. (146:1.3)
@@ -1701,7 +1706,7 @@ play | | recreation | | OK
 play builders | | | ORDER | OK
 Celestial artisans construct divine edifices for the play builders, providing a suitable setting for the training of ascendant beings on the morontia worlds. (44:3.4)
 
-pleasures | | recreation; self-gratification | | OK
+pleasures; pleasure; amusement | | recreation; self-gratification | | OK
 Maturity substitutes higher meanings for personal pleasure, elevating loyalties to the utmost concepts of life situations and cosmic relations, while evil arises from making personal evaluations absolutes. (100:1.1)
 In the morontia world, there are countless spiritual realities that surpass and enhance the material pleasures familiar to mortals. (44:3.1)
 Recalling past experiences provides pleasures, allowing for the enjoyment of celestial humor and spiritual amusement throughout our ascending lives. (48:4.10,20)
@@ -1729,7 +1734,7 @@ To be ordained, one must forsake all; as with the plough, one cannot turn back o
 plumbing | | sanitation | | OK
 Highly skilled Andite emigrants to Crete used plumbing approximately 12,000 B.C. (80:7.2)
 
-poetry | | | | OK
+poetry; Poetry | | | | OK
 Only a poet can discern poetry in the commonplace prose of routine existence. (48:7.22)
 Poetry is mortal morontia, serving as man's attempt to transcend material constraints and embrace spiritual truths. (195:7.15)
 Without incantations, poetry would not have originated in religion, handicapping the cultural development of society. (92:3.6)
@@ -1745,7 +1750,7 @@ poise | | balance | | OK
 Believers, emancipated from haste and painful stress, display a tranquil stability and a unique originality in their lives infused with the presence of the Eternal. (102:2.3)
 Faith maintains mysterious poise in the face of physical suffering and injustice. (101:3.8-9)
 
-poisons | | | | OK
+poisons; poison | | | | OK
 Poisons and intoxicants were revered as fetishes, believed to be possessed. (88:1.9)
 In ancient times, crime was detected in ordeals of poison, fire, and pain, as medicine men and priests acted as the first crime detectors and officers of the law through these crude techniques of arbitration. (70:10.5-6)
 Mental poisons hinder spiritual progress just as physical poisons impede the efforts of the Adjuster. (110:1.5)
@@ -1762,7 +1767,7 @@ The sloping entrance of the great pyramid pointed to the Pole Star, guiding the 
 
 poles, magnetic | | magnetism | | OK
 
-poles of space communication | | | PLACE | OK
+poles of space communication; point of spiritual polarity; planetary pole of space communication; place of the spiritual polarity of the planet; point of spiritual polarity; universe energy pole of the planet | | | PLACE | OK
 The personal abodes of the Ancients of Days are the point of spiritual polarity within their administrative sectors on Uversa. (18:3.6)
 On Urantia, the archangels' circuit operated for the first time, signaling the resurrection of the dead and the departure of seraphim for the mansion worlds. (62:7.2) (189:3.2)
 Spiritual reflection of the characteristics of the Trinity is achieved through the unique nature of the seven Reflective Spirits assigned to each superuniverse, each reflecting a different combination of divinity characteristics. (17:3.1)
@@ -1786,7 +1791,7 @@ polygamy | | marriage:among primitives | | OK
 
 polygyny | | marriage:among primitives | | OK
 
-Polynesia | | | PLACE | OK
+Polynesia; Polynesian | | | PLACE | OK
 Biologically modified Andite sailors from Japan reached South America via the Pacific, establishing the ancestry of the Incas through intermarriage with Andean natives. (78:5.7)
 In the days of Andites, the islands of Polynesia were more numerous and larger than they are now, as evidenced by a fleet of 132 sailors who traveled from Japan to South America, intermarrying with Andean natives and laying the foundation for the Inca rulers. (78:5.7)
 Polynesia's racial composition includes a mix of green, indigo, yellow, and red blood, with influences from Andonites and Japanese ancestors as well. (79:6.3)
@@ -1795,7 +1800,7 @@ polytheism | | religion | RELIGION | OK
 The commandment in Dalamatia against polytheism: “You shall not fear nor serve any God but the Father of all.” (66:7.9)
 Polytheism is monotheism in the making, leading humanity towards a lasting peace and profound assurance through the concept of a transcendent and divine deity. (5:4.2,9)
 
-Pontius Pilate | (174:2.4) (184:3.17) | | PERSON | OK
+Pontius Pilate; Pilate | (174:2.4) (184:3.17) | | PERSON | OK
 Pilate, hoping to buy time and mend his strained relationship with Herod, sent Jesus to appear before him in Galilee amidst their animosity. (185:3.8)
 Pontius Pilate was greatly disliked by the Jews for using temple funds to build an aqueduct, sparking numerous riots and bloodshed. (185:1.5)
 The court reconvened at 5:30, presenting charges to Pilate claiming blasphemy held no weight, with Jesus guarded by a Roman soldier and temple guards as Annas emphasized the futility to his associates, while Judas remained silent. (184:5.1)
@@ -1843,7 +1848,8 @@ Minister to and share with the poor to let the oppressed go free and break every
 
 poor in spirit | | humility | | OK
 
-poor man falsely accused | (132:4.8) | | | OK
+poor man falsely accused | | | PERSON | OK
+Jesus interceded before the Roman magistrate on behalf of a poor man falsely accused, which led to the accused's release. (132:4.8)
 
 populace | | public opinion | | OK
 A well-trained police force can effectively control a larger group of people through organized cooperation. (68:1.4)
@@ -1889,7 +1895,7 @@ Porshunta is one of 24 counselors for “The Great Teacher” worshiped by the e
 Portalon | | | PLACE | OK
 Portalon is a neighboring universe to Nebadon in the superuniverse circuit of Orvonton. (32:2.12)
 
-porters | | | | OK
+porters; burden bearers | | | | OK
 The ruler of the blue race once had 100,000 men in his colony of burden bearers. (81:2.12)
 
 position | | status | | OK
@@ -1996,7 +2002,7 @@ power transformers | | energy transformers | ORDER | OK
 
 Powers of Paradise | | Deity | ORDER | OK
 
-practicalities | | circumstances | | OK
+practicalities; practical affairs | | circumstances | | OK
 In daily life, the practicalities are managed by agencies of Infinite Spirit, as you cooperate with spirit personalities originating from the Third Source in the details of your earthly sojourn. (5:3.5)
 
 praetorium | | | PLACE | OK
@@ -2010,7 +2016,7 @@ Seek only what honestly belongs to you and avoid seeking unearned recognition or
 Prajapati | | | RELIGION | OK
 The deity-father principle, also known as Prajapati, was a key figure in the henotheistic developments leading towards an evolved monotheism. (94:1.4)
 
-prayer | (143:7) (144:2) (168:4) | meditation; spiritual communion; worship | | OK
+prayer; Prayer | (143:7) (144:2) (168:4) | meditation; spiritual communion; worship | | OK
 defined as
 	Ask God for wisdom and strength to tackle obstacles with courage and determination. (91:6.5)
 	Prayer is the best technique to contact God, independent of intellectual understanding or cultural status. (91:6.7)
@@ -2148,7 +2154,7 @@ preaching principles | | gospel:proclaiming | | OK
 precedent | | law | | OK
 Judges use precedent to adapt laws to evolving societal conditions, balancing tradition with progress. (70:11.7)
 
-precipice | | | | OK
+precipice; precipitous hill | | | | OK
 Jesus would have effectively disarmed his violent enemies, but a tactical blunder by one of his own apostles led to hirelings trying to shove him off a precipice. (150:9.3)
 Jesus decided to exercise normal watchcare over his human safety and refrain from superhuman intervention, even when faced with the temptation to cast himself off the precipice before him. (136:7.1)
 
@@ -2163,14 +2169,14 @@ Predicting physical phenomena becomes increasingly challenging as we venture awa
 The presence and performance of the Ultimate and Absolutes cause unpredictability in the reactions of primordial force, nascent spirit, and other nonpersonal ultimates. (12:6.6-7) (65:6.8)
 The reactions of the spirit-gravity circuit are predictable, but the actions of mind and personality are not. (7:1.8) (9:6.8-9) (10:7.4) (12:6.4-5) (14:2.9)
 
-preference | | | | OK
+preference; preferment | | | | OK
 The apostles' desire for positions of greatness in the kingdom of heaven caused Jesus to remind them of the importance of humility and service. (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (171:3.9) (179:1)
 Refrain from seeking preference between groups and strive to be as brethren in the kingdom of believers. (179:5.7)
 
 pregnancy | | midwifery | | OK
 Primitives believed marriage and pregnancy were the result of spirits entering women. (84:1.3)
 
-prejudice | | intolerance; judgment:by man | | OK
+prejudice; prejudices | | intolerance; judgment:by man | | OK
 The key to successful living is the abandonment of deep-seated prejudices, allowing for open-mindedness and genuine trust in the wisdom of others. (160:1.7) (170:2.21)
 Soul-sealing prejudice blinds and paralyzes, hindering progress and the pursuit of eternal truths. (157:2.2) (162:7.3)
 In the celestial government, all three orders are equally respected and do not discriminate in their administration over different worlds. (49:5.18)
@@ -2218,10 +2224,10 @@ His courage was born of faith, not the recklessness of blind presumption. (100:7
 
 pretense | | affectation | | OK
 
-preventive detention | | | | OK
+preventive detention; prevention of crime | | | | OK
 In the main continental nation of a nearby inhabited planet preventive detention is used to sentence potential murderers and major criminals to life in detention colonies, but those who show improvement may be paroled or pardoned, leading to a low homicide rate of one percent. (72:10.2)
 
-pride | | honor; self-importance; self-respect | | OK
+pride; self-pride; Pride | | honor; self-importance; self-respect | | OK
 The courage to conquer nature may give way to self-pride, leading to the temptation of deifying one's own consciousness and succumbing to sin. (111:6.2)
 Nathaniel's great virtue was his honesty and sincerity, but his weakness was his pride, commendable in family, reputation, and nation if not carried too far. (139:6.3)
 When contemplating God, self-glorification is hilariously absurd, serving as a divine antidote against ego. (48:4.15)
@@ -2265,7 +2271,7 @@ priesthood and woman
 priest’s title | | | | OK
 Early family insignia marked private property, later evolving into family crests; priests consecrated land with taboos, granting owners a “priest's title” indicated by initials on stone markers and trees. (69:9.13)
 
-primary associators | | Master Physical Controllers; Universe Power Directors | ORDER | OK
+primary associators; associators; Primary Associators | | Master Physical Controllers; Universe Power Directors | ORDER | OK
 The primary associators, along with their co-workers the dissociators, are the first group of life to appear on an organizing material sphere, functioning at physical temperatures deemed incompatible with the existence of living beings, representing an order of life beyond human imagination and being the most slavish of all intelligent creatures. (29:4.34)
 In Uversa personality Primary Associators are registered as the fifth Master Physical Controllers. (30:2.105)
 Primary associators are living catalytic agents that act by their presence, converting energies of space into physical states and producing primitive units of material existence. (29:4.32)
@@ -2340,7 +2346,7 @@ privacy | | | | OK
 The high personalities on the seven sacred worlds of the Father hold sacredly secret the intimate and personal contact with the Deities, respecting the privacy even of lowly creatures. (18:1.4-6)
 In primitive life, public opinion regulated behavior without the need for privacy or law enforcement. (70:10.4)
 
-private property | (69:9) | capital; competition; possessions; wealth | | OK
+private property; Private ownership; Private property; private ownership | (69:9) | capital; competition; possessions; wealth | | OK
 among primitives
 	Private ownership brought increased liberty and stability, followed by the rise of social classes, but improved machinery is liberating society from labor. (69:9.16)
 	Private property initially arose from personal touch, expanding to include shared items like tools and weapons within the tribe before extending to encompass spaces marked by bloodshed. (69:9.8)
@@ -2360,7 +2366,7 @@ modern life
 privilege | | | | OK
 To possess and uphold privilege without abuse is a mark of high civilization. (48:7.8)
 
-probationary nursery | (47:2) (49:6.11-14) | | PLACE | OK
+probationary nursery; nursery world | (47:2) (49:6.11-14) | | PLACE | OK
 what children are there
 	Without choosing the ascendant life path, probationary nursery inhabitants face death without adjudication or hope of resurrection. (47:2.7)
 	Adjusterless children in probationary nursery choose the heavenly way under the guidance of Mansion World Teachers and Melchizedeks, with opportunities for spiritual growth and personal guardians upon reaching the third circle. (47:2.2) (49:6.11-14)
@@ -2384,7 +2390,7 @@ caregivers
 	Survivors deficient in parental experience must qualify in probationary nursery, possibly with own children, while sojourning in the homes of the Jerusem Material Sons and Daughters. (45:6.6-8) (47:1.4-5)
 	Survivors on the first mansion world must meet parental commission requirements, with visitation by mortal parents and collaboration with morontia custodians in the probationary nursery. (47:1.4-5)
 
-problem solving | | challenges; decisions; difficulties; opportunities | | OK
+problem solving; solution of life problems; solving intricate economic problems; solution of the manifold problems; more difficult problems to be solved | | challenges; decisions; difficulties; opportunities | | OK
 Forewarn believers: the fringe of conflict must be traversed from flesh to spirit. (159:3.7) (160:1.6)
 Personal, spiritual religious experience efficiently sorts, evaluates, and adjusts all human problems, unifying the personality for effective adjustment to mortal requirements. (196:3.1)
 technique
@@ -2426,7 +2432,7 @@ profit motive
 	Profit motivation must not be taken away until superior nonprofit motives for economic striving and social serving have been firmly established in society. (71:6.3)
 	Economics driven solely by self-serving profit motives is incompatible with the teachings of Jesus, but can be saved if coupled with a spirit of service. (71:6.1-3)
 
-progress | | achievement; change; evolution; goals; growth; spiritual growth; transition | | OK
+progress; Progress | | achievement; change; evolution; goals; growth; spiritual growth; transition | | OK
 Universe progress is characterized by increasing personality freedom through self-understanding, spiritual self-restraint, and faith. (132:3.10)
 Progress is achieved through the development of individuality, while mediocrity clings to standardization for perpetuation. (48:7.29)
 All human progress is effected by conjoint revelational evolution. (196:3.15)
@@ -2459,7 +2465,7 @@ factors favoring progress
 
 progress angels | | master seraphim of planetary supervision | ORDER | OK
 
-progress helpers | | | ORDER | OK
+progress helpers; Progress helpers | | | ORDER | OK
 Progress helpers are spiritual midwayers assisting planetary seraphim in special groups. (77:8.9)
 
 proletariat | | populace | | OK
@@ -2473,10 +2479,10 @@ promises | | duty; oaths; resolutions | | OK
 The ancients sought tangible guarantees for marriage, distrustful of love and promises alone. (83:3.1)
 Promises should be kept, even if one must become a fisherman to honor their word. (157:1.2)
 
-promoters of oratory | | | ORDER | OK
+promoters of oratory; Promoters of oratory | | | ORDER | OK
 Celestial artisans are the promoters of oratory, skilled in preserving and reproducing thoughts in the language of Nebadon, condensing a lifetime of mortal experience into a half hour address. (44:4.7)
 
-prophecies | | prophets; speculations; visions | | OK
+prophecies; prophecy | | prophets; speculations; visions | | OK
 The Imports of Time are the secret to prophecy, revealing the necessary element of time for any endeavor, and serving as reliable indicators like frandalanks and chronoldeks for different beings. (28:6.11)
 John the Baptist, agitated yet certain, uttered a prophecy that left his disciples in silent amazement. (135:11.3)
 Melchizedek's covenant with Abraham foretold his offspring's occupation of Canaan after Egypt. (93:6.3)
@@ -2528,7 +2534,7 @@ proselyte | | | | OK
 Flavius, the Greek Jew, a proselyte of the gate, invited Jesus to his beautifully adorned home, where the Master showed great interest in his prized artworks, dispelling Flavius's fears of rebuke. (142:4.1)
 Pharisees go to great lengths to convert a single person, but ultimately make them worse than before. (175:1.13)
 
-prostitution | | sex:urge | | OK
+prostitution; harlotry; harlots | | sex:urge | | OK
 Despite her past as a keeper of a high-class brothel, the woman who had become a believer in the gospel closed her nefarious business and converted others, yet still faced disdain from the Pharisees. (147:5.3) (150:2.2)
 The woman's commercialized vice was orchestrated by her husband, whom Jesus had known as a troublemaker in Nazareth. (162:3.4)
 The woman of unsavory reputation, now a believer in the gospel, was still forced to wear her hair down as a badge of harlotry, yet she humbly anointed Jesus' feet with tears of gratitude. (147:5.3)
@@ -2576,7 +2582,7 @@ Protozoa | (58:7.2) (65:2.4) | | | OK
 Proverbs | | | | OK
 Amenemope's philosophy, translated into Hebrew, laid the foundation for the wisdom found in the Book of Proverbs and influenced Hellenic religious philosophy, emphasizing the ephemeral nature of earthly possessions and the importance of turning to divine guidance. (95:4.3-5)
 
-providence | (76:6.4) (118:10) | accidents; circumstances; destiny; free will; spiritual influences | | OK
+providence; Providence | (76:6.4) (118:10) | accidents; circumstances; destiny; free will; spiritual influences | | OK
 All things work together for good, as the Father, using diverse forces and personalities, upholds his purpose and sustains his creatures, guiding the universe through seemingly chaotic events to ultimately reveal his glory and benefit all who love and know him. (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 Providence is the harmonious manifestation of the evolving Supreme Being, guiding the unity of the universes of time and space through the co-ordination of cosmic events. (4:1.10) (9:1.3)
 God has intervened in human affairs with a Father's hand, but religious interpretations of history as purely miraculous are mistaken. (97:8.5) (118:10.6)
@@ -2659,7 +2665,7 @@ attainment
 psychic organization | | | | OK
 The conservation of life on World Number Three involves studying and developing various modes of life protection through 24 basic orders of human psychic organization. (36:2.16)
 
-psychology | | | | OK
+psychology; Psychology | | | | OK
 Psychology studies religious reactions to society, but cannot delve into the true inner motives of religion; only theology, rooted in faith and revelation, can provide an intelligent account of religious experience. (101:2.17)
 Theology studies the human spirit, and when combined with philosophy, it can never become a science, always relying on psychology for personal expression and understanding others' religions. (103:6.1)
 
@@ -2697,7 +2703,7 @@ Law is a codified reflection of accumulated human experience, crystallizing and 
 
 public women | | prostitution | | OK
 
-public work | | | | OK
+public work; public labors | | | | OK
 Apostles begin a new work as they depart from Bethsaida with Jesus on the first day of the week, January 19, in A.D. 27. (141)
 Jesus’ plans for the remainder of his Urantia bestowal were carefully formulated day by day in the hills, leading to his ultimate decision to always choose the Father's will in his earth career. (136:4)
 
@@ -2755,7 +2761,7 @@ The miserable remnants of ancient nonsocial Pygmies illustrate the resilience of
 The Pygmies and other backward groups today have no marriage institution due to simple mating customs followed by primitive races, reflecting early races' lack of regulation of relations of the sexes and absence of prostitution. (82:2.2)
 The African Pygmies are at a primitive stage of religious evolution, with no religious reactions as a class. (91:0.5) (92:6.1)
 
-pyramids | | | | OK
+pyramids; pyramid | | | | OK
 The first stone pyramid in Egypt was erected by Andite Imhotep, showcasing the decline in building artistry from his time. (80:6.4)
 The sloping entrance to the great pyramid directed the souls of the worthy dead straight to the Pole Star, symbolizing their journey to the afterlife among the eternal constellations. (95:2.7)
 

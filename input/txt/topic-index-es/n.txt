@@ -34,7 +34,7 @@ Moisés reunió a los descendientes de Abraham, Nacor y Lot en una nación autos
 Nacor (rabino) | | | PERSON | OK
 Najor, un rabino de Jerusalén, aconsejó a José y María que permitieran que Jesús fuera a Jerusalén para recibir educación, pero Jesús decidió quedarse con sus padres después de consultar con ellos, con un vecino y, en última instancia, con su Padre en el cielo. (123:6.8-9)
 
-clavos | | | | OK
+clavos; clavo | | | | OK
 Tomás no lo creería hasta ver las señales de la verdad en las marcas de los clavos de las manos del Maestro resucitado. (191:5.4)
 Jesús fue atado y se utilizaron clavos en la crucifixión, lo que hizo que su sufrimiento fuera dolorosamente visible y audible. (187:2.1)
 
@@ -51,7 +51,7 @@ ella estuvo en la décimo sétima aparición de Jesús (193:1)
 Nambia | | | PLACE | OK
 Nambia es el primogénito Portador de Vida de Nebadon, parte del eficiente y autónomo cuerpo de cien millones de Portadores de Vida dirigidos por Gabriel y el Padre Melquisedek en el universo de Nebadon. (36:1.2)
 
-nombres | | | | OK
+nombres; nombre | | | | OK
 Después de la fusión, los mortales reciben sus verdaderos nombres universales. (47:8.5) (108:3.3)
 La realeza hereditaria y la aristocracia se establecieron para evitar la anarquía a través de la posesión de nombres. (70:6.3)
 Los sujetos humanos a menudo son conocidos por los números de sus Ajustadores hasta que reciben nombres universales reales después de la fusión con el Ajustador, lo que se señala mediante el otorgamiento del nuevo nombre por parte del guardián del destino. (108:3.3)
@@ -116,7 +116,7 @@ Actitud
 	Natanael se opuso a proclamar a Jesús rey, a pesar del creciente entusiasmo del pueblo y del apoyo de algunos apóstoles. (152:2.5)
 	Natanael, el genio apostólico singular, equilibraba la filosofía seria con un humor inusual y jocoso, sin tomarse nunca en serio. (139:6.4,6)
 Después de Jesús
-	Natanael presenció las apariciones de Jesús en Galilea después de su resurrección, experimentando de primera mano sus enseñanzas y mandatos. (191:2.5) (192:1-4) (193:0.3,5)
+	Natanael presenció las apariciones de Jesús en Galilea después de su resurrección, experimentando de primera mano sus enseñanzas y mandatos. (191:2) (192:1-4) (193:0.3,5)
 	El padre de Natanael, Bartolomé, murió poco después de Pentecostés, lo que lo llevó a viajar a Mesopotamia y la India para difundir las enseñanzas de su Maestro antes de su propia muerte en la India. (139:6.9)
 	Natanael pasó un año en Filadelfia con Abner tras discrepar con Pedro sobre la predicación de Jesús. (193:6.4)
 	Natanael predicó el evangelio más allá de Mesopotamia y la India, y finalmente murió en la India tras difundir las enseñanzas de su Maestro. (139:6.9) (193:6.4) (195:3.10)
@@ -127,7 +127,7 @@ Natanael el fariseo invitó a Jesús a desayunar, pero Jesús reprendió a los f
 Consejo de la Defensa Nacional | | | | OK
 El Consejo Nacional de Defensa, facultado para evaluar a los estados en materia de dinero, hombres y materiales en tiempos de guerra, opera bajo estrictas limitaciones financieras establecidas por el gobierno federal en la principal nación continental de un planeta habitado cercano. (72:7.7,14) (72:11.1)
 
-nacionalismo | | naciones; patriotismo | | OK
+nacionalismo; egoísmo nacional | | naciones; patriotismo | | OK
 La era del Príncipe Planetario culmina en un intenso nacionalismo, pero las luchas raciales y las guerras tribales continúan con una frecuencia y una severidad cada vez menores. (52:2.5)
 La ilusión del nacionalismo de la soberanía nacional es la principal barrera para la paz mundial; la paz duradera de Urantia depende de la entrega de los poderes soberanos al gobierno de la humanidad. (134:5.10) (134:6.6-7) (195:8.10)
 El egoísmo nacional, arraigado en la doctrina del pueblo elegido, ha sido esencial para la supervivencia social; sin embargo, el verdadero progreso sólo llega cuando se supera la intolerancia mediante la integración de la ciencia, el comercio, el juego y la religión. (71:3.2)
@@ -145,7 +145,7 @@ L’Esprit de Vérité, une influence mondiale universelle, est conçu pour unif
 
 eventos naturales | | circunstancias | | OK
 
-la Ley natural | | | | OK
+la Ley natural; leyes de la naturaleza; leyes naturales; leyes establecidas de la naturaleza | | | | OK
 Jesús se decidió por una política coherente de vivir de acuerdo con las leyes naturales, aunque su Ajustador Personalizado advirtió que estas leyes podrían acelerarse considerablemente en ciertas circunstancias. (136:6.2) (136:7) (136:9.9)
 El hombre recoge la cosecha de sus esfuerzos por cumplir con las leyes naturales. (166:4.8)
 La previsibilidad de los fenómenos físicos disminuye a medida que uno se aleja del Paraíso, y se topa con fuerzas que están más allá de nuestra comprensión a pesar de nuestra comprensión de las leyes universales. (15:8.8-9)
@@ -154,7 +154,7 @@ El pecado afecta a más que solo el individuo; sus consecuencias se propagan por
 filosofía natural | (42:9) | | | OK
 La filosofía natural tiende a dogmatizar, al igual que la religión. (42:9)
 
-recursos naturales | | | | OK
+recursos naturales; depósitos naturales; recursos atesorados por la naturaleza | | | | OK
 Los recursos naturales se administraban como posesiones sociales, propiedad comunitaria. (55:3.7)
 Las primeras guerras se libraron por recursos naturales, como el pedernal, la sal y los metales, lo que condujo al primer tratado tribal formal centrado en un depósito de sal, que fomentó la comunicación y la unidad intertribales. (69:4.6)
 Toda la riqueza natural del continente se conserva como un fideicomiso social por parte del gobierno federal, y los ingresos se utilizan para fines sociales, como pensiones de vejez y educación. (72:6.7) (72:7.13)
@@ -166,7 +166,7 @@ derechos naturales | | derechos humanos | | OK
 selección natural | | genética | | OK
 La variedad es indispensable para que la selección natural tenga amplias posibilidades de supervivencia diferencial de cepas superiores. (64:6.31)
 
-naturalismo | | | | OK
+naturalismo; naturalista | | | | OK
 Cuando la filosofía se inclina demasiado hacia el mundo de la materia, tiende a volverse racionalista o naturalista. (103:6.14)
 
 naturaleza | (4:2) (38:2) | | | OK
@@ -197,7 +197,7 @@ Dios y la naturaleza
 	Jesús enseñó el valor de adorar a Dios en medio de la naturaleza, enfatizando la importancia de la belleza para la comunión espiritual e instando a la simplicidad y la belleza natural en los lugares de culto. (123:5.14) (167:6.5-6)
 	Contemplar la naturaleza revela un Dios en movimiento, sin persistencia detectable de personalidad individual. (101:2.9) (101:10.1)
 
-ombligos | | | | OK
+ombligo | | | | OK
 Muchos chamanes astutos inducían la autohipnosis mirándose el ombligo, impresionando y desconcertando a los miembros de la tribu con su conducta misteriosa y sus hazañas sobrenaturales. (90:1.4)
 
 Nazaret | (138:1.4) | chazán de la sinagoga de Nazaret | PLACE | OK
@@ -220,7 +220,7 @@ Jesús
 	Después de que Jesús les advirtió, los apóstoles evitaron Nazaret y predicaron libremente en su primera gira pública por Galilea. (145:5.8) (146:0.2)
 	El marido degenerado de Hildana de Nazaret la obligó vergonzosamente a prostituirse para obtener ganancias económicas, traicionándola y conspirando contra Jesús. (162:3.4)
 
-nazareos; nazareno; colonia nazarena; hermandad nazarena; escuela nazarena | | | RELIGION | OK
+nazareos; nazareno; colonia nazarena; hermandad nazarena; escuela nazarena; colonia nazarea; hermandad nazarea; escuela nazarea; nazareo | | | RELIGION | OK
 Abner era el antiguo director de la escuela nazarea de En-gadi (165:0.1)
 Los nazareos de En-Gedi, ascéticos y excéntricos, reaccionaron de forma contradictoria ante Jesús; muchos se hicieron creyentes, pero la mayoría se negó a aceptarlo. (142:8.1)
 Los nazareos, junto con otros grupos, creían en el Mesías venidero, pero Jesús y sus discípulos se distanciaron de estas creencias. (137:7.12)
@@ -233,7 +233,7 @@ A Juan, un nazareo, se le permitió entrar en el lugar santísimo del templo, si
 Juan siguió los pasos de los renombrados nazareos Sansón y el profeta Samuel, reverenciados como figuras santificadas y santas por los judíos. (135:1.2)
 A los catorce años, Juan hizo el voto formal de Nazaret, absteniéndose de consumir intoxicantes, dejándose crecer el cabello y evitando el contacto con los muertos, incluso entre los de su propia familia. (135:1.1-2) (135:2.1)
 
-neandertales | (64:4) | | RACE | OK
+neandertales; Neandertal | (64:4) | | RACE | OK
 Los descendientes neandertales de Andón en Europa absorbieron rápidamente a la raza azul invasora. (64:7.9)
 Los adanitas exterminaron sin piedad las cepas neandertales para unirse con tipos superiores de la raza azul, produciendo cromañones superiores. (80:1.7)
 La raza azul se vio muy retrasada por la absorción de los neandertales, pero por lo demás eran los pueblos evolutivos más agresivos, aventureros y exploradores de Eurasia. (78:1.8) (79:5.1)
@@ -373,7 +373,7 @@ Judá cayó bajo el gobierno de Babilonia después de que Necao fuera derrocado 
 
 collares | | ornamentación | | OK
 
-nigromancia | | magia | | OK
+nigromancia; nigromantes | | magia | | OK
 Los nigromantes se contaban entre los practicantes del arte negro clasificado a lo largo del tiempo como brujería o chamanismo. (90:2.2)
 
 aguja | | | | OK
@@ -387,7 +387,7 @@ negativismo | | | | OK
 El mayor error de las religiones modernas es el negativismo, ya que el valor moral surge del crecimiento y de la acción positiva, no de la mera represión. (140:4.7)
 A menudo se educa a los niños en la negatividad, pero su psicología natural es positiva y progresista. (103:2.5-6)
 
-negroides | | razas | RACE | OK
+negroides; negroide | | razas | RACE | OK
 La raza negroide, caracterizada por una mezcla de naranja, verde e índigo, es más frecuente en África, India e Indonesia. (81:4.13)
 
 prójimo | | | | OK
@@ -420,12 +420,12 @@ Los monoteístas en evolución mantienen dioses subordinados como espíritus, de
 neritas | | | RACE | OK
 La última erupción andita de la región del Caspio, las Neritas, marcó el fin del dominio de los descendientes mesopotámicos durante la invasión nómada de 2500 a 2000 a. C. (78:8.11)
 
-red arrojada al mar | | | | OK
+red arrojada al mar; red barredera que fue arrojada al mar | | | | OK
 La «parábola de la red arrojada al mar» ilustra la idea de reunir y separar lo bueno de lo malo en el reino de los cielos. (151:4.6)
 
 el bajo Paraíso | | Paraíso | | OK
 
-neutrón | | átomo; materia | | OK
+neutrones | | átomo; materia | | OK
 La estabilidad atómica depende del número de neutrones en el núcleo, mientras que el comportamiento químico depende de la actividad de los electrones en rotación. (42:7.6)
 Los neutrones y los protones en el núcleo del átomo se mantienen unidos por el mesotrón que se mueve en vaivén, lo que evita que se desintegren debido a la carga eléctrica de los protones. (42:8.3)
 
@@ -434,7 +434,7 @@ mandamiento nuevo | | mandamientos | | OK
 Nueva Guinea | | | PLACE | OK
 El grupo de Nueva Guinea cree en su descendencia del loro y abraza la antigua comprensión de la evolución humana. (74:8.5)
 
-Nueva Jerusalén | | Mesías | | OK
+Nueva Jerusalén; nueva Jerusalén | | Mesías | | OK
 Muchos de los seguidores de Jesús creían que el Mesías aparecería para establecer la Nueva Jerusalén, relacionándola con el fin del mundo y los nuevos cielos y la tierra. (176:1.6)
 Juan el Revelador presenció el descenso de la nueva Jerusalén desde Dios, como culminación de la misión de los Hijos Instructores. (52:7.11)
 
@@ -468,7 +468,7 @@ evangelios, libros y epístolas mencionados en El Libro de Urantia
 	* Primera epístola de Juan | Juan Zebedeo:Primera Epístola
 	* Libro del Apocalipsis | Apocalipsis
 
-cosas nuevas | | | | OK
+cosas nuevas; mundo nuevo; lo que es nuevo | | | | OK
 Las civilizaciones antiguas veían con malos ojos las nuevas prácticas, como la escritura, la imprenta y las imágenes, debido a su naturaleza mágica y maligna. (88:5.4)
 El amor del Maestro crea un mundo nuevo en el antiguo, al compartir su alegría y su servicio. (180:1.5)
 No debemos aceptar cosas nuevas sólo porque sean novedosas, ni debemos despreciarlas simplemente porque sean antiguas. (81:6.39) (147:7.3)
@@ -482,7 +482,7 @@ Terranova es parte de una antigua y primitiva capa de piedra que contiene fósil
 recién casados | | | | OK
 El origen de las bromas que se hacen a los recién casados ​​se remonta a antiguas creencias de evitar la envidia de los espíritus aparentando sentirse miserables e inquietos. (83:4.7)
 
-Cataratas del Niágara | (59:3.9) | | PLACE | OK
+Cataratas del Niágara; Niágara | (59:3.9) | | PLACE | OK
 El sistema de los Grandes Lagos desembocó en las cataratas del Niágara hace 37.000 años, siguiendo un camino desde el valle del Mississippi hasta el valle del Hudson y finalmente hasta el río San Lorenzo. (61:7.10)
 
 Nicea | | | PLACE | OK
@@ -512,7 +512,7 @@ dios del Nilo | | | RELIGION | OK
 El legendario dios del Nilo inspiró los refinados rituales de adoración de Isis y Osiris, superando en sofisticación y significado a los del culto frigio. (98:4.8)
 El dios del Nilo otorga un espíritu protector llamado ka, representado en el nacimiento de Amenhotep III en un templo de Luxor. (111:0.5)
 
-Nilo (valle) | | Egipto | PLACE | OK
+Nilo (valle); valle del Nilo | | Egipto | PLACE | OK
 Abraham y Lot viajaron al valle del Nilo para obtener provisiones de alimentos durante una sequía en Palestina, donde Abraham encontró a un pariente lejano en el trono egipcio y dirigió expediciones militares exitosas antes de vivir en la corte con su esposa, Sara. (93:5.7)
 Los adanitas y los anditas viajaron al valle del Nilo, contribuyendo a la civilización que prosperó y avanzó en las islas mediterráneas y más allá. (78:3.2) (78:5.5) (78:6.8) (79:1.3)
 Los anditas disfrutaron de la posición protegida del valle del Nilo, impulsando la cultura y la artesanía en Egipto. (80:6)
@@ -520,7 +520,7 @@ El apóstol Simón se abrió camino por el valle del Nilo, predicando el evangel
 Las guerras internas en el valle del Nilo terminaron abruptamente con una época brillante de cultura, lo que llevó a la conquista del país por tribus inferiores y a una decadencia del progreso social que duró más de quinientos años. (80:6.5)
 La inmigración sahariana al valle del Nilo por parte de los sirios noditas-andonitas enriqueció la cultura de la región durante miles de años. (80:1.2-3) (80:2.2)
 Los semitas esclavizados en el valle del Nilo soportaron duros trabajos como trabajadores. (96:2.2)
-Los hombres verdes prevalecieron en las luchas de las razas verde y naranja en el valle inferior del Nilo, lo que llevó a la extinción de la raza naranja hace casi cien mil años. (64:6.13)
+Los hombres verdes prevalecieron en las luchas de las razas verde y naranja en el valle inferior del Nilo, lo que llevó a la extinción de la raza anaranjada hace casi cien mil años. (64:6.13)
 El extremo occidental de la cuna de la civilización estaba en el valle del Nilo, donde el clima jugó un factor decisivo en su establecimiento. (81:1.1)
 
 Nínive | | | PLACE | OK
@@ -608,14 +608,14 @@ La decadencia progresiva del nomadismo ha reflejado la evolución de la sociedad
 
 no respiradores | | mortales:tipos planetarios | | OK
 
-inconformistas | | | | OK
+inconformistas; no conformistas | | | | OK
 La civilización impone duras sanciones a los disidentes y a los inconformistas en su esfuerzo por crear un mundo mejor para las generaciones futuras. (81:5.3)
 
 no existencia | | no supervivientes | | OK
 
 no religiosos | | incrédulos | | OK
 
-no resistencia | | lucha; autodefensa | | OK
+no resistencia; no resistentes pasivos | | lucha; autodefensa | | OK
 La acusación de que los ejemplares debilitados pronto perecerían era típica de las dificultades que enfrentó Felipe cuando se enfrentó a los escépticos de su mensaje. (143:1.2)
 La enseñanza de Lao-tse sobre la no resistencia influyó en el pacifismo del pueblo chino. (94:6.4,7)
 La religión verdadera se opone a la violencia y promueve la no violencia como la actitud adecuada, abogando por la evolución pacífica en lugar de la revolución violenta en la adaptación de la sociedad a las nuevas condiciones económicas y culturales, mientras se mantiene alejada de la participación directa en asuntos políticos y económicos. (99:0.2) (99:2.5) (143:1.7)
@@ -634,7 +634,7 @@ Jesús
 	Se negó a defenderse ante la injusticia y el abuso, confiando en su amigo Jacob para que lo protegiera del daño físico. (124:2.4) (133:1.3-5) (140:8.4) (143:1.7) (184:4.5)
 	Para comprender la regla de oro y la no resistencia es necesario vivirlas, encarnando su verdadera esencia a través de la guía del Espíritu de la Verdad. (180:5.11)
 
-no supervivientes | | muerte:muerte espiritual; extinción; juicio; resurrección; llamamiento:de justicia; salvación; supervivencia (de la muerte mortal) | | OK
+no supervivientes; no sobreviviente | | muerte:muerte espiritual; extinción; juicio; resurrección; llamamiento:de justicia; salvación; supervivencia (de la muerte mortal) | | OK
 Si el hombre mortal no logra sobrevivir a la muerte natural, el contenido espiritual de cualquier valor es imperecedero, y el Ajustador sobreviviente conserva aquellas realidades nacidas del amor y nutridas en el servicio. (16:9.3) (47:3.4) (196:3.35)
 Quienes rechazan el viaje eterno se mueven en contra de la corriente de los acontecimientos del universo. (117:4.11)
 Cuando los no sobrevivientes rechazan la vida ascendente y eligen no emprender la aventura de Havona, la muerte hace que sus carreras de prueba terminen, dejándolos como si nunca hubieran existido. (47:2.7)
@@ -674,7 +674,7 @@ Cada cien años, Satania elige a diez miembros de la legislatura de Norlatiadek,
 norte | | | | OK
 El norte es la dirección absoluta establecida por el eje del Paraíso, debido a las diferencias dimensionales y a la mayor presión de fuerza-energía hacia afuera. (11:2.3)
 
-Norteamérica | | Canadá; Méjico; Estados Unidos de Norteamérica | PLACE | OK
+Norteamérica; América del Norte | | Canadá; Méjico; Estados Unidos de Norteamérica | PLACE | OK
 América del Norte se mantuvo como una de las dos extensas y fértiles zonas abiertas de caza durante la apertura de la era andita. (81:6.4)
 La configuración de los continentes y océanos influye fuertemente en la paz o la guerra, ofreciendo a América del Norte una oportunidad única para un desarrollo pacífico y continuo. (81:6.5)
 El futuro de América del Norte depende de la calidad de los factores raciales a los que se les permita entrar en su población. (80:9.16)
@@ -691,10 +691,10 @@ Humanos
 	La raza roja de Norteamérica permaneció aislada de la descendencia andita de Adán y Eva, y se extendió como tribus nómadas que practicaban la agricultura en pequeña escala. (79:5.7-8)
 	El descubrimiento de Norteamérica por las razas blancas alrededor del año 1000 d.C. marcó el primer contacto entre los pueblos indígenas y los europeos, que previamente habían permanecido aislados unos de otros durante milenios. (79:5.7)
 
-Polo Norte | (59:3.7) | | PLACE | OK
+Polo Norte; capas de hielo polares | (59:3.7) | | PLACE | OK
 Las vastas capas de hielo del Polo Norte comenzaron a formarse hace 100.000 años, impidiendo que se produjera otra era glacial. (61:7.11)
 
-mar del Norte | | | PLACE | OK
+mar del Norte; Mar del Norte | | | PLACE | OK
 Los descendientes de Andón y Fonta establecieron asentamientos a lo largo de las cálidas aguas del Mar del Norte antes de que la capa de hielo llegara a Francia y las Islas Británicas. (63:5.2)
 
 auroras boreales | | fenómenos aurorales | | OK
@@ -706,7 +706,7 @@ El clima costero de Noruega varió mucho entre las épocas de inacción glacial 
 nostalgia | | | | OK
 En Salvington, los mortales experimentan nostalgia al encontrarse al borde de su aventura espiritual en el vasto superuniverso de Orvonton, guiados por los Orientadores del Universo. (39:1.10)
 
-números | | 3; 7; 10; 12 | | OK
+números; creencia en los números mágicos | | 3; 7; 10; 12 | | OK
 El viernes ha sido durante mucho tiempo un día de mala suerte, ya que el 13 se considera malo y el 3, el 4 y el 7 son números de la suerte. (88:1.6)
 
 numerología | | | | OK

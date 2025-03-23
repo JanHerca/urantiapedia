@@ -18,7 +18,7 @@ Nabodad, leader of the school at Kish, attempted to eradicate temple harlotry bu
 Nabon | | | PERSON | OK
 Nabon, a Greek Jew and Mithraic high priest, was profoundly impacted by Jesus' teachings and ultimately became an early convert to the gospel of the kingdom. (132:3.1,11)
 
-Naboths | | | PERSON | OK
+Naboths; Naboth | | | PERSON | OK
 Elijah confronted the Yahweh-Baal controversy by turning Ahab's murder of the Naboths into a moral issue and launching a campaign against the Baalites. (97:3.6) (97:9.19)
 
 Nabu | | | RELIGION | OK
@@ -34,7 +34,7 @@ Moses gathered descendants of Abraham, Nahor, and Lot into a self-sustaining nat
 Nahor (rabbi) | | | PERSON | OK
 Nahor, a Jerusalem rabbi, advised Joseph and Mary to allow Jesus to come to Jerusalem for education, but Jesus decided to stay with his parents after consulting with them, a neighbor, and ultimately, his Father in heaven. (123:6.8-9)
 
-nails | | | | OK
+nails; nail | | | | OK
 Thomas would not believe until seeing marks of truth in the nail marks of the risen Master's hands. (191:5.4)
 Jesus was bound and nails used in crucifixion, making his suffering excruciatingly visible and audible. (187:2.1)
 
@@ -51,7 +51,7 @@ She was at Jesus' seventeenth appearance (193:1)
 Nambia | | | PLACE | OK
 Nambia is the first-born Life Carrier of Nebadon, part of the efficient, self-governing corps of one hundred million Life Carriers directed by Gabriel and the Father Melchizedek in the universe of Nebadon. (36:1.2)
 
-names | | | | OK
+names; name | | | | OK
 After fusion, mortals receive their real universe names. (47:8.5) (108:3.3)
 Hereditary kingship and aristocracy were established to prevent anarchy through name ownership. (70:6.3)
 Human subjects are often known by numbers of their Adjusters until receiving real universe names after Adjuster fusion, signaled by the bestowal of the new name by the destiny guardian. (108:3.3)
@@ -116,7 +116,7 @@ attitude
 	Nathaniel opposed proclaiming Jesus king, despite the rising enthusiasm of the people and the support of some of the apostles. (152:2.5)
 	Nathaniel, the apostolic odd genius, balanced serious philosophy with rare, droll humor, never taking himself seriously. (139:6.4,6)
 after Jesus
-	Nathaniel witnessed Jesus' appearances in Galilee after his resurrection, experiencing his teachings and commands firsthand. (191:2.5) (192:1-4) (193:0.3,5)
+	Nathaniel witnessed Jesus' appearances in Galilee after his resurrection, experiencing his teachings and commands firsthand. (191:2) (192:1-4) (193:0.3,5)
 	Nathaniel's father, Bartholomew, died shortly after Pentecost, leading him to travel to Mesopotamia and India to spread the teachings of his Master before his own death in India. (139:6.9)
 	Nathaniel spent one year in Philadelphia with Abner after disagreeing with Peter over preaching about Jesus. (193:6.4)
 	Nathaniel preached the gospel beyond Mesopotamia and India, ultimately dying in India after spreading his Master's teachings. (139:6.9) (193:6.4) (195:3.10)
@@ -127,7 +127,7 @@ Nathaniel the Pharisee invited Jesus to breakfast, but Jesus rebuked the Pharise
 National Council of Defense | | | | OK
 The National Council of Defense, empowered to assess states for money, men, and materials in times of war, operates under strict financial limitations set by the federal government in the main continental nation of a nearby inhabited planet. (72:7.7,14) (72:11.1)
 
-nationalism | | nations; patriotism | | OK
+nationalism; national egotism | | nations; patriotism | | OK
 The age of Planetary Prince culminates in intense nationalism, but racial struggles and tribal wars continue with diminishing frequency and severity. (52:2.5)
 Nationalism's delusion of national sovereignty is the chief barrier to world peace, Urantia's lasting peace hinges on surrendering sovereign powers to mankind government. (134:5.10) (134:6.6-7) (195:8.10)
 National egotism, rooted in the chosen people doctrine, has been essential to social survival; yet, true progress only comes when intolerance is overcome through the integration of science, commerce, play, and religion. (71:3.2)
@@ -145,7 +145,7 @@ The Spirit of Truth, a universal world influence, is designed to unify mankind b
 
 natural events | | circumstances | | OK
 
-natural law | | | | OK
+natural law; laws of nature; natural laws | | | | OK
 Jesus settled on a consistent policy of living according to natural laws, even though his Personalized Adjuster warned that these laws could be greatly accelerated in certain circumstances. (136:6.2) (136:7) (136:9.9)
 Man reaps the harvest of efforts to comply with natural laws. (166:4.8)
 The predictability of physical phenomena decreases as one moves farther from Paradise, encountering forces beyond our understanding despite our grasp of universal laws. (15:8.8-9)
@@ -154,7 +154,7 @@ Sin affects more than just the individual; its consequences ripple across all le
 natural philosophy | (42:9) | | | OK
 Natural philosophy tends to dogmatize, just like religion. (42:9)
 
-natural resources | | | | OK
+natural resources; natural deposits; nature’s hoarded resources | | | | OK
 Natural resources were administered as social possessions, community property. (55:3.7)
 Early wars were fought over natural resources, such as flint, salt, and metals, leading to the first formal tribal treaty focused on a salt deposit, which fostered intertribal communication and unity. (69:4.6)
 All natural wealth on the continent is held as a social trust by the federal government, with income utilized for social purposes, such as old-age pensions and education. (72:6.7) (72:7.13)
@@ -166,10 +166,10 @@ natural rights | | human rights | | OK
 natural selection | | genetics | | OK
 Variety is indispensable to natural selection's wide opportunity for differential survival of superior strains. (64:6.31)
 
-naturalism | | | | OK
+naturalism; naturalistic | | | | OK
 When philosophy leans heavily toward the world of matter, it tends to become rationalistic or naturalistic. (103:6.14)
 
-nature | (4:2) (38:2) | | | OK
+nature; Nature | (4:2) (38:2) | | | OK
 definition
 	Nature, as mortal man understands it, presents the underlying foundation and fundamental background of immutable laws modified by local conditions. (4:2.2-4) (12:7.2)
 	Contemplating nature reveals a God of motion, as it exhibits only matter, motion, and life. (101:2.9)
@@ -220,7 +220,7 @@ Jesus
 	After Jesus warned them, the apostles avoided Nazareth and preached freely on their first public tour of Galilee. (145:5.8) (146:0.2)
 	The degenerate husband of Hildana from Nazareth shamefully forced her into prostitution for financial gain, betraying her and conspiring against Jesus. (162:3.4)
 
-Nazarites | | | RELIGION | OK
+Nazarites; Nazarite brotherhood; Nazarite; Nazarite school | | | RELIGION | OK
 Abner was the former head of the Nazarite school at Engedi (165:0.1)
 The Nazarites in Engedi, ascetic and eccentric, had mixed reactions to Jesus, with many becoming believers but the majority refusing to accept him. (142:8.1)
 The Nazarites, along with other groups, believed in the coming Messiah, but Jesus and his disciples distanced themselves from these beliefs. (137:7.12)
@@ -233,7 +233,7 @@ John, a Nazarite, was allowed to enter the holy of holies in the temple, followi
 John followed in the footsteps of renowned Nazarites Samson and prophet Samuel, revered as sanctified and holy figures by the Jews. (135:1.2)
 At the age of fourteen, John took the formal Nazarite vow, abstaining from intoxicants, growing his hair, and avoiding contact with the dead, even in his own family. (135:1.1-2) (135:2.1)
 
-Neanderthalers | (64:4) | | RACE | OK
+Neanderthalers; Neanderthal | (64:4) | | RACE | OK
 Neanderthal descendants of Andon in Europe quickly absorbed invading blue race. (64:7.9)
 The Adamites ruthlessly exterminated Neanderthal strains to unite with higher types of the blue race, producing superior Cro-Magnons. (80:1.7)
 The blue race was greatly retarded by absorption of Neanderthal, but they were otherwise the most aggressive, adventurous, and exploratory of all evolutionary peoples in Eurasia. (78:1.8) (79:5.1)
@@ -362,7 +362,7 @@ The origin of Urantia is in the force-charge of space in the superuniverse of Or
 The power centers and physical controllers direct the evolution of spiral and other nebulae in the spheres of space, initiated by Paradise force organizers. (41:1.1)
 Superuniverse boundaries never divide a nebular family or cross a local universe in the organized post-Havona creation. (12:1.12)
 
-necessities (economic) | | | | OK
+necessities (economic); necessity | | | | OK
 Early civilization was forged upon the anvils of necessity and fear, as revealed religion slowly functioned to substitute Creator fear for creature fear. (66:5.13)
 Primitive society evolved through cycles of isolation, fear, and reluctant cooperation, founded on the reciprocity of necessity and enhanced safety. (68:1.3)
 Economic necessities tie man up with reality, while personal religious experience brings him face to face with eternal cosmic citizenship. (99:7.5)
@@ -373,7 +373,7 @@ Judah fell under Babylon's rule after Necho was overthrown by Nebuchadnezzar, le
 
 necklaces | | ornamentation | | OK
 
-necromancy | | magic | | OK
+necromancy; necromancers | | magic | | OK
 Necromancers were among the practitioners of the black art classified as witchcraft or shamancraft over time. (90:2.2)
 
 needle | | | | OK
@@ -420,7 +420,7 @@ Evolving monotheists keep subordinate gods as spirits, demons, fates, Nereids, f
 Nerites | | | RACE | OK
 The final Andite eruption from the Caspian region, the Nerites, marked the end of the Mesopotamian descendants' dominance during the nomads' rampage from 2500 to 2000 B.C. (78:8.11)
 
-net cast into sea | | | | OK
+net cast into sea; sweep net which was cast into the sea | | | | OK
 The “parable of net cast into sea” illustrates the idea of gathering and sorting good from bad in the kingdom of heaven. (151:4.6)
 
 nether Paradise | | Paradise | | OK
@@ -434,7 +434,7 @@ new commandment | | commandments | | OK
 New Guinea | | | PLACE | OK
 The New Guinea group believes in their descent from the parrot, embracing the ancient understanding of human evolution. (74:8.5)
 
-New Jerusalem | | Messiah | | OK
+New Jerusalem; new Jerusalem | | Messiah | | OK
 Many of Jesus’ followers believed Messiah would appear to establish the New Jerusalem, connecting it with the end of the world and the new heavens and earth. (176:1.6)
 John the Revelator witnessed the new Jerusalem descending from God, as the culmination of the Teacher Sons' mission. (52:7.11)
 
@@ -468,7 +468,7 @@ gospels, books, and epistles named in The Urantia Book
 	* First Epistle of John | John Zebedee:First Epistle
 	* Book of Revelations | Revelations, Book of
 
-new things | | | | OK
+new things; new world; which is new | | | | OK
 Ancient civilizations viewed new practices such as writing, printing, and pictures with disfavor due to their perceived evil magical nature. (88:5.4)
 The Master's love creates a new world in the old one, through sharing his joy and service. (180:1.5)
 We should not embrace new things solely because they are novel, nor should we despise things simply because they are old. (81:6.39) (147:7.3)
@@ -482,7 +482,7 @@ Newfoundland is part of an ancient and primitive fossil-bearing stone layer that
 newlyweds | | | | OK
 The origin of pranks played upon newlyweds dates back to ancient beliefs in avoiding the envy of spirits by appearing miserable and ill at ease. (83:4.7)
 
-Niagara Falls | (59:3.9) | | PLACE | OK
+Niagara Falls; Niagara | (59:3.9) | | PLACE | OK
 The Great Lakes system emptied through Niagara Falls 37,000 years ago, following a path from the Mississippi valley to the Hudson valley and finally to the St. Lawrence. (61:7.10)
 
 Nicaea | | | PLACE | OK
@@ -512,7 +512,7 @@ Nile god | | | RELIGION | OK
 The legendary Nile god inspired the refined rituals of the worship of Isis and Osiris, surpassing those of the Phrygian cult in sophistication and significance. (98:4.8)
 The Nile god bestows a protecting spirit called the ka, depicted in the birth of Amenhotep III at a temple in Luxor. (111:0.5)
 
-Nile valley | | Egypt | PLACE | OK
+Nile valley; valley of the Nile; Nile | | Egypt | PLACE | OK
 Abraham and Lot journeyed to the Nile valley to obtain food supplies during a drought in Palestine, where Abraham found a distant relative on the Egyptian throne and led successful military expeditions before living at court with his wife, Sarah. (93:5.7)
 Adamites and Andites journeyed to the Nile valley, contributing to the civilization that thrived and advanced in the Mediterranean islands and beyond. (78:3.2) (78:5.5) (78:6.8) (79:1.3)
 Andites enjoyed sheltered position of the Nile valley, advancing culture and craftsmanship in Egypt. (80:6)
@@ -582,7 +582,7 @@ Nodites named in The Urantia Book
 	Annan | Annan
 	Bon | Bon
 	Cano | Cano
-	Dan | Dan (Prince's staff)
+	Dan | Dan (Prince’s staff)
 	Laotta | Laotta
 	Lut | Lut
 	Nod | Nod (Prince’s corporeal staff)
@@ -615,7 +615,7 @@ nonexistence | | nonsurvivors | | OK
 
 nonreligionists | | unbelievers | | OK
 
-nonresistance | | fighting; self-defense | | OK
+nonresistance; passive nonresisters | | fighting; self-defense | | OK
 The accusation that enfeebled specimens would soon perish was typical of the difficulties faced by Philip when confronted by skeptics of their message. (143:1.2)
 Lao-tse's teaching of nonresistance influenced the pacifism of the Chinese people. (94:6.4,7)
 True religion opposes violence and promotes nonviolence as the proper attitude, advocating for peaceful evolution over violent revolution in society's adaptation to new economic and cultural conditions, while staying away from direct involvement in political and economic matters. (99:0.2) (99:2.5) (143:1.7)
@@ -634,7 +634,7 @@ Jesus
 	He refused to defend himself in the face of injustice and abuse, relying on his friend Jacob to protect him from physical harm. (124:2.4) (133:1.3-5) (140:8.4) (143:1.7) (184:4.5)
 	Understanding the golden rule and nonresistance requires living them out, embodying their true essence through the guidance of the Spirit of Truth. (180:5.11)
 
-nonsurvivors | | death:spiritual death; extinction; judgment; resurrection; roll call:of justice; salvation; survival | | OK
+nonsurvivors; nonsurvivor | | death:spiritual death; extinction; judgment; resurrection; roll call:of justice; salvation; survival (of mortal death) | | OK
 If mortal man fails to survive natural death, the spirit content of any value is imperishable, and the surviving Adjuster conserves those realities born of love and nurtured in service. (16:9.3) (47:3.4) (196:3.35)
 Those who reject the eternal journey are moving counter to the stream of universe events. (117:4.11)
 When nonsurvivors reject the ascendant life and choose against the Havona adventure, death results in their probationary careers ending, leaving them as if they had never been. (47:2.7)
@@ -691,7 +691,7 @@ humans
 	The red race in North America remained isolated from the Andite offspring of Adam and Eve, spreading out as nomadic tribes practicing agriculture to a small extent. (79:5.7-8)
 	The discovery of North America by white races around A.D. 1000 marked the first contact between the indigenous peoples and Europeans, who had previously remained isolated from each other for millennia. (79:5.7)
 
-North Pole | (59:3.7) | | PLACE | OK
+North Pole; polar ice sheets | (59:3.7) | | PLACE | OK
 The vast ice sheets at the North Pole began forming 100,000 years ago, preventing another glacial age from occurring. (61:7.11)
 
 North Sea | | | PLACE | OK
@@ -700,7 +700,7 @@ Andon and Fonta's descendants established settlements along warm North Sea water
 northern lights | | auroral displays | | OK
 The Urantia upper air belts, concerned with auroral phenomena, reflect light-energy similar to gases in the Jerusem upper ionosphere. (46:1.6)
 
-Norway | | Scandinavians | PLACE | OK
+Norway; Norwegian | | Scandinavians | PLACE | OK
 Norway's coastwise climate varied greatly between times of glacial inaction and icebergs thundering down Norwegian fiords into the North Sea. (61:5.8)
 
 nostalgia | | | | OK
@@ -709,7 +709,7 @@ On Salvington, mortals experience nostalgia as they stand on the brink of their 
 numbers | | 3; 7; 10; 12 | | OK
 Friday has long been an unlucky day, with 13 considered evil and 3, 4, and 7 as lucky numbers. (88:1.6)
 
-numerology | | | | OK
+numerology; belief in magic numbers | | | | OK
 Belief in magic numbers founded the science of mathematics, leading to a scientific age born from the evolutionary religious tree branch of magic. (88:6.5)
 The belief in magic numbers and omens of good or bad luck is a pure unfounded superstition. (150:3.8)
 

@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-océano Pacífico | | | PLACE | OK
+océano Pacífico; Océano Pacífico | | | PLACE | OK
 Hace aproximadamente 950 millones de años, el Océano Pacífico originalmente no era salado, y servía como una cubierta de agua dulce para el mundo antes de convertirse en la masa de agua más grande del mundo. (57:8.3-5)
 El Océano Pacífico, formado a partir de la condensación de la hidrosfera de la Tierra, cubre 9/10 de la superficie de la Tierra debido a los materiales pesados ​​acumulados de los meteoritos que caen al mar. (57:8.20)
 La geología de las islas del Océano Pacífico revela ricos yacimientos de fósiles de vida marina antigua, incluyendo hermosas amonitas encontradas en todo el mundo. (60:1.12)
@@ -23,7 +23,7 @@ Llevad la carga la segunda milla para desafiar a los injustos. (159:5.15)
 timón | | | | OK
 Jesús ayudó a construir un timón para el barco en Cesarea. (130:2.1,4)
 
-paganismo | | mitraísmo; cultos de misterio | | OK
+paganismo; cultos paganos; pagano | | mitraísmo; cultos de misterio | | OK
 El paganismo combina en sus cultos la mitología helénica y latina con el patriotismo y la tradición (121:5.3)
 Jesús comprendió que el pagano irreflexivo no estaba preparado para recibir la sabiduría y el conocimiento superior que él tenía para ofrecer (132:7.1-2)
 
@@ -56,11 +56,13 @@ Los semitas de Arabia intentaron reclamar la Tierra Prometida, descrita como una
 Los saharauis emigraron a Palestina y Arabia, formando diferentes tribus que se extendieron a diferentes regiones. (80:2.2)
 Durante la época de Jesús, Palestina disfrutó de paz, prosperidad y un comercio extenso debido a su control por parte de los romanos. (121:1.9)
 
-Acantilados del Río Hudson | (60:1.3) | | PLACE | OK
+Acantilados del Río Hudson | | | PLACE | OK
+Los Acantilados del Río Hudson fueron formados por la extrusión de lavas basálticas entre estos estratos triásicos. La actividad volcánica era extensa en diversas partes del mundo. (60:1.3)
 
-Domingo de Ramos; aquel domingo | (172:3) | | | OK
+Domingo de Ramos; aquel domingo | | | | OK
+El Domingo de Ramos conmemora para el cristianismo el día 2 de abril de 30 d.C., cuando Jesús entró en Jerusalén montado en un burro, siendo aclamado por la multitud con palmas y ramos de olivo. (172:3)
 
-palmas | (60:3.7,19) | | | OK
+palmas; ramas de palmera | (60:3.7,19) | | | OK
 Los judíos utilizaban palmas para expresar alegría en la fiesta de Pascua. Cuando Jesús y sus seguidores descendieron del Monte de los Olivos, los visitantes agitaban ramas de palma, expresando alegría y compañerismo tras la llegada inesperada del Maestro. (172:3.11)
 
 Palonia | | | PLACE | OK
@@ -79,7 +81,7 @@ Los leales panoptianos, guardianes del séptimo mundo de transición, cumplen la
 A pesar de la oferta de salvación de Miguel a los rebeldes durante la rebelión de Lucifer, fueron los mortales de Panoptia quienes proclamaron misericordia y vieron a muchos seres rehabilitados en el momento de la resurrección de Jesús. (53:9.1)
 Panoptia se mantuvo leal en medio de la rebelión de Lucifer en todo el sistema, guiada por Ellanora y sirviendo fielmente como guardianes en el séptimo mundo de transición de Jerusem. (53:7.1)
 
-representación panorámica (Jerusem) | | | PLACE | OK
+representación panorámica (Jerusem); archivos panorámicos; exposición panorámica; exposiciones | | | PLACE | OK
 La eliminación del reinado de Caligastia de la exposición panorámica de Jerusem significa el comienzo de la rehabilitación planetaria. (46:8.1) (67:3.10)
 La exposición panorámica de Jerusem, de ocho mil kilómetros estándar de circunferencia, presenta una descripción actualizada del estado de avance de los mundos poblados de Satania, dentro de la historia planetaria del sistema de 56.000 kilómetros de circunferencia. (46:5.23)
 Los intermedios primarios formulan y diseñan representaciones de la historia planetaria para las exposiciones de las sedes centrales del sistema. (38:9.12)
@@ -99,7 +101,7 @@ Las panteras evolucionaron dentro de la tribu de los felinos junto con los grand
 Pafos | | puertos | PLACE | OK
 Jesús pasó por aquí en su viaje por el Mediterráneo (133:7.2)
 
-oraciones de parábola | | | | OK
+oraciones en parábolas | | | | OK
 Jesús enseñó oraciones en parábolas en secreto a sus apóstoles durante su estancia en la tierra. (144:5.1)
 
 parábolas | | Jesús:parábolas de Jesús | | OK
@@ -256,10 +258,10 @@ Origen
 	La existencia eterna del Paraíso sobrepasa la comprensión mortal, exhibiendo belleza divina, esplendor y espíritu inconmensurables. (11:0.2)
 	El Padre Universal, como fuente de la eternidad del Paraíso, es el creador y controlador supremo del universo, abarcando tanto los reinos materiales como los espirituales. (1:2.9) (42:1.1) (56:2.2)
 
-manzana del Paraíso | | | | OK
+manzana del paraíso | | | | OK
 La manzana del paraíso, o cidra, era llevada por los peregrinos durante una ceremonia matutina en el templo, simbolizando el fruto prohibido. (162:4.4)
 
-Los que llegan al Paraíso | | mortales ascendentes | | OK
+Los que llegan al Paraíso; los que llegan al Paraíso | | mortales ascendentes | | OK
 Los mortales ascendentes con estatus de residentes en el Paraíso son incorporados al Cuerpo Mortal de la Finalidad, lo que significa que han encontrado a Dios y comienzan un curso en la divinidad y la absonidad. (30:4.31-33)
 Al llegar al Paraíso, emprenden el estudio de la divinidad y la absonidad, lo que significa su residencia e iniciación en el Cuerpo Mortal de la Finalidad. (30:4.31)
 Las emociones de adoración de las llegadas al Paraíso asombran a los ángeles con el abrumador desbordamiento de emociones espirituales que sobrepasan los tiempos y lugares preparados para la adoración en la Isla eterna. (27:7.6)
@@ -405,7 +407,7 @@ tipos
 
 Fuente y Centro del Paraíso | | Padre Universal | PERSON | OK
 
-La Trinidad del Paraíso | (10) (104) (0:12.1-5) | | PERSON | OK
+La Trinidad del Paraíso; Trinidad del Paraíso | (10) (104) (0:12.1-5) | | PERSON | OK
 Creencias sobre la Trinidad del Paraíso
 	La revelación de la Trinidad del Paraíso, primero por Caligastia, Adán y Eva, luego por Melquisedek y finalmente por Jesús, se desarrolló gradualmente a lo largo de milenios, conduciendo a una comprensión más profunda de la triple naturaleza de Dios. (104:1.1-3) (161:1.6)
 	La enseñanza de Lao-tse sobre el Tao como la Primera Causa Única se alinea directamente con los conceptos de las tradiciones de Salem, enfatizando la unión eterna con la Trinidad del Paraíso. (94:6.3)
@@ -460,13 +462,13 @@ La infinitud es la paradoja suprema, que cierra la brecha entre la unidad y la d
 Las mediciones simultáneas de la ubicación y la velocidad implican inevitablemente cambios entre sí, lo que crea una paradoja similar al análisis del protoplasma muerto frente al protoplasma vivo. (65:6.1)
 La paradoja humana de ser parte de la naturaleza y, sin embargo, poder trascenderla engendra incertidumbre, ansiedad y el potencial para el pecado. (111:6)
 
-parálisis | | | | OK
+parálisis; paralizante | | | | OK
 Los primitivos estaban paralizados por el temor omnipresente a la mala suerte, lo que los llevaba a cuestionar el valor del trabajo duro y resaltaba la tendencia a pasar por alto la buena suerte. (86:1.3)
 
-paralítico en Betsaida | | | PERSON | OK
+paralítico en Betsaida; paralítico | | | PERSON | OK
 Un paralítico de Betsaida buscó la curación de Jesús con fe y determinación inquebrantables. (148:9)
 
-paranoicos | | | | OK
+paranoicos; paranoica | | | | OK
 Algunos de los primeros sacerdotes fueron considerados paranoicos debido a anomalías mentales y físicas vinculadas con la posesión espiritual y demoníaca, lo que inspiró creencias antiguas. (90:1.2)
 
 pergamino; trozo de pergamino | | | | OK
@@ -476,7 +478,7 @@ comisión parental | | | | OK
 Doce padres recién llegados prestan servicios en la comisión rotatoria de padres, que evalúa las calificaciones de los supervivientes en el primer mundo de estancia. (47:1.4)
 Todos los supervivientes deben cumplir los requisitos de la comisión de padres. (47:1.4,6)
 
-padres y madres | | crianza de los hijos; niños; familia; padres; madres | | OK
+padres y madres; padres | | crianza de los hijos; niños; familia; padres; madres | | OK
 Los padres inteligentes y cariñosos nunca tienen que perdonar a sus hijos normales y corrientes, gracias a que comprenden las relaciones asociadas con el amor. (174:1.2)
 A los hijos se les manda honrar a sus padres compartiendo bienes si es necesario, sin valerse de la tradición para invalidar el mandamiento. (131:2.12) (153:3.3) (163:2.4)
 La vida familiar inculca verdadera moralidad y lealtad, estabiliza la personalidad y fomenta el crecimiento mediante los ajustes necesarios, al tiempo que revela el amor del Creador tanto a los padres como a los hijos. (84:7.30)
@@ -493,7 +495,7 @@ La apreciación finita de las cualidades infinitas del hombre mortal, hecho a im
 En los estados avanzados, los padres son debidamente recompensados ​​por la excelencia de sus hijos. (71:3.12)
 El altruismo es inherente al amor paternal, ya que Dios se revela como el Padre de cada ser humano, trascendiendo el concepto mortal de Dios iluminado por Jesús. (2:6.4) (16:9.7)
 
-loros | | | | OK
+loros; loro | | | | OK
 La tribu de Nueva Guinea enseña que desciende de animales, incluido el loro, lo que refleja antiguas creencias sobre la lenta evolución de la humanidad. (74:8.5)
 
 parsis | | | RELIGION | OK
@@ -511,7 +513,7 @@ asociación; se asocia | | grupos; matrimonio | | OK
 La asociación cuadriplica las posibilidades de realización al mejorar los potenciales personales intelectual, social y espiritualmente. (43:8.11)
 Cuando el hombre mortal se fusiona con un fragmento real de la Causa existencial del cosmos total, nunca se puede poner límite al destino de una asociación tan inimaginable y sin precedentes con Dios. (107:4.7) (118:5.2) (132:7.9)
 
-partes y el todo | (12:7) (12:9.3) (131:8.4) | grupos; el individuo | | OK
+partes y el todo; la parte y del todo; una parte del todo; todas las partes y ese todo; suma de dos o más cosas | (12:7) (12:9.3) (131:8.4) | grupos; el individuo | | OK
 El progreso del todo depende de la evolución de sus partes, y así como sucede con las partes, sucede con el todo. (12:7.11) (116:6.6)
 El crecimiento evolutivo tanto de las partes como del todo está guiado por el mismo propósito divino hacia la unidad y completitud definitivas en la asociación con la Trinidad. (116:6.6)
 El bienestar de todas las criaturas planetarias en las que mora el espíritu de Dios, esparcidas por todos los universos, es intencional, sabio y considerado con el mayor bien para todos, desde los más bajos hasta los más altos. (3:2.8)
@@ -527,14 +529,14 @@ La individualidad, ya sea material, morontial o espiritual, es una realidad cós
 La personalidad de cada ser humano, aunque comparativamente irrelevante para la aparición final del Todo Supremo, representa un valor de significado irreemplazable en lo finito, ya que el todo depende de los actos totales de las múltiples partes. (117:4.5)
 La suma de las partes en las matemáticas y en la ciencia material puede no reflejar siempre el todo, como se vio en la creación imprevista de agua líquida a partir de átomos de hidrógeno y oxígeno gaseosos. (12:9.3)
 
-aves pasajeras | | | | OK
+aves pasajeras; aves de pasajeros | | | | OK
 El hombre evolutivo primitivo, habitantes de planetas a veces invadidos por animales más grandes, hacen un uso extensivo de aves pasajeras inteligentes, cariñosas y obedientes capaces de volar sin parar más de quinientas millas y decir muchas palabras. (52:1.5)
 Bon entrenó con éxito a los fandores como aves pasajeras antes de su extinción hace 30.000 años, lo que marcó el fin de una era en la que se utilizaban palomas mensajeras para la mensajería a larga distancia. (66:5.6)
 El hombre evolutivo primitivo domesticó y utilizó aves pasajeras inteligentes, obedientes y cariñosas que podían llevar a dos hombres volando sin parar durante 500 millas. (52:1.5)
 Adán y Eva inspeccionaron el Jardín del Edén desde grandes aves pasajeras, los fandores, en su tercer día en la Tierra, antes de ser llevados al templo por los seres intermedios. (74:3.4) (74:4.4)
 Hace 45 millones de años, un ave parecida al avestruz fue antecesora de las gigantescas aves pasajeras que transportaban a los seres humanos por el aire. (61:1.9)
 
-pasividad | | indolencia; iniciativa | | OK
+pasividad; pasiva | | indolencia; iniciativa | | OK
 Los discípulos de Jesús, equipados con armas espirituales, están llamados a conquistar el mundo con perdón infalible, buena voluntad incomparable y amor abundante, nunca pasivos sino siempre activos y positivos en su ministerio de misericordia y amor. (194:3.11)
 La rectitud no proviene de actitudes pasivas, sino de vencer activamente el mal con el bien. (159:5.9-15)
 
@@ -601,7 +603,7 @@ El apóstol Andrés fue finalmente aprehendido y crucificado en Patras, Acaya, d
 
 patriarcado | | familia:familias patriarcales | | OK
 
-patriotismo | | nacionalismo | | OK
+patriotismo; cuestiones patrióticas | | nacionalismo | | OK
 Ninguna civilización nacional perdura mucho tiempo sin un alto tipo de patriotismo inteligente y devoción nacional. (81:6.35)
 Tratar con asuntos patrióticos, complicados por los opresores extranjeros que recaudaban impuestos, fue una cuestión difícil para el joven Jesús y sigue siendo un desafío para los líderes espirituales. (127:2.6)
 El colapso del patriotismo romano formal y sin emociones era inevitable, en paralelo con la decadencia del culto intelectual griego antes del surgimiento de cultos misteriosos fervientes y profundamente emocionales como la secta de la Madre de Dios. (98:3.5)
@@ -609,7 +611,7 @@ Los arrebatos imprudentes de Judas causaron enfrentamientos con las autoridades 
 La lealtad humana, una vez movilizada, obstaculiza la evolución de la soberanía política desde la familia a toda la humanidad, como lo evidencia la resistencia exhibida en todos los niveles intermedios. (134:5.8)
 Simón el Zelote siguió siendo un ardiente nacionalista judío a pesar de los esfuerzos del Maestro por convertirlo en un internacionalista. (139:11.9)
 
-modelo | | | | OK
+modelo; arquetipo | | | | OK
 El patrón, como una configuración de energía que ha pagado toda la deuda de gravedad y no responde a la gravedad, puede impregnar personalidades, identidades, entidades o materia no viviente, pero sigue siendo un patrón y sólo crea copias. (0:6.10-13) (36:6.6)
 La Deidad siempre debe proporcionar el universo patrón para que la conciencia mortal progrese desde el hecho al significado y al valor. (118:5.3)
 El patrón revela los aspectos individuales de la energía y la personalidad, distintos del aspecto total. (0:6.12)
@@ -735,7 +737,7 @@ la paz mundial
 pacificadores | | | | OK
 Los pacificadores, que crean paz personal, social y política, serán llamados hijos de Dios. (140:3.10) (140:5.18)
 
-perla de gran precio | | | | OK
+perla de gran precio; una perla de gran valor | | | | OK
 El precio de permanecer en el reino es renunciar a todo a cambio de la perla de gran valor. (140:8.28)
 La parábola de la perla de gran precio enseña el valor de sacrificarlo todo por el reino de los cielos. (151:4.5)
 
@@ -743,12 +745,14 @@ perlas | | | | OK
 El Recuerdo de la Misericordia debe mostrar que la misericordia no debe ser impuesta a quienes la desprecian, porque la misericordia no es un don que los rebeldes persistentes del tiempo puedan pisotear, ni ofrecer lo que es sagrado a los perros, ni arrojar vuestras perlas delante de los cerdos. (28:6.7) (140:3.18) (186:2.2)
 El primer collar que usó el hombre, engastado con perlas, fue hecho con un cordón umbilical preservado. (88:1.8)
 
-nautilo | | | | OK
+nautilo; nautilos | | | | OK
 El nautilus nacarado moderno es descendiente de los cefalópodos. (59:2.11)
 
-turba | (59:5.16) | | | OK
+turba | | | | OK
+La turba, restos del crecimiento vegetal del pasado, podría potencialmente convertirse en carbón mediante suficiente presión y calor. (59:5.16)
 
-pecaríes | (61:2.9) | | | OK
+pecaríes | | | | OK
+Los pecaríes, descendientes de una pequeña criatura parecida a un cerdo, evolucionaron junto con otras especies en América del Norte y Europa durante tiempos prehistóricos. (61:2.9)
 
 Pella | (169) (128:3.2) (141:1.2) (144:8) (163:5) (165:3) (167:0.1) (171:1) (186:3.2-3) | | PLACE | OK
 La llegada de Juan el Bautista a Pella señaló un momento significativo en el camino de Jesús hacia el bautismo. (134:9.8)
@@ -761,7 +765,8 @@ Isador escribió el Evangelio de Mateo en Pella después de escapar de Jerusalé
 penitencia | | arrepentimiento | | OK
 El autocontrol, una inestimable ganancia social de la religión evolutiva primitiva, se ejemplifica en la penitencia como la forma negativa del ritual de renuncia. (89:3.3)
 
-Pensilvania | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE | OK
+Pensilvania | | | PLACE | OK
+Desde Pensilvania hasta Canadá, los yacimientos de carbón revelan una historia geológica antigua, con capas que indican movimientos de tierra y fósiles que apuntan a entornos pasados. (58:7.4) (59:5.17) (61:7.2,9)
 
 pensiones | | jubilación | | OK
 
@@ -770,7 +775,7 @@ Los apóstoles exhibieron una entrega inteligente y una consagración en Penteco
 El escenario de la mente humana está preparado para la recepción de los Ajustadores, otorgados universalmente a todas las mentes normales de condición moral en Urantia desde el día de Pentecostés, cuando el Espíritu de la Verdad está presente como coordinador espiritual. (108:2.3) (146:3.6)
 El día de Pentecostés, todos los seres intermedios rebeldes fueron internados, impidiendo para siempre la posesión demoníaca. (77:7.2,8)
 La esencia de Pentecostés, la dádiva del Espíritu de la Verdad, ha sido eclipsada por manifestaciones emocionales equivocadas. (194:3.1)
-Pentecostés eliminó toda discriminación religiosa, liberando a las mujeres de la desigualdad en la posición espiritual y aboliendo las distinciones basadas en la raza, la cultura, la casta y el género. (194:3.14-15) (194:4.15)
+Pentecostés eliminó toda discriminación religiosa, liberando a las mujeres de la desigualdad en la posición espiritual y aboliendo las distinciones basadas en la raza, la cultura, la casta y el género. (194:3.14-15) (194:3.5)
 Andrés y Pedro, distintos en carácter y temperamento, trabajaron juntos espléndidamente, añadiendo 2000 almas al reino en Pentecostés. (139:1.6)
 En Pentecostés, los intermedios primarios y secundarios se unieron en una unión voluntaria, funcionando como una unidad en los asuntos mundiales bajo un liderazgo alternado. (51:3.8)
 El Espíritu de la Verdad hizo imposible la posesión demoníaca después del día de Pentecostés. (141:4.8) (145:2.13) (153:4.1) (163:6.2)
@@ -802,7 +807,7 @@ Tipos
 	Los fundamentos del destino espiritual dependen de la fe, el amor y el deseo de ser como Dios. (156:5.7)
 	El Hijo Eterno y el Padre están en eterna unión para el éxito del plan divino para la creación, evolución, ascensión y perfección de las criaturas volitivas. (7:4) (48:8.1)
 	Se les proporciona toda facilidad y todo poder para asegurar su logro final de la perfección divina en la familia de la filiación divina. (40:10.14)
-	La invitación-mandato supremo del Padre es ser perfecto, tal como Él es perfecto en el Paraíso. (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:2.16) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
+	La invitación-mandato supremo del Padre es ser perfecto, tal como Él es perfecto en el Paraíso. (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
 	Imitar a Dios es la clave para la perfección, la supervivencia y el servicio en la eternidad al elegir hacer la voluntad del Padre. (111:5.2) (1:3.6) (111:5.4)
 	La perfección no se alcanza mediante la ociosidad, sino mediante la acción decidida e inteligente al servicio de la creación. (117:4.7)
 	En el tercer circuito de Havona, las criaturas del tiempo y la personalidad material han ascendido a la perfección, lo que demuestra la viabilidad del plan de ascensión y la rectitud del mandato de ser perfectos. (26:9.3-4)
@@ -855,7 +860,7 @@ servicio
 
 perfume | | ungüento | | OK
 
-tabla periódica | | elementos (químicos) | | OK
+tabla periódica; caracterización periódica; tabla química | | elementos (químicos) | | OK
 La tabla periódica muestra un patrón recurrente de propiedades en grupos de siete, lo que refleja una conexión con el sistema espiritual y la energía ancestral del mundo material. (42:9.2-3)
 
 bígaros | | | | OK
@@ -876,7 +881,7 @@ Perpetua cocinó para los apóstoles mientras su madre, llamada Amatha, estaba e
 Perpetua, la hábil esposa de Pedro, trabajó fielmente junto a él, pero tuvo un final trágico cuando fue arrojada como alimento a las fieras en la arena de Roma. (139:2.14) (163:7.3)
 Perpetua, líder del cuerpo femenino ampliado, atendió sin temor a los enfermos y afligidos junto con sus compañeras en Perea, apoyando fielmente los esfuerzos misioneros de su esposo Simón Pedro hasta su martirio en la arena romana. (163:7.3)
 
-persecucion | | | | OK
+persecución; perseguidos; persecuciones | | | | OK
 No os preocupéis por lo que diréis en tiempos de persecución, porque el espíritu de mi Padre hablará a través de vosotros. (140:9.3) (176:1.1)
 La persecución inicial de los cristianos en Roma se debió en gran medida al uso que hacían del término «reino», que los romanos consideraban una amenaza política. (195:2.2)
 Los saduceos intentaron ridiculizar a Jesús en público, pero sus acciones sólo sirvieron para crear más simpatía por él entre la multitud. (174:3.5)
@@ -895,7 +900,7 @@ perseverancia | | persistencia | | OK
 
 Persia | | Irán; persas | PLACE | OK
 
-golfo Pérsico | | | PLACE | OK
+golfo Pérsico; Golfo Pérsico | | | PLACE | OK
 La navegación dravidiana se extendió por la costa hasta las ciudades sumerias del golfo Pérsico, donde se importó un alfabeto y el arte de la escritura. (79:3.7)
 El comité ausente que se ocupó de la ubicación propuso una isla en el golfo Pérsico como posible ubicación del Jardín del Edén. (73:3.1)
 Ur prosperó mucho en el golfo Pérsico durante las inundaciones, y con el tiempo se convirtió en el centro de la industria de la cerámica. (78:8.2)
@@ -905,16 +910,16 @@ persas | | Irán | RACE | OK
 Los persas liberaron a los judíos de Babilonia, pero éstos volvieron a caer en la esclavitud bajo sus propias leyes y rituales sacerdotales (97:10.2)
 El concepto de dioses en tríada apareció en la religión mucho antes de la revelación de la Trinidad del Paraíso, y prevaleció entre varias civilizaciones, entre ellas los persas, los hindúes, los griegos, los egipcios, los babilonios, los romanos y los escandinavos (104:0.3)
 
-persistencia | | | | OK
+perseverancia; insistencia | | | | OK
 El logro se basa en la perseverancia, de acuerdo con el plan del Padre para el progreso finito y el desarrollo de la personalidad. (115:7.2)
-Orad siempre con persistencia, buscando sabiduría y discernimiento en vuestras peticiones, sin desanimaros nunca en el proceso. (144:2.4)
+Orad siempre con perseverancia, buscando sabiduría y discernimiento en vuestras peticiones, sin desanimaros nunca en el proceso. (144:2.4)
 Los creyentes persisten en hacer el bien, sin dejarse intimidar por los obstáculos que desafían los esfuerzos de edificar el reino. (156:5.21)
-La persistencia frente a los males de la inacción es la clave para liberar el verdadero potencial de uno y encontrar la manera de escapar del dolor y la derrota personales. (130:6.3)
+La perseverancia frente a los males de la inacción es la clave para liberar el verdadero potencial de uno y encontrar la manera de escapar del dolor y la derrota personales. (130:6.3)
 Debéis haber agotado con ahínco la capacidad humana de adaptación. (91:9.3)
 Jesús persistió en reiterar su mensaje para liberar a sus apóstoles de la idea de ofrecer sacrificios animales por deber religioso, sin cansarse nunca de su enseñanza. (141:4.3)
-Lamentamos la pérdida de la magnífica persistencia del hombre primitivo, un rasgo que bordeaba la grandeza y la sublimidad. (64:7.20)
-La persistencia en la búsqueda de la voluntad del Padre, como la parábola de los panes, conduce a recibir el pan de vida de las manos voluntarias del Padre en el cielo. (144:2.3)
-Persistan en la oración, porque su persistencia no es para ganar el favor de Dios, sino para cambiar su actitud terrenal y ampliar la capacidad de su alma para la receptividad espiritual. (144:2.5)
+Lamentamos la pérdida de la magnífica perseverancia del hombre primitivo, un rasgo que bordeaba la grandeza y la sublimidad. (64:7.20)
+La perseverancia en la búsqueda de la voluntad del Padre, como la parábola de los panes, conduce a recibir el pan de vida de las manos voluntarias del Padre en el cielo. (144:2.3)
+Persistan en la oración, porque su perseverancia no es para ganar el favor de Dios, sino para cambiar su actitud terrenal y ampliar la capacidad de su alma para la receptividad espiritual. (144:2.5)
 Para validar las oraciones, posean resistencia cósmica y enfrenten sinceramente la realidad del universo. (91:9.2)
 
 Ayudantes Personales del Espíritu Infinito | (24:3) | | ORDER | OK
@@ -1078,7 +1083,7 @@ Fuente de la personalidad
 	Con la acción del Padre sobre las semillas de la existencia potencial, nace la personalidad de la criatura y los seres son atraídos hacia el Paraíso por la presencia de las Deidades del Paraíso. (8:1.6)
 	Las personalidades de la Tercera Fuente, personales del Espíritu Infinito, pero ajenas al circuito del Padre, abarcan una diversa gama de seres en el gran universo, cada uno dotado de capacidades y atributos únicos. (9:8.6-12)
 
-circuito de personalidad | | personalidad | | OK
+circuito de personalidad; circuito de la personalidad | | personalidad | | OK
 Los hijos de Dios nacidos del espíritu tienen acceso al seno del Padre a través del circuito de la personalidad. (5:2.2)
 Toda personalidad está centrada en el Padre, transmitiendo adoración a la Personalidad Original y Eterna. (5:6.11) (11:1.4)
 El circuito de la personalidad envía adoración al Padre a través de la presencia del Espíritu y los canales directos de los Ajustadores. (5:3.2) (5:6.11)
@@ -1090,7 +1095,7 @@ La Gravedad de la Personalidad no se puede calcular, ya que reconocemos la exist
 La personalidad responde al circuito exclusivo del Padre, mientras que el espíritu responde al circuito del Hijo, y la mente responde al circuito del Actor Conjunto. (0:6.1) (9:8.8) (12:3.1) (16:8.19) (16:9.14) (30:1.113) (112:0.8)
 Las personalidades de la Tercera Fuente están representadas en el gran universo por una variedad de seres que no están en el circuito de personalidades del Padre. (9:8.6-12)
 
-Ajustadores personalizados | (40:4) (109:6-7) (109:7) | Ajustador del Pensamiento de Jesús; Ajustadores del pensamiento | ORDER | OK
+Ajustadores personalizados; Ajustadores Personalizados | (40:4) (109:6-7) (109:7) | Ajustador del Pensamiento de Jesús; Ajustadores del pensamiento | ORDER | OK
 Tres Ajustadores Personalizados certifican un plan para cada ser humano en Urantia, como parte de sus carreras modelo y vidas ideales predeterminadas y preordenadas. (109:7.7) (110:2.1)
 Tras la donación de un Hijo Paradisiaco, los Ajustadores Personalizados son asignados a mundos como supervisores planetarios de los Ajustadores del Pensamiento. (108:3.4)
 Los Ajustadores personalizados, jefes exaltados de su clase, supervisan la administración y el envío de los Monitores Misteriosos a los reinos habitados. (20:4.3)
@@ -1141,7 +1146,7 @@ Los valores y los hechos deben permanecer en la perspectiva adecuada en la relig
 La inmensidad del plan de Dios hace imposible ver mucho en una vida, pero toda nuestra lucha mortal es parte de un proyecto inmenso y eterno supervisado por la Primera Gran Fuente y Centro. (32:5.1-2)
 Miren más allá de la incertidumbre mortal hacia la justicia eterna que brilla a través de las nubes de la oportunidad. (108:6.8)
 
-transpiración | | | | OK
+transpiración; grandes gotas de sudor | | | | OK
 Mientras Jesús se despedía de sus apóstoles y afrontaba una gran angustia, el sudor corría por su rostro en grandes gotas, aceptando que los acontecimientos naturales siguieran su curso. (182:3.7)
 
 persuasión | | | | OK
@@ -1247,7 +1252,7 @@ vida
 	Preocupado de que Jesús le pidiera que alimentara a la multitud en Jerusalén, Felipe se sintió inquieto por lo repentino y espontaneidad del estallido, pero encontró alivio cuando Jesús se alejó de las multitudes. (172:5.6)
 	Jesús dio solemnes advertencias a Felipe, instándolo a permanecer firme, leal y obediente a su llamado como fiel embajador del reino. (174:0.2) (181:2.20) (192:2.11)
 	Jesús le dijo a Felipe que no se ocupara más del dinero ni de los bienes; Id y proclamad el evangelio del reino a los gentiles. (181:2.20) (192:2.11)
-	Felipe fue obediente al ir a las tierras de los gentiles a proclamar el evangelio, mostrando su amor a Jesús a través de sus acciones. (191:2.5) (192:1-4) (193:0.3,5)
+	Felipe fue obediente al ir a las tierras de los gentiles a proclamar el evangelio, mostrando su amor a Jesús a través de sus acciones. (192:1-4) (193:0.3,5)
 	Felipe, entre los 120 presentes en Pentecostés, habló en varios idiomas durante el apasionado llamamiento que conquistó a miles de almas. (194:1.2)
 después de Jesús
 	Felipe, a quien se le pidió que predicara a los gentiles, obedeció el mandato del Maestro de proclamar el evangelio del reino a los que estaban en tinieblas. (192:2.11)
@@ -1282,7 +1287,7 @@ Los hebreos aprendieron el alfabeto de los filisteos, lo que llevó a un retraso
 David construyó un reino divino al derrotar a los filisteos y asumir la recaudación de aranceles para las caravanas. (97:9.11-15)
 Los hebreos aprendieron el alfabeto de los refugiados políticos filisteos de Creta, lo que dio lugar a que circularan diversas historias de la creación antes de recurrir a la versión mesopotámica después del cautiverio babilónico. (74:8.9)
 
-Filón de Alejandría | | | PERSON | OK
+Filón de Alejandría; Filón | | | PERSON | OK
 Filón de Alejandría, un judío rico, restauró el concepto de la Trinidad y posiblemente vislumbró a los Ajustadores del Pensamiento; sus enseñanzas sobre la doctrina de la expiación influyeron en Pablo, pero finalmente fueron eliminadas debido a inconsistencias en la combinación de la teología griega, romana y hebrea. (121:6.5-6)
 Filón de Alejandría poseía una copia del Libro de la Sabiduría, que incorporaba las enseñanzas de que las riquezas terrenales son fugaces, se debe evitar el temor y uno debe concentrarse en los actos de Dios por sobre las palabras de los hombres. (95:4.3)
 En varias regiones, incluso entre los maestros judíos más antiguos, Platón, Filón de Alejandría y los esenios, había una creencia tolerada en la reencarnación. (164:3.4)
@@ -1293,13 +1298,13 @@ logros
 	Filón de Alejandría mitigó las objeciones romanas al judaísmo, allanando el camino para la aceptación del concepto cristiano de un solo Dios. (195:2.9)
 	Filón de Alejandría influyó profundamente en el pensamiento religioso, armonizando la filosofía griega y la teología hebrea en un sistema coherente que más tarde utilizó Pablo para la fundación del cristianismo. (121:6.3-6) (121:7.7) (170:5.3,16)
 
-filósofo en Éfeso | | | PERSON | OK
+filósofo en Éfeso; griego erudito | | | PERSON | OK
 El filósofo de Éfeso mantuvo provechosas discusiones con Jesús acerca del concepto del alma, definiéndola como la parte del hombre autorreflexiva, que discierne la verdad y percibe el espíritu, y que eleva a los humanos por encima del mundo animal. (133:6.4-7)
 
 piedra filosofal | | | | OK
 La croyance en la pierre philosophale a conduit à la maîtrise des métaux, une pierre angulaire du progrès scientifique enracinée dans la mythologie antique. (88:6.5)
 
-filosofía | (103:6-9) | maestros de la filosofía; ciencia, filosofía y religión | | OK
+filosofía | (103:6-9) | Maestros de Filosofía; ciencia, filosofía y religión | | OK
 Filosofía y religión
 	La diferencia entre una filosofía de vida religiosa y una no religiosa reside en la naturaleza y el nivel de los valores reconocidos y el objeto de la lealtad. (101:7.4) (103:1.5) | teología
 	La religión evolutiva dio origen a la ciencia, el arte y la filosofía que elevaron al hombre a un estado capaz de recibir la religión revelada, incluyendo el don de los Ajustadores y la llegada del Espíritu de la Verdad. La existencia humana comienza y concluye con diversas religiones, lo que la convierte en un aspecto natural, pero no obligatorio, de la humanidad. (5:5.5)
@@ -1339,7 +1344,7 @@ Fortalezas
 	La sabiduría en la filosofía coordina la conciencia hacia la percepción de la verdadera realidad y la creencia en la supervivencia personal. (102:3.5)
 
 fenicios | (133:6.2) | | RACE | OK
-Los apóstoles ganaron almas entre los gentiles de Fenicia, muy animados por la cálida recepción que éstos tuvieron de las enseñanzas de Jesús. (155:4.6) (156:2.3)
+Los apóstoles ganaron almas entre los gentiles de Fenicia, muy animados por la cálida recepción que éstos tuvieron de las enseñanzas de Jesús. (155:4.1-2) (156:2.3)
 Beth-Marion, una mujer fenicia, se volvió tan fanática que casi se ahogó al tratar de caminar sobre el agua y sus amigos la echaron de allí. (148:8.4)
 Los fenicios creían que las serpientes eran portavoces de los espíritus malignos, lo que llevó a la reverencia de los reptiles en varias culturas. (88:1.5)
 Los fenicios emplearon la crucifixión como castigo, un método que más tarde adoptaron los griegos y los romanos, pero que no se usó con los ciudadanos romanos. (187:1.5)
@@ -1352,7 +1357,7 @@ Los fenicios consideraban sagrados a los cerdos, mientras que los hindúes vener
 fotógrafos | | | ORDER | OK
 Los registradores morontiales son como fotógrafos de grupo de mundos en transición, que preservan escenas y asociaciones vitales para las generaciones futuras. (44:4.12)
 
-cultos de misterio frigios | | | RELIGION | OK
+cultos de misterio frigios; culto frigio; ceremonias frigias | | | RELIGION | OK
 El culto frigio de Cibeles y Atis celebraba ceremonias imponentes pero degradantes, que culminaban en el sangriento festival del Viernes Negro para honrar la muerte y resurrección de Atis. (98:4.3,7)
 
 phyla | | | | OK
@@ -1372,7 +1377,7 @@ materia física | | materia | | OK
 
 naturaleza física | | carne | | OK
 
-médicos | | enfermedad; lesión; medicamento | | OK
+médicos | | enfermedad; lesión; medicina | | OK
 Elman, el médico sirio, supervisó el hospital de Betsaida durante cuatro meses, tratando a los enfermos con métodos materiales y prácticas espirituales, y Jesús los visitaba tres veces por semana. (148:0.1) (148:2)
 Lucas, el gentil converso de Pablo, escribió un evangelio diferente sobre la vida de Jesús, retratándolo como «el amigo de publicanos y pecadores». (121:8.8)
 Los médicos deben abstenerse de despreciar los medios materiales de curación y considerar métodos alternativos para curar las enfermedades humanas. (164:3.15)
@@ -1391,7 +1396,7 @@ pichones; palomas jóvenes | | | | OK
 Las palomas son descendientes de enormes reptiles antiguos, lo que hace que su evolución sea un salto significativo en la historia prehumana. (65:2.9)
 El temor de José a buscar trabajo hizo que sus pequeños ahorros desaparecieran rápidamente, lo que lo impulsó a ofrecer dos palomas para el sacrificio del templo. (122:10.2)
 
-pico Pikes | | | PLACE | OK
+pico Pikes; Pikes | | | PLACE | OK
 Pikes Peak es un símbolo perdurable del paisaje en constante cambio de las Montañas Rocosas de América del Norte. (60:4.4)
 
 Pilato (Poncio) | | Poncio Pilato | PERSON | OK
@@ -1406,7 +1411,7 @@ Los ayudantes de los peregrinos en el séptimo circuito de Havona sirven a los m
 Receptores de los Peregrinos y los Asociadores Libres | | | ORDER | OK
 Los Receptores de los Peregrinos y los Asociadores Libres son los compañeros sociales de los recién llegados a los mundos de estancia, los saludan al despertar y los acompañan durante todo su viaje en la vida morontial. (48:3.8-9)
 
-peregrinaciones | | | | OK
+peregrinaciones; peregrinajes | | | | OK
 La realización de peregrinaciones a santuarios sagrados es un ritual antiguo que ha evolucionado hasta convertirse en tipos modernos de culto religioso. (90:5.3)
 
 piloto | | | | OK
@@ -1433,12 +1438,12 @@ Lucas, el médico de Antioquía de Pisidia, escribió el Evangelio en el año 82
 experimento de Pitcairn | | | | OK
 La exitosa mezcla de razas blancas y polinesias en el experimento de Pitcairn demostró el potencial para crear características nuevas y biológicamente efectivas. (82:6.9)
 
-glándulas pituitarias | | hormonas | | OK
+glándulas pituitarias; cuerpos pituitarios | | hormonas | | OK
 La imaginación y la receptividad espiritual están influidas por la organización de ciertas glándulas comparables a los cuerpos pituitarios, como se describe en la serie de recepción espiritual. (49:5.19)
 
 lástima | | simpatía | | OK
 
-aplacamiento | | | | OK
+apaciguamiento | | | | OK
 La evolución de las observancias religiosas progresó desde el apaciguamiento de los fantasmas hasta la coerción y la súplica de los espíritus, culminando en el sacrificio, la expiación y la redención. (87:2.1) (89:4.4) (90:0.1)
 
 Adanes planetarios | | Adán; Hijos Materiales de Dios | ORDER | OK
@@ -1448,12 +1453,12 @@ El grupo de Edentia aprobó los planes de iniciación de vida planetaria propues
 
 consejo planetario de arte y ciencia | | cien de Caligastia | PERSON | OK
 
-Guardianes Planetarios | | | ORDER | OK
+Guardianes Planetarios; Custodios Planetarios | | | ORDER | OK
 Setenta guardianes tienen autoridad morontial suprema sobre las esferas morontiales, guiando a las criaturas ascendentes a través de sus viajes transformadores sin necesidad de la inconsciencia. (48:2.18)
 Los Custodios Planetarios están inscritos en el registro de personalidad de Uversa. (30:2.111)
 Los Custodios Planetarios, como consejo local de autoridad morontial suprema, otorgan formas morontiales a todas las criaturas ascendentes en las esferas, permitiéndoles progresar a través de las fases de la vida morontial sin renunciar a la conciencia. (48:2.18)
 
-épocas planetarias | (52) (49:5.21-28) | | | OK
+épocas planetarias; época planetaria | (52) (49:5.21-28) | | | OK
 Primera – era anterior al Príncipe Planetario
 	La era anterior al Príncipe Planetario marca el momento en que los hombres primitivos, evolucionando a través de diferentes razas, se dedican a la supervivencia física y al gobierno tribal, antes de la llegada de la guía divina y el desarrollo espiritual superior. (52:1) | mortales:mortales primitivos
 	A medida que se desarrolla el lenguaje, aparecen seis razas de color desde el momento en que los hombres primitivos surgen y eligen adorar al Creador hasta la llegada del Príncipe Planetario. (52:1.1-2)
@@ -1654,7 +1659,7 @@ Idoneidad para la vida
 	Los Mensajeros Solitarios investigan pequeños planetas oscuros más adecuados para experimentos de vida, guiados por pistas de los contempladores del espacio y el conocimiento retenido por las Deidades del Paraíso. (23:2.20)
 	Los aspectos físicos de los planetas están determinados en gran medida por su modo de origen, situación astronómica, entorno físico, edad, tamaño, tasa de revolución y velocidad a través del espacio - con agua y aire presentes en todos los planetas, si no son demasiado pequeños. (41:10.3)
 
-planes | | | | OK
+planes; plan | | | | OK
 El alma morontial evolutiva del hombre, impregnada de verdad, belleza y bondad, se vuelve indestructible si se la valora como conciencia de Dios, pues lo que se comienza en el tiempo se terminará en la eternidad, si vale la pena terminarlo. (111:3.7)
 Aprender el autogobierno en los mundos de estancia incluye cooperar y planificar con otros seres más sabios para beneficiar a todos los interesados ​​y apreciar la moralidad cósmica. (39:4.10)
 Acerca del plan de Dios, véase el enlace sobre el plan divino | el plan divino; la voluntad de Dios
@@ -1686,7 +1691,7 @@ Platón | | platonismo | PERSON | OK
 Platón, junto con Sócrates y Aristóteles, enseñó que la virtud es conocimiento y que es mejor sufrir injusticia que ser culpable de ella. (98:2.6)
 Platón, al igual que Confucio, no era un maestro religioso, sino un filósofo. (92:5.12)
 
-platonismo | | Grecia:religión griega; Platón | RELIGION | OK
+platonismo; filosofía platónica; idealismo griego | | Grecia:religión griega; Platón | RELIGION | OK
 Cuatro grandes filosofías derivadas del platonismo dominaron el mundo gentil. (121:4.1)
 El Cuarto Libro de los Macabeos ejemplifica la gran incursión del estoicismo y la penetración de la filosofía platónica entre las creencias judías helenizadas. (121:6.3)
 El cristianismo incorporó las ideas babilónicas y persas y las teorías de Platón, haciendo que las enseñanzas fueran más aceptables para diversos públicos. (146:1.3)
@@ -1701,7 +1706,7 @@ jugar | | recreación | | OK
 constructores de edificios recreativos | | | ORDER | OK
 Los artesanos celestiales construyen edificios divinos para los constructores de obras, proporcionando un entorno adecuado para el entrenamiento de los seres ascendentes en los mundos morontiales. (44:3.4)
 
-placeres | | recreación; autogratificación | | OK
+placeres; placer; diversiones | | recreación; autogratificación | | OK
 La madurez sustituye el placer personal por significados superiores, elevando las lealtades a los conceptos más elevados de las situaciones de la vida y las relaciones cósmicas, mientras que el mal surge de convertir las evaluaciones personales en absolutas. (100:1.1)
 En el mundo morontial, hay incontables realidades espirituales que superan y realzan los placeres materiales que son familiares para los mortales. (44:3.1)
 Recordar experiencias pasadas proporciona placeres, permitiendo el disfrute del humor celestial y la diversión espiritual a lo largo de nuestras vidas ascendentes. (48:4.10,20)
@@ -1726,7 +1731,7 @@ El Plioceno marcó una era de migración de mamíferos, que duró entre 10 y 1 m
 arado | | | | OK
 Para ser ordenado, uno debe abandonarlo todo; como sucede con el arado, uno no puede volver atrás una vez comprometido. (163:2.3)
 
-plomería | | saneamiento | | OK
+plomería; instalación de cañerías | | saneamiento | | OK
 Los emigrantes anditas altamente cualificados que llegaron a Creta utilizaban fontanería aproximadamente en el año 12.000 a. C. (80:7.2)
 
 poesía | | | | OK
@@ -1745,7 +1750,7 @@ compostura; serenidad; equilibrio | | equilibrio | | OK
 Los creyentes, emancipados de la prisa y de la tensión dolorosa, manifiestan una estabilidad tranquila y una originalidad única en sus vidas, impregnadas de la presencia del Eterno. (102:2.3)
 La fe mantiene un equilibrio misterioso frente al sufrimiento físico y la injusticia. (101:3.8-9)
 
-venenos | | | | OK
+venenos; veneno | | | | OK
 Los venenos y los intoxicantes eran reverenciados como fetiches, y se creía que estaban poseídos. (88:1.9)
 En la antigüedad, el crimen se detectaba mediante ordalías de veneno, fuego y dolor, ya que los curanderos y los sacerdotes actuaban como los primeros detectores de crímenes y oficiales de la ley mediante estas crudas técnicas de arbitraje. (70:10.5-6)
 Los venenos mentales obstaculizan el progreso espiritual, así como los venenos físicos impiden los esfuerzos del Ajustador. (110:1.5)
@@ -1762,7 +1767,7 @@ La entrada inclinada de la gran pirámide apuntaba hacia la Estrella Polar, guia
 
 polos magnéticos | | magnetismo | | OK
 
-polos de comunicación espacial | | | PLACE | OK
+polos de comunicación espacial; punto de polaridad espiritual; polo planetario de las comunicaciones espaciales; lugar de la polarización espiritual del planeta; punto de polaridad espiritual; polo energético universal del planeta | | | PLACE | OK
 Las moradas personales de los Ancianos de los Días son el punto de polaridad espiritual dentro de sus sectores administrativos en Uversa. (18:3.6)
 En Urantia, el circuito de los arcángeles funcionó por primera vez, señalando la resurrección de los muertos y la partida de los serafines hacia los mundos de estancia. (62:7.2) (189:3.2)
 El reflejo espiritual de las características de la Trinidad se logra mediante la naturaleza única de los siete Espíritus Reflexivos asignados a cada superuniverso, cada uno de los cuales refleja una combinación diferente de características de divinidad. (17:3.1)
@@ -1832,10 +1837,10 @@ trágico final
 	Ponticio Pilato se rindió trágicamente a la presión de la turba y condenó a muerte al inocente Hijo de Dios. (185:8)
 	Ponticio Pilato se retiró a Lausana y se suicidó después de afrontar las consecuencias de su papel en la crucifixión de Jesús y la matanza innecesaria de samaritanos. (185:1.6)
 
-piscina de Betesda | | | PLACE | OK
+estanque de Betesda | | | PLACE | OK
 La sanación en el estanque de Betesda impulsó a muchos a creer en el evangelio del reino. (147:3)
 
-pobre | | | | OK
+pobre; pobres | | | | OK
 Los pobres están siempre con nosotros, así que debemos atenderlos cuando nos parezca bien. (172:1.6)
 El evangelio se predica a todos, sin importar su condición, como se ve en la mayor cantidad de pobres que lo aceptan de buena gana. (143:1.5) (166:4.3)
 Jesús bendijo a los pobres sinceros y piadosos, y condenó a los ricos libertinos e irreligiosos. (196:2.8)
@@ -1843,9 +1848,10 @@ Ministren a los pobres y compartan con ellos para dejar libres a los oprimidos y
 
 pobre de espíritu | | humildad | | OK
 
-pobre hombre acusado falsamente | (132:4.8) | | | OK
+pobre hombre acusado falsamente | | |PERSON  | OK
+Jesús intercedió ante el magistrado romano en nombre de un pobre hombre acusado falsamente, lo que llevó a la liberación del acusado. (132:4.8)
 
-populacho | | opinión pública | | OK
+populacho; pueblo; plebe | | opinión pública | | OK
 Una fuerza policial bien entrenada puede controlar eficazmente a un grupo mayor de personas mediante la cooperación organizada. (68:1.4)
 Cuidado con la inconstancia del populacho, pues puede cambiar rápidamente su admiración de un héroe a un prisionero a los ojos de Jesús. (185:5.5)
 El populacho clamaba por la liberación de Barrabás, escogiendo a un asesino en lugar de a Jesús. (185:5.4-11)
@@ -1883,8 +1889,8 @@ marsopas | | | | OK
 Los mamíferos placentarios que regresaron al mar se convirtieron en las ballenas, delfines, marsopas, focas y leones marinos modernos. (61:2.11)
 
 Porshunta | | | PERSON | OK
-Porshunta, la mente maestra de la extinta raza naranja, dirigió un gran resurgimiento de la vida superior en Armagedón como el oráculo del «Gran Maestro». (45:4.7) (64:6.12)
-Porshunta es una de los 24 consejeros del «Gran Maestro» adorados por la extinta raza naranja que ella dirige como su oráculo. (45:4.7)
+Porshunta, la mente maestra de la extinta raza anaranjada, dirigió un gran resurgimiento de la vida superior en Armagedón como el oráculo del «Gran Maestro». (45:4.7) (64:6.12)
+Porshunta es una de los 24 consejeros del «Gran Maestro» adorados por la extinta raza anaranjada que ella dirige como su oráculo. (45:4.7)
 
 Portalon | | | PLACE | OK
 Portalon es un universo vecino a Nebadon en el circuito superuniversal de Orvonton. (32:2.12)
@@ -1894,7 +1900,7 @@ El gobernante de la raza azul una vez tuvo 100.000 hombres en su colonia de port
 
 posición | | estado | | OK
 
-positivo | | optimismo | | OK
+positivo; positiva | | optimismo | | OK
 La fe, al ser positiva y viva, siempre triunfa sobre la duda y el temor, pues lo positivo tiene ventaja sobre lo negativo. (102:6.7)
 La religión de Jesús era una práctica positiva, orientada a la acción y al amor, basada en las enseñanzas del evangelio del reino. (159:5)
 
@@ -1936,7 +1942,7 @@ alfareros | | cerámica | | OK
 Los primeros especialistas del grupo eran alfareros que hacían cerámica sencilla o de lujo, mientras que las mujeres o los hombres de las diferentes tribus se especializaban en coser y tejer. (69:3.10)
 Antes de que Jesús cumpliera ocho años, era conocido por todos en Nazaret, especialmente por las madres y las mujeres jóvenes, que a menudo lo veían en el manantial cercano a su casa, uno de los centros sociales de la ciudad. (123:5.15)
 
-cerámica | | alfareros | | OK
+cerámica; alfarería | | alfareros | | OK
 Los anditas cretenses, muy hábiles en la alfarería, hacían alfarería alrededor del año 12.000 a. C. (80:7.2)
 Los danubianos eran andonitas que hacían alfarería, cultivaban la tierra y preferían vivir en los valles, pero sus tribus se deterioraron a medida que se alejaban de su centro cultural. (80:8.4)
 El comercio primitivo de alfarería ayudó a impulsar el crecimiento de las civilizaciones urbanas en todo el mundo antiguo. (79:1.4) (80:1.2)
@@ -1951,7 +1957,7 @@ Los gallos sobre veletas sirven como símbolos del culto a los fantasmas, y con 
 Pedro se dio cuenta de su negación de Jesús cuando oyó el canto de un gallo en el patio del palacio de Anás, en las afueras de Jerusalén. (184:2.10)
 Jesús, como una gallina que reúne a sus crías, trató de proteger y unificar al pueblo de Jerusalén, pero ellos se resistieron a su amor y guía. (171:4.7) (175:1.23)
 
-talentos | | dinero | | OK
+minas; mina; talentos | | dinero | | OK
 La parábola de las minas, dirigida exclusivamente a los apóstoles, enfatizaba la importancia de la fidelidad y la diligencia en el manejo de las responsabilidades encomendadas. (171:8)
 
 pobreza | | riqueza | | OK
@@ -1996,13 +2002,13 @@ transformadores de poder | | transformadores de energía | ORDER | OK
 
 Poderes del Paraíso | | Deidad | ORDER | OK
 
-practicidades | | circunstancias | | OK
+practicidades; asuntos prácticos | | circunstancias | | OK
 En la vida diaria, los aspectos prácticos son gestionados por agencias del Espíritu Infinito, a medida que cooperas con personalidades espirituales originadas en la Tercera Fuente en los detalles de tu estadía terrenal. (5:3.5)
 
 pretorio | | | PLACE | OK
 Jesus' trial before Pilate occurred in front of the praetorium, an addition to the fortress of Antonia. (185:0.2) (185:5.1) (186:4.1) (187:0.4)
 
-alabanza | | adulación; reconocimiento; adoración | | OK
+alabanza; alabanzas; elogios | | adulación; reconocimiento; adoración | | OK
 La falta de entusiasmo de Andrés hizo que no animara a los demás con criterio, debido a su desagrado por los halagos y la falta de sinceridad. (139:1.10)
 Jesús no se deja influenciar por los elogios, siempre vive independientemente de los seres humanos. (141:7.12)
 Busquen solo lo que honestamente les pertenece y eviten buscar reconocimiento inmerecido o simpatía inmerecida mientras predican la verdad y proclaman el evangelio. (156:5.19)
@@ -2138,17 +2144,17 @@ Oración primitiva
 	La evolución de la oración desde los deseos verbalizados hasta el logro de la cooperación espiritual y la conservación de valores valiosos refleja su viaje con propósito. (91:2.1)
 	Los tibetanos sujetan las oraciones a ruedas en sus elaboradas ceremonias ritualistas que abarcan diversas prácticas y creencias religiosas. (94:10.2)
 
-oración de identificación | | | | OK
+petición de identificación | | | | OK
 La oración de identificación diferencia al Espíritu Madre del universo local de la persona del Espíritu Infinito durante la etapa de la creación física. (17:6.5)
 
 pre-sumerios | | sumerios | RACE | OK
 
 principios de predicación | | evangelio:proclamar | | OK
 
-precedente | | ley | | OK
+precedente; referencia a la jurisprudencia | | ley | | OK
 Les juges utilisent les précédents pour adapter les lois à l’évolution des conditions sociétales, en équilibrant tradition et progrès. (70:11.7)
 
-precipicio | | | | OK
+precipicio; escarpada colina | | | | OK
 Jesús hubiera podido desarmar eficazmente a sus violentos enemigos, pero un error táctico de uno de sus apóstoles hizo que unos mercenarios trataran de empujarlo por un precipicio (150:9.3)
 Jesús decidió ejercer el cuidado normal de su seguridad humana y abstenerse de una intervención sobrehumana, incluso cuando se enfrentó a la tentación de arrojarse por el precipicio que tenía ante sí (136:7.1)
 
@@ -2157,7 +2163,7 @@ La personalidad eterna del hombre es otorgada por la elección de Dios, con la o
 Los mortales están sujetos a la predestinación, pero tienen la libertad de rechazar cualquier parte de ella. (110:2.1)
 La correlación suprema de todas las elecciones pasadas, presentes y futuras no niega el libre albedrío, sino que más bien insinúa el curso predeterminado del universo. (118:7.2)
 
-previsibilidad | | | | OK
+previsibilidad; predecir | | | | OK
 Al considerar los fenómenos universales, es importante reconocer la imprevisibilidad que surge de las complejas interasociaciones y acciones de la personalidad. (12:6.4-5)
 Predecir los fenómenos físicos se vuelve cada vez más difícil a medida que nos alejamos del Paraíso y nos encontramos con fuerzas impredecibles que están más allá de nuestra comprensión actual. (15:8.8-9)
 La presencia y el desempeño del Último y los Absolutos causan imprevisibilidad en las reacciones de la fuerza primordial, el espíritu naciente y otros últimos no personales. (12:6.6-7) (65:6.8)
@@ -2203,7 +2209,7 @@ La asociación con otros fortalece nuestra defensa contra el mal, proporcionánd
 
 presentimientos | | liderazgos | | OK
 
-presionar | | compulsión | | OK
+presionar; presiones; presión | | compulsión | | OK
 La presión no salva, ni ennoblece, ni estimula el crecimiento; más bien, el crecimiento espiritual surge desde dentro del alma en evolución. (103:5.11)
 Aprende a dejar que la presión desarrolle estabilidad y certeza, mantén un equilibrio, enfrenta los desafíos sin miedo y levántate indomablemente para intentarlo de nuevo. (48:6.35)
 
@@ -2218,7 +2224,7 @@ Su coraje nació de la fe, no de la imprudencia de la presunción ciega. (100:7.
 
 pretensión | | afectación | | OK
 
-detención preventiva | | | | OK
+detención preventiva; prevenir el crimen | | | | OK
 En la principal nación continental de un planeta habitado cercano, se utiliza la detención preventiva para condenar a asesinos potenciales y criminales importantes a cadena perpetua en colonias de detención, pero aquellos que muestran una mejoría pueden ser puestos en libertad condicional o indultados, lo que conduce a una baja tasa de homicidios del uno por ciento. (72:10.2)
 
 orgullo | | honor; importancia personal; respeto por uno mismo | | OK
@@ -2262,10 +2268,10 @@ Los sacerdotes primitivos
 El sacerdocio y la mujer
 	Las mujeres con derecho a realizar servicios religiosos estaban ante Dios en igualdad de condiciones con el hombre, siguiendo las enseñanzas de Jesús que culminaron en Pentecostés y la eliminación de la discriminación religiosa. (194:3.14)
 
-título del sacerdote | | | | OK
+título del sacerdote; escritura de propiedad sacerdotal | | | | OK
 Las primeras insignias familiares marcaban la propiedad privada, y luego evolucionaron hasta convertirse en escudos familiares; los sacerdotes consagraban la tierra con tabúes, otorgando a los propietarios un «título sacerdotal» indicado por iniciales en marcadores de piedra y árboles. (69:9.13)
 
-Asociadores Primarios | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | OK
+Asociadores Primarios; asociadores | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | OK
 Los asociados primarios, junto con sus colaboradores los disociadores, son el primer grupo de vida que aparece en una esfera material organizadora, funcionando a temperaturas físicas consideradas incompatibles con la existencia de seres vivos, representando un orden de vida más allá de la imaginación humana y siendo los más serviles de todas las criaturas inteligentes. (29:4.34)
 En la personalidad de Uversa, los Asociadores Primarios están registrados como los quintos Controladores Físicos Maestros. (30:2.105)
 Los asociados primarios son agentes catalizadores vivientes que actúan por su presencia, convirtiendo energías del espacio en estados físicos y produciendo unidades primitivas de existencia material. (29:4.32)
@@ -2279,7 +2285,7 @@ La erupción primaria significa la personalización del Espíritu Madre del univ
 
 Organizadores de la Fuerza Maestros Eventuados Primarios | | Organizadores de la Fuerza Maestros | ORDER | OK
 
-Primates | (62:4) | | RACE | OK
+primates; Primates | (62:4) | | RACE | OK
 Ni siquiera la pérdida de Andón y Fonta impidió la asimilación de mejores linajes en la evolución humana. (65:3.4)
 Los antepasados ​​inmediatos de los humanos, descendientes de los mamíferos intermedios, surgieron durante una mutación vital en el progreso de la evolución prehumana. (61:6.1-2) (62:3.10) (62:4.1-2)
 Los primates, los antepasados ​​inmediatos de la raza humana primitiva, se extinguieron 5000 años después de la aparición del hombre. (62:4.7)
@@ -2300,7 +2306,7 @@ Jesús sabía que su hora había llegado, plenamente consciente de la traición 
 
 príncipe de los demonios | | diablo | PERSON | OK
 
-Príncipe de la Paz | | | PERSON | OK
+Príncipe de la Paz; Príncipe planetario de la Paz | | | PERSON | OK
 El Hijo donador, Cristo Miguel, no trajo el reinado de paz habitual a Urantia; las guerras y los rumores de guerras persisten. (52:6.1)
 Jesús, el Príncipe de la Paz, rechaza la batalla y la contienda, y elige en cambio revelar un Dios de amor y establecer un reino de comprensión espiritual. (68:3.5) (93:10.7) (136:9.7) (137:8.7)
 Los judíos creían que el Mesías reinaría sobre ellos como el Príncipe de la Paz, guiando a todas las naciones en la verdad del único Dios. (97:10.1)
@@ -2321,7 +2327,7 @@ Perpetuar la verdad antes del arte de la imprenta era difícil, ya que las nueva
 Priscila | | | PERSON | OK
 Pablo prolongó su estancia en Corinto debido al interés y la preparación del matrimonio judío formado por Aquila y Priscila, con quienes trabajaba y vivía como fabricantes de tiendas. (133:3.12)
 
-mundos prisión | | | PLACE | OK
+mundos prisión; mundos prisiones | | | PLACE | OK
 Holdant, el número 19 del cuerpo terciario, tiene el control sobre todos los espíritus internados por encima de la existencia mortal. (45:3.5)
 Las esferas de detención de Satania, siete satélites que rodean el mundo del Padre, sirven como mundos prisión para los grupos internados de la rebelión de Lucifer. (45:1.10-11) (53:9.8)
 A los progresadores morontiales del séptimo mundo de estancia se les permite visitar los mundos prisión de Satania, donde Lucifer y sus seguidores están confinados. (45:1.11)
@@ -2357,10 +2363,10 @@ La vida moderna
 	La propiedad privada necesitaba del gobierno para la seguridad y la regulación de los contactos humanos. (70:0.1) (71:2.14) (81:2.7)
 	Todo gobierno, libertad y felicidad han surgido en torno al derecho puramente social a la propiedad, que no es absoluto. (69:9.17)
 
-privilegio | | | | OK
+privilegio; privilegios | | | | OK
 Poseer y mantener privilegios sin abusar de ellos es una señal de alta civilización. (48:7.8)
 
-guardería probatoria | (47:2) (49:6.11-14) | | PLACE | OK
+guardería probatoria; mundo de la guardería | (47:2) (49:6.11-14) | | PLACE | OK
 ¿Qué niños hay allí?
 	Sin elegir el camino de la vida ascendente, los habitantes de la guardería probatoria se enfrentan a la muerte sin juicio ni esperanza de resurrección. (47:2.7)
 	Los niños sin Ajustador en la guardería probatoria eligen el camino celestial bajo la guía de los Maestros del Mundo de las Mansiones y los Melquisedeks, con oportunidades para el crecimiento espiritual y guardianes personales al llegar al tercer círculo. (47:2.2) (49:6.11-14)
@@ -2384,7 +2390,7 @@ Cuidadores
 	Los sobrevivientes que carezcan de experiencia paternal deben calificar para una guardería probatoria, posiblemente con sus propios hijos, mientras permanecen en los hogares de los Hijos e Hijas Materiales de Jerusem. (45:6.6-8) (47:1.4-5)
 	Los sobrevivientes en el primer mundo de estancia deben cumplir con los requisitos de la comisión paternal, con la visita de los padres mortales y la colaboración de los custodios morontiales en la guardería probatoria. (47:1.4-5)
 
-resolución de problemas | | desafíos; decisiones; dificultades; oportunidades | | OK
+resolución de problemas; solución de los problemas; resolver problemas; solucionar los problemas; solución de los numerosos problemas; problemas por resolver | | desafíos; decisiones; dificultades; oportunidades | | OK
 Advierta a los creyentes: la franja del conflicto debe ser atravesada desde la carne hasta el espíritu. (159:3.7) (160:1.6)
 La experiencia religiosa personal y espiritual clasifica, evalúa y ajusta eficientemente todos los problemas humanos, unificando la personalidad para un ajuste eficaz a las necesidades mortales. (196:3.1)
 Técnica
@@ -2407,14 +2413,14 @@ El valor de la solución de problemas
 Proclamación final de Igualdad | | | | OK
 Miguel reconoció noblemente la igualdad del Espíritu Madre, emitiendo la «Proclamación de Igualdad» final en su universo. (33:3.6)
 
-dilación | | | | OK
+postergación | | | | OK
 La carrera morontial tiene como objetivo erradicar rasgos animales como la postergación, enseñando que la postergación no es evasión después de la vida en la carne. (48:5.8)
 
 hijo pródigo | | | | OK
 Los padres, como Miguel, el padre creador, pueden empatizar con la espera del arrepentimiento, como se muestra en la historia del hijo pródigo narrada por Jesús (54:4.2)
 La ​​parábola del hijo pródigo enseña la disposición del padre a aceptar a todos los que buscan el reino de los cielos (169:1.5-16)
 
-lucro | | capital; competencia; propiedad privada | | OK
+lucro; beneficio | | capital; competencia; propiedad privada | | OK
 El crecimiento del comercio llevó a que las mujeres comerciantes se convirtieran en intermediarias, y la clase mercante primitiva cobraba comisión por sus servicios. (69:3.11)
 Jesús detestaba la especulación injusta y la explotación de los vulnerables. (173:1.11)
 Los hombres que realizan negocios mediante el comercio y el trueque tienen derecho a una ganancia justa y legítima, basada en principios de justicia y equidad. (132:5.17)
@@ -2476,7 +2482,7 @@ Las promesas deben cumplirse, incluso si uno debe convertirse en pescador para h
 promotores de la oratoria | | | ORDER | OK
 Los artesanos celestiales son los promotores de la oratoria, expertos en preservar y reproducir pensamientos en el lenguaje de Nebadon, condensando toda una vida de experiencia mortal en un discurso de media hora. (44:4.7)
 
-profecías | | profetas; especulaciones; visiones | | OK
+profecías; profecía | | profetas; especulaciones; visiones | | OK
 Las Importancias del Tiempo son el secreto de la profecía, pues revelan el elemento necesario del tiempo para cualquier empresa y sirven como indicadores fiables, como los frandalanks y los chronoldeks, para diferentes seres. (28:6.11)
 Juan el Bautista, agitado pero seguro, pronunció una profecía que dejó a sus discípulos en silencioso asombro. (135:11.3)
 El pacto de Melquisedek con Abraham predijo la ocupación de Canaán por parte de su descendencia después de Egipto. (93:6.3)
@@ -2520,7 +2526,7 @@ La evolución de las observancias religiosas progresó desde la evitación, el a
 
 dimensiones | | comparaciones | | OK
 
-propiedad | | | | OK
+corrección | | | | OK
 El extraordinario sentido del decoro de Jesús guiaba todas sus acciones y enseñanzas con un discernimiento exquisito. (100:7.3)
 María Magdalena, una mujer de gran circunspección, proclamó valientemente la resurrección del Maestro como portavoz principal del cuerpo de mujeres. (190:0.5)
 
@@ -2528,7 +2534,7 @@ prosélito | | | | OK
 Flavio, el judío griego, un prosélito de la puerta, invitó a Jesús a su casa bellamente adornada, donde el Maestro mostró gran interés en sus apreciadas obras de arte, disipando así los temores de Flavio a ser reprendido. (142:4.1)
 Los fariseos hacen grandes esfuerzos por convertir a una sola persona, pero al final la hacen peor que antes. (175:1.13)
 
-prostitución | | sexo:urgencia | | OK
+prostitución; prostitutas | | sexo:urgencia | | OK
 A pesar de su pasado como dueña de un burdel de clase alta, la mujer que se había convertido al evangelio cerró su nefasto negocio y convirtió a otros, pero aun así se enfrentó al desdén de los fariseos. (147:5.3) (150:2.2)
 El vicio comercializado de la mujer fue orquestado por su esposo, a quien Jesús había conocido como un alborotador en Nazaret. (162:3.4)
 La mujer de mala reputación, ahora creyente en el evangelio, todavía estaba obligada a llevar el cabello suelto como símbolo de prostitución, pero humildemente ungió los pies de Jesús con lágrimas de gratitud. (147:5.3)
@@ -2557,11 +2563,11 @@ Jesús
 Proterozoico; era proterozoica; Proterozoica | | edades geológicas | | OK
 La era Proterozoica, una era en la que se inició la vida hace entre 550 y 400 millones de años, se caracteriza por sistemas rocosos que contienen restos fósiles de vida marina y vegetal primitiva. (58:7.1) (59:0.3)
 
-reforma Protestante | | | RELIGION | OK
+reforma Protestante; ruptura de la unidad del cristianismo | | | RELIGION | OK
 La Reforma Protestante rompió la unidad del cristianismo en Europa, lo que llevó a la síntesis de una nueva religión en Oriente, el sijismo. (92:5.15)
 El siglo XV fue testigo de una división del cristianismo en Europa debido a la inelasticidad de la iglesia, mientras que en Oriente se sintetizó una nueva religión, el sijismo, a partir del islam, el hinduismo y el budismo. (92:5.15)
 
-protón | (42:3.5) | átomo; materia | | OK
+protón; protones | (42:3.5) | átomo; materia | | OK
 Los átomos de carbono emiten protones en las reacciones solares a medida que el hidrógeno se convierte en helio. (41:8.1)
 La función recíproca del mesotrón mantiene unidos a los protones cargados y a los neutrones no cargados en el núcleo de un átomo, asegurando la estabilidad y evitando la desintegración. (42:8.3-4)
 En Orvontón, la introducción de más de 100 electrones orbitales desorganiza instantáneamente el protón central, causando la dispersión de electrones y otras energías. (42:7.7)
@@ -2738,7 +2744,7 @@ Dans le nord de l’Inde, il y eut une infiltration continue de sang aryen au Pe
 
 energía pura | | segregata | | OK
 
-puro de corazón | | | | OK
+puro de corazón; limpios de corazón | | | | OK
 Los puros de corazón, libres de sospechas y de venganza, verán a Dios a través de la fe y el amor al prójimo, encarnando el amor paternal que busca lo mejor en los demás. (140:3.6) (140:5.12)
 
 purga | | | | OK
@@ -2755,7 +2761,7 @@ Los miserables restos de los antiguos pigmeos no sociales ilustran la resistenci
 Los pigmeos y otros grupos atrasados ​​no tienen hoy en día una institución matrimonial debido a las sencillas costumbres de apareamiento que seguían las razas primitivas, lo que refleja la falta de regulación de las relaciones entre los sexos y la ausencia de prostitución en las razas primitivas. (82:2.2)
 Los pigmeos africanos se encuentran en una etapa primitiva de evolución religiosa, sin reacciones religiosas como clase. (91:0.5) (92:6.1)
 
-pirámides | | | | OK
+pirámides; pirámide | | | | OK
 La primera pirámide de piedra de Egipto fue erigida por el andita Imhotep, lo que muestra la decadencia del arte de la construcción en su época. (80:6.4)
 La entrada inclinada a la gran pirámide dirigía a las almas de los muertos dignos directamente a la Estrella Polar, lo que simbolizaba su viaje a la otra vida entre las constelaciones eternas. (95:2.7)
 

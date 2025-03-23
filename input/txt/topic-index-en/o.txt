@@ -9,10 +9,10 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-oaks | | | | OK
+oaks; oak | | | | OK
 Oaks were among the many present-day trees that first appeared during a period of great plant-life evolution, dominated by angiosperms, which were second in evolutionary importance only to the appearance of man himself. (60:3.19)
 
-oaths | | promises | | OK
+oaths; oath | | promises | | OK
 Adam and Eve remained loyal to Michael during the Lucifer rebellion, taking oaths of allegiance to the Most Highs and to Michael. (74:1.4) (74:2.6) (75:4.2)
 by Creator Sons not to assume full sovereignty until after 7
 In completing the seven creature bestowals, a Creator Michael fulfills his sacred oath not to assume supreme sovereignty until certified by the superuniverse rulers, ultimately becoming a supreme universe sovereign. (21:3.12) (21:4.5)
@@ -30,7 +30,7 @@ primitive oaths
 	The solemn consecration of Roman youths to the service of the state involved religious oaths and citizenship admissions, conducted as sacred ceremonies in temples and shrines. (98:3.4)
 	Do not dissimulate when taking oaths, for whether sworn by temple or its gold, consistency in honesty is paramount. (175:1.16)
 
-oats | | | | OK
+oats; sowing wild oats | | | | OK
 After years of discipline and training, young men were granted a brief freedom before marriage, only to later abide by tribal taboos, likened to the foolish notion of sowing wild oats. (70:7.12)
 
 Obadiah | | | PERSON | OK
@@ -44,7 +44,7 @@ obligations | | duty | | OK
 observer | | | | OK
 The observer transcends the thing observed in the evaluation of reality. (112:2.12)
 
-observers (universe) | | | | OK
+observers (universe); Observers | | | | OK
 Observers commission and represent local systems within the universe. (33:6.4)
 
 oceans | | lakes | | OK
@@ -60,7 +60,7 @@ The weight of the oceans, in relation to land elevations, plays a crucial role i
 One billion years ago, a world-wide ocean covered the entire planet of Urantia, not yet salty but a fresh-water covering for the world. (57:8)
 for oceans named in The Urantia Book see links below | Arabian Sea; Arctic Ocean; Atlantic Ocean; Bay of Bengal; China Seas; Gulf of Mexico; Gulf Stream; Indian Ocean; Pacific Ocean; Persian Gulf
 
-octopuses | (65:2.5) | | | OK
+octopuses; octopus | (65:2.5) | | | OK
 Octopuses are descendant of cephalopods that have survived and evolved alongside corals, sponges, and other ancient sea creatures. (59:2.11)
 
 Og | | | PERSON | OK
@@ -82,7 +82,7 @@ Early medicine for treating wounds, including oil and wine, was passed down from
 The Good Samaritan poured oil onto wounds, showing mercy and compassion. (164:1.3)
 Jesus' apostles would not agree to anoint with certain forms of oil, despite the push from John's followers. (150:0.2)
 
-ointment | | | | OK
+ointment; perfumed anointing lotion | | | | OK
 The former brothel keeper anointed Jesus' feet with perfumed lotion in a heartfelt display of gratitude and devotion at Simon's house. (147:5.3)
 Jesus’ body was embalmed with myrrh and aloes by Joseph and Nicodemus in the tomb, while the women waited nearby to properly prepare him for burial. (188:1.4,7) (189:4.3,5)
 Judas resented Mary’s waste of incense at Jesus' feet, leading to a lifetime of accumulated hate and revenge. (139:12.10)
@@ -146,7 +146,7 @@ Jesus
 Books named
 	for books named from Old Testament in The Urantia Book see links | Deuteronomy; Ecclesiastes; Enoch; Exodus; Ezekiel; Ezra (Prophet); Isaiah (first); Isaiah (second); Jeremiah; Job (book); Proverbs; Psalms; Zechariah
 
-old things | | | | OK
+old things; former things; which is old; ancient | | | | OK
 The old things are passing away, behold all things are becoming new in the eternal abode of God and his Son, where self-mastery is the measure of man's moral nature and spiritual development. (27:1.5) (100:7.18) (143:2.3)
 Old things should not be despised merely because they are old; the timeless truths must abide alongside the new and true. (81:6.39) (147:7.3) (195:9.1)
 Ancient traditions are revered as sacred, causing religion to hold onto the old ways despite advances in technology and society. (92:2.2)
@@ -167,7 +167,7 @@ The spirits' intentions were deciphered through omens and signs, shaping a philo
 Medicine men put great trust in signs, omens, and the communication with spirits of the dead. (90:2.5)
 The belief in magic numbers and omens is pure unfounded superstition. (150:3.8)
 
-omniaphim | | angels | ORDER | OK
+omniaphim; Omniaphim | | angels | ORDER | OK
 Michael, accompanied by an omniaphim, embarked on a Melchizedek bestowal mission that left the inhabitants of Salvington eagerly awaiting news. (119:1.3,5)
 Omniaphim are registered in the registers of personalities in the universe. (30:1.84) (30:2.86)
 Omniaphim serving as Technical Advisers may become Paradise Companions, but they are not of permanent status and typically return to their previous duties after completing their ministry. (25:4.6) (25:8.1,8)
@@ -183,7 +183,7 @@ God's actions may seem cruel or indifferent due to our limited perspective, but 
 God's love does not entail predestined decisions; man has relative freedom of choice. (118:10.1)
 Jews saw God in almost everything that happened, but it is our mission to help men solve their spiritual problems and not ascribe all misunderstandings to the Father. (148:5.4) (156:5.4)
 
-omnipotence | (3:2) | | | OK
+omnipotence; Omnipotence | (3:2) | | | OK
 Omnipotence and compossibility dictate that even God cannot create square circles or produce inherently good evil, as divinity inherently includes the concept of what can and cannot be done. (118:5)
 God is truly omnipotent, but not omnificent; only the Father-I AM possesses finality of volition. (118:6)
 God's omnipotence is perfectly coordinated with his nature, will, and law, limiting his power only in spiritual manifestation. (3:2.11-15) (4:4.3-4)
@@ -208,7 +208,7 @@ The Supreme may be personally present on Uversa, directing the administration of
 omniscience | (3:3) | | | OK
 In the grand universe, Creator will and creature will operate within established limits and possibilities, without abridging sovereignty or invalidating authenticity, suggesting foreknowledge of those who may elect to contribute to reality. (118:7)
 Supreme directors of the grand universe maintain sacred secrecy to honor the privacy and sanctity of all beings, whether lowly or high. (18:1.5)
-The Solitary Messengers investigate undiscovered energy systems of space, knowing of them prior to experience but never revealing such information to others. (23:2.20) (24:4.9) (25:4.16)
+The Solitary Messengers investigate undiscovered energy systems of space, knowing of them prior to experience but never revealing such information to others. (23:2.20) (23:2.20) (25:4.16)
 God's foreknowledge of sin does not diminish human freedom, yet we are unsure if He chooses to foreknow it; however, what is definite is that God is never caught off guard. (3:3.4)
 God's foreknowledge of sin does not limit free will, guaranteeing God's unwavering omniscience. (3:3.4)
 God's all-encompassing knowledge is derived from Adjusters, personality circuits, divine Sons, and the Infinite Spirit, making his consciousness universal and his power to know all things unlimited. (3:3.3)
@@ -264,7 +264,7 @@ Ophel | | | PLACE | OK
 In Jerusalem, Ophel mount played a significant role in the sacred rituals of the last day of the feast, with priests and pilgrims engaging in symbolic ceremonies and offerings. (162:4.4)
 > https://en.wikipedia.org/wiki/Ophel
 
-opiate | | intoxication | | OK
+opiate; opiate to the people | | | | OK
 The religion of Jesus is not an opiate, but a powerful force urging humanity forward towards spiritual growth and enlightenment. (194:3.3-4)
 
 opinions | | belief | | OK
@@ -275,7 +275,7 @@ Opium was used by the Sumerians as medicine, along with other ancient remedies t
 opossums | | | | OK
 45 million years ago, opossums were among the small, primitive mammals flourishing in the evolving mammalian life on elevated continental backbones. (61:1.9)
 
-opportunities | | challenges; problem solving; service | | OK
+opportunities; opportunity | | challenges; problem solving; service | | OK
 Seeking God with a whole heart will lead to deliverance from captivity and new opportunities for a better life. (130:1.2)
 The government's prime mission is to define rights, regulate class differences, and enforce equality of opportunity under the rules of law. (81:5.6)
 Hasten off to where great things wait to be done, for the big and real things of this world are on your side, and your potential for achievement lies within you. (130:6.3)
@@ -300,14 +300,14 @@ Jesus’ optimism
 	James' optimism was truly contagious, inspiring hope and strength in the face of poverty and difficulties. (127:3.14)
 	Jesus gives peace to his followers through the will of God, unlike the fleeting hopes of vainly longing materialists. (181:1.7)
 
-oracles | | | | OK
+oracles; oracular | | | | OK
 Through omens, oracles, divination, soothsaying, magic, ordeals, and astrology, the intentions of spirits were believed to be revealed, all part of a scheme to placate and satisfy them through disguised bribery. (87:5.9)
 The Greeks believed in oracular advice, the Chinese used magic as protection against demons, shamanism flourished in India, and it still openly persists in central Asia. (90:2.8)
 In crisis, Latin peoples consulted oracles for optimism, embodying their deeply rooted religious practices. (98:3.4)
 
 oral law | | Judaism:oral law; traditions | | OK
 
-orange race | (64:6.10-13) | races | RACE | OK
+orange race; orange | (64:6.10-13) | races | RACE | OK
 The orange race, with their custom of naming children after ancestors, believed in transmigration and reincarnation, rooted in observations of hereditary resemblance and influenced by teachings of Adam. (86:4.6)
 Porshunta's wise leadership during their time at Armageddon brought a great revival of higher living to the orange race before their cultural and spiritual decline. (64:6.12)
 The orange race thrived in Central and South America, blending seamlessly with the red and yellow races to create enduring civilizations. (79:5.8)
@@ -324,7 +324,7 @@ extermination
 	The orange race, particularly subject to extinction, is a result of racial struggles and tribal wars culminating in intense nationalism within the great age of racial dispersion. (52:2.5)
 	The orange race virtually destroyed themselves by war, unlike the yellow race who have survived in greater numbers and continue to occupy central regions of eastern Asia. (64:7.7)
 
-oratory | | | | OK
+oratory; speaker | | | | OK
 Celestial artisans preserve thought for reproduction in the harmonious and euphonic orations of the spirit world, a rare treat compared to the crude and stumbling oratory of Urantia. (44:4.7-8)
 He told the speaker at the forum, “Your eloquence and logic are pleasing, but true teaching comes from knowing God as your spiritual Father.” (132:4.7)
 
@@ -348,7 +348,7 @@ Organisms are inherently active participants in the dynamic relationship between
 organs | | | | OK
 The ancients believed the soul resided in various physical organs and elements. (111:0.3)
 
-orientation | | | | OK
+orientation; directional control | | | | OK
 The sense of orientation in living beings is fixed by directional control creatures in Nebadon, guided by universe currents and assisted by the spirit of quick understanding. (34:4.12-13)
 
 origin | | creation | | OK
@@ -361,7 +361,7 @@ The Original, the unqualified concept of the First Source and Center, is the sou
 
 Original Mother Son | | Eternal Son | PERSON | OK
 
-original sin doctrine | | | | OK
+original sin doctrine; original sin; theory of original sin; doctrine of original sin | | | | OK
 The concept of original sin accounted for death and weakened the grip of magic on ancient peoples. (88:4.7)
 Adam's sin cursed the human race, contrary to the Jewish belief in the Shekinah and the Messiah's role in restoring divine favor. (136:1.4) (186:5.7)
 The crass injustice of damning a soul because of ancestors' sin goes against the teaching that each individual's relationship with God is personal and not based on the sins of others. (145:2.7-8) (186:5.7) (188:4.3)
@@ -374,7 +374,7 @@ The doctrine of original sin necessitates a onetime golden age hypothesis, perpe
 PRIMITIVE man, in debt to spirits, developed the doctrine of sin and salvation, seeing the soul as born under forfeit and in need of redemption. (89:0.1) (89:4.6)
 Jesus' gospel redeems man from the superstition of being a child of the devil, elevating him to a faith son of God, providing a timeless solution to spiritual difficulties. (194:2.1)
 
-originality | | initiative; standardization | | OK
+originality; Originality | | initiative; standardization | | OK
 Society should foster originality to cultivate individualism and encourage initiative in a more civilized manner than militarism. (70:2.18)
 Jesus exhorted his hearers to strive for originality while shunning eccentricity, and to embrace sympathy without sentimentality and piety without sanctimoniousness. (149:4.4)
 
@@ -382,7 +382,7 @@ Orlandof | | | PERSON | OK
 Orlandof, the prince and teacher of the blue race 200,000 years ago, led a revival of learning and religion, guiding many tribes back to worshiping the true God as the “Supreme Chief.” (45:4.6) (64:6.23)
 Orlandof, one of 24 counselors, is a prince of the blue men and their leader in recognizing the divinity of “The Supreme Chief.” (45:4.6)
 
-ornamentation | | | | OK
+ornamentation; Set with; ornaments | | | | OK
 Saliva, hair, and nails were viewed as potent fetishes, but mankind's first necklace was a preserved umbilical cord set with pearls. (88:1.8)
 The early industrial and trading cities saw the widespread use of metals, with gold being the first metal sought by man and initially used as an ornament. (81:3.4-5)
 Early Andonites engraved animal gods on objects as symbols of creative might and sustaining power, evolving a form of animal worship due to their fear of the elements and constant urge of hunger. (63:6.3)
@@ -455,14 +455,14 @@ Overplanning sometimes defeats its own high purpose. (160:4.11)
 
 overpopulation | | population | | OK
 
-overprotection | | child-rearing | | OK
+overprotection; overloved | | child-rearing | | OK
 John Mark was fortunate to have not been overprotected, allowing him to develop a strong and dependable character rooted in love and wisdom. (177:2.2-4)
 
 overrevelation | | revelation:overrevelation | | OK
 
 oversoul of creation | | Supreme | PERSON | OK
 
-overspecialization | | careers; earning a living; labor; talents:skills | | OK
+overspecialization; overspecialized | | careers; earning a living; labor; talents:skills | | OK
 The danger of monotony threatens world-wide civilization without effective coordination in human relations. (81:6.36)
 Jesus deplored overspecialization and emphasized the importance of possessing well-balanced characters, warning against becoming narrow-minded and circumscribed in life's activities. (149:4.3,6) (155:1.4)
 
@@ -472,7 +472,7 @@ Ovid, a Phoenician teacher, converted Terah's family to the Salem religion in Ur
 owls | | | | OK
 The diverse bird life included owls among the existing modern species. (61:2.12)
 
-oxen | (61:3.5) | | | OK
+oxen; ox | (61:3.5) | | | OK
 By 5000 B.C., Mesopotamian, Turkestan, and Chinese farmers had begun to domesticate various animals, including the ox, camel, horse, and yak. (81:2.12)
 The long struggle to substitute oxen for men has ultimately led to the liberation of man power for more valuable tasks in society. (81:6.21)
 Oxen were used for burden bearing in ancient times alongside other domesticated animals that have since disappeared. (66:5.5)
@@ -483,7 +483,7 @@ The primitive planetary atmosphere, lacking free oxygen and nitrogen, is evolvin
 On morontia worlds like Edentia, the atmosphere is a unique blend of the usual three-gas mixture plus a morontia gas for the respiration of morontia creatures, free from storms, hurricanes, summer, and winter, allowing for embellished outdoor settings. (43:1.3)
 The sum of parts in the universe is often greater than their predictable consequences; mathematics and material science alone could not have predicted the creation of liquid water from two hydrogen atoms and one oxygen atom. (12:9.3)
 
-oysters | | | | OK
+oysters; oyster | | | | OK
 Oysters, mussels, clams, and scallops have evolved over millions of years, surviving the long struggle of marine life development. (59:2.12) (60:2.8) (65:2.5)
 
 ozone | | | | OK
