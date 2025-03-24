@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-rabinos | | judaísmo | | OK
+rabinos; Rabino | | judaísmo | | OK
 Estos gobernantes egocéntricos, que desean ser llamados rabinos, ansían el honor de los hombres mientras explotan secretamente a otros para obtener ganancias. (175:1.9)
 Jesús, el rabino, hizo que estos creyentes no tuvieran miedo de su divinidad, fomentando un vínculo de amistad con Dios encarnado en forma humana. (137:7.2) (142:2.1,5) (142:6.3)
 Sólo un rabino estaba calificado para actuar como juez en asuntos llevados a juicio. (173:2.3)
@@ -21,7 +21,7 @@ Los conejos, junto con otros roedores roedores, aparecieron en la Tierra durante
 mapaches | | | | OK
 Los mapaches prosperaron y se desarrollaron en todas las latitudes septentrionales. (61:3.13)
 
-comisionados de las razas | | | ORDER | OK
+comisionados de las razas; comisionados raciales | | | ORDER | OK
 Los Altos Comisionados comienzan su servicio como comisionados raciales, dedicados a interpretar puntos de vista y abogar por las necesidades de las diversas razas humanas en los planetas. (37:5.5-6)
 Los comisionados raciales funcionan como voceros devotos de las razas mortales, buscando misericordia, justicia y trato justo en las crisis planetarias, mientras que los intérpretes raciales armonizan los diversos puntos de vista y tendencias sociales entre las diferentes razas humanas. (37:5.5) (48:6.22)
 Los comisionados raciales en Urantia trabajan en estrecha colaboración con el observador Vorondadek, quien ejerce autoridad sobre los problemas planetarios bajo el control de los Altísimos de Edentia desde la rebelión de Lucifer. (114:4.2)
@@ -107,16 +107,16 @@ Raquel, cuñada de Judas, estaba entre las diez mujeres devotas seleccionadas po
 Raquel le preguntó a Jesús sobre la salvación de las mujeres durante sus enseñanzas en Sunem. (150:5.1)
 En la decimosexta aparición de Jesús, instruyó a sus discípulos a proclamar el evangelio del reino y a amar y servir a todos los hombres como hijos de Dios. (193:0)
 
-Intérpretes Raciales | (48:6.22-23) | Serafines | ORDER | OK
+Intérpretes Raciales; intérpretes raciales | (48:6.22-23) | Serafines | ORDER | OK
 Los intérpretes raciales ayudan a educar a los mortales supervivientes en los siete mundos de estancia como parte de la segunda orden de serafines ministros de transición. (39:6.1)
 Los intérpretes raciales, serafines que armonizan los diversos puntos de vista de las razas, sirven para unificar los distintos tipos raciales y tendencias sociales entre los seres mortales de los diferentes mundos. (48:6.22)
 
-radiodifusión | | | | OK
+radiodifusión; transmisiones; emisiones de radio | | | | OK
 Ondas hertzianas utilizadas para la transmisión en Urantia. (42:5.12)
 La función de los cinturones de aire superiores en la transmisión por radio consiste en reflejar las ondas de transmisión terrestres de vuelta a la Tierra, lo que permite la transmisión a larga distancia a pesar de las perturbaciones ocasionales causadas por las tormentas ionosféricas exteriores. (46:1.6) (58:2.10)
 Las ondas hertzianas, que se encuentran treinta octavas por debajo de la luz solar visible en el superuniverso, se utilizan para la transmisión por radio en Urantia. (42:5.1,12)
 
-radioactividad | | rayos X | | OK
+radioactividad; radioactiva; radiactivos | | rayos X | | OK
 La tendencia desorganizadora de los elementos más pesados ​​en la materia radiactiva se ve acentuada por el calor moderado y la presión de gravedad reducida. (42:3.11)
 El exceso de radiación en los átomos radiactivos se deriva de la fragmentación del mesotrón, lo que explica el fenómeno de emitir más energía de la esperada. (42:8.5)
 Los elementos radiactivos traídos por los meteoros revelan que Urantia tiene más de mil millones de años en su superficie. (57:7.3)
@@ -161,7 +161,7 @@ Rantowoc fue el primer mortal que consiguió un guardián personal del destino e
 Rantulia | | | PLACE | OK
 El sistema vecino de Rantulia desempeñó un papel crucial en la superación de la rebelión y en asegurar el triunfo de la lealtad y la verdad en Satania. (41:2.1) (53:6.5)
 
-rapto | | | | OK
+rapto; técnica de la desmaterialización | | | | OK
 En caso de que una catástrofe física condene al planeta, se utiliza la técnica de desmaterialización para transportar a todos los sobrevivientes a un nuevo mundo, mientras la evolución de una raza humana continúa independientemente. (51:2.3)
 
 racionalismo | | | | OK
@@ -178,12 +178,12 @@ María, la madre terrenal de Jesús, era descendiente de una larga línea de muj
 cuervos | | | | OK
 El Padre provee de alimento a todo aquel que lo busca, como los cuervos, así que no os preocupéis por las necesidades materiales, sino centraos en el progreso del alma. (165:5.2)
 
-comedores crudos | | | | OK
+comedores crudos; come crudo | | | | OK
 El término despectivo «comedores de alimentos crudos» surgió cuando el fuego condujo a la cocina, reduciendo el gasto de energía y permitiendo la cultura y las actividades sociales. (69:6.7)
 
 realidad | (0:4) | energía; materia; mente; morontia; personalidad; espacio; espíritu | | OK
 Dios, potencialmente presente en todo el universo, hace que todas las cosas se adhieran y consistan en él. (3:1.7)
-La finalización del ciclo de la realidad es inevitable. (106:812)
+La finalización del ciclo de la realidad es inevitable. (106:8.12)
 Identificarse con Dios es el camino hacia la verdadera realidad, que revela la naturaleza transitoria de la identidad no identificada de Dios y su destino autodeterminado en la arena del suprauniverso. (118:7.5)
 Las interrupciones defectuosas permiten al hombre vislumbrar la realidad divina en medio de las imperfecciones naturales del mundo. (4:2.7)
 La simetría elíptica de la realidad guía la evolución cósmica del universo maestro, equilibrando las fuerzas materiales y espirituales dentro del círculo de la diversidad infinita. (11:8.2) (103:6.14) (105:0.1)
@@ -321,7 +321,7 @@ Jesús y la realidad
 realización de la transición de la identidad | | | | OK
 El Ajustador pasa inmediatamente a la realización de la identidad al reunirse con el sujeto resucitado después de registrarse en Divinington y recibir el reconocimiento de los Monitores Personalizados. (112:4.13)
 
-siega | | | | OK
+siega; recoger | | | | OK
 La cosecha se hace de acuerdo con la siembra, y cultivar la paciencia y la confianza te sostendrá a través de todas las pruebas. (148:6.3) (192:2.8)
 
 Rebeca (hija de Esdras) | | | PERSON | OK
@@ -410,7 +410,7 @@ Originadores y guardianes de los registros
 	* serafines supervisores. Los serafines supervisores de Edentia actúan como registradores especiales de los asuntos de las constelaciones. (39:3.10)
 	* serafines supremos. Los registradores oficiales de los serafines supremos nacen con dones plenamente desarrollados o se ganan su posición mediante el estudio diligente y el desempeño fiel. (39:1.17)
 
-registros | | registradores; escritura | | OK
+registros; archivos; informes | | registradores; escritura | | OK
 Los maestros-registradores demuestran una maestría en la recopilación y coordinación inteligente de datos relacionados, colaborando con los artesanos celestiales e incluso con los mortales ascendentes. (48:6.30)
 Los registros son esenciales para la dirección de los universos, permitiendo a los Ancianos de los Días mirar instantáneamente en ambos sentidos, oír en ambos sentidos y conocer en ambos sentidos. (28:4.1)
 Los registros vivos de la ministración de misericordia, recopilados por la reflexividad, son los verdaderos registros espirituales preservados en las mentes vivientes de personalidades adecuadas. (17:3.6) (28:6.6)
@@ -431,7 +431,7 @@ Los registros celestiales
 	Los registros espirituales vivos, reunidos por la reflexividad y preservados en las mentes, son el legado de los Espíritus Reflectantes y su prole, los seconafines. (17:3.5-6)
 	El triple sistema seráfico de registros es mantenido por los Registradores en el templo de los registros en la capital del sistema. (39:4.16)
 
-recreación | | placeres; relajación; Directores de la reversión | | OK
+recreación; divertimiento; diversión; esparcimiento; divertirse; entretenimiento | | placeres; relajación; Directores de la reversión | | OK
 El humor y el juego sirven como ecos de una mirada al pasado, proporcionando rejuvenecimiento y evitando la tensión nerviosa perjudicial. (48:4.19)
 No es la voluntad del Padre que sus hijos participen sólo de cosas serias, sino que también encuentren alegría, felicidad y vida más abundante. (139:6.5)
 El juego
@@ -456,7 +456,7 @@ El juego en los cielos
 rectángulos (Jerusem) | | | PLACE | OK
 Los rectángulos de Jerusem sirven como puntos de encuentro para la vida indígena de menor nivel, en medio de una vasta y diversa gama de áreas residenciales y administrativas en toda la capital del sistema. (46:4)
 
-raza roja | (64:6.3-9) (79:5) | razas | RACE | OK
+raza roja; hombre rojo; hombres rojos; razas roja | (64:6.3-9) (79:5) | razas | RACE | OK
 historia
 	La raza roja, grupo inteligentísimo, fue un ejemplar notable de la raza humana, superior a Andón y Fonta, desarrollando una civilización y un gobierno tribal, siempre monógamo, con descendientes mixtos que rara vez practicaban el apareamiento plural. (64:6.3)
 	La raza roja, en contacto con las actividades del Príncipe Planetario, mantuvo la revelación de Dalamatia por más tiempo. (64:6.6) (68:0.3) (92:4.5)
@@ -522,7 +522,7 @@ creencias
 	La Raza Roja eligió la escritura pictórica en lugar de la escritura alfabética, lo que llevó a la pérdida de un idioma universal después de la deserción de Caligastia. (66:5.10)
 	La raza roja, especialmente en Centroamérica, eran caníbales debido a diversas razones como el hambre, los rituales o la guerra. (89:5.4)
 
-corrimiento al rojo | | | | OK
+corrimiento al rojo; desplazan igualmente hacia el rojo | | | | OK
 El error en la observación de las velocidades astronómicas está influido por factores interpuestos, que conducen a percepciones erróneas sobre el vuelo hacia el exterior de los cúmulos y corrientes estelares en el espacio. (12:4.12-15)
 La respiración espacial en ciclos de fase de expansión durante más de mil millones de años, con universos expandiéndose en una fase y contrayéndose en la siguiente, acercándose a límites equidistantes del Paraíso. (11:6.4)
 
@@ -532,13 +532,14 @@ La evolución desde la prostitución en el templo hasta el sacrificio simulado d
 La redención es la culminación de la evolución de las observancias religiosas desde los rituales de culto primitivos hasta los conceptos complejos de los reinos supramateriales, guiados en última instancia por curanderos, chamanes y sacerdotes. (90:0.1)
 El hombre primitivo se consideraba a sí mismo necesitado de redención de la deuda contraída con los espíritus. (89:0.1)
 
-secuoyas | (60:4.5) (61:3.1) | | | OK
+secuoyas; secoyas | (60:4.5) (61:3.1) | | | OK
 Onamonalonton tenía su sede entre los grandes árboles de secuoya de California, dirigiendo y brindando guía espiritual a los hombres rojos estadounidenses. (64:6.7)
 
-reflexiones | | | | OK
+reflexiones; reflejada | | | | OK
 Los reflejos eran temidos y reverenciados por el hombre primitivo, junto con las sombras y los espejos, considerados con superstición y admiración. (86:5.14)
 
-Enlaces Reflectores Innominados de Majeston | (30:1.110) | | ORDER | OK
+Enlaces Reflectores Innominados de Majeston | | | ORDER | OK
+Una de las órdenes no clasificadas y no reveladas del universo son los Enlaces Reflectivos Sin Nombre de Majeston. (30:1.110)
 
 Ayudantes Reflectantes de Imágenes | (17:4) | | ORDER | OK
 Siete Ayudantes Reflectantes de Imágenes residen en la capital del superuniverso, sirviendo como duplicados perfectos de sus Espíritus Reflectantes, facilitando la comunicación con los universos central y local. (15:10.2) (17:4.1)
@@ -622,7 +623,7 @@ La Reforma rompió la unidad del cristianismo en Europa, mientras que en Oriente
 el Refugio | | | RELIGION | OK
 Para convertirse en budista, uno simplemente recita el Refugio como una declaración de fe budista. (94:8.1)
 
-regulación (gubernamental) | | gobierno; policía | | OK
+regulación (gubernamental); reglamentación; reglamentados | | gobierno; policía | | OK
 La cooperación inteligente y la coordinación modernizada son más eficaces para gestionar a individuos altamente especializados en una sociedad especializada. (81:6.33)
 El gobierno global conducirá a una reducción de la regulación opresiva, permitiendo mayores libertades individuales. (134:6.10)
 La misión primordial del gobierno es definir, regular y hacer cumplir los derechos, incluida la regulación de la propensión sexual. (81:5.6)
@@ -665,7 +666,7 @@ No os dejéis engañar por el concepto de ideas estáticas; abrazad la verdad si
 La fórmula que iguala la energía y la materia establece que la masa aumenta en proporción a la energía dividida por el cuadrado de la velocidad de la luz. (42:4.11)
 En la realidad cósmica, la materia y la energía son manifestaciones diversas del mismo fenómeno presente en el Padre Universal, de quien todas las cosas consisten. (42:1.2)
 
-relajación | | facilidad; recreación; Directores de la reversión | | OK
+relajación; esparcimiento; distracción | | facilidad; recreación; Directores de la reversión | | OK
 Después de un estado de gran tensión nerviosa y emocional, Jesús condujo a los apóstoles a un retiro de relajación de tres días en el monte Sartaba, donde aprendieron el valor del descanso y la eficacia de la relajación. (143:3)
 La meditación establece el contacto de la mente con el espíritu; la relajación determina la capacidad de receptividad espiritual. (160:3.1)
 La relajación se encuentra en los ecos de una mirada al pasado, una revisión despreocupada del pasado que permite el rejuvenecimiento y la alegría. (48:4.12,19)
@@ -1048,7 +1049,7 @@ advertencias
 		El peligro de la religión formalizada reside en su tendencia a venerar el pasado por encima del presente, lo que limita su potencial para el bien y multiplica enormemente las posibilidades para el mal. (99:6.3)
 		La religión alcanza su máximo ministerio social cuando está libre de toda alianza secular, de prácticas sociales o económicas establecidas y permanece centrada en principios morales y espirituales. (99:0.1-2) (99:1.6) (99:2.3,5) (99:3.11) (99:6.3) (99:7.1) (194:3.9) (195:10.13,21)
 
-persona religiosa; practicantes de la religión; personas religiosas; creyentes; creyente | | hijos de Dios por la fe | | OK
+persona religiosa; practicantes de la religión; personas religiosas; creyentes; creyente; individuo verdaderamente religioso | | hijos de Dios por la fe | | OK
 Las convicciones acerca de Dios se alcanzan mediante un razonamiento sabio, pero uno llega a conocer a Dios sólo por la fe y la experiencia personal, atreviéndose a decir «yo sé» incluso cuando los incrédulos lo cuestionan. (102:6.5)
 Los miembros de los grupos religiosos sociales deben tener la libertad de expresar sus propias interpretaciones de las creencias y experiencias, ya que la unidad y la seguridad en un grupo religioso provienen de la unidad espiritual, no de la conformidad teológica. (103:5.12)
 El individuo verdaderamente religioso busca identificarse con el universo y dedicar actividades unificadas al servicio de la familia universal de seres semejantes, humanos y sobrehumanos, porque Dios es el destino eterno del hombre. (5:4.3)
@@ -1121,12 +1122,12 @@ advertencias
 
 guardianes religiosos | | Serafines maestros de la supervisión planetaria | ORDER | OK
 
-líderes religiosos en Roma | | | PERSON | OK
+líderes religiosos en Roma; dirigentes religiosos de Roma | | | PERSON | OK
 Jesús preparó a los líderes religiosos de Roma para los misioneros cristianos posteriores, realzando e iluminando la verdad de sus enseñanzas, allanando el camino para la rápida difusión del cristianismo por todo el imperio. (132:0.4-9)
 
 líderes religiosos (Jerusalén) | | sanedrín | | OK
 
-Cena del Recuerdo; cena del recuerdo; cena común en recuerdo; Cena del Señor | (179) | | | OK
+Cena del Recuerdo; cena del recuerdo; cena común en recuerdo; Cena del Señor; cena de conmemoración; nuevo sacramento de conmemoración | (179) | | | OK
 El origen antiguo de la comida sagrada justificaba la costumbre de comer ofrendas sacrificiales en un servicio de comunión. (89:4.10)
 La Cena del Recuerdo era originalmente una comida social con el sacramento al final, muy parecida a la Cena del Señor que se celebraba en aquellos días. (194:4.8)
 La Cena del Recuerdo conmemora la dádiva del Espíritu de la Verdad por parte de Jesús, cuando bendijo la copa de bendición y estableció una nueva dispensación de gracia y verdad para que todos la recordaran. (179:5.1,9)
@@ -1177,13 +1178,13 @@ De las ranas surgió el reino reptil, que condujo a la evolución de las aves, l
 
 investigación | | educación | | OK
 
-resentimiento | | envidia | | OK
+resentimiento; rencor | | envidia | | OK
 El resentimiento subconsciente de Judas hacia Jesús, arraigado en las heridas no sanadas de la desilusión y la amargura, acabó convirtiendo su amor en odio. (177:4.11)
 La imaginación creativa inhibida por el resentimiento sofoca el potencial de creatividad constructiva y espontánea en los individuos. (111:4.9)
 Judas se convirtió cada vez más en víctima del resentimiento, cavilando sobre la desilusión personal y sospechando cada vez más de sus amigos, llegando incluso a traicionar a su Maestro. (139:12.9)
 Descubra los verdaderos valores de la vida amando a Dios y comprendiendo y discerniendo con simpatía los puntos de vista de los demás para superar el resentimiento y fomentar la tolerancia, la amistad y, en última instancia, el amor. (100:4.4)
 
-cuerpo de reserva | | | PERSON | OK
+cuerpo de reserva; Reservas; Cuerpo de Reserva | | | PERSON | OK
 Setenta divisiones en Uversa componen el vasto cuerpo de reserva de seres que no están bajo nuestra supervisión inmediata. (30:3.10)
 El cuerpo de reserva de serafines angélicos no está inactivo, ya que desempeña diversas funciones importantes dentro de las constelaciones y en misiones especiales. (39:3.11)
 órdenes que poseen
@@ -1194,7 +1195,7 @@ El cuerpo de reserva de serafines angélicos no está inactivo, ya que desempeñ
 	* Hijos abrazados por la Trinidad. El cuerpo de reserva de Hijos abrazados por la Trinidad en Uversa sirve como el cuerpo directivo central para su orden en Orvonton, participando en una amplia gama de deberes importantes y diversos dentro del superuniverso. (22:3.2) (22:6.3)
 	* Hijos Instructores Trinitarios. El cuerpo de reserva de Hijos Instructores de la Trinidad del Paraíso sirve en todo el gran universo, incluyendo en planetas individuales, en los universos locales y en los mundos de Havona. (19:1.3)
 
-cuerpo de reserva del destino | (114:7) | reservistas | ORDER | OK
+cuerpo de reserva del destino; cuerpos de reserva del destino | (114:7) | reservistas | ORDER | OK
 La división de servicio celestial de cada planeta cuenta con el apoyo de un cuerpo de enlace correspondiente del cuerpo de reserva del destino, y Urantia se beneficia de doce de esos cuerpos alineados con sus grupos de supervisión seráfica. (114:7.7)
 La función principal del cuerpo de reserva del destino es asegurar contra el fracaso del progreso. (114:6.20)
 El cuerpo de reserva del destino, que constaba de 962 mortales en 1934, es un grupo preparado de habitantes de Urantia, entrenados para desempeñar funciones cruciales en emergencias planetarias, y cuyos miembros desconocen su posible participación. (114:7.8,13)
@@ -1240,7 +1241,7 @@ resistencia | | dificultades; no resistencia | | OK
 El hombre primitivo reconoció rápidamente los beneficios de la asociación, que conducían a la organización y la división del trabajo mediante la adaptación a la presión y la búsqueda de caminos de menor resistencia. (69:2.3)
 Tras haber dado el primer paso por el camino de menor resistencia, Pedro no vio otra alternativa que continuar por el camino que había decidido. (184:2.12)
 
-resoluciones | | juramentos; promesas | | OK
+resoluciones; propósitos | | juramentos; promesas | | OK
 El acto es nuestro; las resoluciones son para los débiles, la acción es para los fuertes. (48:7.13)
 
 respeto | | respeto por uno mismo | | OK
@@ -1423,7 +1424,7 @@ Apocalipsis | | Juan Zebedeo | | OK
 La confusa visión de Juan en el Libro del Apocalipsis combina símbolos de los siete espíritus de Dios con los majestuosos asientos de los veinticuatro ancianos en Jerusalén. (34:4.11-12)
 Los fragmentos que sobrevivieron de una gran revelación al apóstol Juan están contenidos en el Libro del Apocalipsis, muy abreviado y distorsionado. (139:4.14)
 
-venganza | | ira; miedo; odio | | OK
+venganza; revancha | | ira; miedo; odio | | OK
 El canibalismo era una ceremonia solemne de venganza, que consistía en destruir el fantasma del enemigo y fundirlo con el del devorador, sin que la mente salvaje mostrara pretensiones de coherencia. (89:5.5-6)
 El carácter se mide por la capacidad de resistir el rencor, sin buscar venganza sino teniendo fe en la verdad y amor por los demás. (140:8.5) (156:5.17)
 La imaginación creativa inhibida por el prejuicio, el odio, los temores, los resentimientos, la venganza y la intolerancia produce frutos indignos. (111:4.9)
@@ -1471,7 +1472,7 @@ Continuar la evolución de las costumbres es esencial; intentar un cambio genera
 El hombre debe experimentar valientemente con los mecanismos sociales, guiado por la pericia de la evolución y la experiencia sociales, reconociendo la necesidad de ajustes graduales en los cambios sociales y económicos. (81:6.40)
 Jesús rechazó las técnicas revolucionarias de Caligastia en favor de establecer el reino de los cielos mediante la transformación espiritual en los corazones de los hombres. (136:9.2)
 
-revolución (movimiento) | | elipse | | OK
+revolución (movimiento); rotación | | elipse | | OK
 Todas las unidades de energía cósmica están en revolución perpetua, ejecutando su misión dentro de la órbita universal. (12:4.1)
 
 recompensa | | logro; karma; lucro | | OK
@@ -1485,7 +1486,7 @@ La verdadera religión es conocer a Dios como Padre y al hombre como hermano, no
 Vivir una vida recta trae consigo una satisfacción profunda que trasciende cualquier recompensa material, convirtiendo cada momento en esta esfera mortal en un eslabón valioso en una cadena eterna de experiencias. (39:4.13)
 Hace 800.000 años, los cazadores neandertales exitosos pudieron elegir esposas, lo que mejoró su habilidad para la caza y condujo a una religión primitiva de temor y sacrificios humanos. (64:4.2,12)
 
-río Rin | | | PLACE | OK
+río Rin; Rin | | | PLACE | OK
 La cultura nórdica y danubiana se mezcló a lo largo del río Rin, creando dos grupos raciales distintos en la Alemania actual. (80:9.3)
 
 rinocerontes | | | | OK
@@ -1507,10 +1508,10 @@ El arroz, que se arrojaba a los recién casados ​​para asegurar la fecundida
 
 el rico | | riqueza:personas que poseen riqueza | | OK
 
-rico y mendigo | | | | OK
+el rico y el mendigo | | | | OK
 La parábola nazarea del hombre rico y el mendigo sirve como una advertencia eterna sobre los peligros de amar las riquezas y las riquezas deshonestas. (169:3)
 
-rico de Roma | | | PERSON | OK
+rico de Roma; hombre rico, ciudadano romano | | | PERSON | OK
 El consejo de Jesús a un hombre romano rico fue que dividiera su riqueza heredada y la distribuyera sabiamente, compensando cualquier ganancia mal habida (132:5)
 Jesús enseñó que no estaba mal tener riqueza, pero enfatizó la responsabilidad de ayudar a los menos afortunados y condenó la explotación de los débiles por parte de los fuertes (163:2.11)
 
@@ -1526,7 +1527,7 @@ La traición de Judas fue alimentada por la poderosa influencia del ridículo de
 Pedro se debilitó ante el ridículo, a pesar de su gran fuerza de devoción a Jesús. (139:2.6) (184:2.8)
 Los saduceos intentaron exponer a Jesús al ridículo, pero sólo lograron granjearse más simpatía por él. (174:3.5)
 
-Rig-Veda | | hinduismo | RELIGION | OK
+Rig-Veda; Rig Veda | | hinduismo | RELIGION | OK
 Los brahmanes seleccionaron escritos sagrados para crear el Rig-Veda con el fin de
 El Rig-Veda fue compilado por los brahmanes para combatir a los maestros de Salem y se ha convertido en uno de los libros sagrados más antiguos. (94:1.7)
 El Rig-Veda destaca la distinción entre la mente y el corazón para comprender el concepto de alma. (111:0.7)
@@ -1538,7 +1539,7 @@ La definición y el cumplimiento de los derechos están asociados con los debere
 En la antigüedad, la fuerza todavía era el derecho, pero con el tiempo evolucionó hacia un gobierno representativo basado en la capacidad. (70:11.13) (70:12.2)
 Los cultistas de fantasmas practican la conducta y las ceremonias correctas para ganarse la cooperación de los espíritus. (87:5.12)
 
-mano derecha del padre | | | | OK
+mano derecha del padre; la derecha del Padre; la derecha del Padre Universal; la diestra del Padre; la diestra de Dios | | | | OK
 Los Hijos Creadores proceden a la diestra del Padre después de cada otorgamiento, recibiendo aceptación e instrucciones para su siguiente servicio universal. (21:4.4) (52:5.6)
 Jesús ascendió a la diestra del Padre para recibir su soberanía completa sobre el universo de Nebadon. (120:3.10) (136:3.5) (142:7.13) (182:1.3) (193:5.5)
 Los hombres ordenados por Jesús proclaman ahora al Cristo resucitado, exaltado por el poder de Dios a la diestra del Padre, cumpliendo las profecías de antaño. (194:4.4)
@@ -1592,7 +1593,7 @@ derechos | | derechos humanos | | OK
 Rimón | | | PLACE | OK
 Jesús predicó en Rimón para aclarar las diferencias entre las creencias babilónicas y zoroastrianas y el nuevo evangelio del reino. (146:1)
 
-anillo | | | | OK
+anillo; anillos | | | | OK
 Las mujeres casadas están separadas por tabúes restrictivos y símbolos como los anillos. (82:2.5)
 El anillo del hijo pródigo le fue devuelto por su padre, lo que significa su perdón y su aceptación de nuevo en la familia. (169:1.9)
 
@@ -1606,21 +1607,21 @@ Las primeras culturas humanas surgieron a lo largo de los ríos del hemisferio o
 Jerusalén y Edentia abundan en lagos centelleantes y arroyos interconectados, pero carecen de ríos caudalosos. (43:1.1) (46:2.2)
 En los enlaces se encuentra una lista de los ríos nombrados en El libro de Urantia. | río Colorado; Danubio; Don; río Éufrates; Ganges; río Hudson; Indo; Jaboc; río Jordan; río Misisipí; Cataratas del Niágara; Nilo (valle); río Ohio; río Rin; río Somme; río San Lorenzo; río Susquehanna; cuenca de Tarim; río Tigris; Volga; río Yangtze; río Amarillo
 
-camino de ladrones | | | PLACE | OK
+la ruta de los ladrones; carretera | | | PLACE | OK
 Viajando de Jericó a Betania por el camino de los ladrones, se encontraron con el famoso Barrabás, un ladrón asesino que iba a morir después de la Pascua. (171:6.4) (185:5.3)
 
-caminos | | | | OK
+calzadas; carreteras | | | | OK
 Gonod y Ganid caminaron tranquilamente por Italia por la Vía Apia, y se encontraron con una mezcla de ciudadanos romanos nobles, colonos griegos y la progenie de esclavos inferiores. (133:0.2)
 Jesús estableció su cuartel general en Beit Jenn y viajó por el camino de Damasco para enseñar en Cesarea de Filipo. (134:8.1) (155:2.1) (158:7.1) (196:2.1)
 Durante la época de Jesús, las buenas carreteras interconectadas facilitaban el comercio y los viajes entre los principales centros del mundo mediterráneo unificado. (121:1.7)
 Los viajeros siguieron el infame camino de los ladrones hasta Betania, donde se encontraron con el nombre del criminal Barrabás. (171:6.4) (185:5.3)
 Los romanos construyeron carreteras a través de territorios definidos. (71:1.20)
 
-ropajes | | | | OK
+ropajes; túnicas; vestido | | | | OK
 Los gobernantes egocéntricos se deleitan en llevar largas vestiduras y buscan el honor de los hombres, pero por dentro son como sepulcros blanqueados llenos de huesos de muertos y de inmundicia espiritual. (166:1.5) (175:1.9)
 El hijo pródigo, a su regreso, fue abrazado por su amoroso padre y adornado con una túnica, un anillo y sandalias. (169:1.9)
 
-rocas y minerales | | elementos (químicos) | | OK
+rocas y minerales; roca | | elementos (químicos) | | OK
 Los cantos rodados, la evidencia distintiva de la acción glacial, se yerguen como testigos silenciosos de la poderosa fuerza del hielo en la remodelación de la superficie de la Tierra. (61:7.1)
 Las capas del Cámbrico empujaron hacia arriba el Cretácico en la Columbia Británica durante las distorsiones de la corteza en la región de las Montañas Rocosas hace 70.000.000 de años. (60:3.14)
 El culto mitraico retrataba a un dios militante con orígenes en una gran roca, que participaba en valientes hazañas y hacía que el agua brotara a borbotones de una roca golpeada. (98:5.3)
@@ -1628,10 +1629,10 @@ Las rocas más antiguas, depositadas por el agua y con restos fósiles, a menudo
 La harina de roca, un producto glacial, es una evidencia distintiva del impacto transformador del hielo en la topografía. (61:7.1)
 En los enlaces se encuentra una lista de rocas y minerales nombrados en El libro de Urantia. | ámbar; antracita; basalto; tiza; arcilla; carbón; conglomerados; cristales; pedernal; granito; marga de arenisca verde; yeso; lava; lignito; caliza; mármol; cuarzo; sal; arenisca; esquisto; pizarra; piedra
 
-montañas Rocosas | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | OK
+montañas Rocosas; Montañas Rocosas | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | OK
 Los dinosaurios enterrados en las Montañas Rocosas alguna vez vagaron por todos los rincones del planeta, excepto Australia. (60:2.2)
 
-Rodán de Alejandría | (160) (161) | | PERSON | OK
+Rodán de Alejandría; Rodán | (160) (161) | | PERSON | OK
 Rodán de Alejandría armonizó la filosofía con el judaísmo de una manera que influyó profundamente en el pensamiento ético y religioso del mundo occidental. (121:6.3-6) (130:3.9) (146:1.3)
 Natanael y Tomás continuaron sus conversaciones con Rodán de Alejandría, quien había sido bien instruido en las enseñanzas de Jesús por un ex apóstol de Juan el Bautista. (161:0.2)
 Rodan de Alejandría instruyó a los griegos que estaban indagando acerca del reino. (177:3.5)
@@ -1664,10 +1665,10 @@ La Iglesia Católica Romana promueve la paz entre las religiones reconociendo la
 La Iglesia Católica Romana se convirtió en una amenaza espiritual en la galaxia de los santos durante los siglos oscuros y desesperanzadores en que la religión se volvió prácticamente de segunda mano. (195:4.2)
 La iglesia medieval totalitaria fue la madre del secularismo moderno, que ha sido fomentado tanto por la ciencia atea como por el pensamiento humanista durante los últimos trescientos años, lo que ha llevado a un alejamiento del dominio de la iglesia cristiana institucionalizada hacia una sociedad más secular. (195:8.2-4)
 
-centurión romano en Corinto | | | PERSON | OK
+centurión romano en Corinto; centurión romano | | | PERSON | OK
 Jesús afirmó que la lealtad a Dios sólo aumenta la lealtad a un emperador digno, recordando al centurión romano que debía dar al César lo que es del César y a Dios lo que es de Dios. (133:4.3)
 
-centurión romano de Jerusalén | | | PERSON | OK
+centurión romano de Jerusalén; capitán; capitán romano; centurión romano; capitán de la guardia; centurión | | | PERSON | OK
 Jesús reveló valientemente su identidad al capitán romano, frustrando así el plan de Judas de traicionarlo. (183:3.4,9)
 Simón de Cirene, obligado por un centurión romano a llevar la viga transversal de Jesús, llegó a ser un valiente creyente en el evangelio del reino y condujo a su familia al reino celestial. (187:1.10)
 El centurión romano de Jerusalén, habiendo presenciado la crucifixión, creyó en Jesús y entró en plena comunión con el reino de los cielos en la tierra. (187:4.4) (187:5.4)
@@ -1679,7 +1680,7 @@ El centurión romano de Jerusalén se paró a horcajadas sobre el cuerpo del Mae
 El centurión romano de Jerusalén le contó a Lucas la historia del ladrón en la cruz. (187:4.3)
 El centurión romano de Jerusalén llevó a Jesús a Anás por acuerdo previo después de que surgiera una disputa con el capitán judío de los guardias del templo. (183:5.1) (184:0.1)
 
-Imperio Romano | (98:3) | romanos; Roma | | OK
+Imperio Romano; imperio romano; Estado romano | (98:3) | romanos; Roma | | OK
 El éxito del Imperio Romano se basó en los atributos del estado romano, entre ellos la familia paterna, la agricultura, la concentración de la población en las ciudades, la propiedad privada, la esclavitud, la conquista, un territorio definido con caminos y gobernantes personales y fuertes. (71:1.13-21)
 El Imperio Romano comprendía una población diversa de todos los rincones del hemisferio oriental, lo que inspiró a Jesús a emprender su viaje entre ellos. (132:0.3)
 Razones de la decadencia
@@ -1723,24 +1724,24 @@ Fortalezas y debilidades
 	El cristianismo llenó un vacío en Roma al ofrecer un concepto de altruismo que anteriormente faltaba. (195:3.3)
 	Las fortalezas y debilidades del Imperio romano se centraban en su exitoso estado basado en la familia, la agricultura, las ciudades, la conquista y los gobernantes personales, con una gran debilidad en sus liberales disposiciones para la emancipación que llevaron a una rápida degeneración interna y al colapso final. (71:1.13-22)
 
-juez romano en Corinto | | | PERSON | OK
+juez romano en Corinto; juez romano | | | PERSON | OK
 La conversación de Jesús con el juez romano de Corinto hizo hincapié en el juicio justo, recordándole la responsabilidad universal por la justicia y la misericordia (133:4.7)
 
-magistrado romano en Roma | | | PERSON | OK
+magistrado romano en Roma; magistrado | | | PERSON | OK
 El discurso de Jesús con el magistrado romano en Roma sobre la justicia y la misericordia fue una poderosa demostración de su compromiso de garantizar la equidad y la integridad en el sistema legal de una nación. (132:4.8)
 
 senador romano | | | PERSON | OK
 Las conversaciones de Jesús con un senador romano desencadenaron un esfuerzo que duró toda su vida para cambiar la política gubernamental hacia personas que apoyaban al gobierno. (132:4.5)
 
-soldado romano en Roma | | | PERSON | OK
+soldado romano en Roma; soldado romano | | | PERSON | OK
 Durante la conversación que Jesús mantuvo con un soldado romano en Roma, le instó a ser valiente, justo, misericordioso, noble, veraz, virtuoso, amoroso y a buscar a Dios con todo el corazón. (132:4.6)
 
-soldados romanos en Jerusalén | | | PERSON | OK
+soldados romanos en Jerusalén; soldados romanos; legionarios romanos | | | PERSON | OK
 Los soldados romanos de Jerusalén fueron sobornados para que dijeran que los discípulos se habían llevado el cuerpo de Jesús cuando huyeron despavoridos de la tumba (189:2.4)
 Los soldados romanos de Jerusalén huyeron cuando se quitó la piedra de la tumba de Jesús (189:2.4)
 Sensibles a la falta de respeto de los judíos, los soldados romanos de Jerusalén arrestaron rápidamente a Judas por expresar una indignación ardiente hacia un guardia que hizo comentarios inapropiados (128:6.5)
 
-romance | | | | OK
+romance; romanticismo | | | | OK
 Los antiguos creían en poderosos amuletos de amor hechos de diversos ingredientes místicos. (88:5.2)
 La contribución andita a la evolución de las relaciones entre los sexos incluye el aumento del amor, el romance y la selección personal en el cortejo prematrimonial. (83:2.5)
 El cortejo imaginativo alimenta las tasas de divorcio, exacerbado por la autonomía de las mujeres, la independencia económica y el divorcio fácil como una regresión hacia etapas sociales primitivas. (83:7.7)
@@ -1761,30 +1762,30 @@ El hijo de Tito de Capernaúm fue martirizado en Roma después de convertirse en
 Rómulo | | | PERSON | OK
 Los romanos conservaron la tradición de repudiar a un niño, salvado por intervención divina, como en los cuentos de Rómulo. (89:7.3)
 
-techo | | | | OK
+techo; tejado | | | | OK
 La mayoría de las estructuras del mundo de las mansiones no tienen techo, lo que muestra una construcción magnífica y un adorno exquisito en recintos abiertos. (48:3.15)
 María aseguró la educación de Jesús enseñándole a cuidar el jardín y proporcionándole un dormitorio de verano en el techo para sus estudios de idiomas. (123:2.14)
 Se quitaron las tejas para bajar al paralítico hasta Jesús para que lo sanara. (148:9.2)
 
 gallos | | aves de corral | | OK
 
-cabezas redondas | | | RACE | OK
+cabezas redondas; cabeza redonda | | | RACE | OK
 Hacia el año 5000 a. C., los andonitas dominaban el valle del Danubio y Europa central, junto con el hombre azul. (80:5.8)
 
 derechos de autor | | | | OK
 Las regalías recaudadas por el gobierno de la principal nación continental de un planeta habitado cercano apoyan a los inventores y creadores de los laboratorios regionales. (72:7.10)
 
-tribu de Rubén | | | RACE | OK
+tribu de Rubén; Rubén | | | RACE | OK
 Jesús subió a Jerusalén con José para celebrar la Pascua, y compartió con él las historias de la supuesta tribu de Rubén. (128:1.14)
 
-rufianes en Nazaret | | | PERSON | OK
+rufianes en Nazaret; hombres rudos y groseros; rufianes | | | PERSON | OK
 Los rufianes de Nazaret contratados para acosar a Jesús en la sinagoga finalmente fracasaron en su intento de hacerle daño. (150:7.3) (150:8.11) (150:9)
 
 Rufo | | | PERSON | OK
 Rufo, hijo de Simón de Cirene, llegó a ser un eficaz maestro del evangelio en África. (187:1.10)
 Jesús ayudó a Rufo después de que éste fue herido por una carreta de bueyes, y sin saberlo ayudó al hombre cuya cruz Simón más tarde llevaría. (130:6.6)
 
-regla de vida | | regla de oro | | OK
+regla de vida; reglas de vida | | regla de oro | | OK
 El antiguo camino es la represión y la conformidad con las reglas de vida; el nuevo camino es la transformación por el Espíritu de la Verdad, que conduce a la fe personal en las promesas de Dios y a convertirse en templos de Dios. (143:2.4)
 
 reglas | | ley | | OK
@@ -1792,7 +1793,7 @@ reglas | | ley | | OK
 rumiantes | | | | OK
 Aparecieron rumiantes como ciervos, bueyes, camellos, bisontes y rinocerontes, que pronto invadieron América del Norte, mientras que los cerdos gigantes de más de seis pies de altura se extinguieron. (61:3.5)
 
-muchacho fugitivo en Corinto | | Fortunato | PERSON | OK
+muchacho fugitivo en Corinto; muchacho fugitivo | | Fortunato | PERSON | OK
 La conversación de Jesús con el muchacho fugitivo enfatizó la imposibilidad de huir de Dios y de uno mismo, instándolo a abrazar su verdadera identidad y enfrentar la vida con coraje y sabiduría. (133:4.11)
 
 Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Siberia | PLACE | OK

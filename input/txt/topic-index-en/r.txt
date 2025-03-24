@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-rabbis | | Judaism | | OK
+rabbis; rabbi; Rabbi | | Judaism | | OK
 These self-centered rulers, desiring to be called rabbi, crave honor from men while secretly exploiting others for gain. (175:1.9)
 Jesus, the Rabbi, led these believers to be unafraid of his divinity, fostering a bond of friendship with God incarnate in human form. (137:7.2) (142:2.1,5) (142:6.3)
 Only a rabbi was qualified to act as a judge in matters brought for adjudication. (173:2.3)
@@ -111,12 +111,12 @@ racial interpreters | (48:6.22-23) | seraphim | ORDER | OK
 Racial interpreters assist in educating surviving mortals on the seven mansion worlds as part of the 2nd order of transition minister seraphim. (39:6.1)
 Racial interpreters, seraphim who harmonize varied viewpoints of races, serve to unify distinct racial types and social tendencies among mortal beings on different worlds. (48:6.22)
 
-radio broadcasting | | | | OK
+radio broadcasting; broadcasting; broadcasts; radiobroadcasts; radio transmission; broadcasting | | | | OK
 Hertzian waves utilized for broadcasting on Urantia. (42:5.12)
 The role of upper air belts in radio broadcasting involves reflecting terrestrial broadcast waves back to the ground, enabling long-distance transmission despite occasional disturbances from outer ionospheric storms. (46:1.6) (58:2.10)
 Hertzian waves, found thirty octaves below visible sunlight in the superuniverse, are utilized for radio broadcasting on Urantia. (42:5.1,12)
 
-radioactivity | | X rays | | OK
+radioactivity; Radioactive; radioactive | | X rays | | OK
 The disorganizing tendency of heavier elements in radioactive matter is heightened by moderate heat and diminished gravity pressure. (42:3.11)
 Excess radiation in radioactive atoms is derived from the breaking up of the mesotron, explaining the phenomenon of emitting more energy than expected. (42:8.5)
 The radioactive elements brought in by meteors reveal that Urantia is over one billion years old on its surface. (57:7.3)
@@ -133,7 +133,7 @@ One of the towns visited by Jesus, the twelve and the seventy, during the Perea 
 
 rage | | anger | | OK
 
-rain | | drought | | OK
+rain; raindrops | | drought | | OK
 Solar energy does not proceed in waves, but in direct lines, just as raindrops appear to come down in waves but are actually in separate drops. (41:5.7)
 For thousands of years, rain began when the atmosphere cooled, enveloping Urantia in a continuous blanket of steam. (57:7.7)
 God's love is like rain, falling on the just and unjust alike. (2:5.1) (131:10.4) (140:3.16) (166:4.4)
@@ -161,10 +161,10 @@ Rantowoc was the first mortal to secure a personal guardian of destiny on Uranti
 Rantulia | | | PLACE | OK
 The neighboring system of Rantulia played a crucial role in overcoming rebellion and ensuring the triumph of loyalty and truth in Satania. (41:2.1) (53:6.5)
 
-rapture | | | | OK
+rapture; dematerialization technique | | | | OK
 In the event of a physical catastrophe dooming the planet, the dematerialization technique is used to transport all survivors to a new world, while the evolution of a human race continues independently. (51:2.3)
 
-rationalism | | | | OK
+rationalism; Rationalism | | | | OK
 Rationalism leans toward the world of matter, while idealism inclines toward the spiritual, and leaning on metaphysics leads to skepticism and confusion in philosophy's interpretations of reality. (103:6.14)
 Rationalism is wrong to assume that primitive beliefs precede the pursuit of values in religion, as religious values are the primary focus before forming interpretative beliefs. (103:1.4)
 
@@ -183,7 +183,7 @@ The term of derision “raw eaters” emerged as fire led to cooking, reducing e
 
 reality | (0:4) | energy; matter; mind; morontia; personality; space; spirit | | OK
 God, potentially present throughout the universe, causes all things to adhere and consist in him. (3:1.7)
-The completion of the cycle of reality is inevitable. (106:812)
+The completion of the cycle of reality is inevitable. (106:8.12)
 Becoming God identified is the path to true reality, revealing the transient nature of God-unidentified selfhood and self-determined destiny in the superuniverse arena. (118:7.5)
 Defect-interruptions permit man to glimpse divine reality amidst the natural imperfections of the world. (4:2.7)
 The elliptic symmetry of reality guides the cosmic evolution of the master universe, balancing material and spiritual forces within the circle of infinite diversity. (11:8.2) (103:6.14) (105:0.1)
@@ -321,7 +321,7 @@ Jesus and reality
 realization of identity transition | | | | OK
 The Adjuster immediately transitions into identity realization upon rejoining the resurrected subject after registering at Divinington and receiving recognition from the Personalized Monitors. (112:4.13)
 
-reaping | | | | OK
+reaping; reap | | | | OK
 The reaping is in accordance with the sowing, and cultivating patience and trust will sustain you through all trials. (148:6.3) (192:2.8)
 
 Rebecca (daughter of Ezra) | | | PERSON | OK
@@ -389,7 +389,7 @@ Jesus
 	He is quick to recognize and generously acknowledge faith in others, combining humanity and divinity in his perfect emotional control. (161:2.5)
 	Jesus recognized truth in teachings of others and conveyed originality through emphasis on love and mercy over fear and sacrifice. (100:7.5)
 
-recorder-teachers | (48:6.30-33) | seraphim | ORDER | OK
+recorder-teachers; Recorder-Teachers | (48:6.30-33) | seraphim | ORDER | OK
 Recorder-teachers are 6th order transition minister seraphim. They work on the seventh mansion world is essential for guiding surviving mortals in their transition to the spiritual estate. (39:6.1)
 Seraphim recorder-teachers skillfully record and instruct on morontia transactions and the artistry of data assembly. (48:6.30)
 
@@ -410,7 +410,7 @@ originators and keepers of records
 	* supervisor seraphim. Supervisor seraphim on Edentia act as special recorders of constellation affairs. (39:3.10)
 	* supreme seraphim. The official recorders for the supreme seraphim are born with fully developed gifts or earn their positions through diligent study and faithful performance. (39:1.17)
 
-records | | recorders; writing | | OK
+records; record | | recorders; writing | | OK
 Recorder-teachers demonstrate an artistry in the intelligent assembly and coordination of related data, collaborating with celestial artisans and even ascending mortals. (48:6.30)
 Records are essential to the conduct of universes, enabling the Ancients of Days to instantly look both ways, hear both ways, and know both ways. (28:4.1)
 The live records of mercy ministration, assembled by reflectivity, are the true spiritual records preserved in the living minds of suitable personalities. (17:3.6) (28:6.6)
@@ -431,7 +431,7 @@ celestial records
 	Live spiritual records, assembled by reflectivity and preserved in minds, are the legacy of the Reflective Spirits and their offspring, the seconaphim. (17:3.5-6)
 	The threefold seraphic system of records is maintained by the Recorders in the temple of records on the system capital. (39:4.16)
 
-recreation | | pleasures; relaxation; reversion directors | | OK
+recreation; Recreation | | pleasures; relaxation; reversion directors | | OK
 Humor and play serve as echoes of a backward glance, providing rejuvenation and preventing injurious nervous tension. (48:4.19)
 It is not Father's will that his children should partake only of serious things, but also find joy, gladness, and life more abundantly. (139:6.5)
 play
@@ -456,7 +456,7 @@ play in heavens
 rectangles (Jerusem) | | | PLACE | OK
 Rectangles on Jerusem serve as rendezvous points for lower native life, amid a vast and diverse array of residential and administrative areas across the system capital. (46:4)
 
-red race | (64:6.3-9) (79:5) | races | RACE | OK
+red race; red man; red men; red; red races | (64:6.3-9) (79:5) | races | RACE | OK
 history
 	The red race, a most intelligent group, was a remarkable specimen of the human race, superior to Andon and Fonta, developing a tribal civilization and government, always monogamous, with mixed descendants seldom practicing plural mating. (64:6.3)
 	The red race, in touch with activities of Planetary Prince, held Dalamatia revelation longest. (64:6.6) (68:0.3) (92:4.5)
@@ -522,7 +522,7 @@ beliefs
 	The red race chose preferred pictorial writing over alphabet writing, leading to the loss of a universal language after the Caligastia defection. (66:5.10)
 	The red race, especially in Central America, were cannibals due to various reasons like hunger, ritual, or war. (89:5.4)
 
-red shift | | | | OK
+red shift; displaced towards the red | | | | OK
 Error in the observation of astronomic velocities is influenced by interposing factors, leading to misleading perceptions about the outward flight of starry clusters and streams in space. (12:4.12-15)
 Space respiration in expansion phase cycles for over one billion years, with universes expanding in one phase and contracting in the next, approaching equidistant limits from Paradise. (11:6.4)
 
@@ -532,13 +532,14 @@ The evolution from temple prostitution to mock sacrifice of daughters was a form
 Redemption is the culmination of the evolution of religious observances from primitive cult rituals to complex concepts of the supermaterial realms, ultimately guided by medicine men, shamans, and priests. (90:0.1)
 Primitive man regarded himself as standing in need of redemption from the debt owed to the spirits. (89:0.1)
 
-redwoods | (60:4.5) (61:3.1) | | | OK
+redwoods; redwood | (60:4.5) (61:3.1) | | | OK
 Onamonalonton maintained headquarters among the great redwood trees of California, leading and delivering spiritual guidance to the American red men. (64:6.7)
 
-reflections | | | | OK
+reflections; reflection | | | | OK
 Reflections were both feared and revered by early man, alongside shadows and mirrors regarded with superstition and awe. (86:5.14)
 
-Reflectivator Liaisons of Majeston; Unnamed Reflectivator Liaisons of Majeston | (30:1.110) | | ORDER | OK
+Reflectivator Liaisons of Majeston; Unnamed Reflectivator Liaisons of Majeston | | | ORDER | OK
+One of the unclassified and unrevealed orders of the universe are Unnamed Reflectivator Liaisons of Majeston. (30:1.110)
 
 Reflective Image Aids | (17:4) | | ORDER | OK
 Seven Reflective Image Aids reside on the superuniverse capital, serving as perfect duplicates of their Reflective Spirits, facilitating communication with the central and local universes. (15:10.2) (17:4.1)
@@ -622,7 +623,7 @@ The Reformation disrupted unity of Christianity in Europe, while in the Orient, 
 Refuge | | | RELIGION | OK
 To become a Buddhist, one merely recites the Refuge as a statement of Buddhist faith. (94:8.1)
 
-regulation (governmental) | | government; police | | OK
+regulation (governmental); regulated | | government; police | | OK
 Intelligent co-operation and modernized coordination are more effective for managing highly specialized individuals in a specialized society. (81:6.33)
 Global government will lead to a reduction in oppressive regulation, allowing for greater individual liberties. (134:6.10)
 The government's prime mission is to define, regulate, and enforce rights, including the regulation of the sex propensity. (81:5.6)
@@ -645,7 +646,7 @@ The stultifying belief in weary and monotonous lives perpetuated a fear of endle
 reindeer | (61:7.13) | | | OK
 Neanderthalers hunted reindeer for food, clothing, and tools, greatly improving their work with flint. (64:4.3)
 
-relationships | | friendship; groups | | OK
+relationships; interrelationships | | friendship; groups | | OK
 In the cosmic system, two beings are in partnership; three or more create a group, signifying the unification and coordination of relationships within a larger whole. (39:3.6) (112:1.17)
 Unity begets duality, duality begets triunity, and triunity is the eternal ancestor of all things within the three great classes of primordial relationships. (105:4.3-8)
 As ascending mortals, all these celestial companionships are invariably mutual and enriching, benefiting both parties in unique ways. (27:3.4)
@@ -665,7 +666,7 @@ Do not be misled by concept of static ideas; embrace the ever-changing truth of 
 The formula equating energy and matter states that mass increases in proportion to energy divided by the square of the velocity of light. (42:4.11)
 In the cosmic reality, matter and energy are diverse manifestations of the same phenomenon present in the Universal Father, from whom all things consist. (42:1.2)
 
-relaxation | | ease; recreation; reversion directors | | OK
+relaxation; relax | | ease; recreation; reversion directors | | OK
 After a state of great nervous and emotional tension, Jesus led the apostles on a three-day relaxation retreat on Mount Sartaba, where they learned the value of rest and the efficacy of relaxation. (143:3)
 Meditation makes the contact of mind with spirit; relaxation determines capacity for spiritual receptivity. (160:3.1)
 Relaxation is found in the echoes of a backward glance, a carefree review of the past that allows for rejuvenation and merriment. (48:4.12,19)
@@ -676,7 +677,7 @@ Belief in charms and relics as means of influencing the spiritual world is impot
 The apostles doubted the resurrection until Joseph and David inspected the tomb, finding it just as the women had described, before the Sanhedrin guards threw Jesus' burial linen over a cliff. (190:1.2)
 The Roman soldiers taking Jesus' clothes prevented his followers from resorting to relic worship, in line with his desire to leave behind only the memory of his spiritual ideals. (187:2.9)
 
-religion | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | ceremonies; charms; Christian church, early; Christianity; churches; faith; faith sons of God; fellowship of believers; fetishes; gospel; intolerance; Jesus:teachings; kingdom of heaven; revelation; relics; spiritual growth; taboos; traditions | RELIGION | OK
+religion; Religion | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | ceremonies; charms; Christian church, early; Christianity; churches; faith; faith sons of God; fellowship of believers; fetishes; gospel; intolerance; Jesus:teachings; kingdom of heaven; revelation; relics; spiritual growth; taboos; traditions | RELIGION | OK
 definition
 	Religion is society's adjustment to the mysterious and paradoxical nature of the spiritual realm, evolving as a biologic reaction that remains steadfast even as other aspects of a race change or perish. (92:1.3) (102:3.2)
 	Religion involves recognizing the insideness of human experience, allowing individuals to see the universe as inherently spiritual. (103:6.3)
@@ -1048,7 +1049,7 @@ warnings
 		The danger of formalized religion lies in its tendency to venerate the past over the present, which curtails its potential for good and greatly multiplies the possibilities for evil. (99:6.3)
 		Religion achieves its highest social ministry when it is free from all secular alliances, established social or economic practices, and remains focused on moral and spiritual principles. (99:0.1-2) (99:1.6) (99:2.3,5) (99:3.11) (99:6.3) (99:7.1) (194:3.9) (195:10.13,21)
 
-religionists; religionist; Religionists; believers; believer | | faith sons of God | | OK
+religionists; religionist; Religionists; believers; believer; religious individual | | faith sons of God | | OK
 Convictions about God are reached through wise reasoning, but one becomes God-knowing only by faith and personal experience, daring to say “I know” even when questioned by unbelievers. (102:6.5)
 Members of social religious groups should have the freedom to express their own interpretations of beliefs and experiences, as unity and security in a religious group come from spiritual unity, not theological conformity. (103:5.12)
 The truly religious individual seeks to identify the self with the universe and dedicate unified activities to the service of the universe family of fellow beings, human and superhuman, for God is man's eternal destination. (5:4.3)
@@ -1126,7 +1127,7 @@ Jesus prepared religious leaders in Rome for subsequent Christian missionaries b
 
 religious leaders (Jerusalem) | | Sanhedrin | | OK
 
-Remembrance Supper; remembrance supper; Lord’s Supper; new sacrament of the remembrance; supper of remembrance | (179) | | | OK
+Remembrance Supper; remembrance supper; Lord’s Supper; new sacrament of the remembrance; supper of remembrance; supper of the remembrance; communal supper of the remembrance | (179) | | | OK
 The ancient origin of the sacred meal justified the custom of eating sacrificial offerings in a communion service. (89:4.10)
 Remembrance Supper was originally a social meal with sacrament at the end, much like the Lord's Supper celebrated in those days. (194:4.8)
 The Remembrance Supper commemorates the bestowal of the Spirit of Truth by Jesus, as he blessed the cup of blessing and established a new dispensation of grace and truth for all to remember. (179:5.1,9)
@@ -1142,7 +1143,7 @@ Remona, wife of Cain, became the mother of Enoch, leader of the Elamite Nodites 
 renaissance (European) | | | | OK
 Christianity rehabilitated in Europe during the Renaissance, giving rise to numerous sects and religious families. (92:5.15) (195:4.3)
 
-renunciation | | | | OK
+renunciation; Renunciation | | | | OK
 Renunciation was the negative form of propitiation, with sacrifice becoming the positive form, while gifts and bribes given to men were transformed into dedicated sacrifices for the gods in ancient practices of divine worship. (89:4.7)
 Primitive concepts of renunciation led to the development of fasting as a common practice in religious evolution, ultimately influencing many modern theological systems. (89:3)
 
@@ -1170,7 +1171,7 @@ repersonalization | | resurrection | | OK
 
 repression | | compulsion | | OK
 
-reptilians | (60:1-2) (60:3.14) | crocodiles; dinosaurs; pterosaurs; sea serpents; snakes; turtles | | OK
+reptilians; reptile; Reptilia; reptiles | (60:1-2) (60:3.14) | crocodiles; dinosaurs; pterosaurs; sea serpents; snakes; turtles | | OK
 Birds are descended from ancient reptiles. (65:2.8-9)
 Snakes, lizards, alligators, turtles survive as the descendants of the ancient reptilian kingdom. (65:2.10)
 From frogs sprang the reptilian kingdom, leading to the evolution of birds, mammals, and ultimately, the human species. (59:6.8) (65:2.8,10)
@@ -1183,7 +1184,7 @@ Creative imagination inhibited by resentment stifles the potential for construct
 Judas became increasingly a victim of resentment, brooding over personal disappointment and growing suspicious of his friends, even betraying his Master. (139:12.9)
 Discover true values in life by loving God and understanding and sympathetically discerning other's viewpoints to overcome resentment and foster tolerance, friendship, and ultimately love. (100:4.4)
 
-reserve corps | | | PERSON | OK
+reserve corps; Reserves; Reserve Corps | | | PERSON | OK
 Seventy divisions on Uversa make up the vast reserve corps of beings not under our immediate supervision. (30:3.10)
 The reserve corps of angelic seraphim are not inactive, as they serve various important roles within the constellations and on special assignments. (39:3.11)
 orders possessing
@@ -1423,7 +1424,7 @@ Revelations, Book of; Book of Revelation; description | | John Zebedee | | OK
 The confused vision of John in the Book of Revelations blends symbols of the seven spirits of God with the majestic seats of the four and twenty elders on Jerusem. (34:4.11-12)
 The surviving fragments of a great revelation to the Apostle John are contained in the greatly abridged and distorted Book of Revelation. (139:4.14)
 
-revenge | | anger; fear; hatred | | OK
+revenge; Revenge | | anger; fear; hatred | | OK
 Cannibalism was a solemn ceremony of revenge, believed to destroy an enemy's ghost and fuse it with the eater's, with the savage mind showing no pretensions of consistency. (89:5.5-6)
 Character is measured by the ability to resist holding grudges, not seeking revenge but instead having faith in truth and love for others. (140:8.5) (156:5.17)
 Creative imagination inhibited by prejudice, hate, fears, resentments, revenge, and bigotries yields unworthy fruits. (111:4.9)
@@ -1507,10 +1508,10 @@ Rice, thrown on newlyweds to ensure fecundity, was a magical rite observed by ma
 
 rich | | wealth:persons possessing wealth | | OK
 
-rich man and beggar | | | | OK
+rich man and beggar; the rich man and the beggar | | | | OK
 The Nazarite parable of the rich man and the beggar serves as a timeless warning about the dangers of loving riches and dishonest wealth. (169:3)
 
-rich man of Rome | | | PERSON | OK
+rich man of Rome; rich man, a Roman citizen | | | PERSON | OK
 Jesus’ counsel to a wealthy Roman man was to divide his inherited wealth and distribute it wisely, making amends for any ill-gotten gains. (132:5)
 Jesus taught that it was not wrong to have wealth, but he emphasized the responsibility of helping the less fortunate and condemned the exploitation of the weak by the strong. (163:2.11)
 
@@ -1533,12 +1534,12 @@ The Rig-Veda highlights the distinction between mind and heart in understanding 
 The Rig-Veda represents the most variegated system of theology ever developed by mortal man. (94:1.7)
 The Rig-Veda portrayed one spirituality of Hindu gods. (96:0.1)
 
-right | | justice | | OK
+right; Right | | justice | | OK
 The definition and enforcement of rights are associated with social duties and the regulation of inequalities and opportunities under the law. (81:5.6)
 In ancient times, might was still right, but eventually evolved into representative government based on ability. (70:11.13) (70:12.2)
 Ghost cultists practice the correct conduct and ceremonies to win spirits' cooperation. (87:5.12)
 
-right hand of the Father | | | | OK
+right hand of the Father; right hand of the Universal Father; the right hand of God | | | | OK
 Creator Sons proceed to the right hand of the Father after each bestowal, receiving acceptance and instructions for their next universe service. (21:4.4) (52:5.6)
 Jesus ascended to the right hand of the Father to receive his completed sovereignty over the universe of Nebadon. (120:3.10) (136:3.5) (142:7.13) (182:1.3) (193:5.5)
 The men ordained by Jesus now proclaim the risen Christ, exalted by the power of God at the right hand of the Father, fulfilling the prophecies of old. (194:4.4)
@@ -1592,7 +1593,7 @@ rights | | human rights | | OK
 Rimmon | | | PLACE | OK
 Jesus preached in Rimmon to clarify the differences between Babylonian and Zoroastrian beliefs and the new gospel of the kingdom. (146:1)
 
-ring | | | | OK
+ring; rings | | | | OK
 Married women are set apart by restrictive taboos and symbols like rings. (82:2.5)
 The prodigal son's ring was given back to him by his father, signifying his forgiveness and acceptance back into the family. (169:1.9)
 
@@ -1606,7 +1607,7 @@ The earliest human cultures arose along the rivers of the Eastern Hemisphere, an
 Jerusem and Edentia are abundant in sparkling lakes and interconnecting streams, but devoid of raging rivers. (43:1.1) (46:2.2)
 a list of rivers named in The Urantia Book is in the links | Colorado River; Danube; Don; Euphrates River; Ganges; Hudson River; Indus; Jabbok; Jordan River; Mississippi River; Niagara Falls; Nile valley; Ohio River; Rhine River; Somme River; St. Lawrence River; Susquehanna River; Tarim basin; Tigris River; Volga; Yangtze River; Yellow River
 
-road of robbers | | | PLACE | OK
+road of robbers; road | | | PLACE | OK
 Traveling from Jericho to Bethany on the road of robbers, they encountered the notorious Barabbas, a murderous robber set to die after the Passover. (171:6.4) (185:5.3)
 
 roads | | | | OK
@@ -1616,11 +1617,11 @@ During Jesus' time, interconnected good roads facilitated trade and travel among
 The travelers followed the infamous road of robbers to Bethany, where they encountered the name of the criminal Barabbas. (171:6.4) (185:5.3)
 Romans built roads through definite territories. (71:1.20)
 
-robes | | | | OK
+robes; robe | | | | OK
 Self-centered rulers delight in wearing long robes and seek honor from men, but inwardly they are like whited sepulchres full of dead men’s bones and spiritual uncleanness. (166:1.5) (175:1.9)
 The prodigal son, upon his return, was embraced by his loving father and adorned with a robe, a ring, and sandals. (169:1.9)
 
-rocks and minerals | | elements (chemical) | | OK
+rocks and minerals; rock | | elements (chemical) | | OK
 Boulders, the distinctive evidence of glacial action, stand as silent witnesses to the powerful force of ice in reshaping the earth's surface. (61:7.1)
 The Cambrian layers overthrust the Cretaceous in British Columbia during crustal distortions in the Rocky Mountain region 70,000,000 years ago. (60:3.14)
 The Mithraic cult portrayed a militant god with origins in a great rock, engaging in valiant exploits and causing water to gush forth from a struck rock. (98:5.3)
@@ -1628,10 +1629,10 @@ The older, water-deposited rocks with fossil remains are often commingled with y
 Rock flour, a glacial product, is a distinctive evidence of the ice's transformative impact on the topography. (61:7.1)
 a list of rocks and minerals named in The Urantia Book is in the links | amber; anthracite; basalt; chalk; clay; coal; conglomerates; crystals; flint; granite; greensand marl; gypsum; lava; lignite; limestone; marble; quartz; salt; sandstone; shale; slate; stone
 
-Rocky Mountains | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | OK
+Rocky Mountains; Rocky Mountain | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | OK
 Dinosaurs buried in the Rocky Mountains once roamed all corners of the globe except for Australia. (60:2.2)
 
-Rodan of Alexandria | (160) (161) | | PERSON | OK
+Rodan of Alexandria; Rodan | (160) (161) | | PERSON | OK
 Rodan of Alexandria harmonized philosophy with Judaism in a way that profoundly influenced the ethical and religious thought of the Occidental world. (121:6.3-6) (130:3.9) (146:1.3)
 Nathaniel and Thomas continued discussions with Rodan of Alexandria, who had been well instructed in Jesus' teachings by a former apostle of John the Baptist. (161:0.2)
 Rodan of Alexandria instructed inquiring Greeks about the kingdom. (177:3.5)
@@ -1679,7 +1680,7 @@ The Roman centurion of Jerusalem stood astride Master's body with drawn sword to
 The Roman centurion of Jerusalem told Luke the story of the thief on the cross. (187:4.3)
 The Roman centurion of Jerusalem took Jesus to Annas by prearrangement after a dispute arose with the Jewish captain of the temple guards. (183:5.1) (184:0.1)
 
-Roman Empire | (98:3) | Romans; Rome | | OK
+Roman Empire; Roman state | (98:3) | Romans; Rome | | OK
 The success of the Roman Empire was rooted in the attributes of Roman state, including the father-family, agriculture, condensation of population in cities, private property, slavery, conquest, definite territory with roads, and personal, strong rulers. (71:1.13-21)
 The Roman Empire encompassed a diverse population from every corner of the Eastern Hemisphere, inspiring Jesus to embark on his journey among them. (132:0.3)
 reasons for decline
@@ -1761,30 +1762,30 @@ The son of Titus of Capernaum was martyred in Rome after becoming a mighty minis
 Romulus | | | PERSON | OK
 The Romans preserved the tradition of putting away a child, saved by divine intervention, as in the tales of Romulus. (89:7.3)
 
-roof | | | | OK
+roof; roofless | | | | OK
 Most mansion world structures are roofless, showcasing magnificent construction and exquisite embellishment in open enclosures. (48:3.15)
 Mary ensured Jesus' education by teaching him to care for the garden and providing a summer bedroom on the roof for his language studies. (123:2.14)
 Tiles were removed to lower the paralytic to Jesus for healing. (148:9.2)
 
 roosters | | poultry | | OK
 
-round-heads | | | RACE | OK
+round-heads; round-headed | | | RACE | OK
 By 5000 B.C., Andonites were dominant in the Danube valley and central Europe, alongside the blue man. (80:5.8)
 
-royalties | | | | OK
+royalties; Royalties | | | | OK
 The royalties collected by the government in the main continental nation of a nearby inhabited planet support inventors and creators in regional laboratories. (72:7.10)
 
 Ruben | | | RACE | OK
 Jesus went up to Jerusalem with Joseph to celebrate the Passover, sharing with him the stories of the reputed tribe of Ruben. (128:1.14)
 
-ruffians at Nazareth | | | PERSON | OK
+ruffians at Nazareth; rough and uncouth men; ruffians | | | PERSON | OK
 Ruffians at Nazareth hired to harass Jesus in the synagogue ultimately failed in their attempt to harm him. (150:7.3) (150:8.11) (150:9)
 
 Rufus | | | PERSON | OK
 Rufus, son of Simon of Cyrene, became an effective teacher of the gospel in Africa. (187:1.10)
 Jesus aided Rufus after he was injured by an oxcart, ultimately unknowingly helping the man whose cross Simon would later bear. (130:6.6)
 
-rule of living | | golden rule | | OK
+rule of living; rules of living | | golden rule | | OK
 The old way is suppression and conformance to rules of living; the new way is transformation by the Spirit of Truth, leading to personal faith in God's promises and becoming temples of God. (143:2.4)
 
 rules | | law | | OK
@@ -1792,7 +1793,7 @@ rules | | law | | OK
 ruminants | | | | OK
 Ruminants like deer, oxen, camels, bison, and rhinoceroses appeared and soon overran North America, while giant pigs that were over six feet tall went extinct. (61:3.5)
 
-runaway lad in Corinth | | Fortune | PERSON | OK
+runaway lad in Corinth; runaway lad | | Fortune | PERSON | OK
 Jesus' talk with the runaway lad emphasized the impossibility of running away from God and oneself, urging him to embrace his true identity and face life with courage and wisdom. (133:4.11)
 
 Russia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Siberia | PLACE | OK

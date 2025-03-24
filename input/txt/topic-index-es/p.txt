@@ -1848,7 +1848,7 @@ Ministren a los pobres y compartan con ellos para dejar libres a los oprimidos y
 
 pobre de espíritu | | humildad | | OK
 
-pobre hombre acusado falsamente | | |PERSON  | OK
+pobre hombre acusado falsamente | | | PERSON | OK
 Jesús intercedió ante el magistrado romano en nombre de un pobre hombre acusado falsamente, lo que llevó a la liberación del acusado. (132:4.8)
 
 populacho; pueblo; plebe | | opinión pública | | OK

@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-rabbins | | Judaïsme | | OK
+rabbins; rabbi; Rabbi; rabbis | | Judaïsme | | OK
 Ces dirigeants égocentriques, désireux d’être appelés rabbins, aspiraient à l’honneur des hommes tout en exploitant secrètement les autres pour le gain. (175:1.9)
 Jésus, le rabbin, a conduit ces croyants à ne pas avoir peur de sa divinité, favorisant un lien d’amitié avec Dieu incarné sous forme humaine. (137:7.2) (142:2.1,5) (142:6.3)
 Seul un rabbin était qualifié pour agir en tant que juge dans les affaires soumises à l’arbitrage. (173:2.3)
@@ -21,7 +21,7 @@ Les lapins, ainsi que d’autres rongeurs rongeurs, sont apparus sur Terre à un
 ratons laveurs | | | | OK
 Les ratons laveurs ont prospéré et se sont développés dans toutes les latitudes nordiques. (61:3.13)
 
-commissaires de course | | | ORDER | OK
+commissaires raciaux | | | ORDER | OK
 Les Hauts Commissaires commencent leur service en tant que commissaires raciaux, se consacrant à l’interprétation des points de vue et à la défense des besoins des diverses races humaines sur les planètes. (37:5.5-6)
 Les commissaires raciaux fonctionnent comme les porte-parole dévoués des races mortelles, recherchant la miséricorde, la justice et un traitement équitable dans les crises planétaires, tandis que les interprètes raciaux harmonisent les divers points de vue et les tendances sociales entre les différentes races humaines. (37:5.5) (48:6.22)
 Les commissaires raciaux sur Urantia travaillent en étroite collaboration avec l’observateur Vorondadek, qui exerce l’autorité sur les problèmes planétaires sous le contrôle des Très Hauts d’Edentia depuis la rébellion de Lucifer. (114:4.2)
@@ -111,12 +111,12 @@ interprètes raciaux | (48:6.22-23) | séraphins | ORDER | OK
 Les interprètes raciaux aident à éduquer les mortels survivants sur les sept mondes des maisons en tant que membres du 2e ordre de ministres séraphins de transition. (39:6.1)
 Les interprètes raciaux, les séraphins qui harmonisent les différents points de vue des races, servent à unifier les différents types raciaux et les tendances sociales parmi les êtres mortels sur différents mondes. (48:6.22)
 
-radiodiffusion | | | | OK
+radiodiffusion; télédiffusions; émissions de radio | | | | OK
 Les ondes hertziennes sont utilisées pour la radiodiffusion sur Urantia. (42:5.12)
 Le rôle des ceintures d'air supérieures dans la radiodiffusion consiste à réfléchir les ondes de radiodiffusion terrestres vers le sol, ce qui permet une transmission à longue distance malgré les perturbations occasionnelles dues aux tempêtes ionosphériques extérieures. (46:1.6) (58:2.10)
 Les ondes hertziennes, que l'on trouve trente octaves en dessous de la lumière solaire visible dans le superunivers, sont utilisées pour la radiodiffusion sur Urantia. (42:5.1,12)
 
-radioactivité | | rayons X | | OK
+radioactivité; radioactive; radioactifs | | rayons X | | OK
 La tendance à la désorganisation des éléments plus lourds dans la matière radioactive est renforcée par une chaleur modérée et une pression de gravité diminuée. (42:3.11)
 L’excès de radiations dans les atomes radioactifs provient de la désintégration du mésotron, ce qui explique le phénomène d’émission de plus d’énergie que prévu. (42:8.5)
 Les éléments radioactifs apportés par les météores révèlent qu’Urantia a plus d’un milliard d’années à sa surface. (57:7.3)
@@ -161,7 +161,7 @@ Rantowoc fut le premier mortel à obtenir un gardien personnel de la destinée s
 Rantulia | | | PLACE | OK
 Le système voisin de Rantulia a joué un rôle crucial pour vaincre la rébellion et assurer le triomphe de la loyauté et de la vérité à Satania. (41:2.1) (53:6.5)
 
-enlèvement | | | | OK
+enlèvement; technique de dématérialisation | | | | OK
 En cas de catastrophe physique condamnant la planète, la technique de dématérialisation est utilisée pour transporter tous les survivants vers un nouveau monde, tandis que l'évolution d'une race humaine se poursuit de manière indépendante. (51:2.3)
 
 rationalisme | | | | OK
@@ -178,12 +178,12 @@ Marie, la mère terrestre de Jésus, était une descendante d’une longue lign�
 corbeaux | | | | OK
 Le Père fournit de la nourriture à tous ceux qui cherchent, comme les corbeaux, alors ne vous inquiétez pas des besoins matériels, mais concentrez-vous sur le progrès de l'âme. (165:5.2)
 
-mangeurs crus | | | | OK
+mangeurs crus; mange-cru | | | | OK
 Le terme de dérision « mangeurs crus » est apparu lorsque le feu a permis de cuisiner, réduisant ainsi les dépenses énergétiques et permettant la culture et les activités sociales. (69:6.7)
 
 réalité | (0:4) | énergie; matière; esprit; morontia; personnalité; espace; esprit | | OK
 Dieu, potentiellement présent dans tout l’univers, fait que toutes choses adhèrent et consistent en lui. (3:1.7)
-L’achèvement du cycle de la réalité est inévitable. (106:812)
+L’achèvement du cycle de la réalité est inévitable. (106:8.12)
 S’identifier à Dieu est le chemin vers la vraie réalité, révélant la nature transitoire de Dieu – l’identité non identifiée et le destin autodéterminé dans l’arène du superunivers. (118:7.5)
 Les interruptions défectueuses permettent à l’homme d’entrevoir la réalité divine au milieu des imperfections naturelles du monde. (4:2.7)
 La symétrie elliptique de la réalité guide l’évolution cosmique du maître univers, équilibrant les forces matérielles et spirituelles dans le cercle de la diversité infinie. (11:8.2) (103:6.14) (105:0.1)
@@ -318,7 +318,7 @@ Jésus et la réalité
 	Le discours de Jésus sur la réalité met l’accent sur la nature éternelle de la réalité suprême et sur le cheminement continu vers le Père universel à travers une expérience personnelle progressive. (130:4)
 	La personnalité équilibrée de Jésus était marquée par des qualités courageuses, sympathiques et pratiques alors qu’il faisait face franchement à la réalité. (100:7.4)
 
-réalisation de la transition identitaire | | | | OK
+réalisation de la transition d’identité | | | | OK
 L'Ajusteur passe immédiatement à la réalisation de l'identité en rejoignant le sujet ressuscité après s'être enregistré à Divinington et avoir reçu la reconnaissance des Moniteurs Personnalisés. (112:4.13)
 
 récolter | | | | OK
@@ -374,7 +374,7 @@ récession des galaxies | | décalage vers le rouge | | OK
 
 témérité; insouciance | | émotions | | OK
 
-reconnaissance | | flatterie; connaissance; louange | | OK
+reconnaissance; récognition | | flatterie; connaissance; louange | | OK
 Reconnaissez et félicitez les actes louables des autres pour favoriser la croissance spirituelle et le respect de soi. (100:1.8) (159:3.3)
 Les personnes reconnues pour leur sagesse ou leur service extraordinaires peuvent recevoir des votes supplémentaires tous les cinq ans, jusqu’à un maximum de neuf superfranchises, aux côtés des scientifiques, des inventeurs, des enseignants, des philosophes et des chefs spirituels. (72:9.3)
 Les réservistes de la destinée sont prêts à servir sans reconnaissance. (114:7.5)
@@ -389,11 +389,11 @@ Jésus
 	Il est prompt à reconnaître et à reconnaître généreusement la foi des autres, combinant l’humanité et la divinité dans son contrôle émotionnel parfait. (161:2.5)
 	Jésus a reconnu la vérité dans les enseignements des autres et a transmis l’originalité en mettant l’accent sur l’amour et la miséricorde plutôt que sur la peur et le sacrifice. (100:7.5)
 
-enregistreurs-enseignants | (48:6.30-33) | séraphins | ORDER | OK
-Les enregistreurs-enseignants sont des séraphins ministres de transition du 6e ordre. Leur travail sur le septième monde des maisons est essentiel pour guider les mortels survivants dans leur transition vers le domaine spirituel. (39:6.1)
-Les enregistreurs-enseignants séraphins enregistrent et enseignent habilement les transactions morontielles et l'art de l'assemblage de données. (48:6.30)
+Instructeurs-archivistes | (48:6.30-33) | séraphins | ORDER | OK
+Les Instructeurs-archivistes sont des séraphins ministres de transition du 6e ordre. Leur travail sur le septième monde des maisons est essentiel pour guider les mortels survivants dans leur transition vers le domaine spirituel. (39:6.1)
+Les Instructeurs-archivistes séraphins enregistrent et enseignent habilement les transactions morontielles et l'art de l'assemblage de données. (48:6.30)
 
-flûtes à bec | | disques | ORDER | OK
+archivistes | | disques | ORDER | OK
 Les archivistes séraphiques maintiennent une communication constante entre de nombreux ordres, ce qui permet une liaison étroite avec les corps de renseignement et les émissions qui les relient aux archivistes supérieurs à travers le superunivers, Havona et le Paradis. (39:2.16)
 créateurs et gardiens des archives
 	* séraphins administrateurs. Les séraphins administrateurs supervisent les archives triples complexes des systèmes locaux au sein du temple des archives. (39:4.16)
@@ -410,7 +410,7 @@ créateurs et gardiens des archives
 	* Séraphins superviseurs. Les séraphins superviseurs sur Edentia agissent en tant qu'enregistreurs spéciaux des affaires de la constellation. (39:3.10)
 	* Séraphins suprêmes. Les enregistreurs officiels des séraphins suprêmes naissent avec des dons pleinement développés ou gagnent leur poste par des études assidues et une performance fidèle. (39:1.17)
 
-archives | | flûtes à bec; écriture | | OK
+archives; enregistrement; enregistrements | | flûtes à bec; écriture | | OK
 Les enseignants-enregistreurs font preuve d’un talent artistique dans l’assemblage et la coordination intelligents de données connexes, en collaboration avec des artisans célestes et même des mortels ascendants. (48:6.30)
 Les archives sont essentielles à la conduite des univers, permettant aux Anciens des Jours de regarder instantanément dans les deux sens, d’entendre dans les deux sens et de connaître les deux sens. (28:4.1)
 Les archives vivantes du ministère de miséricorde, assemblées par réflectivité, sont les véritables archives spirituelles préservées dans l’esprit vivant de personnalités appropriées. (17:3.6) (28:6.6)
@@ -431,7 +431,7 @@ archives célestes
 	Les archives spirituelles vivantes, assemblées par réflectivité et conservées dans les esprits, sont l’héritage des Esprits Réflectifs et de leur progéniture, les seconaphins. (17:3.5-6)
 	Le triple système séraphique d’archives est tenu par les Enregistreurs dans le temple des archives de la capitale du système. (39:4.16)
 
-loisirs | | plaisirs; détente; directeurs de réversion | | OK
+loisirs; délassement; récréations; récréation | | plaisirs; détente; directeurs de réversion | | OK
 L’humour et le jeu servent d’échos à un regard en arrière, procurant un rajeunissement et prévenant une tension nerveuse nuisible. (48:4.19)
 Ce n’est pas la volonté du Père que ses enfants participent seulement à des choses sérieuses, mais qu’ils trouvent aussi la joie, l’allégresse et la vie plus abondamment. (139:6.5)
 Le jeu
@@ -456,7 +456,7 @@ Jésus
 rectangles (Jérusem) | | | PLACE | OK
 Les rectangles de Jérusem servent de points de rendez-vous pour la vie indigène inférieure, au milieu d'un vaste et diversifié éventail de zones résidentielles et administratives à travers la capitale du système. (46:4)
 
-race rouge | (64:6.3-9) (79:5) | races | RACE | OK
+race rouge; homme rouge; hommes rouges; races rouges | (64:6.3-9) (79:5) | races | RACE | OK
 histoire
 	La race rouge, un groupe très intelligent, était un spécimen remarquable de la race humaine, supérieur à Andon et Fonta, développant une civilisation et un gouvernement tribaux, toujours monogames, avec des descendants mixtes pratiquant rarement l'accouplement pluriel. (64:6.3)
 	La race rouge, en contact avec les activités du Prince Planétaire, a détenu la révélation de Dalamatia le plus longtemps. (64:6.6) (68:0.3) (92:4.5)
@@ -522,7 +522,7 @@ croyances
 	La race rouge a préféré l'écriture picturale à l'écriture alphabétique, ce qui a conduit à la perte d'une langue universelle après la défection de Caligastia. (66:5.10)
 	La race rouge, en particulier en Amérique centrale, était cannibale pour diverses raisons telles que la faim, les rituels ou la guerre. (89:5.4)
 
-décalage vers le rouge | | | | OK
+décalage vers le rouge; vers le rouge | | | | OK
 L’erreur dans l’observation des vitesses astronomiques est influencée par des facteurs interposés, conduisant à des perceptions trompeuses sur la fuite des amas et des courants d’étoiles dans l’espace. (12:4.12-15)
 La respiration spatiale en phase d’expansion se déroule sur plus d’un milliard d’années, avec des univers en expansion dans une phase et en contraction dans la suivante, s’approchant des limites équidistantes du Paradis. (11:6.4)
 
@@ -535,10 +535,11 @@ L’homme primitif considérait qu’il avait besoin d’être racheté de la de
 séquoias | (60:4.5) (61:3.1) | | | OK
 Onamonalonton avait son quartier général parmi les grands séquoias de Californie, dirigeant et dispensant des conseils spirituels aux hommes rouges américains. (64:6.7)
 
-réflexions | | | | OK
+réflexions; reflétée | | | | OK
 Les reflets étaient à la fois craints et vénérés par les premiers hommes, tout comme les ombres et les miroirs étaient considérés avec superstition et crainte. (86:5.14)
 
-Agents de Liaison Réflectifs de Majeston; Agents de Liaison Réflectifs Non Dénommés de Majeston | (30:1.110) | | ORDER | OK
+Agents de Liaison Réflectifs de Majeston; Agents de Liaison Réflectifs Non Dénommés de Majeston | | | ORDER | OK
+L'un des ordres non classifiés et non révélés de l'univers sont les Liaisons Réflectivatrices Sans Nom de Majeston. (30:1.110)
 
 Aides-Images Réflectifs | (17:4) | | ORDER | OK
 Sept Aides-Images Réflectifs résident sur la capitale du superunivers, servant de doubles parfaits de leurs Esprits Réflectifs, facilitant la communication avec les univers central et local. (15:10.2) (17:4.1)
@@ -622,14 +623,14 @@ La Réforme a perturbé l’unité du christianisme en Europe, tandis qu’en Or
 Refuge | | | RELIGION | OK
 Pour devenir bouddhiste, il suffit de réciter le Refuge comme déclaration de foi bouddhiste. (94:8.1)
 
-règlement (gouvernemental) | | gouvernement; police | | OK
+règlement (gouvernemental); règlementation; règlementés | | gouvernement; police | | OK
 Une coopération intelligente et une coordination modernisée sont plus efficaces pour gérer des individus hautement spécialisés dans une société spécialisée. (81:6.33)
 Un gouvernement mondial entraînera une réduction de la réglementation oppressive, permettant de plus grandes libertés individuelles. (134:6.10)
 La mission première du gouvernement est de définir, de réglementer et de faire respecter les droits, y compris la régulation de la propension sexuelle. (81:5.6)
 L’État idéal réglemente pour prévenir la violence et l’injustice sans devenir parasitaire ou tyrannique. (71:5.2)
 Une société morale devrait viser à préserver le respect de soi et à offrir de nombreuses possibilités de réalisation de soi, en favorisant l’excellence culturelle par le biais d’une supervision gouvernementale avec une réglementation minimale. (71:3.9)
 
-rééducation | | | | OK
+réhabilitation | | | | OK
 Les Fils Créateurs se sont engagés à protéger et à récupérer leurs créations personnelles. (21:3.14)
 L’attitude de Jésus envers les pécheurs n’était pas la condamnation ou l’indulgence, mais plutôt le salut éternel et aimant, illustré par sa mort sur la croix. (188:5.2)
 La justice prévaudra lorsque les efforts de miséricorde échoueront à réhabiliter, conduisant à l’annihilation de ceux qui résistent à la réalité cosmique. (21:5.7)
@@ -645,7 +646,7 @@ La croyance abrutissante en des vies monotones et épuisantes perpétuait la peu
 renne | (61:7.13) | | | OK
 Los neandertales cazaban renos para obtener comida, ropa y herramientas, mejorando enormemente su trabajo con el sílex. (64:4.3)
 
-relations | | amitié; groupes | | OK
+relations; Relations | | amitié; groupes | | OK
 Dans le système cosmique, deux êtres sont en partenariat ; trois ou plus créent un groupe, ce qui signifie l’unification et la coordination des relations au sein d’un tout plus vaste. (39:3.6) (112:1.17)
 L’unité engendre la dualité, la dualité engendre la triunité, et la triunité est l’ancêtre éternel de toutes choses au sein des trois grandes classes de relations primordiales. (105:4.3-8)
 En tant que mortels ascendants, toutes ces camaraderies célestes sont invariablement mutuelles et enrichissantes, bénéficiant aux deux parties de manières uniques. (27:3.4)
@@ -1121,12 +1122,12 @@ avertissements
 
 gardiens religieux | | maître séraphin de supervision planétaire | ORDER | OK
 
-chefs religieux à Rome | | | PERSON | OK
+chefs religieux de Rome | | | PERSON | OK
 Jésus a préparé les chefs religieux de Rome pour les missionnaires chrétiens ultérieurs en améliorant et en éclairant la vérité dans leurs enseignements, ouvrant la voie à la propagation rapide du christianisme dans tout l'empire. (132:0.4-9)
 
 chefs religieux (Jérusalem) | | sanhédrin | | OK
 
-Souper du Souvenir; souper du souvenir; Cène du Seigneur; nouveau sacrement du souvenir; souper du souvenir | (179) | | | OK
+Souper du Souvenir; souper du souvenir; Cène du Seigneur; nouveau sacrement du souvenir; souper du souvenir; souper du Seigneur; souper commun en souvenance; Souper du Seigneur | (179) | | | OK
 L'origine ancienne du repas sacré justifiait la coutume de manger des offrandes sacrificielles lors d'un service de communion. (89:4.10)
 Le Souper du Souvenir était à l'origine un repas social avec un sacrement à la fin, un peu comme la Sainte Cène célébrée à cette époque. (194:4.8)
 Le Souper du Souvenir commémore l'effusion de l'Esprit de Vérité par Jésus, alors qu'il bénissait la coupe de bénédiction et établissait une nouvelle dispensation de grâce et de vérité dont tous se souviendront. (179:5.1,9)
@@ -1139,10 +1140,10 @@ Participer au Repas du Souvenir crée une trêve rafraîchissante entre l’ego 
 Remona | | | PERSON | OK
 Remona, femme de Caïn, devint la mère d'Enoch, chef des Nodites élamites dans le pays de Nod. (76:2.9)
 
-renaissance (européenne) | | | | OK
+renaissance (européenne); Renaissance | | | | OK
 Le christianisme réhabilité en Europe pendant la Renaissance, donnant naissance à de nombreuses sectes et familles religieuses. (92:5.15) (195:4.3)
 
-renonciation | | | | OK
+renonciation; renoncement | | | | OK
 La renonciation était la forme négative de la propitiation, le sacrifice devenant la forme positive, tandis que les cadeaux et les pots-de-vin offerts aux hommes étaient transformés en sacrifices dédiés aux dieux dans les anciennes pratiques du culte divin. (89:4.7)
 Les concepts primitifs de renonciation ont conduit au développement du jeûne comme pratique courante dans l’évolution religieuse, influençant finalement de nombreux systèmes théologiques modernes. (89:3)
 
@@ -1170,20 +1171,20 @@ repersonnalisation | | résurrection | | OK
 
 répression | | contrainte | | OK
 
-reptiliens | (60:1-2) (60:3.14) | crocodiles; dinosaures; ptérosaures; serpents de mer; serpents; tortues | | OK
+reptiliens; reptiles | (60:1-2) (60:3.14) | crocodiles; dinosaures; ptérosaures; serpents de mer; serpents; tortues | | OK
 Les oiseaux descendent des anciens reptiles. (65:2.8-9)
 Les serpents, les lézards, les alligators et les tortues survivent en tant que descendants de l'ancien royaume reptilien. (65:2.10)
 Des grenouilles est né le royaume reptilien, conduisant à l'évolution des oiseaux, des mammifères et, finalement, de l'espèce humaine. (59:6.8) (65:2.8,10)
 
 recherche | | éducation | | OK
 
-ressentiment | | envie | | OK
+ressentiment; rancune | | envie | | OK
 Le ressentiment subconscient de Judas envers Jésus, enraciné dans les blessures non cicatrisées de la déception et de l’amertume, a finalement transformé son amour en haine. (177:4.11)
 L’imagination créatrice inhibée par le ressentiment étouffe le potentiel de créativité constructive et spontanée chez les individus. (111:4.9)
 Judas est devenu de plus en plus victime du ressentiment, ruminant sur sa déception personnelle et devenant méfiant envers ses amis, trahissant même son Maître. (139:12.9)
 Découvrez les vraies valeurs de la vie en aimant Dieu et en comprenant et en discernant avec sympathie les points de vue des autres pour surmonter le ressentiment et favoriser la tolérance, l’amitié et finalement l’amour. (100:4.4)
 
-corps de réserve | | | PERSON | OK
+corps de réserve; réserves | | | PERSON | OK
 Soixante-dix divisions sur Uversa constituent le vaste corps de réserve des êtres qui ne sont pas sous notre supervision immédiate. (30:3.10)
 Le corps de réserve des séraphins angéliques n'est pas inactif, car ils remplissent divers rôles importants au sein des constellations et lors de missions spéciales. (39:3.11)
 ordres possédant
@@ -1194,7 +1195,7 @@ ordres possédant
 	* Fils embrassés par la Trinité. Le corps de réserve des Fils embrassés par la Trinité sur Uversa sert de corps directeur central pour leur ordre à Orvonton, s'engageant dans une large gamme de tâches importantes et diverses au sein du superunivers. (22:3.2) (22:6.3)
 	* Fils Instructeurs de la Trinité. Le corps de réserve des Fils Instructeurs de la Trinité du Paradis sert dans tout le grand univers, y compris sur des planètes individuelles, dans les univers locaux et sur les mondes de Havona. (19:1.3)
 
-corps de réserve du destin | (114:7) | réservistes | ORDER | OK
+corps de réserve du destin; corps de réserve de la destinée | (114:7) | réservistes | ORDER | OK
 La division de service céleste de chaque planète est soutenue par un corps de liaison correspondant du corps de réserve de la destinée, Urantia bénéficiant de douze de ces corps alignés avec ses groupes de supervision séraphiques. (114:7.7)
 La fonction principale du corps de réserve de la destinée est d'assurer contre l'effondrement du progrès. (114:6.20)
 Le corps de réserve de la destinée, composé de 962 mortels en 1934, est un groupe préparé d'habitants d'Urantia formés pour des rôles cruciaux dans les urgences planétaires, dont les membres ne sont pas conscients de leur participation potentielle. (114:7.8,13)
@@ -1221,7 +1222,7 @@ Les Ajusteurs de réservistes
 	Au cours de l'établissement et de la rupture des contacts avec les réservistes, des messages sont parfois transmis par les Ajusteurs internes dans un appel à une coopération sincère et à une persévérance fidèle. (110:7.10)
 	Les réservistes sont utilisés pour la communication interplanétaire sur les mondes en quarantaine afin de contourner les handicaps de l'isolement planétaire. (108:4.4)
 
-gouverneurs généraux résidents | (114:3) | | PERSON | OK
+gouverneurs généraux résidants | (114:3) | | PERSON | OK
 Le premier gouverneur général résident, l'aîné de l'ordre primaire, 1-2-3 le Premier, a servi comme chef intrépide d'Urantia pendant la rébellion planétaire et siège maintenant sur Jérusem en tant que conseiller. (77:9.5)
 Tous les 100 ans, un membre du corps de Jérusem est choisi pour servir comme gouverneur général résident sur Terre. (114:3.1)
 Les douze séraphins, chefs intérimaires de groupes d'anges spéciaux, forment le cabinet administratif du gouverneur général résident. (114:5.6) (114:6.2)
@@ -1230,10 +1231,10 @@ Lanaforge, le gouverneur général résident des mondes isolés de Satania sans 
 Le gouverneur général résident sert de conseiller paternel, rendant quotidiennement de nombreuses décisions finales, avec un rôle semblable à celui d’un Prince Planétaire mais ressemblant à celui des Fils Matériels. (114:3.3)
 Le gouverneur général résident est le chef et le leader respecté des êtres célestes sur Urantia, coordonnant l’administration suprahumaine en tant que représentant des vingt-quatre conseillers de Jérusem. (114:3.2)
 Machiventa Melchizédek agit comme gouverneur général résident sur Urantia pendant 100 ans, revenant dans mille ans si le système subsiste. (93:10.10)
-Les gouverneurs généraux résidents sur Urantia sont des représentants des 24 conseillers et servent de coordinateurs de l’administration suprahumaine, de dirigeants respectés des êtres célestes et de pères planétaires des Médians Unis. (45:4.16) (114:3.2)
-Les gouverneurs généraux résidents résolvent les problèmes par consentement mutuel, leurs décisions étant sujettes à appel auprès de diverses autorités. (114:5.2)
-A midi aujourd'hui, 1 194 393 600 anges individuels, y compris des chérubins et des séraphins, exécutent les mandats des séraphins et des médians en tant que membres des gouverneurs généraux résidents. (114:0.2)
-Le Souverain du Système préside le conseil des gouverneurs généraux résidents sur les mondes isolés de Satania, montrant un grand intérêt pour leur bien-être. (45:2.4)
+Les gouverneurs généraux résidants sur Urantia sont des représentants des 24 conseillers et servent de coordinateurs de l’administration suprahumaine, de dirigeants respectés des êtres célestes et de pères planétaires des Médians Unis. (45:4.16) (114:3.2)
+Les gouverneurs généraux résidants résolvent les problèmes par consentement mutuel, leurs décisions étant sujettes à appel auprès de diverses autorités. (114:5.2)
+A midi aujourd'hui, 1 194 393 600 anges individuels, y compris des chérubins et des séraphins, exécutent les mandats des séraphins et des médians en tant que membres des gouverneurs généraux résidants. (114:0.2)
+Le Souverain du Système préside le conseil des gouverneurs généraux résidants sur les mondes isolés de Satania, montrant un grand intérêt pour leur bien-être. (45:2.4)
 Vevona, chef des âmes de paix à l'époque d'Adam, est maintenant attachée au personnel du gouverneur général résident. (39:5.5)
 
 résistance | | difficultés; non-résistance | | OK
@@ -1243,7 +1244,7 @@ Ayant fait le premier pas sur le chemin de moindre résistance, Pierre n’a pas
 résolutions | | serments; promesses | | OK
 L'acte est nôtre ; les résolutions sont pour les faibles, l'action est pour les forts. (48:7.13)
 
-respect | | respect de soi | | OK
+respect; respectez | | respect de soi | | OK
 Montrez toujours du respect pour la personnalité de l’homme ; les victoires spirituelles ne se remportent que par la puissance spirituelle, et non par la force ou la coercition. (159:3.2)
 L’éducation transforme les conciliateurs en interprètes de mystères, évoluant d’arbitres en enseignants qui respectent l’expérience et les opinions des autres. (25:3.12)
 Montrez un respect adéquat envers vos supérieurs, une injonction divine. (107:3.4)
@@ -1255,7 +1256,7 @@ Jésus a constamment fait preuve d’un profond respect pour chaque personne qu�
 respiration | | mortels:types planétaires | | OK
 Edentia et ses mondes associés ont une véritable atmosphère, un mélange de trois gaz convenant à la fois aux formes de vie matérielles et morontielles. (43:1.3) (46:2.2-3)
 
-responsabilité | | devoir; confiance | | OK
+responsabilité; responsabilités | | devoir; confiance | | OK
 Placer prématurément la responsabilité mène au désastre, mais avec la direction des seconaphins, la capacité de confiance peut être déterminée avec précision pour éviter la déception et assurer un développement gracieux. (28:6.15)
 La responsabilité cosmique suprême de l’homme réside dans le pouvoir de choix, l’emblème de l’univers de la créature dotée du libre arbitre, façonnant la destinée éternelle et la réalisation d’un nouveau fils ascendant. (112:5.5)
 
@@ -1419,11 +1420,11 @@ révélations personnelles | directions; mysticisme; prophéties; intuition spir
 	En suivant avec obéissance les directives divines, le ministère du Saint-Esprit sanctifie et spiritualise la vie intérieure des mortels, bien qu'il dépende en partie de la coopération humaine. (34:5.5)
 	Les anges gardiens, des séraphins désignés pour exercer leur ministère auprès des mortels, ont joué un rôle déterminant dans la transmission de messages célestes tout au long de l'histoire. (113:0.1)
 
-Apocalypse, Livre de; Livre de l'Apocalypse; description | | Jean Zébédée | | OK
+Apocalypse, Livre de; Livre de l'Apocalypse; description; Apocalypse | | Jean Zébédée | | OK
 La vision confuse de Jean dans le livre de l’Apocalypse mêle les symboles des sept esprits de Dieu aux sièges majestueux des vingt-quatre anciens de Jérusalem. (34:4.11-12)
 Les fragments survivants d’une grande révélation à l’apôtre Jean sont contenus dans le livre de l’Apocalypse, fortement abrégé et déformé. (139:4.14)
 
-vengeance | | colère; peur; haine | | OK
+vengeance; revanche; représailles | | colère; peur; haine | | OK
 Le cannibalisme était une cérémonie solennelle de vengeance, censée détruire le fantôme d’un ennemi et le fusionner avec celui du mangeur, l’esprit sauvage ne montrant aucune prétention à la cohérence. (89:5.5-6)
 Le caractère se mesure par la capacité à résister à la rancune, à ne pas chercher à se venger mais à avoir plutôt foi en la vérité et l’amour pour les autres. (140:8.5) (156:5.17)
 L’imagination créatrice inhibée par les préjugés, la haine, les peurs, les ressentiments, la vengeance et le fanatisme produit des fruits indignes. (111:4.9)
@@ -1447,7 +1448,7 @@ vengeance
 
 retour | | loisirs | | OK
 
-directeurs de réversion | (48:4) | | ORDER | OK
+directeurs de la rétrospection; directeurs de rétrospection | (48:4) | | ORDER | OK
 Les êtres célestes en progrès jouissent tous du repos et du ministère des directeurs de la réversion, trouvant de la valeur dans les divertissements sains, les jeux édifiants et la satisfaction personnelle. (84:8.5)
 Les reproducteurs célestes collaborent avec les directeurs de la réversion pour combiner la récapitulation de la mémoire avec le repos mental et la diversion de la personnalité, aboutissant à des spectacles dramatiques pour les conclaves morontiels et les assemblées spirituelles. (44:2.10)
 Les directeurs de la réversion collaborent avec Joys of Existence pour susciter des réactions de joie parmi les armées angéliques et les créatures à volonté inférieure. (28:5.16)
@@ -1471,7 +1472,7 @@ Poursuivre l’évolution des coutumes est essentiel ; tenter un changement comp
 L’homme devrait courageusement expérimenter les mécanismes sociaux, guidé par l’expertise de l’évolution sociale et de l’expérience, en reconnaissant la nécessité d’ajustements progressifs dans les changements sociaux et économiques. (81:6.40)
 Jésus a rejeté les techniques révolutionnaires de Caligastia en faveur de l’établissement du royaume des cieux par la transformation spirituelle dans le cœur des hommes. (136:9.2)
 
-révolution (mouvement) | | ellipse | | OK
+révolution (mouvement); rotation | | ellipse | | OK
 Toutes les unités d’énergie cosmique sont en révolution perpétuelle, exécutant leur mission dans l’orbite universelle. (12:4.1)
 
 récompense | | accomplissement; karma; profit | | OK
@@ -1498,7 +1499,7 @@ rythme | | musique | | OK
 Le rythme améliore l'efficacité et le plaisir, les artisans transcendants exécutent des fonctions sous forme rythmique. (44:4.11)
 Le rythme était pratiqué pour influencer les esprits dans le traitement des maladies, en utilisant des méthodes comme les bains de vapeur et les sources chaudes naturelles pour soulager la douleur et favoriser la guérison. (90:4.6)
 
-enregistreurs de rythme | | | ORDER | OK
+enregistreurs de rythmes | | | ORDER | OK
 Artisans célestes, les enregistreurs de rythme sont apparentés aux poètes mais transcendent les créations poétiques terrestres, utilisant le rythme pour améliorer l'efficacité et le plaisir des êtres morontiels et spirituels. (44:4.11)
 
 riz | | | | OK
@@ -1507,10 +1508,10 @@ Le riz, jeté sur les jeunes mariés pour assurer la fécondité, était un rite
 
 riche | | richesse:personnes possédant des richesses | | OK
 
-homme riche et mendiant | | | | OK
+homme riche et le mendiant | | | | OK
 La parabole nazaréenne de l’homme riche et du mendiant sert d’avertissement intemporel sur les dangers de l’amour des richesses et de la richesse malhonnête. (169:3)
 
-homme riche de Rome | | | PERSON | OK
+riche citoyen de Rome; homme riche, citoyen romain | | | PERSON | OK
 Jésus conseilla à un riche Romain de partager sa richesse héritée et de la distribuer avec sagesse, en compensant tout gain mal acquis. (132:5)
 Jésus enseigna qu’il n’était pas mal d’avoir de la richesse, mais il souligna la responsabilité d’aider les moins fortunés et condamna l’exploitation des faibles par les forts. (163:2.11)
 
@@ -1519,14 +1520,14 @@ La riche veuve de Tyr cherchait à acheter la guérison de ses nombreuses infirm
 
 jeune souverain riche | | Matadormus | PERSON | OK
 
-ridiculiser | | | | OK
+ridiculiser; ridicule | | | | OK
 Méfiez-vous des flèches empoisonnées du ridicule et restez fidèle à votre foi. (174:0.2)
 Exhortez-les à ne pas être sarcastiques, car ils peuvent blesser l’estime de soi des âmes timides et blesser les simples d’esprit. (159:3.4)
 La trahison de Judas fut alimentée par la puissante influence du ridicule de ses amis sadducéens, ce qui le conduisit finalement à sa détermination finale d’abandonner Jésus et ses compagnons apôtres. (172:5.13)
 Pierre s’est flétri devant le ridicule, malgré sa grande force de dévotion à Jésus. (139:2.6) (184:2.8)
 Les sadducéens ont tenté d’exposer Jésus au ridicule, mais n’ont réussi qu’à susciter davantage de sympathie pour lui. (174:3.5)
 
-Rig-Véda | | hindouisme | RELIGION | OK
+Rig-Véda; Rig Véda | | hindouisme | RELIGION | OK
 Les Brahmanes ont sélectionné des écrits sacrés pour créer le Rig-Veda afin de
 Le Rig-Veda a été compilé par les Brahmanes pour combattre les enseignants de Salem et est devenu l'un des plus anciens livres sacrés. (94:1.7)
 Le Rig-Veda met en évidence la distinction entre l'esprit et le cœur dans la compréhension du concept d'âme. (111:0.7)
@@ -1538,7 +1539,7 @@ La définition et l’application des droits sont associées aux devoirs sociaux
 Dans les temps anciens, la force était encore le droit, mais elle a fini par évoluer vers un gouvernement représentatif basé sur la capacité. (70:11.13) (70:12.2)
 Les adeptes du culte des fantômes pratiquent la conduite et les cérémonies correctes pour gagner la coopération des esprits. (87:5.12)
 
-main droite du Père | | | | OK
+main droite du Père; la droite du Père; la droite du Père Universel; la droite du Père; la droite de Dieu; droite du Père | | | | OK
 Les Fils Créateurs se dirigent vers la droite du Père après chaque effusion, recevant l'acceptation et les instructions pour leur prochain service dans l'univers. (21:4.4) (52:5.6)
 Jésus monta à la droite du Père pour recevoir sa souveraineté complète sur l'univers de Nébadon. (120:3.10) (136:3.5) (142:7.13) (182:1.3) (193:5.5)
 Les hommes ordonnés par Jésus proclament maintenant le Christ ressuscité, exalté par la puissance de Dieu à la droite du Père, accomplissant les prophéties d'autrefois. (194:4.4)
@@ -1592,35 +1593,35 @@ droits | | droits de l'homme | | OK
 Rimmon | | | PLACE | OK
 Jésus a prêché à Rimmon pour clarifier les différences entre les croyances babyloniennes et zoroastriennes et le nouvel évangile du royaume. (146:1)
 
-bague | | | | OK
+anneau; anneaux | | | | OK
 Les femmes mariées sont séparées par des tabous restrictifs et des symboles comme les bagues. (82:2.5)
 L'anneau du fils prodigue lui a été rendu par son père, signifiant son pardon et son acceptation dans la famille. (169:1.9)
 
 rivalité | | concurrence | | OK
 
-lit de rivière | | | | OK
+lit de la rivière | | | | OK
 Le lit de la rivière n’est pas la rivière, tout comme la religion socialisée n’est pas méprisée en tant que canal de croissance. (100:5.1)
 
-rivières | | | | OK
+rivières; fleuves  | | | | OK
 Les premières cultures humaines sont apparues le long des rivières de l'hémisphère oriental, et il y a eu quatre grandes étapes dans la marche en avant de la civilisation. (68:5.2)
 Jérusem et Edentia regorgent de lacs étincelants et de ruisseaux interconnectés, mais sont dépourvues de rivières tumultueuses. (43:1.1) (46:2.2)
 une liste de rivières citées dans Le Livre d'Urantia se trouve dans les liens | Rivière Colorado; Danube; Don; Fleuve Euphrate; Gange; Rivière Hudson; Indus; Jaboc; Jourdain; Fleuve Mississippi; Chutes du Niagara; Vallée du Nil; rivière Ohio; Rhin; Rivière Somme; Fleuve Saint-Laurent; rivière Susquehanna; bassin du Tarim; Fleuve Tigre; Volga; fleuve Yang-Tsé; fleuve Jaune
 
-la route des brigands | | | PLACE | OK
-En voyageant de Jéricho à Béthanie sur la route des brigands, ils rencontrèrent le célèbre Barabbas, un brigand meurtrier qui devait être exécuté après la Pâque. (171:6.4) (185:5.3)
+route des voleurs; route | | | PLACE | OK
+En voyageant de Jéricho à Béthanie sur la route des voleurs, ils rencontrèrent le célèbre Barabbas, un brigand meurtrier qui devait être exécuté après la Pâque. (171:6.4) (185:5.3)
 
 routes | | | | OK
 Gonod et Ganid traversèrent tranquillement l’Italie par la voie Appienne, rencontrant un mélange de nobles citoyens romains, de colons grecs et de descendants d’esclaves inférieurs. (133:0.2)
 Jésus établit son quartier général à Beit Jenn et voyagea le long de la route de Damas pour enseigner à Césarée de Philippe. (134:8.1) (155:2.1) (158:7.1) (196:2.1)
 A l’époque de Jésus, de bonnes routes interconnectées facilitaient le commerce et les voyages entre les principaux centres du monde méditerranéen unifié. (121:1.7)
-Les voyageurs suivirent la tristement célèbre route des brigands jusqu’à Béthanie, où ils rencontrèrent le nom du criminel Barabbas. (171:6.4) (185:5.3)
+Les voyageurs suivirent la tristement célèbre route des voleurs jusqu’à Béthanie, où ils rencontrèrent le nom du criminel Barabbas. (171:6.4) (185:5.3)
 Les Romains construisirent des routes à travers des territoires précis. (71:1.20)
 
-robes | | | | OK
+robes; robe | | | | OK
 Les dirigeants égocentriques aiment porter de longues robes et recherchent l’honneur des hommes, mais intérieurement ils sont comme des sépulcres blanchis remplis d’ossements de morts et d’impuretés spirituelles. (166:1.5) (175:1.9)
 Le fils prodigue, à son retour, fut embrassé par son père aimant et orné d’une robe, d’une bague et de sandales. (169:1.9)
 
-roches et minéraux | | éléments (chimiques) | | OK
+roches et minéraux; rocher | | éléments (chimiques) | | OK
 Les rochers, preuve distinctive de l'action glaciaire, sont les témoins silencieux de la puissante force de la glace dans le remodelage de la surface de la terre. (61:7.1)
 Les couches cambriennes ont chevauché le Crétacé en Colombie-Britannique lors de déformations de la croûte terrestre dans la région des montagnes Rocheuses il y a 70 millions d'années. (60:3.14)
 Le culte mithraïque représentait un dieu militant originaire d'un grand rocher, se livrant à des exploits vaillants et faisant jaillir de l'eau d'un rocher frappé. (98:5.3)
@@ -1631,7 +1632,7 @@ une liste de roches et de minéraux cités dans Le Livre d'Urantia se trouve dan
 montagnes Rocheuses | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | OK
 Les dinosaures enterrés dans les montagnes Rocheuses parcouraient autrefois tous les coins du globe, à l'exception de l'Australie. (60:2.2)
 
-Rodan d'Alexandrie | (160) (161) | | PERSON | OK
+Rodan d'Alexandrie; Rodan | (160) (161) | | PERSON | OK
 Rodan d’Alexandrie harmonisa la philosophie avec le judaïsme d’une manière qui influença profondément la pensée éthique et religieuse du monde occidental. (121:6.3-6) (130:3.9) (146:1.3)
 Nathaniel et Thomas continuèrent leurs discussions avec Rodan d’Alexandrie, qui avait été bien instruit des enseignements de Jésus par un ancien apôtre de Jean-Baptiste. (161:0.2)
 Rodan d’Alexandrie donna des instructions aux Grecs qui s’informaient sur le royaume. (177:3.5)
@@ -1679,7 +1680,7 @@ Le centurion romain de Jérusalem se tenait à califourchon sur le corps du Maî
 Le centurion romain de Jérusalem raconta à Luc l’histoire du voleur sur la croix. (187:4.3)
 Le centurion romain de Jérusalem emmena Jésus chez Anne, comme convenu, après qu’une dispute eut éclaté avec le capitaine juif des gardes du temple. (183:5.1) (184:0.1)
 
-Empire romain | (98:3) | Romains; Rome | | OK
+Empire romain; empire romain; État romain | (98:3) | Romains; Rome | | OK
 Le succès de l’Empire romain était enraciné dans les attributs de l’État romain, y compris la famille paternelle, l’agriculture, la concentration de la population dans les villes, la propriété privée, l’esclavage, la conquête, un territoire défini avec des routes et des dirigeants personnels et forts. (71:1.13-21)
 L’Empire romain englobait une population diverse venue de tous les coins de l’hémisphère oriental, ce qui inspira Jésus à se lancer dans son voyage parmi eux. (132:0.3)
 Raisons du déclin
@@ -1740,7 +1741,7 @@ Les soldats romains de Jérusalem furent soudoyés pour dire que les disciples a
 Les soldats romains de Jérusalem prirent la fuite lorsque la pierre roula loin du tombeau de Jésus. (189:2.4)
 Sensibles au manque de respect des Juifs, les soldats romains de Jérusalem mirent rapidement Jude en état d’arrestation pour avoir exprimé une indignation ardente envers un garde qui avait fait des remarques inappropriées. (128:6.5)
 
-roman | | | | OK
+roman; romanesque | | | | OK
 Les anciens croyaient en de puissants charmes d’amour faits de divers ingrédients mystiques. (88:5.2)
 La contribution andite à l’évolution des relations entre les sexes comprend l’augmentation de l’amour, de la romance et de la sélection personnelle dans les fréquentations prénuptiales. (83:2.5)
 Les fréquentations imaginatives alimentent les taux de divorce, exacerbées par l’autonomie des femmes, l’indépendance économique et le divorce facile, signe de régression vers les stades sociétaux primitifs. (83:7.7)
@@ -1761,14 +1762,14 @@ Le fils de Tite de Capharnaüm fut martyrisé à Rome après être devenu un pui
 Romulus | | | PERSON | OK
 Les Romains ont conservé la tradition de renvoyer un enfant sauvé par intervention divine, comme dans les récits de Romulus. (89:7.3)
 
-toit | | | | OK
+toit; toits; terrasse | | | | OK
 La plupart des structures du monde des maisons sont sans toit, présentant une construction magnifique et des embellissements exquis dans des enceintes ouvertes. (48:3.15)
 Marie a assuré l'éducation de Jésus en lui apprenant à prendre soin du jardin et en lui fournissant une chambre d'été sur le toit pour ses études de langue. (123:2.14)
 Les tuiles ont été enlevées pour descendre le paralytique vers Jésus pour la guérison. (148:9.2)
 
 coqs | | volaille | | OK
 
-têtes rondes | | | RACE | OK
+têtes rondes; tête ronde | | | RACE | OK
 Vers 5000 av. J.-C., les Andonites dominaient la vallée du Danube et l’Europe centrale, aux côtés de l’homme bleu. (80:5.8)
 
 redevances | | | | OK
@@ -1777,14 +1778,14 @@ Les redevances collectées par le gouvernement de la principale nation continent
 Ruben | | | RACE | OK
 Jésus monta à Jérusalem avec Joseph pour célébrer la Pâque, racontant avec lui les histoires de la tribu présumée de Ruben. (128:1.14)
 
-voyous à Nazareth | | | PERSON | OK
+voyous à Nazareth; hommes rudes et grossiers; ruffians | | | PERSON | OK
 Les voyous de Nazareth embauchés pour harceler Jésus dans la synagogue ont finalement échoué dans leur tentative de lui faire du mal. (150:7.3) (150:8.11) (150:9)
 
 Rufus | | | PERSON | OK
 Rufus, fils de Simon de Cyrène, devint un enseignant efficace de l’Évangile en Afrique. (187:1.10)
 Jésus aida Rufus après qu’il fut blessé par un char à bœufs, aidant finalement sans le savoir l’homme dont Simon porterait plus tard la croix. (130:6.6)
 
-règle de vie | | règle d'or | | OK
+règle de vie; règles de vie | | règle d'or | | OK
 L'ancienne voie est la suppression et la conformité aux règles de vie ; la nouvelle voie est la transformation par l'Esprit de Vérité, conduisant à la foi personnelle dans les promesses de Dieu et à devenir des temples de Dieu. (143:2.4)
 
 règles | | loi | | OK
@@ -1792,7 +1793,7 @@ règles | | loi | | OK
 ruminants | | | | OK
 Des ruminants comme les cerfs, les bœufs, les chameaux, les bisons et les rhinocéros sont apparus et ont rapidement envahi l’Amérique du Nord, tandis que les cochons géants de plus de six pieds de haut ont disparu. (61:3.5)
 
-garçon en fuite à Corinthe | | Fortuné | PERSON | OK
+garçon en fuite à Corinthe; garçon fugueur | | Fortuné | PERSON | OK
 La conversation de Jésus avec le jeune fugitif a souligné l’impossibilité de fuir Dieu et soi-même, l’exhortant à accepter sa véritable identité et à affronter la vie avec courage et sagesse. (133:4.11)
 
 Russie | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Sibérie | PLACE | OK

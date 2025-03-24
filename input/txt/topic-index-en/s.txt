@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Sabbath | | | | OK
+Sabbath; Sabbath-day | | | | OK
 origin
 	The Sabbath tradition originated from Adam's coincidental choosing of the 7th day for worship after a busy first six days in Eden. (74:3.9) (74:4.6) (74:8.1)
 	The commandment to rest on the 7th day is a sacred and evolving concept, as seen in the changing reasons for Sabbath observance throughout history. (142:3.15,21) (147:6.4)
@@ -31,7 +31,7 @@ Jesus and Sabbath
 	The Sabbath was made for man, not man for the Sabbath. (147:6.4)
 	The Sanhedrin met on Sabbath to condemn Jesus, in direct violation of their own self-imposed laws and rules. (164:4.1,8) (184:0.1)
 
-saber-toothed tigers | (61:3.13) (61:5.7) (61:7.15) | | | OK
+saber-toothed tigers; saber-toothed tiger | (61:3.13) (61:5.7) (61:7.15) | | | OK
 The lions virtually exterminated the saber-toothed tigers in Europe following the retreat of the glacier. (64:4.7)
 A man defending family against a saber-toothed tiger reveals the beginnings of nobility in humanity. (100:4.5)
 
@@ -41,7 +41,7 @@ The sachems, peace chiefs of red race, were chosen for their outstanding persona
 sackcloth and ashes | | | | OK
 If the mighty works done in Chorazin, Bethsaida-Julias, and Capernaum had been done in Tyre and Sidon, the people of these heathen cities would have repented in sackcloth and ashes. (163:6.5)
 
-sacraments | (89:9) | | | OK
+sacraments; sacrament | (89:9) | | | OK
 The erroneous likening of human associations to divine has led to confusion regarding the status of marriage as a sacred sacrament. (83:8.1-4)
 The evolution of Urantian rituals has transformed ideas of ransom, redemption, and covenants into modern sacramental services, with human sacrifice advancing to higher symbolic levels. (89:9.1)
 Mithraics
@@ -83,7 +83,7 @@ Christian Sacred Scriptures
 Islamic Sacred Scriptures
 	About Koran see link on Islam | Islam
 
-sacred spheres of Paradise | (13) | | PLACE | OK
+sacred spheres of Paradise; sacred spheres | (13) | | PLACE | OK
 The 21 eternal spheres in 3 circuits between Paradise and Havona form a grand and timeless celestial realm. (12:1.10) (13:0.1-2) (14:1.3)
 The twenty-one Paradise satellites of sacred spheres embrace potentials of master universe function beyond human comprehension. (13:0.7)
 The sacred spheres of Paradise are of an unrevealed order, diverse in material, eternalized differently, and have always existed like Paradise. (13:0.2)
@@ -221,7 +221,7 @@ Nebadon swings around the Sagittarius center in a settled orbit. (15:3.11) (41:0
 Sahara | | | PLACE | OK
 The Sahara's open grazing land suddenly became a barren desert due to climatic changes. (80:1.4) (80:2.1) (80:3.8)
 
-Saharans | | indigo race | RACE | OK
+Saharans; Saharan peoples | | indigo race | RACE | OK
 Andite blood contributed considerably to the northern groups of the Saharan Sangik peoples. (78:5.5) (80:8.1)
 The Saharan civilization was disrupted by drought in 15,000 B.C. (78:3.7) (80:1.4)
 The Saharans dispersed to Spain, southern Africa, Egypt, Palestine, and Ceylon, forming different branches of the human family with distinct artistic and migratory traits. (80:2.2) (80:3.7)
@@ -239,7 +239,7 @@ Religion, overshadowed by the church, created a galaxy of saints as a spiritual 
 Sakyamuni Buddha | | | PERSON | OK
 The supposed return of Sakyamuni Buddha led to an indefinite perpetuation of Buddha images and impostor “living Buddhas,” shackling his religion with ceremonial practices he had previously fought against. (94:11.3)
 
-salamanders | | | | OK
+salamanders; salamander | | | | OK
 Salamanders, unique modifications sprang from the fish family, played a pivotal role in the progressive evolution leading to humans. (65:2.6)
 
 Salamis | | harbors | PLACE | OK
@@ -252,7 +252,7 @@ Salem | | | PLACE | OK
 Melchizedek created a community in Salem, later known as Jerusalem after his disappearance. (93:2.4)
 Abraham led Salem with over 100,000 tithe payers on rolls of the Melchizedek brotherhood. (93:6.8)
 
-Salem teachings; creed of the Salem; commands of the Salem religion; doctrine of Salem; Salem religion; Salem gospel; truths of Salem | (93:4) | Machiventa Melchizedek; missionaries:Salem missionaries | RELIGION | OK
+Salem teachings; creed of the Salem; commands of the Salem religion; doctrine of Salem; Salem religion; Salem gospel; truths of Salem; Salem teaching; Salem doctrine | (93:4) | Machiventa Melchizedek; missionaries:Salem missionaries | RELIGION | OK
 the people most influenced by Salem teachings was the Hebrews through several remarkable teachers and leaders (96) (97)
 Monotheism worldwide matured shortly after Machiventa Melchizedek appeared in Salem, with a concept of Deity based exclusively on creative power. (96:0.1)
 In the Levant, the Salem missionaries spread the gospel of Machiventa Melchizedek throughout southwestern Asia, refining religions in Mesopotamia but failing to establish the recognition of one God, leading to the rise of the Babylonian triad and the continued popularity of Ishtar, mother of gods. (95)
@@ -294,7 +294,7 @@ Rock salt deposits from the Silurian period are a key source of gas, oil, zinc, 
 Life on Urantia began in a fresh-water ocean, but evolved to require a salty solution for the protoplasm to function. (57:8.3,25) (58:1.3-4)
 The modern word “salary” is derived from the precious salt used as money in Jesus' time, enhancing flavor and preserving food. (140:4.3)
 
-salutations | | | | OK
+salutations; greetings; salutation | | | | OK
 Andon and Fonta, serving with morontia personalities on the first mansion world, are not permitted to send greetings to Urantia. (63:7.3)
 Avoid wasting time on trivialities like social visiting and instead focus wholeheartedly on preaching the gospel with zeal and initiative, rather than engaging in elaborate ceremonies of oriental salutations. (163:4.5,13)
 Salute no man by the way, attend only to your work as messengers of the kingdom, proclaiming peace on earth and good will among men. (163:1.3)
@@ -403,7 +403,7 @@ Samuel, a rough-and-ready reformer, overthrew Baal sites and chopped a captive k
 The apostles were shocked as Jesus spoke of the anger of the Lord in Samuel, revealing the growth of the Jewish concept of God over generations. (142:3.9)
 Samuel, a virile and resolute man, sprang from a long line of Salem teachers who persisted in maintaining the truths of Melchizedek in their worship forms. (97:1.2)
 
-Sanctities of Service | | seconaphim | ORDER | OK
+Sanctities of Service; Sanctity of Service | | seconaphim | ORDER | OK
 Tertiary seconaphim are collectively assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number, created serially in seven reflective types. (28:6.1)
 The seconaphim, as tertiary angels, reveal the true and hidden motives of any service, embodying the Sanctities of Service. (28:6.16-19)
 
@@ -436,7 +436,7 @@ The Sangik family, consisting of 19 intelligent children, displayed unique skin 
 The Sangik family, ancestors of all 6 colored races, produced unusually intelligent children with skins that turned various colors upon exposure to sunlight. (64:5.2-3) (65:4.7)
 Half million years ago, during the fifth advance of the ice, Andonic parents of mutant children lived during the ascent of the Sangik family. (61:7.4) (66:0.1-2)
 
-Sangiks | | races; Sangik family | RACE | OK
+Sangiks; Sangik | | races; Sangik family | RACE | OK
 The Sangiks were all cannibalistic, but other races did not originally practice cannibalism. (89:5.3)
 The Sangiks, along with later Adamites and Nodites, were belligerent, while the Andonites embraced peace through the golden rule. (70:1.2)
 The Sangiks converted Father's temple in Dalamatia into a shrine dedicated to Nog, the false god of light and fire, when the first capital of the world was engulfed. (67:5.5)
@@ -571,7 +571,8 @@ Abraham's brilliant wife, Sarah, lived at court in Egypt and was almost taken by
 
 sarcasm | | ridicule | | OK
 
-Sarepta | (156:3.2) | | PERSON | OK
+Sarepta | | | PERSON | OK
+Jesus and the apostles passed through Sarepta during their journey through Phoenicia. (156:3.2)
 
 Sargan | | | PERSON | OK
 Sansa, born of Laotta and raised by Eve alongside Cain, grew into a woman of great ability before becoming the wife of Sargan, chief of the northern blue races. (76:0.2)
@@ -699,13 +700,13 @@ Scallops are bivalve gastropods that have existed for millions of years with pro
 scalping | | | | OK
 Head hunting and scalping were ancient methods of capturing an enemy's soul, while the eyes are now considered the windows to the soul. (86:5.15)
 
-Scandinavians | | | RACE | OK
+Scandinavians; Scandinavian | | | RACE | OK
 Scandinavians were Bronze Age mother worshippers in 3000 B.C. (80:9.13)
 For thousands of years, Scandinavians practiced cremation as part of their mother cult, reflecting their extended contact with the Danubians and their advanced culture. (80:9.4)
 The ancestors of Scandinavians were descendants of Andite and blue races. (80:4.5)
 The Scandinavians, like many other cultures, worshipped triad gods long before the revelation of the Paradise Trinity. (104:0.3)
 
-scapemen | | | | OK
+scapemen; scapeman | | | | OK
 The headhunter, in the primitive world, acted as a scapeman offering a substitute for his own life to redeem the soul from original sin. (89:0.1)
 
 schooling | | education | | OK
@@ -713,7 +714,7 @@ schooling | | education | | OK
 schools of the seven circles | | | PLACE | OK
 Technical Advisers train in the schools of the seven circles to perfect their skills and knowledge before reaching the Paradise training school for the ethics of law and the technique of Supremacy. (25:4.14)
 
-science | | chemistry; physics; science, philosophy, and religion; scientists | | OK
+science; sciences; Science | | chemistry; physics; science, philosophy, and religion; scientists | | OK
 Approaching the universe from outside gives rise to physical sciences, while examining it from within leads to theology, metaphysics, and philosophy in an attempt to bridge discrepancies. (103:6.2)
 Atheistic science and the totalitarian medieval Christian church fostered modern secularism as a protest against the domination of Western civilization by the church. (195:8.2)
 The printing press greatly accelerated cultural development worldwide, benefiting science and invention the most. (81:6.9)
@@ -760,7 +761,7 @@ relationship among, also referred to as
 	In cosmic reality, energy is the thing, mind is the meaning, and spirit is the value that give objective validity to man's experience in and with things, meanings, and values. (9:4.5) (16:6.10) (196:3.2)
 	truth, beauty, and goodness are the universal values of science, philosophy, and religion, respectively. (2:7.11)
 
-scientists | | science | | OK
+scientists; scientist | | science | | OK
 Scientists often conceive of God as the First Cause, a God of force. (5:5.3)
 Scientists must be wary of succumbing to mathematical pride and statistical egotism when attempting to measure and understand the energy manifestations of gravitation, light, and electricity, as true wisdom stems from correlating quantitative and qualitative observations in science, religion, and philosophy. (133:5.4)
 True scientists must recognize the limitations of material standards and instead seek for true values in the spiritual world and divine levels of eternal reality. (132:1.2)
@@ -772,7 +773,7 @@ The first air-breathing animal, the scorpion, appeared suddenly during the Silur
 Scotland | (59:3.3,6) | British Isles | | OK
 The world will know peace when nations relinquish their sovereignty and unite under a single authority, as exemplified by Scotland when it reposed sovereignty in the United Kingdom. (134:6.3)
 
-scribe of Damascus | | | | OK
+scribe of Damascus; Damascus scribe | | | | OK
 During his tour of the Roman world, Jesus was known as the Damascus scribe, but in Corinth and other stops on the return trip, he was known as the Jewish tutor, influencing early Christian teachers like Peter and Paul. (129:3.2) (132:0.10) (132:3.1) (133:0.1) (134:7.3)
 
 scribes | | Judaism; Pharisees; Sanhedrin | | OK
@@ -784,7 +785,7 @@ Pharisees, the “associates”, were a progressive Jewish group composed of scr
 
 scriptural infallibility doctrine | | sacred books | | OK
 
-sculpture | | | | OK
+sculpture; Sculpture; sculptors | | | | OK
 The clay sculpture in Dalamatia advanced Andonite culture and improved blue man art through artistically gifted sculptors working with baked clay. (66:5.26)
 Sculpture originated in idol making, enriching culture through its connection to religion and spirituality. (92:3.6)
 
@@ -812,24 +813,24 @@ The sea serpents represented a backward step in evolution, as they grew to immen
 Despite their massive size, sea serpents perished as their 2-ounce brains were inadequate to protect their 75-foot bodies. (60:2.11)
 110 million years ago, sea serpents, descendants of land reptiles, threatened fish family with destruction as marine life evolved. (60:2.9)
 
-sea squirts | | | | OK
+sea squirts; sea squirt | | | | OK
 Organisms adapt functions to environment, sea squirts oxygenate blood with vanadium. (65:6.4)
 
-sea urchins | | | | OK
+sea urchins; Sea urchins | | | | OK
 110 million years ago, sea urchins were one of the outstanding mutations of an eventful and active age in marine life, expanding as other species declined. (60:2.9) (60:4.5) (65:2.5)
 
-sea worms | | | | OK
+sea worms; Sea worms | | | | OK
 Abundant sea worms evolved alongside lime-secreting algae, early coral ancestors, jellyfish, and cephalopods, now represented by modern pearly nautilus, octopus, cuttlefish, and squid. (59:2.11)
 
 seals | | | | OK
 Seals, a placental mammal, returned to sea, evolving from agile reptilian dinosaurs and preserving their primitive civilization in marine habitats. (49:2.17) (61:2.11) (65:2.12)
 
-seances | | | | OK
+seances; seance | | | | OK
 The mysterious initiations of secret societies, including pseudo seances with ghostly appearances, helped build social castes through ancestral worship and distinct behaviors. (70:7.15)
 
 seaports | | harbors | | OK
 
-seas of glass | | | PLACE | OK
+seas of glass; sea of glass | | | PLACE | OK
 on Jerusem
 	The personnel of the seventh mansonia assemble on the sea of glass to witness your departure for Jerusem, where you will be welcomed as a citizen of the system capital. (47:9.4) (47:10.2)
 	The sea of glass first appears on the second mansonia as you ascend the crowded mansion worlds, recognizing Jerusem features along the way. (47:4.3)
@@ -843,7 +844,7 @@ on Edentia
 	The Edentia sea of glass, serving as the receiving field for all seraphic transports, greatly facilitates the landing of beings arriving from points outside the sphere. (43:1.10) (46:2.9)
 	The sea of glass on Jerusem receives superuniverse and Paradise-Havona broadcasts in liaison with Salvington, utilizing a technique involving the polar crystal. (46:3.1)
 
-seasons | | | | OK
+seasons; Seasons; seasonal | | | | OK
 Agriculture, the universal pursuit among advancing races on sun-heated planets, thrives with seasons and temperature variations. (49:4.5)
 On Edentia and its associated worlds, there are no storms, hurricanes, summer, or winter, allowing for the embellishment of all outdoor spaces. (43:1.3)
 
@@ -901,12 +902,12 @@ C. tertiary seconaphim
 		# Secrets of Greatness
 		# Souls of Goodness
 
-second coming | | Jesus:second coming | | OK
+second coming; the return | | Jesus:second coming | | OK
 Various groups throughout history have always anticipated the return of their revered leaders, who are often conceived of as born of virgins, performing miracles, and serving as a bridge between humanity and the divine. (92:5.6)
 
 second experiential Trinity | | Trinity Absolute | PERSON | OK
 
-second garden | (76) | Adam; Garden of Eden | PLACE | OK
+second garden; second Eden | (76) | Adam; Garden of Eden | PLACE | OK
 The second garden was one of three original selections for the Garden of Eden, chosen for its natural defenses provided by the Euphrates and Tigris rivers. (76:1.3)
 After default, Adam abandoned Garden of Eden and caravanned to seek new homes with loyal followers, leaving behind a tragic and sorrowful caravan as their fate was pronounced in judgment. (75:6) (75:7.1)
 It took a year for Adam's caravan to reach the second garden between the rivers. (76:1.1)
@@ -927,11 +928,11 @@ Second Person of Deity | | Eternal Son | PERSON | OK
 
 Second Source and Center | | Eternal Son | PERSON | OK
 
-Secondary Circuit Supervisors | | | ORDER | OK
+Secondary Circuit Supervisors; secondary supervisors | | | ORDER | OK
 There are 84,691 Secondary Circuit Supervisors stationed on Uversa, with their numbers increasing regularly across the grand universe. (24:1.9)
 Secondary Circuit Supervisors, who serve on superuniverse headquarters, are stationed to oversee the local universes of time and space, with 84,691 currently on Uversa and being created in groups of seventy on the worlds of the Supreme Executives. (24:1.5,9)
 
-secondary dissociators | | Master Physical Controllers | ORDER | OK
+secondary dissociators; Secondary Dissociators | | Master Physical Controllers | ORDER | OK
 The secondary dissociators appear wholly automatic and mechanical, lacking individual powers of choice but still revealing a differential function of intelligence. (29:4.12,34)
 beings of enormous antigravity endowment; work in reverse to
 Secondary dissociators, unlike primary associators, are beings with enormous antigravity capabilities who work in reverse, evolving limitless supplies of energy from forms of matter hardly known on earth, all within the dictates of Cosmic Supremacy. (29:4.35)
@@ -939,7 +940,7 @@ Secondary dissociators are wonder-workers of time, evolving limitless supplies o
 In Uversa personality register, secondary dissociators are recorded. (30:2.106)
 Secondary dissociators are a type of Master Physical Controller. (29:4.10)
 
-secrecy | | mysteries | | OK
+secrecy; secret | | mysteries | | OK
 Secrecy in these societies appeals to vanity, confers power of mystery, and serves various purposes such as preserving valuable secrets and maintaining social hierarchy. (70:7.2-7)
 Secrecy has always been essential to successful fraud and superstition, as ancient remedies lost their power when they became known. (90:4.9)
 The importance of maintaining confidences is key to unlocking the secrets of Vicegerington and Seraphington, known only to certain beings with a deep understanding of trinitization and mysterious transport capabilities. (13:1.13,20)
@@ -952,7 +953,7 @@ Unlimited disclosure of sin-expression is the quickest final cure for rebellion 
 
 secret police | | police | | OK
 
-secret societies | (70:7) | | | OK
+secret societies; Secret societies; secret associations | (70:7) | | | OK
 The ancient social brotherhoods and the early Jewish fraternity were based on the rite of blood-drinking, but Paul ended the need for human or animal sacrifices in Christianity by establishing “the blood of the everlasting covenant.” (89:9.3)
 Secret societies built social castes through mysterious initiations using masks, seances, signs, a secret language, dietary restrictions, and night policing. (70:7.15)
 Secret societies were once employed by kings to collect taxes. (70:7.18)
@@ -992,7 +993,7 @@ dangers
 See Fuch | | | PLACE | OK
 The Salem missionaries established their headquarters at See Fuch in China, training Chinese teachers to spread the doctrine of the Most High God across Asia. (94:5.1)
 
-seeds | | | | OK
+seeds; seed | | | | OK
 parables about seeds
 	From growth to harvest, the kingdom of heaven is like a man who sows good seed and reaps a bountiful fruit. (151:3.15)
 	The kingdom of heaven is like a mustard seed, growing from generation to generation with increasing vitality and depth of spiritual power. (140:8.27) (151:4.2) (178:1.15)
@@ -1028,7 +1029,7 @@ All force-energy in the universe is under the personal control of the Universal 
 Segub | | | PERSON | OK
 Segub, youngest son of a petty king in Palestine, was sacrificed in building the walls of Jericho, according to the word of the Lord. (89:6.6)
 
-selective assorters | (48:2.21-24) | Morontia Power Supervisors | ORDER | OK
+selective assorters; Selective Assorters | (48:2.21-24) | Morontia Power Supervisors | ORDER | OK
 Selective assorters disclose beings who function best in temporary association for study, teaching, and other projects. (48:2.24)
 The Uversa personality register classifies beings as selective assorters. (30:2.114)
 Selective assorters supervise Morontia Power and endorse progressors for advanced standing based on spiritual achievement, resulting in changes to reactions and practices in the morontia environment. (48:2.23)
@@ -1077,7 +1078,7 @@ Both science and religion require fearless self-criticism to acknowledge their i
 Understanding self and others leads to craving to know God, as the God-knowing man strives to become like the Original Personality through his spiritual experiences. (1:6.6)
 Jesus taught self-forgetfulness and self-control, while John taught self-examination and self-denial. (143:2.2)
 
-self-assertion | | | | OK
+self-assertion; self-aggrandizement | | | | OK
 Self-assertion, the battle cry of the Lucifer rebellion, advocated for the equality of mind and the brotherhood of intelligence in all orders of government. (53:4.2)
 The spirit of self-assertiveness, when left unchecked, breaks loose in destructive wars, but mankind can be unified through the spiritual approach of Pentecost and the universal influence of the Spirit of Truth. (194:3.18)
 Self-assertion separates man from the communion with the Father, as many have hidden themselves away in their intolerant minds and unspiritual natures. (5:1.10)
@@ -1096,7 +1097,7 @@ self-consciousness | | consciousness | | OK
 
 self-contemplation | | self-analysis; self-importance | | OK
 
-self-control | | self-denial | | OK
+self-control; Self-control | | self-denial | | OK
 The idealistic goal of human sex evolution is monogamy, but it often fails due to a lack of rugged self-control, the acme of all human virtues. (83:6.6)
 Self-control is better than extreme self-denial. (89:3.7)
 The Dark Ages bear witness to the restoration of balance between self-liberty and self-control. (118:8.6)
@@ -1129,7 +1130,7 @@ historically
 
 self-criticism | | self-analysis | | OK
 
-self-deception | | | | OK
+self-deception; self-deceived | | | | OK
 The greatest self-deception is seeking to deprive others of natural liberties, as true liberty is the associate of genuine self-respect and the fruit of self-control, while false liberty is the consort of self-admiration and the assumption of self-assertion, leading to exploitation and the sacrifice of righteous attainment for unjust power. (54:1.6-8)
 Self-deception leads to fears, enslaving pleasures, envy, and hatred. (143:2.5)
 Self-interest largely obscures logic in man, who naturally believes what he deems best for himself. (86:2.4)
@@ -1182,7 +1183,7 @@ The new religion teaches self-forgetfulness and enhanced self-realization rather
 
 self-government | | government; self-control | | OK
 
-self-gratification | | flesh; pleasures; sex:urge | | OK
+self-gratification; Self-gratification | | flesh; pleasures; sex:urge | | OK
 Mating, marriage, and home building are integral aspects of self-perpetuation and self-maintenance intertwined with elements of self-gratification attained through food satisfaction, play, humor, and sex indulgence. (84:0.2-3) (84:8.2-3)
 Family provides highly satisfactory forms of self-gratification, making it man's greatest purely human achievement. (84:6.8)
 Self-gratification, growing out of vanity proclivity, is one of the institutions that contributed to early human association and social organization on Urantia. (68:2.4) (69:1.5)
@@ -1240,9 +1241,9 @@ Mating is purely an act of self-perpetuation, and marriage is largely a matter o
 Nature demands survival through the institution of marriage, where self-perpetuation and self-maintenance are prioritized over personal happiness. (68:2.9)
 
 self-pity | | sympathy | | OK
-Jesus taught that one cannot develop strong characters by indulging in self-pity. (159:3.1)
+Jesus taught that one cannot develop strong characters by indulging in self-pity. (159:3.11) (171:7.3)
 
-self-realization | | goals | | OK
+self-realization; Self-realization | | goals | | OK
 All living things crave the attainment of ever-increasing perfection of environmental adjustment and organismal adaptation as evidence of an innate striving for perfection. (65:6.2)
 Through the ascension career, individuals of all backgrounds can achieve satisfaction in self-expression, leading to the realization of their deepest artistic aspirations and noble longings. (44:8.3-5)
 Self-realization is evil if antisocial, as no being exists in isolation and cosmic socialization is the highest form of personality unification. (56:10.14)
@@ -1269,7 +1270,7 @@ self-righteousness | | self-importance | | OK
 
 self-satisfaction | | self-importance | | OK
 
-self-torture | | | | OK
+self-torture; Self-torture | | | | OK
 Ancient mourning involved self-torture to please lingering ghosts and prevent their return home. (87:2.4)
 Co-operation with Adjuster does not entail self-torture but loving service towards eternal destiny. (110:3.4)
 Self-torture and painful cutting were common in ancient initiation ceremonies, designed to harden and prepare youths for life's hardships. (70:7.10)
@@ -1277,7 +1278,7 @@ Older ideas of self-discipline embraced physical torture, with priests of the mo
 
 selfhood | | self | | OK
 
-selfishness | | altruism; self-importance | | OK
+selfishness; egoism; selfish | | altruism; self-importance | | OK
 Material feelings and human emotions breed selfish acts, while religious insights and spiritual motivations inspire unselfish acts of social service and altruistic benevolence. (102:3.3)
 In early conflict between egoism and altruism, the Thought Adjuster places preference on the latter for the goal of human happiness and the joys of the kingdom of heaven. (103:2.4-10)
 Egotism is vainglorious and suicidal, hindering intellectual cross-fertilization and ethical awakening. (52:6.4-6) (111:6.9)
@@ -1318,7 +1319,7 @@ The Sumerians were absorbed into the ranks of the northern Semites after sufferi
 The Semites believed the soul resided in bodily fat, tabooing the eating of animal fat as a way to preserve it. (86:5.15)
 The well-organized Semites, including the Chaldeans and Phoenicians, united with the Babylonians after invading the fertile crescent. (96:2.1)
 
-seniority | | | | OK
+seniority; original or first-born | | | | OK
 The training of Thought Adjusters on Divinington, presided over by the Personalized Adjuster of first Michael Son, suggests a profound and extensive preparation, showcasing valor and wisdom. (107:3.9)
 Galantia, the first ascendant Brilliant Evening Star, maintains headquarters on Jerusem as the associate head of the superangels, under Gavalia, the first-born of the order in Nebadon. (37:2.6) (46:5.25)
 Grandfanda, the first mortal to achieve Havona, now serves as the acting head of the Corps of Finality, guiding ascending pilgrims through the circuits of the central universe towards Deity attainment. (7:5.8) (112:7.13)
@@ -1339,7 +1340,7 @@ Promote the gospel with spiritual power, not by appealing to sentiment or coerci
 False sentiment perpetuates hopelessly defective human strains, hindering race improvement in early human evolution and stunting the progress of civilization. (52:2.11,12) (99:3.5)
 God's absoluteness pervades all levels of universe reality, yet in his vast family relationship with creatures, the infinite God is governed by divine sentiment as the Universal Father. (4:4.5)
 
-separation | | | | OK
+separation; separated | | | | OK
 Religion functions best when the religious group is isolated from all other groups to focus on the spiritual membership of the kingdom of heaven. (99:5.4)
 It is time to openly break with the religious rulers in Jerusalem, as demonstrated through Jesus' deliberate challenge to the Sanhedrin and Jewish teachers, provoking discussions and compelling them to take notice of his miraculous works. (163:4.7) (164:3.16)
 
@@ -1435,7 +1436,7 @@ seraphic hosts | | seraphim | ORDER | OK
 
 seraphim | | angels; guardian angels; guardians of destiny; seraphic, secoraphic, and superaphic transport | ORDER | OK
 Seraphim, angels of local universes, are embraced by the Ministering Spirits and are the initial contact for mortal ascenders. (26:1.14) (28:0.1) (38:0.2) (39:8.1)
-Cherubim and Mansion World Teachers may become seraphim after being re-embraced by the Universe Mother Spirit. (38:8.) (48:5.10)
+Cherubim and Mansion World Teachers may become seraphim after being re-embraced by the Universe Mother Spirit. (38:8.1) (48:5.10)
 Cherubim and sanobim, functionally united, serve as faithful and efficient aids to seraphim in mortal worlds. (38:7.2-3) (48:5.1)
 500 million pairs of seraphim on Urantia in 1934 help THE Most Highs rule in the kingdoms of men through many celestial forces and agencies. (114:0.1)
 The attainment of Seraphington by angelic beings far surpasses mortal's achieving eternal survival. (39:8.9) (40:1.2)
@@ -1620,7 +1621,7 @@ service of seraphim
 	Seraphim retain records of human life for final evaluation. (112:6.4)
 	Seraphim urge humans to pray for enhanced cosmic insight and increased cooperation with the divine presence. (113:4.4)
 
-seraphim of the future | | seraphim | ORDER | OK
+seraphim of the future; seraphim  | | seraphim | ORDER | OK
 Planetary helper seraphim minister to modified order of ascension mortals on advanced planets of Nebadon, held in reserve near Salvington for the age of light and life. (39:7)
 
 Seraphington | (13:1.19-20) (39:8) | sacred spheres of Paradise | PLACE | OK
@@ -1812,7 +1813,7 @@ seven worlds of Infinite Spirit | | sacred spheres of Paradise | PLACE | OK
 
 Sevenfold | | God the Sevenfold | | OK
 
-sevenfold controllers | (116:5) | | ORDER | OK
+sevenfold controllers; seven groups | (116:5) | | ORDER | OK
 The seven groups are functionally inseparable from God the Sevenfold, comprising the physical control level of this Deity association. (116:5.9)
 members
 	# Master Physical Controllers
@@ -1905,7 +1906,7 @@ equality of men and women
 Shabattum | | Sabbath | | OK
 The Jews retained Mesopotamian taboos regarding the Sabbath, carrying them back to Palestine from Babylon. (95:1.2)
 
-shadows | | | | OK
+shadows; Shadows; shadow | | | | OK
 Seek the true realities of the spirit and cease to be attracted by unreal and material shadows, for they shall not lead you astray. (174:0.2)
 The shadow, like the breath, was both feared and revered by early man, who also held their names in high regard for magical purposes and believed in the power of reflection and images to affect the soul. (86:5.14) (88:5.5)
 The shadow will always follow the substance, so devote yourselves to the work of the heavenly kingdom. (165:5.3)
@@ -1948,7 +1949,7 @@ Women, as custodians of home fires, were chosen as shamans and practiced magic t
 Shamash | | | PERSON | OK
 Shamash was one of the chief Mesopotamian deities exalted by the Salem teachers alongside Bel and Ea. (95:1.4)
 
-shame | | guilt; ridicule | | OK
+shame; ashamed | | guilt; ridicule | | OK
 Do not be ashamed of Jesus and his words in this sinful generation; take up your responsibilities daily and follow him to gain eternal life. (158:7.5)
 Judas, influenced by the ridicule of his friends, was ashamed of Jesus and ultimately betrayed him. (172:5.13)
 Religion should be motivated by the revelation of God's fatherhood and the enhancement of human brotherhood, not by fear and shame as unworthy motivations for religious living. (140:4.7)
@@ -1987,7 +1988,7 @@ Jesus
 	Jesus taught the crowds in Solomon's Porch for over two hours, saying “My sheep hear my voice” to those who hunger for truth and righteousness, offering them eternal life. (164:5.2)
 	Peter was told by the Master to feed his sheep with love and care, being a true shepherd to the flock and guarding them from betrayal. (192:2.3)
 
-shekels | | | | OK
+shekels; shekel | | | | OK
 Every first-born son must be redeemed for five shekels according to Mosaic law. (122:9.1)
 Peter caught a fish with a shekel in its mouth, fulfilling Jesus's half-humorous remark. (157:1.4)
 Jews licensed to exchange silver shekels profaned temple by banking and commerce within. (173:1.3) (173:2.3) (186:1.2)
@@ -2004,7 +2005,7 @@ The shell is of no worth after the chick is hatched; forms are valueless when le
 Shema | | | | OK
 The congregation took upon themselves the yoke of the kingdom of heaven and the commandments by reciting the Shema, the Jewish creed of faith. (150:8.4)
 
-Shemer | | | PERSON | OK
+Shemer; Shemer’s | | | PERSON | OK
 King Omri attempted to buy Shemer's estate, amidst wars and power struggles in Israel and Judah, before the Assyrian threat changed the course of history. (97:9.18)
 
 Shensi | | | PLACE | OK
@@ -2059,7 +2060,7 @@ short space rays | | space rays | | OK
 showbread | | | | OK
 King David ate showbread when hungry, just as Jesus and his associates ate grain on the Sabbath day. (147:6.4)
 
-shrewd steward | | | | OK
+shrewd steward; shrewd but unjust steward | | | | OK
 The parable of the shrewd steward teaches the importance of wisely preparing for the future in both earthly and heavenly matters. (169:2)
 
 shrimps | | crustaceans | | OK
@@ -2122,7 +2123,7 @@ If the mighty works done in Chorazin, Bethsaida-Julias, and Capernaum had been d
 Sierras | | | | OK
 The Sierras were formed during the modern mountain-building stage of geologic history, with their gold-bearing quartz strata being the product of lava flows from this epoch. (60:3.3) (61:3.3) (61:4.2)
 
-sifting | | | | OK
+sifting; sift | | | | OK
 Amos warned of Yahweh's unchanging justice and vowed to sift the house of Israel like wheat among all nations. (97:4.3)
 The sifting of the kingdom should not distress you, for it is unavoidable and necessary for the new glory of the spiritual teachings of heaven. (153:5.3)
 
@@ -2169,7 +2170,7 @@ On the hill in Nazareth, once a “high place of Baal,” now stood the tomb of 
 Simeon (singer) | | | PERSON | OK
 At the presentation of Jesus, Simeon the singer and Anna the poetess recognized him as the promised Messiah. (122:9.2-27)
 
-simians | (88:1.5) | chimpanzees; gorillas; monkeys | RACE | OK
+simians; simian | (88:1.5) | chimpanzees; gorillas; monkeys | RACE | OK
 The simian tribes of modern times and the present-day human species are descendants of lemurs in the almost paradisiacal Mesopotamian or Persian peninsula. (62:1.3)
 Man did not descend from the retarded mid-mammals, but rather from a superior strain of the same mid-mammal tribe. (61:6.1) (62:1.1) (62:3.11-13)
 Some Andonites mated with their retarded cousins of the simian tribes, implying a quality of mind far above their later descendants. (63:1.4)
@@ -2334,7 +2335,7 @@ personal traits and attitudes
 	Simon Zelotes made an impassioned plea to rescue Jesus amidst a divided group of apostles and disciples. (183:4.2)
 	Simon Zelotes was inspirationally loyal, material-minded, and liked to argue, but his greatest strength was his ability to quickly settle doubts and lead new souls to faith in God with enthusiasm and conviction. (139:11.3-6)
 
-sin | (67:7) (89:2) | confession; error; evil; forgiveness; guilt; iniquity; original sin; rebellion (spiritual); repentance; shame; sinners | | OK
+sin; Sin | (67:7) (89:2) | confession; error; evil; forgiveness; guilt; iniquity; original sin; rebellion (spiritual); repentance; shame; sinners | | OK
 definition
 	Sin, as an attitude of the individual towards reality, inevitably impacts all levels of universe values due to the interconnectedness of all personalities and the organismal nature of the administrative sectors. (67:7.4)
 	Embracing evil leads to annihilation, but a fair adjudication process precedes the penalty for sins. (54:3.2)
@@ -2438,7 +2439,7 @@ Singlangton was the first of the yellow men to teach and lead his people in the 
 Singlangton, the first yellow man to teach his people the worship of “One Truth” thousands of years ago. (45:4.8) (64:6.15)
 The teachings of Singlangton on the concept of Shang-ti continued to influence the Chinese people, leading to a shift from the pursuit of new truths to the preservation of established beliefs. (79:8.4) (94:5.3)
 
-single-origin beings | | | | OK
+single-origin beings; SINGLE-ORIGIN BEINGS | | | | OK
 Single-origin beings are descendants of the Paradise Deities or creations of beings with direct or indirect descent from them. (30:1.55)
 In Paradise classification, single-origin beings are those directly or indirectly descended from the Paradise Deities. (30:1.55-91)
 orders
@@ -2478,11 +2479,11 @@ Siva is a member of the Hindu trinitarian concept that includes Brahma and Vishn
 Siwalik Hills | | | PLACE | OK
 Fossils in the Siwalik Hills of northern India are the closest to transition man. (64:3.4)
 
-skeletal structures | | skulls | | OK
+skeletal structures; skeletal structure | | skulls | | OK
 Skeletal structures are more dependable than skull dimensions in deciphering human racial origins due to the distinct types that still persist and help identify the ancestry of present-day races. (81:4.3,14)
 Originally, there were five distinct types of skeletal structure in the development of the Urantia races, but as human remains are unearthed, it becomes impossible to clearly distinguish the five original types. (81:4.3-14)
 
-skepticism (philosophy) | | | | OK
+skepticism (philosophy); Skepticism; skeptical | | | RELIGION | OK
 Skepticism asserts that knowledge is fallacious and conviction is impossible. (121:4.5)
 Philosophy, leaning heavily on metaphysics, unfailingly becomes skeptical and confused. (103:6.14)
 
@@ -2492,7 +2493,7 @@ Occidental religion languished until the days of the Skeptics, Cynics, Epicurean
 skies | | atmosphere | | OK
 Do not mistake God as distant in the skies, for the divine presence dwells within you through the indwelling Mystery Monitor. (5:2.3)
 
-skulls | | broad-heads; long-heads; medium-heads; round-heads; skeletal structures | | OK
+skulls; skull | | broad-heads; long-heads; medium-heads; round-heads; skeletal structures | | OK
 Skulls became potent fetishes, believed to hold powerful spiritual significance. (88:1.8)
 Ancient medicine men performed trephining surgeries to release headache spirits, evolving from spiritual to physical healing practices. (90:4.4)
 The skull types found in the graves of ancient Mesopotamia evidence the thorough blending of races by 6000 B.C. (78:8.1) (80:1.2) (80:2.1-2) (80:7.2) (80:8.2,5) (80:9.5-10) (81:4.2-14)
@@ -2580,14 +2581,15 @@ Religion must have up-to-date slogans to call modern man to spiritual battle eff
 
 sloth | | indolence | | OK
 
-slothful servant | | | | OK
+slothful servant; servant is slothful | | | | OK
 In the parable of the slothful servant, the lord will cast out those unfaithful who mistreat others and do not prepare for his unexpected return, while those who endure trials will be exalted in the affairs of the kingdom. (165:6.2-3)
 
-sloths | (61:4.3) (61:4.4) (61:5.7) (61:7.15) | | | OK
+sloths | | | | OK
+Asiatic sloths, armadillos, antelopes, and bears entered North America, while North American camels went to China (61:4.3) (61:4.4) (61:5.7) (61:7.15)
 
 smiths | | black smiths | | OK
 
-smoke signals | | | | OK
+smoke signals; smoke signal | | | | OK
 From smoke signals to advanced communication technology, the early message system evolved through various stages. (69:4.7)
 
 snails | | | | OK
@@ -2612,13 +2614,13 @@ Primitive hunters used ingenious snares and traps to catch game, while more adva
 sneezing | | | | OK
 Sneezing was seen by savages as the soul's failed escape, thwarted by the vigilant body, and later became intertwined with religious expressions like “God bless you!” (86:5.9)
 
-snow | | | | OK
+snow; snowfall; Snow | | | | OK
 Increased snowfall in highlands caused floods in Euphrates valley, forcing inhabitants to flee to eastern highlands. (78:7.2)
 No two snowflakes are ever alike, just like children and personalities - always unique within their forms. (111:4.6)
 Elevated northern highlands and shifting ocean currents caused glaciers to form on vast areas of North America and northern Europe. (61:5.1-2)
 In A.D. 1, Jesus experienced a record-breaking snowstorm in Galilee, where two feet of snow fell, marking an eventful year in his life. (123:4.1)
 
-social architects | | seraphim | ORDER | OK
+social architects; Social Architects | | seraphim | ORDER | OK
 Social Architects work to remove artificiality from relationships and promote genuine connections among beings in the universe. (39:3.4)
 Supervisor seraphim bring together efficient and agreeable working groups to enhance sincere social contacts and further the social evolution of universe creatures. (39:3.4-6)
 
@@ -2631,7 +2633,7 @@ The upper classes viewed the free proletariat as worthless except for breeding p
 States resulting from conquest were inevitably stratified, leading to class struggles throughout history. (71:1.2)
 In Jesus' time, a small middle class emerged, providing moral backbone to the early Christian church and encouraging tradesmen to continue their crafts. (121:1.8) (121:3.4)
 
-socialism | | communism; government | | OK
+socialism; socialists | | communism; government | | OK
 Local governments in main continental nation of a nearby inhabited planet practice socialism through their socialistic enterprises in areas such as health, sanitation, and recreation. (72:7.1,3)
 Untrue teachings on socialism contradict the role of religion as a conservator of morals and stabilizer of society. (99:5.1)
 
@@ -2657,10 +2659,10 @@ Lot went to Sodom for trade and husbandry, while Abraham plotted to conquer Cana
 Sol Invictus | | | RELIGION | OK
 Mithras was exalted as the intercessor for the human race among the gods after slaying the sacred bull in his struggle with the god of darkness, the Mithraic sun-god, or Sol Invictus. (98:5.3)
 
-solar energy | | suns | | OK
+solar energy; light-energies; Solar energy | | suns | | OK
+Solar radiation penetrates space for millions upon millions of miles to energize, light, and heat distant planets, proving the suns of space are not very dense. (41:5)
 
 solar radiation | | suns | | OK
-Solar radiation penetrates space for millions upon millions of miles to energize, light, and heat distant planets, proving the suns of space are not very dense. (41:5)
 
 solar supergases | | suns | | OK
 
@@ -2672,7 +2674,7 @@ Trust is the crucial test and true measure of self-mastery and character for ter
 
 solicitations | | fundraising | | OK
 
-Solitarington | (13:1.15-18) | sacred spheres of Paradise | PLACE | OK
+Solitarington; SOLITARINGTON | (13:1.15-18) | sacred spheres of Paradise | PLACE | OK
 Solitarington is the divine rendezvous of unrevealed beings, born from the conjoint acts of the Universal Father and the Infinite Spirit. (13:1.15)
 Solitarington holds the secrets of trinitization and the intimate association of spiritual beings with the Trinity. (13:1.18) (22:7.1)
 Solitarington, home of Solitary Messengers and Universe Power Directors, is the rendezvous of unrevealed beings originating from the Universal Father and the Infinite Spirit, embodying their traits and Spirit inheritance. (13:1.15-16)
@@ -2761,7 +2763,7 @@ The Somme River flows today in the same preglacial channel as it did tens of tho
 Son finders | | supernaphim | ORDER | OK
 Secondary supernaphim of Havona’s 4th circuit are the Son finders who guide ascending mortals in understanding the Eternal Son. (26:8)
 
-Son-fused mortals | (40:8) | fusion; mortals  | ORDER | OK
+Son-fused mortals; Son-fused creatures | (40:8) | fusion; mortals  | ORDER | OK
 Adjusters serve mortal beings during life in flesh, building up souls and guiding them through ascension to the mansion worlds, even if they are not candidates for fusion with their Adjusters. (40:8.2) (40:9.2)
 The Ancients of Days convene a court of inquiry to certify the lack of guilt in inhibiting Father fusion for Son-fused mortals. (40:8.3)
 As ascending sons, Son-fused mortals journey through the educational worlds of the universe, striving for identity fusion with their Adjusters. (40:8)
@@ -2778,14 +2780,14 @@ When synchronization issues impede fusion with the Father, the Creator Son's ref
 Urantia mortals will not become Son- and Spirit-fused. (30:4.9)
 Son-fused mortals, residing on Uversa, contribute to the eventual settlement of the seventh superuniverse, alongside their Spirit-fused counterparts, while Father-fused beings attain the Universal Father as their ultimate destiny. (40:10)
 
-son of commandment | | | | OK
+son of commandment; son of the commandment; sons of the commandment | | | | OK
 Jesus graduated from the synagogue school at age thirteen, becoming a “son of the commandment” and a responsible citizen of Israel, attending Passover in Jerusalem. (123:5.2) (125:2.6)
 Upon graduation, Jesus became a “son of the commandment,” participating in temple discussions with candor and hunger for knowledge. (124:5.4) (125:4.3)
 
 Son of God | | Jesus:nature of Jesus | ORDER | OK
 The Jewish concept of a heavenly Prince ruling the earth made new evolved from the servant of the Lord to the son of David, Son of Man, and Son of God. (135:5.7) (136:1.1)
 
-Son of Man | | | PERSON | OK
+Son of Man; son of man | | | PERSON | OK
 Amenemope, known as the son of man, taught salvation through conscience and calling upon the solar deity. (95:4.1)
 Immanuel counseled Michael to end rebellion as the Son of Man, achieving justice through humility and mercy. (120:2.2) (120:3.11)
 The Son of Man, a heavenly Prince and Son of God, was seen as the divine ruler of the new kingdom in Jewish belief. (135:5.7) (136:1.1)
@@ -2806,14 +2808,14 @@ Son-Spirit ministers; Son-Spirit Ministers | | seraphim | ORDER | OK
 Son-Spirit ministers are closely affiliated with the intelligence corps of Bright and Morning Star in serving the high Sons and Spirit-origin beings in the local universe. (39:1.2)
 Supreme seraphim help orchestrate the transition between planetary dispensations for the high Sons and Spirits. (39:1.3)
 
-Sonarington | (13:1.7-8) | sacred spheres of Paradise | PLACE | OK
+Sonarington; SONARINGTON | (13:1.7-8) | sacred spheres of Paradise | PLACE | OK
 Sonarington is the paradise home of the Sons of God, within the bosom of the Son. (13:1.7)
 Mortal finaliters granted clearance to Sonarington, save for one seventh of its secrets. (13:2.6)
 The secrets of incarnation and bestowal are fully known only on Sonarington. (7:5.4) (13:1.8) (13:2.6) (119:1.6) (119:3.6) (119:7.5)
 
 sons of Annas | | Annas | | OK
 
-Sons of God | | | ORDER | OK
+Sons of God; SONS OF GOD | | | ORDER | OK
 Although seraphim are not sex-emotion creatures, they are beings descending from Father and Son, much like the sons of God. (38:2.2)
 God's divine entities are part of him and his knowledge is universal and perfect. (3:3.1)
 The Sons of God in Uversa's personality register include Creator Sons, Magisterial Sons, Trinity Teacher Sons, Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, Life Carrier Sons, Father-fused Mortals, Son-fused Mortals, Spirit-fused Mortals, Evolutionary Seraphim, Ascending Material Sons, Translated Midwayers, Personalized Adjusters, Mighty Messengers, Those High in Authority, Those without Name and Number, Trinitized Custodians, Trinitized Ambassadors, Celestial Guardians, High Son Assistants, Ascender-trinitized Sons, Paradise-Havona-trinitized Sons, and Trinitized Sons of Destiny. (30:2.37-64)
@@ -3231,11 +3233,11 @@ Claudus preached in Spain after being inspired by Jesus in Malta. (130:8.1)
 Sun worshippers in 3000 B.C. built circular sun temples in southern France and Spain during the New Stone Age, reflecting a period of agriculture and energetic stone setting by the European white races. (80:9.13)
 Superior Saharans emigrated to Spain and adjacent parts of Europe, forming the nucleus of the Mediterranean long-headed brunet races. (80:2.2) (80:3.7)
 
-sparrows | | | | OK
+sparrows; sparrow | | | | OK
 Fear not, for you are of much more value than five sparrows sold for two pennies. (165:3.4)
 In God’s sight, not one sparrow is forgotten; He knows all things. (3:3.1) (150:4.3)
 
-speaker at forum | | | PERSON | OK
+speaker at forum; speaker at the forum | | | PERSON | OK
 Jesus told the speaker at the forum: “Your eloquence and logic are impressive, but true teaching comes from knowing God as your spiritual Father.” (132:4.7)
 
 spear | | | | OK
@@ -3245,7 +3247,7 @@ Jesus' side pierced with a soldier's spear as he hung on the cross at Golgotha. 
 specialists | | careers; overspecialization | | OK
 The development of effective means for coordinating specialists is essential for the continued advancement and cohesion of civilization as it expands and diversifies. (81:6.29-30)
 
-spectral lines | | | | OK
+spectral lines; lines | | | | OK
 Spectral analyses reveal only the sun's surface compositions, showcasing iron lines despite not being the dominant element, a result of the sun's temperature of nearly 6,000 degrees. (41:6.7)
 Some unknown spectral lines are shattered elements floating throughout space, modified by energy and matter circulating in organized space. (41:6.1)
 
@@ -3298,7 +3300,7 @@ usefulness of speculations
 	Stimulus of creative speculation prevents overrevelation, allowing for imaginative exploration of partially revealed concepts. (30:0.2)
 	Do not waste time on futile conjectures about the mysterious incarnation of Michael of Nebadon; let the sublime knowledge of Jesus of Nazareth's mortal life sink into your souls. (20:6.1)
 
-speech, freedom of | | language | | OK
+speech, freedom of; Freedom of speech | | language | | OK
 Representative government is unthinkable without freedom of all forms of expression. (71:2.13)
 
 spells | | | | OK
@@ -3408,7 +3410,7 @@ spiritual circuits
 spiritual gravity
 	about spiritual gravity see link to gravity | gravity:types
 
-spirit, new-name | | | | OK
+spirit, new-name; spirit influences | | | | OK
 Ascending mortal in Corps of Finality, subject to the sevenfold appeal of universe spirit influences. (194:2.12)
 
 Spirit-Advocate | | | | OK
@@ -3417,7 +3419,7 @@ The Spirit-Advocate ensures fairness and protection for all parties before the c
 Spirit co-ordinators; Spirit Co-ordinators | | seraphim | ORDER | OK
 The superior seraphim serving ascenders on Salvington as Spirit Co-ordinators prepare them for their final transition in the local universe to newborn spirit beings. (39:2.6)
 
-spirit conjuring | | | | OK
+spirit conjuring; Spirit conjuring | | | | OK
 Shamans utilized powerful techniques to control the hazards of living through spirit conjuring. (90:2.1)
 
 Spirit-fused mortals | (37:5.1-4) (40:9) | fusion; mortals:planetary types | ORDER | OK
@@ -3537,7 +3539,7 @@ effect of receiving the Spirit of Truth
 	Through the Spirit of Truth, we are transformed, strengthened, and endowed with the power to fulfill God's will joyously and perfectly. (143:2.4)
 	The Spirit of Truth unfolds the divine truth hidden in the person of Jesus, guiding believers into an ever-expanding religion of eternal progress. (194:3.8)
 
-Spiritington | (13:1.9-10) | sacred spheres of Paradise | PLACE | OK
+Spiritington; SPIRITINGTON | (13:1.9-10) | sacred spheres of Paradise | PLACE | OK
 Spiritington is the Paradise home of high beings from all universes who represent the Infinite Spirit. (13:1.9)
 The secret of Spiritington lies in the enigmatic power of reflectivity. (13:1.10)
 
@@ -3552,7 +3554,7 @@ The planetary helper seraphim work tirelessly for racial harmony among diverse r
 
 Spirits of the Havona Circuits | | Seven Spirits of Havona Circuits | ORDER | OK
 
-spirits of trust | | seraphim | ORDER | OK
+spirits of trust; Spirits of Trust | | seraphim | ORDER | OK
 Planetary helper seraphim inculcate trust, fostering a civilization that embodies ideals of confidence and trust in uncertainty. (39:5.7-9)
 
 spiritual assurance | | assurance | | OK
@@ -3589,10 +3591,10 @@ Jesus
 
 spiritual consecration | | consecration of choice | | OK
 
-spiritual-energy manipulators | | | ORDER | OK
+spiritual-energy manipulators; Spiritual-energy manipulators | | | ORDER | OK
 Celestial artisans meticulously manipulate spiritual energy with reliable laws and improved techniques. (44:5.4)
 
-spiritual growth | (103) (100:1-2) (101:6) | God:consciousness of God; God:finding God; growth; religion; spiritual communion; spiritual rebirth; submission | | OK
+spiritual growth; Spiritual growth | (103) (100:1-2) (101:6) | God:consciousness of God; God:finding God; growth; religion; spiritual communion; spiritual rebirth; submission | | OK
 definition
 	Morality originates in self-conscious reason, evolving beyond the animal realm, with the soul representing the potential survival value of human experience through moral choice, spiritual attainment, and the urge to know and be like God. (5:5.1) (133:6.5)
 	Spiritual growth involves awakening to needs, discerning meanings, and discovering values, ultimately leading to a personality motivated by love, ministry, and worship of divinity's perfection ideals, forming the reality of religion over theological beliefs. (100:2.2)
@@ -3747,7 +3749,7 @@ spiritual presence | | God:consciousness of God | | OK
 
 spiritual progress | | spiritual growth | | OK
 
-spiritual rebirth | (100:5) | consecration of choice; faith; gospel; kingdom of heaven; salvation; submission | | OK
+spiritual rebirth; rebirth of the spirit | (100:5) | consecration of choice; faith; gospel; kingdom of heaven; salvation; submission | | OK
 Through living faith, you can become divinely God-conscious and experience spiritual rebirth as children of light and life. (193:0.3)
 True spiritual rebirth only comes after a complete disillusionment with selfish pursuits and a rejection of shallow religious practices. (195:9.7)
 Jesus within brings unity, transformation, and newness to all who receive him. (100:7.18)
@@ -3773,7 +3775,7 @@ results in spiritual rebirth
 	Through spiritual rebirth, we possess the power to overcome all doubt and find victory in our faith as children of God. (142:5.3)
 	Salvation is the gift of God to all who believe they are his sons, bearing the fruits of the spirit in loving service to all creatures, for the acceptance of the doctrine of the fatherhood of God implies the brotherhood of man. (193:1.2) (193:2.2)
 
-spiritual unity | (56:3) (141:5) | doctrines; tolerance; uniformity; unity | | OK
+spiritual unity; Spiritual unity | (56:3) (141:5) | doctrines; tolerance; uniformity; unity | | OK
 achieved
 	Religionists should unite on common ideals and goals, not theological beliefs, in order to create spiritual unity. (99:5.7)
 	Unity in spiritual fellowship among believers is essential for the true church, not uniformity enforced by doctrinal finality or sectarian superiority. (103:5.12) (134:4.6) (182:1.6,8) (195:10.11)
@@ -3826,7 +3828,7 @@ Umajor the fifth, the capital of Splandon, is surrounded by the seventy spheres 
 Splandon, headquarters of Major Sector Umajor V, is surrounded by 70 satellites of higher training administered by the Perfections of Days. (15:7.9) (18:4.7)
 Splandon, the fifth major sector in the superuniverse of Orvonton, consists of one hundred minor sectors, with Ensa being number three, where you can find Uminor the third as the capital, and Umajor the fifth as the headquarters world. (15:14.7) (18:4.7) (35:3.22)
 
-sponges | (59:1.18) (59:2.11) (59:3.7) (60:2.8) | | | OK
+sponges; spongelike | (59:1.18) (59:2.11) (59:3.7) (60:2.8) | | | OK
 The sponges are animallike borderland organisms, representing a crucial step in the transition from vegetable to animal forms of life. (58:7.2) (65:2.2)
 A sponge stopper was used to moisten Jesus' parched lips with wine. (187:3.5)
 
@@ -3845,7 +3847,7 @@ True worship is the spontaneous expression of beings who have learned enough abo
 
 spore-bearing plants | | plants:spore-bearing plants | | OK
 
-spornagia | (46:7) | | ORDER | OK
+spornagia; Spornagia | (46:7) | | ORDER | OK
 The spornagia are animal caretakers of architectural spheres in the local universe. (37:10.3) (45:0.3)
 The spornagia on Jerusem astound with their artistic cultivation of the land for ornamental effects, acting as the landscape gardeners of the headquarters worlds. (46:7.2)
 Beautiful spornagia inhabit constellations, where they are ministered to by the supervisor seraphim and the univitatia on the architectural worlds of Norlatiadek. (43:0.4)
@@ -3860,7 +3862,7 @@ visualize morontia, angelic, and lower spirit personalities, but
 Spornagia, not finaliters, are beautiful and intelligent creatures on architectural worlds who show gratitude for attention, recognize morontia creations, and participate in spiritual devotions out of affection for their masters. (46:7.7) (47:1.1)
 Celestial artisans direct the spornagia in the biologic beautification of architectural worlds, utilizing living materials to capture their ideals and adorn public spaces with creative decorations. (43:6.7) (46:5.31) (46:7.2)
 
-sports | | | | OK
+sports; athletic games | | | | OK
 Through extended puberty initiation ceremonies involving self-torture and painful cutting, tribal marks were engraved on youths to harden them for the reality of life, a purpose better accomplished by athletic games and contests. (70:7.10)
 Joseph rebuked Jesus for admiring sports at Scythopolis, but Jesus later learned the Jewish view and never mentioned them again. (124:3.7-9)
 Vanity, pride, ambition, and honor intertwine to form human associations, relying on a social arena for exhibition and gratification, thus giving rise to art, ceremonial traditions, and sports. (68:2.10)
@@ -3888,7 +3890,7 @@ God is assurance of stability. (12:7.5)
 Learn to let pressure develop stability, accept challenges without complaint, and maintain a well-balanced poise throughout the struggle for spiritual freedom. (48:6.35)
 Stability in the universe is not a result of inertia, but is always proportional to divinity. (12:6.1)
 
-stabilization corps of local universe | | | | OK
+stabilization corps of local universe; stabilization corps of the local universe | | | | OK
 The stabilization corps of the local universe is comprised of Assigned Sentinels in light and life, overseen by the Associate Inspector and Father Melchizedek, with the support of the Inspired Trinity Spirits. (55:10.3)
 
 stagnation | | | | OK
@@ -3903,7 +3905,7 @@ Burning at the stake was a common punishment for sexual offenses, directed by ru
 
 stamina | | persistence | | OK
 
-standard time | | time:days and years | | OK
+standard time; Standard time | | time:days and years | | OK
 Standard time in the local universe is based on the day in Satania, which is slightly shorter than three days on Urantia. (33:6.9)
 
 standards of living | | | | OK
@@ -3916,7 +3918,7 @@ star clouds | | | PLACE | OK
 Orvonton's star clouds contain gaseous matter with an unbelievably enormous energy potential, comparable to separate nebulae in external space regions. (15:4.9)
 The stellar gas clouds of Orvonton, comparable to separate nebulae, hold an enormous energy potential redistributed by near-by suns as solar emanations. (15:4.9)
 
-star students | (57:3.2) | astronomy | | OK
+star students; Star students; Star Students | (57:3.2) | astronomy | | OK
 Star students from Uversa serve one millennium, drawn from beings of all realms and universes, aspiring to celestial astronomy with knowledge of space evolution. (30:3.3)
 Celestial astronomers forecast energy behavior of blazing suns and dark islands to anticipate power disturbances and matter fluctuations in delicately balanced circuits. (15:8.7) (30:3.2)
 Star students in Uversa personality register. (30:2.150)
@@ -3930,7 +3932,7 @@ Star students collaborate with transport advisers to determine celestial routing
 starfish | | | | OK
 The starfish is among the ancient animal types that survived the long struggle of evolution, along with stone lilies, sea urchins, and other nonprogressive specimens. (65:2.5)
 
-stars | | astrology; astronomy; suns | PLACE | OK
+stars; Stars | | astrology; astronomy; suns | PLACE | OK
 Stars are best discerned from lonely depths, not illuminated mountain tops. (48:7.15)
 God knows all things, calling the stars by name and understanding the thoughts of all creation. (3:3.1-2) (15:2.1) (131:2.2)
 The sons of God are now enlisted in the battle for reality's triumph, with the stars in their courses doing battle for them as they strive for eternal spiritual progression. (101:10.9)
@@ -3958,10 +3960,10 @@ orders
 	# Divine Counselors
 	# Universal Censors
 
-statisticians | | | | OK
+statisticians; Statisticians | | | | OK
 Statisticians announce laws governing groups of atoms or persons, but not for individual entities due to unpredictability caused by various influences. (42:7.10)
 
-status | | achievement | | OK
+status; Status | | achievement | | OK
 Choosing to do the will of God leads to the evolutionary attainment of consciousness of kinship with the Supreme. (110:6.17) (115:0.1)
 Differences in status among races and groups are vital for fostering tolerance and altruism in humans. (64:6.34)
 The direction of your progress in eternity is infinitely more important than your current status in mortal life. (111:1.5) (147:5.7)
@@ -3994,7 +3996,7 @@ Accepting disappointments and embracing new opportunities after faithfully perfo
 A certain amount of both stoicism and optimism are serviceable in living a life on earth, but the peace of Jesus is the ultimate comfort and confidence in achieving the Father's will. (181:1.8)
 Stoicism falls short of true human self-realization, requiring dynamic and progressive attitudes to fully embrace universe reality. (12:5.10)
 
-Stoicism (religion) | | | RELIGION | OK
+Stoicism (religion); Stoics | | | RELIGION | OK
 Jesus taught Angamon, the leader of the Stoics in Rome, during an all-night talk early in Jesus' time in Rome, which led to a strong friendship and support for the Christian church among Angamon and Paul. (132:1.1)
 Despite contention with mystery cults, Stoicism's teachings were challenged by the arrival of Christianity in Rome offering comfort and liberating power to spiritually hungry people. (195:3.3)
 The great inroad of Stoicism in Hellenized Jewish beliefs is exemplified by the Fourth Book of Maccabees and the Wisdom of Solomon. (121:6.3)
@@ -4025,7 +4027,7 @@ famous stones
 	Jesus is building a living temple of sonship with human stones since that day. (157:4.7)
 	The Stone of Scone and the Kaaba are enduring symbols of sacred stones, reminiscent of a time when a string of beads was a battery of charms. (88:1.2)
 
-Stone Age (Old) | | | | OK
+Stone Age (Old); Stone | | | | OK
 The human race, originating almost one million years ago, saw the appearance of the six colored races in the Stone Age 500,000 years ago. (64:0.2)
 Metals were widely used in the early industrial and trading cities, with no distinct periods like the Stone, Bronze, and Iron Ages coexisting in different localities. (81:3.4)
 European research on the Old Stone Age focuses on uncovering tools, bones, and artcraft of the ancient blue men, ancestors of the white races who intermixed with yellow, red, and violet races. (64:6.24)
@@ -4046,7 +4048,7 @@ The Stone of Scone is a sacred fetish stone that has survived through time, alon
 Stonehenge | | | PLACE | OK
 The European white races of the New Stone Age delighted in setting up great stones as tokens to the sun, symbolizing a great period of agriculture in southern Europe. (80:9.13)
 
-stonings | | martyrs | | OK
+stonings; stoned; stone him to death; stoned her to death | | martyrs | | OK
 stonings mentioned in The Urantia Book:
 	* of prophets. The people of Jerusalem, descendants of Abraham, have stoned prophets and killed teachers sent to them, rejecting protection and guidance from divine sources. (175:1.23)
 	* of Amos. Before his stoning, Amos proclaimed Yahweh as the “God of all nations” and warned against replacing righteousness with ritual, spreading enough truth to ensure the evolution of the Melchizedek revelation. (97:4.4)
@@ -4055,7 +4057,7 @@ stonings mentioned in The Urantia Book:
 	* of Stephen. The stoning of Stephen by the Jewish rulers marked a significant turning point in the early Christian church's organization and separation from unbelievers. (194:4.11-12)
 	* of wife of Apostle Philip. Philip’s wife, a fearless and efficient member of the women’s corps, stood at the foot of his cross, encouraging him to proclaim the glad tidings even to his murderers, and was stoned to death by irate Jews. (139:5.11)
 
-storms | | | | OK
+storms; windstorms; sandstorm | | | | OK
 During a violent storm, Andon and Fonta decided to flee their home treetops. (63:2.2)
 Advanced races on nonbreather worlds must protect themselves from meteor damage with electrical installations, but are also subject to disastrous electrical storms unlike those on Urantia. (49:3.3)
 The crustal cooling era was marked by frequent and violent storms, as the earth's original planetary crust was continually mixed with lava flows and ocean deposits. (57:8.11)
@@ -4066,7 +4068,7 @@ Jesus calmed a violent storm on the Sea of Galilee that left his apostles afraid
 During the sandstorm at Jesus' crucifixion, only a small group of devoted followers remained at the foot of the cross. (187:5.1-4)
 In a year full of events, Jesus experienced a rare two-foot snowstorm in Galilee, the deepest of his lifetime. (123:4.1)
 
-storytelling | | | | OK
+storytelling; storyteller | | | | OK
 Ancient guests paid their way by telling tales, creating a tradition of hospitality intertwined with storytelling that eventually became revered but restricted during crucial seasons. (70:3.9)
 James Zebedee was a good storyteller when he wasn't experiencing spells of unaccountable silence. (139:3.3)
 Jesus, a master storyteller, captivated his neighbors with tales of his early life in Galilee and readings from the Greek scriptures. (126:2.6) (130:7.1)
@@ -4076,7 +4078,7 @@ strain | | anxiety | | OK
 
 strange preacher | | Aden | PERSON | OK
 
-strangers | | | | OK
+strangers; foreigners | | | | OK
 Once customed to kill or enslave all strangers, each tribe feared and suspected those outside their clan. (70:3.6)
 Early man considered shedding alien blood a virtue, as individual irritations were submerged in group feelings, promoting intratribal tranquillity but at the expense of intertribal peace. (70:1.5)
 Do not confuse becoming as little children with mere quickness to trust pleasing strangers. (140:10.4)
@@ -4099,7 +4101,7 @@ structures | | buildings | | OK
 
 struggle | | effort | | OK
 
-student visitors | | | ORDER | OK
+student visitors; Student Visitors | | | ORDER | OK
 Even student visitors are allowed on all inhabited planets, even in isolation, to visit within any realm they have experientially attained. (48:3.10)
 Student visitors are registered in the Uversa personality register. (30:2.155)
 Various types of celestial visitors, including observers, exchange pupils, and student helpers, populate the courtesy colony on Uversa, with over one billion individuals present at any given time. (30:3.11)
@@ -4350,7 +4352,7 @@ sunspots | | suns | | OK
 Suntites | | | RACE | OK
 After Adam's departure, the Suntites occupied the Garden of Eden until it was submerged. (73:7.1)
 
-superangel world | | Jerusem:transitional culture worlds | PLACE | OK
+superangel world; Superangel World | | Jerusem:transitional culture worlds | PLACE | OK
 World #4, the Superangel World, is the Satania home of the Brilliant Evening Stars and a vast concourse of co-ordinate and near-co-ordinate beings. (45:1.6)
 
 superangels | | Brilliant Evening Stars | ORDER | OK
@@ -4362,7 +4364,7 @@ superconscious mind | | mortal mind | | OK
 
 superghosts | | ghosts | | OK
 
-superior seraphim | | seraphim | ORDER | OK
+superior seraphim; superior | | seraphim | ORDER | OK
 A considerable group of superior seraphim were deceived and ensnared in the Lucifer rebellion, along with a few supervisor angels and nearly one third of administrator angels. (53:7.6)
 types (32:2)
 	# intelligence corps
@@ -4374,7 +4376,7 @@ types (32:2)
 	#* 6a. broadcasters (39:2.15-16)
 	# reserves (39:2.17-18)
 
-supermen | | | | OK
+supermen; superhuman | | | | OK
 Early man regarded all unusual persons as superhuman, worshiping them in reverential awe and believing them to be indwelt by the gods. (85:6.2)
 The mythology surrounding the Prince's staff, transformed into supermen on Urantia, drove the tribes near Mesopotamia to adopt nonflesh diets, while also infusing legends and teaching throughout the region for almost a millennium. (66:4)
 Prince’s staff were supermen who accelerated human evolution through conscious social selection without robbing mankind of its religion and morals. (66:6.6) (66:7.2,4)
@@ -4450,11 +4452,11 @@ supernatural | | | | OK
 Jesus warned apostles to avoid ascribing events to spiritual causes and encouraged them to seek true causes of all phenomena. (164:3.6)
 Avoidance of ascribing things to the supernatural is just a lazy way to escape intellectual hard work. (86:2.5)
 
-superpersonalities | | | | OK
+superpersonalities; SUPERPERSONAL BEINGS | | | | OK
 In Paradise classification, superpersonal beings of divine origin serve in the universe of universes, with some residing on the Paradise worlds of the Son and others encountered elsewhere. (30:1.103)
 Superpersonalities represent the Eternal Son in the superuniverses as finite beings beyond the personality circuit of the Universal Father. (7:2.3)
 
-superstition | | | | OK
+superstition; superstitions | | | | OK
 Civilized races, cursed with superstition, cling to signs, tokens, and other remnants of the ghost cult, hesitant to abandon the methods used in their evolutionary ascent. (87:5.14)
 Doctrinal fetish betrays man into superstition and intolerance, enslaving him into the clutches of bigotry and fanaticism. (88:2.7)
 Each generation smiles at ancestors' foolish superstitions yet continues to entertain fallacies, guaranteeing amusement for future generations. (86:6.5)
@@ -4469,10 +4471,10 @@ for a list of superstitions and superstitious practices named in The Urantia Boo
 superstratosphere | | | | OK
 superstratosphere (58:2.10)
 
-superultimate | | | | OK
+superultimate; superultimates | | | | OK
 The superultimate Absolute remains an unpredictable force within the complex reality of the universe. (4:1.9)
 
-Superuniverse Centers | | Supreme Power Centers | ORDER | OK
+Superuniverse Centers; power centers | | Supreme Power Centers | ORDER | OK
 Superuniverse Centers direct localized energy movements for specific purposes within the vast expanse of the grand universe. (29:2.13-15)
 The superuniverse power centers and physical controllers oversee the intricate physical-energy circuits, regulating the energy systems with intelligent precision over vast time spans. (15:8.2-3)
 We are familiar with emergent-energy behavior from its direct response to Paradise gravity, marking the beginning of superuniverse power directors. (42:2.23)
@@ -4481,12 +4483,12 @@ Superuniverse power centers and physical controllers are non-volitional, highly 
 From the Superuniverse Centers, seven specialized circuits of electronic universe power are sent forth, originating from one thousand power centers of the third order on the capital sphere of each of the seven superuniverses. (29:2.13)
 Superuniverse Centers are recorded in Uversa personality registers (30:2.95)
 
-superuniverse wards | | ascending mortals | ORDER | OK
+superuniverse wards; Superuniverse Wards | | ascending mortals | ORDER | OK
 Ascending mortals on superuniverse training worlds become wards of the Ancients of Days, embarking on a unique journey of spiritual progression and growth towards their potential destiny in the Corps of the Finality. (30:4.22-25)
 Superuniverse wards, confirmed by Creator Son and Mother Spirit, have never gone astray or faltered in their ascent. (30:4.21)
 Journeying through all ten major sectors is essential for those coming from Splandon to reach Uversa in the superuniverse. (18:4.9)
 
-superuniverses | (15) | grand universe; master universe; Orvonton (superuniverse) | PLACE | OK
+superuniverses; superuniverse | (15) | grand universe; master universe; Orvonton (superuniverse) | PLACE | OK
 All superuniverses are finite and evolutionary, except for Havona, which is perfectly settled and eternal. (32:3.1-2)
 Boundaries do not divide a nebular family in the Seven Superuniverses. (12:1.12)
 The derivation of age of superuniverses reveals the relative nature of time across different cosmic perspectives. (54:5.13)
@@ -4584,10 +4586,10 @@ superuniverse #6
 superuniverse #7 | Orvonton
 	Master Spirit Number Seven is the unique embodiment of the Universal Father, the Eternal Son, and the Infinite Spirit, guiding triune-origin beings and ascending pilgrims through their journey to glory. (16:3.14-15)
 
-supervising assistants | | seraphim | ORDER | OK
+supervising assistants; Supervising Assistants | | seraphim | ORDER | OK
 Supervisor Seraphim assigned to Most Highs unify and stabilize constellations through the collective work of the Constellation Fathers. (39:3.2)
 
-supervisor seraphim | (39:3) | seraphim | ORDER | OK
+supervisor seraphim; supervising seraphim | (39:3) | seraphim | ORDER | OK
 One third of Satania’s supervisor seraphim were lost in the Lucifer rebellion, while the supreme order of seraphim remained faithful, but a group of the superior order and a few of the supervisor order were deceived, with the most significant losses occurring among the administrator angels. (53:7.6)
 Supervisor seraphim, assigned to constellations, work extensively throughout Nebadon to serve their designated realms, ensuring unification, ethical appreciation, and smooth transit for the inhabitants. (39:3) (43:0.4)
 types
@@ -4908,7 +4910,7 @@ The birth of a local universe Mother Spirit is a result of the supreme reaction 
 
 Supreme Rulers | | God | | OK
 
-supreme seraphim | | seraphim | ORDER | OK
+supreme seraphim; supreme order of seraphim | | seraphim | ORDER | OK
 Michael's fourth bestowal as a teaching counselor of the supreme seraphim marked a significant milestone in the history of Nebadon. (39:1.15) (119:4)
 None of the supreme order of seraphim were lost in Lucifer's rebellion, but a significant number of the next order were deceived, along with a few of the third order angels. The real devastation occurred with the administrator angels, where nearly one third joined the rebels despite Manotia saving almost two thirds. (53:7.6)
 Supreme seraphim, as advisers to morontia mortals, bring material and morontial viewpoints into true focus, enabling a stereoscopic effect on meanings and values. (48:6.28)
@@ -4926,7 +4928,7 @@ types
 supreme service | | | | OK
 The order of “supreme service” is the highest honor granted in the morontia temple for distinguished supermaterial or social service. (55:3.8,19)
 
-Supreme Spirits | (17) (9:8.15) | Infinite Spirit:family | ORDER | OK
+Supreme Spirits; Supreme Spirit | (17) (9:8.15) | Infinite Spirit:family | ORDER | OK
 The seven Supreme Spirit groups are the universal co-ordinating directors of the grand universe's administration. (17:0.1-12) (17:8.3)
 All ministering spirits spring from the Supreme Spirit groups, together with their Infinite Mother Spirit, as the immediate creators of the vast creature family of the Third Source and Center. (17:8.2)
 The Supreme Spirits appear in personality registers and listed as: (30:1.56) (30:2.14)
@@ -5098,13 +5100,13 @@ Pilate retired to Switzerland and committed suicide after his regretful condemna
 Despite varying beliefs about tree spirits among different tribes and races, the Swiss long mistrusted trees, fearing they contained tricky spirits. (85:2.4)
 The tribes dwelling in houses on piles over the lakes of Switzerland were part of the expanding fringes of African, Aegean, and Danubian migrations. (80:8.3)
 
-swords | | | | OK
+swords; swordmakers | | | | OK
 The apostles armed with swords were prepared for the events leading up to the betrayal of Jesus in Jerusalem. (171:4.1) (172:0.3) (172:2.1) (172:5.2)
 Peter rushed forward with his sword, ready to protect Jesus from harm. (183:2.2) (183:3.7)
 The early priestly caste originated from a family of expert swordmakers. (69:3.9)
 Those who fight with swords perish with swords, but those who labor in the spirit achieve life everlasting in the kingdom with joy and peace. (181:2.11) (183:3.7)
 
-sycamores | (60:3.19) | | | OK
+sycamores; sycamore | (60:3.19) | | | OK
 Zaccheus climbed a sycamore tree to see Jesus, who then surprised him by deciding to abide at his house for the night. (171:6.1)
 
 Sychar | (134:7.5) | | PLACE | OK
@@ -5137,7 +5139,7 @@ Allowing free expression of evil in rebels' hearts uproots sympathy for evildoer
 Ignorance breeds suspicion, incompatible with sympathy. (52:6.4)
 Jesus urged his listeners to embrace sympathy without sentimentality, piety without sanctimoniousness, and reverence free from fear and superstition, cautioning against the dangers of both recklessness and presumption. (149:4.4)
 
-synagogues | | Judaism | | OK
+synagogues; synagogue | | Judaism | | OK
 Jesus often spoke in synagogues at first, sharing his teachings during Sabbath services and evening assemblies, until opposition from religious leaders led to widespread closures. (146:4.1)
 Believers in Jesus were excommunicated from all synagogues in Jerusalem. (164:4.6,11) (164:5.4-5) (174:5.3) (190:3.3) (190:5.1)
 The synagogues, once open to Jesus, were closed to him by the religious leaders in Jerusalem, leading to widespread opposition against his teachings. (146:4.1) (154:1.2) (154:2.1)
@@ -5170,7 +5172,7 @@ The arrangement of different morontia and spirit beings creates majestic melodie
 
 system centers | | local system centers | ORDER | OK
 
-system co-ordinators | | | ORDER | OK
+system co-ordinators; System Co-ordinators | | | ORDER | OK
 System Co-ordinators appear in Uversa personality registers as part of the Morontia Power Supervisors, a group inside the Universe Power Directors. (30:2.110)
 System co-ordinators harmonize differing power systems on morontia worlds to create a working unit for ascending mortals progressing from the physical to the spiritual. (48:2.15-16)
 
