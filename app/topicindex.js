@@ -641,33 +641,41 @@ class TopicIndex {
 	 */
 	checkTopic = (topic, book, topicIndexEN) => {
 		topic.errors = [];
-		//Checking duplicates
-		const other = this.topics.filter(tt => tt != topic && tt.name === topic.name);
-		if (other.length > 0) {
-			const errors = other.map(tt => 
-				`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
+		try {
+			//Checking duplicates
+			const other = this.topics.filter(tt => tt != topic && tt.name === topic.name);
+			if (other.length > 0) {
+				const errors = other.map(tt => 
+					`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
+				topic.errors.push({
+					desc: this.tr('topic_duplicated') + ' ' + errors,
+					fileline: topic.fileline
+				});
+			}
+	
+			//Checking refs
+			this.checkRefs(topic, book);
+	
+			//Checking names in paragraphs
+			// const firstLetter = topic.name.substring(0, 1);
+			// const isUpperCase = (firstLetter === firstLetter.toUpperCase());
+			// if (isUpperCase) {
+			// 	this.checkNamesInPars(topic, book);
+			// }
+			this.checkNamesInPars(topic, book);
+	
+			//Checking links to other topics
+			this.checkSeeAlso(topic, undefined, topicIndexEN);
+			topic.lines.forEach(line => {
+				this.checkSeeAlso(topic, line, topicIndexEN);
+			});
+
+		} catch (err) {
 			topic.errors.push({
-				desc: this.tr('topic_duplicated') + ' ' + errors,
+				desc: err.message,
 				fileline: topic.fileline
 			});
 		}
-
-		//Checking refs
-		this.checkRefs(topic, book);
-
-		//Checking names in paragraphs
-		// const firstLetter = topic.name.substring(0, 1);
-		// const isUpperCase = (firstLetter === firstLetter.toUpperCase());
-		// if (isUpperCase) {
-		// 	this.checkNamesInPars(topic, book);
-		// }
-		this.checkNamesInPars(topic, book);
-
-		//Checking links to other topics
-		this.checkSeeAlso(topic, undefined, topicIndexEN);
-		topic.lines.forEach(line => {
-			this.checkSeeAlso(topic, line, topicIndexEN);
-		});
 	};
 
 	/**
@@ -1391,6 +1399,7 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, filename);
 			const title = this.tr(`topicIndexTitle_${category}`);
+			const redirectText = this.tr('topicRedirectsTo');
 			let html = '';
 			let curLetter = null;
 
@@ -1489,7 +1498,22 @@ class TopicIndex {
 				const pagename = topicEN.name.replace(/ /g, '_');
 				const lan = (this.language === 'en' ? '' : '/' + this.language);
 				const href = `${lan}/topic/${pagename}`;
-				html += `\t<div><a href="${href}">${topic.name}</a></div>\r\n`;
+				html += `\t<div>`;
+				html += `\t\t<a href="${href}">${topic.name}</a>`;
+				//Resolve redirects
+				if (topic.isRedirect && topic.seeAlso.length === 1) {
+					const seeAlso = topic.seeAlso[0];
+					const seeAlsoTopic = 
+						this.topics.find(t => t.name === seeAlso);
+					if (seeAlsoTopic) {
+						const seeAlsoName = this.language === 'en' 
+							? seeAlsoTopic.name
+							: seeAlsoTopic.nameEN;
+						html += `\t\t<br>\r\n`;
+						html += `\t\t<small>&nbsp;&nbsp;&nbsp;→ ${redirectText}: <a href="${lan}/topic/${seeAlsoName}">${seeAlso}</a></small>\r\n`;
+					}
+				}
+				html += `\t</div>\r\n`;
 				if (i === topics.length - 1) {
 					html += '</div>\r\n';
 				}
