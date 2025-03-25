@@ -61,6 +61,30 @@ Mr R. Chalmers of Oriel College, Oxford, has translated in the present volume th
 
 E. B. COWELL.
 
+
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Buddhism/The_Jakata_Vol_1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Buddhism/The_Jakata_Vol_1/Contents">
+          <span class="pr-2">Contents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Footnotes
 
 [^0]: vii:1 But compare the account of Aristeas of Proconnesus in Hdt. iv. 14, 15.
@@ -86,26 +110,3 @@ E. B. COWELL.
 [^10]: xi:1 This latter portion partly corresponds to the well-known _Lalita-vistara_ of the Northern Buddhists.
 
 [^11]: xii:1 A complete index will be given at the end of the last volume.
-
-
-
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        </td>
-        <td>
-        <a href="/en/book/Buddhism/The_Jakata_Vol_1">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/book/Buddhism/The_Jakata_Vol_1/Contents">
-          <span class="pr-2">Contents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

@@ -39,7 +39,7 @@ The delay in the issue of this volume calls for a few words of explanation. I ha
 
 It only remains for me to acknowledge my debt of gratitude to Professor Bendall for the kind help he has given me in the many difficulties I have referred to him, and for the readiness with which he has placed at my disposal the stores of his wide reading and critical scholarship. The sixth and last volume of the Translation, which was left unfinished by Professor Cowell, is now in the capable hands of Dr Rouse and will appear in due course edited and completed by him.
 
-#### H. T. FRANCIS.
+H. T. FRANCIS.
 
 GONVILLE AND CAIUS COLLEGE,
 &nbsp;&nbsp;&nbsp;&nbsp;_Oct. 25th,_ 1905.

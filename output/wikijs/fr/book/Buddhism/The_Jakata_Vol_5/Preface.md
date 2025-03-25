@@ -37,10 +37,10 @@ Le retard dans la parution de ce volume appelle quelques explications. J'avais e
 
 Il ne me reste plus qu'à exprimer ma gratitude au professeur Bendall pour l'aide précieuse qu'il m'a apportée dans les nombreuses difficultés que je lui ai signalées, et pour la disponibilité avec laquelle il a mis à ma disposition le fruit de ses nombreuses lectures et de son érudition critique. Le sixième et dernier volume de la traduction, laissé inachevé par le professeur Cowell, est désormais entre les mains compétentes du Dr Rouse et paraîtra en temps voulu, édité et complété par ses soins.
 
-#### HT FRANCIS.
+H. T. FRANCIS.
 
 COLLÈGE GONVILLE ET CAIUS,
-_25 octobre 1905.
+25 octobre 1905.
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,9 @@ dateCreated: 2025-2-5T22:39:8Z
   </table>
 </figure>
 
+P. 30, l. 36, _leer_ 'El que ha pisoteado...'
 
+P. 113, última l., _leer_ Cf. Vol. np 362 (texto Pāli).
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,6 +32,22 @@ dateCreated: 2025-2-5T22:39:37Z
   </table>
 </figure>
 
+<span id="pxiv">[<sup><small>pág. xiv</small></sup>]</span>
+
+### NOTAS Y CORRECCIONES ADICIONALES.
+
+No. 512. Mitología XVII. Kumbha-Jātaka.
+
+N.° 513. Cariyā-Piṭaka II. 9, Jayaddisa.
+
+No. 516. Mitología XXIV. Mahakapi-Leyenda.
+
+N.° 524. Cariyā-Piṭaka II. 10, Saṅkhapāla.
+
+A. 529. Cariya-Pitaka III. 5. Elegibilidad.
+
+Página 25, línea 34, en lugar de _leña_ léase _palos de fuego_ o _simulacros de fuego_.
+
 
 
 <figure class="table chapter-navigator">

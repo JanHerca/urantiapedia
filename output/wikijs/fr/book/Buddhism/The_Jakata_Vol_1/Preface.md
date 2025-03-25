@@ -51,13 +51,36 @@ Les Jātakas sont précédés dans le texte pāli d'une longue introduction, le 
 
 Nous avons traduit les introductions quasi historiques qui précèdent toujours les différents récits de naissance, car elles constituent un élément essentiel du plan de l'œuvre originale. Elles relient chaque récit à un incident particulier de la vie du Bouddha, que la tradition vénère comme l'occasion où il est censé avoir rappelé à ses contemporains la scène oubliée d'une existence lointaine. Mais la question de savoir dans quelle mesure elles contiennent des données historiques est intéressante pour de futures recherches. Elles semblent à première vue s'harmoniser avec le cadre des Piṭakas ; mais j'avoue douter de leur crédibilité historique. Elles me semblent plutôt une invention laborieuse d'une époque ultérieure, à l'image de l'histoire légendaire des premiers siècles de la Rome antique. Cette question sera plus facilement tranchée lorsque nous aurons progressé dans la traduction.
 
-Les Jātakas eux-mêmes sont certes intéressants en tant que spécimens de littérature bouddhique ; mais leur principal intérêt réside dans leur rapport au folklore et dans l'éclairage qu'ils jettent souvent sur ces récits populaires qui illustrent si vivement les idées et les superstitions des premiers temps de la civilisation. À cet égard, ils possèdent une valeur particulière : bien qu'une grande partie de leur contenu soit propre au bouddhisme, ils renferment un ensemble incomparable de folklore. Ils sont également très intéressants car ils offrent une image vivante de la vie sociale et des coutumes de l'Inde ancienne. Des ouvrages tels que « Rambles » du lieutenant-colonel Sleeman ou « Bihār Peasant Life » de M. Grierson les illustrent à chaque instant. Ils forment en fait un panorama en constante évolution de la vie villageoise telle que Fah-hian et Hiouen-thsang la voyaient autrefois, avant l'ère musulmane. xii</small></sup>]</span> conquête, lorsque les institutions hindoues et le régime indigène prévalaient dans toutes les provinces du pays. Comme tous les recueils de contes populaires anciens, ils sont pleins de violence et de ruse, et trahissent une piètre opinion de la femme ; mais des explosions de sentiments plus nobles ne manquent pas pour alléger les couleurs plus sombres.
+Les Jātakas eux-mêmes sont certes intéressants en tant que spécimens de littérature bouddhique ; mais leur principal intérêt réside dans leur rapport au folklore et dans l'éclairage qu'ils jettent souvent sur ces récits populaires qui illustrent si vivement les idées et les superstitions des premiers temps de la civilisation. À cet égard, ils possèdent une valeur particulière : bien qu'une grande partie de leur contenu soit propre au bouddhisme, ils renferment un ensemble incomparable de folklore. Ils sont également très intéressants car ils offrent une image vivante de la vie sociale et des coutumes de l'Inde ancienne. Des ouvrages tels que « Rambles » du lieutenant-colonel Sleeman ou « Bihār Peasant Life » de M. Grierson les illustrent à chaque instant. Ils forment en fait un panorama en constante évolution de la vie villageoise telle que Fah-hian et Hiouen-thsang la voyaient autrefois, avant l'ère musulmane <span id="pxii">[<sup><small>p. xii</small></sup>]</span> conquête, lorsque les institutions hindoues et le régime indigène prévalaient dans toutes les provinces du pays. Comme tous les recueils de contes populaires anciens, ils sont pleins de violence et de ruse, et trahissent une piètre opinion de la femme ; mais des explosions de sentiments plus nobles ne manquent pas pour alléger les couleurs plus sombres.
 
 Le professeur Rhys Davids a commencé la traduction du Jātaka en 1880, mais d'autres engagements l'ont obligé à l'interrompre après la parution d'un premier volume, contenant le Nidānakathā et 40 nouvelles. La présente traduction a été entreprise par un groupe d'amis qui espèrent, en se chargeant chacun d'une partie précise, achever l'ensemble dans un délai raisonnable. Nous sommes en fait une guilde de traducteurs de Jātaka, _çreshṭhi pūrvā vayaṃ çreṇiḥ_ ; mais, bien que nous ayons adopté des principes communs de traduction et que nous ayons visé une certaine uniformité dans nos termes techniques et notre translittération, nous avons convenu de laisser à chaque traducteur, dans certaines limites, toute liberté dans son travail. Le rédacteur en chef n'exerce qu'une surveillance générale, en consultation avec les deux traducteurs résidents, MM. Francis et Neil.
 
 M. R. Chalmers, de l'Oriel College d'Oxford, a traduit dans ce volume le premier volume de l'édition du texte pāli du professeur Fausböll (dont cinq volumes sont déjà parus). Le deuxième volume sera traduit par M. WHD Rouse, ancien membre du Christ's College de Cambridge, qui sera également responsable du quatrième ; le troisième sera traduit par M. HT Francis, sous-bibliothécaire de la bibliothèque universitaire de Cambridge et ancien membre du Gonville and Caius College, et M. RA Neil, membre et tuteur adjoint du Pembroke College, qui espèrent également entreprendre le cinquième [^11].
 
-EB COWELL.
+E. B. COWELL.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/book/Buddhism/The_Jakata_Vol_1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Buddhism/The_Jakata_Vol_1/Contents">
+          <span class="pr-2">Sommaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Notes de bas de page
 
@@ -84,24 +107,3 @@ EB COWELL.
 [^10]: xi:1 Cette dernière partie correspond en partie au bien connu _Lalita-vistara_ des bouddhistes du Nord.
 
 [^11]: xii:1 Un index complet sera donné à la fin du dernier volume.
-
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        </td>
-        <td>
-        <a href="/fr/book/Buddhism/The_Jakata_Vol_1">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
-        </a>
-        </td>
-        <td>
-        <a href="/fr/book/Buddhism/The_Jakata_Vol_1/Contents">
-          <span class="pr-2">Sommaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
