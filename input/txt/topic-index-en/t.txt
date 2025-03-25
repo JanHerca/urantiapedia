@@ -38,19 +38,19 @@ relating to taboos
 	The evolution of marriage is tied to the control of sex, shaped by social, religious, and civil restrictions, creating a perpetual conflict between basic instincts and evolving ethics. (82:2) (82:5.2)
 	The early races often practiced infanticide and twin taboos, but the Andonite people viewed twins as signs of good luck. (68:6.8)
 
-tact | | | | OK
+tact; tactful | | | | OK
 Tact is essential for success in securing the support and cooperation of others. (160:1.9)
 Tact is the fulcrum of social leverage, enabling wise souls to avoid unnecessary misunderstandings and navigate troublesome interactions with tolerance and grace. (156:5.18)
 The master gains victory gracefully through tact and tolerance, avoiding unnecessary battles. (160:3.4)
 Jesus, had it not been for a tactical blunder, would have managed the crowd and disarmed even his violent enemies with good-naturedness. (150:9.3)
 
-tactics | | | | OK
+tactics; tactic | | | | OK
 Jesus never resorted to ignoble tactics in facing his adversaries, always responding with enlightening and dignified answers. (149:4.5) (173:2.7)
 Jesus would not compromise or serve evil to gain worship, choosing instead to abide by the Father's will. (136:9.3)
 Women, being weaker, have become more tactful by trading upon their sex charms and outgeneraled even the most primitive of men at home. (84:3.5)
 The way you live your life is more important than the work you do. (39:4.13)
 
-tadpoles | | | | OK
+tadpoles; tadpole | | | | OK
 Live loyally as a tadpole to become a growing and inspiring frog. (100:1.4)
 Frogs lay eggs in water, where their young first exist as tadpoles before undergoing metamorphosis. (59:5.6)
 
@@ -79,7 +79,7 @@ Ganid’s abstract of Taoism emphasizes the pure, tranquil, and powerful nature 
 Lao-tse envisioned God in Tao, alongside other great religious teachers like Gautama, Confucius, and Zoroaster, who arose in the sixth century before Christ. (92:5.12)
 A Mongolian merchant believer in Taoism spread the teachings of the universal Deity to his family and community. (130:2.2)
 
-tapirs | | | | OK
+tapirs; tapir | | | | OK
 Tapirs, along with a variety of other primitive mammals, roamed the forested mountain regions 45,000,000 years ago. (61:1.9) (61:7.15)
 
 Tarentum | (130:0.3) (133:0.2,3) | harbors | PLACE | OK
@@ -110,11 +110,11 @@ Andonic migration to Tasmania spanned from Europe to Java. (64:1.6)
 taste designers | | | ORDER | OK
 Celestial artisans, taste designers improve morontia taste and sharpen evolving spirit senses to enhance beauty appreciation. (44:6.8)
 
-tattoo | | | | OK
+tattoo; tattooing | | | | OK
 The tattoo, an ancient badge of tribal membership, symbolized the hardships and endurance required for initiation ceremonies. (70:7.10)
 Tattooing is an artistic evolution of earlier crude scarring practices. (89:8.3)
 
-tax collectors | | publicans; taxation; taxpayers | | OK
+tax collectors; collect taxes; tax gatherers; pay the civil taxes; tax collector; customs collector; tax gathering; tax-gatherer; temple-tax collector; collector | | publicans; taxation; taxpayers | | OK
 Early rulers used secret clubs as a means for collecting taxes and debts, a practice that evolved from the tithe and temple offerings. (70:7.18)
 John taught his disciples to live by the spirit, not just the letter, of the law, instructing tax collectors to “extort no more than assigned” and soldiers to be content with their wages. (135:6.8)
 Jesus sold his harp and gave away the Greek Scriptures to avoid seizure by tax collectors and pay for his brother Jude's schooling. (126:5.5-6) (127:4.10)
@@ -122,7 +122,7 @@ Matthew Levi was a publican who followed Jesus and dedicated his life to showing
 Peter paid the temple tax for all three, fulfilling his promise to the temple-tax collector by catching a fish with a shekel in its mouth. (157:1)
 Zaccheus was a chief publican who much desired to see Jesus, and when the Master passed by the customs house in Jericho, he climbed up a sycamore tree to get a good view. (171:6.1)
 
-taxation | | government:principles of government; tax collectors; taxpayers | | OK
+taxation; taxes; tax; taxed; Taxation | | government:principles of government; tax collectors; taxpayers | | OK
 Taxation enslavement of the citizenry by the state. (70:12.15)
 The citizenry must control the levying of taxes. (71:8.6)
 Excessive taxation under national governments obstructs individual freedoms but will diminish under a world government. (134:6.10)
@@ -152,7 +152,7 @@ Heavy taxpayers in this continental nation receive extra votes based on the amou
 
 Teacher Sons | | Trinity Teacher Sons | ORDER | OK
 
-teachers | | education | | OK
+teachers; teacher | | education | | OK
 The ascendant plan of mortal progression involves ascending by teaching those behind us in the scale of progression, continually giving out new truth and experience as acquired. (30:3.9) (30:4.23) (100:2.1)
 Beware of false teachers who will arise and lead many astray, for they will deceive even in times of great tribulation. (176:1.4)
 Teachers of the kingdom are to respect the personality of man, avoid coercion, and appeal directly to the divine spirit within each individual. (159:3)
@@ -164,7 +164,7 @@ teachers of rest | | | ORDER | OK
 Teachers of rest counsel seraphim on energy intake for efficient energy utilization and balance maintenance among active cherubim and passive sanobim. (44:5.10)
 Celestial artisans and energy manipulators are the teachers of rest, guiding us to replenish our spiritual energies through divine rest. (44:5.8)
 
-teaching counselors | | seraphim | ORDER | OK
+teaching counselors; Teaching Counselors | | seraphim | ORDER | OK
 Assistant teachers are helpers and associates of teaching counselors, connected with educational enterprises and the sevenfold training scheme in the local universe, with a marvelous corps on Urantia fostering truth and righteousness. (39:2.7)
 Mota enhances philosophy like two eyes bring depth to sight, thanks to the guidance of many morontia counselor transition seraphim teaching counselors. (48:6.28)
 Michael's 4th bestowal was as a teaching counselor of the supreme seraphim in Nebadon. (39:1.15)
@@ -206,7 +206,7 @@ Magical charms concocted from human flesh, tiger claws, crocodile teeth, poison 
 Teherma the Persian; Teherma | | | PERSON | OK
 Teherma the Persian, not a fire worshipper, found enlightenment in Jesus' teachings at Capernaum. (141:6.1-3)
 
-telepathy | | | | OK
+telepathy; thought exchange | | | | OK
 Adam and Eve communicated through thought oscillations transmitted up to 50 miles, but lost the ability upon succumbing to evil. (74:6.6)
 
 telescopes | | astronomy | | OK
@@ -221,7 +221,7 @@ temperance | | | | OK
 The fruits of the Spirit - love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance - illuminate the path of spirit-led mortals towards eternal life and the kingdom of God. (34:6.13)
 Jesus preached temperance and taught consistency through proportionate adjustment of life problems, warning against extremes in virtue that may lead to vice. (149:4.3)
 
-temperature | | cold; heat | | OK
+temperature; temperatures | | cold; heat | | OK
 At the center of the earth, temperatures exceed those of the surface of the sun due to immense pressure and heat. (58:5.1)
 Gravity prevents the existence of absolute zero in the interstellar space, filled with energy currents and ultimatonic activities. (42:4.6)
 In the earth's atmosphere, temperature varies from 70 degrees below zero F in the stratosphere to 1200° F at higher altitudes. (58:2.6)
@@ -231,7 +231,7 @@ Temperature, second only to gravity in energy and matter evolution, is the openl
 Temple of New Life | | | PLACE | OK
 The Temple of New Life extends seven radial wings, housing resurrection halls for the assembly of the seven races of time, each with one hundred thousand personal chambers leading to awakening chambers for up to one million individuals, surrounded by personality assembly chambers for blended races, where real and conscious reassembly of personality occurs on mansonia number one. (47:3.5)
 
-temple | | churches; morontia temple | | OK
+temple; temples | | churches; morontia temple | | OK
 All worlds of mortal ascent have exquisite temples of worship built by experienced architects of the spirit. (44:3.5)
 Upon the rock of spiritual reality, Jesus declared he would build the living temple of spiritual fellowship in the eternal realities of his Father's kingdom. (157:4.5,7)
 Take men into the temple before showing them its beauties, for first they must be reborn of the spirit to truly understand the profound teachings within. (141:6.4)
@@ -272,7 +272,7 @@ celestial temples
 	* shrine of Most Highs on Edentia. In the magnificent garden of Edentia, the shrine of the Most Highs stands as a central place of worship. (43:6.3)
 	* undedicated temple on Jerusem. The undedicated temple on Jerusem is sealed with the insignia of Michael and bears the inscription “Undedicated to the seventh stage of spirit - to the eternal assignment.” (46:5.32)
 
-temptation | | flesh; sex:urge; sin | | OK
+temptation; temptations | | flesh; sex:urge; sin | | OK
 One cannot overcome temptation through mere human will; true victory lies in developing a love for higher ideals and conduct through spiritual transformation. (156:5.5)
 Transform temptation by redirecting energies into higher channels and enter the spirit kingdom to enjoy comparative deliverance from the slave-bondage of the flesh, following the new way of mortal living revealed by Jesus. (34:7.6) (156:5.4)
 Adam's one hundred years on earth concluded with Serapatatia, influenced by temptation and flattery, convincing Eve to embark on a secret, ill-fated project. (75:3)
@@ -334,11 +334,11 @@ Circuit supervisors, employing high spirit personalities of circuit control, dir
 Tertiary Circuit Supervisors function on the headquarters world of every local universe, created in groups of seven hundred and are assigned by the Ancients of Days, serving eternally in their original assignment. (24:1.6,10-11)
 Satania was quarantined by the action of the Tertiary Circuit Supervisors. (53:7.3)
 
-testimonies | | judgment | | OK
+testimonies; testimony; I know whereof I speak | | judgment | | OK
 A Divine Counselor said: “I attest, as a Divine Counselor, to the eternal truth of the Father's love and spirit, revealed through the glorious personality of the Eternal Son.” (1:3.8) (1:7.9) (6:8.8)
 The unbiased testimonies secured by reflective seconaphim provide crucial insight for the angelic hosts at council sessions. (28:4.11)
 
-tests | | examinations | | OK
+tests; tribulation | | examinations | | OK
 Jesus passed the great test of refusing to use power selfishly, choosing to establish the kingdom of heaven in the hearts of mankind through natural, ordinary, difficult, and trying methods. (136:8.6)
 Jesus increasingly measured society and religion by the test of what it does for the human soul, bringing God to man and man to God. (126:2.5)
 
@@ -363,7 +363,7 @@ Among primitives, theft only occurred outside the group due to the belief that p
 The commandments against theft are an integral part of loving and obeying God. (66:7.13) (93:4.11) (94:8.11) (131:2.12) (163:2.4)
 Stealing evolved as the great crime amid the advancement of civilization and the recognition of private property rights, intertwining with the historical view of women as property and the enforcement of marital fidelity through the evolving mores. (82:4.3-4)
 
-theology | | philosophy; religion | | OK
+theology; Theology | | philosophy; religion | | OK
 God-consciousness is a universal reality that remains consistent, but the philosophical concept and theological definitions of God must evolve with each era as human knowledge advances. (5:5.12)
 Theology does not produce religion; religion develops values first, followed by interpretative beliefs. (103:1.4)
 The mission of theology is to define God and justify claims of religion, facilitating personal spiritual experience and living faith. (90:5.7) (103:9.6)
@@ -382,18 +382,18 @@ theologians
 	Jesus pitied and loved the Jewish people, but grew resentful of dishonest theologians and politically appointed priests in the temple. (126:0.3)
 	Jesus’ life should restrain formation of creeds by presenting a striking and appealing picture of man-saving and God-revealing beauty, sublimity, humanity, divinity, simplicity, and uniqueness. (195:10.2)
 
-theories | | concepts; doctrines; ideas | | OK
+theories; theory | | concepts; doctrines; ideas | | OK
 The highest religious doctrines are dead and powerless unless transformed through divine spirit and power, as declared by your teacher of old. (34:6.6)
 Experience always has advantage over theory. (102:6.7)
 Facts always support spiritual faith, while theories may challenge it. (195:7.1)
 You cannot confide in a postulate, just as you cannot pray to a chemical formula or worship a hypothesis. (102:7.3)
 Imprisoning divine truth in human formulations leads to post-mortem salvage of dead theories, while living truth thrives in spirit-discerned realities. (180:5.2)
 
-thieves | | thieves crucified with Jesus | | OK
+thieves; robbers | | thieves crucified with Jesus | | OK
 A good Samaritan helped a man who was robbed and beaten. (164:1.3)
 Thieves killed the rich man with full barns, ending his earthly wealth and leaving him without treasures in heaven. (165:4.3)
 
-thieves crucified with Jesus | | | PERSON | OK
+thieves crucified with Jesus; brigands; thieves | | | PERSON | OK
 The two thieves, associates of Barabbas, were scourged before crucifixion and crucified with Jesus in place of their leader. (187:0.1-2)
 The soldiers took the bodies of the thieves to Gehenna after placing Jesus' body in the tomb. (188:1.5)
 Thieves crucified with Jesus cast reproach upon him, but one thief sought forgiveness and received salvation in Paradise. (187:3.3) (187:4.1)
@@ -427,7 +427,7 @@ Jesus expressed his thirst while on the cross, prompting the captain of the guar
 In the Divine Presence, there is no thirst, only the eternal satisfaction of spiritual enlightenment and moral strength. (34:6.8) (48:6.11)
 Believe in Jesus, never thirst spiritually, and receive eternal life. (153:2.7-9)
 
-Thomas Didymus | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | apostles of Jesus | PERSON | OK
+Thomas Didymus; Thomas | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | apostles of Jesus | PERSON | OK
 personal life
 	Thomas Didymus, selected by Philip, was a fisherman of Tarichea, onetime carpenter and stone mason from Gadara, with a keen, analytical mind. (138:2.5) (139:8.2)
 	The loss of his twin sister at age 9 haunted Thomas and contributed to his ongoing struggles with depression and doubt. (139:8.10)
@@ -510,7 +510,7 @@ Those without Name and Number in Uversa are registered in personality records. (
 Thoth | | | RELIGION | OK
 Thoth's spittle healed Set's eye, illustrating the widespread belief in spittle as a healing agent originating in Egypt. (95:2.6)
 
-thought | | ideas; leadings; mortal mind | | OK
+thought; thinkers; thinking | | ideas; leadings; mortal mind | | OK
 Abrupt presentations of subconscious emanations in the mind are sometimes influenced by the Adjuster, while more often arising from natural psychic functions inherent in the evolving animal mind. (110:4.3)
 As a man thinks in his heart, so is he, trusting in Yahweh with all his heart, acknowledging him in all ways, and receiving divine guidance. (131:2.8) (131:5.2)
 Celestial beings excel in ideograph techniques to infinitely enhance thought preservation beyond concept picturization. (44:4.6)
@@ -529,7 +529,7 @@ Thought, not feelings, lead us Godward as the divine spirit makes contact with m
 God's thoughts are higher than man's, but deliverance from guilt comes from realizing one's highest ideals may not align with God's will. (103:4.3) (131:2.3)
 Life on the divine worlds of the central universe transcends human concepts, including the technique of Havona thought unlike ours on Urantia. (14:5.2)
 
-Thought Adjuster of Jesus | | Personalized Adjusters; Thought Adjusters | PERSON | OK
+Thought Adjuster of Jesus; his Thought Adjuster; the Personalized Adjuster of his indwelling | | Personalized Adjusters; Thought Adjusters | PERSON | OK
 The Personalized Adjuster of Jesus, chief of his kind in Nebadon, guided him faithfully and wisely through his human life, leading him to the Father's perfect will. (109:6.4-6) (136:2.3,5) (168:2.6)
 The Thought Adjuster of Jesus, who previously served with Machiventa Melchizedek, guided him step by step during his human life and aided in the choosing of the path of the Father's perfect will. (109:6.4) (123:2.1) (136:2.2)
 The Thought Adjuster of Jesus collaborated in creation of Part IV, utilizing existing records from the life of Jesus on Urantia, including the Gospels of Matthew, Mark, Luke, and John. (121:8.1) (168:1.2)
@@ -553,7 +553,7 @@ moments Thought Adjuster spoke
 	In Gethsemane, the Personalized Adjuster of Jesus appeared, pausing noticeably to speak of glorifying the Father's name. (174:5.10)
 	On Mount Hermon, Jesus relinquished superhuman co-operation for his earth career, except by divine will or departures from natural earth order as to time, to his Personalized Adjuster. (136:5.3-4)
 
-Thought Adjusters | (107) (108) (109) (110) (111) (112) | ascending mortals; Divinington; fusion:Adjuster fusion; Personalized Adjusters; Thought Adjuster of Jesus | ORDER | OK
+Thought Adjusters; Adjuster; Adjusters | (107) (108) (109) (110) (111) (112) | ascending mortals; Divinington; fusion:Adjuster fusion; Personalized Adjusters; Thought Adjuster of Jesus | ORDER | OK
 Adjusters, serving all local universes, are organized as an independent unit administered directly from Divinington, functioning interchangeably throughout the grand universe. (108:3.1)
 Father fragments are fully cognizant of the universal reflectivity system and can avail themselves of its content. (17:3.9)
 The better adapted secondary midwayers are able to attain contact with Thought Adjusters of certain mortals, mobilizing spiritual civilization through reserve corps. (114:7.9)
@@ -837,10 +837,10 @@ Thought Changers guide individuals until age 20, then become Thought Adjusters. 
 Thought Controllers | | Thought Adjusters | ORDER | OK
 Thought Controllers are Adjusters called when subjects are older than forty. (107:0.7)
 
-thought preservers | | | ORDER | OK
+thought preservers; Thought preservers | | | ORDER | OK
 Thought preservers, celestial artisans, also preserve the noble ideas of great Urantia minds in the language of Uversa. (44:4.2-4)
 
-thought recorders | | celestial artisans | ORDER | OK
+thought recorders; artisans | | celestial artisans | ORDER | OK
 Celestial artisans devoted to preserving and reproducing superior thoughts of the realms function in seven groups, including thought preservers, concept recorders, and ideograph recorders. (44:4)
 types
 	# thought preservers
@@ -860,7 +860,7 @@ Thracians believed in immortality, unlike many other ancient tribes whose religi
 
 three | | 3 | | OK
 
-three-brained mortals | | brains; mortals:planetary types | | OK
+three-brained mortals; three-brained orders; three-brained orders; three-brained group; three-brained peoples | | brains; mortals:planetary types | | OK
 Three-brained mortals exhibit a higher level of spiritual, ethical, and worshipful attributes compared to two-brained and one-brained mortals. (49:5.13-18)
 
 three concentric circles | | concentric circles, three | | OK
@@ -868,7 +868,7 @@ three concentric circles | | concentric circles, three | | OK
 threefold fluctuation | | | | OK
 The threefold fluctuation of light from Deity abode indicates complete satisfaction of the Gods by the worship of Paradise residents. (27:7.7)
 
-threshold | | | | OK
+threshold; full satisfaction | | | | OK
 The threefold fluctuation of light from the Deity abode signifies complete satisfaction of the Gods by the worship of Paradise residents, engulfing all of Paradise in dominating tide of spiritual expression. (27:7.7)
 
 throwing stick | | | | OK
@@ -922,7 +922,7 @@ Tidal friction gradually stops planets' revolutions, leading to stable orbits an
 tidal wave | | | | OK
 A tidal wave swept over Dalamatia, causing the planetary headquarters to sink beneath the sea, leading to the near-obliteration of its noble culture. (67:5.4)
 
-tigers | | saber-toothed tigers | | OK
+tigers; tiger | | saber-toothed tigers | | OK
 If unarmed man met a hungry tiger, society's prime gift to man is security, as nature confers no rights on man. (70:9.1)
 
 Tiglath | (158:0.1) | | PERSON | OK
@@ -1014,7 +1014,7 @@ Paul, joined by Silas and Timothy, preached in Corinth for eighteen months and e
 tin | | | | OK
 The Adamsonites mixed copper with tin to create bronze, revolutionizing metalworking. (81:3.5)
 
-tithing | | | | OK
+tithing; tithe | | | | OK
 	The tithe was an early form of taxation, used by rulers to collect taxes disguised as offerings for temple service. (70:7.18)
 sethites and Abraham
 	Abraham introduced the tithing system in Salem following the Sethite priests' ancient traditions. (93:3.1)
@@ -1077,7 +1077,7 @@ religious tolerance
 tom-toms | | | | OK
 Rhythm was once universal in early man's efforts to influence spirits, along with the belief that sweating could eliminate sickness. (90:4.6)
 
-tombs | | Jesus:events in life | | OK
+tombs; tomb | | Jesus:events in life | | OK
 ancient times
 	It was a long-standing custom to bury a man's personal belongings with him as primitive man wanted to save up property for the next existence, believing only the rich could survive death with pleasure and dignity until Christian teachers proclaimed salvation for all. (69:9.4)
 	Sontad entombed Andon and Fonta, assuming clan leadership with his injured foot, aided by his wife and eldest sister, rolling stones to bury their dead with vague ideas of survival after death. (63:3.5)
@@ -1092,7 +1092,7 @@ tombstone
 	Stone worship, with its surviving symbol of tombs, is a widespread and enduring tradition among backward tribes and peoples, rooted in beliefs about ghosts, idols, and images carved in stone. (85:1.4)
 	Burying under stones, keeping ghosts away – the root of the modern tombstone. (87:6.7)
 
-tomorrow | | | | OK
+tomorrow; morrow | | | | OK
 Tomorrow is wholly in the hands of the Father. (130:5.3)
 Thomas asked Jesus if they should continue having everything in common, and the Master replied, “Be not unduly anxious for the morrow, sufficient for the day is the trouble thereof.” (140:6.13)
 
@@ -1113,16 +1113,16 @@ The olden ideas of self-discipline embraced physical torture, with priests teach
 
 Total Deity | | I AM | | OK
 
-totalitarianism | | communism; government | | OK
+totalitarianism; totalitarian | | communism; government | | OK
 Materialism and mechanism may have been vanquished, but the devastating influence of twentieth-century secularism will continue to blight the spiritual experience of millions, born from the atheist science and totalitarian medieval Christian church. (195:8)
 
-totems | (88:3) | | | OK
+totems; Totems | (88:3) | | | OK
 Primitive tribes believed they were descended from animals of supposed ancestry, choosing them as their “totems”. (74:8.5)
 Totemism combines social and religious practices, with totems serving as both symbols of the group and their deity. (88:3.2)
 
 tower of Babel | | Babel | PLACE | OK
 
-traditions | | ceremonies; cults; Judaism:oral law; mores | | OK
+traditions; tradition | | ceremonies; cults; Judaism:oral law; mores | | OK
 The stability of growth in Edenic culture acts upon civilization with the compelling force of tradition, bridging the gulf between God and man. (51:6.5)
 Custom establishes institutions of survival, including industry, property, war for gain, and societal regulation through taboo, convention, and religious sanction, rooted in fear, ignorance, and superstition. (69:1.3)
 You are not obligated to accept outworn religious traditions, for true spiritual freedom and liberty come from following the truth wherever the spirit may lead you. (155:6.5-7)
@@ -1196,7 +1196,7 @@ transit sleep | | rest:transition rest; seraphic, secoraphic, and superaphic tra
 transit trio | | | | OK
 The transit trio assist Havona pilgrims in their final journey to attain the Universal Father and enter eternity. (26:9.2)
 
-transition | | change; progress; translation | | OK
+transition; Transition | | change; progress; translation | | OK
 Transition is always accompanied by confusion, and there will be little tranquillity in the religious world until the great struggle between the three contending philosophies of religion is ended. (99:4.9)
 The difficulties of religious transition create challenges but also opportunities for growth and harmony in human fellowship. (99:4)
 Forewarn all believers to traverse the fringe of conflict during the transition from earthly to spiritual life, embracing responsibilities and obligations with the light burden of truth. (159:3.7) (160:1.6)
@@ -1204,7 +1204,7 @@ Great danger of breakdown during societal transition requires careful guidance f
 Religion should stabilize ideals during dangerous times of transition to ensure a smooth evolution of civilization. (99:1.3-4) (99:2.6)
 A nation's intellectual level determines whether a mechanical age will liberate or devastate, as science guided by wisdom can successfully navigate the transition difficulties caused by unemployment from laborsaving machinery. (81:6.22)
 
-transition ministers | (39:6) (48:6) | seraphim | ORDER | OK
+transition ministers; transition seraphim | (39:6) (48:6) | seraphim | ORDER | OK
 Almost one half of the transition ministers on Urantia joined the Lucifer rebellion, but Van and other noble beings remained loyal defenders of Michael and his universe government. (67:3.2)
 The 6th order seraphim transition ministers assist in guiding beings from earthly life to morontia existence on the mansion worlds. (48:6.1)
 Almost ten percent of the transition ministers were ensnared in the Lucifer rebellion, as symbolized by John's vision of the great red dragon. (53:7.7)
@@ -1275,10 +1275,10 @@ Transportation on Jerusem is facilitated by birds and vehicles, allowing materia
 Spirit personalities proceed by liaison with spirit energy, enabling travel at a pace varying from two to five hundred miles per hour in the transportation system allied with circulatory streams of energy movement. (46:2.4)
 Fused mortals traverse space freely through Adjuster transit before being clothed with morontia forms in the resurrection halls of higher spheres. (49:6.19) (55:2.7)
 
-transportation personalities | | seconaphim; seraphic, secoraphic, and superaphic transport | ORDER | OK
+transportation personalities; Transport Personalities | | seconaphim; seraphic, secoraphic, and superaphic transport | ORDER | OK
 Transport personalities are seconaphim responsible for transporting pilgrims between superuniverses and Havona. (28:4.13)
 
-travel | | transportation | | OK
+travel; travels | | transportation | | OK
 Visitors may travel to any realm they have experienced, hosted by celestial beings dedicated to entertaining superhuman students and other celestial visitors. (48:3.10)
 Travel between planets is facilitated by transport seraphim, who carry passengers to different worlds but never allow a mortal to return to their native planet during their temporal existence. (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 The human desire for travel will be fully satisfied during the long journey to Paradise through the local, super-, and central universes. (30:3.12)
@@ -1290,7 +1290,7 @@ Where your treasures are, there will your hearts be also. (140:6.11) (165:4.5) (
 Lay up your treasures where purses wax not old, for where your treasure is, there will your heart be also. (165:5.4)
 The parable of the treasure in the field teaches us that the kingdom of heaven is worth sacrificing everything for. (151:4.4)
 
-treaties | | peace | | OK
+treaties; treaty | | peace | | OK
 Peace treaties were sealed through blood drinking and offerings of maidens, a tradition dating back to the earliest peace missions. (70:3.11)
 The first formal tribal treaty concerned intertribalizing a salt deposit, reflecting the historical significance of natural resources in early trade relations. (69:4.6)
 World peace cannot be maintained by treaties or any other type of makeshift juggling with the sovereignties of nationalism; world law enforced by world government is necessary. (134:6.9)
@@ -1343,7 +1343,7 @@ Cain bore no tribal mark, seeking spiritual guidance and gaining superiority thr
 Tribal marks were cut on boys as part of their intensive puberty initiation, designed to harden and prepare them for life's challenges. (70:7.10)
 Survival hinges on bearing a tribal mark, proof of group affiliation and protection against harm since ancient times. (68:1.2)
 
-tribes | (70:4) | clans; races | RACE | OK
+tribes; tribe; tribal | (70:4) | clans; races | RACE | OK
 Tribes often subvert the sovereignty of the territorial state, hindering the evolution of political sovereignty towards all mankind. (134:5.8)
 Tribal war chiefs established patrilineal leadership while clan peace chiefs ruled through the mother line, fostering local self-government but hindering the growth of unified nations. (70:4.10)
 Originally a loose confederation of clans, the native Australians never developed a tribal form of government. (70:4.9)
@@ -1374,7 +1374,7 @@ trinitization | (22:7) | creature-trinitized sons; Trinitized Sons of God | | OK
 Trinitization may accomplish what is otherwise nonattainable, leading to the potential union of the Supreme-Ultimate and the factualization of God the Absolute. (0:12.8)
 by creatures
 	Adamic-finaliter pairs are integral leaders in finaliter companies, greatly enhancing their trinitization potential and service capabilities. (31:5.3)
-	always successful between finaliters and Paradise-Havoners (22:7.10, 14)
+	always successful between finaliters and Paradise-Havoners (22:7.10,14)
 	Trinitization, apparently an unlimited technique, raises questions about the future administration of the grand universe and the role of Solitary Messengers in the service of sons of destiny. (23:4.4)
 	Trinitization, constituting the secret of authority to represent the Trinity, is an extraordinary undertaking that sometimes fails despite paradisiacal efforts to actualize an original identical concept of Almighty Supreme. (13:1.12) (22:7.4-12)
 	The trinitization by finaliters and Paradise-Havoners repercusses in the Supreme-Ultimate Mind, creating supercreational sons of destiny who embody aspects of the unrevealed master universe function. (22:4.3) (22:7.14)
@@ -1434,11 +1434,11 @@ functions
 	Trinitized Sons of Attainment are glorified ascendant mortals who, after passing through Havona, are embraced by the Trinity and serve the Ancients of Days in the superuniverses. (15:10.12) (22:1.10)
 	The trio of Trinitized Sons of Attainment presents the viewpoint of mortal creatures through an ascendant commission including a Mighty Messenger, One High in Authority, and One without Name and Number. (22:4.6)
 
-trinitized sons of destiny | | trinitization | ORDER | OK
+trinitized sons of destiny; Trinitized Sons of Destiny | | trinitization | ORDER | OK
 Trinitized Sons of Destiny, beings produced by finaliters and Paradise-Havoners, embody aspects of the unrevealed master universe function of the Supreme-Ultimate. (22:7.14)
 In Uversa personality register, the Trinitized Sons of Destiny and the Corps of Unrevealed Sons of Destiny are listed. (30:2.64,138)
 
-Trinitized Sons of God | (22) | creature-trinitized sons; trinitization | ORDER | OK
+Trinitized Sons of God; Trinity-embraced sons; Trinitized Sons; Trinitized Son | (22) | creature-trinitized sons; trinitization | ORDER | OK
 The Melchizedek receivers advised after rebellion, governing Urantia until Adam's arrival. (67:6.5)
 Completion seraphim are attached to the high trinitized beings of the universes, serving in light and life ministries. (39:9.1)
 Trinity-embraced sons of God are constantly increasing in numbers, never having strayed or been lost in the service of the superuniverse governments. (22:1.13)
@@ -1494,7 +1494,7 @@ functions
 
 Trinity | | Paradise Trinity | PERSON | OK
 
-Trinity Absolute | (0:12.7-8) (106:5-6) (117:7.10) | | PERSON | OK
+Trinity Absolute; Absolute Trinity | (0:12.7-8) (106:5-6) (117:7.10) | | PERSON | OK
 The 2nd experiential Trinity includes God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny, functioning on both personal and superpersonal levels towards the experientialization of Absolute Deity. (0:12.7)
 The Trinity Absolute, comprising God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny, represents the ultimate unification of personal, superpersonal, and nonpersonal levels towards the experientialization of Absolute Deity. (0:12.7) (31:9.14) (106:5.1) (106:8.11)
 The Trinity Absolute could only be fully realized after the entire master universe had evolved to completion. (106:5.1)
@@ -1633,7 +1633,7 @@ triodities of potentiality | Absolutes:the three
 
 triumph | | victory | | OK
 
-triune-origin beings | | | ORDER | OK
+triune-origin beings; TRIUNE-ORIGIN BEINGS | | | ORDER | OK
 Triune-origin beings are creations of the three Paradise Deities, including the Trinity, and the Trinitized Corps. (30:1.2)
 Living beings on Paradise are classified based on their inherent and attained relationship to the Paradise Deities, including those of triune origin, dual origin, and single origin. (30:1.1-23)
 Master Spirit Number Seven is adviser to all triune-origin beings, directing both the ascending pilgrims of Havona and the presiding Spirit of the seventh superuniverse. (16:3.14)
@@ -1665,7 +1665,7 @@ types
 	*# Trinitized Sons of Perfection
 	*# Creature-trinitized Sons
 
-triunities | (104:3-4) | | ORDER | OK
+triunities; triunity | (104:3-4) | | ORDER | OK
 1st triunity
 	The triunity of infinite volition reveals personal Deity to creatures throughout all of time. (104:4.8)
 	The triunity of absolute relationships between Father, Eternal Son, and Infinite Spirit is an inevitable and eternal union that manifests in the divine fraternal, creature-loving, and ascension-promoting association of three eternal Paradise personalities. (104:3.14-15) (104:4.3-8)
@@ -1719,7 +1719,7 @@ Races seldom advanced who sought ease in tropical climates; progress thrived in 
 troposphere | | | | OK
 The troposphere, the lower 5 or 6 miles of atmosphere, is where weather phenomena occur, with the temperature steadily falling for six or eight miles before reaching a constant range in the stratosphere. (58:2.6)
 
-trumpets | | | | OK
+trumpets; trumpet | | | | OK
 Religious leaders must stop trying to call modern man to spiritual battle with olden trumpet blasts and instead, adopt new and up-to-date slogans for meaningful progress. (195:6.10)
 The wealthy Pharisees, devoted to almsgiving, would blow trumpets before giving charity, even opening their doors to street beggars during banquets. (147:5.2)
 
@@ -1738,7 +1738,7 @@ Trustworthiness is the sacred and solemn measure of character, revealing the tru
 
 trust funds | | inheritance | | OK
 
-truth | (132:3) | gospel; honesty; lying; Spirit of Truth; truth, beauty, and goodness | | OK
+truth; truths; Truth | (132:3) | gospel; honesty; lying; Spirit of Truth; truth, beauty, and goodness | | OK
 definition
 	Intellectual self-consciousness recognizes the spiritual beauty of truth through the unerring response of the Spirit of Truth, as it can be lived out and experienced, leading to true happiness. (2:7.6)
 	The comprehension of truth, beauty, and goodness in worlds settled in light and life is fully concerned with the revelation of Deity to time and space. (56:10.9) (101:4.3)
@@ -1887,7 +1887,7 @@ The overpopulation in Turkestan in 15,000 B.C. drove the first extensive Andite 
 The vestiges of Adamsonite headquarters in the foothills of Turkestan mark the historical center of civilization in the region east of the Caspian Sea. (77:5.10)
 The yellow race drove Andonites into Turkestan after clearing them from eastern Asia and Siberia. (79:6.1)
 
-turtles | | | | OK
+turtles; Turtles; turtle | | | | OK
 Turtles, descendants of ancient reptiles, thrived and evolved over millions of years alongside other members of the saurian family. (60:2.13) (60:3.14,20) (61:2.6) (65:2.10)
 
 Tut | | Caligastia one hundred | PERSON | OK
@@ -1912,11 +1912,11 @@ Primitive tribes often killed deformed or sickly children, and twins were believ
 Twins were once regarded as very lucky or very unlucky, as early man feared and revered all unusual persons and beings. (68:6.8) (85:6.2)
 In the treetop abode of simian ancestors, twins were born - a male and a female, who were handsome and lived comfortably in a warm climate. (62:3.1)
 
-two-and-two | | | | OK
+two-and-two; two and two | | | | OK
 Union of souls is essential for the mobilization of wisdom, as exemplified in the 70 evangelists sent out in pairs by the Master to spread the gospel. (160:2.7) (163:1.3) (181:2.12)
 Jesus sent out the apostles two-and-two to teach the glad tidings of the kingdom and acquire practical experience in dealing personally with their fellow men. (138:1.1) (193:3.2)
 
-two-brained mortals | | brains; mortals:planetary types | | OK
+two-brained mortals; two-brained type; two-hemisphere type; two-brained orders | | brains; mortals:planetary types | | OK
 Urantians, as two-brained mortals, exhibit a unique combination of imagination, adventure, and philosophy, but lack the spiritual and ethical depth of the three-brained orders. (49:5.13-18)
 
 two sons | | | | OK

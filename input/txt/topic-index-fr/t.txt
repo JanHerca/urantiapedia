@@ -44,13 +44,13 @@ Le tact est le pivot de l’influence sociale, permettant aux âmes sages d’é
 Le maître remporte la victoire avec grâce grâce au tact et à la tolérance, évitant les batailles inutiles. (160:3.4)
 S’il n’y avait pas eu une erreur tactique, Jésus aurait dirigé la foule et désarmé même ses ennemis violents avec bonhomie. (150:9.3)
 
-tactique | | | | OK
+tactique; tactiques | | | | OK
 Jésus n’a jamais eu recours à des tactiques ignobles face à ses adversaires, répondant toujours avec des réponses éclairantes et dignes. (149:4.5) (173:2.7)
 Jésus ne voulait pas faire de compromis ni servir le mal pour obtenir l’adoration, choisissant plutôt de se conformer à la volonté du Père. (136:9.3)
 Les femmes, étant plus faibles, sont devenues plus délicates en faisant usage de leurs charmes sexuels et ont surpassé même les hommes les plus primitifs à la maison. (84:3.5)
 La façon dont vous vivez votre vie est plus importante que le travail que vous faites. (39:4.13)
 
-têtards | | | | OK
+têtards; têtard | | | | OK
 Vivez loyalement comme un têtard pour devenir une grenouille en pleine croissance et inspirante. (100:1.4)
 Les grenouilles pondent leurs œufs dans l’eau, où leurs petits vivent d’abord à l’état de têtards avant de subir une métamorphose. (59:5.6)
 
@@ -79,7 +79,7 @@ L’abstrait du taoïsme de Ganid met l’accent sur la nature pure, tranquille 
 Lao-tseu a envisagé Dieu dans le Tao, aux côtés d’autres grands maîtres religieux comme Gautama, Confucius et Zoroastre, qui sont apparus au sixième siècle avant Jésus-Christ. (92:5.12)
 Un marchand mongol croyant au taoïsme a propagé les enseignements de la Déité universelle à sa famille et à sa communauté. (130:2.2)
 
-tapirs | | | | OK
+tapir; tapirs | | | | OK
 Les tapirs, ainsi qu'une variété d'autres mammifères primitifs, parcouraient les régions montagneuses boisées il y a 45 000 000 d'années. (61:1.9) (61:7.15)
 
 Tarente | (130:0.3) (133:0.2,3) | ports | PLACE | OK
@@ -94,7 +94,7 @@ Thomas résidait à Tarichée, où, malgré son manque d’éducation, il était
 
 tarifs douaniers | | fiscalité | | OK
 
-bassin du Tarim | | | PLACE | OK
+bassin du Tarim; bassin Tarim | | | PLACE | OK
 Le bassin du Tarim au Sinkiang était l’avant-poste oriental de la culture andite, où ils construisirent des colonies et se livrèrent au commerce avec les Chinois et les Andonites. (79:1.2,8)
 Les centres tibétains n’étaient pas aussi avancés que ceux du bassin du Tarim, qui était plus avancé que le Tibet. (79:6.5)
 
@@ -107,14 +107,14 @@ Le mithraïsme était la religion dominante à Tarse pendant l’adolescence de 
 Tasmanie | | | PLACE | OK
 La migration andonique vers la Tasmanie s'est étendue de l'Europe à Java. (64:1.6)
 
-créateurs de goût | | | ORDER | OK
-Les artisans célestes et les créateurs de goût améliorent le goût morontiel et aiguisent les sens spirituels en évolution pour améliorer l'appréciation de la beauté. (44:6.8)
+modèlistes du gout | | | ORDER | OK
+Les artisans célestes et les modèlistes du gout améliorent le goût morontiel et aiguisent les sens spirituels en évolution pour améliorer l'appréciation de la beauté. (44:6.8)
 
 tatouage | | | | OK
 Le tatouage, un ancien signe distinctif d’appartenance tribale, symbolisait les difficultés et l’endurance requises pour les cérémonies d’initiation. (70:7.10)
 Le tatouage est une évolution artistique des anciennes pratiques de cicatrisation grossière. (89:8.3)
 
-collecteurs d'impôts | | publicains; fiscalité; contribuables | | OK
+collecteurs d'impôts; recouvrer des impôts; payer les impôts; collecteur d’impôts; receveur des douanes; collecte des impôts; percepteur de l’impôt; percepteur | | publicains; fiscalité; contribuables | | OK
 Les premiers dirigeants utilisaient des clubs secrets comme moyen de collecter les impôts et les dettes, une pratique qui a évolué à partir de la dîme et des offrandes au temple. (70:7.18)
 Jean a enseigné à ses disciples à vivre selon l’esprit, et non pas seulement selon la lettre, de la loi, en ordonnant aux collecteurs d’impôts de « ne pas extorquer plus que ce qui leur est assigné » et aux soldats de se contenter de leur solde. (135:6.8)
 Jésus a vendu sa harpe et a donné les Écritures grecques pour éviter la saisie par les collecteurs d’impôts et pour payer les études de son frère Jude. (126:5.5-6) ​​(127:4.10)
@@ -122,7 +122,7 @@ Matthieu Lévi était un publicain qui suivait Jésus et a consacré sa vie à m
 Pierre a payé l’impôt du temple pour tous les trois, accomplissant ainsi sa promesse au collecteur d’impôts du temple en attrapant un poisson avec un sicle dans la bouche. (157:1)
 Zachée était un chef publicain qui désirait ardemment voir Jésus, et lorsque le Maître passa devant la douane de Jéricho, il grimpa sur un sycomore pour avoir une bonne vue. (171:6.1)
 
-fiscalité | | gouvernement:principes de gouvernement; collecteurs d'impôts; contribuables | | OK
+fiscalité; impôt; impôts; taxés; taxation | | gouvernement:principes de gouvernement; collecteurs d'impôts; contribuables | | OK
 L’impôt asservit les citoyens à l’État (70:12.15)
 Les citoyens doivent contrôler la levée des impôts (71:8.6)
 L’impôt excessif sous les gouvernements nationaux entrave les libertés individuelles, mais diminuera sous un gouvernement mondial (134:6.10)
@@ -152,7 +152,7 @@ Les gros contribuables de cette nation continentale reçoivent des votes supplé
 
 Fils enseignants | | Fils Instructeurs de la Trinité | ORDER | OK
 
-enseignants | | éducation | | OK
+enseignants; enseignant; éducateurs; éducateur | | éducation | | OK
 Le plan ascendant de la progression des mortels implique de s’élever en enseignant ceux qui sont derrière nous dans l’échelle de progression, en distribuant continuellement de nouvelles vérités et expériences au fur et à mesure que nous les acquérons. (30:3.9) (30:4.23) (100:2.1)
 Méfiez-vous des faux enseignants qui surgiront et égareront beaucoup de gens, car ils tromperont même en temps de grande tribulation. (176:1.4)
 Les enseignants du royaume doivent respecter la personnalité de l’homme, éviter la coercition et faire directement appel à l’esprit divin présent dans chaque individu. (159:3)
@@ -160,15 +160,15 @@ Jésus a conservé son intégrité en restant un apprenant, contrairement aux fi
 Les enseignants doivent être des êtres libres, de vrais leaders, afin de garantir que l’éducation donne la priorité à la philosophie et à la recherche de la sagesse. (71:7.4)
 Les Perfecteurs de Sagesse sont la source ultime de sagesse pour tous les enseignants, guidant l’application de la connaissance de l’univers et fournissant des fontaines de discernement et des sources de discrimination dans toutes les institutions d’apprentissage. (19:2.3)
 
-enseignants du repos | | | ORDER | OK
-Les enseignants du repos conseillent les séraphins sur l’apport énergétique pour une utilisation efficace de l’énergie et le maintien de l’équilibre entre les chérubins actifs et les sanobins passifs. (44:5.10)
-Les artisans célestes et les manipulateurs d’énergie sont les enseignants du repos, nous guidant pour reconstituer nos énergies spirituelles par le repos divin. (44:5.8)
+professeurs de repos | | | ORDER | OK
+Les professeurs de repos conseillent les séraphins sur l’apport énergétique pour une utilisation efficace de l’énergie et le maintien de l’équilibre entre les chérubins actifs et les sanobins passifs. (44:5.10)
+Les artisans célestes et les manipulateurs d’énergie sont les professeurs de repos, nous guidant pour reconstituer nos énergies spirituelles par le repos divin. (44:5.8)
 
-conseillers pédagogiques | | séraphins | ORDER | OK
-Les assistants enseignants sont des aides et des associés des conseillers pédagogiques, en relation avec les entreprises éducatives et le programme de formation septuple dans l'univers local, avec un corps merveilleux sur Urantia qui favorise la vérité et la droiture. (39:2.7)
+conseillers enseignants; conseillers instructeurs; conseillers d’enseignement | | séraphins | ORDER | OK
+Les assistants enseignants sont des aides et des associés des conseillers enseignants, en relation avec les entreprises éducatives et le programme de formation septuple dans l'univers local, avec un corps merveilleux sur Urantia qui favorise la vérité et la droiture. (39:2.7)
 Mota améliore la philosophie comme deux yeux apportent de la profondeur à la vue, grâce aux conseils de nombreux conseillers morontiels séraphins de transition enseignant. (48:6.28)
 La quatrième effusion de Michael fut celle de conseiller pédagogique des séraphins suprêmes de Nébadon. (39:1.15)
-Les conseillers pédagogiques, secrétaires de tous les enseignants, des Melchizédeks aux mortels, sont des assistants inestimables du corps d'enseignement spirituel de l'univers local. (39:1.13-14)
+Les conseillers enseignants, secrétaires de tous les enseignants, des Melchizédeks aux mortels, sont des assistants inestimables du corps d'enseignement spirituel de l'univers local. (39:1.13-14)
 
 travail d'équipe | | coopération | | OK
 
@@ -198,7 +198,7 @@ Les ministres séraphins de transition du 5e ordre éduquent et guident les mort
 Les techniciens servent de liaison entre les survivants et les superviseurs du pouvoir morontiel et les maîtres contrôleurs physiques, aidant les ascendeurs à s'adapter aux sphères morontielles. (48:6.29)
 Les techniciens, les traverseurs de l'espace, aident les progresseurs morontiels à s'adapter à de nouvelles sphères d'existence. (48:6.29)
 
-dents | | | | OK
+dents; dentitions | | | | OK
 Les premiers mammifères du Cénozoïque avaient deux séries de dents, avaient de multiples glandes mammaires, étaient couverts de poils et avaient un gros cerveau par rapport à la taille du corps, mais aucune forme moderne n’était présente parmi eux. (61:1.10)
 Les dents humaines évoluent lentement vers 28 dans le cadre d’un processus d’évolution adaptatif continu. (65:6.5)
 Les charmes magiques concoctés à partir de chair humaine, de griffes de tigre, de dents de crocodile, de graines de plantes vénéneuses, de venin de serpent, de cheveux humains, d’os de morts, de poussière d’empreintes de pas et de sécrétions corporelles étaient considérés comme ayant un grand pouvoir magique, en particulier dans les sorts d’amour des anciens. (88:5.2)
@@ -206,7 +206,7 @@ Les charmes magiques concoctés à partir de chair humaine, de griffes de tigre,
 Teherma le Persan; Téherma | | | PERSON | OK
 Teherma le Perse, qui n'était pas un adorateur du feu, a trouvé l'illumination dans les enseignements de Jésus à Capharnaüm. (141:6.1-3)
 
-télépathie | | | | OK
+télépathie; échange de pensées | | | | OK
 Adam et Eve communiquaient par des oscillations de pensée transmises jusqu'à 50 miles, mais ils perdirent cette capacité en succombant au mal. (74:6.6)
 
 télescopes | | astronomie | | OK
@@ -221,7 +221,7 @@ tempérance | | | | OK
 Les fruits de l’Esprit – l’amour, la joie, la paix, la patience, la bonté, la bienveillance, la foi, la douceur et la tempérance – éclairent le chemin des mortels guidés par l’Esprit vers la vie éternelle et le royaume de Dieu. (34:6.13)
 Jésus a prêché la tempérance et a enseigné la cohérence par l’ajustement proportionnel des problèmes de la vie, mettant en garde contre les extrêmes de la vertu qui peuvent conduire au vice. (149:4.3)
 
-température | | froid; chaleur | | OK
+température; températures | | froid; chaleur | | OK
 Au centre de la terre, les températures dépassent celles de la surface du soleil en raison de la pression et de la chaleur immenses. (58:5.1)
 La gravité empêche l'existence du zéro absolu dans l'espace interstellaire, rempli de courants énergétiques et d'activités ultimatoniques. (42:4.6)
 Dans l'atmosphère terrestre, la température varie de 70 degrés sous zéro F dans la stratosphère à 1200° F à des altitudes plus élevées. (58:2.6)
@@ -231,7 +231,7 @@ La température, deuxième après la gravité dans l'évolution de l'énergie et
 Temple de la Vie Nouvelle | | | PLACE | OK
 Le Temple de la Nouvelle Vie s'étend sur sept ailes radiales, abritant des salles de résurrection pour l'assemblée des sept races du temps, chacune avec cent mille chambres personnelles menant à des chambres d'éveil pouvant accueillir jusqu'à un million d'individus, entourées de chambres d'assemblée de personnalité pour les races mixtes, où le réassemblage réel et conscient de la personnalité se produit sur la maisonia numéro un. (47:3.5)
 
-temple | | églises | | OK
+temple; temples | | églises | | OK
 Tous les mondes d’ascension mortelle ont des temples d’adoration exquis construits par des architectes expérimentés de l’esprit. (44:3.5)
 Sur le rocher de la réalité spirituelle, Jésus a déclaré qu’il construirait le temple vivant de la communion spirituelle dans les réalités éternelles du royaume de son Père. (157:4.5,7)
 Emmenez les hommes dans le temple avant de leur montrer ses beautés, car ils doivent d’abord renaître de l’esprit pour vraiment comprendre les profonds enseignements qu’il contient. (141:6.4)
@@ -272,7 +272,7 @@ temples célestes
 	* sanctuaire des Très Hauts sur Edentia. Dans le magnifique jardin d'Edentia, le sanctuaire des Très Hauts se dresse comme un lieu de culte central. (43:6.3)
 	* temple non consacré à Jérusalem. Le temple non consacré à Jérusalem est scellé avec l'insigne de Michael et porte l'inscription « Non consacré au septième stade de l'esprit - à la mission éternelle. » (46:5.32)
 
-temptation | | chair; sexe:envie; péché | | OK
+tentation; tentations | | chair; sexe:envie; péché | | OK
 On ne peut pas vaincre la tentation par la seule volonté humaine ; la véritable victoire réside dans le développement d’un amour pour des idéaux et une conduite plus élevés par la transformation spirituelle. (156:5.5)
 Transformez la tentation en redirigeant les énergies vers des canaux plus élevés et entrez dans le royaume spirituel pour profiter d’une délivrance relative de l’esclavage de la chair, en suivant le nouveau mode de vie mortel révélé par Jésus. (34:7.6) (156:5.4)
 Les cent ans d’Adam sur terre se sont terminés avec Sérapatatia, influencée par la tentation et la flatterie, persuadant Ève de se lancer dans un projet secret et malheureux. (75:3)
@@ -282,7 +282,7 @@ Les grandes tentations de Jésus
 
 dix | | 10 | | OK
 
-pièce de dix centimes | | | | OK
+pièce d’argent de dix cents | | | | OK
 Les cours du temple furent profanées par le vaste système bancaire et d’échanges commerciaux, où les changeurs de monnaie facturaient des commissions élevées pour l’échange d’une pièce de monnaie de la taille d’une pièce de dix centimes. (173:1.3)
 
 Les Dix Commandements; dix commandements | | | | OK
@@ -312,13 +312,13 @@ Paul était un adepte du culte du renoncement et de l’humiliation, influençan
 Térach | | | PERSON | OK
 Les enfants de Térah, père d’Abraham, ont répondu aux attentes des administrateurs de Melchisédek par leur intelligence, leur initiative, leur sagacité et leur sincérité. (93:5.3-5)
 
-reste du temps terminal | | | | OK
-Avant d’atteindre le statut résidentiel au Paradis, les âmes ascendantes subissent un repos terminal du temps après leur repos divin et le nettoyage final des circuits de Havona. (26:7.4)
+temps de repos terminal | | | | OK
+Avant d’atteindre le statut résidentiel au Paradis, les âmes ascendantes subissent un temps de repos terminal après leur repos divin et le nettoyage final des circuits de Havona. (26:7.4)
 
 évasion terrestre | | résurrection; appel; survie | | OK
 Le ministère des Ajusteurs de Pensée, des anges gardiens et des armées de messagers de l’Esprit Infini est essentiel à la libération de tous les mortels des liens de la chair, permettant l’évasion terrestre vers les mondes morontiels de l’évolution spirituelle et du progrès mental. (49:6) (55:2)
 
-tertiaphim | (28:1) | anges | ORDER | OK
+tertiaphin; tertiaphins | (28:1) | anges | ORDER | OK
 Lorsqu'un Fils Micaël est prêt à s'embarquer dans l'aventure de l'organisation de l'univers, 1000 tertiaphim l'accompagnent et se retirent avec l'apparition d'anges indigènes. (28:1.2-3)
 Micaël, accompagné d'un tertiaphim solitaire, quitta sa sphère de quartier général et un nouveau Fils Lanonandek fut nommé Souverain Systémique par intérim. (119:2.4)
 La personnalité des Tertiaphim s'enregistre. (30:1.83) (30:2.85)
@@ -334,11 +334,11 @@ Les superviseurs de circuit, employant des personnalités spirituelles élevées
 Les superviseurs de circuit tertiaires fonctionnent sur le monde-siège de chaque univers local, créés en groupes de sept cents et désignés par les Anciens des Jours, servant éternellement dans leur mission originelle. (24:1.6,10-11)
 Satania fut mise en quarantaine par l’action des superviseurs de circuit tertiaires. (53:7.3)
 
-témoignages | | jugement | | OK
+témoignages; témoignage; Je sais de quoi je parle | | jugement | | OK
 Un conseiller divin a dit : « J’atteste, en tant que conseiller divin, de la vérité éternelle de l’amour et de l’esprit du Père, révélée par la personnalité glorieuse du Fils éternel. » (1:3.8) (1:7.9) (6:8.8)
 Les témoignages impartiaux recueillis par des seconaphins réfléchis fournissent des informations cruciales aux armées angéliques lors des sessions du conseil. (28:4.11)
 
-tests | | examens | | OK
+tests; tribulations | | examens | | OK
 Jésus a passé avec succès la grande épreuve consistant à refuser d’utiliser le pouvoir de manière égoïste, choisissant d’établir le royaume des cieux dans le cœur des hommes par des méthodes naturelles, ordinaires, difficiles et éprouvantes. (136:8.6)
 Jésus a de plus en plus évalué la société et la religion en fonction de ce qu’elles font pour l’âme humaine, en amenant Dieu à l’homme et l’homme à Dieu. (126:2.5)
 
@@ -382,7 +382,7 @@ théologiens
 	Jésus avait pitié et aimait le peuple juif, mais il en voulait aux théologiens malhonnêtes et aux prêtres nommés politiquement dans le temple. (126:0.3)
 	La vie de Jésus devrait restreindre la formation de croyances en présentant une image frappante et attrayante de la beauté, de la sublimité, de l’humanité, de la divinité, de la simplicité et de l’unicité qui sauvent l’homme et révèlent Dieu. (195:10.2)
 
-théories | | concepts; doctrines; idées | | OK
+théories; théorie | | concepts; doctrines; idées | | OK
 Les doctrines religieuses les plus élevées sont mortes et impuissantes à moins d’être transformées par l’esprit et le pouvoir divins, comme l’a déclaré votre enseignant d’autrefois. (34:6.6)
 L’expérience a toujours l’avantage sur la théorie. (102:6.7)
 Les faits soutiennent toujours la foi spirituelle, tandis que les théories peuvent la remettre en question. (195:7.1)
@@ -393,7 +393,7 @@ voleurs | | des voleurs crucifiés avec Jésus | | OK
 Un bon Samaritain a aidé un homme qui avait été volé et battu. (164:1.3)
 Des voleurs ont tué l’homme riche qui avait plein de greniers, mettant fin à sa richesse terrestre et le laissant sans trésors dans le ciel. (165:4.3)
 
-des voleurs crucifiés avec Jésus | | | PERSON | OK
+larrons crucifiés avec Jésus; brigands; larrons | | | PERSON | OK
 Les deux brigands, associés de Barabbas, furent flagellés avant la crucifixion et crucifiés avec Jésus à la place de leur chef. (187:0.1-2)
 Les soldats emportèrent les corps des brigands dans la Géhenne après avoir placé le corps de Jésus dans le tombeau. (188:1.5)
 Les brigands crucifiés avec Jésus lui jetèrent des reproches, mais l’un d’eux demanda pardon et reçut le salut au Paradis. (187:3.3) (187:4.1)
@@ -427,7 +427,7 @@ Jésus exprima sa soif sur la croix, incitant le capitaine de la garde à lui of
 En présence divine, il n’y a pas de soif, seulement la satisfaction éternelle de l’illumination spirituelle et de la force morale. (34:6.8) (48:6.11)
 Croyez en Jésus, n’ayez jamais soif spirituellement et recevez la vie éternelle. (153:2.7-9)
 
-Thomas Didyme | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | apôtres de Jésus | PERSON | OK
+Thomas Didyme; Thomas | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | apôtres de Jésus | PERSON | OK
 vie personnelle
 	Thomas Didyme, choisi par Philippe, était un pêcheur de Tarichée, autrefois charpentier et tailleur de pierre de Gadara, avec un esprit vif et analytique. (138:2.5) (139:8.2)
 	La perte de sa sœur jumelle à l'âge de 9 ans a hanté Thomas et a contribué à ses luttes continues contre la dépression et le doute. (139:8.10)
@@ -510,7 +510,7 @@ Ceux qui sont sans Nom et sans Nombre à Uversa sont enregistrés dans les regis
 Thoth | | | RELIGION | OK
 La salive de Thot a guéri l'œil de Seth, illustrant la croyance répandue selon laquelle la salive était un agent de guérison originaire d'Égypte. (95:2.6)
 
-pensée | | idées; directions; esprit mortel | | OK
+pensée; penseurs | | idées; directions; esprit mortel | | OK
 Les présentations soudaines d’émanations subconscientes dans le mental sont parfois influencées par l’Ajusteur, mais proviennent le plus souvent de fonctions psychiques naturelles inhérentes au mental animal en évolution. (110:4.3)
 L’homme pense dans son cœur, il est ainsi, confiant en Yahweh de tout son cœur, le reconnaissant en toutes choses et recevant la direction divine. (131:2.8) (131:5.2)
 Les êtres célestes excellent dans les techniques d’idéogrammes pour améliorer infiniment la préservation de la pensée au-delà de la représentation conceptuelle. (44:4.6)
@@ -529,7 +529,7 @@ La pensée, et non les sentiments, nous conduit vers Dieu lorsque l’esprit div
 Les pensées de Dieu sont plus élevées que celles de l’homme, mais la délivrance de la culpabilité vient de la prise de conscience que nos idéaux les plus élevés peuvent ne pas correspondre à la volonté de Dieu. (103:4.3) (131:2.3)
 La vie sur les mondes divins de l'univers central transcende les concepts humains, y compris la technique de la pensée de Havona, contrairement à la nôtre sur Urantia. (14:5.2)
 
-Ajusteur de Pensée de Jésus | | Ajusteurs Personnalisés; Ajusteurs de Pensée | PERSON | OK
+Ajusteur de Pensée de Jésus; Ajusteur Personnalisé, qui avait habité en lui | | Ajusteurs Personnalisés; Ajusteurs de Pensée | PERSON | OK
 L'Ajusteur de Pensée de Jésus, chef de son espèce dans Nébadon, le guida fidèlement et sagement tout au long de sa vie humaine, le conduisant à la volonté parfaite du Père. (109:6.4-6) (136:2.3,5) (168:2.6)
 L'Ajusteur de Pensée de Jésus, qui avait auparavant servi avec Machiventa Melchizédek, le guida pas à pas durant sa vie humaine et l'aida à choisir le chemin de la volonté parfaite du Père. (109:6.4) (123:2.1) (136:2.2)
 L'Ajusteur de Pensée de Jésus collabora à la création de la Partie IV, en utilisant les documents existants de la vie de Jésus sur Urantia, y compris les Évangiles de Matthieu, Marc, Luc et Jean. (121:8.1) (168:1.2)
@@ -553,7 +553,7 @@ moments où l'Ajusteur de Pensée a parlé
 	A Gethsémané, l'Ajusteur de Pensée Personnalisé de Jésus est apparu, s'arrêtant visiblement pour parler de glorifier le nom du Père. (174:5.10)
 	Sur le mont Hermon, Jésus a renoncé à la coopération suprahumaine pour sa carrière terrestre, sauf par volonté divine ou en cas d'écart par rapport à l'ordre naturel de la terre quant au temps, en faveur de son Ajusteur Personnalisé. (136:5.3-4)
 
-Ajusteurs de Pensée | (107) (108) (109) (110) (111) (112) | mortels ascendants; Divinington; fusion:Ajusteur fusion; Ajusteurs Personnalisés; Ajusteur de Pensée de Jésus | ORDER | OK
+Ajusteurs de Pensée; Ajusteur; Ajusteurs | (107) (108) (109) (110) (111) (112) | mortels ascendants; Divinington; fusion:Ajusteur fusion; Ajusteurs Personnalisés; Ajusteur de Pensée de Jésus | ORDER | OK
 Les Ajusteurs, au service de tous les univers locaux, sont organisés comme une unité indépendante administrée directement depuis Divinington, fonctionnant de manière interchangeable dans tout le grand univers. (108:3.1)
 Les fragments du Père sont pleinement conscients du système de réflectivité universelle et peuvent se servir de son contenu. (17:3.9)
 Les médians secondaires les mieux adaptés sont capables d'entrer en contact avec les Ajusteurs de Pensée de certains mortels, mobilisant la civilisation spirituelle à travers les corps de réserve. (114:7.9)
@@ -837,10 +837,10 @@ Les Changeurs de Pensée guident les individus jusqu'à l'âge de 20 ans, puis d
 Contrôleurs de Pensée | | Ajusteurs de Pensée | ORDER | OK
 Les Contrôleurs de Pensée sont des Ajusteurs appelés lorsque les sujets ont plus de quarante ans. (107:0.7)
 
-conservateurs de pensées | | | ORDER | OK
-Les conservateurs de la pensée, les artisans célestes, préservent également les nobles idées des grands esprits d'Urantia dans le langage d'Uversa. (44:4.2-4)
+conservateurs de pensée | | | ORDER | OK
+Les conservateurs de pensée, les artisans célestes, préservent également les nobles idées des grands esprits d'Urantia dans le langage d'Uversa. (44:4.2-4)
 
-enregistreurs de pensées | | artisans célestes | ORDER | OK
+enregistreurs de pensée; artisans | | artisans célestes | ORDER | OK
 Les artisans célestes consacrés à la préservation et à la reproduction des pensées supérieures des royaumes fonctionnent en sept groupes, notamment les conservateurs de pensées, les enregistreurs de concepts et les enregistreurs d'idéogrammes. (44:4)
 types
 	#préservateurs de pensées
@@ -851,8 +851,8 @@ types
 	# enregistreurs de rythme
 	# enregistreurs morontiels
 
-païen irréfléchi | | | PERSON | OK
-Le commentaire de Jésus à Ganid concernant le païen irréfléchi a souligné l’importance d’être réceptif aux enseignements de Dieu afin de vraiment comprendre et de rechercher le salut. (132:7.1,2)
+païen borné | | | PERSON | OK
+Le commentaire de Jésus à Ganid concernant le païen borné a souligné l’importance d’être réceptif aux enseignements de Dieu afin de vraiment comprendre et de rechercher le salut. (132:7.1,2)
 
 Thrace | | | PLACE | OK
 Les Juifs de Thrace ont participé à la mort de Matthieu. (139:7.10)
@@ -860,7 +860,7 @@ Les Thraces croyaient en l’immortalité, contrairement à de nombreuses autres
 
 trois | | 3 | | OK
 
-mortels à trois cerveaux | | cerveaux; mortels:types planétaires | | OK
+mortels à trois cerveaux; ordres à trois cerveaux; ordres tricérébraux; groupe tricérébral; peuples à trois cerveaux | | cerveaux; mortels:types planétaires | | OK
 Les mortels à trois cerveaux présentent un niveau plus élevé d’attributs spirituels, éthiques et d’adoration par rapport aux mortels à deux cerveaux et à un seul cerveau. (49:5.13-18)
 
 trois cercles concentriques | | cercles concentriques, trois | | OK
@@ -868,11 +868,11 @@ trois cercles concentriques | | cercles concentriques, trois | | OK
 triple fluctuation | | | | OK
 La triple fluctuation de la lumière provenant de la demeure de la Déité indique la satisfaction complète des Dieux par l'adoration des résidents du Paradis. (27:7.7)
 
-seuil | | | | OK
+pleine satisfaction | | | | OK
 La triple fluctuación de luz desde la morada de la Deidad significa la completa satisfacción de los Dioses mediante la adoración de los residentes del Paraíso, envolviendo todo el Paraíso en una marea dominante de expresión espiritual. (27:7.7)
 
-bâton de jet | | | | OK
-Les Andonites ont fabriqué le bâton de jet pour des expéditions de chasse réussies. (63:5.6)
+javelot | | | | OK
+Les Andonites ont fabriqué le javelot pour des expéditions de chasse réussies. (63:5.6)
 
 pouces | | | | OK
 Il y a un million d’années, les mammifères mésopotamiens de l’aube sont apparus avec des pouces opposables primitifs, descendants du type de mammifère placentaire lémurien d’Amérique du Nord. (62:2.1)
@@ -882,7 +882,7 @@ tonnerre | | | | OK
 Jacques et Jean, les fils du tonnerre, furent transformés par Jésus en apôtres de l’amour. (139:3.1,5) (139:4.6) (181:2.4)
 Le tonnerre, la voix d’un dieu en colère, intimidait les premiers hommes et était craint et adoré par les tribus primitives et les cultes de la nature. (85:4.3)
 
-orages | | | | OK
+pierres de tonnerre | | | | OK
 Les Bretons se protègent de la foudre avec d'anciennes pierres de tonnerre, une tradition transmise par les premiers habitants andonites de l'Europe occidentale. (80:9.14)
 
 jeudi | | | | OK
@@ -916,13 +916,13 @@ La migration du Tibet vers la vallée du Yangzi Jiang a ajouté du sang andite a
 Au Tibet, les prêtres chamaniques et les guérisseurs s'enrichirent en accumulant des honoraires en guise d'offrandes aux esprits, possédant souvent la plus grande partie des richesses de la tribu, la moitié de la population masculine appartenant à cette classe non productive. (90:2.11)
 La religion au Tibet combine les enseignements de Melchisédek avec le bouddhisme, l'hindouisme, le taoïsme et le christianisme, ce qui donne lieu à une pratique cérémonielle élaborée et diversifiée. (94:10)
 
-frottement des marées | | | | OK
+frictions dues aux effets de marée | | | | OK
 Le frottement des marées arrête progressivement les révolutions des planètes, ce qui conduit à des orbites stables et à une fragmentation potentielle de la lune. (57:6.2-3)
 
-raz-de-marée | | | | OK
+marée | | | | OK
 Un raz-de-marée s'abattit sur Dalamatia, provoquant l'engloutissement du siège planétaire sous la mer, entraînant la quasi-anéantissement de sa noble culture. (67:5.4)
 
-tigres | | tigres à dents de sabre | | OK
+tigre; tigres | | tigres à dents de sabre | | OK
 Si un homme désarmé rencontre un tigre affamé, le principal don de la société à l’homme est la sécurité, car la nature ne confère aucun droit à l’homme. (70:9.1)
 
 Tiglath | (158:0.1) | | PERSON | OK
@@ -1014,7 +1014,7 @@ Paul, accompagné de Silas et de Timothée, prêcha à Corinthe pendant dix-huit
 étain | | | | OK
 Les Adamsonites ont mélangé le cuivre avec de l'étain pour créer du bronze, révolutionnant ainsi le travail des métaux. (81:3.5)
 
-dîme | | | | OK
+dime | | | | OK
 La dîme était une forme primitive de taxation, utilisée par les dirigeants pour collecter des impôts déguisés en offrandes pour le service du temple. (70:7.18)
 séthites et Abraham
 	Abraham a introduit le système de la dîme à Salem en suivant les anciennes traditions des prêtres séthites. (93:3.1)
@@ -1038,14 +1038,14 @@ Titus de Capharnaüm; Titus; noble | | | PERSON | OK
 Tite de Capharnaüm, un noble dont le fils était gravement malade, crut en Jésus et fut témoin d’une guérison miraculeuse. (146:5.1-3)
 Tite de Capharnaüm était parmi les fils du noble formés au service de l’Évangile à l’école de Pierre avant d’être ordonné par Jésus. (148:1.4)
 
-tribu Toda | | | | OK
+tribu Toda; tribu des Todas | | | | OK
 La tribu Toda de l'Inde est revenue à des niveaux primitifs en ne priant personne en particulier, négligeant les valeurs sociales, morales et spirituelles dans leurs rituels. (91:0.4)
 Les récitations semi-magiques de la tribu Toda ont évolué vers une forme de prière plus intelligente et plus éthique au fil du temps. (91:3.2)
 
 Todan | | | PERSON | OK
 Todan escuchó por primera vez el evangelio en Rimón y más tarde llevó el mensaje a Mesopotamia y más allá. (146:1.4)
 
-jetons | | | | OK
+gages | | | | OK
 Les races civilisées, maudites par la croyance aux signes et aux symboles, cherchent à éviter le mauvais sort grâce aux vestiges superstitieux d'un ancien culte des fantômes. (87:5.14)
 
 tolérance | | fraternité (attitude); intolérance; unité spirituelle | | OK
@@ -1074,10 +1074,10 @@ Tolérance religieuse
 	La religion de l’esprit permet la diversité de croyance, rassemblant les hommes dans une sympathie compréhensive, tandis que les religions de l’autorité ne font que les diviser et les dresser en rangs consciencieux les uns contre les autres. (155:6.9)
 	Les religieux devraient emprunter le meilleur de la foi spirituelle vivante de leurs voisins plutôt que de dénoncer le pire dans leurs superstitions persistantes et leurs rituels désuets. (92:7.3) (94:12.4)
 
-tam-tams | | | | OK
+tamtams | | | | OK
 Le rythme était autrefois universel dans les efforts des premiers hommes pour influencer les esprits, de même que la croyance selon laquelle la transpiration pouvait éliminer la maladie. (90:4.6)
 
-tombeaux | | Jésus:événements de la vie | | OK
+tombeau; tombeaux | | Jésus:événements de la vie | | OK
 Antiquité
 	Il s'agissait d'une coutume ancienne d'enterrer les effets personnels d'un homme avec lui, car l'homme primitif voulait économiser des biens pour la prochaine existence, croyant que seuls les riches pouvaient survivre à la mort avec plaisir et dignité jusqu'à ce que les enseignants chrétiens proclament le salut pour tous. (69:9.4)
 	Sontad enterra Andon et Fonta, assumant la direction du clan avec son pied blessé, aidé par sa femme et sa sœur aînée, roulant des pierres pour enterrer leurs morts avec de vagues idées de survie après la mort. (63:3.5)
@@ -1092,7 +1092,7 @@ pierre tombale
 	Le culte de la pierre, avec son symbole survivant des tombeaux, est une tradition répandue et durable parmi les tribus et les peuples arriérés, enracinée dans des croyances sur les fantômes, les idoles et les images sculptées dans la pierre. (85:1.4)
 	Enfouir sous des pierres, éloigner les fantômes – la racine de la pierre tombale moderne. (87:6.7)
 
-demain | | | | OK
+lendemain | | | | OK
 Demain est entièrement entre les mains du Père. (130:5.3)
 Thomas demanda à Jésus s’ils devaient continuer à avoir tout en commun, et le Maître répondit : « Ne vous inquiétez pas outre mesure du lendemain ; à chaque jour suffit sa peine. » (140:6.13)
 
@@ -1107,13 +1107,13 @@ Des outils améliorés et des machines efficaces déterminent la survie des grou
 L’invention d’outils d’armes permit à l’homme de devenir un chasseur, de se libérer de l’esclavage alimentaire et de faire progresser la civilisation par l’ingéniosité et la découverte. (68:5.4)
 Les vieillards et les infirmes, en raison de modifications consécutives à l’âge et à la maladie, furent mis au travail pour fabriquer des outils et des armes, passant plus tard à la construction d’ouvrages d’irrigation. (69:3.4)
 
-torture | | flagellation; lapidations | | OK
+torture; tortures | | flagellation; lapidations | | OK
 Dans les anciennes cérémonies d’initiation, l’auto-torture et les coupures douloureuses étaient utilisées pour endurcir et impressionner les jeunes. (70:7.10)
 Les anciennes idées d’autodiscipline incluaient la torture physique, les prêtres enseignant la vertu de la souffrance par la castration, et les Hébreux, les Hindous et les Bouddhistes suivaient avec dévotion cette doctrine de l’humiliation. (89:3.4)
 
 Déité totale | | JE SUIS | | OK
 
-totalitarisme | | communisme; gouvernement | | OK
+totalitarisme; totalitaire | | communisme; gouvernement | | OK
 Le matérialisme et le mécanisme ont peut-être été vaincus, mais l’influence dévastatrice du sécularisme du vingtième siècle continuera de gâcher l’expérience spirituelle de millions de personnes nées de la science athée et de l’Église chrétienne médiévale totalitaire. (195:8)
 
 totems | (88:3) | | | OK
@@ -1122,7 +1122,7 @@ Le totémisme combine des pratiques sociales et religieuses, les totems servant 
 
 tour de Babel | | Babel | PLACE | OK
 
-traditions | | cérémonies; cultes; Judaïsme:loi orale; mœurs | | OK
+traditions; tradition | | cérémonies; cultes; Judaïsme:loi orale; mœurs | | OK
 La stabilité de la croissance dans la culture édénique agit sur la civilisation avec la force irrésistible de la tradition, comblant le fossé entre Dieu et l’homme. (51:6.5)
 La coutume établit des institutions de survie, y compris l’industrie, la propriété, la guerre pour le gain et la réglementation sociale par le biais de tabous, de conventions et de sanctions religieuses, enracinées dans la peur, l’ignorance et la superstition. (69:1.3)
 Vous n’êtes pas obligé d’accepter des traditions religieuses désuètes, car la véritable liberté spirituelle vient du fait de suivre la vérité partout où l’esprit vous conduit. (155:6.5-7)
@@ -1148,7 +1148,7 @@ transcendance | | | | OK
 Le paradoxe de l’immanence divine et de la transcendance dans la religion défie la compréhension humaine, rendant nécessaire la fonction de la théologie pour unifier le concept de la domination divine de Dieu sur l’univers avec la présence de Dieu en chaque individu pour un culte intelligent et l’espoir de survie de la personnalité. (5:5.6)
 Le mystère de la transcendance de Dieu ne devrait pas diminuer votre foi, car Il est personnellement présent dans un vaste univers et pourtant Il demeure en chacun de nous. (12:7.12)
 
-transcendantal Tout-Puissant | | | PERSON | OK
+Tout-Puissant transcendantal | | | PERSON | OK
 Il s'agit d'une manifestation du Dieu ultime dans les univers du temps qui devrait se produire lorsque le Dieu ultime commencera à fonctionner comme un supercontrôle des univers. À ce moment-là, il exercera un super contrôle sur le super temps et l'espace transcendé sur les fonctions administratives du Tout-Puissant Suprême. (118:2.4)
 
 énergie transcendantale | | tranosta | | OK
@@ -1226,7 +1226,7 @@ monde en transition #1 | | monde des finalitaires | PLACE | OK
 
 mondes culturels en transition | | Jérusalem | PLACE | OK
 
-traduction | (112:7.3) | fusion:Ajusteur fusion; langue; repos:transition repos | | OK
+transfert | (112:7.3) | fusion:Ajusteur fusion; langue; repos:transition repos | | OK
 définition
 	Les mortels saisis par le Fils de l'ordre primaire modifié d'ascension sont exemptés de la mort, transférés d'entre les vivants pour apparaître immédiatement en présence du Fils Souverain. (49:6.18-21) (55:2.9)
 	La translation vers l'état morontiel, où l'âme fusionne avec l'Ajusteur dans la vie mortelle, augmente avec l'évolution planétaire, conduisant à des mortels superbes exemptés et à un transit direct vers des mondes d'entraînement morontiel. (55:2.2,7) (110:5.2)
@@ -1248,7 +1248,7 @@ exemples
 	Après avoir mis fin à son effusion d'urgence sur Urantia, Machiventa Melchizédek disparut, laissant ses disciples établir la vérité du Dieu unique. (93:8.1) (93:9.1)
 	Van et Amadon furent transférés à Jérusalem après l'arrivée d'Adam et Ève sur terre. (67:6.8) (74:5.2)
 
-traduction sommeil | | repos:repos de transition | | OK
+sommeil de translation | | repos:repos de transition | | OK
 Les progresseurs morontiels entrent en sommeil de translation tous les dix jours alors qu'ils avancent entre les mondes des maisons au cours de leur voyage. (47:3.10)
 
 traducteurs | | | ORDER | OK
@@ -1260,7 +1260,7 @@ transmigration | | | | OK
 Ganid a cessé de croire à la transmigration de l'âme après que Jésus a expliqué les limites de la nature spirituelle des animaux. (130:2.8)
 La croyance abrutissante en des vies monotones et épuisantes a conduit à la peur de la perpétuation non évolutive du moi par la réincarnation, privant les mortels en difficulté d'espoir et de progrès spirituel. (94:2.3-6)
 
-conseillers en transport | | | ORDER | OK
+conseillers des transports | | | ORDER | OK
 Soixante-dix conseillers en transport sur Urantia aident à acheminer et à coordonner les transports sur toutes les planètes habitées. (44:5.6)
 Les artisans célestes manipulateurs d'énergie collaborent avec les étudiants des étoiles pour élaborer des itinéraires et aider les séraphins transporteurs, servant de superviseurs du trafic sur toutes les planètes habitées, y compris Urantia avec son corps de soixante-dix conseillers en transport. (44:5.6)
 
@@ -1275,10 +1275,10 @@ Le transport sur Jérusem est facilité par les oiseaux et les véhicules, perme
 Les personnalités spirituelles procèdent par liaison avec l'énergie spirituelle, ce qui permet de voyager à un rythme variant de deux à cinq cents milles à l'heure dans le système de transport allié aux courants circulatoires de mouvement énergétique. (46:2.4)
 Les mortels fusionnés traversent l'espace librement grâce au transit de l'Ajusteur avant d'être revêtus de formes morontielles dans les salles de résurrection des sphères supérieures. (49:6.19) (55:2.7)
 
-personnalités du transport | | seconaphin; transport séraphique, sécoraphique et supéraphique | ORDER | OK
+personnalités du transport; Personnalités de Transport | | seconaphin; transport séraphique, sécoraphique et supéraphique | ORDER | OK
 Les personnalités du transport sont des seconaphins responsables du transport des pèlerins entre les superunivers et Havona. (28:4.13)
 
-voyage | | transport | | OK
+voyage; voyages | | transport | | OK
 Les visiteurs peuvent voyager vers n’importe quel royaume qu’ils ont connu, hébergés par des êtres célestes qui se consacrent à divertir les étudiants surhumains et les autres visiteurs célestes. (48:3.10)
 Les voyages entre les planètes sont facilités par les séraphins transporteurs, qui transportent les passagers vers différents mondes mais ne permettent jamais à un mortel de retourner sur sa planète natale au cours de son existence temporelle. (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 Le désir humain de voyager sera pleinement satisfait pendant le long voyage vers le Paradis à travers les univers locaux, supra- et centraux. (30:3.12)
@@ -1290,7 +1290,7 @@ Là où sont vos trésors, là aussi sera votre cœur. (140:6.11) (165:4.5) (165
 Amassez vos trésors là où les bourses ne s'épuisent pas, car là où est votre trésor, là aussi sera votre cœur. (165:5.4)
 La parabole du trésor dans le champ nous enseigne que le royaume des cieux vaut la peine qu'on lui sacrifie tout. (151:4.4)
 
-traités | | paix | | OK
+traité; traités | | paix | | OK
 Les traités de paix étaient scellés par l’ingestion de sang et l’offrande de jeunes filles, une tradition qui remonte aux premières missions de paix (70:3.11)
 Le premier traité tribal officiel concernait la répartition intertribale d’un gisement de sel, ce qui reflétait l’importance historique des ressources naturelles dans les premières relations commerciales (69:4.6)
 La ​​paix mondiale ne peut être maintenue par des traités ou par tout autre type de jonglage improvisé avec les souverainetés du nationalisme ; une loi mondiale appliquée par un gouvernement mondial est nécessaire (134:6.9)
@@ -1324,7 +1324,7 @@ L’avertissement de Jean concernant les arbres qui ne produisent pas de bons fr
 Le culte des arbres, l'une des plus anciennes pratiques religieuses, impliquait des mariages précoces et l'adoption de chênes robustes pour la fertilité, avec des croyances différentes dans les esprits des arbres parmi les tribus et les races du monde entier. (85:2.3-5)
 pour les arbres cités dans Le Livre d'Urantia, voir les liens ci-dessous | pomme; hêtres; bouleaux; arbres à pain; cédrat; conifères; fougères; figuier; magnolias; érables; chênes; palmiers; pins; séquoias; sycomores; tulipiers; noyers
 
-croyances triadiques | | | RELIGION | OK
+croyances aux triades | | | RELIGION | OK
 Le concept de la Trinité ne doit pas être confondu avec les croyances sur la triade dérivées d’associations naturelles dans l’expérience humaine. (104:0.1-3)
 
 triangles | | | PLACE | OK
@@ -1343,13 +1343,13 @@ Caïn ne portait aucune marque tribale, recherchant une orientation spirituelle 
 Les marques tribales étaient gravées sur les garçons dans le cadre de leur initiation intensive à la puberté, destinées à les endurcir et à les préparer aux défis de la vie. (70:7.10)
 La survie dépend du fait de porter une marque tribale, preuve d'appartenance à un groupe et de protection contre le mal depuis les temps anciens. (68:1.2)
 
-tribus | (70:4) | clans; races | RACE | OK
+tribus; tribu | (70:4) | clans; races | RACE | OK
 Les tribus subvertissent souvent la souveraineté de l'État territorial, entravant l'évolution de la souveraineté politique envers toute l'humanité. (134:5.8)
 Les chefs de guerre tribaux ont établi un leadership patrilinéaire tandis que les chefs de paix des clans gouvernaient par la lignée maternelle, favorisant l'autonomie locale mais entravant la croissance de nations unifiées. (70:4.10)
 A l'origine une confédération lâche de clans, les indigènes australiens n'ont jamais développé une forme tribale de gouvernement. (70:4.9)
 Pour en savoir plus sur les tribus et les groupes raciaux cités dans Le Livre d'Urantia, voir les liens ci-dessous | aborigènes (australiens); aborigènes (Indiens); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-saxonnes; Arabes; Aryens; Assyrie; Babyloniens; Tribus Badonan; tribus Baganda; Basques; Bédouins; Berbères; Indiens Pieds-Noirs; race bleue; Bornéens; Bretons; race brune; Boschimans; Calébites; Cananéens; Caucasiens; Chaldéens; Cro-Magnons; Cuthites; Cutites; Danubiens; Dravidiens; Dyaks; Édenites; Édomites; Élamites; Esquimaux; Ezraéon; Finlandais; peuplades de Foxhall; Gad; Gibéonites; Giléadites; Grecs; race verte; Guites; Hamathites; race de Heidelberg; Hittites; Incas; Inde:groupes raciaux; race indigo; Iroquois; Jébusites; Juifs; Kateri; Kénites; lévites; Malaisie; Mélanésiens; Mésopotamie; Madianites; Moabites; Mongoloïdes; tribu Moqui; Néandertaliens; Négroïdes; Nérites; Nodites; race orangée; Parsis; Patagons; Perses; Philistins; Phéniciens; Polynésie; Pygmées; race rouge; Romains; Ruben; Sahariens; Samaritains; Sangiks; Scandinaves; Sémites; Sépharvites; Séthites; Sibérie; Suites; Sumériens; Suntites; Thrace; tribu Toda; Touraniens; Vanites; race blanche; race jaune; Zoulous
 
-tribut en argent | | | | OK
+argent du tribut | | | | OK
 Les paroles de Jésus étaient : « Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. » (174:2.2)
 
 bagatelles | | trivialités | | OK
@@ -1361,7 +1361,7 @@ Les trilobites étaient les prédécesseurs des crustacés mais ont presque disp
 Trimurti | | | RELIGION | OK
 La Trimurti, trinité suprême de l'hindouisme, se compose de Brahma, Vishnu et Shiva, Brahma étant auto-créé et identifié au destin, tandis que Vishnu s'incarne périodiquement et devient réel dans l'imagination des Indiens, et Shiva est le seigneur de la vie et de la mort ainsi que de la destruction et de la fertilité. (94:4.4-5)
 
-Trinités | (0:12) | Trinité du Paradis; Trinité des Trinités | ORDER | OK
+Trinités; trinités | (0:12) | Trinité du Paradis; Trinité des Trinités | ORDER | OK
 Les Trinités sont toujours la réalité de la déité, jamais la réalité de la personnalité, englobant et corrélant les aspects personnels dans un sens collectif. (106:5.3-4)
 Trinités expérientielles :
 * 1ère | Trinité Ultime
@@ -1374,7 +1374,7 @@ trinitisation | (22:7) | fils trinitisés par des créatures; Fils de Dieu Trini
 La trinitisation peut accomplir ce qui est autrement irréalisable, conduisant à l'union potentielle du Suprême-Ultime et à la factualisation de Dieu l'Absolu. (0:12.8)
 par les créatures
 	Les paires Adamiques-finalitaires sont des leaders intégraux dans les compagnies finalitaires, améliorant considérablement leur potentiel de trinitisation et leurs capacités de service. (31:5.3)
-	toujours couronnée de succès entre les finalitaires et les Havoniens du Paradis (22:7.10, 14)
+	toujours couronnée de succès entre les finalitaires et les Havoniens du Paradis (22:7.10,14)
 	La trinitisation, une technique apparemment illimitée, soulève des questions sur l'administration future du grand univers et le rôle des Messagers Solitaires au service des fils de la destinée. (23:4.4)
 	La trinitisation, constituant le secret de l'autorité pour représenter la Trinité, est une entreprise extraordinaire qui échoue parfois malgré les efforts paradisiaques pour actualiser un concept originel identique du Tout-Puissant Suprême. (13:1.12) (22:7.4-12)
 	La trinitisation par les finalitaires et les Havoniens du Paradis se répercute dans l’Esprit Suprême-Ultime, créant des fils de destinée supracréationnels qui incarnent des aspects de la fonction non révélée du maître univers. (22:4.3) (22:7.14)
@@ -1434,11 +1434,11 @@ fonctions
 	Les Fils d'Accomplissement Trinitisés sont des mortels ascendants glorifiés qui, après être passés par Havona, sont embrassés par la Trinité et servent les Anciens des Jours dans les superunivers. (15:10.12) (22:1.10)
 	Le trio des Fils d'Accomplissement Trinitisés présente le point de vue des créatures mortelles à travers une mission ascendante comprenant un Messager Puissant, Un Haut en Autorité et Un Sans Nom ni Nombre. (22:4.6)
 
-fils trinitisés du destin | | trinitisation | ORDER | OK
+fils de la destinée trinitisés | | trinitisation | ORDER | OK
 Les Fils Trinitisés de la Destinée, êtres produits par les finalitaires et les habitants du Paradis-Havon, incarnent des aspects de la fonction non révélée du Suprême-Ultime dans le maître-univers. (22:7.14)
 Dans le registre de personnalité d'Uversa, les Fils Trinitisés de la Destinée et le Corps des Fils Non Révélés de la Destinée sont répertoriés. (30:2.64,138)
 
-Fils de Dieu Trinitisés | (22) | fils trinitisés par des créatures; trinitisation | ORDER | OK
+Fils de Dieu Trinitisés; fils embrassés par la Trinité; Fils Trinitisés; Fils Trinitisé | (22) | fils trinitisés par des créatures; trinitisation | ORDER | OK
 Les administrateurs judiciaires Melchizédeks ont donné leur avis après la rébellion, gouvernant Urantia jusqu'à l'arrivée d'Adam. (67:6.5)
 Les séraphins de parachèvement sont attachés aux êtres hautement trinitisés des univers, servant dans les ministères de lumière et de vie. (39:9.1)
 Les fils de Dieu embrassés par la Trinité sont en nombre croissant, ne s'étant jamais égarés ou perdus au service des gouvernements des superunivers. (22:1.13)
@@ -1494,7 +1494,7 @@ fonctions
 
 Trinité | | Trinité du Paradis | PERSON | OK
 
-Trinité Absolue | (0:12.7-8) (106:5-6) (117:7.10) | | PERSON | OK
+Trinité Absolue; Absolu Trinité | (0:12.7-8) (106:5-6) (117:7.10) | | PERSON | OK
 La 2e Trinité expérientielle inclut Dieu le Suprême, Dieu l’Ultime et le Consommateur non révélé de la Destinée de l’Univers, fonctionnant à la fois sur les plans personnel et suprapersonnel vers l’expérientialisation de la Déité Absolue. (0:12.7)
 L’Absolu de la Trinité, comprenant Dieu le Suprême, Dieu l’Ultime et le Consommateur non révélé de la Destinée de l’Univers, représente l’unification ultime des niveaux personnel, suprapersonnel et non personnel vers l’expérientialisation de la Déité Absolue. (0:12.7) (31:9.14) (106:5.1) (106:8.11)
 L’Absolu de la Trinité n’a pu être pleinement réalisé qu’après que le maître univers tout entier ait évolué jusqu’à son achèvement. (106:5.1)
@@ -1503,7 +1503,7 @@ La pleine fonction de l'Absolu Trinité transcende le stade spatial du maître u
 L'actualisation de Dieu l'Absolu est la conséquence de l'unification de la Trinité Absolue, conduisant à la réalisation expérientielle de la divinité absolue et à l'unification des significations absolues sur des niveaux absolus. (0:10.1) (0:12.7-8)
 L'Absolu Trinité implique toutes les relations de triunité, déifiées et non déifiées, ce qui rend sa compréhension difficile pour les personnalités. (10:5.7)
 
-Ambassadeurs de la Trinité; ambassadeur de la Trinité; représentant de la Trinité; observateurs de la Trinité | (33:5) | | ORDER | OK
+Ambassadeurs de la Trinité; ambassadeur de la Trinité; représentant de la Trinité; observateurs de la Trinité; observateurs trinitaires | (33:5) | | ORDER | OK
 Les Unions des Jours, composées d'ambassadeurs de la Trinité, servent de liaisons entre la Trinité du Paradis et les dirigeants des univers locaux et coordonnent les activités administratives du gouvernement universel. Elles sont composées de : (18:6-7)
 * Fidèles des Jours
 * Unions des Jours
@@ -1536,7 +1536,7 @@ niveaux
 Trinité de l'Ultimité | | | PERSON | OK
 La Trinité de l'Ultimité incarne la relation de la Trinité du Paradis avec les niveaux absonites de l'existence. (10:5.5) (106:8.9)
 
-Êtres d'origine trinitaire | (19) | | ORDER | OK
+Êtres d'origine trinitaire; êtres issus de la Trinité; êtres d’origine trinitaire | (19) | | ORDER | OK
 Les êtres coordonnés d’origine trinitaire jouent un rôle vital dans les administrations des superunivers. (15:10.11)
 Les êtres d’origine trinitaire dans les registres de personnalité expriment les diverses formes de la création divine. (30:1.18-23) (30:2.22)
 Les êtres d’origine trinitaire ont des prérogatives de transit leur permettant d’atteindre n’importe quel point d’Orvonton à partir d’Uversa en moins d’un an. (19:7.4)
@@ -1633,7 +1633,7 @@ triodités de potentialité | Absolus:les trois
 
 triomphe | | victoire | | OK
 
-êtres d'origine trinitaire | | | ORDER | OK
+êtres d'origine trinitaire; ÊTRES D’ORIGINE TRINE; êtres d’origine trine | | | ORDER | OK
 Les êtres d'origine trinitaire sont des créations des trois Déités du Paradis, y compris la Trinité et le Corps Trinitisé. (30:1.2)
 Les êtres vivants du Paradis sont classés en fonction de leur relation inhérente et acquise avec les Déités du Paradis, y compris celles d'origine trinitaire, d'origine double et d'origine unique. (30:1.1-23)
 Le Maître Esprit Numéro Sept est le conseiller de tous les êtres d'origine trinitaire, dirigeant à la fois les pèlerins ascendants de Havona et l'Esprit président du septième superunivers. (16:3.14)
@@ -1665,7 +1665,7 @@ types
 	*# Fils de Perfection Trinitisés
 	*# Fils trinitisés par des créatures
 
-triunités | (104:3-4) | | ORDER | OK
+triunités; triunité | (104:3-4) | | ORDER | OK
 1ère triunité
 	La triunité de la volonté infinie révèle la Déité personnelle aux créatures à travers tous les temps. (104:4.8)
 	La triunité des relations absolues entre le Père, le Fils Éternel et l’Esprit Infini est une union inévitable et éternelle qui se manifeste dans l’association fraternelle divine, aimant les créatures et favorisant l’ascension de trois personnalités éternelles du Paradis. (104:3.14-15) (104:4.3-8)
@@ -1705,7 +1705,7 @@ Fonctions
 	Le Père Universel est le membre primordial de toutes les triunités, unifiant les Sept Absolus Infinis en un équilibre fonctionnel et permettant l'unité infinie. (104:4.1,46)
 	Les triunités ne fonctionnent pas au-dessous du Paradis, mais la région des marges extérieures se concentre sur la puissance spatiale et la force-énergie. (11:5.4)
 
-trivialités | | distractions | | OK
+trivialités; banalités | | distractions | | OK
 Évitez de perdre du temps dans des futilités et concentrez-vous de tout votre cœur sur la prédication de l’Évangile. (163:4.5)
 Jésus ne perdait pas de temps sur des futilités, se concentrant plutôt sur l’essentiel de son travail d’artisan minutieux. (134:9.7)
 Beaucoup d’entre vous se concentrent sur des futilités, négligeant les réalités essentielles de l’harmonisation avec votre Ajusteur divin et de la réalisation d’une consécration compréhensive aux objectifs éternels. (110:3.4)
@@ -1719,7 +1719,7 @@ Les races qui recherchaient le confort dans les climats tropicaux progressaient 
 troposphère | | | | OK
 La troposphère, les 5 ou 6 miles inférieurs de l'atmosphère, est le lieu où se produisent les phénomènes météorologiques, la température diminuant régulièrement sur six ou huit miles avant d'atteindre une plage constante dans la stratosphère. (58:2.6)
 
-trompettes | | | | OK
+trompettes; trompette | | | | OK
 Les chefs religieux doivent cesser d’essayer d’appeler l’homme moderne à la bataille spirituelle avec des sonneries de trompettes d’antan et, à la place, adopter des slogans nouveaux et actualisés pour un progrès significatif. (195:6.10)
 Les pharisiens riches, dévoués à l’aumône, sonnaient de la trompette avant de donner la charité, ouvrant même leurs portes aux mendiants des rues pendant les banquets. (147:5.2)
 
@@ -1738,7 +1738,7 @@ La fiabilité est la mesure sacrée et solennelle du caractère, révélant la v
 
 fonds fiduciaires | | héritage | | OK
 
-vérité | (132:3) | évangile; honnêteté; mensonge; Esprit de vérité; vérité, beauté et bonté | | OK
+vérité; vérités | (132:3) | évangile; honnêteté; mensonge; Esprit de vérité; vérité, beauté et bonté | | OK
 Définition
 	La conscience intellectuelle reconnaît la beauté spirituelle de la vérité grâce à la réponse infaillible de l'Esprit de Vérité, telle qu'elle peut être vécue et expérimentée, conduisant au véritable bonheur. (2:7.6)
 	La compréhension de la vérité, de la beauté et de la bonté dans les mondes ancrés dans la lumière et la vie est pleinement liée à la révélation de la Déité au temps et à l'espace. (56:10.9) (101:4.3)
@@ -1835,7 +1835,7 @@ L'Esprit de vérité | Esprit de vérité
 	L'Esprit de Vérité, en coopération avec l'Ajusteur intérieur, nous guidera vers toute la vérité lorsque notre nature mortelle sera submergée par la nature des Fils Matériels de Dieu. (34:7.1)
 	La vérité est rendue accessible par l'Ajusteur et l'Esprit de Vérité à l'individu doté de sagesse. (101:6.4)
 
-vérité, beauté et bonté | (2:7) (56:10) | beauté; bonté; science, philosophie et religion; vérité | | OK
+vérité, beauté et bonté; la vérité, la beauté et la bonté | (2:7) (56:10) | beauté; bonté; science, philosophie et religion; vérité | | OK
 La vérité, la beauté et la bonté se combinent en un seul idéal divin, unifié par la puissance dans la Suprématie et personnalisé en tant que Dieu d’amour paternel. (56:10.15)
 L’amour divin, la miséricorde et le ministère sont les valeurs de réalité significatives révélées par le Père, le Fils et l’Esprit, se mélangeant en harmonie pour représenter la miséricorde aimante envers toutes les créatures. (56:10.19)
 La vérité, la beauté et la bonté en harmonie révèlent la pleine divinité aux mortels dans l’univers. (56:10.20)
@@ -1887,7 +1887,7 @@ La surpopulation du Turkestan en 15 000 av. J.-C. déclencha le premier mouvemen
 Les vestiges du siège adamsonite dans les contreforts du Turkestan marquent le centre historique de la civilisation dans la région à l’est de la mer Caspienne. (77:5.10)
 La race jaune repoussa les Andonites au Turkestan après les avoir chassés d’Asie orientale et de Sibérie. (79:6.1)
 
-tortues | | | | OK
+tortues; tortue | | | | OK
 Les tortues, descendantes d’anciens reptiles, ont prospéré et évolué pendant des millions d’années aux côtés d’autres membres de la famille des sauriens. (60:2.13) (60:3.14,20) (61:2.6) (65:2.10)
 
 Tut | | Cent de Caligastia | PERSON | OK
@@ -1912,11 +1912,11 @@ Les tribus primitives tuaient souvent les enfants difformes ou malades, et on cr
 Les jumeaux étaient autrefois considérés comme très chanceux ou très malchanceux, car les premiers hommes craignaient et vénéraient toutes les personnes et tous les êtres inhabituels. (68:6.8) (85:6.2)
 Dans la demeure perchée au sommet des arbres des ancêtres simiens, des jumeaux sont nés – un mâle et une femelle, qui étaient beaux et vivaient confortablement dans un climat chaud. (62:3.1)
 
-deux et deux | | | | OK
+deux par deux | | | | OK
 L’union des âmes est essentielle pour la mobilisation de la sagesse, comme l’illustrent les 70 évangélistes envoyés par deux par le Maître pour répandre l’évangile. (160:2.7) (163:1.3) (181:2.12)
 Jésus envoya les apôtres deux par deux pour enseigner la bonne nouvelle du royaume et acquérir une expérience pratique dans leurs relations personnelles avec leurs semblables. (138:1.1) (193:3.2)
 
-mortels à deux cerveaux | | cerveaux; mortels:types planétaires | | OK
+mortels à deux cerveaux; type à deux cerveaux; type comporte deux hémisphères; ordres bicérébraux | | cerveaux; mortels:types planétaires | | OK
 Les Urantiens, en tant que mortels à deux cerveaux, présentent une combinaison unique d’imagination, d’aventure et de philosophie, mais manquent de la profondeur spirituelle et éthique des ordres à trois cerveaux. (49:5.13-18)
 
 deux fils | | | | OK

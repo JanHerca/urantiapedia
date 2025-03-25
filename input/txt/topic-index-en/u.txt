@@ -38,7 +38,7 @@ Ultimate Deity | | God the Ultimate | PERSON | OK
 
 ultimate level | | reality:levels of reality | | OK
 
-ultimatons | (42:6.2-6) | atoms; matter | | OK
+ultimatons; ultimaton | (42:6.2-6) | atoms; matter | | OK
 In each cubic inch of the most nearly empty space in Nebadon, there are about one hundred ultimatons, equivalent to one electron, held together by mutual attraction. (42:3.3) (42:4.6) (42:6.4)
 Force organizers and power directors play a crucial role in accelerating ultimatons back to puissant energy, allowing them to escape the universal space drift and achieve deindividuation. (42:6.3)
 Cold and other influences creatively organize ultimatons into electrons throughout space. (42:4.5,7)
@@ -62,7 +62,7 @@ Supreme Power Centers skillfully transmute ultimatons into electrons to control 
 
 ultraspecialization | | overspecialization | | OK
 
-ultraviolet rays | | | | OK
+ultraviolet rays; ultraviolet or chemical rays | | | | OK
 The ultraviolet rays of sunlight and various mechanical productions may cause harm. (42:5.9)
 
 Umajor the fifth | | major sectors; Splandon | PLACE | OK
@@ -77,7 +77,7 @@ Uminor the third, the headquarters of your minor sector Ensa, is situated amidst
 
 unanimity | | unity | | OK
 
-unbelievers | | atheism; materialism; secularism | | OK
+unbelievers; unbeliever; Unbelieving | | atheism; materialism; secularism | | OK
 Religious traits can stem from nonreligious sources, but without spiritual roots, they lack true survival value and spiritual significance. (102:7.4)
 Believers’ certain reply to unbelievers: How do you know that I do not know? (102:6.5) (102:7.6-9)
 Morality, loyalty, filial piety, honesty, and idealism can stem from nonreligious beliefs, but only spiritual roots can yield true spiritual growth and survival value. (102:7.4)
@@ -121,12 +121,12 @@ True undershepherds of Father's flock lead with worthiness and nourish the flock
 
 understanding | | adjutant mind-spirits:2 – Understanding; knowledge; sympathy; tolerance; wisdom | | OK
 
-unemployment | | earning a living; labor | | OK
+unemployment; unemployed | | earning a living; labor | | OK
 Civilizations must provide efficient methods of place finding and training in common labor to prevent long-term unemployment and maintain societal stability. (81:6.32)
 In the main continental nation of a nearby planet, labor is deemed honorable for all able-bodied citizens over eighteen, whether working at home, on farms, in recognized industries, on public works, or as compulsory laborers in mines. (72:5.11)
 Productivity improvements in land cultivation have liberated man power for more valuable tasks, despite job losses caused by the displacement of workers by machines in the transition to a mechanical age. (81:6.21-22)
 
-unfortunates | | inferiors; weak | | OK
+unfortunates; unfortunate | | inferiors; weak | | OK
 The unfortunate few suffer so the majority can advance, but the favored majority should show kindness to those less fortunate who fail to achieve ideal partnerships that satisfy all biological urges under evolving social norms. (83:6.5)
 The church's well-intended ministry to the unfortunate has contributed to the unwise perpetuation of racially degenerate stocks, hindering progress. (99:3.5)
 Mortal man's search for God is driven by the divine trait of mercy towards the weak and needy, as evidenced by the Creator Son's relentless pursuit of the lowest will creatures and their joint preparation for eternal universe service. (26:11.5)
@@ -179,12 +179,12 @@ United Kingdom | | British Isles | PLACE | OK
 
 United Midwayers of Urantia | | midwayers | PERSON | OK
 
-United States of North America | (39:5.8) | | PLACE | OK
+United States of North America; American Federal Union; forty-eight states | (39:5.8) | | PLACE | OK
 The United States of North America exemplifies the creative potential of race mixtures combining superior strata, leading to increased vigor and fertility. (82:6.5)
 Hero-venerating nationalism in the United States of North America stems from the development of ancestor worship in Eastern religions like Buddhism and Hinduism. (92:6.20)
 The American states surrendered sovereignty to the federal government, promoting peace and unity within the nation. (134:5.13-15) (134:6.5)
 
-unity | (56) | brotherhood (attitude); spiritual unity; tolerance; uniformity | | OK
+unity; Unity  | (56) | brotherhood (attitude); spiritual unity; tolerance; uniformity | | OK
 The Father, Son, and Spirit are eternally interassociated in the administration of universes, forever making them one in creation and control. (8:6.6-7) (56:5)
 Functional unity in the evolving universes is disclosed by the Seven Master Spirits, while in the future superuniverses, this unity will be inseparable from the sovereignty of the Supreme. (17:8.9)
 The Universal Father is the explanation of the supreme unity of GOD and the one vast integrated mechanism of the universe. (56:0.1-2) (56:9.11) (133:5.8)
@@ -213,7 +213,7 @@ in the universe
 	Unity is found in the Universal Absolute where the Absolutes, Trinities, and the Eternal God are co-ordinated and unified. (56:9)
 	In the existential unity of the universe, we find the ultimate truth of the Paradise Trinity. (106:9.1)
 
-Universal Absolute | (0:11.10-14) (56:9.7) (118:4.3-5) | Absolutes:the three | PERSON | OK
+Universal Absolute; Universal | (0:11.10-14) (56:9.7) (118:4.3-5) | Absolutes:the three | PERSON | OK
 definition
 	The Universal Absolute is part of the triodity of existential potentiality, revealing the originality of the First Source and Center. (115:3.8,10)
 	The Universal Absolute was an inevitability born from the Universal Father's act of differentiation, serving as the resolution of tension in universe realities and the co-ordinator of existential potentialities. (0:11.10)
@@ -624,7 +624,7 @@ Universe Sons | | Creator Sons | ORDER | OK
 
 Universe Spirits | | local universe Mother Spirits | ORDER | OK
 
-univitatia | (43:7) | | ORDER | OK
+univitatia; Univitatia  | (43:7) | | ORDER | OK
 The univitatia administer constellation morontia worlds, exhibiting intellectual variations while resembling the morontia state of existence and functioning in diverse orders of personality. (43:7.2) (55:9.2)
 Ascending mortals are guided by ethical sensitizers on Edentia, fostering appreciation of morality and interpersonal relationships. (39:3.7)
 The Univitatia, nonreproducing beings between Material Sons and Spirit-fused mortals, serve ascending mortals in the constellation spheres like Havona natives in the central creation. (37:9.8) (43:7.1)
@@ -854,7 +854,7 @@ Urantia advisory council | | four and twenty counselors | PERSON | OK
 
 Urantia Brotherhood of Urantia Midwayers | | midwayers | PERSON | OK
 
-Urantia Papers; accompanying papers; those papers; these papers; These papers; the series; papers | | language:limitations of human language; revelation | RELIGION | OK
+Urantia Papers; accompanying papers; those papers; these papers; These papers; the series; papers; narratives; paper; narrative | | language:limitations of human language; revelation | RELIGION | OK
 authors
 	The list of authors named appear in Table of Contents
 	Acknowledgments by the authors of the Urantia Papers highlight the challenging task of translating divine concepts into mortal language, with reliance on human sources and the guidance of spiritual forces. (0:12.13-14) (56:10.22-23) (121:0.1) (121:8.12-14)
@@ -906,7 +906,7 @@ value of the Urantia Papers
 	This is the recital of events by those who saw what occurred, witnessing the resurrection of Jesus with unclouded vision. (189:3.5)
 	The Urantia Papers reveal truth about God and our Creator Son, freeing inhabitants from ancient errors and pagan superstitions to know the Universal Father. (4:5.7)
 
-Uranus;  three of the major planets; three foreign space bodie | | Monmatia | PLACE | OK
+Uranus;  three of the major planets; three foreign space bodie; tributaries | | Monmatia | PLACE | OK
 retrograde motion proves Uranus was originally satellite of Angona (57:5.13-14)
 
 Uriah the Hittite; Uriah; the Hittite | | | PERSON | OK
