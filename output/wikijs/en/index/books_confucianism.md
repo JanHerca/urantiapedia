@@ -184,7 +184,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Shû King, Shih King and Hsiâo King; Sacred Books of the East, Volume 3 (SBE 3)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge, (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Confucianism/The_Shu_King" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -209,7 +209,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The I Ching, Sacred Books of the East, vol. 16 (SBE 16)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge, (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Confucianism/The_I_Ching" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -235,7 +235,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Lî Kî, Part I, Sacred Books of the East, Volume 27 (SBE 27)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge, (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Confucianism/The_Li_Ki_Part_I" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -261,7 +261,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Lî Kî, Part II, Sacred Books of the East, Volume 28 (SBE 28)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge, (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Confucianism/The_Li_Ki_Part_II" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>

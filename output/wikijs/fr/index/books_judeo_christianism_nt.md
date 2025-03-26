@@ -673,7 +673,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886</text>
+							<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
 							<text style="font-size:9px" x="61" y="60">Le Protevangelium</text>
 							<text style="font-size:9px" x="61" y="70">de Jacques</text>
 						</g>
@@ -682,7 +683,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Protevangelium de Jacques</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/Protoevangelium_of_James" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -697,7 +698,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886</text>
+							<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
 							<text style="font-size:9px" x="61" y="60">Évangile du</text>
 							<text style="font-size:9px" x="61" y="70">pseudo-Matthieu</text>
 						</g>
@@ -706,7 +708,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile du pseudo-Matthieu, ou Le Liber de Infantia</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/Gospel_of_Pseudo_Matthew" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -721,17 +723,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:9px" x="61" y="60">Livre de la</text>
-							<text style="font-size:9px" x="61" y="70">naissance de</text>
-							<text style="font-size:9px" x="61" y="80">Sainte Marie</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Livre sur</text>
+							<text style="font-size:9px" x="61" y="70">la Nativité</text>
+							<text style="font-size:9px" x="61" y="80">de Marie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre de la naissance de Sainte Marie, ou Libellus de Nativitate Sanctae Mariae</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre sur la Nativité de Marie, ou Libellus de Nativitate Sanctae Mariae</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/Book_of_the_birth_of_Saint_Mary" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -746,16 +749,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:9px" x="61" y="60">Évangile latin</text>
-							<text style="font-size:9px" x="61" y="70">de l'enfance</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Libro sobre</text>
+							<text style="font-size:9px" x="61" y="70">la infancia</text>
+							<text style="font-size:9px" x="61" y="80">del Salvador</text>
+							<text style="font-size:9px" x="61" y="90">(Cód. Arundel)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile latin de l'enfance</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre sur l'enfance du Sauveur (extraits), ou « Liber de infantia Salvatoris » [code. Arundel 404 du British Museum]</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/Latin_Infancy_Gospel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -777,16 +783,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-							<text style="font-size:9px" x="61" y="60">Evangelio del</text>
-							<text style="font-size:9px" x="61" y="70">Pseudo Tomás</text>
+							<text style="font-size:9px" x="61" y="60">Évangile de</text>
+							<text style="font-size:9px" x="61" y="70">Pseudo Thomas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio del Pseudo Tomás</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile du Pseudo-Thomas</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Infancy_Gospel_of_Thomas" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -802,16 +808,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-							<text style="font-size:9px" x="61" y="60">Evangelio árabe</text>
-							<text style="font-size:9px" x="61" y="70">de la Infancia</text>
+							<text style="font-size:9px" x="61" y="60">Évangile arabe</text>
+							<text style="font-size:9px" x="61" y="70">de l'enfance</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio árabe de la Infancia</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile de l'enfance arabe</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Syriac_Infancy_Gospel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -827,8 +833,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-							<text style="font-size:9px" x="61" y="60">Historia de José</text>
-							<text style="font-size:9px" x="61" y="70">el Carpintero</text>
+							<text style="font-size:9px" x="61" y="60">L'histoire de Joseph</text>
+							<text style="font-size:9px" x="61" y="70">le charpentier</text>
 						</g>
 					</svg>
 				</div>
@@ -836,7 +842,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Historia de José el Carpintero</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/History_of_Joseph_the_Carpenter" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -861,7 +867,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile de l’enfance arménienne</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Armenian_Infancy_Gospel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -877,18 +883,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
 							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Libro sobre</text>
-							<text style="font-size:9px" x="61" y="70">la infancia</text>
-							<text style="font-size:9px" x="61" y="80">del Salvador</text>
+							<text style="font-size:9px" x="61" y="60">Livre sur</text>
+							<text style="font-size:9px" x="61" y="70">enfance</text>
+							<text style="font-size:9px" x="61" y="80">du Salvador</text>
 							<text style="font-size:9px" x="61" y="90">(ms. lat. 11867)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro sobre la infancia del Salvador (extractos), o «Liber de infantia Salvatoris» [ms. latino 11867 de la Biblioteca Nacional de París]</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre sur l'enfance du Sauveur (extraits), ou « Liber de infantia Salvatoris » [ms. Latin 11867 de la Bibliothèque nationale de Paris]</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Latin_Infancy_Gospel_B" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -909,16 +915,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-							<text style="font-size:9px" x="61" y="60">Evangelio</text>
-							<text style="font-size:9px" x="61" y="70">de Pedro</text>
+							<text style="font-size:9px" x="61" y="60">Évangile</text>
+							<text style="font-size:9px" x="61" y="70">de Pierre</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio de Pedro [fragm. de Akhmîm]</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile de Pierre [fragment d'Akhmîm]</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Gospel_of_Peter" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -934,17 +940,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-							<text style="font-size:9px" x="61" y="60">Actas de Pilato</text>
-							<text style="font-size:9px" x="61" y="70">o Evangelio</text>
-							<text style="font-size:9px" x="61" y="80">de Nicodemo</text>
+							<text style="font-size:9px" x="61" y="60">Actes de Pilate</text>
+							<text style="font-size:9px" x="61" y="70">ou Évangile</text>
+							<text style="font-size:9px" x="61" y="80">de Nicodème</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Actas de Pilato o Evangelio de Nicodemo</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Actes de Pilate ou Évangile de Nicodème</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Gospel_of_Nicodemus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -960,18 +966,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
 							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Escritos</text>
-							<text style="font-size:9px" x="61" y="70">complementarios</text>
-							<text style="font-size:9px" x="61" y="80">a las</text>
-							<text style="font-size:9px" x="61" y="90">«Actas de Pilato»</text>
+							<text style="font-size:9px" x="61" y="60">Écrits</text>
+							<text style="font-size:9px" x="61" y="70">complémentaires</text>
+							<text style="font-size:9px" x="61" y="80">aux Actes</text>
+							<text style="font-size:9px" x="61" y="90">de Pilate</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Escritos complementarios a las «Actas de Pilato»</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Écrits complémentaires aux Actes de Pilate</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Gospel_of_Nicodemus_B" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -985,18 +991,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
-							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
-							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Evangelio de</text>
-							<text style="font-size:9px" x="61" y="70">Bartolomé</text>
+							<text style="font-size:4px" x="61" y="130">M. R. James</text>
+							<text style="font-size:3px" x="61" y="135">Apocryphal New Testament, 1924</text>
+							<text style="font-size:9px" x="61" y="60">Évangile de</text>
+							<text style="font-size:9px" x="61" y="70">Barthélemy</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio de Bartolomé</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile de Barthélemy</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				<a href="/fr/Bible/Gospel_of_Bartholomew" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1025,8 +1031,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Récit de saint Jean le Théologien</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				<a href="/fr/Bible/Account_of_St_John_the_Theologian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1042,17 +1048,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
 							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Libro de Juan,</text>
-							<text style="font-size:9px" x="61" y="70">arzobispo de</text>
-							<text style="font-size:9px" x="61" y="80">Tesalónica</text>
+							<text style="font-size:9px" x="61" y="60">Livre de Jean,</text>
+							<text style="font-size:9px" x="61" y="70">archevêque de</text>
+							<text style="font-size:9px" x="61" y="80">Thessalonique</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro de Juan, arzobispo de Tesalónica</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre de Jean, archevêque de Thessalonique</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				<a href="/fr/Bible/Book_of_John_Archbishop_of_Thessalonica" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1068,17 +1074,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
 							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Narración</text>
-							<text style="font-size:9px" x="61" y="70">del Pseudo José</text>
-							<text style="font-size:9px" x="61" y="80">de Arimatea</text>
+							<text style="font-size:9px" x="61" y="60">Récit du</text>
+							<text style="font-size:9px" x="61" y="70">pseudo-Joseph</text>
+							<text style="font-size:9px" x="61" y="80">d'Arimathie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Narración del Pseudo José de Arimatea</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Récit du pseudo-Joseph d'Arimathie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				<a href="/fr/Bible/Narration_of_the_Pseudo_Joseph_of_Arimathea" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>

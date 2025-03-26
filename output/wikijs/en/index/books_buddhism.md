@@ -98,7 +98,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Amitabha</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Paul Carus</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/Amitabha" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -123,7 +123,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Buddhist Catechism (42nd. ed.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry S. Olcott</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Buddhist_Catechism" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -148,7 +148,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Creed of Buddha (2nd. ed.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edmond Holmes</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Creed_of_Buddha" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -173,7 +173,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life of Buddha</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Andre Ferdinand Herold, Paul C. Blum (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Life_of_Buddha" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -276,7 +276,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhist Suttas (SBE11)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T.W. Rhys Davids (tr., from Pâli)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/Buddhist_Suttas" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -404,7 +404,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Udâna</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dawsonne Melanchthon Strong (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Udana" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -478,7 +478,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (Vol. I)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Chalmers (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Jakata_Vol_1" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -502,7 +502,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (Vol. II)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W.H.D. Rouse (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Jakata_Vol_2" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -526,7 +526,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (Vol. III)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H.T. Francis; R.A. Neil (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Jakata_Vol_3" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -550,7 +550,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (Vol. IV)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W.H.D. Rouse (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Jakata_Vol_4" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -574,7 +574,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (Vol. V)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H.T. Francis (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Jakata_Vol_5" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -598,7 +598,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (Vol. VI)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E.B. Cowell; W.H.D. Rouse (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Jakata_Vol_6" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -914,7 +914,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gateless Gate, Ekai [Huikai], called Mu-mon</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Nyogen Senzaki and Paul Reps (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/The_Gateless_Gate" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -1196,7 +1196,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Gleanings In Buddha-Fields</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lafcadio Hearn</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Buddhism/Gleanings_In_Buddha_Fields" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>

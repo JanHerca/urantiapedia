@@ -15,8 +15,8 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px" x="61" y="125">The Apocryphal Gospels, 1956 (tr.)</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
 		<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
 		<text style="font-size:9px" x="61" y="60">Livre de Jean,</text>
 		<text style="font-size:9px" x="61" y="70">archevêque de</text>

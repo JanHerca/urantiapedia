@@ -49,7 +49,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Un manuel universitaire de géologie</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Thomas C. Chamberlin et Rollin D. Salisbury</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -932,7 +932,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Univers autour de nous</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Sir James Jeans</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/book/Sir_James_Jeans/The_Universe_Around_Us" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1015,6 +1015,32 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
+							<text style="font-size:4px;" x="61" y="125">Funk & Wagnals Company</text>
+							<text style="font-size:4px;" x="61" y="130">New York and London, 1929</text>
+							<text style="font-size:9px;" x="61" y="60">L'esprit</text>
+							<text style="font-size:9px;" x="61" y="70">malfaisant</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'esprit malfaisant</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S.</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/book/William_S_Sadler/The_Mind_at_Mischief" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

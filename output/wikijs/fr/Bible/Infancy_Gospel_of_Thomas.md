@@ -1,5 +1,5 @@
 ---
-title: "Infancy Gospel of Thomas"
+title: "Évangile du Pseudo-Thomas"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -8,7 +8,6 @@ editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
 
-
 <div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
@@ -16,31 +15,30 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886</text>
-		<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
-		<text style="font-size:9px" x="61" y="60">Infancy Gospel</text>
-		<text style="font-size:9px" x="61" y="70">of Thomas</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+		<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+		<text style="font-size:9px" x="61" y="60">Évangile de</text>
+		<text style="font-size:9px" x="61" y="70">Pseudo Thomas</text>
 	</g>
 </svg>
 </div>
 
 ## Description
 
-“Infancy Gospel of Thomas”
+« Évangile du Pseudo-Thomas »
 
-_From “Ante-Nicene Fathers, Vol. 8”, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight._
+_Extrait de « Évangiles apocryphes », Edmundo González-Blanco (1934)_
 
-The “Infancy Gospel of Thomas” also “Gospel of Pseudo Thomas” is a gospel about the infancy of Jesus dating back to before the 5th century. It is part of a popular genre of biblical work, written to satisfy the desire of ancient Christians to know more miraculous stories and anecdotes of Jesus, in addition to those mentioned in the Gospel of Luke. Some references by Hippolytus of Rome and Origen of Alexandria to a Gospel of Thomas surely refer to this gospel and not to the Gospel of Thomas with which it is usually confused.
+L'« Évangile de l'enfance de Thomas », également appelé « Évangile du pseudo-Thomas », est un évangile sur l'enfance de Jésus datant d'avant le Ve siècle. Il s'agit d'un genre populaire d'ouvrage biblique, écrit pour satisfaire le désir des premiers chrétiens de connaître davantage d'histoires et d'anecdotes miraculeuses sur Jésus que celles mentionnées dans l'Évangile de Luc. Certaines références d'Hippolyte de Rome et d'Origène d'Alexandrie à un Évangile de Thomas se réfèrent sûrement à cet Évangile et non à l'Évangile de Thomas avec lequel il est habituellement confondu.
 
 ## Index
 
-- [Greek writing](/en/Bible/Infancy_Gospel_of_Thomas/1)
-- [Greek writing, second form](/en/Bible/Infancy_Gospel_of_Thomas/1b)
-- [Latin writing](/en/Bible/Infancy_Gospel_of_Thomas/2)
+- [Version grecque](/fr/Bible/Infancy_Gospel_of_Thomas/1)
+- [Version latine](/fr/Bible/Infancy_Gospel_of_Thomas/2)
 
-## External links
+## Liens externes
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas)
-- [Early Christian Writings](https://www.earlychristianwritings.com/text/infancythomas.html)
-- [New Advent](https://www.newadvent.org/fathers/0846.htm)
+- [Wikipedia](https://es.wikipedia.org/wiki/Evangelio_de_la_infancia_de_Tom%C3%A1s)
+- [Wikisource](https://es.wikisource.org/wiki/Evangelio_de_Santo_Tom%C3%A1s_(Redacci%C3%B3n_griega))
+- [Wikisource](https://es.wikisource.org/wiki/Evangelio_de_Santo_Tom%C3%A1s_(redacci%C3%B3n_latina))

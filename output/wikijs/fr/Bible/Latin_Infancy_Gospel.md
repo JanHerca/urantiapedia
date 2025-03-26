@@ -1,5 +1,5 @@
 ---
-title: "Book about the childhood of the Savior (excerpts) [cod. Arundel 404]"
+title: "Livre sur l'enfance du Sauveur (Code d'Arundel)"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -8,7 +8,6 @@ editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
 
-
 <div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
@@ -16,40 +15,40 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 		<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
 		<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-		<text style="font-size:9px" x="61" y="60">Book about</text>
-		<text style="font-size:9px" x="61" y="70">the childhood</text>
-		<text style="font-size:9px" x="61" y="80">of the Savior</text>
-		<text style="font-size:9px" x="61" y="90">(cod. Arundel)</text>
+		<text style="font-size:9px" x="61" y="60">Livre sur</text>
+		<text style="font-size:9px" x="61" y="70">enfance</text>
+		<text style="font-size:9px" x="61" y="80">du Salvador</text>
+		<text style="font-size:9px" x="61" y="90">(Code Arundel)</text>
 	</g>
 </svg>
 </div>
 
 ## Description
 
-“Book about the childhood of the Savior (excerpts), or ‘Liber de infantia Salvatoris’ [cod. Arundel 404 from the British Museum]”
+« Livre sur l'enfance du Sauveur »
 
-_Translated from Spanish «Los Evangelios Apócrifos», Aurelio de Santos Otero (1956)_
+_Extrait de « Les Évangiles apocryphes », Aurelio de Santos Otero (1956)_
 
-Santos de Otero writes:
+Santos de Otero écrit :
 
-“Among the many apocryphal narratives dependent, closely or remotely, on the _Protoevangelium_, we choose the _Liber de infantia Saltatoris_ for its abundant features of originality.”
+« Parmi les nombreux récits apocryphes dépendant, de près ou de loin, du _Protoévangile_, nous choisissons le _Liber de infantia Saltatoris_ pour ses nombreux traits d'originalité. »
 
-“This compilation is contained in two noticeably different reviews: _a) Code. Arundel_ from the British Museum (14th century) f.1-19; c. 1-102. _b) Code. Hereford_, Chapter, O. 3-9 (13th century) f.114-133; c.1-100. The _first_, whose content denotes greater antiquity, attributes the narrative to Saint Matthew and includes as a prologue the letter of Saint Jerome to Chromatius and Heliodorus found in the _Ps. Mt._ [Pseudo-Matthew] The _second_, from a later and more diffuse period, gives Santiago as the supposed author, like the _Prot._ Both were published by M. R. James in 1927.”
+« Cette compilation est contenue dans deux recensions sensiblement différentes l'une de l'autre : _a) Cód. Arundel_ du British Museum (XIVe siècle) f.1-19 ; c. 1-102. _b) Code. Hereford_, Chapitre, O. 3-9 (XIIIe siècle) f.114-133 ; c.1-100. Le _premier_, dont le contenu dénote une plus grande antiquité, attribue le récit à saint Matthieu et inclut comme prologue la lettre de saint Jérôme à Chromace et Héliodore trouvée dans le _Ps. Mt._ [Pseudo-Matthieu] Le _second_, d'une période ultérieure et plus diffus, donne James comme auteur supposé, semblable au _Prot._. Tous deux ont été publiés par M. James en 1927.
 
-“Given the great similarity that exists between this apocryphal and the _Ps. Mt._ (sometimes true interpolations occur), the priority relationship between the two is discussed. Although the issue is not definitively resolved and the opinions of critics are mixed, it seems that the opinion that considers our apocrypha as a source of inspiration for _Ps should be discarded. Mt._ and, therefore, previous.”
+« Étant donné la grande similitude qui existe entre ce texte apocryphe et le _Ps. Mt._ (il y a parfois de véritables interpolations), la relation de priorité entre les deux est discutée. Bien que la question ne soit pas définitivement résolue et que les avis des critiques soient contradictoires, il semble que l'opinion qui considère notre texte apocryphe comme une source d'inspiration pour le _Ps. Mt._ et, par conséquent, plus tôt.»
 
-“The style, in fact, is far from reflecting that artificial naivety characteristic of the ancient apocrypha. Its fluid and novelistic character, as well as elegant, shows the hand of a scholarly Carolingian compiler (9th century) who has been collecting various data and amalgamating them into a personal composition. His work has consisted, above all, in profusely completing with all kinds of picturesque details the episodes already known, but susceptible of interest; in recasting others according to his own taste and in lightly alluding to those that were already too well known. There can certainly be quite ancient episodes unknown to the present (especially those referring to birth), which James makes depend on the ancient _Gospel of Peter_ (2nd century); but these, in Cecchelli's phrase, ‘provano tutt'al più la utilizzazione di altri testi oltre il Protovangelo di Giacomo e lo Pseudo Matteo, non la grande antichità di tutta la redazione attuale.’ [‘at most the use of other texts beyond the Protoevangelium of James and the Pseudo Matthew proves it, not the great antiquity of the entire current editorial’]”
+« Le style, en effet, est loin de refléter cette naïveté artificielle caractéristique des apocryphes antiques. Son caractère fluide et romanesque, ainsi que son élégance, révèlent la main d'un savant compilateur carolingien (IXe siècle) qui a collecté des données diverses et les amalgamées dans une composition personnelle. Son travail a consisté avant tout à compléter abondamment de toutes sortes de détails pittoresques les épisodes déjà connus, mais susceptibles d'intérêt ; en remaniant les autres selon son goût et en faisant allusion légèrement à ceux qui étaient déjà trop connus. Il peut certainement y avoir des épisodes tout à fait anciens et jusqu'ici inconnus (notamment ceux relatifs à la naissance), que Jacques fait dépendre de l'ancien _Évangile de Pierre_ (IIe siècle) ; mais ceux-ci, selon les mots de Cecchelli, « ont prouvé d'autant plus l'utilisation d'autres textes au-delà du Protévangile de Giacomo et du Pseudo Matteo, et non la grande antiquité de toute l'édition actuelle. » [«tout au plus prouvent-ils l'utilisation d'autres textes au-delà du Protévangile de Jacques et du Pseudo-Matthieu, et non la grande antiquité de l'ensemble de l'éditorial actuel»]»
 
-“The desire to make clear what is related to Mary's virginity means that expressions with a marked doctrinal flavor are sometimes found in the story, which does not prove, however, that the author was formally a heretic.”
+« Le désir de clarifier ce qui concerne la virginité de Marie fait que l’on trouve parfois dans le récit des expressions à saveur docétique marquée, ce qui ne prouve cependant pas que l’auteur ait été formellement hérétique. »
 
 ## Index
 
-[Text](/en/Bible/Latin_Infancy_Gospel/1)
+[Texte](/es/Bible/Latin_Infancy_Gospel/1)
 
 
-## External links
+## Liens externes
 
 [Internet Archive](https://archive.org/details/losevangeliosapo00sant/page/n5/mode/2up?view=theater)

@@ -1,5 +1,5 @@
 ---
-title: "Syriac Infancy Gospel"
+title: "Évangile de l'enfance arabe"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -8,7 +8,6 @@ editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
 
-
 <div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
@@ -16,28 +15,28 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886</text>
-		<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
-		<text style="font-size:9px" x="61" y="60">Syriac Infancy</text>
-		<text style="font-size:9px" x="61" y="70">Gospel</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+		<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+		<text style="font-size:9px" x="61" y="60">Évangile arabe</text>
+		<text style="font-size:9px" x="61" y="70">de l'enfance</text>
 	</g>
 </svg>
 </div>
 
 ## Description
 
-“Syriac Infancy Gospel”
+« Évangile de l'enfance arabe »
 
-_From “Ante-Nicene Fathers, Vol. 8”, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight._
+_Extrait de « Évangiles apocryphes », Edmundo González-Blanco (1934)_
 
-The “Syriac Infancy Gospel”, also known as the “Arabic Infancy Gospel”, is a New Testament apocryphal writing concerning the infancy of Jesus. It may have been compiled as early as the sixth century, and was partly based on the Infancy Gospel of Thomas, the Gospel of James, and the Gospel of Pseudo-Matthew, though much of it is also based on oral tradition. The only two surviving manuscripts date from 1299 AD and the 15th/16th century in Arabic. They were copied in the area of northern Iraq and show influence from the Quran.
+L'« Évangile de l'enfance arabe » est l'un des derniers évangiles apocryphes. Également appelé « Évangile arabe du pseudo-Jean ». Il est écrit en arabe, avec 158 pages encore en bon état, dans lesquelles il est fait référence à l'Évangile de Jean, détaillant les miracles de Jésus. Cet évangile est conservé à la Bibliothèque Ambrosienne de Milan (Italie). Parmi les évangiles apocryphes tardifs qui racontent l'enfance de Jésus-Christ, il y a aussi l'Évangile de l'Enfance selon saint Pierre, attribué à saint Pierre, et l'Évangile de Barnabé, qui, bien qu'écrit en arabe, ne subsistent que des manuscrits en espagnol et en italien.
 
 ## Index
 
-- [Text](/en/Bible/Syriac_Infancy_Gospel/1)
+- [Version grecque](/fr/Bible/Syriac_Infancy_Gospel/1)
 
-## External links
+## Liens externes
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Syriac_Infancy_Gospel)
-- [New Advent](https://www.newadvent.org/fathers/0806.htm)
+- [Wikipedia](https://es.wikipedia.org/wiki/Evangelio_%C3%A1rabe_de_la_infancia)
+- [Wikisource](https://es.wikisource.org/wiki/Evangelio_%C3%A1rabe_de_la_infancia)

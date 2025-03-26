@@ -1059,7 +1059,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">Funk & Wagnals Company, New York and London, 1929</text>
 							<text style="font-size:9px" x="61" y="60">The Mind</text>
-							<text style="font-size:9px" x="61" y="70">at Mischief,</text>
+							<text style="font-size:9px" x="61" y="70">at Mischief</text>
 						</g>
 					</svg>
 				</div>

@@ -1,5 +1,5 @@
 ---
-title: "Gospel of Pseudo-Matthew"
+title: "Évangile du pseudo-Matthieu"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -19,25 +19,25 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 		<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886</text>
 		<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
-		<text style="font-size:9px" x="61" y="60">Gospel of </text>
-		<text style="font-size:9px" x="61" y="70">Pseudo-Matthew</text>
+		<text style="font-size:9px" x="61" y="60">Évangile du</text>
+		<text style="font-size:9px" x="61" y="70">pseudo-Matthieu</text>
 	</g>
 </svg>
 </div>
 
 ## Description
 
-“Gospel of Pseudo-Matthew”
+« Évangile du pseudo-Matthieu »
 
-_From “Ante-Nicene Fathers, Vol. 8”, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight._
+_Extrait de « Ante-Nicene Fathers, vol. 8 », édité par Alexander Roberts, James Donaldson et A. Cleveland Coxe. (Buffalo, NY : Christian Literature Publishing Co., 1886.) Révisé et édité pour New Advent par Kevin Knight._
 
-The “Gospel of pseudo-Matthew” also called “Book of the birth of the blessed and the childhood of the Savior” is an apocryphal Christian gospel written around the middle of the 6th century. It deals with the birth and childhood of Mary, after the birth of Jesus and the flight to Egypt.
+L'Évangile du pseudo-Matthieu, aussi appelé « Livre de la naissance du bienheureux et de l'enfance du Sauveur », est un évangile chrétien apocryphe écrit vers le milieu du VIe siècle. Il traite de la naissance et de l'enfance de Marie, après la naissance de Jésus et la fuite en Égypte.
 
 ## Index
 
-- [Full text](/en/Bible/Gospel_of_Pseudo_Matthew/1)
+- [Texte intégral](/fr/Bible/Gospel_of_Pseudo_Matthew/1)
 
-## External links
+## Liens externes
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Pseudo-Matthew)
 - [New Advent](https://www.newadvent.org/fathers/0848.htm)

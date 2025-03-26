@@ -98,7 +98,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dieciocho tratados de la Mishná</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">D. A. Sola y M. J. Raphall</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/The_Mishna" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -147,7 +147,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Talmud</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Joseph Barclay</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/The_Talmud" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -224,7 +224,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dichos de los Padres Judíos (Pirqe Aboth)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Taylor (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/Sayings_of_the_Jewish_Fathers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -249,7 +249,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Literatura hebraica</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edited Maurice Harris</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/Hebraic_Literature" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -300,7 +300,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tratado Sanedrín, Mishnah y Tosefta</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Herbert Dan</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -324,7 +324,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tratado Berakoth</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">A. Lukyn Williams</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/Tractate_Berakoth" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -433,7 +433,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kabbalah - Sepher Yetzirah</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W.W. Westcot (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/Kabbalah_Sepher_Yetzirah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -534,7 +534,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Cábala</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Bernhard Pick</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/The_Cabala" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -730,7 +730,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Obra de Flavio Josefo (Guerras judías, Antigüedades judías, Autobiografía, Acerca del Hades, Contra Apión)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavio Josefo; William Whiston (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/The_Works_of_Flavius_Josephus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -754,7 +754,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Obra de Filón de Alejandría</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Filón de Alejandría; C. D. Yonge (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Judaism/The_Works_Philo_of_Alexandria" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

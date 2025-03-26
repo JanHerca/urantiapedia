@@ -127,7 +127,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pistis Sophia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/Pistis_Sophia" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -371,7 +371,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Libro de los Gigantes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/The_Book_of_the_Giants" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -620,7 +620,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Libro de la Cueva de los Tesoros</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. A. Wallis Budge (tr. del siríaco)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -780,7 +780,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los escritos de San Francisco de Asís</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Paschal Robinson (b. 1181 d. 1226)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -805,7 +805,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Las florecitas de San Francisco</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W. Heywood (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -953,7 +953,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Ejercicios Espirituales de San Ignacio de Loyola</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">San Ignacio de Loyola (composed 1522-1524, published 1548), Elder Mullan (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -976,7 +976,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textos de Martín Lutero</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Martín Lutero (b. 1483 d. 1546)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/Writings_of_Martin_Luther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1259,7 +1259,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Paraíso perdido, paraíso recobrado</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Milton</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/Paradise_Lost_and_Regained" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1387,7 +1387,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Castillo Interior, o Las moradas</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Santa Teresa de Ávila</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Christianity/The_Interior_Castle" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

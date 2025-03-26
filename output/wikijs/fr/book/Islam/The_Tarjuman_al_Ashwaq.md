@@ -55,7 +55,7 @@ NOTE DE PRODUCTION : Le livre original contient le texte arabe original après l
 - [Préface](/fr/book/Islam/The_Tarjuman_al_Ashwaq/Preface)
 - [Présentation](/fr/book/Islam/The_Tarjuman_al_Ashwaq/Introduction)
 - Traduction et commentaire
-	- [Je](/fr/book/Islam/The_Tarjuman_al_Ashwaq/1)
+	- [I](/fr/book/Islam/The_Tarjuman_al_Ashwaq/1)
 	- [II](/fr/book/Islam/The_Tarjuman_al_Ashwaq/2)
 	- [III](/fr/book/Islam/The_Tarjuman_al_Ashwaq/3)
 	- [IV](/fr/book/Islam/The_Tarjuman_al_Ashwaq/4)
