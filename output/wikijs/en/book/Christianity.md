@@ -1,9 +1,9 @@
 ---
-title: "Theology books"
-description: "Supposedly used by the revealers of the Fifth Epochal Revelation"
+title: "Religious books of Christianity"
+description:
 published: true
 date: 2023-12-12T14:02:03.086Z
-tags: index, book, Theology
+tags: index, book, Christianity
 editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
@@ -26,108 +26,57 @@ dateCreated: 2023-12-12T14:02:03.086Z
   </table>
 </figure>
 
-## Religions
+## Bible Commentary
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Arthur Hinds, int. N. V. Peale</text>
+							<text style="font-size:4px" x="61" y="125">1927</text>
+							<text style="font-size:9px" x="61" y="60">The Complete</text>
+							<text style="font-size:9px" x="61" y="70">Sayings of Jesus</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Complete Sayings of Jesus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Hinds, int. Norman Vincent Peale</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+## Gnosticism
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Rufus M. Jones</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1932</text>
-							<text style="font-size:9px" x="61" y="60">A Preface to</text>
-							<text style="font-size:9px" x="61" y="70">Christian Faith</text>
-							<text style="font-size:9px" x="61" y="80">in a New Age</text>
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+							<text style="font-size:4px" x="61" y="125">1900</text>
+							<text style="font-size:9px" x="61" y="60">Fragments of</text>
+							<text style="font-size:9px" x="61" y="70">a Faith Forgotten</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Preface to Christian Faith in a New Age</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Rufus M. Jones</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Harry Emerson Fosdick</text>
-							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1926</text>
-							<text style="font-size:9px" x="61" y="60">Adventurous</text>
-							<text style="font-size:9px" x="61" y="70">Religion and</text>
-							<text style="font-size:9px" x="61" y="80">Other Essays</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Adventurous Religion and Other Essays</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Harry Emerson Fosdick</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Harry_Emerson_Fosdick/Adventurous_Religion_and_Other_Essays" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Alfred E. Martin, A.M., S.T.B.</text>
-							<text style="font-size:4px" x="61" y="125">New York: D. Appleton and Company, 1926</text>
-							<text style="font-size:9px" x="61" y="60">Comparative</text>
-							<text style="font-size:9px" x="61" y="70">Religion and</text>
-							<text style="font-size:9px" x="61" y="80">the Religion</text>
-							<text style="font-size:9px" x="61" y="90">of the Future</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Comparative Religion and the Religion of the Future</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred E. Martin, A.M., S.T.B.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Alfred_W_Martin/Comparative_Religion_and_Future" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">James Hastings (ed.)</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1910</text>
-							<text style="font-size:9px" x="61" y="60">Encyclopædia</text>
-							<text style="font-size:9px" x="61" y="70">of Religion</text>
-							<text style="font-size:9px" x="61" y="80">and Ethics</text>
-							<text style="font-size:9px" x="61" y="90">Vol. II</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Encyclopædia of Religion and Ethics, Vol. II</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">James Hastings (ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Fragments of a Faith Forgotten</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -138,51 +87,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Edwin Lewis</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1931</text>
-							<text style="font-size:9px" x="61" y="50">God and</text>
-							<text style="font-size:9px" x="61" y="60">Ourselves:</text>
-							<text style="font-size:9px" x="61" y="70">A Plea for the</text>
-							<text style="font-size:9px" x="61" y="80">Reality, Adequacy</text>
-							<text style="font-size:9px" x="61" y="90">and Availability</text>
-							<text style="font-size:9px" x="61" y="100">of God</text>
+							<text style="font-size:5px" x="61" y="22">Charles William King</text>
+							<text style="font-size:4px" x="61" y="125">1887</text>
+							<text style="font-size:9px" x="61" y="60">The Gnostics</text>
+							<text style="font-size:9px" x="61" y="70">and</text>
+							<text style="font-size:9px" x="61" y="80">Their Remains</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">God and Ourselves: A Plea for the Reality, Adequacy and Availability of God</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Edwin Lewis</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Edwin_Lewis/God_and_Ourselves" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">W. R. Matthews, K.C.V.O., D.D., D.Lit.</text>
-							<text style="font-size:4px" x="61" y="125">London: Nisbet & Co. Ltd., 1930</text>
-							<text style="font-size:9px" x="61" y="60">God in</text>
-							<text style="font-size:9px" x="61" y="70">Christian Thought</text>
-							<text style="font-size:9px" x="61" y="80">and Experience</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">God in Christian Thought and Experience</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">W. R. Matthews, K.C.V.O., D.D., D.Lit.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gnostics and Their Remains</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles William King</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -193,25 +113,73 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Rees Griffiths, M.A., B.D., Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">Edinburgh: T. & T. Clark, 1931</text>
-							<text style="font-size:9px" x="61" y="50">God in Idea</text>
-							<text style="font-size:9px" x="61" y="60">and Experience</text>
-							<text style="font-size:9px" x="61" y="70">or,</text>
-							<text style="font-size:9px" x="61" y="80">The A Priori Elements</text>
-							<text style="font-size:9px" x="61" y="90">of the Religious</text>
-							<text style="font-size:9px" x="61" y="100">Consciousness</text>
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+							<text style="font-size:4px" x="61" y="125">1921</text>
+							<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">God in Idea and Experience, or, The A Priori Elements of the Religious Consciousness</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Rees Griffiths, M.A., B.D., Ph.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pistis Sophia</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/Pistis_Sophia" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">Early Church</text>
+							<text style="font-size:9px" x="61" y="70">Fathers</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Early Church Fathers</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+## Hermetica
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+							<text style="font-size:4px" x="61" y="125">1906</text>
+							<text style="font-size:9px" x="61" y="60">Thrice-</text>
+							<text style="font-size:9px" x="61" y="70">Greatest Hermes</text>
+							<text style="font-size:9px" x="61" y="80">Vol. 1</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Thrice-Greatest Hermes, Vol. 1</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -222,47 +190,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">E. Washburn Hopkins, Ph.D., LL.D.</text>
-							<text style="font-size:4px" x="61" y="125">New Haven: Yale University Press, 1923</text>
-							<text style="font-size:9px" x="61" y="60">Origin</text>
-							<text style="font-size:9px" x="61" y="70">and Evolution</text>
-							<text style="font-size:9px" x="61" y="80">of Religion</text>
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+							<text style="font-size:4px" x="61" y="125">1906</text>
+							<text style="font-size:9px" x="61" y="60">Thrice-</text>
+							<text style="font-size:9px" x="61" y="70">Greatest Hermes</text>
+							<text style="font-size:9px" x="61" y="80">Vol. 2</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Origin and Evolution of Religion</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Washburn Hopkins, Ph.D., LL.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">J. R. Illingworth, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">London & N.Y.: The Macmillan Company, 1894</text>
-							<text style="font-size:9px" x="61" y="60">Personality</text>
-							<text style="font-size:9px" x="61" y="70">Human and Divine</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Personality Human and Divine</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">J. R. Illingworth, M.A.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Thrice-Greatest Hermes, Vol. 2</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -273,24 +216,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Rev. L.W. Grensted, M.A., D.D.</text>
-							<text style="font-size:4px" x="61" y="125">London: Longmans, Green and Co., 1931</text>
-							<text style="font-size:9px" x="61" y="50">Psychology</text>
-							<text style="font-size:9px" x="61" y="60">and God:</text>
-							<text style="font-size:9px" x="61" y="70">A Study of the</text>
-							<text style="font-size:9px" x="61" y="80">Implications of</text>
-							<text style="font-size:9px" x="61" y="90">Recent Psychology...</text>
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+							<text style="font-size:4px" x="61" y="125">1906</text>
+							<text style="font-size:9px" x="61" y="60">Thrice-</text>
+							<text style="font-size:9px" x="61" y="70">Greatest Hermes</text>
+							<text style="font-size:9px" x="61" y="80">Vol. 3</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psychology and God: A Study of the Implications of Recent Psychology for Religious Belief and Practice</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. L.W. Grensted, M.A., D.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Thrice-Greatest Hermes, Vol. 3</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -301,23 +242,23 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">Religion</text>
-							<text style="font-size:9px" x="61" y="70">and Conduct:</text>
-							<text style="font-size:9px" x="61" y="80">The Report of</text>
-							<text style="font-size:9px" x="61" y="90">a Conference</text>
+							<text style="font-size:5px" x="61" y="22">John Everard (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1650</text>
+							<text style="font-size:9px" x="61" y="60">The Divine</text>
+							<text style="font-size:9px" x="61" y="70">Pymander of Hermes</text>
+							<text style="font-size:9px" x="61" y="80">Mercurius</text>
+							<text style="font-size:9px" x="61" y="90">Trismegistus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Religion and Conduct: The Report of a Conference Held at Northwestern University, November 15-16, 1929</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Divine Pymander of Hermes Mercurius Trismegistus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Everard (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -328,25 +269,109 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D.</text>
+							<text style="font-size:5px" x="61" y="22">A. Kingsford and E. Maitland (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1885</text>
+							<text style="font-size:9px" x="61" y="50">The Virgin</text>
+							<text style="font-size:9px" x="61" y="60">of the World</text>
+							<text style="font-size:9px" x="61" y="70">of Hermes</text>
+							<text style="font-size:9px" x="61" y="80">Mercurius</text>
+							<text style="font-size:9px" x="61" y="90">Trismegistus</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Virgin of the World of Hermes Mercurius Trismegistus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Anna Kingsford and Edward Maitland (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+## Gnostic Related Texts
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1907</text>
+							<text style="font-size:9px" x="61" y="60">The Hymn of Jesus,</text>
+							<text style="font-size:9px" x="61" y="70">Echoes from</text>
+							<text style="font-size:9px" x="61" y="80">the Gnosis</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Hymn of Jesus, Echoes from the Gnosis</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">G.R.S. Mead (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1924</text>
+							<text style="font-size:9px" x="61" y="60">Gnostic John</text>
+							<text style="font-size:9px" x="61" y="70">the Baptizer</text>
+							<text style="font-size:9px" x="61" y="80">Selections from</text>
+							<text style="font-size:9px" x="61" y="90">the Mandæan</text>
+							<text style="font-size:9px" x="61" y="100">John-Book</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Gnostic John the Baptizer Selections from the Mandæan John-Book</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">G.R.S. Mead (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">W. B. Henning</text>
 							<text style="font-size:4px" x="61" y="125"></text>
-							<text style="font-size:9px" x="61" y="60">Religion</text>
-							<text style="font-size:9px" x="61" y="70">as a Remedy for</text>
-							<text style="font-size:9px" x="61" y="80">Personal and Social</text>
-							<text style="font-size:9px" x="61" y="90">Maladjustments</text>
+							<text style="font-size:9px" x="61" y="60">The Book of Giants</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Religion as a Remedy for Personal and Social Maladjustments</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Book of Giants</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Christianity/The_Book_of_the_Giants" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -355,22 +380,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Clifford E. Barbour, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">The Abingdon Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">Sin</text>
-							<text style="font-size:9px" x="61" y="70">and the</text>
-							<text style="font-size:9px" x="61" y="80">New Psychology</text>
+							<text style="font-size:5px" x="61" y="22"></text>
+							<text style="font-size:4px" x="61" y="125">ca. 200 A.D.</text>
+							<text style="font-size:9px" x="61" y="60">The Gospel</text>
+							<text style="font-size:9px" x="61" y="70">of Thomas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sin and the New Psychology</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Clifford E. Barbour, Ph.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gospel of Thomas</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -381,23 +405,49 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Dr. William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: The Central Bible Supply Co., 1909</text>
-							<text style="font-size:9px" x="61" y="60">Soul Winning</text>
-							<text style="font-size:9px" x="61" y="70">Texts, or</text>
-							<text style="font-size:9px" x="61" y="80">Bible Helps</text>
-							<text style="font-size:9px" x="61" y="90">for Personal Work</text>
+							<text style="font-size:5px" x="61" y="22"></text>
+							<text style="font-size:4px" x="61" y="125"> </text>
+							<text style="font-size:9px" x="61" y="60">Excerpts from</text>
+							<text style="font-size:9px" x="61" y="70">the Gospel of Mary</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Soul Winning Texts, or Bible Helps for Personal Work</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Dr. William S. Sadler</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Excerpts from the Gospel of Mary</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+## Early Christian
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:4px" x="61" y="125">ca. 200 C.E.</text>
+							<text style="font-size:9px" x="61" y="60">The Gospel</text>
+							<text style="font-size:9px" x="61" y="70">of Thomas</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gospel of Thomas</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -408,21 +458,1088 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">Christian Prayers</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Christian Prayers: The Lord's Prayer, Hail Mary (Ave Maria), The Apostles' Creed, Nicene Creed, The Athanasian Creed</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">St. Augustine</text>
+							<text style="font-size:9px" x="61" y="60">Works of</text>
+							<text style="font-size:9px" x="61" y="70">St. Augustine</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Works of St. Augustine</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">St. Augustine</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">St. Augustine</text>
+							<text style="font-size:9px" x="61" y="60">The Confessions</text>
+							<text style="font-size:9px" x="61" y="70">of Saint Augustine</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Confessions of Saint Augustine</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">St. Augustine (401 C.E.), Edward Bouverie Pusey (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">Writings</text>
+							<text style="font-size:9px" x="61" y="70">of the Early</text>
+							<text style="font-size:9px" x="61" y="80">Church Fathers</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Writings of the Early Church Fathers</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite</text>
+							<text style="font-size:9px" x="61" y="60">The Works</text>
+							<text style="font-size:9px" x="61" y="70">of Dionysius</text>
+							<text style="font-size:9px" x="61" y="80">the Areopagite</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Works of Dionysius the Areopagite</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book"> Dionysius the Areopagite (ca. 400 C.E.), John Parker (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+## Eastern Churches
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge (ed. & tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1886</text>
+							<text style="font-size:9px" x="61" y="60">The Book of the Bee</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Book of the Bee</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">E. A. Wallis Budge (ed. & tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge</text>
+							<text style="font-size:4px" x="61" y="125">1927</text>
+							<text style="font-size:9px" x="61" y="60">The Book of the</text>
+							<text style="font-size:9px" x="61" y="70">Cave of Treasures</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Book of the Cave of Treasures</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">E. A. Wallis Budge (tr. from the Syriac)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1922</text>
+							<text style="font-size:9px" x="61" y="60">The Kebra Nagast</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Kebra Nagast</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">E. A. Wallis Budge (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+## Mediaeval, Renaissance and Reformation
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Bede</text>
+							<text style="font-size:4px" x="61" y="125">1907</text>
+							<text style="font-size:9px" x="61" y="60">Bede's</text>
+							<text style="font-size:9px" x="61" y="70">Ecclesiastical</text>
+							<text style="font-size:9px" x="61" y="80">History of England</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bede's Ecclesiastical History of England</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Bede (731); A.M. Sellar (ed.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22"> St. Anselm of Canterbury</text>
+							<text style="font-size:4px" x="61" y="125">1903</text>
+							<text style="font-size:9px" x="61" y="60">Works of St. Anselm</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Works of St. Anselm</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book"> St. Anselm of Canterbury (b. 1033 d. 1109); Sidney Norton Deane (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Anonymous</text>
+							<text style="font-size:4px" x="61" y="125">1901</text>
+							<text style="font-size:9px" x="61" y="60">The Love Letters</text>
+							<text style="font-size:9px" x="61" y="70">of Abelard and</text>
+							<text style="font-size:9px" x="61" y="80">Heloise</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Love Letters of Abelard and Heloise</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Anonymous (1128); Israel Gollancz and Honnor Morten (ed.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Henry Adams Bellows (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1922</text>
+							<text style="font-size:9px" x="61" y="60">The Story of</text>
+							<text style="font-size:9px" x="61" y="70">My Misfortunes:</text>
+							<text style="font-size:9px" x="61" y="80">The Autobiography</text>
+							<text style="font-size:9px" x="61" y="90">of Peter Abelard</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Story of My Misfortunes: The Autobiography of Peter Abelard</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Adams Bellows (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>
+							<text style="font-size:4px" x="61" y="125">1905</text>
+							<text style="font-size:9px" x="61" y="60">The Writings of</text>
+							<text style="font-size:9px" x="61" y="70">St. Francis of Assisi</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Writings of St. Francis of Assisi</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Paschal Robinson (b. 1181 d. 1226)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">W. Heywood (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1906</text>
+							<text style="font-size:9px" x="61" y="60">The Little Flowers</text>
+							<text style="font-size:9px" x="61" y="70">of St. Francis</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Little Flowers of St. Francis</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">W. Heywood (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">St. Thomas Aquinas</text>
+							<text style="font-size:4px" x="61" y="125">1948</text>
+							<text style="font-size:9px" x="61" y="60">Summa Theologica</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Summa Theologica</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">St. Thomas Aquinas (1265-1274); The Fathers of the English Dominican Province (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Jan van Ruysbroeck</text>
+							<text style="font-size:4px" x="61" y="125">1916</text>
+							<text style="font-size:9px" x="61" y="60">The Adornment</text>
+							<text style="font-size:9px" x="61" y="70">of the Spiritual</text>
+							<text style="font-size:9px" x="61" y="80">Marriage</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Adornment of the Spiritual Marriage</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan van Ruysbroeck, (b. 1293 d. 1381); C. A. Wynschenk Dom (tr.), Evelyn Underhill (ed.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Dante Alighieri</text>
+							<text style="font-size:4px" x="61" y="125">1888</text>
+							<text style="font-size:9px" x="61" y="60">The Divine Comedy</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Divine Comedy</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Dante Alighieri (1306-21), Henry F. Cary (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Anonymous</text>
+							<text style="font-size:4px" x="61" y="125">1922</text>
+							<text style="font-size:9px" x="61" y="60">The Cloud</text>
+							<text style="font-size:9px" x="61" y="70">of Unknowing</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Cloud of Unknowing</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Anonymous (ca. 1400), Evelyn Underhill (ed.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Thomas a Kempis</text>
+							<text style="font-size:4px" x="61" y="125">1886</text>
+							<text style="font-size:9px" x="61" y="60">Imitation of Christ</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Imitation of Christ</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Thomas a Kempis (ca. 1418), William Benham (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">St. Ignatius of Loyola</text>
+							<text style="font-size:4px" x="61" y="125">1909</text>
+							<text style="font-size:9px" x="61" y="60">The Spiritual</text>
+							<text style="font-size:9px" x="61" y="70">Exercises</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Spiritual Exercises of St. Ignatius of Loyola</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">St. Ignatius of Loyola (composed 1522-1524, published 1548), Elder Mullan (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Martin Luther</text>
+							<text style="font-size:9px" x="61" y="60">Texts</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Texts of Martin Luther</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Martin Luther (b. 1483 d. 1546)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/Writings_of_Martin_Luther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">John Calvin</text>
+							<text style="font-size:9px" x="61" y="60">Texts</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Texts of John Calvin</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Calvin (b. 1509 d. 1564)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">John Foxe</text>
+							<text style="font-size:4px" x="61" y="125">ca. 1560</text>
+							<text style="font-size:9px" x="61" y="60">Foxe's Book</text>
+							<text style="font-size:9px" x="61" y="70">of Martyrs</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Foxe's Book of Martyrs</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Foxe</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:4px" x="61" y="125">1618-9</text>
+							<text style="font-size:9px" x="61" y="60">Synod of Dordrecht</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Synod of Dordrecht</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">Heidelberg</text>
+							<text style="font-size:9px" x="61" y="70">Catechism</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Heidelberg Catechism</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">The Second</text>
+							<text style="font-size:9px" x="61" y="70">Helvetic</text>
+							<text style="font-size:9px" x="61" y="80">Confession</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Second Helvetic Confession</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Reformed Churches of the Netherlands</text>
+							<text style="font-size:4px" x="61" y="125">1618-9</text>
+							<text style="font-size:9px" x="61" y="60">Church Order</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Church Order</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Reformed Churches of the Netherlands</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Reformed Churches of the Netherlands</text>
+							<text style="font-size:9px" x="61" y="60">Liturgy</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Liturgy</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Reformed Churches of the Netherlands</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:4px" x="61" y="125">1674</text>
+							<text style="font-size:9px" x="61" y="60">Westminster</text>
+							<text style="font-size:9px" x="61" y="70">Shorter</text>
+							<text style="font-size:9px" x="61" y="80">Catechism</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Westminster Shorter Catechism</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">The Westminster</text>
+							<text style="font-size:9px" x="61" y="70">Confession</text>
+							<text style="font-size:9px" x="61" y="80">of Faith</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Westminster Confession of Faith</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:9px" x="61" y="60">Westminster</text>
+							<text style="font-size:9px" x="61" y="70">Larger</text>
+							<text style="font-size:9px" x="61" y="80">Catechism</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Westminster Larger Catechism</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Stephen Charnock</text>
+							<text style="font-size:4px" x="61" y="125">1629-1690</text>
+							<text style="font-size:9px" x="61" y="60">The Works of</text>
+							<text style="font-size:9px" x="61" y="70">Stephen Charnock</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Works of Stephen Charnock</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Stephen Charnock</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">John Milton</text>
+							<text style="font-size:4px" x="61" y="125">1667 and 1671</text>
+							<text style="font-size:9px" x="61" y="60">Paradise Lost,</text>
+							<text style="font-size:9px" x="61" y="70">Paradise Regained</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Paradise Lost, Paradise Regained</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Milton</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/Paradise_Lost_and_Regained" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">John Bunyan</text>
+							<text style="font-size:4px" x="61" y="125">1678</text>
+							<text style="font-size:9px" x="61" y="60">Pilgrim's Progress</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pilgrim's Progress</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Bunyan</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">James Anthony Froude</text>
+							<text style="font-size:4px" x="61" y="125">1901</text>
+							<text style="font-size:9px" x="61" y="60">Bunyan</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bunyan</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">James Anthony Froude</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Angelus Silesius</text>
+							<text style="font-size:4px" x="61" y="125">1932</text>
+							<text style="font-size:9px" x="61" y="60">Selections from</text>
+							<text style="font-size:9px" x="61" y="70">The Cherubinic</text>
+							<text style="font-size:9px" x="61" y="80">Wanderer</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Selections from The Cherubinic Wanderer</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Angelus Silesius; J. E. Crawford Flitch (tr. with intro.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Angelus Silesius</text>
+							<text style="font-size:4px" x="61" y="125">1944</text>
+							<text style="font-size:9px" x="61" y="60">Alexandrines</text>
+							<text style="font-size:9px" x="61" y="70">translated from the</text>
+							<text style="font-size:9px" x="61" y="80">“Cherubinischer</text>
+							<text style="font-size:9px" x="61" y="90">Wandersmann”</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Alexandrines: translated from the “Cherubinischer Wandersmann”</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Angelus Silesius; Julia Bilger (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">St. Teresa of Avila</text>
+							<text style="font-size:4px" x="61" y="125">1921</text>
+							<text style="font-size:9px" x="61" y="60">The Interior Castle</text>
+							<text style="font-size:9px" x="61" y="70">or,</text>
+							<text style="font-size:9px" x="61" y="80">The Mansions</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Interior Castle or, The Mansions</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">St. Teresa of Avila</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/Christianity/The_Interior_Castle" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:4px" x="61" y="125">1921</text>
+							<text style="font-size:9px" x="61" y="60">Ordinary</text>
+							<text style="font-size:9px" x="61" y="70">of the Mass</text>
+							<text style="font-size:9px" x="61" y="80">(Latin and English)</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ordinary of the Mass (Latin and English)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+## Modern
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">William Ellery Channing</text>
+							<text style="font-size:4px" x="61" y="125">1819</text>
+							<text style="font-size:9px" x="61" y="60">Unitarian </text>
+							<text style="font-size:9px" x="61" y="70">Christianity</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Unitarian Christianity</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">William Ellery Channing</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:4px" x="61" y="125">1843</text>
+							<text style="font-size:9px" x="61" y="60">New England</text>
+							<text style="font-size:9px" x="61" y="70">Primer</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">New England Primer</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">William Miller</text>
+							<text style="font-size:4px" x="61" y="125">1842</text>
+							<text style="font-size:9px" x="61" y="50">Evidence from</text>
+							<text style="font-size:9px" x="61" y="60">Scripture and</text>
+							<text style="font-size:9px" x="61" y="70">History of the</text>
+							<text style="font-size:9px" x="61" y="80">Second Coming of</text>
+							<text style="font-size:9px" x="61" y="90">Christ</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evidence from Scripture and History of the Second Coming of Christ</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">William Miller</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Anne Catherine Emmerich</text>
+							<text style="font-size:4px" x="61" y="125">1843</text>
+							<text style="font-size:9px" x="61" y="60">The Dolorous</text>
+							<text style="font-size:9px" x="61" y="70">Passion of Our</text>
+							<text style="font-size:9px" x="61" y="80">Lord Jesus Christ</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Dolorous Passion of Our Lord Jesus Christ</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Anne Catherine Emmerich</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ellen G. White</text>
-							<text style="font-size:4px" x="61" y="125">Battle Creek, Mich.:</text>
-							<text style="font-size:4px" x="61" y="130">7th-Day Adventist Pub. Assoc., 1864</text>
-							<text style="font-size:9px" x="61" y="60">Spiritual Gifts</text>
-							<text style="font-size:9px" x="61" y="70">Vol. 4a</text>
+							<text style="font-size:4px" x="61" y="125">1858</text>
+							<text style="font-size:9px" x="61" y="60">The Great</text>
+							<text style="font-size:9px" x="61" y="70">Controversy</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Spiritual Gifts, Vol. 4a</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Great Controversy</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ellen G. White</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -434,45 +1551,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Albert C. Knudson</text>
-							<text style="font-size:4px" x="61" y="125">New York: Abingdon-Cokesbury Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Doctrine of God</text>
+							<text style="font-size:5px" x="61" y="22">John Nelson Dar</text>
+							<text style="font-size:4px" x="61" y="125">1876</text>
+							<text style="font-size:9px" x="61" y="60">Notes on</text>
+							<text style="font-size:9px" x="61" y="70">the Book of</text>
+							<text style="font-size:9px" x="61" y="80">the Revelation</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Doctrine of God</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Albert C. Knudson</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">John Laird, LL.D., F.B.A.</text>
-							<text style="font-size:4px" x="61" y="125">London: George Allen and Unwin Ltd, 1940</text>
-							<text style="font-size:9px" x="61" y="60">Theism</text>
-							<text style="font-size:9px" x="61" y="70">and Cosmology</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Theism and Cosmology</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">John Laird, LL.D., F.B.A.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Notes on the Book of the Revelation (2nd ed.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Nelson Dar</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -483,25 +1577,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">John Baillie</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
-							<text style="font-size:9px" x="61" y="50">The Interpretation</text>
-							<text style="font-size:9px" x="61" y="60">of Religion:</text>
-							<text style="font-size:9px" x="61" y="70">An Introductory</text>
-							<text style="font-size:9px" x="61" y="80">Study of</text>
-							<text style="font-size:9px" x="61" y="90">Theological</text>
-							<text style="font-size:9px" x="61" y="100">Principles</text>
+							<text style="font-size:5px" x="61" y="22">John Nelson Dar</text>
+							<text style="font-size:4px" x="61" y="125">no date (pre-1882)</text>
+							<text style="font-size:9px" x="61" y="60">The Man of Sorrows</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Interpretation of Religion: An Introductory Study of Theological Principles</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">John Baillie</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Man of Sorrows</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Nelson Dar</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -512,21 +1601,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">H. N. Wieman & W. Marshall Horton</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: Willett, Clark & Company, 1938</text>
-							<text style="font-size:9px" x="61" y="60">The Growth</text>
-							<text style="font-size:9px" x="61" y="70">of Religion</text>
+							<text style="font-size:5px" x="61" y="22">J. Neale</text>
+							<text style="font-size:4px" x="61" y="125">1884</text>
+							<text style="font-size:9px" x="61" y="60">Hymns of the</text>
+							<text style="font-size:9px" x="61" y="70">Eastern Church</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Growth of Religion</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman and Walter Marshall Horton</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hymns of the Eastern Church (5th ed.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">J. Neale</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -537,24 +1626,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William Ernest Hocking, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New Haven: Yale University Press, 1912</text>
-							<text style="font-size:9px" x="61" y="50">The Meaning</text>
-							<text style="font-size:9px" x="61" y="60">of God in</text>
-							<text style="font-size:9px" x="61" y="70">Human Experience:</text>
-							<text style="font-size:9px" x="61" y="80">A Philosophy Study</text>
-							<text style="font-size:9px" x="61" y="90">of Religion</text>
+							<text style="font-size:9px" x="61" y="60">Shaker documents</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Meaning of God in Human Experience: A Philosophy Study of Religion</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">William Ernest Hocking, Ph.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shaker documents</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -565,24 +1647,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Reinhold Niebuhr</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1941</text>
-							<text style="font-size:9px" x="61" y="50">The Nature and</text>
-							<text style="font-size:9px" x="61" y="60">Destiny of Man:</text>
-							<text style="font-size:9px" x="61" y="70">A Christian</text>
-							<text style="font-size:9px" x="61" y="80">Interpretation</text>
-							<text style="font-size:9px" x="61" y="90">Volume I</text>
+							<text style="font-size:5px" x="61" y="22">Nicolas Notovitch et al. (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1890</text>
+							<text style="font-size:9px" x="61" y="60">The Unknown Life</text>
+							<text style="font-size:9px" x="61" y="70">of Jesus Christ</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Nature and Destiny of Man: A Christian Interpretation. Volume I: Human Nature</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Reinhold Niebuhr</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Unknown Life of Jesus Christ</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Nicolas Notovitch; J. H. Connelly and L. Landsberg (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -593,21 +1672,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Rev. Josiah Strong, D.D., Garden City</text>
-							<text style="font-size:4px" x="61" y="125">New York: Doubleday, Page & Company, 1915</text>
-							<text style="font-size:9px" x="61" y="60">The New</text>
-							<text style="font-size:9px" x="61" y="70">World-Religion</text>
+							<text style="font-size:4px" x="61" y="125">1891</text>
+							<text style="font-size:9px" x="61" y="60">The Baltimore</text>
+							<text style="font-size:9px" x="61" y="70">(Catholic)</text>
+							<text style="font-size:9px" x="61" y="80">Catechism</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The New World-Religion</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. Josiah Strong, D.D., Garden City</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Baltimore (Catholic) Catechism</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -618,23 +1697,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Henry Fitch</text>
-							<text style="font-size:4px" x="61" y="125">1926, 1927</text>
-							<text style="font-size:9px" x="61" y="60">The Perfect</text>
-							<text style="font-size:9px" x="61" y="70">Calendar for</text>
-							<text style="font-size:9px" x="61" y="80">Every Year of the</text>
-							<text style="font-size:9px" x="61" y="90">Christian Era</text>
+							<text style="font-size:5px" x="61" y="22">Alban Butler, John Gilmary Shea</text>
+							<text style="font-size:4px" x="61" y="125">1894</text>
+							<text style="font-size:9px" x="61" y="60">Lives of the Saints</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Perfect Calendar for Every Year of the Christian Era</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Fitch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lives of the Saints</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Alban Butler, John Gilmary Shea (Benziger Bros. ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -645,23 +1721,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">James Bissett Pratt</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Pilgrimage</text>
-							<text style="font-size:9px" x="61" y="70">of Buddhism,</text>
-							<text style="font-size:9px" x="61" y="80">and A Buddhist</text>
-							<text style="font-size:9px" x="61" y="90">Pilgrimage</text>
+							<text style="font-size:5px" x="61" y="22">Charles H. Hoole</text>
+							<text style="font-size:4px" x="61" y="125">1894</text>
+							<text style="font-size:9px" x="61" y="60">The Didache</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Pilgrimage of Buddhism, and A Buddhist Pilgrimage</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">James Bissett Pratt</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Didache</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles H. Hoole</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -672,23 +1745,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest Fremont Tittle</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Religion</text>
-							<text style="font-size:9px" x="61" y="70">of the Spirit:</text>
-							<text style="font-size:9px" x="61" y="80">Studies in</text>
-							<text style="font-size:9px" x="61" y="90">Faith and Life</text>
+							<text style="font-size:5px" x="61" y="22">Edward Planta Nesbit</text>
+							<text style="font-size:4px" x="61" y="125">1895</text>
+							<text style="font-size:9px" x="61" y="60">Jesus An Essene</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of the Spirit: Studies in Faith and Life</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Fremont Tittle</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus An Essene</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Edward Planta Nesbit</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -699,21 +1769,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Lionel Giles</text>
-							<text style="font-size:4px" x="61" y="125">London: John Murray, 1905</text>
-							<text style="font-size:9px" x="61" y="60">The Sayings</text>
-							<text style="font-size:9px" x="61" y="70">of Lao Tzß</text>
+							<text style="font-size:5px" x="61" y="22">W.O.E. Oesterley</text>
+							<text style="font-size:4px" x="61" y="125">1908</text>
+							<text style="font-size:9px" x="61" y="60">The Doctrine of </text>
+							<text style="font-size:9px" x="61" y="70">the Last Things</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Lao Tzß</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Doctrine of the Last Things</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">W.O.E. Oesterley</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -724,23 +1794,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Robert Ernest Hume, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1924</text>
-							<text style="font-size:9px" x="61" y="60">The World’s</text>
-							<text style="font-size:9px" x="61" y="70">Living Religions:</text>
-							<text style="font-size:9px" x="61" y="80">An Historical</text>
-							<text style="font-size:9px" x="61" y="90">Sketch</text>
+							<text style="font-size:5px" x="61" y="22">Henry Churchill King</text>
+							<text style="font-size:4px" x="61" y="125">1908</text>
+							<text style="font-size:9px" x="61" y="60">The Seeming</text>
+							<text style="font-size:9px" x="61" y="70">Unreality of</text>
+							<text style="font-size:9px" x="61" y="80">the Spiritual Life</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The World’s Living Religions: An Historical Sketch</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Ernest Hume, Ph.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Seeming Unreality of the Spiritual Life</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Churchill King</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -751,24 +1820,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Lewis Browne</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1926</text>
-							<text style="font-size:9px" x="61" y="50">This Believing</text>
-							<text style="font-size:9px" x="61" y="60">World: A Simple</text>
-							<text style="font-size:9px" x="61" y="70">Account of the</text>
-							<text style="font-size:9px" x="61" y="80">Great Religions</text>
-							<text style="font-size:9px" x="61" y="90">of Mankind</text>
+							<text style="font-size:5px" x="61" y="22">Edouard Schuré; F. Rothwell (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1908</text>
+							<text style="font-size:9px" x="61" y="60">Jesus, the Last</text>
+							<text style="font-size:9px" x="61" y="70">Great Initiate</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">This Believing World: A Simple Account of the Great Religions of Mankind</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Lewis Browne</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus, the Last Great Initiate</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Edouard Schuré; F. Rothwell (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -779,57 +1845,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Robert Ernest Hume, M.A., Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1932</text>
-							<text style="font-size:9px" x="61" y="50">Treasure-House</text>
-							<text style="font-size:9px" x="61" y="60">of the Living</text>
-							<text style="font-size:9px" x="61" y="70">Religions:</text>
-							<text style="font-size:9px" x="61" y="80">Selections from</text>
-							<text style="font-size:9px" x="61" y="90">Their Sacred</text>
-							<text style="font-size:9px" x="61" y="100">Scriptures</text>
+							<text style="font-size:5px" x="61" y="22">J. E. Hanauer</text>
+							<text style="font-size:4px" x="61" y="125">1909</text>
+							<text style="font-size:9px" x="61" y="60">Folk-lore of</text>
+							<text style="font-size:9px" x="61" y="70">the Holy Land</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Treasure-House of the Living Religions: Selections from Their Sacred Scriptures</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Ernest Hume, M.A., Ph.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-## Jesus Studies
-
-<div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">A. S. Peake, James Hastings</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1908</text>
-							<text style="font-size:9px" x="61" y="60">A Dictionary</text>
-							<text style="font-size:9px" x="61" y="70">of Christ and</text>
-							<text style="font-size:9px" x="61" y="80">the Gospels</text>
-							<text style="font-size:9px" x="61" y="90">Two Volumes</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Dictionary of Christ and the Gospels, Two Volumes</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur S. Peake, James Hastings, D.D. (ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Folk-lore of the Holy Land</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">J. E. Hanauer</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -840,23 +1870,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">A. Stevens & E. DeWitt Burton</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1904, 1932</text>
-							<text style="font-size:9px" x="61" y="60">A Harmony</text>
-							<text style="font-size:9px" x="61" y="70">of the Gospels</text>
-							<text style="font-size:9px" x="61" y="80">for Historical</text>
-							<text style="font-size:9px" x="61" y="90">Study</text>
+							<text style="font-size:5px" x="61" y="22">Mary Baker Eddy</text>
+							<text style="font-size:4px" x="61" y="125">1910</text>
+							<text style="font-size:9px" x="61" y="60">Science and</text>
+							<text style="font-size:9px" x="61" y="70">Health with Key</text>
+							<text style="font-size:9px" x="61" y="80">to the Scriptures</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Harmony of the Gospels for Historical Study</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Arnold Stevens & Ernest DeWitt Burton</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Science and Health with Key to the Scriptures</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Mary Baker Eddy</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -867,23 +1896,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Daniel A. Poling</text>
-							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1931</text>
-							<text style="font-size:9px" x="61" y="60">Between</text>
-							<text style="font-size:9px" x="61" y="70">Two Worlds:</text>
-							<text style="font-size:9px" x="61" y="80">The Romance</text>
-							<text style="font-size:9px" x="61" y="90">of Jesus</text>
+							<text style="font-size:5px" x="61" y="22">Woodrow Wilson</text>
+							<text style="font-size:4px" x="61" y="125">1915</text>
+							<text style="font-size:9px" x="61" y="60">John Wesley's</text>
+							<text style="font-size:9px" x="61" y="70">Place in History</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Between Two Worlds: The Romance of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Daniel A. Poling</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">John Wesley's Place in History</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Woodrow Wilson</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -894,22 +1921,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">E. Dewitt Burton and S. Mathews</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: University of Chicago Press, 1900</text>
-							<text style="font-size:9px" x="61" y="60">Constructive</text>
-							<text style="font-size:9px" x="61" y="70">Studies in the</text>
-							<text style="font-size:9px" x="61" y="80">Life of Christ</text>
+							<text style="font-size:5px" x="61" y="22">Clarence Larkin</text>
+							<text style="font-size:4px" x="61" y="125">1919</text>
+							<text style="font-size:9px" x="61" y="60">The Book</text>
+							<text style="font-size:9px" x="61" y="70">of Revelation</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Constructive Studies in the Life of Christ</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Dewitt Burton and Shailer Mathews</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Book of Revelation</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Clarence Larkin</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -920,23 +1946,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George Adam Smith</text>
-							<text style="font-size:4px" x="61" y="125">London: Hodder and Stoughton, 1915</text>
-							<text style="font-size:9px" x="61" y="60">Atlas of the</text>
-							<text style="font-size:9px" x="61" y="70">Historical</text>
-							<text style="font-size:9px" x="61" y="80">Geography of</text>
-							<text style="font-size:9px" x="61" y="90">the Holy Land</text>
+							<text style="font-size:5px" x="61" y="22">Levi H. Dowling</text>
+							<text style="font-size:4px" x="61" y="125">1920</text>
+							<text style="font-size:9px" x="61" y="60">The Aquarian</text>
+							<text style="font-size:9px" x="61" y="70">Gospel of Jesus</text>
+							<text style="font-size:9px" x="61" y="80">the Christ</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Atlas of the Historical Geography of the Holy Land</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">George Adam Smith</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Aquarian Gospel of Jesus the Christ</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Levi H. Dowling</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -947,21 +1972,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Raymond Calkins</text>
-							<text style="font-size:4px" x="61" y="125">New York: Abingdon-Cokesbury Press, 1942</text>
-							<text style="font-size:9px" x="61" y="60">How Jesus Dealt</text>
-							<text style="font-size:9px" x="61" y="70">with Men</text>
+							<text style="font-size:5px" x="61" y="22">Julian K. Smyth and William F. Wunsch</text>
+							<text style="font-size:4px" x="61" y="125">1920</text>
+							<text style="font-size:9px" x="61" y="60">The Gist</text>
+							<text style="font-size:9px" x="61" y="70">of Swedenborg</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">How Jesus Dealt with Men</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Raymond Calkins</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gist of Swedenborg</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Julian K. Smyth and William F. Wunsch</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -972,21 +1997,22 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Leslie D. Weatherhead</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1931</text>
-							<text style="font-size:9px" x="61" y="60">Jesus and</text>
-							<text style="font-size:9px" x="61" y="70">Ourselves</text>
+							<text style="font-size:5px" x="61" y="22">John Neville Figgis</text>
+							<text style="font-size:4px" x="61" y="125">1921</text>
+							<text style="font-size:9px" x="61" y="60">The Political Aspects</text>
+							<text style="font-size:9px" x="61" y="70">of S. Augustine's</text>
+							<text style="font-size:9px" x="61" y="80">‘City of God’</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus and Ourselves</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Leslie D. Weatherhead</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Political Aspects of S. Augustine's ‘City of God’</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Neville Figgis</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -997,24 +2023,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Leslie D. Weatherhead, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">London: The Epworth Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">Jesus and</text>
-							<text style="font-size:9px" x="61" y="70">Ourselves:</text>
-							<text style="font-size:9px" x="61" y="80">A sequel to ‘The</text>
-							<text style="font-size:9px" x="61" y="90">Transforming</text>
-							<text style="font-size:9px" x="61" y="100">Friendship’</text>
+							<text style="font-size:5px" x="61" y="22">William Lyon Phelps</text>
+							<text style="font-size:4px" x="61" y="125">1922</text>
+							<text style="font-size:9px" x="61" y="60">Human Nature</text>
+							<text style="font-size:9px" x="61" y="70">in the Bible</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus and Ourselves: A sequel to ‘The Transforming Friendship’</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Leslie D. Weatherhead, M.A.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Human Nature in the Bible</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">William Lyon Phelps</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1025,21 +2048,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">J. Middleton Murry</text>
-							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1926</text>
-							<text style="font-size:9px" x="61" y="60">Jesus—</text>
-							<text style="font-size:9px" x="61" y="70">Man of Genius</text>
+							<text style="font-size:5px" x="61" y="22">John Farrow</text>
+							<text style="font-size:4px" x="61" y="125">1942</text>
+							<text style="font-size:9px" x="61" y="60">Pageant</text>
+							<text style="font-size:9px" x="61" y="70">of the Popes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus—Man of Genius</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">J. Middleton Murry</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pageant of the Popes</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">John Farrow</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1050,22 +2073,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George A. Barton, Ph.D., LL.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York, The Macmillan Company, 1922</text>
-							<text style="font-size:9px" x="61" y="60">Jesus</text>
-							<text style="font-size:9px" x="61" y="70">of Nazareth:</text>
-							<text style="font-size:9px" x="61" y="80">A Biography</text>
+							<text style="font-size:5px" x="61" y="22">David K. Breed</text>
+							<text style="font-size:4px" x="61" y="125">1948</text>
+							<text style="font-size:9px" x="61" y="60">The Trial</text>
+							<text style="font-size:9px" x="61" y="60">of Christ</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus of Nazareth: A Biography</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">George A. Barton, Ph.D., LL.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Trial of Christ</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">David K. Breed</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1076,50 +2098,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Hartshorne</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: Willett, Clark & Company, 1941</text>
-							<text style="font-size:9px" x="61" y="60">Man’s Vision</text>
-							<text style="font-size:9px" x="61" y="70">of God and</text>
-							<text style="font-size:9px" x="61" y="80">the Logic of</text>
-							<text style="font-size:9px" x="61" y="90">Theism</text>
+							<text style="font-size:5px" x="61" y="22"></text>
+							<text style="font-size:4px" x="61" y="125">1934</text>
+							<text style="font-size:9px" x="61" y="60">The Theological</text>
+							<text style="font-size:9px" x="61" y="70">Declaration</text>
+							<text style="font-size:9px" x="61" y="80">of Barmen</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Man’s Vision of God and the Logic of Theism</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Hartshorne</div>
-			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Harris- Franklin Rall, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Abingdon Press, 1914</text>
-							<text style="font-size:9px" x="61" y="60">New Testament</text>
-							<text style="font-size:9px" x="61" y="70">History: A Study</text>
-							<text style="font-size:9px" x="61" y="80">of the Beginnings</text>
-							<text style="font-size:9px" x="61" y="90">of Christianity</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">New Testament History: A Study of the Beginnings of Christianity</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Harris- Franklin Rall, Ph.D.</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Theological Declaration of Barmen</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1130,644 +2123,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">David Smith, M.A., D.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: George H. Doran Company, 1925</text>
-							<text style="font-size:9px" x="61" y="60">Our Lord’s</text>
-							<text style="font-size:9px" x="61" y="70">Earthly Life</text>
+							<text style="font-size:4px" x="61" y="125">1979</text>
+							<text style="font-size:9px" x="61" y="60">The (Episcopal)</text>
+							<text style="font-size:9px" x="61" y="70">Book of</text>
+							<text style="font-size:9px" x="61" y="80">Common Prayer</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Our Lord’s Earthly Life</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">David Smith, M.A., D.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Walter E. Bundy</text>
-							<text style="font-size:4px" x="61" y="125">Indianapolis: The Bobbs-Merrill Company, 1929</text>
-							<text style="font-size:9px" x="61" y="60">Our Recovery</text>
-							<text style="font-size:9px" x="61" y="70">of Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Our Recovery of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter E. Bundy</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Bernard C. Clausen, D.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Fleming H. Revell Company, 1924</text>
-							<text style="font-size:9px" x="61" y="60">Pen-Portraits</text>
-							<text style="font-size:9px" x="61" y="70">of the Twelve</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pen-Portraits of the Twelve</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Bernard C. Clausen, D.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Robert E. Speer,</text>
-							<text style="font-size:4px" x="61" y="125">New York: Fleming H. Revell Company, 1896</text>
-							<text style="font-size:9px" x="61" y="60">Studies of</text>
-							<text style="font-size:9px" x="61" y="70">the Man</text>
-							<text style="font-size:9px" x="61" y="80">Christ Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Studies of the Man Christ Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert E. Speer,</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Edward Jefferson</text>
-							<text style="font-size:4px" x="61" y="125">New York: Thomas Y. Crowell & Co., 1908</text>
-							<text style="font-size:9px" x="61" y="60">The Character</text>
-							<text style="font-size:9px" x="61" y="70">of Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Character of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Edward Jefferson</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">E. Stanley Jones</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Christ</text>
-							<text style="font-size:9px" x="61" y="70">of Every Road:</text>
-							<text style="font-size:9px" x="61" y="80">A Study in</text>
-							<text style="font-size:9px" x="61" y="90">Pentecost</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ of Every Road: A Study in Pentecost</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Stanley Jones</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">E. Stanley Jones</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1925</text>
-							<text style="font-size:9px" x="61" y="60">The Christ</text>
-							<text style="font-size:9px" x="61" y="70">of the</text>
-							<text style="font-size:9px" x="61" y="80">Indian Road</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ of the Indian Road</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Stanley Jones</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">P. Whitwell Wilson</text>
-							<text style="font-size:4px" x="61" y="125">New York: Fleming H. Revell Company, 1917</text>
-							<text style="font-size:9px" x="61" y="60">The Christ</text>
-							<text style="font-size:9px" x="61" y="70">We Forget:</text>
-							<text style="font-size:9px" x="61" y="80">A Life of Our Lord</text>
-							<text style="font-size:9px" x="61" y="90">for Men of To-day</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ We Forget: A Life of Our Lord for Men of To-day</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">P. Whitwell Wilson</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">David Smith, M.A., D.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers, 1910</text>
-							<text style="font-size:9px" x="61" y="50">The Days of</text>
-							<text style="font-size:9px" x="61" y="60">His Flesh:</text>
-							<text style="font-size:9px" x="61" y="70">The Earthly Life</text>
-							<text style="font-size:9px" x="61" y="80">of Our Lord and</text>
-							<text style="font-size:9px" x="61" y="90">Saviour Jesus Christ</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Days of His Flesh: The Earthly Life of Our Lord and Saviour Jesus Christ, Eighth Edition, Revised</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">David Smith, M.A., D.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">S. Angus, M.A., Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1915</text>
-							<text style="font-size:9px" x="61" y="60">The Environment</text>
-							<text style="font-size:9px" x="61" y="70">of Early</text>
-							<text style="font-size:9px" x="61" y="80">Christianity</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Environment of Early Christianity</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Angus, M.A., Ph.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest F. Scott, D.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1924</text>
-							<text style="font-size:9px" x="61" y="60">The Ethical</text>
-							<text style="font-size:9px" x="61" y="70">Teaching of Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Ethical Teaching of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest F. Scott, D.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest F. Scott</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1931</text>
-							<text style="font-size:9px" x="61" y="60">The Kingdom of God</text>
-							<text style="font-size:9px" x="61" y="70">in the</text>
-							<text style="font-size:9px" x="61" y="80">New Testament</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Kingdom of God in the New Testament</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest F. Scott</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Alfred Edersheim</text>
-							<text style="font-size:4px" x="61" y="125">N.Y.: Longman, Green, & Co., 1899</text>
-							<text style="font-size:9px" x="61" y="60">The Life and Times</text>
-							<text style="font-size:9px" x="61" y="70">of Jesus</text>
-							<text style="font-size:9px" x="61" y="80">the Messiah</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life and Times of Jesus the Messiah, Two volumes (Eighth Edition, Revised)</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred Edersheim</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Robert Norwood</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1929</text>
-							<text style="font-size:9px" x="61" y="60">The Man Who</text>
-							<text style="font-size:9px" x="61" y="70">Dared to Be God:</text>
-							<text style="font-size:9px" x="61" y="80">A Story of Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Man Who Dared to Be God: A Story of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Norwood</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Walter Russell Bowie</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Master:</text>
-							<text style="font-size:9px" x="61" y="70">A Life of </text>
-							<text style="font-size:9px" x="61" y="80">Jesus Christ</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Master: A Life of Jesus Christ</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter Russell Bowie</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">John Baillie, M.A., D.Litt.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1929</text>
-							<text style="font-size:9px" x="61" y="60">The Place of</text>
-							<text style="font-size:9px" x="61" y="70">Jesus Christ</text>
-							<text style="font-size:9px" x="61" y="80">in Modern</text>
-							<text style="font-size:9px" x="61" y="90">Christianity</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Place of Jesus Christ in Modern Christianity</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">John Baillie, M.A., D.Litt.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Fiske & Burton Scott Easton</text>
-							<text style="font-size:4px" x="61" y="125">N.Y. & London, Harper & Brothers Publishers, 1929</text>
-							<text style="font-size:9px" x="61" y="60">The Real Jesus</text>
-							<text style="font-size:9px" x="61" y="70">What He Taught</text>
-							<text style="font-size:9px" x="61" y="80">What He Did:</text>
-							<text style="font-size:9px" x="61" y="90">Who He Was</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Real Jesus: What He Taught: What He Did: Who He Was</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Fiske and Burton Scott Easton</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Walter E. Bundy</text>
-							<text style="font-size:4px" x="61" y="125">Indianapolis: The Bobbs-Merrill Company, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Religion</text>
-							<text style="font-size:9px" x="61" y="70">of Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter E. Bundy</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Benjamin Willard Robinson, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Sayings</text>
-							<text style="font-size:9px" x="61" y="70">of Jesus:</text>
-							<text style="font-size:9px" x="61" y="80">Their Background</text>
-							<text style="font-size:9px" x="61" y="90">and Interpretation</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Jesus: Their Background and Interpretation</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Benjamin Willard Robinson, Ph.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Reynolds Brown</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Century Co., 1926</text>
-							<text style="font-size:9px" x="61" y="60">These Twelve:</text>
-							<text style="font-size:9px" x="61" y="70">A Study in</text>
-							<text style="font-size:9px" x="61" y="80">Temperament</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">These Twelve: A Study in Temperament</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Reynolds Brown</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">G. Campbell Morgan, D.D., Old Tappan</text>
-							<text style="font-size:4px" x="61" y="125">N.J.: Fleming H. Revell Company, 1913</text>
-							<text style="font-size:9px" x="61" y="60">The Teaching</text>
-							<text style="font-size:9px" x="61" y="70">of Christ</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Teaching of Christ</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">G. Campbell Morgan, D.D., Old Tappan</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Harris Franklin Rall</text>
-							<text style="font-size:4px" x="61" y="125">New York: Abingdon Press, 1918, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Teachings</text>
-							<text style="font-size:9px" x="61" y="70">of Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Teachings of Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Harris Franklin Rall</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Edward Augustus George</text>
-							<text style="font-size:4px" x="61" y="125">New York: Fleming H. Revell Company, 1916</text>
-							<text style="font-size:9px" x="61" y="60">The Twelve:</text>
-							<text style="font-size:9px" x="61" y="70">Apostolic Types</text>
-							<text style="font-size:9px" x="61" y="80">of Christian Men</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Twelve: Apostolic Types of Christian Men</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Edward Augustus George</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">T. R. Glover</text>
-							<text style="font-size:4px" x="61" y="125">Cambridge at the University Press, 1931</text>
-							<text style="font-size:9px" x="61" y="60">The Worldt</text>
-							<text style="font-size:9px" x="61" y="70">of the</text>
-							<text style="font-size:9px" x="61" y="80">New Testament</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The World of the New Testament</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">T. R. Glover</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">John A. Scott</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1936</text>
-							<text style="font-size:9px" x="61" y="60">We Would</text>
-							<text style="font-size:9px" x="61" y="70">Know Jesus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">We Would Know Jesus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">John A. Scott</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The (Episcopal) Book of Common Prayer</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1776,219 +2145,6 @@ dateCreated: 2023-12-12T14:02:03.086Z
 		</div>
 	</div>
 </div>
-
-## Biblical Studies
-
-<div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William Smith</text>
-							<text style="font-size:4px" x="61" y="125">Boston: Houghlin, Mifflin and Co., 1870</text>
-							<text style="font-size:9px" x="61" y="60">A Dictionary</text>
-							<text style="font-size:9px" x="61" y="70">of The Bible</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Dictionary of The Bible, several volumes</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">William Smith</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">James Hastings</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1909</text>
-							<text style="font-size:9px" x="61" y="60">Dictionary</text>
-							<text style="font-size:9px" x="61" y="70">of The Bible</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dictionary of The Bible</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">James Hastings</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Orville J. Nave, A.M., D.D., LL.D.</text>
-							<text style="font-size:4px" x="61" y="125">N.Y.: Topical Bible Publishing Company, 1897</text>
-							<text style="font-size:9px" x="61" y="60">Nave’s Topical</text>
-							<text style="font-size:9px" x="61" y="70">Bible: A Digest of</text>
-							<text style="font-size:9px" x="61" y="80">the Holy Scriptures</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Nave’s Topical Bible: A Digest of the Holy Scriptures</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Orville J. Nave, A.M., D.D., LL.D.</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">H. E. Ryle, M.A., & M. Rhodes James, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">Cambridge: At the University Press, 1891</text>
-							<text style="font-size:9px" x="61" y="60">Psalms of</text>
-							<text style="font-size:9px" x="61" y="70">the Pharisees,</text>
-							<text style="font-size:9px" x="61" y="80">Commonly Called</text>
-							<text style="font-size:9px" x="61" y="90">the Psalms</text>
-							<text style="font-size:9px" x="61" y="100">of Solomon</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of the Pharisees, Commonly Called the Psalms of Solomon</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Herbert Edward Ryle, M.A., and Montague Rhodes James, M.A., editors</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Henry Kendall Booth</text>
-							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Background of</text>
-							<text style="font-size:9px" x="61" y="70">the Bible:</text>
-							<text style="font-size:9px" x="61" y="80">A Handbook of</text>
-							<text style="font-size:9px" x="61" y="90">Biblical Introduction</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Background of the Bible: A Handbook of Biblical Introduction</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Kendall Booth</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Louis Wallis</text>
-							<text style="font-size:4px" x="61" y="125">New York: Columbia University Press, 1942</text>
-							<text style="font-size:9px" x="61" y="60">The Bible Is Human:</text>
-							<text style="font-size:9px" x="61" y="70">A Study in</text>
-							<text style="font-size:9px" x="61" y="80">Secular History</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Bible Is Human: A Study in Secular History</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Louis Wallis</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Julius A. Bewer</text>
-							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia University Press, 1922, 1935</text>
-							<text style="font-size:9px" x="61" y="60">The Literature of</text>
-							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Literature of the Old Testament, Revised Edition</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Julius A. Bewer</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest Findlay Scott</text>
-							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia Univeristy Press, 1932, 1936</text>
-							<text style="font-size:9px" x="61" y="60">The Literature of</text>
-							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Literature of the Old Testament</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Findlay Scott</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-
 
 <figure class="table chapter-navigator">
   <table>
