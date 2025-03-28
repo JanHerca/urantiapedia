@@ -339,7 +339,9 @@ class TopicIndex {
 						topic.name));
 				}
 				const nameEN = (tEN ? tEN.name : null);
-				const urlName = (nameEN ? nameEN.replace(/\s/g, '_') : null);
+				const urlName = nameEN 
+					? nameEN.replace(/\s/g, '_').replace(/[’']/g, '') 
+					: null;
 				const names = this.getNames(topic);
 				const links = names.map(name => {
 					return `<a href="${tpath}${urlName}">${name}</a>`;
@@ -1014,7 +1016,6 @@ class TopicIndex {
 
 				const topicErr = [];
 				const promises = this.topics
-					// .filter(t => t.name === 'Miguel de Nebadon')
 					.map(topic => {
 						const topicEN = (this.language === 'en' ? topic :
 							tiEN.topics.find(t => {
@@ -1026,7 +1027,8 @@ class TopicIndex {
 								topic.name));
 							return;
 						}
-						const fileName = topicEN.name.replace(/ /g, '_');
+						const fileName = topicEN.name
+							.replace(/\s/g, '_').replace(/[’']/g, '');
 						const filePath = path.join(dirPath, `${fileName}.html`);
 						const isLetter = letter != 'ALL' && 
 							!topicEN.name.toLowerCase().startsWith(letter);
@@ -1203,7 +1205,8 @@ class TopicIndex {
 						.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
 					tiNames.forEach(nn => {
 						if (nn.name === topic.name) return;
-						const ln = nn.nameEN.replace(/\s/g, '_');
+						const ln = nn.nameEN
+							.replace(/\s/g, '_').replace(/[’']/g, '');
 						const path = `${tpath}/${ln}`;
 						const ipath = html.indexOf(path);
 						//If topic used very close skip
@@ -1293,10 +1296,8 @@ class TopicIndex {
 				redirectsThis.forEach(redir => {
 					const redirName = redir.name;
 					const redirNameEN = redir.nameEN;
-					const redirLink = redirNameEN.replace(/ /g, '_');
-					// const redirText = 
-					// 	redirName.substring(0, 1).toUpperCase() + 
-					// 	redirName.substring(1);
+					const redirLink = redirNameEN
+						.replace(/\s/g, '_').replace(/[’']/g, '');
 					html += `<li><a href="${tpath}/${redirLink}">${redirName}</a></li>\r\n`;
 				});
 				html += '</ul>\r\n</div>\r\n';
@@ -1308,12 +1309,14 @@ class TopicIndex {
 				html += '<div>\r\n<ul>\r\n';
 				seeAlsoObjs.forEach(alsoObj => {
 					const alsoName = alsoObj.seeAlso;
-					const alsoNameEN = alsoObj.seeAlsoEN;
-					const alsoLink = alsoNameEN.replace(/ /g, '_').replace(/:/, '#');
-					// const alsoText = 
-					// 	alsoName.substring(0, 1).toUpperCase() + 
-					// 	alsoName.substring(1);
-					html += `<li><a href="${tpath}/${alsoLink}">${alsoName}</a></li>\r\n`;
+					const alsoNameEN = alsoObj.seeAlsoEN.replace(/[’']/g, '');
+					const [ alsoNameEN1, alsoNameEN2 ] = alsoNameEN.split(':');
+					const alsoLink1 = alsoNameEN1.replace(/\s/g, '_');
+					const alsoLink2 = alsoNameEN2
+						? '#' + 
+							alsoNameEN2.replace(/\s/g, '-').toLowerCase()
+						: '';
+					html += `<li><a href="${tpath}/${alsoLink1}${alsoLink2}">${alsoName}</a></li>\r\n`;
 				});
 				html += '</ul>\r\n</div>\r\n';
 			}
@@ -1495,25 +1498,31 @@ class TopicIndex {
 						curLetter = newLetter;
 					}
 				}
-				const pagename = topicEN.name.replace(/ /g, '_');
+				const pagename = topicEN.name
+					.replace(/\s/g, '_').replace(/[’']/g, '');
 				const lan = (this.language === 'en' ? '' : '/' + this.language);
 				const href = `${lan}/topic/${pagename}`;
 				html += `\t<div>`;
-				html += `\t\t<a href="${href}">${topic.name}</a>`;
+				html += `<a href="${href}">${topic.name}</a>`;
 				//Resolve redirects
 				if (topic.isRedirect && topic.seeAlso.length === 1) {
 					const seeAlso = topic.seeAlso[0];
 					const seeAlsoTopic = 
 						this.topics.find(t => t.name === seeAlso);
 					if (seeAlsoTopic) {
-						const seeAlsoName = this.language === 'en' 
-							? seeAlsoTopic.name
-							: seeAlsoTopic.nameEN;
-						html += `\t\t<br>\r\n`;
-						html += `\t\t<small>&nbsp;&nbsp;&nbsp;→ ${redirectText}: <a href="${lan}/topic/${seeAlsoName}">${seeAlso}</a></small>\r\n`;
+						const seeAlsoTopicEN = tiEN.topics.find(t => {
+							return (t.filename === seeAlsoTopic.filename &&
+								t.fileline === seeAlsoTopic.fileline);
+						});
+						if (seeAlsoTopicEN) {
+							const seeAlsoLink = seeAlsoTopicEN.name
+								.replace(/\s/g, '_').replace(/[’']/g, '');
+							html += `<br>`;
+							html += `<small>&nbsp;&nbsp;&nbsp;→ ${redirectText}: <a href="${lan}/topic/${seeAlsoLink}">${seeAlso}</a></small>`;
+						}
 					}
 				}
-				html += `\t</div>\r\n`;
+				html += `</div>\r\n`;
 				if (i === topics.length - 1) {
 					html += '</div>\r\n';
 				}
