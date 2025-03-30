@@ -1866,7 +1866,7 @@ Le mémorial de Michael, au centre des cercles des Fils de Dieu à Jérusalem, e
 Michel de Nébadon; Michel; Notre Fils Créateur; Christ Michel; Micaël de Nébadon; notre Fils Créateur; Micaël | (119) (33:1-2) | Christ; Fils Créateurs; Jésus; Maitres Micaëls | PERSON | OK
 description
 	Michel de Nébadon est le chef de toutes les personnalités de Nébadon et le créateur de Nébadon. Il est en même temps un père, un créateur et un souverain pour tous les habitants de Nébadon. (33:3.2) (37:0.1) (128:1.13)
-	[Michel de Nébadon](/image/The_Urantia_Book/Celestials/Michael_of_Nebadon_01.jpg) {image-style-align-right}
+	[Michel de Nébadon](/image/The_Urantia_Book/celestials/Michael_of_Nebadon_01.jpg) {image-style-align-right}
 	Michael est l'être même dont la paternité créatrice dans cet univers a rendu possible la réalité de nos vies (112:7.8)
 	personne ne va au Père sinon par Michel (0:8.11) (180:3.7)
 	il accorde personnellement les lettres de créance aux mortels pour poursuivre leur carrière dans le superunivers (112:7.8)

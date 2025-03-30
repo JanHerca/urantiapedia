@@ -1,5 +1,5 @@
 ---
-title: Convertendo Índice de Tópicos de TXT para Wiki.js
+title: Convertendo Enciclopédia de TXT para Wiki.js
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -20,11 +20,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Os arquivos *Topic Index* em formato TXT são criados e revisados ​​por *Editores-chefes*. Esses arquivos devem ser deixados em pastas como `input / txt / topic-index-xx` onde `xx` é o código do idioma de destino.
+Os arquivos _Enciclopédia_ em formato TXT são criados e revisados ​​por *Editores-chefes*. Esses arquivos devem ser deixados em pastas como `input / txt / topic-index-xx` onde `xx` é o código do idioma de destino.
 
 Para converter esses arquivos TXT para o formato Wiki.js, siga estas etapas:
 - Abra *Urantiapedia Tools*.
-- Em *Process* selecione: Convert Topic Index (TXT) para Wiki.js.
+- Em *Process* selecione: Convert _Enciclopédia_ (TXT) para Wiki.js.
 - As pastas são preenchidas automaticamente: para *arquivos TXT* uma como `input / txt / topic-index-xx`, para *Arquivos HTML* uma como `output / wikijs / xx / topic` (mas se `xx` = `en` é omitido). Se a pasta de saída existir, crie todo o caminho em seu projeto. Se já houver arquivos Wiki.js na pasta de saída, os existentes serão substituídos.
 - Em *Categorias de tópicos* selecione `TODOS` para processar todos os tópicos de todas as categorias ou, alternativamente, selecione apenas uma categoria para gerar apenas os tópicos que pertencem a essa categoria.
 - Clique em *Executar*.

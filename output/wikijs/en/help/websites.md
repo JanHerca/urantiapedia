@@ -20,9 +20,9 @@ dateCreated: 2022-12-18T14:02:03.086Z
   </table>
 </figure>
 
-As we detailed in the list of [Urantiapedia principles](/en/help/principles), one of the objectives of this project is to end the dispersion of the contents that help in reading _The Urantia Book_. We want to create a centralized website where any reader of the book can find everything that exists today that allows a better understanding of its revelations.
+As detailed in the list of [Urantiapedia principles](/en/help/principles), one of the goals of this project is to end the dispersion of content related to _The Urantia Book_. We want to create a centralized website where any reader of the book can find everything currently available that allows for a better understanding of the revelations.
 
-In the list below we indicate the catalog of websites whose outstanding contents will be copied and uploaded to Urantiapedia. In this process we will not limit ourselves to taking the material as it is presented on the original website, but it will be reviewed to guarantee its correctness, ensuring, for example, that the links to the referenced materials work. In the process, a standardization of style will be carried out, so that it is clearer for any reader to identify the structure in the content.
+In the list below, we indicate the catalog of websites whose featured content will be copied and uploaded to Urantiapedia. In this process, we will not limit ourselves to taking the material as presented on the original website; rather, it will be reviewed to ensure its correctness, ensuring, for example, that the links to the referenced materials work. During the process, a standardization of style will also be carried out to make it clearer for any reader to identify the structure of the content.
 
 ## Urantia Foundation
 

@@ -361,7 +361,7 @@ Ajout de tabulations avant chaque ligne.
     ligne 2 du code
     ligne 3 du code
 
-### Code de bloc "clôtures"
+### Code de bloc « clôtures »
 
 ### Onglet {.tabset}
 

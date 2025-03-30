@@ -55,7 +55,7 @@ Node.js est une condition requise pour faire fonctionner les *Urantiapedia Tools
 L'utilisation de Visual Studio Code est fortement recommandée.
 
 1. Accédez à https://code.visualstudio.com/.
-2. Téléchargez-le et installez-le. Lors de l'installation, il est conseillé de cocher l'option "Ajouter l'action 'Ouvrir avec code' au menu contextuel des répertoires" si vous êtes un utilisateur Windows.
+2. Téléchargez-le et installez-le. Lors de l'installation, il est conseillé de cocher l'option « Ajouter l'action 'Ouvrir avec code' au menu contextuel des répertoires » si vous êtes un utilisateur Windows.
 3. Ouvrez-le. La première fois qu'il s'ouvre, vous pouvez définir certaines options. Ignorez-les.
 4. Dans VS Code, cliquez sur le bouton _Extensions_ sur le panneau de boutons de gauche. Il est fortement recommandé d'installer une extension appelée « GitLens ». Elle figure généralement sur la liste des extensions les plus populaires. Localisez-le et cliquez sur le bouton d'installation.
 5. Vous aurez désormais un nouveau bouton pour GitLens dans le panneau de boutons de gauche de VS Code. Cliquez dessus et cliquez sur le bouton _Welcome (Quick setup)_. La page _Welcome_ s'ouvre. Il est recommandé de sélectionner _Source control layout_ comme vue par défaut. Cela provoque la fusion de GitLens avec le panneau _Source control_ par défaut de VS Code.

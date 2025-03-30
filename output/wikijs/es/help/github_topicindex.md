@@ -150,7 +150,7 @@ El primer nombre en el encabezado es el título del término en la página resul
 absoluta; fuerza cósmica; fuerza cósmica; potencia espacial; Potencia espacial; energía espacial; espacio-energía; fuerza madre del espacio; fuerza espacial; carga de fuerza del espacio; fuerza-carga universal del espacio; manta de fuerza; fuerza primordial; Fuerza primordial; fuerza espacial; fuerza del universo; carga espacial de fuerza universal; carga de fuerza del espacio; carga de fuerza; carga de energía; fuerza cósmica; fuerza primordial | | | | OK
 ```
 
-Este encabezado trata sobre `absoluta`, una de las manifestaciones de la energía en el universo. Pero en *El Libro de Urantia* recibe muchas variaciones en el nombre. Todos ellas se han añadido después del nombre principal separándolas con `;`. Este trabajo debe realizarse y revisarse para todo el *Índice de temas*. Si el nombre aparece en el libro en mayúsculas y minúsculas, se deben agregar ambas variaciones en la lista de alias para garantizar que se generen los enlaces correctos.
+Este encabezado trata sobre `absoluta`, una de las manifestaciones de la energía en el universo. Pero en *El Libro de Urantia* recibe muchas variaciones en el nombre. Todos ellas se han añadido después del nombre principal separándolas con `;`. Este trabajo debe realizarse y revisarse para toda la _Enciclopedia_. Si el nombre aparece en el libro en mayúsculas y minúsculas, se deben agregar ambas variaciones en la lista de alias para garantizar que se generen los enlaces correctos.
 
 El *Topic Index Editor* es una herramienta que ayuda mucho a verificar esto. Consulta la sección más abajo.
 
@@ -230,13 +230,13 @@ El único contenido que los "Editores asistentes" deben cambiar es este:
 - El texto dentro de cada línea de los términos.
 - Las URL de las páginas de la Wikipedia.
 
-Al usar Visual Studio Code para editar el Índice de temas, los "Editores Asistentes" deben centrarse en dos tipos de tareas, según el idioma:
+Al usar Visual Studio Code para editar la _Enciclopedia_, los «Editores Asistentes» deben centrarse en dos tipos de tareas, según el idioma:
 - Para inglés y español, basta con revisar el contenido de los textos.
 - Para otros idiomas, traducir los textos. El "Editor" debe crear una copia de un Índice de términos existente en cualquier otro idioma, preferiblemente inglés, y ahora traducir los textos lo más rápido posible con la ayuda de herramientas de traducción.
 
 ## El *Topic Index Editor*
 
-El *Topic Index Editor* es una herramienta que está en desarrollo pero en su estado actual ayuda en algunas tareas de revisión y edición del *Índice de Términos*. Como este software necesita instalarse y complica la configuración no entra dentro del uso de los "Editores Asistentes" sino del uso de los "Editores Jefes". Consulta [Configurar el proyecto de GitHub](/es/help/github_setting).
+El *Topic Index Editor* es una herramienta que está en desarrollo pero en su estado actual ayuda en algunas tareas de revisión y edición del *Índice de Términos*. Como este software necesita instalarse y complica la configuración no entra dentro del uso de los «Editores Asistentes» sino del uso de los "Editores Jefes". Consulta [Configurar el proyecto de GitHub](/es/help/github_setting).
 
 Para acceder:
 1. Abre las *Urantiapedia Tools* presionando F5 en VS Code con el proyecto abierto.

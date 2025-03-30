@@ -20,9 +20,9 @@ dateCreated: 2022-12-18T14:02:03.086Z
   </table>
 </figure>
 
-Tal y como detallamos en la lista de [principios de Urantiapedia](/es/help/principles), uno de los objetivos de este proyecto es terminar con la dispersión de los contenidos que ayudan en la lectura de _El Libro de Urantia_. Queremos crear un lugar web centralizado donde cualquier lector del libro puede encontrar todo lo que hoy en día existe que permita una mejor comprensión de sus revelaciones.
+Tal y como detallamos en la lista de [principios de Urantiapedia](/es/help/principles), uno de los objetivos de este proyecto es terminar con la dispersión de los contenidos relativos de _El Libro de Urantia_. Queremos crear un lugar web centralizado donde cualquier lector del libro pueda encontrar todo lo que hoy en día existe que permita una mejor comprensión de las revelaciones.
 
-En el listado a continuación indicamos el catálogo de sitios web cuyos contenidos destacados serán copiados y volcados a Urantiapedia. En este proceso no nos limitaremos a tomar el material tal cual se presente en la web original, sino que se revisará para garantizar su corrección, asegurando por ejemplo, que los enlaces a los materiales referenciados funcionan. En el proceso se realizará a su vez una uniformización de estilo, para que resulte más claro a cualquier lector identificar la estructura en el contenido.
+En el listado a continuación indicamos el catálogo de sitios web cuyos contenidos destacados serán copiados y volcados a Urantiapedia. En este proceso no nos limitaremos a tomar el material tal cual se presente en la web original, sino que se revisará para garantizar su corrección, asegurando por ejemplo, que los enlaces a los materiales referenciados funcionan. En el proceso se realizará a su vez una uniformización de estilo, para que resulte más claro a cualquier lector identificar la estructura del contenido.
 
 ## Urantia Foundation
 

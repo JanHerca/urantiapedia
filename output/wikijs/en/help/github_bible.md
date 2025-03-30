@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_topicindex">Translation an revision of Topic Index</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_book_json">Conversion to JSON</a></td>
       </tr>
@@ -194,7 +194,7 @@ Num. | Abr. | English title
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_topicindex">Translation an revision of Topic Index</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_book_json">Conversion to JSON</a></td>
       </tr>

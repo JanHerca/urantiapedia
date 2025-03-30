@@ -1,5 +1,5 @@
 ---
-title: Tradução e revisão do Índice de Tópicos
+title: Tradução e revisão do Enciclopédia
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -20,13 +20,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Aqui estão descritos os passos necessários para traduzir e revisar o *Índice de Tópicos* para qualquer um dos idiomas da *Urantiapedia*. Esta é uma tarefa realizada pelos "Editores Chefes".
+Aqui estão descritos os passos necessários para traduzir e revisar o *Enciclopédia* para qualquer um dos idiomas da *Urantiapedia*. Esta é uma tarefa realizada pelos "Editores Chefes".
 
-O *Topic Index* é composto de uma coleção de arquivos TXT derivados do apêndice da edição *Urantia Fellowship* do *O Livro de Urântia* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
+O _Enciclopédia_ é composto de uma coleção de arquivos TXT derivados do apêndice da edição *Urantia Fellowship* do *O Livro de Urântia* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
 > IMPORTANTE: para a execução desta tarefa atualmente existe um desenvolvimento em andamento no *Urantiapedia Tools*, chamado *Topic Index Editor*, que torna as edições mais fáceis e menos propensas a erros. Verifique a seção abaixo.
 
-Para criar um novo *Topic Index* para outro idioma, comece na versão em inglês do *Topic Index* encontrado em `input/txt/topic-index-en`. Faça uma cópia dessa pasta e altere o nome para o idioma de destino.
+Para criar um novo _Enciclopédia_ para outro idioma, comece na versão em inglês do _Enciclopédia_ encontrado em `input/txt/topic-index-en`. Faça uma cópia dessa pasta e altere o nome para o idioma de destino.
 
 A pasta contém um arquivo para cada letra do alfabeto (`a.txt`, `b.txt`, etc.) mais um arquivo `_.txt` que contém as entradas que começam com um dígito numérico. A ordenação de referência dos tópicos é sempre a do inglês, portanto, cada arquivo contém os tópicos cuja letra inicial em inglês corresponde a essa letra. Por exemplo, o tópico em espanhol "Espíritu Infinito" deve ser encontrado no arquivo `i.txt` porque o tópico em inglês começa com I ("Espírito Infinito").
 
@@ -150,7 +150,7 @@ O primeiro nome no cabeçalho é o título do tópico na página convertida. É 
 absoluta; força cósmica; Força cósmica; potência do espaço; Potência do espaço; energia espacial; espaço-energia; força mãe do espaço; espaço-força; força-carga do espaço; carga de força universal do espaço; manta de força; Força primordial; Força primordial; espaço-força; força do universo; carga espacial de força universal; força-carga do espaço; carga de força; carga de energia; força cósmica; força primordial | | | | OK
 ```
 
-Este cabeçalho é sobre `absoluta`, uma das manifestações de energia no universo. Mas em *O Livro de Urântia* recebe muitas variações no nome. Todos eles foram adicionados após o nome principal separando-os com `;`. Este trabalho deve ser feito e revisado para todos os *Índice de Tópicos*. Se o nome aparecer no livro em maiúsculas e minúsculas, ambas as variações devem ser adicionadas à lista de alias para garantir que os links corretos sejam criados.
+Este cabeçalho é sobre `absoluta`, uma das manifestações de energia no universo. Mas em *O Livro de Urântia* recebe muitas variações no nome. Todos eles foram adicionados após o nome principal separando-os com `;`. Este trabalho deve ser feito e revisado para todos os *Enciclopédia*. Se o nome aparecer no livro em maiúsculas e minúsculas, ambas as variações devem ser adicionadas à lista de alias para garantir que os links corretos sejam criados.
 
 *Topic Index Editor* é uma ferramenta que ajuda muito a verificar isso. Veja a seção abaixo.
 
@@ -210,7 +210,7 @@ Recomenda-se editar os arquivos lado a lado em um editor de texto que permita ab
 
 ## O que os contribuidores devem mudar
 
-Para "Editores-chefes" não há restrições especiais sobre o que eles podem alterar nos arquivos de Índice de Tópicos. Eles devem seguir as regras anteriores explicadas, mas podem fazer qualquer alteração necessária.
+Para "Editores-chefes" não há restrições especiais sobre o que eles podem alterar nos arquivos de _Enciclopédia_. Eles devem seguir as regras anteriores explicadas, mas podem fazer qualquer alteração necessária.
 
 Para os "Editores Assistentes", por seguirem um processo mais simples, devem obedecer a algumas restrições. Os "Editores Assistentes" NÃO DEVEM alterar nenhum dos itens a seguir:
 - Tópicos que não são revisados ​​e que não possuem a marca 'OK'. Eles devem ser deixados intocados. Talvez ainda haja trabalho necessário neles. Até que um tópico não seja revisado por "Editores Chefes", nenhum trabalho deve ser feito nele por "Editores Assistentes".
@@ -225,13 +225,13 @@ O único conteúdo que os "Editores Assistentes" devem alterar é este:
 - O texto dentro de cada linha de tópicos.
 - Os URLs para páginas na Wikipedia.
 
-Ao usar o Visual Studio Code para editar o Índice de Tópicos, os "Editores Assistentes" devem se concentrar em dois tipos de tarefas, dependendo do idioma:
+Ao usar o Visual Studio Code para editar o _Enciclopédia_, os "Editores Assistentes" devem se concentrar em dois tipos de tarefas, dependendo do idioma:
 - Para inglês e espanhol, basta revisar o conteúdo nos textos.
-- Para outros idiomas, traduzindo os textos. O "Editor" deve criar uma cópia de um Índice de Tópicos existente em qualquer outro idioma, preferencialmente inglês, e agora traduzir os textos o mais rápido possível com a ajuda de ferramentas de tradução.
+- Para outros idiomas, traduzindo os textos. O "Editor" deve criar uma cópia de um _Enciclopédia_ existente em qualquer outro idioma, preferencialmente inglês, e agora traduzir os textos o mais rápido possível com a ajuda de ferramentas de tradução.
 
 ## *Editor de índice de tópicos*
 
-O *Topic Index Editor* é uma ferramenta que está em desenvolvimento, mas em seu estado atual ajuda em algumas tarefas de revisão e edição do *Topic Index*. Como este software precisa ser instalado e complica a configuração, não está no escopo de "Editores Assistentes", mas de "Editores-chefes". Verifique [Configurando o projeto GitHub](/pt/help/github_setting).
+O *Topic Index Editor* é uma ferramenta que está em desenvolvimento, mas em seu estado atual ajuda em algumas tarefas de revisão e edição do _Enciclopédia_. Como este software precisa ser instalado e complica a configuração, não está no escopo de "Editores Assistentes", mas de "Editores-chefes". Verifique [Configurando o projeto GitHub](/pt/help/github_setting).
 
 Para acessá-lo:
 1. Abra *Urantiapedia Tools* pressionando F5 no VS Code com o projeto aberto.

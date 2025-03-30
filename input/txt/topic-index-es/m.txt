@@ -1866,7 +1866,7 @@ El monumento conmemorativo de Miguel, en el centro de los círculos de los Hijos
 Miguel de Nebadon; Miguel; Nuestro Hijo Creador; nuestro Hijo Creador; Cristo Miguel | (119) (33:1-2) | Cristo; Hijos Creadores; Jesús; Migueles Maestros | PERSON | OK
 descripción
 	Miguel de Nebadon es la cabeza de todas las personalidades de Nebadon y el creador de Nebadon. Es a la vez un padre, un creador y un soberano para todos los habitantes de Nebadon. (33:3.2) (37:0.1) (128:1.13)
-	[Miguel de Nebadon](/image/The_Urantia_Book/Celestials/Michael_of_Nebadon_01.jpg) {image-style-align-right}
+	[Miguel de Nebadon](/image/The_Urantia_Book/celestials/Michael_of_Nebadon_01.jpg) {image-style-align-right}
 	Miguel es el ser cuya paternidad creativa en este universo temporal ha hecho posible el hecho de nuestra vida (112:7.8)
 	nadie va al Padre excepto a través de Miguel (0:8.11) (180:3.7)
 	él personalmente otorga las credenciales de los mortales para continuar con la carrera del superuniverso (112:7.8)

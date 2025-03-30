@@ -1,5 +1,5 @@
 ---
-title: Translation an revision of Topic Index
+title: Translation an revision of Encyclopedia
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -20,13 +20,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Here are described the steps needed to translate and review the *Topic Index* to any of languages of *Urantiapedia*. This is a task accomplish by "Editors-in-Chief".
+Here are described the steps needed to translate and review the *Encyclopedia* to any of languages of *Urantiapedia*. This is a task accomplish by "Editors-in-Chief".
 
-The *Topic Index* is made up of a collection of TXT files derived from the appendix of *Urantia Fellowship* edition of *The Urantia Book* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
+The *Encyclopedia* is made up of a collection of TXT files derived from the appendix of *Urantia Fellowship* edition of *The Urantia Book* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
 > IMPORTANT: for executing this task currently there is a development in progress in *Urantiapedia Tools*, called *Topic Index Editor*, that makes editions easier and less prone to errors. Check section below.
 
-To create a new *Topic Index* for another language start from English version of *Topic Index* found in `input/txt/topic-index-en`. Make a copy of that folder and change the name to the target language.
+To create a new *Encyclopedia* for another language start from English version of *Encyclopedia* found in `input/txt/topic-index-en`. Make a copy of that folder and change the name to the target language.
 
 The folder contains a file for each letter of the alphabet (`a.txt`, `b.txt`, etc.) plus a `_.txt` file that contains the entries that start with a numeric digit. The reference ordering of the topics is always that of English, so each file contains the topics whose initial letter in English matches that letter. For example, the Spanish topic "Espíritu Infinito" must be found in `i.txt` file because the English topic begins with I ("Infinite Spirit").
 
@@ -34,7 +34,7 @@ The format is slightly similar to the YAML format (https://en.wikipedia.org/wiki
 
 > IMPORTANT: this file contains tabs and must be edited with a text editor that supports tabs rendering. Recommended editors are: Visual Studio Code (https://code.visualstudio.com/), Notepad++ (https://notepad-plus-plus.org/), or Sublime Text (https://www.sublimetext.com/).
 
-## Topic Index TXT format
+## Encyclopedia TXT format
 
 Here is an excerpt of the file `a.txt`:
 
@@ -69,14 +69,14 @@ Each file consist of:
 - A list of topics. Each topic is preceded by a blank line and contains several lines:
     - The first line is a short table with topic description, and the values ​​or cells separated by `|` (vertical bar). Values ​​are:
         - Topic name. If one or more names separated by `;` appear behind the name, those names are aliases that will be searched in the text of *The Urantia Book* as an alternative form to topic name. The first name will always be the one used as the title of the page in *Urantiapedia*. The rest of the names separated by `;` will be the names or aliases that, added to the first, will be searched within *The Urantia Book* to create links to these topics.
-        - General or global references to *The Urantia Book* of the entire topic. This value can be empty. These links will be displayed on *Urantiapedia* as a "See also" top section with a list of links.
-        - Links to other topics. This value can be empty. Represents one or more topics that are related to current topic. They will appear at the bottom of the page that will be generated, in the list of "Links" section. If more than one link exists they will be separated by `;`. It is possible to add links to specific sections inside a topic using `:`. For example: `baptism:Jesus baptism` is a link that points to topic page `baptism` and inside it to section about Jesus baptism.
+        - General or global references to *The Urantia Book* of the entire topic. This value can be empty. These links will be displayed on *Urantiapedia* as a “See also” top section with a list of links.
+        - Links to other topics. This value can be empty. Represents one or more topics that are related to current topic. They will appear at the bottom of the page that will be generated, in the list of “Links” section. If more than one link exists they will be separated by `;`. It is possible to add links to specific sections inside a topic using `:`. For example: `baptism:Jesus baptism` is a link that points to topic page `baptism` and inside it to section about Jesus baptism.
         - Topic category. This value can be empty. There are five categories: Persons (`PERSON`), places (`PLACE`), orders of beings (`ORDER`), religions (`RELIGION`), and races (`RACE`). These categories allow to work only in one of them for better separation of tasks and to generate indexes.
-        - Status. "Editors-in-Chief" should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
+        - Status. “Editors-in-Chief” should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
     - The following lines, if they exist, are the topic content. These lines are also short tables that may or may not have values ​​separated by `|` (vertical bar). There are two types of tables:
         - Table of a single cell without `|` (vertical bar): it will contain a text, the text of a line of the page of *Urantiapedia* and after the text, enclosed in parentheses, if they exist, one or more references to paragraphs of *The Urantia Book*.
         - Table of two cells separated by `|` (vertical bar), the first with same content than a table with a single cell, and the second with a list of links to other topics, separated by `;`.
-    - Some optional lines at the end of the topic that start with `>`. These will be links to other webpages and will appear in an "External Links" section.
+    - Some optional lines at the end of the topic that start with `>`. These will be links to other webpages and will appear in an “External Links” section.
 
 The construction rules for each line in topics other than the first are these:
 - They do not need to start with a capital letter or end with period. Software will automatically capitalize and end with period each sentence when converting files to Wiki.js format.
@@ -127,8 +127,8 @@ organization
 
 In the previous extract we can see:
 - It is the content related to the topic [apostles of Jesus](/en/topic/apostles_of_Jesus). Go to this page to see the result of this text when converted to *Wiki.js*.
-- At the top of the resulting page an indication is added saying "See also" followed by the references found in header of the topic.
-- Notice that in the header the topic has a link to `apostleship`, and also the lines with the list of apostles has a `|` and links to topics of the apostles. These links appear in the "Links" section added at the end.
+- At the top of the resulting page an indication is added saying “See also” followed by the references found in header of the topic.
+- Notice that in the header the topic has a link to `apostleship`, and also the lines with the list of apostles has a `|` and links to topics of the apostles. These links appear in the “Links” section added at the end.
 - The type of topic is relative to persons (`PERSON`), in this case the apostles of Jesus.
 - Notice that the `OK` mark is present, which means that this topic has been reviewed for english.
 - Check that to make an unordered list the lines must start with `*`.
@@ -150,7 +150,7 @@ The first name in the header is the topic title in the converted page. It is imp
 absoluta; cosmic force; Cosmic force; space potency; Space potency; space energy; space-energy; mother force of space; space-force; force-charge of space; universal force-charge of space; force blanket; Primordial-force; Primordial force; space-force; universe force; space charge of universal force; force-charge of space; force-charge; power charge; cosmic-force; primal force | | | | OK
 ```
 
-This header is about `absoluta`, one of the manifestations of energy in the universe. But in *The Urantia Book* receives a lot of variations in the name. All of them has been added after the main name separating them with `;`. This work must be done and reviewed for all *Topic Index*. If the name appears in the book in uppercase and lowercase both variations must be added in the alias list to ensure the correct links are created.
+This header is about `absoluta`, one of the manifestations of energy in the universe. But in *The Urantia Book* receives a lot of variations in the name. All of them has been added after the main name separating them with `;`. This work must be done and reviewed for all *Encyclopedia*. If the name appears in the book in uppercase and lowercase both variations must be added in the alias list to ensure the correct links are created.
 
 *Topic Index Editor* is a tool that helps a lot checking this. See section below.
 
@@ -210,28 +210,28 @@ It is recommended to edit files side-by-side in a text editor that allows to ope
 
 ## What should contributors change
 
-For "Editors-in-Chief" there are no special restrictions in what they can change in Topic Index files. They must follow the previous rules explained, but they can make any change needed.
+For “Editors-in-Chief” there are no special restrictions in what they can change in _Encyclopedia_ files. They must follow the previous rules explained, but they can make any change needed.
 
-For "Assistant Editors", as they follow a simpler process, they must comply to some restrictions. "Assistant Editors" MUST NOT change any of the following:
-- Topics that are not reviewed, and that do not have the `OK` mark. They must be leaved untouched. Perhaps there is still work needed on them. Until a topic is not reviewed by "Editors-in-Chief" no work must be done in it by "Assistant Editors".
+For “Assistant Editors”, as they follow a simpler process, they must comply to some restrictions. “Assistant Editors” MUST NOT change any of the following:
+- Topics that are not reviewed, and that do not have the `OK` mark. They must be leaved untouched. Perhaps there is still work needed on them. Until a topic is not reviewed by “Editors-in-Chief” no work must be done in it by “Assistant Editors”.
 - The global references or the category in the first line in the topic. 
 - The references to *Urantia Book* or references to other topics that appear in lines in the topics.
 - The order of lines.
 
-If an "Assistant Editor" finds any error in the previous content, notes should be taken in another place for sending them apart from Topic files.
+If an “Assistant Editor” finds any error in the previous content, notes should be taken in another place for sending them apart from Topic files.
 
-The only content that "Assistant Editors" must change is this:
+The only content that “Assistant Editors” must change is this:
 - The name or aliases found in the first line of topics if the working language is not English and Spanish. English and Spanish names are already reviewed in these languages.
 - The text inside each line of topics.
 - The URLs to pages in Wikipedia.
 
-When using Visual Studio Code for editing Topic Index "Assistant Editors" should focus on two types of tasks, depending the language:
+When using Visual Studio Code for editing Encyclopedia “Assistant Editors” should focus on two types of tasks, depending the language:
 - For English and Spanish, just proofreading the content in the texts.
-- For other languages, translating the texts. The "Editor" should create a copy of an existing Topic Index in any other language, preferably English, and now translate the texts as fast as possible with help of translation tools.
+- For other languages, translating the texts. The “Editor” should create a copy of an existing _Encyclopedia_ in any other language, preferably English, and now translate the texts as fast as possible with help of translation tools.
 
 ## *Topic Index Editor*
 
-The *Topic Index Editor* is a tool that is under development but in its current state helps in some tasks of reviewing and editing the *Topic Index*. As this software needs to have been installed and complicates setup it is not in the scope for "Assistant Editors", but for "Editors-in-Chief". Check [Setting up GitHub project](/en/help/github_setting).
+The *Topic Index Editor* is a tool that is under development but in its current state helps in some tasks of reviewing and editing the _Encyclopedia_. As this software needs to have been installed and complicates setup it is not in the scope for “Assistant Editors”, but for “Editors-in-Chief”. Check [Setting up GitHub project](/en/help/github_setting).
 
 To access it:
 1. Open *Urantiapedia Tools* pressing F5 in VS Code with the project opened.

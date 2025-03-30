@@ -44,7 +44,7 @@ Par exemple:
 ```
 | Status                | Title                              | Author  | Tags  | URL                               |
 | ----------------------| -----------------------------------| --------| ----- | --------------------------------- |
-| :white_square_button: | "The Kingdom of Heaven Revelation" |         |       | http://www.universalfather.info/  |
+| :white_square_button: | « The Kingdom of Heaven Revelation » |         |       | http://www.universalfather.info/  |
 ```
 
 ## Envoi de fichiers

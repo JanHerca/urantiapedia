@@ -57,7 +57,7 @@ Par exemple:
 ```
 | Status                | Source | Issue        | Title                                                 | Author       | Tags     |
 | ----------------------| ------ | ------------ | ------------------------------------------------------| -------------| -------- |
-| :white_square_button: | Herald | Vol 01, No 1 | "48 Chromosomes - Are We Asking the Right Questions?" | Ken Glasziou | Biology  |
+| :white_square_button: | Herald | Vol 01, No 1 | « 48 Chromosomes - Are We Asking the Right Questions? » | Ken Glasziou | Biology  |
 ```
 
 ## Envoi de fichiers

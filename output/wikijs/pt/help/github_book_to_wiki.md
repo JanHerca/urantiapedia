@@ -27,8 +27,8 @@ Os arquivos do *Livro de Urântia* no formato JSON com as notas de rodapé são 
 
 Para converter esses arquivos JSON para o formato Wiki.js, siga estas etapas:
 - Abra *Urantiapedia Tools*.
-- Em *Processo* selecione: Converter Livro de Urântia (JSON) + Índice de Tópicos (TXT) para Wiki.js.
-- As pastas são preenchidas automaticamente: para *arquivos TXT*) uma como `input / txt / topic-index-xx`, para *arquivos JSON* uma como `input / json / book-xx-footnotes` e para *Arquivos HTML * um como `output / wikijs / xx / The_Urantia_Book` (mas se `xx` = `en` é omitido). Se a pasta de saída existir, crie todo o caminho em seu projeto. Se já houver arquivos Wiki.js na pasta de saída, os existentes serão substituídos.
+- Em *Processo* selecione: Converter _Livro de Urântia_ (JSON) + _Enciclopédia_ (TXT) para Wiki.js.
+- As pastas são preenchidas automaticamente: para *arquivos TXT* uma como `input / txt / topic-index-xx`, para *arquivos JSON* uma como `input / json / book-xx-footnotes` e para *Arquivos HTML * um como `output / wikijs / xx / The_Urantia_Book` (mas se `xx` = `en` é omitido). Se a pasta de saída existir, crie todo o caminho em seu projeto. Se já houver arquivos Wiki.js na pasta de saída, os existentes serão substituídos.
 - Em *Categorias de Tópicos* selecione `TODOS` para que ao realizar o processo de conversão todos os tópicos de todas as categorias sejam usados ​​e links em *O Livro de Urântia* sejam adicionados a todos os tópicos, ou alternativamente, selecione apenas uma categoria para gerar apenas links para tópicos que pertencem a essa categoria.
 - Clique em *Executar*.
 - Se tudo estiver correto aparecerá *Conversão executada com sucesso*. Em caso de erros, a lista de erros aparecerá. Neste caso, é aconselhável notificar um dos usuários *desenvolvedores* sobre o erro.

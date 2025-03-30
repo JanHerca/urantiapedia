@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_topicindex_to_wiki">Converting Topic Index</a></td>
+        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_bible_to_wiki">Converting Bible</a></td>
       </tr>
@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 To convert these JSON files to Wiki.js format, follow these steps:
 - Open *Urantiapedia Tools*.
-- In *Process* select: Convert Urantia Book (JSON) + Topic Index (TXT) to Wiki.js.
+- In *Process* select: Convert Urantia Book (JSON) + Encyclopedia (TXT) to Wiki.js.
 - Folders are automatically filled: for *TXT files*) one like `input / txt / topic-index-xx`, for *JSON files* one like `input / json / book-xx-footnotes`, and for *HTML Files* one like `output / wikijs / xx / The_Urantia_Book` (but if `xx` = `en` it is omitted). If output folder do exists create all the path in your project. If there are already Wiki.js files in the output folder, the existing ones will be overwritten.
 - In *Topic Categories* select `ALL` so that when performing the conversion process all topics of all categories are used and links in *The Urantia Book* are added to all topics, or alternatively, select only one category to generate only links to topics that belong to that category.
 - Click on *Execute*.
@@ -53,7 +53,7 @@ Output files are already in the format that allows uploading directly to *Uranti
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_topicindex_to_wiki">Converting Topic Index</a></td>
+        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_bible_to_wiki">Converting Bible</a></td>
       </tr>

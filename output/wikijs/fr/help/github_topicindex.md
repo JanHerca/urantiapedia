@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Ici sont décrites les étapes nécessaires pour traduire et réviser l'*Index des sujets* dans n'importe laquelle des langues d'*Urantiapedia*. C'est une tâche accomplie par les "rédacteurs en chef".
+Ici sont décrites les étapes nécessaires pour traduire et réviser l'*Index des sujets* dans n'importe laquelle des langues d'*Urantiapedia*. C'est une tâche accomplie par les « rédacteurs en chef ».
 
 L'*Index des sujets* est composé d'une collection de fichiers TXT dérivés de l'annexe de l'édition de la *Communauté Urantia* du *Livre d'Urantia* ([Index des sujets](https://urantia-book.org/urantiabook/topical_index/ index.htm)).
 

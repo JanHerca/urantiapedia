@@ -89,7 +89,7 @@ La structure des fichiers JSON est la suivante :
 }
 ```
 
-Dans les fichiers JSON résultant de cette tâche, la section "notes de bas de page" sera vide. Pour le terminer, la tâche suivante doit être exécutée.
+Dans les fichiers JSON résultant de cette tâche, la section « notes de bas de page » sera vide. Pour le terminer, la tâche suivante doit être exécutée.
 
 Pour formater le texte du paragraphe avec des caractères étranges qui apparaissent dans *Le Livre d'Urantia* dans les fichiers JSON, ces équivalents sont utilisés :
 

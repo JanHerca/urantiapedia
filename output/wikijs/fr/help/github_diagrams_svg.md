@@ -79,7 +79,7 @@ La création de contenu SVG sort du cadre de cette aide et impliquerait l'utilis
 
 ## Envoi de fichiers
 
-Si vous êtes un « éditeur en chef » utilisant GitHub, vous pouvez soumettre des diagrammes comme indiqué dans l'[Aide des éditeurs en chef](/fr/help/github) ; si vous êtes un "éditeur adjoint", vous pouvez simplement envoyer les fichiers Markdown à l'e-mail de n'importe quel administrateur ou à urantiapedia@gmail.com.
+Si vous êtes un « éditeur en chef » utilisant GitHub, vous pouvez soumettre des diagrammes comme indiqué dans l'[Aide des éditeurs en chef](/fr/help/github) ; si vous êtes un « éditeur adjoint », vous pouvez simplement envoyer les fichiers Markdown à l'e-mail de n'importe quel administrateur ou à urantiapedia@gmail.com.
 
 ## Liens externes
 

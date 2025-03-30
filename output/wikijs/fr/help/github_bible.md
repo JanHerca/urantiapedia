@@ -84,7 +84,7 @@ Pour télécharger une traduction de la Bible dans e-Sword, suivez ces étapes :
 Pour copier les versets d'e-Sword vers des fichiers bibliques, nous pouvons utiliser ce processus :
 
 1. Copiez tous les fichiers dans une autre langue déjà disponible, par exemple en anglais. De cette façon, vous avez un guide et un modèle.
-2. Accédez au premier fichier, "001_Genesis.tex". Sélectionnez tout ce qui se trouve sous `\title{Genesis}` et au-dessus de `\end{document}` et supprimez-le.
+2. Accédez au premier fichier, « 001_Genesis.tex ». Sélectionnez tout ce qui se trouve sous `\title{Genesis}` et au-dessus de `\end{document}` et supprimez-le.
 3. Maintenant, dans e-Sword, sélectionnez le menu *Bible* puis *Copy versets*. La fenêtre *Copier les versets* s'ouvre.
 4. Dans les sélecteurs supérieurs, sélectionnez le livre, dans cet exemple *Genesis*, et sélectionnez le premier verset (généralement celui par défaut) et le dernier verset du dernier chapitre (généralement pas celui par défaut).
 5. Comme format de sortie, laissez la première option sélectionnée, la valeur par défaut, qui crée des textes comme `Gen 1: 1 The verse text`.
