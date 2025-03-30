@@ -53,6 +53,8 @@ sv | suédois | Urantiaboken
 
 Les codes de langue doivent suivre la norme ISO 639-1 avec deux lettres pour chaque langue. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
+Au fur et à mesure que de nouvelles traductions du _Livre d'Urantia_ seront disponibles, elles seront ajoutées à Urantiapedia et la liste des langues prises en charge sera élargie.
+
 ## Guillemets
 
 Voici les guillemets corrects à utiliser dans chaque langue :
@@ -89,13 +91,13 @@ https://en.wikipedia.org/wiki/Quotation_mark
 
 ## Abréviations bibliques
 
-Les abréviations bibliques doivent être enregistrées dans *Urantiapedia Tools* pour être utilisées dans les processus de conversion. Voir [Abréviations](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). Le code montre un objet JavaScript qui contient pour chaque langue une liste d'abréviations, le titre de chaque livre biblique et le chemin dans Urantiapedia pour le livre.
+Les abréviations bibliques doivent être enregistrées dans *Urantiapedia Tools* pour être utilisées dans les processus de conversion. Voir [Abréviations](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). Il s'agit d'un fichier de code contenant un objet JavaScript avec une liste d'abréviations pour chaque langue, le titre de chaque livre biblique et le chemin dans _Urantiapedia_ pour chaque livre.
 
 ## Traducteurs en ligne
 
-https://translate.google.es/
-
-https://www.deepl.com/translator
+Certains utilitaires en ligne que nous utilisons pour les traductions sont :
+- https://translate.google.es/
+- https://www.deepl.com/translator
 
 ## Liens externes
 

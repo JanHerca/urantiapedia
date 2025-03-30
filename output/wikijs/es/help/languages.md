@@ -53,6 +53,8 @@ sv | Sueco | Urantiaboken
 
 Los códigos de idioma deben seguir la norma ISO 639-1 con dos letras por cada idioma. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes 
 
+A medida que estén disponibles nuevas traducciones de _El Libro de Urantia_ se irán añadiendo a Urantiapedia y la lista de idiomas soportados se irá expandiendo.
+
 ## Comillas tipográficas
 
 Estas son las correctas comillas tipográficas a usar en cada idioma:
@@ -89,13 +91,13 @@ https://en.wikipedia.org/wiki/Quotation_mark
 
 ## Abreviaturas bíblicas
 
-Las abreviaturas bíblicas deben registrarse en las *Urantiapedia Tools* para poder usar en los procesos de conversión. Echa un vistazo aquí: [Abreviaturas](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). El código contiene un objeto JavaScript que contiene para cada idioma una lista de abreviaturas, el título de cada libro bíblico, y la ruta en la Urantiapedia para el libro.
+Las abreviaturas bíblicas deben registrarse en las *Urantiapedia Tools* para poder usarse en los procesos de conversión. Echa un vistazo aquí: [Abreviaturas](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). Se trata de un fichero de código que contiene un objeto JavaScript con una lista de abreviaturas para cada idioma, el título de cada libro bíblico, y la ruta en la _Urantiapedia_ de cada libro.
 
 ## Traductores online
 
-https://translate.google.es/
-
-https://www.deepl.com/translator
+Algunas utilidades online para usamos para realizar traducciones son:
+- https://translate.google.es/
+- https://www.deepl.com/translator
 
 ## Enlaces externos
 

@@ -20,263 +20,235 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## Fase I - El Libro de Urantia, la Biblia y el Índice de Términos
+## Fase I - El Libro de Urantia y la Biblia
 
-Esta fase se explica en detalle aquí: [Fase I](/es/help/phases#fase-i-el-libro-de-urantia-la-biblia-y-el-%C3%ADndice-de-t%C3%A9rminos).
+> Esta fase se encuentra completada para 25 idiomas.
+{.is-success}
+
+Esta fase se explica en detalle aquí: [Fase I](/es/help/phases#fase-i-el-libro-de-urantia-y-la-biblia).
 
 ### Productos
 
 Los productos de esta fase son:
 
-- :ledger: _Paramony_
-- :card_index: _Indice de Temas_
+- :ledger: El _Paramony_
 - :blue_book: _El Libro de Urantia_ (con las referencias cruzadas del _Paramony_ como notas al pie)
 - :closed_book: _La Biblia_ (con las referencias cruzadas del _Paramony_ como notas al pie)
-- :sound: _Version de audio de El Libro de Urantia_
-- :sunrise_over_mountains: ilustraciones para _El Libro de Urantia_, _La Biblia_ y el _Indice de Temas_
 
-### Tareas
 
-En esta fase las tareas a realizar son:
+### Desarrollos
 
-Tarea                                                                                                       | Estado             |
------------------------------------------------------------------------------------------------------------ | ------------------ |
-Desarrollo de los conversores de archivos a Wiki.js                                                         | :heavy_check_mark: |
-Desarrollo del _Topic Index Editor_, un asistente que permite acelerar el trabajo con el Índice de Términos | :clock2:           |
-Traducción del _Paramony_ :ledger: del inglés al idioma de destino. | :heavy_check_mark:
-Traducción y revisión del _Índice de términos_ :card_index: del inglés al idioma de destino. | :clock2:
-Obtención de una traducción de _La Biblia_ :closed_book: en el idioma de destino. | :heavy_check_mark:
-Conversión de _El Libro de Urantia_ :blue_book: de HTML a JSON sin notas al pie del _Paramony_ :ledger:. | :heavy_check_mark:
-Adición de notas al pie a _El Libro de Urantia_ :blue_book: en JSON. | :heavy_check_mark:
-Conversión del _Índice de términos_ :card_index: de TXT a Wiki.js y subida de cambios mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). | :heavy_check_mark:
-Conversión de _El Libro de Urantia_ :blue_book: de JSON con notas al pie del _Paramony_ :ledger: a Wiki.js incluyendo referencias a los términos, y subida de cambios mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). | :heavy_check_mark:
-Conversión de _La Biblia_ :closed_book: de LaTeX a Wiki.js con notas al pie del _Parammony_ :ledger:, y subida de cambios mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). | :heavy_check_mark:
-:sound: Probar soluciones de texto a voz. El objetivo es ofrecer lectura automatizada de todos los libros del sitio web, empezando por _El Libro de Urantia_. En inglés existe un audio libro oficial de la Fundación Urantia. Para otros idiomas se van a buscar soluciones automatizadas. | :clock2:
-:sunrise_over_mountains: Crear un catálogo de imágenes para ilustrar _El libro de Urantia_, la _Biblia_ y el _Índice de Términos_. Actualmente está realizado con la parte IV del _Libro de Urantia_. | :clock2:
+En esta fase los desarrollos que se realizaron son:
 
-### Progreso
+Desarrollo | Estado
+--- | ---
+Conversor de archivos a Wiki.js. | :heavy_check_mark:
+Conversor de :blue_book: _El Libro de Urantia_ de HTML a JSON (sin notas al pie del :ledger: _Paramony_). | :heavy_check_mark:
+Conversor de :blue_book: _El Libro de Urantia_ de JSON a Wiki.js (con notas al pie del :ledger: _Paramony_). | :heavy_check_mark:
+Conversor de :closed_book: _La Biblia_ de LaTeX a Wiki.js (con notas al pie del :ledger: _Paramony_). | :heavy_check_mark:
 
-La tabla siguiente resume el progreso actual:
 
-<div class="urantiapedia-table-wrapper">
+### Tareas a realizar con el contenido y progreso actual
 
-| Idioma     | :ledger:           | :card_index:        | :closed_book:        | :blue_book:        | :sound:            | :sunrise_over_mountains: |
-| ---------- | :----------------: | :-----------------: | :------------------: | :----------------: | :----------------: | :----------------------: |
-| Búlgaro    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Checo      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Danés      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Alemán     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                 |
-| Griego     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Inglés     | :heavy_check_mark: | :clock2:            | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                 |
-| Español    | :heavy_check_mark: | :clock2:            | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                 |
-| Estonio    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Persa      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Finlandés  | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Francés    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                 |
-| Hebreo     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Húngaro    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Indonesio  | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Italiano   | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                 |
-| Japonés    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Coreano    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Lituano    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Neerlandés | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Polaco     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Portugués  | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                 |
-| Rumano     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Ruso       | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Sueco      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
-| Turco      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
+En esta fase las tareas a realizar en cada idioma son las siguientes (indicando su estado actual):
 
-</div>
+Tarea | Estado
+--- | ---
+Traducción del :ledger: _Paramony_ del inglés al idioma de destino. | :heavy_check_mark: (en 25 idiomas) \[[1](#note1)\]
+Obtención de :blue_book: _El Libro de Urantia_ en el idioma de destino con el :ledger: _Paramony_ como notas al pie. | :heavy_check_mark: (en 25 idiomas)
+Obtención de una traducción de :closed_book: _La Biblia_ en el idioma de destino con el :ledger: _Paramony_ como notas al pie. | :heavy_check_mark: (en 25 idiomas)
+Subida de cambios mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (en 25 idiomas)
 
-## Fase II - Libros, artículos, ayudas de estudio, esquemas e índices
 
-Esta fase se explica en detalle aquí: [Fase II](/es/help/phases#fase-ii-libros-art%C3%ADculos-ayudas-de-estudio-esquemas-e-%C3%ADndices).
+(<a id="note1">1</a>) Siempre que se indican 25 idiomas son estos: búlgaro, checo, danés, alemán, griego, inglés, español, estonio, persa, finlandés, francés, hebreo, húngaro, indonesio, italiano, japonés, coreano, lituano, neerlandés, polaco, portugués, rumano, ruso, sueco, turco.
+
+## Fase II - Hemeroteca, Biblioteca y Enciclopedia
+
+> Esta fase se encuentra completada para 3 idiomas (inglés, español y francés).
+{.is-success}
+
+Esta fase se explica en detalle aquí: [Fase II](/es/help/phases#fase-ii-hemeroteca-biblioteca-y-enciclopedia).
 
 ### Productos
 
-Para cada idioma el contenido esperado en este hito es:
-
-- Libros:
-   - :green_book: Libros extrabíblicos
+- _Hemeroteca_:
+  - :page_with_curl: Artículos de lectores
+  - :notebook: Ayudas de estudio de los lectores
+- _Biblioteca_:
+   - :green_book: Libros extrabíblicos.
    - :orange_book: Libros de todas las religiones del mundo.
-   - :books: Otros libros que se supone que son fuentes.
+   - :books: Libros supuestamente usados por los reveladores.
    - :notebook_with_decorative_cover: Libros de lectores
-- :page_with_curl: Artículos de lectores
-- :notebook: Ayudas de estudio de los lectores
-- :memo: Diagramas y esquemas de los lectores.
-- :capital_abcd: Índices
+- _Enciclopedia_:
+  - :card_index: páginas de la _Enciclopedia_
+  - :capital_abcd: Índices de la _Enciclopedia_
 
-### Tareas
+### Desarrollos
 
-En esta fase las tareas a realizar son:
+En esta fase los desarrollos que se realizaron son:
 
-Tarea                                                         | Estado             |
---------------------------------------------------------------| ------------------ |
-Desarrollo para la conversión de libros y artículos a Wiki.js | :clock2:           |
-Importar libros extrabíblicos :green_book: de páginas web existentes a Urantiapedia, traducir si es necesario y vincular al _Libro de Urantia_ si es posible | :clock2:
-Importar libros de todas las religiones actuales del mundo :orange_book: desde páginas web existentes a Urantiapedia, traducir si es necesario y enlazar al _Libro de Urantia_ si es posible | :clock2:
-Escanear o descargar otros libros :books: sobre filosofía, teología y ciencia que se supone que son fuentes de _El libro de Urantia_ e importarlos a Urantiapedia, traduciéndolos si es necesario y vinculándolos a _El libro de Urantia_ utilizando las obras de Matthew Block y otros | :clock2:
-Importar libros de lectores :notebook_with_decorative_cover: (que han dado permiso para publicar en Urantiapedia) | :clock2:
-Importar artículos :page_with_curl: en publicaciones, traducirlos si es necesario y vincularlos a _El Libro de Urantia_ | :heavy_check_mark:
-Importar ayudas de estudio :notebook:, traducirlas si es necesario y vincularlas a _El Libro de Urantia_ | :heavy_check_mark:
-Importar diagramas y esquemas :memo: de una manera que los haga responsivos y se puedan ver fácilmente en dispositivos pequeños | :clock2:
-Crear índices :capital_abcd: con diferentes criterios para una búsqueda rápida en el sitio web | :clock2:
+Desarrollo | Estado
+--- | ---
+Conversor de un esquema de libro de Markdown a páginas Wiki.js | :heavy_check_mark:
+_Topic Index Editor_, una herramienta para acelerar la creación de la _Enciclopedia_ | :heavy_check_mark:
+Conversor de la :card_index: _Enciclopedia_ de TXT a Wiki.js. | :heavy_check_mark:
+Generador de anclas (etiquetas `<a>`) en los artículos para enlazar :blue_book: _El Libro de Urantia_ con los artículos. | :heavy_check_mark:
+Generador de fichero de paralelos entre artículos y libros con _El Libro de Urantia_ | :heavy_check_mark:
+Generador de :capital_abcd: índices de la :card_index: _Enciclopedia_ | :heavy_check_mark:
 
-### Progreso
+### Tareas a realizar con el contenido y progreso actual
 
-<div class="urantiapedia-table-wrapper">
+En esta fase las tareas a realizar en cada idioma son las siguientes (indicando su estado actual):
 
-| Idioma     | :green_book: | :orange_book: | :books:    | :notebook_with_decorative_cover:  | :page_with_curl:    | :notebook:          | :memo:     | :capital_abcd:   |
-| ---------- | :----------- | :------------ | :--------: | :-------------------------------: | :-----------------: | :-----------------: | :--------: | :--------------: |
-| Inglés     | :clock2:     | :clock2:      | :clock2:   | :clock2:                          | :heavy_check_mark:  | :heavy_check_mark:  |            | :clock2:         |
-| Español    | :clock2:     | :clock2:      | :clock2:   | :clock2:                          | :heavy_check_mark:  | :heavy_check_mark:  |            | :clock2:         |
-| Francés    | :clock2:     | :clock2:      | :clock2:   | :clock2:                          | :heavy_check_mark:  | :heavy_check_mark:  |            | :clock2:         |
+Tarea | Estado
+--- | ---
+Adición de :page_with_curl: artículos de publicaciones en el idioma de destino y enlazar a _El Libro de Urantia_ | :heavy_check_mark: (inglés, español, francés)
+Adición de :notebook: ayudas de estudio en el idioma de destino y enlazar a _El Libro de Urantia_ | :heavy_check_mark: (inglés, español, francés)
+Adición de libros :green_book: extrabíblicos | :heavy_check_mark: (inglés, español, francés)
+Adición de :orange_book: libros de todas las religiones actuales del mundo | :heavy_check_mark: (inglés, español, francés)
+Adición de libros :books: sobre filosofía, teología y ciencia supuestamente usados por los reveladores | :heavy_check_mark: (inglés, español, francés)
+Adición de libros de lectores :notebook_with_decorative_cover: que han dado permiso para publicar en Urantiapedia | :heavy_check_mark: (inglés, español, francés)
+Creación de la :card_index: _Enciclopedia_ en el idioma de destino. | :heavy_check_mark: (inglés, español, francés)
+Creación de índices :capital_abcd: de la _Enciclopedia_ en el idioma de destino | :heavy_check_mark: (inglés, español, francés)
 
-</div>
 
-### Progreso de los artículos detallado
+### Listado de publicaciones añadidas en la Hemeroteca en esta fase
 
-Esta es una información detallada sobre el progreso con la adición de artículos. Urantiapedia ha recibido una subvención de la Fundación Urantia como parte del [Programa Semilla de Mostaza](https://www.urantia.org/news/2023-03/mustard-seed-grants-program). Esta subvención incluye recursos para ayudar a agregar artículos en los idiomas que se especifican a continuación.
-
-La siguiente tabla no está completa. Hay más sitios web que estamos considerando agregar a Urantiapedia. Esta tabla se actualizará a medida que se avance en los siguientes meses.
+Las publicaciones siguientes están actualmente disponibles (en inglés, español y francés):
 
 <div class="urantiapedia-table-wrapper">
 
-| Editor /<br>Publicación      | Num.       | Ing.               | Esp.               | Fr.                |
-| ---------------------------- | ---------: | :----------------: | :----------------: | :----------------: |
-| The Urantia Foundation       |            |                    |                    |                    |
-| - News Online                | 640        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - News Flash                 |  24        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - Urantian                   |  63        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Fellowship                   |            |                    |                    |                    |
-| - Fellowship Herald          | 263        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - The Urantian               | 264        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| IUA                          |            |                    |                    |                    |
-| - Journal                    | 216        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - Tidings                    | 389        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Spiritual Fellowship Journal | 400        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Spain Association            |            |                    |                    |                    |
-| - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| ANZURA Association           |            |                    |                    |                    |
-| - 6-0-6                      | 257        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - The Arena                  | 108        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| French Association           |            |                    |                    |                    |
-| - CERDH - The Letter         | 90         | :clock2:           | :clock2:           | :clock2:           |
-| - Le Lien                    | 500        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Quebec Association           |            |                    |                    |                    |
-| - Reflectivite               | 401        | :clock2:           | :clock2:           | :clock2:           |
-| UB Annotated                 |  56        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Jan Herca articles           |  71        | :clock2:           | :clock2:           | :clock2:           |
-| **TOTAL**                    | **4994**   |                    |                    |                    |
+Editor /<br>Publicación | Números<br>publicados
+--- | ---:
+**The Urantia Foundation**<br>\- News Online<br>\- News Flash<br>\- Urantian | &nbsp;<br>640<br>24<br>63
+**Fellowship**<br>\- Fellowship Herald<br>\- Mighty Messenger<br>\- Study Group Herald<br>\- The Urantian | &nbsp;<br>263<br>218<br>129<br>264
+**IUA**<br>\- Journal<br>\- Tidings | &nbsp;<br>216<br>389
+**Innerface International**       | 568
+**Spiritual Fellowship Journal**  | 400
+**Spain Association**<br>\- Luz y Vida | &nbsp;<br>337
+**ANZURA Association**<br>\- 6-0-6<br>\- The Arena| &nbsp;<br>257<br>108
+**French Association**<br>\- Le Lien| &nbsp;<br>500
+**Quebec Association**<br>\- Reflectivite | &nbsp;<br>401
+**UB Annotated**                  |  56
+**Artículos de Jan Herca**        |  71
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  | 
+**TOTAL**                         | **4864**
 
 </div>
 
 ## Fase III - Traductor
 
+> Esta fase se encuentra completada.
+{.is-success}
+
 Esta fase se explica en detalle aquí: [Fase III](/es/help/phases#fase-iii-traductor).
 
-En esta fase únicamente se realizarán desarrollos en las aplicaciones, por lo que será una fase en paralelo a las otras. Las tareas previstas son éstas:
+En esta fase únicamente se realizaron los desarrollos siguientes:
 
-Tarea                                                                                                                                       | Estado             |
-------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-Desarrollo en Urantiapedia Tools de un traductor masivo de páginas                                                                          | :heavy_check_mark: |
-Desarrollo en Wiki.js un nuevo editor que permita traducciones asistidas directamente en la web                                             |                    |
-Desarrollo en Wiki.js de un modo de visualización de El Libro de Urantia y cualquier otro contenido en dos a cuatro idiomas                 |                    |
-Desarrollo en Wiki.js de un selector de preferencia en la traducción a usar de *El Libro de Urantia* (para idiomas como español con varias) |                    |
+Desarrollo | Estado
+--- | ---
+Desarrollo en _Urantiapedia Tools_ de un traductor masivo de páginas | :heavy_check_mark:
 
-## Fase IV - Mapas interactivos
+## Fase IV - Ampliaciones, correcciones, Cartoteca y Mediateca
 
-Esta fase se explica en detalle aquí: [Fase IV](/es/help/phases#fase-iv-mapas-interactivos).
+> Esta fase es la actualmente en progreso.
+{.is-warning}
 
-Esta fase incluye algunos desarrollos que actualmente no están planificados.
+Esta fase se explica en detalle aquí: [Fase IV](/es/help/phases#fase-iv-ampliaciones-correcciones-cartoteca-y-mediateca).
 
-Para cada idioma, el contenido esperado en esta fase es:
+### Productos
 
-- :globe_with_meridians: `Mapas estáticos`
-- :earth_americas: `Mapas interactivos`: Por ahora se ha creado un mapa para probar.
+- Adiciones y correcciones a la _Hemeroteca_.
+- Adiciones y correcciones a la _Biblioteca_.
+- Adiciones y correcciones a la _Enciclopedia_.
+- _Cartoteca_:
+  - :globe_with_meridians: Mapas en formato imagen estática con interactividad para acercarse y alejarse.
+  - :earth_americas: Mapas completamente interactivos.
+- _Mediateca_:
+  - :sunrise_over_mountains: Imágenes para ilustrar _El libro de Urantia_, la _Biblia_ y la _Enciclopedia_.
+  - :memo: Diagramas o esquemas interactivos.
+  - :bar_chart:Presentaciones interactivas.
+  - :milky_way: Modelos 3D.
+  - :sound: Audio de _El Libro de Urantia_
+  - :movie_camera: Vídeos incrustados.
 
-| Idioma     | :globe_with_meridians:  | :earth_americas:  |
-| ---------- | :-------------: | :----------: |
-| Inglés     |                 |  :clock2:    |
-| Español    |                 |  :clock2:    |
+### Desarrollos
 
-## Fase V - Presentaciones
+En esta fase los desarrollos que se realizarán son:
 
-Esta fase se explica en detalle aquí: [Fase V](/es/help/phases#fase-v-presentaciones).
+Desarrollo | Estado
+--- | ---
+Actualizar el proceso de generación de _El Libro de Urantia_, _Biblia_ y _Enciclopedia_ para que añada imágenes. Está hecho para _El Libro de Urantia_ y en parte para la _Enciclopedia_ | :clock2:
+Desarrollo en la web de un sistema para mostrar mapas interactivos tanto con imágenes estáticas como con mapas dinámicos | (no empezado)
+Desarrollo en la web de un sistema para ver presentaciones interactivas. | (no empezado)
+Desarrollo en la web de un sistema para ver escenas 3D interactivas. | (no empezado)
 
-Esta fase incluye algunos desarrollos que actualmente no están planificados. También se requiere planificar una lista de presentaciones a incluir.
 
-## Fase VI - Modelos 3D
+### Tareas a realizar con el contenido y progreso actual
 
-Esta fase se explica en detalle aquí: [Fase VI](/es/help/phases#fase-vi-modelos-3d-interactivos).
+En esta fase las tareas a realizar en cada idioma son las siguientes (indicando su estado actual):
 
-Esta fase incluye algunos desarrollos que actualmente no están planificados. También se requiere planificar una lista de modelos 3D a incluir.
+Tarea | Estado
+--- | ---
+Crear un catálogo de imágenes que se use para ilustrar _El libro de Urantia_, la _Biblia_ y la _Enciclopedia_. Actualmente se han añadido algunas imágenes al _Libro de Urantia_. | :clock2:
+Adición de mapas y traducción a cualquiera de los idiomas soportados | (sólo algunas pruebas)
+Adición de esquemas y diagramas. | (sólo algunas pruebas)
+Adición de presentaciones. | (sólo algunas pruebas)
+Adición de escenas 3D interactivas. | (sólo algunas pruebas)
+Adición de versiones de audio de _El Libro de Urantia_ en más idiomas soportados.:heavy_check_mark: (en alemán, inglés, español, francés, italiano y portugués)
+Adición de un catálogo de videos incrustados. | (no empezado)
+
 
 ## Tareas planificadas
 
-Esta es la lista de todas las tareas que tenemos consideradas hasta la fecha para cada tipo de contenido. Si eres un colaborador o quieres serlo, consulta esta lista con frecuencia para ver dónde puedes hacer tus mejores aportaciones.
+Esta es la lista de todas las tareas que tenemos consideradas en este momento. Si eres un colaborador o quieres serlo, consulta esta lista con frecuencia para ver dónde puedes hacer tus mejores aportaciones.
 
 | Contenido | Tareas |
 | ------- | ----- |
-| :blue_book: El libro de Urantia | Revisión de la traducción automática de las notas al pie del _Paramony_ excepto en: `es` y `en`. |
-| :sound: Audio | Probar soluciones de texto a voz más adecuadas: todos los idiomas.<br> Generación del audio de _El libro de Urantia_: actualmente disponible en `en` y en proceso con `es`. |
-| :sunrise_over_mountains: Imágenes | Crear un catálogo de imágenes para ilustrar _El libro de Urantia_, la _Biblia_ y el _Índice de Términos_. Actualmente está realizado con la parte IV del Libro de Urantia. |
-| :card_index: El índice de Términos | Producir la primera versión para `en` y `es`. Esta es una tarea pesada que ha sido dividida por letras del alfabeto. Las letras `A` a `G` ya están terminadas y quedan las letras `H` a `Z`.<br> Traducción automática del índice de Términos: no se recomienda iniciar estas tareas hasta que se complete la anterior porque algún proceso automático ayudará aquí.<br> Revisión de la traducción anterior: como se indicó anteriormente, no se recomienda comenzar esta tarea hasta que se produzca la primera versión para `en` y `es`. |
-| :closed_book: La Biblia | Revisión de la traducción automática de las notas a pie de página del _Paramony_: todos los idiomas excepto `en` y `es` |
-| :green_book: Libros extra-bíblicos | Obtener libros extrabíblicos de dominio público: todos los idiomas. |
-| :books: Otros libros | Obtener libros que se suponen fuentes (descargándolos de la Web o escaneando): los libros suelen estar en `en`.<br> Traducción automática de los libros anteriores: todos los idiomas excepto `en`.<br> Revisión de la traducción anterior: todos los idiomas excepto `en`. |
-| :page_with_curl: Artículos | Adición de artículos en `en` y revisión del estilo.<br>Traducción automática de artículos: todos los idiomas excepto `en`.<br> Revisión de la traducción anterior: todos los idiomas excepto `en`. |
-| :notebook: Ayudas para el estudio | Traducción automática de las ayudas de estudio: todos los idiomas excepto `en`.<br> Revisión de la traducción anterior: todos los idiomas excepto `en` |
-| :memo: Diagramas | Planificar una lista de diagramas a incluir y crear uno de pruebas. |
-| :capital_abcd: Índices | Planificar una lista de índices a incluir. |
-| :globe_with_meridians: Mapas estáticos | Planificar una lista de mapas estáticos (imágenes) a incluir y crfear uno de pruebas. |
-| :earth_americas: Mapas interactivos | Crear una geodatabase y proyectos QGIS para la generación automática de mapas<br>Probar a exportar mapas a SVG, mapas de imágenes HTML, y KML (este último requiere una plataforma de mapas como Google My Maps o una nuestra)<br> Traducción automática de los textos en mapas: todos los idiomas. |
-| :bar_chart: Presentaciones | Planificar una lista de presentaciones a incluir y crear una para pruebas usando Google Drive. |
-| :milky_way: Modelos 3D | Planificar una lista de escenas 3D a incluir y crear una de pruenas usando Sketchfab. |
-| :movie_camera: Vídeo | Crear una introducción ampliada a Urantiapedia (canal de Youtube).<br> Crear un tutorial avanzado para los colaboradores de Urantiapedia (canal de Youtube). |
+| :ledger: El _Paramony_ | Revisión de la traducción automática del _Paramony_ (para idiomas que no sean español o inglés) |
+| :blue_book: _El Libro de Urantia_ | Adición de nuevas traducciones o de otras traducciones existentes. Por ejemplo, nuevas traducciones como chino y árabe, o existentes como francés y coreano. |
+| :closed_book: _La Biblia_ | Adición de nuevas traducciones de la _Biblia_ cuando se añaden nuevas traducciones de _El Libro de Urantia_. |
+| :ledger: El _Paramony_ | Adición de nuevas traducciones del _Paramony_ cuando se añaden nuevas traducciones de _El Libro de Urantia_ |
+| :page_with_curl: _Hemeroteca_ | Revisión de artículos existentes en inglés, español y francés |
+| :page_with_curl: _Hemeroteca_ | Adición de más números de publicaciones en cualquiera de los idiomas soportados |
+| :notebook: _Hemeroteca_ | Revisión de ayudas de estudio existentes en inglés, español y francés |
+| :notebook: _Hemeroteca_ | Adición de más ayudas de estudio en cualquiera de los idiomas soportados |
+| :green_book: _Biblioteca_ | Revisión de traducciones automáticas de libros de las grandes religiones (en español y francés) |
+| :green_book: _Biblioteca_ | Adición de más libros de las grandes religiones y su traducción a cualquiera de los idiomas soportados |
+| :books: _Biblioteca_ | Revisión de traducciones automáticas de libros supuestamente usados por los reveladores |
+| :books: _Biblioteca_ | Adición de más libros supuestamente usados por los reveladores y su traducción a cualquiera de los idiomas soportados |
+| :card_index: _Enciclopedia_ | Revisión del contenido en inglés, español y francés, y traducción a cualquiera del resto de idiomas soportados |
+| :earth_americas: _Cartoteca_ | Desarrollo en la web de un sistema para mostrar mapas interactivos tanto con imágenes estáticas como con mapas dinámicos |
+| :earth_americas: _Cartoteca_ | Adición de mapas y traducción a cualquiera de los idiomas soportados |
+| :sunrise_over_mountains: _Mediateca_ | Adición de más imágenes para ilustrar _El libro de Urantia_, la _Biblia_ y la _Enciclopedia_. |
+| :memo: _Mediateca_ | Adición de esquemas y diagramas. |
+| :bar_chart: _Mediateca_ | Desarrollo en la web de un sistema para ver presentaciones interactivas. |
+| :bar_chart: _Mediateca_ | Adición de presentaciones. |
+| :milky_way: _Mediateca_ | Desarrollo en la web de un sistema para ver escenas 3D interactivas. |
+| :milky_way: _Mediateca_ | Adición de escenas 3D interactivas. |
+| :sound: _Mediateca_ | Adición de versiones de audio de _El Libro de Urantia_ en más idiomas soportados. |
+| :movie_camera: _Mediateca_ | Adición de un catálogo de videos incrustados. |
 
 ## Resumen
 
-La siguiente tabla resume todos los avances con cada tipo de contenido ([1](#note1)):
+La siguiente tabla resume todos los avances en cada tipo de contenido:
 
-<div class="urantiapedia-table-wrapper">
+Contenido | Status
+--- | ---
+:blue_book: _El Libro de Urantia_ con el :ledger: _Paramony_ | :heavy_check_mark: (en 25 idiomas) \[[1](#note1)\]
+:closed_book: La _Biblia_ con el :ledger: _Paramony_ | :heavy_check_mark: (en 25 idiomas)
+Una primera versión de la _Hemeroteca_ con :page_with_curl: artículos y :notebook: ayudas de estudio. | :heavy_check_mark: (inglés, español, francés)
+Una primera versión de la _Biblioteca_ con :green_book: libros de las grandes religiones y :books: libros supuestamente usados por los reveladores. | :heavy_check_mark: (inglés, español, francés)
+Una primera versión de la :card_index: _Enciclopedia_ | :heavy_check_mark: (inglés, español, francés)
+:sunrise_over_mountains: Imágenes (de momento solo en _El Libro de Urantia_) | :clock2: (en 25 idiomas)
+:earth_americas: _Cartoteca_ | :clock2: (solo pruebas iniciales en inglés y español)
+:bar_chart: Presentaciones para la _Mediateca_ | (no se ha empezado)
+:milky_way: Escenas 3D para la _Mediateca_ | :clock2: (solo pruebas iniciales en inglés)
+:sound: Audio de _El Libro de Urantia_ | :heavy_check_mark: (en alemán, inglés, español, francés, italiano y portugués)
+:movie_camera: Catalogo de vídeos para la _Mediateca_ | (no se ha empezado)
 
-| Idioma     |  :blue_book:       | :sound:            | :sunrise_over_mountains:  | :card_index:   | :closed_book:      | :green_book:       |  :books:    | :page_with_curl:   | :notebook:           | :memo:  | :globe_with_meridians:   | :earth_americas: | :bar_chart: | :milky_way: |
-| ---------- | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :----------------: | :---------: | :----------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |
-| Búlgaro    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Checo      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Danés      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Alemán     | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Griego     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Inglés     | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :heavy_check_mark: | :clock2:    | :heavy_check_mark: | :heavy_check_mark:   | :one:   |                          | :one:            | :one:       | :one:       |
-| Español    | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :heavy_check_mark: | :clock2:    | :heavy_check_mark: | :heavy_check_mark:   |         |                          | :one:            |             |             |
-| Estonio    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Persa      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Finlandés  | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Francés    | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :heavy_check_mark: | :clock2:    | :heavy_check_mark: | :heavy_check_mark:   |         |                          |                  |             |             |
-| Hebreo     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Húngaro    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Indonesio  | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Italiano   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Japonés    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Coreano    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Lituano    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Neerlandés | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Polaco     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Portugués  | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Rumano     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Ruso       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Sueco      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
-| Turco      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                    |                      |         |                          |                  |             |             |
 
-</div>
-
-(<a id="note1">1</a>) El Libro de Urantia :blue_book: y la Biblia :closed_book: con _Paramony_ incluidos.
+(<a id="note1">1</a>) Siempre que se indican 25 idiomas son estos: búlgaro, checo, danés, alemán, griego, inglés, español, estonio, persa, finlandés, francés, hebreo, húngaro, indonesio, italiano, japonés, coreano, lituano, neerlandés, polaco, portugués, rumano, ruso, sueco, turco.
 
 
 ## Enlaces externos

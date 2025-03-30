@@ -22,43 +22,42 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Para cada idioma a incluir en la *Urantipedia* se ejecutará el trabajo en las siguientes fases. Para cada etapa se detalla las tareas a realizar, dónde se realizarán las ediciones y qué colaboradores realizarán cada tarea.
 
-## Fase I - El Libro de Urantia, la Biblia y el Índice de Términos
+## Fase I - El Libro de Urantia y la Biblia
 
-Esta fase incorpora el contenido que se considera mínimo para iniciar la *Urantiapedia* en un determinado idioma. Esto incluye *El Libro de Urantia*, la *Biblia* y un *Índice de Términos*, todo enlazado entre sí de modo que haya vínculos que vayan de *El Libro de Urantia* a la *Biblia* y a las páginas de cada término, y viceversa. Del mismo modo la *Biblia* y el *Índice de Términos* también estarán enlazados entre sí de forma bidireccional.
+Esta fase incorpora el contenido que se considera mínimo para iniciar la *Urantiapedia* en un determinado idioma. Esto incluye *El Libro de Urantia* y la *Biblia*, ambos enlazados entre sí de modo que haya vínculos que vayan de *El Libro de Urantia* a la *Biblia* y viceversa.
 
 Para crear los enlaces a la *Biblia* se está utilizando el *Paramony*, de Duane L. Faw, que es un fichero con las referencias cruzadas entre la *Biblia* y *El Libro de Urantia*.
 
 https://urantia-book.org/urantiabook/paramony/
 
-Para crear el *Índice de Términos* se está utilizando como guía el índice creado por la *Urantia Fellowship* para su edición de *El Libro de Urantia* en inglés. Este índice, como contiene sólo anotaciones breves, se está expandiendo para convertirlo en un texto completo que sirva de versión inicial para cada página de cada término.
-
-https://urantia-book.org/urantiabook/topical_index/index.htm
-
 
 Tareas | Dónde | Quién
 --- | --- | ---
 Desarrollo de los conversores de archivos a Wiki.js | GitHub | Desarrolladores
-Convertir cada documento de *El Libro de Urantia* en una página con enlaces a *La Biblia* y a los *Términos* | GitHub | Editores Jefe
+Convertir cada documento de *El Libro de Urantia* en una página con enlaces a *La Biblia* | GitHub | Editores Jefe
 Convertir cada capítulo de *La Biblia* en una página con enlaces a *El Libro de Urantia* | GitHub | Editores Jefe
-Desarrollo del *Topic Index Editor*, un asistente que permite acelerar el trabajo con el *Índice de Términos* | GitHub | Desarrolladores
-Conversión del *Índice de Términos* en páginas con enlaces a *El Libro de Urantia* | GitHub | Editores Jefe
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
+> Esta fase se encuentra completada para 25 idiomas.
+{.is-success}
 
-## Fase II - Libros, artículos, ayudas de estudio, esquemas e índices
+## Fase II - Hemeroteca, Biblioteca y Enciclopedia
 
-Esta fase expande el contenido de la *Urantiapedia* con tres grandes áreas:
-- Otros libros aparte de la *Biblia* que se sospeche son libros usados por los reveladores en algunas partes de *El Libro de Urantia*. Por ejemplo, Matthew Block es un lector que ha hecho un gran trabajo encontrando este material. https://urantiabooksources.com/
-- Artículos, ayudas de estudio y esquemas de *El Libro de Urantia*. Existen multitud de ellos en las webs de la [Fundación Urantia](https://www.urantia.org/), la [Fellowship](https://urantiabook.org/), las asociaciones Urantia y en webs de particulares. Ningún contenido se publicará sin permiso expreso de los autores siempre que sea posible localizarlos. El contenido podrá subirse en dos modos: edición pública (cualquier editor puede mejorarlo), y edición cerrada (sólo el autor o personas autorizadas por el autor pueden modificarlo). Los artículos podrán incluir también imágenes.
-- Índices, que son o bien páginas con listas de enlaces, o bien páginas en sí mismas que resuman un tema.
+Esta fase expande el contenido de la *Urantiapedia* con las siguientes áreas:
+- **Hemeroteca**. Artículos y ayudas de estudio de *El Libro de Urantia*. Existen multitud de ellos en las webs de la [Fundación Urantia](https://www.urantia.org/), la [Fellowship](https://urantiabook.org/), las asociaciones Urantia y en webs de particulares. Ningún contenido se publicará sin permiso expreso de los autores siempre que sea posible localizarlos. El contenido podrá subirse en dos modos: edición pública (cualquier editor puede mejorarlo), y edición cerrada (sólo el autor o personas autorizadas por el autor pueden modificarlo). Los artículos podrán incluir también imágenes.
+- **Biblioteca**. Libros religiosos de las grandes religiones del mundo, libros de lectores, y otros libros aparte de la *Biblia* que se sospeche que son libros usados por los reveladores en algunas partes de *El Libro de Urantia*. Por ejemplo, Matthew Block es un lector que ha hecho un gran trabajo encontrando este material. https://urantiabooksources.com/
+- **Enciclopedia**. Para crearla se está utilizando como guía el índice creado por la *Urantia Fellowship* para su edición de *El Libro de Urantia* en inglés. Este índice, como contiene sólo anotaciones breves, se está expandiendo para convertirlo en un texto completo que sirva de versión inicial para cada página de cada término. https://urantia-book.org/urantiabook/topical_index/index.htm
+- Índices, páginas con listas de enlaces que sirven de punto de entrada para los contenidos anteriores.
 
 
 Tareas | Dónde | Quién
 --- | --- | ---
-Apertura del *Índice de Términos* para su edición manual por los editores | web | Editores Asistentes
 Desarrollo para la conversión de libros y artículos a Wiki.js | GitHub | Desarrolladores
-Adición de otros libros que se presuman fuentes de *El Libro de Urantia* aparte de *La Biblia* | GitHub | Editores Jefe
-Adición de artículos y estudios enlazados con el libro y las fuentes, con las referencias usadas | GitHub | Editores Jefe
+Desarrollo del *Topic Index Editor*, un asistente que permite acelerar el trabajo con la *Enciclopedia* | GitHub | Desarrolladores
+Desarrolllo para la conversión de la *Enciclopedia* en páginas con enlaces a *El Libro de Urantia* | GitHub | Desarrolladores
+Adición de artículos y estudios enlazados con el libro y con sus fuentes | GitHub | Editores Jefe
+Adición de de libros aparte de *La Biblia* | GitHub | Editores Jefe
+Adición de contenido a la *Enciclopedia* | GitHub | Editores Jefe
 Adición de índices de personas, seres, lugares, bíblicos, de referencias, de citas, cronologías, etc | GitHub | Editores Jefe
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
@@ -67,117 +66,110 @@ Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 <figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
 </figure>
 
+> Esta fase se encuentra completada para 3 idiomas (inglés, español y francés).
+{.is-success}
+
 ## Fase III - Traductor
 
-Esta fase es únicamente de desarrollo. En ella se incorporarán dos herramientas en Wiki.js que resultarán de especial importancia en este proyecto, y que actualmente no se encuentran previstas en el plan de trabajo de Wiki.js (https://docs.requarks.io/releases/roadmap):
-- Una aplicación en Urantiapedia Tools que automatice la traducción a múltiples idiomas de muchas páginas a la vez. Es importante que esta herramienta haga lo siguiente:
-  - Permita conectar a uno o varios servicios tipo Google Cloud Translator para realizar traducciones del texto.
-  - Mantenga la integridad del estilo y formato de las páginas (Markdown y HTML).
-  - Copie citas de *El Libro de Urantia* y la *Biblia* del original o la traducción existente y no las traduzca.
-  - Permita conocer de antemano el coste que tendrá la ejecución de la traducción al invocar los servicios usados.
-- Un nuevo tipo de editor en las páginas de la web que permita mostrar dos idiomas al tiempo y realizar una traducción asistida, de modo que en un lado se muestre un contenido que sirva de guía, y en paralelo se pueda ir viendo sugerencias de traducción y la traducción definitiva guardada. Además dispondrá de funcionalidad que permita conocer el progreso que lleva realizado el usuario en su trabajo de traducción y coordinarse con otros usuarios que también estén traduciendo en un mismo idioma.
-- Un nuevo tipo de visor de contenidos que permita ver un contenido a doble columna, mostrando dos idiomas de los disponibles al mismo tiempo. Una buena utilidad de esto es poder ver el original en inglés de *El Libro de Urantia* y otro idioma, pero esto serviría para cualquier página y cualquier par de idiomas.
-- También se añadirá una opción para poder seleccionar la traducción deseada al español puesto que hay tres traducciones oficiales de *El Libro de Urantia* al español. Sólo una será la traducción por defecto con la que conectarán los vínculos de otras páginas, pero al mostrar las páginas del libro en español se añadirá una opción que permita pasar de la traducción por defecto a las otras.
+Esta fase es únicamente de desarrollo. En ella se han incorporado los siguientes contenidos:
+- Una aplicación en _Urantiapedia Tools_ que automatiza la traducción a múltiples idiomas de muchas páginas a la vez. Esta herramienta hace lo siguiente:
+  - Permite conectar a servicios tipo Google Cloud Translator para realizar traducciones del texto.
+  - Mantiene la integridad del estilo y formato de las páginas (Markdown y HTML).
+  - Copia citas de *El Libro de Urantia* y la *Biblia* del original o la traducción existente y no las traduce, manteniendo la integridad de los textos y reduciendo el coste de traducción.
+  - Permite conocer de antemano el coste que tendrá la ejecución de la traducción al invocar los servicios usados.
+- **El Libro de Urantia en formato de múltiples traducciones**. Permite ver el original en inglés y las traducciones (una o varias) que estén disponibles.
 
 
 Tareas | Dónde | Quién
 --- | --- | ---
-Apertura de los libros y artículos para su edición manual por los editores | web | Editores Asistentes
-Desarrollo en Urantiapedia Tools de un traductor masivo de páginas | GitHub | Desarrolladores
-Desarrollo en Wiki.js un nuevo editor que permita traducciones asistidas directamente en la web | GitHub | Desarrolladores
-Desarrollo en Wiki.js de un modo de visualización de *El Libro de Urantia* y cualquier otro contenido en dos a cuatro idiomas | GitHub | Desarrolladores
-Desarrollo en Wiki.js de un selector de preferencia en la traducción a usar de *El Libro de Urantia* (para idiomas como español con varias) | GitHub | Desarrolladores
+Desarrollo en _Urantiapedia Tools_ de un traductor masivo de páginas | GitHub | Desarrolladores
+Desarrollo de un modo de visualización de *El Libro de Urantia* en varias traducciones | GitHub | Desarrolladores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
 <img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Ejemplo de visualización lado a lado de El Libro de Urantia.</em></figcaption>
 </figure>
 
-## Fase IV - Mapas interactivos
+> Esta fase se encuentra completada.
+{.is-success}
 
-Actualmente existen pocos estándares para guardar la definición de un mapa. El formato [KML](https://developers.google.com/kml/documentation) (propiedad de Google) es una buena opción que además permite extenderse porque está basado en XML. En esta fase se definirá un estándar basándose en lo mejor ya existente que permita guardar:
-- La definición de capas base y de funcionalidad básica de un mapa en 2D o 3D.
-- Puntos, líneas y polígonos sobre la superficie terrestre.
-- Estilos personalizados para las geometrías anteriores.
+## Fase IV - Ampliaciones, correcciones, Cartoteca y Mediateca
+
+En esta nueva fase, la fase en que se encuentra actualmente el proyecto, se trabajará en estas áreas:
+- **Ampliaciones** al contenido de las fase anteriores.
+- **Correcciones**. Puesto que mucho del contenido se ha introducido de una forma rápida, usando automatizaciones cuando ha sido posible, existen muchos fallos y errores que se irán puliendo con el tiempo.
+- **Cartoteca**. Una colección de mapas, tanto en formato interactivo como en formato imagen estática, que aclare la información geográfica que ofrece _El Libro de Urantia_.
+- **Mediateca**: será un repositorio de diversos materiales audiovisuales, que incluirá cosas como las siguientes:
+  * Imágenes, ya sean dibujos o fotografías de conceptos que ilustren *El libro de Urantia*.
+  * Diagramas o esquemas, que se intentará hacerlos interactivos si son muy grandes, para poder visualizarlos en dispositivos pequeños.
+  * Presentaciones de diapositivas.
+  * Modelos 3D, cada uno en una página, que pueden ser estáticos o interactivos como en los mapas.
+  * Versiones de audio de _El Libro de Urantia_.
+  * Colecciones de vídeos incrustados en el sitio, o si no es posible enlaces a vídeos, con cursos o explicaciones sobre _El Libro de Urantia_.
+
+La _Cartoteca_ va a necesitar el desarrollo de alguna solución para mostrar mapas interactivos. Tanto si los mapas se basan en imágenes estáticas como en un contenido interactivo, en ambos casos se buscará poder acercar y alejar el mapa para mostrar detalles u obtener una visión de conjunto. Existen soluciones comerciales como [Google Maps](https://www.google.com/maps) y [Google Earth](https://www.google.com/intl/es/earth/), que utilizan un formato propietario de Google ([KML](https://developers.google.com/kml/documentation)). Pero también hay otras alternativas opensource que serán estudiadas durante esta fase con el objetivo de no introducir dependencias tecnológicas si no resulta completamente necesario.
+
+La funcionalidad a desarrollar en la _Cartoteca_ debería permitir lo siguiente:
+- Zoom: acercar / alejar el mapa. Esta función debería estar disponible siempre, tanto si el mapa es una imagen estática como si es dinámico. Lo siguiente sólo estaría disponible para mapas dinámicos.
+- Renderizado de una capa base, y mejor si es posible seleccionar entre varias (callejero moderno, satélite, mapa de relieve).
+- Renderizado de elementos vectoriales (puntos, líneas, polígonos) con diferentes estilos visuales (iconos, grosores, colores).
 - Anotaciones emergentes con texto que puedan contener vínculos a otras páginas de la *Urantiapedia* o externas.
 - Visitas guiadas, es decir, colecciones de animaciones concatenadas donde la cámara se mueve de una posición a otra y se van mostrando y ocultando contenidos o anotaciones.
 - Animaciones de la geometría, asociadas o no a las visitas guiadas, que permitan mostrar, por ejemplo, un itinerario o visualizar una migración de una raza.
 
-Los desarrollos que se serán necesarios en *Wiki.js* son:
-- Un editor de mapas en el lado del cliente que use APIs existentes de mapas 2D y 3D (como por ejemplo, [Google Maps](https://www.google.com/maps) y [Google Earth](https://www.google.com/intl/es/earth/)) y permita crear el mapa en el estándar.
-- Un renderizador en el lado del servidor que convierta el estándar en un visor web que presente el mapa creado.
-- El visor web que presenta el mapa creado en el lado del cliente, una versión simplificada (sin herramientas de edición) del editor de mapas.
-
-
-Tareas | Dónde | Quién
---- | --- | ---
-Desarrollo en *Wiki.js* un editor de mapas interactivos, su formato y su renderizador | GitHub | Desarrolladores
-Adición de una colección de mapas interactivos de ejemplo sobre migraciones de razas, hechos históricos y viajes de Jesús de Nazaret | GitHub | Editores Jefe
 
 <figure id="Sample_fig_3" class="image urantiapedia">
 <img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
 </figure>
 
-## Fase V - Presentaciones
+La _Mediateca_ también va a necesitar de un desarrollo que permita presentaciones interactivas en _Urantiapedia_. No queremos colocar simplemente enlaces a ficheros PPT o PDF para que los usuarios los descarguen y tengan que visualizarlos de una forma externa. Queremos contenido en todos los idiomas y conectado con el resto de _Urantiapedia_. Esto no es fácil usando formatos propietarios que además introducen dependencias tecnológicas. Por eso buscaremos alternativas que permitan una funcionalidad amplia a la vez que basada en formatos estándares.
 
-Como ocurre con los mapas no existen formatos estándar para guardar presentaciones. El formato más universal es PPTX de PowerPoint (propiedad de Microsoft) pero no es un formato de tipo texto. En esta fase se definirá un estándar de guardado para presentaciones. Como alternativas open source muy interesantes que integran presentaciones en la web sin que estén atadas a un formato tenemos:
-- [Impress.js](https://github.com/impress/impress.js) con [Hovercraft](https://github.com/regebro/hovercraft) es una librería de creación de presentaciones. Formato [ReST](https://docutils.sourceforge.io/rst.html).
-- [Bespoke.js](https://github.com/bespokejs/bespoke) es una micro-librería de creación de presentaciones. Formato XML y otros.
-- [Strut](https://github.com/tantaman/Strut) es un editor para Impress.js y Bespoke.js. Formato Markdown.
-- [Reveal.js](https://revealjs.com/) es una librería de creación de presentaciones. Formato HTML o Markdown. [Hacker Slides](https://github.com/jacksingleton/hacker-slides) es un editor de Reveal.js que usa Markdown.
-- [Landslide](https://github.com/adamzap/landslide) es una librería de creación de presentaciones. Formato Markdown, ReST o Textile. 
+Algunas alternativas podrían ser:
+- [Google Docs](https://docs.google.com/).
+- [Prezi](https://prezi.com/).
+- [Impress.js](https://impress.js.org/) ([GitHub](https://github.com/impress/impress.js)) + [Hovercraft](https://regebro.github.io/hovercraft) ([GitHub](https://github.com/regebro/hovercraft))
+- [Bespoke.js](https://markdalgleish.com/projects/bespoke.js/) ([GitHub](https://github.com/bespokejs/bespoke)).
+- [Reveal.js](https://revealjs.com/) + [Hacker Slides](https://github.com/jacksingleton/hacker-slides).
+- [Landslide](https://github.com/adamzap/landslide).
 
-Los desarrollos que serán necesarios en *Wiki.js* son:
-- Un editor de presentaciones en el lado del cliente que use APIs existentes y permita crear la presentación en un formato estándar como Markdown.
-- Un renderizador en el lado del servidor que convierta el estándar en un visor web que muestre la presentación creada.
-- El visor web que muestra la presentación en el lado del cliente, una versión simplificada (sin herramientas de edición) del editor de presentaciones.
-
-
-Tareas | Dónde | Quién
---- | --- | ---
-Apertura de los mapas para su edición y adición manual por los editores | web | editores
-Desarrollo en *Wiki.js* de un editor de presentaciones, su formato y su renderizador | GitHub | Desarrolladores
-Adición de una colección de presentaciones usando disponibles en algunos sitios web de asociaciones | GitHub | Editores Jefe
 
 <figure id="Sample_fig_4" class="image urantiapedia">
 <img src="/image/help/sample_page_slides.png">
 <figcaption><em> Ejemplo de visualización de una presentación.</em></figcaption>
 </figure>
 
-## Fase VI - Modelos 3D interactivos
-
-Afortunadamente en el mundo 3D existe un estándar abierto para la creación de escenas 3D, [glTF](https://www.khronos.org/api/index_2017/gltf) del grupo [Khronos](https://github.com/KhronosGroup/glTF), que es como el JPG del 3D. Puede verse la potencia de este estándar en esta web de ejemplo: 
+Como parte de la _Mediateca_ también se incluirán escenas en 3 dimensiones. Por suerte en el mundo de los modelos 3D existe un estándar abierto para la creación de estas escenas 3D: [glTF](https://www.khronos.org/api/index_2017/gltf) del grupo [Khronos](https://github.com/KhronosGroup/glTF), que es algo así al formato JPG pero del mundo 3D. Puede verse la potencia de este estándar en esta web de ejemplo: 
 
 https://github.khronos.org/glTF-Sample-Viewer-Release/
 
 El formato está ampliamente extendido y soportado en muchas aplicaciones, y ya existen editores y visores de glTF online:
-- [PlayCanvas](https://playcanvas.com/). El engine es open source y dispone de un editor online de pago que permite crear escenas de forma colaborativa.
-- [Babylon.js](https://www.babylonjs.com/). Un engine y un editor completamente open source.
-- [Three.js](https://threejs.org/). Un engine y un [editor](https://threejs.org/editor/) completamente open source.
-- [WebGL Studio](https://webglstudio.org/). Un engine, [litescene.js](https://github.com/jagenjo/litescene.js), y un editor completamente open source.
+- [Sketchfab](https://sketchfab.com/)
+- [PlayCanvas](https://playcanvas.com/).
+- [Babylon.js](https://www.babylonjs.com/).
+- [Three.js](https://threejs.org/) + [editor](https://threejs.org/editor/)
+- [WebGL Studio](https://webglstudio.org/) + [litescene.js](https://github.com/jagenjo/litescene.js).
 
-Los desarrollos que se serán necesarios en *Wiki.js* son:
-- Integrar en *Wiki.js* un editor de escenas glTF (usando alguno de los anteriores) en el lado del cliente. glTF utiliza JSON como formato.
-- Un renderizador en el lado del servidor que convierta el glTF JSON en un visor web que muestre la escena 3D creada. El visor usado será el correspondiente al editor seleccionado.
-
-
-Tareas | Dónde | Quién
---- | --- | ---
-Apertura de las presentaciones para su edición y adición por los editores | web | editores
-Desarrollo en *Wiki.js* un editor de modelos 3D interactivos, su formato y su renderizador | GitHub | developers
-Adición de una colección de modelos 3D, como la Isla del Paraíso, las esferas arquitectónicas, o el Jardín del Eden | GitHub | Editores Jefe
 
 <figure id="Sample_fig_5" class="image urantiapedia">
 <img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
 </figure>
 
-## Futuro
+Tareas | Dónde | Quién
+--- | --- | ---
+Desarrollo de un sistema de visualización de mapas interactivos | GitHub | Desarrolladores
+Desarrollo de un sistema de visualización de presentaciones | GitHub | Desarrolladores
+Desarrollo de un sistema de visualización de modelos 3D interactivos | GitHub | developers
+Adición de una colección de mapas interactivos de ejemplo sobre migraciones de razas, hechos históricos y viajes de Jesús de Nazaret | GitHub | Editores Jefe
+Adición de una colección de presentaciones usando disponibles en algunos sitios web de asociaciones | GitHub | Editores Jefe
+Adición de una colección de diagramas o esquemas interactivos | GitHub | Editores Jefe
+Adición de una colección de modelos 3D, como la Isla del Paraíso, las esferas arquitectónicas, o el Jardín del Eden | GitHub | Editores Jefe
+Creación de audio de _El Libro de Urantia_ | GitHub | Editores Jefe
+Adición de una colección de vídeos incrustados o de enlaces a vídeos | GitHub | Editores Jefe
 
-A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyecto. Algunas ideas de cara al futuro que podrían albergarse en la *Urantiapedia*:
-* Servir de lugar centralizador para los esfuerzos de traducción del libro a otros idiomas.
-* Servir de portal donde ofrecer cursos de formación online sobre diferentes temáticas relacionadas con *El Libro de Urantia*.
+> Esta fase es la actualmente en progreso.
+{.is-warning}
 
 ## Enlaces externos
 

@@ -29,9 +29,9 @@ dateCreated: 2021-11-28T13:46:33.162Z
 ## Notre mission
 
 La mission principale que nous avons fixée pour Urantiapedia est la suivante:
-1. Aider à la diffusion des révélations du Livre d'Urantia dans le monde entier.
-2. Permettre une meilleure compréhension des enseignements du Livre d'Urantia.
-3. Offrir l'utilité de relier la plupart des connaissances actuelles disponibles sur la révélation d'Urantia.
+1. Aider à la diffusion des révélations du _Livre d'Urantia_ dans le monde entier.
+2. Permettre une meilleure compréhension des enseignements du _Livre d'Urantia_.
+3. Offrir l'utilité de relier la plupart des connaissances actuelles disponibles sur la _révélation d'Urantia_.
 
 ## Comment fonctionne-t-il ?
 
@@ -50,9 +50,9 @@ Comme dans tout Wiki, le contenu est constitué de pages, chacune ayant une URL 
 Ce sont les contenus principaux attendus :
 
 * **La Hémérothèque du _Livre d'Urantia_** : contient des articles écrits par des lecteurs dans des publications associatives et privées. Chaque article est publié sur une page. [Lire la suite](/fr/article).
-* **La Bibliothèque Urantienne** : propose des livres, tels que le *Le Livre d'Urantia*, la *Bible*, des livres de toutes les autres grandes religions du monde et d'autres textes liés aux révélations d'Urantia. Il comprendra des livres de lecteurs souhaitant publier ouvertement leurs œuvres. Chaque chapitre de chaque livre est une page de *Urantiapedia*. [Lire la suite](/fr/book).
+* **La Bibliothèque Urantienne** : propose des livres, tels que le *Le Livre d'Urantia*, la *Bible*, des livres de toutes les grandes religions du monde et d'autres textes liés aux _révélations d'Urantia_. Il comprendra des livres de lecteurs souhaitant publier ouvertement leurs œuvres. Chaque chapitre de chaque livre est une page de *Urantiapedia*. [Lire la suite](/fr/book).
 * **L'Encyclopédie du _Le Livre d'Urantia_** : est une encyclopédie de chaque sujet d'intérêt ou nom propre mentionné dans *Le Livre d'Urantia*. Chaque sujet est stocké sur une page. Il est parfois appelé sur ce site _Topic Index_, mais c'est bien plus qu'un index. [Lire la suite](/fr/topic).
-* **La Cartothèque du Livre d'Urantia_** : contiendra des cartes interactives, en 2D ou 3D, montrant les lieux ou les voyages décrits dans les révélations d'Urantia ; également des cartes non interactives sous forme de fichiers téléchargeables. Chaque carte fera une page. Les cartes peuvent être statiques ou contenir des animations pour créer des itinéraires animés. [Lire la suite](/fr/map).
+* **La Cartothèque du Livre d'Urantia_** : contiendra des cartes interactives, en 2D ou 3D, montrant les lieux ou les voyages décrits dans les _révélations d'Urantia_ ; également des cartes non interactives sous forme de fichiers téléchargeables. Chaque carte fera une page. Les cartes peuvent être statiques ou contenir des animations pour créer des itinéraires animés. [Lire la suite](/fr/map).
 * **La Médiathèque du _Livre d'Urantia_** : sera un référentiel de divers documents audiovisuels, y compris des éléments comme les suivants :
   * Des images, qu'il s'agisse de dessins ou de photographies de concepts qui illustrent le *Livre d'Urantia*.
   * Des diagrammes ou schémas, qui tenteront de les rendre interactifs s'ils sont très grands, pour pouvoir les visualiser sur de petits appareils.
@@ -66,22 +66,24 @@ Pour plus d'informations sur le contenu, cliquez ici : [Contenu](/fr/help/conten
 ## Étapes du projet
 
 Pour chaque langue à inclure dans l'Urantipedia, toutes les tâches seront effectuées dans des étapes spécifiques :
-1. Étape I - _Le Livre d'Urantia_, la _Bible_ et l'_Encyclopédie du Livre d'Urantia_.
-2. Étape II - Les _Hémérothèque_ et la _Bibliothèque urantienne_ : Articles, livres, aides à l'étude et index.
+1. Étape I - _Le Livre d'Urantia_ et la _Bible_.
+2. Étape II - Les _Hémérothèque_ (articles, aides à l'étude), la _Bibliothèque urantienne_ (livres) et l'_Encyclopédie du Livre d'Urantia_.
 3. Étape III - Traducteur. Il ne s'agit pas d'un contenu mais d'une application dans *Urantiapedia Tools* pour permettre des traductions rapides dans chaque langue.
-4. Étape IV - La _Cartothèque_ : Cartes interactives et fichiers téléchargeables.
-5. Étape V - La _Médiathèque_ : Schémas, présentations, audio, vidéo.
-6. Étape VI - La _Médiathèque_ : Modèles 3D interactifs.
+4. Étape IV - Extensions et corrections du contenu des Étapes I et II, et ajout de la _Cartothèque_ (cartes) et de la _Médiathèque_ (schémas, présentations, audio, vidéo, modèles 3D).
 
 Pour en savoir plus sur les étapes du projet, consultez la rubrique[ Étapes du projet](/fr/help/phases).
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/help/Phases_2025_fr.svg">
+<figcaption>Fig. 1: Étapes du project.</figcaption>
+</figure>
 
 ## Situation actuelle
 
 Actuellement, *Urantiapedia* se présente comme suit :
-* De nombreux progrès ont été réalisés dans la Étape I. _Le Livre d'Urantia_, la _Bible_ et _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes les langues prises en charge (25 actuellement). L'_Encyclopédie du Livre d'Urantia_ est en cours pour l'anglais, l'espagnol et le français.
-* La Étape II est en cours pour l'anglais, l'espagnol et le français.
-* Beaucoup de progrès ont été réalisés en Étape III, c'est un logiciel de traduction et il n'y a pas de contenu spécifique pour chaque langue.
-* Des Étapes IV, V et VI, seuls de petits tests ont été réalisés avec certains contenus.
+* La étape I est achevée en 25 langues. Le _Livre d’Urantia_, la _Bible_ et la _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes ces langues.
+* Les étapes II et III sont réalisées en trois langues : anglais, espagnol et français. La _Hémérothèque_, la _Bibliothèque_ et l'_Encyclopédie_ ont un contenu suffisant pour considérer ces phases comme complètes.
+* Seules de petites preuves de concept ont été réalisées en étape IV. C’est la phase dans laquelle nous nous trouvons actuellement.
 
 Pour en savoir plus sur l'avancement actuel du projet, cliquez ici: [Statut](/fr/help/status).
 

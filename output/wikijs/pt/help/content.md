@@ -26,8 +26,8 @@ Aqui está uma explicação detalhada de todos os tipos de conteúdo esperados p
 
 Como em qualquer Wiki em [Urantiapedia](https://urantiapedia.org) existem páginas, cada uma com um título e URL únicos. Por exemplo:
 * https://urantiapedia.org/pt/The_Urantia_Book/156 é o URL de uma página com o papel 156 do Livro de Urântia em inglês.
-* https://urantiapedia.org/es/article/How_big_is_Orvonton é o URL de uma página com um artigo sobre Orvonton em espanhol.
-* https://urantiapedia.org/ko/topic/Andrew é o URL de uma página sobre o apóstolo André em coreano.
+* https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton é o URL de uma página com um artigo sobre Orvonton em espanhol.
+* https://urantiapedia.org/fr/topic/Andrew é o URL de uma página sobre o apóstolo André em francês.
 
 Cada página pode ser um artigo, um capítulo de um livro, a página de índice de um livro, um índice agrupando links para outras páginas e assim por diante. O que as páginas compõem depende da criatividade dos usuários e podem ser modificados a qualquer momento conforme as necessidades mudam, embora uma vez criada uma página, é recomendável torná-la permanente e usar redirecionamentos, se necessário.
 
@@ -164,7 +164,6 @@ Com relação a qualquer outro livro além da Bíblia que seja uma possível fon
 
 Por exemplo, Matthew Block é um leitor que fez um ótimo trabalho encontrando material de origem do *O Livro de Urântia*, conforme explicado em https://urantiabooksources.com/. Um dos livros que ele identificou como uma possível fonte de reveladores é *The Universe Around Us*, de Sir James Jeans, publicado em 1930. Como este livro entrou em domínio público, ele pode ser adicionado a *Urantiapedia* e links para este livro pode ser assim:
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
 
 ### Outros livros de leitores
@@ -184,11 +183,11 @@ O padrão de URL para um artigo deve seguir este: `https://urantiapedia.org/en/a
 
 Vamos colocar um exemplo. Imagine que um leitor espanhol criou um artigo intitulado *Nazaret en tiempos de Jesús*, que podemos traduzir para *Nazaré nos tempos de Jesus*. A melhor escolha para URL seria
 
-https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
+https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
 
 ao invés de
 
-https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
+https://urantiapedia.org/es/article/Jan_Herca/Cómo_fue_Nazaret_en_tiempos_de_Jesús
 
 Esteja ciente de que o propósito do *Urantipedia* é permitir um conteúdo multilíngue para todos, e espera-se que qualquer página carregada nele seja traduzida para todos os idiomas suportados em algum momento no futuro. Os títulos em inglês fornecem uma maneira comum unificada de identificar URLs. Isso não afeta o título da página, que é sempre um valor diferente da URL. Mais sobre isso em uma seção abaixo.
 
@@ -264,11 +263,11 @@ O padrão de URL para mapas é:
 
 Os mapas permitirão vincular a uma posição dentro do mapa por meio de parâmetros, seja por um nome ou por coordenadas. Por exemplo, vamos imaginar uma página de mapa da viagem de vôo de Jesus para o norte com seus apóstolos. Este mapa pode ter este URL:
 
-https://urantiapedia.org/en/map/Jesus_voyages_north_flight
+https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine
 
-E duas maneiras de abrir este mapa centrado em Ramah seriam:
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?name=Ramah`
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?lonlat=32.936424,35.367742`
+Quando este tipo de mapa estiver totalmente operacional, duas formas de abrir este mapa centrado em Ramah seriam:
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?name=Ramah`
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?lonlat=32.936424,35.367742`
 
 Os nomes dos mapas em URL já foram explicados que é necessário estar em inglês.
 
@@ -345,12 +344,11 @@ Exemplos de URLs:
 - https://urantiapedia.org/lt/Bible/John
 - https://urantiapedia.org/ro/Bible/John/Index
 - https://urantiapedia.org/pt/Bible/John/2
-- https://urantiapedia.org/pt/book/The_Universe_Around_Us
-- https://urantiapedia.org/pt/book/The_Universe_Around_Us/Index
-- https://urantiapedia.org/pt/book/The_Universe_Around_Us/3
-- https://urantiapedia.org/ko/topic/Andrew
-- https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
-- https://urantiapedia.org/pt/article/How_big_is_Orvonton
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+- https://urantiapedia.org/fr/topic/Andrew
+- https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
+- https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton
 - https://urantiapedia.org/pt/index/topics
 - https://urantiapedia.org/pt/index/people
 - https://urantiapedia.org/ru/image/Master_Universe

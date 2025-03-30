@@ -53,6 +53,8 @@ sv | Sueco | Urântiaboken
 
 Os códigos de idioma devem seguir o padrão ISO 639-1 com duas letras para cada idioma. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
+À medida que novas traduções de _O Livro de Urântia_ forem disponibilizadas, serão adicionadas à Urantiapedia, e a lista de línguas suportadas será alargada.
+
 ## Aspas
 
 Estas são as aspas corretas para usar em cada idioma:
@@ -89,13 +91,13 @@ https://en.wikipedia.org/wiki/Quotation_mark
 
 ## Abreviaturas bíblicas
 
-As abreviaturas bíblicas devem ser registradas no *Urantiapedia Tools* para serem utilizadas nos processos de conversão. Consulte [Abreviaturas](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). O código mostra um objeto JavaScript que contém para cada idioma uma lista de abreviações, o título de cada livro bíblico e o caminho em Urantiapedia para o livro.
+As abreviaturas bíblicas devem ser registradas no *Urantiapedia Tools* para serem utilizadas nos processos de conversão. Consulte [Abreviaturas](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). Este é um ficheiro de código que contém um objeto JavaScript com uma lista de abreviaturas para cada língua, o título de cada livro bíblico e o caminho na _Urantiapedia_ para cada livro.
 
 ## Tradutores online
 
-https://translate.google.es/
-
-https://www.deepl.com/translator
+Alguns utilitários online que utilizamos para traduções são:
+- https://translate.google.es/
+- https://www.deepl.com/translator
 
 ## Links externos
 

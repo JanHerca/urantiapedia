@@ -25,9 +25,9 @@ Here is a detailed explanation of all types of content expected for *Urantiapedi
 ## How content is organized
 
 As in any Wiki in [Urantiapedia](https://urantiapedia.org) there are pages, each one with a unique title and URL. For example:
-* https://urantiapedia.org/en/The_Urantia_Book/156 is the URL for a page with the paper 156 of Urantia Book in english.
-* https://urantiapedia.org/es/article/How_big_is_Orvonton is the URL for a page with an article about Orvonton in spanish.
-* https://urantiapedia.org/ko/topic/Andrew is the URL for a page about the apostle Andrew in korean.
+* https://urantiapedia.org/en/The_Urantia_Book/156 is the URL for a page with the paper 156 of Urantia Book in English.
+* https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton is the URL for a page with an article about Orvonton in Spanish.
+* https://urantiapedia.org/fr/topic/Andrew is the URL for a page about the apostle Andrew in French.
 
 Each page can be an article, a chapter of a book, the index page of a book, an index grouping links to other pages, and so on. What pages comprise is up to the creativity of users and can be modified at any time as needs change, although once a page is created it is recommended to make it permanent and use redirections if it is needed.
 
@@ -164,7 +164,6 @@ Regarding any other book apart from Bible that is a possible source of *The Uran
 
 For example, Matthew Block is a reader that has done a great work finding source material of *The Urantia Book*, as explained in https://urantiabooksources.com/. One of the books he has identified as a possible source of revelators is *The Universe Around Us*, from sir James Jeans, published in 1930. As this book has entered public domain, it can be added to *Urantiapedia*, and links to this book can be like this:
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
 
 ### Other books from readers
@@ -184,11 +183,11 @@ The URL pattern for an article should follow this: `https://urantiapedia.org/en/
 
 Let's put an example. Imagine a spanish reader has created an article titled *Nazaret en tiempos de Jesús*, that we can translate to *Nazareth in Jesus times*. The better choice for URL would be
 
-https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
+https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
 
 instead of
 
-https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
+https://urantiapedia.org/es/article/Jan_Herca/Cómo_fue_Nazaret_en_tiempos_de_Jesús
 
 Be aware that the purpose of *Urantiapedia* is allow a multi-language content for everybody, and any page uploaded to it is expected to be translated to all supported languages at some point in future. English titles provide a unified common way to identify URLs. This do no affects the title of the page, that is always a different value from the URL. More on this in a section below.
 
@@ -264,11 +263,11 @@ The URL pattern for maps is:
 
 Maps will allow to link to a position within the map through parameters, either by a name or by coordinates. For example, let's imagine a map page of Jesus' flight journey north with his apostles. This map could have this URL:
 
-https://urantiapedia.org/en/map/Jesus_voyages_north_flight
+https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine
 
-And two ways to open this map centered on Ramah would be:
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?name=Ramah`
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?lonlat=32.936424,35.367742`
+When this type of map is fully operational, two ways to open this Ramah-centric map would be:
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?name=Ramah`
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?lonlat=32.936424,35.367742`
 
 The names of the maps in URL have already been explained that it is needed to be in English.
 
@@ -345,12 +344,11 @@ Examples of URLs:
 - https://urantiapedia.org/lt/Bible/John
 - https://urantiapedia.org/ro/Bible/John/Index
 - https://urantiapedia.org/en/Bible/John/2
-- https://urantiapedia.org/en/book/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
-- https://urantiapedia.org/ko/topic/Andrew
-- https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
-- https://urantiapedia.org/en/article/How_big_is_Orvonton
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+- https://urantiapedia.org/fr/topic/Andrew
+- https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
+- https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton
 - https://urantiapedia.org/en/index/topics
 - https://urantiapedia.org/en/index/people
 - https://urantiapedia.org/ru/image/Master_Universe

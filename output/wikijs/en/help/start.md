@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T13:46:33.162Z
 The key mission we have set for *Urantiapedia* is:
 1. Help in dissemination of *The Urantia Book* revelations throughout the world.
 2. Allow for a better understanding of the teachings of *The Urantia Book*.
-3. Offer the usefulness of linking most of the current knowledge available about the Urantia revelation.
+3. Offer the usefulness of linking most of the current knowledge available about the _Urantia revelation_.
 
 
 ## How it works?
@@ -50,9 +50,9 @@ Both *Urantiapedia Tools* and *Wiki.js* will receive new functionality as *Urant
 As in any Wiki the content are pages, each one with a unique URL and a title. These are main contents expected:
 
 * **The Urantia Book Newsletter Archive** - features articles written by readers in both association and individual publications. Each article is posted on one page. [Read more](/en/article).
-* **The Urantia Library** - features books such as *The Urantia Book*, the *Bible*, books on all the other major world religions, and other texts related to the Urantia revelations. It will include books by readers who wish to publish their works openly. Each chapter in each book is a page in the *Urantiapedia*. [Read more](/en/book).
+* **The Urantia Library** - features books such as *The Urantia Book*, the *Bible*, books on all the major world religions, and other texts related to the _Urantia revelations_. It will include books by readers who wish to publish their works openly. Each chapter in each book is a page in the *Urantiapedia*. [Read more](/en/book).
 * **The Urantia Book Encyclopedia** - is an encyclopedia of every topic of interest or proper name mentioned in *The Urantia Book*. Each topic is stored on one page. It is sometimes referred to on this site as the _Topic Index_, but it is much more than an index. [Read more](/en/topic).
-* **The Urantia Book Map Library**: will contain interactive maps, in 2D or 3D, showing locations or journeys described in the Urantia revelations; also non-interactive maps as downloadable files. Each map will be one page. Maps may be static or contain animations to create animated routes. [Read more](/en/map).
+* **The Urantia Book Map Library**: will contain interactive maps, in 2D or 3D, showing locations or journeys described in the _Urantia revelations_; also non-interactive maps as downloadable files. Each map will be one page. Maps may be static or contain animations to create animated routes. [Read more](/en/map).
 * **The Urantia Book Media Library**: will be a repository of various audiovisual materials, including things like the following:
   * Images, either drawings or photographs of concepts that illustrate *The Urantia Book*.
   * Diagrams or schematics, which will be attempted to be made interactive if they are too large, so that they can be viewed on small devices.
@@ -67,23 +67,25 @@ For more information on the content check here: [Content](/en/help/content)
 ## Milestones of the project
 
 For each language to be included in the *Urantipedia*, all tasks will be carried out in specific milestones:
-1. Milestone I - _The Urantia Book_, the _Bible_, and the _Urantia Book Encyclopedia_.
-2. Milestone II - The _Newspaper Library_ and the _Urantia Library_: Articles, books, study aids, and indexes.
-3. Milestone III - Translator. This is not content but an application in *Urantiapedia Tools* to allow quick translations into each language.
-4. Milestone IV - The _Map Library_: Interactive maps and downloadable files.
-5. Milestone V - The _Media Library_: Diagrams, presentations, audio, video.
-6. Milestone VI - The _Media Library_: Interactive 3D models.
+1. Milestone I - _The Urantia Book_ and the _Bible_.
+2. Milestone II - The _Newspaper Library_ (articles, study aids), the _Urantia Library_ (books), and the _Urantia Book Encyclopedia_.
+3. Milestone III - Translator. This is not content but an application in _Urantiapedia Tools_ to allow rapid translations into each language.
+4. Milestone IV - Extensions and corrections to the content of Milestone I and II, and the addition of the _Map Library_ (maps) and the _Media Library_ (diagrams, presentations, audio, video, 3D models).
 
 To find out about the Milestone of the project, check [Project Milestones](/en/help/phases).
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/help/Phases_2025_en.svg">
+<figcaption>Fig. 1: Milestones of the project.</figcaption>
+</figure>
 
 
 ## Current status
 
 Currently *Urantiapedia* stands as follows:
-* Much progress has been made on Milestone I. The _Urantia Book_, the _Bible_, and the _Paramony_ (or links between the two) are now added in all supported languages ​​(25 currently). The _Urantia Book Encyclopedia_ is in progress for English, Spanish, and French.
-* Milestone II is in progress for English, Spanish, and French..
-* Milestone III is much of it done, it is a translation software and there is no specific content for each language.
-* For milestones IV, V and VI only small tests have been carried out with some contents.
+* Milestone I is complete in 25 languages. _The Urantia Book_, the _Bible_, and the _Paramony_ (or links between the two) are added in all of these languages.
+* Milestones II and III are complete in three languages: English, Spanish, and French. The _Newspaper Library_, the _Urantia Library_, and the _Encyclopedia_ have sufficient content to consider these milestones achieved.
+* Only small proofs of concept have been completed in Milestone IV. This is the phase we are currently in.
 
 To know more about the current progress of the project check here: [Status](/en/help/status).
 

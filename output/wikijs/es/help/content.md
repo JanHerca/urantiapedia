@@ -26,8 +26,8 @@ Aquí se ofrece una explicación detallada de todos los tipos de contenido esper
 
 Como en toda Wiki en [Urantiapedia](https://urantiapedia.org) hay páginas, cada una con un título y una URL únicas. Por ejemplo:
 * https://urantiapedia.org/en/The_Urantia_Book/156 es la URL de una página con el documento 156 de *El Libro de Urantia* en inglés.
-* https://urantiapedia.org/es/article/How_big_is_Orvonton es la URL de una página con un artículo sobre Orvonton en español.
-* https://urantiapedia.org/ko/topic/Andrew es la URL de una página acerca del apóstol Andrés en coreano.
+* https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton es la URL de una página con un artículo sobre Orvonton en español.
+* https://urantiapedia.org/fr/topic/Andrew es la URL de una página acerca del apóstol Andrés en francés.
 
 Cada página puede ser un artículo, un capítulo de un libro, la página de índice de un libro, un índice agrupando enlaces a otras páginas, etc. Lo que cada página contenga es algo a libertad de los usuarios y puede ser modificado con el paso del tiempo según las necesidades cambien, aunque es muy recomendable que una vez creada una página esta permanezca siempre y se usen redireccionamientos si resulta necesario.
 
@@ -124,7 +124,7 @@ Esta estructura con *Referencias*, *Enlaces* y *Enlaces externos* será un patr�
 
 ### La Biblia
 
-Respecto a la Biblia, por ser un libro destacado que es masivamente citado por los autores de *El Libro de Urantia*, dispone de una ruta corta. Cada libro de la Biblia es una página, y caa capítulo una página. Por ejemplo, estos son los enlaces para los libros y capítulos del Génesis y el evangelio de Juan:
+Respecto a la Biblia, por ser un libro destacado que es masivamente citado por los autores de *El Libro de Urantia*, dispone de una ruta corta. Cada libro de la Biblia es una página, y cada capítulo una página. Por ejemplo, estos son los enlaces para los libros y capítulos del Génesis y el evangelio de Juan:
 - https://urantiapedia.org/en/Bible/Genesis
 - https://urantiapedia.org/en/Bible/Genesis/Index
 - https://urantiapedia.org/en/Bible/Genesis/2
@@ -164,7 +164,6 @@ Con respecto a cualquier otro libro, aparte de la Biblia, que sea una posible fu
 
 Por ejemplo, Matthew Block es un lector que ha hecho un gran trabajo encontrando material fuente de *El libro de Urantia*, como se explica en https://urantiabooksources.com/. Uno de los libros que ha identificado como una posible fuente de los reveladores es *The Universe Around Us*, de sir James Jeans, publicado en 1930. Como este libro ha pasado a ser de dominio público, se puede añadir a *Urantiapedia* y los enlaces a este libro pueden ser así:
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
 
 ### Otros libros de lectores
@@ -184,11 +183,11 @@ El patrón de la URL de un artículo debe seguir esto: `https://urantiapedia.org
 
 Pongamos un ejemplo. Imagina que un lector español ha creado un artículo titulado *Nazaret en tiempos de Jesús*, que podemos traducir al inglés como *Nazareth in Jesus times*. La mejor opción para URL sería
 
-https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
+https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
 
 en lugar de
 
-https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
+https://urantiapedia.org/es/article/Jan_Herca/Cómo_fue_Nazaret_en_tiempos_de_Jesús
 
 Ten en cuenta que el propósito de la *Urantipedia* es permitir un contenido en varios idiomas para todos, y se espera que cualquier página cargada en ella se traduzca a todos los idiomas soportados en algún momento en el futuro. Los títulos en inglés proporcionan una forma común unificada de identificar la URL. Esto no afecta al título de la página que siempre es un valor diferente al de la URL. Más sobre esto en una sección posterior.
 
@@ -264,11 +263,11 @@ El patrón de la URL para mapas es:
 
 Los mapas permitirán enlace a una posición dentro del mapa mediante parámetros, bien por un nombre o bien por coordenadas. Por ejemplo, imaginemos una página con el mapa del viaje de huida de Jesús hacia el norte con sus apóstoles. Este mapa podría tener esta URL:
 
-https://urantiapedia.org/en/map/Jesus_voyages_north_flight
+https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine
 
-Y dos formas de abrir este mapa centrado en Ramá sería:
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?name=Ramah`
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?lonlat=32.936424,35.367742`
+Cuando este tipo de mapas esté completamente operativo, dos formas de abrir este mapa centrado en Ramá sería:
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?name=Ramah`
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?lonlat=32.936424,35.367742`
 
 Los nombres de los mapas ya se ha explicado que es necesario en la URL que estén en inglés.
 
@@ -344,12 +343,11 @@ Ejemplos de URLs:
 - https://urantiapedia.org/lt/Bible/John
 - https://urantiapedia.org/ro/Bible/John/Index
 - https://urantiapedia.org/en/Bible/John/2
-- https://urantiapedia.org/en/book/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
-- https://urantiapedia.org/ko/topic/Andrew
-- https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
-- https://urantiapedia.org/en/article/How_big_is_Orvonton
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+- https://urantiapedia.org/fr/topic/Andrew
+- https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
+- https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton
 - https://urantiapedia.org/en/index/topics
 - https://urantiapedia.org/en/index/people
 - https://urantiapedia.org/ru/image/Master_Universe

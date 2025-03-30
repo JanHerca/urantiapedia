@@ -26,8 +26,8 @@ Voici une explication détaillée de tous les types de contenu attendus pour *Ur
 
 Comme dans tout wiki de [Urantiapedia](https://urantiapedia.org), il y a des pages, chacune avec un titre et une URL uniques. Par exemple:
 * https://urantiapedia.org/en/The_Urantia_Book/156 est l'URL d'une page avec l'article 156 du Livre d'Urantia en anglais.
-* https://urantiapedia.org/es/article/How_big_is_Orvonton est l'URL d'une page avec un article sur Orvonton en espagnol.
-* https://urantiapedia.org/ko/topic/Andrew est l'URL d'une page sur l'apôtre Andrew en coréen.
+* https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton est l'URL d'une page avec un article sur Orvonton en espagnol.
+* https://urantiapedia.org/fr/topic/Andrew est l'URL d'une page sur l'apôtre Andrew en français.
 
 Chaque page peut être un article, un chapitre de livre, la page d'index d'un livre, un index regroupant des liens vers d'autres pages, etc. Le contenu des pages dépend de la créativité des utilisateurs et peut être modifié à tout moment en fonction des besoins, bien qu'une fois qu'une page est créée, il est recommandé de la rendre permanente et d'utiliser des redirections si nécessaire.
 
@@ -164,7 +164,6 @@ En ce qui concerne tout autre livre en dehors de la Bible qui est une source pos
 
 Par exemple, Matthew Block est un lecteur qui a fait un excellent travail pour trouver les sources du *Livre d'Urantia*, comme expliqué dans https://urantiabooksources.com/. L'un des livres qu'il a identifié comme une source possible de révélateurs est *The Universe Around Us*, de sir James Jeans, publié en 1930. Comme ce livre est entré dans le domaine public, il peut être ajouté à *Urantiapedia*, et des liens vers ce livre peut ressembler à ceci :
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
 
 ### Autres livres de lecteurs
@@ -184,11 +183,11 @@ Le modèle d'URL d'un article doit suivre ceci : `https://urantiapedia.org/en/ar
 
 Prenons un exemple. Imaginez qu'un lecteur espagnol ait créé un article intitulé *Nazaret en tiempos de Jesús*, que nous pouvons traduire par *Nazareth au temps de Jésus*. Le meilleur choix pour l'URL serait
 
-https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
+https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
 
 à la place de
 
-https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
+https://urantiapedia.org/es/article/Jan_Herca/Cómo_fue_Nazaret_en_tiempos_de_Jesús
 
 Sachez que le but de *Urantiapedia* est de permettre un contenu multilingue pour tout le monde, et toute page téléchargée dessus devrait être traduite dans toutes les langues prises en charge à un moment donné à l'avenir. Les titres en anglais fournissent un moyen commun et unifié d'identifier les URL. Cela n'affecte pas le titre de la page, qui est toujours une valeur différente de l'URL. Plus d'informations à ce sujet dans une section ci-dessous.
 
@@ -264,11 +263,11 @@ Le modèle d'URL pour les cartes est :
 
 Les cartes permettront de se lier à une position dans la carte par le biais de paramètres, soit par un nom, soit par des coordonnées. Par exemple, imaginons une page de carte du vol vers le nord de Jésus avec ses apôtres. Cette carte pourrait avoir cette URL :
 
-https://urantiapedia.org/en/map/Jesus_voyages_north_flight
+https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine
 
-Et deux façons d'ouvrir cette carte centrée sur Ramah seraient :
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?name=Ramah`
-- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?lonlat=32.936424,35.367742`
+Lorsque ce type de carte sera pleinement opérationnel, deux manières d'ouvrir cette carte centrée sur Ramah seraient :
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?name=Ramah`
+- `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?lonlat=32.936424,35.367742`
 
 Les noms des cartes en URL ont déjà été expliqués qu'il faut être en anglais.
 
@@ -345,12 +344,11 @@ Exemples d'URL :
 - https://urantiapedia.org/lt/Bible/John
 - https://urantiapedia.org/ro/Bible/John/Index
 - https://urantiapedia.org/fr/Bible/John/2
-- https://urantiapedia.org/en/book/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
-- https://urantiapedia.org/ko/topic/Andrew
-- https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
-- https://urantiapedia.org/en/article/How_big_is_Orvonton
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+- https://urantiapedia.org/fr/topic/Andrew
+- https://urantiapedia.org/es/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus
+- https://urantiapedia.org/es/article/Norm_Duval/How_big_is_Orvonton
 - https://urantiapedia.org/en/index/topics
 - https://urantiapedia.org/en/index/people
 - https://urantiapedia.org/ru/image/Master_Universe

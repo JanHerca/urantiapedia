@@ -53,6 +53,8 @@ sv | Swedish | Urantiaboken
 
 The language codes must follow the ISO 639-1 standard with two letters for each language. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
+As new translations of _The Urantia Book_ become available, they will be added to Urantiapedia, and the list of supported languages ​​will be expanded.
+
 ## Quotation marks
 
 These are the correct quotation marks to use in each language:
@@ -89,13 +91,13 @@ https://en.wikipedia.org/wiki/Quotation_mark
 
 ## Biblical abbreviatures
 
-Biblical abbreviatures must be registered in *Urantiapedia Tools* to be used in the conversion processes. See [Abbreviatures](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). The code shows a JavaScript object that contains for each language a list of abbreviations, the title of each Biblical book, and the path in Urantiapedia for the book.
+Biblical abbreviatures must be registered in *Urantiapedia Tools* to be used in the conversion processes. See [Abbreviatures](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). This is a code file containing a JavaScript object with a list of abbreviations for each language, the title of each biblical book, and the path in _Urantiapedia_ for each book.
 
 ## Translators online
 
-https://translate.google.es/
-
-https://www.deepl.com/translator
+Some online utilities we use for translations are:
+- https://translate.google.es/
+- https://www.deepl.com/translator
 
 ## External links
 

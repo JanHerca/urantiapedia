@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 La misión esencial que nos hemos marcado con la *Urantiapedia* es:
 1. Ayudar a la diseminación de las revelaciones de *El Libro de Urantia* en el mundo.
 2. Permitir una mejor comprensión de las enseñanzas de *El Libro de Urantia*.
-3. Ofrecer la utilidad de enlazar todo el conocimiento actual disponible sobre las revelaciones de Urantia.
+3. Ofrecer la utilidad de enlazar todo el conocimiento actual disponible sobre las _revelaciones de Urantia_.
 
 
 ## ¿Cómo funciona?
@@ -49,9 +49,9 @@ Tanto las *Urantiapedia Tools* como *Wiki.js* irán recibiendo nuevas funcionali
 Como en cualquier Wiki, el contenido son páginas, cada una con una URL y un título únicos. Estos son los principales contenidos esperados:
 
 * **La Hemeroteca de _El Libro de Urantia_** : dispone de artículos escritos por lectores tanto en publicaciones de asociaciones como de particulares. Cada artículo se publica en una página. [Leer más](/es/article).
-* **La Biblioteca Urantiana** : ofrece libros, como *El libro de Urantia*, la *Biblia*, libros de todas las otras grandes religiones del mundo, y otros textos relacionados con las revelaciones de Urantia. Incluirá libros de lectores que deseen publicar abiertamente sus obras. Cada capítulo de cada libro es una página en la *Urantiapedia*. [Leer más](/es/book).
-* **La Enciclopedia de _El Libro de Urantia_** : es una enciclopedia de cada tema de interés o nombre propio mencionado en *El libro de Urantia*. Cada tema se almacena en una página. A veces se lo menciona en este sitio como el _Índice de Temas_, pero es mucho más que un índice. [Leer más](/es/topic).
-* **La Cartoteca de _El Libro de Urantia_** : contendrá mapas interactivos, en 2D o 3D, que muestren ubicaciones o viajes descritos en las revelaciones de Urantia; también mapas no-interactivos como ficheros descargables. Cada mapa será una página. Los mapas pueden ser estáticos o contener animaciones para crear rutas animadas. [Leer más](/es/map).
+* **La Biblioteca Urantiana** : ofrece libros, como *El libro de Urantia*, la *Biblia*, libros de todas las grandes religiones del mundo, y otros textos relacionados con las _revelaciones de Urantia_. Incluirá libros de lectores que deseen publicar abiertamente sus obras. Cada capítulo de cada libro es una página en la *Urantiapedia*. [Leer más](/es/book).
+* **La Enciclopedia de _El Libro de Urantia_** : es una enciclopedia de cada tema de interés o nombre propio mencionado en *El libro de Urantia*. Cada tema se almacena en una página. A veces aparece mencionada en la web como el _Índice de Temas_ (_Topic Index_), pero es mucho más que un índice. [Leer más](/es/topic).
+* **La Cartoteca de _El Libro de Urantia_** : contendrá mapas interactivos, en 2D o 3D, que muestren ubicaciones o viajes descritos en las _revelaciones de Urantia_; también mapas no-interactivos como ficheros descargables. Cada mapa será una página. Los mapas pueden ser estáticos o contener animaciones para crear rutas animadas. [Leer más](/es/map).
 * **La Mediateca de _El Libro de Urantia_** : será un repositorio de diversos materiales audiovisuales, que incluirá cosas como las siguientes:
   * Imágenes, ya sean dibujos o fotografías de conceptos que ilustren *El libro de Urantia*.
   * Diagramas o esquemas, que se intentará hacerlos interactivos si son muy grandes, para poder visualizarlos en dispositivos pequeños.
@@ -66,24 +66,25 @@ Para obtener más información sobre el contenido: [Contenido](/es/help/content)
 ## Fases del proyecto
 
 Para cada idioma a incluir en la *Urantipedia* se ejecutará el trabajo en varias fases:
-1. Fase I - _El Libro de Urantia_, la _Biblia_ y la _Enciclopedia de El Libro de Urantia_.
-2. Fase II - La _Hemeroteca_ y la _Biblioteca Urantiana_ : Artículos, libros, ayudas de estudio e índices.
+1. Fase I - _El Libro de Urantia_ y la _Biblia_.
+2. Fase II - La _Hemeroteca_ (artículos, ayudas de estudio), la _Biblioteca Urantiana_ (libros) y la _Enciclopedia de El Libro de Urantia_.
 3. Fase III - Traductor. No es un contenido sino una aplicación en *Urantiapedia Tools* para permitir traducciones rápidas a cada idioma.
-4. Fase IV - La _Cartoteca_: Mapas interactivos y ficheros descargables.
-5. Fase V - La _Mediateca_ : Diagramas, presentaciones, audio, video.
-6. Fase VI - La _Mediateca_ : Modelos 3D interactivos.
+4. Fase IV - Ampliaciones y correcciones al contenido de las Fases I y II, y la adición de la _Cartoteca_ (mapas) y la _Mediateca_ (diagramas, presentaciones, audio, video, modelos 3D).
 
 Para conocer las fases del proyecto consulta [Fases del proyecto](/es/help/phases).
 
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/help/Phases_2025_es.svg">
+<figcaption>Fig. 1: Fases del proyecto.</figcaption>
+</figure>
 
 
 ## Situación actual
 
 Actualmente *Urantiapedia* se encuentra como sigue:
-* Se ha avanzado mucho en la fase I. _El Libro de Urantia_, la _Biblia_, y el _Paramony_ (o enlaces entre ambos) se encuentran añadidos en todos los idiomas soportados (25 actualmente). La _Enciclopedia de El Libro de Urantia_ está en progreso para el inglés, español y francés.
-* La fase II está en progreso para el inglés, español y francés.
-* La fase III está muy avanzada, se trata de un software de traducción y no hay contenido específico por cada idioma.
-* De las fases IV, V y VI sólo se han realizado pequeñas pruebas con algunos contenidos.
+* La fase I está completada en 25 idiomas. _El Libro de Urantia_, la _Biblia_, y el _Paramony_ (o enlaces entre ambos) se encuentran añadidos en todos esos idiomas.
+* La fase II y III está completada en tres idiomas: inglés, español y francés. La _Hemeroteca_, la _Biblioteca_ y la _Enciclopedia_ tienen un contenido suficiente como para considerar estas fases completas.
+* En la fase IV sólo se han realizado pequeñas pruebas de concepto. Es la fase en la que nos encontramos actualmente.
 
 Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
 
