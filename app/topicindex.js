@@ -1421,10 +1421,8 @@ class TopicIndex {
 				.filter(t => category === 'ALL' || t.type === category)
 				.sort((a, b) => {
 					//Normalization to remove accents when sorting
-					const a2 = a.name.toLowerCase()
-						.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-					const b2 = b.name.toLowerCase()
-						.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+					const a2 = this.normalizeName(a.name);
+					const b2 = this.normalizeName(b.name);
 					if (a2 > b2) {
 						return 1;
 					}
@@ -1480,8 +1478,9 @@ class TopicIndex {
 						topic.name));
 					return;
 				}
-				const fileLetter = topic.name.substring(0, 1).toUpperCase()
-					.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+				const fileLetter = this.normalizeName(topic.name)
+					.substring(0, 1)
+					.toUpperCase();
 				const newLetter = (isNaN(parseInt(fileLetter)) ? fileLetter : null);
 				if (i === 0 || newLetter != curLetter) {
 					//Closing previous
@@ -1952,6 +1951,19 @@ class TopicIndex {
 	getError = (...params) => {
 		return getError(this.language, ...params);
 	};
+
+	/**
+	 * Normalizes a name to be used in a ordered list.
+	 * @param {string} name Name to normalize.
+	 */
+	normalizeName = (name) => {
+		return name.toLowerCase()
+			.replace(/[«»]/g, "")
+			.replace(/œ/g, "oe")
+			.trim()
+			.normalize("NFD")
+			.replace(/[\u0300-\u036f]/g, "");
+	}
 
 	/**
 	 * Checks if the given topic name is suitable for creating a link in the
