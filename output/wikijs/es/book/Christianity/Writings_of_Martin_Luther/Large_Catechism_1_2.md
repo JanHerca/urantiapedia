@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_1">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_1">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Catecismo Mayor — El Primer Mandamiento.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_3">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_3">
           <span class="pr-2">Catecismo Mayor — El Tercer Mandamiento.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -75,17 +75,17 @@ Pero esta [forma de educar] arraiga tanto en el corazón que temen a Dios más q
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_1">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_1">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Catecismo Mayor — El Primer Mandamiento.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_3">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_1_3">
           <span class="pr-2">Catecismo Mayor — El Tercer Mandamiento.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

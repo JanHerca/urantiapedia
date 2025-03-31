@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Appendix">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Appendix">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Index">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Index">
           <span class="pr-2">Índice de la Bibliografía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -181,17 +181,17 @@ Padre. Luke Wadding, OFM: _Anales de los Menores_. [^629] _B. Las obras del P. F
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Appendix">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Appendix">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Index">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Index">
           <span class="pr-2">Índice de la Bibliografía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

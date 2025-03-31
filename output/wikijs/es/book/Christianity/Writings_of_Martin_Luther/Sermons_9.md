@@ -13,12 +13,12 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_8">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_8">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El trigo y la cizaña</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -428,12 +428,12 @@ En Wittenberg, en el año 1520.
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_8">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_8">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El trigo y la cizaña</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

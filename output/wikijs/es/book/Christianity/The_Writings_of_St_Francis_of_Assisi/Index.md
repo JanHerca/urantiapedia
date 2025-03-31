@@ -13,12 +13,12 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bibliografía</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -862,12 +862,12 @@ Capítulo de Pentecostés [37](Part_1_4#p37), [70](Part_1_4b#p70)
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bibliografía</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

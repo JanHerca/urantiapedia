@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXXVI a XL.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_50">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_50">
           <span class="pr-2">Las Little_Flowers — Capítulo XLVI a L.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -72,17 +72,17 @@ Cuando Fray Juan de Penna era aún niño y estudiante en la provincia de la Marc
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXXVI a XL.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_50">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_50">
           <span class="pr-2">Las Little_Flowers — Capítulo XLVI a L.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

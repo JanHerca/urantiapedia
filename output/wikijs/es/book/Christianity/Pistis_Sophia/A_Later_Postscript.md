@@ -13,12 +13,12 @@ dateCreated: 2025-1-18T17:53:4Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_6_148">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_6_148">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sexto libro — Capítulo 144 to 148</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -47,12 +47,12 @@ La proclamación de los apóstoles... el justo. Salieron de tres en tres a las c
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_6_148">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_6_148">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sexto libro — Capítulo 144 to 148</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

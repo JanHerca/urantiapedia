@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Theses">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Theses">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las 95 tesis de Martín Lutero [1517]</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism">
           <span class="pr-2">Catecismo Mayor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -351,17 +351,17 @@ Padre Celestial, te doy gracias, por Jesucristo, tu amado Hijo, por haberme prot
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Theses">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Theses">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las 95 tesis de Martín Lutero [1517]</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism">
           <span class="pr-2">Catecismo Mayor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_6">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_6">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VI. El Oficio de la Pasión</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
           <span class="pr-2">Bibliografía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -74,17 +74,17 @@ Mientras tanto, concluyo este volumen deseando a sus lectores que participen ple
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_6">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_6">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VI. El Oficio de la Pasión</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Bibliography">
           <span class="pr-2">Bibliografía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

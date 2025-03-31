@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introducción</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_2">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_2">
           <span class="pr-2">II. Saludo a las Virtudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -194,17 +194,17 @@ Bienaventurado el siervo que atesora en el cielo [^128] los bienes que el Señor
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introducción</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_2">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_2">
           <span class="pr-2">II. Saludo a las Virtudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

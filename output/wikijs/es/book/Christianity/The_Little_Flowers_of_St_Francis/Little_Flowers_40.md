@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXXI a XXXV.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_45">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_45">
           <span class="pr-2">Las Florecillas — Capítulo XLI a XLV.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -73,17 +73,17 @@ Cristo, el bienaventurado (deseo de mostrar la gran santidad de su fiel siervo, 
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXXI a XXXV.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_45">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_45">
           <span class="pr-2">Las Florecillas — Capítulo XLI a XLV.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

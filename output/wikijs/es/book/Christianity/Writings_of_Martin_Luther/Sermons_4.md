@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_5">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_5">
           <span class="pr-2">Sermones — La parábola del sembrador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -98,17 +98,17 @@ Porque, aunque era libre de todos, me sometí a todos para ganar a más. Y a los
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — El doble uso de la ley y el evangelio: “letra” y “espíritu”</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_5">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_5">
           <span class="pr-2">Sermones — La parábola del sembrador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

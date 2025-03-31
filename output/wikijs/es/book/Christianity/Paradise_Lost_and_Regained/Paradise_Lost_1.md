@@ -15,12 +15,12 @@ dateCreated: 2025-1-18T17:52:55Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/Paradise_Lost_and_Regained">
+        <a href="/es/book/Christianity/Paradise_Lost_and_Regained">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_2">
+        <a href="/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_2">
           <span class="pr-2">Paraíso perdido — Libro 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -858,12 +858,12 @@ Y leída la citación, comenzó la gran consulta.
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/Paradise_Lost_and_Regained">
+        <a href="/es/book/Christianity/Paradise_Lost_and_Regained">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_2">
+        <a href="/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_2">
           <span class="pr-2">Paraíso perdido — Libro 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

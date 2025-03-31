@@ -15,12 +15,12 @@ dateCreated: 2025-1-18T17:53:32Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/Preface">
+        <a href="/es/book/Christianity/The_Interior_Castle/Preface">
           <span class="pr-2">Prefacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -140,12 +140,12 @@ _1 de julio de 1905 y _25 de diciembre de 1911.
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/Preface">
+        <a href="/es/book/Christianity/The_Interior_Castle/Preface">
           <span class="pr-2">Prefacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

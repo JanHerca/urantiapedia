@@ -47,20 +47,20 @@ El Libro de la Cueva de los Tesoros es una historia sagrada cristiana del siglo 
 
 ## Index
 
-- [Contenido](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Contents)
-- [Prefacio](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Preface)
-- [Introducción](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Introduction)
+- [Contenido](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Contents)
+- [Prefacio](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Preface)
+- [Introducción](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Introduction)
 - El Libro de la Cueva de los Tesoros:
-	- [Los Primeros Mil Años](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/1)
-	- [Los Segundos Mil Años](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/2)
-	- [Los Terceros Mil Años](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/3)
-	- [Los Cuartos Mil Años](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/4)
-	- [Los Quintos Mil Años](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/5)
-	- [Los Quinientos Años desde el Segundo Año de Ciro hasta el Nacimiento de Cristo](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/6)
-- [Testamentum Adami](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/7)
-- [Traducciones suplementarias del «Libro de la Abeja».](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/8)
-- [Abraham y la ciudad de Ur](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/9)
-- [Bibliografía](/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Bibliography)
+	- [Los Primeros Mil Años](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/1)
+	- [Los Segundos Mil Años](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/2)
+	- [Los Terceros Mil Años](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/3)
+	- [Los Cuartos Mil Años](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/4)
+	- [Los Quintos Mil Años](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/5)
+	- [Los Quinientos Años desde el Segundo Año de Ciro hasta el Nacimiento de Cristo](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/6)
+- [Testamentum Adami](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/7)
+- [Traducciones suplementarias del «Libro de la Abeja».](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/8)
+- [Abraham y la ciudad de Ur](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/9)
+- [Bibliografía](/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Bibliography)
 
 ## External links
 

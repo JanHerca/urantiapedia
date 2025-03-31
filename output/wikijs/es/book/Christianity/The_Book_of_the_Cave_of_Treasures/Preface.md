@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:53:12Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Contents">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Contents">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contenido</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Introduction">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Introduction">
           <span class="pr-2">Introducción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -57,17 +57,17 @@ Bedford Square, London, W.C. 1.
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Contents">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Contents">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contenido</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Introduction">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Introduction">
           <span class="pr-2">Introducción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

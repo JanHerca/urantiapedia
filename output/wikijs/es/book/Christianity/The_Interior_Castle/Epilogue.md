@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:53:32Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/7_4">
+        <a href="/es/book/Christianity/The_Interior_Castle/7_4">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo IV. Marta y María</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/Index">
+        <a href="/es/book/Christianity/The_Interior_Castle/Index">
           <span class="pr-2">Índice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -54,17 +54,17 @@ BENEDICTINAS OF STANBROOK
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/7_4">
+        <a href="/es/book/Christianity/The_Interior_Castle/7_4">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo IV. Marta y María</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/Index">
+        <a href="/es/book/Christianity/The_Interior_Castle/Index">
           <span class="pr-2">Índice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

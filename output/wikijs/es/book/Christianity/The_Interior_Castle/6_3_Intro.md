@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:53:32Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/6_2">
+        <a href="/es/book/Christianity/The_Interior_Castle/6_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo II. La herida del amor</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/6_3">
+        <a href="/es/book/Christianity/The_Interior_Castle/6_3">
           <span class="pr-2">Capítulo III. Locuciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -57,17 +57,17 @@ San Pablo menciona un ejemplo de tal visión: «Conozco a un hombre en Cristo ha
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/6_2">
+        <a href="/es/book/Christianity/The_Interior_Castle/6_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo II. La herida del amor</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/6_3">
+        <a href="/es/book/Christianity/The_Interior_Castle/6_3">
           <span class="pr-2">Capítulo III. Locuciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:53:12Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Preface">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Preface">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prefacio</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/1">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/1">
           <span class="pr-2">Los Primeros Mil Años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,7 +38,7 @@ LAS FUENTES DE LA “CUEVA DE LOS TESOROS” Y SU CONTENIDO.
 
 En los siglos inmediatamente anteriores a la era cristiana, ciertos escribas judíos profesionales compusieron varias obras que bien podrían describirse como «romances históricos», basadas en las historias de los patriarcas y otros autores, tal como se encuentran en las cuatro divisiones principales del texto de la Biblia hebrea. Caben pocas dudas de que la mayoría de estas obras se escribieron en hebreo o en la lengua vernácula palestina de la época. Una de las obras más antiguas parece ser el «Libro de los Jubileos» (véase la página 3 [Láminas#Figure003]), también llamado el «Génesis Menor» y el «Apocalipsis de Moisés» (Apocalipsis de Moisés), cuyo nombre se debe a que los períodos que describe son Jubileos, es decir, cada período contiene cuarenta y nueve años. Es, en esencia, un «Comentario sobre el Libro del Génesis». Que existió una versión de este libro en griego lo prueban las citas dadas por Epifanio, obispo de Salamina en Chipre (nacido alrededor del año 320 d. C. y fallecido en el 403 o 404), en su obra sobre las “Herejías” (capítulo xxxix). El autor afirmó audazmente que su obra contiene las revelaciones que fueron hechas a Moisés por orden de Dios por el arcángel Miguel, a quien se describe con frecuencia como el “Ángel del Rostro”. El libro no es completamente original, pues contiene narraciones y tradiciones derivadas de las obras de escritores anteriores; y algunas de las leyendas parecen haber sido tomadas de fuentes babilónicas tempranas. El original hebreo o arameo se ha perdido, y la obra completa solo se encuentra en etíope, idioma en el que se conoce como “Kûfâlê” o “Secciones”. La traducción etíope se hizo del griego.
 
-Otra obra precristiana, también escrita por un judío, es el «Libro de Enoc», que existe actualmente en forma más o menos completa, solo en una traducción etíope, hecha del griego. Esta obra es citada por San Judas ([vv. 14, 15](/en/Bible/Jude/1#v14)), y no cabe duda de que durante unos tres o cuatro siglos su autoridad, tanto entre los judíos como entre los cristianos de los siglos I y II de nuestra era, fue muy grande. Si el «Libro de Enoc», tal como nos lo revela la <span id="p4">[<sup><small>p. 4</small></sup>]</span> versión etíope, representa verdaderamente la obra hebrea original es bastante dudoso; de hecho, parece seguro que no es así. Contiene una serie de fragmentos o partes de obras, de carácter relativamente similar, que han sido agrupados y ampliados por escritores de diferentes escuelas religiosas en diferentes períodos. En algunas partes se han encontrado rastros de creencias que no son ni judías ni cristianas. (Véase la página 5 (Láminas #Figura005).)
+Otra obra precristiana, también escrita por un judío, es el «Libro de Enoc», que existe actualmente en forma más o menos completa, solo en una traducción etíope, hecha del griego. Esta obra es citada por San Judas ([vv. 14, 15](/es/Bible/Jude/1#v14)), y no cabe duda de que durante unos tres o cuatro siglos su autoridad, tanto entre los judíos como entre los cristianos de los siglos I y II de nuestra era, fue muy grande. Si el «Libro de Enoc», tal como nos lo revela la <span id="p4">[<sup><small>p. 4</small></sup>]</span> versión etíope, representa verdaderamente la obra hebrea original es bastante dudoso; de hecho, parece seguro que no es así. Contiene una serie de fragmentos o partes de obras, de carácter relativamente similar, que han sido agrupados y ampliados por escritores de diferentes escuelas religiosas en diferentes períodos. En algunas partes se han encontrado rastros de creencias que no son ni judías ni cristianas. (Véase la página 5 (Láminas #Figura005).)
 
 Durante los primeros siglos de la era cristiana, aparecieron ocasionalmente obras apócrifas sobre nuestro Señor, sus apóstoles y discípulos. Si bien fueron escritas por cristianos, contenían numerosas leyendas y tradiciones que sus autores tomaron prestadas de las obras de escritores judíos y cristianos anteriores. Dichas obras fueron muy populares entre las comunidades cristianas de Egipto y Siria, debido a la gran avidez de información sobre nuestro Señor, su vida y obra, así como sobre las aventuras y los éxitos de los apóstoles en África, Asia Occidental, India y otros países. Junto a esta literatura apócrifa, aparecieron obras en Egipto y Siria que abordaban la historia del Antiguo Testamento y se esforzaban por explicar sus dificultades. Sin embargo, aunque los patriarcas, obispos y sacerdotes leían las Escrituras y <span id="p6">[<sup><small>p. 6</small></sup>]</span> los comentarios sobre ellos al pueblo e instruían oralmente a sus congregaciones en cada ocasión posible. Había mucho en la antigua religión judía, de la cual se habían desarrollado muchos aspectos de la religión cristiana, que los laicos no entendían. Por un lado, el pueblo cristiano, sin letras, escuchaba a los judíos denunciar a Cristo y a sus seguidores, y por otro, sus maestros les enseñaban que Cristo era descendiente del rey David y de Abraham, y que las grandes verdades y misterios esenciales de la religión cristiana estaban prefigurados por los acontecimientos ocurridos en la vida de los patriarcas judíos.
 
@@ -127,17 +127,17 @@ Se desconocen las fuentes de la genealogía de Cristo que se encuentra en la Cue
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/Preface">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/Preface">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prefacio</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Cave_of_Treasures/1">
+        <a href="/es/book/Christianity/The_Book_of_the_Cave_of_Treasures/1">
           <span class="pr-2">Los Primeros Mil Años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

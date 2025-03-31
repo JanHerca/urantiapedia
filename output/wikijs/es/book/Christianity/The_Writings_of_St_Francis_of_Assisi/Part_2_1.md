@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las cartas de San Francisco</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_2">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_2">
           <span class="pr-2">II. Carta a todos los frailes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -93,17 +93,17 @@ En el nombre del Padre, del Hijo y del Espíritu Santo. Amén. [^435] A todos aq
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las cartas de San Francisco</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_2">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_2">
           <span class="pr-2">II. Carta a todos los frailes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

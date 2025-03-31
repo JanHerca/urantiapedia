@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_3">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">III. A cierto ministro</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_5">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_5">
           <span class="pr-2">V. A todos los Custodios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -53,17 +53,17 @@ Por lo tanto, les aconsejo encarecidamente, señores, que dejen de lado toda pre
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_3">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">III. A cierto ministro</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_5">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_5">
           <span class="pr-2">V. A todos los Custodios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

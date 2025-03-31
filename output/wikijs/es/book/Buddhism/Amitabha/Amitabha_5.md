@@ -84,7 +84,7 @@ Subhûti respondió que no.
 
 El abad continuó preguntando sobre las relaciones religiosas anteriores de Charaka y el significado de su amor a Dios.
 
-“No lo sé, reverendo señor”, respondió el monje anciano. “No es brahmán, sino descendiente de una noble familia de los conquistadores del norte que llegaron a la India y fundaron el reino de Gandhâra. Sin embargo, conoce los escritos brahmanes y está familiarizado con la filosofía de los yavanas[12](/en/book/Buddhism/Amitabha/Amitabha_16#an_12) del lejano Occidente. Hablé con él y entiendo que por Dios se refiere a todo lo que es correcto, bueno y verdadero en el mundo, y sin lo cual no puede haber iluminación”.
+“No lo sé, reverendo señor”, respondió el monje anciano. “No es brahmán, sino descendiente de una noble familia de los conquistadores del norte que llegaron a la India y fundaron el reino de Gandhâra. Sin embargo, conoce los escritos brahmanes y está familiarizado con la filosofía de los yavanas[12](/es/book/Buddhism/Amitabha/Amitabha_16#an_12) del lejano Occidente. Hablé con él y entiendo que por Dios se refiere a todo lo que es correcto, bueno y verdadero en el mundo, y sin lo cual no puede haber iluminación”.
 
 “Muy bien”, proclamó el abad, “no hay pecado en amar a Dios, pues lo que describes como Dios es nuestro Señor Shakyamuni, el Iluminado, el Buda, el Tathagata”; pero añadió, no sin un matiz de reproche: “Podrías dignificar al Señor Buda con un título superior al de Dios. Los dioses, si existen, no son iguales a Buda. Cuando el Bodhisattva era niño, los dioses se postraron ante él, pues reconocieron la superioridad del Tathagata incluso antes de que alcanzara la Budeidad completa. La divinidad de los dioses es inferior a la noble vida de un Bodhisattva”.
 

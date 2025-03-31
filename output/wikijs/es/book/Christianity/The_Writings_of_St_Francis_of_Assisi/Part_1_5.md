@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_4b">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_4b">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda Regla de los Frailes Menores</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
           <span class="pr-2">VI. Testamento del Santo Padre San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -59,17 +59,17 @@ Yo, hermanito Francisco, deseo seguir la vida y pobreza de Jesucristo, nuestro A
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_4b">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_4b">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda Regla de los Frailes Menores</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
           <span class="pr-2">VI. Testamento del Santo Padre San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

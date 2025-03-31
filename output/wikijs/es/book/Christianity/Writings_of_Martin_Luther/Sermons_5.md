@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_4">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_4">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — Del oficio de predicar</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_6">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_6">
           <span class="pr-2">Sermones — Los santos sufrimientos de Cristo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -80,17 +80,17 @@ LUCAS 8:4-15: Y habiéndose reunido mucha gente, y habiendo venido a él de toda
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_4">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_4">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermones — Del oficio de predicar</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Sermons_6">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Sermons_6">
           <span class="pr-2">Sermones — Los santos sufrimientos de Cristo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

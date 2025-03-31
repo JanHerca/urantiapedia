@@ -13,12 +13,12 @@ dateCreated: 2025-1-18T17:53:32Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/Epilogue">
+        <a href="/es/book/Christianity/The_Interior_Castle/Epilogue">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Epílogo</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -540,12 +540,12 @@ Zebedeo, hijos de; VI, xi. 12
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle/Epilogue">
+        <a href="/es/book/Christianity/The_Interior_Castle/Epilogue">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Epílogo</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Interior_Castle">
+        <a href="/es/book/Christianity/The_Interior_Castle">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

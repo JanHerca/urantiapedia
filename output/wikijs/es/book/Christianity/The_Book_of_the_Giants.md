@@ -33,7 +33,7 @@ En esta versión se han omitido las transcripciones de los textos originales.<br
 
 ## Index
 
-- [Texto completo](/en/book/Christianity/The_Book_of_the_Giants/Text)
+- [Texto completo](/es/book/Christianity/The_Book_of_the_Giants/Text)
 
 ## External links
 

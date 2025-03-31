@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:53:4Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_1_30">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_1_30">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primer libro — Capítulo 21 to 30</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_1_50">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_1_50">
           <span class="pr-2">Primer libro — Capítulo 41 to 50</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -457,17 +457,17 @@ Juan respondió y dijo: «Mi Señor y Salvador, acerca de este arrepentimiento q
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_1_30">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_1_30">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primer libro — Capítulo 21 to 30</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_1_50">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_1_50">
           <span class="pr-2">Primer libro — Capítulo 41 to 50</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

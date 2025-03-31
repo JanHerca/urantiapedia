@@ -15,12 +15,12 @@ dateCreated: 2025-1-18T17:53:4Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Introduction">
+        <a href="/es/book/Christianity/Pistis_Sophia/Introduction">
           <span class="pr-2">Introducción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -59,12 +59,12 @@ Julio de 1921.
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Introduction">
+        <a href="/es/book/Christianity/Pistis_Sophia/Introduction">
           <span class="pr-2">Introducción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

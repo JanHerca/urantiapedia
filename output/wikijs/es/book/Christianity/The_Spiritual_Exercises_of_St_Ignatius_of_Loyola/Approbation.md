@@ -15,12 +15,12 @@ dateCreated: 2025-1-18T17:54:19Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Preface">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Preface">
           <span class="pr-2">Prefacio de aprobación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -74,12 +74,12 @@ Dado en San Marcos de Roma, bajo el sello del Pescador, el 31 de julio de 1548, 
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Preface">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Preface">
           <span class="pr-2">Prefacio de aprobación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

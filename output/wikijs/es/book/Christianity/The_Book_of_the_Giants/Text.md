@@ -15,7 +15,7 @@ dateCreated: 2025-1-18T17:53:23Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Giants">
+        <a href="/es/book/Christianity/The_Book_of_the_Giants">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -270,7 +270,7 @@ M 692. Pequeño fragmento. Orden de páginas incierto.
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Book_of_the_Giants">
+        <a href="/es/book/Christianity/The_Book_of_the_Giants">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

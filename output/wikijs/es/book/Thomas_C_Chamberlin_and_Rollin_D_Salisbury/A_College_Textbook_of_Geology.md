@@ -8,7 +8,32 @@ editor: markdown
 dateCreated: 2025-3-26T19:17:30Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin</text>		<text style="font-size:5px" x="61" y="28">and Rollin D. Salisbury</text>		<text style="font-size:4px;" x="61" y="125">Henry Holt and Company, New York, 1909</text>		<text style="font-size:9px" x="61" y="60">Un libro de</text>		<text style="font-size:9px" x="61" y="70">texto universitario</text>		<text style="font-size:9px" x="61" y="80">de geología</text>	</g></svg></div><p style="text-align: center;"><em>AMERICAN SCIENCE SERIES</em><br>HENRY HOLT AND COMPANY<br>NUEVA YORK<br>1909<br></p>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin</text>
+		<text style="font-size:5px" x="61" y="28">and Rollin D. Salisbury</text>
+		<text style="font-size:4px;" x="61" y="125">Henry Holt and Company, New York, 1909</text>
+		<text style="font-size:9px" x="61" y="60">Un libro de</text>
+		<text style="font-size:9px" x="61" y="70">texto universitario</text>
+		<text style="font-size:9px" x="61" y="80">de geología</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align: center;">
+<em>AMERICAN SCIENCE SERIES</em><br>
+HENRY HOLT AND COMPANY<br>
+NUEVA YORK<br>
+1909<br>
+</p>
+
+
+
+
+
 ## Índice
 
 - [PREFACIO](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Preface)
@@ -36,7 +61,7 @@ dateCreated: 2025-3-26T19:17:30Z
 		- Trabajo químico [p. 102](/es/book/Thomas_C_Chamberlin_y_Rollin_D_Salisbury/A_College_Textbook_of_Geology/3#p102)
 		- La atmósfera, un agente condicionante [p. 103](/es/book/Thomas_C_Chamberlin_y_Rollin_D_Salisbury/A_College_Textbook_of_Geology/3#p103)
 		- Resumen [p. 109](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/3#p109)
-	- [CAPÍTULO IV AGUAS TERRESTRES — ARROYO](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4)
+	- [CAPÍTULO IV AGUAS TERRESTRES — ARROYO](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4)/es/
 		- El trabajo del agua corriente [p. 110](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p110)
 		- Trabajo erosivo del agua corriente [p. 114](/es/book/Thomas_C_Chamberlin_y_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p114)
 			- Comienzo de un valle, [p. 115](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p115). El arroyo permanente, [p. 117](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p117). Modos de desarrollo del valle, [p. 119](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p119). Límites del crecimiento, [p. 121](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p121). El desarrollo de los afluentes, [p. 121](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p121). La lucha por la existencia entre valles y arroyos, [p. 122](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p122). Piratería, [p. 123](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p123). Ciclo de erosión [p. 124](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p124). Características generales de las topografías desarrolladas por la erosión fluvial, [p. 133](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p133). Características especiales resultantes de condiciones especiales de erosión, [p. 133](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p133). Tasa de degradación, [p. 138](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/4#p138).
@@ -89,7 +114,7 @@ dateCreated: 2025-3-26T19:17:30Z
 	- [CAPÍTULO XI GEOLOGÍA ESTRUCTURAL (GEOTECTÓNICA)](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/11)
 		- Original [p. 394](/es/book/Thomas_C_Chamberlin_y_Rollin_D_Salisbury/A_College_Textbook_of_Geology/11#p394)
 			- De rocas sedimentarias, [p. 394](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/11#p394). De rocas ígneas, [p. 399](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/11#p399). De rocas metamórficas, [p. 400](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/11#p400). Características derivadas de perturbaciones, [p. 400](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/11#p400).
-- PARTE II. GEOLOGÍA HISTÓRICA
+- PARTE II. GEOLOGÍA HISTÓRICA/es//es/
 	- [CAPÍTULO XII EL ORIGEN DE LA TIERRA](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/12)
 		- Hipótesis de : [p. 415](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/12#p415)
 			- La hipótesis laplaciana o "nebular", [p. 416](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/12#p416). Las hipótesis meteoríticas, [p. 419](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/12#p419). La hipótesis planetesimal, [p. 420](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/12#p420).
@@ -147,7 +172,7 @@ dateCreated: 2025-3-26T19:17:30Z
 			- Al este del Misisipi, [p. 660](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p660). Al oeste del Misisipi, [p. 660](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p660). Correlación, [p. 662](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p662). En Europa, [p. 662](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p662). Otros continentes, [p. 666](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p666). Formaciones glaciares del Pérmico, [p. 666](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p666). Cierre de la era Paleozoica, [p. 668](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p668).
 		- Vida del Pérmico » [p. 668](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p668)
 			- Empobrecimiento de la vida, [p. 669](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p669). Vida vegetal, [p. 669](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p669). Animales terrestres, [p. 672](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p672). Vida de agua dulce, [p. 674](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p674). Fauna marina, [p. 674](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p674). Problemas del Pérmico [p. 677](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/22#p677)
-	- LA ERA MESOZOICA
+	- LA ERA MESOZOICA/es/
 	- [CAPÍTULO XXIII EL PERÍODO TRIÁSICO](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23)
 		- Formaciones e Historia Física [p. 678](/es/book/Thomas_C_Chamberlin_y_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p678)
 			- Triásico Oriental — Serie Newark, [p. 678](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p678). En el Oeste, [p. 684](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p684). En la vertiente del Pacífico, [p. 685](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p685). Condiciones climáticas, [p. 686](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p686). Cierre del Trias, [p. 687](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p687). Triásico Extranjero, [p. 687](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/23#p687).
@@ -166,14 +191,14 @@ dateCreated: 2025-3-26T19:17:30Z
 			- Vegetación terrestre, [p. 737](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/25#p737). Animales terrestres, [p. 739](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/25#p739). Fauna de agua dulce, [p. 739](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/25#p739). Faunas marinas, [p. 740](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/25#p740).
 	- [CAPÍTULO XXVI EL PERÍODO CRETÁCICO](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26)
 		- Formaciones e historia física [p. 742](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p742)
-			- Región fronteriza atlántica, [p. 742](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p742). Frontera oriental del Golfo, [p. 744](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p744). Región occidental del Golfo, [p. 746](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p746). Interior occidental, [p. 746](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p746). Costa del Pacífico, [p. 752](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p752). Cierre del período, [p. 752](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p752). Cretácico superior de otros continentes, [p. 755](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p755). Clima, [p. 759](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p759).
+			- Región fronteriza atlántica, [p. 742](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p742). Frontera oriental del Golfo, [p. 744](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p744). Región occidental del Golfo, [p. 746](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p746). Interior occidental, [p. 746](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p746). Costa del Pacífico, [p. 752](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p752). Cierre del período, [p. 752](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p752). Cretácico superior de otros continentes, [p. 755](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p755). Clima,/es/ 759](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p759).
 		- Vida del Cretácico (Superior) [p. 759](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p759)
-			- Plantas terrestres, [p. 759](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p759). Animales terrestres, [p. 762](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p762). Vida marina, [p. 765](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p765).
+			- Plantas terrestres, [p. 759](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p759). Animales terrestres, [p. 762](/es/book/es/mas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p762). Vida marina, [p. 765](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/26#p765).
 	- LA ERA CENOZOICA
 	- [CAPÍTULO XXVII EL PERÍODO EOCENO](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27)
 		- Formaciones e historia física [p. 772](/es/book/Thomas_C_Chamberlin_y_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p772)
 			- La costa este, [p. 774](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p774). La costa del Pacífico, [p. 774](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p774). El interior occidental, [p. 776](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p776). El noroeste, [p. 778](/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p778). Consideraciones generales, [p. 778](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p778). Cierre del Eoceno en Norteamérica, [p. 780](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p780). Eoceno en otros continentes, [p. 780](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p780).
-		- Vida en el Eoceno [p. 784](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p784)
+		- Vida en el Eoceno [p. 784](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p784)/es/
 			- Transición desde el Mesozoico, [p. 784](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p784). Vegetación, [p. 786](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p786). Animales terrestres, [p. 787](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p787). Vida marina, [p. 794](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p794). Clima, [p. 797](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p797).
 		- Formaciones del Oligoceno ■ [p. 797](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p797)
 		- Vida en el Oligoceno [p. 801](/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/27#p801)

@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_30">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_30">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXVI a XXX.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
           <span class="pr-2">Las Florecillas — Capítulo XXXVI a XL.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -76,17 +76,17 @@ Una vez, Santa Clara se encontraba gravemente enferma, por lo que no pudo ir a r
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_30">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_30">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXVI a XXX.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_40">
           <span class="pr-2">Las Florecillas — Capítulo XXXVI a XL.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

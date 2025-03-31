@@ -38,23 +38,23 @@ dateCreated: 2025-1-18T17:52:55Z
 ## Index
 
 - Paraíso perdido
-	- [Paraíso perdido — Libro 1](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_1)
-	- [Paraíso perdido — Libro 2](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_2)
-	- [Paraíso perdido — Libro 3](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_3)
-	- [Paraíso perdido — Libro 4](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_4)
-	- [Paraíso perdido — Libro 5](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_5)
-	- [Paraíso perdido — Libro 6](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_6)
-	- [Paraíso perdido — Libro 7](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_7)
-	- [Paraíso perdido — Libro 8](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_8)
-	- [Paraíso perdido — Libro 9](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_9)
-	- [Paraíso perdido — Libro 10](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_10)
-	- [Paraíso perdido — Libro 11](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_11)
-	- [Paraíso perdido — Libro 12](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_12)
+	- [Paraíso perdido — Libro 1](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_1)
+	- [Paraíso perdido — Libro 2](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_2)
+	- [Paraíso perdido — Libro 3](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_3)
+	- [Paraíso perdido — Libro 4](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_4)
+	- [Paraíso perdido — Libro 5](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_5)
+	- [Paraíso perdido — Libro 6](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_6)
+	- [Paraíso perdido — Libro 7](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_7)
+	- [Paraíso perdido — Libro 8](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_8)
+	- [Paraíso perdido — Libro 9](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_9)
+	- [Paraíso perdido — Libro 10](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_10)
+	- [Paraíso perdido — Libro 11](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_11)
+	- [Paraíso perdido — Libro 12](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Lost_12)
 - Paraíso recobrado
-	- [Paraíso recobrado — Libro 1](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_1)
-	- [Paraíso recobrado — Libro 2](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_2)
-	- [Paraíso recobrado — Libro 3](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_3)
-	- [Paraíso recobrado — Libro 4](/en/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_4)
+	- [Paraíso recobrado — Libro 1](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_1)
+	- [Paraíso recobrado — Libro 2](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_2)
+	- [Paraíso recobrado — Libro 3](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_3)
+	- [Paraíso recobrado — Libro 4](/es/book/Christianity/Paradise_Lost_and_Regained/Paradise_Regained_4)
 
 ## External links
 

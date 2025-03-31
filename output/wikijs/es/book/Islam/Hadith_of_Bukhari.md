@@ -23,7 +23,7 @@ dateCreated: 2024-11-9T15:38:6Z
 <span class="text-h3">Hadith de Bujari</span><br>
 </p>
 
-Los hadices son anécdotas sobre Mahoma y otros fundadores del Islam. Se consideran material de referencia importante sobre la práctica religiosa, la ley y las tradiciones históricas. Se trata de una extensa colección de hadices organizada por Muhammad Ismâ'îl al-Bukhârî, uno de los redactores de hadices más respetados. Para más hadices, véase [Un manual de hadices](/en/book/Islam/A_Manual_of_Hadith).
+Los hadices son anécdotas sobre Mahoma y otros fundadores del Islam. Se consideran material de referencia importante sobre la práctica religiosa, la ley y las tradiciones históricas. Se trata de una extensa colección de hadices organizada por Muhammad Ismâ'îl al-Bukhârî, uno de los redactores de hadices más respetados. Para más hadices, véase [Un manual de hadices](/es/book/Islam/A_Manual_of_Hadith).
 
 Este hipertexto se generó a partir de un archivo de texto encontrado en un sitio FTP de Caltech ahora inactivo, con fecha de 1993. Aparentemente, fue traducido por M. Muhsin Khan. Se desconoce el estado de los derechos de autor de este texto.
 

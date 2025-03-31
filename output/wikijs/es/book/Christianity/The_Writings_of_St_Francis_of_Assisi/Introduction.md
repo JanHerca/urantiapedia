@@ -15,12 +15,12 @@ dateCreated: 2025-1-18T17:54:27Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_1">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_1">
           <span class="pr-2">I. Palabras de admonición de nuestro Santo Padre San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -123,12 +123,12 @@ Fiesta de Santa Inés de Asís, 1905.
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_1">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_1">
           <span class="pr-2">I. Palabras de admonición de nuestro Santo Padre San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

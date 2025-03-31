@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Translators_Note">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Translators_Note">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nota del traductor</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_10">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_10">
           <span class="pr-2">Las Florecillas — Capítulo VI a X.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -73,17 +73,17 @@ Porque San Francisco y sus compañeros fueron llamados por Dios y escogidos para
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Translators_Note">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Translators_Note">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nota del traductor</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_10">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_10">
           <span class="pr-2">Las Florecillas — Capítulo VI a X.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

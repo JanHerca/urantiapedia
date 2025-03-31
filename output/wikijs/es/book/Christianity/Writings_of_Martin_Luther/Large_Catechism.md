@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Catecismo menor</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_Preface">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_Preface">
           <span class="pr-2">Catecismo Mayor — Breve Prefacio del Dr. Martín Lutero.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -73,17 +73,17 @@ Si manifiestan tal diligencia, les prometo, y ellos también lo percibirán, el 
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Catecismo menor</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_Preface">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_Preface">
           <span class="pr-2">Catecismo Mayor — Breve Prefacio del Dr. Martín Lutero.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

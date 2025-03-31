@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:34Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_3">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Catecismo Mayor — Artículo III.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_4_0">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_4_0">
           <span class="pr-2">Catecismo Mayor — Cuarta Parte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -231,17 +231,17 @@ The reason for this is, they regard not the promise of God, but their own work a
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_3">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_2_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Catecismo Mayor — Artículo III.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_4_0">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_4_0">
           <span class="pr-2">Catecismo Mayor — Cuarta Parte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

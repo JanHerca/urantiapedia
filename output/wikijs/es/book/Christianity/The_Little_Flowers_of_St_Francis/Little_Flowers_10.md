@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_5">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_5">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las pequeñas flores — Capítulo I a V.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_15">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_15">
           <span class="pr-2">Las Flores Pequeñas — Capítulo XI a XV.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -77,17 +77,17 @@ Una vez, San Francisco vivió en la Porciúncula con Fray Maseo de Marignano, ho
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_5">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_5">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las pequeñas flores — Capítulo I a V.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_15">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_15">
           <span class="pr-2">Las Flores Pequeñas — Capítulo XI a XV.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

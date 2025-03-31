@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:53:4Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_2_80">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_2_80">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segundo libro — Capítulo 71 to 80</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_2_101">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_2_101">
           <span class="pr-2">Segundo libro — Capítulo 91 to 101</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -349,17 +349,17 @@ Juan respondió a Jesús: «Señor mío, ¿permanecerá entonces cada uno en la 
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_2_80">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_2_80">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segundo libro — Capítulo 71 to 80</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia">
+        <a href="/es/book/Christianity/Pistis_Sophia">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Pistis_Sophia/Book_2_101">
+        <a href="/es/book/Christianity/Pistis_Sophia/Book_2_101">
           <span class="pr-2">Segundo libro — Capítulo 91 to 101</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

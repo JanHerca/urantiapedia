@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_25">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_25">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXI al XXV.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
           <span class="pr-2">Las Florecillas — Capítulo XXXI a XXXV.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -72,17 +72,17 @@ Gracias a su continua contemplación, el susodicho Fray Rufino estaba tan absort
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_25">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_25">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Florecillas — Capítulo XXI al XXV.</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Little_Flowers_35">
           <span class="pr-2">Las Florecillas — Capítulo XXXI a XXXV.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VI. Testamento del Santo Padre San Francisco</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
           <span class="pr-2">Las cartas de San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -55,17 +55,17 @@ Y no deben permitir que ninguna persona entre al claustro donde viven, ni que co
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_1_6">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VI. Testamento del Santo Padre San Francisco</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_2_0">
           <span class="pr-2">Las cartas de San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

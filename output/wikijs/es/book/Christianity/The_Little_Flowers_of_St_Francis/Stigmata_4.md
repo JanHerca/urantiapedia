@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_3">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la Tercera Consideración</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_5">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_5">
           <span class="pr-2">De la Quinta Consideración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -53,17 +53,17 @@ Posteriormente, San Francisco fue canonizado en el mes de la Cuaresma XXVIII (12
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_3">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la Tercera Consideración</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_5">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_5">
           <span class="pr-2">De la Quinta Consideración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

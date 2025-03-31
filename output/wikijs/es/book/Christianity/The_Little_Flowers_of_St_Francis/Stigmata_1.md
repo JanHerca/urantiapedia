@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:10Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_Intro">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_Intro">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introducción</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_2">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_2">
           <span class="pr-2">De la Segunda Consideración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -46,17 +46,17 @@ Y a partir de este texto, por inspiración del Espíritu Santo, predicó con tan
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_Intro">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_Intro">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introducción</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_2">
+        <a href="/es/book/Christianity/The_Little_Flowers_of_St_Francis/Stigmata_2">
           <span class="pr-2">De la Segunda Consideración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

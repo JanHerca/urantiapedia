@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:19Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprobación de los textos latinos</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Notes">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Notes">
           <span class="pr-2">Nota general, Oración del Padre Diertins, Anotaciones y presupuestos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -60,17 +60,17 @@ _Fiesta de San Ignacio, 1909._
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprobación de los textos latinos</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Notes">
+        <a href="/es/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Notes">
           <span class="pr-2">Nota general, Oración del Padre Diertins, Anotaciones y presupuestos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

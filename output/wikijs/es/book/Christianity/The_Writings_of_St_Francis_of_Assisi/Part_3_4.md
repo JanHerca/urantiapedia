@@ -13,17 +13,17 @@ dateCreated: 2025-1-18T17:54:27Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_3">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">III. Oración para alcanzar el Amor Divino</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_5">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_5">
           <span class="pr-2">V. El Cántico del Sol</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -66,17 +66,17 @@ Que el Señor te bendiga y te guarde. Que te muestre su rostro y tenga misericor
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_3">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">III. Oración para alcanzar el Amor Divino</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_5">
+        <a href="/es/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Part_3_5">
           <span class="pr-2">V. El Cántico del Sol</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

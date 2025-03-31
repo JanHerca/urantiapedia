@@ -15,12 +15,12 @@ dateCreated: 2025-1-18T17:54:34Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
           <span class="pr-2">Catecismo menor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -436,12 +436,12 @@ Fin del Proyecto Gutenberg. Texto electrónico de las 95 tesis de Martín Lutero
         <td>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
+        <a href="/es/book/Christianity/Writings_of_Martin_Luther/Small_Catechism">
           <span class="pr-2">Catecismo menor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
