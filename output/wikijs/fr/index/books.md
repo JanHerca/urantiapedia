@@ -124,7 +124,7 @@ dateCreated: 2022-09-27T13:55:38.362Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Livres religieux sur le confucianisme</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/index/books_confucianism" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/index/books_confucianism" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 			</div>
