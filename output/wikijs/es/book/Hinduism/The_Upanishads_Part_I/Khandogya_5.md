@@ -46,7 +46,7 @@ QUINTO PRAPÂTHAKA [^226].
 
 5\. Quien conoce el hogar, se convierte en el hogar de su gente. La mente, en verdad, es el hogar.
 
-6\. Los cinco sentidos se pelearon [^227], diciendo: «Soy mejor, soy mejor». <span id="p73">[<sup><small>p. 73</small></sup>]</span> 7\. Fueron a ver a su padre Pra<i>g</i>âpati y le preguntaron: «Señor, ¿quién es el mejor de nosotros?». Él respondió: «Aquel cuya partida hace que el cuerpo parezca peor que el peor, ese es el mejor de ustedes».
+6\. Los cinco sentidos se pelearon [^227], diciendo: «Soy mejor, soy mejor». <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> 7\. Fueron a ver a su padre Pra<i>g</i>âpati y le preguntaron: «Señor, ¿quién es el mejor de nosotros?». Él respondió: «Aquel cuya partida hace que el cuerpo parezca peor que el peor, ese es el mejor de ustedes».
 
 8\. La lengua (el habla) se fue, y tras estar ausente un año, volvió y dijo: "¿Cómo han podido vivir sin mí?". Respondieron: "Como mudos, sin hablar, sino respirando con el aliento, viendo con el ojo, oyendo con el oído, pensando con la mente. Así vivíamos". Entonces el habla regresó.
 
@@ -56,7 +56,7 @@ QUINTO PRAPÂTHAKA [^226].
 
 11\. La mente se fue, y tras un año ausente, volvió y dijo: "¿Cómo han podido vivir sin mí?". Respondieron: "Como niños cuya mente aún no está formada, pero respirando con el aliento, hablando con la lengua, viendo con el ojo, oyendo con el oído. Así vivimos". Entonces la mente regresó.
 
-12\. El aliento, a punto de partir, desgarró los demás sentidos, como un caballo, al sobresaltar, <span id="p74">[<sup><small>p. 74</small></sup>]</span>, podría desgarrar las estacas a las que está atado [1](Khandogya_5#fn228). Acudieron a él y le dijeron: «Señor, sé tú (nuestro señor); eres el mejor entre nosotros. ¡No te alejes de nosotros!».
+12\. El aliento, a punto de partir, desgarró los demás sentidos, como un caballo, al sobresaltar, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>, podría desgarrar las estacas a las que está atado [1](Khandogya_5#fn228). Acudieron a él y le dijeron: «Señor, sé tú (nuestro señor); eres el mejor entre nosotros. ¡No te alejes de nosotros!».
 
 13\. Entonces la lengua le dijo: «Si yo soy el más rico, tú eres el más rico». El ojo le dijo: «Si yo soy el reposo firme, tú eres el reposo firme [2](Khandogya_5#fn229)».
 
@@ -68,7 +68,7 @@ QUINTO PRAPÂTHAKA [^226].
 
 1\. El aliento dijo: "¿Qué debo comer?". Respondieron: "Lo que haya, incluso perros y pájaros". Por lo tanto, esto es alimento para Ana (el que respira). Su nombre es claramente Ana [^230]. Para quien sabe esto, no hay nada que no sea alimento (adecuado).
 
-2\. Él preguntó: "¿Cuál será mi vestido?". Respondieron: "Agua". Por lo tanto, las personas sabias, al comer, lo rodean con agua antes y después [^231]. Así, él (prâ<i>n</i>a) obtiene un vestido y ya no está desnudo [^232]. <span id="p75">[<sup><small>p. 75</small></sup>]</span> 3\. Satyakâma <i>G</i>âbâla, tras comunicarle esto a Go<i>s</i>ruti Vaiyâghrapadya, le dijo: "Si le dijeras esto a un palo seco, crecerían ramas y brotarían hojas".
+2\. Él preguntó: "¿Cuál será mi vestido?". Respondieron: "Agua". Por lo tanto, las personas sabias, al comer, lo rodean con agua antes y después [^231]. Así, él (prâ<i>n</i>a) obtiene un vestido y ya no está desnudo [^232]. <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> 3\. Satyakâma <i>G</i>âbâla, tras comunicarle esto a Go<i>s</i>ruti Vaiyâghrapadya, le dijo: "Si le dijeras esto a un palo seco, crecerían ramas y brotarían hojas".
 
 ---
 
@@ -80,7 +80,7 @@ De la misma manera, vierte el ghee al fuego, diciendo: «Svâhâ al resto firme�
 
 De la misma manera, que vierta ghee al fuego, diciendo: «Svâhâ para el éxito». Después, que añada todo lo que quede a la mezcla.
 
-6\. Luego, avanzando y colocando el puré <span id="p76">[<sup><small>p. 76</small></sup>]</span> en sus manos, recita: «Tú (Prâ<i>n</i>a) eres Ama [^236] por nombre, pues todo esto existe en ti. Él es el más antiguo y el mejor, el rey, el soberano. Que me haga el más antiguo, el mejor, el rey, el soberano. Que yo sea todo esto».
+6\. Luego, avanzando y colocando el puré <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> en sus manos, recita: «Tú (Prâ<i>n</i>a) eres Ama [^236] por nombre, pues todo esto existe en ti. Él es el más antiguo y el mejor, el rey, el soberano. Que me haga el más antiguo, el mejor, el rey, el soberano. Que yo sea todo esto».
 
 7\. Luego come con el siguiente verso <i>Ri</i><i>k</i> a cada pie: 'Elegimos ese alimento' —aquí traga— 'Del divino Savit<i>ri</i> (prâ<i>n</i>a)' —aquí traga— 'El mejor alimento y el que todo lo sustenta' —aquí traga— 'Meditamos en la velocidad de Bhaga (Savit<i>ri</i>, prâ<i>n</i>a)' —aquí bebe todo.
 
@@ -108,7 +108,7 @@ De la misma manera, que vierta ghee al fuego, diciendo: «Svâhâ para el éxito
 
 5\. «Ese tal Râ<i>g</i>anya me hizo cinco preguntas, y no pude responder ni una». El padre dijo: «Como me has hecho estas preguntas, no sé ninguna de ellas [^242]. Si las supiera, ¿cómo no te las habría dicho [^243]?».
 
-6\. Entonces Gautama fue a la casa del rey, y al llegar, este le ofreció el debido respeto. Por la mañana, el rey salió para la asamblea [^244]. El rey le dijo: <span id="p78">[<sup><small>p. 78</small></sup>]</span> «Señor, Gautama, pide una bendición sobre las cosas que poseen los hombres». Él respondió: «Las cosas que poseen los hombres pueden permanecer contigo. Dime el discurso que le dirigiste al muchacho».
+6\. Entonces Gautama fue a la casa del rey, y al llegar, este le ofreció el debido respeto. Por la mañana, el rey salió para la asamblea [^244]. El rey le dijo: <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> «Señor, Gautama, pide una bendición sobre las cosas que poseen los hombres». Él respondió: «Las cosas que poseen los hombres pueden permanecer contigo. Dime el discurso que le dirigiste al muchacho».
 
 7\. El rey, perplejo, le ordenó: «Quédate conmigo un rato». Entonces él dijo: «En cuanto a lo que me has dicho, Gautama, este conocimiento no llegó a ningún brahmán antes de ti, y por lo tanto, esta enseñanza pertenecía en todos los mundos solo a la clase Kshatra». Entonces comenzó:
 
@@ -120,7 +120,7 @@ De la misma manera, que vierta ghee al fuego, diciendo: «Svâhâ para el éxito
 
 ## QUINTO KHAND.
 
-1\. «El altar es Par<i>g</i>anya (el dios de la lluvia), oh Gautama; su combustible es el aire mismo, el humo la nube, la luz el relámpago, las brasas el rayo, las chispas los truenos [^247]. <span id="p79">[<sup><small>p. 79</small></sup>]</span> 2\. «En ese altar los Devas ofrecen a Soma, el rey (la luna). De esa ofrenda surge la lluvia [^248].
+1\. «El altar es Par<i>g</i>anya (el dios de la lluvia), oh Gautama; su combustible es el aire mismo, el humo la nube, la luz el relámpago, las brasas el rayo, las chispas los truenos [^247]. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> 2\. «En ese altar los Devas ofrecen a Soma, el rey (la luna). De esa ofrenda surge la lluvia [^248].
 
 ## SEXTO KHA<i>N</i><i>D</i>A.
 
@@ -156,9 +156,9 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 3\. Pero quienes viven en una aldea practican una vida de sacrificios, obras de utilidad pública y limosnas, van al humo, del humo a la noche, de la noche a la mitad oscura de la luna, de la mitad oscura de la luna a los seis meses en que el sol se pone al sur. Pero no llegan al año.
 
-4\. 'De los meses van al mundo de los padres, del mundo de los padres al éter, del éter a la luna. Ese es Soma, el rey. Aquí son amados (comidos) por los Devas, sí, los Devas los aman (comen) [^253]. <span id="p81">[<sup><small>p. 81</small></sup>]</span> 5\. 'Habiendo permanecido allí, hasta que sus (buenas) obras se consumen, regresan por el mismo camino que vinieron [^254], al éter, del éter al aire. Entonces el sacrificador, habiéndose convertido en aire, se convierte en humo, habiéndose convertido en humo, se convierte en niebla,
+4\. 'De los meses van al mundo de los padres, del mundo de los padres al éter, del éter a la luna. Ese es Soma, el rey. Aquí son amados (comidos) por los Devas, sí, los Devas los aman (comen) [^253]. <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> 5\. 'Habiendo permanecido allí, hasta que sus (buenas) obras se consumen, regresan por el mismo camino que vinieron [^254], al éter, del éter al aire. Entonces el sacrificador, habiéndose convertido en aire, se convierte en humo, habiéndose convertido en humo, se convierte en niebla,
 
-6\. 'Tras convertirse en niebla, se convierte en nube; tras convertirse en nube, llueve. Entonces nace como arroz y maíz, hierbas y árboles, sésamo y frijoles. Desde entonces, la salida está plagada de dificultades. Porque quienquiera que coma el alimento y tenga descendencia, de ahí en adelante se vuelve como ellos. <span id="p82">[<sup><small>p. 82</small></sup>]</span> 7\. 'Aquellos cuya conducta ha sido buena, alcanzarán rápidamente un buen nacimiento, el nacimiento de un brahmán, un kshatriya o un vaisya. Pero aquellos cuya conducta ha sido mala, alcanzarán rápidamente un nacimiento malo, el nacimiento de un perro, un cerdo o un krāṇāṇa.
+6\. 'Tras convertirse en niebla, se convierte en nube; tras convertirse en nube, llueve. Entonces nace como arroz y maíz, hierbas y árboles, sésamo y frijoles. Desde entonces, la salida está plagada de dificultades. Porque quienquiera que coma el alimento y tenga descendencia, de ahí en adelante se vuelve como ellos. <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> 7\. 'Aquellos cuya conducta ha sido buena, alcanzarán rápidamente un buen nacimiento, el nacimiento de un brahmán, un kshatriya o un vaisya. Pero aquellos cuya conducta ha sido mala, alcanzarán rápidamente un nacimiento malo, el nacimiento de un perro, un cerdo o un krāṇāṇa.
 
 8\. 'En ninguno de estos dos caminos regresan continuamente esas pequeñas criaturas (moscas, gusanos, etc.) de las que se puede decir que viven y mueren. Su lugar es tercero.
 
@@ -168,7 +168,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 «Por lo tanto, que cada cual se cuide a sí mismo [^256]! Y así se dice en el siguiente <i>S</i>loka [^257]:
 
-9\. 'Un hombre que roba oro, que bebe licor, <span id="p84">[<sup><small>p. 84</small></sup>]</span> que deshonra el lecho de su Gurú, que mata a un Brahman, estos cuatro caen, y como quinto aquel que se asocia con ellos.
+9\. 'Un hombre que roba oro, que bebe licor, <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> que deshonra el lecho de su Gurú, que mata a un Brahman, estos cuatro caen, y como quinto aquel que se asocia con ellos.
 
 10\. Pero quien así conoce los cinco fuegos no se contamina con el pecado, aunque se asocie con ellos. Quien conoce esto es puro, limpio, y alcanza el mundo de los bienaventurados; sí, alcanza el mundo de los bienaventurados.
 
@@ -176,7 +176,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 1\. Prâ<i>k</i>îna<i>s</i>âla Aupamanyava, Satyaya<i>g</i>ña Paulushi, Indradyumna Bhâllaveya, <i>G</i>ana <i>S</i>ârkarâkshya y Bu<i>d</i>ila Â<i>s</i>vatara<i>s</i>vi, estos cinco grandes jefes de familia y grandes teólogos se reunieron una vez y mantuvieron una discusión acerca de Qué es nuestro Ser y qué es Brahman [^259].
 
-2\. Reflexionaron y dijeron: «Señores, existe ese Uddâlaka Âru<i>n</i>i, quien actualmente conoce a ese Ser, <span id="p85">[<sup><small>p. 85</small></sup>]</span> llamado Vai<i>s</i>vânara. Bien, vayamos a verlo». Fueron a verlo.
+2\. Reflexionaron y dijeron: «Señores, existe ese Uddâlaka Âru<i>n</i>i, quien actualmente conoce a ese Ser, <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> llamado Vai<i>s</i>vânara. Bien, vayamos a verlo». Fueron a verlo.
 
 3\. Pero reflexionó: «Esos grandes jefes de familia y grandes teólogos me interrogarán, y no podré explicárselo todo; por lo tanto, les recomendaré otro maestro».
 
@@ -224,7 +224,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 ## DÉCIMO SEXTO KHA<i>N</i><i>D</i>A.
 
-1\. Entonces le dijo a Bu<i>d</i>ila Â<i>s</i>vatarâ<i>s</i>vi: «Oh, Vaiyâghrapadya, ¿en quién meditas como el Ser?». Él respondió: «Solo agua, venerable rey». Dijo: <span id="p88">[<sup><small>p. 88</small></sup>]</span> «El Ser en el que meditas es el Ser Vai<i>s</i>vânara, llamado Rayi (riqueza). Por lo tanto, eres rico y próspero.
+1\. Entonces le dijo a Bu<i>d</i>ila Â<i>s</i>vatarâ<i>s</i>vi: «Oh, Vaiyâghrapadya, ¿en quién meditas como el Ser?». Él respondió: «Solo agua, venerable rey». Dijo: <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> «El Ser en el que meditas es el Ser Vai<i>s</i>vânara, llamado Rayi (riqueza). Por lo tanto, eres rico y próspero.
 
 2\. 'Tú comes y ves tu deseo, y quienquiera que medite así en ese Ser Vai<i>s</i>vânara, come y ve su deseo, y tiene gloria védica en su casa.
 
@@ -240,7 +240,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 ## DECIMOCTAVO KHAN D A.
 
-1\. Entonces les dijo a todos: «Coman, sabiendo que el Ser Vai<i>s</i>vânara es múltiple. Pero quien adora al Ser Vai<i>s</i>vânara como un palmo de largo, y como [^264] idéntico a sí mismo, come en todos los mundos, en todos los seres, en todos los Seres. <span id="p89">[<sup><small>p. 89</small></sup>]</span> 2\. 'De ese Ser Vai<i>s</i>vânara, la cabeza es Sute<i>g</i>as (que tiene buena luz), el ojo Vi<i>s</i>varûpa (multiforme), la respiración P<i>ri</i>thagvartman (que tiene varios cursos), el tronco Bahula (lleno), la vejiga Rayi (riqueza), los pies la tierra, el pecho el altar, los cabellos la hierba del altar, el corazón el fuego Gârhapatya, la mente el fuego Anvâhârya, la boca el fuego Âhavanîya.
+1\. Entonces les dijo a todos: «Coman, sabiendo que el Ser Vai<i>s</i>vânara es múltiple. Pero quien adora al Ser Vai<i>s</i>vânara como un palmo de largo, y como [^264] idéntico a sí mismo, come en todos los mundos, en todos los seres, en todos los Seres. <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> 2\. 'De ese Ser Vai<i>s</i>vânara, la cabeza es Sute<i>g</i>as (que tiene buena luz), el ojo Vi<i>s</i>varûpa (multiforme), la respiración P<i>ri</i>thagvartman (que tiene varios cursos), el tronco Bahula (lleno), la vejiga Rayi (riqueza), los pies la tierra, el pecho el altar, los cabellos la hierba del altar, el corazón el fuego Gârhapatya, la mente el fuego Anvâhârya, la boca el fuego Âhavanîya.
 
 ## DECIMONOVENO KHAND.
 
@@ -266,7 +266,7 @@ Aquellos que conocen esto [^250] (aunque aún sean g<i>ri</i>hasthas, cabezas de
 
 1\. Y quien ofrezca la cuarta oblación, debe ofrecerla a Samâna (al respirar), diciendo Svâhâ. Entonces Samâna queda satisfecho.
 
-2\. «Si Samâna está satisfecho, la mente está satisfecha; si la mente está satisfecha, Par<i>g</i>anya (dios de la lluvia) está satisfecho; si Par<i>g</i>anya está satisfecho, el rayo está satisfecho; si el rayo está satisfecho, todo lo que está bajo Par<i>g</i>anya y bajo el rayo está satisfecho. Y mediante su <span id="p91">[<sup><small>p. 91</small></sup>]</span> satisfacción, él (el sacrificador o proveedor) se satisface con descendencia, ganado, salud, brillo y esplendor védico.»
+2\. «Si Samâna está satisfecho, la mente está satisfecha; si la mente está satisfecha, Par<i>g</i>anya (dios de la lluvia) está satisfecho; si Par<i>g</i>anya está satisfecho, el rayo está satisfecho; si el rayo está satisfecho, todo lo que está bajo Par<i>g</i>anya y bajo el rayo está satisfecho. Y mediante su <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> satisfacción, él (el sacrificador o proveedor) se satisface con descendencia, ganado, salud, brillo y esplendor védico.»
 
 ## VIGÉSIMO TERCER KHA<i>N</i><i>D</i>A.
 

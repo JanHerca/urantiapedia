@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 ADEMÁS de la elegante traducción del Mo‘allaqah de Antara hecha por el profesor E. H. Palmer, incluida en un pequeño volumen titulado «La canción de la caña y otras piezas», publicado por los señores Trübner and Co., de Londres, los únicos intentos que se han hecho para traducir pasajes de los «Siete poemas árabes» al inglés son los primeros dieciséis versos de Lebīd de Carlyle, y algunos de los pasajes más sorprendentes de los otros poemas del escritor anónimo de un artículo sobre el Mo‘allaqāt en el vol. v. de la Retrospective Review, 1822. La «traducción erudita» de Carlyle de los versos iniciales de Lebīd, como Burton la llama medio despectivamente en su «Peregrinación a El-Medina y La Meca», forma el primero de sus «Ejemplos de poesía árabe», pero fue omitido en la reimpresión de sus traducciones en el presente volumen, para que pudiera ubicarse más apropiadamente, con los otros pasajes versificados del Mo‘allaqāt, entre las siguientes Notas.
 

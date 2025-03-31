@@ -96,7 +96,7 @@ Sacrificamos a Haurvatâ<i>t</i>, la Amesha-Spe<i>n</i>ta; sacrificamos a la pro
 
 Sacrificamos a Ameretâ<i>t</i>, la Amesha-Spe<i>n</i>ta; sacrificamos a la gordura y a los rebaños; sacrificamos a la abundancia de maíz; sacrificamos al poderoso Gaokerena, hecho por Mazda.
 
-9\. [^196]. (En el Gâh Hâvan): Sacrificamos a <span id="p38">[<sup><small>p. 38</small></sup>]</span> Mitra, el señor de los amplios pastos; sacrificamos a Râma <i>H</i><i>v</i>âstra.
+9\. [^196]. (En el Gâh Hâvan): Sacrificamos a <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> Mitra, el señor de los amplios pastos; sacrificamos a Râma <i>H</i><i>v</i>âstra.
 
 (En el Gâh Rapithwin): Sacrificamos a Asha-Vahi<i>s</i>ta y a Âtar, el hijo de Ahura Mazda.
 
@@ -114,7 +114,7 @@ Sacrificamos a Ameretâ<i>t</i>, la Amesha-Spe<i>n</i>ta; sacrificamos a la gord
 
 12\. [^201] . . . . . . . . . ?
 
-13\. Es él quien toma las siete Amesha-Spe<i>n</i>tas, <span id="p39">[<sup><small>p. 39</small></sup>]</span>, el que todo lo gobierna, el que todo lo benefica, como escudo [^202] contra sus enemigos.
+13\. Es él quien toma las siete Amesha-Spe<i>n</i>tas, <span id="p39"><sup><small>[ p. 39 ]</small></sup></span>, el que todo lo gobierna, el que todo lo benefica, como escudo [^202] contra sus enemigos.
 
 Adoramos la Ley de los adoradores de Mazda; adoramos las aguas que vienen en forma de caballo [^203], hecho por Mazda.
 

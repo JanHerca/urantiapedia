@@ -32,11 +32,11 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 _Los poemas titulados_ Almoällakât _exhiben una imagen exacta de sus virtudes y sus vicios, su sabiduría y su locura; y muestran lo que se puede esperar constantemente de hombres de corazón abierto y pasiones hirvientes, sin ley que controle y poca religión que restrinja, ejem_.—Six W. JONES: Discurso sobre los árabes.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 <figure id="Figure_00300" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/00300.jpg">
@@ -52,7 +52,7 @@ Ellas conjuraron, suplicaron, protestaron; pero, cuando se hizo tarde, se vieron
 
 Luego relata su cortejo a Fátima y su amorío más peligroso con una muchacha de una tribu en guerra con la suya, cuyas bellezas delinea minuciosamente y con gran lujo. A partir de estos relatos de amor, pasa al elogio de su propia fortaleza, cuando atravesaba un desierto en la noche más oscura; y la mención de la mañana siguiente lo lleva a una larga descripción de su cazador y de una cacería en el bosque, seguida de un festín con la presa que había sido atravesada por sus jabalinas.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Aquí su narración parece ser interrumpida por una tormenta de relámpagos y lluvia violenta; describe noblemente la lluvia y el torrente que produjo por todas las montañas adyacentes; y, sus compañeros se retiran para evitar la tormenta, el drama (pues el poema tiene la forma de una pastoral dramática) termina abruptamente.
 

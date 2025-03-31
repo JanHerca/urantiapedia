@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 3\. La escuela de Shamai decía: «Se pueden traer ofrendas de paz durante la fiesta, pero no se les debe imponer las manos ni se les debe ofrecer holocaustos». Pero la casa de Hilel dice: «Se pueden traer ofrendas de paz y holocaustos, y se les debe imponer las manos».
 
-4\. "¿Cuándo Pentecostés cae en vísperas del sabbat?" La escuela de Shamai dice: "El día del sacrificio de la ofrenda es después del sabbat". Pero la <span id="p172">[<sup><small>p. 172</small></sup>]</span> escuela de Hillel dice: "No hay día de sacrificio después del sabbat". Sin embargo, ambos reconocen que si caía en sabbat, el día del sacrificio es después del sabbat. Y el sumo sacerdote no debe vestir sus vestimentas, aunque se permiten en épocas de luto y ayuno, por temor a confirmar las palabras de quienes dicen que "Pentecostés cae después del sabbat". [^357]
+4\. "¿Cuándo Pentecostés cae en vísperas del sabbat?" La escuela de Shamai dice: "El día del sacrificio de la ofrenda es después del sabbat". Pero la <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> escuela de Hillel dice: "No hay día de sacrificio después del sabbat". Sin embargo, ambos reconocen que si caía en sabbat, el día del sacrificio es después del sabbat. Y el sumo sacerdote no debe vestir sus vestimentas, aunque se permiten en épocas de luto y ayuno, por temor a confirmar las palabras de quienes dicen que "Pentecostés cae después del sabbat". [^357]
 
 5\. Los hombres deben lavarse las manos para comer ordinariamente, pero para los diezmos y para la ofrenda elevada deben ser bautizados. Y para la ofrenda por el pecado, si las manos están impuras, el cuerpo también lo está.
 

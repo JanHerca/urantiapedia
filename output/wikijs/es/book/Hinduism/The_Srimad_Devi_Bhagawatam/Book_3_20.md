@@ -36,7 +36,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 ## Capítulo XI
 
-**Sobre los méritos de la Devi en la historia de Satyavrata** <span id="p159">[<sup><small>p. 159</small></sup>]</span> 1-5. Lomas'a dijo:— ¡Oh Munis! Utatthya, el hijo de Devadatta, era completamente ignorante de todo lo relacionado con los Vedas, Japam (murmullo de mantras), meditación de la deidad, adoración de los Devas, Âsana (Postura), Prânâyâma (retención de la respiración a modo de austeridad religiosa), Pratyâhâra (restricción de la mente), Bhûtas'uddhi (purificación de los elementos del cuerpo por atracción y reemplazo respiratorio), mantra (una fórmula mística con respecto a alguna deidad), Kîlaka (canto de un mantra que sirva como un alfiler de protección), Gâyattrî (el famoso mantra de los Brâhmanes), Saucha (limpieza externa e interna), reglas sobre cómo bañarse, Âchamana (beber agua y recitar mantras antes de la adoración), Prânâgnihotra (ofrenda de oblaciones al fuego de Prâna o al fuego de Vida), la ofrenda de un sacrificio, la hospitalidad, Sandhyâ (la oración de la mañana, del mediodía o de la tarde), la recolección de combustible para las oblaciones y la ofrenda de oblaciones. Diariamente se levantaba por la mañana y, de alguna manera, se enjuagaba la boca, se lavaba los dientes y se bañaba en el río Ganges sin ningún mantra (como un sudra).
+**Sobre los méritos de la Devi en la historia de Satyavrata** <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 1-5. Lomas'a dijo:— ¡Oh Munis! Utatthya, el hijo de Devadatta, era completamente ignorante de todo lo relacionado con los Vedas, Japam (murmullo de mantras), meditación de la deidad, adoración de los Devas, Âsana (Postura), Prânâyâma (retención de la respiración a modo de austeridad religiosa), Pratyâhâra (restricción de la mente), Bhûtas'uddhi (purificación de los elementos del cuerpo por atracción y reemplazo respiratorio), mantra (una fórmula mística con respecto a alguna deidad), Kîlaka (canto de un mantra que sirva como un alfiler de protección), Gâyattrî (el famoso mantra de los Brâhmanes), Saucha (limpieza externa e interna), reglas sobre cómo bañarse, Âchamana (beber agua y recitar mantras antes de la adoración), Prânâgnihotra (ofrenda de oblaciones al fuego de Prâna o al fuego de Vida), la ofrenda de un sacrificio, la hospitalidad, Sandhyâ (la oración de la mañana, del mediodía o de la tarde), la recolección de combustible para las oblaciones y la ofrenda de oblaciones. Diariamente se levantaba por la mañana y, de alguna manera, se enjuagaba la boca, se lavaba los dientes y se bañaba en el río Ganges sin ningún mantra (como un sudra).
 
 6\. Ese estúpido comía sin discernir, sin saber qué comer ni qué no. Al mediodía recogía los frutos del bosque y los comía.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 10\. Solía ​​pensar así: «El destino me ha convertido en un necio; no encuentro otra razón. ¡Oh! Tuve una cuna extraordinaria entre los hombres; pero el destino ha hecho que todo esto sea en vano».
 
-11\. ¡Oh! Como una mujer hermosa si es estéril, una vaca si no da leche y un árbol sin frutos son todos inútiles, así el Destino también ha hecho mi vida completamente inútil. <span id="p160">[<sup><small>p. 160</small></sup>]</span> 12\. ¿Por qué maldigo al Destino? Todo esto es fruto de mi karma pasado. En mi vida anterior nunca escribí un libro ni se lo presenté a un buen brahmán; por lo tanto, soy analfabeto en esta vida.
+11\. ¡Oh! Como una mujer hermosa si es estéril, una vaca si no da leche y un árbol sin frutos son todos inútiles, así el Destino también ha hecho mi vida completamente inútil. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> 12\. ¿Por qué maldigo al Destino? Todo esto es fruto de mi karma pasado. En mi vida anterior nunca escribí un libro ni se lo presenté a un buen brahmán; por lo tanto, soy analfabeto en esta vida.
 
 13\. En mi vida anterior no impartí ningún conocimiento a mis discípulos predilectos; por lo tanto, soy malvado y un brahmán maldito en esta vida.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 23\. Érase una vez, un cazador llamado Nisada, extremadamente hábil en la caza, apareció por casualidad con arcos y armas mientras cazaba un ciervo en aquel vasto bosque. Parecía un segundo Dios de la Muerte (Yama) y parecía muy cruel.
 
-24\. Ese salvaje montañés, tensando su arco hasta tocar la oreja, atravesó a un jabalí con sus afiladas flechas. El jabalí, aterrorizado, huyó con enorme rapidez hacia el Muni Satyavrata. <span id="p161">[<sup><small>p. 161</small></sup>]</span> 25\. Al ver el estado de angustia del jabalí, temblando de miedo y con el cuerpo manchado de sangre, el Muni sintió compasión.
+24\. Ese salvaje montañés, tensando su arco hasta tocar la oreja, atravesó a un jabalí con sus afiladas flechas. El jabalí, aterrorizado, huyó con enorme rapidez hacia el Muni Satyavrata. <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> 25\. Al ver el estado de angustia del jabalí, temblando de miedo y con el cuerpo manchado de sangre, el Muni sintió compasión.
 
 26\. Mientras el jabalí, atravesado por flechas y manchado de sangre, huía frente a él, la misericordia se apoderó del Muni, quien, temblando, exclamó, en armonía con la naturaleza humana: «Ai», «Ai» (ve hacia allá), el mantram semilla de la Diosa del conocimiento, sin la «m» (Aim, Aim).
 
@@ -86,7 +86,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 35\. El jabalí abatido por las flechas se ha ido por aquí, es cierto. ¿Cómo puedo mentir? Este hombre tiene hambre y, por eso, pide; matará al jabalí en cuanto lo encuentre. ¿Cómo puedo entonces decir la verdad?
 
-36\. Cuando decir la verdad causa daño y la pérdida de vidas, esa verdad no es verdad en absoluto; es más, incluso la falsedad, cuando se modera con misericordia por el bienestar ajeno, se reconoce como verdad. En realidad, todo lo que <span id="p162">[<sup><small>p. 162</small></sup>]</span> conduce al bienestar de todos los seres de este mundo, eso es verdad; y todo lo demás no es verdad.
+36\. Cuando decir la verdad causa daño y la pérdida de vidas, esa verdad no es verdad en absoluto; es más, incluso la falsedad, cuando se modera con misericordia por el bienestar ajeno, se reconoce como verdad. En realidad, todo lo que <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> conduce al bienestar de todos los seres de este mundo, eso es verdad; y todo lo demás no es verdad.
 
 37. ¡Oh, Jamadagni! Ante este dilema religioso, ¿qué debo hacer ahora para lograr ambos fines: salvar la vida del jabalí, procurar el bienestar y no mentir?
 
@@ -127,7 +127,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 ## Capítulo XII
 
-**Sobre las reglas del Ambâ Yajña** <span id="p163">[<sup><small>p. 163</small></sup>]</span> 1\. El rey habló: —¡Oh, Señor! Por favor, describe las reglas y regulaciones sobre cómo se realiza el Devî Yajña (sacrificio) con sus ritos y ceremonias debidamente prescritos. Al escucharlo, lo realizaré incansablemente, en la medida de mis posibilidades, con la menor demora posible.
+**Sobre las reglas del Ambâ Yajña** <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> 1\. El rey habló: —¡Oh, Señor! Por favor, describe las reglas y regulaciones sobre cómo se realiza el Devî Yajña (sacrificio) con sus ritos y ceremonias debidamente prescritos. Al escucharlo, lo realizaré incansablemente, en la medida de mis posibilidades, con la menor demora posible.
 
 2. Cómo se realiza la adoración, cuáles son los mantras, qué artículos se requieren para las oblaciones, cuántos brahmanes se requieren y qué daksinâs se les deben ofrecer; describe todo esto en detalle.
 
@@ -151,7 +151,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 17\. ¡Oh, rey! ¿Cómo pudo suceder todo esto en un lugar donde el propio Sri Bhagavan Kesava y el noble Yudhisthîra estaban presentes? Si alguien discutiera, concluiría: «Debió haber algo malo en ese Yajña».
 
-18\. Si se afirma que no ocurrió nada malo en el Yajña, sino que todo esto fue causado por el Destino; entonces la conclusión es que los mantras védicos, los Âgamas y los demás ritos védicos son infructuosos. <span id="p165">[<sup><small>p. 165</small></sup>]</span> 19\. Si se argumenta que, aunque los mantras védicos son lo suficientemente poderosos como para dar frutos, todo lo que está predestinado a suceder, sin duda sucederá, entonces la proposición se reduce a esto: que todos los medios, expedientes y artificios conducen a conclusiones sin sentido.
+18\. Si se afirma que no ocurrió nada malo en el Yajña, sino que todo esto fue causado por el Destino; entonces la conclusión es que los mantras védicos, los Âgamas y los demás ritos védicos son infructuosos. <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 19\. Si se argumenta que, aunque los mantras védicos son lo suficientemente poderosos como para dar frutos, todo lo que está predestinado a suceder, sin duda sucederá, entonces la proposición se reduce a esto: que todos los medios, expedientes y artificios conducen a conclusiones sin sentido.
 
 20\. Entonces los Âgamas, los Vedas, simplemente recomiendan un vidhi o precepto, indicando el bien que surge de su correcta observancia y los males que surgen de su omisión, y también aduciendo ejemplos históricos como respaldo. En otras palabras, son impotentes en cuanto a la fructificación; todas las acciones carecen de sentido, el ascetismo para alcanzar el Cielo resulta inútil y los deberes peculiares de casta son infructuosos. ¡Oh, rey! Esta visión es sumamente culpable; nunca es apta para la aceptación de las personas de alma elevada.
 
@@ -169,7 +169,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 27\. ¡Oh, Rey! Este es el caso en el que el agente empleado en la realización del Yajña produjo los frutos contrarios; no hay duda al respecto. Esto no es posible en los demás casos.
 
-28\. Véase, de nuevo, el rey de Pânchâla realizó su sacrificio para tener un hijo que matara a Drona, hijo de Bhâradvâja; y aunque lo hizo por motivos de ira, Dhristadyumna nació del fuego; y Draupadî surgió del altar. <span id="p166">[<sup><small>p. 166</small></sup>]</span> 29\. Además, en tiempos pasados, Das'aratha, el rey de Kosala, no tenía hijos; e instituyó un sacrificio para tener uno; y ¡he aquí!, tuvo cuatro hijos.
+28\. Véase, de nuevo, el rey de Pânchâla realizó su sacrificio para tener un hijo que matara a Drona, hijo de Bhâradvâja; y aunque lo hizo por motivos de ira, Dhristadyumna nació del fuego; y Draupadî surgió del altar. <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> 29\. Además, en tiempos pasados, Das'aratha, el rey de Kosala, no tenía hijos; e instituyó un sacrificio para tener uno; y ¡he aquí!, tuvo cuatro hijos.
 
 30\. ¡Por tanto, oh Rey! Si el Yajña se realiza según las reglas y regulaciones adecuadas, produce frutos en todos los aspectos; por otro lado, si se realiza injustamente, sin acatar las reglas, etc., produce resultados totalmente opuestos; de esto no hay duda.
 
@@ -187,7 +187,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 39\. Ese Yajña se llama Mânas Yâg o mânasico (mental) donde los Munis de alma elevada, libres de deseos mundanos, recogen mentalmente todos los artículos necesarios y realizan el Yajña con el único objetivo de liberarse de las ataduras del mundo.
 
-40\. En todos los demás Yajñas (excepto el Mânas Yâg) surgen naturalmente imperfecciones, debido a defectos en los materiales, falta de fe, en la ejecución o en los brahmanes. <span id="p167">[<sup><small>p. 167</small></sup>]</span> 41\. Ningún otro Yajña puede ser tan completo como el Mânasa Yajña; esto se debe a que en los demás Yajñas surgen imperfecciones debido al tiempo, el lugar y la necesidad de reunir los ingredientes por separado.
+40\. En todos los demás Yajñas (excepto el Mânas Yâg) surgen naturalmente imperfecciones, debido a defectos en los materiales, falta de fe, en la ejecución o en los brahmanes. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> 41\. Ningún otro Yajña puede ser tan completo como el Mânasa Yajña; esto se debe a que en los demás Yajñas surgen imperfecciones debido al tiempo, el lugar y la necesidad de reunir los ingredientes por separado.
 
 42-43. Ahora escuchen quiénes son las personas idóneas para realizar este Yajña mental en honor a la Gran Diosa. Primero, la mente debe purificarse, despojándola de las Gunas; al ser pura la mente, el cuerpo también se purifica, sin duda. Cuando la mente se purifica por completo, tras haber abandonado todos los objetos sensuales, apta para el disfrute, entonces ese hombre tiene derecho a realizar el Yajña de la Madre.
 
@@ -199,7 +199,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 49-50. Prâna Vâyu representa Gârhapatya; Apâna, Âhavanîya; Vyâna, Daksinâ; Samâna, Avasathya; y Udâna, Sabhya Agni. Estos fuegos son terribles; por lo tanto, se deben colocar cuidadosamente sobre el altar con gran concentración. Luego, se deben reunir todos los demás materiales necesarios y creer que todos son puros y libres de defectos.
 
-51-57. En el Yajña Manásico, la mente es quien ofrece las oblaciones y la mente es el Yajamâna, quien realiza el Sacrificio; y la Deidad que preside el Sacrificio es Nirguna Brahmâ. La Gran Diosa, la Energía Nirguna, quien siempre es auspiciosa y otorga la sensación de desapego e indiferencia hacia los objetos mundanos, es quien otorga los frutos en este Yajña. Ella es Brahmâ Vidyâ, el sustrato de todo y lo penetra todo. El Brâhmin debe tomar el nombre de la Devi y ofrecer oblaciones en el fuego de Prana, los artículos necesarios para la satisfacción de la Devi. Luego debe vaciar su Chitta y Prâna de cualquier pensamiento mundano o cualquier apoyo mundano y ofrecer oblaciones al Brahmâ Eterno a través de la boca de Kundalinî (el Fuego Serpiente). A continuación, dentro de su mente Nirvikalpa, mediante Samâdhi, debe meditar en su propio Ser, la Mahes'varî Misma, mediante su conciencia. Así, cuando se vea a sí mismo en todos los seres y a todos los seres en su propio ser, entonces <span id="p168">[<sup><small>p. 168</small></sup>]</span> el Jîva obtendrá la visión de la Diosa Mahâvidyâ, otorgando la auspiciosa liberación (Moksa). ¡Oh, Rey! Después de que los Munis de alma elevada hayan visto a la Diosa, de inteligencia y bienaventuranza eternas, entonces se convertirán en conocedores de Brâhman. Toda Mâyâ, la causa de este Universo, se quema; sólo mientras el cuerpo permanece, el Prârabdha Karma permanece.
+51-57. En el Yajña Manásico, la mente es quien ofrece las oblaciones y la mente es el Yajamâna, quien realiza el Sacrificio; y la Deidad que preside el Sacrificio es Nirguna Brahmâ. La Gran Diosa, la Energía Nirguna, quien siempre es auspiciosa y otorga la sensación de desapego e indiferencia hacia los objetos mundanos, es quien otorga los frutos en este Yajña. Ella es Brahmâ Vidyâ, el sustrato de todo y lo penetra todo. El Brâhmin debe tomar el nombre de la Devi y ofrecer oblaciones en el fuego de Prana, los artículos necesarios para la satisfacción de la Devi. Luego debe vaciar su Chitta y Prâna de cualquier pensamiento mundano o cualquier apoyo mundano y ofrecer oblaciones al Brahmâ Eterno a través de la boca de Kundalinî (el Fuego Serpiente). A continuación, dentro de su mente Nirvikalpa, mediante Samâdhi, debe meditar en su propio Ser, la Mahes'varî Misma, mediante su conciencia. Así, cuando se vea a sí mismo en todos los seres y a todos los seres en su propio ser, entonces <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> el Jîva obtendrá la visión de la Diosa Mahâvidyâ, otorgando la auspiciosa liberación (Moksa). ¡Oh, Rey! Después de que los Munis de alma elevada hayan visto a la Diosa, de inteligencia y bienaventuranza eternas, entonces se convertirán en conocedores de Brâhman. Toda Mâyâ, la causa de este Universo, se quema; sólo mientras el cuerpo permanece, el Prârabdha Karma permanece.
 
 58\. Entonces, los Jivas se liberan mientras viven; y cuando el cuerpo se disuelve, alcanzan la liberación final. Por lo tanto, ¡oh, Niño! Quien adora a la Madre alcanza el éxito; de esto no hay duda.
 
@@ -217,7 +217,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 68. ¡Oh, Rey! Realiza este sacrificio debidamente y libera a tu padre del infierno por los méritos que adquirirás con él.
 
-69\. ¡Oh, Inmaculado! El pecado cometido por insultar a un brahmán es grave y lleva al pecador al infierno. Tu padre cometió ese pecado y recibió la maldición de un brahmán. Por lo tanto, ha ido al infierno. <span id="p169">[<sup><small>p. 169</small></sup>]</span> 70\. Tu padre también murió por la mordedura de una serpiente, lo cual no es meritorio. La muerte también ocurrió en un palacio construido en lo alto (sobre un pilar), en lugar de en el suelo, sobre un lecho de hierba kusa.
+69\. ¡Oh, Inmaculado! El pecado cometido por insultar a un brahmán es grave y lleva al pecador al infierno. Tu padre cometió ese pecado y recibió la maldición de un brahmán. Por lo tanto, ha ido al infierno. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> 70\. Tu padre también murió por la mordedura de una serpiente, lo cual no es meritorio. La muerte también ocurrió en un palacio construido en lo alto (sobre un pilar), en lugar de en el suelo, sobre un lecho de hierba kusa.
 
 71. ¡Oh, el mejor de los Kurus! La muerte no ocurrió en ninguna batalla ni a orillas del Ganges. Sin baños adecuados ni caridades, murió en un palacio.
 
@@ -233,7 +233,7 @@ Aquí termina el Undécimo Capítulo sobre los méritos de la Devî en la histor
 
 80\. Pero tu padre, incluso al oír la maldición de un brahmán, conservó su apego a su cuerpo; por eso no alcanzó el desapego.
 
-81\. Pensó así: «Mi cuerpo ya no padece ninguna enfermedad; mi reino está libre de enemigos y de cualquier otra fuente de peligro; ¿cómo puedo salvarme de esta muerte prematura?». Pensando así, ordenó llamar a los brahmanes, que conocen los mantras. <span id="p170">[<sup><small>p. 170</small></sup>]</span> 82\. Entonces, el rey subió al palacio con medicinas, muchos mantras y muchos otros instrumentos.
+81\. Pensó así: «Mi cuerpo ya no padece ninguna enfermedad; mi reino está libre de enemigos y de cualquier otra fuente de peligro; ¿cómo puedo salvarme de esta muerte prematura?». Pensando así, ordenó llamar a los brahmanes, que conocen los mantras. <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 82\. Entonces, el rey subió al palacio con medicinas, muchos mantras y muchos otros instrumentos.
 
 83-84. Consideraba que su destino era el más fuerte y, por lo tanto, no se bañó en ningún lugar sagrado; no realizó obras de caridad, no durmió en el suelo ni recordó ningún mantra de la Devi. Debido a que Kali entró en su cuerpo, cometió el pecado de insultar a un asceta y se sumergió en el océano de la ilusión, muriendo mordido por la serpiente Taksaka en la azotea de un palacio.
 
@@ -250,13 +250,13 @@ Así termina el duodécimo capítulo sobre las reglas del Ambâ Yajña en el 3er
 
 ## Capítulo XIII
 
-**Sobre el Devi Yajña de Sri Visnu** <span id="p170">[<sup><small>p. 170</small></sup>]</span> 1-3. El Rey habló: —¡Oh, Abuelo! ¿Cómo realizó Visnu, el Poderoso, la Causa del mundo, el Devi Yajña? ¿De quién recibió ayuda y a qué sacerdotes con su conocimiento de los Vedas se dirigió? Por favor, cuéntame todo esto con especial detalle. Escucharé con mucha atención primero este Devi Yajña realizado por Visnu; y luego haré lo necesario para realizarlo yo mismo.
+**Sobre el Devi Yajña de Sri Visnu** <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 1-3. El Rey habló: —¡Oh, Abuelo! ¿Cómo realizó Visnu, el Poderoso, la Causa del mundo, el Devi Yajña? ¿De quién recibió ayuda y a qué sacerdotes con su conocimiento de los Vedas se dirigió? Por favor, cuéntame todo esto con especial detalle. Escucharé con mucha atención primero este Devi Yajña realizado por Visnu; y luego haré lo necesario para realizarlo yo mismo.
 
 4\. Vyâsa dijo: —¡Oh, noble! Escucha con detalle ese hecho tan maravilloso: cómo Visnu celebró el Yajña de Devi conforme a las reglas establecidas en los Sastras.
 
 5\. Cuando Brahmâ, Visnu y Mahes'a recibieron poderes de la Devi, la Diosa del Universo, y al separarse, estos tres Devas se liberaron de su condición de mujeres, mientras regresaban en sus vehículos aéreos y se transformaron en hombres, como antes.
 
-6\. Estos tres Devas encontraron el gran océano ante ellos. De él sacaron el mundo y construyeron allí moradas; y ellos mismos comenzaron a vivir en algunas de ellas. <span id="p171">[<sup><small>p. 171</small></sup>]</span> 7\. Ese mundo se volvió fijo, estable y el sostén de todos los seres cuando la Diosa le impartió el poder de la fijación, la firmeza y el poder de sustentar el mundo. La tierra, llena de médula, se volvió entonces fija y el gran sostén por su poder.
+6\. Estos tres Devas encontraron el gran océano ante ellos. De él sacaron el mundo y construyeron allí moradas; y ellos mismos comenzaron a vivir en algunas de ellas. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> 7\. Ese mundo se volvió fijo, estable y el sostén de todos los seres cuando la Diosa le impartió el poder de la fijación, la firmeza y el poder de sustentar el mundo. La tierra, llena de médula, se volvió entonces fija y el gran sostén por su poder.
 
 8-10. ¡Oh, Rey! El nombre de esta tierra es Medinî, pues fue hecha de la médula de los dos asuras Madhu y Kaitabha. Esta tierra se llama Dharâ porque lo sustenta todo; se llama Prithvî por su gran capacidad; y se llama Mahî por su grandeza, pues sustenta a tantos seres. ¡Oh, Rey! La serpiente Ananta la sostiene sobre sus mil cabezas. Para que la tierra permaneciera sólida y compacta, Brahmâ construyó montañas en algunos lugares. Como clavos de hierro en un tronco de madera, así estas colinas y montañas dentro de esta tierra la fijaron. Por eso los pandits llaman a estas montañas «Mahîdhara», sostenedor de la tierra.
 
@@ -278,7 +278,7 @@ Así termina el duodécimo capítulo sobre las reglas del Ambâ Yajña en el 3er
 
 19\. Mahâdeva también construyó el bellísimo Kailasa y permaneció allí con sus Bhûtas, jugando con ellos a su antojo.
 
-20\. El tercer Loka, llamado Cielo, se construyó en la cima de Meru, decorado con diversas gemas, joyas y piedras preciosas. Fue designado como la morada de Indra. <span id="p172">[<sup><small>p. 172</small></sup>]</span> 21-22. Cuando el gran océano se agitó, Pârijâta, el mejor de todos los árboles, el elefante Airâvata de cuatro colmillos, la vaca celestial que da la leche de todos los deseos, el caballo Uchchais'ravâ y las apsaras, Rambhâ y otros, surgieron y fueron llevados por Indra. Estos se convirtieron en los adornos del Cielo.
+20\. El tercer Loka, llamado Cielo, se construyó en la cima de Meru, decorado con diversas gemas, joyas y piedras preciosas. Fue designado como la morada de Indra. <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 21-22. Cuando el gran océano se agitó, Pârijâta, el mejor de todos los árboles, el elefante Airâvata de cuatro colmillos, la vaca celestial que da la leche de todos los deseos, el caballo Uchchais'ravâ y las apsaras, Rambhâ y otros, surgieron y fueron llevados por Indra. Estos se convirtieron en los adornos del Cielo.
 
 23\. La Luna y Dhanvantarî, el gran médico, también surgieron de la agitación del océano. Estos, rodeados de muchos otros miembros, comenzaron a brillar, situándose por encima de los Cielos.
 
@@ -296,7 +296,7 @@ Así termina el duodécimo capítulo sobre las reglas del Ambâ Yajña en el 3er
 
 34\. Cuando el gran altar y el chiti (pila de leña para quemar, pila de ladrillos para el sacrificio) estuvieron terminados, los Brâhmanas comenzaron a recitar lentamente los mantrams de Devî con sus mantrams raíz.
 
-Nota: Chiti, la pila de leña encendida, es quizás el Mûlâdhâra, el plexo sacro, donde el fuego llamado Kundalinî se enciende por primera vez mediante procesos de Yoga. <span id="p173">[<sup><small>p. 173</small></sup>]</span> 35-37. Luego, se ofrecieron abundantes cantidades de ghee como oblaciones al Fuego Sagrado. Así, cuando la ceremonia Homa (ofrenda de oblaciones de ghee al fuego) concluyó con gran detalle y conforme a las reglas de los S'âstras, la dulce y melodiosa voz celestial se escuchó en el aire, dirigiéndose a Visnu Bhagavân, así: ¡Oh, Visnu! Sé el supremo entre los dioses; el honor y la adoración serán Tuyos primero; y serás el más poderoso de los Devas. Indra, junto con Brahmâ y los demás Devas, todos te adorarán.
+Nota: Chiti, la pila de leña encendida, es quizás el Mûlâdhâra, el plexo sacro, donde el fuego llamado Kundalinî se enciende por primera vez mediante procesos de Yoga. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> 35-37. Luego, se ofrecieron abundantes cantidades de ghee como oblaciones al Fuego Sagrado. Así, cuando la ceremonia Homa (ofrenda de oblaciones de ghee al fuego) concluyó con gran detalle y conforme a las reglas de los S'âstras, la dulce y melodiosa voz celestial se escuchó en el aire, dirigiéndose a Visnu Bhagavân, así: ¡Oh, Visnu! Sé el supremo entre los dioses; el honor y la adoración serán Tuyos primero; y serás el más poderoso de los Devas. Indra, junto con Brahmâ y los demás Devas, todos te adorarán.
 
 38-39. ¡Oh, Achyuta! (¡Oh, Infalible!) Aquellos hombres en la tierra que se dediquen a ti, ciertamente serán dotados de poder, y tú serás quien concederá sus bendiciones y todos sus deseos. ¡Oh, Visnu!, serás el Supremo de los Devas y el Dios de los dioses; serás el primero y el principal en todos los sacrificios y serás adorado por los sacrificadores.
 
@@ -312,7 +312,7 @@ Nota: Chiti, la pila de leña encendida, es quizás el Mûlâdhâra, el plexo sa
 
 48. Debéis respetar y venerar a todos esos poderes por todos los medios y con suma atención; jamás mostréis el más mínimo atisbo de orgullo hacia ellos; jamás los insultéis de esa manera.
 
-49\. Estas Saktis, capaces de conceder todos los deseos, serán adoradas en Pratimâs (imágenes de arcilla, etc.) en toda la India. <span id="p174">[<sup><small>p. 174</small></sup>]</span> 50\. ¡Oh, Deva de los Devas! La fama de todas estas Saktis, así como la tuya, se difundirá por los siete mundos y por todo el Universo.
+49\. Estas Saktis, capaces de conceder todos los deseos, serán adoradas en Pratimâs (imágenes de arcilla, etc.) en toda la India. <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> 50\. ¡Oh, Deva de los Devas! La fama de todas estas Saktis, así como la tuya, se difundirá por los siete mundos y por todo el Universo.
 
 51\. ¡Oh, Hari! Los seres humanos de esta tierra adorarán constantemente, con fines egoístas, a estos poderes y a ti, para la fructificación de sus deseos.
 
@@ -333,7 +333,7 @@ Aquí termina el decimotercer capítulo sobre el Devî Yajña de S'rî Visnu en 
 
 ## Capítulo XIV
 
-**Sobre la narración de las glorias de la Devi** <span id="p174">[<sup><small>p. 174</small></sup>]</span> 1-2. Janamejaya habló:— ¡Oh, Dvîja! He escuchado en detalle el Yajña de la Devi, realizado por Sri Visnu. Ahora describe Su Gloria y Sus gloriosas obras. Tras escuchar estas gloriosas obras de la Devi, también realizaré el mejor de todos los sacrificios. Así, sin duda, seré puro gracias a tu favor.
+**Sobre la narración de las glorias de la Devi** <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> 1-2. Janamejaya habló:— ¡Oh, Dvîja! He escuchado en detalle el Yajña de la Devi, realizado por Sri Visnu. Ahora describe Su Gloria y Sus gloriosas obras. Tras escuchar estas gloriosas obras de la Devi, también realizaré el mejor de todos los sacrificios. Así, sin duda, seré puro gracias a tu favor.
 
 3\. Vyâsa dijo: —¡Oh, rey! Escucha, te estoy describiendo la historia de las más auspiciosas y poderosas hazañas de la Devi, según los Purânas.
 
@@ -361,7 +361,7 @@ Aquí termina el decimotercer capítulo sobre el Devî Yajña de S'rî Visnu en 
 
 16\. La vista de estos dos hijos deleitó enormemente al pueblo. Al ver a estos Kritachudas y jugar, el rey se sumergió en un océano de placer.
 
-17-18. Sudars'ana era el mayor; pero Satrujit, el segundo hermoso hijo de Lîlâvatî, era de habla dulce y persuasiva. Su hermosa figura y sus dulces palabras deleitaron mucho al rey, y por estas cualidades, el niño Satrujit se convirtió también en el favorito del pueblo y los ministros. <span id="p176">[<sup><small>p. 176</small></sup>]</span> 19\. El rey no podía mostrar tanto afecto por el desafortunado Sudars'ana como por Satrujit.
+17-18. Sudars'ana era el mayor; pero Satrujit, el segundo hermoso hijo de Lîlâvatî, era de habla dulce y persuasiva. Su hermosa figura y sus dulces palabras deleitaron mucho al rey, y por estas cualidades, el niño Satrujit se convirtió también en el favorito del pueblo y los ministros. <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> 19\. El rey no podía mostrar tanto afecto por el desafortunado Sudars'ana como por Satrujit.
 
 20-21. Pasados ​​algunos días, el rey Dhruvasandhi salió de cacería al bosque. Allí mató muchos ciervos, ruru (una especie de ciervo), elefantes, jabalíes, liebres, búfalos, rinocerontes y camellos, y se divirtió mucho con esta cacería.
 
@@ -385,7 +385,7 @@ Aquí termina el decimotercer capítulo sobre el Devî Yajña de S'rî Visnu en 
 
 34-35. El ministro en jefe, así como los demás miembros, propusieron que, dado que Sudars'ana es hijo de la esposa legal, tranquilo y apacible, hermoso y dotado de todas las cualidades reales, es apto para el trono. Maharsi Vas'istha dijo que el hijo real, aunque no ha alcanzado la edad adecuada, sigue siendo religioso; por lo tanto, es realmente apto para ser instalado como rey en el trono real.
 
-36\. Cuando los sabios y ancianos ministros tomaron esta decisión, Yudhâjit, rey de Ujjain, al enterarse de la decisión, acudió al lugar. <span id="p177">[<sup><small>p. 177</small></sup>]</span> 37\. Era el padre de Lîlâvatî; al enterarse del fallecimiento de su yerno, acudió allí para que el hijo de su hija heredara el reino.
+36\. Cuando los sabios y ancianos ministros tomaron esta decisión, Yudhâjit, rey de Ujjain, al enterarse de la decisión, acudió al lugar. <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> 37\. Era el padre de Lîlâvatî; al enterarse del fallecimiento de su yerno, acudió allí para que el hijo de su hija heredara el reino.
 
 38\. Luego, Vîrasena, el rey del país de Kalinga y padre de Manoramâ, llegó allí también con el objetivo de que el hijo de su hija, Sudars'ana, fuera el Emperador.
 
@@ -424,7 +424,7 @@ Así termina el Decimocuarto Capítulo sobre la narración de las glorias de la 
 
 ## Capítulo XV
 
-**Sobre la batalla entre Yudhâjit y Vîrasena** <span id="p178">[<sup><small>p. 178</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, rey! Cuando se declaró la guerra, los dos reyes, impulsados ​​por la codicia y la ira, tomaron las armas; y se produjo un terrible encuentro.
+**Sobre la batalla entre Yudhâjit y Vîrasena** <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, rey! Cuando se declaró la guerra, los dos reyes, impulsados ​​por la codicia y la ira, tomaron las armas; y se produjo un terrible encuentro.
 
 2\. Por un lado, el rey Yudhâjit, de armas largas, rodeado por su propio ejército, con arcos y flechas, llegó dispuesto a luchar.
 
@@ -436,7 +436,7 @@ Así termina el Decimocuarto Capítulo sobre la narración de las glorias de la 
 
 6\. ¡Oh, Rey! Se desató entonces una terrible lucha entre la caballería y los guerreros a lomos de los elefantes; y los devas, los hombres y los munis comenzaron a presenciar esta terrible batalla con asombro y estupor. Aves, buitres y cuervos, deseosos de comer la carne de los soldados muertos, volaban por los aires.
 
-7\. La sangre de elefantes, caballos y guerreros, los cuerpos que yacían muertos, fluían a torrentes terriblemente como ríos en ese campo de batalla mortal. El torrente de sangre infundía temor entre quienes acudían a verlo, como el río Vaitarani, camino al infierno (el Señor de la Muerte), es muy temible para los pecadores. <span id="p179">[<sup><small>p. 179</small></sup>]</span> 8\. Los cráneos humanos fueron arrastrados a la orilla por la corriente y parecen tantas cáscaras huecas de calabazas esparcidas allí para el juego de los niños en las orillas del Jumnâ.
+7\. La sangre de elefantes, caballos y guerreros, los cuerpos que yacían muertos, fluían a torrentes terriblemente como ríos en ese campo de batalla mortal. El torrente de sangre infundía temor entre quienes acudían a verlo, como el río Vaitarani, camino al infierno (el Señor de la Muerte), es muy temible para los pecadores. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> 8\. Los cráneos humanos fueron arrastrados a la orilla por la corriente y parecen tantas cáscaras huecas de calabazas esparcidas allí para el juego de los niños en las orillas del Jumnâ.
 
 9\. Cuando un guerrero yacía muerto en el campo de batalla, los buitres comenzaban a volar por los aires para devorar su carne. Parecía entonces que el alma del guerrero, al contemplar su hermoso cuerpo, intentaba volver a entrar en él, aunque creía que se había vuelto inaccesible.
 
@@ -452,7 +452,7 @@ Así termina el Decimocuarto Capítulo sobre la narración de las glorias de la 
 
 15\. Un brahmachârî luchó en la batalla y fue asesinado. Ascendió a los cielos; al instante, una Devakanyâ de hermosos ojos, una ninfa celestial, deseó elegirlo como novio con gran devoción. Pero aquel astuto hombre no aceptó la oferta, pensando que así rompería su voto de brahmacharya.
 
-16-17. ¡Oh, Rey! Así, cuando la batalla se tornó mortal, el rey Yudhâjit disparó una flecha afilada y terrible a Vîrasena y le cortó la cabeza. Vîrasena yacía muerto en el campo de batalla y su ejército fue derrotado. Los soldados huyeron de la batalla. <span id="p180">[<sup><small>p. 180</small></sup>]</span> 18-19. Al enterarse de que su padre había muerto en la batalla, Manoramâ se sintió profundamente aterrorizada y ansiosa. Entonces empezó a pensar que el malvado y despiadado rey Yudhâjit sin duda mataría a su hijo, por el bien del reino y para saciar su enemistad con su padre.
+16-17. ¡Oh, Rey! Así, cuando la batalla se tornó mortal, el rey Yudhâjit disparó una flecha afilada y terrible a Vîrasena y le cortó la cabeza. Vîrasena yacía muerto en el campo de batalla y su ejército fue derrotado. Los soldados huyeron de la batalla. <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> 18-19. Al enterarse de que su padre había muerto en la batalla, Manoramâ se sintió profundamente aterrorizada y ansiosa. Entonces empezó a pensar que el malvado y despiadado rey Yudhâjit sin duda mataría a su hijo, por el bien del reino y para saciar su enemistad con su padre.
 
 20\. ¿Qué haré ahora? Mi padre murió en la batalla. Mi esposo ya no está. Mi hijo es menor de edad hoy. ¿Adónde iré?
 
@@ -476,7 +476,7 @@ Así termina el Decimocuarto Capítulo sobre la narración de las glorias de la 
 
 32\. El esposo vivía, pero aun así, la reina Kaikeyi desterró al bosque al hijo mayor de su rey, Sri Ramchandra; y el rey Dasaratha sacrificó su vida por esa misma razón.
 
-33\. Sin duda, los ministros querían antes instalar a mi hijo como rey; pero ahora no son independientes; se han rendido ante el rey Yudhâjit. <span id="p181">[<sup><small>p. 181</small></sup>]</span> 34\. No tengo ningún hermano con el poder suficiente para liberarme de mi esclavitud; veo que he caído en una gran dificultad debido a una combinación de circunstancias imprevistas.
+33\. Sin duda, los ministros querían antes instalar a mi hijo como rey; pero ahora no son independientes; se han rendido ante el rey Yudhâjit. <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> 34\. No tengo ningún hermano con el poder suficiente para liberarme de mi esclavitud; veo que he caído en una gran dificultad debido a una combinación de circunstancias imprevistas.
 
 35\. Aunque el éxito depende del Destino, aun así hay que esforzarse con ahínco. Si uno no se esfuerza, el destino también permanece dormido. Por lo tanto, pronto elaboraré un plan para salvar a mi hijo.
 
@@ -496,7 +496,7 @@ Así termina el Decimocuarto Capítulo sobre la narración de las glorias de la 
 
 50\. Bhâradvâja preguntó: «¡Oh, Ojos de Loto! ¿Quién eres y de quién eres esposa? ¿Por qué te has tomado tantas molestias para venir aquí? Responde a todas estas preguntas con sinceridad».
 
-51\. “¡Oh, hermosa! ¿Eres una Devi o un ser humano? Tu hijo es muy pequeño. ¿Por qué has venido a este denso bosque? Parece como si te hubieran privado de tu reino.” <span id="p182">[<sup><small>p. 182</small></sup>]</span> 52\. Ante la pregunta del mejor de los Munis, la bella Manoramâ se sintió profundamente afligida y rompió a llorar; no podía decir nada y le ordenó a Vidalla que le informara al Muni de todo lo sucedido.
+51\. “¡Oh, hermosa! ¿Eres una Devi o un ser humano? Tu hijo es muy pequeño. ¿Por qué has venido a este denso bosque? Parece como si te hubieran privado de tu reino.” <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> 52\. Ante la pregunta del mejor de los Munis, la bella Manoramâ se sintió profundamente afligida y rompió a llorar; no podía decir nada y le ordenó a Vidalla que le informara al Muni de todo lo sucedido.
 
 53-54. Vidalla dijo entonces: —Había un rey de Kosala llamado Dhruvasandhi. Ella es la esposa legal de ese rey. Su nombre es Manoramâ. Ese poderoso rey de la Dinastía Solar fue asesinado por un león en un bosque. Este niño, Sudars'ana, es su hijo.
 
@@ -521,9 +521,9 @@ Aquí termina el decimoquinto capítulo sobre la Devî Mâhâtmya y la batalla e
 
 ## Capítulo XVI
 
-**Sobre la gloria de la Devi** <span id="p182">[<sup><small>p. 182</small></sup>]</span> 1\. Vyâsa dijo:— Tras obtener la victoria en la batalla, el rey Yudhâjit regresó a la ciudad de Ayodhyâ con su enorme ejército y preguntó dónde estaban Sudars'ana y Manoramâ. Quería matar a Sudars'ana.
+**Sobre la gloria de la Devi** <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> 1\. Vyâsa dijo:— Tras obtener la victoria en la batalla, el rey Yudhâjit regresó a la ciudad de Ayodhyâ con su enorme ejército y preguntó dónde estaban Sudars'ana y Manoramâ. Quería matar a Sudars'ana.
 
-2\. Exclamó repetidamente: "¿Dónde se han metido?" y envió a sus sirvientes <span id="p183">[<sup><small>p. 183</small></sup>]</span> en su búsqueda. Entonces, en un día auspicioso, instaló al hijo de su hija en el trono.
+2\. Exclamó repetidamente: "¿Dónde se han metido?" y envió a sus sirvientes <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> en su búsqueda. Entonces, en un día auspicioso, instaló al hijo de su hija en el trono.
 
 3\. Maharsi Vas'istha fue contratado como sacerdote; él y los otros ministros comenzaron a cantar los himnos auspiciosos del Atharvaveda y, con las jarras llenas de agua y consagradas por estos himnos, instaló a S'atrûjit en el trono.
 
@@ -543,7 +543,7 @@ Aquí termina el decimoquinto capítulo sobre la Devî Mâhâtmya y la batalla e
 
 13-15. Al enterarse de que Yudhâjit venía con su ejército, Manoramâ empezó a pensar que su hijo era menor de edad y se sintió muy triste, angustiada y aterrorizada. Entonces, con lágrimas en los ojos, se dirigió al muni así: «Yudhâjit viene aquí; ¿qué debo hacer y adónde debo ir? Ha asesinado a mi padre y ha colocado al hijo de su hija en el trono. Aun así, no está satisfecho y ahora viene con su ejército a matar a mi hijo menor de edad».
 
-16-21. ¡Oh, Señor! En tiempos pasados, oí que los Pândavas, cuando iban al bosque, vivían en la sagrada ermita de los Munis con Draupadî. Un día, los cinco hermanos fueron de caza, y la hermosa Draupadî se quedó tranquila con otras sirvientas en la <span id="p184">[<sup><small>p. 184</small></sup>]</span> ermita donde se cantaba los Vedas por Dhaumya, Attri, Gâlava, Paila, Jâvâli, Gautama, Bhrigu, Chyavana, Kanva de los Atrigotra, Jatu, Kratu, Vîtihotra, Sumantu, Yajñadatt, Vatsala, Râs'âsana, Kahoda, Yavakrî, Yajñakrit, Kratu y otros Risis santos y de alma elevada como Bhâradvâja y otros.
+16-21. ¡Oh, Señor! En tiempos pasados, oí que los Pândavas, cuando iban al bosque, vivían en la sagrada ermita de los Munis con Draupadî. Un día, los cinco hermanos fueron de caza, y la hermosa Draupadî se quedó tranquila con otras sirvientas en la <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> ermita donde se cantaba los Vedas por Dhaumya, Attri, Gâlava, Paila, Jâvâli, Gautama, Bhrigu, Chyavana, Kanva de los Atrigotra, Jatu, Kratu, Vîtihotra, Sumantu, Yajñadatt, Vatsala, Râs'âsana, Kahoda, Yavakrî, Yajñakrit, Kratu y otros Risis santos y de alma elevada como Bhâradvâja y otros.
 
 22-23. Mientras los cinco grandes héroes Arjuna y otros, destructores de sus enemigos, vagaban por los bosques, Jayadratha, el rey de Sindhu, llegó con su ejército a la ermita, tras escuchar la recitación de los himnos védicos.
 
@@ -583,7 +583,7 @@ Aquí termina el decimoquinto capítulo sobre la Devî Mâhâtmya y la batalla e
 
 48-49. ¡Oh, Muni! Es por avaricia que los hombres cometen actos pecaminosos; no les importa el bien o el mal que les acontezca en el otro mundo. Dominados por la codicia, arrebatan con su mente, palabra y obra las cosas de otros; y así caen en la ruina.
 
-50-51. ¡Mira! Los seres humanos siempre adoran a los dioses para obtener riqueza; pero los devas no se la dan al instante; se la dan a través de otros, obligándolos a comerciar, hacer regalos, exhibir su fuerza o a robar. <span id="p186">[<sup><small>p. 186</small></sup>]</span> 52\. Los vais'yas adoran a los dioses simplemente porque creen que serán muy prósperos y, por lo tanto, venden muchas cosas, como granos, telas y similares.
+50-51. ¡Mira! Los seres humanos siempre adoran a los dioses para obtener riqueza; pero los devas no se la dan al instante; se la dan a través de otros, obligándolos a comerciar, hacer regalos, exhibir su fuerza o a robar. <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 52\. Los vais'yas adoran a los dioses simplemente porque creen que serán muy prósperos y, por lo tanto, venden muchas cosas, como granos, telas y similares.
 
 53\. ¡Oh, Controlado! ¿No existe el deseo de arrebatarle la propiedad a otro en este acto de comercio? Ciertamente lo hay. Además, los comerciantes, cuando ven que la gente necesita comprarles artículos con urgencia, esperan que el precio de esos artículos suba.
 
@@ -606,7 +606,7 @@ Así termina el Decimosexto Capítulo sobre la gloria de la Devî y la ida del r
 
 ## Capítulo XVII
 
-**Sobre la historia de** **Vis****'vâmitra** <span id="p186">[<sup><small>p. 186</small></sup>]</span> 1-3. Vyâsa dijo:— ¡Oh, rey! Al oír así las palabras del Maharsi Bhâradvâja y ver que había tomado una firme resolución, el rey Yudhâjit llamó rápidamente a su primer ministro y le preguntó: "¡Oh, inteligente! ¿Qué debo hacer ahora? Quiero llevarme por la fuerza a este niño con su madre, la dulce Manoramâ; nadie que desee su bienestar menosprecia a su enemigo, por muy débil que sea; si lo hace, ese enemigo <span id="p187">[<sup><small>p. 187</small></sup>]</span> se fortalecerá día a día, a medida que la enfermedad se intensifica; y finalmente se convertirá en la causa de la muerte.
+**Sobre la historia de** **Vis****'vâmitra** <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 1-3. Vyâsa dijo:— ¡Oh, rey! Al oír así las palabras del Maharsi Bhâradvâja y ver que había tomado una firme resolución, el rey Yudhâjit llamó rápidamente a su primer ministro y le preguntó: "¡Oh, inteligente! ¿Qué debo hacer ahora? Quiero llevarme por la fuerza a este niño con su madre, la dulce Manoramâ; nadie que desee su bienestar menosprecia a su enemigo, por muy débil que sea; si lo hace, ese enemigo <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> se fortalecerá día a día, a medida que la enfermedad se intensifica; y finalmente se convertirá en la causa de la muerte.
 
 4\. No hay aquí guerreros ni soldados del otro bando; nadie podrá resistirme; puedo eliminar, como quiera, al enemigo del hijo de mi hija y matarlo.
 
@@ -630,7 +630,7 @@ Así termina el Decimosexto Capítulo sobre la gloria de la Devî y la ida del r
 
 16\. ¡Oh, Rey! Al oír las palabras de Vas'istha, Vis'vâmitra, el Rey, ordenó de inmediato a sus poderosos seguidores que se llevaran a la vaca Nandinî atándole una cuerda alrededor del cuello a fuerza de fuerza.
 
-17-19. Los seguidores, obedeciendo la orden, ataron de inmediato a la vaca con cuerdas y comenzaron a llevársela a la fuerza. Ante esto, Nandinî, temblando y con lágrimas en los ojos, comenzó a decirle al Muni: "¡Oh, Tú! ¡Cuya riqueza consiste solo en el ascetismo! ¿Vas a dejarme? Si no, <span id="p188">[<sup><small>p. 188</small></sup>]</span> ¿por qué estos tipos me atan con una cuerda y me arrastran?". A esto, el Muni respondió: "¡Oh, Nandinî! Nunca me he separado de ti; realizo todos mis sacrificios con tu leche. ¡Oh, auspiciosa! Honré a este rey, mis invitados, con comestibles preparados con tu comida y por esa razón te está alejando de mí por pura fuerza. ¿Qué puedo hacer? ¡Oh, Nandinî! No tengo el menor deseo de separarme de ti".
+17-19. Los seguidores, obedeciendo la orden, ataron de inmediato a la vaca con cuerdas y comenzaron a llevársela a la fuerza. Ante esto, Nandinî, temblando y con lágrimas en los ojos, comenzó a decirle al Muni: "¡Oh, Tú! ¡Cuya riqueza consiste solo en el ascetismo! ¿Vas a dejarme? Si no, <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> ¿por qué estos tipos me atan con una cuerda y me arrastran?". A esto, el Muni respondió: "¡Oh, Nandinî! Nunca me he separado de ti; realizo todos mis sacrificios con tu leche. ¡Oh, auspiciosa! Honré a este rey, mis invitados, con comestibles preparados con tu comida y por esa razón te está alejando de mí por pura fuerza. ¿Qué puedo hacer? ¡Oh, Nandinî! No tengo el menor deseo de separarme de ti".
 
 20\. Al oír estas palabras del Muni, la vaca se enojó mucho y mugió fuerte y terriblemente.
 
@@ -654,7 +654,7 @@ Así termina el Decimosexto Capítulo sobre la gloria de la Devî y la ida del r
 
 30\. ¡Oh, rey! Eres muy inteligente; considera que, mediante la combinación de circunstancias, un cabello puede matar a un poderoso tigre y un mosquito a un elefante. Por lo tanto, abandona esta temeridad y escucha mi benéfico consejo.
 
-31\. Vyâsa dijo: —¡Oh, rey! El mejor de los reyes, Yudhâjit, al escuchar el consejo del primer ministro, se postró humildemente a los pies del Muni y regresó a su ciudad. <span id="p189">[<sup><small>p. 189</small></sup>]</span> 32\. Manoramâ también se liberó de la ansiedad y, permaneciendo en paz en la ermita, comenzó a criar y apoyar a su hijo, cumpliendo sus votos.
+31\. Vyâsa dijo: —¡Oh, rey! El mejor de los reyes, Yudhâjit, al escuchar el consejo del primer ministro, se postró humildemente a los pies del Muni y regresó a su ciudad. <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> 32\. Manoramâ también se liberó de la ansiedad y, permaneciendo en paz en la ermita, comenzó a criar y apoyar a su hijo, cumpliendo sus votos.
 
 33\. El amado hijo del rey empezó a crecer día a día como las fases de la luna creciente y a jugar sin miedo con los muchachos de los Munis, todos juntos, donde quisieran, un espectáculo muy auspicioso.
 
@@ -674,7 +674,7 @@ Así termina el Decimosexto Capítulo sobre la gloria de la Devî y la ida del r
 
 44\. Así, experto en muchas ramas del saber, Sudars'ana sirvió a su Madre en ese bosque y comenzó a vagar por las orillas del Ganges.
 
-45\. Un día, la Madre del Universo le dio los arcos, las flechas afiladas, el carcaj y una cota de malla a aquel niño del bosque. <span id="p190">[<sup><small>p. 190</small></sup>]</span> 46-47. ¡Oh, Rey! En ese momento, la extraordinariamente bella y encantadora princesa S'as'ikalâ, dotada de todas las cualidades auspiciosas, hija del rey de Kâshi, se enteró de que un hermoso príncipe llamado Sudars'ana, un segundo Kandarpa, lleno de heroísmo y dotado de todas las cualidades auspiciosas, moraba en un bosque.
+45\. Un día, la Madre del Universo le dio los arcos, las flechas afiladas, el carcaj y una cota de malla a aquel niño del bosque. <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> 46-47. ¡Oh, Rey! En ese momento, la extraordinariamente bella y encantadora princesa S'as'ikalâ, dotada de todas las cualidades auspiciosas, hija del rey de Kâshi, se enteró de que un hermoso príncipe llamado Sudars'ana, un segundo Kandarpa, lleno de heroísmo y dotado de todas las cualidades auspiciosas, moraba en un bosque.
 
 48\. La princesa, al oír esto de boca del adivino, lo amó y lo deseó mentalmente y quiso finalmente aceptarlo como su legítimo esposo.
 
@@ -696,7 +696,7 @@ Así termina el Decimosexto Capítulo sobre la gloria de la Devî y la ida del r
 
 58\. S'as'ikalâ respondió: "¡Oh, Noble! ¡Qué belleza hay en esa ermita, tan extraordinaria y digna de ser descrita!".
 
-59\. El brahmana dijo: "¡Oh, hermosa! Allí se encuentra el encantador Sudars'ana, hijo del rey Dhruvasandhi. Es el más hermoso de todos los hombres. <span id="p191">[<sup><small>p. 191</small></sup>]</span> 60\. ¡Oh, hermosa! Creo que quien no lo ha visto, ha perdido la vista.
+59\. El brahmana dijo: "¡Oh, hermosa! Allí se encuentra el encantador Sudars'ana, hijo del rey Dhruvasandhi. Es el más hermoso de todos los hombres. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 60\. ¡Oh, hermosa! Creo que quien no lo ha visto, ha perdido la vista.
 
 61\. ¡Oh, auspicioso! Parece como si el Creador, con la intención de ver cómo se ve, le hubiera otorgado todas las cualidades.
 
@@ -709,7 +709,7 @@ Así termina el decimoséptimo capítulo sobre la historia de Vis'vâmitra y sob
 
 ## Capítulo XVIII
 
-**El Svayambara de S'as'ikalâ** <span id="p191">[<sup><small>p. 191</small></sup>]</span> 1\. Vyâsa dijo: —La hermosa hija del rey se alegró mucho al escuchar las palabras del brahmán y se sumió en un éxtasis de amor. El brahmán también partió, pensando en todo el asunto.
+**El Svayambara de S'as'ikalâ** <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 1\. Vyâsa dijo: —La hermosa hija del rey se alegró mucho al escuchar las palabras del brahmán y se sumió en un éxtasis de amor. El brahmán también partió, pensando en todo el asunto.
 
 2\. La hija ya estaba encariñada con el príncipe, y ahora se sentía más profundamente enamorada de él y se sentía muy ansiosa. Ahora, al partir el brahmán, se sintió herida por las flechas del amor.
 
@@ -723,7 +723,7 @@ Así termina el decimoséptimo capítulo sobre la historia de Vis'vâmitra y sob
 
 8\. La ropa de cama, las hojas de betel, la música, el canto y el baile, todo ello ya no logra darme satisfacción ni paz.
 
-9\. ¡Oh, compañero! Hoy mismo habría ido adonde reside ese impostor; pero temo por mi padre y por el honor de mi familia. <span id="p192">[<sup><small>p. 192</small></sup>]</span> 10\. Mi padre aún no ha declarado el svayamvara para mi matrimonio. ¿Qué debo hacer? Si me hubiera dado en matrimonio a ese Sudars'an, ¡le habría permitido abrazarme y satisfacer sus pasiones hoy!
+9\. ¡Oh, compañero! Hoy mismo habría ido adonde reside ese impostor; pero temo por mi padre y por el honor de mi familia. <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> 10\. Mi padre aún no ha declarado el svayamvara para mi matrimonio. ¿Qué debo hacer? Si me hubiera dado en matrimonio a ese Sudars'an, ¡le habría permitido abrazarme y satisfacer sus pasiones hoy!
 
 11\. ¡Oh, amigo! ¡Mira las extrañas ideas del Creador! Hoy en día hay cientos de reyes influyentes, y no los considero hermosos; y el hijo de ese rey está exiliado de su reino, y aun así me ha robado el corazón.
 
@@ -743,7 +743,7 @@ Una vez, mientras meditaba en ese excelente mantra raíz sobre Kâma, y ​​mi
 
 21\. Los Munis, que habían hecho votos, también se dirigieron a Manoramâ: «Tu hijo pronto se convertirá en el señor del mundo; ya no tienes por qué preocuparte».
 
-22\. Entonces, el flaco y delgado Manoramâ, al oír las palabras del Muni, dijo: "¡Oh, brahmanes! Que vuestras bendiciones se justifiquen con éxito. ¡Qué maravilla que un reino se obtenga por la buena voluntad de los sadhus! <span id="p193">[<sup><small>p. 193</small></sup>]</span> 23\. No hay fuerza, ni ministro, ni ayuda, ni propiedad; ¿cómo, bajo qué combinaciones, puede entonces mi hijo alcanzar el reino?
+22\. Entonces, el flaco y delgado Manoramâ, al oír las palabras del Muni, dijo: "¡Oh, brahmanes! Que vuestras bendiciones se justifiquen con éxito. ¡Qué maravilla que un reino se obtenga por la buena voluntad de los sadhus! <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> 23\. No hay fuerza, ni ministro, ni ayuda, ni propiedad; ¿cómo, bajo qué combinaciones, puede entonces mi hijo alcanzar el reino?
 
 24\. Eres el mejor conocedor de mantras; gracias a tu buena voluntad, mi hijo seguramente será rey; de eso no hay duda.
 
@@ -765,7 +765,7 @@ Una vez, mientras meditaba en ese excelente mantra raíz sobre Kâma, y ​​mi
 
 33-34. ¡Oh rey! Brahmâ, Visnu, S'ambhu, Indra, Varuna, Yama, Vâyû, Agni, Kuvera, Vis'vakarmâ, Pûsâ, Bhaga, los dos Asvins, Âdityas, Vasus, Rudras, Vis'vedevas, Maruts, todos adoran a la Deidad Suprema de la Creación, Preservación y Disolución.
 
-35\. ¿Quién entre los sabios no sirve a esta Energía Suprema? Sudars'ana llegó a conocer muy bien la verdadera naturaleza de esa Diosa Auspiciosa, la Otorgadora de todos los deseos. <span id="p194">[<sup><small>p. 194</small></sup>]</span> 36\. Ella es la Esencia Real, Brahmâ, rara vez comprendida; Ella es la Vidyâ Superior y la Vidyâ Inferior (Avidyâ), y es la energía vital, el Mukhya Prana, de los mejores yoguis, que anhelan la liberación.
+35\. ¿Quién entre los sabios no sirve a esta Energía Suprema? Sudars'ana llegó a conocer muy bien la verdadera naturaleza de esa Diosa Auspiciosa, la Otorgadora de todos los deseos. <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> 36\. Ella es la Esencia Real, Brahmâ, rara vez comprendida; Ella es la Vidyâ Superior y la Vidyâ Inferior (Avidyâ), y es la energía vital, el Mukhya Prana, de los mejores yoguis, que anhelan la liberación.
 
 37\. ¡Oh, rey! ¿Quién puede comprender la naturaleza de Pramâtmâ (el Ser Universal Supremo) sin recurrir a Ella, quien manifiesta esta conciencia universal al crear estas creaciones sátvicas, rajásicas y tamásicas?
 
@@ -781,7 +781,7 @@ Para ello, el rey empleó a muchos artesanos, hizo cubrir las plataformas con he
 
 45-47. Así, construido y decorado el salón de actos para Svayambara, y llevados todos los artículos y equipos necesarios, la bella S'as'ikalâ les dijo a sus compañeras con tristeza: «Mejor vayan a ver a mi madre y díganle en privado que ya he elegido mentalmente a mi esposo, el hermoso Sudars'ana, hijo del rey Dhruvasandhi; no me casaré con ningún otro príncipe; la diosa Bhagavatî lo ha elegido como mi esposo».
 
-48-50. Vyâsa dijo: «Al oír esto, la compañera de S'as'ikalâ fue rápidamente a ver a su madre Vaidarbhî y le habló dulcemente en privado: «¡Oh, casta! Tu hija, con el corazón afligido, me ha enviado a decirte lo siguiente: por favor, escucha y haz cuanto antes lo que sea bueno y beneficioso». Ella dijo: «En la ermita de Bhâradvâja se encuentra el hijo del rey Dhruvasandhi; lo he elegido mentalmente como mi esposo; no elegiré a ningún otro príncipe». <span id="p195">[<sup><small>p. 195</small></sup>]</span> 51. Vyâsa dijo: —La reina, al oír sus palabras, le contó a su esposo, cuando este regresó al palacio, todas las palabras de su hija tal como las había oído.
+48-50. Vyâsa dijo: «Al oír esto, la compañera de S'as'ikalâ fue rápidamente a ver a su madre Vaidarbhî y le habló dulcemente en privado: «¡Oh, casta! Tu hija, con el corazón afligido, me ha enviado a decirte lo siguiente: por favor, escucha y haz cuanto antes lo que sea bueno y beneficioso». Ella dijo: «En la ermita de Bhâradvâja se encuentra el hijo del rey Dhruvasandhi; lo he elegido mentalmente como mi esposo; no elegiré a ningún otro príncipe». <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 51. Vyâsa dijo: —La reina, al oír sus palabras, le contó a su esposo, cuando este regresó al palacio, todas las palabras de su hija tal como las había oído.
 
 52-53. Al oír esto, el rey Subâhu se asombró y rió con frecuencia, diciéndole a su esposa, la hija del rey de Vidarbha, las siguientes palabras verdaderas: "¡Oh, bella! Sudars'ana, el hijo de ese rey, es menor de edad y ha sido exiliado en el bosque; ahora está indefenso y reside con su madre en la espesura del bosque.
 
@@ -796,13 +796,13 @@ Así termina el Decimoctavo Capítulo del 3er Skandha sobre el Svayambara de S'a
 
 ## Capítulo XIX
 
-**De camino a la asamblea de Svayamvara de Sudars'ana** <span id="p195">[<sup><small>p. 195</small></sup>]</span> 1-2. Vyâsa dijo:— Después de que el rey Subâhu hablara así, la Reina hizo sentar en su regazo a su hija S'as'ikalâ, quien siempre lucía una dulce sonrisa, y tras consolarla con dulces palabras, comenzó a decir: "¡Oh, bella de ojos! Siempre practicas votos y otras prácticas religiosas; ¿por qué, entonces, dices esas palabras tan desagradables? El Rey ha escuchado todo lo que querías decir y se ha arrepentido mucho".
+**De camino a la asamblea de Svayamvara de Sudars'ana** <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 1-2. Vyâsa dijo:— Después de que el rey Subâhu hablara así, la Reina hizo sentar en su regazo a su hija S'as'ikalâ, quien siempre lucía una dulce sonrisa, y tras consolarla con dulces palabras, comenzó a decir: "¡Oh, bella de ojos! Siempre practicas votos y otras prácticas religiosas; ¿por qué, entonces, dices esas palabras tan desagradables? El Rey ha escuchado todo lo que querías decir y se ha arrepentido mucho".
 
 3-5. Ese Sudars'ana es muy desafortunado, privado de su reino, indefenso, sin riquezas ni ejército, abandonado por sus amigos, exiliado con su madre en el bosque, subsistiendo de raíces y frutas, flaco y delgado. Por lo tanto, no es digno de ser tu esposo. Hay muchos eruditos, hermosos, aprobados por todos, con todas las cualidades reales, príncipes dignos de ser tu esposo. Todos ellos vendrán en este Svayamvara.
 
 6\. Hay un hermano de este Sudars'ana, quien posee todas las cualidades de un rey, es hermoso y posee diversas cualidades. Es el rey del país de Kosala.
 
-7\. Hay otro punto que merece consideración; por favor, escúchenlo. El rey Yudhâjit está haciendo todo lo posible por matar a Sudars'ana en una oportunidad propicia. <span id="p196">[<sup><small>p. 196</small></sup>]</span> 8\. Ya consultó con sus ministros y mató en una lucha desesperada al rey Vîrasena e instaló al hijo de su hija en el trono.
+7\. Hay otro punto que merece consideración; por favor, escúchenlo. El rey Yudhâjit está haciendo todo lo posible por matar a Sudars'ana en una oportunidad propicia. <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> 8\. Ya consultó con sus ministros y mató en una lucha desesperada al rey Vîrasena e instaló al hijo de su hija en el trono.
 
 9\. Incluso llegó hasta la ermita de Bhâradvâja para matar a Sudars'ana; después, los Munis se lo impidieron y regresó a casa.
 
@@ -824,7 +824,7 @@ Así termina el Decimoctavo Capítulo del 3er Skandha sobre el Svayambara de S'a
 
 21\. Por favor, confía en Ella, bajo Cuya orden todo este universo, móvil e inmóvil, reposa hacia ese Gran Destino y ven a este lugar sin falta.
 
-22\. Lo que ha ordenado la Diosa, cuyas órdenes Sankara obedecen todos los demás Devas, jamás puede resultar falso. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 23\. ¡Oh, brahmán! Tú, el más virtuoso de los hombres, visita en privado al hijo de ese rey y cuéntale todo lo que tenga que decirte. ¿Qué más puedo decirte? Haz todo lo posible para que mi objetivo se cumpla.
+22\. Lo que ha ordenado la Diosa, cuyas órdenes Sankara obedecen todos los demás Devas, jamás puede resultar falso. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 23\. ¡Oh, brahmán! Tú, el más virtuoso de los hombres, visita en privado al hijo de ese rey y cuéntale todo lo que tenga que decirte. ¿Qué más puedo decirte? Haz todo lo posible para que mi objetivo se cumpla.
 
 24\. Diciendo esto, le entregó al brahmán su daksiná y lo envió a Sudarsana. Él fue allí, le informó debidamente de todo el asunto y regresó rápidamente.
 
@@ -846,7 +846,7 @@ svayamvara.
 
 33. Vyâsa dijo: —Dicho esto, Sudars'ana montó en su carroza y se dispuso a partir. Al ver esto, Manoramâ comenzó a bendecirlo y a animarlo.
 
-34-37. ¡Oh, hijo! Que Ambikâ Devî te proteja por delante; Padmalochanâ por detrás; Pârvatî por ambos lados; S'ivâ Devî a tu alrededor; Vârâhî en los senderos temibles; Durgâ en los fuertes reales; Kâlikâ en las luchas terribles; Parames'varî en la sala de la plataforma; Mâtamgî en la sala de Svayamvara; Bhavanî, la Defensora del mundo, entre los reyes; Girijâ en los pasos de montaña; Chamundâ en el lugar de sacrificios; y que el eterno Kâmagâ te proteja en los bosques. <span id="p198">[<sup><small>p. 198</small></sup>]</span> 38\. ¡Oh, descendiente de la familia Raghu! Deja que la fuerza Vaisnavî te proteja en las disputas; deja que Bhairavî te proteja en las batallas y entre tus enemigos.
+34-37. ¡Oh, hijo! Que Ambikâ Devî te proteja por delante; Padmalochanâ por detrás; Pârvatî por ambos lados; S'ivâ Devî a tu alrededor; Vârâhî en los senderos temibles; Durgâ en los fuertes reales; Kâlikâ en las luchas terribles; Parames'varî en la sala de la plataforma; Mâtamgî en la sala de Svayamvara; Bhavanî, la Defensora del mundo, entre los reyes; Girijâ en los pasos de montaña; Chamundâ en el lugar de sacrificios; y que el eterno Kâmagâ te proteja en los bosques. <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 38\. ¡Oh, descendiente de la familia Raghu! Deja que la fuerza Vaisnavî te proteja en las disputas; deja que Bhairavî te proteja en las batallas y entre tus enemigos.
 
 39\. ¡Oh hijo! Que el Mahâ Mâyâ Jagaddhâtrî Bhuvanes'varî te proteja en todas partes y en todo momento.
 
@@ -872,7 +872,7 @@ svayamvara.
 
 52\. ¿Será posible que la princesa prescinda de estos reyes con soldados y armas, y elija al Sudars'ana de largos brazos?
 
-53\. Entonces el rey Yudhâjit se dirigió a todos los demás reyes: «Mataré a Sudars'ana por el bien de la hija; de esto no hay duda». <span id="p199">[<sup><small>p. 199</small></sup>]</span> 54-55. Al oír las palabras de Yudhâjit, el rey de Keral, el más destacado de los que conocen la moral, comenzó a decir: —¡Oh, rey! En este Ichchhâ svayamvara no es apropiado luchar. Aquí no habrá matrimonio por la valentía; no hay ningún acuerdo preestablecido para robar a la novia elegida por la fuerza; aquí la novia elegirá por su propia voluntad; ¿qué causa puede entonces surgir aquí para las disputas?
+53\. Entonces el rey Yudhâjit se dirigió a todos los demás reyes: «Mataré a Sudars'ana por el bien de la hija; de esto no hay duda». <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> 54-55. Al oír las palabras de Yudhâjit, el rey de Keral, el más destacado de los que conocen la moral, comenzó a decir: —¡Oh, rey! En este Ichchhâ svayamvara no es apropiado luchar. Aquí no habrá matrimonio por la valentía; no hay ningún acuerdo preestablecido para robar a la novia elegida por la fuerza; aquí la novia elegirá por su propia voluntad; ¿qué causa puede entonces surgir aquí para las disputas?
 
 56\. Antes, lo habías expulsado de su reino; y, aunque eres el rey superior, has tomado su reino por la fuerza e instalado al hijo de tu hija en el trono.
 
@@ -895,9 +895,9 @@ Así termina el Capítulo Diecinueve sobre la ida a la asamblea de Svayamvara de
 
 ## Capítulo XX
 
-**Sobre la sala Svayamvara y la conversación de los reyes allí** <span id="p199">[<sup><small>p. 199</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, noble de espíritu! El rey Yudhâjit respondió a la petición del rey de Keral, así:—
+**Sobre la sala Svayamvara y la conversación de los reyes allí** <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, noble de espíritu! El rey Yudhâjit respondió a la petición del rey de Keral, así:—
 
-2-3. ¡Oh, Rey! Eres veraz y has refrenado tus pasiones. Lo que acabas de decir en esta asamblea de reyes es correcto y está aprobado por la moral. ¡Oh, el mejor de los reyes! Naces de una familia noble; mejor dime, ¿cómo puede suceder que, habiendo tantas personas aptas para ser el novio, una persona indigna pueda rechazar la oferta? <span id="p200">[<sup><small>p. 200</small></sup>]</span> 4\. Así como un chacal nunca es apto para disfrutar de los derechos de un león, este Sudars'ana tampoco es apto para adquirir a esta novia elegida.
+2-3. ¡Oh, Rey! Eres veraz y has refrenado tus pasiones. Lo que acabas de decir en esta asamblea de reyes es correcto y está aprobado por la moral. ¡Oh, el mejor de los reyes! Naces de una familia noble; mejor dime, ¿cómo puede suceder que, habiendo tantas personas aptas para ser el novio, una persona indigna pueda rechazar la oferta? <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> 4\. Así como un chacal nunca es apto para disfrutar de los derechos de un león, este Sudars'ana tampoco es apto para adquirir a esta novia elegida.
 
 5\. Los brahmanes tienen los Vedas como su fuerza; los reyes ksattriyas toman arcos y flechas como su fuente de fuerza; esto está prescrito en todas partes. Por lo tanto, ¡oh rey! ¿Qué he hecho mal en mi afirmación? Por favor, explícamelo.
 
@@ -919,7 +919,7 @@ Así termina el Capítulo Diecinueve sobre la ida a la asamblea de Svayamvara de
 
 17\. Tu hermano también ha venido para conquistar a la princesa; tiene su ejército y se distingue por su fuerza y ​​valor. El poderoso Yudhâjit también ha venido para ayudarlo.
 
-18\. ¡Oh, observador de buenos votos! Al verte sin ejército, te hemos narrado todos los hechos. Ahora piensa y actúa en consecuencia. Si te place, quédate aquí o vete a cualquier otro lugar. <span id="p201">[<sup><small>p. 201</small></sup>]</span> 19-20. Sudars'ana respondió: —Es cierto que no tengo ejército, ni ayuda, ni riquezas, ni fortalezas, ni amigos ni reyes que me protejan. Al saber que Svayamvara se celebrará aquí, he venido para presenciarlo. Pero hay una particularidad: la Devi Bhagavati me ordenó en sueños que viniera. Bajo su mando he venido; de esto no hay duda.
+18\. ¡Oh, observador de buenos votos! Al verte sin ejército, te hemos narrado todos los hechos. Ahora piensa y actúa en consecuencia. Si te place, quédate aquí o vete a cualquier otro lugar. <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> 19-20. Sudars'ana respondió: —Es cierto que no tengo ejército, ni ayuda, ni riquezas, ni fortalezas, ni amigos ni reyes que me protejan. Al saber que Svayamvara se celebrará aquí, he venido para presenciarlo. Pero hay una particularidad: la Devi Bhagavati me ordenó en sueños que viniera. Bajo su mando he venido; de esto no hay duda.
 
 21\. No tengo otro objetivo en mente; he obedecido lo que la Bhagavatī Bhuvanesāvarī me ordenó hacer. Hoy sucederá, sin duda, lo que Ella ha ordenado.
 
@@ -937,7 +937,7 @@ Así termina el Capítulo Diecinueve sobre la ida a la asamblea de Svayamvara de
 
 29-30. Lo que Ella ha dispuesto, lo hará. No me importa. ¡Oh, nobles! No tengan miedo en absoluto. Les he dicho toda la verdad. Victoria o derrota, no me avergüenzo de ninguna de ellas. Porque siempre estoy bajo el control de Bhagavatī; por lo tanto, si hay alguna vergüenza aquí, es toda suya.
 
-31-33. Vyâsa dijo: —Al oír sus palabras y ver que su mente estaba firmemente dedicada a Bhagavatî, los reyes se miraron y dijeron: —¡Oh, Sudars'ana! Lo que has dicho es muy cierto; nunca es de otra manera; aun así, Yudhâjit, el rey de Ujjain, intenta matarte. ¡Oh, inteligente! ¡Oh, intachable! Todos sabemos que no hay rastro de maldad en ti. Sentimos lástima por ti; por eso te informamos; ahora piensa y haz lo necesario. <span id="p202">[<sup><small>p. 202</small></sup>]</span> 34\. Sudars'ana dijo: —Todos ustedes son bondadosos y generosos; lo que han dicho es muy cierto. ¿Qué les diré, siendo aún menor de edad?
+31-33. Vyâsa dijo: —Al oír sus palabras y ver que su mente estaba firmemente dedicada a Bhagavatî, los reyes se miraron y dijeron: —¡Oh, Sudars'ana! Lo que has dicho es muy cierto; nunca es de otra manera; aun así, Yudhâjit, el rey de Ujjain, intenta matarte. ¡Oh, inteligente! ¡Oh, intachable! Todos sabemos que no hay rastro de maldad en ti. Sentimos lástima por ti; por eso te informamos; ahora piensa y haz lo necesario. <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> 34\. Sudars'ana dijo: —Todos ustedes son bondadosos y generosos; lo que han dicho es muy cierto. ¿Qué les diré, siendo aún menor de edad?
 
 35\. ¡Oh, reyes! Nadie puede causar la muerte de otro. Todo este mundo, móvil e inmóvil, está bajo el control del Destino.
 
@@ -961,7 +961,7 @@ Así termina el Capítulo Diecinueve sobre la ida a la asamblea de Svayamvara de
 
 47\. Las palabras de la Bhagavatî son la mejor prueba; no conozco ninguna otra. Mi mente está completamente entregada a Ella. No habrá nada distinto de lo que Ella ha ordenado, ya sea bueno o malo.
 
-48\. ¡Oh, reyes! Que Yudhâjit permanezca en paz. No tengo enemistad con él. Quien me trate con hostilidad, sin duda cosechará su recompensa. No hay la menor duda al respecto. <span id="p203">[<sup><small>p. 203</small></sup>]</span> 49\. Vyâsa dijo: —¡Oh, rey! Cuando Sudars'ana les habló así, todos los reyes se alegraron mucho y permanecieron allí para el Svayamvara. Sudars'ana también regresó a su campamento y permaneció tranquilo y sereno.
+48\. ¡Oh, reyes! Que Yudhâjit permanezca en paz. No tengo enemistad con él. Quien me trate con hostilidad, sin duda cosechará su recompensa. No hay la menor duda al respecto. <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> 49\. Vyâsa dijo: —¡Oh, rey! Cuando Sudars'ana les habló así, todos los reyes se alegraron mucho y permanecieron allí para el Svayamvara. Sudars'ana también regresó a su campamento y permaneció tranquilo y sereno.
 
 50\. Al día siguiente, el rey Subâhu invitó a todos los reyes presentes en su ciudad a sus respectivos asientos en el salón Svayamvara.
 
@@ -983,7 +983,7 @@ Así termina el Capítulo Diecinueve sobre la ida a la asamblea de Svayamvara de
 
 61\. Vyâsa dijo:— Cuando Subâhu hubo hablado así, S'as'ikalâ, que generalmente hablaba poco, respondió con dulces y sonoras palabras, impregnadas de verdad religiosa.
 
-62\. ¡Padre! No me presentaré ante los reyes que se dejan llevar por la lujuria; las mujeres como yo nunca van allí; son los libertinos los que frecuentan esos lugares. <span id="p204">[<sup><small>p. 204</small></sup>]</span> 63\. ¡Padre! He oído en los textos religiosos que las mujeres deben fijar su mirada solo en sus maridos y en ningún otro.
+62\. ¡Padre! No me presentaré ante los reyes que se dejan llevar por la lujuria; las mujeres como yo nunca van allí; son los libertinos los que frecuentan esos lugares. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 63\. ¡Padre! He oído en los textos religiosos que las mujeres deben fijar su mirada solo en sus maridos y en ningún otro.
 
 64\. La mujer que se acerca a muchas personas es reclamada mentalmente por todos; cada uno de ellos medita con vehemencia: «Que esta mujer sea mía». Así, su castidad queda destruida.
 

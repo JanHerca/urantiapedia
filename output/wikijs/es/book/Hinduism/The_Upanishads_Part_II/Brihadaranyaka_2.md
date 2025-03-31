@@ -40,7 +40,7 @@ SEGUNDO ADHYÂYA [^313].
 
 1\. Había [^315] antiguamente el orgulloso Gârgya Bâlâki [^316], hombre de gran lectura. Le dijo a A<i>g</i>âta<i>s</i>atru de Kâ<i>s</i>i: "¿Quieres que te cuente algo sobre Brahman?". A<i>g</i>âta<i>s</i>atru respondió: "Te damos mil vacas por ese discurso, pues en verdad toda la gente huye diciendo: 'Ganaka (el rey de Mithilâ) es nuestro padre (patrón)' [^317].
 
-2\. Gârgya dijo: «Adoro como Brahman a la persona que está en el sol [^318]». A<i>g</i>âta<i>s</i>atru le respondió: «¡No, no! No me hables de eso. Lo adoro <span id="p101">[<sup><small>p. 101</small></sup>]</span> ciertamente como el supremo, la cabeza de todos los seres, el rey. Quien lo adora así, se convierte en Supremo, la cabeza de todos los seres, un rey».
+2\. Gârgya dijo: «Adoro como Brahman a la persona que está en el sol [^318]». A<i>g</i>âta<i>s</i>atru le respondió: «¡No, no! No me hables de eso. Lo adoro <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> ciertamente como el supremo, la cabeza de todos los seres, el rey. Quien lo adora así, se convierte en Supremo, la cabeza de todos los seres, un rey».
 
 3\. Gârgya dijo: «Adoro como Brahman a la persona que está en la luna (y en la mente)». A<i>g</i>âta<i>s</i>atru le respondió: «¡No, no! No me hables de eso. Lo adoro, en verdad, como al grande, vestido de blanco, como Soma, el rey». Quien lo adora así, recibe Soma a diario, y su alimento no le falta [^319].
 
@@ -48,7 +48,7 @@ SEGUNDO ADHYÂYA [^313].
 
 5\. Gârgya dijo: «Adoro como Brahman a la persona que está en el éter (y en el éter del corazón)». A<i>g</i>âta<i>s</i>atru le respondió: «¡No, no! No me hables de eso. Lo adoro como lo pleno y lo quieto». Quien lo adora así, se llena de descendencia y ganado, y su descendencia no cesa en este mundo.
 
-6\. Gârgya dijo: «Adoro como Brahman a la persona que está en el viento (y en el aliento)». A<i>g</i>âta<i>s</i>atru le dijo: «¡No, no! No me hables de esto. Lo adoro como Indra Vaiku<i>n</i><i>th</i>a, como el ejército invencible (de los Maruts)». Quien lo adora así, se vuelve victorioso, invencible, conquistando a sus enemigos. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 7\. Gârgya dijo: «Adoro como Brahman a la persona que está en el fuego (y en el corazón)». A<i>g</i>âta<i>s</i>atru le dijo: «¡No, no!» No me hables de esto. Lo adoro como poderoso. Quien lo adora así se vuelve poderoso, y su descendencia se vuelve poderosa.
+6\. Gârgya dijo: «Adoro como Brahman a la persona que está en el viento (y en el aliento)». A<i>g</i>âta<i>s</i>atru le dijo: «¡No, no! No me hables de esto. Lo adoro como Indra Vaiku<i>n</i><i>th</i>a, como el ejército invencible (de los Maruts)». Quien lo adora así, se vuelve victorioso, invencible, conquistando a sus enemigos. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 7\. Gârgya dijo: «Adoro como Brahman a la persona que está en el fuego (y en el corazón)». A<i>g</i>âta<i>s</i>atru le dijo: «¡No, no!» No me hables de esto. Lo adoro como poderoso. Quien lo adora así se vuelve poderoso, y su descendencia se vuelve poderosa.
 
 8\. Gârgya dijo: «Adoro como Brahman a la persona que está en el agua (en la semilla y en el corazón)». A<i>g</i>âta<i>s</i>atru le respondió: «¡No, no! No me hables de esto. Lo adoro como semejanza». Quien lo adora así, le llega lo apropiado, no lo impropio; lo que nace de él es semejante a él [^320].
 
@@ -89,7 +89,7 @@ Y los dos juntos se acercaron a una persona que dormía. Lo llamó por estos nom
 
 1\. En verdad, quien conoce al bebé [^328] con su lugar [^329], su habitación [^330], su puesto [^331] y su cuerda [^332], mantiene alejados a los siete parientes [^333] que lo odian. En verdad, por niño se entiende la vida interior, por su lugar este (cuerpo) [^334], por su habitación esta (cabeza), por su puesto el aliento vital, por su cuerda el alimento.
 
-2\. Entonces los siete imperecederos [^335] se acercan a él. Están las líneas rojas en el ojo, y por ellas Rudra se aferra a él. Está el agua <span id="p106">[<sup><small>p. 106</small></sup>]</span> en el ojo, y por ella Par<i>g</i>anya se aferra a él. Está la pupila, y por ella Âditya (el sol) se aferra a ella. Está el iris oscuro, y por él Agni se aferra a él. Está el globo ocular blanco, y por él Indra se aferra a él. Con la pestaña inferior la tierra, con la superior el cielo se aferran a él. Quien conoce esto, su alimento nunca perece.
+2\. Entonces los siete imperecederos [^335] se acercan a él. Están las líneas rojas en el ojo, y por ellas Rudra se aferra a él. Está el agua <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> en el ojo, y por ella Par<i>g</i>anya se aferra a él. Está la pupila, y por ella Âditya (el sol) se aferra a ella. Está el iris oscuro, y por él Agni se aferra a él. Está el globo ocular blanco, y por él Indra se aferra a él. Con la pestaña inferior la tierra, con la superior el cielo se aferran a él. Quien conoce esto, su alimento nunca perece.
 
 3\. Sobre esto existe este <i>S</i>loka:
 
@@ -157,7 +157,7 @@ A continuación sigue la enseñanza (de Brahman) con ¡No, no! [^339], pues no h
 
 6\. Quienquiera que busque la clase Brahman fuera del Ser, fue [^349] abandonado por la clase Brahman. Quienquiera que busque la clase Kshatra fuera del Ser, fue abandonado por la clase Kshatra. Quienquiera que busque los mundos fuera del Ser, fue abandonado por los mundos. Quienquiera que busque a los Devas fuera del Ser, fue abandonado por los Devas [^350]. Quienquiera que busque criaturas fuera del Ser, fue abandonado por las criaturas. Quienquiera que busque algo fuera del Ser, fue abandonado por todo. Esta clase Brahman, esta clase Kshatra, estos mundos, estos Devas [^351], estas [^352] criaturas, este todo, todo es ese Ser.
 
-7\. 'Ahora bien, así como [^353] los sonidos de un tambor, cuando se tocan, <span id="p111">[<sup><small>p. 111</small></sup>]</span> no pueden captarse externamente (por sí mismos), pero el sonido se capta cuando se toca el tambor o el batidor del tambor;
+7\. 'Ahora bien, así como [^353] los sonidos de un tambor, cuando se tocan, <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> no pueden captarse externamente (por sí mismos), pero el sonido se capta cuando se toca el tambor o el batidor del tambor;
 
 8. Y así como los sonidos de una caracola, cuando se sopla, no pueden ser captados externamente (por sí mismos), sino que el sonido es captado cuando se capta la caracola o al que sopla la caracola;
 
@@ -173,14 +173,14 @@ A continuación sigue la enseñanza (de Brahman) con ¡No, no! [^339], pues no h
 
 Pero Yâ<i>g</i>_ñ_avalkya respondió: «Oh, Maitreyî, no digo nada que sea desconcertante. Esto es suficiente, oh amado, para la sabiduría [^358].
 
-«Pues cuando existe, por así decirlo, dualidad, entonces uno ve al otro, uno huele al otro, uno oye al otro [^359], uno saluda al otro [^360], uno percibe al otro [^361], uno conoce al otro; pero cuando solo el Ser es todo esto, ¿cómo podría oler a otro [^362], cómo podría ver a otro [^363], cómo podría oír a otro [^364], cómo podría saludar a otro [^366], cómo podría percibir a otro [^367], cómo podría conocer a otro? ¿Cómo podría conocer a Aquel por quien conoce todo esto? <span id="p113">[<sup><small>p. 113</small></sup>]</span> ¿Cómo, oh amado, podría conocerse (a sí mismo), al Conocedor [1](Brihadaranyaka_2#fn368)?»
+«Pues cuando existe, por así decirlo, dualidad, entonces uno ve al otro, uno huele al otro, uno oye al otro [^359], uno saluda al otro [^360], uno percibe al otro [^361], uno conoce al otro; pero cuando solo el Ser es todo esto, ¿cómo podría oler a otro [^362], cómo podría ver a otro [^363], cómo podría oír a otro [^364], cómo podría saludar a otro [^366], cómo podría percibir a otro [^367], cómo podría conocer a otro? ¿Cómo podría conocer a Aquel por quien conoce todo esto? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> ¿Cómo, oh amado, podría conocerse (a sí mismo), al Conocedor [1](Brihadaranyaka_2#fn368)?»
 
 
 ## QUINTO BRAHMA<i>N</i>A [^369].
 
 1\. Esta tierra es la miel [^370] (madhu, el efecto) de todos los seres, y todos los seres son la miel (madhu, el efecto) de esta tierra. De igual manera, esta persona brillante e inmortal en esta tierra, y esa persona brillante e inmortal incorporada al cuerpo (ambas son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
-2\. Esta agua es la miel de todos los seres, y todos los seres son la miel de esta agua. De igual manera, esta persona brillante e inmortal en esta agua, y esa persona brillante e inmortal, que existe como semilla en el cuerpo (ambas son madhu). En verdad, él es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo. <span id="p114">[<sup><small>p. 114</small></sup>]</span> 3\. Este fuego es la miel de todos los seres, y todos los seres son la miel de este fuego. De igual manera, esta persona brillante e inmortal en este fuego, y esa persona brillante e inmortal, que existe como palabra en el cuerpo (ambas son madhu). En verdad, él es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
+2\. Esta agua es la miel de todos los seres, y todos los seres son la miel de esta agua. De igual manera, esta persona brillante e inmortal en esta agua, y esa persona brillante e inmortal, que existe como semilla en el cuerpo (ambas son madhu). En verdad, él es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo. <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> 3\. Este fuego es la miel de todos los seres, y todos los seres son la miel de este fuego. De igual manera, esta persona brillante e inmortal en este fuego, y esa persona brillante e inmortal, que existe como palabra en el cuerpo (ambas son madhu). En verdad, él es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
 4\. Este aire es la miel de todos los seres, y todos los seres son la miel de este aire. De igual manera, esta persona brillante e inmortal en este aire, y esa persona brillante e inmortal que existe como aliento en el cuerpo (ambas son madhu). En verdad, él es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
@@ -190,7 +190,7 @@ Pero Yâ<i>g</i>_ñ_avalkya respondió: «Oh, Maitreyî, no digo nada que sea de
 
 7\. Esta luna es la miel de todos los seres, y todos los seres son la miel de esta luna. De igual manera, esta persona brillante e inmortal en esta luna, y esa persona brillante e inmortal que existe como mente en el cuerpo (ambas son madhu). En verdad, él es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
-8\. Este relámpago es la miel de todos los seres, y todos los seres son la miel de este relámpago. Del mismo modo, esta persona brillante e inmortal en este relámpago, y <span id="p115">[<sup><small>p. 115</small></sup>]</span> esa persona brillante e inmortal que existe como luz en el cuerpo (ambos son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
+8\. Este relámpago es la miel de todos los seres, y todos los seres son la miel de este relámpago. Del mismo modo, esta persona brillante e inmortal en este relámpago, y <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> esa persona brillante e inmortal que existe como luz en el cuerpo (ambos son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
 9\. Este trueno [^371] es la miel de todos los seres, y todos los seres son la miel de este trueno. De igual manera, esta persona brillante e inmortal en este trueno, y esa persona brillante e inmortal que existe como sonido y voz en el cuerpo (ambos son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
@@ -200,7 +200,7 @@ Pero Yâ<i>g</i>_ñ_avalkya respondió: «Oh, Maitreyî, no digo nada que sea de
 
 12\. Esta verdad [^372] (satyam) es la miel de todos los seres, y todos los seres son la miel de esta verdad. De igual manera, esta persona brillante e inmortal en lo que es verdad, y esa persona brillante e inmortal que existe como lo verdadero en el cuerpo (ambas son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
-13\. Esta humanidad es la miel de todos los seres, y todos los seres son la miel de esta humanidad. De igual manera, <span id="p116">[<sup><small>p. 116</small></sup>]</span> esta persona brillante e inmortal en la humanidad, y esa persona brillante e inmortal que existe como hombre en el cuerpo (ambos son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
+13\. Esta humanidad es la miel de todos los seres, y todos los seres son la miel de esta humanidad. De igual manera, <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> esta persona brillante e inmortal en la humanidad, y esa persona brillante e inmortal que existe como hombre en el cuerpo (ambos son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
 14\. Este Ser es la miel de todos los seres, y todos los seres son la miel de este Ser. De igual manera, esta persona brillante e inmortal en este Ser, y esa persona brillante e inmortal, el Ser (ambos son madhu). Él, en verdad, es el mismo que ese Ser, ese Inmortal, ese Brahman, ese Todo.
 
@@ -212,7 +212,7 @@ Pero Yâ<i>g</i>_ñ_avalkya respondió: «Oh, Maitreyî, no digo nada que sea de
 
 17\. En verdad, Dadhyak Âtharva<i>n</i>a [^375] proclamó esta miel a los dos A<i>s</i>vins, y un <i>Ri</i>shi, al ver esto, dijo (Rv. I, 117, 22):
 
-'Oh Asvins, fijasteis una cabeza de caballo en Âtharva<i>n</i>a Dadhyak, y él, queriendo ser fiel (a su promesa), <span id="p117">[<sup><small>p. 117</small></sup>]</span> os proclamó la miel, tanto la de Tvasht<i>ri</i> [^376] como la que será vuestro secreto, oh vosotros los fuertes.
+'Oh Asvins, fijasteis una cabeza de caballo en Âtharva<i>n</i>a Dadhyak, y él, queriendo ser fiel (a su promesa), <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> os proclamó la miel, tanto la de Tvasht<i>ri</i> [^376] como la que será vuestro secreto, oh vosotros los fuertes.
 
 18\. En verdad, Dadhyak Âtharva<i>n</i>a proclamó esta miel a los dos A<i>s</i>vins, y un <i>Ri</i>shi, al ver esto, dijo:
 
@@ -250,7 +250,7 @@ Este (Âtman) es los caballos, este (Âtman) es la decena y los miles, múltiple
 14\. Saitava y Prâ<i>k</i>înayogya de Pâra<i>s</i>arya,
 15\. Pâra<i>s</i>arya de Bhâradvâ<i>g</i>a,
 16\. Bhâradvâ<i>g</i>a de Bhâradvâ<i>g</i>a y Gautama,
-17\. Gautama de Bharadvâ<i>g</i>a, <span id="p119">[<sup><small>p. 119</small></sup>]</span> 18\. Bharadvâ<i>g</i>a de Pârâ<i>s</i>arya,
+17\. Gautama de Bharadvâ<i>g</i>a, <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> 18\. Bharadvâ<i>g</i>a de Pârâ<i>s</i>arya,
 19\. Pârâ<i>s</i>arya de Vai<i>g</i>avâpâyana,
 20\. Vai<i>g</i>avâpâyana de Kau<i>s</i>ikâyani,
 21 [^379]. Kau<i>s</i>ikâyani
@@ -280,7 +280,7 @@ Este (Âtman) es los caballos, este (Âtman) es la decena y los miles, múltiple
 42\. Pathi Saubhara de Ayâsya Âṅgirasa,
 43\. Ayâsya Âṅgirasa de Âbhûti Tvâsh<i>t</i>ra,
 44\. Âbhûti Tvâshtra de Vi<i>s</i>varûpa Tvâshtra,
-45\. Vi<i>s</i>varûpa Tvâsh<i>t</i>ra de A<i>s</i>vinau, <span id="p120">[<sup><small>p. 120</small></sup>]</span> 46\. A<i>s</i>vinau de Dadhya<i>k</i> Âtharva<i>n</i>a,
+45\. Vi<i>s</i>varûpa Tvâsh<i>t</i>ra de A<i>s</i>vinau, <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> 46\. A<i>s</i>vinau de Dadhya<i>k</i> Âtharva<i>n</i>a,
 47\. Dadhya<i>k</i> Âtharva<i>n</i>a de Atharvan Daiva,
 48\. Atharvan Daiva de Mrityu Prâdhvamsana,
 49\. M<i>ri</i>tyu Prâdhva<i>m</i>sana de Prâdhva<i>m</i>sana,

@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 3\. La piel de la carne queda impura en dos semanas, con tres marcas: con pelos blancos, con flemas vivas y con untuosidad. Con pelos blancos y flemas vivas al principio y al final de la primera semana, y al final de la segunda, incluso después de ser declarado libre. Y con untuosidad al final de la primera semana y al final de la segunda, incluso después de ser declarado libre, lo que hace al leproso impuro durante dos semanas, que suman trece días.
 
-4\. El furúnculo y la quemadura causan impureza durante una semana con dos marcas: con canas y con extensión. Con canas al principio o al final de la semana, incluso después de ser declarado libre. Y con extensión al final de la semana, incluso después de ser declarado libre. <span id="p272">[<sup><small>p. 272</small></sup>]</span> Y hacen impuro al leproso durante una semana de siete días.
+4\. El furúnculo y la quemadura causan impureza durante una semana con dos marcas: con canas y con extensión. Con canas al principio o al final de la semana, incluso después de ser declarado libre. Y con extensión al final de la semana, incluso después de ser declarado libre. <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> Y hacen impuro al leproso durante una semana de siete días.
 
 5\. Las tiñas [^595] causan impureza en dos semanas con dos marcas, con pelos finos y amarillentos, y con propagación. Con pelos finos y amarillentos al principio, al final de la primera semana o al final de la segunda, incluso después de haber sido declaradas libres. Y con propagación, al final de la primera semana o al final de la segunda, incluso después de haber sido declaradas libres. Y causan impureza en dos semanas que tienen trece días.
 

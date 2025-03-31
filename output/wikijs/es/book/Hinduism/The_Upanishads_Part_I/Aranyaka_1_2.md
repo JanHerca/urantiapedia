@@ -42,7 +42,7 @@ SEGUNDO ADHYÂYA.
 
 3\. En el segundo verso del Pragâtha [^399], indra nedîya ed ihi, pra sû tirâ sa<i>k</i>îbhir ye ta ukthina<i>h</i> (Rv. VIII, 53, 5, 6), aparece la palabra ukthina<i>h</i>, recitadores de himnos [^400]. En verdad, este día (el mahâvrata) es un uktha (himno), y como está dotado de un uktha, la forma de este día es perfecta.
 
-4\. En el primer verso (de otro Pragâtha) aparece la palabra vîra, «fuerte» (Rv. I, 40, 3), y, al estar dotada de la palabra vîra, «fuerte», la forma de este día es perfecta. <span id="p167">[<sup><small>p. 167</small></sup>]</span> 5\. En el segundo verso (de otro Pragâtha) aparece la palabra suvîryam, «fuerza» (Rv. I, 40, 1), y, al estar dotada de la palabra suvîrya, «fuerza», la forma de este día es perfecta.
+4\. En el primer verso (de otro Pragâtha) aparece la palabra vîra, «fuerte» (Rv. I, 40, 3), y, al estar dotada de la palabra vîra, «fuerte», la forma de este día es perfecta. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> 5\. En el segundo verso (de otro Pragâtha) aparece la palabra suvîryam, «fuerza» (Rv. I, 40, 1), y, al estar dotada de la palabra suvîrya, «fuerza», la forma de este día es perfecta.
 
 6\. En el primer verso (de otro Pragâtha) aparece la palabra ukthyam, que significa ser cantado (Rv. I, 40, 5). En verdad, este día es un uktha, y como está dotado de un uktha, la forma de este día es perfecta.
 
@@ -56,7 +56,7 @@ SEGUNDO ADHYÂYA.
 
 11\. En (el Pragâtha) pra va indrâya b<i>ri</i>hate (Rv. VIII, 89, 3) (aparece la palabra b<i>ri</i>hat). En verdad, b<i>ri</i>hat es mahat (grande), y como dotado de mahat, grande, la forma de este día (mahâvrata) es perfecta.
 
-12\. En (el Pragâtha) b<i>ri</i>had indrâya gâyata (Rv. VIII, 89, 1) <span id="p168">[<sup><small>p. 168</small></sup>]</span> (aparece la palabra b<i>ri</i>hat). En verdad, b<i>ri</i>hat es mahat (grande), y como dotado de mahat, la forma de este día es perfecta.
+12\. En (el Pragâtha) b<i>ri</i>had indrâya gâyata (Rv. VIII, 89, 1) <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> (aparece la palabra b<i>ri</i>hat). En verdad, b<i>ri</i>hat es mahat (grande), y como dotado de mahat, la forma de este día es perfecta.
 
 13\. En (el Pragâtha) naki<i>h</i> sudâso ratham pary âsa na rîramad (Rv. VII, 32, 10) aparecen las palabras paryâsa (él se movió) y na rîramad (él no disfrutó), y como está dotado de las palabras paryasta y rânti la forma de este día es perfecta [^402].
 
@@ -64,7 +64,7 @@ SEGUNDO ADHYÂYA.
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A [^407].
 
-1\. Recita el himno «asat su me <i>g</i>arita<i>h</i> sâbhivega<i>h</i>» (Rv. X, 27, 1), (y en él la palabra) satyadhv<i>ri</i>tam, el destructor de la verdad. En verdad, ese día <span id="p169">[<sup><small>p. 169</small></sup>]</span> es verdad, y como está dotado de la palabra satya, verdad, la forma de este día es perfecta [^408].
+1\. Recita el himno «asat su me <i>g</i>arita<i>h</i> sâbhivega<i>h</i>» (Rv. X, 27, 1), (y en él la palabra) satyadhv<i>ri</i>tam, el destructor de la verdad. En verdad, ese día <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> es verdad, y como está dotado de la palabra satya, verdad, la forma de este día es perfecta [^408].
 
 2\. Ese himno fue compuesto por Vasukra. En verdad, Vasukra es Brahman, y ese día es Brahman. Así, obtiene Brahman por medio de Brahman [^409].
 
@@ -78,7 +78,7 @@ SEGUNDO ADHYÂYA.
 
 7\. En el verso ûrvam gavyam mahi g<i>ri</i><i>n</i>âna indra aparece la palabra mahi, «grande». Dotada de la palabra mahat, la forma de este día es perfecta.
 
-8\. Ese himno fue compuesto por Bharadvâ<i>g</i>a, y Bharadvâ<i>g</i>a fue quien más supo, quien vivió más tiempo y realizó las mayores austeridades entre los Rishis, y con este himno ahuyentó el mal. Por lo tanto, si recita el himno de Bharadvâ<i>g</i>a, <span id="p170">[<sup><small>p. 170</small></sup>]</span>, después de haber ahuyentado el mal, se vuelve erudito, longevo y lleno de austeridades.
+8\. Ese himno fue compuesto por Bharadvâ<i>g</i>a, y Bharadvâ<i>g</i>a fue quien más supo, quien vivió más tiempo y realizó las mayores austeridades entre los Rishis, y con este himno ahuyentó el mal. Por lo tanto, si recita el himno de Bharadvâ<i>g</i>a, <span id="p170"><sup><small>[ p. 170 ]</small></sup></span>, después de haber ahuyentado el mal, se vuelve erudito, longevo y lleno de austeridades.
 
 9\. Recita el himno kayâ subhâ savayasa<i>h</i> sanîlâ<i>h</i> (Rv. I, 165, 1).
 
@@ -96,11 +96,11 @@ SEGUNDO ADHYÂYA.
 
 16\. Todo el que sabe esto es amigo de aquel para quien un sacerdote Hotri que sabe esto recita este himno.
 
-17\. El siguiente himno, <i>g</i>anish<i>th</i>â ugra<i>h</i> sahase turâya (Rv. I, 73, 1), forma un Nividdhâna [^413] y, <span id="p171">[<sup><small>p. 171</small></sup>]</span>, según el ceremonial de un día (ekâha), es perfecto en su forma. En ese día se realizan muchas cosas de vez en cuando que deben ocultarse y expiarse (mediante la recitación de himnos). La expiación es descanso, el sacrificio de un día. Por lo tanto, al final del año (el penúltimo día del sacrificio que dura todo un año), los sacrificadores descansan en esta expiación como su descanso.
+17\. El siguiente himno, <i>g</i>anish<i>th</i>â ugra<i>h</i> sahase turâya (Rv. I, 73, 1), forma un Nividdhâna [^413] y, <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>, según el ceremonial de un día (ekâha), es perfecto en su forma. En ese día se realizan muchas cosas de vez en cuando que deben ocultarse y expiarse (mediante la recitación de himnos). La expiación es descanso, el sacrificio de un día. Por lo tanto, al final del año (el penúltimo día del sacrificio que dura todo un año), los sacrificadores descansan en esta expiación como su descanso.
 
 Quien sabe esto descansa firme, y también aquellos para quienes un sacerdote Hotri que sabe esto recita este himno [^414].
 
-18\. Estos, si se recitan de corrido, son noventa y siete versos [^415]. Los noventa son tres Virâ<i>g</i>, cada uno compuesto por treinta, y luego los siete versos que le siguen. Cualquiera que sea la alabanza de los siete, es también la alabanza de los noventa. <span id="p172">[<sup><small>p. 172</small></sup>]</span> 19\. Al repetir el primer y el último verso tres veces cada uno, se convierten en ciento un versos.
+18\. Estos, si se recitan de corrido, son noventa y siete versos [^415]. Los noventa son tres Virâ<i>g</i>, cada uno compuesto por treinta, y luego los siete versos que le siguen. Cualquiera que sea la alabanza de los siete, es también la alabanza de los noventa. <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 19\. Al repetir el primer y el último verso tres veces cada uno, se convierten en ciento un versos.
 
 20\. Hay cinco dedos, de cuatro articulaciones cada uno, dos fosas (en el codo y el brazo), el brazo, el ojo, el omóplato; esto suma veinticinco. Las otras tres partes también tienen veinticinco cada una [^416]. Esto suma cien, y el tronco es el centésimo primero.
 
@@ -116,7 +116,7 @@ Quien sabe esto descansa firme, y también aquellos para quienes un sacerdote Ho
 
 3\. Esto no debe tenerse en cuenta.
 
-4\. Algunos dicen que debería haber tres tablas, porque existen estos tres mundos triples, y debería ser como ellos. <span id="p173">[<sup><small>p. 173</small></sup>]</span> 5\. Eso no debe tomarse en cuenta.
+4\. Algunos dicen que debería haber tres tablas, porque existen estos tres mundos triples, y debería ser como ellos. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> 5\. Eso no debe tomarse en cuenta.
 
 6\. Que haya dos, pues estos dos mundos (la tierra y el cielo) se perciben como si fueran lo más real, mientras que el éter (espacio) entre ambos es el cielo (antariksha). Por lo tanto, que haya dos tablas.
 
@@ -135,7 +135,7 @@ Quien sabe esto descansa firme, y también aquellos para quienes un sacerdote Ho
 
 2\. Otros dicen: «Que sea un palmo (prâde<i>s</i>a), pues con esa medida se midieron, en verdad, los aires vitales». Eso no debe tenerse en cuenta [^419].
 
-3\. Que sea un puño (mush<i>t</i>i), pues con esa medida se crea todo alimento comestible, y con esa medida <span id="p174">[<sup><small>p. 174</small></sup>]</span> se toma todo alimento comestible; por lo tanto, que sea un puño por encima del suelo.
+3\. Que sea un puño (mush<i>t</i>i), pues con esa medida se crea todo alimento comestible, y con esa medida <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> se toma todo alimento comestible; por lo tanto, que sea un puño por encima del suelo.
 
 4\. Dicen: «Que suba al columpio de este a oeste, como quien brilla; pues el sol sube por estos mundos de este a oeste». Eso no debe tomarse en cuenta.
 

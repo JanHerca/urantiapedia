@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 <figure id="Figure_09500" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/09500.jpg">
@@ -63,7 +63,7 @@ Que extendió sus olas de orilla a orilla,
 Todavía en el verdor de la llanura
 Sus sonrisas vivificantes permanecen.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 ## SOBRE LA TUMBA DE SAYID. POR ABD ALMALEC ALHARITHY.
 
@@ -92,7 +92,7 @@ El capullo de la aflicción, no más represamiento,
 Salió disparado y llenó mi pecho laborioso,
 &nbsp;&nbsp;Pronto se expandirá y se despojará de la desesperación.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 Pero aunque de Sayid estoy despojado,
 &nbsp;&nbsp;De quien vino la corriente de la generosidad,
@@ -110,7 +110,7 @@ Que cualquier voz de lengua mortal:
 
 <br style="clear:both;"/>
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ## SOBRE LA MUERTE DE SU AMANTE. POR ABU SAHER ALHEDILY.
 
@@ -127,7 +127,7 @@ Dónde están las reliquias de mi Leila
 El polvo de Saher se desvanecerá,
 Allí para unirse a su arcilla de Leila.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 ## SOBRE LA AVARICIA. POR HATEM TAI.
 
@@ -156,7 +156,7 @@ Aumento de las reservas de oro preciado,
 Cada tribu que recorre el desierto sabe
 Podría ser rico, si lo eligiera.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Pero otras alegrías pueden impartir el oro;
 Otros deseos más lejanos calientan mi corazón;—
@@ -179,7 +179,7 @@ Ni por la pérdida de mineral insignificante,
 
 <br style="clear:both;"/>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## SOBRE LA BATALLA DE SABLA. POR JAAFER BEN ALBA.
 
@@ -213,7 +213,7 @@ Entonces, mientras se retorcían en las frías garras de la Muerte,
 Estas _manos_ sujetarán la empuñadura de los sables,
 &nbsp;&nbsp;¡Tus corazones tendrán la espada!”
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## VERSOS DIRIGIDOS A UNA TRIBU PARIENTE EN DISTINCIÓN CON LA A LA QUE PERTENECÍA EL POETA. POR ALFADHEL IBN ALABAS.
 
@@ -242,7 +242,7 @@ A cada uno se le dan sentimientos diferentes;
 Es nuestro vivir, gracias al cielo.
 &nbsp;&nbsp;Odiándose y odiándose unos a otros.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 ## SOBRE SUS AMIGOS. POR MESKIN ALDARAMY.
 
@@ -260,7 +260,7 @@ Y tengo un lugar en cada pecho:
 &nbsp;&nbsp; Porque son una corona de perlas, y yo
 &nbsp;&nbsp; El cordón de seda sobre el que yacen.
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## EN MANO. POR NABEGAT BENI JAID.
 
@@ -274,7 +274,7 @@ Pero aún así, mi querida doncella, aunque tu espíritu es mi orgullo,
 Si la vida nunca se deja descansar o calmarse,
 Puede que no sea plano, pero me temo que será asqueroso.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 ## LA CANCIÓN DE MAISUNA.
 
@@ -292,7 +292,7 @@ La humilde tienda de campaña y la brisa murmurante
 Mi fantasía sin aspiraciones por favor,
 &nbsp;&nbsp;Mejor que torres y espléndidos salones.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Los potros acompañantes, esa mosca saltando
 &nbsp;&nbsp;Y retozar al lado de la litera,
@@ -315,7 +315,7 @@ Será siempre al corazón de Maisuna
 
 <br style="clear:both;"/>
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## VERSOS DE YEZID A SU PADRE, MOWIAH, QUIEN LE REPROCHÓ SU BORRACHERA.
 
@@ -334,7 +334,7 @@ Fue dulce tomar la copa que fluía,
 Y, primero, yo bebo para complacerme,
 &nbsp;&nbsp;Y, además, ¡para enojarte!
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 ## SOBRE EL FATALISMO. POR EL IMAM SHAFAY MOHAMMED BEN IDRIS.
 
@@ -348,7 +348,7 @@ Ni la necesidad ni la debilidad todavía conspiran
 La mosca, que con un toque expira,
 &nbsp;&nbsp;Bebe miel del plato real.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ## AL KHALIF HAROUN ALRASHID, SOBRE SU EMPRENDIMIENTO DE PEREGRINACIÓN A LA MECA. Por IBRAHIM BEN ADHEM.
 
@@ -362,7 +362,7 @@ Tres veces felices los que buscan la morada
 Quien desprecia el mundo, sus alegrías desprecian,
 &nbsp;&nbsp;Y aferrarse a la dicha más allá de los cielos.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 ## SOBRE LA INAUGURACIÓN DE HAROUN ALRASHID Y EL NOMBRAMIENTO DE YAHIA PARA SER SU VISIER. POR ISAAC ALMOUSELY.
 
@@ -376,7 +376,7 @@ De nuevo el sol lanza sus rayos;
 &nbsp;&nbsp;Porque el cetro del poderoso Harún se balancea,
 Y el brazo de Yahia sostiene el globo.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## SOBRE LA RUINA DE LOS BARMECIDAS.
 
@@ -390,7 +390,7 @@ Ni los mortales afligidos jamás conocido
 Y ahora, no más por ti acariciado,
 &nbsp;&nbsp;El mundo viudo llora a su señor.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## EPIGRAMA SOBRE TAHER BEN HOSEIN, QUIEN ERA AMBIDEXTREMO Y TUERDO.
 
@@ -399,7 +399,7 @@ Debe formarse no un hombre, sino un monstruo, gritan:
 Cambia una mano por un ojo, buen Taher, si puedes,
 Y un monstruo tal vez pueda ser cambiado al hombre.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 ## EL ADIÓS. POR ABU MOHAMMED.
 
@@ -423,7 +423,7 @@ Mis brazos dispuestos abrazaron a la criada,
 Mientras ella lloraba más y dijo,
 &nbsp;&nbsp;«¡Ojalá nunca nos hubiéramos conocido!»
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## VERSOS DIRIGIDOS A SU SEÑORA, QUE LO HABÍA CENSURADO POR PROFUSIÓN. POR ABU TEMAN HABIB.
 
@@ -437,7 +437,7 @@ Para ahorrar el deseo de las pequeñas almas;
 Yon corriente don la montaña rueda,
 &nbsp;&nbsp;Y se estanca en el pantano.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 ## A UNA MUJER COPERO. POR ABD ALSALAM BEN RAGBAN.
 
@@ -451,7 +451,7 @@ Una corriente de aire como esta sería vano buscarla,
 Le roba su tinte a la mejilla de Leila,
 &nbsp;&nbsp;Su brillo de sus ojos.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 ## CANCIONES DE MASHDUD, RAKEEK Y RAIS,
 
@@ -463,7 +463,7 @@ Un día iba a la mezquita [dice Abu Akramah, un autor que se ganaba la vida en B
 
 Mashdud me saludó y me preguntó adónde iba. Respondí que a la mezquita y confesé sin reservas el motivo de mi viaje. El poeta, al oír esto, me insistió en que lo acompañara al palacio de Abu Isy. Sin embargo, decliné su invitación, pues sabía que no era apropiado entrometerme sin invitación en la presencia de una persona de tal rango e importancia. Pero el portero de Abu Isy, al oír nuestra conversación, declaró que pondría fin a mis dificultades en un momento, informando a su amo de mi llegada. Así lo hizo, y al poco rato aparecieron dos sirvientes que me tomaron en brazos y me llevaron a un aposento magnífico, donde estaba sentado su amo.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 Al presentarme, no pude evitar sentirme un poco confundido, pero el Príncipe pronto me tranquilizó, gritándome de manera afable: «¿Por qué te sonrojas ahí, tonto? Toma asiento». Obedecí y en pocos minutos trajeron una suntuosa colación, de la que participé. No se olvidó el jugo de la uva: un copero, brillante como la estrella de la mañana, sirvió vino para nosotros, más brillante que los rayos del sol reflejados por un espejo.
 
@@ -486,7 +486,7 @@ Aunque sus rostros pálidos lo demuestren
 'Es solo que siempre amas
 &nbsp;&nbsp;Fluyendo copas más que dormir.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Aunque tus globos oculares, apagados y hundidos,
 &nbsp;&nbsp;Arroyo en penitencial disfraz,
@@ -517,7 +517,7 @@ Mientras la noche revolotea, ella solo llora.
 Así nuestras alegrías con las tuyas competirán,
 &nbsp;&nbsp;Inquilinos de ese templo sagrado!
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Luego le tocó el turno a Rais, quien nos encantó con este pequeño diálogo lastimero, que se supone que pasa entre él y una dama:
 
@@ -547,7 +547,7 @@ El sueño puede abandonar mi cama;
 Es el manto de la belleza extendido
 &nbsp;&nbsp;Sobre la mejilla sonrosada de mi Selim.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 ## A UNA SEÑORA LLORANDO. POR EBN ALRUMI.
 
@@ -568,7 +568,7 @@ Cuando la alegría se sienta sonriendo en tus ojos,
 Pero cuando a través de la inundación de la piedad brillan,
 &nbsp;&nbsp;¿Quién sino debe amar su viga suavizada?
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 ## EN UN VALETUDINARIO. POR EL MISMO.
 
@@ -584,7 +584,7 @@ CUELGUENLA, una tonta desconsiderada y derrochadora,
 Dijo Hassan, enojado con su mula,
 &nbsp;&nbsp;Eso dejó caer una cena a los cuervos.
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## A CASSIM OBID ALLAH, POR LA MUERTE DE UNO DE SUS HIJOS. POR ALI BEN AHMED BEN MANSOUR.
 
@@ -603,7 +603,7 @@ No es de extrañar que te desanimes. con dolor,
 Pero ahora tus lágrimas deben fluir doblemente,
 &nbsp;&nbsp;Porque ah,—¡el otro se fue!
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 ## A UN AMIGO, EN SU CUMPLEAÑOS.
 
@@ -614,7 +614,7 @@ Así vive, que en tu hora de partida,
 Que se derrame el diluvio del dolor,
 &nbsp;&nbsp;Y tú en sonrisas vístete.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 ## SOBRE UN GATO QUE FUE ASESINADO CUANDO ESTABA INTENTANDO ROBAR UN PALOMAR. POR IBN ALALAF ALNAHARWANY.
 
@@ -643,7 +643,7 @@ En la fantasía ella los tenía todos,
 ¡Ay! ella sólo tuvo una caída,
 &nbsp;&nbsp;Y sólo bebió el trago de la muerte.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 ¿Por qué, por qué era la carne de paloma es tan agradable?,
 &nbsp;&nbsp;¿A qué gatos desconsiderados debería gustarle así?
@@ -661,7 +661,7 @@ Y maldito lo delicado donde encontramos
 
 <br style="clear:both;"/>
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 ## EPIGRAMA SOBRE EBN NAPHTA-WAH POR MOHAMMED BEN ZEID ALMOTAKALAM.
 
@@ -679,7 +679,7 @@ Los cedros más altos que puedo comer,
 Me pongo furioso cuando me das carne;
 &nbsp;&nbsp;Siempre que me das de beber, yo muero.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## A UNA DAMA, AL VERLA SONROJARSE. POR EL KHALIF RADHI BILLAH.
 
@@ -693,7 +693,7 @@ Leila, ¿debería explicar la causa?
 El arroyo carmesí abandona mi corazón
 &nbsp;&nbsp;Para cubrir tu rostro.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 ## SOBRE LAS VICISITUDES DE LA VIDA. POR EL MISMO.
 
@@ -717,7 +717,7 @@ Quien, con salud y placer gay,
 Si no fuera por la edad y el dolor...
 &nbsp;&nbsp;¿El hombre no es más que el hijo de la aflicción?
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 ## A UNA PALOMA. POR SERAGE ALWARAK.
 
@@ -736,7 +736,7 @@ Seguro, dulce pájaro, mi corazón decaído
 Y murmullos lastimeros son tu parte,
 &nbsp;&nbsp;Y el dolor silencioso y las lágrimas son mías.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ## EN UNA TORMENTA ELÉCTRICA. POR IBRAHIM BEN KHIRET ABU ISAAC.
 
@@ -754,7 +754,7 @@ El relámpago se rió, con horrible resplandor;
 El trueno rugió, con rabia; el aire
 &nbsp;&nbsp; En silencio se quedó de pie el dolor.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 ## A SU FAVORITA AMANTE. POR SAIF ADDAULET, SULTÁN DE ALEPO.
 
@@ -778,7 +778,7 @@ Pero no dejes que Abla se hunda deprimido,
 No nos encontramos—es para encontrarnos más bendecidos;
 &nbsp;&nbsp;Nos separamos, no nos separaremos más.
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SOBRE LA CRUCIFIXIÓN DE EBN BAKIAH. POR ABU HASSAN ALANBARY.
 
@@ -807,7 +807,7 @@ La tierra es demasiado pequeña para uno tan grande;
 Las nubes serán tu mortaja,
 &nbsp;&nbsp;La espaciosa bóveda del cielo tu tumba.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## SOBRE LOS CAPRICHOS DE LA FORTUNA. POR SHEMS ALMAALI CABUS, EL DESTRONADO SULTÁN DE GEORGIA.
 
@@ -826,7 +826,7 @@ Cada estrella menor que tachonada la esfera
 Oscuro y eclipsado solo aparece
 &nbsp;&nbsp;El Señor del Día, la Reina de la Noche.
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 ## VIDA.
 
@@ -840,7 +840,7 @@ Mientras el rebaño busca la sombra del pasto,
 Mientras la Muerte, en medio del claro copetudo,
 &nbsp;&nbsp;Como el ladrón pardo, (\*) [^21] espera a su presa.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 ## A LEILA.
 
@@ -859,7 +859,7 @@ Y mientras bebe el trago de la muerte,
 ¿O vio el niño sus sufrimientos?
 &nbsp;&nbsp;Él los compadecería y los aliviaría también.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## VERSOS EXTEMPORALES
 
@@ -885,7 +885,7 @@ Por fin el Rey naciente del día
 Como el ojo de Carawash, cuyo rayo
 &nbsp;&nbsp;Dispensa todo lo bueno.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## SOBRE LA MUERTE DE UN HIJO. POR ALI BEN MOHAMMED ALTAHMANY.
 
@@ -914,7 +914,7 @@ La vida es un sueño de setenta años;
 Y el hombre, con todas sus esperanzas y temores,
 &nbsp;&nbsp;No es más que un fantasma de la noche.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 ## SOBRE LA MODERACIÓN EN NUESTROS PLACERES. POR ABU ALCASSIM EBN TABATABA.
 
@@ -938,7 +938,7 @@ Pero si tu frasco derrama profusamente
 Rápido alrededor de la llama que se hunde se extiende,
 &nbsp;&nbsp;Y mata el fuego que de buena gana quiere levantar.
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## EN EL VALLE DE BOZAA. POR AHMED BEN YOUSEF ALMENAZY.
 
@@ -962,7 +962,7 @@ Así alisan los guijarros en su orilla,
 Pero cuenta sus cadenas de joyas.
 &nbsp;&nbsp;Y piensa que las perlas se han escapado.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ## A LA ADVERSIDAD. POR ABU MENBAA CARAWASH, SULTÁN DE MOUSEL.
 
@@ -976,7 +976,7 @@ Yo yacía la masa informe que la Naturaleza hizo;
 Pero formado, gran artista, por tu mano mágica,
 yo brillo una espada, para conquistar y mandar.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 ## SOBRE LA INCOMPATIBILIDAD DEL ORGULLO Y LA VERDADERA GLORIA. POR ABU ALOLA.
 
@@ -995,7 +995,7 @@ Y así las sombras que caen de la Noche
 Y antes de que extiendan su vuelo sombrío,
 &nbsp;&nbsp;Debe ganar el espacio alargado del Día.
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 ## SOBRE LA MUERTE DE NEDHAM ALMOLK,
 
@@ -1011,7 +1011,7 @@ Demasiado largo sus rayos de luz de oriente
 Alá ahora ha vengado el desaire,
 &nbsp;&nbsp;Y lo llamó a su lecho nativo.
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## VERSOS DIRIGIDOS POR WALADATA, HIJA DE MOHAMMED
 
@@ -1027,7 +1027,7 @@ Las heridas en nuestras mejillas son transitorias, lo reconozco,
 Pero aquellos en el corazón, jóvenes volubles, habéis mostrado
 &nbsp;&nbsp;Ser aún más transitorio que ellos.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## VERSOS DIRIGIDOS A SUS HIJAS, DURANTE SU ENCARCELAMIENTO, POR MOTAMMED BEN ABAD, SULTÁN DE SEVILLA.
 
@@ -1043,7 +1043,7 @@ Mientras estas queridas doncellas, en la flor de la belleza,
 Por sórdidos trabajos en el telar
 &nbsp;&nbsp;Debe ganarse el pan pobre y precario.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Esos pies, que nunca tocó el suelo
 &nbsp;&nbsp;Hasta que el almizcle o el alcanfor se esparcieron por el camino,
@@ -1071,7 +1071,7 @@ Vista atenta El destino de Motammed,
 
 <br style="clear:both;"/>
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 ## UNA SERENATA A SU AMA DURMIENTE. POR ALI BEN ABD ALGANY, DE CÓRDOBA.
 
@@ -1085,7 +1085,7 @@ Porque si nos hiere así mientras está envainado,
 Ningún ídolo jamás podría compartir este corazón
 &nbsp;&nbsp;Este corazón te ha adorado solo a ti.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 ## EL INCONSISTENTE.
 
@@ -1096,7 +1096,7 @@ CUANDO te envié mis melones, gritaste con desprecio,
 Cuando me ofrecí a mí mismo, a quien esas gracias adornan,
 &nbsp;&nbsp;Te burlaste y me llamaste ¡Un tipo viejo y feo!
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 ## SOBRE LA TOMA DE JERUSALÉN, EN LA PRIMERA CRUZADA. POR ALMODHAFER ALABIWERDY.
 
@@ -1120,7 +1120,7 @@ Examina su destino y escucha sus penas:
 Cómo algunos a través de desiertos sin caminos vuelan,
 Algunos en el descanso de las fauces del buitre;
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Mientras algunos, más miserables aún, deben soportar
 Las burlas de la lengua de un cristiano;
@@ -1148,7 +1148,7 @@ Despierta tú a la venganza y al amor!
 
 <br style="clear:both;"/>
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ## A UNA DAMA, QUE ACUSÓ A SU AMANTE DE ADULTOS.
 
@@ -1180,7 +1180,7 @@ Pero cómo tu manto ondea detrás,
 Cómo flotan tus trenzas en el viento,
 &nbsp;&nbsp; Otro solo muestra.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ## EPIGRAMA SOBRE ABU ALCHAIR SELAMU, MÉDICO EGIPCIO. POR GEORGE, MÉDICO DE ANTIOQUÍA.
 
@@ -1194,7 +1194,7 @@ Dondequiera que la admisión puedas ganar,
 En seguida el Doctor ellos retienen,
 &nbsp;&nbsp;Los dolientes y el coche fúnebre.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ## A UN HOMBRE PEQUEÑO CON UNA BARBA MUY GRANDE. POR ISAAC BEN KHALIF.
 
@@ -1213,7 +1213,7 @@ Un hombre como tú rara vez apareció;
 Seguramente tú aprecias tu barba,
 &nbsp;&nbsp;Con la esperanza de esconderte detrás de él!
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 ##LAMIAT ALAJEM. POR MAUID EDDIN ALHASSAN ABU ISMAEL ALTOGRAI.
 
@@ -1230,7 +1230,7 @@ Oscurecido, oculto, pero nunca perdido—
 El mismo orbe brillante que lideró el día
 Derrama desde el oeste su rayo suavizado.
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 &nbsp;&nbsp;Zaura, adiós! No te veo más
 Dentro de tus muros un hogar para mí;
@@ -1263,7 +1263,7 @@ Me ha arrebatado mis esperanzas de alto nivel.
 Y pedí este deseo mis labores terminan,—
 No me des riquezas, sino reposo.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 ¡Es él! Ese semblante declara mi amigo,
 Esa estatura, como la lanza que lleva;
@@ -1472,7 +1472,7 @@ Y vagar por Folly's ¡No más tierras salvajes!
 
 <br style="clear:both;"/>
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 ## A LA JUVENTUD. POR EBN ALRABIA, EN SU VEJEZ.
 
@@ -1491,7 +1491,7 @@ Puedo recordarte si quiero;
 Porque puedo hablar de lo que es pasado,
 &nbsp;&nbsp;Y mientras hablo, disfruta todavía.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 ## SOBRE EL AMOR. POR ABU ALI, EL MATEMÁTICO.
 
@@ -1512,7 +1512,7 @@ La línea delimitadora del círculo son ellos;
 Mi amor dispuesto, el rayo igual
 &nbsp;&nbsp;Eso fluye a cada parte.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 ## UNA RECONVENCIÓN CON UN BORRACHO. POR YAHIA BEN SALAMET.
 
@@ -1543,7 +1543,7 @@ Así que reprendí su borrachera.
 “Juro que me despediré del vino—
 &nbsp;&nbsp;¡Tan pronto como yo esté muerto!”
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 ## VERSOS DIRIGIDOS POR EL KHALIF ALMOKTAFI LIAMRILLAH A UNA DAMA, QUE FINGÍA PASIÓN POR ÉL EN SU VEJEZ.
 
@@ -1557,7 +1557,7 @@ Di que odias y lo muestras libremente
 Y yo puedo amarte, cuando yo sé
 &nbsp;&nbsp;Que puedas decir la verdad.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 ## SOBRE LA PROCRASTINACIÓN. POR HEBAT ALLAH IBN ALTALMITH.
 
@@ -1576,7 +1576,7 @@ Los viajeros así, que vagan salvajemente,
 Se quedan, cuando deberían llegar a su casa,
 &nbsp;&nbsp;Desconcertado en el camino.
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 ## SOBRE LA MUERTE TEMPRANA DE ABU ALHASSAN ALI,
 
@@ -1602,7 +1602,7 @@ Si Dios misericordioso te ordenó cerrar
 Es que él da la bienvenida a aquellos
 &nbsp;&nbsp;Quien lo ama mejor y mejor obedece.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 ## LA ENTREVISTA. UNA CANCIÓN AL RITMO DEL ORIGINAL, CON LA MÚSICA ANEXA.
 

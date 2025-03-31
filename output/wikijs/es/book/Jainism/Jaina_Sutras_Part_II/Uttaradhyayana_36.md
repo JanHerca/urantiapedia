@@ -46,7 +46,7 @@ A. Cosas sin vida.
 
 Las cosas sin vida son 1. que poseen forma, 2. sin forma; las cosas sin forma son de diez clases, las que poseen forma son de cuatro clases. (4)
 
-(1) Las diez clases de cosas sin forma: 1. Dharma, 2. sus divisiones, 3. sus partes indivisibles; 4. Adharma, 5. sus divisiones, 6. sus partes indivisibles; 7. espacio, <span id="p208">[<sup><small>p. 208</small></sup>]</span> 8. sus divisiones, 9. sus partes indivisibles, y 10. tiempo [^583]. (5, 6)
+(1) Las diez clases de cosas sin forma: 1. Dharma, 2. sus divisiones, 3. sus partes indivisibles; 4. Adharma, 5. sus divisiones, 6. sus partes indivisibles; 7. espacio, <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 8. sus divisiones, 9. sus partes indivisibles, y 10. tiempo [^583]. (5, 6)
 
 Dharma y Adharma son coextensivos con el Mundo (Lôka); el espacio llena el Mundo y el No-mundo (Alôka); el tiempo existe en lo que se llama el lugar del tiempo [^584]. (7)
 
@@ -110,7 +110,7 @@ B. Seres vivos.
 
 Ahora, en el orden debido, explicaré la división de los seres vivos. (48)
 
-Los seres vivos son de dos clases: 1. los que aún <span id="p211">[<sup><small>p. 211</small></sup>]</span> pertenecen al Samsara, y 2. las almas perfeccionadas (siddhas). Estos últimos son de muchas clases; escúchame explicarlos. (49)
+Los seres vivos son de dos clases: 1. los que aún <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> pertenecen al Samsara, y 2. las almas perfeccionadas (siddhas). Estos últimos son de muchas clases; escúchame explicarlos. (49)
 
 (1) Las almas perfeccionadas son las de las mujeres, los hombres, los hermafroditas, los ortodoxos, los heterodoxos y los jefes de familia. (50)
 
@@ -126,7 +126,7 @@ Cuatro individuos alcanzan la perfección (simultáneamente) en lugares altos, d
 
 Las almas perfeccionadas están excluidas del no-mundo (Alôka); residen en la cima del mundo; dejan sus cuerpos aquí (abajo), y van allí, al alcanzar la perfección. (57)
 
-Doce Yô<i>g</i>anas por encima del (Vimâna) Sarvârtha es <span id="p212">[<sup><small>p. 212</small></sup>]</span> el lugar llamado Îshatprâgbhâra [^593], que tiene la forma de una sombrilla; (allí van las almas perfeccionadas). (58)
+Doce Yô<i>g</i>anas por encima del (Vimâna) Sarvârtha es <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> el lugar llamado Îshatprâgbhâra [^593], que tiene la forma de una sombrilla; (allí van las almas perfeccionadas). (58)
 
 Tiene cuatro mil quinientos yô<i>g</i>anas de largo, y otros tantos de ancho, y un poco más de tres veces su circunferencia. (59)
 
@@ -162,7 +162,7 @@ Los toscos son de treinta y seis clases: (73)
 
 Tierra, grava, arena, piedras, rocas, sal gema [^598], hierro, cobre, estaño, plomo, plata, oro y diamante; (74)
 
-Oropimente, bermellón, rejalgar, Sâsaka [^599], antimonio, <span id="p214">[<sup><small>p. 214</small></sup>]</span> coral, Abhrapa<i>t</i>ala, Abhravâluka; estas son variedades de cuerpos brutos (terrestres) y tipos de piedras preciosas. (75)
+Oropimente, bermellón, rejalgar, Sâsaka [^599], antimonio, <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> coral, Abhrapa<i>t</i>ala, Abhravâluka; estas son variedades de cuerpos brutos (terrestres) y tipos de piedras preciosas. (75)
 
 Jacinto, natrón, Aṅka, cristal, Lôhitâksha, esmeralda, Masâragalla, Bhu<i>g</i>amô<i>k</i>aka y zafiro; (76)
 
@@ -178,7 +178,7 @@ Con respecto al flujo continuo (o desarrollo de un cuerpo terrestre), no tiene p
 
 Veintidós mil años es la duración más larga de la vida terrestre; la más corta es menos que un muhûrta. (81)
 
-La duración más larga del cuerpo de las Vidas Terrestres, si no abandonan ese (tipo de) cuerpo [^602], es un <span id="p215">[<sup><small>p. 215</small></sup>]</span> tiempo inconmensurable; la más corta es menos de una muhûrta. (82)
+La duración más larga del cuerpo de las Vidas Terrestres, si no abandonan ese (tipo de) cuerpo [^602], es un <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> tiempo inconmensurable; la más corta es menos de una muhûrta. (82)
 
 El intervalo más largo entre que una Vida Terrestre abandona su cuerpo (hasta que regresa a él) es un tiempo sin fin; el más corto es menos de un Muhûrta. (83)
 
@@ -198,7 +198,7 @@ Siete mil años es la duración más larga de la vida de las Vidas del Agua, etc
 
 Las plantas gruesas y completamente desarrolladas son de dos clases: o bien muchas tienen un cuerpo en común, o bien cada una tiene su propio cuerpo. (94)
 
-Los que poseen individualmente su propio cuerpo son de <span id="p216">[<sup><small>p. 216</small></sup>]</span> muchas clases: árboles, plantas arbustivas [^603], arbustos [^604], plantas grandes [^605], plantas rastreras [^606], hierba [^607]; (95)
+Los que poseen individualmente su propio cuerpo son de <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> muchas clases: árboles, plantas arbustivas [^603], arbustos [^604], plantas grandes [^605], plantas rastreras [^606], hierba [^607]; (95)
 
 Palmeras [^608], plantas de tallos nudosos [^609], hongos [^610], plantas acuáticas, plantas anuales [^611] y hierbas [^612]. Estas se denominan plantas que poseen, individualmente, su propio cuerpo. (96)
 
@@ -276,7 +276,7 @@ Cochinilla, etc. Por lo tanto, son de muchas clases. Todas viven en una sola par
 
 141-145 = 132-136. (Sustituir «seres con tres órganos de los sentidos». La duración más larga, etc., es de cuarenta y nueve días, versículo 142 = 133.)
 
-iii. Los seres con cuatro órganos sensoriales son de dos tipos: sutiles y burdos. Ambos están <span id="p221">[<sup><small>p. 221</small></sup>]</span> desarrollados o subdesarrollados. Aprende de mí su subdivisión. (146)
+iii. Los seres con cuatro órganos sensoriales son de dos tipos: sutiles y burdos. Ambos están <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> desarrollados o subdesarrollados. Aprende de mí su subdivisión. (146)
 
 Andhiya, Pottiyâ, moscas, mosquitos, abejas, polillas, Dhiṅka<i>n</i>a y Kaṅka<i>n</i>a; (147)
 
@@ -292,7 +292,7 @@ iv. Los seres con cinco órganos de los sentidos son de cuatro tipos: habitantes
 
 Paṅkâbha, Dhûmâbha, Tamâ y Tamatamâ. Así se han enumerado las siete clases de habitantes del infierno. (158)
 
-Todos los (habitantes del infierno) viven en una parte del <span id="p222">[<sup><small>p. 222</small></sup>]</span> mundo solamente; no viven en todas partes, etc. (como en los versículos 79 y 80). (159, 160)
+Todos los (habitantes del infierno) viven en una parte del <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> mundo solamente; no viven en todas partes, etc. (como en los versículos 79 y 80). (159, 160)
 
 En el primer infierno la duración más larga de su vida es un Sâgarôpamâ; la más corta es diez mil años. (161)
 
@@ -312,7 +312,7 @@ La duración de la vida de los habitantes del infierno es también la de su perm
 
 Versos 169, 170 = 83, 84. (Sustituir por habitantes del infierno.)
 
-<i>b</i>. Los animales que poseen cinco órganos de los sentidos son de dos tipos: los que se originan por generación <span id="p223">[<sup><small>p. 223</small></sup>]</span> aequivoca [^640], y los que nacen del vientre materno. (171)
+<i>b</i>. Los animales que poseen cinco órganos de los sentidos son de dos tipos: los que se originan por generación <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> aequivoca [^640], y los que nacen del vientre materno. (171)
 
 Cada uno de ellos es de tres tipos: 1. acuáticos, 2. terrestres y 3. aéreos. Aprendan de mí su subdivisión. (172)
 
@@ -336,7 +336,7 @@ La duración más larga de la permanencia de los animales acuáticos en el (mism
 
 (4) Animales que tienen dedos con uñas, como leones, etc. (180)
 
-Los reptiles son de dos tipos: 1. los que caminan sobre sus brazos, como los lagartos, etc., y 2. los que se mueven sobre su pecho, como las serpientes, etc. Ambos son, a su vez, de muchos tipos. (181) <span id="p224">[<sup><small>p. 224</small></sup>]</span> 182, 183 = 159, 160.
+Los reptiles son de dos tipos: 1. los que caminan sobre sus brazos, como los lagartos, etc., y 2. los que se mueven sobre su pecho, como las serpientes, etc. Ambos son, a su vez, de muchos tipos. (181) <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> 182, 183 = 159, 160.
 
 La duración más larga de la vida de los animales terrestres es de tres Palyôpamâs; la más corta es de menos de un muhûrta. (184)
 
@@ -356,7 +356,7 @@ La duración más larga (de la permanencia de los animales aéreos en el mismo t
 
 <i>c</i>. Los hombres son de dos tipos; escuchen mi descripción: hombres originados por generatio aequivoca [^647], y hombres nacidos del vientre materno. (194)
 
-Los que nacen del vientre materno son de tres <span id="p225">[<sup><small>p. 225</small></sup>]</span> clases: los que viven en el Karmabhûmi [^648], los que viven en el Akarmabhûmi y los que viven en los continentes menores [^649]. (195)
+Los que nacen del vientre materno son de tres <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> clases: los que viven en el Karmabhûmi [^648], los que viven en el Akarmabhûmi y los que viven en los continentes menores [^649]. (195)
 
 Tienen, en el mismo orden, quince [^650], treinta [^651] y veintiocho subdivisiones. Estos son los números que se han transmitido. (196)
 
@@ -370,7 +370,7 @@ Hay diez tipos de Bhavanavâsins (= Bhaumêyikas), ocho de los que viven en los 
 
 1\. Los Bhavanavâsins son: los Asura-, Nâga-, Suvar<i>n</i>a-, Vidyut-, Agni-, Dvîpa-, Udadhi-, Vâta- y Gha<i>n</i>ika-(Kumâras [^652]). (2(15)
 
-2\. Los ocho tipos de Vyantaras son: Pi<i>s</i>â<i>k</i>as, <span id="p226">[<sup><small>p. 226</small></sup>]</span> Bhûtas, Yakshas, ​​Râkshasas, Kinnaras, Kimpurushas, ​​Mahôragas y Gandharvas. (206)
+2\. Los ocho tipos de Vyantaras son: Pi<i>s</i>â<i>k</i>as, <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> Bhûtas, Yakshas, ​​Râkshasas, Kinnaras, Kimpurushas, ​​Mahôragas y Gandharvas. (206)
 
 3\. Las lunas, los soles, los nakshatras, los planetas y las huestes estelares son las quíntuples moradas de los <i>G</i>yôtishkas. (207)
 
@@ -448,7 +448,7 @@ En la octava (región de Graivêyika) (<i>a</i>) hay treinta Sâgarôpamâs, (<i
 
 En la novena (región de Graivêyika) (<i>a</i>) hay treinta y un Sâgarôpamâs, (<i>b</i>) treinta. (241)
 
-En los cuatro cielos (de los dioses Anuttara), comenzando <span id="p229">[<sup><small>p. 229</small></sup>]</span> con Vi<i>g</i>aya [^658], (<i>a</i>) hay treinta y tres Sâgarôpamâs, (<i>b</i>) treinta y uno. (242)
+En los cuatro cielos (de los dioses Anuttara), comenzando <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> con Vi<i>g</i>aya [^658], (<i>a</i>) hay treinta y tres Sâgarôpamâs, (<i>b</i>) treinta y uno. (242)
 
 En el gran Vimâna Sarvârtha(siddha) no hay diferencia entre la duración más larga y la más corta de la vida, pero siempre es de treinta y tres Sâgarôpamâs. (243)
 

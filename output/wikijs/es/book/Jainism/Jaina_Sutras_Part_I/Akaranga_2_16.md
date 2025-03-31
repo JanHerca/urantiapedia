@@ -45,7 +45,7 @@ Un mendigo, viviendo así [^515], autocontrolado hacia lo eterno (mundo de los s
 
 Despreciado por gente como él, el sabio, con mente serena, soporta sus palabras y golpes, como una roca que no se tambalea ante el viento. (3) Ignorando (todas las calamidades), convive con monjes inteligentes, insensibles al dolor y al placer, sin dañar a los seres móviles ni inmóviles, sin matar, soportándolo todo: así se describe al gran sabio, un buen <i>Srama<i>n</i>a. (4)
 
-Así como aumenta el brillo de una llama ardiente, así aumentan la austeridad, la sabiduría y la gloria de un sabio firme que, con deseos vencidos, medita <span id="p212">[<sup><small>p. 212</small></sup>]</span> en el lugar supremo de la virtud [^516], aunque sufra dolor [^517]. (5)
+Así como aumenta el brillo de una llama ardiente, así aumentan la austeridad, la sabiduría y la gloria de un sabio firme que, con deseos vencidos, medita <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> en el lugar supremo de la virtud [^516], aunque sufra dolor [^517]. (5)
 
 Los grandes votos que son llamados el lugar de la paz, los grandes maestros y los productores del desinterés han sido proclamados, en todos los rincones de la tierra, por la infinita <i>Gina</i>, la que sabe [^518], como luz, iluminando los tres mundos, (repele) la oscuridad. (6)
 

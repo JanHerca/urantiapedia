@@ -93,7 +93,7 @@ SEGUNDO ADHYÂYA [^652].
 
 9\. Esto también lo declaró un Rishi (Rv. I, 115, 1):
 
-10\. 'El rostro brillante de los dioses surgió, el ojo de Mitra, Varuna y Agni; llenó el cielo y la tierra <span id="p260">[<sup><small>p. 260</small></sup>]</span> y el firmamento, —el sol es la esencia de todo lo que reposa y se mueve.'
+10\. 'El rostro brillante de los dioses surgió, el ojo de Mitra, Varuna y Agni; llenó el cielo y la tierra <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> y el firmamento, —el sol es la esencia de todo lo que reposa y se mueve.'
 
 11\. 'Creo que éste es el Sa<i>m</i>hitâ regular tal como lo concebí', así dijo Bâdhva.
 
@@ -113,7 +113,7 @@ SEGUNDO ADHYÂYA [^652].
 
 4\. Aquí se dice claramente que no tiene suerte en lo que ha aprendido y que no conoce el camino de la virtud.
 
-5\. Por lo tanto, que nadie que sepa esto ponga el fuego sacrificial (perteneciente al Mahâvrata) para otro, que no cante los Samans del Mahâvrata <span id="p261">[<sup><small>p. 261</small></sup>]</span> para otro, que no recite los Sastras de ese día para otro.
+5\. Por lo tanto, que nadie que sepa esto ponga el fuego sacrificial (perteneciente al Mahâvrata) para otro, que no cante los Samans del Mahâvrata <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> para otro, que no recite los Sastras de ese día para otro.
 
 6\. Sin embargo, que lo haga voluntariamente por un padre o por un Â<i>k</i>ârya; pues en realidad lo hace por sí mismo.
 
@@ -123,7 +123,7 @@ SEGUNDO ADHYÂYA [^652].
 
 9. Luego, cuando el sol se vea traspasado, y parezca el cubo de una rueda de carreta, cuando vea su propia sombra traspasada, que sepa entonces que así es (como se dijo antes, es decir, que va a morir pronto).
 
-10\. Luego, cuando se vea en un espejo o en el agua con la cabeza torcida, o sin cabeza [^665], o cuando sus pupilas se vean invertidas [^666] o no rectas, que sepa que así es. <span id="p262">[<sup><small>p. 262</small></sup>]</span> 11\. Luego, que se cubra los ojos y observe; entonces verá hilos como si se unieran [^667]. Pero si no los ve, que sepa que así es.
+10\. Luego, cuando se vea en un espejo o en el agua con la cabeza torcida, o sin cabeza [^665], o cuando sus pupilas se vean invertidas [^666] o no rectas, que sepa que así es. <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 11\. Luego, que se cubra los ojos y observe; entonces verá hilos como si se unieran [^667]. Pero si no los ve, que sepa que así es.
 
 12\. Luego, que se tape los oídos y escuche, y oirá un sonido como el de un fuego ardiendo o el de un carruaje [^668]. Pero si no lo oye, que sepa entonces que es así.
 
@@ -159,7 +159,7 @@ Las consonantes mudas representan la respiración ascendente, las sibilantes la 
 
 3\. A ​​continuación viene este laúd divino (el cuerpo humano, creado por los dioses). El laúd hecho por el hombre es una imitación de él.
 
-4\. Así como esto tiene una cabeza, así también aquello (laúd, hecho por el hombre). Así como esto tiene un estómago <span id="p264">[<sup><small>p. 264</small></sup>]</span>, así también está la cavidad [^676] (en la tabla) de aquello. Así como esto tiene una lengua, así también hay una lengua [^677] en aquello. Así como esto tiene dedos, así también hay cuerdas [^678]. Así como esto tiene vocales, así también hay tonos. Así como esto tiene consonantes, así también hay toques de aquello. Así como esto tiene sonido y está firmemente encordado, así aquello tiene sonido y está firmemente encordado. Así como esto está cubierto de piel peluda, así también aquello está cubierto de piel peluda.
+4\. Así como esto tiene una cabeza, así también aquello (laúd, hecho por el hombre). Así como esto tiene un estómago <span id="p264"><sup><small>[ p. 264 ]</small></sup></span>, así también está la cavidad [^676] (en la tabla) de aquello. Así como esto tiene una lengua, así también hay una lengua [^677] en aquello. Así como esto tiene dedos, así también hay cuerdas [^678]. Así como esto tiene vocales, así también hay tonos. Así como esto tiene consonantes, así también hay toques de aquello. Así como esto tiene sonido y está firmemente encordado, así aquello tiene sonido y está firmemente encordado. Así como esto está cubierto de piel peluda, así también aquello está cubierto de piel peluda.
 
 5\. En verdad, en tiempos pasados ​​cubrían el laúd con una piel peluda.
 
@@ -171,7 +171,7 @@ Las consonantes mudas representan la respiración ascendente, las sibilantes la 
 
 ## SEXTO KHA<i>N</i><i>D</i>A.
 
-1\. A continuación, K<i>ri</i>sh<i>n</i>a-Hârita [^679] le confió a este Brâhma<i>n</i>a [^680] sobre el habla que le dirigió (a su discípulo): <span id="p265">[<sup><small>p. 265</small></sup>]</span> 2\. Pra<i>g</i>âpati, el año, tras haber dado origen a todas las criaturas, estalló. Se recompuso mediante los <i>kh</i>andas (Vedas). Debido a que se recompuso mediante los <i>kh</i>andas, por lo tanto, (el texto del Veda) se llama Sa<i>m</i>hitâ (recompuesto).
+1\. A continuación, K<i>ri</i>sh<i>n</i>a-Hârita [^679] le confió a este Brâhma<i>n</i>a [^680] sobre el habla que le dirigió (a su discípulo): <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 2\. Pra<i>g</i>âpati, el año, tras haber dado origen a todas las criaturas, estalló. Se recompuso mediante los <i>kh</i>andas (Vedas). Debido a que se recompuso mediante los <i>kh</i>andas, por lo tanto, (el texto del Veda) se llama Sa<i>m</i>hitâ (recompuesto).
 
 3\. De ese Sa<i>m</i>hitâ la letra <i>n</i> es la fuerza, la letra sh el aliento y el ser (Âtman).
 

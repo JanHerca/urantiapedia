@@ -44,7 +44,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 2. El Rishi les dijo: «Quédense aquí un año más, con penitencia, abstinencia y fe; luego podrán hacer preguntas según sus deseos, y si las sabemos, se las diremos todas».
 
-3\. Entonces [^870] Kabandhin Kâtyâyana se acercó a él y le preguntó: «Señor, ¿de dónde pueden nacer estas criaturas?» <span id="p272">[<sup><small>p. 272</small></sup>]</span> 4\. Él respondió: «Pra<i>g</i>âpati (el señor de las criaturas) deseaba criaturas (pra<i>g</i>â<i>h</i>). Hizo penitencia» [^871], y tras realizarla, creó un par, materia (rayi) y espíritu (prâ<i>n</i>a), pensando que juntos le producirían criaturas de diversas maneras.
+3\. Entonces [^870] Kabandhin Kâtyâyana se acercó a él y le preguntó: «Señor, ¿de dónde pueden nacer estas criaturas?» <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 4\. Él respondió: «Pra<i>g</i>âpati (el señor de las criaturas) deseaba criaturas (pra<i>g</i>â<i>h</i>). Hizo penitencia» [^871], y tras realizarla, creó un par, materia (rayi) y espíritu (prâ<i>n</i>a), pensando que juntos le producirían criaturas de diversas maneras.
 
 5 [^872]. El sol es espíritu, la materia es la luna. Todo esto, lo que tiene cuerpo y lo que no lo tiene, es materia, y por lo tanto, el cuerpo es materia.
 
@@ -54,7 +54,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 8 [^873]. (Ellos conocían) a aquel que asume todas las formas, el dorado [^874], que sabe todas las cosas, que asciende más alto, solo en su esplendor, y nos calienta; el de mil rayos, que mora en cien lugares, el espíritu de todas las criaturas, el Sol, se eleva.
 
-9\. El año es, en efecto, Pra<i>g</i>âpati, y existen dos caminos para él: el Sur y el Norte. Ahora bien, quienes aquí creen en los sacrificios y las ofrendas piadosas como trabajo realizado, obtienen la luna solo como su <span id="p273">[<sup><small>p. 273</small></sup>]</span> (mundo futuro), y regresan de nuevo. Por lo tanto, los <i>Ri</i>shis que desean descendencia, van al Sur, y ese camino de los Padres es la materia (rayi).
+9\. El año es, en efecto, Pra<i>g</i>âpati, y existen dos caminos para él: el Sur y el Norte. Ahora bien, quienes aquí creen en los sacrificios y las ofrendas piadosas como trabajo realizado, obtienen la luna solo como su <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> (mundo futuro), y regresan de nuevo. Por lo tanto, los <i>Ri</i>shis que desean descendencia, van al Sur, y ese camino de los Padres es la materia (rayi).
 
 10\. Pero quienes han buscado el Ser mediante la penitencia, la abstinencia, la fe y el conocimiento, alcanzan por el sendero del Norte a Âditya, el sol. Este es el hogar de los espíritus, el inmortal, libre de peligro, el supremo. De allí no regresan, pues es el fin. Así dice el <i>S</i>loka [^875]:
 
@@ -66,7 +66,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 14\. El alimento es Pra<i>g</i>âpati. De ahí proviene la semilla, y de ella nacen estas criaturas.
 
-15\. Por lo tanto, quienes observan esta regla de Pra<i>g</i>âpati (tal como se establece en el § 13), producen una pareja, y a ellos les pertenece este mundo de Brahma [^878]. Pero <span id="p274">[<sup><small>p. 274</small></sup>]</span> aquellos en quienes residen la penitencia, la abstinencia y la verdad,
+15\. Por lo tanto, quienes observan esta regla de Pra<i>g</i>âpati (tal como se establece en el § 13), producen una pareja, y a ellos les pertenece este mundo de Brahma [^878]. Pero <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> aquellos en quienes residen la penitencia, la abstinencia y la verdad,
 
 16. A ellos pertenece el mundo puro de Brahma, es decir, a aquellos en quienes no hay nada torcido, nada falso, ni engaño.
 
@@ -79,7 +79,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 3 [^882]. Entonces Prâ<i>n</i>a (aliento, espíritu, vida), como el mejor, les dijo: No os engañéis, yo solo, dividiéndome en cinco partes, sostengo este cuerpo y lo mantengo.
 
-4\. Estaban incrédulos; así que él, por orgullo, hizo como si saliera de arriba. Entonces, <span id="p275">[<sup><small>p. 275</small></sup>]</span> al salir, todos los demás salieron, y al regresar, todos los demás regresaron. Como las abejas salen cuando su reina [^883] sale, y regresan cuando ella regresa, así lo hicieron el habla, la mente, la vista y el oído; y, satisfechos, alabaron a Prana, diciendo:
+4\. Estaban incrédulos; así que él, por orgullo, hizo como si saliera de arriba. Entonces, <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> al salir, todos los demás salieron, y al regresar, todos los demás regresaron. Como las abejas salen cuando su reina [^883] sale, y regresan cuando ella regresa, así lo hicieron el habla, la mente, la vista y el oído; y, satisfechos, alabaron a Prana, diciendo:
 
 5\. Él es Agni (fuego), brilla como Sûrya (sol), es Par<i>g</i>anya (lluvia), el poderoso (Indra), es Vâyu (viento), es la tierra, es materia, es Dios—es lo que es y lo que no es, y lo que es inmortal.
 
@@ -91,7 +91,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 9\. Oh Prâ<i>n</i>a, tú eres Indra por tu luz, tú eres Rudra, como un protector; tú te mueves en el cielo, tú eres el sol, el señor de las luces.
 
-10\. Cuando derramas la lluvia, entonces, oh Prâ<i>n</i>a, estas criaturas tuyas se deleitan [^886], esperando que haya alimento, tanto como deseen. <span id="p276">[<sup><small>p. 276</small></sup>]</span> 11\. Tú eres un Vrâtya [^887], oh Prâ<i>n</i>a, el único <i>Ri</i>shi [^888], el que todo lo consume, el buen señor. Nosotros somos los que te damos lo que tienes para consumir; tú, oh Mâtari<i>s</i>va [^889], eres nuestro padre.
+10\. Cuando derramas la lluvia, entonces, oh Prâ<i>n</i>a, estas criaturas tuyas se deleitan [^886], esperando que haya alimento, tanto como deseen. <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> 11\. Tú eres un Vrâtya [^887], oh Prâ<i>n</i>a, el único <i>Ri</i>shi [^888], el que todo lo consume, el buen señor. Nosotros somos los que te damos lo que tienes para consumir; tú, oh Mâtari<i>s</i>va [^889], eres nuestro padre.
 
 12\. Haz propicio ese cuerpo tuyo que habita en el habla, en el oído, en el ojo y que impregna la mente; ¡no te vayas!
 
@@ -110,7 +110,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 5\. El Apâna (la respiración descendente) en los órganos de excreción y reproducción; el propio Prâ<i>n</i>a reside en el ojo y el oído, pasando por la boca y la nariz. En el centro se encuentra el Samâna [^893] (la respiración ascendente); transporta el alimento sacrificado por igual (sobre el cuerpo), y de él emanan las siete luces.
 
-6\. El Ser [^894] reside en el corazón. Existen 101 arterias, y en cada una de ellas hay cien (venas menores), y por cada una de estas ramas hay 72.000 [^895]. En estas circula Vyâna (la reflujo). <span id="p278">[<sup><small>p. 278</small></sup>]</span> 7\. A través de una de ellas, Udâna (la espiración) nos conduce hacia arriba, al mundo bueno mediante las buenas obras, al mundo malo mediante las malas obras, y al mundo de los hombres mediante ambos.
+6\. El Ser [^894] reside en el corazón. Existen 101 arterias, y en cada una de ellas hay cien (venas menores), y por cada una de estas ramas hay 72.000 [^895]. En estas circula Vyâna (la reflujo). <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 7\. A través de una de ellas, Udâna (la espiración) nos conduce hacia arriba, al mundo bueno mediante las buenas obras, al mundo malo mediante las malas obras, y al mundo de los hombres mediante ambos.
 
 8\. El sol sale como el Prana externo, pues asiste al Prana en el ojo [^896]. La deidad que existe en la tierra está ahí para apoyar la Apana (respiración descendente) del hombre. El éter entre el sol y la tierra es Samana (respiración ascendente), el aire es Vyana (respiración descendente).
 
@@ -133,7 +133,7 @@ PRAS_Ñ_A-UPANISHAD.
 
 3\. Los fuegos del prâ<i>n</i>as están, por así decirlo [^901], despiertos en esa ciudad (el cuerpo). El Apâna es el fuego Gârhapatya, el Vyâna el fuego Anvâhâryapa<i>k</i>ana; y como se extrae del fuego Gârhapatya, que es fuego para extraer [^902], por lo tanto, el Prâ<i>n</i>a es el fuego Âhavanîya [^903].
 
-Ahora bien, el Apâna se identifica con el fuego Gârhapatya, sin que se dé ninguna razón, salvo después, cuando se dice que el Prâ<i>n</i>a es el fuego Âhavanîya, que se extrae del Gârhapatya, llamado aquí p. 280 pra<i>n</i>ayana, de la misma manera que el prâ<i>n</i>a procede del apâna durante el sueño. El Vyâna se identifica con el Dakshi<i>n</i>gni, el fuego del Sur, porque emana del corazón a través de una abertura a la derecha. <span id="p280">[<sup><small>p. 280</small></sup>]</span> 4\. Porque lleva por igual estas dos oblaciones, la exhalación y la inhalación, el Samâna es él (el sacerdote Hotri) [904]. La mente es el sacrificador, el Udâna es la recompensa del sacrificio, y conduce al sacrificador todos los días (en el sueño profundo) a Brahman.
+Ahora bien, el Apâna se identifica con el fuego Gârhapatya, sin que se dé ninguna razón, salvo después, cuando se dice que el Prâ<i>n</i>a es el fuego Âhavanîya, que se extrae del Gârhapatya, llamado aquí p. 280 pra<i>n</i>ayana, de la misma manera que el prâ<i>n</i>a procede del apâna durante el sueño. El Vyâna se identifica con el Dakshi<i>n</i>gni, el fuego del Sur, porque emana del corazón a través de una abertura a la derecha. <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> 4\. Porque lleva por igual estas dos oblaciones, la exhalación y la inhalación, el Samâna es él (el sacerdote Hotri) [904]. La mente es el sacrificador, el Udâna es la recompensa del sacrificio, y conduce al sacrificador todos los días (en el sueño profundo) a Brahman.
 
 5\. Allí, ese dios [^905] (la mente) disfruta de la grandeza en el sueño. Lo que ha visto, lo [^905] vuelve a ver; lo que ha oído, lo vuelve a oír; lo que ha disfrutado en diferentes países y lugares, lo vuelve a disfrutar; lo que ha visto y no visto, oído y no oído, disfrutado y no disfrutado, lo ve todo; él, siendo todo, lo ve.
 
@@ -154,7 +154,7 @@ Ahora bien, el Apâna se identifica con el fuego Gârhapatya, sin que se dé nin
 
 1\. Entonces <i>S</i>aivya Satyakâma le preguntó: —«Señor, si alguien entre los hombres meditara aquí hasta la muerte en la sílaba Om, ¿qué obtendría con ello?»
 
-2\. Él respondió: «Oh, Satyakâma, la sílaba Om (AUM) es la más alta y también el otro Brahman; <span id="p282">[<sup><small>p. 282</small></sup>]</span> por lo tanto, quien la conoce llega por el mismo medio [^908] a uno de los dos.»
+2\. Él respondió: «Oh, Satyakâma, la sílaba Om (AUM) es la más alta y también el otro Brahman; <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> por lo tanto, quien la conoce llega por el mismo medio [^908] a uno de los dos.»
 
 3\. Si medita en una Mâtrâ (la A) [^909], entonces, iluminado solo por ella, llega rápidamente a la tierra [^910]. Los versos del Rik lo conducen al mundo de los hombres, y, dotado allí de penitencia, abstinencia y fe, disfruta de grandeza.
 
@@ -162,7 +162,7 @@ Ahora bien, el Apâna se identifica con el fuego Gârhapatya, sin que se dé nin
 
 5\. Además, quien medita con esta sílaba AUM de las tres Mâtrâs, en la Persona Suprema, llega a la luz y al sol. Y como una serpiente se libera de su piel, así se libera del mal. Es conducido por los versos Sâman al mundo de Brahma [^913]; y de él, lleno de vida (Hira<i>n</i>yagarbha, el señor del Satya-loka [^914]), aprende [^915] a ver al omnipresente, la Persona Suprema. Y existen estos dos <i>S</i>lokas:
 
-6\. Las tres Mâtrâs (A + U + M), si se emplean por separado y solo unidas entre sí, son mortales [^916]; <span id="p283">[<sup><small>p. 283</small></sup>]</span> pero en actos externos, internos o intermedios, si se realizan bien, el sabio no tiembla [^917].
+6\. Las tres Mâtrâs (A + U + M), si se emplean por separado y solo unidas entre sí, son mortales [^916]; <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> pero en actos externos, internos o intermedios, si se realizan bien, el sabio no tiembla [^917].
 
 7\. A través de los versos Rik llega a este mundo, a través de los versos Yagus al cielo, a través de los versos Sâman a lo que enseñan los poetas; a esto llega por medio del Oṅkâra; el sabio llega a lo que está en reposo, libre de la decadencia, de la muerte, del miedo, —lo Supremo.'
 
@@ -175,7 +175,7 @@ Ahora bien, el Apâna se identifica con el fuego Gârhapatya, sin que se dé nin
 
 3\. Reflexionó: ¿Qué es lo que me impide partir y permanecer en aquel que se queda?
 
-4\. Él creó el Prâ<i>n</i>a (espíritu) [^919]; de <span id="p284">[<sup><small>p. 284</small></sup>]</span> el Prâ<i>n</i>a <i>S</i>raddhâ (fe) [^920], el éter, el aire, la luz, el agua, la tierra, los sentidos, la mente, el alimento; del alimento surgieron el vigor, la penitencia, los himnos, el sacrificio, los mundos, y en los mundos también el nombre [^921].
+4\. Él creó el Prâ<i>n</i>a (espíritu) [^919]; de <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> el Prâ<i>n</i>a <i>S</i>raddhâ (fe) [^920], el éter, el aire, la luz, el agua, la tierra, los sentidos, la mente, el alimento; del alimento surgieron el vigor, la penitencia, los himnos, el sacrificio, los mundos, y en los mundos también el nombre [^921].
 
 5\. Así como estos ríos que fluyen hacia el océano, al llegar a él, se hunden en él, su nombre y forma se rompen, y la gente solo habla del océano, así también estas dieciséis partes del espectador que se dirigen hacia la persona (purusha), al llegar a ella, se hunden en ella, su nombre y forma se rompen, y la gente solo habla de la persona, y esta se vuelve sin partes e inmortal. Sobre esto hay este verso:
 

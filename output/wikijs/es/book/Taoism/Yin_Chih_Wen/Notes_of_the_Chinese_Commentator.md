@@ -80,7 +80,7 @@ Yü-Chün hizo muchas otras obras buenas. Los pobres que no podían costear los 
 
 Mientras tanto, volvió a ver a su abuelo en sueños, quien le dijo: «Originalmente estabas destinado a no tener descendencia y a vivir solo unos pocos años más. Pero gracias a tus actos humanitarios, tus méritos han sido registrados por el Señor Celestial. Tu vida se prolongará y tendrás cinco hijos que serán muy prósperos».
 
-“El camino del Yin y el Yang”, añadió el espíritu, “es como la ley del Karma. La recompensa puede manifestarse en esta vida o en vidas posteriores. La <span id="p29">[<sup><small>p. 29</small></sup>]</span> red celestial es vasta y pende libremente, pero nunca permite que nada se escape. No debes albergar ninguna duda al respecto”.
+“El camino del Yin y el Yang”, añadió el espíritu, “es como la ley del Karma. La recompensa puede manifestarse en esta vida o en vidas posteriores. La <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> red celestial es vasta y pende libremente, pero nunca permite que nada se escape. No debes albergar ninguna duda al respecto”.
 
 Los cinco hijos de Yü-Chün aprobaron con éxito los exámenes literarios y fueron promovidos a altos puestos oficiales.
 
@@ -94,7 +94,7 @@ Sung Chiao y Sung Ch'i (siglo XI d. C.) eran hermanos. Cuando ambos estudiaban e
 
 Diez años después, el anciano Sung se encontró de nuevo con el monje en el camino. El monje, asombrado, exclamó: «Tu suerte ha cambiado de repente. Pareces haber salvado millones de vidas». Sung dijo, riendo: «¿Cómo podría yo, un pobre seguidor de Confucio, lograr semejante hazaña?». «Sí», respondió el monje, «Hasta las criaturas más miserables disfrutan de la vida, ¿sabes?». Reflexionando un momento, Sung dijo: «Recuerdo que hace unos diez días encontré un hormiguero bajo mi porche en peligro de inundación. Tomé unas cañas de bambú e hice un puente sobre el agua para que las pobres hormigas lo cruzaran. ¿Será este?». «Exactamente», respondió el monje, «el joven Sung ahora encabeza la lista, pero tú no serás el segundo».
 
-Cuando se anunció el orden de los graduados literarios, <span id="p30">[<sup><small>p. 30</small></sup>]</span> el joven Sung fue el primero y el mayor Sung el segundo. Pero la emperatriz Chang Hsien decretó que el hermano menor no debía preceder al mayor, y Sung Chiao fue colocado al frente de la lista.
+Cuando se anunció el orden de los graduados literarios, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> el joven Sung fue el primero y el mayor Sung el segundo. Pero la emperatriz Chang Hsien decretó que el hermano menor no debía preceder al mayor, y Sung Chiao fue colocado al frente de la lista.
 
 <a name="xref_CC6"></a>
 
@@ -164,7 +164,7 @@ Anhelando que todos sean inducidos a la bondad, el Señor Superior los invita a 
 
 P'an Ch'ung-Mou dice:
 
-Lo que más debemos evitar en nuestra vida es la vacilación y la frivolidad (wang nien); y lo más excelente es un corazón reverente. Por lo tanto, los confucianos nos esforzamos por preservar la sinceridad de corazón y consideramos la reverencia como algo esencial. Es innecesario <span id="p35">[<sup><small>p. 35</small></sup>]</span> decir que la sinceridad y la reverencia nos hacen compañeros del cielo y la tierra, de los dioses y los espíritus.
+Lo que más debemos evitar en nuestra vida es la vacilación y la frivolidad (wang nien); y lo más excelente es un corazón reverente. Por lo tanto, los confucianos nos esforzamos por preservar la sinceridad de corazón y consideramos la reverencia como algo esencial. Es innecesario <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> decir que la sinceridad y la reverencia nos hacen compañeros del cielo y la tierra, de los dioses y los espíritus.
 
 Sin embargo, existe otra clase de personas que adoptan el budismo como guía. Se inclinan ante el Buda y recitan sus sutras, siempre empeñados en preservar la reverencia y el respeto. Nunca descuidan la vigilancia sobre el corazón, que gradualmente se volverá puro y brillante, libre de malos pensamientos y dispuesto a hacer el bien. Esta iluminación se llama su tierra más feliz. [^12] Lo que es necesario, entonces, tanto para los budistas como para los confucianos es evitar la vacilación y la frivolidad, que los volverán poco fiables. Mantengan el corazón siempre controlado por la reverencia y el respeto. De lo contrario, ¿de qué serviría la recitación de sutras o los discursos de Confucio?
 

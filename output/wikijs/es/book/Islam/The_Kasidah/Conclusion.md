@@ -36,13 +36,13 @@ Aquí el Hâjî termina su estudio práctico de la humanidad. La imagen del Dest
 > 
 > &nbsp;&nbsp;&nbsp;&nbsp;(Ensayo IV—398.)
 
-El arrepentimiento, es decir, el arrepentimiento, era uno de los cuarenta y dos pecados capitales de los antiguos egipcios. «No consumirás tu corazón», dice el Ritual de los Muertos, la justificación negativa del alma o fantasma (Lepsius «Alteste des Todtenbuchs»). Hemos tomado prestado el examen competitivo de los chinos; y, en estos días mórbidos de débil introspección y retrospección, podríamos aprender sabiduría de los viejos y robustos khemitas. Cuando canta «Abjura del por qué y busca el cómo», se refiere a la antigua diferencia escolástica de la <span id="p127">[<sup><small>p. 127</small></sup>]</span> _Demonstratio propter quid_ (¿por qué es una cosa?), en oposición a _Demonstratio quia_ (es decir, que una cosa es). El «gran Hombre» terminará por volverse inmortal, como dice Shakespeare en su noble soneto:
+El arrepentimiento, es decir, el arrepentimiento, era uno de los cuarenta y dos pecados capitales de los antiguos egipcios. «No consumirás tu corazón», dice el Ritual de los Muertos, la justificación negativa del alma o fantasma (Lepsius «Alteste des Todtenbuchs»). Hemos tomado prestado el examen competitivo de los chinos; y, en estos días mórbidos de débil introspección y retrospección, podríamos aprender sabiduría de los viejos y robustos khemitas. Cuando canta «Abjura del por qué y busca el cómo», se refiere a la antigua diferencia escolástica de la <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> _Demonstratio propter quid_ (¿por qué es una cosa?), en oposición a _Demonstratio quia_ (es decir, que una cosa es). El «gran Hombre» terminará por volverse inmortal, como dice Shakespeare en su noble soneto:
 
 > Y la Muerte una vez muerta, ¡ya no hay más muerte!
 
 Al igual que los grandes paganos, el Hâjî sostiene que el hombre nació bueno, mientras que el cristiano, «atormentado por las cosas divinas», se aferra a la reconfortante doctrina de la pecaminosidad innata. De ahí el principio universal de que el hombre debe hacer el bien para ganar con ello aquí o en el más allá; el «egoísmo ilustrado», que dice: Actúa bien y obtendrás interés compuesto en un estado futuro. La alusión a la «palabra teísta» aparentemente significa que los devotos de una Deidad personal deben creer en el conocimiento previo absoluto del Omnisciente en los particulares como en los generales. El imperio de la ley emancipa al hombre; y sus excepciones son los huecos que deja su ignorancia. El lamento por la flor caída, etc., nos recuerda el Pulambal (Lamentaciones) del escritor antibrahmínico, «Pathira-Giri yâr». La alusión a Mâyâ es de Dâs Kabîr:
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 > &nbsp;Mâyâ mare, na man mare, mar mar gayâ, sarîr.
 > La ilusión muere, la mente no muere aunque muerta y desaparecida la carne.

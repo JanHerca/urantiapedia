@@ -71,7 +71,7 @@ A. Unos seis siglos.
 
 257\. P. ¿Qué ayuda brindaron los reyes?
 
-A. Además de las clases bajas, grandes reyes, Râjâs <span id="p85">[<sup><small>p. 85</small></sup>]</span> y Mahârâjas se convirtieron y dieron su influencia para difundir la religión.
+A. Además de las clases bajas, grandes reyes, Râjâs <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> y Mahârâjas se convirtieron y dieron su influencia para difundir la religión.
 
 288\. P. ¿Qué pasa con los peregrinos?
 
@@ -133,7 +133,7 @@ A. Muchas otras bhikkhunîs. Ella, a su debido tiempo, admitió a la Reina y a m
 
 302\. P. _¿Podemos rastrear los efectos del trabajo en el extranjero de los misioneros del emperador Ashoka?_
 
-A. Su hijo y su hija introdujeron el budismo en Ceilán: sus monjes lo dieron a todo el norte de la India, a catorce naciones indias fuera de sus fronteras y a cinco reyes griegos, sus aliados, <span id="p89">[<sup><small>p. 89</small></sup>]</span> con quienes hizo tratados para admitir a sus predicadores religiosos.
+A. Su hijo y su hija introdujeron el budismo en Ceilán: sus monjes lo dieron a todo el norte de la India, a catorce naciones indias fuera de sus fronteras y a cinco reyes griegos, sus aliados, <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> con quienes hizo tratados para admitir a sus predicadores religiosos.
 
 303\. P. ¿Puedes nombrarlos?
 

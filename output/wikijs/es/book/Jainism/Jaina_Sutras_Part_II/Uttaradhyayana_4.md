@@ -52,7 +52,7 @@ Al dominar su voluntad, un monje alcanza la liberación, como un caballo bien do
 
 «Si no obtiene (la victoria sobre su voluntad) pronto, la obtendrá después»; tal razonamiento [^93] presupone la eternidad de la vida humana. Pero tal hombre desespera cuando su vida llega a su fin y se acerca la disolución de su cuerpo. (9)
 
-No se puede llegar rápidamente al discernimiento; por lo tanto, uno debe esforzarse, abstenerse de los placeres, comprender el mundo, ser imparcial como <span id="p20">[<sup><small>p. 20</small></sup>]</span> un sabio y cuidarse: (así) nunca ser descuidado. (10)
+No se puede llegar rápidamente al discernimiento; por lo tanto, uno debe esforzarse, abstenerse de los placeres, comprender el mundo, ser imparcial como <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> un sabio y cuidarse: (así) nunca ser descuidado. (10)
 
 Un <i>Srama<i>n</i>a que una y otra vez suprime los efectos del engaño y se controla a sí mismo, será afectado duramente por las cosas externas; pero un monje no debe odiarlas en su mente. (11)
 

@@ -72,7 +72,7 @@ No en todo mar hay perlas, ni en toda rama brotan flores, ni en él canta el rui
 
 Por tanto, mientras el ruiseñor de la plantación espiritual no haya retornado al Jardín de Rosas Divino, y las Luces del Alba Espiritual no hayan retornado al Sol de la Realidad, haced un esfuerzo.
 
-Tal vez en esta tierra mortal puedas inhalar una fragancia del Jardín de Rosas Inmortal, <span id="p80">[<sup><small>p. 80</small></sup>]</span> y descansar para siempre bajo la sombra de la gente de este valle (ciudad).
+Tal vez en esta tierra mortal puedas inhalar una fragancia del Jardín de Rosas Inmortal, <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> y descansar para siempre bajo la sombra de la gente de este valle (ciudad).
 
 Cuando hayas alcanzado este alto y exaltado grado y hayas alcanzado esta gran estación, entonces verás al Amigo y olvidarás a los extraños (es decir, todo lo demás excepto Él).
 
@@ -92,7 +92,7 @@ En este Valle hasta los velos de la Luz se rasgan y desaparecen.
 
 "El Verdadero se ha manifestado, como el sol resplandeciente. ¡Qué lástima que haya venido a la ciudad de los ciegos!"
 
-En este valle el viajero transita por las etapas de la 'Unidad de Existencia' y de la Apariencia, y alcanzará una Unidad que está santificada por encima de ambas estaciones. " <span id="p81">[<sup><small>p. 81</small></sup>]</span> \[”La doctrina mística de la 'Unidad de Existencia' se resume a partir de esta fórmula: '_Sólo Dios existe; Él está en todas las cosas, y todas las cosas están en Él_.'"—Nota del traductor.\]
+En este valle el viajero transita por las etapas de la 'Unidad de Existencia' y de la Apariencia, y alcanzará una Unidad que está santificada por encima de ambas estaciones. " <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> \[”La doctrina mística de la 'Unidad de Existencia' se resume a partir de esta fórmula: '_Sólo Dios existe; Él está en todas las cosas, y todas las cosas están en Él_.'"—Nota del traductor.\]
 
 “(El estado de) Éxtasis puede penetrar este dicho, pero no la controversia ni el conflicto.
 
@@ -102,7 +102,7 @@ Quien haya elegido morada en esta Reunión o haya descubierto una brisa de este 
 
 Aunque estos viajes no tienen una terminación visible en el mundo del tiempo, si la Asistencia Invisible concede a un viajero devoto (lit. alguien separado de todo lo demás excepto Dios), y si el Guardián del Mandato (es decir, la manifestación de Dios) lo ayuda, atravesará estas siete etapas en sólo siete pasos; es más, en siete respiraciones; es más, incluso en una respiración (un momento) si Dios quiere o desea. "Esto es por Su generosidad para quien Él quiere".
 
-Aquellos que se elevan en el cielo de la Unidad, y que han alcanzado el Mar de la Abstracción, han considerado esta estación, que es la estación en esta ciudad de la Inmortalidad en Dios, como el destino último del Arif—(aquel que es íntimo con el <span id="p82">[<sup><small>p. 82</small></sup>]</span> pensamiento místico más elevado)—y el hogar último de los Amantes.
+Aquellos que se elevan en el cielo de la Unidad, y que han alcanzado el Mar de la Abstracción, han considerado esta estación, que es la estación en esta ciudad de la Inmortalidad en Dios, como el destino último del Arif—(aquel que es íntimo con el <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> pensamiento místico más elevado)—y el hogar último de los Amantes.
 
 Pero, para esta humilde (unidad del Mar de Significaciones), esta estación es sólo la primera muralla del corazón; es decir, la primera llegada del hombre a la Ciudad del Corazón.
 
@@ -141,7 +141,7 @@ II. Tari-Kat, es decir, el viaje en busca de la Verdad; encontrando al Hombre Pe
 
 III. Hakirat, es decir, la Verdad; para alcanzarla, según los sufíes, depende de pasar por las dos etapas precedentes.
 
-Aquí Bahá'u'lláh enseña que, contrariamente a lo que algunos sufíes enseñan o creen, las leyes de la religión <span id="p84">[<sup><small>p. 84</small></sup>]</span> deben ser la guía incluso cuando el hombre haya alcanzado la Verdad; pues la Verdad misma está encarnada en las leyes de la religión. Abandonar las leyes en cualquier etapa del desarrollo sería un antinomianismo absoluto y, por lo tanto, un grave error.
+Aquí Bahá'u'lláh enseña que, contrariamente a lo que algunos sufíes enseñan o creen, las leyes de la religión <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> deben ser la guía incluso cuando el hombre haya alcanzado la Verdad; pues la Verdad misma está encarnada en las leyes de la religión. Abandonar las leyes en cualquier etapa del desarrollo sería un antinomianismo absoluto y, por lo tanto, un grave error.
 
 (Esta nota se refiere al texto anterior, relativo al error de la desviación del mandamiento.)
 

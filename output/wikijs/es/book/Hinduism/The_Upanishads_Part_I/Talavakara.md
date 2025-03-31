@@ -48,7 +48,7 @@ TALAVAKÂRA O KENA-UPANISHAD.
 
 4\. 'Es diferente de lo conocido, también está por encima de lo desconocido, así lo hemos oído de aquellos de la antigüedad, quienes nos enseñaron esto [^366].
 
-5\. 'Lo que no se expresa mediante el habla y <span id="p148">[<sup><small>p. 148</small></sup>]</span> mediante lo cual se expresa el habla, eso solo se conoce como Brahman, no aquello que la gente aquí adora.
+5\. 'Lo que no se expresa mediante el habla y <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> mediante lo cual se expresa el habla, eso solo se conoce como Brahman, no aquello que la gente aquí adora.
 
 6\. 'Aquello que no piensa mediante la mente, y por lo cual, dicen, la mente es pensamiento [^367], eso solo lo conocemos como Brahman, no aquello que la gente aquí adora.
 
@@ -72,7 +72,7 @@ TALAVAKÂRA O KENA-UPANISHAD.
 
 ## TERCER KHA<i>N</i><i>D</i>A [^370].
 
-1\. Brahman obtuvo la victoria para los Devas. Los Devas se alegraron con la victoria de Brahman, <span id="p150">[<sup><small>p. 150</small></sup>]</span> y pensaron: «Esta victoria es solo nuestra, esta grandeza es solo nuestra».
+1\. Brahman obtuvo la victoria para los Devas. Los Devas se alegraron con la victoria de Brahman, <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> y pensaron: «Esta victoria es solo nuestra, esta grandeza es solo nuestra».
 
 2\. Brahman percibió esto y se les apareció. Pero ellos, sin saberlo, dijeron: «¿Qué espíritu (yaksha o yakshya) es este?».
 
@@ -94,7 +94,7 @@ TALAVAKÂRA O KENA-UPANISHAD.
 
 11\. Entonces le dijeron a Indra: «Oh, Maghavan, descubre qué espíritu es este». Se dirigió hacia él, pero desapareció ante él.
 
-12\. Entonces, en el mismo espacio (éter), se acercó <span id="p151">[<sup><small>p. 151</small></sup>]</span> a una mujer muy adornada: era Umâ, la hija de Himavat [^371]. Le preguntó: «¿Quién es ese espíritu?»
+12\. Entonces, en el mismo espacio (éter), se acercó <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> a una mujer muy adornada: era Umâ, la hija de Himavat [^371]. Le preguntó: «¿Quién es ese espíritu?»
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 
@@ -104,7 +104,7 @@ TALAVAKÂRA O KENA-UPANISHAD.
 
 3\. Y por eso Indra está, por así decirlo, por encima de los demás dioses, pues fue quien más lo tocó y el primero que lo conoció.
 
-4\. Esta es la enseñanza de Brahman respecto a los dioses (mitológicos): Es aquello que ahora <span id="p152">[<sup><small>p. 152</small></sup>]</span> resplandece como un rayo y luego se desvanece.
+4\. Esta es la enseñanza de Brahman respecto a los dioses (mitológicos): Es aquello que ahora <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> resplandece como un rayo y luego se desvanece.
 
 5\. Y ésta es la enseñanza de Brahman respecto al cuerpo (psicológico): Es aquello que parece moverse como mente, y por medio de ello la imaginación recuerda una y otra vez [^373].
 

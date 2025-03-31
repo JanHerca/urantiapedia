@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. Que inicie a un Brâhma<i>n</i>a en el octavo año después de la concepción,
 
-3\. Un Râ<i>g</i>anya en el undécimo año, un Vai<i>g</i>ya en el duodécimo año después de la concepción. <span id="p271">[<sup><small>p. 271</small></sup>]</span>
+3\. Un Râ<i>g</i>anya en el undécimo año, un Vai<i>g</i>ya en el duodécimo año después de la concepción. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 4\. Primavera, verano, otoño: éstas son las estaciones (aptas) (para el Upanayana), correspondientes al orden de las castas.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Hacia el sur, su madre o un Brahma<i>k</i>ârin esparce granos de cebada sobre un terrón de estiércol de toro; con este (estiércol) recoge el cabello (cortado) y lo deposita con el siguiente (verso; M. II, 1, 8) en la raíz de un árbol Udumbara o en una mata de hierba Darbha.
 
-9\. [^757] Después de que (el niño) se ha bañado, y (las ceremonias) desde poner (la leña) en (el fuego) hasta las oblaciones de Â<i>s</i>yabhâga (se han realizado), le hace poner un trozo de leña de Palâ<i>s</i>a en el <span id="p272">[<sup><small>p. 272</small></sup>]</span> fuego con el siguiente (verso; M. II, 2, 1), y le hace pisar con su pie derecho una piedra al norte del fuego, con (el verso), 'Pisar' (M. II, 2, 2).
+9\. [^757] Después de que (el niño) se ha bañado, y (las ceremonias) desde poner (la leña) en (el fuego) hasta las oblaciones de Â<i>s</i>yabhâga (se han realizado), le hace poner un trozo de leña de Palâ<i>s</i>a en el <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> fuego con el siguiente (verso; M. II, 2, 1), y le hace pisar con su pie derecho una piedra al norte del fuego, con (el verso), 'Pisar' (M. II, 2, 2).
 
 10. Tras recitar los dos versículos siguientes (M. II. 2, 3. 4) sobre una prenda hilada y tejida en un día, y tras haberle hecho ponérsela con los tres versículos siguientes (M. II. 2, 5-7), recita sobre ella, después de ponérsela, el siguiente versículo (M. II, 2, 8).
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## PATALA 4, SECCIÓN 11.
 
-1\. El niño dice: «He venido para ser estudiante» (II, 3, 26). <span id="p273">[<sup><small>p. 273</small></sup>]</span>
+1\. El niño dice: «He venido para ser estudiante» (II, 3, 26). <span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 2\. El otro (es decir, el maestro) tiene que preguntar; el niño tiene que responder (II, 3, 27-30).
 
@@ -88,7 +88,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. De la misma manera (el primer y el segundo Vyâh<i>ri</i>ti al principio o al final) de los hemistiquios; el último (Vyâh<i>ri</i>ti, cuando repite) todo el verso.
 
-13\. Con el siguiente Mantra (M. II, 4, 14), el niño se toca el labio superior; <span id="p274">[<sup><small>p. 274</small></sup>]</span>
+13\. Con el siguiente Mantra (M. II, 4, 14), el niño se toca el labio superior; <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 14\. Con el siguiente (II, 4, 15) ambas orejas;
 
@@ -112,7 +112,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 24\. Recoger combustible regularmente del bosque.
 
-25\. Con la siguiente (fórmula —M. II, 6, 14— el maestro) instruye (al estudiante en sus deberes). <span id="p275">[<sup><small>p. 275</small></sup>]</span>
+25\. Con la siguiente (fórmula —M. II, 6, 14— el maestro) instruye (al estudiante en sus deberes). <span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 26\. [^762] Al cuarto día (después del Upanayana, el maestro) toma la prenda (del estudiante) para sí mismo con el siguiente (verso; M. II, 6, 15), después de haberle hecho ponerse otra (prenda).
 

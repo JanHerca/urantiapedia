@@ -48,13 +48,13 @@ PRIMER MU<i>N</i><i>D</i>TAMBIÉN CONOCIDO COMO.
 
 4. Le dijo: «Hay que conocer dos tipos de conocimiento, como nos dicen quienes conocen a Brahman: el conocimiento superior y el inferior».
 
-5\. 9 El conocimiento inferior es el <i>Ri</i>g-veda, el Ya<i>g</i>ur-veda, el Sâma-veda, el Atharva-veda, el <i>S</i>ikshâ (fonética), el Kalpa (ceremonial), el Vyâkara<i>n</i>a (gramática), el Nirukta (etimología), el <i>Kh</i>andas (métrica), el <i>G</i>yotisha (astronomía) [^155]; <span id="p28">[<sup><small>p. 28</small></sup>]</span> pero el conocimiento superior es aquel por el cual se comprende al Indestructible (Brahman).'
+5\. 9 El conocimiento inferior es el <i>Ri</i>g-veda, el Ya<i>g</i>ur-veda, el Sâma-veda, el Atharva-veda, el <i>S</i>ikshâ (fonética), el Kalpa (ceremonial), el Vyâkara<i>n</i>a (gramática), el Nirukta (etimología), el <i>Kh</i>andas (métrica), el <i>G</i>yotisha (astronomía) [^155]; <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> pero el conocimiento superior es aquel por el cual se comprende al Indestructible (Brahman).'
 
 6\. 'Aquello que no se puede ver ni captar, que no tiene familia ni casta [^156], ni ojos ni oídos, ni manos ni pies, lo eterno, lo omnipresente (que todo lo penetra), lo infinitesimal, lo imperecedero, eso es lo que los sabios consideran como la fuente de todos los seres.'
 
 7\. 'Así como la araña lanza y retuerce su hilo, así como las plantas crecen en la tierra, así como de cada hombre brotan cabellos en la cabeza y en el cuerpo, así todo surge aquí del Indestructible.'
 
-8\. «El Brahman se expande mediante la penitencia [^157]; de ahí se produce la materia (alimento); de la materia, el aliento [^158], la mente, la verdad [^159], los siete mundos, y de las obras (realizadas por los hombres en los mundos), lo inmortal (los efectos eternos, las recompensas y los castigos de las obras).» <span id="p29">[<sup><small>p. 29</small></sup>]</span> 9\. «De aquel que todo lo percibe y todo lo sabe, cuya penitencia (penitencia) consiste en conocimiento, de él (el Brahman supremo) nace ese Brahman [^160], el nombre, la forma [^161] y la materia (alimento).»
+8\. «El Brahman se expande mediante la penitencia [^157]; de ahí se produce la materia (alimento); de la materia, el aliento [^158], la mente, la verdad [^159], los siete mundos, y de las obras (realizadas por los hombres en los mundos), lo inmortal (los efectos eternos, las recompensas y los castigos de las obras).» <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 9\. «De aquel que todo lo percibe y todo lo sabe, cuya penitencia (penitencia) consiste en conocimiento, de él (el Brahman supremo) nace ese Brahman [^160], el nombre, la forma [^161] y la materia (alimento).»
 
 
 <span id="p30">[<sup><small>pág. 30</small></sup>]</span>
@@ -65,7 +65,7 @@ PRIMER MU<i>N</i><i>D</i>TAMBIÉN CONOCIDO COMO.
 
 2\. Cuando el fuego esté encendido y la llama titile, que cada uno ofrezca sus ofrendas entre las dos porciones de mantequilla derretida, como ofrenda con fe.
 
-3\. Si el sacrificio de Agnihotra de un hombre [^166] no es seguido <span id="p31">[<sup><small>p. 31</small></sup>]</span> por los sacrificios de luna nueva y luna llena, por los sacrificios de los cuatro meses y por el sacrificio de la cosecha, si no hay invitados, no se ofrece en absoluto, o sin la ceremonia vaisvadeva, o no se ofrece según la regla, entonces destruye sus siete mundos [^167].
+3\. Si el sacrificio de Agnihotra de un hombre [^166] no es seguido <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> por los sacrificios de luna nueva y luna llena, por los sacrificios de los cuatro meses y por el sacrificio de la cosecha, si no hay invitados, no se ofrece en absoluto, o sin la ceremonia vaisvadeva, o no se ofrece según la regla, entonces destruye sus siete mundos [^167].
 
 4\. Kâlî (negro), Karâlî (terrible), Mano<i>g</i>avâ (rápido como el pensamiento), Sulohitâ (muy rojo), Sudhûmravar<i>n</i>â (púrpura), Sphuliṅginî (brillante), y el brillante Vi<i>s</i>varûpî [^168] (que tiene todas las formas), todos estos jugando son llamados las siete lenguas (de fuego).
 
@@ -73,7 +73,7 @@ PRIMER MU<i>N</i><i>D</i>TAMBIÉN CONOCIDO COMO.
 
 6\. ¡Ven aquí, ven aquí!, le dicen las brillantes ofrendas, y llevan al sacrificador a los rayos del sol, mientras pronuncian palabras agradables y lo alaban, diciendo: «Este es tu sagrado mundo de Brahma (Svarga), obtenido por tus buenas obras».
 
-7\. Pero frágiles, en verdad, son esas barcas, los sacrificios, los dieciocho, en los que se ha narrado este ceremonial inferior [^169]. Los necios que lo alaban como el bien supremo, están sujetos una y otra vez a la vejez y la muerte. <span id="p32">[<sup><small>p. 32</small></sup>]</span> 8\. Los necios que habitan en la oscuridad, sabios en su propia vanidad y envanecidos con vano conocimiento, dan vueltas y vueltas, tambaleándose de un lado a otro, como ciegos guiados por ciegos [^170].
+7\. Pero frágiles, en verdad, son esas barcas, los sacrificios, los dieciocho, en los que se ha narrado este ceremonial inferior [^169]. Los necios que lo alaban como el bien supremo, están sujetos una y otra vez a la vejez y la muerte. <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> 8\. Los necios que habitan en la oscuridad, sabios en su propia vanidad y envanecidos con vano conocimiento, dan vueltas y vueltas, tambaleándose de un lado a otro, como ciegos guiados por ciegos [^170].
 
 9\. Los niños, tras vivir mucho tiempo en la ignorancia, se consideran felices. Porque quienes dependen de sus buenas obras son, debido a sus pasiones, imprudentes, caen y se vuelven miserables cuando su vida (en el mundo que habían ganado con sus buenas obras) termina.
 
@@ -81,7 +81,7 @@ PRIMER MU<i>N</i><i>D</i>TAMBIÉN CONOCIDO COMO.
 
 11\. Pero aquellos [^171] que practican la penitencia y la fe en el bosque, tranquilos, sabios y viviendo de limosnas, parten libres de pasión a través del sol hacia donde habita esa Persona inmortal cuya naturaleza es imperecedera [^172].
 
-12\. Que un brahmán, tras haber examinado todos estos mundos que se obtienen mediante las obras, se libere de todos los deseos. Nada que sea eterno (no creado) puede obtenerse mediante lo que no es eterno (creado). Para comprender esto, que tome <span id="p33">[<sup><small>p. 33</small></sup>]</span> leña en su mano y se acerque a un Gurú erudito que mora completamente en Brahman.
+12\. Que un brahmán, tras haber examinado todos estos mundos que se obtienen mediante las obras, se libere de todos los deseos. Nada que sea eterno (no creado) puede obtenerse mediante lo que no es eterno (creado). Para comprender esto, que tome <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> leña en su mano y se acerque a un Gurú erudito que mora completamente en Brahman.
 
 13. A aquel discípulo que se acercó a él respetuosamente, cuyos pensamientos no estaban perturbados por ningún deseo y que había alcanzado la paz perfecta, el sabio maestro le comunicó con verdad el conocimiento de Brahman mediante el cual se conoce a la Persona eterna y verdadera.
 

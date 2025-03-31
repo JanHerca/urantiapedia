@@ -78,7 +78,7 @@ The rule for the sacrifice are the Mantras and Brâhma<i>n</i>as.
 
 ## SÛTRA XXXI.
 
-The name Veda belongs both to the Mantras and Brâhma<i>n</i>as. <span id="p324">[<sup><small>p. 324</small></sup>]</span>
+The name Veda belongs both to the Mantras and Brâhma<i>n</i>as. <span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 <span id="an32"></span>
 
@@ -114,7 +114,7 @@ But passages which are not handed down, are not to be classed as Mantras, as, fo
 
 **Commentary.**
 
-The reason why such passages are not to be treated as Mantras is that they should not be subject to some of the preceding rules, as, for instance, the murmuring, enjoined in Sûtra IX. Those passages naturally vary in each sacrifice. With regard to the names a distinction is made <span id="p325">[<sup><small>p. 325</small></sup>]</span> between the gârhyam nâma, the domestic name of a person, such as Ya<i>g</i><i>g</i>a<i>g</i>arman, and the astrological name, such as Rauhi<i>g</i>a, derived from the star Rohi<i>g</i>î.
+The reason why such passages are not to be treated as Mantras is that they should not be subject to some of the preceding rules, as, for instance, the murmuring, enjoined in Sûtra IX. Those passages naturally vary in each sacrifice. With regard to the names a distinction is made <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> between the gârhyam nâma, the domestic name of a person, such as Ya<i>g</i><i>g</i>a<i>g</i>arman, and the astrological name, such as Rauhi<i>g</i>a, derived from the star Rohi<i>g</i>î.
 
 <span id="an36"></span>
 
@@ -156,7 +156,7 @@ If it is said that the priest cuts the plants with fourteen verses, that means t
 
 ## SÛTRA XXXIX.
 
-This applies also to sacrificial acts which have a number and are to be carried out by separate (repeated) acts. <span id="p326">[<sup><small>p. 326</small></sup>]</span>
+This applies also to sacrificial acts which have a number and are to be carried out by separate (repeated) acts. <span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 <span id="an39c"></span>
 
@@ -198,7 +198,7 @@ It is the same also with regard to acts which do not produce an immediate effect
 
 **Commentary.**
 
-The commentators distinguish between acts which <span id="p327">[<sup><small>p. 327</small></sup>]</span> produce a visible effect, such as pounding or sprinkling, and acts which do not, such as addressing, approaching, looking. The latter are called asa<i>m</i>nipâtin. Thus when the stones used for the preparation of Soma are addressed, the hymn which is used for addressing them, is not repeated for each single stone, the same as in Sûtra XL. Sûtras XLI and XLII are sometimes joined.
+The commentators distinguish between acts which <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> produce a visible effect, such as pounding or sprinkling, and acts which do not, such as addressing, approaching, looking. The latter are called asa<i>m</i>nipâtin. Thus when the stones used for the preparation of Soma are addressed, the hymn which is used for addressing them, is not repeated for each single stone, the same as in Sûtra XL. Sûtras XLI and XLII are sometimes joined.
 
 <span id="an43"></span>
 
@@ -230,7 +230,7 @@ Thus we read, ‘He takes the Abhri, the hoe, with four Mantras.’
 
 ## SÛTRA XLV.
 
-One ought to let the beginnings of a sacrificial act coincide with the end of the Mantras. <span id="p328">[<sup><small>p. 328</small></sup>]</span>
+One ought to let the beginnings of a sacrificial act coincide with the end of the Mantras. <span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 <span id="an45c"></span>
 
@@ -272,7 +272,7 @@ In the case of Hotrâ and Yâ<i>g</i>amâna-mantras, an aggregation takes place.
 
 **Commentary.**
 
-Hotrâs are mantras recited by the Hot_ri_\-priest. Yâ<i>g</i>amânâs are mantras recited by the sacrificer himself. They are hymns which accompany, but do not enjoin any sacrificial act. <span id="p329">[<sup><small>p. 329</small></sup>]</span>
+Hotrâs are mantras recited by the Hot_ri_\-priest. Yâ<i>g</i>amânâs are mantras recited by the sacrificer himself. They are hymns which accompany, but do not enjoin any sacrificial act. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 <span id="an50"></span>
 

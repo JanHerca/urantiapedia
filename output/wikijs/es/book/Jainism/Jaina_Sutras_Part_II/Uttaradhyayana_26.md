@@ -44,7 +44,7 @@ Español El âva<i>s</i>yikâ es requerido cuando uno sale de una habitación (o
 
 Después de la salida del sol durante el primer cuarto (del primer Paurushî) [^361] debe inspeccionar (y limpiar) sus cosas y presentar sus respetos al superior. (8)
 
-Luego, con las manos juntas, debería preguntarle: <span id="p143">[<sup><small>p. 143</small></sup>]</span> "¿Qué hago ahora? Quiero ocuparme, señor, en algún trabajo o en estudiar." (9)
+Luego, con las manos juntas, debería preguntarle: <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> "¿Qué hago ahora? Quiero ocuparme, señor, en algún trabajo o en estudiar." (9)
 
 Si se le ordena hacer algún trabajo, debe hacerlo sin cansarse; si se le ordena estudiar, debe hacerlo sin dejarse afectar por ningún dolor. (10)
 
@@ -96,7 +96,7 @@ Quien es cuidadoso en la inspección, protege a los seis tipos de seres vivos, a
 
 Quien es descuidado en la inspección, daña a las seis clases de seres vivos (recién enumerados) [377]. (31)
 
-En el tercer Paurushî debe mendigar comida y bebida (puede hacerlo) por cualquiera de las siguientes seis razones: (32) <span id="p147">[<sup><small>p. 147</small></sup>]</span> 1\. Para prevenir una enfermedad; 2. Para servir al Gurú; 3. Para poder cumplir con las reglas sobre caminar [^378]; 4. Para poder cumplir con las reglas de autocontrol [^379]; 5. Para salvar la vida; 6. Para poder meditar en la Ley. (33)
+En el tercer Paurushî debe mendigar comida y bebida (puede hacerlo) por cualquiera de las siguientes seis razones: (32) <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 1\. Para prevenir una enfermedad; 2. Para servir al Gurú; 3. Para poder cumplir con las reglas sobre caminar [^378]; 4. Para poder cumplir con las reglas de autocontrol [^379]; 5. Para salvar la vida; 6. Para poder meditar en la Ley. (33)
 
 Un Nirgrantha o Nirgranthî celoso puede omitir la mendicidad de alimentos por las siguientes seis razones, cuando esto no se considerará una transgresión de sus deberes: (34)
 
@@ -126,7 +126,7 @@ En el cuarto Paurushî debe esperar el momento adecuado y luego comenzar a estud
 
 En el último cuarto del cuarto Paurushî debe rendir homenaje al Gurú y, al realizar Kâla-pratikrama<i>n</i>a [^385], debe esperar el momento adecuado. (46)
 
-Cuando llega el momento del Kâyôtsarga, él <span id="p149">[<sup><small>p. 149</small></sup>]</span> debe atravesarlo, sin dejarse afectar por ningún dolor. (47)
+Cuando llega el momento del Kâyôtsarga, él <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> debe atravesarlo, sin dejarse afectar por ningún dolor. (47)
 
 Luego deberá, en el debido orden, reflexionar sobre todas las transgresiones que ha cometido durante la noche con respecto al conocimiento, la fe y la conducta. (48)
 

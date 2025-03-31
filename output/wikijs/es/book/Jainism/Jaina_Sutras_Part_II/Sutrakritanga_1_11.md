@@ -42,7 +42,7 @@ UNDÉCIMA CONFERENCIA, LLAMADA EL CAMINO.
 
 Si alguien, un dios o un hombre, te pregunta al respecto, dile la verdad sobre el camino. ¡Escúchame! (4)
 
-El dificilísimo camino explicado por el Kâ<i>s</i>yapa, que algunos hombres de esta tierra <span id="p311">[<sup><small>p. 311</small></sup>]</span> han recorrido anteriormente. (El Sa<i>m</i>sâra) como comerciantes por el océano [^913], lo recorren (ahora mismo) y lo recorrerán en el futuro; (este camino que) he aprendido, lo explicaré a su debido tiempo; ¡hombres, escúchenme! (5, 6)
+El dificilísimo camino explicado por el Kâ<i>s</i>yapa, que algunos hombres de esta tierra <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> han recorrido anteriormente. (El Sa<i>m</i>sâra) como comerciantes por el océano [^913], lo recorren (ahora mismo) y lo recorrerán en el futuro; (este camino que) he aprendido, lo explicaré a su debido tiempo; ¡hombres, escúchenme! (5, 6)
 
 Las vidas terrestres son seres individuales, como lo son también las vidas del agua, las vidas del fuego y las vidas del viento; la hierba, los árboles, el maíz; (7)
 
@@ -74,7 +74,7 @@ Tampoco debería decir que no es meritorio, porque entonces impediría que aquel
 
 Aquellos que alaban el don son cómplices [^918] de la muerte de los seres; quienes lo prohíben, privan (a otros) de los medios de subsistencia. (20)
 
-Sin embargo, aquellos que no responden ni <span id="p313">[<sup><small>p. 313</small></sup>]</span> si es meritorio ni si no lo es, no se exponen a la culpa y alcanzarán la Bienaventuranza [^919]. (21)
+Sin embargo, aquellos que no responden ni <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> si es meritorio ni si no lo es, no se exponen a la culpa y alcanzarán la Bienaventuranza [^919]. (21)
 
 Sabiendo que la Bienaventuranza es lo mejor, así como la luna está entre las estrellas, un sabio que siempre refrena y somete sus sentidos logra la Bienaventuranza. (22)
 
@@ -84,7 +84,7 @@ Aquel que guarda su alma, somete sus sentidos, detiene la corriente (del Sa<i>m<
 
 Aquellos que no conocen esta (Ley), no están despertados, aunque se crean despertados; creyéndose despertados, están más allá del límite de la fe correcta [^922]. (25)
 
-Comiendo semillas y bebiendo agua fría [^923] y lo que <span id="p314">[<sup><small>p. 314</small></sup>]</span> ha sido especialmente preparado para ellos, entran en meditación [^924], pero ignoran la verdad y no poseen cuidado. (26)
+Comiendo semillas y bebiendo agua fría [^923] y lo que <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> ha sido especialmente preparado para ellos, entran en meditación [^924], pero ignoran la verdad y no poseen cuidado. (26)
 
 Así como los dhāṅkas, las garzas, los águilas pescadoras, los cormoranes y los faisanes meditan en la captura de peces, (lo cual es) una meditación pecaminosa y muy baja, así también algunos <i>S</i>rama<i>n</i>as heréticos e indignos contemplan la búsqueda de placeres; (son) pecaminosos y muy bajos como las garzas. (27, 28)
 
@@ -100,7 +100,7 @@ Un hombre sabio que conoce (y renuncia) al orgullo excesivo y al engaño, (en re
 
 Adquiere buenas cualidades y abandona las malas; un monje que practica vigorosamente las austeridades evita la ira y el orgullo. (35)
 
-Los Budas [^927] que fueron y los Budas que <span id="p315">[<sup><small>p. 315</small></sup>]</span> serán, ellos (por así decirlo) tienen la Paz como su fundamento, así como todas las cosas tienen la tierra como su fundamento. (36)
+Los Budas [^927] que fueron y los Budas que <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> serán, ellos (por así decirlo) tienen la Paz como su fundamento, así como todas las cosas tienen la tierra como su fundamento. (36)
 
 Y si cualquier accidente le sucede a quien ha alcanzado ese (fundamento), no será dominado por él como una montaña por la tormenta [928]. (37)
 

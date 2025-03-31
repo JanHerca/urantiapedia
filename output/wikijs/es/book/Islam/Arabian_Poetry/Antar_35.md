@@ -38,7 +38,7 @@ Poco antes del día señalado para la boda de Abla, Antar llegó a las cercanía
 
 Cervatillo del cazador, tu captor ha llegado: no digas que no ha llegado; ¡ahí está! ¡Todas tus esperanzas son ciertas! ¡Regocíjate con la ayuda de la espada de tu héroe!
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Comprende la historia que te cuento: ¿cuánto tiempo vas a demorarte? La alegría está ahora descendiendo sobre tu hogar, y durará por siempre, verano e invierno.
 
@@ -50,7 +50,7 @@ Todas mis penas y dolores han desaparecido. Mi alegría depende de ti, ¡Oh Jefe
 
 «Cuando Shiboob oyó estas palabras, fingió estar cansado y se sentó cerca de la tienda. Justo en ese momento Abla también apareció y lo miró, y, como estaba vestido con ropas de mujer, dijo: “Esta doncella no puede ser una doncella kendeyana: debe ser una doncella de Shedad». Entonces el corazón de Shiboob se agitó, pero él se volvió hacia ella, la tranquilizó y le descubrió el rostro. Ella lo reconoció. «¡Oh Shiboob!», dijo, «¿dónde está mi primo Antar?». «Aquí está», respondió Shiboob, «muy cerca; y con él su amigo Oorwah y cien jinetes. Llegamos aquí anoche y he venido para obtener información sobre ti: volveré y se lo informaré». «Shiboob», dijo, “aún faltan tres días para el matrimonio con Mas-hil, hijo de Tarak; pero que ese sea el medio de separación. Vuelve inmediatamente y cuéntale mi situación; pero que no piense en atacar a la tribu; debe acecharme hasta que me vaya; entonces, que se lance y mate a todos los que están conmigo. Coge la brida de mi camello y regresaremos a nuestra tierra natal. Todos, todos deben probar la muerte; dile a Antar que no perdone ni siquiera a mi padre.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 «Shiboob, habiendo oído esto, regresó a Antar y le contó todo lo que Abla le había dicho».
 

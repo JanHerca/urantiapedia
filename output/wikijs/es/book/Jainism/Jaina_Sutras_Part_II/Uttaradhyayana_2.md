@@ -36,7 +36,7 @@ SEGUNDA LECCIÓN. SOBRE LOS PROBLEMAS [^72].
 
 ¡Oh, longevo (Gambûsvâmin)! Yo (Sudharman) he escuchado el siguiente Discurso [^73] del Venerable (Mahâvîra):
 
-Aquí [^74], en verdad, el Venerable Asceta Mahâvîra del Kâ<i>s</i>yapa Gôtra ha declarado veintidós problemas que un monje debe aprender y conocer, soportar y vencer, para no ser vencido por ellos cuando vive la vida de un mendicante errante. <span id="p9">[<sup><small>p. 9</small></sup>]</span> Estos, entonces, son los veintidós problemas declarados por el Venerable Asceta Mahâvîra, que un monje debe aprender y conocer, soportar y vencer, para no ser vencido por ellos cuando vive la vida de un mendicante errante:
+Aquí [^74], en verdad, el Venerable Asceta Mahâvîra del Kâ<i>s</i>yapa Gôtra ha declarado veintidós problemas que un monje debe aprender y conocer, soportar y vencer, para no ser vencido por ellos cuando vive la vida de un mendicante errante. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> Estos, entonces, son los veintidós problemas declarados por el Venerable Asceta Mahâvîra, que un monje debe aprender y conocer, soportar y vencer, para no ser vencido por ellos cuando vive la vida de un mendicante errante:
 
 1\. digañkhâ (<i>g</i>ugupsâ)-parîsahâ, hambre;
 
@@ -96,7 +96,7 @@ Vagando por caminos desiertos, con dolor, sediento, con la garganta seca y angus
 
 3\. Si un asceta austero y moderado sufre ocasionalmente de resfriado durante sus peregrinajes, no debe caminar más allá del tiempo prescrito, recordando la enseñanza de la <i>Gina</i>. (6)
 
-«No tengo refugio ni nada con qué cubrirme, así que haré una fogata para calentarme»; tal pensamiento no debería ser considerado por un monje. (7) <span id="p11">[<sup><small>p. 11</small></sup>]</span> 4\. Si sufre por el calor de las cosas calientes, o por el calor de su cuerpo, o por el calor del verano, no debe lamentarse por la pérdida de confort. (8)
+«No tengo refugio ni nada con qué cubrirme, así que haré una fogata para calentarme»; tal pensamiento no debería ser considerado por un monje. (7) <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> 4\. Si sufre por el calor de las cosas calientes, o por el calor de su cuerpo, o por el calor del verano, no debe lamentarse por la pérdida de confort. (8)
 
 Un hombre sabio, que sufre de calor, no debe desear bañarse, ni echarse agua sobre el cuerpo, ni abanicarse. (9)
 
@@ -114,7 +114,7 @@ Un sabio debería alejarse de este descontento; debería vagar libre de pecados,
 
 8\. En este mundo, los hombres tienen una predilección natural por las mujeres; quien las conoce (y renuncia a ellas), cumplirá fácilmente con sus deberes como <i>Srama<i>n</i>a. (16)
 
-Un hombre sabio que sabe que las mujeres son, por así decirlo, un lodazal, no sufrirá daño alguno, sino que vagará en busca del Ser. (17) <span id="p12">[<sup><small>p. 12</small></sup>]</span> 9\. Solo, viviendo de los alimentos permitidos [^80], debería vagar, soportando todos los problemas, en un pueblo, una ciudad, un mercado o una capital. (18)
+Un hombre sabio que sabe que las mujeres son, por así decirlo, un lodazal, no sufrirá daño alguno, sino que vagará en busca del Ser. (17) <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> 9\. Solo, viviendo de los alimentos permitidos [^80], debería vagar, soportando todos los problemas, en un pueblo, una ciudad, un mercado o una capital. (18)
 
 A diferencia de los demás hombres, el monje debe vagar sin rumbo fijo, no debe adquirir propiedades, pero no estando apegado a los jefes de familia, debe vivir sin residencia fija. (19)
 

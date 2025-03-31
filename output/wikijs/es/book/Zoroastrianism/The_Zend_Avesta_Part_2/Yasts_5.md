@@ -36,7 +36,7 @@ El Âbân Yast (o Yast de las Aguas) está dedicado a la gran diosa de las aguas
 
 Este Yast contiene información muy valiosa sobre las leyendas históricas de Irán, ya que enumera a los diversos héroes que veneraron a Ardvi Sûra y pidieron su ayuda. En primer lugar, está el propio Ahura (§ 16); luego vinieron Haoshyangha (§ 21), Yima (§ 25), Azi Dahâka (§ 29), Thraêtaona (§ 33), Keresâspa (§ 37), Franghrasyan (§ 41), Kava Usa (§ 45), Husravah (§ 49) y Tusa (§ 53). Los hijos de Vaêsaka (§ 57), Vafra Navâza (§ 61), <i>G</i>âmâspa (§ 68), Ashavazdah, el hijo de Pourudhâkh<i>s</i>ti, y Ashavazdah y Thrita, los hijos de Sâyu<i>z</i>dri (§ 72), Vistauru (§ 76), Yôi<i>s</i>ta (artículo 81); los Hvôvas y los Naotaras (§ 98), Zarathu<i>s</i>tra (§ 103), Kava Vî<i>s</i>tâspa (§ 107), Zairivairi (§ 112), Are<i>g</i>a<i>t</i>\-aspa y Vandaremini (§ 116).
 
-Esta enumeración se interrumpe con una descripción del descenso de Ardvi Sûra desde los cielos (§§ 85-89) y de ciertas reglas para su sacrificio, dadas por ella misma a Zaratustra (§§ 90-97). Esta interrupción puede haber sido intencional, ya que ocurre justo cuando <span id="p53">[<sup><small>p. 53</small></sup>]</span> el curso de la enumeración nos lleva a los tiempos de Zaratustra y a la institución de la nueva religión.
+Esta enumeración se interrumpe con una descripción del descenso de Ardvi Sûra desde los cielos (§§ 85-89) y de ciertas reglas para su sacrificio, dadas por ella misma a Zaratustra (§§ 90-97). Esta interrupción puede haber sido intencional, ya que ocurre justo cuando <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> el curso de la enumeración nos lleva a los tiempos de Zaratustra y a la institución de la nueva religión.
 
 El Ya<i>s</i>t se abre con una elogio de los beneficios otorgados por Ardvi Sûra (§§ 1-16), y se cierra con una descripción de sus vestimentas y atavíos.
 
@@ -70,7 +70,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 3\. 'El gran río, conocido desde lejos, que es tan grande como todas las aguas que corren a lo largo de la tierra; que corre poderosamente desde la altura de Hukairya [^278] hasta el mar Vouru-Kasha [^279].
 
-4\. 'Todas las orillas del mar Vouru-Kasha están <span id="p55">[<sup><small>p. 55</small></sup>]</span> hirviendo, todo su centro está hirviendo, cuando ella corre hacia allí, cuando fluye hacia allí, ella, Ardvi Sûra Anâhita, que tiene mil células y mil canales [^280]: la extensión de cada una de esas células, de cada uno de esos canales es tanto como un hombre puede cabalgar en cuarenta días, montado en un buen caballo.
+4\. 'Todas las orillas del mar Vouru-Kasha están <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> hirviendo, todo su centro está hirviendo, cuando ella corre hacia allí, cuando fluye hacia allí, ella, Ardvi Sûra Anâhita, que tiene mil células y mil canales [^280]: la extensión de cada una de esas células, de cada uno de esos canales es tanto como un hombre puede cabalgar en cuarenta días, montado en un buen caballo.
 
 5\. «De este río mío fluyen todas las aguas que se extienden por los siete Karshvares; este río mío sigue trayendo agua, tanto en verano como en invierno. Este río mío purifica la semilla en los hombres, el útero en las mujeres, la leche en los pechos de las mujeres.»
 
@@ -80,7 +80,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 8\. “¿Quién me alabará? ¿Quién me ofrecerá un sacrificio, con libaciones limpias y bien coladas, junto con el haoma y la carne? ¿A quién me uniré, si se une a mí, piensa como yo, me concede dones y me es de buena voluntad? [^282]”
 
-9\. «Por su brillo y gloria, le ofreceré <span id="p56">[<sup><small>p. 56</small></sup>]</span> un sacrificio digno de ser escuchado; ofreceré a la santa Ardvi Sûra Anâhita un buen sacrificio con una ofrenda de libaciones; ¡así nos puedes aconsejar cuando se te invoque! ¡Que seas plenamente adorada, oh Ardvi Sûra Anâhita! con el haoma y la carne, con la baresma, con la sabiduría de la lengua, con los santos hechizos, con las palabras, con las obras, con las libaciones y con las palabras bien dichas.»
+9\. «Por su brillo y gloria, le ofreceré <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> un sacrificio digno de ser escuchado; ofreceré a la santa Ardvi Sûra Anâhita un buen sacrificio con una ofrenda de libaciones; ¡así nos puedes aconsejar cuando se te invoque! ¡Que seas plenamente adorada, oh Ardvi Sûra Anâhita! con el haoma y la carne, con la baresma, con la sabiduría de la lengua, con los santos hechizos, con las palabras, con las obras, con las libaciones y con las palabras bien dichas.»
 
 'Yê<i>n</i>hê hâtãm [^283]: Todos aquellos seres de los cuales Ahura Mazda . . . .
 
@@ -114,7 +114,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 16\. '¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-17\. 'A ella, el Hacedor Ahura Mazda le ofreció un sacrificio [^291] en el Airyana Vaê<i>g</i>ah, junto al buen río Dâitya [^292]; con el Haoma y la carne, con la baresma, con la sabiduría de la lengua, con los santos conjuros, con las palabras, con las obras, con las libaciones y con las palabras bien dichas [^293]. <span id="p58">[<sup><small>p. 58</small></sup>]</span> 18\. 'Él le rogó una gracia, diciendo: “¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! ¡Para que pueda llevar al hijo de Pourushaspa, el santo Zaratustra, a pensar según mi ley, a hablar según mi ley, a obrar según mi ley!”
+17\. 'A ella, el Hacedor Ahura Mazda le ofreció un sacrificio [^291] en el Airyana Vaê<i>g</i>ah, junto al buen río Dâitya [^292]; con el Haoma y la carne, con la baresma, con la sabiduría de la lengua, con los santos conjuros, con las palabras, con las obras, con las libaciones y con las palabras bien dichas [^293]. <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> 18\. 'Él le rogó una gracia, diciendo: “¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! ¡Para que pueda llevar al hijo de Pourushaspa, el santo Zaratustra, a pensar según mi ley, a hablar según mi ley, a obrar según mi ley!”
 
 19\. 'Ardvi Sûra Anâhita le concedió ese favor, ya que él estaba ofreciendo libaciones, dando regalos, sacrificando y rogando que ella le concediera ese favor.
 
@@ -126,7 +126,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 21\. 'A ella Haoshyangha, la Paradhâta [^294], le ofreció un sacrificio en el recinto [^295] del Hara [^296], con cien caballos machos, mil bueyes y diez mil corderos.
 
-22\. Le rogó un favor, diciendo: «¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! Que pueda convertirme en el señor soberano de todos los países, de los Daêvas y los hombres, de los <span id="p59">[<sup><small>p. 59</small></sup>]</span> Yatus y Pairikas, de los opresores, los ciegos y los sordos; y que pueda aniquilar a dos tercios [^297] de los Daêvas de Mâzana [^298] y a los demonios de Varena [^299]».
+22\. Le rogó un favor, diciendo: «¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! Que pueda convertirme en el señor soberano de todos los países, de los Daêvas y los hombres, de los <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> Yatus y Pairikas, de los opresores, los ciegos y los sordos; y que pueda aniquilar a dos tercios [^297] de los Daêvas de Mâzana [^298] y a los demonios de Varena [^299]».
 
 23\. Ardvi Sûra Anâhita le concedió ese favor, ya que él estaba ofreciendo libaciones, dando regalos, sacrificando y suplicando que ella le concediera ese favor.
 
@@ -162,7 +162,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 33\. 'A ella Thraêtaona [^305], la heredera [^306] del valiente clan Âthwya, le ofreció un sacrificio en la Varena de cuatro esquinas [^307], con cien caballos machos, mil bueyes y diez mil corderos.
 
-34\. Le rogó un favor, diciendo: “¡Concédeme esto, oh bondadosa y benéfica Ardvi Sûra Anâhita! Para que pueda vencer a A<i>z</i>i Dahâka, el de tres bocas, tres cabezas y seis ojos, que tiene mil sentidos [^308], esa poderosa y diabólica Dru<i>g</i>, <span id="p62">[<sup><small>p. 62</small></sup>]</span> ese demonio, nefasto para el mundo, la Dru<i>g</i> más fuerte que Angra Mainyu creó contra el mundo material, para destruir el mundo del buen principio [^309]; y para que pueda liberar a sus dos esposas, Savanghavâ<i>k</i> y Erenavâ<i>k</i> [^310], que son las mujeres más hermosas de cuerpo y las criaturas más maravillosas en el mundo [^311].”
+34\. Le rogó un favor, diciendo: “¡Concédeme esto, oh bondadosa y benéfica Ardvi Sûra Anâhita! Para que pueda vencer a A<i>z</i>i Dahâka, el de tres bocas, tres cabezas y seis ojos, que tiene mil sentidos [^308], esa poderosa y diabólica Dru<i>g</i>, <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> ese demonio, nefasto para el mundo, la Dru<i>g</i> más fuerte que Angra Mainyu creó contra el mundo material, para destruir el mundo del buen principio [^309]; y para que pueda liberar a sus dos esposas, Savanghavâ<i>k</i> y Erenavâ<i>k</i> [^310], que son las mujeres más hermosas de cuerpo y las criaturas más maravillosas en el mundo [^311].”
 
 35\. Ardvi Sûra Anâhita le concedió ese favor, ya que él estaba ofreciendo libaciones, dando regalos, sacrificando y suplicando que ella le concediera ese favor.
 
@@ -188,7 +188,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 41\. 'A ella le ofreció el asesino turanio, Frangrasyan [^315], un sacrificio en su cueva bajo tierra [^316], con cien caballos machos, mil bueyes, diez mil corderos.
 
-42\. Le rogó un favor, diciendo: «¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita!, para que pueda alcanzar esa Gloria [^317] que ondea en medio del mar Vouru-Kasha [^317] y <span id="p65">[<sup><small>p. 65</small></sup>]</span> que pertenece al pueblo ario, a los nacidos y a los que aún no han nacido, y al santo Zaratustra».
+42\. Le rogó un favor, diciendo: «¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita!, para que pueda alcanzar esa Gloria [^317] que ondea en medio del mar Vouru-Kasha [^317] y <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> que pertenece al pueblo ario, a los nacidos y a los que aún no han nacido, y al santo Zaratustra».
 
 43\. 'Ardvi Sûra Anâhita no le concedió esa bendición.
 
@@ -210,7 +210,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 48\. '¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-49\. 'A ella le ofreció el valiente Husravah [^320], el que <span id="p66">[<sup><small>p. 66</small></sup>]</span> unió a las naciones arias en un solo reino [^321], un sacrificio detrás del lago <i>K</i>aê<i>k</i>asta [^322], el lago profundo de aguas saladas [^323], con cien caballos machos, mil bueyes y diez mil corderos.
+49\. 'A ella le ofreció el valiente Husravah [^320], el que <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> unió a las naciones arias en un solo reino [^321], un sacrificio detrás del lago <i>K</i>aê<i>k</i>asta [^322], el lago profundo de aguas saladas [^323], con cien caballos machos, mil bueyes y diez mil corderos.
 
 50\. Le rogó un favor, diciendo: “¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! Que pueda convertirme en el señor soberano de todos los países, de los daêvas y los hombres, de los yâtus y los pairikas, de los opresores, los ciegos y los sordos; y que pueda liderar a todos los caballos [^324] y que no pueda atravesar [^325] el bosque [^326], él, el asesino [^327], quien ahora lucha ferozmente [^328] contra mí [^329] a caballo [^330]”.
 
@@ -222,7 +222,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 52\. «¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sara Anâhita...
 
-53\. 'A ella el valiente guerrero Tusa [^331] ofreció <span id="p67">[<sup><small>p. 67</small></sup>]</span> adoración a lomos de su caballo [^332], implorando rapidez para sus caballos, salud para su propio cuerpo, y que pudiera, vigilar con pleno éxito [^333] a quienes lo odiaban, abatir a sus enemigos y destruir de un solo golpe a sus adversarios, a sus enemigos y a quienes lo odiaban [^334].
+53\. 'A ella el valiente guerrero Tusa [^331] ofreció <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> adoración a lomos de su caballo [^332], implorando rapidez para sus caballos, salud para su propio cuerpo, y que pudiera, vigilar con pleno éxito [^333] a quienes lo odiaban, abatir a sus enemigos y destruir de un solo golpe a sus adversarios, a sus enemigos y a quienes lo odiaban [^334].
 
 54\. Le rogó un favor, diciendo: “¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! Para que pueda vencer a los valientes hijos de Vaêsaka [^335], junto al castillo Khshathrô-saoka, que se alza en lo alto del majestuoso y sagrado Kangha [^336]; para que pueda derrotar a los turanios, a sus cincuenta y a sus cien, a sus cien y a sus mil, a sus mil y a sus decenas de mil, a sus decenas de mil y a sus miríadas de miríadas”.
 
@@ -248,7 +248,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 60\. '¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-61\. 'El anciano [^339] Vafra Navâza la adoró, cuando el poderoso aniquilador de demonios, Thraêtaona, lo lanzó por los aires en forma de ave, de buitre [^340]. <span id="p69">[<sup><small>p. 69</small></sup>]</span> 62\. 'Continuó volando, durante tres días y tres noches, hacia su casa; pero no pudo, no pudo bajar. Al final de la tercera noche, cuando llegó el amanecer benéfico, entonces oró a Ardvi Sûra Anâhita, diciendo:
+61\. 'El anciano [^339] Vafra Navâza la adoró, cuando el poderoso aniquilador de demonios, Thraêtaona, lo lanzó por los aires en forma de ave, de buitre [^340]. <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> 62\. 'Continuó volando, durante tres días y tres noches, hacia su casa; pero no pudo, no pudo bajar. Al final de la tercera noche, cuando llegó el amanecer benéfico, entonces oró a Ardvi Sûra Anâhita, diciendo:
 
 63\. “¡Ardvi Sûra Anâhita! ¡Apresúrate a ayudarme y tráeme ayuda de inmediato! Te ofreceré mil libaciones, limpias y bien coladas, junto con haomas y carne, junto a la orilla del río Rangha, si llego vivo a la tierra hecha por Ahura y a mi propia casa.”
 
@@ -278,7 +278,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 71\. «¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-72\. 'A ella le ofrecieron un sacrificio Ashavazdah, hijo de <span id="p71">[<sup><small>p. 71</small></sup>]</span> Pourudhâkh<i>s</i>ti [^346], y Ashavazdah y Thrita, hijos de Sâyu<i>z</i>dri [^347], con cien caballos, mil bueyes y diez mil corderos, junto a Apãm Napâ<i>t</i>, el señor alto, el señor de las hembras, el de caballos brillantes y veloces [^348].
+72\. 'A ella le ofrecieron un sacrificio Ashavazdah, hijo de <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> Pourudhâkh<i>s</i>ti [^346], y Ashavazdah y Thrita, hijos de Sâyu<i>z</i>dri [^347], con cien caballos, mil bueyes y diez mil corderos, junto a Apãm Napâ<i>t</i>, el señor alto, el señor de las hembras, el de caballos brillantes y veloces [^348].
 
 73\. 'Le pidieron un favor, diciendo: «¡Concédenos esto, oh buena, muy benéfica Ardvi Sûra Anâhita!, para que podamos vencer a los congregados de los Dânus turanios [^349], Kara Asabana [^350], y Vara Asabana, y al poderosísimo Dûraêkaêta, en las batallas de este mundo [^351].
 
@@ -290,7 +290,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 75\. '¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-76\. 'Vistauru, el hijo de Naotara [^352], la adoró <span id="p72">[<sup><small>p. 72</small></sup>]</span> junto a la orilla del río Vîtanghuhaiti [^353], con palabras elocuentes, diciendo así:
+76\. 'Vistauru, el hijo de Naotara [^352], la adoró <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> junto a la orilla del río Vîtanghuhaiti [^353], con palabras elocuentes, diciendo así:
 
 77\. «Es cierto, es cierto, he herido a tantos adoradores de los Daêvas como cabellos tengo en la cabeza. ¡Oh Ardvi Sûra Anâhita!, déjame un paso seco para cruzar el buen Vîtanghuhaiti».
 
@@ -304,7 +304,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 80\. '¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita...'
 
-81\. 'A ella Yôi<i>s</i>ta, uno de los Fryanas [^357], <span id="p73">[<sup><small>p. 73</small></sup>]</span> le ofreció un sacrificio con cien caballos, mil bueyes y diez mil corderos en el P<i>e</i>vaêpa [^358] del Rangha.
+81\. 'A ella Yôi<i>s</i>ta, uno de los Fryanas [^357], <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> le ofreció un sacrificio con cien caballos, mil bueyes y diez mil corderos en el P<i>e</i>vaêpa [^358] del Rangha.
 
 82\. Le imploró un favor, diciendo: «¡Concédeme esto, oh bondadosa Ardvi Sûra Anâhita! Para que pueda vencer al malvado Akhtya, hijo de la oscuridad, y para que pueda responder a los noventa y nueve difíciles acertijos que me plantea con malicia, el malvado Akhtya, hijo de la oscuridad».
 
@@ -316,7 +316,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 84\. «¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-85\. 'A quien Ahura Mazda, el misericordioso, ordenó así: «Ven, oh Ardvi Sûra Anâhita, desciende desde esas estrellas [^359] a la tierra hecha por Ahura, <span id="p74">[<sup><small>p. 74</small></sup>]</span> para que los grandes señores, los amos de los países, y sus hijos te adoren.»
+85\. 'A quien Ahura Mazda, el misericordioso, ordenó así: «Ven, oh Ardvi Sûra Anâhita, desciende desde esas estrellas [^359] a la tierra hecha por Ahura, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> para que los grandes señores, los amos de los países, y sus hijos te adoren.»
 
 86\. ' "Los hombres fuertes [^360] te pedirán caballos veloces y la supremacía de la Gloria.
 
@@ -334,7 +334,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 “Gracias a mi resplandor y gloria, rebaños, manadas y hombres de dos piernas avanzan sobre la tierra: yo, en verdad, guardo todas las cosas buenas, hechas por Mazda, la descendencia del principio santo, tal como un pastor guarda su rebaño”.
 
-90\. 'Zaratustra le preguntó a Ardvi Sûra Anâhita: “¡Oh, Ardvi Sûra Anâhita! ¿Con qué tipo de sacrificio te adoraré? ¿Con qué tipo de sacrificio te adoraré y te haré ascender? Para que Mazda te haga descender (a la tierra), para que <span id="p75">[<sup><small>p. 75</small></sup>]</span> no te haga ascender a los cielos, por encima del sol [^363]; y para que la Serpiente [^364] no te dañe con... [^365], con... [^366], con... [^367] y... venenos [^368].”
+90\. 'Zaratustra le preguntó a Ardvi Sûra Anâhita: “¡Oh, Ardvi Sûra Anâhita! ¿Con qué tipo de sacrificio te adoraré? ¿Con qué tipo de sacrificio te adoraré y te haré ascender? Para que Mazda te haga descender (a la tierra), para que <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> no te haga ascender a los cielos, por encima del sol [^363]; y para que la Serpiente [^364] no te dañe con... [^365], con... [^366], con... [^367] y... venenos [^368].”
 
 91\. 'Ardvi Sûra Anâhita respondió: "¡Oh, puro y santo Spitama! Este es el sacrificio con el que me adorarás, este es el sacrificio con el que me adorarás y me guiarás, desde la salida del sol hasta la puesta del sol.
 
@@ -360,7 +360,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 97\. ¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra!, a este manantial mío, Ardvi Sara Anâhita . . . .
 
-98\. 'Ante quien los adoradores de Mazda <span id="p77">[<sup><small>p. 77</small></sup>]</span> se presentan con baresma en sus manos: los Hvôvas la adoraron, los Naotaras la adoraron [^381]; los Hvôvas pidieron riquezas, los Naotaras pidieron caballos veloces. Rápidamente Hvôva fue bendecida con riquezas y plena prosperidad; rápidamente se convirtió en Vî<i>s</i>tâspa, el Naotaride, el señor de los caballos más veloces de estos países [^382]
+98\. 'Ante quien los adoradores de Mazda <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> se presentan con baresma en sus manos: los Hvôvas la adoraron, los Naotaras la adoraron [^381]; los Hvôvas pidieron riquezas, los Naotaras pidieron caballos veloces. Rápidamente Hvôva fue bendecida con riquezas y plena prosperidad; rápidamente se convirtió en Vî<i>s</i>tâspa, el Naotaride, el señor de los caballos más veloces de estos países [^382]
 
 99\. \[^383].\]
 
@@ -372,7 +372,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 101\. «Quien tiene mil celdas y mil canales: la extensión de cada una de esas celdas, de cada uno de esos canales, es la que un hombre puede recorrer en cuarenta días, montado en un buen caballo». [^384]. En cada canal se alza un palacio, bien cimentado, resplandeciente con cien ventanas, con mil columnas, bien construido, con diez mil balcones, y majestuoso.
 
-102\. 'En cada uno de esos palacios hay una cama bien tendida y perfumada, cubierta de almohadas, y <span id="p78">[<sup><small>p. 78</small></sup>]</span> Ardvi Sûra Anâhita, ¡oh Zarathu<i>s</i>tra!, desciende allí desde una altura mil veces mayor que la de un hombre, y posee tanta Gloria como todas las aguas que corren por la tierra, y corre poderosamente [^385].
+102\. 'En cada uno de esos palacios hay una cama bien tendida y perfumada, cubierta de almohadas, y <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> Ardvi Sûra Anâhita, ¡oh Zarathu<i>s</i>tra!, desciende allí desde una altura mil veces mayor que la de un hombre, y posee tanta Gloria como todas las aguas que corren por la tierra, y corre poderosamente [^385].
 
 ## XXIV.
 
@@ -418,7 +418,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 115\. «¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-116\. 'A ella le ofrecieron Are<i>g</i>a<i>t</i>-aspa y Va<i>n</i>daremaini [^399] <span id="p81">[<sup><small>p. 81</small></sup>]</span> un sacrificio junto al mar Vouru-Kasha, con cien caballos machos, mil bueyes y diez mil corderos.
+116\. 'A ella le ofrecieron Are<i>g</i>a<i>t</i>-aspa y Va<i>n</i>daremaini [^399] <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> un sacrificio junto al mar Vouru-Kasha, con cien caballos machos, mil bueyes y diez mil corderos.
 
 117\. 'Ellos [^400] le pidieron un favor, diciendo: “¡Concédenos esto, oh buena, muy benéfica Ardvi Sûra Anâhita! Para que podamos vencer al valiente Kavi Vî<i>s</i>tâspa y a Zairivairi, que lucha a caballo, y para que podamos derrotar al pueblo ario a sus cincuenta y a sus cientos, a sus cientos y a sus miles, a sus miles y a sus decenas de miles, a sus decenas de miles y a sus miríadas de miríadas.”
 
@@ -432,7 +432,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 120\. 'Para quien Ahura Mazda ha hecho cuatro caballos: el viento, la lluvia, la nube y el aguanieve, y así siempre [^402] sobre la tierra llueve, nieva, graniza y graniza; y cuyos ejércitos son tantos y están numerados por novecientos y miles.
 
-121\. 'Adoraré la altura Hukairya, de los <span id="p82">[<sup><small>p. 82</small></sup>]</span> precipicios profundos, hechos de oro, de donde salta esta mina Ardvi Sûra Anâhita, desde cien veces la altura de un hombre, mientras posee tanta Gloria como todas las aguas que corren por la tierra, y corre poderosamente [^403].
+121\. 'Adoraré la altura Hukairya, de los <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> precipicios profundos, hechos de oro, de donde salta esta mina Ardvi Sûra Anâhita, desde cien veces la altura de un hombre, mientras posee tanta Gloria como todas las aguas que corren por la tierra, y corre poderosamente [^403].
 
 'Por su resplandor y su gloria le ofreceré un sacrificio...
 
@@ -450,7 +450,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 325\. '¡Ofrece un sacrificio, oh Spitama Zarathu<i>s</i>tra! a este manantial mío, Ardvi Sûra Anâhita . . . .
 
-126\. 'Ardvi Sûra Anâhita, que se yergue en forma de doncella, de hermoso cuerpo, muy fuerte, de complexión alta, de ceñidor alto, pura, noblemente nacida de <span id="p83">[<sup><small>p. 83</small></sup>]</span> una raza gloriosa [^406], llevando a lo largo de su . . . . [^407] un manto completamente bordado con oro;
+126\. 'Ardvi Sûra Anâhita, que se yergue en forma de doncella, de hermoso cuerpo, muy fuerte, de complexión alta, de ceñidor alto, pura, noblemente nacida de <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> una raza gloriosa [^406], llevando a lo largo de su . . . . [^407] un manto completamente bordado con oro;
 
 127\. 'Siempre sosteniendo la baresma en su mano, según las reglas, ella usa aretes cuadrados de oro en sus orejas perforadas [^408], y un collar de oro alrededor de su hermoso cuello, ella, la noble nacida Ardvi Sûra Anâhita; y se ciñó la cintura firmemente, para que sus pechos estén bien formados, para que estén firmemente presionados [^409].
 
@@ -458,7 +458,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 129\. 'Está vestida con prendas de castor [^413], Ardvi Sûra Anâhita; con la piel de treinta castores de los que tienen cuatro crías, que son la clase más fina de castores; porque la piel del castor que vive en el agua es la de color más fino de todas las pieles, y cuando se trabaja en el momento adecuado brilla a la vista con pleno brillo de plata y oro.
 
-130\. «¡Oh, bondadoso Ardvi Sûra Anâhita! Te suplico este favor: que yo, plenamente bendecido, pueda conquistar grandes reinos, ricos en caballos [^414], con altos tributos, con caballos resoplando, carros resonantes, espadas relucientes, ricos en alimentos, con provisiones de comida, con camas perfumadas [^415]; que pueda tener <span id="p84">[<sup><small>p. 84</small></sup>]</span>, a mi antojo, la plenitud de las cosas buenas de la vida y todo lo que hace prosperar a un reino [^416].»
+130\. «¡Oh, bondadoso Ardvi Sûra Anâhita! Te suplico este favor: que yo, plenamente bendecido, pueda conquistar grandes reinos, ricos en caballos [^414], con altos tributos, con caballos resoplando, carros resonantes, espadas relucientes, ricos en alimentos, con provisiones de comida, con camas perfumadas [^415]; que pueda tener <span id="p84"><sup><small>[ p. 84 ]</small></sup></span>, a mi antojo, la plenitud de las cosas buenas de la vida y todo lo que hace prosperar a un reino [^416].»
 
 131\. «¡Oh, bondadoso Ardvi Sûra Anâhita! Te pido dos valientes compañeros, uno de dos patas y otro de cuatro patas [^417]: uno de dos patas, veloz, ágil y hábil para dar la vuelta a un carro en la batalla; y otro de cuatro patas, que pueda virar rápidamente hacia cualquier flanco del ejército con un frente amplio, hacia el ala derecha o la izquierda, hacia el ala izquierda o la derecha.»
 

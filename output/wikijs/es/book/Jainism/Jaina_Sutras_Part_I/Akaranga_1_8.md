@@ -121,7 +121,7 @@ Cuando sopla un viento frío, que a algunos les causa dolor, algunos monjes sin 
 
 (Algunos monjes heréticos dicen): 'Nos pondremos más ropa, leña o nos cubriremos bien, para que podamos soportar la muy dolorosa influencia del frío'. (14)
 
-Pero el Venerable no deseaba nada parecido; <span id="p84">[<sup><small>p. 84</small></sup>]</span>, dominado por su fuerza, sufría, despreciando cualquier refugio. Saliendo una vez por la noche, el Venerable podía soportar todas las adversidades con serenidad. (15)
+Pero el Venerable no deseaba nada parecido; <span id="p84"><sup><small>[ p. 84 ]</small></sup></span>, dominado por su fuerza, sufría, despreciando cualquier refugio. Saliendo una vez por la noche, el Venerable podía soportar todas las adversidades con serenidad. (15)
 
 Ésta es la regla que a menudo ha seguido el sabio Brâhma<i>n</i>a, el Venerable, que está libre de apego: así proceden (los monjes).
 

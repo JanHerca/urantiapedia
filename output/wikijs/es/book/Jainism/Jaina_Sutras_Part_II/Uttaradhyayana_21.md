@@ -64,13 +64,13 @@ Uno debe mantener los cinco grandes votos, a saber: no matar, decir la verdad, n
 
 Un monje debe tener compasión de todos los seres, debe tener un carácter tolerante, debe ser moderado y casto, y abstenerse de todo lo pecaminoso; debe vivir con sus sentidos bajo control. (13)
 
-De vez en cuando [^284] debe viajar por un país, <span id="p110">[<sup><small>p. 110</small></sup>]</span> teniendo en cuenta sus recursos y su propia capacidad; como un león, no debe asustarse por ningún ruido; y a cualquier palabra que oiga, no debe responder con inapropiado. (14)
+De vez en cuando [^284] debe viajar por un país, <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> teniendo en cuenta sus recursos y su propia capacidad; como un león, no debe asustarse por ningún ruido; y a cualquier palabra que oiga, no debe responder con inapropiado. (14)
 
 Debería andar con absoluta indiferencia y soportar todo, sea agradable o desagradable; no debería aprobar todo en todas partes, ni preocuparse por el [^285] trato respetuoso o la censura. (15)
 
 Hay muchas opiniones aquí entre los hombres, que un monje coloca en su verdadera luz; surgirán muchas calamidades peligrosas y terribles, causadas por dioses, hombres o animales, que son difíciles de soportar y hacen que los hombres fácilmente desanimados se hundan bajo ellas; pero un monje que entra en contacto con ellas no tendrá miedo, como un elefante majestuoso a la cabeza de la batalla. (16, 17)
 
-El frío y el calor, las moscas y los mosquitos, las sensaciones desagradables y muchas enfermedades atacan el cuerpo; sin pestañear [^286] debería soportarlas y no debería <span id="p111">[<sup><small>p. 111</small></sup>]</span> recordar los placeres que una vez disfrutó. (18)
+El frío y el calor, las moscas y los mosquitos, las sensaciones desagradables y muchas enfermedades atacan el cuerpo; sin pestañear [^286] debería soportarlas y no debería <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> recordar los placeres que una vez disfrutó. (18)
 
 Abandonando el amor, el odio y el engaño, un monje que siempre es cuidadoso y que es firme, así como el Monte Mêru no puede ser sacudido por la tormenta, debe soportar las calamidades, protegiéndose a sí mismo. (19)
 
@@ -82,7 +82,7 @@ Un monje misericordioso debe usar camas alejadas de los demás, que no estén pr
 
 El gran sabio (Samudrapâla), comprendiendo la ciencia sagrada y practicando completamente la mejor Ley, brilló como el sol en el cielo, siendo poseedor del más alto conocimiento y gloria. (23)
 
-Habiendo aniquilado su Karman tanto meritorio <span id="p112">[<sup><small>p. 112</small></sup>]</span> como pecaminoso, siendo firme [^289], y libre de todas las ataduras, Samudrapâla cruzó el Diluvio oceánico de la existencia mundana y obtuvo la exención de la transmigración. (24)
+Habiendo aniquilado su Karman tanto meritorio <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> como pecaminoso, siendo firme [^289], y libre de todas las ataduras, Samudrapâla cruzó el Diluvio oceánico de la existencia mundana y obtuvo la exención de la transmigración. (24)
 
 Así lo digo.
 

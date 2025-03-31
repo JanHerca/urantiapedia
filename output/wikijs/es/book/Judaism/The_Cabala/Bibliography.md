@@ -52,7 +52,7 @@ Freystadt, _Philosophia cabbalistica; Ex fontibus primariis adumbravit atque int
 
 Tholuck, _De ortu Cabbalae_, Hamburgo, 1837.
 
-Hamberger, _die hohe Bedeutung der altjüdischen_ <span id="p111">[<sup><small>p. 111</small></sup>]</span> _Tradition oder der sogenannten Kabbalah_, Sulzbach, 1844 (una reseña del trabajo de Molitor).
+Hamberger, _die hohe Bedeutung der altjüdischen_ <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> _Tradition oder der sogenannten Kabbalah_, Sulzbach, 1844 (una reseña del trabajo de Molitor).
 
 Lutterbeck, _die neutestamentlichen Lehrbegriffe_, vol. 1., 1853.
 

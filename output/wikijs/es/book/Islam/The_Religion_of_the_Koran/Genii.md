@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 CAPÍTULO VI., Versículo 112.—Así que hemos hecho para cada profeta un enemigo: demonios de hombres y genios; algunos de ellos inspiran a otros con palabras engañosas para extraviarlos; pero si tu Señor hubiera querido, no lo habrían hecho; así que déjalos con lo que idean.
 
@@ -46,7 +46,7 @@ Capítulo LI., Versículo 55.—Y no he creado a los genios y a los hombres sino
 
 No deseo ninguna provisión de ellos, y no deseo que me alimenten.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Capítulo LXXII., Versículo 1.—En el nombre del Dios Misericordioso y Compasivo.
 
@@ -68,7 +68,7 @@ Di: «Me ha inspirado que una compañía de genios escuchó y dijo: «Hemos oíd
 
 “Pero, en verdad, cuando oímos la guía, creímos en ella; y quien crea en su Señor no temerá disminución ni pérdida.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 «Y, en verdad, algunos de nosotros son musulmanes y otros son transgresores; pero aquellos de nosotros que somos musulmanes, ellos se esfuerzan por la dirección correcta (15) y en cuanto a los transgresores, son combustible para el Infierno.»
 

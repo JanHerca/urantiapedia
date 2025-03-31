@@ -29,7 +29,7 @@ dateCreated: 2024-11-24T12:47:51Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 <figure id="Figure_27800" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/The_Glory_of_the_Shia_World/27800.jpg">
@@ -50,7 +50,7 @@ Oh Jefe de los amigos
 ¡Oh, fuente de maravillas!
 Oh Ali el Elegido!
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 <figure id="Figure_27900" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/The_Glory_of_the_Shia_World/27900.jpg">
@@ -64,7 +64,7 @@ _En verso oculto pero completo,_
 _Cuando Hatif (el Buen Ángel) sacó su cabeza y cantó_,
 _«Este libro de viajes ha sido completado rápidamente»._ [^70]
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Impreso por R. & R. CLARK, LIMITED, Edimburgo.
 

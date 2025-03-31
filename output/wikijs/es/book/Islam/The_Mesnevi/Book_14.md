@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 ## XIV. Los artistas chinos y romanos.
 
@@ -57,7 +57,7 @@ El niño y el hombre, en estos, repiten las alegrías del otro.
 El niño, en el juego, desempeña el mismo papel,
 Él actuará cuando crezca como un héroe, haya aprendido el arte del debate.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Las peleas de los hombres son las mismas que las que libran los muchachos;
 <sup id="v10"><small>10</small></sup> Son insensatos, sin razón; se pelean por simples juguetes.
@@ -91,7 +91,7 @@ Pero el conocimiento adquirido sensualmente como tasas de carga.
 Dios ha dicho: «Un asno con volúmenes para su carga.»[^371]
 Así que el conocimiento es una carga, cuando no es del código de Dios.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Toda ciencia no recibida de la palabra de Dios directa,
 No tiene resistencia; pintura es; nuestros ojos detectan.
@@ -128,7 +128,7 @@ Eso a mí me revela su alma serenamente brillante.
 Informes, tradiciones, cadenas de evidencia, se pierden;
 Cuando el alma se comunica con el alma, las mentes pueden abordar libremente.”
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Resuelve este acertijo: “Anoche fui kurdo, de nacimiento;
 <sup id="v40"><small>40</small></sup> Y luego, esta mañana, árabe soy, por placenta.”[^372]
@@ -162,7 +162,7 @@ Los colores son como nubes; la sencillez es la luna.
 Cualquiera que sea el matiz que ves embelleciendo las nubes,
 Tú sabes viene del sol, la luna o las estrellas en multitudes.
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Por fin los chinos habían cumplido su tarea.
 Con alegría intensa sus corazones latían, sus pechos se emocionaban.
@@ -198,7 +198,7 @@ En el corazón del santo se refleja, lo más multiforme.
 Su corazón pulido está limpio de la mancha que ensucia el ser;
 Y en cada momento contempla el tren de la fresca belleza.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 El dorado exterior, la cáscara, de la ciencia que ellos desprecian;
 La bandera de la certeza real flota donde ellos se elevan.

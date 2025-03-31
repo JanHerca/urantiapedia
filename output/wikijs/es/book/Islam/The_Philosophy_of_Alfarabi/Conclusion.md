@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T19:16:7Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Después de estudiar la filosofía de Alfarabi, se llega a tres conclusiones: primero, que Alfarabi provocó la primera penetración del arabismo en el helenismo y del helenismo en el arabismo.
 

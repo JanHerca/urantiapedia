@@ -36,7 +36,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Ahora explicaremos la apertura y la conclusión (del curso anual de estudios).
 
-2\. [^703] Durante la quincena que precede a la luna llena _S<i>rava</i>n_â <span id="p242">[<sup><small>p. 242</small></sup>]</span>, cuando las hierbas han aparecido, bajo (el Nakshatra) Hasta o en el día de luna llena (mismo), se realiza la ceremonia de apertura del (curso anual de) estudio.
+2\. [^703] Durante la quincena que precede a la luna llena _S<i>rava</i>n_â <span id="p242"><sup><small>[ p. 242 ]</small></sup></span>, cuando las hierbas han aparecido, bajo (el Nakshatra) Hasta o en el día de luna llena (mismo), se realiza la ceremonia de apertura del (curso anual de) estudio.
 
 3\. Tras poner leña al fuego y realizar los ritos hasta las oblaciones Vyâh<i>ri</i>ti, sacrifica (con sus discípulos) a los <i>Ri</i>shis de los Kâ<i>ri</i><i>ri</i>as: «¡A Pra<i>ri</i>pati, el <i>Ri</i>shi de un Kâ<i>ri</i><i>ri</i>a, svâhâ! ¡A Soma, el <i>Ri</i>shi de un Kâ<i>ri</i><i>ri</i>a, svâhâ! ¡A Agni, el <i>Ri</i>shi de un Kâ<i>ri</i><i>ri</i>a, svâhâ!» A los devas Vi<i>ri</i>vas, los Rishis de un Kâ<i>ri</i><i>ri</i>a, ¡svâhâ! A Svayambhû, el Rishi de un Kâ<i>ri</i><i>ri</i>a, ¡svâhâ! —estos son los Rishis de los Kâ<i>ri</i><i>ri</i>as. O (ofrece sacrificios) a los nombres de los Kâ<i>ri</i><i>ri</i>as, al Sâvitrî, ​​al Rig-veda, al Yari-ur-veda, al Sama-veda, al Atharva-veda y al Sadasaspati.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7. Después de realizar todos los ritos, hasta la oblación del Svish<i>t</i>ak<i>t</i>t, se suspende el estudio durante tres días o un día; luego se debe continuar estudiando para retomar el estudio donde se interrumpió, así dicen los maestros.
 
-8\. [^704] Durante la quincena que precede a la luna llena de Taishî, bajo (el Nakshatra) Rohi<i>n</i>î o en el mismo día de luna llena, se celebra el Utsarga (o conclusión del período de estudio). <span id="p243">[<sup><small>p. 243</small></sup>]</span>
+8\. [^704] Durante la quincena que precede a la luna llena de Taishî, bajo (el Nakshatra) Rohi<i>n</i>î o en el mismo día de luna llena, se celebra el Utsarga (o conclusión del período de estudio). <span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 9\. [^705] (El maestro) con sus alumnos va en dirección este o norte, y donde encuentra un agua agradable con un lugar agradable para bañarse, se sumerge en ella y realiza tres supresiones de la respiración con el himno Agharmarsha<i>n</i>a (<i>Ri</i>g-veda X, 190 = Taitt. Ar. X, 1, 13. 14.). Español Sosteniendo purificadores (es decir, hojas de Darbha) en sus manos, se bañan con los tres (versos), 'Vosotras, aguas, sois saludables' (Taitt. Sa<i>n</i>h. IV, 1, 5, 1), con los cuatro (versos), 'Las aguas purificadoras, puras y de color dorado' (TSV, 6, 1, 1 seq.), y con el Anuvâka, '(Soma) que se limpia a sí mismo, el ser celestial' (Taitt. Br. I, 4, 8): dándose las hojas de Darbha unos a otros y fingiendo intentar agarrarse (??) mutuamente.
 
@@ -61,7 +61,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## PATALA 8, SECCIÓN 19.
 
-1\. [^706] Para Brahman, Pra<i>g</i>âpati, B<i>g</i>haspati, Agni, Vâyu, el Sol, la Luna, las Estrellas, el rey Indra, el rey Yama, el rey Varu<i>g</i>a, el rey Soma, el rey Vai<i>g</i>rava<i>g</i>a, para los Vasus, los Rudras, los Âdityas, los Vi<i>g</i>ve devâs, los Sâdhyas, los _Ri_bhus, los Bh<i>g</i>gus, los Maruts, los Atharvans, los Aṅgiras: para estos seres divinos. <span id="p244">[<sup><small>p. 244</small></sup>]</span>
+1\. [^706] Para Brahman, Pra<i>g</i>âpati, B<i>g</i>haspati, Agni, Vâyu, el Sol, la Luna, las Estrellas, el rey Indra, el rey Yama, el rey Varu<i>g</i>a, el rey Soma, el rey Vai<i>g</i>rava<i>g</i>a, para los Vasus, los Rudras, los Âdityas, los Vi<i>g</i>ve devâs, los Sâdhyas, los _Ri_bhus, los Bh<i>g</i>gus, los Maruts, los Atharvans, los Aṅgiras: para estos seres divinos. <span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 2\. [^707] Vi<i>g</i>vâmitra, <i>G</i>amadagni, Bharadvâ<i>g</i>a y Gautama, Atri, Vasish<i>g</i>a, Ka<i>g</i>yapa: estos son los siete <i>Ri</i>shis.
 
@@ -98,7 +98,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Habiéndolos adorado con (las palabras), '¡Adoración a NN! ¡Adoración a NN!'—
 
-9\. [^709] Habiendo puesto leña en el fuego al oeste de la superficie (sobre la cual había realizado la Tarpa<i>n</i>a), <span id="p246">[<sup><small>p. 246</small></sup>]</span> y habiendo realizado los ritos hasta las oblaciones de Vyâh<i>n</i>ti (&c., como arriba, cap. 18, 3-7).
+9\. [^709] Habiendo puesto leña en el fuego al oeste de la superficie (sobre la cual había realizado la Tarpa<i>n</i>a), <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> y habiendo realizado los ritos hasta las oblaciones de Vyâh<i>n</i>ti (&c., como arriba, cap. 18, 3-7).
 
 10\. Con los dos (versos), 'De articulación a articulación', 'Tú que con cien' (Taitt. Sa<i>m</i>h. IV, 2, 9, 2) plantan hierba Dûrvâ en la orilla del agua.
 

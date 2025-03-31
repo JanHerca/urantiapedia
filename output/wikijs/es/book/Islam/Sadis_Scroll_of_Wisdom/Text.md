@@ -30,9 +30,9 @@ dateCreated: 2024-11-19T20:43:59Z
 </figure>
 
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 <span id="s1"></span>
 
@@ -48,7 +48,7 @@ Guárdanos del camino del error;
 Perdónanos nuestras ofensas y muéstranos justicia.
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <span id="s2"></span>
 
@@ -66,7 +66,7 @@ Que pasó más allá del palacio del pórtico cerúleo!
 
 ## DIRECCIÓN AL ALMA
 
-Cuarenta años de tu preciosa existencia han expirado; <span id="p31">[<sup><small>p. 31</small></sup>]</span>
+Cuarenta años de tu preciosa existencia han expirado; <span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 Sin embargo, tu vida no ha pasado más allá de la niñez.
 Tú has gastado todo en lujuria y licencia;
 Ni un momento has actuado conforme a la justicia.
@@ -83,7 +83,7 @@ La generosidad te hará famoso en todo el universo;
 La generosidad te asegurará la felicidad.
 Además de la generosidad no hay nada en el mundo,
 Ni hay nada más actual en cualquier mercado!
-La generosidad será la fuente de deleite; <span id="p32">[<sup><small>p. 32</small></sup>]</span>
+La generosidad será la fuente de deleite; <span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 La generosidad será la cosecha de la vida.
 Refresca el corazón del mundo con generosidad;
 Llena el globo con el renombre de tu generosidad.
@@ -100,7 +100,7 @@ Sé conquistador del mundo a través de la bondad y benevolencia;
 Sé un jefe en el reino de bondad y generosidad.
 La benevolencia es el atributo de los hombres de piedad,
 La benevolencia es el deber de los prósperos.
-La benevolencia es la piedra de toque de la aleación del pecado, <span id="p33">[<sup><small>p. 33</small></sup>]</span>
+La benevolencia es la piedra de toque de la aleación del pecado, <span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 La benevolencia es la medicina para todos los males.
 No seas, si puedes, carente de benevolencia,
 Que puedas arrebatar la pelota de la excelencia gracias a la benevolencia.
@@ -117,7 +117,7 @@ El avaro no es digno de que menciones su nombre.
 Y fueron la fortuna de convertirse en su sirviente,
 No pagues No tenga en cuenta la propiedad del avaro—
 No hables de los bienes y posesiones del avaro.
-Si el avaro fuera devoto tanto en tierra como en el mar, <span id="p34">[<sup><small>p. 34</small></sup>]</span>
+Si el avaro fuera devoto tanto en tierra como en el mar, <span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 Él sería así como está ordenado—desconocido en el Paraíso.
 Aunque el avaro sea rico en posesiones,
 Él sufriría angustia, como si fuera un hombre pobre.
@@ -137,7 +137,7 @@ Porque exaltada será la dignidad de la amistad.
 La humildad enaltece al hombre,
 La humildad es una condecoración para los hombres de posición.
 Todo aquel que es humano es humilde;
-Nada conviene a un hombre excepto la magnanimidad. <span id="p35">[<sup><small>p. 35</small></sup>]</span>
+Nada conviene a un hombre excepto la magnanimidad. <span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 El hombre sabio elige la humildad;
 La rama cargada de frutos descansa sobre la tierra.
 La humildad aumentará tu reputación,
@@ -151,7 +151,7 @@ Es más que agradable encontrar en él humildad.
 La humildad te hará amado en el mundo
 Tú serás querido en los corazones de los hombres como su propia alma.
 No niegues la humildad a la humanidad,
-Porque así podrás sacar tu cuello (de la perplejidad) como si fuera una espada (de la vaina). <span id="p36">[<sup><small>p. 36</small></sup>]</span>
+Porque así podrás sacar tu cuello (de la perplejidad) como si fuera una espada (de la vaina). <span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 La humildad por parte de los exaltados es encomiable.
 Si un mendigo es humilde, es su naturaleza.
 
@@ -167,7 +167,7 @@ El orgullo es el hábito de los ignorantes,
 El orgullo no procede de los hombres de inteligencia.
 El orgullo provocó la caída de Azazil, [^7]
 Y lo llevó a quedar atrapado en la prisión de los malditos.
-Quien sea por naturaleza arrogante, <span id="p37">[<sup><small>p. 37</small></sup>]</span>
+Quien sea por naturaleza arrogante, <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 Su cabeza está llena de orgullo más allá de la imaginación.
 El orgullo es la fuente de la adversidad,
 El orgullo es la naturaleza de los malvados.
@@ -185,7 +185,7 @@ Ya que sin aprender no se puede conocer a Dios.
 Un hombre de sabiduría es un estudiante del aprendizaje,
 Para el mercado de la sabiduría es siempre dinámico.
 Quien sea afortunado en cuanto a la Eternidad,
-Elige la búsqueda del conocimiento. <span id="p38">[<sup><small>p. 38</small></sup>]</span>
+Elige la búsqueda del conocimiento. <span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 Esta búsqueda del conocimiento es un deber de tu parte,
 Incluso si es necesario atravesar la tierra.
 Ve, agarra fuerte la falda del conocimiento,
@@ -200,7 +200,7 @@ Porque tus asuntos serán resueltos por el conocimiento.
 ## EN CUANTO A EVITAR LA SOCIEDAD DE LOS IGNORANTES
 
 ¡Oh alma! si eres sabio e inteligente,
-No elijas la sociedad de los ignorantes. <span id="p39">[<sup><small>p. 39</small></sup>]</span>
+No elijas la sociedad de los ignorantes. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 Dardo de los ignorantes, como si fuera una flecha;
 No mezcles con ellos, como si fueran azúcar y leche.
 Si tienes un dragón por amigo en la cueva,
@@ -212,7 +212,7 @@ Y nadie ha oído de allí más que palabras viles.
 Nadie en el mundo es tan despreciable como el ignorante,
 Porque nada es más inútil que la ignorancia.
 El fin de los ignorantes será la morada de los perdidos,
-Para los ignorantes rara vez terminan bien la vida. <span id="p40">[<sup><small>p. 40</small></sup>]</span>
+Para los ignorantes rara vez terminan bien la vida. <span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 Es mejor que los ignorantes sean humillados,
 Porque es apropiado que los ignorantes encuentren desgracia.
 Es bueno evitar a los ignorantes,
@@ -228,7 +228,7 @@ Ya que la justicia es el adorno de la realeza,
 ¿Por qué no fijas tu corazón en la justicia?
 Tu reino será establecido
 Si la justicia viene a tu ayuda.
-Desde que Nushirwan [^8] eligió la justicia <span id="p41">[<sup><small>p. 41</small></sup>]</span>
+Desde que Nushirwan [^8] eligió la justicia <span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 Su nombre es ahora recordado por su bondad.
 La paz llega al reino por los efectos de la justicia,
 Ya que desde la justicia el reino alcanza sus deseos.
@@ -243,7 +243,7 @@ Cierra la puerta de la opresión contra la humanidad;
 No niegues tu favor a tus súbditos;
 Gratificar los deseos de los que buscan justicia.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 <span id="s12"></span>
 
@@ -259,7 +259,7 @@ Si un tirano levanta un suspiro del alma
 La angustia crea una llama sobre la tierra y el agua.
 No oprimas a los pobres indefensos. gente,
 Sin pensar más en la estrechez de la tumba.
-No te dejes llevar por el mercado de la opresión; <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+No te dejes llevar por el mercado de la opresión; <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 No seáis negligentes con el humo de los corazones de los hombres.
 ¡Oh hombre de prisa! no seas un opresor de la humanidad,
 Porque de repente la ira de Dios te alcanzará.
@@ -275,7 +275,7 @@ Tú ejercerás dominio en el reino del reposo.
 Si estás agobiado por las pruebas de la pobreza,
 Entonces, en la estimación de los sabios, la riqueza es nada.
 El pobre no se deshonra por la pobreza,
-Para la humanidad alcanzar la gloria de la penuria. <span id="p44">[<sup><small>p. 44</small></sup>]</span>
+Para la humanidad alcanzar la gloria de la penuria. <span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 El oro y la plata son la gloria de los ricos,
 Pero los pobres tienen reposo interior.
 No te angusties si no eres rico,
@@ -291,7 +291,7 @@ Si tienes alguna señal de buena fortuna.
 
 ¡Cuidado! tú que estás atrapado en la red de la avaricia,
 Para que no te vuelvas loco y embriagado con la copa de la avaricia.
-No desperdicies tu vida en la adquisición de riquezas, <span id="p45">[<sup><small>p. 45</small></sup>]</span>
+No desperdicies tu vida en la adquisición de riquezas, <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 Ya que una olla de barro no tiene el mismo valor que una perla.
 Quien haya caído en la trampa de la avaricia
 Da la cosecha de su vida a los vientos.
@@ -302,7 +302,7 @@ Como los indefensos, con angustia de corazón.
 ¿Por qué te angustias? ¿Con la angustia del oro?
 ¿Por qué llevas la carga de la angustia, como si fueras un asno?
 ¿Por qué? ¿Por qué sufres angustia por la riqueza,
-Porque de repente será barrido. <span id="p46">[<sup><small>p. 46</small></sup>]</span>
+Porque de repente será barrido. <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 ¿Has entregado así tu corazón a la imagen del dinero?
 Porque con el sabor de ello te convertirás en un compañero de bendición penitente.
 Tú te has convertido en tal amante de la cara de oro,
@@ -317,7 +317,7 @@ Quien por causa del mundo esparce la fe a los vientos.
 ## DESCRIPCIÓN DE OBEDIENCIA Y ADORACIÓN
 
 Cuando la fortuna es esclava de una persona
-Su corazón está perpetuamente dispuesto hacia la obediencia. <span id="p47">[<sup><small>p. 47</small></sup>]</span>
+Su corazón está perpetuamente dispuesto hacia la obediencia. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 No es apropiado apartar la cabeza de la servidumbre,
 Ya que la fortuna se obtiene de la obediencia.
 La felicidad se obtiene de la obediencia;
@@ -329,7 +329,7 @@ Ya que ninguna excelencia es más elevada que la obediencia.
 Mantén tus abluciones refrescadas con las aguas de la obediencia,
 Así que mañana podrás ser libre como del fuego.
 Establece tus oraciones con sinceridad,
-Para que puedas alcanzar la prosperidad eterna. <span id="p48">[<sup><small>p. 48</small></sup>]</span>
+Para que puedas alcanzar la prosperidad eterna. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 La iluminación del alma surge de la obediencia,
 Así como la tierra obtiene luz del sol.
 Adorar al Creador;
@@ -343,7 +343,7 @@ Que tú puede ser feliz, como los prósperos.
 Quienquiera que esté vestido con la vestimenta de la religión
 No tiene miedo de las pruebas del día del juicio.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 <span id="s16"></span>
 
@@ -362,7 +362,7 @@ No sea que se convierta en como la luz del sol oculta por las nubes.
 No dejes que tus lujurias,
 Para que no seas arrebatado de repente a la perdición.
 Si tu corazón no se aparta del pecado,
-Entre los más bajos de los bajos será tu morada. <span id="p50">[<sup><small>p. 50</small></sup>]</span>
+Entre los más bajos de los bajos será tu morada. <span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 No destruyas la casa de la vida
 Con el torrente de malas y acciones impropias.
 Si te mantienes lejos del pecado y la iniquidad,
@@ -377,7 +377,7 @@ Para un hombre con alma desea esta intoxicación (religiosa).
 El vino rubí en la copa de oro
 Es inspirador para el alma, como si fuera una hermosa perla.
 Bienvenido es el fuego del deseo para aquellos inspirados con amor!
-Bienvenidos sean los deliciosos dolores de los señores del amor! <span id="p51">[<sup><small>p. 51</small></sup>]</span>
+Bienvenidos sean los deliciosos dolores de los señores del amor! <span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 Traed este vino como si fuera el agua de la inmortalidad, [^10]
 Porque de su fragancia el alma encuentra liberación del dolor!
 Feliz aquella alma que desea un Amigo! [^11]
@@ -389,7 +389,7 @@ Vino—el más puro como un bello rostro!
 Felices hombres de alma que adoran el vino!
 Feliz el sabor del vino a los hombres de espíritu!
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 <span id="s18"></span>
 
@@ -404,7 +404,7 @@ Que no te avergüences delante de la cara de tus amigos.
 No coloques tu pie fuera de la calle de la fidelidad,
 Ya que la tiranía no es apropiada en el caso de amigos.
 Es un error separarse de los seres amados;
-Es contrario a la fidelidad separarse de tus compañeros. <span id="p53">[<sup><small>p. 53</small></sup>]</span>
+Es contrario a la fidelidad separarse de tus compañeros. <span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 La falta de fidelidad es un atributo de las mujeres.
 No aprendas la conducta indecorosa de ese sexo.
 
@@ -420,7 +420,7 @@ Tu riqueza y posesiones se incrementan con la gratitud;
 La victoria entra por tu puerta, gracias a la gratitud.
 Si tú mostraras gratitud a Dios hasta el día del ajuste de cuentas,
 Tú no cumplirías ni una milésima parte (de tus deberes).
-Sí, lo mejor es balbucear tu gratitud, <span id="p54">[<sup><small>p. 54</small></sup>]</span>
+Sí, lo mejor es balbucear tu gratitud, <span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 Porque la gratitud hacia Él es un adorno para el Islam.
 Si tú no restringes tu lengua de gratitud a Dios,
 Tú alcanzarás la felicidad eterna.
@@ -438,7 +438,7 @@ Para guardar la paciencia no hay clave para ellos.
 La paciencia te concede el deseo de tu corazón,
 Porque en manos de la humanidad tus dificultades se resuelven.
 La paciencia es lo mejor en cada caso,
-Porque en esta frase hay mucho significado. <span id="p55">[<sup><small>p. 55</small></sup>]</span>
+Porque en esta frase hay mucho significado. <span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 La paciencia te concederá tu deseo,
 Te alivia del dolor y la desgracia.
 La paciencia es la llave de la puerta de tus aspiraciones,
@@ -457,7 +457,7 @@ Ya que desde la rectitud el nombre de un hombre es exaltado.
 Si tú respiras la verdad en la mañana
 Tú evitarás la oscuridad de la ignorancia.
 Ten cuidado de no respirar nada más que rectitud,
-Desde la mano derecha tiene preeminencia sobre la izquierda, <span id="p56">[<sup><small>p. 56</small></sup>]</span>
+Desde la mano derecha tiene preeminencia sobre la izquierda, <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 Nada es mejor en el mundo que la rectitud,
 Porque en el capullo de la rectitud no hay espina.
 
@@ -478,7 +478,7 @@ Porque el mentiroso es despreciado y sin reputación.
 Nada es peor que la injusticia;
 ¡Oh hijo! de ahí surge la pérdida de la buena reputación.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 <span id="s23"></span>
 
@@ -496,7 +496,7 @@ Uno es un pagador de impuestos, y otro se sienta en un trono;
 Uno es exaltado, y otro degradado;
 Uno se sienta sobre una estera, y otro sobre un trono;
 Uno está en harapos, y otro está vestido de seda;
-Uno no tiene pan, y otro se deleita en riquezas; <span id="p58">[<sup><small>p. 58</small></sup>]</span>
+Uno no tiene pan, y otro se deleita en riquezas; <span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 Uno está decepcionado, y otro próspero;
 Uno es afligido, y otro se revolca en riquezas;
 Uno tiene un destino transitorio, y otro se establece por toda la eternidad;
@@ -510,7 +510,7 @@ Uno es de buena disposición, y otro es de temperamento apresurado;
 Uno es paciente y otro es pendenciero;
 Uno está a gusto, otro en el dolor;
 Uno está en dificultades, otro es próspero;
-Uno es un jefe en el mundo del lujo, <span id="p59">[<sup><small>p. 59</small></sup>]</span>
+Uno es un jefe en el mundo del lujo, <span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 Otro es un cautivo en las trampas de la adversidad;
 Uno se establece en el jardín de rosas de la comodidad,
 Otro se asocia con angustia, dolor y angustia;
@@ -523,7 +523,7 @@ Otro duerme ebrio en el rincón de una tienda de vinos;
 Uno está fijado firme como una clavija en la puerta de la religión,
 Otro es un pecador en el camino de la infidelidad;
 Uno es próspero, erudito e inteligente,
-Otro es desafortunado, ignorante y avergonzado; <span id="p60">[<sup><small>p. 60</small></sup>]</span>
+Otro es desafortunado, ignorante y avergonzado; <span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 Uno es un campeón, ágil y un guerrero,
 Otro es pusilánime, indolente y sin coraje;
 Uno excede todos los límites en la posesión de riqueza,
@@ -539,7 +539,7 @@ Por tanto, no confíes en la fortuna,
 Porque de repente privará a tu alma de la vida.
 No confíes en un ejército innumerable,
 Porque puede ser que no te ayude la victoria.
-No confíes en el reino, la posición y el rango, <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+No confíes en el reino, la posición y el rango, <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 Porque existían antes que tú, y permanecerán después de ti.
 No hagas mal porque veas algo malo en la parte de un verdadero amigo;
 El buen fruto no crece de mala semilla.
@@ -551,7 +551,7 @@ Muchos son los guerreros feroces que dispersan ejércitos;
 Muchos son los hombres que parecen leones y que hieren con la espada;
 Muchas son las bellezas de cara de luna de figura graciosa;
 Muchos son los encantadores con estatura como el sol;
-Muchos son los recién nacidos con hermosas mejillas; <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+Muchos son los recién nacidos con hermosas mejillas; <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 Muchas son las novias recién engalanadas;
 Muchos son los famosos, y muchos son los afortunados;
 Muchos son como el ciprés en estatura, y muchas son las bellezas de mejillas sonrosadas
@@ -564,7 +564,7 @@ Porque la desgracia puede llover sobre ella desde el cielo.
 No pongas tu corazón en esta morada material,
 Porque tú no encontrarás en ello deleite para tu alma.
 No pongas tus afectos en esta antigua y ruinosa morada
-Porque no estará exento de dolor y pena. <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+Porque no estará exento de dolor y pena. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 El mundo no tiene permanencia, ¡Oh, hijo mío!
 No pases tu vida allí en negligencia.
 No fijes tu corazón en esta morada perecedera.

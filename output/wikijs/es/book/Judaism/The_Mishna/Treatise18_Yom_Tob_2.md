@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 2. Cuando la festividad se celebra inmediatamente después del sabbat, Bet Shamai dice: «Todo lo que requiera purificación debe sumergirse antes del sabbat». Pero Bet Hillel dice: «Los vasos deben sumergirse antes del sabbat, y los seres humanos en el sabbat».
 
-§ 3. Ambas escuelas coinciden en que el agua contaminada puede purificarse colocándola en una vasija de barro y poniéndola en contacto con las aguas de un baño, pero no en una vasija impura. Sin embargo, es lícito sumergir vasijas cuya apropiación original <span id="p148">[<sup><small>p. 148</small></sup>]</span> haya sido alterada, [^418] y las personas pueden bañarse cuando han cambiado de compañía para comer el cordero pascual. [^419]
+§ 3. Ambas escuelas coinciden en que el agua contaminada puede purificarse colocándola en una vasija de barro y poniéndola en contacto con las aguas de un baño, pero no en una vasija impura. Sin embargo, es lícito sumergir vasijas cuya apropiación original <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> haya sido alterada, [^418] y las personas pueden bañarse cuando han cambiado de compañía para comer el cordero pascual. [^419]
 
 § 4. Bet Shamai dice: «Se pueden traer ofrendas de paz durante la festividad, pero no se puede imponer las manos sobre ellas; [^420] tampoco se puede traer holocaustos en ella». Pero Bet Hillel permite traer ofrendas de paz y holocaustos, y la imposición de manos sobre ellos.
 

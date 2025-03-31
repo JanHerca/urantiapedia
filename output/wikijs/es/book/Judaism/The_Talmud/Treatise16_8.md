@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 3\. Quien quemó la vaca alazana y los toros; [^640] y quien envió al chivo expiatorio, contamina las vestiduras. La vaca, los toros y el chivo expiatorio enviados no pueden, por sí mismos, contaminar las vestiduras. Este es el proverbio: «Lo que te contamina a ti, no puede contaminarme a mí, pero tú sí puedes contaminarme a mí».
 
-4\. Si uno come del cadáver de un ave limpia, tal como está en su garganta, contamina la ropa. El cadáver en sí no contamina la ropa. Este es el proverbio: <span id="p314">[<sup><small>p. 314</small></sup>]</span> «Lo que te contamina a ti no puede contaminarme a mí, pero tú sí puedes contaminarme a mí».
+4\. Si uno come del cadáver de un ave limpia, tal como está en su garganta, contamina la ropa. El cadáver en sí no contamina la ropa. Este es el proverbio: <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> «Lo que te contamina a ti no puede contaminarme a mí, pero tú sí puedes contaminarme a mí».
 
 5\. Toda impureza secundaria [^641] no contamina los vasos, pero sí los líquidos. Si los líquidos se contaminan, contaminan los vasos. Este es el proverbio: «Lo que te contamina a ti no puede contaminarme a mí, pero tú sí puedes contaminarme a mí».
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 CAPÍTULO IV., Versículo 3.—Cásense con la que les parezca mejor de las mujeres, de dos en dos, de tres en tres, de cuatro en cuatro; y si temen que no puedan ser equitativos, entonces sólo con una, o con lo que posea su mano derecha. (\*) [^0] Eso los mantiene más cerca de no ser parciales.
 
@@ -44,7 +44,7 @@ Y si quieren divorciarse de ellos, en verdad, Dios oye y sabe.
 
 El divorcio (puede ocurrir) dos veces; entonces mantenlos en la razón, o déjalos ir con bondad. No te es lícito tomar de ellos nada de lo que les has dado, a menos que ambos teman que no pueden mantenerse dentro de los límites de Dios.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 (230).—Pero si él la divorcia (por tercera vez) ella no será legítima para él después de eso, hasta que se case con otro marido; pero si él también la divorcia, no es crimen que ambos se vuelvan a juntar, si piensan que pueden mantenerse dentro de los límites de Dios. Estos son los límites de Dios que Él explica a un pueblo que sabe.
 
@@ -60,7 +60,7 @@ Capítulo IV., Versículo 24.—Pero si queréis cambiar una mujer por otra, y l
 
 Capítulo XXXIII., Versículo 46.—¡Oh vosotros los que creéis!
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 cuando os casáis con mujeres creyentes y luego os divorciáis de ellas antes de haberlas tocado, no tenéis ningún plazo que debáis observar; así que hacedles alguna provisión y dejadlas ir generosamente en libertad.
 

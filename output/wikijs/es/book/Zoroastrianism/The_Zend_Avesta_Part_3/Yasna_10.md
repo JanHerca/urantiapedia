@@ -44,7 +44,7 @@ Te alabo con mi voz, mientras agarro tus primeros brotes. A tu siguiente presió
 
 3\. Alabo la nube que te riega, y las lluvias que te hacen crecer en las cumbres de los montes; y alabo tus elevadas montañas donde se extienden las ramas del H(a)oma [^995].
 
-4\. Alabo esta vasta tierra, extendida a lo lejos (con senderos), la productiva, la que da fruto, tu madre, ¡planta santa! Sí, alabo las tierras donde creces, fragante, de rápida expansión, el buen crecimiento del Señor. Oh(a)oma, creces en las montañas, apartada por muchos senderos [^996], y allí aún puedes florecer. ¡Eres, en verdad, el manantial de la Rectitud (y las fuentes del ritual se originan en ti)! <span id="p241">[<sup><small>p. 241</small></sup>]</span> 5\. ¡Crece (entonces) porque te ruego, en todos tus tallos y ramas, en todos tus brotes (y zarcillos), creces mediante mi palabra!
+4\. Alabo esta vasta tierra, extendida a lo lejos (con senderos), la productiva, la que da fruto, tu madre, ¡planta santa! Sí, alabo las tierras donde creces, fragante, de rápida expansión, el buen crecimiento del Señor. Oh(a)oma, creces en las montañas, apartada por muchos senderos [^996], y allí aún puedes florecer. ¡Eres, en verdad, el manantial de la Rectitud (y las fuentes del ritual se originan en ti)! <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 5\. ¡Crece (entonces) porque te ruego, en todos tus tallos y ramas, en todos tus brotes (y zarcillos), creces mediante mi palabra!
 
 ---
 
@@ -80,7 +80,7 @@ A la obediencia me he entregado, y a la desobediencia sorda, no; al santo perten
 
 17\. Entonces habló Zaratustra: Alabado sea H(a)oma, hecho por Mazda. Bueno es H(a)oma, hecho por Mazda. Alabo todas las plantas de H(a)oma, en las cimas de las altas montañas, en las gargantas de los valles, en las hendiduras (de laderas desgarradas) cortadas para los bultos que atan las mujeres. De la copa de plata te derramo en el cáliz de oro sobre [^1008]. No permitas que tu licor (sagrado) se derrame sobre la tierra, de preciado valor.
 
-18\. Estos son tus Gâthas [^1009], sagrado H(a)oma, estos <span id="p244">[<sup><small>p. 244</small></sup>]</span> tus canciones, y estas tus enseñanzas [^1010], y estas tus palabras rituales veraces, que imparten salud [^1011]\, que otorgan victoria, que curan del odio dañino.
+18\. Estos son tus Gâthas [^1009], sagrado H(a)oma, estos <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> tus canciones, y estas tus enseñanzas [^1010], y estas tus palabras rituales veraces, que imparten salud [^1011]\, que otorgan victoria, que curan del odio dañino.
 
 19\. Estos y tú sois míos, y que fluyan vuestros júbilos; brillantes y centelleantes, que se mantengan firmes en su camino; pues ligeros son vuestros júbilos, y con ligereza llegan aquí. El que da la victoria castiga a H(a)oma, que da la victoria es venerado; con esta palabra gática lo alabamos.
 

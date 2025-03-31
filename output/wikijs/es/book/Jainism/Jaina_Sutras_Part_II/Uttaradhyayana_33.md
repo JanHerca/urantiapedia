@@ -46,7 +46,7 @@ Los ocho tipos de Karman son brevemente los siguientes:
 
 4\. Môhanîya (que conduce al engaño);
 
-5\. Âyu<i>h</i>karman (que determina la duración de la vida); <span id="p193">[<sup><small>p. 193</small></sup>]</span> 6\. Nâman (que determina el nombre o individualidad del alma encarnada);
+5\. Âyu<i>h</i>karman (que determina la duración de la vida); <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> 6\. Nâman (que determina el nombre o individualidad del alma encarnada);
 
 7\. Gôtra (que determina su Gôtra);
 

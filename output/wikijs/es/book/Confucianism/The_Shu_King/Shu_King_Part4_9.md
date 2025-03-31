@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:52:26Z
   </table>
 </figure>
 
-KÂO ȜUNG era el título que se le daba a Wû-ting tras su muerte en el templo ancestral. Se ofrecía un sacrificio suplementario al día siguiente del servicio regular, más solemne. Sería difícil determinar qué propósito especial se relacionaba con él; <span id="p119">[<sup><small>p. 119</small></sup>]</span> pero al final, se celebraba un festín para los representantes o personificadores de los muertos en el sacrificio del día anterior.
+KÂO ȜUNG era el título que se le daba a Wû-ting tras su muerte en el templo ancestral. Se ofrecía un sacrificio suplementario al día siguiente del servicio regular, más solemne. Sería difícil determinar qué propósito especial se relacionaba con él; <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> pero al final, se celebraba un festín para los representantes o personificadores de los muertos en el sacrificio del día anterior.
 
 El título de este breve libro deja en la incertidumbre si el sacrificio fue ofrecido a Wû-ting o por él. La nota introductoria se basa en la primera opinión. Muchos críticos de gran inteligencia se inclinan por la segunda, que un nuevo análisis del texto me ha inducido a adoptar. El rey es, pues, Ȝû-kăng, hijo de Wû-ting. Algo irregular o excesivo en el sacrificio a su padre era lo que su monitor, Ȝû Kî, quería censurar, aprovechando el incidente mencionado en la primera frase.
 

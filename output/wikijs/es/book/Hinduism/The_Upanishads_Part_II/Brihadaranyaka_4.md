@@ -70,7 +70,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 <i>G</i>anaka Vaideha respondió: 'Udaṅka <i>S</i>aulbâyana me dijo que la vida (prâ<i>n</i>a) [^463] es Brahman.'
 
-Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, madre y maestro podría decir, así <span id="p154">[<sup><small>p. 154</small></sup>]</span> Udaṅka <i>S</i>aulbâyana te dijo que la vida es Brahman; pues ¿de qué sirve una persona sin vida? Pero ¿te habló del cuerpo y el lugar de descanso de ese Brahman?»
+Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio de) un buen padre, madre y maestro podría decir, así <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> Udaṅka <i>S</i>aulbâyana te dijo que la vida es Brahman; pues ¿de qué sirve una persona sin vida? Pero ¿te habló del cuerpo y el lugar de descanso de ese Brahman?»
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
@@ -164,7 +164,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 <i>G</i>anaka Vaideha respondió: 'Vidagdha <i>S</i>âkalya me dijo que el corazón (hridaya) es Brahman'.
 
-Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio <span id="p158">[<sup><small>p. 158</small></sup>]</span> de un buen padre, madre y maestro, así también Vidagdha <i>S</i>âkalya te dijo que el corazón es Brahman; pues ¿de qué sirve una persona sin corazón? Pero ¿te habló del cuerpo y el lugar de descanso de ese Brahman?»
+Yâ<i>g</i>_ñ_avalkya dijo: «Como quien tuvo (el beneficio <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> de un buen padre, madre y maestro, así también Vidagdha <i>S</i>âkalya te dijo que el corazón es Brahman; pues ¿de qué sirve una persona sin corazón? Pero ¿te habló del cuerpo y el lugar de descanso de ese Brahman?»
 
 <i>Ganaka</i> Vaideha dijo: "No me lo dijo".
 
@@ -187,7 +187,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'Mi padre opinaba que uno no debía aceptar una rec
 
 1\. <i>Ganaka Vaideha</i>, descendiendo de su trono, dijo: 'Me inclino ante ti, oh Yâ<i>g</i>_ñ_avalkya, enséñame.'
 
-Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, como quien desea emprender un largo viaje se proveería de un carro o un barco, así está su mente bien <span id="p159">[<sup><small>p. 159</small></sup>]</span> provista por estos Upanishads [^467]. Usted es honorable y rico, ha estudiado los Vedas y le han sido enseñados los Upanishads. ¿Adónde irá entonces al partir de aquí?»
+Yâ<i>g</i>_ñ_avalkya dijo: «Su Majestad, como quien desea emprender un largo viaje se proveería de un carro o un barco, así está su mente bien <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> provista por estos Upanishads [^467]. Usted es honorable y rico, ha estudiado los Vedas y le han sido enseñados los Upanishads. ¿Adónde irá entonces al partir de aquí?»
 
 <i>Ganaka</i> Vaideha dijo: “Señor, no sé a dónde iré”.
 
@@ -220,7 +220,7 @@ Entonces <i>Ganaka</i> dijo: «Que esa valentía te llegue también a ti, que no
 
 ## TERCER BRAHMANA.
 
-1\. Yâ<i>g</i>_ñ_avalkya llegó a <i>G</i>anaka Vaideha, y no tenía intención de hablar con él [^476]. Pero cuando <span id="p162">[<sup><small>p. 162</small></sup>]</span> <i>G</i>anaka Vaideha y Yâ<i>g</i>_ñ_avalkya tuvieron una discusión sobre el Agnihotra, Yâ<i>g</i>_ñ_avalkya le había concedido una gracia, y él eligió (como gracia) tener la libertad de hacerle cualquier pregunta que quisiera. Yâ<i>g</i>_ñ_avalkya se la concedió, y así el Rey fue el primero en hacerle una pregunta.
+1\. Yâ<i>g</i>_ñ_avalkya llegó a <i>G</i>anaka Vaideha, y no tenía intención de hablar con él [^476]. Pero cuando <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> <i>G</i>anaka Vaideha y Yâ<i>g</i>_ñ_avalkya tuvieron una discusión sobre el Agnihotra, Yâ<i>g</i>_ñ_avalkya le había concedido una gracia, y él eligió (como gracia) tener la libertad de hacerle cualquier pregunta que quisiera. Yâ<i>g</i>_ñ_avalkya se la concedió, y así el Rey fue el primero en hacerle una pregunta.
 
 2\. 'Yâ<i>g</i>_ñ_avalkya', dijo, '¿qué es la luz del hombre [^477]?'
 
@@ -236,7 +236,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: “La luna en verdad es su luz; pues, teniend
 
 4\. <i>G</i>anaka Vaideha dijo: 'Cuando el sol se ha puesto, oh Yâ<i>g</i>_ñ_avalkya, y la luna se ha puesto, ¿qué es la luz del hombre?'
 
-Yâ<i>g</i>_ñ_avalkya respondió: 'El fuego en verdad es su luz; <span id="p163">[<sup><small>p. 163</small></sup>]</span> porque, teniendo solo el fuego como su luz, el hombre se sienta, se mueve, hace su trabajo y regresa.'
+Yâ<i>g</i>_ñ_avalkya respondió: 'El fuego en verdad es su luz; <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> porque, teniendo solo el fuego como su luz, el hombre se sienta, se mueve, hace su trabajo y regresa.'
 
 5\. <i>G</i>anaka Vaideha dijo: 'Cuando el sol se ha puesto, oh Yâ<i>g</i>_ñ_avalkya, y la luna se ha puesto, y el fuego se ha apagado, ¿qué es entonces la luz del hombre?'
 
@@ -252,7 +252,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: “El Ser en verdad es su luz; pues, teniendo sólo
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Quien está en el corazón, rodeado de los Prâ<i>n</i>as [^478] (sentidos), la persona de luz, compuesta de conocimiento. Él, permaneciendo inmutable, vaga por los dos mundos [^479], como si [^480] pensara, como si se moviera. Durante el sueño profundo (en sueños), trasciende este mundo y todas las formas de muerte (todo lo que cae bajo el dominio de la muerte, todo lo perecedero).»
 
-8\. 'Al nacer, esa persona, al asumir su cuerpo, <span id="p164">[<sup><small>p. 164</small></sup>]</span> se une a todos los males; cuando parte y muere, deja atrás todos los males.
+8\. 'Al nacer, esa persona, al asumir su cuerpo, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> se une a todos los males; cuando parte y muere, deja atrás todos los males.
 
 9\. 'Y hay dos estados para esa persona: uno aquí en este mundo, otro en el otro mundo, y como tercero [^481] un estado intermedio, el estado de sueño. Cuando se encuentra en ese estado intermedio, ve ambos estados juntos, uno aquí en este mundo y otro en el otro mundo. Ahora bien, sea cual sea su admisión al otro mundo, tras obtenerla, ve tanto los males como las bendiciones [^482].
 
@@ -280,7 +280,7 @@ Ganaka Vaideha dijo: «Señor, le doy mil. Hable por mi emancipación».
 
 15\. Yâ<i>g</i>_ñ_avalkya dijo: «Esa persona, tras haber disfrutado de ese estado de dicha (samprasâda, sueño profundo), tras haber recorrido el mundo y haber visto tanto el bien como el mal, regresa apresuradamente, como llegó, al lugar de donde partió (el lugar del sueño), para soñar [^487]. Y sea lo que sea que haya visto allí, no le afecta, pues esa persona no está apegada a nada».
 
-<i>G</i>anaka Vaideha dijo: «Así es, Yâ<i>g</i>_ñ_avalkya. <span id="p167">[<sup><small>p. 167</small></sup>]</span> Te doy, señor, mil. Habla por la emancipación».
+<i>G</i>anaka Vaideha dijo: «Así es, Yâ<i>g</i>_ñ_avalkya. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> Te doy, señor, mil. Habla por la emancipación».
 
 16\. Yâ<i>g</i>_ñ_avalkya dijo: «Esa persona, tras disfrutar de ese sueño, tras haber recorrido un largo camino y haber visto tanto el bien como el mal, regresa apresuradamente, como llegó, al lugar de donde partió, para despertar. Y lo que sea que haya visto allí, no le afecta, pues esa persona no está apegada a nada».
 
@@ -292,9 +292,9 @@ Ganaka Vaideha dijo: «Así es, Yâ<i>g</i>_ñ_avalkya. Te doy mil, señor. Habl
 
 19\. 'Y como un halcón, o cualquier otra ave veloz, después de haber vagado por el aire, se cansa y, plegando sus alas, es llevado a su nido, así también esa persona se apresura a ese estado en el que, cuando duerme, ya no desea más deseos ni sueña más sueños.
 
-20\. «Hay en su cuerpo las venas llamadas Hitâ, tan pequeñas como un cabello dividido mil veces, llenas de blanco, azul, amarillo, verde y rojo [^488]. Ahora bien, <span id="p168">[<sup><small>p. 168</small></sup>]</span> cuando, por así decirlo, lo matan, cuando, por así decirlo, lo vencen, cuando, por así decirlo, un elefante lo persigue, cuando, por así decirlo, cae en un pozo, imagina, por ignorancia, ese peligro que (comúnmente) ve al despertar. Pero cuando imagina que es, por así decirlo, un dios, o que es, por así decirlo, un rey [^489], o «Soy esto completamente», ese es su mundo más elevado [^490].
+20\. «Hay en su cuerpo las venas llamadas Hitâ, tan pequeñas como un cabello dividido mil veces, llenas de blanco, azul, amarillo, verde y rojo [^488]. Ahora bien, <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> cuando, por así decirlo, lo matan, cuando, por así decirlo, lo vencen, cuando, por así decirlo, un elefante lo persigue, cuando, por así decirlo, cae en un pozo, imagina, por ignorancia, ese peligro que (comúnmente) ve al despertar. Pero cuando imagina que es, por así decirlo, un dios, o que es, por así decirlo, un rey [^489], o «Soy esto completamente», ese es su mundo más elevado [^490].
 
-21\. «Esta es, en verdad, su (verdadera) forma, libre de deseos, libre de maldad, libre de temor [^491]. Así como un hombre, al ser abrazado por su amada esposa, no conoce nada externo ni interno, así también esta persona, al ser abrazada por el Ser inteligente (prâ<i>g</i>_ñ_a), no conoce nada externo ni interno. Esta es, en verdad, su (verdadera) forma, en la que sus deseos se cumplen, en la que el Ser (solo) es <span id="p169">[<sup><small>p. 169</small></sup>]</span> su deseo, en el que no queda ningún deseo, libre de toda pena [^492].
+21\. «Esta es, en verdad, su (verdadera) forma, libre de deseos, libre de maldad, libre de temor [^491]. Así como un hombre, al ser abrazado por su amada esposa, no conoce nada externo ni interno, así también esta persona, al ser abrazada por el Ser inteligente (prâ<i>g</i>_ñ_a), no conoce nada externo ni interno. Esta es, en verdad, su (verdadera) forma, en la que sus deseos se cumplen, en la que el Ser (solo) es <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> su deseo, en el que no queda ningún deseo, libre de toda pena [^492].
 
 22\. 'Entonces un padre no es un padre, una madre no es una madre, los mundos no son mundos, los dioses no son dioses, los Vedas no son Vedas. Entonces un ladrón no es un ladrón, un asesino no es un asesino [^493], un <i>K</i>â<i>n</i><i>d</i>âla [^494] no es un <i>K</i>â<i>n</i><i>d</i>âla, un Paulkasa [^495] no es un Paulkasa, un <i>S</i>rama<i>n</i>a [^496] no es un <i>S</i>rama<i>n</i>a, un Tâpasa [^497] no es un Tâpasa. No le sigue el bien, no le sigue el mal, pues entonces ha superado todas las penas del corazón [^498].
 
@@ -308,7 +308,7 @@ Ganaka Vaideha dijo: «Así es, Yâ<i>g</i>_ñ_avalkya. Te doy mil, señor. Habl
 
 27\. 'Y cuando (se dice que) allí (en el Sushupti) no oye, sin embargo, está oyendo, aunque no oye. Pues la audición es inseparable del oyente, porque no puede perecer. Pero entonces no hay segundo, nada diferente de él que pueda oír.
 
-28\. 'Y cuando (se dice que) allí (en el Sushupti) no piensa, sin embargo, está pensando, aunque no piense. Pues el pensamiento es inseparable del pensador, porque no puede perecer. <span id="p171">[<sup><small>p. 171</small></sup>]</span> Pero entonces no hay segundo, nada diferente de él que pueda pensar.
+28\. 'Y cuando (se dice que) allí (en el Sushupti) no piensa, sin embargo, está pensando, aunque no piense. Pues el pensamiento es inseparable del pensador, porque no puede perecer. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> Pero entonces no hay segundo, nada diferente de él que pueda pensar.
 
 29\. 'Y cuando (se dice que) allí (en el Sushupti) él no toca, sin embargo, está tocando, aunque no toque. Pues el tocar es inseparable del que toca, porque no puede perecer. Pero entonces no hay segundo, nada diferente de él que él pudiera pensar.
 
@@ -318,7 +318,7 @@ Ganaka Vaideha dijo: «Así es, Yâ<i>g</i>_ñ_avalkya. Te doy mil, señor. Habl
 
 32\. «Un océano [^500] es ese único vidente, sin dualidad alguna; este es el mundo de Brahma [^501], oh Rey». Así le enseñó Yâ<i>g</i>_ñ_avalkya. Esta es su meta más alta, este es su mayor Éxito, este es su mundo más alto, esta es su mayor dicha. Todas las demás criaturas viven de una pequeña porción de esa dicha.
 
-33\. «Si un hombre goza de salud, riqueza y es dueño de los demás, rodeado de todos los placeres humanos, esa <span id="p172">[<sup><small>p. 172</small></sup>]</span> es la mayor bendición de los hombres. Cien de estas bendiciones humanas constituyen una bendición para los patriarcas que han conquistado el mundo (de los patriarcas). Cien bendiciones para los patriarcas que han conquistado este mundo constituyen una bendición en el mundo Gandharva. Cien bendiciones en el mundo Gandharva constituyen una bendición para los Devas por mérito (trabajo, sacrificio), quienes obtienen su divinidad por mérito. Cien bendiciones para los Devas por mérito constituyen una bendición para los Devas por nacimiento, también (de) un <i>S</i>rotriya [^502] sin pecado y sin deseo.» Cien bendiciones de los Devas por nacimiento constituyen una bendición en el mundo de Pra<i>g</i>âpati, también (de) un <i>s</i>rotriya sin pecado y no dominado por el deseo. Cien bendiciones en el mundo de Pra<i>g</i>âpati constituyen una bendición en el mundo de Brahman, también (de) un <i>s</i>rotriya sin pecado y no dominado por el deseo. Y esta es la bendición suprema [^503].
+33\. «Si un hombre goza de salud, riqueza y es dueño de los demás, rodeado de todos los placeres humanos, esa <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> es la mayor bendición de los hombres. Cien de estas bendiciones humanas constituyen una bendición para los patriarcas que han conquistado el mundo (de los patriarcas). Cien bendiciones para los patriarcas que han conquistado este mundo constituyen una bendición en el mundo Gandharva. Cien bendiciones en el mundo Gandharva constituyen una bendición para los Devas por mérito (trabajo, sacrificio), quienes obtienen su divinidad por mérito. Cien bendiciones para los Devas por mérito constituyen una bendición para los Devas por nacimiento, también (de) un <i>S</i>rotriya [^502] sin pecado y sin deseo.» Cien bendiciones de los Devas por nacimiento constituyen una bendición en el mundo de Pra<i>g</i>âpati, también (de) un <i>s</i>rotriya sin pecado y no dominado por el deseo. Cien bendiciones en el mundo de Pra<i>g</i>âpati constituyen una bendición en el mundo de Brahman, también (de) un <i>s</i>rotriya sin pecado y no dominado por el deseo. Y esta es la bendición suprema [^503].
 
 «Éste es el mundo de Brahma, oh rey», así habló Yâ<i>g</i>_ñ_avalkya.
 
@@ -326,7 +326,7 @@ Ganaka Vaideha dijo: «Señor, le doy mil. Hable por mi emancipación».
 
 Entonces Yâ<i>g</i>_ñ_avalkya tuvo miedo de que el Rey, habiéndose vuelto lleno de entendimiento, lo expulsara de todas sus posiciones [^504].
 
-34\. Y Yâ<i>g</i>_ñ_avalkya dijo: 'Esa (persona), habiéndose recreado en ese estado de dormir (sueño), <span id="p173">[<sup><small>p. 173</small></sup>]</span> habiéndose movido y visto tanto el bien como el mal, se apresura a regresar como vino, al lugar de donde partió, al estado de vigilia [1](Brihadaranyaka_4#fn505).
+34\. Y Yâ<i>g</i>_ñ_avalkya dijo: 'Esa (persona), habiéndose recreado en ese estado de dormir (sueño), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> habiéndose movido y visto tanto el bien como el mal, se apresura a regresar como vino, al lugar de donde partió, al estado de vigilia [1](Brihadaranyaka_4#fn505).
 
 35\. 'Ahora bien, como un carruaje cargado avanza gimiendo, así también este Ser corpóreo, montado por el Ser inteligente, avanza gimiendo, cuando un hombre está a punto de expirar [2](Brihadaranyaka_4#fn506).
 
@@ -339,7 +339,7 @@ Entonces Yâ<i>g</i>_ñ_avalkya tuvo miedo de que el Rey, habiéndose vuelto lle
 
 ## CUARTO BRAHMANA.
 
-1\. Yâ<i>g</i>_ñ_avalkya continuó: 'Ahora bien, cuando ese Ser, habiéndose hundido en la debilidad [^507], se hunde, por así decirlo, en la <span id="p174">[<sup><small>p. 174</small></sup>]</span> inconsciencia, entonces reúne esos sentidos (prâ<i>n</i>as) a su alrededor, y él, llevando consigo esos elementos de luz, desciende al corazón. Cuando esa persona en el ojo [^508] se aleja, entonces deja de conocer cualquier forma.
+1\. Yâ<i>g</i>_ñ_avalkya continuó: 'Ahora bien, cuando ese Ser, habiéndose hundido en la debilidad [^507], se hunde, por así decirlo, en la <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> inconsciencia, entonces reúne esos sentidos (prâ<i>n</i>as) a su alrededor, y él, llevando consigo esos elementos de luz, desciende al corazón. Cuando esa persona en el ojo [^508] se aleja, entonces deja de conocer cualquier forma.
 
 2\. «Se ha vuelto uno», dicen, «no ve [^509]». «Se ha vuelto uno», dicen, «no huele». «Se ha vuelto uno», dicen, «no saborea». «Se ha vuelto uno», dicen, «no habla». «Se ha vuelto uno», dicen, «no oye». «Se ha vuelto uno», dicen, «no piensa». «Se ha vuelto uno», dicen, «no toca». «Se ha vuelto uno», dicen, «no sabe». El punto de su corazón [^510] se ilumina, y por esa luz el Ser parte, ya sea por el ojo [^511], por el cráneo [^512] o por otras partes del cuerpo. Y cuando así parte, la vida (el prâ<i>n</i>a principal) parte tras él, y cuando la vida así parte, todos los demás espíritus vitales (prâ<i>n</i>as) parten tras ella. Él está consciente, y siendo consciente, lo sigue [^513] y parte.
 
@@ -347,7 +347,7 @@ Entonces Yâ<i>g</i>_ñ_avalkya tuvo miedo de que el Rey, habiéndose vuelto lle
 
 3\. 'Y como una oruga, después de haber llegado al extremo de una brizna de hierba, y después de haber hecho otro acercamiento (a otra brizna) [^515], se atrae hacia ella, así también este Ser, después de haberse desprendido de este cuerpo [^516] y disipado toda ignorancia, y después de haber hecho otro acercamiento (a otro cuerpo), se atrae hacia él.
 
-4\. Y como un orfebre, al tomar una pieza de oro, le da una forma más nueva y hermosa, así también este Ser, tras desprenderse de este cuerpo <span id="p176">[<sup><small>p. 176</small></sup>]</span> y disipar toda ignorancia, se crea otra forma más nueva y hermosa, ya sea como los Padres, como los Gandharvas, como los Devas, como Pra<i>g</i>apati, como Brahman, o como otros seres.
+4\. Y como un orfebre, al tomar una pieza de oro, le da una forma más nueva y hermosa, así también este Ser, tras desprenderse de este cuerpo <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> y disipar toda ignorancia, se crea otra forma más nueva y hermosa, ya sea como los Padres, como los Gandharvas, como los Devas, como Pra<i>g</i>apati, como Brahman, o como otros seres.
 
 5\. 'Ese Ser es, en verdad, Brahman, compuesto de conocimiento, mente, vida, vista, oído, tierra, agua, viento, éter, luz y no luz, deseo y no deseo, ira y no ira, correcto o incorrecto, y todas las cosas. Ahora bien, según sea un hombre así o asá [^517], según sus acciones y su comportamiento, así será: un hombre de buenas acciones se volverá bueno, un hombre de malas acciones, malo. Se vuelve puro por las buenas acciones, malo por las malas acciones.
 
@@ -357,7 +357,7 @@ Y aquí dicen que una persona se compone de deseos. Y según sea su deseo, así 
 
 Esto en cuanto al hombre que desea. Pero en cuanto al hombre que no desea, que, sin desear, libre de deseos, se satisface en sus deseos, o solo desea al Ser, sus espíritus vitales no parten a otro lugar; siendo Brahman, va a Brahman.
 
-7\. 'Sobre esto hay este verso: "Cuando todos los deseos <span id="p177">[<sup><small>p. 177</small></sup>]</span> que una vez entraron en su corazón se deshacen, entonces el mortal se vuelve inmortal y obtiene a Brahman.
+7\. 'Sobre esto hay este verso: "Cuando todos los deseos <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> que una vez entraron en su corazón se deshacen, entonces el mortal se vuelve inmortal y obtiene a Brahman.
 
 'Y así como el cuerpo de una serpiente yace sobre un hormiguero, muerto y desechado, así yace este cuerpo; pero ese espíritu inmortal desencarnado (prâ<i>n</i>a, vida) es sólo Brahman, es sólo luz.'
 
@@ -371,7 +371,7 @@ He encontrado el pequeño y antiguo sendero que se extiende a lo lejos [^519]. P
 
 10\. 'Todos los que adoran lo que no es conocimiento (avidyâ) entran en una oscuridad ciega: quienes se deleitan en el conocimiento, entran, por así decirlo, en una oscuridad mayor [^522].
 
-11\. 'Existen [^523], en efecto, esos mundos no benditos, <span id="p178">[<sup><small>p. 178</small></sup>]</span> cubiertos de oscuridad ciega. Los hombres ignorantes e incultos van después de la muerte a esos mundos.
+11\. 'Existen [^523], en efecto, esos mundos no benditos, <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> cubiertos de oscuridad ciega. Los hombres ignorantes e incultos van después de la muerte a esos mundos.
 
 12\. 'Si un hombre comprende el Ser, diciendo: “Yo soy Él”, ¿qué podría desear o anhelar para anhelar el cuerpo? [^524]
 
@@ -383,7 +383,7 @@ He encontrado el pequeño y antiguo sendero que se extiende a lo lejos [^519]. P
 
 16\. 'Aquel detrás de quien gira el año con los días, a él lo adoran los dioses como la luz de las luces, como el tiempo inmortal.
 
-17\. 'Aquel en quien reposan los cinco seres [^528] y el éter, solo él creo que es el Ser, —yo que <span id="p179">[<sup><small>p. 179</small></sup>]</span> conozco, creo que él es Brahman; yo que soy inmortal, creo que él es inmortal.
+17\. 'Aquel en quien reposan los cinco seres [^528] y el éter, solo él creo que es el Ser, —yo que <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> conozco, creo que él es Brahman; yo que soy inmortal, creo que él es inmortal.
 
 18\. 'Aquellos que conocen la vida de la vida, el ojo del ojo, el oído del oído, la mente de la mente, han comprendido el antiguo y primordial Brahman [^529].
 
@@ -395,7 +395,7 @@ He encontrado el pequeño y antiguo sendero que se extiende a lo lejos [^519]. P
 
 22\. 'Y él es ese gran Ser no nacido, que consiste en conocimiento, rodeado por los Pranas, el éter dentro del corazón [^532]. En él reposa el gobernante de todo, el señor de todo, el rey de todo. No se engrandece por las buenas obras, ni se empequeñece por las malas. Él es el señor de todo, el rey de todo, el protector de todo. Él es un límite [^533] y un límite, para que estos mundos no se confundan. Los brahmanes buscan conocerlo mediante el estudio del Veda, el sacrificio, las ofrendas, la penitencia, el ayuno, y quien lo conoce se convierte en un Muni. Deseando solo ese mundo (por Brahman), los mendicantes abandonan sus hogares.
 
-Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la descendencia?, decían, <span id="p180">[<sup><small>p. 180</small></sup>]</span> nosotros que poseemos este Ser y este mundo (de Brahman) [^534]? Y ellos, tras haber superado el deseo de hijos, riquezas y nuevos mundos, vagan como mendigos. Pues el deseo de hijos es deseo de riquezas, y el deseo de riquezas es deseo de mundos. Ambos son, en realidad, solo deseos. Él, el Ser, se describe con un ¡No, no! [^535]! Es incomprensible, porque no puede ser comprendido; es imperecedero, porque no puede perecer; es desapegado, porque no se apega a sí mismo; libre, no sufre, no fracasa. A él (quien sabe), estos dos no vencen, ya diga que por alguna razón ha hecho el mal, o que por alguna razón ha hecho el bien: vence a ambos, y ni lo que ha hecho, ni lo que ha omitido hacer, le quema (le afecta).
+Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la descendencia?, decían, <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> nosotros que poseemos este Ser y este mundo (de Brahman) [^534]? Y ellos, tras haber superado el deseo de hijos, riquezas y nuevos mundos, vagan como mendigos. Pues el deseo de hijos es deseo de riquezas, y el deseo de riquezas es deseo de mundos. Ambos son, en realidad, solo deseos. Él, el Ser, se describe con un ¡No, no! [^535]! Es incomprensible, porque no puede ser comprendido; es imperecedero, porque no puede perecer; es desapegado, porque no se apega a sí mismo; libre, no sufre, no fracasa. A él (quien sabe), estos dos no vencen, ya diga que por alguna razón ha hecho el mal, o que por alguna razón ha hecho el bien: vence a ambos, y ni lo que ha hecho, ni lo que ha omitido hacer, le quema (le afecta).
 
 23\. Esto lo dice un verso (Rik): “Esta eterna grandeza del Brahmana no crece con el trabajo, ni disminuye. Que el hombre intente encontrar su rastro, pues al encontrarlo, no queda manchado por ninguna mala acción.”
 
@@ -403,7 +403,7 @@ Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la desc
 
 <i>Ganaka</i> Vaideha dijo: 'Señor, te doy a los Videhas y también a mí mismo para que seamos juntos tus esclavos.'
 
-24\. Este [^537] es, en verdad, el gran Ser innato, el <span id="p181">[<sup><small>p. 181</small></sup>]</span> fuerte [^538], el dador de riqueza. Quien conoce esto obtiene riqueza.
+24\. Este [^537] es, en verdad, el gran Ser innato, el <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> fuerte [^538], el dador de riqueza. Quien conoce esto obtiene riqueza.
 
 25\. Este gran Ser innato, incorruptible, imperecedero, inmortal, sin miedo, es en verdad Brahman. Sin miedo es Brahman, y quien lo conoce se convierte en el Brahman sin miedo.
 
@@ -454,7 +454,7 @@ Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la desc
 
 'Esta clase Brahman, esta clase Kshatra, estos mundos, estos Devas, estos Vedas, todos estos seres, este todo, todo es ese Ser.
 
-8\. 'Ahora bien, como los sonidos de un tambor, al tocarlo, no pueden captarse externamente (por sí mismos), sino que el sonido se capta cuando se capta el tambor o quien lo golpea; <span id="p184">[<sup><small>p. 184</small></sup>]</span> 9\. 'Y como los sonidos de una caracola, al soplarla, no pueden captarse externamente (por sí mismos), sino que el sonido se capta cuando se capta la caracola o quien la sopla;
+8\. 'Ahora bien, como los sonidos de un tambor, al tocarlo, no pueden captarse externamente (por sí mismos), sino que el sonido se capta cuando se capta el tambor o quien lo golpea; <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> 9\. 'Y como los sonidos de una caracola, al soplarla, no pueden captarse externamente (por sí mismos), sino que el sonido se capta cuando se capta la caracola o quien la sopla;
 
 10\. 'Y así como los sonidos de un laúd, cuando se tocan, no pueden ser captados externamente (por sí mismos), sino que el sonido es captado cuando se capta el laúd, o al tañedor del laúd;
 
@@ -462,7 +462,7 @@ Sabiendo esto, los antiguos no deseaban descendencia. ¿Qué haremos con la desc
 
 12\. 'Así como todas las aguas tienen su centro en el mar, todos los tactos en la piel, todos los sabores en la lengua, todos los olores en la nariz, todos los colores en el ojo, todos los sonidos en el oído, todas las percepciones en la mente, todo el conocimiento en el corazón, todas las acciones en las manos, todos los movimientos en los pies y todos los Vedas en el habla,—
 
-13\. «Así como una masa de sal no tiene interior ni exterior, sino que es una masa de sabor, así también ese Ser no tiene interior ni exterior, sino que es una masa de conocimiento; y, habiendo surgido de estos elementos, se desvanece de nuevo en ellos. Cuando se ha ido, ya no hay conocimiento (nombre), digo, oh Maitreyî», así habló Yâ<i>g</i>_ñ_avalkya. <span id="p185">[<sup><small>p. 185</small></sup>]</span> 14\. Entonces Maitreyî dijo: «Mira, Señor, me has dejado completamente desconcertado. De hecho, no lo entiendo».
+13\. «Así como una masa de sal no tiene interior ni exterior, sino que es una masa de sabor, así también ese Ser no tiene interior ni exterior, sino que es una masa de conocimiento; y, habiendo surgido de estos elementos, se desvanece de nuevo en ellos. Cuando se ha ido, ya no hay conocimiento (nombre), digo, oh Maitreyî», así habló Yâ<i>g</i>_ñ_avalkya. <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> 14\. Entonces Maitreyî dijo: «Mira, Señor, me has dejado completamente desconcertado. De hecho, no lo entiendo».
 
 Pero él respondió: «Oh, Maitreyî, no digo nada desconcertante. En verdad, amada, ese Ser es imperecedero y de naturaleza indestructible.»
 
@@ -501,7 +501,7 @@ Pero él respondió: «Oh, Maitreyî, no digo nada desconcertante. En verdad, am
 
 3\. de Gh<i>ri</i>takau<i>s</i>ika,
 
-24\. Gh<i>ri</i>takau<i>s</i>ika de Pârâ<i>s</i>aryâya<i>n</i>a, <span id="p187">[<sup><small>p. 187</small></sup>]</span> 25\. Pârâ<i>s</i>aryâya<i>n</i>a de Pârâ<i>s</i>arya,
+24\. Gh<i>ri</i>takau<i>s</i>ika de Pârâ<i>s</i>aryâya<i>n</i>a, <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> 25\. Pârâ<i>s</i>aryâya<i>n</i>a de Pârâ<i>s</i>arya,
 26\. Pârâ<i>s</i>arya de <i>G</i>âtukar<i>n</i>ya,
 27\. <i>G</i>âtukar<i>n</i>ya de Âsurâya<i>n</i>a y Yâska [^547],
 28\. Âsurâya<i>n</i>a de Travani,

@@ -36,7 +36,7 @@ LA VIDA DE GURU NANAK. CAPÍTULO XIII
 
 Entonces el Gurú dirigió sus pensamientos hacia Ceilán y logró llegar a ese país, donde tomó asiento en el jardín de Raja Shivnabh.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span> En aquel entonces era estéril, pero se dice que reverdeció con la llegada del Gurú. El jardinero le pidió al rey que fuera a ver al faquir que había hecho florecer de nuevo el jardín marchito. El rey envió hermosas damiselas para bailar ante el Gurú y tentarlo con sus encantos. El Gurú, absorto en sus pensamientos, no les habló ni las notó. El rey fue y le preguntó su nombre, casta y si era un Jogi. El Gurú respondió lo siguiente:
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span> En aquel entonces era estéril, pero se dice que reverdeció con la llegada del Gurú. El jardinero le pidió al rey que fuera a ver al faquir que había hecho florecer de nuevo el jardín marchito. El rey envió hermosas damiselas para bailar ante el Gurú y tentarlo con sus encantos. El Gurú, absorto en sus pensamientos, no les habló ni las notó. El rey fue y le preguntó su nombre, casta y si era un Jogi. El Gurú respondió lo siguiente:
 
 El Jogi que está asociado con el Nombre y es puro, no tiene una partícula de impureza.
 El que guarda consigo el nombre del Amado, que es siempre verdadero, ha escapado del nacimiento y de la muerte.
@@ -155,7 +155,7 @@ Cuando habla, expresa sabiduría divina.
 Él día y noche vela en la contemplación de Dios.
 Ata una cuerda a la esfera vacía,[^1]
 Y por el favor del Gurú nunca muere.
-Todos los dioses le rinden homenaje. <span id="p161">[<sup><small>p. 161</small></sup>]</span>
+Todos los dioses le rinden homenaje. <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 Quien de esta manera realiza el servicio del Gurú,
 ¿Y quién no permite a su lengua probar exquisiteces?
 Nanak dice: éstas son las marcas de un Jogi.
@@ -188,7 +188,7 @@ Quien lleva una cosa insoportable e intangible,
 Nanak dice que ese hombre es un Bairagi.
 
 El que permanece solo en la casa del disfrute,
-Y habita en la casa de adoración— <span id="p162">[<sup><small>p. 162</small></sup>]</span>
+Y habita en la casa de adoración— <span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 Donde el gato huye al oír un ratón[^1]—
 Nanak dice que es un Bairagi.
 

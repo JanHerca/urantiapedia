@@ -36,7 +36,7 @@ CAPÍTULO SEGUNDO.
 
 Un monje que vive soltero [^803] no debe enamorarse; si ama los placeres, debe volverse indiferente. Ahora escuchen los placeres de los <i>s</i>rama<i>n</i>as, que algunos monjes disfrutan. (1)
 
-Cuando un monje infringe la ley, se enamora (de una mujer) y se deja absorber por esa pasión, ella después <span id="p276">[<sup><small>p. 276</small></sup>]</span> lo regaña [^804], levanta el pie y le pisotea la cabeza. (2)
+Cuando un monje infringe la ley, se enamora (de una mujer) y se deja absorber por esa pasión, ella después <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> lo regaña [^804], levanta el pie y le pisotea la cabeza. (2)
 
 «Oh, monje, si no vives conmigo como una mujer que aún tiene cabello, te lo arrancaré; pero no vivas separado de mí.» (3)
 

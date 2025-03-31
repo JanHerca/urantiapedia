@@ -46,7 +46,7 @@ Los furiosos terrores del Cielo compasivo se extienden por este mundo inferior. 
 
 Ahora están de acuerdo, y ahora se difaman mutuamente; el caso es muy deplorable. Si un consejo es bueno, todos se oponen a él. Si un consejo es malo, todos lo apoyan. Al observar tales consejos y planes, ¿a qué llegarán?
 
-Nuestros caparazones están agotados y no nos dicen nada sobre los planes. Hay muchísimos consejeros, pero por eso no se logra nada. Los oradores llenan la sala, pero <span id="p359">[<sup><small>p. 359</small></sup>]</span> ¿quién se atreve a asumir la responsabilidad? Somos como si consultáramos (sobre un viaje) sin dar un paso por adelantado, y por lo tanto no emprendiéramos el camino.
+Nuestros caparazones están agotados y no nos dicen nada sobre los planes. Hay muchísimos consejeros, pero por eso no se logra nada. Los oradores llenan la sala, pero <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> ¿quién se atreve a asumir la responsabilidad? Somos como si consultáramos (sobre un viaje) sin dar un paso por adelantado, y por lo tanto no emprendiéramos el camino.
 
 <a id="o2"></a>
 
@@ -123,7 +123,7 @@ Si les damos licores, no los consideran dignos de ser llamados licor. Si les dam
 
 Está la Vía Láctea en el cielo [^430], que nos mira con su luz; y las tres estrellas juntas son las Hermanas Tejedoras [^431], que pasan en un día a través de siete etapas (del cielo).
 
-Aunque pasan por sus siete etapas, no completan ninguna obra brillante para nosotros. Brillan con brillantez los bueyes de tiro [^432], pero no sirven para tirar de nuestras carretas. En el este está Lucifer [^433]; en el oeste está Héspero [^433]; larga y curva <span id="p364">[<sup><small>p. 364</small></sup>]</span> es la Red de Conejos del cielo [^434]; pero solo ocupan sus lugares.
+Aunque pasan por sus siete etapas, no completan ninguna obra brillante para nosotros. Brillan con brillantez los bueyes de tiro [^432], pero no sirven para tirar de nuestras carretas. En el este está Lucifer [^433]; en el oeste está Héspero [^433]; larga y curva <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> es la Red de Conejos del cielo [^434]; pero solo ocupan sus lugares.
 
 Al sur está la Criba [^435], pero no sirve para cernir. Al norte está el Cucharón [^436], pero no descarga licor. Al sur está la Criba, mostrando su boca ociosamente. Al norte está el Cucharón, levantando su mango hacia el oeste.
 

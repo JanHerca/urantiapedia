@@ -56,7 +56,7 @@ Lo repitió una segunda y una tercera vez. Entonces el padre respondió (enojado
 
 (El padre, habiendo dicho esto una vez, aunque con prisa, tuvo que cumplir su palabra y sacrificar a su hijo.)
 
-5\. El hijo dijo: «Voy primero, a la cabeza de muchos (que aún han de morir); voy en medio de muchos (que ahora están muriendo). ¿Cuál será la obra que Yama (el gobernante de los difuntos) tiene que hacerme hoy [^82]? <span id="p3">[<sup><small>p. 3</small></sup>]</span> 6\. «Mira atrás cómo fue con los que vinieron antes, mira hacia adelante cómo será con los que vendrán después. Un mortal madura como el maíz, como el maíz brota de nuevo [^83]».
+5\. El hijo dijo: «Voy primero, a la cabeza de muchos (que aún han de morir); voy en medio de muchos (que ahora están muriendo). ¿Cuál será la obra que Yama (el gobernante de los difuntos) tiene que hacerme hoy [^82]? <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> 6\. «Mira atrás cómo fue con los que vinieron antes, mira hacia adelante cómo será con los que vendrán después. Un mortal madura como el maíz, como el maíz brota de nuevo [^83]».
 
 (Na<i>k</i>iketas entra en la morada de Yama Vaivasvata, y no hay nadie para recibirlo. Entonces uno de los asistentes de Yama debe decir:)
 
@@ -66,7 +66,7 @@ Lo repitió una segunda y una tercera vez. Entonces el padre respondió (enojado
 
 (Yama, al regresar a su casa después de una ausencia de tres noches, durante las cuales Na<i>k</i>iketas no había recibido hospitalidad de su parte, dice:)
 
-9\. «Oh, Brahmán, como tú, venerable huésped, has permanecido en mi casa tres noches sin comer, <span id="p4">[<sup><small>p. 4</small></sup>]</span>, elige ahora tres bendiciones. ¡Salud a ti! ¡Y bienestar para mí!»
+9\. «Oh, Brahmán, como tú, venerable huésped, has permanecido en mi casa tres noches sin comer, <span id="p4"><sup><small>[ p. 4 ]</small></sup></span>, elige ahora tres bendiciones. ¡Salud a ti! ¡Y bienestar para mí!»
 
 10\. Na<i>k</i>iketas dijo: «¡Oh, Muerte! Como primera de las tres bendiciones, escojo que Gautama, mi padre, sea apacible, bondadoso y libre de ira hacia mí; y que me conozca y me salude cuando me hayas despedido».
 
@@ -78,7 +78,7 @@ Lo repitió una segunda y una tercera vez. Entonces el padre respondió (enojado
 
 14\. Yama dijo: «Te lo digo, apréndelo de mí, y cuando entiendas ese sacrificio de fuego que conduce al cielo, sabe, oh Na<i>k</i>iketas, que es el logro de los mundos infinitos y su firme apoyo, oculto en la oscuridad [^87]».
 
-15\. Yama le explicó entonces el sacrificio de fuego, el principio de todos los mundos [^88], y qué ladrillos se necesitaban <span id="p5">[<sup><small>p. 5</small></sup>]</span> para el altar, cuántos y cómo colocarlos. Y Na<i>k</i>iketas repitió todo tal como se le había dicho. Entonces M<i>ri</i>tyu, complacido con él, repitió:
+15\. Yama le explicó entonces el sacrificio de fuego, el principio de todos los mundos [^88], y qué ladrillos se necesitaban <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> para el altar, cuántos y cómo colocarlos. Y Na<i>k</i>iketas repitió todo tal como se le había dicho. Entonces M<i>ri</i>tyu, complacido con él, repitió:
 
 16\. El generoso [^89], satisfecho, le dijo:
 
@@ -92,7 +92,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 
 20\. Na<i>k</i>iketas dijo: «Existe esa duda, cuando un hombre muere; algunos dicen que sí; otros, que no. Me gustaría saber esto, que me lo enseñaras; este es el tercero de mis dones».
 
-21\. La Muerte dijo: «Sobre este punto, incluso los dioses <span id="p6">[<sup><small>p. 6</small></sup>]</span> dudaron antes; no es fácil de entender. Ese tema es sutil. Elige otra bendición, oh Nakiketas, no me presiones y déjame ir de esa bendición».
+21\. La Muerte dijo: «Sobre este punto, incluso los dioses <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> dudaron antes; no es fácil de entender. Ese tema es sutil. Elige otra bendición, oh Nakiketas, no me presiones y déjame ir de esa bendición».
 
 22\. Na<i>k</i>iketas dijo: «En este punto, incluso los dioses han dudado, y tú, Muerte, has declarado que no es fácil de entender, y no se puede encontrar otro maestro como tú: sin duda, ninguna otra bendición es como esta».
 
@@ -127,7 +127,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 
 6\. «El Más Allá nunca se presenta ante los ojos del niño despreocupado, engañado por la ilusión de la riqueza. «Este es el mundo», piensa, «no hay otro»; así cae una y otra vez bajo mi dominio.»
 
-7\. 'Aquel (el Ser) de quien muchos ni siquiera son capaces <span id="p9">[<sup><small>p. 9</small></sup>]</span> de oír, a quien muchos, incluso cuando oyen hablar de él, no comprenden; maravilloso es un hombre, cuando se encuentra, que es capaz de enseñarle (al Ser); maravilloso es aquel que lo comprende, cuando es enseñado por un maestro capaz [^98].'
+7\. 'Aquel (el Ser) de quien muchos ni siquiera son capaces <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> de oír, a quien muchos, incluso cuando oyen hablar de él, no comprenden; maravilloso es un hombre, cuando se encuentra, que es capaz de enseñarle (al Ser); maravilloso es aquel que lo comprende, cuando es enseñado por un maestro capaz [^98].'
 
 8\. 'Ese (Ser), cuando es enseñado por un hombre inferior, no es fácil de conocer, aunque se piense en él a menudo [^99]; a menos que sea enseñado por otro, no hay manera de llegar a él, pues es inconcebiblemente más pequeño que lo que es pequeño [^100].'
 
@@ -149,7 +149,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 
 17\. 'Éste es el mejor apoyo, éste es el apoyo más elevado; aquel que conoce ese apoyo se magnifica en el mundo de Brahmâ.'
 
-18\. 'El Ser cognoscente no nace, no muere; surgió de la nada, nada surgió de él. El <span id="p11">[<sup><small>p. 11</small></sup>]</span> Anciano es no nacido, eterno, perdurable; no muere, aunque el cuerpo muera [^108].'
+18\. 'El Ser cognoscente no nace, no muere; surgió de la nada, nada surgió de él. El <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> Anciano es no nacido, eterno, perdurable; no muere, aunque el cuerpo muera [^108].'
 
 19\. 'Si el asesino cree que mata, si el asesinado cree que es asesinado, no entienden; porque ni éste mata, ni aquél es asesinado.'
 
@@ -178,7 +178,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 
 4\. «A los sentidos los llaman caballos, y a los objetos de los sentidos, sus caminos. Cuando él (el Ser Supremo) está en unión con el cuerpo, los sentidos y la mente, entonces los sabios lo llaman el Disfrutador».
 
-5\. 'Quien no tiene entendimiento y cuya mente <span id="p13">[<sup><small>p. 13</small></sup>]</span> (las riendas) nunca está firmemente sujeta, sus sentidos (caballos) son ingobernables, como los caballos feroces de un auriga.'
+5\. 'Quien no tiene entendimiento y cuya mente <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> (las riendas) nunca está firmemente sujeta, sus sentidos (caballos) son ingobernables, como los caballos feroces de un auriga.'
 
 6\. 'Pero quien tiene entendimiento y su mente está siempre firme, sus sentidos están bajo control, como los buenos caballos de un auriga.'
 
@@ -196,7 +196,7 @@ Ahora te doy otro favor: que el sacrificio del fuego lleve tu nombre; toma tambi
 
 13\. 'El hombre sabio debe controlar el habla y la mente [^117]; debe mantenerlas dentro del Ser que es el conocimiento; debe mantener el conocimiento dentro del Ser que es el Grande; y debe mantener eso (lo Grande) dentro del Ser que es el Quietud.'
 
-14\. ¡Levántate, despierta! Habiendo obtenido tus dones [^118], <span id="p14">[<sup><small>p. 14</small></sup>]</span> ¡entiéndelos! El filo de una navaja es difícil de esquivar; por eso los sabios dicen que el camino (hacia el Ser) es arduo.
+14\. ¡Levántate, despierta! Habiendo obtenido tus dones [^118], <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> ¡entiéndelos! El filo de una navaja es difícil de esquivar; por eso los sabios dicen que el camino (hacia el Ser) es arduo.
 
 15\. 'Quien ha percibido aquello que es sin sonido, sin tacto, sin forma, sin descomposición, sin sabor, eterno, sin olor, sin principio, sin fin, más allá de lo Grande e inmutable, se libera de las fauces de la muerte.'
 

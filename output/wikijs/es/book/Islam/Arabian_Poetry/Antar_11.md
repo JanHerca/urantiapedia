@@ -41,7 +41,7 @@ dateCreated: 2024-11-24T18:21:59Z
 “La espada es afilada, oh hijo de la tribu de Ghalib,
 Afilado de hecho: pero ¿dónde está el percutor de la espada?
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Y mi antepasado agitó la espada con la mano y dijo: «En cuanto al que golpea, ¡yo soy el que golpea!». Y cortó la cabeza del herrero y la separó de su cuerpo. Luego la cubrió con oro y la llamó Dhami, a causa de su filo. La guardó entre sus tesoros y, cuando murió, pasó a manos de mi padre junto con el resto de las armas. Y cuando mi padre percibió que su muerte estaba próxima, me llamó en privado. «Oh, hijo mío», dijo, «sé que tu hermano es de carácter tiránico y obstinado, que ama la violencia y odia la justicia, y sé que, a mi muerte, usurpará mi propiedad». «¿Qué medidas debo tomar?». dije yo. —Él respondió: «Toma esta espada y escóndela, y que nadie sepa nada de ella: y cuando veas que él toma posesión por la fuerza de todos mis bienes, ganado y riquezas, conténtate, hijo mío, con esta espada, porque te será de gran beneficio: porque si se la presentas a Nushirvan, rey de Persia, él te exaltará con su liberalidad y favores; y si se la presentas al Emperador de Europa, él te enriquecerá con oro y plata».
 

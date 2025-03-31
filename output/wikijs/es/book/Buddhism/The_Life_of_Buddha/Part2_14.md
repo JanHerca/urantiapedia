@@ -43,7 +43,7 @@ Faltaba. El rey manifestó su sorpresa.
 
 El Maestro dejó su asiento y se dirigió a los aposentos de Gopa. Ella se había despojado de sus costosas vestiduras y sus suaves velos; había dejado a un lado sus brazaletes y collares; vestía una túnica rojiza, hecha de una tela tosca. Al verla así ataviada, sonrió de felicidad. Ella cayó a sus pies y lo adoró.
 
-“Mira”, dijo ella, “quería vestirme como tú; quería saber de tu vida para vivir como tú. Tú comes solo una vez al día, y yo solo como una vez al día. Dejaste de dormir en una cama; mira a tu alrededor: no verás ninguna cama, pues aquí está el banco donde duermo. Y de ahora en adelante <span id="p180">[<sup><small>p. 180</small></sup>]</span> habré terminado con los dulces perfumes, y ya no me pondré flores en el pelo.”
+“Mira”, dijo ella, “quería vestirme como tú; quería saber de tu vida para vivir como tú. Tú comes solo una vez al día, y yo solo como una vez al día. Dejaste de dormir en una cama; mira a tu alrededor: no verás ninguna cama, pues aquí está el banco donde duermo. Y de ahora en adelante <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> habré terminado con los dulces perfumes, y ya no me pondré flores en el pelo.”
 
 “Conocía tu gran virtud, Gopa”, respondió el Maestro. “No te ha fallado, y te alabo por ello. ¿Cuántas mujeres hay en este mundo que habrían tenido el valor de hacer lo que tú hiciste?”
 

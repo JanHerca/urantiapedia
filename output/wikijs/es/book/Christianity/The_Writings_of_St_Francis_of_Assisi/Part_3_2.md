@@ -40,7 +40,7 @@ Esta breve oración goza del mismo título de autenticidad que el opúsculo prec
 
 ## SALUDO DE LA SANTÍSIMA VIRGEN. [^544]
 
-Dios te salve, Santa Señora, Santísima Reina, Madre de Dios, María, siempre Virgen, elegida del Cielo por el Santísimo Padre, a quien Él consagró con el Santísimo Hijo amado y el Paráclito Espiritual, en quien estaba y está toda la plenitud de la gracia y todo bien. ¡Salve, tú, su palacio! [^545] ¡Salve, tú, su tabernáculo! [^546] ¡Salve, tú, su casa! ¡Salve, tú, su vestidura! ¡Salve, tú, su sierva! ¡Salve, tú, su Madre y todas las santas virtudes que, por la gracia y la <span id="p144">[<sup><small>p. 144</small></sup>]</span> iluminación del Espíritu Santo, infundes en el corazón de los fieles, para que de infieles los hagas fieles a Dios. [^547]
+Dios te salve, Santa Señora, Santísima Reina, Madre de Dios, María, siempre Virgen, elegida del Cielo por el Santísimo Padre, a quien Él consagró con el Santísimo Hijo amado y el Paráclito Espiritual, en quien estaba y está toda la plenitud de la gracia y todo bien. ¡Salve, tú, su palacio! [^545] ¡Salve, tú, su tabernáculo! [^546] ¡Salve, tú, su casa! ¡Salve, tú, su vestidura! ¡Salve, tú, su sierva! ¡Salve, tú, su Madre y todas las santas virtudes que, por la gracia y la <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> iluminación del Espíritu Santo, infundes en el corazón de los fieles, para que de infieles los hagas fieles a Dios. [^547]
 
 
 

@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 \[Contains laws relating to the first dough, founded on Num. xv. 20.\]
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 ## X. TREATISE ORLAH.
 

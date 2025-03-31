@@ -38,7 +38,7 @@ DECIMOSEXTA CONFERENCIA. LAS DIEZ CONDICIONES DE LA CASTIDAD PERFECTA.
 
 Aquí [^196], de hecho, los venerables Sthaviras han declarado diez condiciones para la realización del celibato, mediante las cuales los monjes alcanzarán un alto grado de autodisciplina, de Sa<i>m</i>vara [^197] y de contemplación, estarán bien protegidos (por los tres Guptis), guardarán sus sentidos, guardarán su castidad y, por lo tanto, nunca serán negligentes (en el cumplimiento de sus deberes religiosos).
 
-¿Cuáles son, entonces, esas diez condiciones para la realización del celibato declaradas por el venerable Sthaviras, mediante la escucha y comprensión de las cuales los monjes alcanzarán un alto grado de autodisciplina, de <span id="p74">[<sup><small>p. 74</small></sup>]</span> Sa<i>m</i>vara y de contemplación, estarán bien protegidos (por los tres Guptis), protegerán sus sentidos, protegerán su castidad y, por lo tanto, nunca serán negligentes (en el cumplimiento de sus deberes religiosos)?
+¿Cuáles son, entonces, esas diez condiciones para la realización del celibato declaradas por el venerable Sthaviras, mediante la escucha y comprensión de las cuales los monjes alcanzarán un alto grado de autodisciplina, de <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> Sa<i>m</i>vara y de contemplación, estarán bien protegidos (por los tres Guptis), protegerán sus sentidos, protegerán su castidad y, por lo tanto, nunca serán negligentes (en el cumplimiento de sus deberes religiosos)?
 
 Éstas son, pues, las diez condiciones para la realización del celibato, etc. (todas ellas, en definitiva, deberes).
 
@@ -46,7 +46,7 @@ Aquí [^196], de hecho, los venerables Sthaviras han declarado diez condiciones 
 
 2\. Un Nirgrantha no debe conversar con mujeres [^199]. El preceptor ha explicado la razón. Si un Nirgrantha conversa con mujeres, etc. (todo como arriba).
 
-3\. Un Nirgrantha no debe sentarse con mujeres en el mismo asiento. El preceptor ha explicado la razón. Si un Nirgrantha se sienta con mujeres, etc. (como se indica arriba). <span id="p75">[<sup><small>p. 75</small></sup>]</span> 4\. Un Nirgrantha no debe mirar ni contemplar los encantos y la belleza de las mujeres. (El resto es similar a lo anterior).
+3\. Un Nirgrantha no debe sentarse con mujeres en el mismo asiento. El preceptor ha explicado la razón. Si un Nirgrantha se sienta con mujeres, etc. (como se indica arriba). <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> 4\. Un Nirgrantha no debe mirar ni contemplar los encantos y la belleza de las mujeres. (El resto es similar a lo anterior).
 
 5\. Un Nirgrantha no debe, tras una pantalla, cortina o pared, escuchar los gritos, cánticos, risas o llantos de las mujeres. (El resto es similar a lo anterior).
 
@@ -90,7 +90,7 @@ Un alojamiento frecuentado por mujeres, su agradable charla, su compañía y con
 
 Sus chillidos, gritos, cantos y risas, comer y dormir junto con ellos; comida y bebida bien aderezadas, o participar de ellas en exceso; (12)
 
-Y los adornos y la finura [^201]: estas cosas agradables, <span id="p77">[<sup><small>p. 77</small></sup>]</span> que son difíciles de dejar, son como el veneno Tâlapu<i>t</i>a [^202], para un hombre que busca el verdadero Ser. (13)
+Y los adornos y la finura [^201]: estas cosas agradables, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> que son difíciles de dejar, son como el veneno Tâlapu<i>t</i>a [^202], para un hombre que busca el verdadero Ser. (13)
 
 Debe abandonar de una vez por todas las cosas placenteras que son difíciles de dejar, y concentrado en sus pensamientos debe evitar todo aquello que ponga en duda su castidad. (14)
 

@@ -76,7 +76,7 @@ Se vuelve ajeno a sí mismo y rechaza todo lo que hay en el mundo.
 
 Por lo tanto, los velos del ego satánico deben ser consumidos por el fuego del amor; para que el espíritu se purifique y comprenda los grados del Señor de «de no ser por ti». [Aquí se remite al lector a la nota del traductor: «De no ser por ti» —una tradición que relaciona las palabras de Dios al Profeta (Mahoma): «¡De no ser por ti, no habría creado las esferas!» (tradicional).] «Enciende el fuego del amor y consume todas tus posesiones (o Ser); luego, alza tu pie y asciende a la montaña de los amantes». [Aquí nuestro traductor nos informa que Bahá'u'lláh cita una de sus propias odas.]
 
-“Si, con la ayuda del Creador, el amante se libera sano y salvo de las garras del halcón <span id="p60">[<sup><small>p. 60</small></sup>]</span> del Amor, entonces llegará al reino del Valle del Conocimiento Divino.
+“Si, con la ayuda del Creador, el amante se libera sano y salvo de las garras del halcón <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> del Amor, entonces llegará al reino del Valle del Conocimiento Divino.
 
 <figure class="table chapter-navigator">
   <table>

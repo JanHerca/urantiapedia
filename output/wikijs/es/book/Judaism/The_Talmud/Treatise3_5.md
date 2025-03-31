@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 1\. «¿Con qué se saca a un animal, y con qué no?» [^100] «Se puede sacar al camello con un cabestro, a la camella con una nariguera, a los asnos de Lida [^101] con una brida, a un caballo con un cabestro, y a todos los animales que llevan cabestro se les puede sacar con un cabestro, y se les sujeta con un cabestro, y, si están impuros, se les puede rociar agua y bautizarlos en sus lugares.»
 
-2\. Se puede llevar al asno con una albarda atada. Los carneros salen atados. Las ovejas salen <span id="p89">[<sup><small>p. 89</small></sup>]</span> con el rabo atado, doblado o metido en una bolsa. Las cabras salen atadas firmemente. El rabino José «prohíbe a todos, excepto a las ovejas, llevar el rabo en una bolsa». El rabino Judah dice: «Las cabras salen atadas firmemente para secar sus ubres, pero no para guardar la leche».
+2\. Se puede llevar al asno con una albarda atada. Los carneros salen atados. Las ovejas salen <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> con el rabo atado, doblado o metido en una bolsa. Las cabras salen atadas firmemente. El rabino José «prohíbe a todos, excepto a las ovejas, llevar el rabo en una bolsa». El rabino Judah dice: «Las cabras salen atadas firmemente para secar sus ubres, pero no para guardar la leche».
 
 3\. «¿Y con qué no deben salir?» «Un camello no debe salir con un trapo atado a la cola como marca, ni con grilletes, ni con las patas delanteras dobladas, y lo mismo ocurre con el resto de los animales; nadie debe atar camellos entre sí ni guiarlos, pero sí puede tomar sus cuerdas en la mano y sujetarlos, cuidando que no se enreden.» [^102]
 

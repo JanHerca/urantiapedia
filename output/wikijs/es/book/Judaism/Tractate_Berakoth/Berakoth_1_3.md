@@ -58,7 +58,7 @@ III. 1. Aquel cuyo muerto yace ante él [^141] está exento de la recitación de
 
 4\. Quien está ceremonialmente impuro [^148] recita el Shemá solo en su corazón, y no dice la bendición ni antes ni después. Pero en una comida, dice la bendición después, pero no antes. [^149] R. Judah dice: dice la bendición antes y después de ellos. [^150]
 
-5\. Si alguien ha comenzado la oración de pie y luego recuerda que está ceremonialmente impuro, no debe detenerse, sino recitar la <span id="p24">[<sup><small>p. 24</small></sup>]</span> forma abreviada. Si ha bajado a bañarse, [^151] si puede salir, cubrirse y recitar antes de que salga el sol, que salga, se cubra y recite. Pero si no, que se cubra con agua y recite. Pero no debe cubrirse con agua sucia ni con agua de remojo de lino, [^152] hasta que haya vertido agua en ellos. ¿Y a qué distancia debe alejarse de ellos y de los excrementos? Cuatro codos.
+5\. Si alguien ha comenzado la oración de pie y luego recuerda que está ceremonialmente impuro, no debe detenerse, sino recitar la <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> forma abreviada. Si ha bajado a bañarse, [^151] si puede salir, cubrirse y recitar antes de que salga el sol, que salga, se cubra y recite. Pero si no, que se cubra con agua y recite. Pero no debe cubrirse con agua sucia ni con agua de remojo de lino, [^152] hasta que haya vertido agua en ellos. ¿Y a qué distancia debe alejarse de ellos y de los excrementos? Cuatro codos.
 
 6\. Un hombre con flujo menstrual y una mujer, en ciertos momentos, necesitan bañarse. Pero R. Judah los exime. (Solo resumen).
 

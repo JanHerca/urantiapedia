@@ -38,7 +38,7 @@ La primera sección nos cuenta cómo el rey se reunió con Yüeh y lo nombró su
 
 ## Sección 1.
 
-1\. El rey pasó el tiempo de luto en el cobertizo durante tres años [^115], y al terminar el luto, no pronunció palabra alguna. Todos los ministros le reprocharon: «¡Oh! A quien es el primero en comprender, lo declaramos inteligente, y el hombre inteligente es el modelo para los demás. El Hijo del Cielo gobierna las innumerables regiones, y todos los oficiales lo respetan y lo reverencian. Son las palabras del rey las que forman las órdenes. Si no habla, los ministros no tienen forma de recibirlas». Sobre esto, el rey dejó un escrito, para su información, que decía: «Como me corresponde servir como <span id="p114">[<sup><small>p. 114</small></sup>]</span> director de los cuatro sectores (del reino), temí que mi virtud no fuera igual a la de mis predecesores, y por eso no he hablado. Pero mientras reflexionaba con reverencia y silencio sobre el camino correcto, soñé que Dios me concedió un buen asistente que hablaría por mí. Entonces recordó minuciosamente la apariencia (de la persona que había visto) e hizo que lo buscaran por todas partes mediante una imagen. Yüeh, un constructor en la región agreste de Fû-yen, se le parecía.
+1\. El rey pasó el tiempo de luto en el cobertizo durante tres años [^115], y al terminar el luto, no pronunció palabra alguna. Todos los ministros le reprocharon: «¡Oh! A quien es el primero en comprender, lo declaramos inteligente, y el hombre inteligente es el modelo para los demás. El Hijo del Cielo gobierna las innumerables regiones, y todos los oficiales lo respetan y lo reverencian. Son las palabras del rey las que forman las órdenes. Si no habla, los ministros no tienen forma de recibirlas». Sobre esto, el rey dejó un escrito, para su información, que decía: «Como me corresponde servir como <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> director de los cuatro sectores (del reino), temí que mi virtud no fuera igual a la de mis predecesores, y por eso no he hablado. Pero mientras reflexionaba con reverencia y silencio sobre el camino correcto, soñé que Dios me concedió un buen asistente que hablaría por mí. Entonces recordó minuciosamente la apariencia (de la persona que había visto) e hizo que lo buscaran por todas partes mediante una imagen. Yüeh, un constructor en la región agreste de Fû-yen, se le parecía.
 
 2\. Ante esto, el rey elevó a Yüeh y lo nombró su primer ministro, manteniéndolo también a su lado.
 
@@ -46,7 +46,7 @@ Le encargó, diciendo: «Mañana y tarde presenta tus instrucciones para ayudar 
 
 ¿Tú y tus compañeros comparten el mismo propósito de ayudar a tu soberano, para que yo pueda seguir a mis predecesores reales y seguir los pasos de mi gran antepasado, para dar descanso a millones de personas? ¡Oh! Respetad este encargo mío; así llevaréis vuestra obra a buen término.
 
-3\. Yüeh respondió al rey: «La madera se endereza mediante la línea, y el soberano que sigue la reprimenda se vuelve sabio. Cuando el soberano puede (así) hacerse sabio, sus ministros, <span id="p115">[<sup><small>p. 115</small></sup>]</span> sin recibir órdenes especiales, se anticipan a sus órdenes; ¿quién se atrevería a no actuar en respetuoso cumplimiento de este excelente encargo de Su Majestad?».
+3\. Yüeh respondió al rey: «La madera se endereza mediante la línea, y el soberano que sigue la reprimenda se vuelve sabio. Cuando el soberano puede (así) hacerse sabio, sus ministros, <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> sin recibir órdenes especiales, se anticipan a sus órdenes; ¿quién se atrevería a no actuar en respetuoso cumplimiento de este excelente encargo de Su Majestad?».
 
 ## Sección 2.
 
@@ -64,7 +64,7 @@ Que haya una preparación adecuada para todos los asuntos; con preparación no h
 
 ## Sección 3.
 
-1\. El rey dijo: «Ven, oh Yüeh. Yo, el pequeño, aprendí primero con Kan Pan [^116]. Después viví <span id="p117">[<sup><small>p. 117</small></sup>]</span> oculto entre los rudos campesinos, y luego me fui (al campo) dentro del Ho, y viví allí [^117]. Del Ho fui a Po; y el resultado ha sido que no he alcanzado la iluminación. Enséñame cuáles deben ser mis objetivos. Sé para mí como la levadura y la malta para hacer licores dulces, como la sal y las ciruelas pasas para hacer una sopa agradable. Usa diversos métodos para cultivarme; no me desprecies; así lograré practicar tus instrucciones».
+1\. El rey dijo: «Ven, oh Yüeh. Yo, el pequeño, aprendí primero con Kan Pan [^116]. Después viví <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> oculto entre los rudos campesinos, y luego me fui (al campo) dentro del Ho, y viví allí [^117]. Del Ho fui a Po; y el resultado ha sido que no he alcanzado la iluminación. Enséñame cuáles deben ser mis objetivos. Sé para mí como la levadura y la malta para hacer licores dulces, como la sal y las ciruelas pasas para hacer una sopa agradable. Usa diversos métodos para cultivarme; no me desprecies; así lograré practicar tus instrucciones».
 
 Yüeh dijo: «Oh, rey, un gobernante debe procurar aprender mucho (de sus ministros) para estabilizar sus asuntos; pero aprender las lecciones de los antiguos es la manera de lograrlo. Que los asuntos de alguien que no se adueñe de los antiguos pueda perpetuarse de generación en generación, es algo que no he oído».
 

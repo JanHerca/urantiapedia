@@ -85,7 +85,7 @@ Alavaka estaba furioso. Hubiera querido torturar a este hombre que estaba sentad
 
 Alavaka finalmente logró controlarse. Pensó que la astucia tal vez triunfaría donde la fuerza había fallado, y con voz agradable dijo:
 
-Veo que es usted un hombre sabio, mi Señor; siempre es un placer para mí interrogar a hombres sabios. Les hago cuatro preguntas. Si pueden responder, son libres de ir adonde quieran; si no pueden responder, quedan prisioneros míos, <span id="p251">[<sup><small>p. 251</small></sup>]</span>, y los devoro cuando me siento con ánimo.
+Veo que es usted un hombre sabio, mi Señor; siempre es un placer para mí interrogar a hombres sabios. Les hago cuatro preguntas. Si pueden responder, son libres de ir adonde quieran; si no pueden responder, quedan prisioneros míos, <span id="p251"><sup><small>[ p. 251 ]</small></sup></span>, y los devoro cuando me siento con ánimo.
 
 “Hazme las cuatro preguntas”, dijo el Buda.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## YASNA XXXIX. AL ALMA DEL VACUNO, etc.
 
-1\. Y ahora sacrificamos al alma de la vaca y a su cuerpo creado, y sacrificamos a las almas <span id="p288">[<sup><small>p. 288</small></sup>]</span> del ganado que es apto para vivir [^1198] (para nosotros), y de quienes (¿nosotros?) somos, como si fueran iguales a ellos.
+1\. Y ahora sacrificamos al alma de la vaca y a su cuerpo creado, y sacrificamos a las almas <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> del ganado que es apto para vivir [^1198] (para nosotros), y de quienes (¿nosotros?) somos, como si fueran iguales a ellos.
 
 2\. Y adoramos las almas de los animales domesticados y domados, y de las manadas salvajes, y las almas de los santos dondequiera que hayan nacido, tanto hombres como mujeres, cuyas buenas conciencias están triunfando en la lucha contra los Daevas, o triunfarán, o han triunfado.
 

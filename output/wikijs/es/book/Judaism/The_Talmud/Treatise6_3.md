@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 2\. Una rama de mirto robada o marchita está prohibida. Una que provenga de un bosque idólatra o de una ciudad entregada a la idolatría está prohibida. Si la punta está rota, o las hojas arrancadas, o si tiene más bayas que hojas, está prohibida. Pero si las bayas están menos abundantes, está permitida; pero no deben disminuirlas durante la festividad.
 
-3\. Un sauce de arroyo robado o marchito está prohibido. Uno proveniente de un bosque idólatra o de un pueblo entregado a la idolatría está prohibido. Si la punta está rota, o las hojas arrancadas, o si se trata de un sauce de montaña, está prohibido. <span id="p141">[<sup><small>p. 141</small></sup>]</span> Uno marchito, o con algunas hojas caídas, o que haya crecido en tierra seca está permitido.
+3\. Un sauce de arroyo robado o marchito está prohibido. Uno proveniente de un bosque idólatra o de un pueblo entregado a la idolatría está prohibido. Si la punta está rota, o las hojas arrancadas, o si se trata de un sauce de montaña, está prohibido. <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> Uno marchito, o con algunas hojas caídas, o que haya crecido en tierra seca está permitido.
 
 4\. R. Ismael dice: «Tres ramas de mirto, dos de sauce, una de palma y una de cidra, aunque dos de las tres ramas de mirto tengan las puntas rotas». R. Tarfón dice: «Aunque tres tengan las puntas rotas». R. Akivah dice: «Así como hay una rama de cirto y una de palma, también hay una rama de mirto y una de sauce».
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 12\. Al principio, la rama de palma se usaba en el Santuario durante siete días, y en el campo, un día. Pero tras la destrucción del Santuario, R. Jochanan, hijo de Zachai, decretó que en el campo se usara la rama de palma durante siete días, en memoria del Santuario. Al mismo tiempo, decretó que el día de la gavilla mecida [^256] sería ilegal comer grano nuevo.
 
-13\. Si el primer día de la fiesta cae en Sabbat, todos deben traer sus ramas de palma (con antelación) a la sinagoga. Por la mañana temprano, cada uno debe elegir su propia rama de palma y tomarla, pues los Sabios <span id="p143">[<sup><small>p. 143</small></sup>]</span> dicen: «Un hombre no puede cumplir con su deber el primer día de la fiesta con la rama de palma de su vecino, pero los demás días de la fiesta sí puede cumplir con su deber con la rama de palma de su vecino».
+13\. Si el primer día de la fiesta cae en Sabbat, todos deben traer sus ramas de palma (con antelación) a la sinagoga. Por la mañana temprano, cada uno debe elegir su propia rama de palma y tomarla, pues los Sabios <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> dicen: «Un hombre no puede cumplir con su deber el primer día de la fiesta con la rama de palma de su vecino, pero los demás días de la fiesta sí puede cumplir con su deber con la rama de palma de su vecino».
 
 14\. R. José dice: «Si el primer día de la fiesta cae en sábado, y alguien se olvida de llevar su rama de palma al público, queda absuelto, porque la llevó a cabo con permiso». [^257]
 

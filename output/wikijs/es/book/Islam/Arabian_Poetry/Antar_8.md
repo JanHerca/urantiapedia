@@ -62,7 +62,7 @@ Que no abusen de él si ayuda a una criatura solitaria, que pasa toda la noche s
 
 Él es un rey a cuyo nombre los príncipes se inclinarán y lo señalarán para rendir homenaje.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Él es el asilo de todos los que recurren a él para disipar sus penas, como él alivia mis penas.
 
@@ -82,7 +82,7 @@ Soy amigo del dolor y del deseo. Me abruman y me agobian la paciencia y las prue
 
 Me quejo a Dios de mis aflicciones y de mi amor; y a nadie más me quejo.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 Abla se sintió profundamente conmovida por la evidente angustia de Antar, pues lo amaba tanto por su valor como por su elocuencia. «¿Dónde está mi parte de tu botín, prima?», dijo ella, juguetonamente. «¿Ya no tengo importancia para ti?». «En verdad», respondió él, «se lo di todo a tu padre y a tus tíos». Luego le dio las dos esclavas y las joyas que había recibido del Rey; pero los perfumes los dividió entre sus tías, diciéndole a Abla que no los necesitaba, ya que su aliento era más dulce que cualquier perfume.
 

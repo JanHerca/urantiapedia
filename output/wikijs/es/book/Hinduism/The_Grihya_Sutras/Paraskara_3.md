@@ -46,7 +46,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^867]. Tras ofrecer la comida preparada a las deidades Âgraya<i>n</i>a, ofrece otra ofrenda a (Agni) Svish<i>n</i>ak<i>n</i>t con (el verso): «Agni, completa este (sacrificio), para que sea bien ofrecido. Y que el dios destruya todos los poderes hostiles. Ven aquí, mostrándonos un buen camino. Concédenos una larga vida, llena de esplendor y libre de corrupción. ¡Svâhâ!»
 
-4\. Luego come (de las frutas frescas con los versos <span id="p338">[<sup><small>p. 338</small></sup>]</span>): «Que Agni coma primero, pues él sabe cómo el Havis (es apto para el sacrificio); que él, el amigo de todas las tribus humanas, nos bendiga las hierbas».
+4\. Luego come (de las frutas frescas con los versos <span id="p338"><sup><small>[ p. 338 ]</small></sup></span>): «Que Agni coma primero, pues él sabe cómo el Havis (es apto para el sacrificio); que él, el amigo de todas las tribus humanas, nos bendiga las hierbas».
 
 Del bien nos habéis guiado a lo mejor, ¡dioses! Que por vosotros, el alimento, lo obtengamos. Entra en nosotros, oh poción, que traes refrigerio, para bien de nuestros hijos y de nosotros mismos, y placentero.
 
@@ -92,7 +92,7 @@ Que el verano, el invierno y la primavera, y las lluvias nos sean favorables, y 
 
 12\. [^874]. Quienes han recibido la iniciación murmuran: «Que nos conceda un buen invierno, una buena primavera y un buen verano. Benditas sean las lluvias; benditos sean los otoños».
 
-13\. Con (el verso), «Sé amable con nosotros, oh tierra» (Vâ_g_. Sa<i>m</i>h. XXXV, 21), se acuestan sobre su lado derecho, con la cabeza vuelta hacia el este. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
+13\. Con (el verso), «Sé amable con nosotros, oh tierra» (Vâ_g_. Sa<i>m</i>h. XXXV, 21), se acuestan sobre su lado derecho, con la cabeza vuelta hacia el este. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 14 [14](#fn875). Surgen con (el verso): "¡Arriba! con vida, con vida bendita. ¡Arriba! con el ojo de Par<i>m</i>anya, con los siete espacios de la tierra."
 
@@ -112,7 +112,7 @@ Que el verano, el invierno y la primavera, y las lluvias nos sean favorables, y 
 
 5\. [^879]. Tras haber cocinado un plato de comida sacrificial y haber sacrificado las dos porciones de Â<i>g</i>ya, sacrifica oblaciones de Â<i>g</i>ya con (los textos):
 
-(a [^880]) Treinta hermanas van al lugar designado, <span id="p342">[<sup><small>p. 342</small></sup>]</span> luciendo la misma insignia. Distribuyen las estaciones, las sabias conocedoras; con los metros en medio, caminan alrededor, las brillantes. ¡Svâhâ!
+(a [^880]) Treinta hermanas van al lugar designado, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> luciendo la misma insignia. Distribuyen las estaciones, las sabias conocedoras; con los metros en medio, caminan alrededor, las brillantes. ¡Svâhâ!
 
 (b) 'La resplandeciente se viste de nubes, con los caminos del sol, la noche divina: múltiples animales que nacen, miran a su alrededor en el regazo de esta madre. ¡Svâhâ!
 
@@ -122,7 +122,7 @@ Que el verano, el invierno y la primavera, y las lluvias nos sean favorables, y 
 
 (e) 'A mi favor residió el omnisciente; ha encontrado una posición firme; ha logrado establecerse. Que yo esté a su favor (es decir, al del sacrificador), como ustedes; que ninguno de ustedes suplante al otro en su obra.
 
-(f [^882]) 'A los cinco amaneceres les sigue el quíntuple ordeño; a la vaca de los cinco nombres, las cinco estaciones. Las cinco regiones (del cielo) se establecen <span id="p343">[<sup><small>p. 343</small></sup>]</span> a través del quíntuple (Estoma); con un rostro común (vigilan) el mundo único. ¡Svâhâ!
+(f [^882]) 'A los cinco amaneceres les sigue el quíntuple ordeño; a la vaca de los cinco nombres, las cinco estaciones. Las cinco regiones (del cielo) se establecen <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> a través del quíntuple (Estoma); con un rostro común (vigilan) el mundo único. ¡Svâhâ!
 
 (g) 'Quien brilló como la primera, es hija de la verdad. Uno (de ellos) porta la majestuosidad de las aguas; otro vaga por los cursos del sol; otro (en los del calor); Savitri gobernará a uno. ¡Svâhâ!
 
@@ -134,7 +134,7 @@ Que el verano, el invierno y la primavera, y las lluvias nos sean favorables, y 
 
 6\. [^884]. Hace ofrendas de la comida cocinada con (los versos):
 
-Que la tierra sea pacífica, que el aire nos sea favorable; <span id="p344">[<sup><small>p. 344</small></sup>]</span> que los cielos nos den dicha y seguridad. Que los puntos (del horizonte), los puntos intermedios, los puntos superiores nos den dicha, y que el día y la noche nos prolonguen la vida. ¡Svâhâ!
+Que la tierra sea pacífica, que el aire nos sea favorable; <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> que los cielos nos den dicha y seguridad. Que los puntos (del horizonte), los puntos intermedios, los puntos superiores nos den dicha, y que el día y la noche nos prolonguen la vida. ¡Svâhâ!
 
 Que las aguas, los rayos, nos protejan por todos lados; que el creador, el océano, aleje el mal. Que el presente y el futuro estén a salvo para mí. Protegido por Brahman, que esté bien resguardado. ¡Svâhâ!
 
@@ -150,7 +150,7 @@ Que todos los Âdityas y los divinos Vasus, que los Rudras y Maruts sean nuestro
 
 11\. También a las antepasadas les hace ofrendas de Pi<i>nd</i>a y vierte (para ellas) licor fuerte y oblaciones de agua en pozos, y (les ofrece) colirio, ungüentos y guirnaldas.
 
-12\. (También puede hacer ofrendas), si lo desea, al maestro y a los alumnos que no tienen hijos. <span id="p345">[<sup><small>p. 345</small></sup>]</span>
+12\. (También puede hacer ofrendas), si lo desea, al maestro y a los alumnos que no tienen hijos. <span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 13 [^885]. Y en medio de la temporada de lluvias (hay) un cuarto Ash<i>t</i>akâ en el que se ofrecen verduras.
 
@@ -184,7 +184,7 @@ Rico en caballos y vacas, rico en deleites, para gran felicidad. A ti puede llor
 
 (b) ¡Vâstoshpati! Sé nuestro promotor; haz que nuestra riqueza aumente en vacas y caballos, oh Indu (es decir, Soma). Que vivamos libres de decadencia en tu amistad; concédenos tu favor, como un padre a sus hijos. ¡Svâhâ!
 
-(c) '¡Vâstoshpati! Permítenos tener una comunión contigo que sea valiente, alegre y próspera. Protege nuestros deseos cuando descansamos y <span id="p347">[<sup><small>p. 347</small></sup>]</span> cuando trabajamos. Protégenos siempre, oh dioses, y danos bienestar. ¡Svâhâ!
+(c) '¡Vâstoshpati! Permítenos tener una comunión contigo que sea valiente, alegre y próspera. Protege nuestros deseos cuando descansamos y <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> cuando trabajamos. Protégenos siempre, oh dioses, y danos bienestar. ¡Svâhâ!
 
 (d) 'Ahuyentando la calamidad, Vâstoshpati, asumiendo todas las formas, sé un buen amigo para nosotros. ¡Svâhâ!
 
@@ -202,7 +202,7 @@ Rico en caballos y vacas, rico en deleites, para gran felicidad. A ti puede llor
 
 (f) 'Como un lugar afortunado y feliz, dame esta morada, a Brahman y a Pra<i>g</i>âpati, y a todas las deidades. ¡Svâhâ!'
 
-9. Después de haber participado (de la comida del sacrificio), que coloque en un recipiente de latón los diferentes elementos que ha reunido: hojas de Udumbara con licor fuerte, turba verde, estiércol de vaca, cuajada, <span id="p348">[<sup><small>p. 348</small></sup>]</span> miel, ghee, hierba Kusa y cebada, y que rocíe los asientos y santuarios (para las imágenes de los dioses).
+9. Después de haber participado (de la comida del sacrificio), que coloque en un recipiente de latón los diferentes elementos que ha reunido: hojas de Udumbara con licor fuerte, turba verde, estiércol de vaca, cuajada, <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> miel, ghee, hierba Kusa y cebada, y que rocíe los asientos y santuarios (para las imágenes de los dioses).
 
 10\. Toca (el muro y los postes) en su unión oriental con (las palabras), 'Que la suerte y la gloria te protejan en tu unión oriental'.
 
@@ -246,7 +246,7 @@ Aquí se convoca a todos los parientes, a los amigos cuya llegada es buena. Así
 
 2\. Al noreste cava un hoyo como (el hoyo para) un poste de sacrificio, esparce en él hierba Kusa, granos fritos, frutos del árbol de jabón y otras cosas auspiciosas, y allí establece el barril de agua con (las palabras), 'Tú eres el mar'.
 
-3\. [^892]. Vierte agua en ella con (el verso): «Vosotras, <span id="p350">[<sup><small>p. 350</small></sup>]</span> aguas, ricas en riquezas, poseedoras de bienes. Nos traéis la buena visión y la inmortalidad. Sois los gobernantes de la riqueza y de la descendencia bendita. ¡Que Sarasvati fortalezca a quien la alaba!»
+3\. [^892]. Vierte agua en ella con (el verso): «Vosotras, <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> aguas, ricas en riquezas, poseedoras de bienes. Nos traéis la buena visión y la inmortalidad. Sois los gobernantes de la riqueza y de la descendencia bendita. ¡Que Sarasvati fortalezca a quien la alaba!»
 
 4\. Y con los tres (versos), 'Oh aguas, sois' (Vâ_g_. Sa<i>m</i>hitâ XI, 50 seqq.).
 
@@ -270,7 +270,7 @@ Aquí se convoca a todos los parientes, a los amigos cuya llegada es buena. Así
 
 1\. [^893]. (Ahora se declarará) el hacer agua alrededor de un sirviente que está dispuesto a huir.
 
-2\. Mientras (el sirviente) duerme, debe orinar en el cuerno de un animal vivo, y debe caminar tres veces alrededor de él, girando su lado izquierdo hacia él, y rociar (la orina) a su alrededor, <span id="p351">[<sup><small>p. 351</small></sup>]</span> con (el verso), 'De la montaña (en la que naciste), de tu madre, de tu hermana, de tus padres y tus hermanos, de tus amigos te separo.
+2\. Mientras (el sirviente) duerme, debe orinar en el cuerno de un animal vivo, y debe caminar tres veces alrededor de él, girando su lado izquierdo hacia él, y rociar (la orina) a su alrededor, <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> con (el verso), 'De la montaña (en la que naciste), de tu madre, de tu hermana, de tus padres y tus hermanos, de tus amigos te separo.
 
 Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
@@ -334,7 +334,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 7\. [^913]. Cuando (el toro) se encuentra en medio de las vacas, recita sobre él (los textos que comienzan con) 'Trayendo refrigerio', hasta el final del Anuvâka (Vâ_g_. Sa<i>m</i>h. XVIII, 45-50).
 
-8\. Con la leche de todas (las vacas) debe cocinar arroz con leche y dárselo a los brahmanes para que lo coman. <span id="p355">[<sup><small>p. 355</small></sup>]</span>
+8\. Con la leche de todas (las vacas) debe cocinar arroz con leche y dárselo a los brahmanes para que lo coman. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 9 [^914]. Algunos también sacrifican un animal.
 
@@ -360,7 +360,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 9\. [^918]. Cantar la canción de Yama y murmurar el himno de Yama, según algunos (maestros).
 
-10\. [^919]. Si (el difunto) ha recibido la iniciación, <span id="p356">[<sup><small>p. 356</small></sup>]</span> (los ritos) de la elección del sitio (para el _S<i>ma</i>s<i>ma<i>S</i>rauta) encienden fuegos.
+10\. [^919]. Si (el difunto) ha recibido la iniciación, <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> (los ritos) de la elección del sitio (para el _S<i>ma</i>s<i>ma<i>S</i>rauta) encienden fuegos.
 
 11\. Lo queman con el fuego doméstico, si lo ha conservado;
 
@@ -402,7 +402,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 30\. Durante diez noches, según algunos (maestros).
 
-31\. (Durante ese período) no deben realizar Svâdhyâya (ni estudiar los textos védicos por sí mismos). <span id="p358">[<sup><small>p. 358</small></sup>]</span>
+31\. (Durante ese período) no deben realizar Svâdhyâya (ni estudiar los textos védicos por sí mismos). <span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 32\. Deben interrumpir los ritos permanentes, excepto aquellos realizados con los tres fuegos (<i>S</i>rauta),
 
@@ -428,7 +428,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 43\. [^929]. Y ellos para los (otros).
 
-44\. [^930]. Si alguien muere estando ausente de viaje, sus parientes deberán sentarse en el suelo, como se prescribe para las personas impuras, desde el momento en que se enteren de su fallecimiento, realizando la libación de agua <span id="p359">[<sup><small>p. 359</small></sup>]</span>, hasta que expire su período de impureza.
+44\. [^930]. Si alguien muere estando ausente de viaje, sus parientes deberán sentarse en el suelo, como se prescribe para las personas impuras, desde el momento en que se enteren de su fallecimiento, realizando la libación de agua <span id="p359"><sup><small>[ p. 359 ]</small></sup></span>, hasta que expire su período de impureza.
 
 45\. Si (ese período ya ha) transcurrido, por una noche o por tres noches.
 
@@ -468,7 +468,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 5\. [^940]. (También debe nombrar a esa deidad) al tocar (al animal con la brizna de hierba), al atarle (a la rama), al rociarlo (con agua) y al preparar y oblar la comida cocinada.
 
-6\. Después de sacrificar el epiplón, corta las porciones de Avadâna, <span id="p361">[<sup><small>p. 361</small></sup>]</span>
+6\. Después de sacrificar el epiplón, corta las porciones de Avadâna, <span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 7 [^941]. Todos ellos, o tres, o cinco.
 
@@ -488,7 +488,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 3\. (Y) ofrecerá un plato de comida cocinada a Nir<i>ri</i>ti.
 
-4\. [^945]. Las porciones de Avadâna se sacrifican en agua (y no en fuego). <span id="p362">[<sup><small>p. 362</small></sup>]</span>
+4\. [^945]. Las porciones de Avadâna se sacrifican en agua (y no en fuego). <span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 5 [^946]. El Puro<i>d</i>â<i>d</i>a (o torta sacrificial), que pertenece al sacrificio animal, se cocina en el suelo (y no en las Kapâlas).
 
@@ -526,7 +526,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 1\. Ahora se declara el montaje de un carro.
 
-2\. Después de dar la orden: «¡A por los caballos!», y de que se haya anunciado: «Ya están», se dirige al carro diciendo: «Este es el Virâ_g_», y toca las dos ruedas. <span id="p364">[<sup><small>p. 364</small></sup>]</span>
+2\. Después de dar la orden: «¡A por los caballos!», y de que se haya anunciado: «Ya están», se dirige al carro diciendo: «Este es el Virâ_g_», y toca las dos ruedas. <span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 3\. La rueda derecha con las palabras: «Eres el Rathantara»—
 
@@ -540,7 +540,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 8\. (Si va en su carro) hacia (imágenes de) dioses, que descienda (del carro) antes de haberlos alcanzado; si va hacia brahmanes, justo antes (de haberlos alcanzado); si va hacia vacas, cuando esté entre ellas; si va hacia padres, cuando los haya alcanzado.
 
-9\. Ni una mujer ni un estudiante védico podrán ser aurigas. <span id="p365">[<sup><small>p. 365</small></sup>]</span>
+9\. Ni una mujer ni un estudiante védico podrán ser aurigas. <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 10\. Después de haber conducido un momento más allá (del punto al que pretende llegar), debe murmurar: "Aquí hay descanso, descansa aquí" (Vâ_g_. Sa<i>m</i>h. VIII, 51).
 
@@ -562,7 +562,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 3\. Luego lo asciende con las palabras: «Con el rayo de Indra te rodeo. Haz que llegue sano y salvo».
 
-4\. También se ha declarado cómo debe montar a caballo. <span id="p366">[<sup><small>p. 366</small></sup>]</span>
+4\. También se ha declarado cómo debe montar a caballo. <span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 5\. Cuando va a montar un camello, le dice: «Eres hijo de Tvash<i>t</i>_ri_; Tvash<i>t</i>_ri_ es tu deidad. Haz que llegue sano y salvo».
 
@@ -584,7 +584,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 14\. A un cementerio se dirige: «Adoración a Rudra, que mora entre los Padres. Haz que llegue sano y salvo».
 
-15\. A un establo de vacas se dirige: «Adoración a Rudra, que mora entre los estercoleros. Haz que llegue sano y salvo». <span id="p367">[<sup><small>p. 367</small></sup>]</span>
+15\. A un establo de vacas se dirige: «Adoración a Rudra, que mora entre los estercoleros. Haz que llegue sano y salvo». <span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 16\. Y dondequiera que esté, que diga siempre: «Adoración a Rudra». Pues el Sruti dice: «Rudra es este universo».
 
@@ -598,7 +598,7 @@ Siervo fugitivo, te he regado. Después de haber sido regado, ¿adónde irás?
 
 21\. A un árbol que sirve de límite, etc., se dirige: «Que ni el relámpago te destruya, ni el hacha, ni el viento, ni el castigo que envía el rey. Que tus brotes crezcan; que la lluvia te cubra, a salvo del viento. Que el fuego no destruya tus raíces. ¡Bendito seas, oh señor del bosque! ¡Bendito seas yo, oh señor del bosque!»
 
-22\. Si recibe algo (que se le da), lo acepta con (la fórmula): «Que el Cielo te dé; que la Tierra te acepte». Así, (lo dado) no disminuye para quien lo da, y lo que recibe aumenta. <span id="p368">[<sup><small>p. 368</small></sup>]</span>
+22\. Si recibe algo (que se le da), lo acepta con (la fórmula): «Que el Cielo te dé; que la Tierra te acepte». Así, (lo dado) no disminuye para quien lo da, y lo que recibe aumenta. <span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 23\. Si se le da arroz hervido, lo acepta con (la fórmula), «Que el Cielo, etc.», y lo come dos veces con (las fórmulas), «¡Que Brahman te coma!» —«¡Que Brahman te coma!»
 

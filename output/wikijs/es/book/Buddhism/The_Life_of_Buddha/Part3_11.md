@@ -43,7 +43,7 @@ Fue al palacio de Ajatasatru.
 
 Siguió hablando y le dio al príncipe los peores consejos. El príncipe, débil, escuchó. Al poco tiempo, decidió matar a su padre.
 
-Día y noche, Ajatasatru vagaba <span id="p257">[<sup><small>p. 257</small></sup>]</span> por el palacio, buscando la oportunidad de colarse en los aposentos de su padre y fugarse. Pero no pudo escapar de la vigilancia de los guardias. Su inquietud los desconcertó, y le dijeron al rey Vimbasara:
+Día y noche, Ajatasatru vagaba <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> por el palacio, buscando la oportunidad de colarse en los aposentos de su padre y fugarse. Pero no pudo escapar de la vigilancia de los guardias. Su inquietud los desconcertó, y le dijeron al rey Vimbasara:
 
 Oh, rey, tu hijo Ajatasatru se ha comportado de forma extraña últimamente. ¿Podría estar planeando alguna mala acción?
 

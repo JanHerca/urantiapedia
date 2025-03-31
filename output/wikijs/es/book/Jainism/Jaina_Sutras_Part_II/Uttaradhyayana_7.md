@@ -40,7 +40,7 @@ Luego, cuando ha crecido y es grande, gordo y de gran barriga, engordado y de cu
 
 Mientras no llegue ningún huésped, el pobre animal vive; pero en cuanto llega un huésped, le cortan la cabeza y lo comen. (3)
 
-Así como este carnero es bien tratado por causa de <span id="p28">[<sup><small>p. 28</small></sup>]</span> un huésped, así también un gran pecador ignorante anhela (por así decirlo) la vida en el infierno. (4)
+Así como este carnero es bien tratado por causa de <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> un huésped, así también un gran pecador ignorante anhela (por así decirlo) la vida en el infierno. (4)
 
 El hombre ignorante mata, miente, roba en el camino, hurta bienes extranjeros, engaña (pensando siempre en alguien) a quien pueda saquear, el villano. (5)
 
@@ -66,7 +66,7 @@ El capital es la vida humana, la ganancia es el cielo; por la pérdida de ese ca
 
 Éstos son los dos caminos abiertos al pecador; consisten en la miseria, como castigo corporal, etc.; porque el esclavo de sus concupiscencias [^121] ha perdido la vida humana y la vida divina. (17)
 
-Una vez perdidos, tendrá que soportar estos dos estados de miseria; le será <span id="p30">[<sup><small>p. 30</small></sup>]</span> difícil alcanzar un rumbo ascendente [^122] durante mucho tiempo. (18)
+Una vez perdidos, tendrá que soportar estos dos estados de miseria; le será <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> difícil alcanzar un rumbo ascendente [^122] durante mucho tiempo. (18)
 
 Considerando lo que está en juego, uno debe sopesar (las posibilidades) del pecador y del hombre virtuoso (en su mente).
 
@@ -80,7 +80,7 @@ Cuando uno sabe que un monje o un jefe de familia virtuoso se alegrará con su g
 
 Así como una gota de agua en la punta de una brizna de hierba Kusa se reduce a nada cuando se la compara con el océano, así también lo hacen los placeres humanos cuando se los compara con los placeres divinos. (23)
 
-Los placeres en esta vida tan limitada de los hombres son como (el agua en) la cima de una brizna de hierba Kusa; ¿por qué no se preocupará un hombre de ganar y <span id="p31">[<sup><small>p. 31</small></sup>]</span> conservar (un bien tan preciado que se arriesga a perder)? (24)
+Los placeres en esta vida tan limitada de los hombres son como (el agua en) la cima de una brizna de hierba Kusa; ¿por qué no se preocupará un hombre de ganar y <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> conservar (un bien tan preciado que se arriesga a perder)? (24)
 
 Quien no ha renunciado al placer, errará su objetivo (es decir, el verdadero fin de su alma); pues aunque se le haya enseñado el camino correcto, se extraviará una y otra vez. (25)
 

@@ -112,7 +112,7 @@ No os privéis de aquello que ha sido creado para vosotros.
 
 La caridad es amada y aceptable ante Dios, y se considera la principal entre todas las buenas obras.
 
-La Facultad Reflexiva (o Mente) es la depositaria de las artes, los oficios y las ciencias. Esfuércense <span id="p89">[<sup><small>p. 89</small></sup>]</span> para que las gemas del conocimiento y la sabiduría provengan de esta mina ideal y contribuyan a la tranquilidad y la unión de las diferentes naciones del mundo.
+La Facultad Reflexiva (o Mente) es la depositaria de las artes, los oficios y las ciencias. Esfuércense <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> para que las gemas del conocimiento y la sabiduría provengan de esta mina ideal y contribuyan a la tranquilidad y la unión de las diferentes naciones del mundo.
 
 En todas las circunstancias, ya sea en la adversidad o en la comodidad, en la gloria o en la aflicción... muestren amor y afecto, compasión y unión.
 

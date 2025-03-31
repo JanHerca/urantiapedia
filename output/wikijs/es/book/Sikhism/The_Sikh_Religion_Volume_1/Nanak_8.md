@@ -71,7 +71,7 @@ El contentamiento es el cinturón. Tu nombre, _oh Señor_, es riqueza y juventud
 Madre, otro vestido trae una felicidad ruinosa.
 Al ponérselo, el cuerpo se duele y el pecado entra en la mente.
 
-Para entonces, su padre Kalu se enteró de la llegada de Nanak y fue a recibirlo a caballo. Nanak <span id="p98">[<sup><small>p. 98</small></sup>]</span> le hizo una reverencia y cayó a sus pies. Mientras tanto, Kalu seguía llorando de alegría. Le pidió a su hijo que montara el caballo en el que había venido y regresara a casa con él. Nanak respondió que no necesitaba un caballo y entonces cantó lo siguiente:
+Para entonces, su padre Kalu se enteró de la llegada de Nanak y fue a recibirlo a caballo. Nanak <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> le hizo una reverencia y cayó a sus pies. Mientras tanto, Kalu seguía llorando de alegría. Le pidió a su hijo que montara el caballo en el que había venido y regresara a casa con él. Nanak respondió que no necesitaba un caballo y entonces cantó lo siguiente:
 
 Conocer tu camino, oh Dios, es como caballos con sillas de oro.
 Perseguir la virtud es como tener carcaj, flechas, arcos, lanzas y cinturones para espadas.

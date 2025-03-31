@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. Rabí Eliezer dijo: «Se permite una novilla para ofrenda por el pecado incluso en estado de embarazo». Pero los Sabios la desautorizan. <span id="p302">[<sup><small>p. 302</small></sup>]</span> Rabí Eliezer dijo: «No se le debe quitar a extranjeros». Pero los Sabios la permiten. Y no solo ella, sino todas las ofrendas de la congregación y del individuo, pueden provenir de la Tierra (de Israel), o de fuera de ella, de la cosecha fresca y de la cosecha antigua, excepto el ómer [^622] y los dos panes [^623], que solo pueden provenir de la cosecha fresca y de la Tierra.
+1\. Rabí Eliezer dijo: «Se permite una novilla para ofrenda por el pecado incluso en estado de embarazo». Pero los Sabios la desautorizan. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> Rabí Eliezer dijo: «No se le debe quitar a extranjeros». Pero los Sabios la permiten. Y no solo ella, sino todas las ofrendas de la congregación y del individuo, pueden provenir de la Tierra (de Israel), o de fuera de ella, de la cosecha fresca y de la cosecha antigua, excepto el ómer [^622] y los dos panes [^623], que solo pueden provenir de la cosecha fresca y de la Tierra.
 
 2\. A una novilla cuyos cuernos y pezuñas estén negros se le deben cortar. La pupila, los dientes y la lengua no causan imperfección alguna en la novilla. Si es diminuta, se le permite. "¿Tenía un culebrón que le fue cortado?", R. Judah "lo prohibió". Rabí Simón dijo: "Cada parte cortada sin que brote pelo rojo en su lugar la convierte en imperfección".
 

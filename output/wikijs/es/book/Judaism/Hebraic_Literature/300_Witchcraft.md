@@ -36,7 +36,7 @@ Las hijas de Israel queman incienso para hechicería.
 
 _Berachoth_, fol. 53, col. 1.
 
-Ben Azai (hijo de la impudencia) dice: «...quien se sienta y luego siente... (lo cual no debe explicarse), los efectos de la brujería, incluso practicada en España, le sobrevendrán. ¿Cuál es el remedio cuando uno <span id="p189">[<sup><small>p. 189</small></sup>]</span> olvida, primero se sienta y luego siente? Al levantarse, que diga: «No estas ni de estas; no es la brujería de los hechiceros ni la brujería de las brujas».
+Ben Azai (hijo de la impudencia) dice: «...quien se sienta y luego siente... (lo cual no debe explicarse), los efectos de la brujería, incluso practicada en España, le sobrevendrán. ¿Cuál es el remedio cuando uno <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> olvida, primero se sienta y luego siente? Al levantarse, que diga: «No estas ni de estas; no es la brujería de los hechiceros ni la brujería de las brujas».
 
 _Berachoth_, fol. 62, col. 1.
 
@@ -124,7 +124,7 @@ Español Una vez, Rabba creó a un hombre (del polvo) y lo envió a Rabí Zira, 
 
 _Sanedrín_, fol. 65, col. 2.
 
-Yannai entró en cierta posada y pidió agua para beber, y le dieron (Shethitha, es decir, agua mezclada con harina). Notó que los labios de la mujer que se la traía se movían (y, sospechando que algo andaba mal), vertió un poco y se convirtió en escorpiones. Entonces dijo: «He bebido de la tuya, ahora tú beberás de la mía». La mujer bebió y <span id="p194">[<sup><small>p. 194</small></sup>]</span> se transformó en un asno, que él montó y cabalgó hasta el mercado. Una de sus compañeras se acercó, rompió el hechizo, y el asno que había montado se transformó de nuevo en una mujer. En referencia a lo anterior, Rashi comenta ingenuamente: «No debemos suponer que Yannai fuera rabino, pues no era estimado, pues practicaba la brujería». Pero Rashi está equivocado; véase Sophrim, cap. 16, hal. 6.
+Yannai entró en cierta posada y pidió agua para beber, y le dieron (Shethitha, es decir, agua mezclada con harina). Notó que los labios de la mujer que se la traía se movían (y, sospechando que algo andaba mal), vertió un poco y se convirtió en escorpiones. Entonces dijo: «He bebido de la tuya, ahora tú beberás de la mía». La mujer bebió y <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> se transformó en un asno, que él montó y cabalgó hasta el mercado. Una de sus compañeras se acercó, rompió el hechizo, y el asno que había montado se transformó de nuevo en una mujer. En referencia a lo anterior, Rashi comenta ingenuamente: «No debemos suponer que Yannai fuera rabino, pues no era estimado, pues practicaba la brujería». Pero Rashi está equivocado; véase Sophrim, cap. 16, hal. 6.
 
 _Sanedrín_, fol. 67, col. 2.
 

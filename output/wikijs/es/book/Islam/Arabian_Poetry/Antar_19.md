@@ -56,7 +56,7 @@ Romperé el apoyo de Grecia desde sus cimientos y cortaré la cabeza de Badhramo
 
 Exterminaré a cada héroe-león con mi espada; ¡que se jacte, que se jacte, que se burle!
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 ¿No es sabido que mi poder es sublime en lo alto? ¿No está entre las estrellas en las cercanías de Júpiter?
 
@@ -88,7 +88,7 @@ Los reinos de Chosroe no los codiciaría, si el fantasma de mi amor desaparecier
 
 ¡Que las lluvias siempre rocíen las tierras y los montículos de Shurebah! Tierras donde el brillo de las lunas llenas veladas puede verse en la oscuridad de sus bucles negros, donde mi corazón persigue entre ellas a una damisela cuyos ojos están pintados con antimonio, más hermosa que la Houri.
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Puedes ver en sus dientes un licor cuando sonríe, donde la copa de vino está tachonada de perlas.
 
@@ -114,7 +114,7 @@ La cantante me apaciguaría el corazón con su voz; pero mi corazón enfermo de 
 
 Los recuerdos de Abla me distraen de su canción, y yo le diría a mi amigo: ¡Todo esto es un sueño!
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 En la tierra del Hiyaz están las tiendas de mi tribu, y volver a encontrarme con ellos me está prohibido.
 
@@ -186,7 +186,7 @@ Tú eres aquel a quien todos los reyes deben someterse; y en tu justicia has sup
 
 «No imaginéis», exclamó el Rey con creciente deleite, «que hemos podido recompensaros debidamente. Lo que os hemos dado es perecedero, como todo lo humano; pero vuestras alabanzas perdurarán por los siglos.»
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 «Luego besó a Antar entre los ojos y se despidió de él, dándole como último obsequio una rica túnica; y rogándole que lo visitara con frecuencia, se fue.»
 
@@ -206,7 +206,7 @@ Me fui de ti no inquieto ni muy angustiado, pero mi tío me ha ultrajado y codic
 
 Me ha expuesto a un mar de peligros, pero me sumergí en él con mi brillante espada de dos filos.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 He cortado el cuello de la Fortuna, y las vicisitudes nocturnas y las calamidades nocturnas han temblado.
 

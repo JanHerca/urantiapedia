@@ -62,7 +62,7 @@ Los hombres no superan fácilmente este apego, como no superan el océano [^773]
 
 Pero un monje debe renunciar a ella; pues todo apego no es más que causa de pecado. No debe desear la vida, habiendo sido instruido en la mejor Ley. (13)
 
-Existen estos remolinos que han sido <span id="p265">[<sup><small>p. 265</small></sup>]</span> señalados por <i>K</i>â<i>s</i>yapa: los sabios se mantienen alejados de ellos, pero los ignorantes se hunden en ellos. (14)
+Existen estos remolinos que han sido <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> señalados por <i>K</i>â<i>s</i>yapa: los sabios se mantienen alejados de ellos, pero los ignorantes se hunden en ellos. (14)
 
 Los reyes y ministros de reyes, los brahmanes y los kshattriyas intentan con cosas agradables seducir a un monje que lleva una vida santa. (15)
 

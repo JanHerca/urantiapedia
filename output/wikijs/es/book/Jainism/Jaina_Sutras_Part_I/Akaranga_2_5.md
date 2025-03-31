@@ -42,7 +42,7 @@ Un monje o una monja que desee ropa puede pedir tela de lana, seda, cáñamo, ho
 
 Un monje o una monja no debe decidirse a gastar más de media yogana para conseguir ropa. En cuanto a la aceptación de ropa, deben repetirse aquí los preceptos dados en la (Primera Lección de la Primera Lección, llamada) Mendicidad [^424], relativos a un compañero asceta; también respecto a muchos compañeros ascetas, una compañera asceta, muchas compañeras ascetas, muchos <i>Srama<i>n</i>as</i> y Brâhma<i>n</i>as; también sobre la ropa apropiada por otra persona [^425]. (2)
 
-Un monje o una monja no deben aceptar ropa que el laico, para beneficio del mendicante, haya comprado, <span id="p158">[<sup><small>p. 158</small></sup>]</span> lavada, teñida, cepillada, frotada, limpiada o perfumada, si esta ropa es apropiada por quien la dona. Pero si es apropiada por otra persona, pueden aceptarla, pues es pura y aceptable. (3)
+Un monje o una monja no deben aceptar ropa que el laico, para beneficio del mendicante, haya comprado, <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> lavada, teñida, cepillada, frotada, limpiada o perfumada, si esta ropa es apropiada por quien la dona. Pero si es apropiada por otra persona, pueden aceptarla, pues es pura y aceptable. (3)
 
 Un monje o una monja no debe aceptar ninguna ropa muy cara de la siguiente descripción: ropa hecha de piel, fina, hermosa; ropa hecha de pelo de cabra, de algodón azul, de algodón común, de algodón de Bengala, de Pa<i>t</i><i>t</i>a, de fibras de Malaya, de fibras de corteza, de muselina, de seda; (ropa llamada provincialmente) Desaraga, Amila, Ga<i>g</i><i>g</i>ala, Phâliya, Kâyaha; mantas o mantos. (4)
 
@@ -96,7 +96,7 @@ El padre de familia puede decir (a otro de su pueblo): '¡Oh, tú, el de larga v
 
 El mendigo debe devolver la misma respuesta que más arriba (en el §11) y no aceptar dichas ropas. (12)
 
-El jefe de familia puede decir (a otro de sus <span id="p161">[<sup><small>p. 161</small></sup>]</span>): «¡Oh, longevo! (o, ¡oh, hermana!) trae esa tela, vacía los bulbos, etc. (véase II, 2, 1, § 5); se la daremos al <i>S</i>rama<i>n</i>a». Al oír y percibir tales palabras, el mendicante debe decir, tras reflexionar: «¡Oh, longevo! (o, ¡oh, hermana!) no vacíes esa tela de los bulbos, etc.; no me corresponde aceptar esas ropas». Tras estas palabras, el jefe de familia puede, no obstante, llevarse los bulbos, etc., y ofrecerle la tela; pero no debe aceptarla, pues es impura e inaceptable. (13)
+El jefe de familia puede decir (a otro de sus <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>): «¡Oh, longevo! (o, ¡oh, hermana!) trae esa tela, vacía los bulbos, etc. (véase II, 2, 1, § 5); se la daremos al <i>S</i>rama<i>n</i>a». Al oír y percibir tales palabras, el mendicante debe decir, tras reflexionar: «¡Oh, longevo! (o, ¡oh, hermana!) no vacíes esa tela de los bulbos, etc.; no me corresponde aceptar esas ropas». Tras estas palabras, el jefe de familia puede, no obstante, llevarse los bulbos, etc., y ofrecerle la tela; pero no debe aceptarla, pues es impura e inaceptable. (13)
 
 Si un padre de familia trae una túnica y se la da a un mendigo, debe, después de considerarlo, decir: “¡Oh, tú, la de larga vida! (o, ¡oh, hermana!) En tu presencia inspeccionaré atentamente el interior de la túnica”.
 
@@ -141,7 +141,7 @@ Un monje o una monja que quiera entrar en la casa de un padre de familia para pe
 
 Ahora bien, deben saber esto: un monje o una monja vestidos con todas sus ropas no deben entrar ni salir, para pedir limosna, de la casa de un padre de familia, etc., etc., al percibir que cae una lluvia fuerte y extendida, etc. (véase II, 1, 3, § 9). (1)
 
-Si un mendigo soltero toma prestada por un corto tiempo una túnica [^431] (de otro mendigo) y regresa tras permanecer fuera uno, dos, tres, cuatro o cinco días, <span id="p164">[<sup><small>p. 164</small></sup>]</span> no debe tomarla para sí, ni dársela a otra persona, ni darla bajo promesa (por otra túnica después de unos días), ni cambiarla por otra. No debe ir a otro mendigo y decirle: "¡Oh, longevo <i>S</i>rama<i>n</i>a! ¿Quieres usar esta túnica?". No debe rasgar la túnica, aún resistente, ni tirarla; sino entregársela a quien la tomó prestada en su estado desgastado; no debe usarla él mismo. (2)
+Si un mendigo soltero toma prestada por un corto tiempo una túnica [^431] (de otro mendigo) y regresa tras permanecer fuera uno, dos, tres, cuatro o cinco días, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> no debe tomarla para sí, ni dársela a otra persona, ni darla bajo promesa (por otra túnica después de unos días), ni cambiarla por otra. No debe ir a otro mendigo y decirle: "¡Oh, longevo <i>S</i>rama<i>n</i>a! ¿Quieres usar esta túnica?". No debe rasgar la túnica, aún resistente, ni tirarla; sino entregársela a quien la tomó prestada en su estado desgastado; no debe usarla él mismo. (2)
 
 La misma regla se aplica cuando muchos mendigos piden prestada ropa por un corto tiempo y regresan tras una estancia de un día, etc. Todo debe escribirse en plural. (3)
 
@@ -149,7 +149,7 @@ La misma regla se aplica cuando muchos mendigos piden prestada ropa por un corto
 
 Un monje o una monja no deben decolorar la ropa de color ni teñirla; ni deben dársela a alguien pensando que recibirán otra; ni deben darla bajo promesa (por otra ropa); ni deben intercambiarla por otra ropa; ni deben ir a alguien y decirle: "¡Oh, <i>Srama<i>n</i>a, longevo! ¿Quieres usar esta ropa?". No deben rasgar la ropa aún resistente y tirarla, para que otro mendigo la considere mala. (5)
 
-Si ve ladrones en su camino, no debe, por miedo a ellos y para salvar sus ropas, abandonar el camino o tomar otro, etc. (véase II, 3, 3, § 13), sino que, tranquilo, sin pensar en las cosas externas, <span id="p165">[<sup><small>p. 165</small></sup>]</span>, debe reflexionar; luego puede vagar con cautela de aldea en aldea. (6)
+Si ve ladrones en su camino, no debe, por miedo a ellos y para salvar sus ropas, abandonar el camino o tomar otro, etc. (véase II, 3, 3, § 13), sino que, tranquilo, sin pensar en las cosas externas, <span id="p165"><sup><small>[ p. 165 ]</small></sup></span>, debe reflexionar; luego puede vagar con cautela de aldea en aldea. (6)
 
 Si el camino de un monje o de una monja en peregrinación pasa por un bosque en el que, como saben, pasean bandas de muchos ladrones deseosos de robarles sus ropas, no deben, por miedo a ellos y para salvar sus ropas, abandonar el camino o ir por otro camino, etc. (todo como en el § 6). (7)
 

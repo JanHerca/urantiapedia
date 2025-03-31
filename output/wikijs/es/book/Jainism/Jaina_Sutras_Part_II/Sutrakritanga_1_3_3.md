@@ -56,7 +56,7 @@ Algunos injurian a un monje que lleva una vida santa. Pero estos injuriadores es
 
 “Por lo tanto, todavía tenéis un apego, al ser obedientes a la voluntad de los demás; no tenéis la pureza producida por el camino correcto, y no habéis ido más allá del Círculo de Nacimientos”. (10)
 
-Ahora bien, un monje que conoce (la verdad sobre) Môksha <span id="p267">[<sup><small>p. 267</small></sup>]</span> debería responderles [^778]: 'Hablas así, vacilando entre dos formas de vida (a saber, la de los jefes de familia y la de los monjes). (11)
+Ahora bien, un monje que conoce (la verdad sobre) Môksha <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> debería responderles [^778]: 'Hablas así, vacilando entre dos formas de vida (a saber, la de los jefes de familia y la de los monjes). (11)
 
 'Coméis de las vasijas [^779] (de los jefes de familia, y hacéis que) traigan comida para un hermano enfermo; coméis semillas y bebéis agua fría [^780], y lo que ha sido especialmente preparado (para vosotros cuando estáis enfermos). (12)
 

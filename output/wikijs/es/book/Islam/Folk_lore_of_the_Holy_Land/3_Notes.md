@@ -32,7 +32,7 @@ dateCreated: 2024-11-27T20:32:21Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 ## I
 
@@ -64,7 +64,7 @@ P. [168](./3_4#p168). «_El Kadi Abdullah el Mustakìm vivió en Bagdad_.—El-M
 
 P. [181](./3_5#p181). _Azrael y su hijo_.—Como se dice que una versión de la historia precedente, que el autor ha oído contar varias veces, en su totalidad y también en fragmentos, a los nativos de Palestina, se encuentra en la colección de cuentos de hadas de Grimm, es difícil determinar si su origen es oriental o al contrario. El nombre del héroe de la siguiente historia, que circula entre los campesinos de la aldea cristiana nativa de Ramallah, situada a unas diez millas al norte de Jerusalén, parece indicar que ha sido introducida por algún monje español o italiano. Se la han contado al autor cuatro personas diferentes, todas ellas nativas, y en otras tantas ocasiones diferentes.
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 P. [182](./3_5#p182). _El juego de cartas de Francesco_.—Aunque a primera vista puede parecer un anacronismo mencionar que las cartas se jugaban en los días de los Herodes, ya que la primera mención real de su uso en Europa se remonta al año 1388 d. C., y que su primera introducción en Francia fue durante el reinado de Carlos VII (1432-1461), sin embargo, algunos sabios alemanes opinan que fueron una invención de los chinos y llegaron a Europa a través de un canal árabe. (Véase Brockhaus, «Conversations-Lexikon» sobre «Spielkarten.»)
 
@@ -94,7 +94,7 @@ P. [237](./3_8#p237). _El «maûsam» o época de peregrinación_.—Esto varía
 
 P. [238](./3_8#p238). _La ventana con matacán sobre la puerta_.—A principios del siglo pasado, estos matacanes o ventanas protegidas sobre las puertas eran muy comunes en Jerusalén, no sólo sobre las entradas a los monasterios y edificios públicos, sino incluso en las viviendas privadas. Hoy en día rara vez se encuentran.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 P. [240](./3_8#p240) y siguientes. _La ignorancia de los sacerdotes cristianos_.——Los cristianos de las diversas sectas de Palestina aprecian hoy en día en general el valor de la educación y compiten entre sí para proporcionar escuelas, especialmente para la formación de eclesiásticos. En Jerusalén y sus alrededores hay varios seminarios de este tipo, y aunque todavía hay, sobre todo en lugares apartados, eclesiásticos ignorantes, sin embargo, el número de estos últimos no es tan grande como lo fue durante la primera parte del siglo pasado, cuando el clero rural perteneciente a la Iglesia griega ortodoxa era notorio por su densa ignorancia y no se hacían provisiones adecuadas para la instrucción de los ministros parroquiales. Incluso en Jerusalén, era costumbre que el predicador del domingo tuviera que ir durante la semana anterior a un archimandrita erudito para que le instruyera en un sermón para la ocasión. [^169] También era costumbre entonces proveer un sucesor para un sacerdote de aldea que se estaba haciendo viejo o débil, seleccionando a un muchacho probable de la aldea y enviándolo como sirviente al convento de Jerusalén. Allí tenía que asistir a los diversos servicios de la Iglesia y aprender de memoria las liturgias de los domingos, días festivos, bautismos, etc., de modo que, cuando la ocasión lo requiriera, pudiera leerlas, al menos, de los libros de oración.
 
@@ -116,7 +116,7 @@ P. [272](./3_10#p272). _Historia del hombre que ganó el corazón de la hiena_.�
 
 P. [275](./3_10#p275). y las siguientes pp. _El zorro, el águila y el leopardo_.—Una versión de esta historia del zorro es relata por F. Baldensperger en _Quarterly Statement_ de julio de 1905, pp. 199, 201.
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 P. [283](./3_10#p283).—_La médula espinal de un hombre se convierte en una serpiente_....Véase el comentario de Hershon arriba.
 

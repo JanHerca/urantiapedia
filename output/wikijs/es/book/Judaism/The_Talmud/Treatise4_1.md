@@ -46,7 +46,7 @@ En busca de la levadura—Cómo se debe desechar la levadura—Restricciones res
 
 2\. La gente no tiene por qué sospechar, no sea que la comadreja se haya deslizado (con levadura) de casa en casa o de un lugar a otro. Si así fuera, de un tribunal a otro, de una ciudad a otra, el asunto no tendría fin.
 
-3\. Rabí Judah dijo: «Se busca la víspera del día catorce y la mañana del día catorce, y al momento de quemarlo». Pero los Sabios dicen: «Si uno no buscó la víspera del día catorce, debe buscar el día catorce; si no buscó el día catorce, debe buscar durante la fiesta; si no buscó durante la fiesta, debe buscar después de la fiesta; y lo que quede, <span id="p96">[<sup><small>p. 96</small></sup>]</span> lo dejará bien oculto, para que no haya necesidad de buscarlo después».
+3\. Rabí Judah dijo: «Se busca la víspera del día catorce y la mañana del día catorce, y al momento de quemarlo». Pero los Sabios dicen: «Si uno no buscó la víspera del día catorce, debe buscar el día catorce; si no buscó el día catorce, debe buscar durante la fiesta; si no buscó durante la fiesta, debe buscar después de la fiesta; y lo que quede, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> lo dejará bien oculto, para que no haya necesidad de buscarlo después».
 
 4\. El rabino Meier dijo: «Pueden comerlo hasta las cinco [^122] y quemarlo a principios de las seis». El rabino Judah dijo: «Pueden comerlo hasta las cuatro, y están en suspenso sobre las cinco, pero lo queman a principios de las seis».
 

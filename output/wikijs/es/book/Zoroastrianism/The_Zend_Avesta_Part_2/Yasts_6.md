@@ -56,7 +56,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^421]. . . .
 
 1\. Sacrificamos al Sol inmortal, brillante y de caballo veloz.
 
-Cuando la luz del sol se vuelve más cálida [^423], cuando el brillo del sol se vuelve más cálido, entonces arriba <span id="p86">[<sup><small>p. 86</small></sup>]</span> se yerguen los Yazatas celestiales, por cientos y miles: recogen su Gloria, hacen descender su Gloria, vierten su Gloria sobre la tierra hecha por Ahura, para el aumento del mundo de la santidad, para el aumento de las criaturas de la santidad [^424], para el aumento del Sol eterno, brillante y de caballo veloz.
+Cuando la luz del sol se vuelve más cálida [^423], cuando el brillo del sol se vuelve más cálido, entonces arriba <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> se yerguen los Yazatas celestiales, por cientos y miles: recogen su Gloria, hacen descender su Gloria, vierten su Gloria sobre la tierra hecha por Ahura, para el aumento del mundo de la santidad, para el aumento de las criaturas de la santidad [^424], para el aumento del Sol eterno, brillante y de caballo veloz.
 
 2\. Y cuando el sol sale, la tierra, creada por Ahura, se purifica [^425]; las aguas corrientes se purifican, las aguas de los pozos se purifican, las aguas del mar se purifican, las aguas estancadas se purifican; todas las criaturas sagradas, las criaturas del Buen Espíritu, se purifican.
 

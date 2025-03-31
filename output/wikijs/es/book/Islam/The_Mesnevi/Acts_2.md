@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 **CAPÍTULO II.**
 
@@ -44,7 +44,7 @@ _Seyyid Burhānu-’d-Dīn, Sirr-Dān, el Muhaqqiq, el Huseynī, de la posterida
 
 Seyyid Burhānu-’d-Dīn era conocido popularmente con el nombre de Sirr-Dān en Balkh, Bukhārā (¿Alejandría Oxiana?) y Termīz. Su discurso giraba continuamente en torno a los temas de los fenómenos espirituales y mentales, de los misterios de la tierra y del cielo.
 
-Cuando Bahá Veled abandonó Balkh, el Seyyid fue a Termiz, y allí se recluyó como ermitaño. Al cabo de un tiempo, volvió a dar conferencias en público sobre los significados del conocimiento. De repente, una mañana, la del viernes 18 de Rebī‘u-’l-ākhir, 628 h. (febrero <span id="p14">[<sup><small>p. 14</small></sup>]</span> de 1231 d. C.), gritó con amargura, en un torrente de lágrimas: «¡Ay! ¡Mi maestro ha pasado de este tabernáculo de polvo a la morada de la sinceridad!». Sus palabras y la fecha fueron anotadas y, tras preguntar después de su llegada a Qonya, se descubrió que correspondían exactamente con el momento del fallecimiento de Bahá Veled.
+Cuando Bahá Veled abandonó Balkh, el Seyyid fue a Termiz, y allí se recluyó como ermitaño. Al cabo de un tiempo, volvió a dar conferencias en público sobre los significados del conocimiento. De repente, una mañana, la del viernes 18 de Rebī‘u-’l-ākhir, 628 h. (febrero <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> de 1231 d. C.), gritó con amargura, en un torrente de lágrimas: «¡Ay! ¡Mi maestro ha pasado de este tabernáculo de polvo a la morada de la sinceridad!». Sus palabras y la fecha fueron anotadas y, tras preguntar después de su llegada a Qonya, se descubrió que correspondían exactamente con el momento del fallecimiento de Bahá Veled.
 
 ## 2.
 
@@ -54,7 +54,7 @@ Durante cuarenta días los discípulos de Termiz lloraron la muerte del gran mae
 
 Cuando el Seyyid llegó a Qonya, Bahá Veled llevaba muerto un año y Jelál se había marchado a Larenda. El Seyyid se dedicó durante varios meses a la reclusión devocional en una de las mezquitas de Qonya; después de lo cual envió una carta a Jelál por mano de dos mendigos, diciendo: «Ven a encontrarte con este extraño en el lugar de descanso de tu padre, pues Larenda no es un lugar de permanencia para ti. Desde esa colina (en la que se construyó el mausoleo de Bahá) caerá un fuego sobre la ciudad de Qonya».
 
-Después de leer esta epístola, Jelāl regresó a Qonya con toda la rapidez posible. Allí fue de inmediato a visitar al Seyyid, que salió de la mezquita para recibirlo. Se abrazaron. Luego entablaron conversación sobre diversos temas. El Seyyid estaba tan encantado con las exposiciones expuestas por Jelāl que besó las plantas de sus pies y exclamó: "Has superado cien veces a tu padre en todo el conocimiento de las humanidades; pero tu padre también estaba versado en los misterios de la realidad muda y el éxtasis. De hoy en adelante mi deseo es que <span id="p15">[<sup><small>p. 15</small></sup>]</span> tú también adquieras ese conocimiento, el conocimiento poseído por los profetas y los santos, que se llama _La Ciencia de la Intuición Divina_, la ciencia de la que habla Dios (en el Corán xviii. 64): 'Le hemos enseñado una ciencia desde nuestro interior'. Este conocimiento lo adquirí de mi maestro; recíbelo de mí, para que puedas ser el heredero de tu padre tanto en lo espiritual como en lo temporal. Serás entonces su segundo yo”.
+Después de leer esta epístola, Jelāl regresó a Qonya con toda la rapidez posible. Allí fue de inmediato a visitar al Seyyid, que salió de la mezquita para recibirlo. Se abrazaron. Luego entablaron conversación sobre diversos temas. El Seyyid estaba tan encantado con las exposiciones expuestas por Jelāl que besó las plantas de sus pies y exclamó: "Has superado cien veces a tu padre en todo el conocimiento de las humanidades; pero tu padre también estaba versado en los misterios de la realidad muda y el éxtasis. De hoy en adelante mi deseo es que <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> tú también adquieras ese conocimiento, el conocimiento poseído por los profetas y los santos, que se llama _La Ciencia de la Intuición Divina_, la ciencia de la que habla Dios (en el Corán xviii. 64): 'Le hemos enseñado una ciencia desde nuestro interior'. Este conocimiento lo adquirí de mi maestro; recíbelo de mí, para que puedas ser el heredero de tu padre tanto en lo espiritual como en lo temporal. Serás entonces su segundo yo”.
 
 Jelāl cumplió con todo lo que el Seyyid le pedía. Llevó al Seyyid a su colegio y durante nueve años recibió instrucción de él. Algunos relatos hacen parecer que Jelāl se convirtió por primera vez en discípulo del Seyyid en esta época; pero otros muestran que Bahā Veled le dio a Jelāl como alumno al Seyyid en Balkh, y que el Seyyid solía de vez en cuando llevar a Jelāl sobre sus hombros, como lo practican los tutores de niñeras —lala— de los niños. (Compárese el capítulo iii, números 6 y 8.)
 
@@ -66,7 +66,7 @@ El Seyyid llegó una vez a cierta ciudad de Khurāsān llamada Sāmānek. Los pr
 
 En respuesta, el Seyyid le dijo: «He venido a informarte que el día 10 del mes próximo, Ramazan, tendrás ocasión de ir a un baño caliente. En tu camino hacia allí serás asesinado por los emisarios del _Anciano de la Montaña_. Te comunico esto para que puedas poner en orden tus asuntos y arrepentirte de tus pecados».
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 El Sheykhu-’l-Islām cayó a los pies del Seyyid, gimiendo; pero este último comentó: «Esto no sirve de nada. Los acontecimientos están en manos de Dios, y Él así lo ha ordenado. Sin embargo, como muestras tanta contrición, puedo añadir, para tu consuelo, que morirás en la fe y no serás separado de la misericordia y la gracia divinas».
 
@@ -82,7 +82,7 @@ Poco después, un grupo de amigos llevó al Seyyid a dar un paseo por los viñed
 
 Al ver a Jelāl, el Seyyid le exclamó: «¿Es ésta la manera adecuada de recompensar a tu maestro: romperle la pierna?». Jelāl ordenó de inmediato que le quitaran la bota al Seyyid, y vio que su pie y sus dedos estaban aplastados. Pasó sus manos a lo largo de la extremidad herida y sopló sobre ella. La extremidad fue restaurada de inmediato. Jelāl entonces concedió el permiso, y el Seyyid procedió de inmediato a Qaysariyya.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## 6.
 

@@ -50,7 +50,7 @@ Mi derecho hacia ti es grande e innegable. Mi misericordia hacia ti es amplia e 
 
 ¡Oh, Hijo del Espíritu! Te anuncio el Evangelio de la Luz; regocíjate en él. Y al estado de Santidad te llamo; permanece en él, para que estés en paz por los siglos de los siglos.
 
-¡Oh, Hijo del Hombre! Magnifica mi mandato, para que <span id="p93">[<sup><small>p. 93</small></sup>]</span> te revele los secretos de la grandeza y te ilumine con la Luz de la Eternidad.
+¡Oh, Hijo del Hombre! Magnifica mi mandato, para que <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> te revele los secretos de la grandeza y te ilumine con la Luz de la Eternidad.
 
 ¡Oh, Hijo del Hombre! Mi Calamidad es Mi Providencia. En apariencia es fuego y venganza; en realidad es Luz y Misericordia. Por tanto, acércate a ella, para que te conviertas en Luz Eterna y Espíritu Inmortal. Este es Mi Mandato; conócelo.
 
@@ -62,7 +62,7 @@ Por tanto, despójate de dudas y fantasías; luego entra en esta Mansión, para 
 
 ¡Oh, hijos de los hombres! ¿Sabéis por qué os hemos creado de una sola arcilla? Para que nadie se glorifique por encima de otro. Tened siempre presente cómo fuisteis creados.
 
-Puesto que os creamos a todos de la misma sustancia, debéis ser como una sola alma, andando con los mismos pies, comiendo con una sola boca y habitando en una sola tierra, para que podáis manifestar con vuestro ser, <span id="p94">[<sup><small>p. 94</small></sup>]</span> y por vuestras obras y acciones, los signos de la unidad y el espíritu de la Unicidad.
+Puesto que os creamos a todos de la misma sustancia, debéis ser como una sola alma, andando con los mismos pies, comiendo con una sola boca y habitando en una sola tierra, para que podáis manifestar con vuestro ser, <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> y por vuestras obras y acciones, los signos de la unidad y el espíritu de la Unicidad.
 
 Este es mi consejo para vosotros, ¡oh, Pueblo de la Luz! Seguidlo, pues, para que alcancéis los frutos de la Santidad del Árbol de la Fuerza y ​​el Poder.
 
@@ -72,7 +72,7 @@ Este es mi consejo para vosotros, ¡oh, Pueblo de la Luz! Seguidlo, pues, para q
 
 ¡Oh, amigos míos! Apaguen la lámpara de la ignorancia y enciendan la Antorcha Eterna de la guía en el corazón y la mente. Porque dentro de poco, los Ensayadores del Ser solo aceptarán la virtud pura en el pórtico de la Presencia del Adorado, y solo recibirán obras santas.
 
-¡Oh, hijos de la imaginación! Sepan que cuando la mañana radiante amanezca en el horizonte eterno de la santidad, todos los secretos y actos satánicos cometidos en la <span id="p95">[<sup><small>p. 95</small></sup>]</span> noche oscura se manifestarán ante los pueblos del mundo.
+¡Oh, hijos de la imaginación! Sepan que cuando la mañana radiante amanezca en el horizonte eterno de la santidad, todos los secretos y actos satánicos cometidos en la <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> noche oscura se manifestarán ante los pueblos del mundo.
 
 El Sol de la Verdad es la Palabra de Dios, de la cual depende la formación del pueblo del país del pensamiento.
 

@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 [^1014]. 
 
-1\. Tres criaturas limpias (llenas de bendiciones) maldicen temprano mientras aún invocan: la vaca, el caballo y luego H(a)oma. La vaca le grita a su jinete [^1015] así: <span id="p245">[<sup><small>p. 245</small></sup>]</span> Sin hijos, sin descendencia, mal afamado y perseguido por la calumnia, que me alimentaste [^1016] justamente y no me usas, sino que me engordas para esposa o hijos, y para tu tacaña y egoísta comida. 
+1\. Tres criaturas limpias (llenas de bendiciones) maldicen temprano mientras aún invocan: la vaca, el caballo y luego H(a)oma. La vaca le grita a su jinete [^1015] así: <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> Sin hijos, sin descendencia, mal afamado y perseguido por la calumnia, que me alimentaste [^1016] justamente y no me usas, sino que me engordas para esposa o hijos, y para tu tacaña y egoísta comida. 
 
 2\. El caballo le grita a su jinete así: No seas llave [^1017] de los corredores; no exijas a los corceles a toda velocidad; no te cruces con el más veloz, tú, que no me ruegas rapidez en la reunión numerosa, en el circuito abarrotado de hombres. 
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 6\. En su casa no nace ningún sacerdote del fuego, ningún guerrero en carro de pie, nunca más el labrador ahorrativo. En su hogar nacen Dahâkas, Mûrakas de malas prácticas, que cometen actos de doble naturaleza.
 
-7\. ¡Rápido, corta entonces la porción de H(a)oma, don de carne para el valiente H(a)oma! ¡Cuidado, no sea que H(a)oma <span id="p246">[<sup><small>p. 246</small></sup>]</span> te encadene, como ató al cruel Frangrasyan turanio [^1020] (el ladrón asesino) firmemente encadenado en el tercio medio [^1021] de esta tierra! 8. Entonces habló Zaratustra [^1022]: Alabado sea H(a)oma hecho por Mazda, bueno es H(a)oma hecho por Mazda. 
+7\. ¡Rápido, corta entonces la porción de H(a)oma, don de carne para el valiente H(a)oma! ¡Cuidado, no sea que H(a)oma <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> te encadene, como ató al cruel Frangrasyan turanio [^1020] (el ladrón asesino) firmemente encadenado en el tercio medio [^1021] de esta tierra! 8. Entonces habló Zaratustra [^1022]: Alabado sea H(a)oma hecho por Mazda, bueno es H(a)oma hecho por Mazda. 
 
 --- 
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 --- 
 
-10\. [^1026]A ti, ¡oh santo H(a)oma! portador de la santidad ritual, te ofrezco esta mi persona que es vista (por todos como) madura, (y apta para ser ofrenda); a H(a)oma el efectivo te la ofrezco, y a la euforia sagrada que él otorga; y concédeme (por esto), ¡oh santo H(a)oma! tú que alejas la muerte, (Cielo) el mejor mundo de los santos, brillante, todo brillante. <span id="p247">[<sup><small>p. 247</small></sup>]</span> 11\. (El Ashem Vohû, etc.) 
+10\. [^1026]A ti, ¡oh santo H(a)oma! portador de la santidad ritual, te ofrezco esta mi persona que es vista (por todos como) madura, (y apta para ser ofrenda); a H(a)oma el efectivo te la ofrezco, y a la euforia sagrada que él otorga; y concédeme (por esto), ¡oh santo H(a)oma! tú que alejas la muerte, (Cielo) el mejor mundo de los santos, brillante, todo brillante. <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> 11\. (El Ashem Vohû, etc.) 
 
 12-15. ¡Que gobiernes a tu voluntad, oh Señor! [^1027] 
 

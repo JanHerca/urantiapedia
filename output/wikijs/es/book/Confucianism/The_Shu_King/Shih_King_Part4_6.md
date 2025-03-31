@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:52:26Z
 
 <a id="o0"></a>
 
-Se ha visto que el rey Wăn tenía como capital la ciudad de Făng, desde donde su hijo, el rey Wû, trasladó la sede del gobierno a Hâo. En la época del rey <i>Kh</i>ăng</i>, el duque <span id="p439">[<sup><small>p. 439</small></sup>]</span> de Kâu construyó una ciudad cerca de la actual Lo-yang, llamada «la capital oriental». Allí se reunían los príncipes de los estados; pero la corte continuó celebrándose en Hâo hasta la ascensión del rey Phing en el año 770 a. C. Desde entonces, los reyes de Kâu descendieron casi al nivel de los príncipes de los estados, y los poemas recopilados en sus dominios se clasificaron entre las «Lecciones de modales de los estados», aunque todavía se distinguían por el epíteto «real» que se les anteponía.
+Se ha visto que el rey Wăn tenía como capital la ciudad de Făng, desde donde su hijo, el rey Wû, trasladó la sede del gobierno a Hâo. En la época del rey <i>Kh</i>ăng</i>, el duque <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> de Kâu construyó una ciudad cerca de la actual Lo-yang, llamada «la capital oriental». Allí se reunían los príncipes de los estados; pero la corte continuó celebrándose en Hâo hasta la ascensión del rey Phing en el año 770 a. C. Desde entonces, los reyes de Kâu descendieron casi al nivel de los príncipes de los estados, y los poemas recopilados en sus dominios se clasificaron entre las «Lecciones de modales de los estados», aunque todavía se distinguían por el epíteto «real» que se les anteponía.
 
 <a id="o1"></a>
 

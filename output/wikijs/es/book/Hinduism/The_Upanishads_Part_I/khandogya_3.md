@@ -66,7 +66,7 @@ TERCER PRAP, TAMBIÉN CONOCIDO COMO.
 
 ## CUARTO KHA<i>N</i><i>D</i>A.
 
-1\. Los rayos del sol del norte son las celdas de miel de la izquierda. Los himnos de los Atharvâṅgiras son las abejas, el Itihâsa-purâ<i>n</i>a [^163] (la lectura de las antiguas historias) es la flor, el agua es el néctar. <span id="p40">[<sup><small>p. 40</small></sup>]</span> 2\. Esos mismos himnos de los Atharvâṅgiras (como abejas) se cernían sobre el Itihâsa-purâ<i>n</i>a; y de él, así cernido, brotaron como su esencia (néctar): fama, gloria de rostro, vigor, fuerza y ​​salud.
+1\. Los rayos del sol del norte son las celdas de miel de la izquierda. Los himnos de los Atharvâṅgiras son las abejas, el Itihâsa-purâ<i>n</i>a [^163] (la lectura de las antiguas historias) es la flor, el agua es el néctar. <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> 2\. Esos mismos himnos de los Atharvâṅgiras (como abejas) se cernían sobre el Itihâsa-purâ<i>n</i>a; y de él, así cernido, brotaron como su esencia (néctar): fama, gloria de rostro, vigor, fuerza y ​​salud.
 
 3\. Eso fluyó y se dirigió hacia el sol. Y eso forma lo que llamamos la luz extremadamente oscura (para<i>h</i> k<i>ri</i>sh<i>n</i>am) del sol.
 
@@ -123,7 +123,7 @@ TERCER PRAP, TAMBIÉN CONOCIDO COMO.
 
 3\. Quien así conoce este néctar, se convierte en uno de los Maruts, con Soma a la cabeza; ve el néctar y se regocija. Y, habiendo entrado en ese color, se eleva de nuevo desde ese color.
 
-4\. Mientras el sol sale por el oeste y se pone <span id="p43">[<sup><small>p. 43</small></sup>]</span> por el este, sale por el norte y se pone por el sur el doble de tiempo; y mientras él siga la supremacía soberana de los Maruts.
+4\. Mientras el sol sale por el oeste y se pone <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> por el este, sale por el norte y se pone por el sur el doble de tiempo; y mientras él siga la supremacía soberana de los Maruts.
 
 ## DÉCIMO KHA<i>N</i><i>D</i>A.
 
@@ -153,7 +153,7 @@ Pero nadie debería contárselo a nadie, incluso si le diera toda la tierra rode
 
 ## DUODÉCIMO KHAND.
 
-1\. El Gâyatrî [^169] (verso) es todo lo que existe aquí. El Gâyatrî es, en efecto, el habla, pues el habla <span id="p45">[<sup><small>p. 45</small></sup>]</span> canta (gâya-ti) y protege (trâya-te) todo lo que existe aquí.
+1\. El Gâyatrî [^169] (verso) es todo lo que existe aquí. El Gâyatrî es, en efecto, el habla, pues el habla <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> canta (gâya-ti) y protege (trâya-te) todo lo que existe aquí.
 
 2\. Ese Gâyatrî es ​​también la tierra, pues todo lo que aquí existe reposa sobre la tierra y no va más allá.
 
@@ -163,7 +163,7 @@ Pero nadie debería contárselo a nadie, incluso si le diera toda la tierra rode
 
 5\. Ese Gayatri tiene cuatro pies [^171] y es séxtuple [^172]. Y esto también lo declara un verso del <i>Rig</i><i>k</i> (Rig-Veda X, 90, 3):
 
-6\. «Tal es su grandeza (de Brahman, bajo el disfraz de Gâyatrî [^173]); mayor que ella es la Persona [^174] (purusha). Sus pies son todas las cosas. El inmortal con tres pies está en el cielo (es decir, en sí mismo).» <span id="p46">[<sup><small>p. 46</small></sup>]</span> 7\. El Brahman que ha sido así descrito (como inmortal con tres pies en el cielo, y como Gâyatrî) es el mismo que el éter que nos rodea;
+6\. «Tal es su grandeza (de Brahman, bajo el disfraz de Gâyatrî [^173]); mayor que ella es la Persona [^174] (purusha). Sus pies son todas las cosas. El inmortal con tres pies está en el cielo (es decir, en sí mismo).» <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> 7\. El Brahman que ha sido así descrito (como inmortal con tres pies en el cielo, y como Gâyatrî) es el mismo que el éter que nos rodea;
 
 8\. Y el éter que nos rodea es el mismo que el éter que está dentro de nosotros. Y el éter que está dentro de nosotros,
 
@@ -177,7 +177,7 @@ Pero nadie debería contárselo a nadie, incluso si le diera toda la tierra rode
 
 3\. La puerta occidental es Apana (respiración descendente), es decir, habla, es decir, Agni (fuego). Que el hombre medite en ello como la gloria del semblante y la salud. Quien conoce esto, se vuelve glorioso y saludable.
 
-4\. La puerta norte es Samâna (inhalación), es decir, mente, es Par<i>g</i>anya (lluvia). Que el hombre medite en eso como celebridad y belleza. <span id="p47">[<sup><small>p. 47</small></sup>]</span> Quien conoce esto, se vuelve célebre y hermoso.
+4\. La puerta norte es Samâna (inhalación), es decir, mente, es Par<i>g</i>anya (lluvia). Que el hombre medite en eso como celebridad y belleza. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> Quien conoce esto, se vuelve célebre y hermoso.
 
 5\. La puerta superior es Udâna (exhalación), que es aire, que es éter. Que el hombre medite en eso como fuerza y ​​grandeza. Quien lo conoce, se vuelve fuerte y grande.
 
@@ -185,7 +185,7 @@ Pero nadie debería contárselo a nadie, incluso si le diera toda la tierra rode
 
 7\. Ahora bien, esa luz que brilla sobre este cielo, más alta que todo, más alta que todo, en el mundo más elevado, más allá del cual no hay otros mundos, es la misma luz que reside en el hombre. Y de esto tenemos esta prueba visible [^176]:
 
-8\. Es decir, cuando percibimos así mediante el tacto el calor aquí en el cuerpo [^177]. Y de ello tenemos esta prueba audible: Es decir, cuando, tras taparnos los oídos, escuchamos algo similar al rodar de un carruaje, al mugido de un buey o al sonido de un fuego ardiente [^178] (dentro de los oídos). Que el hombre medite en esto como el (Brahman) que se ve y se oye. <span id="p48">[<sup><small>p. 48</small></sup>]</span> Quien conoce esto se vuelve conspicuo y célebre, sí, se vuelve célebre.
+8\. Es decir, cuando percibimos así mediante el tacto el calor aquí en el cuerpo [^177]. Y de ello tenemos esta prueba audible: Es decir, cuando, tras taparnos los oídos, escuchamos algo similar al rodar de un carruaje, al mugido de un buey o al sonido de un fuego ardiente [^178] (dentro de los oídos). Que el hombre medite en esto como el (Brahman) que se ve y se oye. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> Quien conoce esto se vuelve conspicuo y célebre, sí, se vuelve célebre.
 
 ## DECIMOCUARTO KHA<i>N</i><i>D</i>A.
 
@@ -211,7 +211,7 @@ Ahora bien, el hombre es una criatura de voluntad. Según sea su voluntad en est
 
 4\. 'Cuando dije: Me dirijo a Prâ<i>n</i>a, entonces Prâ<i>n</i>a significa todo lo que existe aquí; a eso me dirijo.'
 
-5\. «Cuando dije: «Me vuelvo hacia Bhû<i>h</i>», lo que dije fue: «Me vuelvo hacia la tierra, el cielo y el paraiso». <span id="p50">[<sup><small>p. 50</small></sup>]</span> 6\. «Cuando dije: «Me vuelvo hacia Bhuva<i>h</i>», lo que dije fue: «Me vuelvo hacia Agni (fuego), Vâyu (aire), Âditya (sol).»
+5\. «Cuando dije: «Me vuelvo hacia Bhû<i>h</i>», lo que dije fue: «Me vuelvo hacia la tierra, el cielo y el paraiso». <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> 6\. «Cuando dije: «Me vuelvo hacia Bhuva<i>h</i>», lo que dije fue: «Me vuelvo hacia Agni (fuego), Vâyu (aire), Âditya (sol).»
 
 7. «Cuando dije que me dirijo al Sva<i>h</i>, lo que dije fue que me dirijo al Rig-veda, al Yagur-veda y al Sama-veda. Eso es lo que dije, sí, eso es lo que dije».
 
@@ -243,7 +243,7 @@ Ahora bien, el hombre es una criatura de voluntad. Según sea su voluntad en est
 
 5\. Por lo tanto, cuando dicen: «Habrá un nacimiento», y «ha habido un nacimiento» (palabras utilizadas en el sacrificio de Soma, que en realidad significan: «Él derramará el jugo de Soma», y «ha derramado el jugo de Soma»), ese es su nuevo nacimiento. Su muerte es la ceremonia de Avabhritha (cuando se llevan los vasos sacrificiales para su purificación).
 
-6\. Ghora Âṅgirasa, tras haber comunicado esta (visión del sacrificio) a K<i>ri</i>sh<i>n</i>a, el hijo de Devăkî [^187]\ —y nunca más anheló (otro conocimiento)— dijo: «Que un hombre, cuando se acerca su fin, <span id="p53">[<sup><small>p. 53</small></sup>]</span> se refugie en esta Tríada [^188]: “Tú eres lo imperecedero”, “Tú eres lo inmutable”, “Tú eres el límite de Prâ<i>n</i>a”». Sobre este tema hay dos versos del <i>Ri</i><i>k</i> (Rig-veda VIII, 6, 30):
+6\. Ghora Âṅgirasa, tras haber comunicado esta (visión del sacrificio) a K<i>ri</i>sh<i>n</i>a, el hijo de Devăkî [^187]\ —y nunca más anheló (otro conocimiento)— dijo: «Que un hombre, cuando se acerca su fin, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> se refugie en esta Tríada [^188]: “Tú eres lo imperecedero”, “Tú eres lo inmutable”, “Tú eres el límite de Prâ<i>n</i>a”». Sobre este tema hay dos versos del <i>Ri</i><i>k</i> (Rig-veda VIII, 6, 30):
 
 7\. «Entonces ven (dentro de sí mismos) la luz omnipresente de la semilla ancestral (del mundo, Sat), la suprema, que se ilumina en el brillante (Brahman)». Rig-veda I, 50, 10:
 
@@ -253,7 +253,7 @@ Ahora bien, el hombre es una criatura de voluntad. Según sea su voluntad en est
 
 1\. Que el hombre medite en la mente como Brahman (n.); esto se dice con referencia al cuerpo. Que el hombre medite en el éter como Brahman (n.); esto se dice con referencia a los Devas. Así, se han enseñado tanto la meditación relacionada con el cuerpo como la meditación relacionada con los Devas.
 
-2\. Que Brahman (mente) tiene cuatro pies (cuartos). <span id="p54">[<sup><small>p. 54</small></sup>]</span> El habla es un pie, la respiración es un pie, el ojo es un pie, el ojo es un pie; así en lo que respecta al cuerpo. Luego, en lo que respecta a los dioses, Agni (fuego) es un pie, Vâyu (aire) es un pie, Âditya (sol) es un pie, los cuartos son un pie. Así, se ha enseñado tanto la adoración que se refiere al cuerpo como la adoración que se refiere a los Devas.
+2\. Que Brahman (mente) tiene cuatro pies (cuartos). <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> El habla es un pie, la respiración es un pie, el ojo es un pie, el ojo es un pie; así en lo que respecta al cuerpo. Luego, en lo que respecta a los dioses, Agni (fuego) es un pie, Vâyu (aire) es un pie, Âditya (sol) es un pie, los cuartos son un pie. Así, se ha enseñado tanto la adoración que se refiere al cuerpo como la adoración que se refiere a los Devas.
 
 3\. El habla es, en verdad, el cuarto pie de Brahman. Ese pie brilla con Agni (fuego) como su luz y calienta. Quien conoce esto, brilla y calienta mediante su celebridad, fama y gloria de rostro.
 

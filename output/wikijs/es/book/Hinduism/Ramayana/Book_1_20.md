@@ -39,7 +39,7 @@ La primavera regresó de nuevo:
 Entonces el rey, con intención mental, 
 ordenaría su sacrificio. 
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span> 
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span> 
 
 Llegó a Rishyas'ring y se inclinó 
 ante él, de aspecto divino, 
@@ -160,7 +160,7 @@ Quienes enmarcan la puerta y construyen el muro:
 Con hombres de todo arte y oficio, 
 Que leen las estrellas y manejan la pala, 
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span> 
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span> 
 
 Y mimos y trovadores traen aquí, 
 Y damiselas entrenadas para bailar y cantar.' 
@@ -270,7 +270,7 @@ cuando así se dirigió al monarca:
 «Obedientes a tu alto decreto, 
 los reyes, mi señor, han venido a ti. 
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span> 
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span> 
 
 Y he tenido la preocupación de saludarlos 
 y honrarlos a todos con reverencia. 
@@ -372,7 +372,7 @@ y así al hijo de Raghu gritaron:
 Entre los ritos, algunos brahmanes pasaron 
 el tiempo en eruditas discusiones, 
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span> 
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 
 
 con fluidez de palabra, sosegados, 
 y ansiosos por vencer en el debate. [^94] 
@@ -460,7 +460,7 @@ los miembros cercenados del caballo.
 Todo estaba preparado en orden. 
 Sobre pilas de higuera sagrada, 
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>, 
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>, 
 
 los cuerpos de las víctimas más humildes ardían: 
 de entre todas las criaturas sacrificadas, 
@@ -501,7 +501,7 @@ Se dirigieron a ese señor impoluto:
 Es solo tuyo para mantener toda 
 esta amplia tierra en firme control. 
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span> 
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span> 
 
 No buscamos don de tierras de ti: 
 Para proteger estos reinos nuestras manos eran débiles. 
@@ -623,7 +623,7 @@ el Señor Vishnu acudió al consejo;
 sus manos portaban conchas, mazas y discos, 
 y vestía túnicas de color azafrán. 
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span> 
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span> 
 
 Cabalgando su águila entre la multitud, 
 como el sol cabalga sobre una nube, 
@@ -738,7 +738,7 @@ cuando una vasta forma de terrible poder,
 de esplendor, fuerza y ​​tamaño incomparables, 
 se manifestó ante sus ojos. 
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span> 
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 
 
 De la llama del sacrificio, 
 oscuro, vestido de rojo, surgió el ser. 
@@ -844,7 +844,7 @@ de artimañas;
 hábiles en el conocimiento y uso de todas las armas, 
 como quienes beben el jugo inmortal». [^110] 
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span> 
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span> 
 
 Y que las ninfas, de suprema gracia, 
 y las doncellas de la raza juglar, 
@@ -928,7 +928,7 @@ nacía una cría de mono.
 Entonces, junto al gran monarca de los osos, se alzaron 
 los demás vagabundos del bosque, 
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span> 
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 
 
 y se volvieron, buscando sus hogares sin senderos, 
 al bosque y a la cima de la montaña. 
@@ -1039,7 +1039,7 @@ Luego, debidamente honrados, siguieron su camino.
 El glorioso ermitaño Rishyas'ring 
 se acercó y suplicó al rey: 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span> 
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span> 
 
 «Regresa, mi honorable señor, te lo ruego, 
 regresa a tu hogar». 
@@ -1158,7 +1158,7 @@ Su espíritu con deseo se conmovió
 Para buscar la ciudad del rey 
 Y a su cuna traer a su hijo. 
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span> 
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span> 
 
 Con jóvenes discípulos a su lado 
 El ermitaño siguió su camino, 
@@ -1247,7 +1247,7 @@ La Madre de los Dioses, cuando
 dio a luz Al Rey de los Inmortales [^131], 
 La deidad que empuña el trueno. 
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span> 
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span> 
 
 El de ojos de loto, el hermoso niño, 
 Vino ferozmente Rávan ​​a destruir;
@@ -1349,7 +1349,7 @@ La tierra ante los ojos de los hombres.
 Ahora la piadosa mente de Das'aratha 
 Encontrar el matrimonio para sus hijos diseñados; 
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span> 
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span> 
 
 Con sacerdotes y amigos el rey comenzó 
 A deliberar y preparar su plan. 

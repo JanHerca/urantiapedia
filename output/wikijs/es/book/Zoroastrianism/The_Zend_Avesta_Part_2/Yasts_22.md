@@ -48,7 +48,7 @@ Se pueden encontrar desarrollos similares en Yast XXIV, 53-65; Ardâ Vîrâf XVI
 
 Ahura Mazda respondió:
 
-2\. 'Se sienta cerca de la cabecera, cantando el U<i>s</i>tavaiti Gâtha [^1331] y proclamando felicidad: "¡Feliz es él, feliz el hombre, quienquiera que sea, a quien Ahura Mazda le concede el pleno cumplimiento de sus deseos!". Esa noche, su alma saborea [^1332] tanto placer como todo el mundo viviente puede saborear. <span id="p315">[<sup><small>p. 315</small></sup>]</span> 3\. —'¿Dónde mora su alma la segunda noche?
+2\. 'Se sienta cerca de la cabecera, cantando el U<i>s</i>tavaiti Gâtha [^1331] y proclamando felicidad: "¡Feliz es él, feliz el hombre, quienquiera que sea, a quien Ahura Mazda le concede el pleno cumplimiento de sus deseos!". Esa noche, su alma saborea [^1332] tanto placer como todo el mundo viviente puede saborear. <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 3\. —'¿Dónde mora su alma la segunda noche?
 
 4\. Ahura Mazda respondió: «Se sienta cerca de la cabeza, cantando el Ustavaiti Gâtha y proclamando felicidad: “¡Feliz aquel, feliz el hombre, quienquiera que sea, a quien Ahura Mazda concede el pleno cumplimiento de sus deseos!”. Esa noche, su alma saborea tanto placer como todo el mundo viviente puede saborear».
 
@@ -60,7 +60,7 @@ Ahura Mazda respondió:
 
 8\. Y al alma del fiel le parece como si inhalara ese viento con la nariz, y piensa: «¿De dónde sopla ese viento, el viento más dulcemente perfumado que jamás he inhalado con la nariz?».
 
-9\. Y le parece como si su propia conciencia avanzara hacia él en ese viento, en la forma de una doncella hermosa, radiante, de brazos blancos, fuerte, alta, <span id="p316">[<sup><small>p. 316</small></sup>]</span> de complexión alta, pechos gruesos, cuerpo hermoso, noble, de una estirpe gloriosa [^1334], del tamaño de una doncella de quince años, tan hermosa como las cosas más hermosas del mundo.
+9\. Y le parece como si su propia conciencia avanzara hacia él en ese viento, en la forma de una doncella hermosa, radiante, de brazos blancos, fuerte, alta, <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> de complexión alta, pechos gruesos, cuerpo hermoso, noble, de una estirpe gloriosa [^1334], del tamaño de una doncella de quince años, tan hermosa como las cosas más hermosas del mundo.
 
 10\. Y el alma de la fiel se dirigió a ella, preguntándole: «¿Qué doncella eres tú, la doncella más hermosa que he visto jamás?»
 
@@ -70,7 +70,7 @@ Ahura Mazda respondió:
 
 12\. 'Y así tú, ¡oh joven de buenos pensamientos, buenas palabras y buenas obras, de buena religión!, me amaste por esa grandeza, bondad, justicia, dulzura, fuerza victoriosa y libertad de dolor en que me aparezco ante ti.
 
-13\. 'Cuando veías a un hombre burlándose [^1335] y cometiendo actos de idolatría, o rechazando [^1336] (a los pobres) y cerrando su puerta [^1337], entonces te sentabas cantando los Gâthas y adorando las buenas aguas y a Âtar, el hijo de Ahura Mazda, y regocijándote [^1338] con los fieles que venían de cerca o de lejos. <span id="p317">[<sup><small>p. 317</small></sup>]</span> 14\. 'Yo era hermosa y tú me hiciste aún más hermosa; yo era hermosa y tú me hiciste aún más hermosa; yo era deseable y tú me hiciste aún más deseable; yo estaba sentada en un lugar prominente y tú me hiciste sentar en el primer lugar, mediante este buen pensamiento, mediante esta buena palabra, mediante esta buena acción tuya; Y desde entonces los hombres me adoran por haber ofrecido sacrificios y haber conversado durante mucho tiempo con Ahura Mazda.
+13\. 'Cuando veías a un hombre burlándose [^1335] y cometiendo actos de idolatría, o rechazando [^1336] (a los pobres) y cerrando su puerta [^1337], entonces te sentabas cantando los Gâthas y adorando las buenas aguas y a Âtar, el hijo de Ahura Mazda, y regocijándote [^1338] con los fieles que venían de cerca o de lejos. <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> 14\. 'Yo era hermosa y tú me hiciste aún más hermosa; yo era hermosa y tú me hiciste aún más hermosa; yo era deseable y tú me hiciste aún más deseable; yo estaba sentada en un lugar prominente y tú me hiciste sentar en el primer lugar, mediante este buen pensamiento, mediante esta buena palabra, mediante esta buena acción tuya; Y desde entonces los hombres me adoran por haber ofrecido sacrificios y haber conversado durante mucho tiempo con Ahura Mazda.
 
 15\. 'El primer paso que dio el alma del hombre fiel, lo colocó en el Paraíso del Buen Pensamiento [^1339];
 
@@ -112,7 +112,7 @@ Ahura Mazda respondió:
 
 25\. Al final de la tercera noche, ¡oh santo Zaratustra!, cuando aparece el alba, al alma del infiel le parece como si la hubieran traído entre nieve y hedor, y como si soplara un viento de la región del norte, de las regiones del norte, un viento fétido, el más fétido de todos los vientos del mundo.
 
-26-32. Y al alma del malvado le parece como si inhalara ese viento con la nariz, y piensa: "¿De dónde sopla ese viento, el viento más fétido que jamás he inhalado con la nariz [^1345]?" <span id="p320">[<sup><small>p. 320</small></sup>]</span> 33\. El primer paso que dio el alma del malvado lo llevó al Infierno de los Malos Pensamientos;
+26-32. Y al alma del malvado le parece como si inhalara ese viento con la nariz, y piensa: "¿De dónde sopla ese viento, el viento más fétido que jamás he inhalado con la nariz [^1345]?" <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 33\. El primer paso que dio el alma del malvado lo llevó al Infierno de los Malos Pensamientos;
 
 El segundo paso que dio el alma del malvado lo depositó en el Infierno de la Palabra Malvada;
 
@@ -120,7 +120,7 @@ El tercer paso que dio el alma del malvado lo depositó en el Infierno de las Ma
 
 El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 
-34\. Entonces, uno de los malvados que partió antes que él le habló, diciendo: «¿Cómo pereciste, oh malvado? ¿Cómo llegaste, oh demonio? ¡De las moradas llenas de ganado y llenas de los deseos y placeres del amor! ¿Del mundo material al mundo del Espíritu? ¿Del mundo decadente <span id="p321">[<sup><small>p. 321</small></sup>]</span> al mundo incorruptible? ¿Cuánto duró tu sufrimiento?»
+34\. Entonces, uno de los malvados que partió antes que él le habló, diciendo: «¿Cómo pereciste, oh malvado? ¿Cómo llegaste, oh demonio? ¡De las moradas llenas de ganado y llenas de los deseos y placeres del amor! ¿Del mundo material al mundo del Espíritu? ¿Del mundo decadente <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> al mundo incorruptible? ¿Cuánto duró tu sufrimiento?»
 
 35\. Angra Mainyu, el mentiroso, dijo: 'No le preguntes lo que le preguntas a él, quien acaba de recorrer el triste camino, lleno de miedo y angustia, donde el cuerpo y el alma se separan.
 
@@ -134,7 +134,7 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 
 'Adoramos la lengua de Ahura Mazda, para hablar la Santa Palabra.
 
-'Adoramos al monte que da el entendimiento, que preserva el entendimiento; \[lo adoramos <span id="p322">[<sup><small>p. 322</small></sup>]</span>\] de día y de noche, con ofrendas de libaciones bien aceptadas [^1350].
+'Adoramos al monte que da el entendimiento, que preserva el entendimiento; \[lo adoramos <span id="p322"><sup><small>[ p. 322 ]</small></sup></span>\] de día y de noche, con ofrendas de libaciones bien aceptadas [^1350].
 
 39\. [^1351]. '¡Oh, Creador! ¿Cómo se manifiestan [^1352] las almas de los muertos, los Fravashis de los Santos?'
 
@@ -142,7 +142,7 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 
 ---
 
-41\. [^1355]. Entonces, hacia el amanecer [^1356], ese pájaro Parôdar<i>s</i> [^1357], ese pájaro Karetô-dãsu [^1358] oye la voz del Fuego. <span id="p323">[<sup><small>p. 323</small></sup>]</span> 42\. Aquí el diabólico Bûshyãsta, el de las manos largas, se precipita desde la región del norte, desde las regiones del norte, hablando así, mintiendo así: «¡Duerman, hombres! ¡Duerman, pecadores! ¡Duerman y vivan en el pecado!».
+41\. [^1355]. Entonces, hacia el amanecer [^1356], ese pájaro Parôdar<i>s</i> [^1357], ese pájaro Karetô-dãsu [^1358] oye la voz del Fuego. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 42\. Aquí el diabólico Bûshyãsta, el de las manos largas, se precipita desde la región del norte, desde las regiones del norte, hablando así, mintiendo así: «¡Duerman, hombres! ¡Duerman, pecadores! ¡Duerman y vivan en el pecado!».
 
 <figure class="table chapter-navigator">
   <table>

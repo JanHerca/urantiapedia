@@ -52,7 +52,7 @@ El encuentro es sólo el comienzo de la separación.\[3\]
 
 2\. Las monjas y sacerdotes budistas llevan la cabeza completamente rapada. El proverbio significa que es mejor corregir el corazón —conquistar todos los arrepentimientos y deseos vanos— que hacerse religioso. En el lenguaje común, la frase «afeitarse la cabeza» significa hacerse monje o monja.
 
-3\. El arrepentimiento y el deseo son igualmente vanos en este mundo de impermanencia; pues toda alegría es el comienzo de una experiencia que conlleva dolor. Este proverbio se refiere directamente al texto del sutra —Shôja hitsumetsu é-sha-jori—: «Todo lo que vive, sin duda morirá; y todo lo que se encuentra, sin duda se separará». <span id="p169">[<sup><small>p. 169</small></sup>]</span>. —Banji wa yumé.
+3\. El arrepentimiento y el deseo son igualmente vanos en este mundo de impermanencia; pues toda alegría es el comienzo de una experiencia que conlleva dolor. Este proverbio se refiere directamente al texto del sutra —Shôja hitsumetsu é-sha-jori—: «Todo lo que vive, sin duda morirá; y todo lo que se encuentra, sin duda se separará». <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>. —Banji wa yumé.
 
 Todas las cosas[1] son ​​meros sueños.
 
@@ -94,7 +94,7 @@ El sacerdote que predica mala doctrina renacerá como un hongo.
 
 1. Alusión a una parábola, supuestamente relatada por el propio Buda, sobre unos monos que encontraron un pozo bajo un árbol y confundieron con la realidad la imagen de la luna en el agua. Decidieron atrapar la brillante aparición. Un mono se colgó de la cola de una rama que sobresalía del pozo, otro mono se aferró al primero, un tercero al segundo, un cuarto al tercero, y así sucesivamente, hasta que la larga cadena de cuerpos casi llegó al agua. De repente, la rama se rompió bajo el peso desacostumbrado; y todos los monos se ahogaron.
 
-2\. Ninguna relación kármica implicaría una ausencia total de mérito y de demérito.\] <span id="p171">[<sup><small>p. 171</small></sup>]</span>2.—_Gaki mo ninzu._
+2\. Ninguna relación kármica implicaría una ausencia total de mérito y de demérito.\] <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>2.—_Gaki mo ninzu._
 
 Incluso los gaki (_prêtas_) pueden hacer una multitud.\[1\]
 
@@ -136,7 +136,7 @@ La tarea del sacerdote es salvar a la humanidad.
 
 2\. Este proverbio se usa con mayor frecuencia en referencia a la muerte, lo que significa que todas las formas regresan a la nada de la que surgieron. Pero también puede usarse en relación con la ley de causa y efecto.
 
-3\. En referencia a la doctrina de causa y efecto. La belleza filosófica de la comparación solo se apreciará si tenemos en cuenta que incluso el tono del eco repite el tono de la voz.\] <span id="p173">[<sup><small>p. 173</small></sup>]</span>0.—_Hi wa kiyurédomo tô-shin wa hiyédzu._
+3\. En referencia a la doctrina de causa y efecto. La belleza filosófica de la comparación solo se apreciará si tenemos en cuenta que incluso el tono del eco repite el tono de la voz.\] <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>0.—_Hi wa kiyurédomo tô-shin wa hiyédzu._
 
 Aunque la llama se apague, la mecha permanece.\[1\]
 
@@ -220,7 +220,7 @@ Como encontrarse con un Buda en el infierno.\[3\]
 
 2\. Pocas frases budistas populares se usan con más frecuencia que esta. _Jigô_ significa los propios actos o pensamientos; _jitoku_, acarrearse la desgracia, casi siempre en el sentido de infortunio, cuando la palabra se usa en el budismo. "Bueno, es un asunto de _Jigô-jitoku_", comenta la gente al ver a un hombre en prisión; es decir, "Está sufriendo las consecuencias de sus propias faltas".
 
-3 Se refiere a la alegría de encontrar un buen amigo en tiempos de adversidad. Lo anterior es una abreviatura. El proverbio completo es: _Jigoku dé hotoké ni ôta yo da_. <span id="p177">[<sup><small>p. 177</small></sup>]</span>6.—_Jigoku Gokuraku wa kokoro ni ari_.
+3 Se refiere a la alegría de encontrar un buen amigo en tiempos de adversidad. Lo anterior es una abreviatura. El proverbio completo es: _Jigoku dé hotoké ni ôta yo da_. <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>6.—_Jigoku Gokuraku wa kokoro ni ari_.
 
 El infierno y el cielo están en los corazones de los hombres.\[1\]
 
@@ -254,7 +254,7 @@ El dinero brilla incluso más que Amida.\[4\]
 
 <span id="p179">[<sup><small>pág. 179</small></sup>]</span>
 
-![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180">[<sup><small>p. 180</small></sup>]</span>1.—_Karu-toki no Jizô-gao; Nasu-toki no Emma-gao._
+![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>1.—_Karu-toki no Jizô-gao; Nasu-toki no Emma-gao._
 
 Tiempo de préstamo, el rostro de Jizô; tiempo de pago, el rostro de Emma.\[1\]
 
@@ -278,7 +278,7 @@ El cuerpo sólo es torturado por el demonio del corazón.\[3\]
 
 2\. Los rumores nunca son confiables.
 
-3\. O “mente”. Es decir, solo sufrimos las consecuencias de nuestras propias faltas. —El demonio torturador en el infierno budista le dice a su víctima: —¡No me culpes! —Solo soy la creación de tus propias acciones y pensamientos: ¡me creaste para esto! —Compárese con el n.° 36.\] <span id="p181">[<sup><small>p. 181</small></sup>]</span>6.—_Kokoro no shi to wa naré; kokoro wo shi to sezaré._
+3\. O “mente”. Es decir, solo sufrimos las consecuencias de nuestras propias faltas. —El demonio torturador en el infierno budista le dice a su víctima: —¡No me culpes! —Solo soy la creación de tus propias acciones y pensamientos: ¡me creaste para esto! —Compárese con el n.° 36.\] <span id="p181"><sup><small>[ p. 181 ]</small></sup></span>6.—_Kokoro no shi to wa naré; kokoro wo shi to sezaré._
 
 Sé el maestro de tu corazón: no permitas que tu corazón se convierta en tu maestro.
 
@@ -302,7 +302,7 @@ Sé que el pájaro que grita _korokoro_ en el arrozal de la montaña es un _hoto
 
 1. «Este mundo no es más que una posada para viajeros» sería una traducción casi igual de correcta. Yado significa literalmente alojamiento, refugio, posada; y la palabra se aplica a menudo a esas casas de descanso junto al mar donde los viajeros japoneses hacen escala durante su viaje. Kari significa temporal, transitorio, fugaz, como en el dicho budista común: Kono yo kari no yo: «Este mundo es fugaz». Incluso el Cielo y el Infierno representan para los budistas solo lugares de parada en el camino hacia el Nirvana.
 
-2\. Se refiere a la vanidad del esfuerzo egoísta por un fin meramente temporal.\] <span id="p182">[<sup><small>p. 182</small></sup>]</span>Ha sido mi padre; puede que haya sido mi madre.\[1\]
+2\. Se refiere a la vanidad del esfuerzo egoísta por un fin meramente temporal.\] <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>Ha sido mi padre; puede que haya sido mi madre.\[1\]
 
 50.—_Ko wa Sangai no kubikase._
 
@@ -316,7 +316,7 @@ La boca es la puerta principal de toda desgracia.\[3\]
 
 2\. Es decir, el amor de los padres por sus hijos puede obstaculizar su progreso espiritual, no solo en este mundo, sino en todos sus estados futuros de existencia, al igual que un _kubikasé_, o cangue japonés, impide los movimientos de la persona sobre la que recae. El afecto paternal, siendo el más fuerte de los apegos terrenales, es particularmente propenso a inducir a quienes lo esclavizan a cometer actos ilícitos con la esperanza de beneficiar a su descendencia. El término _Sangai_ aquí significa los tres mundos del Deseo, la Forma y la Sin Forma, todos los estados de existencia inferiores al Nirvana. Pero la palabra a veces se usa para significar el Pasado, el Presente y el Futuro.
 
-3\. Es decir, la principal causa de problemas es el lenguaje descuidado. La palabra _Kado_ siempre significa la entrada principal de una residencia.\] <span id="p183">[<sup><small>p. 183</small></sup>]</span>2.—_Kwahô wa, nété maté._
+3\. Es decir, la principal causa de problemas es el lenguaje descuidado. La palabra _Kado_ siempre significa la entrada principal de una residencia.\] <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>2.—_Kwahô wa, nété maté._
 
 Si deseas buena suerte, duerme y espera.\[1\]
 
@@ -344,7 +344,7 @@ El ciego no teme a la serpiente.\[5\]
 
 4 Literalmente, “en el camino de Meidô”. El _Meidô_ es el Hades japonés, el oscuro inframundo al que deben viajar todos los muertos.
 
-5 Los ignorantes y los viciosos, al no comprender la ley de causa y efecto, no temen los resultados seguros de su necedad.\] <span id="p184">[<sup><small>p. 184</small></sup>]</span>7.—_Mitsuréba, kakuru._
+5 Los ignorantes y los viciosos, al no comprender la ley de causa y efecto, no temen los resultados seguros de su necedad.\] <span id="p184"><sup><small>[ p. 184 ]</small></sup></span>7.—_Mitsuréba, kakuru._
 
 Habiendo crecido, mengua.\[1\]
 
@@ -360,7 +360,7 @@ El Viento de la Impermanencia no elige un tiempo.\[3\]
 
 2\. _Kozô_ significa “acólito”, así como “chico de tienda”, “recado” o “aprendiz”; pero en este caso se refiere a un niño empleado en una tienda situada cerca o delante de la puerta de un templo budista. Al escuchar constantemente el sutra cantado en el templo, el niño aprende a repetir las palabras. Un proverbio de significado similar es _Kangaku-In no suzumé wa, Môgyû wo sayézuru_: “Los gorriones de Kangaku-In [una antigua sede del aprendizaje] cantan el Môgyû”, un texto chino que antiguamente se enseñaba a los jóvenes estudiantes. La enseñanza de ambos proverbios se expresa excelentemente en un tercero: _Narau yori wa naréro_: “En lugar de estudiar [un arte], acostúmbrate a él”, es decir, “mantente constantemente en contacto con él”. La observación y la práctica son incluso mejores que el estudio.
 
-3\. La muerte y el cambio no se ajustan a las expectativas humanas.\] <span id="p185">[<sup><small>p. 185</small></sup>]</span>0.—_Neko mo Busshô ari._
+3\. La muerte y el cambio no se ajustan a las expectativas humanas.\] <span id="p185"><sup><small>[ p. 185 ]</small></sup></span>0.—_Neko mo Busshô ari._
 
 Incluso en un gato existe la naturaleza búdica.\[1\]
 
@@ -400,7 +400,7 @@ Un garrote de hierro para un demonio.\[2\]
 
 1. Existen muchos dichos y proverbios curiosos sobre el oni, o diablo budista, como _Oni no mé ni mo namida_, “lágrimas incluso en los ojos del diablo”; _Oni no kakuran_, “cólera del diablo” (dicho de la enfermedad inesperada de alguna persona muy fuerte y sana), etc. La clase de demonios llamados Oni, pertenece propiamente a los infiernos budistas, donde actúan como torturadores y carceleros. No deben confundirse con _Ma, Yasha, Kijin_ y otras clases de espíritus malignos. En el arte budista se los representa como seres de enorme fuerza, con cabezas de toro y de caballo. Los demonios con cabeza de toro se llaman _Go-zu_; los con cabeza de caballo, _Mé-zu_.
 
-2\. Significa que el gran poder solo debe otorgarse a los fuertes.\] <span id="p187">[<sup><small>p. 187</small></sup>]</span>8.—_Oni no nyôbo ni hijin._
+2\. Significa que el gran poder solo debe otorgarse a los fuertes.\] <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>8.—_Oni no nyôbo ni hijin._
 
 Un diablo toma a una duende como esposa.\[1\]
 
@@ -424,7 +424,7 @@ La flor caída nunca regresa a la rama.\[3\]
 
 2\. Se dice de los padres de niños lisiados o deformes. Pero la idea popular aquí expresada no concuerda del todo con las enseñanzas del budismo superior.
 
-3\. Lo hecho nunca se puede deshacer: el pasado no se puede recuperar.—Este proverbio es una abreviatura del texto budista más extenso: _Rakkwa éda ni kaerazu; ha-kyô futatabi terasazu_: “La flor caída nunca regresa a la rama; el espejo roto nunca vuelve a reflejarse”\] <span id="p188">[<sup><small>p. 188</small></sup>]</span>3.—_Raku wa ku no tané; ku wa raku no tané_.
+3\. Lo hecho nunca se puede deshacer: el pasado no se puede recuperar.—Este proverbio es una abreviatura del texto budista más extenso: _Rakkwa éda ni kaerazu; ha-kyô futatabi terasazu_: “La flor caída nunca regresa a la rama; el espejo roto nunca vuelve a reflejarse”\] <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>3.—_Raku wa ku no tané; ku wa raku no tané_.
 
 El placer es la semilla del dolor; el dolor es la semilla del placer.
 
@@ -442,7 +442,7 @@ No existe ninguna cerca para los Tres Estados de Existencia; no hay vecindad par
 
 \[1. Es decir, tu vida futura depende de tu conducta en esta vida; y, por tanto, eres libre de elegir por ti mismo el lugar de tu próximo nacimiento.
 
-2\. Dentro de los Tres Estados (Sangai), o universos, de Deseo, Forma y Sin Forma; y dentro de los Seis Mundos, o estados de existencia —Jigokudô (Infierno), Gakidô (Pretas), Chikushôdô (Vida Animal), Shuradô (Mundo de Lucha y Matanza), Ningendô (Humanidad), Tenjôdô (Espíritus Celestiales)—, toda la existencia está incluida. Más allá solo existe el Nirvana. «No hay cerca», «no hay vecindad» —es decir, no hay límite más allá del cual escapar—, no hay camino intermedio entre dos de estos estados. Renaceremos en alguno de ellos según nuestro karma. —Compárese con el n.º 74.\] <span id="p189">[<sup><small>p. 189</small></sup>]</span>7.—_Sangé ni wa sannen no tsumi mo hôrobu._
+2\. Dentro de los Tres Estados (Sangai), o universos, de Deseo, Forma y Sin Forma; y dentro de los Seis Mundos, o estados de existencia —Jigokudô (Infierno), Gakidô (Pretas), Chikushôdô (Vida Animal), Shuradô (Mundo de Lucha y Matanza), Ningendô (Humanidad), Tenjôdô (Espíritus Celestiales)—, toda la existencia está incluida. Más allá solo existe el Nirvana. «No hay cerca», «no hay vecindad» —es decir, no hay límite más allá del cual escapar—, no hay camino intermedio entre dos de estos estados. Renaceremos en alguno de ellos según nuestro karma. —Compárese con el n.º 74.\] <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>7.—_Sangé ni wa sannen no tsumi mo hôrobu._
 
 Una sola confesión borra los pecados de incluso tres años.
 
@@ -464,7 +464,7 @@ Para llegar a ser abad hay que empezar como novicio.
 
 \[1. _Kugai_ (lit.: “mundo amargo”) es un término que se utiliza a menudo para describir la vida de una prostituta.
 
-2. Monjû Bosatsu [Bodhisattva Mañdjus'ri] figura en el budismo japonés como una divinidad especial de sabiduría. El proverbio significa que tres cabezas piensan mejor que una. Un dicho con significado similar es Hiza to mo dankô: «Consulta incluso con tu propia rodilla»; es decir, no desprecies ningún consejo, por humilde que sea su origen. <span id="p190">[<sup><small>p. 190</small></sup>]</span>2.—Shindaréba, koso ikitaré.
+2. Monjû Bosatsu [Bodhisattva Mañdjus'ri] figura en el budismo japonés como una divinidad especial de sabiduría. El proverbio significa que tres cabezas piensan mejor que una. Un dicho con significado similar es Hiza to mo dankô: «Consulta incluso con tu propia rodilla»; es decir, no desprecies ningún consejo, por humilde que sea su origen. <span id="p190"><sup><small>[ p. 190 ]</small></sup></span>2.—Shindaréba, koso ikitaré.
 
 Sólo por haber muerto se entra en la vida.\[1\]
 
@@ -484,7 +484,7 @@ Un poco de sabiduría es un obstáculo en el camino hacia la Budeidad.\[3\]
 
 2\. Nada puede suceder sino como resultado de una ley eterna e irrevocable.
 
-3\. Bodai es la misma palabra que el sánscrito _Bodhi_, que significa la iluminación suprema, el conocimiento que conduce a la Budeidad; pero los budistas japoneses la usan a menudo en el sentido de dicha divina, o el estado de Buda en sí.\] <span id="p191">[<sup><small>p. 191</small></sup>]</span>6.—_Shôshi no kukai hetori nashi._
+3\. Bodai es la misma palabra que el sánscrito _Bodhi_, que significa la iluminación suprema, el conocimiento que conduce a la Budeidad; pero los budistas japoneses la usan a menudo en el sentido de dicha divina, o el estado de Buda en sí.\] <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>6.—_Shôshi no kukai hetori nashi._
 
 No hay orilla en el amargo Mar del Nacimiento y la Muerte.\[1\]
 
@@ -514,7 +514,7 @@ El Buda de arcilla jugando con el agua.\[4\]
 
 3\. Dicho especialmente en referencia al resultado de la indulgencia sensual.
 
-4\. Es decir, «Tan peligroso como que un Buda de arcilla juegue con agua». Los niños suelen entretenerse haciendo pequeñas imágenes budistas de barro, que, por supuesto, se deshacen al sumergirlas en agua.\] <span id="p192">[<sup><small>p. 192</small></sup>]</span>2.—_Tsuki ni murakumo, hana ni kazé._
+4\. Es decir, «Tan peligroso como que un Buda de arcilla juegue con agua». Los niños suelen entretenerse haciendo pequeñas imágenes budistas de barro, que, por supuesto, se deshacen al sumergirlas en agua.\] <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>2.—_Tsuki ni murakumo, hana ni kazé._
 
 Las nubes llegan a la luna; el viento a las flores.\[1\]
 

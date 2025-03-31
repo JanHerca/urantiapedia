@@ -48,7 +48,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 'Téka y Sasarama, Tûla y Vitûla, y el blanco y el rojo. ¡Suéltenlo!... el marrón y el rojo.
 
-En esos dos sencillos, los sarasyakâs (?) descienden <span id="p220">[<sup><small>p. 220</small></sup>]</span> al tercer cielo desde aquí. ¡Kh_at! ¡Vete! ¡Sîsarama! ¡Sârameya! ¡Adoración a ti, Sîsara!
+En esos dos sencillos, los sarasyakâs (?) descienden <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> al tercer cielo desde aquí. ¡Kh_at! ¡Vete! ¡Sîsarama! ¡Sârameya! ¡Adoración a ti, Sîsara!
 
 'Tu madre se llama la mensajera; tu padre es el ma<i>nd</i>âkaka (ma<i>nd</i>ûkaka, ¿la rana?). ¡Vete, etc.!
 

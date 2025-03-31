@@ -87,7 +87,7 @@ Página [74](/es/book/Buddhism/Amitabha/Amitabha_10#p74).
 
 <span id="an_15">15</span> Cf. la traducción de T. Suzuki del _Discurso sobre el Despertar de la Fe en el Mahayana_ de Açvaghosha, págs. 101, 142 y siguientes. El término "verdad suprema" es llamado por Açvaghosha en sánscrito _paramârthasatya_.
 
-<span id="an_16">16</span> Compárese el Resumen de las Conferencias sobre la Literatura Budista en China de Samuel Beal, <span id="p177">[<sup><small>p. 177</small></sup>]</span>, donde leemos: «Quien posee el yo supremo, puede ver a Buda. Buda, aunque reside en el mundo, solo puede ser visto por quienes poseen este yo supremo. ¡Maharaja! Es muy cierto que, aunque Buda haya alcanzado el Nirvana, aún puedes contemplarlo».
+<span id="an_16">16</span> Compárese el Resumen de las Conferencias sobre la Literatura Budista en China de Samuel Beal, <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>, donde leemos: «Quien posee el yo supremo, puede ver a Buda. Buda, aunque reside en el mundo, solo puede ser visto por quienes poseen este yo supremo. ¡Maharaja! Es muy cierto que, aunque Buda haya alcanzado el Nirvana, aún puedes contemplarlo».
 
 Página [87](/es/book/Buddhism/Amitabha/Amitabha_11#p87).
 

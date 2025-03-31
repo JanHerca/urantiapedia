@@ -52,7 +52,7 @@ Sé propiciación . . . .
 
 9\. Yathâ aha vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-10\. [^1528]. ¡Danos fuerza y ​​victoria! ¡Danos bienestar en ganado y pan! ¡Danos un gran número de hijos varones, alabadores de Dios y jefes en las asambleas, que golpeen y no sean golpeados, que derroten de un solo golpe a sus enemigos, que derroten de un solo golpe a sus adversarios, siempre alegres y dispuestos a ayudar. <span id="p356">[<sup><small>p. 356</small></sup>]</span> 11\. ¡Oh dioses de gloria plena, oh dioses de sanación plena, manifiéstense su grandeza! ¡Manifiéstense su ayuda tan pronto como se les llame! Y ustedes, Aguas, manifiesten su gloria e impartanla al hombre que les ofrece un sacrificio.
+10\. [^1528]. ¡Danos fuerza y ​​victoria! ¡Danos bienestar en ganado y pan! ¡Danos un gran número de hijos varones, alabadores de Dios y jefes en las asambleas, que golpeen y no sean golpeados, que derroten de un solo golpe a sus enemigos, que derroten de un solo golpe a sus adversarios, siempre alegres y dispuestos a ayudar. <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> 11\. ¡Oh dioses de gloria plena, oh dioses de sanación plena, manifiéstense su grandeza! ¡Manifiéstense su ayuda tan pronto como se les llame! Y ustedes, Aguas, manifiesten su gloria e impartanla al hombre que les ofrece un sacrificio.
 
 Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 

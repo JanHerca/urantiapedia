@@ -44,7 +44,7 @@ La pieza se remonta a la época del rey Hsüan (827 a 782 a. C.).
 
 El patio es plano y liso, y sus columnas son imponentes. La estancia está expuesta a la luz, y sus rincones son amplios y profundos. Aquí descansará nuestro noble señor.
 
-Sobre la estera de junco de abajo y la de finos bambúes de arriba, ¡que descanse en el sueño! Que duerma <span id="p350">[<sup><small>p. 350</small></sup>]</span> y despierte, (diciendo): «Adivina para mí mis sueños [^408]. ¿Qué sueños son afortunados? Han sido de osos y osos espeluznantes; han sido de cobras y (otras) serpientes».
+Sobre la estera de junco de abajo y la de finos bambúes de arriba, ¡que descanse en el sueño! Que duerma <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> y despierte, (diciendo): «Adivina para mí mis sueños [^408]. ¿Qué sueños son afortunados? Han sido de osos y osos espeluznantes; han sido de cobras y (otras) serpientes».
 
 El adivino jefe los adivinará. «Los osos y los osos espeluznantes son los auspiciosos presagios de los hijos; las cobras y (otras) serpientes son los auspiciosos presagios de las hijas [^409]».
 
@@ -68,7 +68,7 @@ UNA LAMENTACIÓN POR EL ESTADO INESTABLE DEL REINO DENUNCIANDO LA INJUSTICIA Y L
 
 Esta pieza se refiere a la época del rey Yû (781 a. C.-771 a. C.), hijo indigno del rey Hsüan. El «Gran Maestro» Yin debió ser uno de los «tres Kung», los ministros de mayor rango de la corte de Kâu, y probablemente fue el jefe de los tres y administrador del gobierno bajo el reinado de Yû.
 
-¡Eminente es esa colina del sur [^413], con sus masas rocosas! ¡Impresionante eres, oh (Gran) Maestro <span id="p352">[<sup><small>p. 352</small></sup>]</span> Yin, y todo el pueblo te admira! Un fuego arde en sus corazones afligidos; no se atreven a hablar de ti ni siquiera en broma. El reino está al borde de la extinción; ¿cómo es que no consideras el estado de las cosas?
+¡Eminente es esa colina del sur [^413], con sus masas rocosas! ¡Impresionante eres, oh (Gran) Maestro <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> Yin, y todo el pueblo te admira! Un fuego arde en sus corazones afligidos; no se atreven a hablar de ti ni siquiera en broma. El reino está al borde de la extinción; ¿cómo es que no consideras el estado de las cosas?
 
 ¡Es majestuosa la colina del sur, y la vegetación crece vigorosamente en ella! ¡Eres imponente, oh (Gran) Maestro Yin! Pero ¿cómo es que eres tan injusto? El cielo redobla sus castigos constantemente; las muertes y el desorden aumentan y se multiplican; la gente no expresa ninguna satisfacción; y, sin embargo, no te corriges ni te lamentas.
 
@@ -100,7 +100,7 @@ Mira hacia el centro del bosque; solo hay grandes haces de leña y ramas pequeñ
 
 Si se dice que una colina es baja, ahí están sus crestas y sus grandes masas. Las falsas calumnias del pueblo, ¿cómo es que no las reprimes? Llamas a esos ancianos experimentados, consultas al adivino de sueños. Todos dicen: «Somos muy sabios, pero ¿quién puede distinguir el cuervo macho de la hembra?».
 
-Mira el campo áspero y pedregoso; en él crece exuberante el grano que brota. Pero el cielo me conmueve y me sacude, como si no pudiera vencerme. [^419]. <span id="p355">[<sup><small>p. 355</small></sup>]</span> Al principio me buscaban como modelo, como si no pudieran conseguirme; ahora me miran con gran animosidad y no quieren usar mi fuerza.
+Mira el campo áspero y pedregoso; en él crece exuberante el grano que brota. Pero el cielo me conmueve y me sacude, como si no pudiera vencerme. [^419]. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span> Al principio me buscaban como modelo, como si no pudieran conseguirme; ahora me miran con gran animosidad y no quieren usar mi fuerza.
 
 <a id="o9"></a>
 
@@ -116,7 +116,7 @@ El sol y la luna anuncian el mal, por no seguir sus caminos. En todo el reino no
 
 El relámpago del trueno reluce majestuosamente. Falta descanso, falta bienestar. Los arroyos brotan y se desbordan. Los riscos de las cimas se derrumban. Las altas riberas se convierten en valles; los valles profundos en colinas. ¡Ay de los hombres de este tiempo! ¿Cómo no detiene el rey estas cosas?
 
-Hwang-fû es el Presidente; Fan es el Ministro <span id="p356">[<sup><small>p. 356</small></sup>]</span> de Instrucción; <i>K</i>iâ-po es el Administrador (principal); <i>K</i>ung-yün es el Cocinero principal; Ȝâu es el Registrador del Interior; Khwei es Maestro de la Caballería; Yü es Capitán de la Guardia; Y la bella esposa resplandece, ahora en posesión de su lugar [^420].
+Hwang-fû es el Presidente; Fan es el Ministro <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> de Instrucción; <i>K</i>iâ-po es el Administrador (principal); <i>K</i>ung-yün es el Cocinero principal; Ȝâu es el Registrador del Interior; Khwei es Maestro de la Caballería; Yü es Capitán de la Guardia; Y la bella esposa resplandece, ahora en posesión de su lugar [^420].
 
 Este Hwang-fû no reconoce que actúa fuera de lugar. Pero ¿por qué nos llama a marcharnos sin consultarnos? Ha derribado nuestros muros y techos; y nuestros campos son un pantano o un páramo. Dice: «No os hago daño; las leyes así lo exigen».
 

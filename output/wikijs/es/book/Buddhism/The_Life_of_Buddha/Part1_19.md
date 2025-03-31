@@ -101,7 +101,7 @@ Mara se quedó muda de asombro. La voz continuó:
 
 Sí, yo, la Tierra, yo, la madre de todos los seres, daré testimonio de su generosidad. Cien veces, mil veces, en el curso de sus existencias anteriores, sus manos, sus ojos, su cabeza, todo su cuerpo han estado al servicio de los demás. Y en el curso de esta existencia, que será la última, destruirá la vejez, la enfermedad y la muerte. Así como te supera en fuerza, Mara, también te supera en generosidad.
 
-Y el Maligno vio emerger de la tierra a una mujer de gran belleza, hasta la cintura. Se inclinó <span id="p95">[<sup><small>p. 95</small></sup>]</span> ante el héroe y, juntando las manos, dijo: «Oh, el más santo de los hombres, doy testimonio de tu generosidad».
+Y el Maligno vio emerger de la tierra a una mujer de gran belleza, hasta la cintura. Se inclinó <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> ante el héroe y, juntando las manos, dijo: «Oh, el más santo de los hombres, doy testimonio de tu generosidad».
 
 Luego ella desapareció.
 

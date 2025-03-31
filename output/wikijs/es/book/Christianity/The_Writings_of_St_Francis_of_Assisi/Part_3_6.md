@@ -48,7 +48,7 @@ Aunque las primeras biografías de San Francisco guardan silencio sobre este op�
 
 5\. Para Navidad y los días siguientes, hasta la clausura de la octava de Epifanía.
 
-El texto del Oficio que aparece en la edición de Quaracchi es el del manuscrito de Asís 338, omitiendo solo algunas notas de rúbrica. El Oficio también se puede encontrar <span id="p155">[<sup><small>p. 155</small></sup>]</span> en los manuscritos de Oxford, [^572] Berlín, [^573] y Liegnitz [^574], ya descritos. [^575] Que yo sepa, nunca se ha traducido al inglés. Aquí está:
+El texto del Oficio que aparece en la edición de Quaracchi es el del manuscrito de Asís 338, omitiendo solo algunas notas de rúbrica. El Oficio también se puede encontrar <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> en los manuscritos de Oxford, [^572] Berlín, [^573] y Liegnitz [^574], ya descritos. [^575] Que yo sepa, nunca se ha traducido al inglés. Aquí está:
 
 ## OFICIO DE LA PASIÓN DEL SEÑOR.
 
@@ -172,7 +172,7 @@ Sal. 40: 7. Salieron y hablaron con el mismo propósito.
 
 Salmo 21:8. Todos los que me veían se burlaban de mí; hablaban con los labios, y meneaban la cabeza.
 
-Salmo 21: 7. Pero yo soy gusano y no hombre, <span id="p161">[<sup><small>p. 161</small></sup>]</span> oprobio de los hombres y desechado del pueblo.
+Salmo 21: 7. Pero yo soy gusano y no hombre, <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> oprobio de los hombres y desechado del pueblo.
 
 Sal. 30:12. He sido el oprobio de todos mis enemigos, y muy de mis vecinos, y el temor de mis conocidos.
 

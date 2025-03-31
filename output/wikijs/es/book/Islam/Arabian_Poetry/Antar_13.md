@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 Mientras Antar se encontraba fuera para ayudar a la tribu de Mazin, ocurrió algo que echó a perder sus esperanzas de ganar a su amada Abla y que desencadenó una serie de problemas para él, para su familia e incluso para toda la tribu de Abs. Se trataba del compromiso de Abla con un noble absiense llamado Amarah: «un petulante vanidoso, muy particular en su vestimenta, aficionado a los perfumes y siempre en compañía de mujeres y muchachas». Habiendo llegado a oídos de este exquisito beduino la fama de la belleza de Abla, envió una esclava a las tiendas de la familia de Carad para averiguar si Abla era tan hermosa como se decía de ella; y cuando la muchacha regresó con un relato entusiasta de los encantos de Abla, Amarah concibió una violenta pasión por ella: «sus oídos se enamoraron ante sus ojos». Visitó al viejo Malik y le pidió a su hija en matrimonio, prometiéndole una generosa dote. Malik el pérfido está encantado ante la perspectiva de un yerno así, y muy de buena gana da su consentimiento, esperando, sin duda, que Antar se haya convertido para este momento en alimento para los cuervos y los buitres.
 

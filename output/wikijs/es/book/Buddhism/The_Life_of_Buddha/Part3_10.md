@@ -59,7 +59,7 @@ Maestro, ya eres mayor; es una gran dificultad para ti gobernar a los monjes; de
 
 El Maestro sonrió con curiosidad.
 
-No te preocupes por mí, Devadatta; eres demasiado amable. Sabré cuándo es hora de retirarme. Por ahora, me quedaré a cargo de la comunidad. <span id="p255">[<sup><small>p. 255</small></sup>]</span> Además, cuando llegue el momento, no se lo daré ni a Sariputra ni a Maudgalyayana, esas dos grandes mentes que son como antorchas encendidas, ¡y tú lo quieres, Devadatta, tú que tienes una inteligencia tan mediocre, tú que proyectas aún menos luz que una lámpara de noche!
+No te preocupes por mí, Devadatta; eres demasiado amable. Sabré cuándo es hora de retirarme. Por ahora, me quedaré a cargo de la comunidad. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> Además, cuando llegue el momento, no se lo daré ni a Sariputra ni a Maudgalyayana, esas dos grandes mentes que son como antorchas encendidas, ¡y tú lo quieres, Devadatta, tú que tienes una inteligencia tan mediocre, tú que proyectas aún menos luz que una lámpara de noche!
 
 Devadatta se inclinó respetuosamente ante el Maestro, pero no pudo ocultar el fuego de la ira en sus ojos.
 

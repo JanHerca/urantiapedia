@@ -52,7 +52,7 @@ Un monje o una monja que vague de aldea en aldea debe anticiparse a cuatro codos
 
 Un monje o una monja que vaga de una aldea a otra, y en cuyo camino hay seres vivos, semillas, hierba, agua o barro, no debe seguir derecho si hay un camino libre; entonces puede vagar con cautela de una aldea a otra. (7)
 
-Un monje o una monja en peregrinación, cuyo camino (pasa por) lugares pertenecientes a fronterizos, ladrones, Mle<i>k</i><i>kh</i>as, gente no aria [^399], gente semicivilizada, <span id="p138">[<sup><small>p. 138</small></sup>]</span> gente no convertida, gente que se levanta o come a una hora inapropiada, no debería, si hay algún otro lugar para caminar o distritos amistosos, elegir el camino anterior para su viaje. (8)
+Un monje o una monja en peregrinación, cuyo camino (pasa por) lugares pertenecientes a fronterizos, ladrones, Mle<i>k</i><i>kh</i>as, gente no aria [^399], gente semicivilizada, <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> gente no convertida, gente que se levanta o come a una hora inapropiada, no debería, si hay algún otro lugar para caminar o distritos amistosos, elegir el camino anterior para su viaje. (8)
 
 El Kevalin dice: Esta es la razón: La población ignorante podría intimidar, golpear, etc., al mendigo, creyendo que es un ladrón o un espía, o que proviene de una aldea hostil; o podrían quitarle, cercenarle, robarle o robarle su túnica, cuenco de limosna, manto o escoba. Por eso se le ha dicho al mendigo, etc., que aquel cuyo camino (pasa por) lugares que pertenecen, etc. (todo como en el párrafo anterior); entonces puede vagar con cautela de aldea en aldea. (9)
 
@@ -60,7 +60,7 @@ Un monje o una monja en peregrinación, cuyo camino atraviesa un país donde no 
 
 Un monje o una monja en peregrinación, cuyo camino pasa por un bosque [^400] que no están seguros de cruzar en uno o dos o tres o cuatro o cinco días, si hay algún otro lugar para caminar o distritos amigos, no debe elegir el camino anterior para su viaje. (11)
 
-El Kevalin dice: Esta es la razón: Durante la <span id="p139">[<sup><small>p. 139</small></sup>]</span> lluvia, podría dañar a seres vivos, moho, semillas, hierba, agua y lodo. Por eso se le ha dicho al mendigo que quien atraviesa un bosque así, etc. (como en el párrafo anterior), puede deambular con cautela de aldea en aldea. (12)
+El Kevalin dice: Esta es la razón: Durante la <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> lluvia, podría dañar a seres vivos, moho, semillas, hierba, agua y lodo. Por eso se le ha dicho al mendigo que quien atraviesa un bosque así, etc. (como en el párrafo anterior), puede deambular con cautela de aldea en aldea. (12)
 
 (13) Un monje o una monja en peregrinación, en cuyo camino hay un curso de agua que debe ser cruzado por un bote, no debe subir a un bote que navega hacia arriba, hacia abajo o a través (del río), ni por la distancia de una yogana o media yogana, ni por un viaje más corto o más largo, si sabe que el jefe de familia [^401] comprará o robará el bote, o hará el trabajo necesario para ponerlo en orden, sacarlo del agua a la orilla, o empujarlo desde la orilla al agua, o achicarlo, si está lleno (de agua), o hacer que un bote que se hunde flote.
 
@@ -68,7 +68,7 @@ Un monje o una monja, sabiendo que un barco cruzará el río, debe, después de 
 
 El monje o la monja, al entrar en la barca, no debe elegir para ello la popa, la proa o el centro de la barca; ni debe mirarla levantando los brazos, señalándola con el dedo, inclinándose hacia arriba y hacia abajo. (15)
 
-Si a bordo el barquero le dice al monje: «¡Oh, longevo <i>S</i>rama<i>n</i>a! Tira del bote hacia adelante o hacia atrás, <span id="p140">[<sup><small>p. 140</small></sup>]</span>, o empújalo, o tráelo con la cuerda hacia ti, o hagámoslo juntos», no debe acceder a su petición, sino observar en silencio. (16)
+Si a bordo el barquero le dice al monje: «¡Oh, longevo <i>S</i>rama<i>n</i>a! Tira del bote hacia adelante o hacia atrás, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span>, o empújalo, o tráelo con la cuerda hacia ti, o hagámoslo juntos», no debe acceder a su petición, sino observar en silencio. (16)
 
 Si a bordo el otro le dijera: «¡Oh, longevo <i>Srama<i>n</i>a! No puedes tirar del bote hacia adelante ni hacia atrás, ni empujarlo, ni arrastrarlo con una cuerda hacia ti; danos la cuerda, nosotros mismos tiraremos del bote hacia adelante o hacia atrás, etc.», no debería acceder a su petición, sino mirar en silencio. (17)
 
@@ -78,7 +78,7 @@ Si a bordo el otro le dijera: «¡Oh, longevo Srama<i>n</i>a!, por favor, saca e
 
 Si a bordo el otro le dijera: «¡Oh, longevo <i>Srama<i>n</i>a!, por favor, tapa la vía de agua con la mano, el pie, el brazo, el muslo, el vientre, la cabeza, el cuerpo, el cubo, un paño, o con barro, hierba Ku<i>s</i>a u hojas de loto», no debería acceder a su petición, sino observar en silencio. (20)
 
-Si un monje o una monja ve que entra agua por una grieta en la barca y esta se ensucia por completo, no debe acercarse al barquero y decirle: "¡Oh, longevo dueño de casa! ¡Entra agua por una grieta en la barca y se ensucia por completo!". <span id="p141">[<sup><small>p. 141</small></sup>]</span> No debe pensar ni decir eso; sino que, tranquilo, sin dirigir la mente hacia afuera, debe concentrarse en la contemplación; entonces podrá completar con cautela su viaje en la barca sobre el agua.
+Si un monje o una monja ve que entra agua por una grieta en la barca y esta se ensucia por completo, no debe acercarse al barquero y decirle: "¡Oh, longevo dueño de casa! ¡Entra agua por una grieta en la barca y se ensucia por completo!". <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> No debe pensar ni decir eso; sino que, tranquilo, sin dirigir la mente hacia afuera, debe concentrarse en la contemplación; entonces podrá completar con cautela su viaje en la barca sobre el agua.
 
 Éste es todo el deber, etc.
 
@@ -92,7 +92,7 @@ Si a bordo el barquero le dijera al mendigo: «¡Oh, longevo <i>S</i>rama<i>n</i
 
 Si a bordo el barquero le dice a otro miembro de la tripulación: «¡Oh, longevo! Este <i>Srama<i>n</i>a es solo una carga pesada para el barco, ¡agárralo con tus brazos y tíralo al agua!», al oír y percibir tal conversación, si lleva ropa, debería quitársela rápidamente, abrocharla o ponerla en un bulto sobre su cabeza. (2)
 
-Ahora bien, podría pensar: «Estos rufianes, acostumbrados a la violencia, podrían agarrarme y arrojarme de la barca al agua». Primero debería decirles: «¡Oh, longevos dueños de casa! ¡No me agarren con sus brazos para arrojarme al agua! ¡Yo mismo saltaré de la barca al agua!». Si después de estas palabras el otro, por la fuerza y ​​la violencia, lo agarra con sus brazos y lo arroja al agua, no debería estar ni contento ni triste, ni desanimado ni desanimado, ni debería ofrecer <span id="p142">[<sup><small>p. 142</small></sup>]</span> resistencia violenta a esos rufianes; pero, tranquilo, sin preocuparse por las cosas externas, etc. (véase II, 3, 1, § 21), podría nadar con cautela en el agua. (3)
+Ahora bien, podría pensar: «Estos rufianes, acostumbrados a la violencia, podrían agarrarme y arrojarme de la barca al agua». Primero debería decirles: «¡Oh, longevos dueños de casa! ¡No me agarren con sus brazos para arrojarme al agua! ¡Yo mismo saltaré de la barca al agua!». Si después de estas palabras el otro, por la fuerza y ​​la violencia, lo agarra con sus brazos y lo arroja al agua, no debería estar ni contento ni triste, ni desanimado ni desanimado, ni debería ofrecer <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> resistencia violenta a esos rufianes; pero, tranquilo, sin preocuparse por las cosas externas, etc. (véase II, 3, 1, § 21), podría nadar con cautela en el agua. (3)
 
 Un monje o una monja, al nadar en el agua, no debe tocar la mano, el pie o el cuerpo (¿de otra persona o el suyo propio?) con su propia mano, pie o cuerpo; pero sin tocarlos debe nadar con cautela en el agua. (4)
 
@@ -104,7 +104,7 @@ Un monje o una monja no deben limpiarse, frotarse, cepillarse, acariciarse [^406
 
 Un monje o una monja en peregrinación no deben deambular de aldea en aldea, conversando con los jefes de familia; pueden deambular con cautela de aldea en aldea. (8)
 
-Si un monje o una monja en peregrinación se encuentra <span id="p143">[<sup><small>p. 143</small></sup>]</span> con aguas poco profundas [^407], primero debe limpiarse el cuerpo desde la cabeza hasta los talones, luego, poniendo un pie en el agua y el otro en el aire, debe caminar a través de las aguas poco profundas en línea recta [^408]. (9)
+Si un monje o una monja en peregrinación se encuentra <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> con aguas poco profundas [^407], primero debe limpiarse el cuerpo desde la cabeza hasta los talones, luego, poniendo un pie en el agua y el otro en el aire, debe caminar a través de las aguas poco profundas en línea recta [^408]. (9)
 
 Si un monje o una monja en peregrinación se encuentra con agua poco profunda, debe atravesarla en línea recta, sin ser tocado ni tocar la mano, el pie o el cuerpo (¿de otra persona o el suyo propio?) con su propia mano, pie o cuerpo. (10)
 
@@ -114,7 +114,7 @@ Un monje o una monja no debe limpiarse ni frotarse, etc. (todo como en el § 7).
 
 Un monje o una monja en peregrinación, con los pies llenos de barro, no debe, para que la hierba se desprenda del barro de los pies, apartarse del camino y destruir la hierba cortándola, pisoteándola y arrancándola. Como esto sería un pecado, no deben hacerlo. Pero primero deben inspeccionar un sendero con poca hierba; luego pueden deambular con cautela de aldea en aldea. (13)
 
-Si un monje o una monja en peregrinación se encuentra con muros, zanjas, murallas, puertas o cerrojos, <span id="p144">[<sup><small>p. 144</small></sup>]</span> o agujeros para colocarlos, o fosos o cuevas, debe, en caso de que haya un camino secundario, elegirlo y no seguir recto. (14)
+Si un monje o una monja en peregrinación se encuentra con muros, zanjas, murallas, puertas o cerrojos, <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> o agujeros para colocarlos, o fosos o cuevas, debe, en caso de que haya un camino secundario, elegirlo y no seguir recto. (14)
 
 El Kevalin dice: Esta es la razón: Caminando por allí, el mendigo podría tropezar o caer; cuando tropieza o cae, puede apoyarse en árboles, arbustos, plantas, enredaderas, hierba, bosquecillo o brotes para salir. Debe pedir ayuda a los viajeros que se encuentren con él; entonces, con cautela, podrá apoyarse en ella y salir; así, con cautela, podrá deambular de aldea en aldea. (15)
 
@@ -151,7 +151,7 @@ Un monje o una monja que vaga de aldea en aldea con un sacerdote superior no deb
 
 Un monje o una monja, que vagaba de aldea en aldea con sacerdotes superiores, podía ser encontrado por viajeros en el camino y preguntarle: «¡Oh, longevo <i>Srama<i>n</i>a! ¿Quién eres?». El que ostenta el rango más alto debe responder y explicar; pero mientras el superior responde y explica, no se debe interferir en su conversación, etc. (véase § 5). (7)
 
-Un monje o una monja, vagando de aldea en aldea, podría ser encontrado en el camino por viajeros que le preguntaran: "¡Oh, longevo <i>S</i>rama<i>n</i>a! ¿Viste a alguien en el camino? A saber, un hombre, una vaca, un búfalo, un ganado, un pájaro, una serpiente o un animal acuático... ¡Dinos, muéstranos! <span id="p147">[<sup><small>p. 147</small></sup>]</span>!". El mendicante no debe decirlo ni mostrarlo, no debe acceder a su petición, sino observar en silencio o, aunque lo sepa, debe decir que no lo sabe. Entonces puede vagar con cautela de aldea en aldea. (8)
+Un monje o una monja, vagando de aldea en aldea, podría ser encontrado en el camino por viajeros que le preguntaran: "¡Oh, longevo <i>S</i>rama<i>n</i>a! ¿Viste a alguien en el camino? A saber, un hombre, una vaca, un búfalo, un ganado, un pájaro, una serpiente o un animal acuático... ¡Dinos, muéstranos! <span id="p147"><sup><small>[ p. 147 ]</small></sup></span>!". El mendicante no debe decirlo ni mostrarlo, no debe acceder a su petición, sino observar en silencio o, aunque lo sepa, debe decir que no lo sabe. Entonces puede vagar con cautela de aldea en aldea. (8)
 
 De la misma manera debe proceder si se le pregunta por bulbos de plantas acuáticas, raíces, corteza, hojas, flores, frutos, semillas, agua en el vecindario o un fuego encendido; (9)
 
@@ -165,7 +165,7 @@ Si un monje o una monja, vagando de un pueblo a otro, ve venir hacia ellos una v
 
 Si el camino de un monje o una monja en peregrinación pasa por un bosque, en el que, como saben, pasean bandas de muchos ladrones deseosos de sus propiedades, no deben, por miedo a ellos, abandonar el camino, etc. (todo como en el § 13). (14)
 
-Si estos ladrones dicen: «¡Oh, longevo <i>S</i>rama<i>n</i>a! ¡Tráenos tu ropa, etc., dánosla, déjala!», el mendigo no debe darla ni dejarla. <span id="p148">[<sup><small>p. 148</small></sup>]</span> Tampoco debe reclamar sus pertenencias implorándoles, ni cruzándose de brazos, ni conmoviéndolos, sino mediante la exhortación religiosa o permaneciendo en silencio. (15)
+Si estos ladrones dicen: «¡Oh, longevo <i>S</i>rama<i>n</i>a! ¡Tráenos tu ropa, etc., dánosla, déjala!», el mendigo no debe darla ni dejarla. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> Tampoco debe reclamar sus pertenencias implorándoles, ni cruzándose de brazos, ni conmoviéndolos, sino mediante la exhortación religiosa o permaneciendo en silencio. (15)
 
 Si los ladrones, decididos a robar ellos mismos, lo intimidan, etc., le arrancan la ropa, etc., no debe presentar la denuncia en la aldea ni en el palacio real; ni ​​debe acudir a un laico y decirle: "¡Oh, longevo dueño de casa! Estos ladrones, decididos a robar ellos mismos, me han intimidado, etc., me han arrancado la ropa", etc. No debe pensarlo ni decirlo así; debe permanecer impasible, etc. (véase § 13).
 

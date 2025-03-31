@@ -86,7 +86,7 @@ Todas las representaciones sacerdotales tienen lugar en el lado norte del Vihâr
 
 **Comentario.**
 
-Uttarata-upa<i>k</i>âra<i>h</i> debe interpretarse como un compuesto. Vihâra se explica como vihriyanteऽgnaya_h<i>k</i>n<i>k</i>k<i>k</i>s_e, es decir, el lugar de sacrificio. Upa<i>k</i>âra se explica como adhvaryvâdînâ_m<i>k</i>m_<i>k</i>ara_h_, y este sa<i>k</i><i>k</i>ara, según Kâtyâyana I, 3, 42, es el camino entre el <i>K</i>âtvâla y Utkara, estando este último al oeste y los pra<i>k</i>îtâs al este del Vihâra. Kâtyâyana I, 8, 26, expresa la misma regla mediante uttarata-upa<i>k</i>âro ya<i>k</i><i>k</i>a_h_, siendo el vihâra el lugar donde tiene lugar el ya<i>k</i><i>k</i>a. <span id="p331">[<sup><small>p. 331</small></sup>]</span>
+Uttarata-upa<i>k</i>âra<i>h</i> debe interpretarse como un compuesto. Vihâra se explica como vihriyanteऽgnaya_h<i>k</i>n<i>k</i>k<i>k</i>s_e, es decir, el lugar de sacrificio. Upa<i>k</i>âra se explica como adhvaryvâdînâ_m<i>k</i>m_<i>k</i>ara_h_, y este sa<i>k</i><i>k</i>ara, según Kâtyâyana I, 3, 42, es el camino entre el <i>K</i>âtvâla y Utkara, estando este último al oeste y los pra<i>k</i>îtâs al este del Vihâra. Kâtyâyana I, 8, 26, expresa la misma regla mediante uttarata-upa<i>k</i>âro ya<i>k</i><i>k</i>a_h_, siendo el vihâra el lugar donde tiene lugar el ya<i>k</i><i>k</i>a. <span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 <span id="an55"></span>
 
@@ -128,7 +128,7 @@ Los actos sacrificiales destinados a los dioses, deben ser realizados por el sac
 
 ##SUTRA LX.
 
-Los actos sacrificiales destinados a los Padres deben ser realizados por el sacerdote hacia el sur, después de haber colocado el cordón brahmánico sobre el brazo derecho y <span id="p332">[<sup><small>p. 332</small></sup>]</span> debajo del brazo izquierdo (prâ<i>k</i>înâvîtin), y girando hacia la izquierda.
+Los actos sacrificiales destinados a los Padres deben ser realizados por el sacerdote hacia el sur, después de haber colocado el cordón brahmánico sobre el brazo derecho y <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> debajo del brazo izquierdo (prâ<i>k</i>înâvîtin), y girando hacia la izquierda.
 
 <span id="an61"></span>
 
@@ -170,7 +170,7 @@ Y que un hombre sacrifique con el sacrificio Paur<i>n</i>amâsyâ en el momento 
 
 **Comentario.**
 
-Aquí, la luna llena se llama paur<i>n</i>amâsî, el sacrificio paur<i>n</i>amâsyâ. Satyavrata une los dos Sutras en uno y omite ya<i>n</i>eteti, que podría haber pertenecido al comentario. <span id="p333">[<sup><small>p. 333</small></sup>]</span>
+Aquí, la luna llena se llama paur<i>n</i>amâsî, el sacrificio paur<i>n</i>amâsyâ. Satyavrata une los dos Sutras en uno y omite ya<i>n</i>eteti, que podría haber pertenecido al comentario. <span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 <span id="an65"></span>
 
@@ -186,7 +186,7 @@ La luna llena (paur<i>n</i>amâsî) es en realidad el momento exacto en que la l
 
 El significado de purastâd, que ya he traducido como, es dudoso. Un comentarista afirma que no tiene objeto y debería eliminarse: purastâd ity etat padam asmin sûtra idânîm anvaya_m<i> na labhate prayo</i>g_anâbhâvât. Purastâd, antes, puede, sin embargo, significar antes del segundo día, en el que se realiza el verdadero sacrificio, y el comentarista menciona purastât-paur<i> na labhate prayo</i>amâsî como nombre de _k<i> na labhate prayo</i>s_î-yuktâ, es decir, la luna llena que comienza el decimocuarto día. El mismo tipo de luna llena también se llama Anumati, Pûrvâ-paur<i> na labhate prayo</i>amâsî y Sandhyâ-paur<i> na labhate prayo</i>amâsî, mientras que la que tiene lugar en el pratipad, el primer día de la fase lunar, se llama Râkâ, Uttarâ-paur<i> na labhate prayo</i>amâsî, Astamitoditâ y _S<i> na labhate prayo</i>h_pûritâ.
 
-Correspondientes a estos dos tipos de Paur<i>n</i>amâsî, existen también dos tipos de Amâvâsyâ. El que cae en el decimocuarto día se llama Pûrvâ-amâvâsyâ, o Sinîvâlî, el ἕνη καὶ νέα; el que cae en el pratipad, el primer día de la nueva fase, se llama Kuhû, Uttarâ-amâvâsyâ. <i>S</i>voyuktâ. Véase también Ait.-Brâhm. II, 4; Nir. XI, 31-32. <span id="p334">[<sup><small>p. 334</small></sup>]</span>
+Correspondientes a estos dos tipos de Paur<i>n</i>amâsî, existen también dos tipos de Amâvâsyâ. El que cae en el decimocuarto día se llama Pûrvâ-amâvâsyâ, o Sinîvâlî, el ἕνη καὶ νέα; el que cae en el pratipad, el primer día de la nueva fase, se llama Kuhû, Uttarâ-amâvâsyâ. <i>S</i>voyuktâ. Véase también Ait.-Brâhm. II, 4; Nir. XI, 31-32. <span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 <span id="an66"></span>
 
@@ -222,7 +222,7 @@ Que el hombre observe el día de luna nueva (amâvâsyâ) como un día de abstin
 
 **Comentario.**
 
-Este Sutra debe conectarse con el Sutra LXV. La abstinencia se realiza el día en que la luna nueva, el punto más cercano del Sol y la Luna, cae por la tarde, por la noche o al anochecer. Y esta luna nueva, la unión del decimoquinto día y el pratipad, se llama Kuhû. Debemos leer amâvâsyâm. <span id="p335">[<sup><small>p. 335</small></sup>]</span>
+Este Sutra debe conectarse con el Sutra LXV. La abstinencia se realiza el día en que la luna nueva, el punto más cercano del Sol y la Luna, cae por la tarde, por la noche o al anochecer. Y esta luna nueva, la unión del decimoquinto día y el pratipad, se llama Kuhû. Debemos leer amâvâsyâm. <span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 <span id="an69"></span>
 
@@ -252,7 +252,7 @@ Este Sutra se explica de diversas maneras: el comentario de Satyavrata, que he s
 
 ## SUTRA LXXI.
 
-Las reglas especiales están limitadas por (el propósito de) la ejecución (típica) (prakara<i>n</i>a). <span id="p336">[<sup><small>p. 336</small></sup>]</span>
+Las reglas especiales están limitadas por (el propósito de) la ejecución (típica) (prakara<i>n</i>a). <span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 <span id="an71c"></span>
 

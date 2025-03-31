@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 Acompañado únicamente por su fiel hermano Shiboob, su fiel secuaz, que con frecuencia le prestó al héroe importantes servicios con su destreza como arquero, y cuya rapidez de pies le había ganado el sobrenombre de Hijo del Viento, Antar partió de noche de las tiendas de Abs y se dirigió hacia la tierra de Irak. Atravesando las selvas y los desiertos por senderos secretos, bien conocidos por Shiboob, un día llegaron a una sola tienda de campaña junto a un manantial, y cerca de ella estaba un anciano jeque, encorvado por los años:
 
@@ -47,7 +47,7 @@ El venerable solitario ofreció a los viajeros un trago de leche, enfriada al vi
 
 En la tierra de Shurebah hay barrancos y valles; los he abandonado, y sus moradores viven en mi corazón:
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Fijos están allí, y en mis ojos; e incluso cuando están ausentes de mí, habitan en lo negro de mis ojos;
 
@@ -81,7 +81,7 @@ Si las vicisitudes de la fortuna pudieran aceptar cualquier rescate... ¡Oh, yo 
 
 Tu tío, con sus artimañas y fraudes, te ha hecho beber de la copa; pero que tu copero, ¡oh hijo de mi madre, nunca pruebe la humedad del rocío!
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Y tu prima te llorará; y ella pertenece a tu enemigo, cuyo esclavo nunca consentirías ser.
 
@@ -99,7 +99,7 @@ Luego relata la ocasión en que su empresa fracasó. El rey expresa su asombro p
 
 Las pestañas de la cantante desde la esquina del velo son más cortantes que el filo de las cimitarras hendidoras;
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Y cuando hieren a los valientes se humillan, y las comisuras de sus ojos se inundan de lágrimas.
 

@@ -128,7 +128,7 @@ satyasyâtmâ, vidyuta âtmâ, te<i>g</i>asa âtmâ.
 
 3\. Bâlâki dijo: 'En la persona que está en el sol medito (como Brahman).'
 
-A<i>g</i>âta<i>s</i>atru le dijo: «¡No, no! No me retes (a una discusión) sobre esto [^757]. Medito en aquel que se llama grande, vestido de blanco [^758], el supremo, la cabeza de todos los seres. Quien medita <span id="p303">[<sup><small>p. 303</small></sup>]</span> en él así, se vuelve supremo y la cabeza de todos los seres».
+A<i>g</i>âta<i>s</i>atru le dijo: «¡No, no! No me retes (a una discusión) sobre esto [^757]. Medito en aquel que se llama grande, vestido de blanco [^758], el supremo, la cabeza de todos los seres. Quien medita <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> en él así, se vuelve supremo y la cabeza de todos los seres».
 
 4\. Bâlâki dijo: 'La persona que está en la luna, en ella medito.'
 
@@ -148,7 +148,7 @@ A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él 
 
 8\. Bâlâki dijo: 'La persona que está en el aire, en ella medito.'
 
-A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él como Indra Vaiku<i>n</i><i>th</i>a, como el ejército invencible. Quien medita en él así, se vuelve victorioso, invencible, venciendo a sus enemigos». <span id="p304">[<sup><small>p. 304</small></sup>]</span> 9\. Bâlâki dijo: «Medito en la persona que está en el fuego».
+A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él como Indra Vaiku<i>n</i><i>th</i>a, como el ejército invencible. Quien medita en él así, se vuelve victorioso, invencible, venciendo a sus enemigos». <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 9\. Bâlâki dijo: «Medito en la persona que está en el fuego».
 
 A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él como poderoso. Quien medita en él así, se vuelve poderoso entre los demás [^760]».
 
@@ -186,7 +186,7 @@ A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él 
 
 18\. Bâlâki dijo: 'La persona que está en el ojo izquierdo, en ella medito.'
 
-A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él como el ser de lo verdadero, como el ser del relámpago, como el ser de la luz. Quien <span id="p306">[<sup><small>p. 306</small></sup>]</span> medita en él así, se convierte en el ser de estos».
+A<i>g</i>âta<i>s</i>atru le dijo: «No me cuestiones sobre esto. Medito en él como el ser de lo verdadero, como el ser del relámpago, como el ser de la luz. Quien <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> medita en él así, se convierte en el ser de estos».
 
 19\. Después de esto, Balaki guardó silencio. A<i>g</i>âta<i>s</i>atru le dijo: «¿Solo hasta aquí lo sabes, Balaki?». «Solo hasta aquí», respondió Balaki.
 

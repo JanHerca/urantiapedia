@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. El año sabático libera [^80] un préstamo, ya sea con o sin factura. El crédito de una tienda no se libera. <span id="p81">[<sup><small>p. 81</small></sup>]</span> Pero si se hizo como préstamo, se libera. El rabino Judah dijo: «Todo crédito inicial se libera, el salario de un jornalero no se libera». «¿Pero si se hizo como préstamo?» «Se libera». El rabino José dijo: «Todo trabajo que cesa en el año sabático se libera; pero el que no cesa en el año sabático no se libera del pago».
+1\. El año sabático libera [^80] un préstamo, ya sea con o sin factura. El crédito de una tienda no se libera. <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> Pero si se hizo como préstamo, se libera. El rabino Judah dijo: «Todo crédito inicial se libera, el salario de un jornalero no se libera». «¿Pero si se hizo como préstamo?» «Se libera». El rabino José dijo: «Todo trabajo que cesa en el año sabático se libera; pero el que no cesa en el año sabático no se libera del pago».
 
 2\. El carnicero que degolló una novilla (al final del año sabático) y dividió su cabeza (para venderla el primero de los dos días festivos) del año nuevo, sigue siendo deudor; pero si lo hizo en un mes intercalar, [^81] queda libre (Deuteronomio 15:1). Pero si no es un mes intercalar, no queda libre. Quien obligó, incitó o calumnió, y cualquier acto del tribunal, no tiene libertad. "¿Quien prestó con garantía o entregó sus letras al tribunal?" "No hay libertad para él".
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 5\. La defensa escrita antes del año sabático es válida, pero después se invalida. Las letras escritas antes del año sabático se invalidan, pero después son válidas. Quien pida prestado a cinco personas debe escribir una defensa para cada una de ellas. Si cinco personas piden prestado a una, solo debe escribir una defensa para todas.
 
-6\. Los hombres no deben escribir una defensa, salvo por causa justificada. "¿Si no tiene nada?" "El prestamista puede entregarle lo poco que le quede de su propio campo." "¿Si tenía un campo en prenda en <span id="p82">[<sup><small>p. 82</small></sup>]</span> una ciudad?" "Puede escribir en él la defensa." El rabino Huzpith dijo: "Un hombre puede escribirla sobre la propiedad de su esposa; y para los huérfanos, sobre la propiedad de sus tutores."
+6\. Los hombres no deben escribir una defensa, salvo por causa justificada. "¿Si no tiene nada?" "El prestamista puede entregarle lo poco que le quede de su propio campo." "¿Si tenía un campo en prenda en <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> una ciudad?" "Puede escribir en él la defensa." El rabino Huzpith dijo: "Un hombre puede escribirla sobre la propiedad de su esposa; y para los huérfanos, sobre la propiedad de sus tutores."
 
 7\. "¿Colmenas?", dijo R. Eliezer, "son como tierra, y se puede escribir en ellas una defensa, y no contraen impureza legal en su lugar, pero quien extraiga miel de ellas en sábado está sujeto a una ofrenda por el pecado. Sin embargo, los Sabios dicen que no son como tierra, y no se debe escribir en ellas una defensa, y sí contraen impureza legal en su lugar, y quien extraiga miel de ellas en sábado está libre".
 

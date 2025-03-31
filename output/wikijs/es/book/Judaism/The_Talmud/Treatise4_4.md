@@ -50,7 +50,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 9\. BEREITHA—TRADICIÓN EXTERNA.
 
-El rey Ezequías hizo seis cosas; en tres de ellas los sabios consintieron, y en tres no. Cargó los huesos de su padre (Acaz) en una cama de cuerdas, [^141] y consintieron. <span id="p103">[<sup><small>p. 103</small></sup>]</span> Empolvó la serpiente de bronce, [^142] y consintieron. Ocultó el libro de medicinas, [^143] y consintieron. Y en tres no consintieron: cortó (el oro de) las puertas del templo [^144] y lo envió al rey asirio, y no consintieron. Detuvo las aguas del alto Gihón, [^145] y no consintieron. Introdujo un Nisán intercalado, y no consintieron.
+El rey Ezequías hizo seis cosas; en tres de ellas los sabios consintieron, y en tres no. Cargó los huesos de su padre (Acaz) en una cama de cuerdas, [^141] y consintieron. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> Empolvó la serpiente de bronce, [^142] y consintieron. Ocultó el libro de medicinas, [^143] y consintieron. Y en tres no consintieron: cortó (el oro de) las puertas del templo [^144] y lo envió al rey asirio, y no consintieron. Detuvo las aguas del alto Gihón, [^145] y no consintieron. Introdujo un Nisán intercalado, y no consintieron.
 
 
 

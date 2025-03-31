@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 <figure id="Figure_07900" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/07900.jpg">
@@ -44,7 +44,7 @@ CUANDO Amru hubo terminado su extravagante panegírico sobre la tribu de Tagleb,
 
 Aunque, si creemos a Asmai, el poeta tenía considerablemente más de cien años en ese momento, se dice que soltaba sus versos con tal ardor hirviente que, sin darse cuenta, «se cortó la mano con la cuerda de su arco, en el que», a la manera de los oradores árabes, «se apoyaba mientras hablaba».
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Cualquiera que fuese su edad, la sabiduría y el arte de su composición contrastan sutilmente con la imprudencia juvenil de su adversario, que debió exasperar al rey, en lugar de conciliar su buena voluntad, y parece incluso haber amenazado al mismo hombre al que pedía un juicio favorable. Hareth, por el contrario, comienza elogiando a la reina, cuyo nombre era Asoma, y que lo escuchó detrás del tapiz; parece haber presentado a otra de sus favoritas, Hinda, simplemente porque ése era el nombre de la madre del rey; y celebra al propio monarca, como modelo de justicia, valor y magnanimidad. La descripción de su camello, que teje según la costumbre, es muy breve; y comienza la defensa de su tribu con frialdad y moderación; pero a medida que avanza, su indignación parece encenderse, y el resto de su arenga consiste en agudas expostulaciones y amargos sarcasmos, no sin mucho razonamiento sólido, y una serie de alusiones a hechos, que no pueden sino ser imperfectamente conocidos por nosotros, aunque deben haber estado frescos en la memoria de sus oyentes.
 
@@ -52,7 +52,7 @@ El alcance general de su argumento es que no se podía imputar con justicia ning
 
 El discurso, o poema, o como quiera que se le denomine, tuvo su pleno efecto en la mente del árbitro real, que decidió la causa a favor de los Bécrites y perdió la vida por una decisión aparentemente justa. Debió haber notado el espíritu fogoso del poeta Amru, por el estilo de su elocuencia, como César descubrió por primera vez la vehemencia impetuosa del temperamento de Bruto por su discurso pronunciado en Nicea, a favor del rey Deiotaro: pero ni el tirano árabe ni el romano estaban lo suficientemente en guardia contra hombres a los que habían irritado hasta la furia.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 Este poema está compuesto en verso _ligero_, o métrica de la undécima clase, que consta de epítrites, pies jónicos y peones, mezclados de diversas formas, como en esta forma:
 

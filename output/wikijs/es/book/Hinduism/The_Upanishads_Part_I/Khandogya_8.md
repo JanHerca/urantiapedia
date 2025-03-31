@@ -36,7 +36,7 @@ OCTAVO PRAP AKA.
 
 ## PRIMERA PÁGINA [^325].
 
-1\. Hari<i>h</i>, Om. Existe esta ciudad de Brahman (el cuerpo), y en ella el palacio, el pequeño loto (del <span id="p126">[<sup><small>p. 126</small></sup>]</span> corazón), y en él ese pequeño éter. Ahora bien, lo que existe dentro de ese pequeño éter, eso debe buscarse, eso debe comprenderse.
+1\. Hari<i>h</i>, Om. Existe esta ciudad de Brahman (el cuerpo), y en ella el palacio, el pequeño loto (del <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> corazón), y en él ese pequeño éter. Ahora bien, lo que existe dentro de ese pequeño éter, eso debe buscarse, eso debe comprenderse.
 
 2\. Y si le dijeran: «Ahora bien, respecto a esa ciudad de Brahman y al palacio que hay en ella, es decir, el pequeño loto del corazón y el pequeño éter dentro del corazón, ¿qué hay en ella que merezca ser buscado o comprendido?»
 
@@ -44,7 +44,7 @@ OCTAVO PRAP AKA.
 
 4\. Y si le dijeran: «Si todo lo que existe está contenido en esa ciudad de Brahman, todos los seres y todos los deseos (todo lo que se pueda imaginar o desear), ¿qué queda de ello cuando la vejez lo alcanza y lo dispersa, o cuando se desmorona?»
 
-5\. Entonces debería decir: «Por la vejez del cuerpo, eso (el éter, o Brahman en su interior) no envejece; por la muerte del cuerpo, eso (el éter, o Brahman en su interior) no muere. Ese (el Brahman) <span id="p127">[<sup><small>p. 127</small></sup>]</span> es la verdadera ciudad de Brahma (no el cuerpo [^327]). En ella se contienen todos los deseos. Es el Ser, libre de pecado, libre de vejez, de muerte y pena, de hambre y sed, que no desea nada más que lo que debe desear, ni imagina nada más que lo que debe imaginar. Ahora bien, como aquí en la tierra la gente sigue lo que se le manda y depende del objeto al que se apega, ya sea un país o un terreno,
+5\. Entonces debería decir: «Por la vejez del cuerpo, eso (el éter, o Brahman en su interior) no envejece; por la muerte del cuerpo, eso (el éter, o Brahman en su interior) no muere. Ese (el Brahman) <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> es la verdadera ciudad de Brahma (no el cuerpo [^327]). En ella se contienen todos los deseos. Es el Ser, libre de pecado, libre de vejez, de muerte y pena, de hambre y sed, que no desea nada más que lo que debe desear, ni imagina nada más que lo que debe imaginar. Ahora bien, como aquí en la tierra la gente sigue lo que se le manda y depende del objeto al que se apega, ya sea un país o un terreno,
 
 6\. 'Y así como aquí en la tierra, todo lo adquirido con esfuerzo perece, así también perece todo lo adquirido para el otro mundo mediante sacrificios y otras buenas acciones realizadas en la tierra. Quienes parten de aquí sin haber descubierto el Ser y esos verdaderos deseos, no encontrarán libertad en todos los mundos. Pero quienes parten de aquí, tras haber descubierto el Ser y esos verdaderos deseos [^328], sí encontrarán libertad en todos los mundos.
 
@@ -52,7 +52,7 @@ OCTAVO PRAP AKA.
 
 1\. 'Así, pues, quien desea el mundo [^329] de los padres, por su mera voluntad los padres vienen a recibirlo, y habiendo obtenido el mundo de los padres, es feliz.
 
-2\. 'Y quien desea el mundo de las madres, por su mera voluntad las madres vienen a recibirlo, <span id="p128">[<sup><small>p. 128</small></sup>]</span> y habiendo obtenido el mundo de las madres, es feliz.
+2\. 'Y quien desea el mundo de las madres, por su mera voluntad las madres vienen a recibirlo, <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> y habiendo obtenido el mundo de las madres, es feliz.
 
 3\. 'Y quien desea el mundo de los hermanos, por su sola voluntad los hermanos vienen a recibirlo, y habiendo obtenido el mundo de los hermanos, es feliz.
 
@@ -81,7 +81,7 @@ OCTAVO PRAP AKA.
 
 3\. 'Ese Ser reside en el corazón'. Y esta es la explicación etimológica. El corazón se llama hirdayam, en lugar de hiridayam, es decir, Aquel que está en el corazón. Quien sabe esto, que Él está en el corazón, va día a día (en sushupti, el sueño profundo) al cielo (svarga), es decir, al Brahman del corazón.
 
-4\. «Ahora bien, ese ser sereno [^331] que, tras haber <span id="p130">[<sup><small>p. 130</small></sup>]</span> surgido de este cuerpo terrenal y haber alcanzado la luz suprema (autoconocimiento), aparece en su verdadera forma, ese es el Ser», así habló (cuando sus discípulos le preguntaron). Este es el inmortal, el intrépido, este es Brahman. Y de ese Brahman el nombre es el Verdadero, Satyam,
+4\. «Ahora bien, ese ser sereno [^331] que, tras haber <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> surgido de este cuerpo terrenal y haber alcanzado la luz suprema (autoconocimiento), aparece en su verdadera forma, ese es el Ser», así habló (cuando sus discípulos le preguntaron). Este es el inmortal, el intrépido, este es Brahman. Y de ese Brahman el nombre es el Verdadero, Satyam,
 
 5\. Este nombre Sattyam consta de tres sílabas: sat-tî-yam [^332]. Sat significa lo inmortal, t, lo mortal, y con yam une a ambos. Porque une a ambos, lo inmortal y lo mortal, por lo tanto es yam. Quien conoce esto asciende día a día al cielo (svarga).
 
@@ -134,7 +134,7 @@ Y mientras su mente flaquea, se dirige al sol. Pues el sol es la puerta del mund
 
 2\. Los Devas (dioses) y los Asuras (demonios) oyeron estas palabras y dijeron: «Bueno, busquemos ese Ser por el cual, si uno lo ha buscado, se obtienen todos los mundos y todos los deseos».
 
-Diciendo esto, Indra se apartó de los Devas, Viro<i>k</i>ana de los Asuras, y ambos, sin haberse comunicado entre sí, se acercaron a Pra<i>g</i>âpati, <span id="p135">[<sup><small>p. 135</small></sup>]</span> sosteniendo combustible en sus manos, como es costumbre entre los discípulos que se acercan a su maestro.
+Diciendo esto, Indra se apartó de los Devas, Viro<i>k</i>ana de los Asuras, y ambos, sin haberse comunicado entre sí, se acercaron a Pra<i>g</i>âpati, <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> sosteniendo combustible en sus manos, como es costumbre entre los discípulos que se acercan a su maestro.
 
 3\. Vivieron allí como discípulos durante treinta y dos años. Entonces Pra<i>g</i>âpati les preguntó: «¿Con qué propósito han vivido aquí?»
 
@@ -195,7 +195,7 @@ Vivió con él otros treinta y dos años, y entonces Pra<i>g</i>âpati dijo:
 
 Entonces Indra se marchó satisfecho de corazón. Pero antes de regresar con los Devas, vio esta dificultad. Si bien es cierto que ese ser no es ciego, aunque el cuerpo lo sea, ni cojo, aunque el cuerpo lo sea, si bien es cierto que ese ser no se ve afectado por las fallas de su cuerpo,
 
-2\. Ni golpeado cuando es golpeado, ni cojo cuando es cojo; sin embargo, es como si lo golpearan en sueños, como si lo persiguieran [^350]. <span id="p139">[<sup><small>p. 139</small></sup>]</span> Incluso se vuelve consciente, por así decirlo, del dolor y derrama lágrimas. Por lo tanto, no veo nada bueno en esto.
+2\. Ni golpeado cuando es golpeado, ni cojo cuando es cojo; sin embargo, es como si lo golpearan en sueños, como si lo persiguieran [^350]. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> Incluso se vuelve consciente, por así decirlo, del dolor y derrama lágrimas. Por lo tanto, no veo nada bueno en esto.
 
 3\. Tomando combustible en sus manos, regresó como discípulo a Pra<i>g</i>âpati. Pra<i>g</i>âpati le dijo: «Maghavat, ya que te marchaste satisfecho de corazón, ¿con qué propósito regresaste?»
 
@@ -225,7 +225,7 @@ Vivió allí otros cinco años. En total, fueron ciento un años, y por eso se d
 
 ## DUODÉCIMO KHAND.
 
-1\. 'Maghavat, este cuerpo es mortal y siempre está sujeto a la muerte. Es la morada de ese Ser que es <span id="p141">[<sup><small>p. 141</small></sup>]</span> inmortal y sin cuerpo [^353]. Cuando está en el cuerpo (al pensar que este cuerpo es yo y que yo soy este cuerpo), el Ser está sujeto al placer y al dolor. Mientras está en el cuerpo, no puede liberarse del placer ni del dolor. Pero cuando está libre del cuerpo (cuando se sabe diferente del cuerpo), entonces ni el placer ni el dolor lo alcanzan [^354].
+1\. 'Maghavat, este cuerpo es mortal y siempre está sujeto a la muerte. Es la morada de ese Ser que es <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> inmortal y sin cuerpo [^353]. Cuando está en el cuerpo (al pensar que este cuerpo es yo y que yo soy este cuerpo), el Ser está sujeto al placer y al dolor. Mientras está en el cuerpo, no puede liberarse del placer ni del dolor. Pero cuando está libre del cuerpo (cuando se sabe diferente del cuerpo), entonces ni el placer ni el dolor lo alcanzan [^354].
 
 2\. 'El viento no tiene cuerpo, la nube, el relámpago y el trueno no tienen cuerpo (sin manos, pies, etc.). Ahora bien, como éstos, surgiendo de este éter celestial (espacio), aparecen en su propia forma, tan pronto como se han acercado a la luz más alta,
 

@@ -50,7 +50,7 @@ El Tao en sí mismo es vago, impalpable; ¡qué impalpable, qué vago! Sin embar
 
 Desde tiempos inmemoriales hasta nuestros días, su nombre nunca ha desaparecido. Vela por el origen de todas las cosas. ¿Cómo sé esto sobre el origen de las cosas? A través del Tao.
 
-Hay algo, caótico pero completo, que existió antes del Cielo y la Tierra. ¡Oh, qué quieto y sin forma es, permaneciendo solo, sin cambiar, extendiéndose por todas partes sin sufrir daño! Debe ser considerado como la Madre del Universo. Desconozco su nombre. Para designarlo, lo llamo Tao. Intentando describirlo, lo llamo Grande. <span id="p21">[<sup><small>p. 21</small></sup>]</span> Siendo grande, desaparece; al desaparecer, se aleja; al alejarse, regresa.
+Hay algo, caótico pero completo, que existió antes del Cielo y la Tierra. ¡Oh, qué quieto y sin forma es, permaneciendo solo, sin cambiar, extendiéndose por todas partes sin sufrir daño! Debe ser considerado como la Madre del Universo. Desconozco su nombre. Para designarlo, lo llamo Tao. Intentando describirlo, lo llamo Grande. <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Siendo grande, desaparece; al desaparecer, se aleja; al alejarse, regresa.
 
 Por lo tanto, el Tao es grande; el Cielo es grande; la Tierra es grande; y el Soberano también es grande. En el Universo hay cuatro poderes, de los cuales el Soberano es uno. El hombre toma su ley de la Tierra; la Tierra toma su ley del Cielo; el Cielo toma su ley del Tao; pero la ley del Tao es su propia espontaneidad.
 
@@ -86,7 +86,7 @@ Por lo tanto, no hay nada que no rinda homenaje al Tao y ensalce su Virtud. Este
 
 Así es como el Tao, engendrando todas las cosas, las nutre, las desarrolla y las fomenta; las perfecciona, las madura, las cuida y las protege.
 
-Producción sin posesión, acción sin <span id="p23">[<sup><small>p. 23</small></sup>]</span> autoafirmación, desarrollo sin dominación: he aquí su misterioso funcionamiento.
+Producción sin posesión, acción sin <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> autoafirmación, desarrollo sin dominación: he aquí su misterioso funcionamiento.
 
 El mundo tiene una Causa Primera, que puede considerarse la Madre del Mundo. Cuando se tiene a la Madre, se puede conocer al Niño. Quien conoce al Niño y conserva a la Madre, aunque su cuerpo perezca, no correrá ningún riesgo.
 

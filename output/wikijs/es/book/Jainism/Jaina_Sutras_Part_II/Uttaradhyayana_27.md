@@ -50,7 +50,7 @@ Había un Sthavira y Ga<i>n</i>adhara [^386], el sabio erudito Garga. Este líde
 
 'Así como los malos bueyes son puestos delante de un carro, así también los malos alumnos son puestos bajo el yugo, por así decirlo, del carro de la Ley; se derrumban por falta de celo. (8)
 
-'Algunos dan gran importancia [^391] a su éxito; <span id="p151">[<sup><small>p. 151</small></sup>]</span> algunos a su buena comida; algunos a su comodidad; algunos alimentan su ira. (9)
+'Algunos dan gran importancia [^391] a su éxito; <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> algunos a su buena comida; algunos a su comodidad; algunos alimentan su ira. (9)
 
 'Algunos son reacios a mendigar; otros tienen miedo a los insultos y son arrogantes; (¿cómo puedo) convencerlos con razones y argumentos [^392] (?) (10)
 

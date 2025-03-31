@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. (El esposo) sirve comida a los Brâhma<i>n</i>as y les hace pronunciar deseos auspiciosos; luego, después de que (las ceremonias) desde poner (la leña) en el fuego hasta las oblaciones Â<i>n</i>yabhâga (se han realizado), él ofrece las oblaciones (indicadas en los) siguientes (Mantras, M. II, 11, 1-8), mientras (la esposa) lo sostiene y comienza (la ejecución) del <i>G</i>aya y las oblaciones siguientes.
 
-3\. Tras realizar los ritos, incluyendo la aspersión de agua alrededor del fuego, la hace sentarse al oeste del fuego, mirando hacia el este, y le separa el cabello hacia arriba (es decir, comenzando desde el frente) con una púa de puercoespín con tres manchas blancas, <span id="p280">[<sup><small>p. 280</small></sup>]</span> con tres hojas de darbha, y con un manojo de frutos verdes de udumbara, con los vyâh<i>ri</i>tis o con los dos siguientes (versos II, 11, 9. 10).
+3\. Tras realizar los ritos, incluyendo la aspersión de agua alrededor del fuego, la hace sentarse al oeste del fuego, mirando hacia el este, y le separa el cabello hacia arriba (es decir, comenzando desde el frente) con una púa de puercoespín con tres manchas blancas, <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> con tres hojas de darbha, y con un manojo de frutos verdes de udumbara, con los vyâh<i>ri</i>tis o con los dos siguientes (versos II, 11, 9. 10).
 
 4\. Dice a los dos que tocan el laúd: «¡Canten!»
 
@@ -85,7 +85,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Al décimo día, después de que la madre se haya levantado y bañado, le da un nombre al hijo. El padre y la madre deben pronunciar ese nombre primero.
 
-9\. (Debe ser un nombre) de dos o cuatro sílabas; la primera parte debe ser un sustantivo; la segunda, un verbo; debe tener una vocal larga (o) la visarga al final, debe comenzar con una sonora y contener una semivocal. <span id="p283">[<sup><small>p. 283</small></sup>]</span>
+9\. (Debe ser un nombre) de dos o cuatro sílabas; la primera parte debe ser un sustantivo; la segunda, un verbo; debe tener una vocal larga (o) la visarga al final, debe comenzar con una sonora y contener una semivocal. <span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 10, O bien debería contener la partícula su, pues tal nombre tiene un fundamento firme; así se dice en un Brâhma<i>n</i>a.
 
@@ -126,7 +126,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 13\. [^776] O puede realizar el Godâna consagrado a Agni.
 
-14\. [^777] Algunos prescriben el cumplimiento de un voto durante un año en relación con el Godâna. <span id="p285">[<sup><small>p. 285</small></sup>]</span>
+14\. [^777] Algunos prescriben el cumplimiento de un voto durante un año en relación con el Godâna. <span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 15\. La diferencia (entre el Kaula y el Godâna) es que (en el Godâna) se afeita todo el cabello (sin dejar los mechones).
 

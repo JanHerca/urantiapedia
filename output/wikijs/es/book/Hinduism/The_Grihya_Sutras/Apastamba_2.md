@@ -93,7 +93,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Y la oblación (se realiza) con el siguiente (verso; M. I, 5, 7).
 
-9\. (Luego sigue) nuevamente la circunvalación (M. I, 5, 8-10), la orden de pisar la piedra <span id="p261">[<sup><small>p. 261</small></sup>]</span> (I, 5, 11), y la oblación con el siguiente (verso; I, 5, 12);
+9\. (Luego sigue) nuevamente la circunvalación (M. I, 5, 8-10), la orden de pisar la piedra <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> (I, 5, 11), y la oblación con el siguiente (verso; I, 5, 12);
 
 10\. (Luego) la circunvalación de nuevo (I, 5, 13-15).
 
@@ -119,7 +119,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 21\. Primero el correcto.
 
-22\. Cuando ella sube (al carro), él recita sobre ella los siguientes (versos; M. I, 6, 4-7). <span id="p262">[<sup><small>p. 262</small></sup>]</span>
+22\. Cuando ella sube (al carro), él recita sobre ella los siguientes (versos; M. I, 6, 4-7). <span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 23\. Con el siguiente (verso; M. I, 6, 8), extiende dos hilos en las huellas de las ruedas (por donde debe ir el carro): uno azul oscuro en la derecha (la pista) y uno rojo en la izquierda.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 5\. Si pasan junto a árboles con savia lechosa u otros árboles que sirven de señal, junto a ríos o junto a desiertos, debe murmurar los dos versículos siguientes (M. I, 7, 8, 9), según las características que se refieren a estos diferentes casos.
 
-6\. En la siguiente estrofa, le muestra la casa (M. I, 7, 10). <span id="p263">[<sup><small>p. 263</small></sup>]</span>
+6\. En la siguiente estrofa, le muestra la casa (M. I, 7, 10). <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 7\. Con los dos siguientes (versículos; M. I, 7, 11. 12) desunce los dos animales; primero el derecho.
 

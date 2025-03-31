@@ -72,7 +72,7 @@ Y una vez el joven peregrino puso su mano sobre algo liso que no era piedra, y l
 
 —¡No te demores, hijo mío! —le instó la voz del maestro—. ¡La cima que debemos alcanzar está muy lejos!
 
-Continuaron subiendo en la oscuridad, y sintieron continuamente debajo de ellos las suaves y extrañas <span id="p5">[<sup><small>p. 5</small></sup>]</span>llamas, y vieron los fuegos helados crecer y morir, hasta que el borde de la noche se volvió gris, y las estrellas comenzaron a fallar, y el este comenzó a florecer.
+Continuaron subiendo en la oscuridad, y sintieron continuamente debajo de ellos las suaves y extrañas <span id="p5"><sup><small>[ p. 5 ]</small></sup></span>llamas, y vieron los fuegos helados crecer y morir, hasta que el borde de la noche se volvió gris, y las estrellas comenzaron a fallar, y el este comenzó a florecer.
 
 Aun así, seguían ascendiendo, rápido, rápido, con la ayuda de un poder sobrehumano. Los rodeaba ahora una frialdad mortal, y un silencio tremendo... Una llama dorada se encendió en el este.
 

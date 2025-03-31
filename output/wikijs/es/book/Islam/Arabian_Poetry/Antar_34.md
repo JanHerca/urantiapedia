@@ -52,7 +52,7 @@ Keshaab, hijo de Ghayath, yace postrado—en el día de los horrores derribados 
 
 Estas serán siempre mis acciones con el enemigo mientras el sol brille, y mientras la estrella de la mañana brille al amanecer.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Yo soy el hijo de Shedad, y el león a quien todo aquel que habita en el desierto o en las ciudades se inclina en sumisión.
 

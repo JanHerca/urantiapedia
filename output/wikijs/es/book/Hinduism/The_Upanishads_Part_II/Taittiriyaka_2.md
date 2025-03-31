@@ -44,7 +44,7 @@ Quien conoce a Brahman alcanza el Brahman supremo. Sobre esto se registra el sig
 
 'El que conoce a Brahman, que es (es decir, causa, no efecto), que es consciente, que es sin fin, como oculto en la profundidad (del corazón), en el éter más elevado, disfruta de todas las bendiciones, en unidad con el omnisciente Brahman.'
 
-De ese Ser [^213] (Brahman) surgió el éter (âkâ<i>s</i>a, aquello a través de lo cual oímos); del éter el aire (aquello a través de lo cual oímos y sentimos); del aire el fuego (aquello a través de lo cual oímos, sentimos y vemos); del fuego el agua (aquello a través de lo cual oímos, sentimos, vemos y saboreamos); del agua la tierra (aquello a través de lo cual oímos, sentimos, vemos, saboreamos y olemos). De la tierra las hierbas, de las hierbas el alimento, del alimento la semilla, de la semilla el hombre. El hombre, pues, consiste en la esencia del alimento. Esta es su cabeza, <span id="p55">[<sup><small>p. 55</small></sup>]</span> este su brazo derecho, este su brazo izquierdo, este su tronco (Âtman), este el asiento (el soporte) [1](Taittiriyaka_2#fn214).
+De ese Ser [^213] (Brahman) surgió el éter (âkâ<i>s</i>a, aquello a través de lo cual oímos); del éter el aire (aquello a través de lo cual oímos y sentimos); del aire el fuego (aquello a través de lo cual oímos, sentimos y vemos); del fuego el agua (aquello a través de lo cual oímos, sentimos, vemos y saboreamos); del agua la tierra (aquello a través de lo cual oímos, sentimos, vemos, saboreamos y olemos). De la tierra las hierbas, de las hierbas el alimento, del alimento la semilla, de la semilla el hombre. El hombre, pues, consiste en la esencia del alimento. Esta es su cabeza, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> este su brazo derecho, este su brazo izquierdo, este su tronco (Âtman), este el asiento (el soporte) [1](Taittiriyaka_2#fn214).
 
 Sobre esto también existe el siguiente <i>S</i>loka:
 
@@ -113,7 +113,7 @@ Sobre esto también existe este <i>S</i>loka:
 
 ## SÉPTIMO ANUVÂKA.
 
-En el principio esto era inexistente (aún no definido por forma ni nombre). De él nació lo que existe. Eso se hizo a sí mismo, por eso se le llama lo Autohecho [^221]. Lo Autohecho es un sabor [^222] (se puede saborear), pues solo después de percibir un sabor se puede percibir el placer. ¿Quién podría respirar, quién podría exhalar, si esa dicha (Brahman) <span id="p59">[<sup><small>p. 59</small></sup>]</span> no existiera en el éter (en el corazón)? Pues solo él causa la bienaventuranza.
+En el principio esto era inexistente (aún no definido por forma ni nombre). De él nació lo que existe. Eso se hizo a sí mismo, por eso se le llama lo Autohecho [^221]. Lo Autohecho es un sabor [^222] (se puede saborear), pues solo después de percibir un sabor se puede percibir el placer. ¿Quién podría respirar, quién podría exhalar, si esa dicha (Brahman) <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> no existiera en el éter (en el corazón)? Pues solo él causa la bienaventuranza.
 
 Cuando encuentra la liberación del miedo y el descanso en lo invisible, incorpóreo, indefinido, sin soporte, entonces ha alcanzado la intrepidez. Pues si hace la más mínima distinción en ello, hay miedo para él} [^223]. Pero ese miedo existe solo para quien se cree sabio [^224], (no para el verdadero sabio).
 
@@ -128,7 +128,7 @@ Ahora bien, este es un examen de (lo que se entiende por) Bienaventuranza (ânan
 
 Que haya un joven noble, que sea muy leído (en el Veda), muy rápido, firme y fuerte, y que el mundo entero esté lleno de riquezas para él, esa es una medida de la felicidad humana.
 
-Cien veces esa dicha humana (2) es una medida de la dicha de los Gandharvas humanos (genios), <span id="p60">[<sup><small>p. 60</small></sup>]</span> y también de un gran sabio (erudito en los Vedas) que está libre de deseos.
+Cien veces esa dicha humana (2) es una medida de la dicha de los Gandharvas humanos (genios), <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> y también de un gran sabio (erudito en los Vedas) que está libre de deseos.
 
 Cien veces la dicha de los Gandharvas humanos es una medida de la dicha de los Gandharvas divinos (genios), y también de un gran sabio que está libre de deseos.
 
@@ -146,7 +146,7 @@ Cien veces la dicha de Indra es una medida de la dicha de Brihaspati, y también
 
 Cien veces la dicha de Brihaspati es una medida de la dicha de Pragâpati, y también de un gran sabio que está libre de deseos.
 
-Cien veces la dicha de Pra<i>g</i>âpati es una <span id="p61">[<sup><small>p. 61</small></sup>]</span> medida de la dicha de Brahman, y también de un gran sabio que está libre de deseos.
+Cien veces la dicha de Pra<i>g</i>âpati es una <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> medida de la dicha de Brahman, y también de un gran sabio que está libre de deseos.
 
 (5) Él [^226] que es este (Brahman) en el hombre, y él que es aquel (Brahman) en el sol, ambos son uno [^227].
 

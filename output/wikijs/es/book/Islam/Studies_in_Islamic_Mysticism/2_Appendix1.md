@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T20:3:38Z
   </table>
 </figure>
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 Se ha hecho mención ([p. 99](./2_3#p99), nota [2](./2_3#fn288) _supra_) de la oda de Jílí titulada al-Nawádiru ’l-‘ ayniyya fi ’l-bawádiri ’l-ghaybiyya. En el _Insánu ’l-Kámil_ cita 36 de sus 534 versos (I. 30, 3; 39, 6 fr. foot; 52, 17; 66, 19; y 76, 15) y la describe como una composición magnífica y única, demasiado sublime para ser entendida completamente. Sin embargo, es poco más que un resumen en verso de la materia expuesta en el _Insánu ’l-Kámil_, aunque en algunos casos el autor se expresa con una libertad y una audacia que difícilmente se tolerarían en un tratado en prosa. Como poema, aparte de su estilo poco elegante, adolece de exponer una teoría de filosofía mística y no puede compararse con _Tá’iyya_ de Ibnu ’l-Fáriḍ, la poesía del misticismo puro. Los extractos que se dan a continuación han sido copiados de un manuscrito del Museo Británico (Or. 3684; Supl. de Rieu al Catálogo de Manuscritos Árabes No. 245) que contiene el texto junto con un comentario de ‘Abdu ’l-Ghaní al-Nábulusí.
 
@@ -42,7 +42,7 @@ Se ha hecho mención ([p. 99](./2_3#p99), nota [2](./2_3#fn288) _supra_) de la o
 
 _v_. ٢. En lugar de «no hay más dios que Alá», el poeta dice: «no hay nada más que Belleza Absoluta (_jamál_) y belleza fenomenal (_ḥusn_)», siendo estos los aspectos internos y externos del Amado.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14400.jpg">
@@ -54,7 +54,7 @@ _v_. ١١. K (1. 76, 16): ![](/image/book/Islam/Studies_in_Islamic_Mysticism/144
 
 _v_. ١٣. El MS. y K leen ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14402.jpg).
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14500.jpg">
@@ -64,7 +64,7 @@ _v_. ١٦. El manuscrito dice ![](/image/book/Islam/Studies_in_Islamic_Mysticism
 
 _v_. ٢٠. La rima en este poema es _muqayyad_. Ni siquiera Jílí podría haber escrito ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14503.jpg) aquí, o ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14504.jpg), (4, _v_. ٢٢). Él ignora la regla de que en esta forma de Ṭawíl el tercer pie del segundo hemistiquio debe ser   ̆  ̄  ̆ (no   ̆  ̄  ̄).
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14600.jpg">
@@ -78,7 +78,7 @@ _v_. ٨ ss. Los términos «ascenso» y «descenso» se aplican incorrectamente 
 
 _v_. ١٤. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14606.jpg) es una corrección de la lectura del manuscrito ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14607.jpg).
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14700.jpg">
@@ -94,7 +94,7 @@ _v_. ٢ ss. Cf. [p. 151](./2_Apéndice2#p151) _infra_.
 
 _v_. ١٢ ss. Cf. [p. 126](./2_6#p126) _supra_.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14800.jpg">

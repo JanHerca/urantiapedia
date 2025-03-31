@@ -56,7 +56,7 @@ PRIMER ADHYÂYA.
 
 4\. Quien desee prosperidad debe usar el himno, pra vo devâyâgnaye (Ap. III, 13, 1).
 
-5\. Quien desee aumentar su poder debe usar el himno «vi<i>s</i>o vi<i>s</i>o atithim» (Ap. VIII, 74, 1). <span id="p158">[<sup><small>p. 158</small></sup>]</span> 6\. El pueblo (visa<i>h</i>) ciertamente aumenta [^378], y por lo tanto, él (el sacrificador) aumenta su poder.
+5\. Quien desee aumentar su poder debe usar el himno «vi<i>s</i>o vi<i>s</i>o atithim» (Ap. VIII, 74, 1). <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> 6\. El pueblo (visa<i>h</i>) ciertamente aumenta [^378], y por lo tanto, él (el sacrificador) aumenta su poder.
 
 7\. Pero (algunos dicen) existe la palabra atithi (en ese himno, que significa un invitado o un extraño que pide comida). Que no acepte ese himno. En verdad, el atithi (extranjero) puede [^379] mendigar.
 
@@ -74,7 +74,7 @@ PRIMER ADHYÂYA.
 
 14\. Los tres tristíchs (siguientes) comienzan con un Anushtubh [^381]. Ahora bien, Brahman es Gâyatrî, el habla es Anushtubh. De este modo, une el habla con Brahman.
 
-15\. Quien desee gloria debe usar el himno abodhy agni<i>h</i> samidhâ ganânâm (Rv. V, 1, 1). <span id="p159">[<sup><small>p. 159</small></sup>]</span> 16\. Quien desee descendencia y ganado debe usar el himno hotâ<i>g</i>anishta <i>k</i>etana<i>h</i> (Rv. II, 5, 1).
+15\. Quien desee gloria debe usar el himno abodhy agni<i>h</i> samidhâ ganânâm (Rv. V, 1, 1). <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 16\. Quien desee descendencia y ganado debe usar el himno hotâ<i>g</i>anishta <i>k</i>etana<i>h</i> (Rv. II, 5, 1).
 
 
 
@@ -103,7 +103,7 @@ En las demás recitaciones que acompañan a las ofrendas de â<i>g</i>ya (donde 
 
 10\. Quien sabe esto, obtiene esos deseos.
 
-11\. Los versos (contenidos en el himno agnim naro dîdhitibhi<i>h</i>) se convierten en la métrica B<i>ri</i>hatî [^387] y <span id="p161">[<sup><small>p. 161</small></sup>]</span> en la métrica Virâ<i>g</i>; se convierten en la perfección que pertenece a ese día (el mahâvrata). Entonces también se convierten en Anush<i>t</i>ubh [^388], pues las ofrendas de â<i>g</i>ya (ghee) residen en Anush<i>t</i>ubhs [^389].
+11\. Los versos (contenidos en el himno agnim naro dîdhitibhi<i>h</i>) se convierten en la métrica B<i>ri</i>hatî [^387] y <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> en la métrica Virâ<i>g</i>; se convierten en la perfección que pertenece a ese día (el mahâvrata). Entonces también se convierten en Anush<i>t</i>ubh [^388], pues las ofrendas de â<i>g</i>ya (ghee) residen en Anush<i>t</i>ubhs [^389].
 
 
 
@@ -115,7 +115,7 @@ En las demás recitaciones que acompañan a las ofrendas de â<i>g</i>ya (donde 
 
 2\. Otros dicen: «Que tome un himno Ush<i>n</i>ih para el Pra-uga. En verdad, Ush<i>n</i>ih es vida, y así el sacrificador tiene una larga vida».
 
-Otros dicen: «Que tome un himno de Anush<i>t</i>ubh <span id="p162">[<sup><small>p. 162</small></sup>]</span> para el Pra-uga. En verdad, Anush<i>t</i>ubh es valor, y sirve para obtenerlo».
+Otros dicen: «Que tome un himno de Anush<i>t</i>ubh <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> para el Pra-uga. En verdad, Anush<i>t</i>ubh es valor, y sirve para obtenerlo».
 
 Otros dicen: «Que cante un himno Brihatī para el Pra-uga. En verdad, Brihatī es fortuna, y así el sacrificador se vuelve afortunado».
 
@@ -135,7 +135,7 @@ Pero decimos: «Que solo cante un himno Gayatri. En verdad, Gayatri es Brahman, 
 
 7\. 'Quien sabe esto, obtiene todos los deseos.'
 
-Este (Gâyatrî pra-uga), según el ceremonial de un día (ekâha) [^391], es perfecto en su forma [^392]. En ese día (el mahâvrata) se realizan muchas cosas de vez en cuando, las cuales <span id="p163">[<sup><small>p. 163</small></sup>]</span> deben ocultarse [^393] y expiarse mediante la recitación de himnos. La expiación (<i>s</i>ânti) es el descanso, el sacrificio de un día. Por lo tanto, al final del año (el penúltimo día del sacrificio que dura todo un año), los sacrificadores descansan en esta expiación como su descanso.
+Este (Gâyatrî pra-uga), según el ceremonial de un día (ekâha) [^391], es perfecto en su forma [^392]. En ese día (el mahâvrata) se realizan muchas cosas de vez en cuando, las cuales <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> deben ocultarse [^393] y expiarse mediante la recitación de himnos. La expiación (<i>s</i>ânti) es el descanso, el sacrificio de un día. Por lo tanto, al final del año (el penúltimo día del sacrificio que dura todo un año), los sacrificadores descansan en esta expiación como su descanso.
 
 8\. Quien sabe esto descansa firme, y también aquellos para quienes un sacerdote Hotri que sabe esto recita este himno.
 
@@ -151,7 +151,7 @@ Este (Gâyatrî pra-uga), según el ceremonial de un día (ekâha) [^391], es pe
 
 3\. Rv. I, 2, 4-6. Indravâyû ime sutâ, â yâtam upa nishkritam, «Indra y Vâyu, estos Somas están preparados, vengan hacia lo que ha sido preparado». Por nishkrita, preparado, se refiere a lo que ha sido bien preparado (samskrita).
 
-4\. Indra y Vâyu acuden a lo que ha sido preparado por quien sabe esto, o para quien un sacerdote Hotri que sabe esto recita. <span id="p164">[<sup><small>p. 164</small></sup>]</span> 5\. Rv. I, 2, 7. Mitra<i>m</i> huve pûtadaksham, dhiya<i>m</i> gh<i>ri</i>tâkî<i>m</i> sâdhantâ, «Invoco a Mitra de santa fuerza; (él y Varu<i>n</i>a) cumplen la oración acompañada de mantequilla clarificada». En verdad, la palabra es la oración acompañada de mantequilla clarificada.
+4\. Indra y Vâyu acuden a lo que ha sido preparado por quien sabe esto, o para quien un sacerdote Hotri que sabe esto recita. <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> 5\. Rv. I, 2, 7. Mitra<i>m</i> huve pûtadaksham, dhiya<i>m</i> gh<i>ri</i>tâkî<i>m</i> sâdhantâ, «Invoco a Mitra de santa fuerza; (él y Varu<i>n</i>a) cumplen la oración acompañada de mantequilla clarificada». En verdad, la palabra es la oración acompañada de mantequilla clarificada.
 
 6\. Se le da la palabra a quien sabe esto, o para quien un sacerdote Hotri que sabe esto recita.
 
@@ -169,7 +169,7 @@ Este (Gâyatrî pra-uga), según el ceremonial de un día (ekâha) [^391], es pe
 
 13\. En verdad, los Devas Visivos acuden al llamado de aquel que sabe esto, o para quien un sacerdote Hotri que sabe esto recita.
 
-14\. Rv. I, 3, 7. Dâsvâ<i>m</i>so dâ<i>s</i>usha<i>h</i> sutam, "¡Vengan, dadores, a la libación del dador!". Con dâ<i>s</i>usha<i>h</i> se refiere a dadusha<i>h</i>, es decir, a la libación de todo aquel que da. <span id="p165">[<sup><small>p. 165</small></sup>]</span> 15\. Los dioses cumplen su deseo, con cualquier deseo que recite este verso,
+14\. Rv. I, 3, 7. Dâsvâ<i>m</i>so dâ<i>s</i>usha<i>h</i> sutam, "¡Vengan, dadores, a la libación del dador!". Con dâ<i>s</i>usha<i>h</i> se refiere a dadusha<i>h</i>, es decir, a la libación de todo aquel que da. <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 15\. Los dioses cumplen su deseo, con cualquier deseo que recite este verso,
 
 16\. (El deseo de aquel) que sabe esto, o para quien un sacerdote Hotri que sabe esto, recita.
 

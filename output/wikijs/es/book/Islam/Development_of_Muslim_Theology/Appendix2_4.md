@@ -36,7 +36,7 @@ THEODOR HAARBRÜCKER: _Asch-Schahrastâni's Religionsparteien und Philosophensch
 
 T. J. DE BOER: Historia de la filosofía en el Islam. Stuttgart, 1901. Insatisfactorio, pero lo mejor que existe. Es sólo un esbozo y apenas tiene en cuenta la teología y el misticismo.
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 STANLEY LANE-POOLE: _Estudios en una mezquita_. II edición. Londres, 1893. Ensayos varios, escritos con ligereza pero confiables.
 
@@ -68,7 +68,7 @@ HEINRICH RITTER: _Ueber unsere Kenntniss der Arabischen Philosophie_. Gotinga, 1
 
 FRIEDRICH DIETERICI: _Los phitosophische Abhandlungen herausgegeben de Alfarabi_. Leiden, 1890. _Aus den arabischen übersetzt_. Leyden, 1892.
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 AL-FARABI: _Der Musterstaat. Herausgegeben und Übersetzt von Frdr. Dieterici_. Leiden, 1900.
 
@@ -98,7 +98,7 @@ A. VON KREMER: _Gedichte des Abu-i-Ala Ma'arri_. ZDMG, xxix, 304; xxx, 40; xxxi,
 
 ABU-L-ALA AL-MA'ARRI: _Cartas en árabe e inglés, con notas, etc., editadas por D. S. Margoliouth_. Oxford, 1898. Véanse también los artículos de R. A. Nicholson en JRAS, octubre de 1900, ff.; y de Margoliouth, para abril de 1902.
 
-E. FITZGERALD: _El Ruba‘iyat de Omar Khayyam_. _Con un comentario de H. M. Batson y una introducción biográfica de_ <span id="p366">[<sup><small>p. 366</small></sup>]</span> _E. D. Ross_. Nueva York, 1900. La biografía de Ross es el único tratamiento adecuado de la vida y la época de Umar que existe hasta ahora. De los propios Ruba‘iyat hay varias traducciones adecuadas, por ejemplo, de Whinfield, Payne y la Sra. Cadell.
+E. FITZGERALD: _El Ruba‘iyat de Omar Khayyam_. _Con un comentario de H. M. Batson y una introducción biográfica de_ <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> _E. D. Ross_. Nueva York, 1900. La biografía de Ross es el único tratamiento adecuado de la vida y la época de Umar que existe hasta ahora. De los propios Ruba‘iyat hay varias traducciones adecuadas, por ejemplo, de Whinfield, Payne y la Sra. Cadell.
 
 MARTIN SCHREINER: _Zur Geschichte der Polemik zwischen Juden und Muhammedanem_. ZDMG, xlii, págs. 591 y sigs. Se ocupa de Ibn Hazm y Fakhr ad-Din ar-Razi.
 
@@ -128,7 +128,7 @@ ERNEST RENAN: Averroes et l’Averroisme. III edición. París, 1861. Reseñado 
 
 _Filosofía y Teología de Averroes_. _Aus dem Arabischen_
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 _übersetzt von M.J. Müller_. München, 1875. El texto árabe fue publicado por Müller en 1859.
 

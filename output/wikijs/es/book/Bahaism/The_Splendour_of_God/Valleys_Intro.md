@@ -50,7 +50,7 @@ Alabado sea Dios, quien hizo que la existencia surgiera de la no existencia, ins
 
 _La paz sea con los que siguen la guía.”
 
-Cabe destacar que "las etapas del viaje de los viajeros desde la morada terrenal hasta la Casa Divina han sido designadas como Siete; algunos han hablado de ellas como 'Siete <span id="p54">[<sup><small>p. 54</small></sup>]</span> Valles'... y han dicho: 'Hasta que el viajero no emigre de sí mismo y complete estos viajes, no llegará al mar de la cercanía y la unión'.
+Cabe destacar que "las etapas del viaje de los viajeros desde la morada terrenal hasta la Casa Divina han sido designadas como Siete; algunos han hablado de ellas como 'Siete <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> Valles'... y han dicho: 'Hasta que el viajero no emigre de sí mismo y complete estos viajes, no llegará al mar de la cercanía y la unión'.
 
 
 <figure class="table chapter-navigator">

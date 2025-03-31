@@ -145,7 +145,7 @@ Después de esto Asvala guardó silencio.
 
 6\. 'El oído es un Graha, y es captado por el sonido como el Atigrâha, pues con el oído uno oye los sonidos.'
 
-7\. 'La mente es un solo Graha, y es capturada por el <span id="p126">[<sup><small>p. 126</small></sup>]</span> deseo como el Atigrâha, pues con la mente uno desea deseos.'
+7\. 'La mente es un solo Graha, y es capturada por el <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> deseo como el Atigrâha, pues con la mente uno desea deseos.'
 
 8\. 'Los brazos son un solo Graha, y estos son tomados por el trabajo como el Atigrâha, pues con los brazos uno realiza el trabajo.'
 
@@ -163,7 +163,7 @@ El fuego (agni) es muerte, y ese es el alimento del agua. La muerte ha sido venc
 
 «El nombre», respondió; «porque el nombre es infinito, los Vi<i>s</i>vedevas son infinitos, y por él él gana el mundo infinito.»
 
-13\. 'Yâ<i>g</i>_ñ_avalkya', dijo, 'cuando el habla de esta persona muerta entra en el fuego [^395], el aliento en el aire, el ojo en el sol, la mente en la luna, el oído en el espacio, en la tierra el cuerpo, en el éter el ser, en los arbustos los cabellos del cuerpo, en los árboles los cabellos de la cabeza, cuando la <span id="p127">[<sup><small>p. 127</small></sup>]</span> sangre y la semilla se depositan en el agua, ¿dónde está entonces esa persona?'
+13\. 'Yâ<i>g</i>_ñ_avalkya', dijo, 'cuando el habla de esta persona muerta entra en el fuego [^395], el aliento en el aire, el ojo en el sol, la mente en la luna, el oído en el espacio, en la tierra el cuerpo, en el éter el ser, en los arbustos los cabellos del cuerpo, en los árboles los cabellos de la cabeza, cuando la <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> sangre y la semilla se depositan en el agua, ¿dónde está entonces esa persona?'
 
 Yâ<i>g</i>_ñ_avalkya dijo: «Toma mi mano, amigo mío. Solo nosotros dos sabremos esto; que este asunto nuestro no se discuta en público». Entonces, estos dos salieron y discutieron, y lo que dijeron fue karman (trabajo), lo que elogiaron fue karman [^396], es decir, que una persona se vuelve buena con buenas obras y mala con malas. Después de eso, <i>G</i>âratkârava Ârtabhâga guardó silencio.
 
@@ -208,7 +208,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: “Éste, tu Ser, que está dentro de todo”
 
 «¿Qué Ser, oh Yâ<i>g</i>_ñ_avalkya, está dentro de todos?»
 
-Yâ<i>g</i>_ñ_avalkya respondió: «Aquel que vence el hambre y la sed, la tristeza, la pasión, la vejez y la muerte. Cuando los brahmanes conocen ese Ser y se han elevado por encima del deseo de hijos [^404], riquezas y (nuevos) mundos [^405], vagan como mendigos. Pues el deseo de hijos es deseo de riquezas, el deseo de riquezas es deseo de mundos. Ambos son, en verdad, deseos. Por lo tanto, que un brahmán, después de haber terminado con el aprendizaje, <span id="p130">[<sup><small>p. 130</small></sup>]</span> desee mantenerse con verdadera fuerza [^406]; después de haber terminado con esa fuerza y ​​el aprendizaje, se convierte en un Muni (un yogui); Y después de haber terminado con lo que no es conocimiento de un Muni, y con lo que sí lo es, es un brahmán. Sea cual sea el medio por el que se haya convertido en brahmán, lo es en verdad [407]. Todo lo demás es malo». Después de eso, Kahola Kaushîtakeya guardó silencio.
+Yâ<i>g</i>_ñ_avalkya respondió: «Aquel que vence el hambre y la sed, la tristeza, la pasión, la vejez y la muerte. Cuando los brahmanes conocen ese Ser y se han elevado por encima del deseo de hijos [^404], riquezas y (nuevos) mundos [^405], vagan como mendigos. Pues el deseo de hijos es deseo de riquezas, el deseo de riquezas es deseo de mundos. Ambos son, en verdad, deseos. Por lo tanto, que un brahmán, después de haber terminado con el aprendizaje, <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> desee mantenerse con verdadera fuerza [^406]; después de haber terminado con esa fuerza y ​​el aprendizaje, se convierte en un Muni (un yogui); Y después de haber terminado con lo que no es conocimiento de un Muni, y con lo que sí lo es, es un brahmán. Sea cual sea el medio por el que se haya convertido en brahmán, lo es en verdad [407]. Todo lo demás es malo». Después de eso, Kahola Kaushîtakeya guardó silencio.
 
 
 ## SEXTO BRAHMANA [^408].
@@ -284,7 +284,7 @@ El otro dijo: «Así es, oh Yâ<i>g</i>_ñ_avalkya. Dime ahora quién es el que 
 
 6\. 'El que habita en el cielo y dentro del cielo, a quien el cielo no conoce, cuyo cuerpo es el cielo y quien tira (gobierna) el cielo en su interior, él es tu Ser, el que tira (gobierna) en tu interior, el inmortal.'
 
-7\. 'El que mora en el aire (vâyu) y dentro del aire, a quien el aire no conoce, cuyo cuerpo es el <span id="p134">[<sup><small>p. 134</small></sup>]</span> aire, y quien tira (gobierna) el aire en su interior, él es tu Ser, el que tira (gobierna) en tu interior, el inmortal.'
+7\. 'El que mora en el aire (vâyu) y dentro del aire, a quien el aire no conoce, cuyo cuerpo es el <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> aire, y quien tira (gobierna) el aire en su interior, él es tu Ser, el que tira (gobierna) en tu interior, el inmortal.'
 
 8\. 'El que habita en el cielo (dyu) y dentro del cielo, a quien el cielo no conoce, cuyo cuerpo es el cielo, y quien tira (gobierna) el cielo en su interior, él es tu Ser, el que tira (gobierna) en tu interior, el inmortal.'
 
@@ -298,7 +298,7 @@ El otro dijo: «Así es, oh Yâ<i>g</i>_ñ_avalkya. Dime ahora quién es el que 
 
 13\. 'El que habita en la oscuridad (tamas), y dentro de la oscuridad, a quien la oscuridad no conoce, cuyo cuerpo es la oscuridad, y quien atrae (gobierna) la oscuridad en su interior, él es tu Ser, el que atrae (gobierna) en tu interior, el inmortal.'
 
-14\. 'El que mora en la luz (te<i>g</i>as), y dentro de la luz, a quien la luz no conoce, cuyo <span id="p135">[<sup><small>p. 135</small></sup>]</span> cuerpo es la luz, y quien atrae (gobierna) la luz en su interior, él es tu Ser, el que atrae (gobierna) en tu interior, el inmortal.'
+14\. 'El que mora en la luz (te<i>g</i>as), y dentro de la luz, a quien la luz no conoce, cuyo <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> cuerpo es la luz, y quien atrae (gobierna) la luz en su interior, él es tu Ser, el que atrae (gobierna) en tu interior, el inmortal.'
 
 Hasta aquí con respecto a los dioses (adhidaivatam); ahora con respecto a los seres (adhibhûtam).
 
@@ -314,7 +314,7 @@ Hasta aquí con respecto a los dioses (adhidaivatam); ahora con respecto a los s
 
 20\. 'El que habita en la mente, y dentro de la mente, a quien la mente no conoce, cuyo cuerpo es la mente, y quien tira (gobierna) la mente hacia adentro, él es tu Ser, el que tira (gobierna) hacia adentro, el inmortal.'
 
-21\. 'El que habita en la piel y dentro de la piel, a quien la piel no conoce, cuyo cuerpo es la <span id="p136">[<sup><small>p. 136</small></sup>]</span> piel, y quien tira (gobierna) la piel desde dentro, él es tu Ser, el que tira (gobierna) desde dentro, el inmortal.'
+21\. 'El que habita en la piel y dentro de la piel, a quien la piel no conoce, cuyo cuerpo es la <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> piel, y quien tira (gobierna) la piel desde dentro, él es tu Ser, el que tira (gobierna) desde dentro, el inmortal.'
 
 22\. 'El que habita en el conocimiento [^413], y dentro del conocimiento, a quien el conocimiento no conoce, cuyo cuerpo es el conocimiento, y quien atrae (gobierna) el conocimiento hacia dentro, él es tu Ser, el que atrae (gobierna) hacia dentro, el inmortal.'
 
@@ -327,7 +327,7 @@ Hasta aquí con respecto a los dioses (adhidaivatam); ahora con respecto a los s
 
 Yâ<i>g</i>_ñ_avalkya dijo: “Pregunta, oh Gârgî”.
 
-2\. Ella dijo: «Oh, Yâ<i>g</i>_ñ_avalkya, como el hijo de un guerrero de los Kâ<i>s</i>îs o Videhas podría tensar su arco desatado, tomar dos flechas puntiagudas que perforan al enemigo en su mano y alzarse para la batalla, me he levantado para <span id="p137">[<sup><small>p. 137</small></sup>]</span> luchar contra ti con dos preguntas. Respóndeme».
+2\. Ella dijo: «Oh, Yâ<i>g</i>_ñ_avalkya, como el hijo de un guerrero de los Kâ<i>s</i>îs o Videhas podría tensar su arco desatado, tomar dos flechas puntiagudas que perforan al enemigo en su mano y alzarse para la batalla, me he levantado para <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> luchar contra ti con dos preguntas. Respóndeme».
 
 Yâ<i>g</i>_ñ_avalkya dijo: “Pregunta, oh Gârgî”.
 
@@ -345,7 +345,7 @@ Yâ<i>g</i>_ñ_avalkya dijo [^417]: 'Pregunta, oh Gârgî.'
 
 Gârgî dijo: “¿En qué está tejido entonces el éter, como la urdimbre y la trama?”
 
-8\. Dijo: «Oh, Gârgî, los brahmanes lo llaman Akshara (lo imperecedero). No es ni tosco ni fino, ni corto ni largo, ni rojo (como el fuego) ni fluido (como el agua); es sin sombra, sin oscuridad, sin aire, sin éter, sin <span id="p138">[<sup><small>p. 138</small></sup>]</span> apego [^418], sin sabor, sin olor, sin ojos, sin oídos, sin habla, sin mente, sin luz (vigor), sin aliento, sin boca (o puerta), sin medida; sin interior ni exterior, no devora nada, y nadie lo devora».
+8\. Dijo: «Oh, Gârgî, los brahmanes lo llaman Akshara (lo imperecedero). No es ni tosco ni fino, ni corto ni largo, ni rojo (como el fuego) ni fluido (como el agua); es sin sombra, sin oscuridad, sin aire, sin éter, sin <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> apego [^418], sin sabor, sin olor, sin ojos, sin oídos, sin habla, sin mente, sin luz (vigor), sin aliento, sin boca (o puerta), sin medida; sin interior ni exterior, no devora nada, y nadie lo devora».
 
 9\. «Por el mandato de ese Akshara (el imperecedero), oh Gârgî, el sol y la luna se separan [^419]. Por el mandato de ese Akshara, oh Gârgî, el cielo y la tierra se separan. Por el mandato de ese Akshara, oh Gârgî, lo que se llama momentos (nimesha), horas (muhûrta), días y noches, medios meses, meses, estaciones, años, todos se separan. Por el mandato de ese Akshara, oh Gârgî, algunos ríos fluyen hacia el este desde las montañas blancas, otros hacia el oeste o hacia cualquier otra dirección. Por el mandato de ese Akshara, oh Gârgî, los hombres alaban a quienes dan, los dioses siguen al sacrificador, los padres a la ofrenda de darvi.»
 
@@ -396,7 +396,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Los ocho Vasus, los once Rudras, los doce �
 
 3\. Preguntó: “¿Quiénes son los Vasus?”
 
-Yâ<i>g</i>_ñ_avalkya respondió: «Agni (fuego), Piri</i>thivî (tierra), Vâyu (aire), Antariksha (cielo), Âditya (sol), Dyu (cielo), Kandramas (luna), las Nakshatras (estrellas), estos son los Vasus, pues en ellos reside todo lo que habita (este mundo); y por eso se les llama Vasus». <span id="p141">[<sup><small>p. 141</small></sup>]</span> 4\. Preguntó: «¿Quiénes son los Rudras?»
+Yâ<i>g</i>_ñ_avalkya respondió: «Agni (fuego), Piri</i>thivî (tierra), Vâyu (aire), Antariksha (cielo), Âditya (sol), Dyu (cielo), Kandramas (luna), las Nakshatras (estrellas), estos son los Vasus, pues en ellos reside todo lo que habita (este mundo); y por eso se les llama Vasus». <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 4\. Preguntó: «¿Quiénes son los Rudras?»
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Estos diez alientos vitales (prâ<i>n</i>as, los sentidos, es decir, los cinco <i>g</i>_ñ_ânendriyas, y los cinco karmendriyas), y Âtman [^428], como el undécimo. Cuando parten de este cuerpo mortal, nos hacen llorar (rodayanti), y por eso se les llama Rudras».
 
@@ -440,7 +440,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: 'El que sopla.'
 
 Yâ<i>g</i>_ñ_avalkya respondió: 'Aliento (prâ<i>n</i>a), y él es Brahman (el Sûtrâtman), y lo llaman Eso (tyad).'
 
-10\. <i>S</i>âkalya dijo [^431]: 'Quienquiera que conozca a esa persona (o dios) cuya morada (cuerpo) es la tierra, cuya visión (mundo) es fuego [^432], cuya mente es luz,—el principio <span id="p143">[<sup><small>p. 143</small></sup>]</span> de cada ser (viviente), ese en verdad es un maestro, oh Yâ<i>g</i>_ñ_avalkya.'
+10\. <i>S</i>âkalya dijo [^431]: 'Quienquiera que conozca a esa persona (o dios) cuya morada (cuerpo) es la tierra, cuya visión (mundo) es fuego [^432], cuya mente es luz,—el principio <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> de cada ser (viviente), ese en verdad es un maestro, oh Yâ<i>g</i>_ñ_avalkya.'
 
 Yâ<i>g</i>_ñ_avalkya dijo: «Conozco a esa persona, el principio de todo ser, de quien hablas. Esta persona corpórea (material, terrenal), «él es él». Pero dime [^433], <i>S</i>âkalya, ¿quién es su devatâ [^434] (deidad)?»
 
@@ -458,7 +458,7 @@ Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de todo
 
 <i>S</i>âkalya respondió: 'El Verdadero [^437]'.
 
-13\. <i>S</i>âkalya dijo: 'Quienquiera que conozca a esa persona <span id="p144">[<sup><small>p. 144</small></sup>]</span> cuya morada es el éter, cuya vista es el oído, cuya mente es la luz, —el principio de cada ser, esa persona en verdad es un maestro, oh Yâ<i>g</i>_ñ_avalkya.'
+13\. <i>S</i>âkalya dijo: 'Quienquiera que conozca a esa persona <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> cuya morada es el éter, cuya vista es el oído, cuya mente es la luz, —el principio de cada ser, esa persona en verdad es un maestro, oh Yâ<i>g</i>_ñ_avalkya.'
 
 Yâ<i>g</i>_ñ_avalkya respondió: «Conozco a esa persona, el principio de todo ser, de quien hablas. La persona que escucha [^438] y responde: «Él es él». Pero dime, <i>S</i>âkalya, ¿quién es su devatâ?»
 
@@ -538,7 +538,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En Sraddhâ (fe), porque si un hombre cree, entonc
 
 Yâ<i>g</i>_ñ_avalkya dijo: “En el corazón, porque por el corazón la fe conoce, y por lo tanto la fe permanece en el corazón”.
 
-<i>S</i>âkalya dijo: «Así es, en verdad, oh Yâ<i>g</i>_ñ_avalkya». <span id="p147">[<sup><small>p. 147</small></sup>]</span> 22\. <i>S</i>âkalya dijo: «¿Cuál es tu deidad en la dirección occidental?»
+<i>S</i>âkalya dijo: «Así es, en verdad, oh Yâ<i>g</i>_ñ_avalkya». <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 22\. <i>S</i>âkalya dijo: «¿Cuál es tu deidad en la dirección occidental?»
 
 Yâ<i>g</i>_ñ_avalkya dijo: 'Varu<i>n</i>a.'
 
@@ -610,7 +610,7 @@ Yâ<i>g</i>_ñ_avalkya dijo: 'En el Udâna (la exhalación) [^448].'
 
 <i>S</i>âkalya dijo: '¿En qué reside el Udâna?'
 
-Yâ<i>g</i>_ñ_avalkya dijo: «En el Samâna [^449]. Ese Ser <span id="p149">[<sup><small>p. 149</small></sup>]</span> (âtman) se describe con ¡No, no! [^450] Es incomprensible, pues no puede ser comprendido; es imperecedero, pues no puede perecer; es desapegado, pues no se apega; libre de ataduras, no sufre, no fracasa».
+Yâ<i>g</i>_ñ_avalkya dijo: «En el Samâna [^449]. Ese Ser <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> (âtman) se describe con ¡No, no! [^450] Es incomprensible, pues no puede ser comprendido; es imperecedero, pues no puede perecer; es desapegado, pues no se apega; libre de ataduras, no sufre, no fracasa».
 
 Estas son las ocho moradas (la tierra, etc.), los ocho mundos (fuego, etc.), los ocho dioses (el alimento inmortal, etc.), las ocho personas (lo corpóreo, etc.). Aquel que, tras dividir y unir estas personas [^451], trascendió (el Samana), esa persona, enseñada en los Upanishads, ahora te pido (que me la enseñes). Si no me la explicas, caerás de cabeza.
 
@@ -624,7 +624,7 @@ Pero aquellos brahmanes no se atrevieron a decir nada.
 
 1\. 'Como un árbol poderoso en el bosque, así en verdad es el hombre, sus pelos son las hojas, su piel exterior es la corteza.
 
-2\. 'De su piel mana sangre, savia de la piel (del árbol); y así, del hombre herido <span id="p150">[<sup><small>p. 150</small></sup>]</span> [^452] sale sangre, como de un árbol herido.
+2\. 'De su piel mana sangre, savia de la piel (del árbol); y así, del hombre herido <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> [^452] sale sangre, como de un árbol herido.
 
 3\. 'Los trozos de su carne son (en el árbol) las capas de madera, la fibra es fuerte como los tendones [^453] . Los huesos son la madera (dura) interior, la médula está hecha como la médula del árbol.
 

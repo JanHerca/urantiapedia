@@ -42,7 +42,7 @@ Sucedió entonces que ella miró hacia abajo y vio su poder de luz en las partes
 
 <small>Las emanaciones de Obstinado exprimen los poderes de luz de Sofía.</small>
 
-Con esto en mente, abandonó su propia región, el decimotercer eón, y descendió a los doce eones. Los gobernantes de los eones la persiguieron y se enfurecieron contra ella, porque había pensado en grandeza. Y ella <span id="p37">[<sup><small>p. 37</small></sup>]</span> también abandonó los doce eones, y llegó a las regiones del caos y se acercó a ese poder de luz con rostro de león para devorarlo. Pero todas las **(47)** emanaciones materiales de Obstinado la rodearon, y el gran poder de luz con rostro de león devoró todos los poderes de luz en Sofía, limpió su luz y la devoró, y su materia fue arrojada al caos; se convirtió en un gobernante con rostro de león en el caos, del cual una mitad es fuego y la otra oscuridad, es decir, Yaldabaōth, de quien les he hablado muchas veces. Cuando Entonces esto sucedió, Sofía quedó muy agotada, y ese poder de luz con cara de león se puso a trabajar para quitarle a Sofía todos sus poderes de luz, y todos los poderes materiales de Obstinado rodearon a Sofía al mismo tiempo y la presionaron dolorosamente.
+Con esto en mente, abandonó su propia región, el decimotercer eón, y descendió a los doce eones. Los gobernantes de los eones la persiguieron y se enfurecieron contra ella, porque había pensado en grandeza. Y ella <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> también abandonó los doce eones, y llegó a las regiones del caos y se acercó a ese poder de luz con rostro de león para devorarlo. Pero todas las **(47)** emanaciones materiales de Obstinado la rodearon, y el gran poder de luz con rostro de león devoró todos los poderes de luz en Sofía, limpió su luz y la devoró, y su materia fue arrojada al caos; se convirtió en un gobernante con rostro de león en el caos, del cual una mitad es fuego y la otra oscuridad, es decir, Yaldabaōth, de quien les he hablado muchas veces. Cuando Entonces esto sucedió, Sofía quedó muy agotada, y ese poder de luz con cara de león se puso a trabajar para quitarle a Sofía todos sus poderes de luz, y todos los poderes materiales de Obstinado rodearon a Sofía al mismo tiempo y la presionaron dolorosamente.
 
 ## CAPÍTULO 32
 
@@ -126,7 +126,7 @@ El primer arrepentimiento de Sofía.
 
 ## CAPÍTULO 33
 
-Sucedió entonces que, cuando Jesús hubo hablado <span id="p42">[<sup><small>p. 42</small></sup>]</span> estas palabras a sus discípulos, les dijo: «Este es el cántico de alabanza que Pistis Sophia pronunció en su primer arrepentimiento, arrepintiéndose de su pecado y recitando todo lo que le había sucedido. Ahora, pues: «Quien tenga oídos para oír, que oiga».
+Sucedió entonces que, cuando Jesús hubo hablado <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> estas palabras a sus discípulos, les dijo: «Este es el cántico de alabanza que Pistis Sophia pronunció en su primer arrepentimiento, arrepintiéndose de su pecado y recitando todo lo que le había sucedido. Ahora, pues: «Quien tenga oídos para oír, que oiga».
 
 María se adelantó de nuevo y dijo: «Mi Señor, mi morador de luz tiene oídos, y yo oigo con mi poder de luz, y tu espíritu, que está conmigo, me ha tranquilizado. Escucha, pues, para que pueda hablar del arrepentimiento que Pistis Sophia ha expresado, hablando de **(53)** su pecado y todo lo que le aconteció. Tu poder de luz lo profetizó anteriormente a través del profeta David en el Salmo sesenta y ocho:
 
@@ -258,7 +258,7 @@ Aconteció entonces que cuando Jesús terminó de hablar estas palabras a sus di
 
 <small>Pedro se queja de María.</small>
 
-Pedro se adelantó y le dijo a Jesús: <span id="p47">[<sup><small>p. 47</small></sup>]</span> “Señor mío, no soportaremos a esta mujer, porque nos quita la oportunidad y no deja hablar a ninguno de nosotros, sino que habla muchas veces.”
+Pedro se adelantó y le dijo a Jesús: <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> “Señor mío, no soportaremos a esta mujer, porque nos quita la oportunidad y no deja hablar a ninguno de nosotros, sino que habla muchas veces.”
 
 Y Jesús respondió y dijo a sus discípulos: «Que aquel en quien el poder de su espíritu arda, de modo que entienda lo que digo, **(58)** pase al frente y hable. Pero ahora, Pedro, veo tu poder en ti, que comprende la solución del misterio del arrepentimiento que Pistis Sophia ha expresado. Ahora, pues, Pedro, expresa el pensamiento de su arrepentimiento en medio de tus hermanos».
 
@@ -278,7 +278,7 @@ Y Pedro respondió y dijo a Jesús: Oh Señor, escucha, para que pueda hablarte 
 
 6. Me he confiado a ti desde el vientre de mi madre; tú me sacaste del vientre de mi madre. Mi recuerdo está siempre en ti.
 
-7. Me he vuelto como el loco de muchos; **(59)** <span id="p48">[<sup><small>p. 48</small></sup>]</span> tú eres mi ayuda y mi fuerza, tú eres mi libertador, oh Señor.
+7. Me he vuelto como el loco de muchos; **(59)** <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> tú eres mi ayuda y mi fuerza, tú eres mi libertador, oh Señor.
 
 8. Mi boca se llenó de alabanzas, para alabar la gloria de tu esplendor todo el día.
 
@@ -298,7 +298,7 @@ Y Pedro respondió y dijo a Jesús: Oh Señor, escucha, para que pueda hablarte 
 
 <small>Jesús promete perfeccionar a los discípulos en todas las cosas.</small>
 
-El Salvador respondió y le dijo a Pedro: «Bien, Pedro; esta es la solución de su arrepentimiento. Benditos seáis ante todos los hombres de la tierra, porque os he revelado estos misterios. Amén, amén, os digo: **(60)** Os perfeccionaré en toda plenitud, desde los misterios del interior hasta los misterios del exterior, y os llenaré del espíritu, para que seáis llamados 'espirituales, perfeccionados en toda plenitud'. Y, amén, amén, os digo: Os daré todos los misterios de todas las regiones de mi Padre y de todas las regiones del Primer Misterio, para que quien admitáis en la tierra, sea admitido en la Luz de lo Alto; y quien expulséis en la tierra, sea expulsado del reino de mi Padre en el cielo. Pero escuchad, pues, y prestad atención <span id="p49">[<sup><small>p. 49</small></sup>]</span> a todos los arrepentimientos que Pistis Sophia ha pronunciado. Continuó de nuevo y pronunció el tercer arrepentimiento, diciendo:
+El Salvador respondió y le dijo a Pedro: «Bien, Pedro; esta es la solución de su arrepentimiento. Benditos seáis ante todos los hombres de la tierra, porque os he revelado estos misterios. Amén, amén, os digo: **(60)** Os perfeccionaré en toda plenitud, desde los misterios del interior hasta los misterios del exterior, y os llenaré del espíritu, para que seáis llamados 'espirituales, perfeccionados en toda plenitud'. Y, amén, amén, os digo: Os daré todos los misterios de todas las regiones de mi Padre y de todas las regiones del Primer Misterio, para que quien admitáis en la tierra, sea admitido en la Luz de lo Alto; y quien expulséis en la tierra, sea expulsado del reino de mi Padre en el cielo. Pero escuchad, pues, y prestad atención <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> a todos los arrepentimientos que Pistis Sophia ha pronunciado. Continuó de nuevo y pronunció el tercer arrepentimiento, diciendo:
 
 El tercer arrepentimiento de Sofía.
 
@@ -344,7 +344,7 @@ Y Marta respondió y dijo a Jesús en medio de los discípulos: "Con respecto al
 
 Aconteció entonces que cuando Jesús oyó a Marta decir estas palabras, le dijo: «Bien dicho, Marta, y muy bien».
 
-Y Jesús continuó con el discurso y dijo a sus discípulos: «Pistis Sophia prosiguió de nuevo en el cuarto arrepentimiento, recitándolo antes de ser oprimida por segunda vez, para que el poder con rostro de león y **(63)** todas las emanaciones materiales que con él, que Obstinado <span id="p51">[<sup><small>p. 51</small></sup>]</span> había enviado al caos, no le arrebataran la luz total que había en ella. Ella pronunció entonces este arrepentimiento de la siguiente manera:
+Y Jesús continuó con el discurso y dijo a sus discípulos: «Pistis Sophia prosiguió de nuevo en el cuarto arrepentimiento, recitándolo antes de ser oprimida por segunda vez, para que el poder con rostro de león y **(63)** todas las emanaciones materiales que con él, que Obstinado <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> había enviado al caos, no le arrebataran la luz total que había en ella. Ella pronunció entonces este arrepentimiento de la siguiente manera:
 
 El cuarto arrepentimiento de Sofía.
 
@@ -388,7 +388,7 @@ El cuarto arrepentimiento de Sofía.
 
 19. Porque la Luz ha mirado hacia abajo desde lo alto de su luz. Mirará hacia abajo sobre **(65)** la materia total,
 
-“'20. Escuchar los suspiros de los encadenados, <span id="p53">[<sup><small>p. 53</small></sup>]</span> para liberar el poder de las almas cuyo poder está atado,—
+“'20. Escuchar los suspiros de los encadenados, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> para liberar el poder de las almas cuyo poder está atado,—
 
 “'21. Para que ponga su nombre en el alma y su misterio en el poder.'”
 

@@ -46,7 +46,7 @@ Mudanzas—Trabajo que debe evitarse—Discusión entre las escuelas de Shammai 
 
 2\. Nadie debe sentarse ante el barbero cerca de la oración vespertina [^90] hasta que haya rezado. No debe entrar en un baño ni en una curtiduría, ni comer ni juzgar. «¿Y si empezaron?», pregunta. «No tienen por qué cesar». Pueden dejar de leer el «Escucha», [^91] etc., pero no deben dejar de orar.
 
-3\. Un sastre no debe salir con su aguja al anochecer, [^90] <span id="p84">[<sup><small>p. 84</small></sup>]</span> para que no se le olvide y se vaya (después). Ni un escriba debe salir con su pluma. Ni se debe registrar la ropa. Ni se debe leer a la luz de la lámpara. En verdad dijeron: «El maestro puede pasar por alto cuando los niños leen, pero él mismo no debe leer». De igual manera, el que padece flujo no debe comer con la que lo padece, debido a la costumbre de la transgresión.
+3\. Un sastre no debe salir con su aguja al anochecer, [^90] <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> para que no se le olvide y se vaya (después). Ni un escriba debe salir con su pluma. Ni se debe registrar la ropa. Ni se debe leer a la luz de la lámpara. En verdad dijeron: «El maestro puede pasar por alto cuando los niños leen, pero él mismo no debe leer». De igual manera, el que padece flujo no debe comer con la que lo padece, debido a la costumbre de la transgresión.
 
 4\. Y lo siguiente proviene de las decisiones que mencionaron de la cámara alta de Hananías, hijo de Ezequías, hijo de Gorión, cuando los Sabios subieron a visitarlo. La escuela de Samai fue contada, y era más numerosa que la de Hillel. Y dieciocho asuntos se resolvieron ese día.
 
@@ -58,7 +58,7 @@ Mudanzas—Trabajo que debe evitarse—Discusión entre las escuelas de Shammai 
 
 8\. La escuela de Shamai decía: «No deben dar pieles a un curtidor, ni prendas a una lavandera extranjera; a menos que puedan ser suficientemente hechas mientras aún es de día». Pero la escuela de Hillel las permite todas «con el sol».
 
-9\. Dijo el rabino Simón, hijo de Gamaliel: «La casa de mi padre solía dar ropa blanca a una lavandera extranjera tres días antes del sabbat». Pero ambas escuelas coinciden en que «pueden llevar [^92] vigas al lagar de aceite y troncos al lagar de vino». <span id="p85">[<sup><small>p. 85</small></sup>]</span>
+9\. Dijo el rabino Simón, hijo de Gamaliel: «La casa de mi padre solía dar ropa blanca a una lavandera extranjera tres días antes del sabbat». Pero ambas escuelas coinciden en que «pueden llevar [^92] vigas al lagar de aceite y troncos al lagar de vino». <span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 10\. No deben freír carne, cebolla ni huevos, a menos que estén suficientemente fritos mientras aún es de día. No deben meter pan al horno al anochecer, ni un pastel sobre las brasas, a menos que su cara esté suficientemente cocida mientras aún es de día. El rabino Eliezer dijo: «Que su parte inferior esté suficientemente cocida».
 

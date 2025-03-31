@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/03100.jpg) ¿Son estos los únicos rastros de la encantadora Ommaufia? ¿Son estas las ruinas silenciosas de su mansión en las ásperas llanuras de Derraage y Mothatallem?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Pero, añadí, mira, amigo mío, ¿no ves una compañía de doncellas sentadas en camellos y avanzando sobre el terreno elevado sobre los arroyos de Jortham?
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 8\. Dejan a su derecha las montañas y las llanuras rocosas de Kenaan. ¡Oh, cuántos de mis acérrimos enemigos y cuántos de mis firmes aliados contiene Kenaan!
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. _En este lugar_, ¡cuán noblemente trabajaron los dos descendientes de Gaidh, el hijo de Morra, para unir las tribus, que un fatal derrame de sangre había dividido durante mucho tiempo!
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 17\. He jurado por el edificio sagrado, alrededor del cual los hijos de Coréis y Jorham, que lo construyeron, hacen procesiones devotas;
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. Con cien camellos cerraron todas las heridas: a su debido tiempo se les dio, pero los dadores estaban libres de culpa.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 25\. La expiación fue ofrecida auspiciosamente por una tribu a la otra; sin embargo, los que la ofrecieron no habían derramado una copa de sangre.
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. Ella dio a luz a Angustia y Ruina, monstruos adultos, cada uno de ellos deformado como el camello pardo de Aad; luego les dio su pecho, y fueron destetados al instante.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 33\. ¡Oh, qué abundancia produjo en vuestra tierra! Los víveres que suministraba eran más abundantes, sin duda, que los que las ciudades de Irak dispensan a sus habitantes, pesados con grandes pesos y medidos con amplias medidas.
 
@@ -122,7 +122,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 40\. Dijo: «Cumpliré mi designio y me protegeré de mi enemigo con mil caballos bien enjaezados».
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 41\. Hizo un ataque feroz, sin temer el número de tiendas, donde _Muerte_, la madre de los buitres, había fijado su mansión;
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. El que tiembla ante todas las posibles causas de muerte cae en su camino: aunque desee subir a los cielos en una escala.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 50\. El que posee riquezas o talentos y los niega a sus compatriotas, aleja su amor y se expone a su desprestigio.
 
@@ -162,7 +162,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 58\. Siempre que un hombre tiene un rasgo peculiar en su naturaleza, aunque lo suponga oculto, pronto se sabrá.
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 59\. La experiencia me ha enseñado los acontecimientos de este día y de ayer; pero en cuanto a los acontecimientos de mañana, confieso mi ceguera.
 

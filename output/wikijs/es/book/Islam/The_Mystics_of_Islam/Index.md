@@ -29,7 +29,7 @@ dateCreated: 2024-11-21T11:58:4Z
   </table>
 </figure>
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 (Los títulos de los libros, así como los términos técnicos árabes y persas, se imprimen en cursiva.)
 
@@ -98,7 +98,7 @@ El celibato, condenado por Mahoma, [5](./Introduction#p5).
 China, [161](./6#p161).
 Cristo, [82](./3#p82), [88](./3#p88). _Ver_ Jesús.
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Cristianismo, [4](./Introduction#p4), [5](./Introduction#p5), [10](./Introduction#p10) y sigs., [82](./3#p82), [111](./4#p111), [112](./4#p112), [151](./6#p151), [157](./6#p157).
 Contemplación, [18](./Introduction#p18), [31](./1#p31), [32](./1#p32), [53](./2#p53), [54](./2#p54) y siguientes, [68](./3#p68).
@@ -189,7 +189,7 @@ Iluminación, [7](./Introduction#p7), [50](./2#p50) y siguientes, [70](./3#p70).
 _'ilm_, [71](./3#p71).
 Inmortalidad, impersonal, [167](./6#p167), [168](./6#p168).
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Encarnación, [150](./6#p150), [151](./6#p151), [157](./6#p157). Ver _hulul_.
 India, [16](./Introduction#p16), [161](./6#p161).
@@ -265,7 +265,7 @@ Maniqueos, los, [14](./Introduction#p14).
 Mansur, [153](./6#p153). _Ver_ Hallaj.
 _maqamat_, [28](./1#p28).
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 _maâ€˜rifat_, [29](./1#p29), [71](./3#p71). _Ver_ Gnosis, la.
 Maruf al-Karkhi, [14](./Introduction#p14).
@@ -352,7 +352,7 @@ Hola, [105](./4#p105).
 _quibla_, [134](./5#p134).
 Quietismo, [4](./Introduction#p4). _Ver_ Confianza en Dios.
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Qushayri, [126](./5#p126), [130](./5#p130).
 _Qutb_, [123](./5#p123), [124](./5#p124), [164](./6#p164), [165](./6#p165).
@@ -440,7 +440,7 @@ Underhil[1](./Introduction#p1), E., [164](./6#p164).
 Unión con Dios, [39](./1#p39), [159](./6#p159), [160](./6#p160). _Ver_ Estado Unitivo, el, y _fana_.
 Estado Unitivo, el, [148](./6#p148) ff.
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 Unidad, lo divino, teoría sufista de, [42](./1#p42), [79](./3#p79) ff., [98](./3#p98), [152](./6#p152), [154](./6#p154), [155](./6#p155).
 

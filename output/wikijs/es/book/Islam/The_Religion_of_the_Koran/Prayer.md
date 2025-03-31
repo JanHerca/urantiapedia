@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 CAPÍTULO II, Versículo 182.—Cuando mis siervos te pregunten por mí, entonces, en verdad, estoy cerca; respondo la oración del que me ora. Así que que me pidan una respuesta, y que crean en mí; tal vez puedan ser dirigidos correctamente.
 
@@ -44,7 +44,7 @@ Capítulo XIV., Versículo 36.—Di a mis siervos que creen, que sean constantes
 
 Capítulo XVII, Versículo 80.—Sé firme en la oración desde la puesta del sol hasta el anochecer de la noche, y la lectura del amanecer; en verdad, la lectura del amanecer siempre está testificada.
 
-Capítulo XX, Versículo 132.—Invita a tu pueblo a la oración y a perseverar en ella; no te pedimos <span id="p58">[<sup><small>p. 58</small></sup>]</span> que proveas. Nosotros proveeremos, y el resultado será la piedad.
+Capítulo XX, Versículo 132.—Invita a tu pueblo a la oración y a perseverar en ella; no te pedimos <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> que proveas. Nosotros proveeremos, y el resultado será la piedad.
 
 Capítulo XXII., Versículo 76.—Sed, pues, constantes en la oración, y dad limosna, y aferraos a Dios; Él es vuestro soberano, y un soberano excelente, y una excelente ayuda.
 

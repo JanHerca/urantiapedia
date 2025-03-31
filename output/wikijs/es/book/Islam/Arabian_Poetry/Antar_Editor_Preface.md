@@ -32,13 +32,13 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 _Sólo he visto el decimocuarto volumen de esta obra, que comprende todo lo que es elegante y noble en la composición. Su estilo es tan elevado, tan variado y tan audaz que no dudo en clasificarlo entre los poemas más acabados_. —Sir W. Jones.
 
 _Ésta es la obra, y no, como generalmente se supone, las «Mil y una noches», que es la fuente de las historias que llenan las tiendas y cabañas de Arabia y Egipto_.—Von Hammer.
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 <figure id="Figure_17100" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/17100.jpg">
@@ -60,7 +60,7 @@ La obra fue muy bien recibida por los principales críticos de la época, alguno
 
 Esta obra singular es el único registro de la vida cotidiana de los árabes antes de que cayeran bajo la influencia de El-Islám. «Incluso en una traducción», dice un crítico juicioso, «Antar debe ser leído con placer por aquellos a quienes los modos sencillos de la vida brindan materia de especulación interesante, y por aquellos que se sienten satisfechos con descripciones fluidas y exuberantes, unidas a bocetos vivos y pintorescos de eventos y personajes». Aquí las virtudes y los vicios de estos Niños del Desierto están fielmente retratados: hospitalarios, valientes, vengativos; a la vez liberales y avaros; además de poseer un sentido puntilloso del honor: tales eran los árabes preislamistas, a quienes la pluma de El-Asma'ee ha delineado tan vívidamente. La poesía con la que la obra está ricamente adornada es la poesía de la naturaleza, abundante en toques de patetismo, mucho más allá del alcance del arte.
 
-Lamento no haber podido obtener ninguna traducción alemana o francesa del relato de la suspensión de la Kasidah por parte de Antar en la Kaaba; pero mi amigo el Sr. E. J. W. Gibb, de <span id="p174">[<sup><small>p. 174</small></sup>]</span> Lochwood, Lanarkshire, un joven orientalista muy prometedor, me ha favorecido con una traducción de la Muerte de Antar—uno de los poemas heroicos más nobles—de la versión francesa de M. Caussin de Perceval, que se adjunta al siguiente esbozo de los principales incidentes de la Primera Parte, según la traducción del Sr. Hamilton.
+Lamento no haber podido obtener ninguna traducción alemana o francesa del relato de la suspensión de la Kasidah por parte de Antar en la Kaaba; pero mi amigo el Sr. E. J. W. Gibb, de <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> Lochwood, Lanarkshire, un joven orientalista muy prometedor, me ha favorecido con una traducción de la Muerte de Antar—uno de los poemas heroicos más nobles—de la versión francesa de M. Caussin de Perceval, que se adjunta al siguiente esbozo de los principales incidentes de la Primera Parte, según la traducción del Sr. Hamilton.
 
 ---
 
@@ -70,7 +70,7 @@ No es nada improbable que el famoso romance árabe de Antar sirviera como modelo
 
 Muchos de los cuentos y ficciones que eran populares en Europa en la época medieval y que, recopilados de la tradición oral, se han conservado en obras como los «Clericali Disciplina» de Pedro Alfonso y los «Gesta Romanorum», se han rastreado hasta fuentes orientales: Arabia y Siria, y de allí a la India, a través de Persia. Estas ficciones probablemente llegaron a Europa, en parte a través de los sarracenos de España, en parte a través del intercambio con Oriente durante las Cruzadas.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Pero en los siglos VIII, IX y X hubo libre intercambio entre los países orientales y occidentales del mundo romano. Hároon Er-Rasheed y Carlomagno intercambiaron regalos y mensajes de buena voluntad; y las maravillosas aventuras de Antar bien pudieron haber llegado a ser conocidas por los primeros escritores europeos de novelas caballerescas, cuando la comunicación estaba así abierta entre Asia y Europa.
 

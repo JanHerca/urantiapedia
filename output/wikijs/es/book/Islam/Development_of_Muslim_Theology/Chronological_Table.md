@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Por razones tipográficas, la gutural suave _Ha_, las palatales _Sad, Dad, Ta, Za_ y las vocales largas se indican en cursiva. El mismo sistema se sigue en el índice.
 
@@ -88,7 +88,7 @@ A.H. | &nbsp;
 172-375 | Idr_i_sids.
 179 | Malik n. Anas murió a los 68 años
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 A.H. | &nbsp;
 --- | ---
@@ -150,7 +150,7 @@ A.H. | &nbsp;
 403 | Al-Baqilani d.
 408 | Persecución de los mutazilíes bajo al-Qadir.
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 A.H. | &nbsp;
 --- | ---
@@ -216,7 +216,7 @@ A.H. | &nbsp;
 756 | Al-‘_I_j_i_ d; Enrique Suso d.
 791 | At-Taft_aza_n_i_ d.; an-Naqshband_i_, fundador de la orden de darw_i_shes, d.
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 A.H. | &nbsp;
 --- | ---

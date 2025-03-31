@@ -50,7 +50,7 @@ Para la Gloria de los arios, hecha por Mazda, sea propiciación, con sacrificio,
 
 Yathâ ahû vairyô; La voluntad del Señor es la ley de santidad . . . .
 
-1\. Ahura Mazda le habló a Spitama Zarathustra, diciendo: «Hice la Gloria Aria, rica en alimento, rica en rebaños, rica en riquezas [^1190], rica en Gloria; provista de una gran cantidad de inteligencia, de una gran cantidad de dinero, para resistir la Necesidad y los enemigos. <span id="p284">[<sup><small>p. 284</small></sup>]</span> 2\. «Destruye a Angra Mainyu, quien es toda muerte; destruye a Aêshma, el demonio de la lanza hiriente [^1191]; destruye al Bûshyãsta amarillo [^1192]; destruye el contagio [^1193] de Aêkha [^1194]; destruye al demonio de la muerte, Apaosha [^1195]; destruye a las naciones no arias.»
+1\. Ahura Mazda le habló a Spitama Zarathustra, diciendo: «Hice la Gloria Aria, rica en alimento, rica en rebaños, rica en riquezas [^1190], rica en Gloria; provista de una gran cantidad de inteligencia, de una gran cantidad de dinero, para resistir la Necesidad y los enemigos. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> 2\. «Destruye a Angra Mainyu, quien es toda muerte; destruye a Aêshma, el demonio de la lanza hiriente [^1191]; destruye al Bûshyãsta amarillo [^1192]; destruye el contagio [^1193] de Aêkha [^1194]; destruye al demonio de la muerte, Apaosha [^1195]; destruye a las naciones no arias.»
 
 3\. 'Y yo hice a la gran Ashi Vanguhi; ella entra, en medio de la familia; ella entra, dentro del fino palacio real [^1196].
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô; La voluntad del Señor es la ley de santidad . . . .
 
 5\. 'Los caballos se multiplican mil veces, los rebaños se multiplican mil veces; y lo mismo hace su virtuosa descendencia, (como) la brillante y gloriosa estrella Ti<i>s</i>trya se mueve igualmente [^1199], y lo mismo hace el fuerte viento creado por Mazda, y lo mismo hace la Gloria de los Aryas.
 
-6\. 'Y traen crecimiento a las cimas de todas las montañas, a las profundidades de todos los valles; traen crecimiento a todas las plantas que crecen [^1200], las hermosas, las de tonos dorados. Y alejan [^1201] el contagio <span id="p285">[<sup><small>p. 285</small></sup>]</span> de Aêkha, alejan al demonio de la muerte, Apaosha.
+6\. 'Y traen crecimiento a las cimas de todas las montañas, a las profundidades de todos los valles; traen crecimiento a todas las plantas que crecen [^1200], las hermosas, las de tonos dorados. Y alejan [^1201] el contagio <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> de Aêkha, alejan al demonio de la muerte, Apaosha.
 
 7\. ¡Salve a la brillante y gloriosa estrella Tistrya! ¡Salve al poderoso viento creado por Mazda! ¡Salve a la Gloria de los Aryas!
 

@@ -42,7 +42,7 @@ Aumenta mis penas y mis lamentaciones; ayúdame a llorar hasta que veas maravill
 
 Llora también por los excesos que soporto; no temas, sólo guarda los árboles del aliento de mis ardientes suspiros.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 No me abandones hasta que muera de amor, víctima de la pasión, de la ausencia y de la separación.
 

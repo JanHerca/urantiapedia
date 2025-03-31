@@ -68,7 +68,7 @@ _Ibíd._, cap. 63.
 
 _Ibíd._, cap. 68.
 
-Vayash Kihu, «Y lo besaron» (Génesis 33:4), el rabino Yanai pregunta: «¿Por qué esta palabra (en el hebreo original) es tan incisiva?». «Es para enseñar que Esaú no vino a besarlo, sino a morderlo»; solo el cuello de nuestro padre Jacob se endureció como el mármol, y esto embotó los dientes del malvado. «¿Y qué enseña la <span id="p238">[<sup><small>p. 238</small></sup>]</span> expresión 'Y lloraron'? “Uno lloró por su cuello y el otro por sus dientes».
+Vayash Kihu, «Y lo besaron» (Génesis 33:4), el rabino Yanai pregunta: «¿Por qué esta palabra (en el hebreo original) es tan incisiva?». «Es para enseñar que Esaú no vino a besarlo, sino a morderlo»; solo el cuello de nuestro padre Jacob se endureció como el mármol, y esto embotó los dientes del malvado. «¿Y qué enseña la <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> expresión 'Y lloraron'? “Uno lloró por su cuello y el otro por sus dientes».
 
 _Midrash Rabá_, cap. 78.
 
@@ -96,7 +96,7 @@ Cuando los hermanos de José lo reconocieron y estaban a punto de matarlo, un á
 
 _Vayegash_, cap. 5.
 
-La tradición de una leyenda que poseemos dice que Judá mató a Esaú. ¿Cuándo? Cuando Isaac murió, Jacob y los jefes de los doce clanes fueron a enterrarlo; como está escrito (Génesis 35:29): «Y sus hijos, Esaú y Jacob, lo enterraron». En el Midrash dice: «Y Esaú, Jacob y sus hijos lo enterraron», lo cual se ajusta mejor a la leyenda. Llegados a la cueva, entraron, se detuvieron y lloraron. Los jefes de las tribus, por respeto a Jacob, salieron de la cueva para que Jacob no se avergonzara en su presencia. Judá volvió a entrar, y al ver que <span id="p240">[<sup><small>p. 240</small></sup>]</span> Esaú se había levantado como si estuviera a punto de asesinar a Jacob, se dirigió inmediatamente a su espalda y lo mató. Pero ¿por qué no lo mató de frente? Porque la fisonomía de Esaú era exactamente igual a la de Jacob, y fue por respeto a este último que mató a Esaú por la espalda.
+La tradición de una leyenda que poseemos dice que Judá mató a Esaú. ¿Cuándo? Cuando Isaac murió, Jacob y los jefes de los doce clanes fueron a enterrarlo; como está escrito (Génesis 35:29): «Y sus hijos, Esaú y Jacob, lo enterraron». En el Midrash dice: «Y Esaú, Jacob y sus hijos lo enterraron», lo cual se ajusta mejor a la leyenda. Llegados a la cueva, entraron, se detuvieron y lloraron. Los jefes de las tribus, por respeto a Jacob, salieron de la cueva para que Jacob no se avergonzara en su presencia. Judá volvió a entrar, y al ver que <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> Esaú se había levantado como si estuviera a punto de asesinar a Jacob, se dirigió inmediatamente a su espalda y lo mató. Pero ¿por qué no lo mató de frente? Porque la fisonomía de Esaú era exactamente igual a la de Jacob, y fue por respeto a este último que mató a Esaú por la espalda.
 
 _Midrash Shochar Tov_, cap. 18.
 
@@ -136,7 +136,7 @@ El Santo —bendito sea Él— proclama diariamente una nueva ley en la corte ce
 
 _Ibíd._, cap. 37-
 
-Un gentil le preguntó una vez al rabino Yoshua ben Kapara: "¿Es cierto que dices que tu Dios ve el futuro?". "Sí", fue la <span id="p242">[<sup><small>p. 242</small></sup>]</span> respuesta. "Entonces, ¿cómo es que está escrito (Génesis 6:6): 'Y le dolió en el corazón'?". "¿Alguna vez te ha nacido un hijo varón?", respondió el rabino. "Sí", dijo el gentil; "y me regocijé e hice que otros se regocijaran conmigo". "¿No sabías que finalmente moriría?", preguntó el rabino. "Sí", respondió el otro; "pero en tiempo de alegría hay alegría, y en tiempo de duelo, duelo?". "Así es antes de que el Santo —¡bendito sea!— guardara luto durante siete días antes de que el diluvio destruyera el mundo".
+Un gentil le preguntó una vez al rabino Yoshua ben Kapara: "¿Es cierto que dices que tu Dios ve el futuro?". "Sí", fue la <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> respuesta. "Entonces, ¿cómo es que está escrito (Génesis 6:6): 'Y le dolió en el corazón'?". "¿Alguna vez te ha nacido un hijo varón?", respondió el rabino. "Sí", dijo el gentil; "y me regocijé e hice que otros se regocijaran conmigo". "¿No sabías que finalmente moriría?", preguntó el rabino. "Sí", respondió el otro; "pero en tiempo de alegría hay alegría, y en tiempo de duelo, duelo?". "Así es antes de que el Santo —¡bendito sea!— guardara luto durante siete días antes de que el diluvio destruyera el mundo".
 
 _Bereshith Rabbah_, cap. 27.
 
@@ -172,7 +172,7 @@ _Tal. Yerushalmi P'sachim_, Shabbath, xvi. fol. 30, col. 2.
 
 _T. debei Aliahu_, cap. 2.
 
-Rabí Jeremías, hijo de Elazar, dijo: «Cuando el Santo —bendito sea Él— creó a Adán, lo creó andrógino, pues está escrito (Génesis 5:2): «Varón y hembra los creó». Rabí Sh'muel bar Nachman dijo: «Cuando el Santo —bendito sea Él— creó a Adán, lo creó con dos caras; luego lo serró <span id="p244">[<sup><small>p. 244</small></sup>]</span> y lo partió (en dos), haciendo que una fuera la mitad y otra la otra».
+Rabí Jeremías, hijo de Elazar, dijo: «Cuando el Santo —bendito sea Él— creó a Adán, lo creó andrógino, pues está escrito (Génesis 5:2): «Varón y hembra los creó». Rabí Sh'muel bar Nachman dijo: «Cuando el Santo —bendito sea Él— creó a Adán, lo creó con dos caras; luego lo serró <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> y lo partió (en dos), haciendo que una fuera la mitad y otra la otra».
 
 _Midrash Rabá_, cap. 8.
 
@@ -238,7 +238,7 @@ Todos los regalos que nuestro padre Jacob dio a Esaú serán devueltos un día p
 
 _Midrash Rabá Vayishlaj_, cap. 78.
 
-Un filósofo le preguntó al rabino Eliezer: "¿No dice el profeta (Mal. i. 4): 'Ellos construirán, pero yo derribaré'? ¿Y acaso no existen todavía los edificios?". A lo que el rabino respondió: "El profeta no habla de edificios, sino de los planes de los arquitectos. Todos ustedes piensan en urdir y construir planes para destruirnos y acabar con nosotros, pero Él frustra sus planes. Los derriba, de modo que sus maquinaciones contra nosotros no surten efecto". "¡Por tu vida!", dijo el filósofo, "así es; nos reunimos anualmente para <span id="p248">[<sup><small>p. 248</small></sup>]</span> planear su ruina, pero un anciano llega y echa por tierra todos sus proyectos" (Elías).
+Un filósofo le preguntó al rabino Eliezer: "¿No dice el profeta (Mal. i. 4): 'Ellos construirán, pero yo derribaré'? ¿Y acaso no existen todavía los edificios?". A lo que el rabino respondió: "El profeta no habla de edificios, sino de los planes de los arquitectos. Todos ustedes piensan en urdir y construir planes para destruirnos y acabar con nosotros, pero Él frustra sus planes. Los derriba, de modo que sus maquinaciones contra nosotros no surten efecto". "¡Por tu vida!", dijo el filósofo, "así es; nos reunimos anualmente para <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> planear su ruina, pero un anciano llega y echa por tierra todos sus proyectos" (Elías).
 
 _Yalkut Malachi._
 
@@ -350,7 +350,7 @@ Hay cuatro puntos cardinales en el mundo, etc. Dios creó el punto norte, pero l
 
 Pirke d'Rab. Eliezer, cap. 3.
 
-Un Min le preguntó una vez a Rabí Akiva: "¿Quién creó este mundo?". "El Santo, bendito sea", fue la respuesta. "Dame una prueba fehaciente de esto", rogó el otro. "Ven mañana", respondió el Rabino. Al llegar al día siguiente, el Rabino preguntó: "¿Qué llevas puesto?". "Una prenda", fue la respuesta. "¿Quién lo hizo?", preguntó el Rabino. "Un tejedor", dijo el otro. "No te creo", dijo el Rabino; ​​"dame una prueba fehaciente de esto". <span id="p255">[<sup><small>p. 255</small></sup>]</span> "No necesito demostrarlo", dijo el Min; "es lógico que lo haya hecho un tejedor". "Y para que sepas que Dios creó el mundo", observó el Rabino. Cuando el Min se marchó, los discípulos del Rabino le preguntaron: "¿Qué es una prueba fehaciente?". Dijo: «Hijos míos, así como una casa implica un constructor, una prenda un tejedor y una puerta un carpintero, así también la existencia del mundo implica que el Santo —¡bendito sea Él!— lo creó».
+Un Min le preguntó una vez a Rabí Akiva: "¿Quién creó este mundo?". "El Santo, bendito sea", fue la respuesta. "Dame una prueba fehaciente de esto", rogó el otro. "Ven mañana", respondió el Rabino. Al llegar al día siguiente, el Rabino preguntó: "¿Qué llevas puesto?". "Una prenda", fue la respuesta. "¿Quién lo hizo?", preguntó el Rabino. "Un tejedor", dijo el otro. "No te creo", dijo el Rabino; ​​"dame una prueba fehaciente de esto". <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> "No necesito demostrarlo", dijo el Min; "es lógico que lo haya hecho un tejedor". "Y para que sepas que Dios creó el mundo", observó el Rabino. Cuando el Min se marchó, los discípulos del Rabino le preguntaron: "¿Qué es una prueba fehaciente?". Dijo: «Hijos míos, así como una casa implica un constructor, una prenda un tejedor y una puerta un carpintero, así también la existencia del mundo implica que el Santo —¡bendito sea Él!— lo creó».
 
 _Midrash Terumah_.
 
@@ -448,7 +448,7 @@ _Yalkut_.
 
 En TB P'sachim, fol. 54, col. 1, se dice que la razón de la omisión de las palabras, «Y vio Dios que era bueno», con respecto al segundo día de la semana creativa, fue porque entonces se creó el fuego del infierno; pero véase el contexto.
 
-Cuando Adán vio (por el Espíritu) que su posteridad sería condenada a la Gehena, desobedeció el precepto de procrear. Pero cuando percibió que después de veintiséis <span id="p261">[<sup><small>p. 261</small></sup>]</span> generaciones los israelitas aceptarían la ley, se apresuró a cumplirla; como se dice (Génesis 4:1): _Adam vero cognovit uxorem suam Hevam_. {Y Adán "conoció" a su esposa Eva—_jbh_}
+Cuando Adán vio (por el Espíritu) que su posteridad sería condenada a la Gehena, desobedeció el precepto de procrear. Pero cuando percibió que después de veintiséis <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> generaciones los israelitas aceptarían la ley, se apresuró a cumplirla; como se dice (Génesis 4:1): _Adam vero cognovit uxorem suam Hevam_. {Y Adán "conoció" a su esposa Eva—_jbh_}
 
 _Yalkut_.
 

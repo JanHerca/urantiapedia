@@ -57,7 +57,7 @@ Murió. El sol se ponía.
 
 El Maestro dijo:
 
-Contemplen el cuerpo de mi padre. Ya no es lo que era. Nadie ha vencido jamás a la muerte. Quien nace debe morir. Demuestren su celo por las buenas obras; anden por el camino que conduce a la sabiduría. Enciendan la sabiduría, y la oscuridad se desvanecerá por sí sola. No sigan leyes malvadas; no planten raíces venenosas; no aumenten la maldad del mundo. <span id="p208">[<sup><small>p. 208</small></sup>]</span> Como el auriga que, tras dejar el camino real por un sendero accidentado, llora al ver un eje roto, así también el necio, que se ha desviado de la ley, llora al caer en las fauces de la muerte. El sabio es la antorcha que ilumina al ignorante; guía a la humanidad, pues tiene ojos, y los demás son ciegos.
+Contemplen el cuerpo de mi padre. Ya no es lo que era. Nadie ha vencido jamás a la muerte. Quien nace debe morir. Demuestren su celo por las buenas obras; anden por el camino que conduce a la sabiduría. Enciendan la sabiduría, y la oscuridad se desvanecerá por sí sola. No sigan leyes malvadas; no planten raíces venenosas; no aumenten la maldad del mundo. <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> Como el auriga que, tras dejar el camino real por un sendero accidentado, llora al ver un eje roto, así también el necio, que se ha desviado de la ley, llora al caer en las fauces de la muerte. El sabio es la antorcha que ilumina al ignorante; guía a la humanidad, pues tiene ojos, y los demás son ciegos.
 
 El cuerpo fue llevado a una gran pira funeraria. El Maestro le prendió fuego, y mientras el cuerpo de su padre era consumido por las llamas, mientras la gente de Kapilavastu lloraba y se lamentaba, repitió estas sagradas verdades:
 

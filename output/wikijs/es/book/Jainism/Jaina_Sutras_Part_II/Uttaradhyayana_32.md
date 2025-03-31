@@ -38,7 +38,7 @@ Con atención, escúchame explicarte para tu beneficio la liberación del tiempo
 
 Mediante la enseñanza del verdadero [^520] conocimiento, evitando la ignorancia y el engaño, y destruyendo el amor y el odio, se llega a la liberación final, que no es nada más que dicha. (2)
 
-Este es el camino para lograrlo: servir a los Gurús y a los antiguos (maestros), evitar a la gente necia, <span id="p185">[<sup><small>p. 185</small></sup>]</span> dedicarse con ahínco al estudio y reflexionar celosamente sobre el significado de los Sutras. (3)
+Este es el camino para lograrlo: servir a los Gurús y a los antiguos (maestros), evitar a la gente necia, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> dedicarse con ahínco al estudio y reflexionar celosamente sobre el significado de los Sutras. (3)
 
 Un <i>Srama<i>n</i>a que realiza austeridades y anhela la rectitud [^521] debe comer la cantidad adecuada de alimentos permitidos, debe elegir un compañero de correcto entendimiento y debe vivir en un lugar adecuado para el aislamiento. (4)
 
@@ -100,7 +100,7 @@ Cuando no está satisfecho con esos "colores", y su ansia por ellos se hace cada
 
 Cuando es dominado por un deseo violento, toma la propiedad de otro y no está satisfecho con esos 'colores' y su posesión, entonces su engaño y falsedad aumentan a causa de su codicia; sin embargo, no se librará de su miseria. (30)
 
-Antes y después de mentir [^533], y cuando está a punto de hacerlo, se siente infinitamente infeliz. Así, cuando toma la propiedad ajena y (después de todo) no está satisfecho con los «colores» (que ha <span id="p189">[<sup><small>p. 189</small></sup>]</span> obtenidos), se vuelve infeliz y nadie lo protegerá [^534]. (31)
+Antes y después de mentir [^533], y cuando está a punto de hacerlo, se siente infinitamente infeliz. Así, cuando toma la propiedad ajena y (después de todo) no está satisfecho con los «colores» (que ha <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> obtenidos), se vuelve infeliz y nadie lo protegerá [^534]. (31)
 
 ¿Cómo, entonces, puede un hombre dedicado a los colores obtener felicidad de algo? Sufre dolor al disfrutarlos, por lo que sufrió sufrimiento. (32)
 
@@ -154,7 +154,7 @@ Quien se esfuerza por reconocer la vanidad de todos los deseos [^537], alcanzar�
 
 El hombre desapasionado que ha cumplido con todos sus deberes eliminará rápidamente los obstáculos al conocimiento recto y a la fe recta, y cualquier Karman que produzca obstáculos (a la rectitud). (108)
 
-Entonces él conoce y ve todas las cosas, está libre de engaños y obstáculos, sus Âsravas se han ido, <span id="p192">[<sup><small>p. 192</small></sup>]</span> y es competente en la meditación y concentración de pensamientos, y siendo puro llegará a la beatitud cuando su vida haya terminado. (109)
+Entonces él conoce y ve todas las cosas, está libre de engaños y obstáculos, sus Âsravas se han ido, <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> y es competente en la meditación y concentración de pensamientos, y siendo puro llegará a la beatitud cuando su vida haya terminado. (109)
 
 Se librará de toda miseria que siempre aflige a la humanidad; recuperado de la larga enfermedad, por así decirlo, y glorioso, se volverá infinitamente feliz y alcanzará el objetivo (final). (110)
 

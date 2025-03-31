@@ -40,7 +40,7 @@ Solo un paso te separa del plano de la Cercanía y del Exaltado Árbol del Amor.
 
 Olvídate de los bajos niveles de la fantasía y elévate a las alturas de la Certeza. Abre el ojo de la Verdad para que puedas contemplar la Belleza Radiante y decir: "¡Bendito sea Dios, el Más Excelente de los Creadores!"
 
-Escucha con atención: el ojo mortal nunca percibirá la Belleza Eterna; y la mente muerta <span id="p108">[<sup><small>p. 108</small></sup>]</span> se deleita sólo en la arcilla sin vida; pues lo similar ve lo similar y tiene afinidad con su propia especie.
+Escucha con atención: el ojo mortal nunca percibirá la Belleza Eterna; y la mente muerta <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> se deleita sólo en la arcilla sin vida; pues lo similar ve lo similar y tiene afinidad con su propia especie.
 
 Sé ciego para contemplar mi belleza. Sé sordo para oír mi dulce melodía y mi voz. Sé ignorante para disfrutar de una porción de mi conocimiento. Sé pobre para obtener una porción eterna del mar de mi riqueza eterna.
 
@@ -106,7 +106,7 @@ La fuente del Amor es avanzar hacia el Amado y abandonar todo lo demás excepto 
 
 Mi Amor es Mi Fortaleza. Quien entra en él es rescatado y salvo; quien se aleja de él se extravía y perece.
 
-Dios, solo y exclusivamente, habita en Su propio Lugar, que es Santo por encima del espacio y del tiempo, <span id="p113">[<sup><small>p. 113</small></sup>]</span> mención y expresión, señal, descripción y definición, altura y profundidad.
+Dios, solo y exclusivamente, habita en Su propio Lugar, que es Santo por encima del espacio y del tiempo, <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> mención y expresión, señal, descripción y definición, altura y profundidad.
 
 ¡Oh, Dios mío! ¡Oh, Dios mío! Adorna las cabezas de tus elegidos con la corona del Amor y sus sienes con la ornato de la virtud.
 

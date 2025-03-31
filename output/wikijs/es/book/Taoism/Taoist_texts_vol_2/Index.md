@@ -256,7 +256,7 @@ Kung Po (conde de Kung), ii, 161.
 
 Kung Shan (monte Kung), ii, 161.
 
-Kung-sun Lung (noble y sofista <span id="p327">[<sup><small>p. 327</small></sup>]</span> de Kâo), i, 387, 389; ii, 230. Véase Ping.
+Kung-sun Lung (noble y sofista <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> de Kâo), i, 387, 389; ii, 230. Véase Ping.
 
 Kung-dze Mau (un príncipe de Wei), i, 387.
 
@@ -678,7 +678,7 @@ Cuatro mares, los, i, 171y 295; filósofos o los perfectos, i, 172; límites (= 
 
 Cinco granos, los, i, 171; jefes, i, 245; vísceras, i, 220, 247, 268, 294; colores, i, 328; notas de música, i, 328; armas, i, 334; castigos, i, 335; elementos, i, 346; ii, 189, 258; virtudes, i, 349; reguladores de las cinco notas, i, 351; quíntuple disposición de las virtudes, ii, 178, 179; señoríos feudales, ii, 220; montañas, ii, 317.
 
-Seis energías elementales, i, 169, 301; conjunciones (= el universo <span id="p331">[<sup><small>p. 331</small></sup>]</span> del espacio), i, 189; miembros del cuerpo, i, 226; puntos extremos (= todo el espacio), i, 346, 351; acordes musicales, i, 269; comprensiones (= universo del espacio), i, 330; clásicos, i, 360; estuches de arco (nombre de un libro), ii, 92; facultades de percepción, ii, 139; partes en la organización social, ii, 179; deseos, ii, 251.
+Seis energías elementales, i, 169, 301; conjunciones (= el universo <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> del espacio), i, 189; miembros del cuerpo, i, 226; puntos extremos (= todo el espacio), i, 346, 351; acordes musicales, i, 269; comprensiones (= universo del espacio), i, 330; clásicos, i, 360; estuches de arco (nombre de un libro), ii, 92; facultades de percepción, ii, 139; partes en la organización social, ii, 179; deseos, ii, 251.
 
 Siete órganos preciosos del cuerpo, ii, 272.
 
@@ -1016,7 +1016,7 @@ Dze-kang (discípulo de Confucio), ii, 176, 177;
 
 Dze-kâo (designación del duque de Sheh), i, 210.
 
-Sze-kâu Kih-fû y Dze-kâu Kih-po (hombres a quienes Yâo y Shun <span id="p334">[<sup><small>p. 334</small></sup>]</span> querían renunciar al trono), ii, 149.
+Sze-kâu Kih-fû y Dze-kâu Kih-po (hombres a quienes Yâo y Shun <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> querían renunciar al trono), ii, 149.
 
 Dze-khän (un ministro de Käng), i, 226, 227, 228.
 

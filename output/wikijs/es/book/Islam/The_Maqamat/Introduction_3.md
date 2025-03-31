@@ -41,7 +41,7 @@ MAQAMA, plural Maqámát, de … él se puso de pie, significa principalmente un
 
 (3) Acércate y come, o, si quieres, quédate de pie y habla. [^62]
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 La práctica de ponerse de pie para hablar se remonta a la época homérica:
 
@@ -67,7 +67,7 @@ Y consejos donde las palabras son seguidas por hechos. [^67]
 Con respecto a cada campo de batalla y en cada _maqáma_ (situación);
 Que se obtienen de la poesía pactos y contratos. [^68]
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 …
 De muchos _maqáma_\—discurso—cuyas armas han debilitado el habla de otras personas, en donde hay olas de lenguaje que no se pueden eliminar,
@@ -96,7 +96,7 @@ Los solitarios que no han oído el ladrido de los perros de _maqáma_\—una com
  [^74] …
 Maqáma = Majlis, una compañía de personas.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 (6) Por Hamadhání:—
 

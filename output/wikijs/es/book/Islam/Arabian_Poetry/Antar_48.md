@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 <figure id="Figure_29600" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/29600.jpg">
@@ -60,7 +60,7 @@ Nejim echa una mirada hacia la otra orilla. Ve tiendas ricamente adornadas; nume
 
 Cuando la noche había cubierto con sus sombras las dos orillas del Éufrates—
 
-«Dejemos este lugar», dice el ciego Jezar a su esclavo; «las voces que oigo desde el otro lado me parecen demasiado lejanas para el alcance de mis flechas. Acércame al borde: <span id="p298">[<sup><small>p. 298</small></sup>]</span> mi corazón me dice que un golpe glorioso está a punto de inmortalizar mi nombre y mi venganza!»
+«Dejemos este lugar», dice el ciego Jezar a su esclavo; «las voces que oigo desde el otro lado me parecen demasiado lejanas para el alcance de mis flechas. Acércame al borde: <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> mi corazón me dice que un golpe glorioso está a punto de inmortalizar mi nombre y mi venganza!»
 
 Nejim toma al ciego de la mano, lo acerca al agua, lo hace sentar en la orilla frente a la tienda de Antar y le da su arco y su carcaj. Jezar elige la más afilada de sus flechas, la coloca sobre la cuerda y, con oído atento, espera la hora de la venganza.
 
@@ -74,7 +74,7 @@ Apenas su voz resonante resuena en el lecho hueco del valle del Éufrates, rever
 
 Ante esa voz, que le hace pensar que su flecha ha errado el blanco, el ciego Jezar, aterrorizado al pensar en la venganza de Antar, se desmaya en la orilla, y su esclavo, creyéndolo muerto, vuela sobre su camello, dejando a su amo inanimado donde yacía. El hermano de Antar cruza el río a nado, tropieza con un cuerpo que toma por un cadáver y lo lleva sobre sus hombros, con el arco y las flechas, hasta el campamento.
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## III.
 
@@ -106,7 +106,7 @@ Ya están girando la rienda, cuando un viejo jeque, más reflexivo y más sagaz 
 
 «Mis primos, esa es en verdad la lanza de Antar, ese es en verdad su casco, su armadura y su corcel, cuyo color se asemeja a una noche oscura; pero esa no es ni su figura alta ni su porte varonil. Es la figura y el porte de una mujer tímida, abatida por el peso del hierro que lastima sus frágiles miembros. Creed en mis conjeturas: Antar está muerto, o bien una enfermedad mortal le impide montar a caballo; y este falso guerrero que Abjer lleva es Abla, que, para asustarnos, se ha vestido con las armas de su marido, mientras que el verdadero Antar tal vez esté agonizante en la litera de las mujeres».
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Los jinetes, reconociendo algo probable en las palabras del anciano, vuelven sobre sus pasos y siguen a distancia la caravana, sin atreverse a atacarla.
 
@@ -126,7 +126,7 @@ Sólo un pequeño número, aún confiando en la voz del viejo jeque, continúa s
 
 Antar, a pesar de su debilidad, coloca a Abla en la litera, y montado sobre Abjer, vestido con sus brazos, marcha lentamente a su lado.
 
-Al caer la tarde, llegan a un valle, no muy lejos de la tribu de Abs. Este lugar se llamaba el «Valle de las <span id="p302">[<sup><small>p. 302</small></sup>]</span> Gacelas». Rodeado de montañas inaccesibles, sólo se podía entrar en él por el lado del desierto, por un paso estrecho y tortuoso, por donde apenas podían marchar tres jinetes uno al lado del otro. Antar, deteniéndose en la entrada de este desfiladero, hace entrar primero a sus rebaños, a sus esclavos y al camello que lleva la litera de su querido Abla. Cuando toda la caravana está a salvo en el valle, regresa para situarse solo como centinela al final del desfiladero, frente a la llanura y a los árabes que lo siguen de lejos. En ese momento sus agonías aumentan; sus entrañas se desgarran; cada paso de su corcel le hace sufrir tormentos como el fuego del infierno. La muerte invade sus miembros, pero venera su alma intrépida. Se enfrenta a los árabes; detiene a Abjer; clava la punta de su lanza en el suelo y, apoyado en el tallo, como un guerrero en reposo que deja respirar a su caballo, permanece inmóvil a la entrada del paso.
+Al caer la tarde, llegan a un valle, no muy lejos de la tribu de Abs. Este lugar se llamaba el «Valle de las <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> Gacelas». Rodeado de montañas inaccesibles, sólo se podía entrar en él por el lado del desierto, por un paso estrecho y tortuoso, por donde apenas podían marchar tres jinetes uno al lado del otro. Antar, deteniéndose en la entrada de este desfiladero, hace entrar primero a sus rebaños, a sus esclavos y al camello que lleva la litera de su querido Abla. Cuando toda la caravana está a salvo en el valle, regresa para situarse solo como centinela al final del desfiladero, frente a la llanura y a los árabes que lo siguen de lejos. En ese momento sus agonías aumentan; sus entrañas se desgarran; cada paso de su corcel le hace sufrir tormentos como el fuego del infierno. La muerte invade sus miembros, pero venera su alma intrépida. Se enfrenta a los árabes; detiene a Abjer; clava la punta de su lanza en el suelo y, apoyado en el tallo, como un guerrero en reposo que deja respirar a su caballo, permanece inmóvil a la entrada del paso.
 
 ##VII.
 

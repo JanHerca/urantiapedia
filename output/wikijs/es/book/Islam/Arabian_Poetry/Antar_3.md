@@ -36,7 +36,7 @@ El rey Zoheir convocó a Shedad, el padre de Antar, con sus otros guerreros, par
 
 “Los jinetes se habían marchado, y los niños, las mujeres y los esclavos, hombres y mujeres, se quedaron atrás. Semeeah, la esposa de Shedad, ofreció un magnífico espectáculo en el lago de Zatool Irsad. Se sacrificaron ovejas, se corrió el vino y las muchachas llevaron sus instrumentos. Antar se encontraba entre los asistentes y se emocionó al ver aparecer a Abla con las otras mujeres. Era, en verdad, como un cervatillo amoroso; estaba adornada con collares abigarrados; y cuando Antar la atendía, se sintió abrumado por el océano de su amor y se convirtió en esclavo de sus trenzas negras. Se sentaron a comer y las copas de vino giraron alegremente. Era la primavera del año, cuando toda la tierra brillaba en todo su esplendor: las vides colgaban exuberantes en los cenadores; las flores derramaban alrededor una fragancia ambrosial; cada montículo brillaba con la belleza de sus colores; Los pájaros, en respuesta a sus melodías, cantaban dulcemente desde cada arbusto y de sus gargantas salía armonía; todos los oídos estaban encantados; el suelo estaba cubierto de flores y hierbas; mientras los ruiseñores llenaban el aire con sus notas más suaves. Entonces las doncellas tocaron los címbalos y recitaron los siguientes versos:
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Las sombras han extendido su dosel, y las flores extienden sus almohadas.
 
@@ -68,7 +68,7 @@ Toda virgen deportista posee miradas lánguidas y movimientos encantadores:
 
 Su belleza es la perfección—son la hermosura misma;
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Sus formas elegantes parecen lanzas bien proporcionadas;
 
@@ -82,7 +82,7 @@ Arqueros y atacantes, las hechiceras de los hombres.
 
 Antar, sin embargo, no era hombre que se quedara de brazos cruzados y permitiera que el enemigo destrozara a sus bellas criaturas ante sus ojos. Correr tras él y alcanzar al jinete que había capturado a Abla, arrojarlo al suelo como una masa informe y sin vida, y apoderarse de su caballo y su armadura, fue para Antar un juego de niños. Luego alcanzó al resto del enemigo y con su único brazo realizó tales maravillas que los que escaparon del golpe de su espada mortífera huyeron despavoridos, dejando a las mujeres y el botín que habían tomado.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Esta fue la primera hazaña bélica de Antar; y cuando el rey Zoheir regresó y se enteró de su destreza, lo elogió públicamente y le obsequió con una túnica de honor.
 

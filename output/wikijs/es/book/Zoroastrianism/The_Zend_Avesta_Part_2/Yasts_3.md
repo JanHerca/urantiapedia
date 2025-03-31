@@ -62,7 +62,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 1\. Ahura Mazda le habló a Spitama Zarathu<i>s</i>tra, diciendo: «Para que puedas aumentar Asha-Vahi<i>s</i>ta, ¡oh Spitama Zarathu<i>s</i>tra! con himnos de alabanza, con la ejecución del oficio, con invocaciones, palabras santas, sacrificios, bendiciones y adoración —para morar una vez en el espacio luminoso y brillante, en las hermosas moradas [^223]— para el sacrificio y la invocación de nosotros, los Amesha-Spe<i>n</i>tas [^224]»...
 
-2\. Zaratustra dijo: «¡Dime las palabras correctas, tal como son, oh Ahura Mazda!, para que yo pueda aumentar Asha-Vahi<i>s</i>ta, con himnos de alabanza, <span id="p43">[<sup><small>p. 43</small></sup>]</span> con el cumplimiento del oficio, con invocaciones, palabras sagradas, sacrificios, bendiciones y adoración, —para morar una vez en el espacio luminoso y brillante, en las hermosas moradas— para el sacrificio y la invocación de ustedes, los Amesha-Spe<i>n</i>tas.»
+2\. Zaratustra dijo: «¡Dime las palabras correctas, tal como son, oh Ahura Mazda!, para que yo pueda aumentar Asha-Vahi<i>s</i>ta, con himnos de alabanza, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> con el cumplimiento del oficio, con invocaciones, palabras sagradas, sacrificios, bendiciones y adoración, —para morar una vez en el espacio luminoso y brillante, en las hermosas moradas— para el sacrificio y la invocación de ustedes, los Amesha-Spe<i>n</i>tas.»
 
 3\. [^225]. '...Yo proclamo Asha-Vahi<i>s</i>ta: si proclamo Asha-Vahi<i>s</i>ta, entonces fácil es el camino a la morada de los otros Amesha-Spe<i>n</i>tas [^226], que Ahura Mazda mantiene con Buenos Pensamientos, que Ahura Mazda mantiene con Buenas Palabras, que Ahura Mazda mantiene con Buenas Acciones [^227];
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 8\. 'La raza de la Serpiente huyó; la raza del Lobo huyó; la raza del Bípedo [^233] huyó. El Orgullo huyó; el Desprecio huyó; la Fiebre Ardiente huyó; la Calumnia huyó; la Discordia huyó; el Mal de Ojo huyó.
 
-9\. 'Las palabras más mentirosas y engañosas huyeron; el <i>G</i>ahi [^234], adicto al Yâtu, huyó; el <span id="p45">[<sup><small>p. 45</small></sup>]</span> <i>G</i>ahi, que hace que uno se canse [^235], huyó; el viento que sopla del Norte [^236] huyó; el viento que sopla del Norte se desvaneció.
+9\. 'Las palabras más mentirosas y engañosas huyeron; el <i>G</i>ahi [^234], adicto al Yâtu, huyó; el <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> <i>G</i>ahi, que hace que uno se canse [^235], huyó; el viento que sopla del Norte [^236] huyó; el viento que sopla del Norte se desvaneció.
 
 10\. 'Él es quien me hiere, esa prole de la Serpiente, y quien podría herir a esos Daêvas por miles de miles, por decenas de miles de decenas de miles; él hiere la enfermedad, él hiere la muerte, él hiere a los Daêvas, él hiere la contraobra de los Daêvas, él hiere al impío Ashemaogha, él hiere al opresor de los hombres.
 

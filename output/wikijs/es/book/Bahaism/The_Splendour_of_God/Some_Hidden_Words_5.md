@@ -36,7 +36,7 @@ No te jactes de tu gloria sobre los pobres, porque yo camino delante de él, y t
 
 Si te encuentras en la pobreza, no te aflijas; pues, con el tiempo, el Rey de las Riquezas descenderá a ti. No temas a la humildad, pues la gloria será tu porción.
 
-No os obsesionéis con este mundo, porque con fuego <span id="p102">[<sup><small>p. 102</small></sup>]</span> probamos el oro, y con oro probamos a los sirvientes.
+No os obsesionéis con este mundo, porque con fuego <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> probamos el oro, y con oro probamos a los sirvientes.
 
 Deseas el oro, y Nosotros deseamos separarnos de él. Has comprendido en ello tu propia riqueza, mientras que Yo comprendo que tu riqueza consiste en liberarte de él. ¡Por Mi Vida! Este es Mi Conocimiento, mientras que aquello es tu imaginación; ¿cómo puede Mi Pensamiento coincidir con el Tuyo?
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 ## IX. El pobre árabe escénico y su esposa.
 
@@ -57,7 +57,7 @@ Entre esos mismos árabes estás desprovisto de turnos.
 ¿Qué necesidad tenemos de guerra? Estamos heridos, estamos muertos;
 <sup id="v10"><small>10</small></sup> El dardo del deseo nos ha atravesado de principio a fin con dolor.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 ¿Qué necesidad de faltas, oh sin pecado? ¡Estamos en el fuego del infierno!
 ¿Qué consuelo tenemos? ¡Abrumados por un profundo deseo!
@@ -94,7 +94,7 @@ Que nadie, entonces, venga a ciegas a nuestra casa para alimentarse.”
 Nuestra apariencia exterior es negra, como el corazón oscuro del impostor.
 A esto le falta iluminación, aunque su exterior es inteligente.
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 No tiene esperanza en Dios, ni ningún bien que mostrar,
 Aunque más que Seth o Adán él pretende saber.
@@ -127,7 +127,7 @@ Espera un alma guía; encuentra un cadáver; todo.
 Como cuando, en medio de la noche, uno no sabe el este,[^286]
 <sup id="v40"><small>40</small></sup> Ofrecer la devoción lícita, volviéndose hacia el oeste.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Los pretendientes llevan el hambre en lo más profundo de su corazón.
 Nosotros sufrimos solo falta de pan para nuestras comidas.
@@ -164,7 +164,7 @@ Tú’está seguro de que toda la muerte seguirá, como la luz del sol.
 Si puedes aprender a pensar que esta parte de la muerte es dulce,
 <sup id="v55"><small>55</small></sup> Tú sabes que Dios hará que todo sea para satisfacer tus gustos.
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Nuestros problemas son los heraldos de nuestra muerte por venir.
 No apartes tu rostro del heraldo, como hacen algunos.”
@@ -200,7 +200,7 @@ La mujer levantó un grito: “¡Oh hombre de mente sencilla!
 No me hables de pretensiones, pretensiones y cosas así.
 No me importa ni un ápice el orgullo y la pelusa endeble.
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 ¿Por qué predicar tan fuerte el llamado del sentimiento y el honor?
 Sólo mira nuestra condición. ¡Qué vergüenza que caigas!
@@ -233,7 +233,7 @@ Un enemigo que Dios pueda probar siempre a tu ¡Astucia tonta!
 Tú eres a la vez serpiente y cazador de serpientes, en uno combinado.
 Una serpiente encantadora ¡Serpiente! ¡Orgullo árabe consagrado!
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 ¿Los cuervos se dieron cuenta de su suprema fealdad?
 Tan blancos como la nieve cambiarían, a través de la rabia y la vergüenza absoluta.
@@ -265,7 +265,7 @@ Siempre está orgulloso cuando se quita la gorra. Puede tirar.
 Un hombre de Dios se asemeja al precioso sentido de la vista.
 <sup id="v100"><small>100</small></sup> Nuestros ojos no deben estar vendados, o no podemos ver bien.
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 El comerciante que expone esclavos libres de defectos,
 Se quita la capa inútil que oculta todos los efectos nocivos.
@@ -303,7 +303,7 @@ Esos colmillos son enemigos de la vida de cada serpiente,
 “Nunca me someteré al hechizo de la lujuria y la avaricia.
 Por la avaricia he vencido. Sus fauces no las alimentaré.
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 Gracias a Dios que la avaricia no está entre mis pecados, al menos.
 El contentamiento llena mi corazón; una verdadera fiesta perpetua.
@@ -341,7 +341,7 @@ Impregna su ser, como el azúcar perfuma la hoja de rosa”.
 “¡Ay! Tú eras un tesoro valorado por mi corazón!
 Me encantaba derramar mi alma en tus oídos aparte!
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Una especie de leche es el habla; su teta el alma,—o glándula.
 Para que fluya libremente se necesita una mano amorosa.
@@ -378,7 +378,7 @@ Cuando incluso en las pacificaciones ya no tengo alegría?
 ¡Calla! ¡Calla! O, por el Señor de la vida,
 Dejaré esta tienda para siempre; ¡No serás mi esposa!
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Mucho mejor caminar descalzo que con zapato demasiado pequeño!
 El trabajo del viaje es más dulce que la lucha en el muro de uno!”
@@ -414,7 +414,7 @@ Y tú, como un sacerdote, me adoraste! ¡Ay! ¡Ay!
 Mi corazón cultivé tal como tú lo deseaste.
 Pensaste que era cariñoso. Sabía que lo inspiraba amor.
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Como hierbas aromáticas sobre el fuego, agregaste lo que quisiste,
 <sup id="v165"><small>165</small></sup> Vinagre picante, o miel. Lo que quisieras, lo podrías hacer.
@@ -449,7 +449,7 @@ Al volverse suplicante, se reclama una doble brujería.
 Si él, cuyo orgullo a veces causa dolor a tu mente,
 Para suplicar, agacharse, aunque sea pequeña resistencia encontrar.
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Él, cuya feroz tiranía nuestros corazones sangrantes más duele,
 <sup id="v180"><small>180</small></sup> Al presentar excusas, nos quedamos sin excusas.
@@ -481,7 +481,7 @@ Mientras que las lujurias y la rabia son marcas de bestialidad.
 La mujer bella es un rayo del sol de la Verdad;
 ¿No amado? Un creador; no creado, en verdad.[^292]
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 El marido, ahora, contristado por lo que había dicho,
 Como pecador, a las puertas de la muerte, se arrepiente de la mala acción.
@@ -517,7 +517,7 @@ Mi corazón, como la luna eclipsada, te oscureciste con consternación.
 Mi estrella nunca fue más brillante que la luna llena;
 Cuando se oscurece con el eclipse, seguramente se pone demasiado pronto.
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 Es cierto que los reyes y los príncipes cantan mis alabanzas en sus derrotas;
 Mi estrella eclipsada, la chusma alza sus gritos clamorosos:
@@ -549,7 +549,7 @@ Pero ¿no es esta de todas las obras de Dios la marca constante?
 ‘¡Sé, y es!’[^294] Un murciélago que impulsa al hombre, ¡Sus leyes!
 De entidad, no entidad, ese curso es causa!
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 El ser incoloro teñido con los diversos matices del color,
 Un Moisés contra otro es seguro que chocará.
@@ -583,7 +583,7 @@ La invasión de la no entidad teme por tu corto viaje.
 Al parecer, te invita a su pecho;
 Pero en realidad, repele; como un club es su protesta.
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 Sabe entonces, querido amigo, que el faraón se encoge ante el llamado de Moisés
 Fue, en realidad, como un zapato equivocado en el pie. Eso es todo.
@@ -617,7 +617,7 @@ La mota de tu existencia pronto te obligarán a encogerte.
 Si ocultan ese poder, no lo ejerzan por ti,
 <sup id="v250"><small>250</small></sup> Toda tu docilidad se convertirá en orgullo. Ya lo verás.
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 Incluso como la cualidad bestial, siempre se encuentra en el hombre,
 A su compañero de yugo humano[^297] esclavo y siervo está atado.
@@ -649,7 +649,7 @@ Un profeta único y solitario en el mundo.
 Como por arte de magia, el vasto universo que él hace
 Alrededor de sí mismo gira, quien la brújula más pequeña toma.
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Los tontos lo vieron solo; por eso lo juzgaron ¡algo débil!
 ¿Puede ser débil aquel que es sostenido por el Rey?
@@ -682,7 +682,7 @@ La sangre vital en ese jarrón de la fuente del ser fue traído.
 Dios entra en relación con la forma material,
 Que Él puede ser asilo para cada gusano nacido en la tierra.
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Ningún hombre puede encontrar la entrada para herir el alma del santo;
 Una concha de ostra se aplasta; su perla escapa al control.
@@ -720,7 +720,7 @@ Sus miradas se hundieron abatidas;—triste recurso de la ansiedad.
 El primer día llegó; vieron cada rostro ictérico;
 Y desde allí, en desmayo, se lamentaron dolorosamente.
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Sus pieles escarlatas, el segundo día, dijeron aún más claro,
 El tiempo para el arrepentimiento fue breve y la esperanza era nula.
@@ -754,7 +754,7 @@ Como la leche, el buen consejo fluye de la fuente inmaculada del amor. '
 Los males incalculables que habías acumulado sobre mi paciente cabeza
 Tenía leche cuajada de consejo en lugar de mi pecho.
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 El Señor respondió: “Una gracia te concederé ahora;
 Yo calmaré las heridas infligidas por el arco de su rencor.
@@ -785,7 +785,7 @@ Su conciencia lo golpeaba duramente: “¿Por qué lloras, hombre de sentido com
 ¿Qué motivo tienes para llorar? Dime, ¿te afliges por sus actos?
 <sup id="v320"><small>320</small></sup> ¿Lamentas la extinción de sus pactos despiadados y viles?
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 ¿O no es, acaso, su corazón, corrupto, gangrenado, llorarías?
 En sus lenguas envenenadas, tan parecidas a víboras, ¿las guardarías?
@@ -817,7 +817,7 @@ Sucio, negro como la tinta y fétido, conmociona todos los sentidos.
 Estos se juntan; ahora esto, ahora eso, lo más alto;
 Sus olas hacen un tumulto, como si fuera azotada por una tempestad.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Ese espectáculo de colisiones feroces hecho por la forma de la materia;
 <sup id="v335"><small>335</small></sup> En verdad, los espíritus son los que hacen pactos, o tormenta.
@@ -856,7 +856,7 @@ Cada rubí puede adquirir un matiz maduro, ¡brillante resplandor!
 <sup id="v350"><small>350</small></sup> El berro de ensalada está listo en un mes o dos;
 La rosa requiere algunos años antes de que muestre su tonalidad.
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Para este fin tiene el Señor, cuyo nombre sea siempre bendito,
 En la Sagrada Escritura se declara: «Término señalado». [^306] Hemos cesado.
@@ -891,7 +891,7 @@ Vio mil peligros en el dominio conferido;
 Un peligro para la vida de uno, la fe de uno, el yo interior de uno;
 Tal prueba no tiene igual en el estante del mundo entero.
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Incluso la sagacidad de Salomón hizo mucho exigido,
 Para protegerlo de errores en todo su vasto imperio.
@@ -928,7 +928,7 @@ La forma en que se libra ahora estás a punto de escuchar.
 Si la indicación psíquica hubiera sido suficiente,
 La creación material había sido una moneda inútil.
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 ¿Es el amor por Dios tu pensamiento, objetivo, deseo, diseño, intención?
 A las formas de culto, el ayuno, tú darás tu asentimiento.
@@ -966,7 +966,7 @@ Si lo desea, cada uno puede encontrarlos. No están obsoletos.
 El sentido debe ser recogido de la forma material, exterior;
 Algunos sentidos son patentes; algunos son difíciles de encontrar, diferentes.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 La indicación es débil;—árbol y agua ver;—
 Qué diferentes, al parecer, son sus naturalezas!
@@ -1004,7 +1004,7 @@ Esto debes saberlo, entonces, tú también, amigo mío, como si lo hubieras vist
 Pero, ¡qué bueno! El corazón del creyente puede contenerme!
 Si me buscas, allí búscame, con fuerza y ¡principalmente!”[^308]
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Sus palabras fueron: “Busca dentro de Mis siervos. Allí encontrarás
 El paraíso de Mi aspecto. ¡Tú, la más discreta!”[^309]
@@ -1040,7 +1040,7 @@ Lo que alegas es algo que muchos podrían engañar.
 Cada palabra en vuestras lenguas seguramente está fuera de lugar,
 Como balbuceo hablar de hijo a padre, sin prefacio.
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Tus objeciones precipitadas merecerían ser castigadas,
 <sup id="v430"><small>430</small></sup> Pero que he decretado que la misericordia es más apreciada.
@@ -1075,7 +1075,7 @@ La bella ciudad de Bagdad se enorgullece de besar su vara.
 Si a él recurres, un príncipe serás.
 ¿Por qué, entonces, a la miseria ¿Cómo podemos ver cada hora?
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Compañerismo con los secuaces de la fortuna trae buena suerte;
 <sup id="v445"><small>445</small></sup> ¿Dónde está un elixir como su poder, mi querido pato?
@@ -1113,7 +1113,7 @@ En la corte de justicia fallaría, y traería reproche.
 Un testigo creíble es, entonces, _sine quā non_.
 <sup id="v460"><small>460</small></sup> Para que la petición del pretendiente se sostenga, la prueba debe apoyarse en ella.”
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 Su esposa replicó: “El testigo que necesitas traer,
 Debe, por algún astuto artificio, de tus perspectivas primavera.
@@ -1146,7 +1146,7 @@ Un Tigris fluía con agua, dulce como la miel. —¿Lo hiciste?
 Un océano muy es, rápido en su curso;
 <sup id="v475"><small>475</small></sup> Con barcos y naves, con anzuelos de pesca, tanto finos como gruesos.
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 Vete, pues, buen hombre. El Califa te mostrará su estado.
 Tú comprenderás el texto: «Bajo el cual fluyen ríos.»[^311]
@@ -1178,7 +1178,7 @@ De día y de noche viaja; ¡la carga no es demasiado grande!
 La ansiedad lo agarra con fuerza, no sea que la olla se rompa;
 Con mucho cuidado lo guarda de la desgracia.
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Su esposa pasa todos sus días en oración por él;
 Después de su adoración, añade: “¡Señor! ¡Protege a mi media naranja!
@@ -1211,7 +1211,7 @@ El espectáculo esperanzador ¡Disfrute de la parte de fruición!
 Una voz proclamó: «¡Adelante, todos los hijos de la necesidad!»
 La beneficencia busca mendigos, pues ellos anhelan dones.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 La beneficencia busca a los mendigos y a los necesitados,
 Como la belleza busca su espejo, con una codicia especial.
@@ -1247,7 +1247,7 @@ La esencia de Dios negaría, los atributos de Dios renegarían.
 La fantasía del hombre es una criatura; nacida con suerte mortal.
 Dios no nació. Su escritura dice: «Ni fue engendrado.»[^316]
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 El hombre enamorado de sí mismo, y con el capricho de su fantasía,
 Nunca puede ser un amante que a Dios buscará.
@@ -1283,7 +1283,7 @@ Desnúdate. Entra; y mira el desnudo, el libre.
 No se permite la entrada a un baño mientras se está vestido.
 Pero la ropa, el cuerpo, esto, el alma, deja todo sin adivinar.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Nuestro hombre árabe, desde lejos en el desierto arenoso,
 Ha llegado por fin a los muros de Bagdad, hogar del gusto.
@@ -1319,7 +1319,7 @@ Lo que él pensó agua, quedó fascinado por el hechizo de José!
 De nuevo, mientras Moisés se apresuraba a tomar un carbón de fuego,
 Y encontró la zarza ardiente, que lo condujo al imperio
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 O Jesús, que escapó de sus enemigos con una flota atada,
 Y se encontró entonces aterrizó donde el sol gira![^318]
@@ -1351,7 +1351,7 @@ Quien busca lo finito pierde lo infinito, como sabemos.
 Cuando lo finito con lo finito se enamora, por fuerza,
 Su amado pronto regresa a su fuente infinita.
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Una barba que se pone en manos de otro,
 En espuma sofocada; emblema del jadeo de una mente débil.
@@ -1387,7 +1387,7 @@ Si el mendigo salva a su rey de la necesidad, seguramente es justo.
 El agua es fresca; el pequeño frasco esmaltado en verde y nuevo;
 Llenado de una piscina reabastecida por la lluvia y el rocío.”
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 Al oír esto los guardias se reían en sus mangas;
 Pero aún así, como precioso, tomó el frasco; ¡educados alguaciles de la corte!
@@ -1423,7 +1423,7 @@ Los principios, con él, son los más indeseados. aburridos.
 Un profesor de sintaxis cría una multitud de hijos de gramática,
 Con quien su sintaxis pasa por el sol de soles.
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 Un maestro que inculca el credo de la abnegación,
 Se rodea de alumnos libres de lujuria y codicia.
@@ -1458,7 +1458,7 @@ Para mostrar la gramática la disolución se convierte en.
 Toda la sintaxis, gramática, jurisprudencia, derecho y arte,
 Encontrarás, amigo mío, que el conocimiento es sólo una pequeña parte.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Nuestro pequeño aprendizaje es el cántaro del árabe.
 En Califa, de la sabiduría de Dios tenemos un emblema conseguido.
@@ -1496,7 +1496,7 @@ Cuya plenitud no puede ser confinada en cualquier lugar.
 Ese tesoro estaba latente. A través de la plenitud estalló,
 Más glorioso que los cielos se volvió desde entonces la tierra.
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 El tesoro latente, derramando sus grandes riquezas,
 La tierra se hizo real, vestida con algo más que un estado regio.
@@ -1528,7 +1528,7 @@ Y cuando con comida te llenas, contaminado directamente se vuelve
 Entonces, siendo como un perro o un stock, insensato, impuro,
 ¿Cómo puedes progresar? ¿En el camino de la virtud, seguro?
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 Sea lo que sea lo que cazas, perro eres, en verdad.
 No alimentes, entonces, así, al perro de la lujuria. diente voraz.
@@ -1566,7 +1566,7 @@ Esa forma es corrompida,—pueden los hombres pecar seducir.
 El oro es una esencia fija, producida por el Dios de la naturaleza;
 El sello del ídolo es transitorio; pronto pisoteado.
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 Tú por una pulga a las llamas tu cama nunca darías;
 Por el zumbido de un mosquito, no deseo dejar de vivir.
@@ -1600,7 +1600,7 @@ Ahora escucha de dónde ha surgido el motivo de su disputa:
 Partes finitas; no partes infinitas de lo infinito,
 Como aroma de rosa,—parte infinita de lo definido.
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 La belleza del verdor es infinita, como una parte;
 El arrullo de la paloma es infinito, en el arte de la lógica.
@@ -1634,7 +1634,7 @@ En ese día terrible tragará la más sucia lejía de la deshonra.
 El miserable cuyo rostro no brilla como el sol,
 <sup id="v680"><small>680</small></sup> Se esforzará en vano detrás del velo más denso para correr.
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 Si, como algunas espinas, su tallo no muestra una sola rosa,
 Esa marea primaveral resultará fatal para su reposo seguro.

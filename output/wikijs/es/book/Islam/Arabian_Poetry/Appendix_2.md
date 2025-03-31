@@ -52,7 +52,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 137\. El tiempo mezcla sus desgracias con sus favores y afecta a sus hijos con miseria en _en medio_ de la alegría.
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 138\. Alabado sea Dios, cuya beneficencia es de esperar! ¡Que Él siga siendo objeto de alabanza por la mañana y por la tarde!
 

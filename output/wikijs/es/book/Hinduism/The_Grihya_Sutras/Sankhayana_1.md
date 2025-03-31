@@ -42,7 +42,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. [^13]. Cuando (un alumno) vaya a regresar (de su maestro), que conserve (como su fuego doméstico) aquel en el que haya puesto el último trozo de leña (como lo exigen las reglas para un estudiante),
 
-3\. O (debería conservar) su fuego nupcial. <span id="p13">[<sup><small>p. 13</small></sup>]</span>
+3\. O (debería conservar) su fuego nupcial. <span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 4\. Algunos afirman que (el fuego doméstico debe encenderse) en el momento de la división de la herencia.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 11\. Por la mañana ofrecerá una oblación completa con un verso consagrado a Vishnu, o en silencio.
 
-12\. [^17]. El momento de encenderlo (es decir, el fuego doméstico) y de ofrecer sacrificios en él se ha explicado en las reglas del Agnihotra. <span id="p15">[<sup><small>p. 15</small></sup>]</span>
+12\. [^17]. El momento de encenderlo (es decir, el fuego doméstico) y de ofrecer sacrificios en él se ha explicado en las reglas del Agnihotra. <span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 13 [^18]. Y 'investido con el cordón sacrificial', etc., todas estas reglas, en la medida en que sean aplicables, deben aplicarse (aquí también) en consecuencia de la unidad del ritual.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Al final de los actos sacrificiales (sigue) la distribución de alimentos a los Brâhma<i>n</i>as.
 
-2\. Voz, forma (agradable), edad, erudición, carácter moral y conducta (recta) son las cualidades (requeridas en los brahmanes que deben ser invitados). <span id="p16">[<sup><small>p. 16</small></sup>]</span>
+2\. Voz, forma (agradable), edad, erudición, carácter moral y conducta (recta) son las cualidades (requeridas en los brahmanes que deben ser invitados). <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 3\. Sin embargo, el aprendizaje supera cualquier otra cualificación.
 
@@ -106,11 +106,11 @@ dateCreated: 2025-1-15T23:3:27Z
 
 Él ayuna.
 
-2\. [^21]. Por la mañana, cuando el sol brilla en la <span id="p17">[<sup><small>p. 17</small></sup>]</span> copa de los grandes árboles, ese es el momento más propicio para todo tipo de sacrificios, a menos que haya una regla especial.
+2\. [^21]. Por la mañana, cuando el sol brilla en la <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> copa de los grandes árboles, ese es el momento más propicio para todo tipo de sacrificios, a menos que haya una regla especial.
 
 3\. [^22]. Con una mente genial, limpia, en un lugar puro y protegido, habiendo cocinado una porción abundante y fina de arroz, ofrece esa oblación cocida a las deidades de los festivales de la luna nueva y llena, distribuyéndola de la manera debida.
 
-4\. [^23]. En las oblaciones de alimentos cocinados, los actos de tomar (la oblación prevista), colocarla (cerca del fuego) y rociarla (con agua) se realizan con respecto a las deidades de los (respectivos) Mantras. <span id="p18">[<sup><small>p. 18</small></sup>]</span>
+4\. [^23]. En las oblaciones de alimentos cocinados, los actos de tomar (la oblación prevista), colocarla (cerca del fuego) y rociarla (con agua) se realizan con respecto a las deidades de los (respectivos) Mantras. <span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 5 [^24]. Y son válidas las reglas sobre las porciones que deben cortarse (del alimento sacrificial).
 
@@ -128,7 +128,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. Algunos dicen que si usa granos, debe lavarlos.
 
-13\. Con los demás alimentos no se realiza tal preparación. <span id="p19">[<sup><small>p. 19</small></sup>]</span>
+13\. Con los demás alimentos no se realiza tal preparación. <span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 14 [^28]. Por la tarde (hace la ofrenda) a Agni, por la mañana a Sûrya,
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^30]. Cuando se haya levantado por la mañana y haya bebido agua, que repita diariamente su recitación.
 
-2\. (Esto consiste en, o está acompañado por, los siguientes textos:) los dos versos, 'Hoy, dios Savitar' (Rig-veda V, 82, 4-5); el himno, 'Vete, Manasaspati' (X, 164); el himno, 'Rectitud y verdad' (X, 190); los versos, 'Mirad hacia abajo, oh Âdityas', hasta el final del himno (VIII, 47, 11-18); <span id="p20">[<sup><small>p. 20</small></sup>]</span> el verso, 'Oh Indra, los mejores tesoros' (II, 21, 6); el verso, 'El cisne que mora en la pureza' (IV, 40, 5); el verso, 'Adoración a los grandes' (I, 27, 13); el verso, 'Lo que tememos, Indra' (VIII, 50, 13); el verso, 'Y del sueño' (I, 120, 12); el verso, 'El que me dice, oh rey' (II, 28, 10); el himno, 'Que la gloria sea mía, Agni' (X, 128); y los cinco versos, 'La felicidad puede crear para nosotros' (V, 51, 11 seq.).
+2\. (Esto consiste en, o está acompañado por, los siguientes textos:) los dos versos, 'Hoy, dios Savitar' (Rig-veda V, 82, 4-5); el himno, 'Vete, Manasaspati' (X, 164); el himno, 'Rectitud y verdad' (X, 190); los versos, 'Mirad hacia abajo, oh Âdityas', hasta el final del himno (VIII, 47, 11-18); <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> el verso, 'Oh Indra, los mejores tesoros' (II, 21, 6); el verso, 'El cisne que mora en la pureza' (IV, 40, 5); el verso, 'Adoración a los grandes' (I, 27, 13); el verso, 'Lo que tememos, Indra' (VIII, 50, 13); el verso, 'Y del sueño' (I, 120, 12); el verso, 'El que me dice, oh rey' (II, 28, 10); el himno, 'Que la gloria sea mía, Agni' (X, 128); y los cinco versos, 'La felicidad puede crear para nosotros' (V, 51, 11 seq.).
 
 ## KHANDA 5.
 
@@ -154,7 +154,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. Habiéndolo encendido mediante frotamientos, según algunos maestros, en su matrimonio.
 
-5\. Durante el curso norte del sol, en el <span id="p21">[<sup><small>p. 21</small></sup>]</span> tiempo de la luna creciente, en un día auspicioso tomará la mano de una muchacha,
+5\. Durante el curso norte del sol, en el <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> tiempo de la luna creciente, en un día auspicioso tomará la mano de una muchacha,
 
 6\. ¿Quién debe poseer las características (auspiciosas) (requeridas),
 
@@ -177,7 +177,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4. Tras pronunciar estas palabras, piden a la muchacha en matrimonio, recitando los nombres de los clanes. Los habitantes giran sus rostros hacia el este y los visitantes hacia el oeste.
 
-5\. Cuando el asunto sea del agrado de ambas partes, que toquen un recipiente lleno con flores, <span id="p22">[<sup><small>p. 22</small></sup>]</span> grano frito, frutas, cebada y oro, y que reciten (la fórmula): «Eres imperturbable, el vigor inalterable de los dioses, indestructible, protector contra la maldición, inexpugnable. Que pueda alcanzar la verdad de inmediato. Concédeme la prosperidad».
+5\. Cuando el asunto sea del agrado de ambas partes, que toquen un recipiente lleno con flores, <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> grano frito, frutas, cebada y oro, y que reciten (la fórmula): «Eres imperturbable, el vigor inalterable de los dioses, indestructible, protector contra la maldición, inexpugnable. Que pueda alcanzar la verdad de inmediato. Concédeme la prosperidad».
 
 6\. [^37]. Con el verso: «La descendencia puede producirnos» (Rig-veda X, 85, 43), el Â<i>k</i>ârya de la familia de la muchacha, poniéndose de pie, coloca (el recipiente) sobre su cabeza (diciendo): «Pongo descendencia en ti, pongo ganado en ti, esplendor y brillo sagrado pongo en ti».
 
@@ -189,7 +189,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^39]. (Que considere en las ceremonias a realizar,) de las dos direcciones intermedias orientales, la del sur como aquella a la que (los ritos) deben dirigirse, si los ritos pertenecen a los Manes,
 
-De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>âna, debe considerarse como aquella a la que deben dirigirse las ceremonias sagradas a los dioses, como las oblaciones, etc. —Comp. Â<i>valâyana-</i>valâyana-<i>S</i>raut. I, 12, 4.} <span id="p23">[<sup><small>p. 23</small></sup>]</span>
+De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>âna, debe considerarse como aquella a la que deben dirigirse las ceremonias sagradas a los dioses, como las oblaciones, etc. —Comp. Â<i>valâyana-</i>valâyana-<i>S</i>raut. I, 12, 4.} <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 4\. El del norte, si los ritos pertenecen a los dioses,
 
@@ -205,7 +205,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 10\. O (lo lleva adelante) en silencio,
 
-11\. Luego, se seca con la mano mojada tres veces alrededor del fuego, girando hacia él su lado derecho. A esto lo llaman SAMÛHANA (barrer juntos). <span id="p24">[<sup><small>p. 24</small></sup>]</span>
+11\. Luego, se seca con la mano mojada tres veces alrededor del fuego, girando hacia él su lado derecho. A esto lo llaman SAMÛHANA (barrer juntos). <span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 12\. Una vez, girando su lado izquierdo hacia él, en los ritos pertenecientes a los Manes.
 
@@ -227,7 +227,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 8\. [^44]. Lleva hacia el lado norte las aguas de Pra<i>n</i>îtâ con las palabras: '¿Quién os lleva hacia adelante?'—
 
-9\. [^45]. Toma con la mano izquierda las hojas de Ku<i>s</i>a y las coloca (en el suelo) con la mano derecha, <span id="p25">[<sup><small>p. 25</small></sup>]</span>
+9\. [^45]. Toma con la mano izquierda las hojas de Ku<i>s</i>a y las coloca (en el suelo) con la mano derecha, <span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 10\. Doblando su rodilla derecha,
 
@@ -251,7 +251,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 20\. [^50]. Lo saca del fuego hacia el norte con las palabras: 'Para darte jugo';
 
-21\. [^51]. Y sosteniendo los dos coladores (Ku<i>s</i>a) con sus puntas hacia el norte, sujetándolos por ambos lados <span id="p26">[<sup><small>p. 26</small></sup>]</span> con los pulgares y el anular, los dobla hacia abajo, con las puntas hacia arriba, y los sumerge en el Â<i>s</i>ya con las palabras:
+21\. [^51]. Y sosteniendo los dos coladores (Ku<i>s</i>a) con sus puntas hacia el norte, sujetándolos por ambos lados <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> con los pulgares y el anular, los dobla hacia abajo, con las puntas hacia arriba, y los sumerge en el Â<i>s</i>ya con las palabras:
 
 'Por el impulso de Savitar te purifico con este purificador intacto, con los rayos del buen sol.'
 
@@ -269,7 +269,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 2\. Según el propósito se deben elegir las propiedades (de las diferentes cosas que se utilizarán en cada oblación).
 
-3\. [^54]. Tomando las hojas Ku<i>s</i>a con la izquierda y el <span id="p27">[<sup><small>p. 27</small></sup>]</span> Sruva por debajo con la mano derecha, con las palabras: «La mano de Vish<i>s</i>u eres tú»—
+3\. [^54]. Tomando las hojas Ku<i>s</i>a con la izquierda y el <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> Sruva por debajo con la mano derecha, con las palabras: «La mano de Vish<i>s</i>u eres tú»—
 
 4\. [^55]. Él ofrece con el Sruva las oblaciones Â<i>g</i>ya.
 
@@ -287,11 +287,11 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 'Pûshan es rico en parentesco; que me haga rico en parentesco por el padre, la madre y los hermanos de NN; ¡svâhâ!'
 
-10\. [^58]. En las oblaciones de Â<i>ya, la ofrenda de las dos oblaciones de Â</i>ya y de las oblaciones de Svish<i>ya, la ofrenda de las dos oblaciones de Â</i>ak<i>ya, la ofrenda de las dos oblaciones de Â</i>t no se mantiene, <span id="p28">[<sup><small>p. 28</small></sup>]</span>
+10\. [^58]. En las oblaciones de Â<i>ya, la ofrenda de las dos oblaciones de Â</i>ya y de las oblaciones de Svish<i>ya, la ofrenda de las dos oblaciones de Â</i>ak<i>ya, la ofrenda de las dos oblaciones de Â</i>t no se mantiene, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 11 [^59]. Ni en las oblaciones permanentes, según las oblaciones Mâ<i>ya la ofrenda de las dos oblaciones Â</i><i>ya la ofrenda de las dos Â</i>ûkeya.
 
-12\. [^60]. El lugar de la inserción es el intervalo entre el Mahâvyâh<i>ri</i>tis, la expiación general, y la oblación a Pra<i>ri</i>pati. <span id="p29">[<sup><small>p. 29</small></sup>]</span>
+12\. [^60]. El lugar de la inserción es el intervalo entre el Mahâvyâh<i>ri</i>tis, la expiación general, y la oblación a Pra<i>ri</i>pati. <span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 13\. Si la oblación consiste en Â<i>ri</i>ya, que tome las hojas de Ku<i>ri</i>a en su mano izquierda con la derecha en sus puntas y con la izquierda en sus raíces, y que moje sus puntas (con Â<i>ri</i>ya) en el Sruva, el medio y las raíces en la olla de Â<i>ri</i>ya;
 
@@ -305,7 +305,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 18\. Las oblaciones para las que solo se indican las deidades, pero no se prescriben textos, deben hacerse simplemente con la palabra SVÂHÂ: "¡A tal y tal deidad, svâhâ! ¡A tal y tal deidad, svâhâ!".
 
-19\. [^62]. El ritual (aquí) declarado del sacrificio (que se realizará <span id="p30">[<sup><small>p. 30</small></sup>]</span>) cuando se ha declarado el consentimiento (del padre) (para entregar a su hija)—
+19\. [^62]. El ritual (aquí) declarado del sacrificio (que se realizará <span id="p30"><sup><small>[ p. 30 ]</small></sup></span>) cuando se ha declarado el consentimiento (del padre) (para entregar a su hija)—
 
 ## KHANDA 10.
 
@@ -319,7 +319,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 5\. [^66]. Se realizan todas las ofrendas de alimentos cocinados, sin oblaciones PRAYÂ_G_A y ANUYÂ_G_A, sin (la invocación del) I_L_Â, sin recitación de NIGADA y sin versos SÂMIDHENÎ.
 
-6\. También existen los siguientes <i>S</i>lokas: <span id="p31">[<sup><small>p. 31</small></sup>]</span>
+6\. También existen los siguientes <i>S</i>lokas: <span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 7 [^67]. '(Una oblación se llama) HUTA, (si se hace) mediante la realización del Agnihotra; AHUTA (es decir, no sacrificada, si) mediante la ofrenda de Bali; PRAHUTA (es decir, sacrificada, si) mediante un sacrificio a los Manes; PRÂ_S_ITA (es decir, probada, si) se deposita como ofrenda en un Brâhma<i>n</i>a.
 
@@ -331,7 +331,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 1\. [^70]. Ahora bien, cuando la novia ha de ser llevada (a la casa del novio) esa noche, o la siguiente, o la tercera noche,
 
-2\. [^71]. Esa noche, al desaparecer la oscuridad, lavan a la muchacha hasta la cabeza con agua perfumada con toda clase de hierbas y las frutas más selectas, junto con aromas; <span id="p32">[<sup><small>p. 32</small></sup>]</span>
+2\. [^71]. Esa noche, al desaparecer la oscuridad, lavan a la muchacha hasta la cabeza con agua perfumada con toda clase de hierbas y las frutas más selectas, junto con aromas; <span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 3\. Le ponen una prenda recién teñida o (nueva) que aún no ha sido lavada;
 
@@ -351,7 +351,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 2\. Con éstos no se comportará de manera impropia, excepto cuando se trate de alimentos prohibidos o de una transgresión.
 
-3\. Tras obtener su permiso, le entrega la prenda con el verso «El Raibhî era» (Rig-veda X, 85, 6). <span id="p33">[<sup><small>p. 33</small></sup>]</span>
+3\. Tras obtener su permiso, le entrega la prenda con el verso «El Raibhî era» (Rig-veda X, 85, 6). <span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 4\. Con (el verso), 'La mente era el cojín' (ibid. 7) toma la caja de ungüentos.
 
@@ -363,11 +363,11 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 8\. Sus parientes atan (a su cuerpo) un cordón rojo y negro, de lana o lino, con tres gemas (de amuleto), con el verso: 'Azul oscuro y rojo' (Rig. veda X, 85, 28).
 
-9\. Con el verso «Llenas de miel las hierbas» (Rig-veda IV, 57, 3), el novio ata flores de Madhūka a su cuerpo. <span id="p34">[<sup><small>p. 34</small></sup>]</span>
+9\. Con el verso «Llenas de miel las hierbas» (Rig-veda IV, 57, 3), el novio ata flores de Madhūka a su cuerpo. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 10 [^75]. En la boda, una vaca, cuando se ha realizado la ceremonia Argha; en la casa, una vaca: estas son las dos vacas Madhuparka.
 
-11\. [^76]. (El novio) hace que la muchacha se siente detrás del fuego, y mientras ella lo sostiene, hace tres oblaciones con los Mahâvyâh<i>ri</i>tis. <span id="p35">[<sup><small>p. 35</small></sup>]</span>
+11\. [^76]. (El novio) hace que la muchacha se siente detrás del fuego, y mientras ella lo sostiene, hace tres oblaciones con los Mahâvyâh<i>ri</i>tis. <span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 12\. Una cuarta (oblación) con (los tres Mahâvyâh<i>ri</i>tis) juntos debe ser entendida a partir de esta regla.
 
@@ -381,7 +381,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 3\. Y cuando haya murmurado los cinco versículos siguientes,
 
-4\. [^77]. (Continúa así:) 'Este soy yo, ese eres tú; <span id="p36">[<sup><small>p. 36</small></sup>]</span> ese eres tú, este soy yo; el cielo yo, la tierra tú; el <i>Rik<i> eres tú, el Sâman yo. Así que sé devoto a mí.
+4\. [^77]. (Continúa así:) 'Este soy yo, ese eres tú; <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> ese eres tú, este soy yo; el cielo yo, la tierra tú; el <i>Rik<i> eres tú, el Sâman yo. Así que sé devoto a mí.
 
 ¡Bien! Casémonos aquí. Procreemos descendencia. Tengamos muchos hijos que lleguen a la vejez.
 
@@ -393,7 +393,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 8\. Y se lo entrega a un estudiante que observa silencio.
 
-9\. [^79]. Deben rodear esta agua de Stheyâ, (ubicada) al noreste, de modo que giren hacia ella con su lado derecho. <span id="p37">[<sup><small>p. 37</small></sup>]</span>
+9\. [^79]. Deben rodear esta agua de Stheyâ, (ubicada) al noreste, de modo que giren hacia ella con su lado derecho. <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 10\. Y después de que (el Â<i>k</i>ârya) haya colocado una piedra hacia la dirección norte,
 
@@ -415,7 +415,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 1\. «Esta mujer, esparciendo granos, reza así: “¡Que traiga felicidad a mis parientes; que mi esposo viva mucho tiempo! ¡Svâhâ!”». Mientras el esposo murmura este texto, ella se sacrifica de pie.
 
-2\. [^81]. (Todas las ceremonias), comenzando desde la pisada <span id="p38">[<sup><small>p. 38</small></sup>]</span> sobre la piedra, (se repiten) de la misma manera por segunda vez,
+2\. [^81]. (Todas las ceremonias), comenzando desde la pisada <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> sobre la piedra, (se repiten) de la misma manera por segunda vez,
 
 3\. Y de la misma manera una tercera vez.
 
@@ -435,7 +435,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 11\. Que le dé algo al Brâhma<i>n</i>as cada vez, en los Sthâlîpâkas y otros ritos;
 
-12\. [^85]. Para quien conoce el himno de la Surya, el vestido de novia. <span id="p39">[<sup><small>p. 39</small></sup>]</span>
+12\. [^85]. Para quien conoce el himno de la Surya, el vestido de novia. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 13 [^86]. Una vaca es el regalo opcional que puede dar un Brâhma<i>n</i>a,
 
@@ -453,7 +453,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 2\. 'Lamentan por la que está viva' (Rig-veda X, 40, 10), si ella comienza a llorar.
 
-3\. [^88]. La esposa entonces unta el eje del carro con mantequilla clarificada con este (verso): «Festieron, se emborracharon» (Rig-veda I, 82, 2), <span id="p40">[<sup><small>p. 40</small></sup>]</span>
+3\. [^88]. La esposa entonces unta el eje del carro con mantequilla clarificada con este (verso): «Festieron, se emborracharon» (Rig-veda I, 82, 2), <span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 4\. Y con los dos (versos), 'Pura son tus ruedas', 'Tus dos ruedas' (Rig-veda X, 85, 12. 16), de las dos ruedas la primera con el primer (verso) y la segunda con el segundo (verso),
 
@@ -479,7 +479,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 15\. 'El cual es de la mujer' (ibid. 31), cerca de un cementerio;
 
-16\. El medio verso, 'Oh árbol con tus cien <span id="p41">[<sup><small>p. 41</small></sup>]</span> ramas' (Rig-veda III, 8, 11), lo murmura cerca de un gran árbol;
+16\. El medio verso, 'Oh árbol con tus cien <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> ramas' (Rig-veda III, 8, 11), lo murmura cerca de un gran árbol;
 
 17\. 'La buena protectora' (Rig-Veda X, 63, 10), cuando asciende a un barco;
 
@@ -501,7 +501,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 3\. 'Con el dios Agni, con el mundo terrenal de los mundos y el Rig-veda de los Vedas: con ello te apaciguo, NN, svâhâ!
 
-'Con el dios Vâyu, con el mundo aéreo de los mundos, <span id="p42">[<sup><small>p. 42</small></sup>]</span> con el Ya<i>g</i>ur-veda de los Vedas: con ello te apaciguo, NN, svâhâ!
+'Con el dios Vâyu, con el mundo aéreo de los mundos, <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> con el Ya<i>g</i>ur-veda de los Vedas: con ello te apaciguo, NN, svâhâ!
 
 'Con el dios Sûrya, con el mundo celestial de los mundos, con el Sâma-veda de los Vedas: con ello te apaciguo, NN, svâhâ!
 
@@ -515,7 +515,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 7\. Y habiendo recitado rápidamente los cuatro versos, 'Y esas medicinas divinas' (Rig-veda VIII, 18, 8), al final (de ese texto) con la palabra svâhâ (vierte) el resto sobre (su) cabeza.
 
-8\. [^92]. Aquí algunos colocan a un niño de buena cuna a ambos lados, en su regazo, con este (verso), 'En tu vientre' (ver más abajo, cap. 19, 6), <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+8\. [^92]. Aquí algunos colocan a un niño de buena cuna a ambos lados, en su regazo, con este (verso), 'En tu vientre' (ver más abajo, cap. 19, 6), <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 9\. O también en silencio.
 
@@ -543,7 +543,7 @@ De las dos direcciones intermedias orientales, sagradas para Î<i>valâyana-</i>
 
 8. Que sirvan el fuego nupcial por la tarde y por la mañana con las palabras: «¡A Agni svâhâ! ¡A Agni Svish<i>t</i>ak<i>t</i>t svâhâ!».
 
-9\. «Que los dos hombres, Mitra y Varuna, que los dos hombres, ambos Avins, que el hombre Indra y también Agni, hagan crecer un hombre en mí. ¡Svâhâ!» —con <span id="p44">[<sup><small>p. 44</small></sup>]</span> (estas palabras) ofrece la primera oblación si desea concebir.
+9\. «Que los dos hombres, Mitra y Varuna, que los dos hombres, ambos Avins, que el hombre Indra y también Agni, hagan crecer un hombre en mí. ¡Svâhâ!» —con <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> (estas palabras) ofrece la primera oblación si desea concebir.
 
 10\. Durante diez días no saldrán de casa.
 
@@ -644,7 +644,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 7\. (Luego sacrifica con los siguientes textos): 'Que Dhâtar le dé a su adorador más vida y seguridad; que podamos obtener el favor del dios cuyas leyes son veraces.
 
-'Dhâtar dispone de la descendencia y la riqueza; Dhâtar ha creado todo este mundo; Dhâtar dará un <span id="p48">[<sup><small>p. 48</small></sup>]</span> hijo al sacrificador: a él sacrificarás una ofrenda rica en ghee.'
+'Dhâtar dispone de la descendencia y la riqueza; Dhâtar ha creado todo este mundo; Dhâtar dará un <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> hijo al sacrificador: a él sacrificarás una ofrenda rica en ghee.'
 
 (Además) con los tres versos, 'Ne<i>g</i>amesha, vuela' (Rig-veda Khailika sûkta, después de X, 184, vol. vi, pág. 31), y en sexto lugar el verso, 'Pra<i>g</i>âpati' (Rig-veda X, 121, 10).
 
@@ -658,7 +658,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 12\. 'O si algún otro es aún más valiente.'
 
-13\. [^101]. Después de verter grano frito en una olla de agua, que él le dé de beberlo con los seis versos, <span id="p49">[<sup><small>p. 49</small></sup>]</span> «Que Vishnu cuide de tu vientre», «Yo llamo a Râkâ» (Rig-veda X, 184, 1; II, 32, 4-8).
+13\. [^101]. Después de verter grano frito en una olla de agua, que él le dé de beberlo con los seis versos, <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> «Que Vishnu cuide de tu vientre», «Yo llamo a Râkâ» (Rig-veda X, 184, 1; II, 32, 4-8).
 
 14\. Que la toque entonces (con las palabras),
 
@@ -680,7 +680,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 ## KHANDA 24.
 
-1\. [^104]. Ahora el Gâtakarman (es decir, la ceremonia del recién nacido). <span id="p50">[<sup><small>p. 50</small></sup>]</span>
+1\. [^104]. Ahora el Gâtakarman (es decir, la ceremonia del recién nacido). <span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 2 [^105]. Que (el padre) sople tres veces sobre el recién nacido y luego aspire su aliento con las palabras: 'Inspira con el _Ri__k_, respira hacia dentro con el Ya<i>g</i>us, exhala con el Sâman'.
 
@@ -692,7 +692,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 6\. El décimo día, un nombre de uso común, que agrade a los brahmanes.
 
-7\. Que pulverice pelos negros, blancos y rojos de un buey negro, mezcle ese polvo con esas cuatro sustancias (véase Sûtra 3) y se lo dé de comer al niño cuatro veces: tal es la opinión de Mâ<i>nd</i>ûkeya. <span id="p51">[<sup><small>p. 51</small></sup>]</span>
+7\. Que pulverice pelos negros, blancos y rojos de un buey negro, mezcle ese polvo con esas cuatro sustancias (véase Sûtra 3) y se lo dé de comer al niño cuatro veces: tal es la opinión de Mâ<i>nd</i>ûkeya. <span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 8 [^106]. Si le place (que lo haga) con las palabras: "¡Bhû_h_! ¡El Rig-veda te lo inculco, NN, svâhâ!"
 
@@ -716,7 +716,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 ## KHANDA 25.
 
-1\. [^108]. Después de diez días, el despertar de la madre. <span id="p52">[<sup><small>p. 52</small></sup>]</span>
+1\. [^108]. Después de diez días, el despertar de la madre. <span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 2\. Padre y madre con la cabeza lavada, vestidos con ropas nuevas que aún no han sido lavadas;
 
@@ -782,7 +782,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 19\. A los devas Vi<i>ve</i>s, a los ashâ<i>s</i>âs.
 
-20\. A Brahman, a Abhi<i>g</i>it. <span id="p54">[<sup><small>p. 54</small></sup>]</span>
+20\. A Brahman, a Abhi<i>g</i>it. <span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 21\. A Vish<i>g</i>u, a _S<i>g</i>n_a.
 
@@ -842,7 +842,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 8. Vierte agua fría en agua tibia con el verso: «Mezclaos, oh santos, con vuestras olas, oh melados, mezclad leche con miel, oh amados, para obtener riqueza».
 
-9\. «Que las aguas te humedezcan para la vida, para la vejez y el esplendor. La triple edad de <i>G</i>amadagni, la triple edad de Ka<i>s</i>yapa, la triple edad de <span id="p56">[<sup><small>p. 56</small></sup>]</span> Agastya, la triple edad que pertenece a los dioses, ¡esa triple edad te la produzco! ¡NN!» —con estas palabras, se roció la parte derecha del cabello tres veces con agua tibia.
+9\. «Que las aguas te humedezcan para la vida, para la vejez y el esplendor. La triple edad de <i>G</i>amadagni, la triple edad de Ka<i>s</i>yapa, la triple edad de <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> Agastya, la triple edad que pertenece a los dioses, ¡esa triple edad te la produzco! ¡NN!» —con estas palabras, se roció la parte derecha del cabello tres veces con agua tibia.
 
 10\. Habiendo desatado los mechones enredados, según algunos (maestros), con la pluma de un puercoespín,
 
@@ -862,7 +862,7 @@ Abre tu matriz; recibe el esperma del hombre; que un hijo varón sea engendrado 
 
 18\. Bajo las axilas, una sexta y una séptima vez, durante el Godânakarman (ceremonia del afeitado de la barba).
 
-19\. El Godânakarman es idéntico al _K<i>û</i>d_âkarman, <span id="p57">[<sup><small>p. 57</small></sup>]</span>
+19\. El Godânakarman es idéntico al _K<i>û</i>d_âkarman, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 20\. (Se realizará) en el año dieciséis o en el año dieciocho.
 

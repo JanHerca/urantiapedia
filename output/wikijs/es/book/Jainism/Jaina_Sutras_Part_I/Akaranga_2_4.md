@@ -40,13 +40,13 @@ CUARTA LECCIÓN, LLAMADA MODOS DE HABLA [^413].
 
 Un monje o una monja, al escuchar y percibir estos usos del lenguaje, debe saber que los siguientes no deben emplearse ni han sido empleados hasta ahora (por personas de conducta ejemplar): quienes hablan con ira o con orgullo, con engaño o por lucro, quienes, consciente o inconscientemente, pronuncian palabras duras. Deben evitar todo esto, ya que es censurable. Empleando su juicio, deben saber algo con certeza y algo con incertidumbre [^414]: (1) (NN) haber recibido alimento o no haberlo recibido, haberlo comido o no haberlo comido, ha venido o no ha venido, viene o no viene, vendrá o no vendrá. (2)
 
-Considerando bien lo que se dice, hablando con precisión, se debe emplear el lenguaje con moderación y moderación: singular, dual, plural; femenino, masculino, neutro; alabanza, censura, <span id="p150">[<sup><small>p. 150</small></sup>]</span> alabanza mezclada con censura, censura mezclada con alabanza; pasado, presente o futuro (tiempos verbales), primera, segunda o tercera persona [^415]. Si se considera necesario hablar en singular, se debe hablar en singular; si se considera necesario hablar en plural, se debe hablar en plural, etc. Considerando bien: esta es una mujer, este es un hombre, este es un eunuco, esto se debe llamar así, esto se debe llamar de otra manera, hablando con precisión, se debe emplear el lenguaje con moderación y moderación. (3)
+Considerando bien lo que se dice, hablando con precisión, se debe emplear el lenguaje con moderación y moderación: singular, dual, plural; femenino, masculino, neutro; alabanza, censura, <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> alabanza mezclada con censura, censura mezclada con alabanza; pasado, presente o futuro (tiempos verbales), primera, segunda o tercera persona [^415]. Si se considera necesario hablar en singular, se debe hablar en singular; si se considera necesario hablar en plural, se debe hablar en plural, etc. Considerando bien: esta es una mujer, este es un hombre, este es un eunuco, esto se debe llamar así, esto se debe llamar de otra manera, hablando con precisión, se debe emplear el lenguaje con moderación y moderación. (3)
 
 Para evitar estas ocasiones de pecar, el mendicante debe saber que hay cuatro clases de habla: la primera es la verdad; la segunda es la falsedad; la tercera es la verdad mezclada con la falsedad; lo que no es ni verdad, ni falsedad, ni verdad mezclada con falsedad, ése es el cuarto tipo de habla: ni verdad ni falsedad [^416]. Así digo.
 
 Todos los Arhats pasados, presentes y futuros han enseñado y declarado, enseñan y declaran, enseñarán y declararán estos cuatro tipos de habla; y han explicado todas aquellas cosas que están desprovistas de intelecto, que poseen color, olor, sabor, tacto, que están sujetas a decadencia y aumento, que poseen diversas cualidades. (4)
 
-Un monje (o una monja debe saber que) antes de (la emisión) el habla es habla en (antecedente) no-existencia [^417]; que mientras se emite, es habla (real); <span id="p151">[<sup><small>p. 151</small></sup>]</span> que el momento después de haber sido emitido, el habla hablada es habla en (posterior) no-existencia. (5)
+Un monje (o una monja debe saber que) antes de (la emisión) el habla es habla en (antecedente) no-existencia [^417]; que mientras se emite, es habla (real); <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> que el momento después de haber sido emitido, el habla hablada es habla en (posterior) no-existencia. (5)
 
 Un monje o una monja, pensándolo bien, no debe usar palabras, ya sean verdaderas o falsas, o verdad mezclada con falsedad, si son pecaminosas, censurables, ásperas, punzantes, groseras, duras, que conducen a pecados, a discordias y facciones, al dolor y al ultraje, a la destrucción de seres vivos. (6)
 
@@ -56,7 +56,7 @@ Un monje o una monja, al dirigirse a un hombre que, al ser interpelado, no respo
 
 Pero en ese caso deberían decir: "¡NN! ¡Oh longevo! ¡Oh longevos! ¡Oh laico! ¡Oh alumno! ¡Oh fiel! ¡Oh amante de la fe!". Pensándolo bien, deberían usar un lenguaje intachable, intachable, etc. (9)
 
-Un monje o una monja, al dirigirse a una mujer que no responde al ser interpelada, no debe decir: "¡Pícara! ¡Pública! ¡Pública!" (repita la lista anterior de <span id="p152">[<sup><small>p. 152</small></sup>]</span> palabras abusivas adaptadas a las mujeres). Pensándolo bien, no deben usar un lenguaje tan pecaminoso, censurable, etc. (10)
+Un monje o una monja, al dirigirse a una mujer que no responde al ser interpelada, no debe decir: "¡Pícara! ¡Pública! ¡Pública!" (repita la lista anterior de <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> palabras abusivas adaptadas a las mujeres). Pensándolo bien, no deben usar un lenguaje tan pecaminoso, censurable, etc. (10)
 
 Un monje o una monja, al dirigirse a una mujer que no responde al ser interpelada, debe decir: «¡Oh, longeva! ¡Oh, hermana! ¡Oh, señora! ¡Oh, mi señora! ¡Oh, hermana laica! ¡Oh, discípula! ¡Oh, fiel! ¡Oh, amante de la fe!». Con una reflexión profunda, deben usar un lenguaje intachable, intachable, etc. (11)
 
@@ -94,7 +94,7 @@ Un monje o una monja, al ver cualquier tipo de vacas (o bueyes), debe hablar de 
 
 Un monje o una monja, al ver árboles grandes en parques, colinas o bosques, debería hablar de ellos de esta manera: 'Estos (árboles) son aptos para palacios, puertas, casas, bancos, cerrojos, barcos, cubos, taburetes, bandejas, arados, azadones(?), máquinas, postes, el cubo de una rueda(?), ga<i>n</i><i>d</i>î [^421], asientos, camas, carros, cobertizos'; pensándolo bien, no deberían usar un lenguaje tan pecaminoso, etc. (11)
 
-Un monje o una monja, al ver árboles grandes en parques, colinas o bosques, debería hablar de ellos así: «Estos árboles son nobles, altos y redondos, grandes; <span id="p155">[<sup><small>p. 155</small></sup>]</span> tienen muchas ramas, ramas extendidas, son muy magníficos», etc. (véase § 4); pensándolo bien, deberían usar un lenguaje tan puro, etc. (12)
+Un monje o una monja, al ver árboles grandes en parques, colinas o bosques, debería hablar de ellos así: «Estos árboles son nobles, altos y redondos, grandes; <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> tienen muchas ramas, ramas extendidas, son muy magníficos», etc. (véase § 4); pensándolo bien, deberían usar un lenguaje tan puro, etc. (12)
 
 Un monje o una monja, al ver muchos frutos silvestres, no debe hablar de ellos de esta manera: 'Están maduros, deben cocinarse o comerse, están en su mejor momento o son blandos, o se acaban de abrir'; pensándolo bien, no deben usar un lenguaje tan pecaminoso, etc. (13)
 
@@ -106,7 +106,7 @@ Un monje o una monja, al ver muchos vegetales, debería hablar de ellos de esta 
 
 Un monje o una monja, al oír cualquier tipo de sonidos, no deben hablar de ellos de esta manera: "Este es un buen sonido, este es un mal sonido"; considerándolo bien, no deben usar un lenguaje tan puro, etc.; sino que deben llamarlos buenos, si son buenos; malos, si son malos; considerándolo bien, deben usar un lenguaje tan puro, etc. (17)
 
-De la misma manera deben hablar de los <span id="p156">[<sup><small>p. 156</small></sup>]</span> (cinco) colores, como el negro, etc.; los (dos) olores, como agradables o desagradables; los (cinco) sabores, como agudos, etc.; los (cinco) tipos de tacto, como duros, etc. (18)
+De la misma manera deben hablar de los <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> (cinco) colores, como el negro, etc.; los (dos) olores, como agradables o desagradables; los (cinco) sabores, como agudos, etc.; los (cinco) tipos de tacto, como duros, etc. (18)
 
 Un monje o una monja, dejando de lado la ira, el orgullo, el engaño y la avaricia, considerando bien, hablando con precisión lo que ha oído, no demasiado rápido, con discriminación, debe emplear el lenguaje con moderación y moderación.
 

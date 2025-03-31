@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## El primer capítulo del Corán
 
@@ -64,7 +64,7 @@ Pero al necesitarte, mi necesidad está llena.
 Un único recurso que tengo: pararme y llamar;
 Y si no soy escuchado en Tu puerta de misericordia, ¿a quién iré?
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ¿A quién llamaré? ¿Qué nombre invocaré?
 Si tu siervo necesitado buscará en vano tu generosidad. ¿Buscar?
@@ -89,7 +89,7 @@ _Dichos y Proverbios._ De todas las cosas, Dios ama más el perdón cuando uno e
 
 El placer de perdonar es más dulce que el placer de la venganza.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 El perdón es perfecto cuando el pecado no es recordado.
 
@@ -117,7 +117,7 @@ Una de las evidencias más seguras de la mansedumbre es la ternura hacia los nec
 
 La ira feroz del necio se controla con la mansedumbre, como el fuego feroz se apaga con el agua.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 La mansedumbre es a veces una humillación, y el que siempre es tolerante y paciente puede ser pisoteado por los necios.
 
@@ -137,7 +137,7 @@ Una vez le preguntaron a un hombre sabio si conocía algún bien que no sea codi
 
 Despreciar a un hombre orgulloso es verdadera humildad.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## Verdadera nobleza
 
@@ -165,7 +165,7 @@ Si no temes las consecuencias de una vida mala y no tienes sentido de la vergüe
 
 No, por Dios, la vida no tiene valor, y este mundo no tiene felicidad para un hombre que ha perdido el respeto por sí mismo y se abandona a la desvergüenza.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 No hay nada bueno en un hombre que no se avergüenza de los hombres.
 
@@ -219,7 +219,7 @@ _Corán._ Haz el bien a los demás como Dios te ha hecho.
 
 ¿Es la recompensa de la bondad algo más que bondad?
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 El que hace un acto de bondad será recompensado diez veces más.
 
@@ -253,7 +253,7 @@ Un pacificador recibe dos tercios de los golpes.
 
 La generosidad es hacer un bien antes de que se lo pidan, y tener piedad y dar a un hombre que pide.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Un hombre generoso está cerca de Dios, cerca de los hombres, cerca del paraíso, lejos del infierno.
 
@@ -311,7 +311,7 @@ Los pecados pueden acechar, pero Dios reparte golpes duros.
 
 Llevar una roca pesada a la cima de una montaña es más fácil que recibir una bondad que se hace alarde.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 La pesadilla de una acción generosa es mencionarlo.
 
@@ -343,7 +343,7 @@ Los ángeles doblan sus alas hacia un buscador de conocimiento.
 
 _Proverbios._ El rango de los sabios es el más alto de todos los rangos.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Si el aprendizaje no da riqueza, dará estima.
 
@@ -375,7 +375,7 @@ El dueño de la casa sabe mejor lo que hay en ella.
 
 Toda investigación especulativa termina en una incertidumbre desconcertante.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Busqué en el gran mar del saber teórico un fondo sobre el cual apoyarme, y no encontré nada más que una ola que me empujaba contra otra.
 
@@ -407,7 +407,7 @@ Donde hay mucha diferencia de opinión es difícil saber la verdad.
 
 Pensar bien de los demás es un deber religioso.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 El que piensa bien de los demás es un hombre feliz.
 
@@ -443,7 +443,7 @@ Larga experiencia es un añadido a la mente.
 
 La consideración puede tomar el lugar de la experiencia.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Un hombre sabio es aquel que ha sido enseñado por la experiencia.
 
@@ -477,7 +477,7 @@ Es tan permisible culpar a un ciego por falta de vista como culpar a un tonto po
 
 Para soportar la locura de un tonto es en verdad una gran dificultad.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 La mejor manera de tratar a un tonto es evitarlo.
 
@@ -507,7 +507,7 @@ Un hombre que es mayor que tú por un día tiene más experiencia que tú por un
 
 Consulta a un hombre mayor y a uno más joven, luego decide por ti mismo.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Los más sabios pueden necesitar el consejo de otros.
 
@@ -539,7 +539,7 @@ Si valoras un libro lo leerás a través de.
 
 Si escribes un libro, prepárate para enfrentarte a las críticas.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Un libro es como un jardín llevado en el bolsillo.
 
@@ -577,7 +577,7 @@ Un hombre que habla mucho está expuesto a muchas críticas.
 
 Los más defectuosos de los hombres son los que son más locuaces en asuntos que no les conciernen.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Cuidar su lengua es uno de los mejores rasgos del carácter de un hombre.
 
@@ -607,7 +607,7 @@ Un hombre oculta su ignorancia con su silencio.
 
 El que dice lo que no debe decir, tendrá que escuchar lo que no le gustaría oír.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 El que habla mucho hace poco.
 
@@ -639,7 +639,7 @@ Cuando hables sé sincero, y cuando actúes sé amable.
 
 Un ignorante El hombre que es verdadero es mejor que un hombre inteligente que es falso.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Hay dos clases de veracidad, y la mayor de ellas es la que puede hacerte daño.
 
@@ -667,7 +667,7 @@ La promesa de un verdadero hombre es una obligación mayor que una deuda.
 
 Ese hombre es un hipócrita que ora y ayuna, pero es deshonesto en lo que dice, falso a su palabra e infiel en el cumplimiento de una confianza.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## Veracidad a los secretos
 
@@ -765,7 +765,7 @@ No emprendas un trabajo para el cual no eres competente.
 
 ¿Qué puede hacer una mujer con un ¿Cara fea?
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## Oportunidades
 
@@ -801,7 +801,7 @@ Economía ahorra la mitad del costo de vida.
 
 El valor de la economía es igual a la mitad de tus ganancias,
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 La frugalidad salva a un hombre de la pobreza.
 
@@ -839,7 +839,7 @@ El hombre es un objetivo para los accidentes del tiempo.
 
 Un día para nosotros, y un día contra nosotros.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Con hoy hay mañana.
 
@@ -875,7 +875,7 @@ El que piensa que la fortuna siempre le favorecerá es un tonto.
 
 Sigue las huellas del hombre afortunado y llegarás a la fortuna,
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## Paciencia
 
@@ -909,7 +909,7 @@ Rara vez un hombre paciente fracasa en la obtención de lo que busca.
 
 Ten paciencia, toda nube se disipa y todo mal que no continúa es una cosa pequeña.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 El que recibe los golpes no es como el que los cuenta.
 
@@ -943,7 +943,7 @@ Dios ama a un hombre alegre.
 
 Una parte principal de la amistad es alegría.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 La alegría denota una naturaleza generosa, como una flor denota fruto.
 
@@ -973,7 +973,7 @@ La vida no tiene ninguna nube para un hombre ignorante, para aquel que no presta
 
 La guerra es algo malo tanto para el vencedor como para el vencido.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Es mejor evitar que hacer la guerra.
 
@@ -1009,7 +1009,7 @@ La magnanimidad hacia los cautivos y la misericordia hacia los caídos son un hi
 
 La primera parte de la ira es locura y la segunda es arrepentimiento.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Pasión y ceguera son compañeros inseparables.
 
@@ -1043,7 +1043,7 @@ El que hace enemigos tendrá muchas noches sin descanso.
 
 El que tiene muchos enemigos, que espere una caída.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Cuando la ira se reprime por la incapacidad de hacer daño inmediato, se retira al corazón en forma de malicia y engendra estos vicios: envidia, triunfo sobre el mal del enemigo, repulsión de los acercamientos amistosos, desprecio, calumnia, burla, violencia personal e injusticia.
 
@@ -1067,7 +1067,7 @@ Cada hombre favorecido es envidiado.
 
 Un hombre señorial es siempre objeto de admiración o de envidia.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Cuídate de la envidia, porque se muestra en ti, no en aquel a quien envidias.
 
@@ -1097,7 +1097,7 @@ Cuidado con la temeridad, pues bien ha sido llamada la Madre de los arrepentimie
 
 El que actúa apresuradamente comete un error o se acerca mucho a él.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 El que es deliberado tiene razón o casi.
 
@@ -1135,7 +1135,7 @@ La avaricia es la madre de todas las malas disposiciones.
 
 Las riquezas de un avaro el hombre va a la nada o a un heredero.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 El que es tacaño será tratado de la misma manera.
 
@@ -1169,7 +1169,7 @@ Un buen hombre ve sus propias faltas y es ciego a las faltas de los demás.
 
 Censurar a tu amigo con bondad, y devolverle el mal que le haya hecho con actos de favor.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Culpar a un amigo es mejor que perderlo.
 
@@ -1207,7 +1207,7 @@ La castidad unida a la belleza hace a una esposa perfecta.
 
 Tres cosas contribuyen a una larga vida: una casa grande, una esposa obediente y un caballo veloz.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 La violencia del amor se desvanece poco después del matrimonio. Si el amor de la novia y el novio perdurara, el Día de la Resurrección estaría cerca.
 
@@ -1263,7 +1263,7 @@ Cuando tu padre y tu madre envejezcan y los recibas en tu casa, no les digas ni 
 
 Sé obediente a tu padre, y tu hijo te será obediente a ti.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 El que es mal educado con su padre será maltratado por su hijo.
 
@@ -1295,7 +1295,7 @@ Un hombre es un espejo en el que se ve la imagen de su hermano.
 
 El mejor hombre entre vosotros es aquel que es mejor con sus relaciones.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 La sangre no se convierte en agua.
 
@@ -1355,7 +1355,7 @@ En la vida social sean como amigos, en los negocios como extraños.
 
 Prefiero un vecino cercano a un hermano lejano.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## Saludo, Visitando
 
@@ -1385,7 +1385,7 @@ El amor a la propia patria es un deber religioso.
 
 Un verdadero hombre anhela su país natal y añora su hogar como un león anhela su guarida.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Es una señal de buen juicio cuando el corazón anhela patria y hogar.
 
@@ -1421,7 +1421,7 @@ La salud es una corona en la cabeza del sano, invisible excepto para los enfermo
 
 La buena salud está más allá de todo precio.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 El mayor regalo para el hombre es una vida larga y saludable.
 
@@ -1453,7 +1453,7 @@ Un anciano habla de lo que ha visto, y un joven habla de lo que ha oído.
 
 Las canas son un signo de sabiduría, y se embellecen con reverencia.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Una cabeza canosa es una rica crema batida por largos años.
 

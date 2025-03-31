@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## II
 
-1. Me confieso adorador de Mazda, para alabanza de Thraêtaona, el Âthwyan. Que lo declaren: Propiciación al Fravashi de Thraêtaona, el Âthwyan, el santo. 2. Sacrificamos a Thraêtaona, el Âthwyan, el santo señor del orden ritual; y que nos libremos del perro Kuro [^1563], del Tarewani [^1563] y del Karpan, (nosotros que somos) de [^1564] quienes sacrifican en orden. 3. (Sigue la Ahuna <span id="p390">[<sup><small>p. 390</small></sup>]</span>). Sacrificio, homenaje, fuerza y ​​rapidez al Fravashi de Thraêtaona, el santo. (Siguen el Ahem y el Ahmâi raê<i>s</i><i>k</i>a.)
+1. Me confieso adorador de Mazda, para alabanza de Thraêtaona, el Âthwyan. Que lo declaren: Propiciación al Fravashi de Thraêtaona, el Âthwyan, el santo. 2. Sacrificamos a Thraêtaona, el Âthwyan, el santo señor del orden ritual; y que nos libremos del perro Kuro [^1563], del Tarewani [^1563] y del Karpan, (nosotros que somos) de [^1564] quienes sacrifican en orden. 3. (Sigue la Ahuna <span id="p390"><sup><small>[ p. 390 ]</small></sup></span>). Sacrificio, homenaje, fuerza y ​​rapidez al Fravashi de Thraêtaona, el santo. (Siguen el Ahem y el Ahmâi raê<i>s</i><i>k</i>a.)
 
 ## III
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1\. Proclamo el Airy<i>e</i>mâ-ishyô como la mayor de todas las oraciones autorizadas, ¡oh Spitama!, como la más influyente y útil para el progreso; y que los Saoshya<i>n</i>ts (que nos ayuden) la usen y la veneren.
 
-2\. Hablo en conformidad con ello, ¡oh, Spitama!, y por lo tanto, gobernaré como soberano sobre las criaturas que me pertenecen, yo, que soy Ahura Mazda. Que nadie gobierne como Angra Mainyu [^1566] sobre reinos que le pertenecen, ¡oh, Zaratustra, Spitama! 3. Que Angra Mainyu se oculte bajo tierra [^1567]. Que los Daêvas desaparezcan igualmente <span id="p391">[<sup><small>p. 391</small></sup>]</span>. Que los muertos resuciten (libres de estos enemigos), y que la vida corpórea se sustente en estos cuerpos ahora sin vida.
+2\. Hablo en conformidad con ello, ¡oh, Spitama!, y por lo tanto, gobernaré como soberano sobre las criaturas que me pertenecen, yo, que soy Ahura Mazda. Que nadie gobierne como Angra Mainyu [^1566] sobre reinos que le pertenecen, ¡oh, Zaratustra, Spitama! 3. Que Angra Mainyu se oculte bajo tierra [^1567]. Que los Daêvas desaparezcan igualmente <span id="p391"><sup><small>[ p. 391 ]</small></sup></span>. Que los muertos resuciten (libres de estos enemigos), y que la vida corpórea se sustente en estos cuerpos ahora sin vida.
 
 ## V
 
@@ -78,7 +78,7 @@ Propiciación al cuerpo creado de la vaca de bendita dotación y al alma de la v
 
 1\. Las lunas de la estación menguarán. Que el Mazdayasniano (oren) por un castigador que destruya rápidamente (al demonio que causa su disminución). Y que pronto muera el maligno—. Pues ninguno de sus seguidores puede mantener esta Droga(k) con oraciones.
 
-2\. Golpeando ferozmente [^1573] con su arma, ella, la Droga(k), continúa, y ha sido muy poderosa. Y ella sigue errante, ¡oh Zaratustra!, tan consciente de su poderío y fuerte [^1574] a medida que avanza <span id="p393">[<sup><small>p. 393</small></sup>]</span> como la pecaminosa Droga(k). Pero que Khshathra [^1575] esté conmigo—, para que... la mortal muera, pues entonces el golpe de la destrucción caerá sobre la Droga(k) [^1576].
+2\. Golpeando ferozmente [^1573] con su arma, ella, la Droga(k), continúa, y ha sido muy poderosa. Y ella sigue errante, ¡oh Zaratustra!, tan consciente de su poderío y fuerte [^1574] a medida que avanza <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> como la pecaminosa Droga(k). Pero que Khshathra [^1575] esté conmigo—, para que... la mortal muera, pues entonces el golpe de la destrucción caerá sobre la Droga(k) [^1576].
 
 ## IX
 

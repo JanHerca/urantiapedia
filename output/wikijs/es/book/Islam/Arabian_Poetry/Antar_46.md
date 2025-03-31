@@ -36,7 +36,7 @@ Antar regresó a su tribu y vivió recluido en su tienda, afligido por la pérdi
 
 Las muchachas se dirigieron al lago a la hora señalada, y Amarah, disfrazado con ropa de mujer, las siguió. Cuando llegaron al lago, se abalanzó sobre Abla como un buitre voraz. Pero la ayuda estaba al alcance de la mano. Antar, oculto tras las dunas, oyó los gritos de Abla. Se precipitó como un león furioso, agarró a Amarah y casi le quita la vida a fuego; luego lo soltó, seguido por las burlas y mofas de las muchachas.
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 “Esta circunstancia con Abla pronto se extendió, y todas las mujeres, y hombres, y niñas, y niños, y esclavos, y esclavas se unieron a la risa contra Amarah, cantando estos versos, mientras Amarah los escuchaba: las mujeres y las pastoras los cantaban en sus husos; porque había una muchacha entre los Absianos que podía componer versos; era muy elocuente, así que repitió estos versos sobre Amarah el cornudo, y fueron recordados por todas las mujeres y niñas: "
 
@@ -60,7 +60,7 @@ Tú viniste a nosotros en túnicas de seda teñida, ¡tú, tetera negra y grasie
 
 Cuando nos encontraste, un león te encontró, a quien todos los héroes leones reconocen en la carnicería:
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 Entonces el miedo tembló en tu corazón, la embriaguez te abandonó y recobraste el sentido. No te quedó más que desprecio cuando te retiraste como un estercolero.
 

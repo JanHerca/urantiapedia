@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 6. Si un ciervo entra en una casa y un hombre lo encierra, es culpable; si dos lo encierran, quedan absueltos; si un hombre no puede encerrarlo y, por lo tanto, dos lo encierran, son culpables. [^144] R. Simeón los absuelve.
 
-§ 7. Si un hombre se coloca en la puerta [de la entrada] para impedir que el ciervo vuelva a salir, pero no la llena completamente, y otra persona se coloca a su lado y sí la llena, el segundo es culpable. Si el primero se coloca en la puerta [de la entrada] y la llena, y otra persona viene y se coloca a su lado, <span id="p57">[<sup><small>p. 57</small></sup>]</span> aunque el primero se levante y se marche [dejando al segundo en la puerta], el primero es culpable y el segundo es absuelto. ¿A qué se parece esto? A si hubiera cerrado su casa para asegurar sus bienes, y se encontrara un ciervo encerrado dentro.
+§ 7. Si un hombre se coloca en la puerta [de la entrada] para impedir que el ciervo vuelva a salir, pero no la llena completamente, y otra persona se coloca a su lado y sí la llena, el segundo es culpable. Si el primero se coloca en la puerta [de la entrada] y la llena, y otra persona viene y se coloca a su lado, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> aunque el primero se levante y se marche [dejando al segundo en la puerta], el primero es culpable y el segundo es absuelto. ¿A qué se parece esto? A si hubiera cerrado su casa para asegurar sus bienes, y se encontrara un ciervo encerrado dentro.
 
 
 

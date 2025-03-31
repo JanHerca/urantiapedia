@@ -52,7 +52,7 @@ El propósito de Dios es un asunto serio, y no un tema para bromas; empléate, p
 
 10\. No te desesperes ante los malos accidentes, y no te alegres demasiado por los acontecimientos felices.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 11\. ¿Dónde está Hûd, el hombre que temía a Dios y sus preceptos testamentarios? ¿O Kahtân, de la estirpe del Profeta y de la santidad?
 
@@ -84,7 +84,7 @@ El propósito de Dios es un asunto serio, y no un tema para bromas; empléate, p
 
 45\. ¿Dónde está Bilkîs, la poderosa del trono, o su palacio, ¿más alto que todos los palacios?
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 46\. Visitó al profeta Salomón en Tadmor, _viniendo_ de Marib en un mensaje de fe, sin pensamientos de matrimonio,
 

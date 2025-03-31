@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T10:51:55Z
   </table>
 </figure>
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Hemos seguido hasta ahora la pista de la transmisión de un tipo particular de cultura helenística a través de la Iglesia siria, los zoroastrianos de Persia y los paganos de Harrán a la comunidad islámica, donde se vio más bien comprometida por el patrocinio de aquellos a quienes los maestros musulmanes oficiales decidieron considerar herejes. A pesar de esta censura, ha dejado una impresión muy clara y duradera en la teología musulmana y en las creencias populares. Después de una carrera accidentada en Oriente, pasó a la comunidad musulmana occidental en España, donde tuvo un desarrollo muy especializado, que finalmente dejó una impresión más profunda en el pensamiento cristiano y judío que en el de los propios musulmanes, y alcanzó su evolución final en el noreste de Italia, donde, como influencia antieclesiástica, preparó el camino para el Renacimiento. Pero esta línea principal de desarrollo no es realmente la más importante; A lo largo de toda esa línea se fue ramificando hacia un lado o hacia el otro, y sus frutos más ricos deben buscarse en estas cuestiones secundarias, en la escolástica que, en el Islam, en el judaísmo y en el cristianismo, fue una reacción a su enseñanza, y en los estudios médicos, químicos y otros estudios científicos de la Edad Media, que en gran medida debieron su inspiración a su influencia. Es la historia más romántica de la deriva cultural que conocemos en detalle.
 

@@ -56,7 +56,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## I.
 
-1\. Sacrificamos al <i>K</i>ista</i>, hecho por Mazda y santo: sacrificamos a la buena Ley de los adoradores de Mazda, el proveedor de buenas provisiones <span id="p265">[<sup><small>p. 265</small></sup>]</span>, quien corre rápido a la meta y libera mejor de los peligros [^1140], quien trae libaciones, quien es santo, inteligente y renombrado, rápido para trabajar y diligente para el trabajo; quien va rápido y purifica bien; la buena Ley de los adoradores de Mazda.
+1\. Sacrificamos al <i>K</i>ista</i>, hecho por Mazda y santo: sacrificamos a la buena Ley de los adoradores de Mazda, el proveedor de buenas provisiones <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>, quien corre rápido a la meta y libera mejor de los peligros [^1140], quien trae libaciones, quien es santo, inteligente y renombrado, rápido para trabajar y diligente para el trabajo; quien va rápido y purifica bien; la buena Ley de los adoradores de Mazda.
 
 2\. A quien Zaratustra ofreció sacrificios, diciendo: «Levántate de tu asiento, sal de la Morada [^1141], tú, la muy justa <i>Kista</i>, hecha por Mazda y sagrada. Si estás delante de mí, quédate conmigo; si estás detrás de mí, alcánzame».
 
@@ -68,7 +68,7 @@ Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda. . . .
 
 ## II.
 
-5\. Sacrificamos al más justo <i>K</i>ista, creado por Mazda y sagrado: sacrificamos a la buena Ley de los adoradores de Mazda... [^1142] <span id="p266">[<sup><small>p. 266</small></sup>]</span> 6\. A quien Zaratustra sacrificó por la rectitud de pensamiento, por la rectitud de palabra, por la rectitud de obra, y por esta bendición,
+5\. Sacrificamos al más justo <i>K</i>ista, creado por Mazda y sagrado: sacrificamos a la buena Ley de los adoradores de Mazda... [^1142] <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> 6\. A quien Zaratustra sacrificó por la rectitud de pensamiento, por la rectitud de palabra, por la rectitud de obra, y por esta bendición,
 
 7\. Que el muy recto <i>K</i>ista</i>, creado por Mazda y santo, le daría la agilidad de pies, la audición rápida, la fuerza de brazos, la salud y la firmeza de todo el cuerpo, y la vista del pez Kara, que vive bajo las aguas y puede medir una ondulación de las aguas no más gruesa que un cabello, en el Rangha, cuyos extremos se extienden lejos y cuya profundidad es mil veces la altura de un hombre [^1143].
 
@@ -100,7 +100,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 14\. Sacrificamos al <i>Kista</i> más justo, hecho por Mazda y sagrado: sacrificamos a la buena Ley de los adoradores de Mazda...
 
-15\. A quien la santa Hvôvi [^1146] sacrificó con pleno conocimiento, deseando que el santo Zaratustra le diera su buen narcótico [^1147], para que ella pudiera <span id="p268">[<sup><small>p. 268</small></sup>]</span> pensar según la ley, hablar según la ley y actuar según la ley.
+15\. A quien la santa Hvôvi [^1146] sacrificó con pleno conocimiento, deseando que el santo Zaratustra le diera su buen narcótico [^1147], para que ella pudiera <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> pensar según la ley, hablar según la ley y actuar según la ley.
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
@@ -122,7 +122,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 20\. Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-Bendigo el sacrificio y la oración, y la fuerza <span id="p269">[<sup><small>p. 269</small></sup>]</span> y el vigor del muy justo <i>K</i>ista, hecho por Mazda y santo, y de la buena Ley de los adoradores de Mazda.
+Bendigo el sacrificio y la oración, y la fuerza <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> y el vigor del muy justo <i>K</i>ista, hecho por Mazda y santo, y de la buena Ley de los adoradores de Mazda.
 
 Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 

@@ -42,7 +42,7 @@ Como (las aves rapaces), por ejemplo los Dh</i>aṅkas, se llevan a un pájaro j
 
 Así como se llevan a un pájaro joven cuyas alas aún no han crecido, así muchos hombres sin principios seducirán a un novicio que aún no ha dominado la Ley, pensando que pueden tenerlo en su poder, cuando lo hayan hecho abandonar (la Gak<i>kh</i>a) [^952]. (3)
 
-Un buen hombre debe anhelar vivir con su maestro para cumplir con sus deberes [^953], sabiendo que quien no vive con su maestro no pondrá fin a su existencia mundana. Al manifestar <span id="p325">[<sup><small>p. 325</small></sup>]</span> la conducta del virtuoso, un monje inteligente no debe abandonar la compañía de su maestro. (4)
+Un buen hombre debe anhelar vivir con su maestro para cumplir con sus deberes [^953], sabiendo que quien no vive con su maestro no pondrá fin a su existencia mundana. Al manifestar <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> la conducta del virtuoso, un monje inteligente no debe abandonar la compañía de su maestro. (4)
 
 (Un monje) que cumple con las reglas para Yatis [^954] en cuanto a posturas, acostarse, sentarse y esfuerzos, que está completamente familiarizado con los Samitis y Guptis, debe, al enseñar a otros, explicar cada uno de los puntos de conducta. (5)
 
@@ -68,7 +68,7 @@ En el momento oportuno podrá plantear una pregunta sobre los seres vivos a un m
 
 Viviendo en esta (compañía del maestro) y protegiéndose (a sí mismo o a otros seres) de las tres maneras (es decir, con pensamientos, palabras y acciones), obtiene la paz y la aniquilación (de los pecados), como dicen. Así hablan quienes conocen los tres mundos, ¡y no vuelven a cometer faltas! (16)
 
-Un monje, al escuchar la Verdad deseada, obtiene ideas brillantes y se convierte en un maestro inteligente; deseando el bien supremo y practicando austeridades y silencio, <span id="p327">[<sup><small>p. 327</small></sup>]</span> alcanzará la Liberación final (viviendo de) alimento puro. (17)
+Un monje, al escuchar la Verdad deseada, obtiene ideas brillantes y se convierte en un maestro inteligente; deseando el bien supremo y practicando austeridades y silencio, <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> alcanzará la Liberación final (viviendo de) alimento puro. (17)
 
 Aquellos que, habiendo investigado la Ley y la exponen, despiertan y ponen fin a la existencia mundana; capaces de liberar a ambos (a sí mismos y a los demás), responden a las preguntas bien deliberadas. (18)
 
@@ -80,7 +80,7 @@ Un monje que vive soltero no debe ridiculizar las doctrinas heréticas y debe ev
 
 Un monje debe ser modesto [^957] aunque tenga una mente intrépida; debe exponer el Syâdvâda [^958]; debe usar los dos tipos de habla (permitidos) [^959], viviendo entre hombres virtuosos, imparciales y sabios. (22)
 
-Quien sigue (la instrucción) puede creer algo falso; (se le debe) explicar amablemente: «Es así o así». Nunca se le debe herir con <span id="p328">[<sup><small>p. 328</small></sup>]</span> lenguaje escandaloso, ni dar explicaciones prolijas de pasajes difíciles. (23)
+Quien sigue (la instrucción) puede creer algo falso; (se le debe) explicar amablemente: «Es así o así». Nunca se le debe herir con <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> lenguaje escandaloso, ni dar explicaciones prolijas de pasajes difíciles. (23)
 
 Si el alumno no comprende su breve explicación, debe explicarla con más detalle. Cuando el alumno la haya escuchado, comprenderá correctamente la Verdad. Un monje debe pronunciar un lenguaje puro, conforme al credo (de las <i>Ginas</i>), y debe declarar la distinción entre el pecado. (24)
 

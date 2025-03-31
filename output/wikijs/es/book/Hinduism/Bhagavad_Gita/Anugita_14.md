@@ -34,7 +34,7 @@ dateCreated: 2025-1-15T23:1:28Z
 
 El Brâhma<i>n</i>a dijo:
 
-Sobre esto [^1419], también, se cuenta una antigua historia, (en forma de) un diálogo, ¡oh tú de corazón puro!, entre Kârtavîrya y el océano. (Había una vez) un rey llamado Ar<i>g</i>una [^1420], descendiente de K<i>ri</i>tavîrya, poseedor de mil brazos, quien con su arco conquistó la tierra (entera) hasta el océano. Una vez <span id="p294">[<sup><small>p. 294</small></sup>]</span>, según hemos oído, caminaba cerca del mar, orgulloso de su fuerza, y lanzaba cientos de flechas sobre él. El océano, saludándolo, y con las manos juntas, dijo: «¡Oh, hombre valiente! No me lances flechas. Dime, ¿qué puedo hacer por ti?» Las criaturas que se refugian conmigo están siendo destruidas, ¡oh rey tigre!, por las grandes flechas que lanzas. ¡Dales seguridad, Señor!
+Sobre esto [^1419], también, se cuenta una antigua historia, (en forma de) un diálogo, ¡oh tú de corazón puro!, entre Kârtavîrya y el océano. (Había una vez) un rey llamado Ar<i>g</i>una [^1420], descendiente de K<i>ri</i>tavîrya, poseedor de mil brazos, quien con su arco conquistó la tierra (entera) hasta el océano. Una vez <span id="p294"><sup><small>[ p. 294 ]</small></sup></span>, según hemos oído, caminaba cerca del mar, orgulloso de su fuerza, y lanzaba cientos de flechas sobre él. El océano, saludándolo, y con las manos juntas, dijo: «¡Oh, hombre valiente! No me lances flechas. Dime, ¿qué puedo hacer por ti?» Las criaturas que se refugian conmigo están siendo destruidas, ¡oh rey tigre!, por las grandes flechas que lanzas. ¡Dales seguridad, Señor!
 
 Ar<i>g</i>una dijo:
 

@@ -799,7 +799,7 @@ Feridun, II, 297. n 5.
 
 Fimbul invierno, 11.
 
-Firdausi citado, 167, n. 3; II, 5 8. n 1, 60. n 2, 62. n 2, n 4, 63. n 1, 64. n 2, 66. n 2, n 11, 67. n 4, n 5, n 6, 68. n 3, 71. n 7, 80. n 1, n 6, n 7, 81. n 2, 114. n 2, 207. n 3, 208. n 2, 222. n 5, 223. n 5, 224. n 6, 237. n 3, 241. n 2, <span id="p370">[<sup><small>p. 370</small></sup>]</span> 253. n 3, 292. n 1, 293. n 6, 297. n 5, 327. n 8.
+Firdausi citado, 167, n. 3; II, 5 8. n 1, 60. n 2, 62. n 2, n 4, 63. n 1, 64. n 2, 66. n 2, n 11, 67. n 4, n 5, n 6, 68. n 3, 71. n 7, 80. n 1, n 6, n 7, 81. n 2, 114. n 2, 207. n 3, 208. n 2, 222. n 5, 223. n 5, 224. n 6, 237. n 3, 241. n 2, <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> 253. n 3, 292. n 1, 293. n 6, 297. n 5, 327. n 8.
 
 Fuego, su pureza, xx, lxxxix; cuán contaminado, 9, 80, 110, 168. n 7; cuán purificado, 135; su inocuidad, 51; hijo de Ahura Mazda, II, 322. n 5.
 

@@ -40,7 +40,7 @@ Mi vino es en verdad el que brota de la punta de la lanza, cuando los corceles d
 
 Yo soy el esclavo de quien se informará que me encontré con mil héroes nacidos libres: mi corazón fue creado más duro que el acero; ¿cómo, entonces, puedo temer a la espada o a la lanza?
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Me he encontrado con los corceles, y no me importó: estoy elevado por encima de Arcturus, y la Lira, o el Águila: cuando el guerrero me ve, me evita, su coraje falla y huye.
 

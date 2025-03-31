@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. ¿Con qué puede salir una mujer? ¿Y con qué no puede salir? «Una mujer no puede salir con cordones de lana, ni con cordones de lino, ni con correas en la cabeza, y no puede bautizarse con ellas hasta que se las desate; ni con frontales, ni cintas del templo, a menos que estén cosidas a su birrete, ni con una diadema, a la vía pública; ni con una corona de oro con la forma de Jerusalén, ni con <span id="p90">[<sup><small>p. 90</small></sup>]</span> un collar, ni con narigueras, ni con un anillo sin sello, ni con una aguja sin ojo; pero, si sale, no es culpable de ofrenda por el pecado».
+1\. ¿Con qué puede salir una mujer? ¿Y con qué no puede salir? «Una mujer no puede salir con cordones de lana, ni con cordones de lino, ni con correas en la cabeza, y no puede bautizarse con ellas hasta que se las desate; ni con frontales, ni cintas del templo, a menos que estén cosidas a su birrete, ni con una diadema, a la vía pública; ni con una corona de oro con la forma de Jerusalén, ni con <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> un collar, ni con narigueras, ni con un anillo sin sello, ni con una aguja sin ojo; pero, si sale, no es culpable de ofrenda por el pecado».
 
 2\. Nadie debe salir con sandalias con clavos, [^107] ni con una sola sandalia si no tiene llaga en el otro pie, ni con filacterias, ni con amuleto (a menos que sea de un experto), ni con cota de malla, ni con yelmo, ni con grebas; pero, si sale, no es culpable de ofrenda por el pecado.
 

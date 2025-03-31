@@ -52,7 +52,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 9\. «Las cebollas, que no se utilizan para semilla, y los frijoles egipcios, a los que se les retiene el agua treinta días antes del día de Año Nuevo, deben pagar el diezmo del año anterior y se permite su uso en el año sabático. De lo contrario, están prohibidos en el año sabático y deben diezmarse para el año siguiente, al igual que el producto de un campo de lluvia [^45] al que se le retiene el agua de riego en dos ocasiones». Palabras de R. Maier. Pero los Sabios dicen «tres».
 
-10\. «¿Las calabazas que se siembran?» «Si se secan antes del día de Año Nuevo y no son aptas para el consumo humano, es lícito dejarlas en el año sabático. De lo contrario, está prohibido dejarlas en el año sabático. Sus brotes están prohibidos en el año sabático. Pero se les puede rociar con polvo blanco.» [^46] Palabras de R. Simon. El rabino Eliezer, hijo de Jacob, <span id="p66">[<sup><small>p. 66</small></sup>]</span> «las prohibió». Se puede regar el arroz en el año sabático. El rabino Simon dijo: «pero no se deben cortar las hojas».
+10\. «¿Las calabazas que se siembran?» «Si se secan antes del día de Año Nuevo y no son aptas para el consumo humano, es lícito dejarlas en el año sabático. De lo contrario, está prohibido dejarlas en el año sabático. Sus brotes están prohibidos en el año sabático. Pero se les puede rociar con polvo blanco.» [^46] Palabras de R. Simon. El rabino Eliezer, hijo de Jacob, <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> «las prohibió». Se puede regar el arroz en el año sabático. El rabino Simon dijo: «pero no se deben cortar las hojas».
 
 
 

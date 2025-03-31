@@ -61,7 +61,7 @@ Ser humilde.
 
 Ser servidores los unos de los otros y saber que somos menos que cualquier otro.
 
-Ser como una sola alma en muchos cuerpos; pues cuanto más nos amemos unos a otros más cerca estaremos de Dios; pero nuestro amor, nuestra unidad, nuestra <span id="p124">[<sup><small>p. 124</small></sup>]</span> obediencia, no debe ser por confesión sino de realidad.
+Ser como una sola alma en muchos cuerpos; pues cuanto más nos amemos unos a otros más cerca estaremos de Dios; pero nuestro amor, nuestra unidad, nuestra <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> obediencia, no debe ser por confesión sino de realidad.
 
 Actuar con cautela y sabiduría.
 

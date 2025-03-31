@@ -67,7 +67,7 @@ Quien comprende el orden de Dios, oh Nanak, nunca es culpable de egoísmo.[^5]
 ### III
 
 ¿Quién puede cantar su poder? ¿Quién tiene el poder de cantarlo?[^6]
-¿Quién puede cantar sus dones o conocer sus signos?[^7] <span id="p197">[<sup><small>p. 197</small></sup>]</span>
+¿Quién puede cantar sus dones o conocer sus signos?[^7] <span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 ¿Quién puede cantar sus atributos, su grandeza y sus obras?[^1]
 ¿Quién puede cantar el conocimiento cuyo estudio es arduo?
 ¿Quién puede cantar a Aquel que modela el cuerpo y luego lo destruye?
@@ -216,7 +216,7 @@ Los elegidos[^3] son ​​aceptables, los elegidos se distinguen
 Los elegidos obtienen honor en la corte de Dios;
 Los elegidos arrojan brillo[^4] en las cortes de los reyes.
 La atención de los elegidos se concentra en el único Gurú.[^5]
-Si alguien dice que puede formarse una idea de Dios, _debe decirlo_, <span id="p203">[<sup><small>p. 203</small></sup>]</span>
+Si alguien dice que puede formarse una idea de Dios, _debe decirlo_, <span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 Pero las obras del Creador no se pueden contar.
 El toro del cual se habla es la justicia, hijo de la misericordia,
 Que, apoyado por la paciencia, mantiene el orden de la naturaleza.[^1]
@@ -241,7 +241,7 @@ Tú, Oh Sin Forma, estás siempre seguro.
 
 Innumerables tus adoradores[^5], e innumerables tus amantes
 Son innumerables tus adoradores y son innumerables los que realizan austeridades para Ti.
-Innumerables son los recitadores de libros sagrados y Veds <span id="p204">[<sup><small>p. 204</small></sup>]</span>
+Innumerables son los recitadores de libros sagrados y Veds <span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 Innumerables son tus Yogis cuyos corazones son indiferentes _al mundo_;
 Son innumerables los santos que reflexionan sobre tus atributos y tu conocimiento divino;
 Innumerables tus hombres leales; innumerables tus limosneros
@@ -319,7 +319,7 @@ Los Pandits no lo descubrieron; si lo hubieran hecho, lo habrían registrado en 
 Tampoco lo descubrieron los Qazis[^2]; si lo hubieran hecho, lo habrían registrado en el Corán:
 Ni el Jogi ni ningún otro mortal conocen el día lunar, ni el día de la semana, ni la estación, ni el mes.
 Sólo el Creador que creó el mundo sabe cuándo lo hizo.
-¿Cómo te llamaré, oh Dios? ¿Cómo te alabaré? ¿Cómo te describiré? ¿Y cómo te conoceré? <span id="p207">[<sup><small>p. 207</small></sup>]</span>
+¿Cómo te llamaré, oh Dios? ¿Cómo te alabaré? ¿Cómo te describiré? ¿Y cómo te conoceré? <span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 Dice Nanak: Todos hablan de Ti, uno más sabio que otro.
 Grande es el Señor, grande es su nombre; y todo lo que él hace, se cumple.
 Nanak, aquel que es orgulloso no será honrado al llegar al próximo mundo.

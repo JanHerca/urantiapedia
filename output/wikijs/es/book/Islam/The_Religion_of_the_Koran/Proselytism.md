@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 CAPÍTULO II., Versículo 189.—Pero combatidlos para que no haya sedición, y que la religión sea la de Dios; pero si desisten, entonces que no haya hostilidad salvo contra los injustos.
 

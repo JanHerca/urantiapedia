@@ -58,9 +58,9 @@ dateCreated: 2025-2-5T22:38:45Z
 
 7\. Poco después de la partida del venerable Ânanda, Mâra, el Maligno, se acercó al Bendito y se paró a su lado. Y estando allí, se dirigió al Bendito con estas palabras:
 
-«Muere ahora, Señor, de la existencia; deja que el Bendito muera ahora. Ahora es el momento de que el Bendito muera, según la <span id="p43">[<sup><small>p. 43</small></sup>]</span> orden que el Bendito pronunció: cuando dijo[^4]: «¡No moriré, oh Maligno!» hasta que los hermanos y hermanas de la orden, y hasta que los discípulos laicos de ambos sexos[^5] se hayan convertido en verdaderos oyentes, sabios y bien entrenados, listos y eruditos, versados ​​en las Escrituras, cumpliendo todos los deberes mayores y menores, correctos en la vida, caminando según los preceptos—hasta que ellos, habiendo aprendido así la doctrina, sean capaces de contársela a otros, predicarla, darla a conocer, establecerla, abrirla, explicarla minuciosamente y aclararla—hasta que ellos, cuando otros inicien una doctrina vana, sean capaces por la verdad de vencerla y refutarla, y así difundir la verdad milagrosa por todas partes!''
+«Muere ahora, Señor, de la existencia; deja que el Bendito muera ahora. Ahora es el momento de que el Bendito muera, según la <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> orden que el Bendito pronunció: cuando dijo[^4]: «¡No moriré, oh Maligno!» hasta que los hermanos y hermanas de la orden, y hasta que los discípulos laicos de ambos sexos[^5] se hayan convertido en verdaderos oyentes, sabios y bien entrenados, listos y eruditos, versados ​​en las Escrituras, cumpliendo todos los deberes mayores y menores, correctos en la vida, caminando según los preceptos—hasta que ellos, habiendo aprendido así la doctrina, sean capaces de contársela a otros, predicarla, darla a conocer, establecerla, abrirla, explicarla minuciosamente y aclararla—hasta que ellos, cuando otros inicien una doctrina vana, sean capaces por la verdad de vencerla y refutarla, y así difundir la verdad milagrosa por todas partes!''
 
-8\. 'Y ahora, Señor, los hermanos y hermanas de la orden y los discípulos laicos de ambos sexos se han convertido en \[todo esto\], son capaces de hacer \[todo esto\]. ¡Muere ahora, Señor, de la existencia; que muera ahora el Bendito! Ha llegado la hora de que el Bendito muera, según sus palabras: «¡No moriré, oh Maligno!, hasta que esta religión pura mía haya alcanzado el éxito, la prosperidad, la difusión y la popularidad en toda su extensión; hasta que, en una palabra, haya sido bien proclamada a los hombres». Y ahora, Señor, esta religión pura tuya se ha convertido en \[todo esto\]. ¡Muere ahora, Señor, de la <span id="p44">[<sup><small>p. 44</small></sup>]</span> existencia; que muera ahora el Bendito! ¡Ha llegado la hora de que el Bendito muera!'
+8\. 'Y ahora, Señor, los hermanos y hermanas de la orden y los discípulos laicos de ambos sexos se han convertido en \[todo esto\], son capaces de hacer \[todo esto\]. ¡Muere ahora, Señor, de la existencia; que muera ahora el Bendito! Ha llegado la hora de que el Bendito muera, según sus palabras: «¡No moriré, oh Maligno!, hasta que esta religión pura mía haya alcanzado el éxito, la prosperidad, la difusión y la popularidad en toda su extensión; hasta que, en una palabra, haya sido bien proclamada a los hombres». Y ahora, Señor, esta religión pura tuya se ha convertido en \[todo esto\]. ¡Muere ahora, Señor, de la <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> existencia; que muera ahora el Bendito! ¡Ha llegado la hora de que el Bendito muera!'
 
 9\. Y tras haber hablado así, el Bendito se dirigió a Mâra, el Maligno, y dijo: «¡Oh, Maligno! Sé feliz, la extinción final del Tathagata ocurrirá pronto. Dentro de tres meses, el Tathagata morirá».
 
@@ -81,7 +81,7 @@ Con alegría interior y calma, se quebró,
 
 13\. 'Ocho son las causas inmediatas y ocho las remotas, Ânanda, de la aparición de un gran terremoto. ¿Cuáles son las ocho? Esta gran tierra, Ânanda, se asienta sobre el agua, el agua sobre el viento, y el viento reposa sobre el espacio. Y en ese momento, Ânanda, cuando soplan los fuertes vientos, las aguas son sacudidas por ellos, y la tierra es sacudida por el agua en movimiento. Estas son las primeras causas, inmediatas y remotas, de la aparición de un gran terremoto.
 
-14\. 'Además, Ânanda, un Sama<i>n</i>a o un Brahmán de gran poder intelectual, y que domina los sentimientos de su corazón; o un dios o hada (devatâ[^6]) de gran fuerza y ​​poder, cuando tal <span id="p46">[<sup><small>p. 46</small></sup>]</span> ser, mediante la intensa meditación de la idea finita de la tierra o la idea infinita del agua (ha logrado comprender el valor comparativo de las cosas[^7]), puede hacer que esta tierra se mueva, tiemble y se sacuda violentamente. Estas son las causas secundarias, próximas o remotas, de la aparición de un gran terremoto.
+14\. 'Además, Ânanda, un Sama<i>n</i>a o un Brahmán de gran poder intelectual, y que domina los sentimientos de su corazón; o un dios o hada (devatâ[^6]) de gran fuerza y ​​poder, cuando tal <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> ser, mediante la intensa meditación de la idea finita de la tierra o la idea infinita del agua (ha logrado comprender el valor comparativo de las cosas[^7]), puede hacer que esta tierra se mueva, tiemble y se sacuda violentamente. Estas son las causas secundarias, próximas o remotas, de la aparición de un gran terremoto.
 
 15. Además, Ânanda, cuando un Bodhisatta abandona consciente y deliberadamente su forma temporal en el cielo del deleite y desciende al vientre de su madre, esta tierra se estremece y se sacude violentamente. Estas son las terceras causas, próximas o remotas, de la aparición de un gran terremoto.
 
@@ -89,7 +89,7 @@ Con alegría interior y calma, se quebró,
 
 16\. «Además, Ananda, cuando un Bodhisatta abandona deliberada y conscientemente el vientre de su madre, la tierra tiembla y se estremece violentamente. Esta es la cuarta causa, próxima y remota, de la aparición de un gran terremoto.»
 
-17\. 'Además, Ânanda', cuando un Tathâgata alcanza la iluminación suprema y perfecta, entonces esta tierra tiembla, se estremece y se sacude violentamente. <span id="p48">[<sup><small>p. 48</small></sup>]</span> Esta es la quinta causa, próxima y remota, de la aparición de un poderoso terremoto.
+17\. 'Además, Ânanda', cuando un Tathâgata alcanza la iluminación suprema y perfecta, entonces esta tierra tiembla, se estremece y se sacude violentamente. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> Esta es la quinta causa, próxima y remota, de la aparición de un poderoso terremoto.
 
 18\. «Además, Ânanda, cuando un Tathagata funda el sublime reino de la rectitud, esta tierra tiembla, se estremece y se sacude violentamente. Esta es la sexta causa, próxima y remota, de la aparición de un poderoso terremoto.»
 
@@ -101,7 +101,7 @@ Con alegría interior y calma, se quebró,
 
 21\. 'Ahora bien, Ânanda, estas asambleas son de ocho tipos. ¿Cuáles son las ocho? Asambleas de nobles, brahmanes, jefes de familia y samanas, y las huestes angélicas de los Ángeles Guardianes, los Treinta y Tres Grandes, Mara y Brahma.
 
-22\. 'Ahora recuerdo, Ânanda, cómo cuando entraba en una asamblea de cientos de nobles, antes de sentarme allí, hablarles o iniciar una conversación, mi color y mi voz eran como los suyos. Entonces, con un discurso religioso, <span id="p49">[<sup><small>p. 49</small></sup>]</span> los instruía, los incitaba, los animaba y los llenaba de alegría. Pero no me reconocían cuando hablaba y decían: "¿Quién es este que habla así? ¿Un hombre o un dios?". Después de instruirlos, incitarlos, animarlos y alegrarlos con un discurso religioso, desaparecía. Pero ni siquiera me reconocían cuando desaparecía; decían: "¿Quién es este que se ha desvanecido así? ¿Un hombre o un dios?".
+22\. 'Ahora recuerdo, Ânanda, cómo cuando entraba en una asamblea de cientos de nobles, antes de sentarme allí, hablarles o iniciar una conversación, mi color y mi voz eran como los suyos. Entonces, con un discurso religioso, <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> los instruía, los incitaba, los animaba y los llenaba de alegría. Pero no me reconocían cuando hablaba y decían: "¿Quién es este que habla así? ¿Un hombre o un dios?". Después de instruirlos, incitarlos, animarlos y alegrarlos con un discurso religioso, desaparecía. Pero ni siquiera me reconocían cuando desaparecía; decían: "¿Quién es este que se ha desvanecido así? ¿Un hombre o un dios?".
 
 23\. \[Y con las mismas palabras el Bendito habló de cómo él había sido usado para entrar en asambleas de cada una de las otras ocho clases, y de cómo él no se les había dado a conocer ni al hablar ni al desaparecer.\] 'Ahora bien, éstas, Ânanda, son las ocho asambleas.'
 
@@ -155,7 +155,7 @@ Con alegría interior y calma, se quebró,
 
 46\. 'Y ahora nuevamente hoy, Ânanda, en el <i>K</i>âpâla <i>K</i>etiya, Mara, el Maligno, vino al lugar donde yo estaba, y estando a mi lado se dirigió a mí \[con las mismas palabras\].
 
-47\. 'Y cuando así habló, Ânanda, le respondí y le dije: «¡Confía en mí! La extinción final del Tathagata ocurrirá <span id="p54">[<sup><small>p. 54</small></sup>]</span> pronto. ¡Al cabo de tres meses, el Tathagata morirá!»
+47\. 'Y cuando así habló, Ânanda, le respondí y le dije: «¡Confía en mí! La extinción final del Tathagata ocurrirá <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> pronto. ¡Al cabo de tres meses, el Tathagata morirá!»
 
 48\. 'Así pues, Ânanda, el Tathâgata ha rechazado hoy en el <i>K</i>âpâla <i>K</i>etiya consciente y deliberadamente el resto del período de vida que le ha sido asignado.'
 
@@ -173,7 +173,7 @@ Con alegría interior y calma, se quebró,
 
 «¿Por qué entonces, Ânanda, molestas al Tathagata hasta la tercera vez?»
 
-54\. 'De su propia boca he oído del Bendito, de su propia boca he recibido este dicho: «Quienquiera que haya meditado, Ânanda, desarrollado, practicado, acumulado y ascendido a las alturas de los cuatro caminos hacia la santidad, y los haya dominado de tal manera que pueda usarlos como <span id="p55">[<sup><small>p. 55</small></sup>]</span> medio de progreso (mental) y como base para la edificación, él, si lo desea, podría permanecer en el mismo nacimiento durante un kalpa, o durante la parte del kalpa que aún no ha transcurrido». Ahora bien, el Tathagata los ha meditado y practicado concienzudamente \[en todos los aspectos, como se acaba de describir con todo detalle\], y podría, si lo desea, permanecer vivo durante un kalpa, o durante la parte del kalpa que aún no ha transcurrido.»
+54\. 'De su propia boca he oído del Bendito, de su propia boca he recibido este dicho: «Quienquiera que haya meditado, Ânanda, desarrollado, practicado, acumulado y ascendido a las alturas de los cuatro caminos hacia la santidad, y los haya dominado de tal manera que pueda usarlos como <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> medio de progreso (mental) y como base para la edificación, él, si lo desea, podría permanecer en el mismo nacimiento durante un kalpa, o durante la parte del kalpa que aún no ha transcurrido». Ahora bien, el Tathagata los ha meditado y practicado concienzudamente \[en todos los aspectos, como se acaba de describir con todo detalle\], y podría, si lo desea, permanecer vivo durante un kalpa, o durante la parte del kalpa que aún no ha transcurrido.»
 
 55\. '¿Tienes fe, Ânanda?'
 
@@ -189,7 +189,7 @@ Entonces, oh Ânanda, tuya es la culpa, tuya es la ofensa, pues cuando el Tathag
 
 59\. «Quienquiera, Ânanda, haya meditado, desarrollado, practicado, acumulado y ascendido a las alturas de los cuatro caminos hacia la santidad, y los haya dominado de tal manera que pueda usarlos como medio de avance (mental) y como base para la edificación, él, si lo desea, podría permanecer en el mismo nacimiento durante un kalpa, o durante la parte del kalpa que aún no ha transcurrido». Ahora bien, el Tathagata los ha meditado y practicado concienzudamente [en todos los aspectos, como se acaba de describir con todo detalle], y podría, si lo deseara, permanecer vivo durante un kalpa, o durante la parte del kalpa que aún no ha transcurrido.»
 
-60\. 'En una ocasión, Ânanda, residía aquí en Vesâli, en el Udena <i>K</i>etiya. Y allí también, Ânanda, te hablé y dije: «¡Qué agradable es Vesâli, Ânanda! ¡Qué agradable es el Udena <i>K</i>etiya! Quienquiera, Ânanda, que haya meditado, desarrollado, practicado, acumulado y ascendido a las alturas de los cuatro caminos hacia la santidad, y los haya dominado de tal manera que pueda usarlos como medio de progreso (mental) y como base para la edificación, si así lo deseara, podría permanecer en el mismo nacimiento durante un kalpa, o durante la parte del kalpa que aún le queda por transcurrir». Ahora bien, el Tathagata ha meditado y practicado a fondo <span id="p58">[<sup><small>p. 58</small></sup>]</span> ellos \[en todos los aspectos tal como se acaba de describir en detalle\], y podría, si así lo deseara, permanecer vivo durante un kalpa, o durante esa parte del kalpa que aún queda por correr.'
+60\. 'En una ocasión, Ânanda, residía aquí en Vesâli, en el Udena <i>K</i>etiya. Y allí también, Ânanda, te hablé y dije: «¡Qué agradable es Vesâli, Ânanda! ¡Qué agradable es el Udena <i>K</i>etiya! Quienquiera, Ânanda, que haya meditado, desarrollado, practicado, acumulado y ascendido a las alturas de los cuatro caminos hacia la santidad, y los haya dominado de tal manera que pueda usarlos como medio de progreso (mental) y como base para la edificación, si así lo deseara, podría permanecer en el mismo nacimiento durante un kalpa, o durante la parte del kalpa que aún le queda por transcurrir». Ahora bien, el Tathagata ha meditado y practicado a fondo <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> ellos \[en todos los aspectos tal como se acaba de describir en detalle\], y podría, si así lo deseara, permanecer vivo durante un kalpa, o durante esa parte del kalpa que aún queda por correr.'
 
 61\. 'En una ocasión, Ânanda, yo estaba viviendo aquí en Vesâli en el Gotamaka <i>K</i>etiya—en una ocasión aquí en Vesâli en el Sattamba <i>K</i>etiya—en una ocasión aquí en Vesâli en el Bahuputta <i>K</i>etiya—en una ocasión aquí en Vesâli en el Sârandada <i>K</i>etiya \[y en cada ocasión te hablé, Ânanda, con las mismas palabras\].
 
@@ -203,7 +203,7 @@ Entonces, oh Ânanda, tuya es la culpa, tuya es la ofensa, pues cuando el Tathag
 
 «¡Así es, Señor!», dijo el venerable Ânanda, en señal de asentimiento, al Bendito.
 
-Entonces el Bendito procedió, con Ânanda <span id="p60">[<sup><small>p. 60</small></sup>]</span> con él, al Mahâvana, a la Sala del Kû<i>t</i>âgâra: y cuando llegó allí, se dirigió al venerable Ânanda y dijo:
+Entonces el Bendito procedió, con Ânanda <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> con él, al Mahâvana, a la Sala del Kû<i>t</i>âgâra: y cuando llegó allí, se dirigió al venerable Ânanda y dijo:
 
 «Ve ahora, Ânanda, y reúne en la Sala de Servicio a aquellos hermanos que residen en el vecindario de Vesâli.»
 
@@ -237,7 +237,7 @@ He aquí, oh hermanos, os exhorto, diciendo: «Todo lo que lo compone debe envej
 
 'Mi edad ya está en su punto máximo, mi vida se acerca a su fin:  
 ¡Os dejo, me voy, confiando sólo en mí mismo!  
-¡Sean entonces sinceros, oh hermanos! ¡Santos, llenos de pensamiento! <span id="p62">[<sup><small>p. 62</small></sup>]</span>  
+¡Sean entonces sinceros, oh hermanos! ¡Santos, llenos de pensamiento! <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>  
 ¡Manténganse firmes en su resolución! ¡Cuiden sus corazones!  
 Quien no se cansa, sino que se aferra a esta verdad y ley[^14],  
 Cruzaré este mar de vida y pondré fin al dolor.

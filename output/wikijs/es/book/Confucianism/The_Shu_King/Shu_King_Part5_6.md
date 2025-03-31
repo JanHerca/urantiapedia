@@ -48,7 +48,7 @@ El duque entonces adivinó con las tres conchas de tortuga, y todas fueron favor
 
 Cuando el duque regresó, colocó las tablas (de la oración) en un cofre con tapa de metal [^164], y al día siguiente el rey mejoró.
 
-2\. (Posteriormente), tras la muerte del rey Wû, el hermano mayor (del duque), el de Kwan, y sus hermanos menores, difundieron un rumor infundado por todo el reino, <span id="p155">[<sup><small>p. 155</small></sup>]</span>, según el cual el duque no haría ningún bien al joven hijo (del rey). Ante esto, el duque dijo a los otros dos grandes duques: «Si no llevo la justicia (a estos hombres), no podré presentar mi informe a los reyes anteriores [^165]».\*
+2\. (Posteriormente), tras la muerte del rey Wû, el hermano mayor (del duque), el de Kwan, y sus hermanos menores, difundieron un rumor infundado por todo el reino, <span id="p155"><sup><small>[ p. 155 ]</small></sup></span>, según el cual el duque no haría ningún bien al joven hijo (del rey). Ante esto, el duque dijo a los otros dos grandes duques: «Si no llevo la justicia (a estos hombres), no podré presentar mi informe a los reyes anteriores [^165]».\*
 
 Residió (en consecuencia) en el este durante dos años [^166], cuando los criminales fueron capturados (y llevados ante la justicia). Después compuso un poema para presentarlo al rey, al que llamó «El Búho» [^167]. El rey, por su parte, no se atrevió a culpar al duque.
 

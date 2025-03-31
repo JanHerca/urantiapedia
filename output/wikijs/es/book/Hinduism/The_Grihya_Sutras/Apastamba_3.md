@@ -52,7 +52,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. El Avadâna para la primera deidad (se toma) del medio (del Sthâlîpâka);
 
-10\. Se ofrece sobre el centro (del fuego). <span id="p265">[<sup><small>p. 265</small></sup>]</span>
+10\. Se ofrece sobre el centro (del fuego). <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 11\. (El Avadâna) para la segunda (deidad se toma) de la parte norte (del Sthâlîpâka);
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 18\. Algunos dicen que un recipiente lleno (de grano) es el regalo del sacrificio.
 
-19\. [^746] A partir de entonces, debe ofrecer mañana y tarde con su mano estas dos oblaciones (a Agni y a Agni Svish<i>t</i>ak<i>t</i>t) de granos (de arroz) o de cebada. <span id="p266">[<sup><small>p. 266</small></sup>]</span>
+19\. [^746] A partir de entonces, debe ofrecer mañana y tarde con su mano estas dos oblaciones (a Agni y a Agni Svish<i>t</i>ak<i>t</i>t) de granos (de arroz) o de cebada. <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 20\. Las deidades son las mismas que en el Sthâlîpâka (recién descrito).
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## PATALA 3, SECCIÓN 8.
 
-1\. [^752] En las ceremonias de apertura y conclusión del estudio védico, el <i>Ri</i>shi que se indica (como el <span id="p267">[<sup><small>p. 267</small></sup>]</span> <i>Ri</i>shi del Kâ<i>nd</i>a que estudian, es la deidad a la que pertenece la ceremonia),
+1\. [^752] En las ceremonias de apertura y conclusión del estudio védico, el <i>Ri</i>shi que se indica (como el <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> <i>Ri</i>shi del Kâ<i>nd</i>a que estudian, es la deidad a la que pertenece la ceremonia),
 
 2\. Y en segundo lugar Sadasaspati (cf. Mantrap. I, 9, 8).
 
@@ -111,7 +111,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. Entre sus lugares de dormir se interpone un bastón ungido con perfumes y envuelto con una tela o un hilo.
 
-10\. En la última parte de la cuarta noche, toma el bastón con los dos versos siguientes; M. I, 10, 1-2, lo lava y lo guarda; luego, se realizan las ceremonias desde la leña hasta las oblaciones de Â<i>ri</i>yabhâga, y mientras ella lo sostiene, él sacrifica las oblaciones (indicadas por los) siguientes mantras; M. I, 10, 3-9; luego, comienza la ejecución del <i>G</i>aya y las oblaciones subsiguientes, y realiza los ritos <span id="p268">[<sup><small>p. 268</small></sup>]</span>, hasta la aspersión de agua alrededor del fuego. Luego la hace sentar al oeste del fuego, mirando hacia el este, y vierte un poco de Â<i>ri</i>ya de los restos (de esas oblaciones) sobre su cabeza con los (tres) Vyâh<i>ri</i>tis y la palabra Om como cuarto (M. I, 10, 10-13). Luego se miran el uno al otro con los siguientes dos versos (M. I, 11, 1-2), según las características (contenidas en esos versos); con el siguiente verso (M. I, 11, 3) unta la región de sus corazones con restos de Â<i>ri</i>ya; luego debe murmurar los siguientes tres versos (I, 11, 4-6), y debe murmurar el resto (del Anuvâka; I, 11, 7-11) al cohabitar con ella.
+10\. En la última parte de la cuarta noche, toma el bastón con los dos versos siguientes; M. I, 10, 1-2, lo lava y lo guarda; luego, se realizan las ceremonias desde la leña hasta las oblaciones de Â<i>ri</i>yabhâga, y mientras ella lo sostiene, él sacrifica las oblaciones (indicadas por los) siguientes mantras; M. I, 10, 3-9; luego, comienza la ejecución del <i>G</i>aya y las oblaciones subsiguientes, y realiza los ritos <span id="p268"><sup><small>[ p. 268 ]</small></sup></span>, hasta la aspersión de agua alrededor del fuego. Luego la hace sentar al oeste del fuego, mirando hacia el este, y vierte un poco de Â<i>ri</i>ya de los restos (de esas oblaciones) sobre su cabeza con los (tres) Vyâh<i>ri</i>tis y la palabra Om como cuarto (M. I, 10, 10-13). Luego se miran el uno al otro con los siguientes dos versos (M. I, 11, 1-2), según las características (contenidas en esos versos); con el siguiente verso (M. I, 11, 3) unta la región de sus corazones con restos de Â<i>ri</i>ya; luego debe murmurar los siguientes tres versos (I, 11, 4-6), y debe murmurar el resto (del Anuvâka; I, 11, 7-11) al cohabitar con ella.
 
 11\. O bien, otra persona debería recitar (el resto del Anuvâka) sobre ella (antes de que cohabiten).
 
@@ -126,13 +126,13 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Cada noche siguiente con un número par, desde la cuarta (después del comienzo de su enfermedad mensual) hasta la decimosexta, les trae descendencia más excelente, si son elegidos para la (primera) cohabitación después de su enfermedad; así se dice.
 
-2\. Si estornuda o tose mientras está ocupado en <span id="p269">[<sup><small>p. 269</small></sup>]</span>, debe tocar agua y murmurar los dos versículos siguientes (M. I, 13, 5. 6) según sus características.
+2\. Si estornuda o tose mientras está ocupado en <span id="p269"><sup><small>[ p. 269 ]</small></sup></span>, debe tocar agua y murmurar los dos versículos siguientes (M. I, 13, 5. 6) según sus características.
 
 3\. De la misma manera, con los siguientes (Mantras—M. I, 13, 7-10—debe dirigirse a los siguientes objetos), según las características (que contienen esos Mantras): un árbol visible, un montón de excrementos, la falda (de su vestimenta) que el viento le hace ondear, y un pájaro que chilla.
 
 4\. Quien (por ejemplo, el padre de la esposa) desee que los corazones de ambos (marido y esposa) estén en armonía debe observar castidad durante al menos tres noches y preparar un Sthâlîpâka. Luego se realizan las ceremonias, desde la colocación de la leña en el fuego hasta las oblaciones del Â<i>n</i>yabhâga, y mientras la esposa lo sostiene, sacrifica del Sthâlîpâka las oblaciones (indicadas por los) siguientes (mantras; M. I, 14, 1-7); luego, comienza la ejecución del <i>G</i>aya y las oblaciones subsiguientes, y realiza los ritos hasta la aspersión de agua alrededor del fuego. Debe dar de comer los restos de la comida sacrificial con mantequilla a un número par de brahmanes, por lo menos a dos, y debe pedirles que pronuncien deseos de éxito para él.
 
-5\. [^754] Al día siguiente, cuando la luna esté en conjunción con Tishya, ella esparce tres veces siete granos de cebada alrededor de la planta Clypea Hernandifolia con la fórmula: «Si perteneces a Varuna, te redimo de Varuna. Si perteneces a Soma, te redimo de Soma». <span id="p270">[<sup><small>p. 270</small></sup>]</span>
+5\. [^754] Al día siguiente, cuando la luna esté en conjunción con Tishya, ella esparce tres veces siete granos de cebada alrededor de la planta Clypea Hernandifolia con la fórmula: «Si perteneces a Varuna, te redimo de Varuna. Si perteneces a Soma, te redimo de Soma». <span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 6\. Al día siguiente, deberá colocar la planta en posición vertical con el siguiente verso (M. I, 15, 1), recitar sobre ella los tres versos siguientes (M. I, 15, 2-4), atar la raíz con el siguiente verso (M. I, 15, 5) a sus manos para que su esposo no la vea, y, al acostarse, abrazar a su esposo con los brazos, con el verso que alude a la palabra upadhâna ('vestirse'; M. I, 15, 6).
 

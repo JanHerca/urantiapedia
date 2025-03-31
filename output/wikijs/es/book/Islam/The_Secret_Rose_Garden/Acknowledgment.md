@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Deseo reconocer mi deuda con el Profesor E. H. Whinfield, cuyo libro, la traducción estándar del _Gulshan i Rāz_, me ha sido de gran ayuda para compilar este pequeño volumen. Agradezco al Dr. R. A. Nicholson por su amable permiso para citar sus obras sobre el sufismo, y al Capitán L. Cranmer-Byng le ofrezco mi más sincero agradecimiento por su amable interés en mi trabajo y por sus muchos consejos y sugerencias útiles.
 

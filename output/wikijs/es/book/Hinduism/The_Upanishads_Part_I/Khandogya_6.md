@@ -48,7 +48,7 @@ SEXTO PRAP<i>TH</i>TAMBIÉN CONOCIDO COMO.
 
 El padre respondió: "Querido mío, como por un terrón de arcilla se conoce todo lo que está hecho de arcilla, la diferencia [^268] es solo un nombre que surge del habla, pero la verdad es que todo es arcilla;
 
-5\. 'Y como, querida mía, por una pepita de oro [^269] <span id="p93">[<sup><small>p. 93</small></sup>]</span> se sabe todo lo que está hecho de oro, siendo la diferencia solo un nombre que surge del habla, pero la verdad es que todo es oro?
+5\. 'Y como, querida mía, por una pepita de oro [^269] <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> se sabe todo lo que está hecho de oro, siendo la diferencia solo un nombre que surge del habla, pero la verdad es que todo es oro?
 
 6\. 'Y como, querida mía, con un par de tijeras de uñas se conoce todo lo que está hecho de hierro (kârsh<i>n</i>âyasam), siendo la diferencia solo un nombre, que surge del habla, pero la verdad es que todo es hierro, así, querida mía, es esa instrucción.'
 
@@ -76,7 +76,7 @@ Por lo tanto, cuando llueve en cualquier lugar, se produce la mayor parte de los
 
 1\. 'De todos los seres vivos hay, en efecto, sólo tres orígenes [^276]: el que surge de un huevo (ovíparo), el que surge de un ser vivo (vivíparo) y el que surge de un germen.
 
-2\. 'Ese Ser [^277] (es decir, aquello que había producido el fuego, el agua y la tierra) pensó: permíteme ahora entrar en esos tres seres [^277] (fuego, agua, tierra) con este Ser viviente <span id="p95">[<sup><small>p. 95</small></sup>]</span> (<i>g</i>îva âtmâ) [^278], y permíteme entonces revelar (desarrollar) nombres y formas.
+2\. 'Ese Ser [^277] (es decir, aquello que había producido el fuego, el agua y la tierra) pensó: permíteme ahora entrar en esos tres seres [^277] (fuego, agua, tierra) con este Ser viviente <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> (<i>g</i>îva âtmâ) [^278], y permíteme entonces revelar (desarrollar) nombres y formas.
 
 3\. 'Entonces, habiendo dicho aquel Ser: Permítanme hacer cada uno de estos tres tripartitos (de modo que el fuego, el agua y la tierra se tengan a sí mismos como ingrediente principal, además de una mezcla de los otros dos), entró en esos tres seres (devatâ) sólo con este ser viviente, y reveló nombres y formas.
 
@@ -90,7 +90,7 @@ Por lo tanto, cuando llueve en cualquier lugar, se produce la mayor parte de los
 
 3\. «El rojo de la luna es el color del fuego, el blanco del agua, el negro de la tierra. Así desaparece lo que llamamos luna, como mera variedad, siendo un nombre que surge del habla. Lo verdadero son los tres colores.»
 
-4\. «El color rojo del relámpago es el color del fuego, el blanco el del agua, el negro la tierra. Así, <span id="p96">[<sup><small>p. 96</small></sup>]</span> se desvanece lo que llamamos relámpago, como mera variedad, siendo un nombre que surge del habla. Lo verdadero son los tres colores.»
+4\. «El color rojo del relámpago es el color del fuego, el blanco el del agua, el negro la tierra. Así, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> se desvanece lo que llamamos relámpago, como mera variedad, siendo un nombre que surge del habla. Lo verdadero son los tres colores.»
 
 5\. 'Grandes cabezas de familia y grandes teólogos de la antigüedad que sabían esto, lo han declarado, diciendo: “Nadie puede mencionarnos de ahora en adelante nada que no hayamos oído, percibido o conocido [^279]”. De estos (tres colores o formas) ellos lo sabían todo.
 
@@ -107,7 +107,7 @@ Por lo tanto, cuando llueve en cualquier lugar, se produce la mayor parte de los
 
 2\. 'El agua cuando se bebe se triplica: su porción más densa se convierte en agua, su porción media en sangre y su porción más sutil en aliento.
 
-3\. 'El fuego (es decir, en aceite, mantequilla, etc.) al ingerirse se triplica: su porción más gruesa se convierte en hueso, su porción media en médula, su porción más sutil en habla [^280]. <span id="p97">[<sup><small>p. 97</small></sup>]</span> 4\. 'Porque en verdad, hijo mío, la mente viene de la tierra, el aliento del agua, la palabra del fuego.'
+3\. 'El fuego (es decir, en aceite, mantequilla, etc.) al ingerirse se triplica: su porción más gruesa se convierte en hueso, su porción media en médula, su porción más sutil en habla [^280]. <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> 4\. 'Porque en verdad, hijo mío, la mente viene de la tierra, el aliento del agua, la palabra del fuego.'
 
 «Por favor, señor, infórmeme aún más», dijo el hijo.
 
@@ -135,7 +135,7 @@ Así sea, hijo mío, respondió el padre.
 
 2\. Svetaketu se abstuvo de comer durante quince días. Luego fue a ver a su padre y le preguntó: "¿Qué debo decir?". El padre le dijo: "Repite los versos de Rik, Yagus y Sâman". Él respondió: "No se me ocurren, señor".
 
-3\. El padre le dijo: «Como de un gran fuego encendido, solo queda una brasa del tamaño de una luciérnaga, que no quemaría mucho más que esto (es decir, muy <span id="p98">[<sup><small>p. 98</small></sup>]</span> poco), así, querido hijo, solo queda una parte de las dieciséis partes (de ti), y por lo tanto, con esa parte no recuerdas los Vedas. ¡Ve a comer!»
+3\. El padre le dijo: «Como de un gran fuego encendido, solo queda una brasa del tamaño de una luciérnaga, que no quemaría mucho más que esto (es decir, muy <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> poco), así, querido hijo, solo queda una parte de las dieciséis partes (de ti), y por lo tanto, con esa parte no recuerdas los Vedas. ¡Ve a comer!»
 
 4\. «Entonces me entenderás». Entonces Svetaketu comió y luego se acercó a su padre. Y todo lo que su padre le preguntaba, se lo sabía de memoria. Entonces su padre le dijo:
 
@@ -160,7 +160,7 @@ Aprende de mí la verdadera naturaleza del sueño (svapna). Cuando un hombre due
 
 6\. ¿Y dónde podría estar su raíz sino en el agua? Como el agua es un vástago, busca su raíz, es decir, el fuego. Como el fuego es un vástago, busca su raíz, es decir, la Verdad. Sí, todas estas criaturas, oh hijo, tienen su raíz en la Verdad, habitan en la Verdad, descansan en la Verdad.
 
-Y cómo estos tres seres (devatâ), fuego, agua y tierra, ¡oh hijo!, al llegar al hombre, se convierten en tripartitos, ya se ha dicho antes (VI, 4, 7). Cuando un hombre parte de aquí, su habla [^286] se funde <span id="p101">[<sup><small>p. 101</small></sup>]</span> en su mente, su mente en su aliento, su aliento en el calor (fuego), el calor en el Ser Supremo.
+Y cómo estos tres seres (devatâ), fuego, agua y tierra, ¡oh hijo!, al llegar al hombre, se convierten en tripartitos, ya se ha dicho antes (VI, 4, 7). Cuando un hombre parte de aquí, su habla [^286] se funde <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> en su mente, su mente en su aliento, su aliento en el calor (fuego), el calor en el Ser Supremo.
 
 7\. «Ahora bien, aquello que es esa esencia sutil (la raíz de todo), en él todo lo que existe tiene su ser. Es lo Verdadero. Es el Ser, y tú, oh Svetaketu, lo eres.»
 
@@ -200,7 +200,7 @@ Y cómo estos tres seres (devatâ), fuego, agua y tierra, ¡oh hijo!, al llegar 
 
 ## UNDÉCIMO KHAND [^289].
 
-1\. «Si alguien golpeara la raíz de este gran árbol, sangraría, pero viviría. Si golpeara su tronco, sangraría, pero viviría. Si golpeara su copa, sangraría, pero viviría. <span id="p103">[<sup><small>p. 103</small></sup>]</span> Impregnado por el Ser viviente, ese árbol se mantiene firme, absorbiendo su alimento y regocijándose;
+1\. «Si alguien golpeara la raíz de este gran árbol, sangraría, pero viviría. Si golpeara su tronco, sangraría, pero viviría. Si golpeara su copa, sangraría, pero viviría. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> Impregnado por el Ser viviente, ese árbol se mantiene firme, absorbiendo su alimento y regocijándose;
 
 2\. «Pero si la vida (el Ser viviente) abandona una de sus ramas, esa rama se marchita; si abandona una segunda, esa rama se marchita; si abandona una tercera, esa rama se marchita. Si abandona el árbol entero, el árbol entero se marchita [^290]. De la misma manera, hijo mío, debes saber esto». Así habló:
 
@@ -282,9 +282,9 @@ Entonces el padre dijo: 'Aquí también, en este cuerpo, en verdad, no percibes 
 
 ## DECIMOCUARTO KHA<i>N</i><i>D</i>A [^294].
 
-1\. 'Como si alguien alejara a una persona con los ojos vendados de los Gandhâras [^295] y la dejara <span id="p106">[<sup><small>p. 106</small></sup>]</span> en un lugar donde no hay seres humanos; y esa persona se girara hacia el este, el norte o el oeste, y gritara: «Me han traído aquí con los ojos vendados, me han dejado aquí con los ojos vendados».
+1\. 'Como si alguien alejara a una persona con los ojos vendados de los Gandhâras [^295] y la dejara <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> en un lugar donde no hay seres humanos; y esa persona se girara hacia el este, el norte o el oeste, y gritara: «Me han traído aquí con los ojos vendados, me han dejado aquí con los ojos vendados».
 
-2\. 'Y así como alguien podría soltarse la venda y decirle: “Ve en esa dirección, es Gandhâra, ve en esa dirección”; y así como entonces, habiendo sido informado y pudiendo juzgar por sí mismo, preguntando de aldea en aldea por el camino llegaría finalmente a Gandhâra, de la misma manera un hombre que se encuentra con un maestro que le instruye obtiene el verdadero conocimiento [^296]. Para él <span id="p107">[<sup><small>p. 107</small></sup>]</span> solo hay demora mientras no se libere (del cuerpo); entonces será perfecto [^297].
+2\. 'Y así como alguien podría soltarse la venda y decirle: “Ve en esa dirección, es Gandhâra, ve en esa dirección”; y así como entonces, habiendo sido informado y pudiendo juzgar por sí mismo, preguntando de aldea en aldea por el camino llegaría finalmente a Gandhâra, de la misma manera un hombre que se encuentra con un maestro que le instruye obtiene el verdadero conocimiento [^296]. Para él <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> solo hay demora mientras no se libere (del cuerpo); entonces será perfecto [^297].
 
 3\. «Aquello que es la esencia sutil, en él todo lo que existe tiene su ser. Es lo Verdadero. Es el Ser, y tú, oh Svetaketu, lo eres.»
 
@@ -295,7 +295,7 @@ Entonces el padre dijo: 'Aquí también, en este cuerpo, en verdad, no percibes 
 
 ## DECIMOQUINTO KHAN D [^298].
 
-1\. «Si un hombre está enfermo, sus familiares se reúnen a su alrededor y le preguntan: “¿Me conoces? ¿Me conoces?”. Ahora bien, mientras su habla no esté <span id="p108">[<sup><small>p. 108</small></sup>]</span> fundida en su mente, su mente en el aliento, el aliento en el calor (fuego), el calor en el Ser Supremo (devatâ), él los conoce.
+1\. «Si un hombre está enfermo, sus familiares se reúnen a su alrededor y le preguntan: “¿Me conoces? ¿Me conoces?”. Ahora bien, mientras su habla no esté <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> fundida en su mente, su mente en el aliento, el aliento en el calor (fuego), el calor en el Ser Supremo (devatâ), él los conoce.
 
 2\. 'Pero cuando su palabra se funde en su mente, su mente en el aliento, el aliento en el calor (fuego), el calor en el Ser Supremo, entonces no los conoce.
 
@@ -308,7 +308,7 @@ Entonces el padre dijo: 'Aquí también, en este cuerpo, en verdad, no percibes 
 
 ## DÉCIMO SEXTO KHA<i>N</i><i>D</i>A [^299].
 
-1\. 'Hijo mío, traen aquí a un hombre al que han tomado de la mano, y dicen: “Ha robado algo, ha cometido un robo”. (Cuando <span id="p109">[<sup><small>p. 109</small></sup>]</span> lo niega, dicen): “Que le calienten el hacha”. Si cometió el robo, se hace pasar por lo que no es. Entonces, el de mente falsa, tras haber ocultado su verdadero Ser con una falsedad, empuña el hacha caliente; se quema y muere.
+1\. 'Hijo mío, traen aquí a un hombre al que han tomado de la mano, y dicen: “Ha robado algo, ha cometido un robo”. (Cuando <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> lo niega, dicen): “Que le calienten el hacha”. Si cometió el robo, se hace pasar por lo que no es. Entonces, el de mente falsa, tras haber ocultado su verdadero Ser con una falsedad, empuña el hacha caliente; se quema y muere.
 
 2\. 'Pero si no cometió el robo, entonces se convierte en lo que es. Entonces, el de mente sincera, habiendo cubierto su verdadero Ser con la verdad, empuña el hacha de guerra; no se quema, y ​​se libera.
 

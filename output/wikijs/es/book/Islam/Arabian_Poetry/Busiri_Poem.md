@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/32300.jpg) ¿Es de un recuerdo de los vecinos en Dhū-Salam que has mezclado con sangre las lágrimas que fluyen de un globo ocular?
 
@@ -50,7 +50,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 8\. “¡Sí! El fantasma de la que amo pasó ante mí y me dejó sin dormir. Porque el amor destroza los placeres con el dolor.
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 9\. “¡Oh, mi represor por un afecto excusable! \[recibe\] una excusa de mí para ti: y si fueras justo, no me habrías reprochado.
 
@@ -70,7 +70,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 17\. No te propongas, por tanto, aplastar su inclinación en sus actos de rebelión; porque la comida vigoriza el deseo en los insaciables.
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 18\. La carne es como un niño: si lo dejas solo, crece con un amor por la lactancia; y si lo destetas, queda destetado.
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. Pido perdón a Dios por mis palabras habladas no acompañadas de hechos; pues con ellas he acusado a un esposo de mujeres estériles de tener posteridad.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 27\. Te he ordenado que hagas el bien, pero yo no me he conformado a ello. No he sido recto; ¿qué es, pues, mi palabra para ti: Sé recto?
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Muhammad, el Príncipe de los dos universos \[material y espiritual\], de las dos clases ponderables \[hombres y demonios\], y de las dos secciones \[de la humanidad\], de los árabes y de los no árabes;
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 35\. Nuestro Anunciador, que manda y que prohíbe; que nadie es más justo en la palabra «¡No!» o en la palabra «¡Sí!»
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Deja a un lado lo que los Nazarenos han reclamado para su profeta; pronuncia lo que quieras en su alabanza, y decide;
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 44\. Atribuye a su personalidad lo que quieras de nobleza; y atribuye a su valor lo que quieras de inmensidad;
 
@@ -148,7 +148,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\. Y todas las señales que los nobles apóstoles obraron \[en días anteriores\] les pertenecían simplemente por su gloria.
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 53\. Porque, en verdad, él es el sol de la superioridad, del cual ellos son las estrellas. Muestran sus luces a la gente en las tinieblas \[pero el sol es visible de día\].
 
@@ -168,7 +168,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 61\. Y el pabellón de los Cosroes se convirtió, al estar agrietado, como los cortesanos de los Cosroes, irremediablemente desordenado;
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 62\. Y el Fuego Sagrado, por el dolor que le produjo, se extinguió en sus respiraciones de llama, y el río Tigris se secó en su fuente, por asfixia;
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 70\. Como si fueran, en su huida, los cobardes de Abraha, o el ejército lapidado con piedras de sus dos manos [de Muhammad],
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 71\. En un lanzamiento, después de una recitación de doxología dentro de sus dos palmas; así como el lanzamiento del doxólogo \[Jonás\] de las entrañas del pez que lo traga;
 
@@ -208,7 +208,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 79\. La protección de Dios los hizo independientes de las dobles cotas de malla y de las altas torres.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 80\. El tiempo no me ha ofrecido una injuria \[contra la cual\] haya recurrido para protección a él \[Muhammad\], pero recibí de él una protección que no debe ser infringida;
 
@@ -226,7 +226,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 87\. Por un banco de nubes que llovía copiosamente, de modo que habrías imaginado que los canales de guijarros del torrente eran diques cortados del océano, o una inundación de un embalse de montaña desprendido!
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 88\. Permítanme mi descripción de algunos de sus milagros, que fueron tan manifiestos como lo es la notoriedad del fuego de la hospitalidad. de noche en la cima de la montaña;
 
@@ -244,7 +244,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 95\. Nunca ha sido impugnada, pero el más agresivo de sus atacantes ha vuelto a proponerle la paz;
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 96\. Su elocuencia repele las pretensiones de su disputador, con la repulsión del celoso \[que repele\] la mano del criminal de las cosas consideradas sagradas \[a la virtud\];
 
@@ -264,7 +264,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 104\. El ojo, a través de la oftalmía, ha negado hasta ahora la luz del sol; y la boca, a través de la enfermedad, ha negado el sabor del agua.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 105\. ¡Oh, Muhammad! Tú, el mejor de aquellos cuya corte buscan los invitados, caminando a pie o sentados sobre los lomos de camellos de paso fácil.
 
@@ -284,7 +284,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 113\. Para que puedas tener una entrevista con Uno oculto de una manera especial a los ojos de la humanidad y la comunicación de un secreto oculto en un grado tan profundo;
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 114\. Ganaste todo tema de jactancia \[legítima\], sin copartícipe; y pasaste por cada etapa \[del progreso\] libre de la multitud;
 
@@ -304,7 +304,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 122\. Como si la religión \[del Islam\] fuera un huésped que se hubiera posado en su corte con todos los camellos nobles, ansiosos por devorar la carne de sus enemigos,
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 123\. Quien dirigió una oleada de un ejército \[montado\] sobre caballos veloces, que levantó olas veloces de valientes guerreros,
 
@@ -324,7 +324,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 131\. Cuyas armas son afiladas; que tienen una marca que los distingue; porque la rosa se distingue de la acacia por su marca.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 132\. Los vientos de la victoria guían hacia ti su olor; de modo que consideras a cada guerrero vestido de armadura como una flor en su cáliz.
 
@@ -344,7 +344,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 140\. Le he entregado mi servicio en un panegírico, con el que busco el perdón de los pecados de una vida pasada en poesía y servicios,
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 141\. Que han puesto sobre mi cuello aquello cuyos resultados son de temer; como si yo fuera, por ellos, una víctima de entre el ganado.
 
@@ -364,7 +364,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 149\. Y desde que he dedicado mis pensamientos a sus loables cualidades, he encontrado en él la mejor de las garantías para mi salvación.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 150\. La riqueza de él nunca fallará a una mano apretada por la pobreza: en verdad, la lluvia hace que las flores crezcan en las colinas.
 
@@ -384,7 +384,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 158\. Y trata con bondad a tu siervo: en verdad, él tiene una fortaleza que, cuando los terrores la exigen, se pone en fuga.
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 159\. Y concede que las lluvias de bendiciones de Ti sean perpetuas sobre el Profeta, copiosas y continuas;
 

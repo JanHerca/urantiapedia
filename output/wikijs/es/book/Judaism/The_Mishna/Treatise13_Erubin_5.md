@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. ¿Cómo se pueden ampliar los límites de una ciudad? Si una casa se aleja de la muralla y otra se proyecta, o si una ruina se aleja o proyecta, o si fragmentos de una muralla de diez palmos de altura se encuentran más allá de las murallas, o si hay puentes o cementerios con viviendas, la medición de la ciudad se inicia a partir de ellos; y el conjunto se forma como un cuadrado para obtener los ángulos.
 
-§ 2. Se debe conceder un espacio de setenta y dos tercios a la ciudad. Tal es el dictamen de R. Meir; pero los sabios sostienen que «tal concesión solo debe concederse si dos ciudades están tan cerca que cada una solo requiere setenta y dos tercios <span id="p82">[<sup><small>p. 82</small></sup>]</span> amoth \[para que estén dentro del techoom; en ese caso\] se concede a ambas, \[para que se conviertan\] en una sola».
+§ 2. Se debe conceder un espacio de setenta y dos tercios a la ciudad. Tal es el dictamen de R. Meir; pero los sabios sostienen que «tal concesión solo debe concederse si dos ciudades están tan cerca que cada una solo requiere setenta y dos tercios <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> amoth \[para que estén dentro del techoom; en ese caso\] se concede a ambas, \[para que se conviertan\] en una sola».
 
 § 3. De la misma manera, si tres aldeas forman un triángulo, y las dos exteriores requieren 14⅓ amoth, \[una asignación doble para ponerlas a una distancia de 100 m una de la otra\], \[en idea\] coloca la tercera entre ellas, de modo que las tres se vuelven como si fueran una sola.
 

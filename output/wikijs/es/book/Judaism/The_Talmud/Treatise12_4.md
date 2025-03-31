@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 4\. El rabino Levitas de Jabneh dijo: «Sean muy humildes de espíritu, pues toda esperanza del hombre es ser pasto de gusanos». El rabino Johanan, hijo de Beroka, dijo: «Quien profane el nombre de Dios en secreto será castigado públicamente, ya sea por ignorancia o presunción, todo es una profanación del nombre de Dios».
 
-5\. Rabí Ismael, su hijo, dijo: «Quien aprende para poder enseñar a otros, podrá estudiar y enseñar a otros; pero quien estudia para cumplir los preceptos, podrá estudiar, enseñar, observar y cumplir los mandamientos». Rabí Zadok dijo: «No subordines el estudio de la ley a tu engrandecimiento, ni hagas de ella un hacha para cortarla». Y <span id="p229">[<sup><small>p. 229</small></sup>]</span> así dijo Hillel: «Quienquiera que reciba algún emolumento de las palabras de la ley se priva a sí mismo de la vida».
+5\. Rabí Ismael, su hijo, dijo: «Quien aprende para poder enseñar a otros, podrá estudiar y enseñar a otros; pero quien estudia para cumplir los preceptos, podrá estudiar, enseñar, observar y cumplir los mandamientos». Rabí Zadok dijo: «No subordines el estudio de la ley a tu engrandecimiento, ni hagas de ella un hacha para cortarla». Y <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> así dijo Hillel: «Quienquiera que reciba algún emolumento de las palabras de la ley se priva a sí mismo de la vida».
 
 6\. El Rabino José dijo: «Quien honra la ley, su persona será honrada por la humanidad; y quien profana la ley, su persona será deshonrada por la humanidad».
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 12\. Rabí Eliezer, hijo de Shamua, dijo: «Que el honor de tu discípulo sea tan preciado para ti como el tuyo propio, y el honor de tu compañero como el temor de tu maestro, y el temor de tu maestro como el temor de Dios».
 
-13\. El rabino Judah dijo: «Tengan cuidado con la doctrina, pues un error en la doctrina es un pecado de presunción». El rabino Simón dijo: <span id="p230">[<sup><small>p. 230</small></sup>]</span> «Hay tres coronas: la corona de la ley, la corona del sacerdocio y la corona de la monarquía, pero la corona de un buen nombre es mejor que todas ellas».
+13\. El rabino Judah dijo: «Tengan cuidado con la doctrina, pues un error en la doctrina es un pecado de presunción». El rabino Simón dijo: <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> «Hay tres coronas: la corona de la ley, la corona del sacerdocio y la corona de la monarquía, pero la corona de un buen nombre es mejor que todas ellas».
 
 14\. Rabí Nehorai dijo: «Huye a un lugar donde se estudie la ley, y no digas que te seguirá, pues tus compañeros te la establecerán, y no te apoyes en tu propio entendimiento».
 
@@ -72,7 +72,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 19\. El joven Samuel solía decir: «No te regocijes cuando tu enemigo caiga, ni te alegres cuando tropiece, no sea que el Señor lo vea y le parezca mal, y aparte de él su ira».
 
-20\. Eliseo, hijo de Abuya, dijo: «Quien enseña a un niño es como quien escribe en papel limpio; pero quien enseña a ancianos es como quien escribe en papel borrón». El rabino José, hijo de Judá, de una aldea cercana a Babilonia, dijo: «¿A quién se asemeja quien aprende la ley de niños pequeños? A quien come uvas verdes y bebe vino nuevo». «¿Y a quién se asemeja quien aprende la ley de ancianos? A quien come uvas maduras y bebe vino añejo». El rabino Meier dijo: «No mires la <span id="p231">[<sup><small>p. 231</small></sup>]</span> redoma, sino lo que hay dentro, porque hay redomas nuevas llenas de vino añejo, y redomas viejas que ni siquiera contienen vino nuevo».
+20\. Eliseo, hijo de Abuya, dijo: «Quien enseña a un niño es como quien escribe en papel limpio; pero quien enseña a ancianos es como quien escribe en papel borrón». El rabino José, hijo de Judá, de una aldea cercana a Babilonia, dijo: «¿A quién se asemeja quien aprende la ley de niños pequeños? A quien come uvas verdes y bebe vino nuevo». «¿Y a quién se asemeja quien aprende la ley de ancianos? A quien come uvas maduras y bebe vino añejo». El rabino Meier dijo: «No mires la <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> redoma, sino lo que hay dentro, porque hay redomas nuevas llenas de vino añejo, y redomas viejas que ni siquiera contienen vino nuevo».
 
 21\. El rabino Eleazer Hakapher dijo: «La envidia, la lujuria y la ambición sacan a los hombres del mundo».
 

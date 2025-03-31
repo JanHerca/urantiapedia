@@ -42,7 +42,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^645] 'Esto, oh Varu<i>n</i>a' (&c.; ver I, cap. 27, Sûtra 2, hasta): '¡Salve! ¡Buena suerte!'
 
-Luego hace que la esposa, que se ha bañado, lleva un vestido limpio y adornos, y ha hablado con un brahmán, se siente al oeste del fuego, mirando hacia el este, en una habitación circular. De pie al este (de la esposa), mirando hacia el oeste, le separa el cabello hacia arriba (es decir, comenzando desde el frente) con una púa de puercoespín con tres manchas blancas, sosteniendo (también) un ramo de frutas verdes, con los Vyâh<i>n</i>tis (y) con los dos (versos), 'Invoco a Râkâ' (y), 'Tus gracias, oh Râkâ' (Taitt. Sa<i>n</i>h. III, 3, 11, 5). Español Entonces recita sobre (su esposa las fórmulas), 'Soma es nuestro rey solo, así dicen las tribus Brâhma<i>n</i>a, sentadas cerca de tus orillas, ¡oh Gaṅgâ, <span id="p209">[<sup><small>p. 209</small></sup>]</span> cuya rueda no retrocede (?)!' (y), 'Que podamos encontrar nuestro camino contigo a través de todos los poderes hostiles, como a través de corrientes de agua' (arriba I, 20, 5).
+Luego hace que la esposa, que se ha bañado, lleva un vestido limpio y adornos, y ha hablado con un brahmán, se siente al oeste del fuego, mirando hacia el este, en una habitación circular. De pie al este (de la esposa), mirando hacia el oeste, le separa el cabello hacia arriba (es decir, comenzando desde el frente) con una púa de puercoespín con tres manchas blancas, sosteniendo (también) un ramo de frutas verdes, con los Vyâh<i>n</i>tis (y) con los dos (versos), 'Invoco a Râkâ' (y), 'Tus gracias, oh Râkâ' (Taitt. Sa<i>n</i>h. III, 3, 11, 5). Español Entonces recita sobre (su esposa las fórmulas), 'Soma es nuestro rey solo, así dicen las tribus Brâhma<i>n</i>a, sentadas cerca de tus orillas, ¡oh Gaṅgâ, <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> cuya rueda no retrocede (?)!' (y), 'Que podamos encontrar nuestro camino contigo a través de todos los poderes hostiles, como a través de corrientes de agua' (arriba I, 20, 5).
 
 
 
@@ -59,7 +59,7 @@ Luego hace que la esposa, que se ha bañado, lleva un vestido limpio y adornos, 
 
 5\. Después de que ella haya bebido agua, él le toca el vientre con (la fórmula), 'Con mis diez (dedos) te toco para que puedas dar a luz un hijo después de diez meses.'
 
-6\. [^647] (Machaca) el último brote de un tronco de Nyagrodha (y mezcla el polvo) con ghee, o un gusano de seda (y mezcla el polvo) con una papilla preparada con semillas de panick, o una astilla de un poste de sacrificio tomada de la parte noreste (de ese poste) expuesta al fuego, o (toma cenizas u hollín \[?\] de) <span id="p210">[<sup><small>p. 210</small></sup>]</span> un fuego que se ha encendido por desgaste, y lo inserta en la fosa nasal derecha de (la esposa) cuya cabeza descansa sobre la raíz ampliamente extendida (¿de un árbol Udumbara?).
+6\. [^647] (Machaca) el último brote de un tronco de Nyagrodha (y mezcla el polvo) con ghee, o un gusano de seda (y mezcla el polvo) con una papilla preparada con semillas de panick, o una astilla de un poste de sacrificio tomada de la parte noreste (de ese poste) expuesta al fuego, o (toma cenizas u hollín \[?\] de) <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> un fuego que se ha encendido por desgaste, y lo inserta en la fosa nasal derecha de (la esposa) cuya cabeza descansa sobre la raíz ampliamente extendida (¿de un árbol Udumbara?).
 
 7\. Si aborta, él debe acariciarle el cuerpo tres veces, desde el ombligo hacia arriba, con la mano húmeda, con la fórmula: «Que Tvash<i>t</i>_ri_ te ate con sus ataduras hacia allá, no hacia acá. Haciendo que la madre entre en las estaciones, vive diez meses en el vientre de tu madre; no traigas la muerte a los hombres».
 
@@ -100,7 +100,7 @@ De miembro a miembro te formas; del corazón naces. Eres, en verdad, el ser (ât
 
 (e) 'Ke<i>s</i>inî, <i>S</i>valominî, Ba<i>s</i>âbo<i>s</i>â, Upakâ<i>s</i>ini—vete, desaparece de aquí. ¡Svâhâ!
 
-(f) 'Los sirvientes de Kuvera, Vi<i>s</i>vavâsa (?), enviados por el rey de los demonios, todos de un origen común, <span id="p212">[<sup><small>p. 212</small></sup>]</span> recorren las aldeas, visitando a los que despiertan (?). ¡Svâhâ!
+(f) 'Los sirvientes de Kuvera, Vi<i>s</i>vavâsa (?), enviados por el rey de los demonios, todos de un origen común, <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> recorren las aldeas, visitando a los que despiertan (?). ¡Svâhâ!
 
 (g) “¡Mátenlos! ¡Atadlos!”, así dice este mensajero de Brahman. Agni los ha rodeado. Indra los conoce; Brihaspati los conoce; yo, el Brâhmari, conozco a quienes se apoderan de los hombres, a quienes tienen dientes prominentes, cabello áspero y pechos colgantes. ¡Svâhâ!
 
@@ -116,7 +116,7 @@ De miembro a miembro te formas; del corazón naces. Eres, en verdad, el ser (ât
 
 'Yo conozco tu corazón, oh tierra, que moras en el cielo, en la luna: así puedo yo, el señor de la inmortalidad, no llorar por la desgracia (que me toca en suerte) a través de mis hijos.'
 
-9\. Ahora (sigue) el medhâ<i>g</i>anana (o producción <span id="p213">[<sup><small>p. 213</small></sup>]</span> de la inteligencia). Con (un instrumento de) oro sobre el cual ha colocado un brote de Darbha atado (a esa pieza de oro), le da al niño, que está sostenido de cara al este, ghee para comer, con las fórmulas: «¡Bhû_h_! ¡Sacrifico los _Ri_<i>g</i>as por ti! ¡Bhuva_h_! ¡Sacrifico los Ya<i>g</i>us por ti! ¡Suva_h_! ¡Sacrifico los Sâmans por ti! ¡Bhûr bhuva_h<i>g</i>h_! ¡Sacrifico los himnos Atharvan y Aṅgiras por ti!».
+9\. Ahora (sigue) el medhâ<i>g</i>anana (o producción <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> de la inteligencia). Con (un instrumento de) oro sobre el cual ha colocado un brote de Darbha atado (a esa pieza de oro), le da al niño, que está sostenido de cara al este, ghee para comer, con las fórmulas: «¡Bhû_h_! ¡Sacrifico los _Ri_<i>g</i>as por ti! ¡Bhuva_h_! ¡Sacrifico los Ya<i>g</i>us por ti! ¡Suva_h_! ¡Sacrifico los Sâmans por ti! ¡Bhûr bhuva_h<i>g</i>h_! ¡Sacrifico los himnos Atharvan y Aṅgiras por ti!».
 
 10\. [^651] Luego baña al niño con agua tibia con (los siguientes Mantras):
 
@@ -132,7 +132,7 @@ De la enfermedad crónica, de la destrucción, de la astucia, de las ataduras de
 
 ## PATALA 1, SECCIÓN 4.
 
-1\. 'Los cuatro puntos cardinales del cielo, las consortes del Viento, a quienes el sol contempla: a su <span id="p214">[<sup><small>p. 214</small></sup>]</span> larga vida os convierto; ¡que la consumación se convierta en destrucción!'
+1\. 'Los cuatro puntos cardinales del cielo, las consortes del Viento, a quienes el sol contempla: a su <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> larga vida os convierto; ¡que la consumación se convierta en destrucción!'
 
 2\. [^652] Tras colocarlo allí, le dice a su esposa el mantra: «Que ningún demonio dañe a tu hijo, ninguna vaca que se abalance sobre él (?). Que te conviertas en el amigo de los tesoros; que vivas en prosperidad a tu manera».
 
@@ -148,7 +148,7 @@ De la enfermedad crónica, de la destrucción, de la astucia, de las ataduras de
 
 8\. [^653] Se llevan el Sûtikâgni y traen el fuego Aupâsana.
 
-9\. Tras echar leña al fuego y realizar los ritos hasta las oblaciones de Vyâh<i>ri</i>ti, sacrifican doce oblaciones con los versos: «Que Dhât<i>ri</i> nos dé riqueza» (III, 3, II, 2-5); según algunos maestros, hacen trece oblaciones. <span id="p215">[<sup><small>p. 215</small></sup>]</span>
+9\. Tras echar leña al fuego y realizar los ritos hasta las oblaciones de Vyâh<i>ri</i>ti, sacrifican doce oblaciones con los versos: «Que Dhât<i>ri</i> nos dé riqueza» (III, 3, II, 2-5); según algunos maestros, hacen trece oblaciones. <span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 10\. «Esto, oh Varu<i>ri</i>a» (&c.; véase I, cap. 27, Sutra 2, hasta): «¡Salve! ¡Buena suerte!». Que le dé al niño un nombre de dos o cuatro sílabas, que empiece con una vocal sonora, con una semivocal, con una vocal larga (o) el Visarga al final, o un nombre que contenga la partícula su, pues tal nombre tiene una base sólida; así se entiende.
 
@@ -185,7 +185,7 @@ De la enfermedad crónica, de la destrucción, de la astucia, de las ataduras de
 
 1\. En el tercer año (realiza) el _K<i>û</i>d_âkarman (es decir, la tonsura de la cabeza del niño).
 
-2\. En la quincena (etc., como en la sección anterior, Sutra 2, hasta): "¡Salve! ¡Buena suerte!". El niño se sienta al oeste del fuego, mirando hacia el este; <span id="p217">[<sup><small>p. 217</small></sup>]</span>
+2\. En la quincena (etc., como en la sección anterior, Sutra 2, hasta): "¡Salve! ¡Buena suerte!". El niño se sienta al oeste del fuego, mirando hacia el este; <span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 3\. [^658] Al norte (del fuego) su madre o un estudiante (brahma<i>k</i>ârin) sostiene un trozo de estiércol de toro;
 

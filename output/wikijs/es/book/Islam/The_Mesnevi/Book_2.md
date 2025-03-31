@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ## II. El petrolero y el loro.
 
@@ -62,7 +62,7 @@ Se tiró de la barba; exhaló un profundo suspiro;
 Mi mano, quisiera que se marchitara antes de que golpeara a Poll;
 He silenciado su parloteo que siempre fue gracioso!
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Su limosna ahora derrama sobre cada bribón que pasa,
 Con la esperanza de que Poll su charla se escuchara de algún vagabundo.
@@ -100,7 +100,7 @@ Bastante vacío ese uno; de este fluirá el azúcar.
 Por miles, ejemplos de pares así son conocidos,
 Que difieren tanto como el queso de la luna.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Nuestro pan, en un caso, se convierte en tierra en nuestra carne;
 Otro produce la mente, el propio asiento de Dios.
@@ -133,7 +133,7 @@ Un hombre actúa desde la razón; un mono desde el mero capricho.
 El hipócrita[^70] adora[^71] como imitando al santo,
 Por el bien de la forma, o peor. Su religión es una mera finta.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 En peregrinación, culto, ayuno y limosna,[^72]
 Creyentes e hipócritas compiten, como en los salmos.
@@ -163,7 +163,7 @@ El sentido de un libro en el título puede brillar.
 Dulces lagos y mares salados encontramos aquí en la tierra;
 La barrera entre ellos: «Hasta aquí; ¡no salgas!»
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Ambos, en su origen, fluyen de una misma fuente;
 No mires su separación; es cuestión de rutina.
@@ -199,7 +199,7 @@ Entonces se alza aún más fuerte, para aguantar más!
 La voluntad de Dios Todopoderoso ¿Quién controlará?
 Estas frases escritas son parábolas todas.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 A veces de una manera, en otro a veces,
 La religión confunde antes de sublimar.

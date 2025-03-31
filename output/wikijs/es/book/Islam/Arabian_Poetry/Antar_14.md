@@ -60,7 +60,7 @@ Entonces sus tropas se alejaron rápidamente, aterrorizadas por mi brazo; huyero
 
 Los pisotones y pisotones eran aplastantes sobre sus cuellos, y las herraduras golpeaban y golpeaban sus cráneos.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Cuántos guerreros fueron derribados por mi espada, mientras ellos ¡Se desgarraban, con mucha rabia, las manos con los dientes!
 

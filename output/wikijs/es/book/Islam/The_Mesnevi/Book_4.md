@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## IV. Otro rey judío, perseguidor de los cristianos.
 
@@ -57,7 +57,7 @@ De aguas dulces;[^121] en la Escritura mencionado a menudo y a menudo.[^122]
 El deseo del buscador, si correctamente lo consideramos,
 Un centelleo es de llama de la Sagrada Escritura.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 No existe llama aparte del cuerpo donde arde;
 <sup id="v10"><small>10</small></sup> Dondequiera que el cuerpo ardiendo va, la llama también gira.
@@ -95,7 +95,7 @@ Como el ruiseñor derrama sobre una rosa su alma.
 Cualquier _propiedad_ puede calificar una _cosa_
 <sup id="v25"><small>25</small></sup> Externamente, las cualidades del hombre son la descendencia de la mente.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 De la pureza surgen colores ricos, buenas cualidades;
 Manchas, morales o como tintes, de impurezas groseras.
@@ -130,7 +130,7 @@ Sus chispas, las blasfemias de los cristianos y de los judíos!
 Si el agua en la jarra y la jarra se acaba,
 En el manantial debemos sacar un nuevo suministro para enviar.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Nuestro ídolo son los posos fangosos que quedan en nuestra jarra;
 <sup id="v40"><small>40</small></sup> La carne la alcantarilla de donde se filtra, a pesar del tapón.
@@ -163,7 +163,7 @@ Y desde entonces desdeñó la postración, aunque debería dar alivio.
 Le arrebataron a su bebé; luego, lo arrojaron a las llamas.
 El espíritu de la madre se estremeció al ver este acto de vergüenza.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Aunque no ella misma, para salvar a su bebé, ella se inclinaría.
 Pero ¡he aquí! ¡Un milagro! El bebé gritó: “¡Dejadlo solo!
@@ -198,7 +198,7 @@ Del placer que sentí por mí, por ti temo despedido.
 Entra; ¡Entra! Y otros llaman para seguirte.
 El Gran Rey aquí Su mesa generosa está preparada para mí.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Entrad, entrad! Todos vosotros, santos de Dios, elegidos!
 ¡Resignados![^128] La copa del martirio de la fe ¡selecciona!
@@ -232,7 +232,7 @@ Entonces vino pidiendo piedad, siguiendo el ejemplo del Profeta:
 Por falta de saberlo mejor, insolente yo era
 Soy yo quien merece el desprecio y la burla. ¡Ay!
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Cuando Dios decide humillar a cualquier pecador, orgulloso,
 Un demonio agita este último para insultar a algún hombre de Dios.
@@ -263,7 +263,7 @@ Tú nunca fuiste, oh fuego, por la paciencia anotada aquí.
 ¿Es esto un vendaje de ojos?[^130] ¿Es, más bien, la razón ciega?
 <sup id="v95"><small>95</small></sup> ¿Cómo es que tus llamas no consumen a todos sus odiados? ¿Era?
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ¿Te han hechizado? ¿O no es la magia natural?
 ¿O no es mi fortuna la que quiere que te vuelvas pródigo?
@@ -300,7 +300,7 @@ Porque, hombres y mujeres como ellos, generarán; deben.
 El pedernal y el acero son medios. Levanta mucho más alto tu mirada.
 <sup id="v110"><small>110</small></sup> Con razón estás dotado. Ve; lee el libro sagrado.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Un medio proviene de otro medio; y causa de causa.
 Sin un medio o causa, ningún medio por sí mismo jamás surgió.
@@ -331,7 +331,7 @@ El viento dentro de ese circuito místico sopló suavemente.
 Mientras que todo lo que estaba más allá se hizo añicos pronto.
 Como paja ante la brisa, sus extremidades alrededor estaban esparcidas.
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Shaybān el pastor, también, un círculo alrededor de su redil
 Se utilizaba para dibujar; cualquiera que fuera la estación, caliente o fría;
@@ -369,7 +369,7 @@ Estas cosas, dijo, eran burlas, meras mentiras patentes.
 Sus consejeros lo conjuraron para que fuera más tranquilo;
 Y no llevar su osadía al extremo.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 A estos consejeros los encadenó y los metió en prisión;
 Injusticia a injusticia añadiendo, primero y último.
@@ -406,7 +406,7 @@ En diez lluvias de misericordia del Anciano de Días.
 Y todavía estamos obligados a pronunciar canciones de agradecimiento,
 Ese hombre debería ser elevado por encima de las filas angelicales.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Este ascenso y descenso se alternan durante un año.
 El Señor no permita que yo ¡Debería fallar en eso un día!

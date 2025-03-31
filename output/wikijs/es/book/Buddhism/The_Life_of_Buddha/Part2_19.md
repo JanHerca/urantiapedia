@@ -91,7 +91,7 @@ Se hizo una túnica de la misma talla que la del Maestro. Algunos monjes lo vier
 
 Aquí viene el Maestro. Levantémonos y saludémoslo.
 
-Pero cuando Nanda se acercó, vieron su error. <span id="p204">[<sup><small>p. 204</small></sup>]</span> Se sintieron avergonzados y, al sentarse de nuevo, dijeron:
+Pero cuando Nanda se acercó, vieron su error. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> Se sintieron avergonzados y, al sentarse de nuevo, dijeron:
 
 “Él no ha estado en la comunidad tanto tiempo como nosotros; ¿por qué deberíamos levantarnos en su presencia?”
 

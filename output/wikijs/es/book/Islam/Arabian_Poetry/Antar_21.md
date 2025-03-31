@@ -40,7 +40,7 @@ Ahora bien, sucedió que Antar, continuando su viaje de regreso a casa, llegó a
 
 Ojalá nunca hubiera vivido en esta época de traidores, que sólo ven en ti mi miseria y deshonra!
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ¿Por qué Dios ha prolongado mi existencia, ahora que el león se ha ido, ¿quién protegió alguna vez al país y a las mujeres?
 
@@ -62,7 +62,7 @@ Ahora los ojos de la era están iluminados, después de un período de oscuridad
 
 Imploraré a Dios que exalte siempre tus glorias, tanto de mañana como de tarde.
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Luego le contó a Antar cómo Shiboob le había traído la triste noticia de su muerte y de todo lo que le había ocurrido durante su larga ausencia; y Antar, a su vez, contó brevemente sus propias aventuras y los peligros a los que había estado expuesto desde que abandonó la tierra de Shurebah para conseguir los camellos Asafeer para su dote.
 

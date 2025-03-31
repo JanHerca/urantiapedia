@@ -97,7 +97,7 @@ Sus amigos accedieron a ayudarlo. Antes de que Suprabha se diera cuenta, la rode
 
 Y sus gritos la siguieron:
 
-Oh, santo, tú manifiestas el poder <span id="p226">[<sup><small>p. 226</small></sup>]</span> de los fieles; oh, santo, tú manifiestas el poder del Buda. Sería injusto condenarte a los placeres terrenales del amor, oh, santo, oh, santo.
+Oh, santo, tú manifiestas el poder <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> de los fieles; oh, santo, tú manifiestas el poder del Buda. Sería injusto condenarte a los placeres terrenales del amor, oh, santo, oh, santo.
 
 <figure class="table chapter-navigator">
   <table>

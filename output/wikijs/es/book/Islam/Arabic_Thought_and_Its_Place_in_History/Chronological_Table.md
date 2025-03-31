@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T10:51:55Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Años desde la muerte del Profeta Muhammad hasta la caída de la dinastía Muwahhid en España.
 
@@ -58,7 +58,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 28 | 648 | Septiembre | 25
 29 | 649 | „ | 14
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -90,7 +90,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 55 | 674 | „ | 6
 56 | 675 | Noviembre | 25
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -122,7 +122,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 82 | 701 | „ | 15
 83 | 702 | „ | 4
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -154,7 +154,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 109 | 727 | Abr. | 28
 110 | 728 | „ | 16
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -185,7 +185,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 135 | 752 | „ | 18
 136 | 753 | „ | 7 Al-Mansur Khalif.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -217,7 +217,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 162 | 778 | Septiembre | 28
 163 | 779 | „ | 17
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -249,7 +249,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 189 | 804 | „ | 8
 190 | 805 | Noviembre | 27
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -281,7 +281,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 216 | 831 | „ | 18
 217 | 832 | „ | 7 Bayt al-Hikma fundada (circa)
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -312,7 +312,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 242 | 856 | „ | 10
 243 | 857 | Abr. | 30
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -343,7 +343,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 268 | 881 | „ | 1
 269 | 882 | Julio | 21
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -375,7 +375,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 295 | 907 | „ | 12 Al Muqtadir Khalif.
 296 | 908 | Septiembre | 30
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -407,7 +407,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 322 | 933 | diciembre | 22 ar-Razi Khalif.
 323 | 934 | „ | 11 al-Mataridi d.
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -439,7 +439,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 349 | 960 | „ | 3
 350 | 961 | Febrero | 20
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -471,7 +471,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 376 | 986 | „ | 13
 377 | 987 | „ | 3
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -503,7 +503,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 403 | 1012 | Julio | 23
 404 | 1013 | „ | 13
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -535,7 +535,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 430 | 1038 | „ | 3
 431 | 1039 | Septiembre | 23
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -568,7 +568,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 457 | 1064 | „ | 13
 458 | 1065 | „ | 3
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -600,7 +600,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 484 | 1091 | Febrero | 23
 485 | 1092 | „ | 12
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -632,7 +632,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 511 | 1117 | „ | 5
 512 | 1118 | Abril | 24 Al-Mustarshid Khalif.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -664,7 +664,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 538 | 1143 | „ | 16
 539 | 1144 | „ | 4
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -695,7 +695,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 564 | 1168 | „ | 5
 565 | 1169 | Septiembre | 25
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -727,7 +727,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 591 | 1194 | „ | 16
 592 | 1195 | „ | 6
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -759,7 +759,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 618 | 1221 | Febrero | 25
 619 | 1222 | „ | 15
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---
@@ -791,7 +791,7 @@ A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 645 | 1247 | „ | 8
 646 | 1248 | Abr. | 26
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 A.H. | A.D. | COMIENZA EL AÑO MUSULMÁN. | ACONTECIMIENTOS PRINCIPALES.
 --- | --- | :---: | ---

@@ -70,7 +70,7 @@ Por lo tanto, quien comienza, después de haber pronunciado el sonido Él, separ
 
 8\. Por lo tanto, que diga primero estas Vyâh<i>ri</i>tis (interjecciones sagradas).
 
-9\. Estas interjecciones Bhûs, Bhuvas, Svar son los tres Vedas: Bhûs el Rig-veda, Bhuvas el Yagur-veda y Svar el Sama-veda. Por lo tanto (al intercalarlas, <span id="p178">[<sup><small>p. 178</small></sup>]</span>) no comienza simplemente con un verso Rik, Yagus o Sâman, ni con un verso Rik, Yagus o Sâman.
+9\. Estas interjecciones Bhûs, Bhuvas, Svar son los tres Vedas: Bhûs el Rig-veda, Bhuvas el Yagur-veda y Svar el Sama-veda. Por lo tanto (al intercalarlas, <span id="p178"><sup><small>[ p. 178 ]</small></sup></span>) no comienza simplemente con un verso Rik, Yagus o Sâman, ni con un verso Rik, Yagus o Sâman.
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
@@ -82,7 +82,7 @@ Por lo tanto, quien comienza, después de haber pronunciado el sonido Él, separ
 
 4\. 'Oh B<i>ri</i>haspati, el primer punto del habla;' porque este es el primer y más elevado punto del habla.
 
-5\. «Lo que has pronunciado, convirtiéndolo en un nombre»; pues los nombres se forman con la palabra. <span id="p179">[<sup><small>p. 179</small></sup>]</span> 6\. «Aquello (nombre) que era el mejor y sin defecto»; pues esto es lo mejor y sin defecto.
+5\. «Lo que has pronunciado, convirtiéndolo en un nombre»; pues los nombres se forman con la palabra. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> 6\. «Aquello (nombre) que era el mejor y sin defecto»; pues esto es lo mejor y sin defecto.
 
 7\. «Lo que estaba oculto por su amor, se manifiesta»; pues esto estaba oculto en el cuerpo, es decir, en aquellas deidades (que entran en el cuerpo, Agni como voz, entrando en la boca, etc.); y eso se manifestó entre los dioses del cielo. Esto es lo que pretendía el verso.
 
@@ -104,7 +104,7 @@ Por lo tanto, quien comienza, después de haber pronunciado el sonido Él, separ
 
 8\. 'Todo lo que se ofrecía en las fiestas llegaba a ti'; esto significa que todo está en tu poder.
 
-9\. 'Todos vuelven sus pensamientos hacia ti [^438];'—esto <span id="p180">[<sup><small>p. 180</small></sup>]</span> significa que todos estos seres, todas las mentes, todos los pensamientos también se vuelven hacia ti.
+9\. 'Todos vuelven sus pensamientos hacia ti [^438];'—esto <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> significa que todos estos seres, todas las mentes, todos los pensamientos también se vuelven hacia ti.
 
 10\. 'Cuando estos dos se conviertan en tres protectores'; es decir, cuando estos dos unidos engendren descendencia.
 
@@ -120,7 +120,7 @@ Por lo tanto, quien comienza, después de haber pronunciado el sonido Él, separ
 
 16\. De este (el primer pie de Rv. X, 120, 1) las ocho sílabas son Gâyatrî, las once sílabas son Trish<i>t</i>ubh, las doce sílabas son <i>G</i>agatî, las diez sílabas son Virâ<i>g</i>. El Virâ<i>g</i>, compuesto de diez sílabas, descansa en estos tres metros [^441].
 
-17\. La palabra purusha, compuesta de tres sílabas, que ciertamente entra en el Virâ<i>g</i> [^442]. <span id="p181">[<sup><small>p. 181</small></sup>]</span> 18\. En verdad, todas estas son métricas, estas (Gâyatrî, Trish<i>t</i>ubh, Gagatî) teniendo al Virâ<i>g</i> como cuarta. De esta manera, este día está completo en todas las métricas para quien conoce esto.
+17\. La palabra purusha, compuesta de tres sílabas, que ciertamente entra en el Virâ<i>g</i> [^442]. <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> 18\. En verdad, todas estas son métricas, estas (Gâyatrî, Trish<i>t</i>ubh, Gagatî) teniendo al Virâ<i>g</i> como cuarta. De esta manera, este día está completo en todas las métricas para quien conoce esto.
 
 ## QUINTO KHAND.
 
@@ -149,7 +149,7 @@ En nada<i>m</i> va odatînâm (Rv. VIII, 69, 2), odati [^444] son ​​las agua
 
 6\. Extiende un Trish<i>t</i>ubh y un Anush<i>t</i>ubh [^445]. Trish<i>t</i>ubh es el hombre, Anush<i>t</i>ubh la esposa, y forman una pareja. Por lo tanto, un hombre, después de encontrar esposa, se considera un hombre más perfecto.
 
-7\. Estos versos, al repetirse las tres primeras veces, se convierten en veinticinco. El tronco es el vigésimo quinto, y Pra<i>g</i>âpati es el vigésimo quinto [^446]. Tiene diez dedos en las manos, diez dedos en los pies, dos piernas, dos brazos, y el tronco es el vigésimo quinto. Él adorna ese tronco como el vigésimo quinto. Ahora bien, este día consta de veinticinco, y el himno Stoma de ese día consta de veinticinco: se convierte en el mismo <span id="p183">[<sup><small>p. 183</small></sup>]</span> a través del mismo. Por lo tanto, los dos, el día y el himno, son veinticinco [1](Aranyaka_3_1#fn447).
+7\. Estos versos, al repetirse las tres primeras veces, se convierten en veinticinco. El tronco es el vigésimo quinto, y Pra<i>g</i>âpati es el vigésimo quinto [^446]. Tiene diez dedos en las manos, diez dedos en los pies, dos piernas, dos brazos, y el tronco es el vigésimo quinto. Él adorna ese tronco como el vigésimo quinto. Ahora bien, este día consta de veinticinco, y el himno Stoma de ese día consta de veinticinco: se convierte en el mismo <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> a través del mismo. Por lo tanto, los dos, el día y el himno, son veinticinco [1](Aranyaka_3_1#fn447).
 
 
 ## SEXTO KHA<i>N</i><i>D</i>A.
@@ -188,7 +188,7 @@ Esta es una repetición exacta del tercer kha<i>n</i><i>d</i>a. Según el coment
 
 7\. 'Tan grande como el cielo y la tierra, tan grande es'; verdaderamente, el ser (<i>g</i>îvâtman) es tan grande como el cielo y la tierra.
 
-8\. 'Mil son los mil poderes [^457];'— <span id="p186">[<sup><small>p. 186</small></sup>]</span> al decir esto el poeta complace los himnos (los sentidos) y los magnifica.
+8\. 'Mil son los mil poderes [^457];'— <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> al decir esto el poeta complace los himnos (los sentidos) y los magnifica.
 
 9\. 'Hasta donde llega Brahman, hasta allí llega el habla'; dondequiera que hay Brahman, hay una palabra; y dondequiera que hay una palabra, hay Brahman, esto era lo que se quería decir.
 

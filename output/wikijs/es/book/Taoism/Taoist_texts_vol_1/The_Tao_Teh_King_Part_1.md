@@ -66,7 +66,7 @@ El párrafo 3 evoca las palabras del apóstol Juan: «El que no ama no conoce a 
 
 ## 2.
 
-2\. 1. Todos en el mundo conocen la belleza de lo bello, y al hacerlo tienen la idea de <span id="p48">[<sup><small>p. 48</small></sup>]</span> qué es la fealdad; todos conocen la habilidad de lo hábil, y al hacerlo tienen la idea de qué es la falta de habilidad.
+2\. 1. Todos en el mundo conocen la belleza de lo bello, y al hacerlo tienen la idea de <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> qué es la fealdad; todos conocen la habilidad de lo hábil, y al hacerlo tienen la idea de qué es la falta de habilidad.
 
 2\. Así, la existencia y la no existencia dan origen a la una a la idea de la otra; la dificultad y la facilidad producen la una a la idea de la otra; la longitud y la brevedad modelan la una a la otra; las ideas de altura y bajeza surgen del contraste entre una y otra; las notas y tonos musicales se armonizan mediante la relación entre sí; y la presencia de una delante y de otra da la idea de que una sigue a otra.
 
@@ -125,7 +125,7 @@ Protege tu ser interior y mantenlo libre.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05003.jpg), 'El Uso de la Vacuidad'. La operación del Tao es silenciosa e incesante, y la regla del sabio, conforme a ella, es eficaz.
 
-Los perros de hierba del párrafo 1 se hacían de paja atada en forma de perros y se usaban para pedir lluvia; después, <span id="p51">[<sup><small>p. 51</small></sup>]</span>, al finalizar el sacrificio, se dejaban a un lado sin que nadie los cuidara. El cielo, la tierra y los sabios trataban así a todas las cosas y a la gente; pero la ilustración no parece afortunada. Tanto Kwang-dze como Hwâi-nan mencionan a los perros de hierba. Véase especialmente el primero, XIV, 25 a, b. En ese libro se desarrolla plenamente el significado de este capítulo. La ilustración del párrafo 2 es mejor. El fuelle chino tiene una apariencia diferente a la nuestra, pero el principio de construcción es el mismo en ambos. El párrafo concluye de una manera que da cierta credibilidad al tratamiento de la respiración del taoísmo posterior.
+Los perros de hierba del párrafo 1 se hacían de paja atada en forma de perros y se usaban para pedir lluvia; después, <span id="p51"><sup><small>[ p. 51 ]</small></sup></span>, al finalizar el sacrificio, se dejaban a un lado sin que nadie los cuidara. El cielo, la tierra y los sabios trataban así a todas las cosas y a la gente; pero la ilustración no parece afortunada. Tanto Kwang-dze como Hwâi-nan mencionan a los perros de hierba. Véase especialmente el primero, XIV, 25 a, b. En ese libro se desarrolla plenamente el significado de este capítulo. La ilustración del párrafo 2 es mejor. El fuelle chino tiene una apariencia diferente a la nuestra, pero el principio de construcción es el mismo en ambos. El párrafo concluye de una manera que da cierta credibilidad al tratamiento de la respiración del taoísmo posterior.
 
 
 <a id="c6"></a>
@@ -141,7 +141,7 @@ Utilizado con suavidad y sin provocar dolor.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05100.jpg), «La Perfección de las Formas Materiales». Este título expresa acertadamente la importancia de este enigmático capítulo; pero en él se sientan las bases para el desarrollo del taoísmo posterior, que se ocupa de la prolongación de la vida mediante el manejo de la respiración ( ![](/image/book/Taoism/Taoist_texts_vol_1/05101.jpg)) o fuerza vital.
 
-«El valle» se usa metafóricamente como símbolo de «vacío» o «vacío»; y «el espíritu del valle» es algo invisible, aunque casi personal, perteneciente al Tâo, que constituye el Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/05102.jpg)) en nombre de nuestro Rey. «El espíritu del valle» ha llegado a ser un nombre para la actividad del Tâo en todo el ámbito de su operación. «El misterio femenino» es el Tâo con un nombre de capítulo 1, que es «la Madre de todas las cosas». Todos los seres vivos tienen un padre y una madre. Los procesos de generación y producción difícilmente pueden ser imaginados por nosotros sin un reconocimiento de este hecho; y así Lâo-dze pensó en el reino existente de la naturaleza —de la vida— como proveniente de un <span id="p52">[<sup><small>p. 52</small></sup>]</span> evolución (no una creación) a partir del aire o aliento primigenio, dividiéndose en dos y apareciendo desde allí en formas materiales e inmateriales. El capítulo se encuentra en Lieh-dze (I, 1 b), citado por él mismo de un libro de Hwang-Tî; y aquí Lâo-dze lo ha apropiado y lo ha hecho suyo. Véase la Introducción, [p. 2](Introducción_1#p2).
+«El valle» se usa metafóricamente como símbolo de «vacío» o «vacío»; y «el espíritu del valle» es algo invisible, aunque casi personal, perteneciente al Tâo, que constituye el Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/05102.jpg)) en nombre de nuestro Rey. «El espíritu del valle» ha llegado a ser un nombre para la actividad del Tâo en todo el ámbito de su operación. «El misterio femenino» es el Tâo con un nombre de capítulo 1, que es «la Madre de todas las cosas». Todos los seres vivos tienen un padre y una madre. Los procesos de generación y producción difícilmente pueden ser imaginados por nosotros sin un reconocimiento de este hecho; y así Lâo-dze pensó en el reino existente de la naturaleza —de la vida— como proveniente de un <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> evolución (no una creación) a partir del aire o aliento primigenio, dividiéndose en dos y apareciendo desde allí en formas materiales e inmateriales. El capítulo se encuentra en Lieh-dze (I, 1 b), citado por él mismo de un libro de Hwang-Tî; y aquí Lâo-dze lo ha apropiado y lo ha hecho suyo. Véase la Introducción, [p. 2](Introducción_1#p2).
 
 
 <a id="c7"></a>
@@ -161,7 +161,7 @@ Utilizado con suavidad y sin provocar dolor.
 
 8\. 1. La excelencia suprema es como la del agua. La excelencia del agua se manifiesta en su beneficio para todas las cosas y en ocupar, sin esforzarse en contra, el lugar inferior que todos detestan. Por lo tanto, su camino se acerca al del Tao.
 
-2\. La excelencia de una residencia reside en la idoneidad del lugar; la de la mente en la quietud absoluta; la de las asociaciones en la convivencia con los virtuosos; la del gobierno en asegurar el buen orden; la de la dirección de los asuntos en su capacidad; y la de la iniciación de cualquier movimiento en su oportunidad. <span id="p53">[<sup><small>p. 53</small></sup>]</span> 3\. Y cuando alguien con la mayor excelencia no discute sobre su baja posición, nadie lo critica.
+2\. La excelencia de una residencia reside en la idoneidad del lugar; la de la mente en la quietud absoluta; la de las asociaciones en la convivencia con los virtuosos; la del gobierno en asegurar el buen orden; la de la dirección de los asuntos en su capacidad; y la de la iniciación de cualquier movimiento en su oportunidad. <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> 3\. Y cuando alguien con la mayor excelencia no discute sobre su baja posición, nadie lo critica.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05300.jpg), «La Naturaleza Plácida y Contenta». El agua, como ilustración del camino del Tao, es empleada repetidamente por Lâo-dze.
 
@@ -220,7 +220,7 @@ Se busca que la conducta de los hombres cambie para mal.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05501.jpg), «La Represión de los Deseos». El gobierno, de acuerdo con el Tao, busca apartar a los hombres de las atracciones de lo externo y placentero para los sentidos y la imaginación, y mantener la simplicidad primitiva de sus costumbres. Compárese con el capítulo 2. Los cinco colores son negro, rojo, verde o azul, blanco y amarillo; las cinco notas son las de la escala musical china imperfecta: sol, la, si, re, mi; los cinco sabores son salado, amargo, agrio, acre y dulce.
 
-No estoy seguro de que Wang Pî haya captado exactamente la idea del autor en el contraste entre satisfacer el vientre y satisfacer los ojos; pero lo que dice es ingenioso: «Al satisfacer el vientre <span id="p56">[<sup><small>p. 56</small></sup>]</span> uno se nutre a sí mismo; al complacer los ojos, se hace esclavo de sí mismo».
+No estoy seguro de que Wang Pî haya captado exactamente la idea del autor en el contraste entre satisfacer el vientre y satisfacer los ojos; pero lo que dice es ingenioso: «Al satisfacer el vientre <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> uno se nutre a sí mismo; al complacer los ojos, se hace esclavo de sí mismo».
 
 
 <a id="c13"></a>
@@ -235,7 +235,7 @@ No estoy seguro de que Wang Pî haya captado exactamente la idea del autor en el
 
 3\. Por lo tanto, quien quiera administrar el reino, honrándolo como honra a su propia persona, puede ser empleado para gobernarlo, y quien quiera administrarlo con el amor que siente por su propia persona puede serle confiado.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/05600.jpg), 'Aborrecer la Vergüenza'. El capítulo es difícil de interpretar, y algunos discípulos de Kû Hsî tuvieron que pedirle que lo explicara, como en el caso del cap. 10. Sus observaciones al respecto no me parecen satisfactorias. Su objetivo parece ser demostrar que el cultivo de la persona, según el Tao, es la mejor cualificación para los cargos más elevados, incluso para el gobierno del mundo. El párrafo 3 se encuentra en Kwang-dze (XI, 18 b) en relación con lo cual sugiere esta perspectiva del capítulo. Cabe observar, sin embargo, que en él la posición de los caracteres verbales en las dos cláusulas <span id="p57">[<sup><small>p. 57</small></sup>]</span> del párrafo es el reverso del texto de Ho-shang Kung, de modo que difícilmente podemos aceptar la distinción de significado de los dos caracteres dados en su comentario, sino que debemos tomarlos como sinónimos. El profesor Gabelentz da la siguiente versión de Kwang-dze: 'Darum, gebraucht er seine Person achtsam in der Verwaltung des Reiches, so mag man ihm die Reichsgewalt anvertrauen; . . . liebend (schonend). . . übertragen.'
+![](/image/book/Taoism/Taoist_texts_vol_1/05600.jpg), 'Aborrecer la Vergüenza'. El capítulo es difícil de interpretar, y algunos discípulos de Kû Hsî tuvieron que pedirle que lo explicara, como en el caso del cap. 10. Sus observaciones al respecto no me parecen satisfactorias. Su objetivo parece ser demostrar que el cultivo de la persona, según el Tao, es la mejor cualificación para los cargos más elevados, incluso para el gobierno del mundo. El párrafo 3 se encuentra en Kwang-dze (XI, 18 b) en relación con lo cual sugiere esta perspectiva del capítulo. Cabe observar, sin embargo, que en él la posición de los caracteres verbales en las dos cláusulas <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> del párrafo es el reverso del texto de Ho-shang Kung, de modo que difícilmente podemos aceptar la distinción de significado de los dos caracteres dados en su comentario, sino que debemos tomarlos como sinónimos. El profesor Gabelentz da la siguiente versión de Kwang-dze: 'Darum, gebraucht er seine Person achtsam in der Verwaltung des Reiches, so mag man ihm die Reichsgewalt anvertrauen; . . . liebend (schonend). . . übertragen.'
 
 
 <a id="c14"></a>
@@ -274,7 +274,7 @@ La variedad de lecturas en el párrafo 4 es considerable, pero no tanto como par
 
 16\. 1. El estado de vacío debe alcanzarse al máximo, y la quietud debe conservarse con incansable vigor. Todas las cosas pasan por sus procesos de actividad, y entonces las vemos regresar a su estado original. Cuando las cosas en el mundo vegetal han desplegado su exuberante crecimiento, vemos que cada una regresa a su raíz. Este retorno a su raíz es lo que llamamos estado de quietud; y esa quietud podría llamarse un informe de que han cumplido su propósito.
 
-2\. El informe de ese cumplimiento es la regla regular e inmutable. Conocer esa regla inmutable es ser inteligente; ignorarla conduce a movimientos descontrolados y consecuencias negativas. El conocimiento de esa regla inmutable produce una (gran) capacidad y tolerancia, y <span id="p60">[<sup><small>p. 60</small></sup>]</span> esa capacidad y tolerancia conducen a una comunidad (de sentimientos con todas las cosas). De esta comunidad de sentimientos proviene una realeza de carácter; y quien es como un rey se convierte en un ser celestial. En esa semejanza con el cielo, posee el Tao. Poseído por el Tao, perdura mucho tiempo; y hasta el final de su vida física, está exento de todo peligro de decadencia.
+2\. El informe de ese cumplimiento es la regla regular e inmutable. Conocer esa regla inmutable es ser inteligente; ignorarla conduce a movimientos descontrolados y consecuencias negativas. El conocimiento de esa regla inmutable produce una (gran) capacidad y tolerancia, y <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> esa capacidad y tolerancia conducen a una comunidad (de sentimientos con todas las cosas). De esta comunidad de sentimientos proviene una realeza de carácter; y quien es como un rey se convierte en un ser celestial. En esa semejanza con el cielo, posee el Tao. Poseído por el Tao, perdura mucho tiempo; y hasta el final de su vida física, está exento de todo peligro de decadencia.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/06000.jpg), «Retorno a la Raíz». El capítulo exhibe la acción del Tao en la naturaleza, en el hombre y en el gobierno; una acción silenciosa, pero todopoderosa; sin ninguna demostración de su presencia, pero de grandes resultados.
 
@@ -369,7 +369,7 @@ Las cosas se forman y nunca conocen la descomposición.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/06400.jpg), «El Corazón Vacío». Pero no veo la aplicabilidad del título. El tema del capítulo es el Tao en su funcionamiento. Este es el significado de ![](/image/book/Taoism/Taoist_texts_vol_1/06401.jpg) en la primera cláusula o línea, y traducirlo por «virtud», como hacen Julien y Chalmers, solo sirve para ocultar el significado. Julien, sin embargo, dice que «la virtud es la del Tao»; y tiene razón al interpretar ![](/image/book/Taoism/Taoist_texts_vol_1/06402.jpg), el último carácter de la segunda línea, como si tuviera el sentido de «de», «la fuente de», y no, como hace Chalmers, en el sentido de «seguir».
 
-La mente de Lâo-dze está ocupada con un tema muy difícil: describir la producción de formas materiales por el Tao; no explica cómo ni a partir de qué. Lo que yo he traducido como «semejanzas», Julien como «las imágenes» y Chalmers como «formas», parece, <span id="p65">[<sup><small>p. 65</small></sup>]</span> como dice este último, corresponder de alguna manera a las «Ideas Eternas» de Platón en la Mente Divina. Pero Lâo-dze no tenía idea de la «personalidad» en el Tao.
+La mente de Lâo-dze está ocupada con un tema muy difícil: describir la producción de formas materiales por el Tao; no explica cómo ni a partir de qué. Lo que yo he traducido como «semejanzas», Julien como «las imágenes» y Chalmers como «formas», parece, <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> como dice este último, corresponder de alguna manera a las «Ideas Eternas» de Platón en la Mente Divina. Pero Lâo-dze no tenía idea de la «personalidad» en el Tao.
 
 
 <a id="c22"></a>
@@ -391,7 +391,7 @@ La mente de Lâo-dze está ocupada con un tema muy difícil: describir la produc
 
 ## 23.
 
-23\. 1. Abstenerse de hablar es característico de quien obedece a la espontaneidad de su naturaleza. Un viento violento <span id="p66">[<sup><small>p. 66</small></sup>]</span> no dura toda una mañana; una lluvia repentina no dura todo el día. ¿A quién se deben estas dos cosas? Al Cielo y a la Tierra. Si el Cielo y la Tierra no pueden prolongar estas acciones (espasmódicas), ¡cuánto menos podrá el hombre!
+23\. 1. Abstenerse de hablar es característico de quien obedece a la espontaneidad de su naturaleza. Un viento violento <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> no dura toda una mañana; una lluvia repentina no dura todo el día. ¿A quién se deben estas dos cosas? Al Cielo y a la Tierra. Si el Cielo y la Tierra no pueden prolongar estas acciones (espasmódicas), ¡cuánto menos podrá el hombre!
 
 2\. Por lo tanto, cuando uno se dedica al Tao, quienes también lo persiguen coinciden con él, y quienes hacen de la manifestación de su curso su objetivo coinciden con él en eso; mientras que incluso quienes fallan en ambas cosas coinciden con él en lo que fallan.
 
@@ -423,7 +423,7 @@ Los restos de comida no se utilizaban como ofrendas sacrificiales; véase el Lî
 
 2\. Desconozco su nombre, y le doy el nombre de Tao (el Camino o Curso). Esforzándome por darle un nombre, lo llamo El Grande.
 
-3\. Grande, fluye (en flujo constante). Al fluir <span id="p68">[<sup><small>p. 68</small></sup>]</span>, se aleja. Al alejarse, regresa. Por lo tanto, el Tao es grande; el Cielo es grande; la Tierra es grande; y el rey (sabio) también es grande. En el universo hay cuatro que son grandes, y el rey (sabio) es uno de ellos.
+3\. Grande, fluye (en flujo constante). Al fluir <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>, se aleja. Al alejarse, regresa. Por lo tanto, el Tao es grande; el Cielo es grande; la Tierra es grande; y el rey (sabio) también es grande. En el universo hay cuatro que son grandes, y el rey (sabio) es uno de ellos.
 
 4\. El hombre toma su ley de la Tierra; la Tierra toma su ley del Cielo; el Cielo toma su ley del Tao. La ley del Tao es su ser, lo que es.
 
@@ -502,7 +502,7 @@ Saludamos al sencillo niño que hay en él.
 
 ## 29.
 
-29\. 1. Si alguien quisiera obtener el reino para sí mismo, y lograrlo con sus acciones, veo <span id="p72">[<sup><small>p. 72</small></sup>]</span> que no lo logrará. El reino es algo espiritual, y no se puede obtener con acciones activas. Quien lo conquiste lo destruye; quien lo retenga, lo pierde.
+29\. 1. Si alguien quisiera obtener el reino para sí mismo, y lograrlo con sus acciones, veo <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> que no lo logrará. El reino es algo espiritual, y no se puede obtener con acciones activas. Quien lo conquiste lo destruye; quien lo retenga, lo pierde.
 
 2\. El curso y la naturaleza de las cosas es tal que
 Lo que estaba delante, ahora está detrás;
@@ -523,7 +523,7 @@ Que el reino o trono es un «vaso espiritual» se ha convertido en un dicho bast
 
 30\. 1. Quien quiera ayudar a un señor de los hombres en armonía con el Tao no afirmará su dominio en el reino por la fuerza de las armas. Tal proceder sin duda tendrá su recompensa.
 
-2\. Dondequiera que se estaciona un ejército, brotan zarzas y espinos. En la sucesión de grandes ejércitos, seguro que hay años malos. <span id="p73">[<sup><small>p. 73</small></sup>]</span> 3\. Un (comandante) hábil asesta un golpe decisivo y se detiene. No se atreve (al continuar sus operaciones) a afirmar y completar su dominio. Asestará el golpe, pero se cuidará de ser vanidoso, jactancioso o arrogante como consecuencia. Lo hace por necesidad; lo hace, pero no por deseo de dominio.
+2\. Dondequiera que se estaciona un ejército, brotan zarzas y espinos. En la sucesión de grandes ejércitos, seguro que hay años malos. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> 3\. Un (comandante) hábil asesta un golpe decisivo y se detiene. No se atreve (al continuar sus operaciones) a afirmar y completar su dominio. Asestará el golpe, pero se cuidará de ser vanidoso, jactancioso o arrogante como consecuencia. Lo hace por necesidad; lo hace, pero no por deseo de dominio.
 
 4\. Cuando las cosas alcanzan su madurez, envejecen. Se puede decir que esto no está de acuerdo con el Tao: y lo que no está de acuerdo con él pronto llega a su fin.
 
@@ -576,7 +576,7 @@ La «simplicidad primordial» del párrafo 2 representa el Tao en su concepción
 
 2\. Quien no falla en las exigencias de su puesto, continúa mucho tiempo; quien muere y, sin embargo, no perece, tiene longevidad.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/07502.jpg), 'Discriminación entre (diferentes) Atributos'. La enseñanza del capítulo es que la posesión del <span id="p76">[<sup><small>p. 76</small></sup>]</span> Tao confiere los diversos atributos que aquí se distinguen más. Se ha objetado que en otros lugares el Tao se representa asociado con la torpeza y no con la inteligencia, y con la debilidad y no con la fuerza. Pero estas parecen ser cualidades vistas desde fuera, y que actúan sobre lo que está más allá de sí mismo. Internamente, sus cualidades son todo lo contrario, y su acción tiene el efecto de iluminar lo oscuro y vencer lo fuerte.
+![](/image/book/Taoism/Taoist_texts_vol_1/07502.jpg), 'Discriminación entre (diferentes) Atributos'. La enseñanza del capítulo es que la posesión del <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> Tao confiere los diversos atributos que aquí se distinguen más. Se ha objetado que en otros lugares el Tao se representa asociado con la torpeza y no con la inteligencia, y con la debilidad y no con la fuerza. Pero estas parecen ser cualidades vistas desde fuera, y que actúan sobre lo que está más allá de sí mismo. Internamente, sus cualidades son todo lo contrario, y su acción tiene el efecto de iluminar lo oscuro y vencer lo fuerte.
 
 Más interesantes son los predicados del párrafo 2. Ziâo Hung ofrece el comentario del monje indio Kumâragîva, «uno de los cuatro soles del budismo», que fue a China en el año 401 d. C.: «Estar vivo y, sin embargo, no estar vivo bien puede llamarse largo; morir y, sin embargo, no estar muerto bien puede llamarse longevidad». También presenta las opiniones de Lû Näng-shih (1042-1102 d. C.) de que la libertad de cambio de Lieh-dze, de la muerte de Kwang-dze y de la extinción de los budistas tienen el mismo significado que el dicho final de Lâo-dze aquí; que el cuerpo humano es como la cubierta de la oruga o la piel de la serpiente; que lo ocupamos solo por una estancia pasajera. Sin duda, Lâo-dze creía en otra vida para el individuo después de la presente. Muchos pasajes en Kwang-dze indican la misma fe.
 
@@ -625,7 +625,7 @@ La esencia del capítulo debe buscarse en el segundo párrafo, donde tenemos dos
 
 Pero existe una dificultad para ver la aplicabilidad a este caso de los casos mencionados en el párrafo 1. El primer caso, de hecho, es meramente un fenómeno natural, sin carácter moral; pero los demás, como han sido ilustrados a partir de incidentes históricos, al menos por Han Fei y otros, pertenecen a planes de estrategia ambiciosa, egoísta y sin principios, que sería perjudicial para Lâo-dze suponer que él pretendía.
 
-El párrafo 3 es el pasaje más citado de nuestro Rey, a menos que se trate de la primera parte del capítulo 1. Los peces extraídos de las profundidades y llevados a aguas poco profundas pueden ser fácilmente capturados o matados; eso es evidente. «Los instrumentos afilados de un estado» no son sus «armas de guerra», ni sus «tesoros», ni sus «instrumentos de gobierno», es decir, sus recompensas y castigos, aunque esta última es la interpretación que a menudo se les da, sustentada por una referencia absurda a un incidente, real o inventado, en la historia del ducado de Sung. Los lî khî son «ingenios para obtener ganancias», máquinas y otros métodos para aumentar la riqueza de un estado, pero, según los principios de Lâo-dze, realmente perjudiciales para él. Estos no deben mostrarse al pueblo, <span id="p79">[<sup><small>p. 79</small></sup>]</span> a quienes el sistema taoísta mantendría en un estado de simplicidad primitiva e ignorancia. Esta interpretación concuerda con el significado de los caracteres y con la enseñanza general del taoísmo. De ninguna otra manera puedo explicar el párrafo para justificar el lugar que sin duda le corresponde en el sistema.
+El párrafo 3 es el pasaje más citado de nuestro Rey, a menos que se trate de la primera parte del capítulo 1. Los peces extraídos de las profundidades y llevados a aguas poco profundas pueden ser fácilmente capturados o matados; eso es evidente. «Los instrumentos afilados de un estado» no son sus «armas de guerra», ni sus «tesoros», ni sus «instrumentos de gobierno», es decir, sus recompensas y castigos, aunque esta última es la interpretación que a menudo se les da, sustentada por una referencia absurda a un incidente, real o inventado, en la historia del ducado de Sung. Los lî khî son «ingenios para obtener ganancias», máquinas y otros métodos para aumentar la riqueza de un estado, pero, según los principios de Lâo-dze, realmente perjudiciales para él. Estos no deben mostrarse al pueblo, <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> a quienes el sistema taoísta mantendría en un estado de simplicidad primitiva e ignorancia. Esta interpretación concuerda con el significado de los caracteres y con la enseñanza general del taoísmo. De ninguna otra manera puedo explicar el párrafo para justificar el lugar que sin duda le corresponde en el sistema.
 
 
 <a id="c37"></a>

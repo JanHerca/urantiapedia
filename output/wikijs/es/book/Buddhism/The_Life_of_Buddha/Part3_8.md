@@ -71,7 +71,7 @@ La bailarina lo miró fijamente.
 
 —Eres hermosa —dijo al fin—. Bailaré para ti.
 
-Kuvalaya bailó. La danza comenzó lentamente. Se había envuelto en todos sus velos, incluso cubriendo su rostro, y la belleza que una vez exhibió con tanta audacia ahora era solo una tenue promesa. Era como la luna, ocultándose tras suaves nubes de la mirada de la noche. Una nube se alejó; un tenue rayo se escapó por la grieta. La danza se aceleró; uno a uno, los velos cayeron, y la reina de las estrellas apareció en todo su esplendor. <span id="p246">[<sup><small>p. 246</small></sup>]</span> giraba cada vez más rápido; de repente, una luz cegadora brilló en sus ojos y se detuvo. Estaba desnuda. La multitud se quedó sin aliento y se abalanzó hacia adelante.
+Kuvalaya bailó. La danza comenzó lentamente. Se había envuelto en todos sus velos, incluso cubriendo su rostro, y la belleza que una vez exhibió con tanta audacia ahora era solo una tenue promesa. Era como la luna, ocultándose tras suaves nubes de la mirada de la noche. Una nube se alejó; un tenue rayo se escapó por la grieta. La danza se aceleró; uno a uno, los velos cayeron, y la reina de las estrellas apareció en todo su esplendor. <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> giraba cada vez más rápido; de repente, una luz cegadora brilló en sus ojos y se detuvo. Estaba desnuda. La multitud se quedó sin aliento y se abalanzó hacia adelante.
 
 “¡Mujer infeliz!” dijo el Buda.
 

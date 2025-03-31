@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 4\. La tercera suerte [^199] era para los nuevos que venían a ofrecer incienso, y se echaban las suertes. La cuarta suerte era para los nuevos con los viejos, quienes debían llevar los miembros desde la subida hasta el altar.
 
-5\. La ofrenda diaria era con nueve, diez, once, doce sacerdotes; ni menos ni más. "¿Cómo?" "Con nueve: <span id="p122">[<sup><small>p. 122</small></sup>]</span> en la Fiesta de los Tabernáculos, en la mano de uno, un vaso de agua, diez. La ofrenda de la tarde, con once, con nueve, y en las manos de dos, dos haces de leña. El sábado, con once; con nueve, y en sus manos dos, dos fragmentos de incienso del pan de la proposición. Y el sábado, en la Fiesta de los Tabernáculos, en la mano de uno, un vaso de agua."
+5\. La ofrenda diaria era con nueve, diez, once, doce sacerdotes; ni menos ni más. "¿Cómo?" "Con nueve: <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> en la Fiesta de los Tabernáculos, en la mano de uno, un vaso de agua, diez. La ofrenda de la tarde, con once, con nueve, y en las manos de dos, dos haces de leña. El sábado, con once; con nueve, y en sus manos dos, dos fragmentos de incienso del pan de la proposición. Y el sábado, en la Fiesta de los Tabernáculos, en la mano de uno, un vaso de agua."
 
 6\. El carnero se ofrecía con once, la carne con cinco, el interior, la harina fina y el vino, de dos en dos para cada uno.
 

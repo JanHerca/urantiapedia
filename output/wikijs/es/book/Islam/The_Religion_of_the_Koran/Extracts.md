@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 CAPÍTULO II., Versículo 1.—En el nombre del Dios Misericordioso y Compasivo
 
@@ -42,7 +42,7 @@ Capítulo VI, Versículo 109.—Juraron por Dios con su más enérgico juramento
 
 (110).—Volveremos sus corazones y sus visiones, tal como ellos no creyeron al principio; y los dejaremos, en su rebelión, vagando ciegamente.
 
-Y si les hubiéramos enviado ángeles, o los muertos <span id="p28">[<sup><small>p. 28</small></sup>]</span> les hubieran hablado, o les hubiéramos reunido todo en ejércitos, no habrían creído a menos que a Dios le agradara, pero la mayoría de ellos son ignorantes.
+Y si les hubiéramos enviado ángeles, o los muertos <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> les hubieran hablado, o les hubiéramos reunido todo en ejércitos, no habrían creído a menos que a Dios le agradara, pero la mayoría de ellos son ignorantes.
 
 Así que hemos creado para cada profeta un enemigo, demonios humanos y genios; algunos de ellos inspiran a otros con palabras engañosas para extraviarlos; pero si tu Señor hubiera querido, no lo habrían hecho; así que déjalos con lo que traman.
 
@@ -58,7 +58,7 @@ Y cuando se lea el Corán, escuchadlo y guardad silencio; quizá obtengáis mise
 
 Capítulo X, Versículo 38.—Este Corán no pudo haber sido inventado por nadie más que Dios; pero verifica lo que había antes de él, y detalla el Libro—no hay duda en ello—del Señor de los mundos.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 ¿Dicen: «Él lo ha ideado?» Decid entonces: «Traed un versículo como éste, e invocad, si podéis, a otro que no sea Dios, si decís la verdad».
 

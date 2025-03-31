@@ -50,7 +50,7 @@ El otro respondió: «Así como (en un juego de dados) todas las castas inferior
 
 Él respondió: “¿Cómo es eso de Raikva, del coche?”
 
-6\. El rey dijo: «Así como (en un juego de dados), todas las castas inferiores pertenecen a quien ha conquistado con la tirada Krita, así también todas las buenas acciones de otros pertenecen a ese Raikva. De quien sabe lo que sabe, así hablo yo». <span id="p57">[<sup><small>p. 57</small></sup>]</span> 7\. El portero fue a buscar a Raikva, pero regresó diciendo: «No lo encontré». Entonces el rey dijo: «¡Ay! Donde se debe buscar a un brahmán (en la soledad del bosque), allí hay que ir a buscarlo».
+6\. El rey dijo: «Así como (en un juego de dados), todas las castas inferiores pertenecen a quien ha conquistado con la tirada Krita, así también todas las buenas acciones de otros pertenecen a ese Raikva. De quien sabe lo que sabe, así hablo yo». <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> 7\. El portero fue a buscar a Raikva, pero regresó diciendo: «No lo encontré». Entonces el rey dijo: «¡Ay! Donde se debe buscar a un brahmán (en la soledad del bosque), allí hay que ir a buscarlo».
 
 8\. El portero se acercó a un hombre que yacía debajo de un carro rascándose las llagas [^197]. Se dirigió a él y le dijo: «Señor, ¿es usted Raikva el del carro?».
 
@@ -70,7 +70,7 @@ Entonces <i>G</i>âna<i>s</i>ruti Pautrâya<i>n</i>a tomó nuevamente mil vacas,
 
 4\. Le dijo: «Raikva, hay mil vacas, un collar, un carruaje con mulas, esta esposa y esta aldea donde vives. ¡Señor, enséñame!»
 
-5\. Él, abriendo su boca [^198], dijo: 'Has <span id="p58">[<sup><small>p. 58</small></sup>]</span> traído estas (vacas y otros regalos), oh <i>S</i>ûdra, pero solo por esa boca me hiciste hablar.'
+5\. Él, abriendo su boca [^198], dijo: 'Has <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> traído estas (vacas y otros regalos), oh <i>S</i>ûdra, pero solo por esa boca me hiciste hablar.'
 
 Estas son las aldeas de Raikva-par<i>n</i>a en el país de los Mahâv<i>ri</i>shas (mahâpu<i>n</i>yas) donde Raikva vivió bajo su mando [^199]. Y le dijo:
 
@@ -88,11 +88,11 @@ Estas son las aldeas de Raikva-par<i>n</i>a en el país de los Mahâv<i>ri</i>sh
 
 5\. Una vez, mientras a Saunaka Kâpeya y Abhipratârin Kâkshaseni les servían la comida, un estudiante religioso les pidió limosna. No le dieron nada.
 
-6\. Dijo: «Un dios —¿quién es?— se tragó a los cuatro grandes [^201], él, el guardián del mundo. <span id="p59">[<sup><small>p. 59</small></sup>]</span> ¡Oh, Kâpeya!, los mortales no lo ven, ¡oh, Abhipratârin!, aunque habita en muchos lugares. A quien pertenece este alimento, no le ha sido dado [^202].»
+6\. Dijo: «Un dios —¿quién es?— se tragó a los cuatro grandes [^201], él, el guardián del mundo. <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> ¡Oh, Kâpeya!, los mortales no lo ven, ¡oh, Abhipratârin!, aunque habita en muchos lugares. A quien pertenece este alimento, no le ha sido dado [^202].»
 
 7\. <i>S</i>aunaka Kâpeya, reflexionando sobre esas palabras, se acercó al estudiante y le dijo: «Él es el ser de los Devas, el creador de todos los seres, con colmillos de oro, el que come, no sin inteligencia. Se dice que su grandeza es verdaderamente grande, porque, sin ser comido, come incluso lo que no es alimento [^203]. Así meditamos nosotros, oh Brahma<i>k</i>ârin, en ese Ser». Entonces dijo: «Dale de comer».
 
-8\. Le dieron alimento. Ahora bien, estos cinco (el que come, Vâyu (aire), y su alimento, Agni (fuego), Âditya (sol), Kandramas (luna), Ap (agua)) y los otros cinco (el que come, Prâ<i>n</i>a (aliento), y su alimento, habla, vista, oído y mente) suman diez, y esa es la casta K<i>ri</i>ta (la casta superior [^204]) (que representa a los diez, a los que comen y al alimento). Por lo tanto, en todas las direcciones, esos diez son alimento (y) K<i>ri</i>ta (la casta superior). Estos son, a su vez, el Virâ<i>g</i> [^205] (de diez sílabas) <span id="p60">[<sup><small>p. 60</small></sup>]</span> que come el alimento. A través de esto, todo esto se hace visible. Quien sabe esto ve todo esto y se convierte en un comedor de comida, sí, se convierte en un comedor de comida.
+8\. Le dieron alimento. Ahora bien, estos cinco (el que come, Vâyu (aire), y su alimento, Agni (fuego), Âditya (sol), Kandramas (luna), Ap (agua)) y los otros cinco (el que come, Prâ<i>n</i>a (aliento), y su alimento, habla, vista, oído y mente) suman diez, y esa es la casta K<i>ri</i>ta (la casta superior [^204]) (que representa a los diez, a los que comen y al alimento). Por lo tanto, en todas las direcciones, esos diez son alimento (y) K<i>ri</i>ta (la casta superior). Estos son, a su vez, el Virâ<i>g</i> [^205] (de diez sílabas) <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> que come el alimento. A través de esto, todo esto se hace visible. Quien sabe esto ve todo esto y se convierte en un comedor de comida, sí, se convierte en un comedor de comida.
 
 ## CUARTO KHA<i>N</i><i>D</i>A [^206].
 
@@ -128,7 +128,7 @@ Le dijo: «La región oriental es un cuarto, la región occidental es un cuarto,
 
 1\. 'Agni te declarará otro pie de Brahman.'
 
-(Tras estas palabras del toro), Satyakâma, al día siguiente, condujo las vacas hacia la casa del maestro. Y cuando llegaron al anochecer, encendió una fogata, encerró a las vacas, echó leña y se sentó detrás de ella, mirando hacia el este. <span id="p62">[<sup><small>p. 62</small></sup>]</span> 2\. Entonces Agni (el fuego) le dijo: «¡Satyakâma!». Él respondió: «Señor».
+(Tras estas palabras del toro), Satyakâma, al día siguiente, condujo las vacas hacia la casa del maestro. Y cuando llegaron al anochecer, encendió una fogata, encerró a las vacas, echó leña y se sentó detrás de ella, mirando hacia el este. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 2\. Entonces Agni (el fuego) le dijo: «¡Satyakâma!». Él respondió: «Señor».
 
 3\. Agni dijo: “Amigo, te declararé un pie de Brahman”.
 
@@ -150,7 +150,7 @@ Le dijo: «La tierra es un cuarto, el cielo es un cuarto, el firmamento es un cu
 
 «Declárelo, señor», respondió.
 
-Él le dijo: 'El fuego es un cuarto, el sol es un cuarto, la luna es un cuarto, el rayo es un cuarto. Este es un pie de Brahman, que consta de cuatro cuartos, y llamado <i>G</i>yotishmat (lleno de luz). <span id="p63">[<sup><small>p. 63</small></sup>]</span> 4\. 'Quien conoce esto y medita en el pie de Brahman, que consta de cuatro cuartos, con el nombre de <i>G</i>yotishmat, se llena de luz en este mundo. Conquista los mundos que están llenos de luz, quien conoce esto y medita en el pie de Brahman, que consta de cuatro cuartos, con el nombre de <i>G</i>yotishmat.
+Él le dijo: 'El fuego es un cuarto, el sol es un cuarto, la luna es un cuarto, el rayo es un cuarto. Este es un pie de Brahman, que consta de cuatro cuartos, y llamado <i>G</i>yotishmat (lleno de luz). <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> 4\. 'Quien conoce esto y medita en el pie de Brahman, que consta de cuatro cuartos, con el nombre de <i>G</i>yotishmat, se llena de luz en este mundo. Conquista los mundos que están llenos de luz, quien conoce esto y medita en el pie de Brahman, que consta de cuatro cuartos, con el nombre de <i>G</i>yotishmat.
 
 ## OCTAVO KHA<i>N</i><i>D</i>A.
 
@@ -184,7 +184,7 @@ Quien conoce esto y medita en el pie de Brahman, compuesto de cuatro direcciones
 
 2\. Entonces su esposa le dijo: «Este estudiante, que está agotado (de austeridades), ha cuidado con esmero tus fuegos. Que no te culpen los fuegos mismos, sino que enséñale». El maestro, sin embargo, se fue de viaje sin haberle enseñado.
 
-El estudiante, afligido, no podía comer. <span id="p65">[<sup><small>p. 65</small></sup>]</span> Entonces la esposa del maestro le dijo: «¡Estudiante, come! ¿Por qué no comes?». Él respondió: «Este hombre tiene muchos deseos, que se dispersan en distintas direcciones. Estoy lleno de tristezas y no quiero comer».
+El estudiante, afligido, no podía comer. <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> Entonces la esposa del maestro le dijo: «¡Estudiante, come! ¿Por qué no comes?». Él respondió: «Este hombre tiene muchos deseos, que se dispersan en distintas direcciones. Estoy lleno de tristezas y no quiero comer».
 
 4\. Entonces los fuegos dijeron entre sí: «Este estudiante, que está muy agotado, nos ha cuidado con esmero. Bien, enseñémosle». Le dijeron:
 
@@ -196,7 +196,7 @@ Dijeron: «Lo que es Ka es Kha, lo que es Kha es Ka» [211]. Por lo tanto, le en
 
 ## UNDÉCIMO KHAND.
 
-1\. Después de eso, el fuego Gârhapatya [^213] le enseñó la Tierra, el fuego, el alimento y el sol (estas son mis formas, o <span id="p66">[<sup><small>p. 66</small></sup>]</span> formas de Brahman). La persona que se ve en el sol, yo soy esa, yo soy esa en verdad [^214].
+1\. Después de eso, el fuego Gârhapatya [^213] le enseñó la Tierra, el fuego, el alimento y el sol (estas son mis formas, o <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> formas de Brahman). La persona que se ve en el sol, yo soy esa, yo soy esa en verdad [^214].
 
 2\. Quien, conociendo esto, medita en él, destruye el pecado, alcanza el mundo (de Agni Gârhapatya), alcanza la madurez y vive largamente; sus descendientes no perecen. Lo protegemos en este mundo y en el otro; quien, conociendo esto, medita en él.
 
@@ -208,7 +208,7 @@ Dijeron: «Lo que es Ka es Kha, lo que es Kha es Ka» [211]. Por lo tanto, le en
 
 ## DECIMOTERCER KHAN D A.
 
-1\. Entonces el fuego Âhavanîya [^216] le enseñó: «Aliento, éter, cielo y relámpago (estas son mis formas). La persona que se ve en el relámpago, yo soy, yo soy en verdad. <span id="p67">[<sup><small>p. 67</small></sup>]</span> 2\. «Quien, conociendo esto, medita en él, destruye el pecado, alcanza el mundo (de Agni Âhavanîya), alcanza la madurez y vive largamente; sus descendientes no perecen. Lo protegemos en este mundo y en el otro; quien conociendo esto medita en él».
+1\. Entonces el fuego Âhavanîya [^216] le enseñó: «Aliento, éter, cielo y relámpago (estas son mis formas). La persona que se ve en el relámpago, yo soy, yo soy en verdad. <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 2\. «Quien, conociendo esto, medita en él, destruye el pecado, alcanza el mundo (de Agni Âhavanîya), alcanza la madurez y vive largamente; sus descendientes no perecen. Lo protegemos en este mundo y en el otro; quien conociendo esto medita en él».
 
 ## DECIMOCUARTO KHA<i>N</i><i>D</i>A.
 
@@ -240,7 +240,7 @@ El maestro dijo: «Amigo mío, te han enseñado sobre los mundos, pero te diré 
 
 ## DÉCIMO SEXTO KHA<i>N</i><i>D</i>A [^220].
 
-1\. En verdad, quien purifica (Vâyu) es el sacrificio, pues él (el aire) al moverse lo purifica todo. <span id="p69">[<sup><small>p. 69</small></sup>]</span> Porque al moverse lo purifica todo, por lo tanto, él es el sacrificio. Hay dos maneras de lograr ese sacrificio: con la mente y con la palabra.
+1\. En verdad, quien purifica (Vâyu) es el sacrificio, pues él (el aire) al moverse lo purifica todo. <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> Porque al moverse lo purifica todo, por lo tanto, él es el sacrificio. Hay dos maneras de lograr ese sacrificio: con la mente y con la palabra.
 
 2\. El sacerdote brahmán realiza uno de ellos mentalmente [^221], mientras que los sacerdotes Hotri, Adhvaryu y Udgâtri realizan el otro con palabras. Cuando el sacerdote brahmán, después de iniciada la ceremonia Prâtaranuvâka, pero antes de la recitación del himno Paridhânîyâ, debe romper su silencio y hablar,
 
@@ -265,11 +265,11 @@ El maestro dijo: «Amigo mío, te han enseñado sobre los mundos, pero te diré 
 
 5\. Si el sacrificio sufre una lesión del lado del Yagur-veda, que ofrezca una libación en el fuego de Dakshina, diciendo: «¡Bhuvah, Svâhâ!». Así, mediante la esencia y el poder de los propios versos del Yagus, une y cura cualquier daño que el sacrificio del Yagus haya sufrido.
 
-6\. Si el sacrificio es dañado por el lado del Sama-veda, que ofrezca una libación en el fuego de Âhavanîya, diciendo: ¡Svah, Svâhâ! Así, mediante la esencia y el poder de los propios versos del Samán, une y sana cualquier daño que el sacrificio del Samán haya sufrido. <span id="p71">[<sup><small>p. 71</small></sup>]</span> 7\. Como se ablanda el oro con lava (bórax), la plata con oro, el estaño con plata, el plomo con estaño, el hierro (loha) con plomo, la madera con hierro o incluso el cuero,
+6\. Si el sacrificio es dañado por el lado del Sama-veda, que ofrezca una libación en el fuego de Âhavanîya, diciendo: ¡Svah, Svâhâ! Así, mediante la esencia y el poder de los propios versos del Samán, une y sana cualquier daño que el sacrificio del Samán haya sufrido. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> 7\. Como se ablanda el oro con lava (bórax), la plata con oro, el estaño con plata, el plomo con estaño, el hierro (loha) con plomo, la madera con hierro o incluso el cuero,
 
 8\. Así se une y sana cualquier ruptura en el sacrificio mediante (los Vyâh<i>ri</i>tis o interjecciones sacrificiales que son) la esencia y la fuerza de los tres mundos, de las deidades y del triple conocimiento. Se sana el sacrificio [^223] en el que hay un sacerdote brahmán que conoce esto.
 
-9\. Ese sacrificio se inclina hacia el norte (de la manera correcta) cuando hay un sacerdote brahmán que conoce esto. Y respecto a tal sacerdote brahmán existe el siguiente Gâthâ [^224]: «Dondequiera que retroceda, allí va el hombre [^225]», es decir, solo el brahmán, como uno de los sacerdotes <i>Ri</i>tvi<i>g</i>. «Él salva a los Kurus como a una yegua» (es decir, un sacerdote brahmán que <span id="p72">[<sup><small>p. 72</small></sup>]</span> conoce esto, salva al sacrificio, al sacrificador y a todos los demás sacerdotes). Por lo tanto, que un hombre haga de quien conoce esto su sacerdote brahmán, no de quien lo desconoce.
+9\. Ese sacrificio se inclina hacia el norte (de la manera correcta) cuando hay un sacerdote brahmán que conoce esto. Y respecto a tal sacerdote brahmán existe el siguiente Gâthâ [^224]: «Dondequiera que retroceda, allí va el hombre [^225]», es decir, solo el brahmán, como uno de los sacerdotes <i>Ri</i>tvi<i>g</i>. «Él salva a los Kurus como a una yegua» (es decir, un sacerdote brahmán que <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> conoce esto, salva al sacrificio, al sacrificador y a todos los demás sacerdotes). Por lo tanto, que un hombre haga de quien conoce esto su sacerdote brahmán, no de quien lo desconoce.
 
 <figure class="table chapter-navigator">
   <table>

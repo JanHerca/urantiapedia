@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 4\. La escuela de Shamai bendice «la luz, la comida, las especias y la distinción del día»; pero la escuela de Hillel bendice «la luz, las especias, la comida y la distinción del día». La escuela de Shamai dice: «Quien creó la luz del fuego»; pero la escuela de Hillel dice: «Creador de las luces del fuego».
 
-6\. No deben bendecir la luz ni las especias de gentiles idólatras, ni la luz ni las especias de cadáveres, ni la luz ni las especias <span id="p60">[<sup><small>p. 60</small></sup>]</span> ante un ídolo. No deben bendecir la luz hasta que la hayan disfrutado.
+6\. No deben bendecir la luz ni las especias de gentiles idólatras, ni la luz ni las especias de cadáveres, ni la luz ni las especias <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> ante un ídolo. No deben bendecir la luz hasta que la hayan disfrutado.
 
 7\. «¿Si uno ha comido, se ha olvidado y no ha bendecido?» La escuela de Shamai dice: «Debe regresar a su lugar y bendecir». Pero la escuela de Hillel dice: «Puede bendecir en el lugar donde se acuerde». «¿Cuánto tiempo se debe bendecir?»: «Hasta que el alimento en el estómago sea digerido».
 

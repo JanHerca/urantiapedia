@@ -36,7 +36,7 @@ VIGÉSIMA TERCERA CONFERENCIA [^312]. KÊ<i>S</i>I Y GAUTAMA.
 
 Había una <i>Gina</i>, llamada Pâr<i>sva</i> [^313], un Arhat, adorado por el pueblo, que estaba completamente iluminado y era omnisciente, un profeta de la Ley, y una <i>Gina</i>. (1)
 
-Y había un famoso discípulo de esta Luz del <span id="p120">[<sup><small>p. 120</small></sup>]</span> Mundo, el joven <i>S</i>rama<i>n</i>a Kê<i>s</i>i, que dominaba por completo las ciencias y la conducta correcta. (2)
+Y había un famoso discípulo de esta Luz del <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> Mundo, el joven <i>S</i>rama<i>n</i>a Kê<i>s</i>i, que dominaba por completo las ciencias y la conducta correcta. (2)
 
 Poseía la luz de <i>S</i>ruta y el conocimiento de Avadhi [^314], y estaba rodeado por una multitud de discípulos; vagando de aldea en aldea llegó a la ciudad de <i>S</i>râvastî. (3)
 
@@ -74,7 +74,7 @@ Kê<i>s</i>i, el joven <i>S</i>rama<i>n</i>a y el famoso Gautama, sentados junto
 
 Allí se reunieron muchos herejes por curiosidad y muchos miles de laicos; (19)
 
-Dioses, Dânavas, Gandharvas, Yakshas, ​​Râkshasas, <span id="p122">[<sup><small>p. 122</small></sup>]</span> y Kinnaras (reunidos allí), y allí se reunieron también fantasmas invisibles [^318]. (20)
+Dioses, Dânavas, Gandharvas, Yakshas, ​​Râkshasas, <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> y Kinnaras (reunidos allí), y allí se reunieron también fantasmas invisibles [^318]. (20)
 
 Kê<i>s</i>i le dijo a Gautama: «Quiero preguntarte algo, santo hombre». Ante estas palabras, Gautama respondió: «Señor, pregunta lo que quieras». Con su permiso, Kê<i>s</i>i le dijo a Gautama: (21, 22)
 
@@ -104,7 +104,7 @@ Las diversas características externas (de los hombres religiosos) se han introd
 
 «Bueno, Gautama, tú posees sabiduría, has destruido mi duda; pero tengo otra duda, que debes explicarme, Gautama. (34)
 
-«Gautama, estás en medio de muchos <span id="p124">[<sup><small>p. 124</small></sup>]</span> miles (de enemigos) que te atacan; ¿cómo los has vencido [^321]? (35)
+«Gautama, estás en medio de muchos <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> miles (de enemigos) que te atacan; ¿cómo los has vencido [^321]? (35)
 
 “Al vencer a uno, cinco son vencidos; al vencer a cinco, diez son vencidos; por esta victoria décuple, venzo a todos los enemigos.” (36)
 
@@ -118,7 +118,7 @@ El yo es el único enemigo invencible, (junto con las cuatro) pasiones cardinale
 
 “Habiendo cortado todas mis ataduras y habiéndolas destruido por los medios correctos, me he librado de mis ataduras y soy libre, oh sabio.” (41)
 
-Kê<i>s</i>i le preguntó a Gautama: «¿A qué llamas grilletes?» <span id="p125">[<sup><small>p. 125</small></sup>]</span> A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (42)
+Kê<i>s</i>i le preguntó a Gautama: «¿A qué llamas grilletes?» <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (42)
 
 “El amor, el odio, etc., son grilletes pesados, el apego es peligroso; habiéndolos destruido regularmente, vivo de acuerdo con las reglas de conducta.” (43)
 
@@ -140,7 +140,7 @@ Kê<i>s</i>i le preguntó a Gautama: «¿Cómo se llama esa planta?». A estas p
 
 Kê<i>s</i>i le preguntó a Gautama: «¿Cómo llamas al fuego?». A estas palabras de Kê<i>s</i>i, Gautama respondió lo siguiente: (52)
 
-Las pasiones son el fuego; el conocimiento, la vida virtuosa y las penitencias son el agua; rociado <span id="p126">[<sup><small>p. 126</small></sup>]</span> con las gotas del conocimiento, el fuego de las pasiones se extingue y no me quema. (53)
+Las pasiones son el fuego; el conocimiento, la vida virtuosa y las penitencias son el agua; rociado <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> con las gotas del conocimiento, el fuego de las pasiones se extingue y no me quema. (53)
 
 'Bueno, Gautama, etc. (como en el verso 28). (54)
 

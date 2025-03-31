@@ -99,7 +99,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## V.
 
-8\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa, que aflige a los Pairikas, que aflige a los Pairikas, quienes, en forma de estrellas-gusano [^471], vuelan <span id="p96">[<sup><small>p. 96</small></sup>]</span> entre la tierra y el cielo, en el mar Vouru-Kasha, el mar poderoso, el vasto y profundo mar de aguas saladas [^472]. Acude a su lago en forma de caballo, en forma sagrada; y allí abajo hace que las aguas hiervan y los vientos soplen con fuerza por todas partes.
+8\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa, que aflige a los Pairikas, que aflige a los Pairikas, quienes, en forma de estrellas-gusano [^471], vuelan <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> entre la tierra y el cielo, en el mar Vouru-Kasha, el mar poderoso, el vasto y profundo mar de aguas saladas [^472]. Acude a su lago en forma de caballo, en forma sagrada; y allí abajo hace que las aguas hiervan y los vientos soplen con fuerza por todas partes.
 
 9\. 'Entonces Satavaêsa [^473] hace que esas aguas fluyan hacia los siete Karshvares de la tierra [^474], y cuando llega allí, se yergue, hermoso, esparciendo tranquilidad y alegría en los países fértiles (pensando para sí mismo): “¿Cómo se volverán fértiles los países de los Aryas?”
 
@@ -111,7 +111,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 11\. ' "Si los hombres me adoraran con un sacrificio en el que yo fuera invocado por mi propio nombre, como adoran a los otros Yazatas con sacrificios en los que son invocados por sus propios nombres, entonces yo habría llegado a los fieles en el tiempo señalado [^475];
 
-Debería haber llegado en el tiempo señalado de mi <span id="p97">[<sup><small>p. 97</small></sup>]</span> hermosa, inmortal vida [^476], ya fuera una noche, o dos noches, o cincuenta, o cien noches”.
+Debería haber llegado en el tiempo señalado de mi <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> hermosa, inmortal vida [^476], ya fuera una noche, o dos noches, o cincuenta, o cien noches”.
 
 12\. 'Ofrecemos sacrificios a Ti<i>s</i>trya;
 
@@ -125,7 +125,7 @@ Debería haber llegado en el tiempo señalado de mi <span id="p97">[<sup><small>
 
 'Ofrecemos sacrificios a Ti<i>s</i>trya, cuya vista es sana [^482].
 
-13\. «¡Durante diez noches, oh Spitama Zarathustra! Tistrya, la estrella brillante y gloriosa, mezcla su forma <span id="p98">[<sup><small>p. 98</small></sup>]</span> con la luz, moviéndose en la forma de un hombre de quince años [^483], brillante, de ojos claros, alto, lleno de fuerza, fuerte y astuto.»
+13\. «¡Durante diez noches, oh Spitama Zarathustra! Tistrya, la estrella brillante y gloriosa, mezcla su forma <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> con la luz, moviéndose en la forma de un hombre de quince años [^483], brillante, de ojos claros, alto, lleno de fuerza, fuerte y astuto.»
 
 14\. 'Es activo como lo fue el primer hombre [^484]; sigue adelante con la fuerza del primer hombre; tiene la virilidad [^485] del primer hombre.
 
@@ -135,7 +135,7 @@ Debería haber llegado en el tiempo señalado de mi <span id="p97">[<sup><small>
 
 17\. Aquí convoca a la gente a reunirse, aquí pregunta: "¿Quién me ofrecerá ahora las libaciones con el Haoma y la carne sagrada? ¿A quién le daré la riqueza de bueyes, una manada de bueyes y la purificación de su propia alma? Ahora debo recibir sacrificios y oraciones en el mundo material, según la ley de la santidad suprema".
 
-18\. «Las siguientes diez noches, ¡oh, Spitama Zaratustra!, el brillante y glorioso Tistrya se transforma en luz, moviéndose en la forma de un hermoso caballo blanco, con orejas y capa doradas. <span id="p99">[<sup><small>p. 99</small></sup>]</span> 19\. «Aquí convoca a la gente a reunirse, aquí pregunta, diciendo: “¿Quién me ofrecerá ahora las libaciones con el Haoma y la carne sagrada? ¿A quién daré la riqueza de los caballos, una tropa de caballos y la purificación de su propia alma? Ahora debo recibir sacrificios y oraciones en el mundo material, por la ley de la excelente santidad».
+18\. «Las siguientes diez noches, ¡oh, Spitama Zaratustra!, el brillante y glorioso Tistrya se transforma en luz, moviéndose en la forma de un hermoso caballo blanco, con orejas y capa doradas. <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> 19\. «Aquí convoca a la gente a reunirse, aquí pregunta, diciendo: “¿Quién me ofrecerá ahora las libaciones con el Haoma y la carne sagrada? ¿A quién daré la riqueza de los caballos, una tropa de caballos y la purificación de su propia alma? Ahora debo recibir sacrificios y oraciones en el mundo material, por la ley de la excelente santidad».
 
 20\. 'Entonces, ¡oh Spitama Zarathu<i>s</i>tra!, el brillante y glorioso Ti<i>s</i>trya desciende al mar Vouru-Kasha en la forma de un hermoso caballo blanco, con orejas de oro y una capa dorada [^488].
 
@@ -161,7 +161,7 @@ Debería haber llegado en el tiempo señalado de mi <span id="p97">[<sup><small>
 
 31\. 'Él hace que el mar hierva de arriba a abajo; hace que el mar fluya de un lado a otro; hace que el mar fluya de un lado a otro: todas las orillas del mar Vouru-Kasha hierven, todo su centro hierve.
 
-32\. 'Y el brillante y glorioso Ti<i>s</i>trya surge del mar Vouru-Kasha, ¡oh Spitama Zarathu<i>s</i>tra! El brillante y glorioso Satavaêsa surge del mar Vouru-Kasha; y los vapores se elevan sobre el Monte Us-hindu, que se yergue en medio del mar Vouru-Kasha [^497]. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 33\. 'Entonces los vapores avanzan, en la forma regular de nubes [^498]; siguen al viento, por los caminos que recorre Haoma, el multiplicador del mundo [^499]. Detrás de él viaja el poderoso viento, creado por Mazda, y la lluvia, y las nubes, y el aguanieve, hacia los diversos lugares, hacia los campos, hacia los siete Karshvares de la tierra.
+32\. 'Y el brillante y glorioso Ti<i>s</i>trya surge del mar Vouru-Kasha, ¡oh Spitama Zarathu<i>s</i>tra! El brillante y glorioso Satavaêsa surge del mar Vouru-Kasha; y los vapores se elevan sobre el Monte Us-hindu, que se yergue en medio del mar Vouru-Kasha [^497]. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 33\. 'Entonces los vapores avanzan, en la forma regular de nubes [^498]; siguen al viento, por los caminos que recorre Haoma, el multiplicador del mundo [^499]. Detrás de él viaja el poderoso viento, creado por Mazda, y la lluvia, y las nubes, y el aguanieve, hacia los diversos lugares, hacia los campos, hacia los siete Karshvares de la tierra.
 
 34\. 'Apãm Napâ<i>t</i> [^500], ¡oh Spitama Zarathu<i>s</i>tra! divide las aguas entre los países del mundo material, en compañía del poderoso viento, la Gloria, hecha por las aguas [^501], y los Fravashis de los fieles [^502].
 
@@ -169,7 +169,7 @@ Debería haber llegado en el tiempo señalado de mi <span id="p97">[<sup><small>
 
 ## VII.
 
-35\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa, que desde el este resplandeciente, recorre su largo y sinuoso curso, por el sendero trazado por los dioses, por el camino que le fue señalado, el <span id="p103">[<sup><small>p. 103</small></sup>]</span> camino acuático, por voluntad de Ahura Mazda, por voluntad de los Amesha-Spe<i>n</i>tas.
+35\. 'Ofrecemos sacrificios a Tistrya, la estrella brillante y gloriosa, que desde el este resplandeciente, recorre su largo y sinuoso curso, por el sendero trazado por los dioses, por el camino que le fue señalado, el <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> camino acuático, por voluntad de Ahura Mazda, por voluntad de los Amesha-Spe<i>n</i>tas.
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -229,7 +229,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 ## XV.
 
-48\. 'Ofrecemos sacrificios a Ti<i>s</i>trya, la estrella brillante y gloriosa, por quien anhelan todas las criaturas de Spe<i>n</i>ta-Mainyu, las que viven bajo tierra y las que viven sobre ella; las que viven en las aguas y las que viven en tierra firme; las que vuelan y las que corren en las llanuras [^519]; y todos los <span id="p107">[<sup><small>p. 107</small></sup>]</span> que viven en este mundo infinito del Espíritu Santo.
+48\. 'Ofrecemos sacrificios a Ti<i>s</i>trya, la estrella brillante y gloriosa, por quien anhelan todas las criaturas de Spe<i>n</i>ta-Mainyu, las que viven bajo tierra y las que viven sobre ella; las que viven en las aguas y las que viven en tierra firme; las que vuelan y las que corren en las llanuras [^519]; y todos los <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> que viven en este mundo infinito del Espíritu Santo.
 
 "Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado..."
 
@@ -243,7 +243,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 52\. '¿No hubiera creado yo esa estrella Ti<i>s</i>trya tan digna de sacrificio, tan digna de oración, tan digna de propiciación, tan digna de glorificación como yo mismo, Ahura Mazda;
 
-53\. 'Para resistir, romper, afligir, repeler la malicia de esa Pairika Du<i>z</i>yâirya, a quien la gente malhablada llama Huyâirya; <span id="p108">[<sup><small>p. 108</small></sup>]</span> 54\. 'Entonces, todo el día, toda la noche, esa Pairika Du<i>z</i>yâirya libraba una guerra contra este mundo material mío, queriendo extinguir su vida [^524], y ella continúa, precipitándose sobre él y a su alrededor.
+53\. 'Para resistir, romper, afligir, repeler la malicia de esa Pairika Du<i>z</i>yâirya, a quien la gente malhablada llama Huyâirya; <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> 54\. 'Entonces, todo el día, toda la noche, esa Pairika Du<i>z</i>yâirya libraba una guerra contra este mundo material mío, queriendo extinguir su vida [^524], y ella continúa, precipitándose sobre él y a su alrededor.
 
 55\. 'Pero el brillante y glorioso Ti<i>s</i>trya mantiene a esa Pairika en ataduras, con ataduras dobles, con ataduras triples, que no pueden ser superadas, con ataduras por todo el cuerpo: es como si hubiera mil hombres manteniendo a un hombre en ataduras, mil hombres de aquellos que son los más fuertes en fuerza.
 
@@ -251,7 +251,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 57\. [^526]. Zaratustra preguntó: «¿Qué es entonces, oh Ahura Mazda!, el sacrificio y la invocación en honor del brillante y glorioso Ti<i>s</i>trya, tal como debe realizarse en la perfección de la santidad?»
 
-58\. Ahura Mazda respondió: «Que las naciones arias le traigan libaciones; que las naciones arias le aten manojos de barisma; que las naciones arias le cocinen una res, ya sea blanca, negra o de cualquier otro color, pero todas del mismo color.» <span id="p109">[<sup><small>p. 109</small></sup>]</span> 59\. «Que no tome de estas ofrendas un asesino, ni una prostituta, ni... [^527] que no cante los Gâthâs, que propague la muerte en el mundo y se oponga a la ley de Mazda, la ley de Zaratustra.»
+58\. Ahura Mazda respondió: «Que las naciones arias le traigan libaciones; que las naciones arias le aten manojos de barisma; que las naciones arias le cocinen una res, ya sea blanca, negra o de cualquier otro color, pero todas del mismo color.» <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> 59\. «Que no tome de estas ofrendas un asesino, ni una prostituta, ni... [^527] que no cante los Gâthâs, que propague la muerte en el mundo y se oponga a la ley de Mazda, la ley de Zaratustra.»
 
 60\. 'Si un asesino toma de estas ofrendas, o una prostituta, o un . . . . que no canta los Gâthâs, que propaga la muerte en el mundo y se resiste a la ley de Mazda, la ley de Zarathu<i>s</i>tra, entonces el brillante y glorioso Ti<i>s</i>trya retoma sus virtudes curativas.
 

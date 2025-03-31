@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 CAPÍTULO III., Versículo 16.—Dios da testimonio de que no hay más Dios que Él, y los ángeles, y los que poseen conocimiento que defienden la justicia. No hay más Dios que Él, el Poderoso, el Sabio…
 
@@ -44,7 +44,7 @@ Capítulo VIII, Versículo 12.—Cuando vuestro Señor inspiró a los ángeles: 
 
 Esto es, porque se opusieron a Dios y a Su enviado; porque quien se opone a Dios y a Su enviado, ciertamente, Dios está dispuesto a castigar.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Capítulo XVI, Versículo 3.—Él envía a los ángeles con el Espíritu a Su mandato a quien Él quiere de Sus siervos (para decir), «Dad advertencia de que no hay más Dios que Yo».
 

@@ -40,7 +40,7 @@ Reverencia al Bendito, al Santo, al Plenamente Iluminado.
 
 2\. 'Hay dos extremos, oh Bhikkhus, que el hombre que ha abandonado el mundo[^2] no debe seguir: la práctica habitual, por un lado, de aquellas cosas cuyo atractivo depende de las pasiones, y especialmente de la sensualidad, una forma baja y pagana[^3] (de buscar satisfacción) indigna, inútil y apta solo para los mundanos;
 
- <span id="p147">[<sup><small>p. 147</small></sup>]</span> y la práctica habitual, por otro lado, del ascetismo (o automortificación), que es dolorosa, indigna e inútil.
+ <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> y la práctica habitual, por otro lado, del ascetismo (o automortificación), que es dolorosa, indigna e inútil.
 
 3\. 'Hay un camino intermedio, oh Bhikkhus, que evita estos dos extremos, descubierto por el Tathâgata[^4]: un camino que abre los ojos y otorga entendimiento, que conduce a la paz mental, a la sabiduría superior, a la iluminación completa, al Nirvâ<i>n</i>a!
 
@@ -55,7 +55,7 @@ Esfuerzo correcto;
 Atención correcta;  
 y la contemplación correcta.
 
-'Éste, oh Bhikkhus, es ese camino intermedio, que evita estos dos extremos, descubierto por el Tathâgata, ese camino que abre los ojos y otorga entendimiento, <span id="p148">[<sup><small>p. 148</small></sup>]</span>, que conduce a la paz mental, a la sabiduría superior, a la iluminación completa, al Nirvâ<i>n</i>a!
+'Éste, oh Bhikkhus, es ese camino intermedio, que evita estos dos extremos, descubierto por el Tathâgata, ese camino que abre los ojos y otorga entendimiento, <span id="p148"><sup><small>[ p. 148 ]</small></sup></span>, que conduce a la paz mental, a la sabiduría superior, a la iluminación completa, al Nirvâ<i>n</i>a!
 
 ---
 
@@ -112,7 +112,7 @@ y la contemplación correcta.
 
 16\. 'Y además, oh Bhikkhus, para que yo pudiera realizar completamente la destrucción del dolor, aunque la noble verdad concerniente a ello no estuviera entre las doctrinas transmitidas, surgió dentro de mí el ojo, surgió el conocimiento, surgió el entendimiento, surgió la sabiduría, surgió la luz.
 
-17\. 'Y además, oh Bhikkhus, cuando había comprendido plenamente la destrucción del dolor, aunque la noble <span id="p152">[<sup><small>p. 152</small></sup>]</span> verdad al respecto no se encontraba entre las doctrinas transmitidas, surgió en mí la visión, surgió el conocimiento, surgió la comprensión, surgió la sabiduría, surgió la luz.
+17\. 'Y además, oh Bhikkhus, cuando había comprendido plenamente la destrucción del dolor, aunque la noble <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> verdad al respecto no se encontraba entre las doctrinas transmitidas, surgió en mí la visión, surgió el conocimiento, surgió la comprensión, surgió la sabiduría, surgió la luz.
 
 18\. 'Que esta era la noble verdad acerca del camino que conduce a la destrucción del dolor, no estaba, oh Bhikkhus, entre las doctrinas transmitidas; pero surgió dentro de mí la visión, surgió el conocimiento, surgió el entendimiento, surgió la sabiduría, surgió la luz.
 
@@ -124,7 +124,7 @@ y la contemplación correcta.
 
 21\. 'Mientras, oh Bhikkhus, mi conocimiento y comprensión no fueron del todo claros respecto a cada una de estas cuatro nobles verdades en este triple orden, de esta manera duodécima, durante tanto tiempo estuve inseguro de si había alcanzado la comprensión plena de esa sabiduría que es insuperable en los cielos o en la tierra, entre toda la raza de los Sama<i>n</i>as y los Brahmanes, o de los dioses o los hombres.
 
-22\. 'Pero tan pronto, oh bhikkhus, como mi conocimiento <span id="p153">[<sup><small>p. 153</small></sup>]</span> y mi comprensión fueron completamente claros respecto a cada una de estas cuatro nobles verdades, en este triple orden, de esta manera duodécima, entonces tuve la certeza de haber alcanzado la comprensión plena de esa sabiduría que es insuperable en los cielos o en la tierra, entre toda la raza de los samanas y los brahmanes, o de los dioses o los hombres.
+22\. 'Pero tan pronto, oh bhikkhus, como mi conocimiento <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> y mi comprensión fueron completamente claros respecto a cada una de estas cuatro nobles verdades, en este triple orden, de esta manera duodécima, entonces tuve la certeza de haber alcanzado la comprensión plena de esa sabiduría que es insuperable en los cielos o en la tierra, entre toda la raza de los samanas y los brahmanes, o de los dioses o los hombres.
 
 23\. «Y ahora este conocimiento y esta comprensión han surgido en mí. Inamovible es la emancipación de mi corazón. Esta es mi última existencia. ¡Ya no habrá renacimiento para mí!»
 
@@ -136,7 +136,7 @@ y la contemplación correcta.
 
 25\. Y cuando el Bendito puso en marcha la rueda del carro real de la verdad, los dioses de la tierra lanzaron un grito, diciendo:
 
-'En Benâres, en la ermita de Migadâya, el Bendito ha puesto en marcha la rueda suprema del imperio de la Verdad, esa rueda que ni Sama<i>n</i>a ni Brâhman, ni ningún dios, <span id="p154">[<sup><small>p. 154</small></sup>]</span> ni ningún Brahma ni Mâra, ni nadie en el universo, podrá jamás hacerla retroceder.'
+'En Benâres, en la ermita de Migadâya, el Bendito ha puesto en marcha la rueda suprema del imperio de la Verdad, esa rueda que ni Sama<i>n</i>a ni Brâhman, ni ningún dios, <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> ni ningún Brahma ni Mâra, ni nadie en el universo, podrá jamás hacerla retroceder.'
 
 26\. Y cuando oyeron el grito de los dioses de la tierra, los dioses acompañantes de los cuatro grandes reyes[^13] (los ángeles guardianes de los cuatro puntos cardinales del globo) lanzaron un grito, diciendo:
 

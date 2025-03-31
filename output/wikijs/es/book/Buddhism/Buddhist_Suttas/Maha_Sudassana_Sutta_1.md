@@ -44,7 +44,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 2 «Que el Bendito no muera en este pequeño pueblo de cañas y barro, en este pueblo en medio de la selva, en este municipio secundario. Pues, Señor, hay otras grandes ciudades, como Kampâ, Râ<i>g</i>agaha, Sâvatthi, Sâketa, Kosambi y Benâres. Que el Bendito muera en una de ellas. Allí hay muchos nobles ricos, brahmanes y jefes de familia, creyentes en el Tathagata, que rendirán el debido honor a los restos del Tathagata».
 
-3\. ¡No digas eso, Ânanda! No digas eso, Ânanda, <span id="p248">[<sup><small>p. 248</small></sup>]</span> que esto no es más que un pequeño pueblo de cañas y adobe, un pueblo en medio de la selva, un municipio secundario. Hace mucho tiempo, Ânanda, hubo un rey llamado Mahâ-Sudassana, rey de reyes, un hombre justo que gobernó con rectitud, un Kshatriya ungido[^3], Señor de los cuatro puntos cardinales de la tierra, conquistador, protector de su pueblo, poseedor de los siete tesoros reales. Esta Kusinârâ, Ânanda, era la ciudad real del rey Mahâ-Sudassana, bajo el nombre de Kusâvatî[^4], y tenía doce leguas de largo al este y al oeste, y siete leguas de ancho al norte y al sur. Esa ciudad real, Kusâvatî, Ânanda, era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Ânanda, como la ciudad real de los dioses, llamada Â<i>l</i>akamandâ, es poderosa, próspera, estaba llena de gente, repleta de dioses y provista de todo tipo de alimentos. Ânanda, la ciudad real de Kusâvatî era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Tanto de día como de noche, Ânanda, la ciudad real Kusâvatî resonaba <span id="p249">[<sup><small>p. 249</small></sup>]</span> con los diez gritos; es decir, el ruido de los elefantes, y el ruido de los caballos, y el ruido de los carros; los sonidos del tambor, del tamboril y del laúd; el sonido del canto, y los sonidos del címbalo y del gong; y por último, con el grito: “¡Comed, bebed y sed felices[^5]!”
+3\. ¡No digas eso, Ânanda! No digas eso, Ânanda, <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> que esto no es más que un pequeño pueblo de cañas y adobe, un pueblo en medio de la selva, un municipio secundario. Hace mucho tiempo, Ânanda, hubo un rey llamado Mahâ-Sudassana, rey de reyes, un hombre justo que gobernó con rectitud, un Kshatriya ungido[^3], Señor de los cuatro puntos cardinales de la tierra, conquistador, protector de su pueblo, poseedor de los siete tesoros reales. Esta Kusinârâ, Ânanda, era la ciudad real del rey Mahâ-Sudassana, bajo el nombre de Kusâvatî[^4], y tenía doce leguas de largo al este y al oeste, y siete leguas de ancho al norte y al sur. Esa ciudad real, Kusâvatî, Ânanda, era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Ânanda, como la ciudad real de los dioses, llamada Â<i>l</i>akamandâ, es poderosa, próspera, estaba llena de gente, repleta de dioses y provista de todo tipo de alimentos. Ânanda, la ciudad real de Kusâvatî era poderosa y próspera, estaba llena de gente, repleta de hombres y provista de todo tipo de alimentos. Tanto de día como de noche, Ânanda, la ciudad real Kusâvatî resonaba <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> con los diez gritos; es decir, el ruido de los elefantes, y el ruido de los caballos, y el ruido de los carros; los sonidos del tambor, del tamboril y del laúd; el sonido del canto, y los sonidos del címbalo y del gong; y por último, con el grito: “¡Comed, bebed y sed felices[^5]!”
 
 ---
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 7\. 'Las Palmas de Oro tenían troncos de oro, hojas y frutos de plata. Las Palmas de Plata tenían troncos de plata, hojas y frutos de oro. Las Palmas de Berilo tenían troncos de berilo, hojas y frutos de cristal. Las Palmas de Cristal tenían troncos de cristal, hojas y frutos de berilo. Las Palmas de Ágata tenían troncos de ágata, hojas y frutos de coral. Las Palmas de Coral tenían troncos de coral, hojas y frutos de ágata. Las Palmas de todo tipo de Gema tenían troncos, hojas y frutos de todo tipo de gema.
 
-8\.[^7] 'Y cuando aquellas hileras de palmeras, Ânanda, <span id="p251">[<sup><small>p. 251</small></sup>]</span> fueron sacudidas por el viento, surgió un sonido dulce, agradable, encantador y embriagador.
+8\.[^7] 'Y cuando aquellas hileras de palmeras, Ânanda, <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> fueron sacudidas por el viento, surgió un sonido dulce, agradable, encantador y embriagador.
 
 'Así, Ânanda, así como los siete tipos de instrumentos producen, cuando son bien tocados, para el hombre hábil un sonido dulce, placentero, encantador y embriagador, así también, Ânanda, cuando aquellas hileras de palmeras fueron sacudidas por el viento, surgió un sonido dulce, placentero, encantador y embriagador.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 '¿Qué son esos siete?'
 
-11.[^8] 'En primer lugar, Ânanda, cuando el Gran Rey de la Gloria, en el día de Shabat[^9], en el día de la <span id="p252">[<sup><small>p. 252</small></sup>]</span> luna llena, se hubo purificado y había subido al piso superior de su palacio para guardar el día sagrado, entonces se le apareció el Tesoro celestial de la Rueda[^10], con su cubo, su neumático y todos sus mil radios completos.
+11.[^8] 'En primer lugar, Ânanda, cuando el Gran Rey de la Gloria, en el día de Shabat[^9], en el día de la <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> luna llena, se hubo purificado y había subido al piso superior de su palacio para guardar el día sagrado, entonces se le apareció el Tesoro celestial de la Rueda[^10], con su cubo, su neumático y todos sus mil radios completos.
 
 12\. 'Cuando lo vio, el Gran Rey de la Gloria pensó:
 
@@ -80,7 +80,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 “¡Avanza, oh mi Señor, la Rueda! ¡Oh mi Señor, avanza y vence!”
 
-14\. 'Entonces la maravillosa Rueda, Ânanda, siguió rodando hacia la región del Este, y tras ella iba el Gran Rey de la Gloria[^12], y con él su <span id="p253">[<sup><small>p. 253</small></sup>]</span> ejército, caballos, carros, elefantes y hombres. Y dondequiera que la Rueda se detuviera, Ânanda, allí moraba el Gran Rey de la Gloria, y con él su ejército, caballos, carros, y
+14\. 'Entonces la maravillosa Rueda, Ânanda, siguió rodando hacia la región del Este, y tras ella iba el Gran Rey de la Gloria[^12], y con él su <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> ejército, caballos, carros, elefantes y hombres. Y dondequiera que la Rueda se detuviera, Ânanda, allí moraba el Gran Rey de la Gloria, y con él su ejército, caballos, carros, y
 
 elefantes y hombres.
 
@@ -104,7 +104,7 @@ elefantes y hombres.
 
 17\. 'Entonces, Ânanda, todos los reyes rivales de la región del Este quedaron sujetos al Gran Rey de la Gloria.
 
-18\. 'Pero la Rueda maravillosa, Ânanda, tras sumergirse en las grandes aguas del Este, volvió a emerger y rodó hacia la región del Sur. [Y allí ocurrió todo lo que había sucedido <span id="p254">[<sup><small>p. 254</small></sup>]</span> en la región del Este. Y de igual manera, la Rueda maravillosa rodó hasta el límite más extremo del Oeste y del Norte; y allí también ocurrió todo lo que había sucedido en la región del Este.\].
+18\. 'Pero la Rueda maravillosa, Ânanda, tras sumergirse en las grandes aguas del Este, volvió a emerger y rodó hacia la región del Sur. [Y allí ocurrió todo lo que había sucedido <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> en la región del Este. Y de igual manera, la Rueda maravillosa rodó hasta el límite más extremo del Oeste y del Norte; y allí también ocurrió todo lo que había sucedido en la región del Este.\].
 
 19\. 'Ahora bien, cuando la maravillosa Rueda, Ânanda, hubo salido conquistando y para conquistar toda la tierra hasta su mismo límite oceánico, regresó de nuevo a la ciudad real de Kusâvatî y permaneció fija en la terraza abierta frente a la entrada de los aposentos interiores del Gran Rey de la Gloria, como un glorioso adorno para los aposentos interiores del Gran Rey de la Gloria.
 
@@ -114,7 +114,7 @@ elefantes y hombres.
 
 21\. 'Ahora además, Ânanda, se le apareció al Gran Rey de la Gloria el Tesoro del Elefante[^14], todo blanco, siete veces firme[^15], maravilloso en poder, volando por el cielo—el Rey Elefante, cuyo nombre era “Los Cambios de la Luna[^16]”.
 
-22\. 'Cuando lo vio, el Gran Rey de la Gloria se sintió complacido al pensar: <span id="p255">[<sup><small>p. 255</small></sup>]</span> '“¡Sería auspicioso montar ese Elefante, si tan solo se sometiera a ser controlado!”
+22\. 'Cuando lo vio, el Gran Rey de la Gloria se sintió complacido al pensar: <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> '“¡Sería auspicioso montar ese Elefante, si tan solo se sometiera a ser controlado!”
 
 23\. 'Entonces, Ânanda, el maravilloso Elefante—como un fino elefante de sangre noble bien entrenado desde hacía mucho tiempo—se sometió al control.
 
@@ -128,7 +128,7 @@ elefantes y hombres.
 
 “¡Sería auspicioso montar ese Caballo si tan solo se sometiera a ser controlado!”
 
-28\. 'Entonces, Ânanda, el maravilloso Caballo—como <span id="p256">[<sup><small>p. 256</small></sup>]</span> un fino caballo de la mejor sangre, bien entrenado desde hacía mucho tiempo—se sometió al control.
+28\. 'Entonces, Ânanda, el maravilloso Caballo—como <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> un fino caballo de la mejor sangre, bien entrenado desde hacía mucho tiempo—se sometió al control.
 
 29\. 'Cuando, como antes, Ânanda, el Gran Rey de la Gloria, para probar ese maravilloso Caballo, montó en él temprano en la mañana, pasó a lo largo de la ancha tierra hasta su mismo límite oceánico, y luego regresó de nuevo, a tiempo para el desayuno, a la ciudad real de Kusâvatî.
 
@@ -174,7 +174,7 @@ elefantes y hombres.
 
 «Es aquí, oh Tesorero, donde necesito oro amarillo».
 
-44\. 'Entonces el maravilloso Tesorero extendió ambas manos hasta el agua y sacó una jarra <span id="p259">[<sup><small>p. 259</small></sup>]</span> llena de oro amarillo, y le dijo al Gran Rey de la Gloria:
+44\. 'Entonces el maravilloso Tesorero extendió ambas manos hasta el agua y sacó una jarra <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> llena de oro amarillo, y le dijo al Gran Rey de la Gloria:
 
 “¿Es suficiente, oh Gran Rey? ¿He hecho suficiente, oh Gran Rey?”
 
@@ -236,7 +236,7 @@ elefantes y hombres.
 
 57\. 'Ahora bien, al Gran Rey de la Gloria, Ânanda, se le ocurrió el pensamiento:
 
-"Supongamos, ahora, que yo hiciera estanques de lotos <span id="p262">[<sup><small>p. 262</small></sup>]</span> en los espacios entre estas palmas, cada cien longitudes de arco".
+"Supongamos, ahora, que yo hiciera estanques de lotos <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> en los espacios entre estas palmas, cada cien longitudes de arco".
 
 'Entonces, Ânanda, el Gran Rey de la Gloria, en los espacios entre esas palmas, a distancias de cien longitudes de arco, hizo estanques de lotos.
 
@@ -286,7 +286,7 @@ elefantes y hombres.
 
 ---
 
-67\. 'Ahora bien, Ânanda, cuando Sakka, el rey de los dioses, percibió en su mente los pensamientos que <span id="p265">[<sup><small>p. 265</small></sup>]</span> albergaba el corazón del Gran Rey de la Gloria, se dirigió a Vissakamma, el dios[^29], y dijo:
+67\. 'Ahora bien, Ânanda, cuando Sakka, el rey de los dioses, percibió en su mente los pensamientos que <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> albergaba el corazón del Gran Rey de la Gloria, se dirigió a Vissakamma, el dios[^29], y dijo:
 
 “Ven ahora, Vissakamma, créame una mansión para el Gran Rey de la Gloria, un palacio que se llamará 'Rectitud[^30]'”.
 
@@ -340,7 +340,7 @@ elefantes y hombres.
 
 79\. 'El Palacio de la Rectitud, Ânanda, estaba rodeado por dos redes de campanas. Una era de oro y la otra de plata.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span> La red de oro tenía campanillas de plata, y la red de plata tenía campanillas de oro.
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> La red de oro tenía campanillas de plata, y la red de plata tenía campanillas de oro.
 
 80\. 'Y cuando aquellas redes de campanas, Ânanda, fueron sacudidas por el viento, surgió un sonido dulce, agradable, encantador y embriagador.
 
@@ -372,7 +372,7 @@ elefantes y hombres.
 
 88\. 'El Lago de la Rectitud, Ânanda, estaba rodeado por siete hileras de palmeras. Una hilera era de palmeras de oro, otra de plata, otra de berilo, otra de cristal, otra de ágata, otra de coral y otra de todo tipo de gemas.
 
-89\. 'Y las palmas de oro tenían troncos de oro, y hojas y frutos de plata. Y las palmas de plata tenían troncos de plata, y hojas y frutos de oro. Y las palmas de berilo tenían troncos de berilo, <span id="p270">[<sup><small>p. 270</small></sup>]</span>, y hojas y frutos de cristal. Y las palmas de cristal tenían troncos de cristal, y hojas y frutos de berilo. Y las palmas de ágata tenían troncos de ágata, y hojas y frutos de coral. Y las palmas de coral tenían troncos de coral, y hojas y frutos de ágata. Y las palmas de todo tipo de gema tenían troncos, hojas y frutos de todo tipo de gema.
+89\. 'Y las palmas de oro tenían troncos de oro, y hojas y frutos de plata. Y las palmas de plata tenían troncos de plata, y hojas y frutos de oro. Y las palmas de berilo tenían troncos de berilo, <span id="p270"><sup><small>[ p. 270 ]</small></sup></span>, y hojas y frutos de cristal. Y las palmas de cristal tenían troncos de cristal, y hojas y frutos de berilo. Y las palmas de ágata tenían troncos de ágata, y hojas y frutos de coral. Y las palmas de coral tenían troncos de coral, y hojas y frutos de ágata. Y las palmas de todo tipo de gema tenían troncos, hojas y frutos de todo tipo de gema.
 
 90\. 'Y cuando aquellas hileras de palmeras, Ânanda, fueron sacudidas por el viento, surgió un sonido dulce, agradable, encantador y embriagador.
 

@@ -148,7 +148,7 @@ Una vez le preguntaron al Rabino Ulah: «¿Hasta qué punto debe extenderse este
 
 Él respondió:
 
-Escuchen, y les contaré cuán minuciosamente lo observó un pagano, Damah, hijo de Netina. Era comerciante de diamantes, y los sabios deseaban comprarle <span id="p297">[<sup><small>p. 297</small></sup>]</span> una joya para el efod del sumo sacerdote. Al llegar a su casa, descubrieron que la llave de la caja fuerte donde se guardaba el diamante estaba en posesión del padre de Damah, quien dormía. El hijo se negó rotundamente a despertar a su padre para obtener la llave, incluso cuando los sabios, impacientes, le ofrecieron una suma mucho mayor por la joya de la que había exigido. Además, cuando su padre despertó y entregó el diamante a los compradores, quienes le ofrecieron la suma mayor que le habían pedido, tomó su primer precio y les devolvió el resto, diciendo: «No me aprovecharé del honor de mi padre».
+Escuchen, y les contaré cuán minuciosamente lo observó un pagano, Damah, hijo de Netina. Era comerciante de diamantes, y los sabios deseaban comprarle <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> una joya para el efod del sumo sacerdote. Al llegar a su casa, descubrieron que la llave de la caja fuerte donde se guardaba el diamante estaba en posesión del padre de Damah, quien dormía. El hijo se negó rotundamente a despertar a su padre para obtener la llave, incluso cuando los sabios, impacientes, le ofrecieron una suma mucho mayor por la joya de la que había exigido. Además, cuando su padre despertó y entregó el diamante a los compradores, quienes le ofrecieron la suma mayor que le habían pedido, tomó su primer precio y les devolvió el resto, diciendo: «No me aprovecharé del honor de mi padre».
 
 ---
 
@@ -476,7 +476,7 @@ Alejandro se dirigió a las puertas del Paraíso y llamó para entrar.
 
 «No lo conocemos», respondió el ángel; «ésta es la puerta del Señor; sólo los justos entran por aquí».
 
-Alejandro pidió algo que demostrara que había llegado a las puertas del Paraíso, y le dieron un pequeño trozo de cráneo. Se lo mostró a sus sabios, quienes lo colocaron en una balanza. Alejandro vertió oro <span id="p314">[<sup><small>p. 314</small></sup>]</span> y plata en la otra balanza, pero el hueso pequeño pesaba más; vertió más, añadiendo las joyas de su corona, su diadema; pero aun así, el hueso pesaba más que todos. Entonces, uno de los sabios, tomando un grano de polvo del suelo, lo colocó sobre el hueso, y he aquí que la balanza voló.
+Alejandro pidió algo que demostrara que había llegado a las puertas del Paraíso, y le dieron un pequeño trozo de cráneo. Se lo mostró a sus sabios, quienes lo colocaron en una balanza. Alejandro vertió oro <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> y plata en la otra balanza, pero el hueso pequeño pesaba más; vertió más, añadiendo las joyas de su corona, su diadema; pero aun así, el hueso pesaba más que todos. Entonces, uno de los sabios, tomando un grano de polvo del suelo, lo colocó sobre el hueso, y he aquí que la balanza voló.
 
 El hueso era lo que rodea el ojo del hombre; el ojo del hombre que nada puede satisfacer excepto el polvo que lo cubre en la tumba.
 
@@ -634,7 +634,7 @@ Este último lo saludó y le preguntó:
 
 «¿Cómo —preguntó el rabino Meir— explicarías el versículo: “Mejor es el fin de un asunto que su principio»? Si un hombre compra mercancías en su juventud y sufre pérdidas, ¿es probable que recupere su fortuna en la vejez? O, si una persona estudia la ley de Dios en su juventud y la olvida, ¿es probable que la recuerde en su vejez?”
 
-«Tu maestro, Akiba, no dijo eso», respondió Elishah; «explicó el versículo: ‘Mejor es el fin de las cosas cuando <span id="p321">[<sup><small>p. 321</small></sup>]</span> el principio fue bueno’. Mi propia vida demuestra la solidez de esta explicación. El día en que fui admitido en el pacto de Abraham, mi padre ofreció un gran banquete. Algunos de sus visitantes cantaron, otros bailaron, pero los rabinos conversaron sobre la sabiduría de Dios y sus leyes. Esto último agradó a mi padre, Abuyah, quien dijo: ‘Cuando mi hijo crezca, le enseñaréis y será como vosotros; él no me hizo estudiar por amor a Dios, sino solo para darme a conocer. Por lo tanto, en mis últimos días me he vuelto malvado y apóstata; y ahora, regresa a casa’».
+«Tu maestro, Akiba, no dijo eso», respondió Elishah; «explicó el versículo: ‘Mejor es el fin de las cosas cuando <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> el principio fue bueno’. Mi propia vida demuestra la solidez de esta explicación. El día en que fui admitido en el pacto de Abraham, mi padre ofreció un gran banquete. Algunos de sus visitantes cantaron, otros bailaron, pero los rabinos conversaron sobre la sabiduría de Dios y sus leyes. Esto último agradó a mi padre, Abuyah, quien dijo: ‘Cuando mi hijo crezca, le enseñaréis y será como vosotros; él no me hizo estudiar por amor a Dios, sino solo para darme a conocer. Por lo tanto, en mis últimos días me he vuelto malvado y apóstata; y ahora, regresa a casa’».
 
 «¿Y por qué?»
 

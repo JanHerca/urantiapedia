@@ -46,7 +46,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. [^503] (El maestro dice): “Felizmente, dios Savit_ri_, pueda alcanzar la meta con este NN”—aquí pronuncia los dos nombres (del estudiante).
 
-7\. [^504] Con (el verso), «Que las diosas nos protejan para la dicha; que las aguas nos den de beber. Que nos inunden de dicha y felicidad» —ambos se secan. <span id="p151">[<sup><small>p. 151</small></sup>]</span>
+7\. [^504] Con (el verso), «Que las diosas nos protejan para la dicha; que las aguas nos den de beber. Que nos inunden de dicha y felicidad» —ambos se secan. <span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 8\. [^505] Entonces (el maestro) toca con su mano derecha el hombro derecho (del niño), y con su mano izquierda su hombro izquierdo, y atrae el brazo derecho (del niño) hacia sí con el Vyâh<i>ri</i>tis, el verso Sâvitrî, ​​y con (la fórmula), '¡Por el impulso del dios Savit_ri_, con los brazos de los dos A<i>ri</i>vins, con las manos de Pûshan te inicio, NN!'
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 «Por impulso del dios Savitri, conviértete en discípulo de Brihaspati. Come agua. Pon combustible. Cumple con el servicio. No duermas durante el día», así le instruye el maestro.
 
-11\. [^508] Entonces (el maestro) mueve gradualmente su mano derecha <span id="p152">[<sup><small>p. 152</small></sup>]</span> hacia abajo sobre el hombro derecho (del niño) y toca el lugar de su corazón con (las fórmulas), 'Tu corazón morará en mi corazón; mi mente seguirás con tu mente; en mi palabra te regocijarás con todo tu corazón; ¡que B<i>ri</i>haspati te una a mí!'
+11\. [^508] Entonces (el maestro) mueve gradualmente su mano derecha <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> hacia abajo sobre el hombro derecho (del niño) y toca el lugar de su corazón con (las fórmulas), 'Tu corazón morará en mi corazón; mi mente seguirás con tu mente; en mi palabra te regocijarás con todo tu corazón; ¡que B<i>ri</i>haspati te una a mí!'
 
 Solo a mí te adherirás. En mí morarán tus pensamientos. Hacia mí se dirigirá tu veneración. Cuando yo hable, callarás.
 
@@ -74,7 +74,7 @@ Y (de nuevo las fórmulas),
 
 '¡Suva_h_! Te coloco en los Sâmans, en Sûrya, en el cielo, en el ojo, en el Brahman, ¡NN!
 
-¡Que yo sea amado (?) y querido para ti, NN! <span id="p153">[<sup><small>p. 153</small></sup>]</span> ¡Que yo sea amado para ti, el fuego (?), NN! ¡Vivamos aquí! ¡Vivamos en el aliento y la vida! ¡Vivamos en el aliento y la vida, NN!
+¡Que yo sea amado (?) y querido para ti, NN! <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> ¡Que yo sea amado para ti, el fuego (?), NN! ¡Vivamos aquí! ¡Vivamos en el aliento y la vida! ¡Vivamos en el aliento y la vida, NN!
 
 14\. [^510] Luego agarra con su mano derecha la mano derecha (del niño) junto con el pulgar, con las cinco secciones, 'Agni es de larga vida'.
 
@@ -92,7 +92,7 @@ Y (de nuevo las fórmulas),
 
 4\. [^512] Acercando su boca a la del niño, murmura: «Que Indra te dé inteligencia, que la diosa Sarasvati te la conceda. Que los dos Asvins, coronados de loto, te concedan inteligencia».
 
-5\. [^513] Luego le da (al niño) a cargo (de los dioses y demonios, con las fórmulas), 'A Kashaka (?) te <span id="p154">[<sup><small>p. 154</small></sup>]</span> te doy a cargo. A Antaka te doy a cargo. A Aghora (“el no temible”) te doy a cargo. A la Enfermedad . . . a Yama . . . a Makha . . . a Va<i>s</i>inî (“la diosa gobernante”) . . . a la tierra junto con Vai<i>s</i>vânara . . . a las aguas . . . a las hierbas . . . a los árboles . . . al Cielo y la Tierra . . . al bienestar . . . al brillo sagrado . . . a los devas Visve... a todos los seres... a todas las deidades te encargo.'
+5\. [^513] Luego le da (al niño) a cargo (de los dioses y demonios, con las fórmulas), 'A Kashaka (?) te <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> te doy a cargo. A Antaka te doy a cargo. A Aghora (“el no temible”) te doy a cargo. A la Enfermedad . . . a Yama . . . a Makha . . . a Va<i>s</i>inî (“la diosa gobernante”) . . . a la tierra junto con Vai<i>s</i>vânara . . . a las aguas . . . a las hierbas . . . a los árboles . . . al Cielo y la Tierra . . . al bienestar . . . al brillo sagrado . . . a los devas Visve... a todos los seres... a todas las deidades te encargo.'
 
 6\. [^514] Ahora le enseña el Sâvitrî, ​​si ya ha sido iniciado antes.
 
@@ -128,7 +128,7 @@ Y (de nuevo las fórmulas),
 
 2\. [^517] Pone uno de estos trozos de madera al fuego con el mantra: «A Agni le he traído un trozo de madera, al gran Gâtavedas. Como te inflamas, Agni, a través de ese trozo de madera, inflama a mí con sabiduría, perspicacia, descendencia, ganado, brillo sagrado y con el disfrute de la comida. ¡Svâhâ!»
 
-3\. (Luego pone al fuego) dos (trozos de madera con el mismo Mantra, usando el dual en lugar del <span id="p156">[<sup><small>p. 156</small></sup>]</span> singular), 'A Agni (le he traído) dos trozos de madera;'
+3\. (Luego pone al fuego) dos (trozos de madera con el mismo Mantra, usando el dual en lugar del <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> singular), 'A Agni (le he traído) dos trozos de madera;'
 
 4\. (Luego) cuatro (pedazos de madera, usando el plural), 'A Agni (le he traído) pedazos de madera.'
 
@@ -148,7 +148,7 @@ Y (de nuevo las fórmulas),
 
 12\. [^521] Luego le da un regalo opcional a su Gurú (es decir, al maestro).
 
-13\. [^522] (El maestro) lo hace levantarse con (el verso que el estudiante recita), "¡Arriba! con vida" (Taitt. Sa<i>m</i>h. I, 2, 8, 1); lo pone a cargo (del sol) con (las palabras), "¡Sol! Este es tu hijo; te lo pongo a cargo"; y adora al sol con (el mantra), "Ese ojo brillante creado por los dioses que se levanta en el este: que lo veamos cien otoños; que vivamos cien otoños; que <span id="p157">[<sup><small>p. 157</small></sup>]</span> nos regocijemos cien otoños; que nos alegremos cien otoños; que prosperemos cien otoños; que escuchemos cien otoños; que hablemos cien otoños; que vivamos sin decaer cien otoños; y que veamos el sol por mucho tiempo".
+13\. [^522] (El maestro) lo hace levantarse con (el verso que el estudiante recita), "¡Arriba! con vida" (Taitt. Sa<i>m</i>h. I, 2, 8, 1); lo pone a cargo (del sol) con (las palabras), "¡Sol! Este es tu hijo; te lo pongo a cargo"; y adora al sol con (el mantra), "Ese ojo brillante creado por los dioses que se levanta en el este: que lo veamos cien otoños; que vivamos cien otoños; que <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> nos regocijemos cien otoños; que nos alegremos cien otoños; que prosperemos cien otoños; que escuchemos cien otoños; que hablemos cien otoños; que vivamos sin decaer cien otoños; y que veamos el sol por mucho tiempo".
 
 14\. [^523] «Que Agni te conceda aún más vida. Que Agni te conceda aún más dicha. Que Indra, con los Maruts, te lo conceda; que el sol, con los Vasus, te lo conceda». Con este verso, el maestro le entrega un bastón y un cuenco para recoger limosnas.
 
@@ -164,7 +164,7 @@ Y (de nuevo las fórmulas),
 
 20\. [^526] «Que todos los dioses te bendigan, cuya primera prenda aceptamos. Que después de ti, el próspero, el bien nacido, nazcan muchos hermanos y amigos». Con este verso, el maestro toma la prenda anterior del estudiante.
 
-21\. Cuando la comida (con la que se agasajará a los brahmanes) esté lista, (el estudiante) toma una porción de arroz hervido, pasteles y harina, mezcla <span id="p158">[<sup><small>p. 158</small></sup>]</span> (estas sustancias) con mantequilla clarificada y ofrece el sacrificio con (las fórmulas): «¡A Agni svâhâ! ¡A Soma svâhâ! ¡A Agni, el que come, svâhâ! ¡A Agni, el señor de los alimentos, svâhâ! ¡A Pra<i>n</i>pati svâhâ! ¡A los devas vinve svâhâ! ¡A todas las deidades svâhâ!» ¡A Agni Svish<i>n</i>ak<i>n</i>t svâhâ!'
+21\. Cuando la comida (con la que se agasajará a los brahmanes) esté lista, (el estudiante) toma una porción de arroz hervido, pasteles y harina, mezcla <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> (estas sustancias) con mantequilla clarificada y ofrece el sacrificio con (las fórmulas): «¡A Agni svâhâ! ¡A Soma svâhâ! ¡A Agni, el que come, svâhâ! ¡A Agni, el señor de los alimentos, svâhâ! ¡A Pra<i>n</i>pati svâhâ! ¡A los devas vinve svâhâ! ¡A todas las deidades svâhâ!» ¡A Agni Svish<i>n</i>ak<i>n</i>t svâhâ!'
 
 22\. Así, pues, que sacrifique en cualquier lugar donde no estén indicadas las deidades a las que se ofrecerán.
 
@@ -181,7 +181,7 @@ Y (de nuevo las fórmulas),
 
 1\. [^530] Mantiene durante tres días el voto (siguiente):
 
-2\. [^531] No come alimentos picantes ni salados, ni verduras; duerme en el suelo; no bebe de una vasija de barro; no da los restos de su comida a un sudra; no come miel ni carne; no duerme durante el día; <span id="p159">[<sup><small>p. 159</small></sup>]</span> por la mañana y por la tarde trae (a su maestro) la comida que ha recibido como limosna y una olla de agua; todos los días trae un haz de leña; por la mañana y por la tarde, o diariamente por la tarde, echa combustible (al fuego, de la siguiente manera):
+2\. [^531] No come alimentos picantes ni salados, ni verduras; duerme en el suelo; no bebe de una vasija de barro; no da los restos de su comida a un sudra; no come miel ni carne; no duerme durante el día; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> por la mañana y por la tarde trae (a su maestro) la comida que ha recibido como limosna y una olla de agua; todos los días trae un haz de leña; por la mañana y por la tarde, o diariamente por la tarde, echa combustible (al fuego, de la siguiente manera):
 
 3\. [^532] Antes de rociar (agua) alrededor (del fuego), limpia (con su mano mojada) de izquierda a derecha alrededor (del fuego) con el verso: 'Como has soltado, oh Vasus, la vaca-búfalo' (Taitt. Sa<i>m</i>h. IV, 7, 15, 7), y rocía (agua) alrededor (del fuego) como arriba.
 
@@ -195,7 +195,7 @@ Y (de nuevo las fórmulas),
 
 Que la perspicacia, la fragante, que asume todas las formas, la dorada, la móvil, venga a mí. Rica en savia, henchida de leche, que ella, la perspicacia, la de rostro encantador, se regocije en mí. ¡Svâhâ!
 
-5\. [^534] Después de limpiar el fuego de la misma manera, rocía agua alrededor como se indicó anteriormente. <span id="p160">[<sup><small>p. 160</small></sup>]</span>
+5\. [^534] Después de limpiar el fuego de la misma manera, rocía agua alrededor como se indicó anteriormente. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 6\. [^535] Él adora al fuego con los mantras: 'Que yo con ello pueda manifestar lo que es tu esplendor, Agni' (Taitt. Sa<i>m</i>h. III, 5, 3, 2), y 'Que en mí la visión, en mí la descendencia' (Taitt. Âra<i>m</i>yaka X, 44).
 
@@ -213,7 +213,7 @@ Que la perspicacia, la fragante, que asume todas las formas, la dorada, la móvi
 
 13\. No tiene relaciones sexuales con mujeres.
 
-14\. [^540] (El período de estudiante dura) cuarenta y ocho años, o <span id="p161">[<sup><small>p. 161</small></sup>]</span> veinticuatro (años), o doce (años), o hasta que haya aprendido (el Veda).
+14\. [^540] (El período de estudiante dura) cuarenta y ocho años, o <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> veinticuatro (años), o doce (años), o hasta que haya aprendido (el Veda).
 
 15\. Sin embargo, no debe omitir el cumplimiento de las observancias.
 

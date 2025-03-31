@@ -72,7 +72,7 @@ Los héroes (de la fe) que desisten (de los pecados) y se esfuerzan correctament
 
 No soy yo solo quien sufre, sufren todas las criaturas del mundo; esto debería considerarlo un hombre sabio [^734] y debería soportar con paciencia (las calamidades) que le suceden, sin dejarse llevar por sus pasiones. (13)
 
-Así como una pared revestida con yeso (de estiércol de vaca seco) [^735] se adelgaza con un golpe, así también (un monje) debe adelgazar su cuerpo mediante el ayuno, etc. Debe <span id="p252">[<sup><small>p. 252</small></sup>]</span> abstenerse de matar seres vivos. Esta es la Ley proclamada por el Sabio. (14)
+Así como una pared revestida con yeso (de estiércol de vaca seco) [^735] se adelgaza con un golpe, así también (un monje) debe adelgazar su cuerpo mediante el ayuno, etc. Debe <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> abstenerse de matar seres vivos. Esta es la Ley proclamada por el Sabio. (14)
 
 Así como un pájaro cubierto de polvo se sacude para quitarse el polvo gris, así también un Brâhma<i>n</i>a [^736] digno y austero que hace penitencia aniquila su Karman. (15)
 
@@ -86,7 +86,7 @@ Su padre y su madre, sus hijos y su esposa que lo reclaman, le amonestarán: “
 
 Algunas personas se apegan (tontamente) a otras, y por ello se dejan engañar; los injustos les hacen adoptar la injusticia, y ellos se regocijan en su maldad. (20)
 
-Por lo tanto, un hombre digno y sabio debe ser <span id="p253">[<sup><small>p. 253</small></sup>]</span> cuidadoso, abandonando el pecado y siendo plenamente feliz. Los virtuosos héroes de la fe (han elegido) el gran camino, el sendero recto y seguro hacia la perfección. (21)
+Por lo tanto, un hombre digno y sabio debe ser <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> cuidadoso, abandonando el pecado y siendo plenamente feliz. Los virtuosos héroes de la fe (han elegido) el gran camino, el sendero recto y seguro hacia la perfección. (21)
 
 Aquel que ha entrado en el camino que lleva a la destrucción (de Karman) [^737], que controla su mente, palabra y cuerpo, que ha abandonado sus posesiones y relaciones y todos los compromisos, debe caminar sometiendo sus sentidos. (22)
 

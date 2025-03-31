@@ -62,7 +62,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. Habiendo cocido granos de cebada con leche,
 
-4\. Sacrificará con los dos versos: «Tú <span id="p135">[<sup><small>p. 135</small></sup>]</span> nos tienes, Agni» (Rig-veda IV, 1, 4. 5), (y con los versos): «Propiciamos tu ira» (I, 24, 14), «Esta mi oración, Varu<i>n</i>a» (I, 25, 19), «Desata al más alto, Varu<i>n</i>a» (I, 24, 15), «Esta oración del hombre que se ejercita» (VIII, 42, 3),
+4\. Sacrificará con los dos versos: «Tú <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> nos tienes, Agni» (Rig-veda IV, 1, 4. 5), (y con los versos): «Propiciamos tu ira» (I, 24, 14), «Esta mi oración, Varu<i>n</i>a» (I, 25, 19), «Desata al más alto, Varu<i>n</i>a» (I, 24, 15), «Esta oración del hombre que se ejercita» (VIII, 42, 3),
 
 5\. [^302]. (Y con las palabras), 'El doméstico, el que se aleja de la casa, el refrescante, el que entra en la perrera, el que habita en la perrera, el que sale de ella, el codicioso, el destructor de enemigos'—a las diferentes direcciones (del horizonte), comenzando por la que pertenece a Varu<i>n</i>a (es decir, el oeste), de izquierda a derecha.
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. (Y) habiendo preparado un plato de comida cocinada,
 
-3\. Sacrificará con (las fórmulas), «¡A <span id="p136">[<sup><small>p. 136</small></sup>]</span> Vish<i>n</i>u svâhâ! ¡A Indra y Agni svâhâ! ¡A Vi<i>n</i>karman svâhâ!» (y con los versos), «A quienes los hombres» (Rig-veda III, 8, 6 y siguientes), verso por verso.
+3\. Sacrificará con (las fórmulas), «¡A <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Vish<i>n</i>u svâhâ! ¡A Indra y Agni svâhâ! ¡A Vi<i>n</i>karman svâhâ!» (y con los versos), «A quienes los hombres» (Rig-veda III, 8, 6 y siguientes), verso por verso.
 
 4\. Recita sobre (el jardín): “¡Oh árbol con tus cien ramas!” (Rig-veda III, 8, 11).
 
@@ -104,7 +104,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Si una paloma o un búho se posa (sobre su casa),
 
-2\. Que sacrifique con (el himno), «Oh dioses, la paloma» (Rig-veda X, 165), verso por verso. <span id="p137">[<sup><small>p. 137</small></sup>]</span>
+2\. Que sacrifique con (el himno), «Oh dioses, la paloma» (Rig-veda X, 165), verso por verso. <span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 3\. Si ha tenido un mal sueño o un suceso que presagia desgracia,
 
@@ -146,7 +146,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^305]. Si (su esposa) da a luz un hijo, sin que se haya realizado el Sîmantonnayana,
 
-2\. [^306]. (O si) no se ha realizado el <i>G</i>âtakarman (para el niño), <span id="p138">[<sup><small>p. 138</small></sup>]</span>
+2\. [^306]. (O si) no se ha realizado el <i>G</i>âtakarman (para el niño), <span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 3 [^307]. Coloca, cuando han transcurrido diez días desde (el parto), al niño pequeño en el regazo de la madre,
 
@@ -170,7 +170,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## KHANDA 9.
 
-1\. [^312]. Ahora (sigue) el Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139">[<sup><small>p. 139</small></sup>]</span>
+1\. [^312]. Ahora (sigue) el Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 2 [^313]. Que llene cuatro cántaros de agua (para los Manes) desde el padre hacia arriba,
 

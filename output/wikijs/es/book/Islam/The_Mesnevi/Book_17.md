@@ -29,7 +29,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 ## XVII. Conclusión.
 
@@ -56,7 +56,7 @@ Muerde la palabra material, sin soñar con espada;
 Se enfada con el dictamen duro e inflexible, con entusiasmo cariñoso;
 <sup id="v10"><small>10</small></sup> Y lo encuentras córneo, pedernal, molesto de digerir.
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 Se ha convertido en piedra. Hiere, hace brotar sangre.
 Entonces evítalo, camello humano. No lo busques para comer.

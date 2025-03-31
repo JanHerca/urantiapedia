@@ -44,7 +44,7 @@ dateCreated: 2025-2-12T13:0:36Z
 
 '¡Que tengas una buena parte de felicidad [^1395], como el rey Husravah!
 
-Que tengas fuerza para alcanzar el Rangha, cuyo camino es lejano, como lo hizo Vafra Navâza [^1396]. <span id="p329">[<sup><small>p. 329</small></sup>]</span> 3\. Que nazcan diez hijos de tu propio cuerpo [^1397]! Tres como Âthravans [^1398], tres como guerreros [^1399], tres como labradores de la tierra [^1400]! Que uno de ellos sea como <i>G</i>âmâspa [^1401], para que te bendiga con una felicidad cada vez mayor [^1402]!
+Que tengas fuerza para alcanzar el Rangha, cuyo camino es lejano, como lo hizo Vafra Navâza [^1396]. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 3\. Que nazcan diez hijos de tu propio cuerpo [^1397]! Tres como Âthravans [^1398], tres como guerreros [^1399], tres como labradores de la tierra [^1400]! Que uno de ellos sea como <i>G</i>âmâspa [^1401], para que te bendiga con una felicidad cada vez mayor [^1402]!
 
 4\. 'Que puedas ser liberado de la enfermedad y de la muerte, como Peshô-tanu [^1403].
 
@@ -76,7 +76,7 @@ Que tengas fuerza para alcanzar el Rangha, cuyo camino es lejano, como lo hizo V
 
 9\. Pâre<i>n</i>di [^1413], del carro ligero, sigue: '¡Que puedas [^1414] manifestarte ante él, el joven rey Vî<i>s</i>tâspa!
 
-¡Que la abundancia habite en esta casa, que se yergue sobre altas columnas y es rica en alimentos! Nunca <span id="p331">[<sup><small>p. 331</small></sup>]</span> ofrecerás ni darás comida insípida a un sacerdote: pues un sacerdote debe ser para ti como el más brillante [^1416] descendiente de tu propia sangre.
+¡Que la abundancia habite en esta casa, que se yergue sobre altas columnas y es rica en alimentos! Nunca <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> ofrecerás ni darás comida insípida a un sacerdote: pues un sacerdote debe ser para ti como el más brillante [^1416] descendiente de tu propia sangre.
 
 10\. Zaratustra le habló: «¡Oh joven rey Vî<i>s</i>tâspa!
 
@@ -90,7 +90,7 @@ Que tengas fuerza para alcanzar el Rangha, cuyo camino es lejano, como lo hizo V
 
 ## III.
 
-13\. 'Cuando te enseño, para que puedas hacer lo mismo con tu hijo [^1420], ¡oh Vî<i>s</i>tâspa!, recibe bien esa enseñanza; eso te hará rico en hijos y rico en leche; rico en semilla, en grasa, en leche [^1421]. <span id="p332">[<sup><small>p. 332</small></sup>]</span> 14\. 'Así te anunciamos, Ahura Mazda, y Sraosha, y Ashi, y la Ley de los adoradores de Mazda, con la totalidad de todos sus himnos, con la totalidad de todos sus actos, con la totalidad de sus actuaciones; la Ley de Mazda, que obtiene sus deseos, que hace crecer el mundo, que escucha las canciones y regocija al hombre fiel con su deseo; que protege al hombre fiel, que mantiene al hombre fiel;
+13\. 'Cuando te enseño, para que puedas hacer lo mismo con tu hijo [^1420], ¡oh Vî<i>s</i>tâspa!, recibe bien esa enseñanza; eso te hará rico en hijos y rico en leche; rico en semilla, en grasa, en leche [^1421]. <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 14\. 'Así te anunciamos, Ahura Mazda, y Sraosha, y Ashi, y la Ley de los adoradores de Mazda, con la totalidad de todos sus himnos, con la totalidad de todos sus actos, con la totalidad de sus actuaciones; la Ley de Mazda, que obtiene sus deseos, que hace crecer el mundo, que escucha las canciones y regocija al hombre fiel con su deseo; que protege al hombre fiel, que mantiene al hombre fiel;
 
 15\. 'De quien proviene el conocimiento de la santidad y el aumento de la santidad del mundo del Principio santo, y sin quien [^1422] ningún hombre fiel [^1423] puede conocer la santidad.
 
@@ -100,7 +100,7 @@ Que tengas fuerza para alcanzar el Rangha, cuyo camino es lejano, como lo hizo V
 
 17\. 'Todo joven de buenos pensamientos, buenas palabras, buenas obras y buena religión; todo joven que habla las palabras correctas; todo aquel que realiza el matrimonio entre parientes [^1426]; todo sacerdote itinerante; toda ama de casa; todo sacerdote errante, obediente a la Ley.
 
-18\. 'A ti acuden todos los ejecutantes [^1427] (de la santidad), todos los maestros de la santidad, quienes, en número de <span id="p333">[<sup><small>p. 333</small></sup>]</span> treinta y tres [^1428], están junto a Hâvani, siendo maestros de la santidad.
+18\. 'A ti acuden todos los ejecutantes [^1427] (de la santidad), todos los maestros de la santidad, quienes, en número de <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> treinta y tres [^1428], están junto a Hâvani, siendo maestros de la santidad.
 
 19\. ¡Que estén plenamente protegidos [^1429] en ti, oh joven rey Vî<i>s</i>tâspa! Mientras aniquilas a tus adversarios, a tus enemigos, a quienes te odian, cien veces cien por cien [^1430], mil veces mil por mil, diez mil veces diez mil por diez mil, miríadas de miríadas por miríadas.
 
@@ -132,7 +132,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 26\. 'Proclama estas oraciones: ellas limpiarán tu cuerpo de actos de lujuria [^1434], ¡oh joven rey Vî<i>s</i>tâspa!
 
-«Te adoraré, oh Fuego, hijo de Ahura Mazda, valiente guerrero. Cae sobre el demonio Ku<i>n</i>da [^1435], ebrio sin beber, sobre los hombres de la Droga, los perezosos [^1436], los malvados adoradores de Daêva, que viven en pecado. <span id="p335">[<sup><small>p. 335</small></sup>]</span> 27\. «Él [^1437] tiembla ante el camino [^1438] trazado por el Tiempo y abierto tanto a los malvados como a los justos.»
+«Te adoraré, oh Fuego, hijo de Ahura Mazda, valiente guerrero. Cae sobre el demonio Ku<i>n</i>da [^1435], ebrio sin beber, sobre los hombres de la Droga, los perezosos [^1436], los malvados adoradores de Daêva, que viven en pecado. <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> 27\. «Él [^1437] tiembla ante el camino [^1438] trazado por el Tiempo y abierto tanto a los malvados como a los justos.»
 
 'Ellos [^1439] tiemblan al perfume de su alma [^1440], como lo hace una oveja sobre la cual cae un lobo.
 
@@ -156,7 +156,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 32\. «¡Escúchame! ¡Perdóname!» —Nosotros, los Amesha-Spe<i>n</i>tas, vendremos y te mostraremos, ¡oh Zaratustra!, el camino a ese mundo [^1456], a la larga gloria en el mundo espiritual, a la larga felicidad del alma en el Paraíso.
 
-33\. 'A la dicha y al Paraíso, al Garô-nmâna de Ahura Mazda, bellamente hecho y completamente adornado, <span id="p337">[<sup><small>p. 337</small></sup>]</span> cuando su alma abandone su cuerpo por voluntad del destino, cuando yo, Ahura Mazda, cuando yo, Ahura Mazda, le muestre gentilmente el camino que pide.
+33\. 'A la dicha y al Paraíso, al Garô-nmâna de Ahura Mazda, bellamente hecho y completamente adornado, <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> cuando su alma abandone su cuerpo por voluntad del destino, cuando yo, Ahura Mazda, cuando yo, Ahura Mazda, le muestre gentilmente el camino que pide.
 
 'Ashem Vohû: La santidad es el mejor de todos los bienes...
 
@@ -218,7 +218,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 45\. 'Que recibas [^1478], ¡oh santo joven rey Vî<i>s</i>tâspa! (una casa) con cien . . . . [^1479], diez mil ventanas grandes, diez mil ventanas pequeñas, todo el año [^1480], ¡oh santo Vî<i>s</i>tâspa! que nunca envejece, nunca muere, nunca decae, nunca se pudre, que da abundante carne, abundante comida, abundante ropa a los demás adoradores de Mazda.
 
-46\. «¡Que te sean concedidas todas las bendiciones, como te lo proclamo! ¡Que los Amesha-Spe<i>n</i>tas te concedan su brillo, gloria y abundancia [^1481]! Que le den caballos veloces y ágiles e hijos bondadosos, fuertes, grandes en todo, capaces de cantar los himnos. <span id="p341">[<sup><small>p. 341</small></sup>]</span> 47\. «Él ejerce su poder según el deseo de Ahura Mazda, el Espíritu Bueno, y para la destrucción del Espíritu Maligno, el que de dos hombres sea más rápido en realizar un sacrificio (a Ahura); pero si elige realizar el sacrificio y la oración a nosotros de forma incorrecta, no ejerce el poder correcto, no reinará [^1482].
+46\. «¡Que te sean concedidas todas las bendiciones, como te lo proclamo! ¡Que los Amesha-Spe<i>n</i>tas te concedan su brillo, gloria y abundancia [^1481]! Que le den caballos veloces y ágiles e hijos bondadosos, fuertes, grandes en todo, capaces de cantar los himnos. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> 47\. «Él ejerce su poder según el deseo de Ahura Mazda, el Espíritu Bueno, y para la destrucción del Espíritu Maligno, el que de dos hombres sea más rápido en realizar un sacrificio (a Ahura); pero si elige realizar el sacrificio y la oración a nosotros de forma incorrecta, no ejerce el poder correcto, no reinará [^1482].
 
 48\. 'Recibirá maltrato en el otro mundo, aunque haya sido soberano de un país, con buenos caballos para montar y buenos carros para conducir. ¡Concédele la realeza a ese hombre, oh Zaratustra!, que te da la realeza con buena voluntad [^1483].
 
@@ -226,7 +226,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 50\. 'No me entregues [^1485] en manos del demonio [^1486]; si el demonio me atrapa, la fiebre, con la pérdida de toda alegría, secará la leche del buen Spe<i>n</i>ta-Ârmaiti [^1487]. El demonio es poderoso para afligir y secar la leche de la mujer que se entrega a la lujuria y de todas las hembras.
 
-51\. 'El perfume del fuego, agradable al Hacedor, <span id="p342">[<sup><small>p. 342</small></sup>]</span> Ahura Mazda, los aleja [^1488] de lejos; . . . . [^1489]; y todos aquellos que dañan la creación del Buen Espíritu son destruidos [^1490];
+51\. 'El perfume del fuego, agradable al Hacedor, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> Ahura Mazda, los aleja [^1488] de lejos; . . . . [^1489]; y todos aquellos que dañan la creación del Buen Espíritu son destruidos [^1490];
 
 52\. 'A quien Mitra, y Rashnu Razi<i>s</i>sta, y la Ley de los adoradores de Mazda desean que se los lleve lejos, anhelando a un hombre que esté ansioso por realizar y realice las ceremonias que se le han enseñado; . . . [^1491]
 
@@ -240,7 +240,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 54\. Ahura Mazda respondió: «¡Oh, hijo mío, Frashao<i>s</i>tra! Se sienta cerca de la cabeza, cantando el U<i>s</i>tavaiti Gâtha y proclamando felicidad: «¡Feliz él, feliz el hombre, quienquiera que sea!».
 
-'En la primera noche, su alma se sienta en Buenas Palabras [^1495]; <span id="p343">[<sup><small>p. 343</small></sup>]</span> en la segunda noche, se sienta en Buenas Obras; en la tercera noche, va por los caminos (hacia Garô-nmâna).
+'En la primera noche, su alma se sienta en Buenas Palabras [^1495]; <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> en la segunda noche, se sienta en Buenas Obras; en la tercera noche, va por los caminos (hacia Garô-nmâna).
 
 55\. 'Al final de la tercera noche, ¡oh, hijo mío, Frashao<i>s</i>tra!, cuando aparece el amanecer, al alma del fiel le parece como si lo trajeran entre plantas y aromas: parece como si soplara un viento del sur, de las regiones del sur\] [^1496], un viento dulcemente perfumado, más dulce que cualquier otro viento del mundo, y le parece a su alma como si inhalara ese viento con la nariz, y pregunta: "¿De dónde sopla ese viento, el viento más dulcemente perfumado que jamás he inhalado con mi nariz?"
 
@@ -250,7 +250,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 58\. 'Y ella, siendo su propia conciencia, le responde: "¡Oh tú, joven de buenos pensamientos, buenas palabras y buenas obras, de buena religión! Yo soy tu propia conciencia.
 
-"Todos te amaban por esa grandeza, bondad, justicia, dulzura, fuerza victoriosa y ausencia de dolor con que te me apareces <span id="p344">[<sup><small>p. 344</small></sup>]</span>; \[y así tú, ¡oh joven de buenos pensamientos, buenas palabras y buenas obras, de buena religión!, me amaste por esa grandeza, bondad, justicia, dulzura, fuerza victoriosa y ausencia de dolor con que me te aparezco.
+"Todos te amaban por esa grandeza, bondad, justicia, dulzura, fuerza victoriosa y ausencia de dolor con que te me apareces <span id="p344"><sup><small>[ p. 344 ]</small></sup></span>; \[y así tú, ¡oh joven de buenos pensamientos, buenas palabras y buenas obras, de buena religión!, me amaste por esa grandeza, bondad, justicia, dulzura, fuerza victoriosa y ausencia de dolor con que me te aparezco.
 
 59\. ' "Cuando veías a un hombre [^1497]\] burlándose y cometiendo actos de idolatría, o rechazando (a los pobres) y cerrando (su puerta), entonces te sentabas, cantando los Gâthas, y adorando a las buenas aguas, y a Âtar, el hijo de Ahura Mazda, y regocijando a los fieles que venían de cerca o de lejos.
 

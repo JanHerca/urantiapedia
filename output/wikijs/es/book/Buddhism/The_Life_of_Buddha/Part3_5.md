@@ -61,7 +61,7 @@ Al sexto mes, tomó un trozo de tela y se lo envolvió. «Está embarazada», pe
 
 Al llegar el noveno mes, ató una bola de madera al grueso cinturón que le ceñía la cintura y, al caminar, adoptó un paso lánguido. Finalmente, una noche, entró en la sala donde el Maestro exponía la ley. Con valentía, lo enfrentó, y su voz estridente interrumpió su discurso.
 
-Dulce es tu voz y melosas tus palabras al instruir al pueblo en la ley. Mientras que yo, que estoy embarazada por tu culpa, yo, que pronto seré madre, ¡ni siquiera tengo un lugar para mi parto! Me negarías el aceite y la mantequilla que necesito. Si te avergonzara cuidar de mí ahora, al menos podrías confiarme a uno de tus discípulos, o al rey Prasenajit, o al comerciante Anathapindika. ¡Pero no! Ya no soy nada para ti, y poco te importa el niño <span id="p235">[<sup><small>p. 235</small></sup>]</span> que nacerá. ¡Conocerías todas las alegrías del amor, pero ignorarías las responsabilidades!
+Dulce es tu voz y melosas tus palabras al instruir al pueblo en la ley. Mientras que yo, que estoy embarazada por tu culpa, yo, que pronto seré madre, ¡ni siquiera tengo un lugar para mi parto! Me negarías el aceite y la mantequilla que necesito. Si te avergonzara cuidar de mí ahora, al menos podrías confiarme a uno de tus discípulos, o al rey Prasenajit, o al comerciante Anathapindika. ¡Pero no! Ya no soy nada para ti, y poco te importa el niño <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> que nacerá. ¡Conocerías todas las alegrías del amor, pero ignorarías las responsabilidades!
 
 —¿Es mentira o dices la verdad, Sinca? —preguntó el Maestro con calma—. Solo tú y yo lo sabemos.
 

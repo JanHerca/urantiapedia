@@ -42,7 +42,7 @@ ADVERTENCIAS, SUPUESTAMENTE DIRIGIDAS AL REY LÎ, SOBRE LAS CUESTIONES DEL CURSO
 
 Esta oda, al igual que la novena de la segunda década, se atribuye al duque Mû de Shâo. La estructura de la pieza es peculiar, pues, tras la primera estrofa, se presenta al rey Wăn lanzando una serie de advertencias a Kâu-hsin, el último rey de la dinastía Shang. Estas advertencias son puestas en boca de Wăn con la esperanza de que Lî, si es que realmente era el monarca que el escritor tenía en mente, se atribuyera la figura de Kâu-hsin y modificara su proceder para evitar una ruina similar.
 
-¡Cuán vasto es Dios, el gobernante de los hombres de abajo! ¡Cuán revestido de terrores está Dios, con muchas cosas irregulares en sus ordenaciones! El Cielo dio origen a las multitudes de personas, pero la naturaleza que confiere es inconmensurable. Todos son buenos <span id="p411">[<sup><small>p. 411</small></sup>]</span> al principio, pero pocos demuestran serlo al final [^554].
+¡Cuán vasto es Dios, el gobernante de los hombres de abajo! ¡Cuán revestido de terrores está Dios, con muchas cosas irregulares en sus ordenaciones! El Cielo dio origen a las multitudes de personas, pero la naturaleza que confiere es inconmensurable. Todos son buenos <span id="p411"><sup><small>[ p. 411 ]</small></sup></span> al principio, pero pocos demuestran serlo al final [^554].
 
 El rey Wăn dijo: «¡Ay! ¡Ay!, soberano de Shang, ¡que tengas ministros tan violentamente opresivos, que tengas cobradores tan extorsivos, que los tengas en cargos, que los tengas al frente de los asuntos! «El cielo los creó con su carácter insolente»; pero eres tú quien los emplea y les das fuerza».
 
@@ -71,13 +71,13 @@ La sexta oda de la séptima década de las Odas Menores del Reino se atribuye al
 
 El comportamiento externo, cauteloso y serio, es un indicio de la virtud (interior). Se dice: «No hay hombre sabio que no sea (también) estúpido». La estupidez del hombre común está determinada por sus defectos (naturales). La estupidez del hombre sabio proviene de su violencia (contra su propio carácter).
 
-Lo más poderoso es el ser humano [^557];— <span id="p414">[<sup><small>p. 414</small></sup>]</span> En todos los ámbitos (del estado) los hombres se ven influenciados por él. A una conducta virtuosa y recta, todos en los cuatro ámbitos del estado rinden obediente homenaje. Con grandes consejos y órdenes firmes, con planes de largo alcance y anuncios oportunos, y con un cuidado reverente de su comportamiento externo, uno se convertirá en el modelo del pueblo.
+Lo más poderoso es el ser humano [^557];— <span id="p414"><sup><small>[ p. 414 ]</small></sup></span> En todos los ámbitos (del estado) los hombres se ven influenciados por él. A una conducta virtuosa y recta, todos en los cuatro ámbitos del estado rinden obediente homenaje. Con grandes consejos y órdenes firmes, con planes de largo alcance y anuncios oportunos, y con un cuidado reverente de su comportamiento externo, uno se convertirá en el modelo del pueblo.
 
 En cuanto a las circunstancias actuales, te inclinas al error y la confusión en tu gobierno. Tu virtud está subvertida; estás obsesionado con la bebida [^558]. Aunque así solo buscas el placer, ¿cómo es que no piensas en tu relación con el pasado y no estudias a fondo a los reyes anteriores para aferrarte a sus sabias leyes?
 
 ¿Acaso aquellos a quienes el gran Cielo no aprueba, como las aguas que brotan de un manantial, no se hundirán en la ruina? Madruga y acuéstate tarde, rocía y barre tu patio; para que sirvas de ejemplo al pueblo [^559]. Mantén en orden tus carros y caballos, tus arcos y flechas, y otras armas de guerra; para estar preparados para la acción bélica, para mantener a distancia a las hordas del sur.
 
-Perfecciona lo que concierne a tus oficiales y gente; <span id="p415">[<sup><small>p. 415</small></sup>]</span> Cumple con tus deberes como príncipe (del reino). Para estar preparado ante peligros imprevistos, sé cauto con lo que dices; sé reverencialmente cuidadoso con tu comportamiento externo; sé amable y correcto en todo. Un defecto en una maza de jade blanco puede ser pulido; pero por un defecto en el habla, nada se puede hacer.
+Perfecciona lo que concierne a tus oficiales y gente; <span id="p415"><sup><small>[ p. 415 ]</small></sup></span> Cumple con tus deberes como príncipe (del reino). Para estar preparado ante peligros imprevistos, sé cauto con lo que dices; sé reverencialmente cuidadoso con tu comportamiento externo; sé amable y correcto en todo. Un defecto en una maza de jade blanco puede ser pulido; pero por un defecto en el habla, nada se puede hacer.
 
 No hables a la ligera; tus palabras son tuyas [^560]. No digas: «Esto es de poca importancia; nadie puede contener mi lengua por mí». Las palabras no deben desecharse. Cada palabra tiene su respuesta; cada buena acción tiene su recompensa. Si eres amable con tus amigos y con el pueblo, como si fueran hijos tuyos, tus descendientes continuarán en línea ininterrumpida, y todo el pueblo te obedecerá sin duda.
 
@@ -103,7 +103,7 @@ EL ESCRITOR LLORA POR LA MISERIA Y EL DESORDEN DE LA ÉPOCA, CON EL FIN DE REPRE
 
 El rey Lî no se menciona por su nombre en la pieza, pero la segunda línea de la estrofa 7 solo puede explicarse a partir de él. Fue expulsado del trono, como consecuencia de su mal gobierno, en el año 842 a. C., y solo salvó la vida huyendo a <i>K</i>ih, un lugar en el actual Ho <i>K</i>âu, departamento de Phing-yang, Shan-hsî, donde permaneció hasta su muerte en el año 828 a. C. Mientras tanto, el gobierno fue continuado por los duques de Shâo y <i>K</i>âu, cuya administración, llamada el período de la «Armonía Mutua», constituye una importante era cronológica en la historia china. Basándose en una referencia en el Ȝo <i>K</i>wan, la pieza se atribuye a un conde de _Z_ui.
 
-Exuberante es ese morero joven, y bajo él, amplia es la sombra; pero arrancarán sus hojas hasta destruirlo por completo [^566]. La angustia <span id="p418">[<sup><small>p. 418</small></sup>]</span> infligida a esta multitud, es una tristeza incesante para mi corazón; mi conmiseración me llena. ¡Oh, tú, Cielo brillante y grande!, ¿no deberías tener compasión de nosotros?
+Exuberante es ese morero joven, y bajo él, amplia es la sombra; pero arrancarán sus hojas hasta destruirlo por completo [^566]. La angustia <span id="p418"><sup><small>[ p. 418 ]</small></sup></span> infligida a esta multitud, es una tristeza incesante para mi corazón; mi conmiseración me llena. ¡Oh, tú, Cielo brillante y grande!, ¿no deberías tener compasión de nosotros?
 
 Los cuatro corceles (galopan), impacientes y fuertes [^567]; los estandartes de la tortuga y la serpiente, y del halcón ondean. El desorden crece, y la paz es imposible. Todo estado se arruina; no hay cabezas negras entre el pueblo [^568]. Todo queda reducido a cenizas por la calamidad. ¡Ay! ¡Ay! La ruina del reino se aproxima.
 
@@ -125,7 +125,7 @@ Brillante era la Vía Láctea, brillando y girando en el cielo. El rey dijo: «�
 
 La sequía es excesiva; sus fervores se vuelven cada vez más atormentadores. No he cesado de ofrecer sacrificios puros; desde los altares fronterizos he ido al templo ancestral [^574]. A los (Poderes) de arriba y de abajo he presentado mis ofrendas y luego las he enterrado [^575]; no hay espíritu al que no haya honrado. Hâu-_k_î no está a la altura de la ocasión; Dios no viene a nosotros. ¡Ojalá cayera sobre mí esta devastación y ruina de nuestro país!
 
-La sequía es excesiva, y no puedo excusarme. Estoy lleno de terror y siento el peligro, como el estruendo de un trueno o un retumbar. Del remanente de Kâu, entre la gente de cabello negro, no quedará ni la mitad de un hombre; ni Dios, desde su gran cielo, me eximirá ni siquiera a mí. ¿Acaso no debemos <span id="p421">[<sup><small>p. 421</small></sup>]</span> unir nuestros temores? (Los sacrificios a) mis antepasados ​​se extinguirán [^576].
+La sequía es excesiva, y no puedo excusarme. Estoy lleno de terror y siento el peligro, como el estruendo de un trueno o un retumbar. Del remanente de Kâu, entre la gente de cabello negro, no quedará ni la mitad de un hombre; ni Dios, desde su gran cielo, me eximirá ni siquiera a mí. ¿Acaso no debemos <span id="p421"><sup><small>[ p. 421 ]</small></sup></span> unir nuestros temores? (Los sacrificios a) mis antepasados ​​se extinguirán [^576].
 
 La sequía es excesiva, y no puede detenerse. Más feroz y ardiente, no me deja lugar. Mi fin está cerca; no tengo a quién mirar, nadie a quién mirar. Los numerosos duques y sus ministros del pasado [^577] no me ayudan. Oh, ustedes, padres y antepasados ​​(más cercanos) [^578], ¿cómo pueden soportar verme así?
 
@@ -145,7 +145,7 @@ CELEBRANDO EL NOMBRAMIENTO POR PARTE DEL REY HSÜAN DE UN PARIENTE PARA SER MARQ
 
 Que el rey que aparece en esta pieza era el rey Hsüan está suficientemente demostrado. Aparece comisionando a «su tío abuelo», hermano mayor, es decir, de su madre, para gobernar como marqués de Shăn y jefe o presidente de los estados del sur del reino, con el fin de defender las fronteras contra las hordas invasoras del sur, encabezadas por los príncipes de Khû, cuyos señores se habían rebelado contra los estados centrales incluso en la época de la dinastía Shang; véase la última de las Odas Sacrificiales de Shang.
 
-Las montañas son majestuosas, con sus grandes masas que se elevan hasta los cielos. De esas montañas descendió un espíritu, que dio nacimiento a (los príncipes de) Fû y Shăn [^584]. Fû y <span id="p424">[<sup><small>p. 424</small></sup>]</span> Shăn son el apoyo de <i>K</i>âu</i>, pantallas para todos los estados, difundiendo (su influencia) sobre las cuatro partes del reino.
+Las montañas son majestuosas, con sus grandes masas que se elevan hasta los cielos. De esas montañas descendió un espíritu, que dio nacimiento a (los príncipes de) Fû y Shăn [^584]. Fû y <span id="p424"><sup><small>[ p. 424 ]</small></sup></span> Shăn son el apoyo de <i>K</i>âu</i>, pantallas para todos los estados, difundiendo (su influencia) sobre las cuatro partes del reino.
 
 El jefe de Shăn es un hombre muy activo, y el rey lo emplearía para continuar los servicios de sus antepasados, con capital en Hsieh [^585], donde serviría de modelo a los estados del sur. El rey encargó al conde de Shâo la organización de la residencia del jefe de Shăn, donde se encargaría de lo necesario para las regiones del sur y donde su posteridad pudiera conservar su mérito.
 
@@ -161,7 +161,7 @@ CELEBRANDO LAS VIRTUDES DE KUNG SHAN-FÛ, QUIEN PARECE HABER SIDO UNO DE LOS PRI
 
 El Cielo, al dar origen a las multitudes del pueblo, a cada facultad y relación le asignó su ley. El pueblo posee esta naturaleza normal, y (en consecuencia) ama su virtud normal [^588]. El Cielo contempló al gobernante de Kâu, impactándolo brillantemente con su conducta en la tierra, y para mantenerlo, su Hijo, dio a luz a Kûng Shan-fû [^589].
 
-El rey Shan-fû partió tras ofrecer sacrificios al espíritu del camino [^590]. Sus cuatro corceles eran fuertes; <span id="p426">[<sup><small>p. 426</small></sup>]</span> Sus hombres estaban alerta; siempre temía no estar a la altura de su misión; sus corceles avanzaban sin detenerse, al son de sus ocho campanas. El rey había encomendado al rey Shan-fû la tarea de fortificar la ciudad en el este.
+El rey Shan-fû partió tras ofrecer sacrificios al espíritu del camino [^590]. Sus cuatro corceles eran fuertes; <span id="p426"><sup><small>[ p. 426 ]</small></sup></span> Sus hombres estaban alerta; siempre temía no estar a la altura de su misión; sus corceles avanzaban sin detenerse, al son de sus ocho campanas. El rey había encomendado al rey Shan-fû la tarea de fortificar la ciudad en el este.
 
 <a id="o7"></a>
 
@@ -188,7 +188,7 @@ Hû fue probablemente el mismo conde de Shâo, mencionado en la oda 5, quien con
 
 El rey encargó a Hû de Shâo: «Has dado a conocer mis órdenes en todas partes y las has cumplido. Cuando los reyes Wăn y Wû recibieron su nombramiento, el duque de Shâo fue su firme apoyo. No solo me tienes consideración, pequeño niño, sino que intentas asemejarte a ese duque de Shâo. Has comenzado y demostrado con ahínco tus méritos; y yo te haré feliz».
 
-«Te doy una gran copa de jade [^591] y un frasco de aguardiente de mijo negro con sabor a hierbas [^592]. He hecho un anuncio al Todopoderoso [^593] y te concedo colinas, tierras y campos. En (<i>Kh</i>î-)_k_âu recibirás la investidura, tal como tu antepasado recibió la suya». Hû se inclinó con la <span id="p428">[<sup><small>p. 428</small></sup>]</span> cabeza abajo (y dijo): «¡Que el Hijo del Cielo viva para siempre!»
+«Te doy una gran copa de jade [^591] y un frasco de aguardiente de mijo negro con sabor a hierbas [^592]. He hecho un anuncio al Todopoderoso [^593] y te concedo colinas, tierras y campos. En (<i>Kh</i>î-)_k_âu recibirás la investidura, tal como tu antepasado recibió la suya». Hû se inclinó con la <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> cabeza abajo (y dijo): «¡Que el Hijo del Cielo viva para siempre!»
 
 <a id="o10"></a>
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 AUGUST MÜLLER: _Die Beherrscher der Gläubigen_. Berlín, 1882. Un boceto escrito de forma muy brillante y basado en un conocimiento profundo.
 
@@ -64,7 +64,7 @@ STANLEY LANE-POOLE: _Una historia de Egipto en la Edad Media_. Nueva York, 1901.
 
 H. L. FLEISCHER: _Briefwechsel zwischen den Anführern der Wahhabiten und dem Pasha von Damaskus_. _Kleinere Schriften_, iii, págs. 341 y sigs. Publicado por primera vez en ZDMG en el año 1857.
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 E. REHATSEK; _La historia de los wahabíes en Arabia y la India_. Revista de la Sociedad Asiática de Bengala. No. xxxviii (léase enero de 1880).
 

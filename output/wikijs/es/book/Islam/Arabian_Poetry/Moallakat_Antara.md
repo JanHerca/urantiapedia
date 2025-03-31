@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/05400.jpg) ¿Los bardos que me precedieron han dejado algún tema sin cantar? _¿Cuál será, pues, mi tema? Sólo el amor debe proporcionarme mi canto_. ¿Recuerdas entonces, después de una larga reflexión, la mansión de tu amada?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Me sentí apegado a ella en nuestra primera entrevista, aunque había matado a sus compatriotas en batalla: te aseguro, por la vida de tu padre, que de mi apego no puede haber ninguna duda.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 8\. _Tú te has apropiado de mi corazón;_ has fijado tu morada en él (no imagines que te engaño), y estás establecido allí como un habitante amado y querido.
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. O como el aroma de un cenador floreciente, cuyas plantas las suaves lluvias han mantenido en continuo verdor, que ninguna suciedad ha manchado, y a la que no se ha recurrido:
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 16\. Cada nube matinal, libre de granizo, la ha empapado con una lluvia abundante, y ha dejado todas las pequeñas cavidades en la tierra redondas y brillantes como monedas de plata:
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. Mueve su cola en su estado de ánimo juguetón y mueve orgullosamente su cuerpo de un lado a otro, incluso al final de su excursión nocturna: golpea las colinas con sus cascos de rápido movimiento y firmeza.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 24\. Así, el pájaro sin orejas, entre cuyos pies hay sólo un pequeño espacio, _el avestruz veloz_ golpea el suelo en su curso vespertino.
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. _Cuando descansa_, se agacha en la suave orilla del Ridaa, y gime de fatiga, como la caña que suena suave, que presiona con su peso.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 33\. _Su sudor_ se asemeja a una espesa capa o brea tenaz, que el fuego encendido hace burbujear en las paredes de un caldero;
 
@@ -124,7 +124,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 41\. Y cuando vuelva a la sobriedad, el rocío de mi liberalidad continúa tan fresco como antes: da el debido honor, por tanto, a aquellas cualidades que sabes que poseo.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 42\. A muchos consortes de una bella, cuya belleza no requería adornos, los he dejado postrados en el suelo; y la sangre vital ha corrido resonante de sus venas, abiertas por mi jabalina, como la boca de un camello con el labio partido:
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. Tiene este brazo tendido boca abajo con un golpe rápido de una jabalina bien enderezada, firme entre los nudos:
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 50\. Anchos eran los labios de la herida; y el ruido de la sangre que corría llamaba a los lobos, que rondaban en la noche y estaban hambrientos:
 
@@ -160,7 +160,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 57\. Entonces lo ataqué con mi lanza; lo herí en el corazón con una cimitarra india, cuya hoja era de un agua brillante, y rápido fue el golpe que dio:
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 58\. Un guerrero, cuya armadura parecía estar apoyada en un árbol alto; un jefe que, como un rey, calzaba sandalias de cuero manchado con espinas egipcias: un héroe, sin igual.
 
@@ -180,7 +180,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 66\. Cuando mi tribu me ha colocado como escudo entre ellos y las lanzas hostiles, no he rechazado innoblemente el peligro, aunque el lugar donde fijé mi pie era demasiado estrecho para admitir un compañero.
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 67\. Cuando oí el estruendo de Morra que se alzaba en el campo, y los hijos de Rabeia en la espesa polvareda;
 
@@ -200,7 +200,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 75\. Si hubiera sabido el arte del discurso, se habría dirigido a mí en tono quejoso; y si hubiera poseído la facultad de la palabra, me habría hablado con claridad.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 76\. En medio del polvo negro, los caballos corrían impetuosamente con rostros desfigurados; cada semental robusto y cada macho de pelo corto y miembros fuertes.
 

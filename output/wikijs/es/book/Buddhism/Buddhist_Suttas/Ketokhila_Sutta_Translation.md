@@ -50,7 +50,7 @@ Entonces el Bendito habló:
 
 3\. '¿Y quién no se ha liberado de las cinco clases de esterilidad espiritual?'
 
-'En primer lugar, oh Bhikkhus, cuando un hermano <span id="p224">[<sup><small>p. 224</small></sup>]</span> duda del Maestro (Satthâ), está inseguro respecto a él, no tiene confianza en él ni fe en él; entonces su mente no está inclinada hacia el celo, el esfuerzo, la perseverancia y la lucha.
+'En primer lugar, oh Bhikkhus, cuando un hermano <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> duda del Maestro (Satthâ), está inseguro respecto a él, no tiene confianza en él ni fe en él; entonces su mente no está inclinada hacia el celo, el esfuerzo, la perseverancia y la lucha.
 
 'Pero aquel cuya mente no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no se ha liberado de esta primera esterilidad espiritual.
 
@@ -66,7 +66,7 @@ Entonces el Bendito habló:
 
 'Pero aquel cuya mente no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no se ha liberado de esta cuarta esterilidad espiritual.
 
-7\. 'Y además, oh Bhikkhus, cuando un hermano está enojado con sus condiscípulos, descontento con <span id="p225">[<sup><small>p. 225</small></sup>]</span> ellos, excitado contra ellos, estéril hacia ellos, la mente del hermano, oh Bhikkhus, así enojado con sus condiscípulos, descontento con ellos, excitado contra ellos, estéril hacia ellos no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha.
+7\. 'Y además, oh Bhikkhus, cuando un hermano está enojado con sus condiscípulos, descontento con <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> ellos, excitado contra ellos, estéril hacia ellos, la mente del hermano, oh Bhikkhus, así enojado con sus condiscípulos, descontento con ellos, excitado contra ellos, estéril hacia ellos no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha.
 
 'Pero aquel cuya mente no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no se ha liberado de esta quinta esterilidad espiritual.
 
@@ -82,7 +82,7 @@ Entonces el Bendito habló:
 
 'Pero aquella mente cuya inclinación no se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, no ha roto esta primera esclavitud espiritual.
 
-9\. 'Y además, oh Bhikkhus, cuando un hermano no se ha librado de la pasión por un cuerpo[^4] (kâye), <span id="p226">[<sup><small>p. 226</small></sup>]</span> no se ha librado del deseo por un cuerpo, no se ha librado de la atracción por un cuerpo, no se ha librado de la sed por un cuerpo, no se ha librado de la fiebre por un cuerpo, no se ha librado del anhelo por un cuerpo.—
+9\. 'Y además, oh Bhikkhus, cuando un hermano no se ha librado de la pasión por un cuerpo[^4] (kâye), <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> no se ha librado del deseo por un cuerpo, no se ha librado de la atracción por un cuerpo, no se ha librado de la sed por un cuerpo, no se ha librado de la fiebre por un cuerpo, no se ha librado del anhelo por un cuerpo.—
 
 'Oh Bhikkhus, cualquier hermano que no se haya librado de la pasión por un cuerpo, no se haya librado del deseo por un cuerpo, no se haya librado de la atracción por un cuerpo, no se haya librado de la sed por un cuerpo, no se haya librado de la fiebre por un cuerpo, no se haya librado del anhelo por un cuerpo, su mente no se inclina al celo, al esfuerzo, a la perseverancia y a la lucha.
 
@@ -128,7 +128,7 @@ Entonces el Bendito habló:
 
 'Pero aquel cuya mente se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, se habrá liberado de esta segunda esterilidad espiritual.
 
-17\. 'Y además, oh Bhikkhus, cuando un hermano <span id="p229">[<sup><small>p. 229</small></sup>]</span> no duda de la Hermandad (Sangha), no está inseguro de ella, tiene confianza en ella y tiene fe en ella; entonces su mente se inclina al celo, al esfuerzo, a la perseverancia y a la lucha.
+17\. 'Y además, oh Bhikkhus, cuando un hermano <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> no duda de la Hermandad (Sangha), no está inseguro de ella, tiene confianza en ella y tiene fe en ella; entonces su mente se inclina al celo, al esfuerzo, a la perseverancia y a la lucha.
 
 'Pero aquel cuya mente se inclina hacia el celo, el esfuerzo, la perseverancia y la lucha, se habrá liberado de esta tercera esterilidad espiritual.
 
@@ -182,7 +182,7 @@ Pero aquella mente cuya inclinación sea hacia el celo, el esfuerzo, la persever
 
 ---
 
-26\. Practica el (primer) camino a la santidad, que va acompañado de la unión de la voluntad para alcanzarla con la contemplación ferviente y con la lucha contra el pecado. Practica el (segundo) camino a la santidad, que va acompañado de la unión del esfuerzo con la contemplación ferviente y con la lucha contra el pecado. Practica el (tercer) camino a la santidad, que va acompañado de la unión del pensamiento con la contemplación ferviente y con la lucha contra el pecado. Practica el (cuarto) camino a la santidad, que va acompañado de la unión de la investigación con la contemplación ferviente <span id="p233">[<sup><small>p. 233</small></sup>]</span> y la lucha contra el pecado[^8], y también una firme determinación como quinto.
+26\. Practica el (primer) camino a la santidad, que va acompañado de la unión de la voluntad para alcanzarla con la contemplación ferviente y con la lucha contra el pecado. Practica el (segundo) camino a la santidad, que va acompañado de la unión del esfuerzo con la contemplación ferviente y con la lucha contra el pecado. Practica el (tercer) camino a la santidad, que va acompañado de la unión del pensamiento con la contemplación ferviente y con la lucha contra el pecado. Practica el (cuarto) camino a la santidad, que va acompañado de la unión de la investigación con la contemplación ferviente <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> y la lucha contra el pecado[^8], y también una firme determinación como quinto.
 
 27\. 'El hermano, oh Bhikkhus, así dotado de quince determinaciones[^9], se vuelve destinado a salir a la luz, capaz de la sabiduría superior, seguro de alcanzar la seguridad suprema[^10].
 

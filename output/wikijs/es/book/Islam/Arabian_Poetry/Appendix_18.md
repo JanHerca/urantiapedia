@@ -29,7 +29,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p468">[<sup><small>p. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 \[Al comparar la siguiente traducción del famoso poema de Et-Tugrā‘ī, que el Sr. Redhouse amablemente hizo para este volumen, con la versión del Dr. Carlyle (pp. [153](./Shorter_Pieces#p153)\-[161](./Shorter_Pieces#p161)), se observará que, en algunos casos, el verdadero significado del original se pierde en la versión métrica. Algunos detalles sobre el autor, etc., se dan en las pp. [433](./Appendix_14#p433)\-[435](./Appendix_14#p435).\]
 
@@ -51,7 +51,7 @@ La firmeza de la visión me ha protegido de la precipitación; y el adorno de la
 
 9\. Pero la fortuna invierte mis deseos y me hace contentarme con un regreso a casa, en lugar de riquezas que siguen a un esfuerzo serio.
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 10\. Y entonces, aquel hombre bien proporcionado, como la parte superior de una lanza, sosteniendo a su semejante entre su pierna y su silla de montar: no pusilánime, y no dependiendo de otro;
 
@@ -105,7 +105,7 @@ La firmeza de la visión me ha protegido de la precipitación; y el adorno de la
 
 35\. En verdad, todos los asuntos graves me han hecho entender que la gloria reside en las migraciones \[y ellos dicen la verdad en ese respecto\].
 
-<span id="p471">[<sup><small>p. 471</small></sup>]</span>
+<span id="p471"><sup><small>[ p. 471 ]</small></sup></span>
 
 36\. Si en la gloria de una reparación hubiera un logro del deseo, el sol nunca se movería del signo de Aries \[su casa de exaltación\].
 
@@ -131,7 +131,7 @@ La firmeza de la visión me ha protegido de la precipitación; y el adorno de la
 
 47\. Entonces ten paciencia con esto, sin urdir estratagemas ni sentirte molesto. En el evento venidero del tiempo hay algo que te hará independiente de las estratagemas.
 
-<span id="p472">[<sup><small>p. 472</small></sup>]</span>
+<span id="p472"><sup><small>[ p. 472 ]</small></sup></span>
 
 48\. Tu enemigo más virulento es el más cercano de aquellos en quienes has confiado. Entonces, ten cuidado con los hombres y asóciate con ellos en términos de desconfianza.
 

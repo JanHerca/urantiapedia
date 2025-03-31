@@ -124,7 +124,7 @@ Se le puede reconocer por esta marca de que almacena el contentamiento como su r
 El rey habita con aquellos que no escuchan los consejos y no son agradecidos por lo que reciben.
 Nanak, esclavo de esclavos, representa, _Oh Dios_, que en un momento haces lo pequeño grande y lo grande pequeño.[^6]
 
-Chatur Das solicitó más información. «Señor, ¿se obtendrá el nombre de Dios mediante lo que enseñamos a la gente y lo que aprendemos nosotros mismos?». El Gurú preguntó a su vez: «Oh, maestro religioso, ¿qué has leído? ¿Qué enseñas a la gente y qué conocimiento comunicas a tus discípulos?». El pandit respondió: «Por la voluntad de Dios, enseño a la gente las catorce ciencias: lectura, natación, medicina, alquimia, astrología, cantar los seis râgs y sus raginis, la ciencia del goce sexual, la gramática, la música, la equitación, la danza, el tiro con arco, la teología y la política». El Gurú respondió que, por encima de todo esto, estaba el conocimiento de Dios. A lo que respondió repitió la larga composición llamada el Oamkar del Rag <span id="p64">[<sup><small>p. 64</small></sup>]</span> Ramkali, cuyos dos primeros pauris o estrofas son los siguientes:
+Chatur Das solicitó más información. «Señor, ¿se obtendrá el nombre de Dios mediante lo que enseñamos a la gente y lo que aprendemos nosotros mismos?». El Gurú preguntó a su vez: «Oh, maestro religioso, ¿qué has leído? ¿Qué enseñas a la gente y qué conocimiento comunicas a tus discípulos?». El pandit respondió: «Por la voluntad de Dios, enseño a la gente las catorce ciencias: lectura, natación, medicina, alquimia, astrología, cantar los seis râgs y sus raginis, la ciencia del goce sexual, la gramática, la música, la equitación, la danza, el tiro con arco, la teología y la política». El Gurú respondió que, por encima de todo esto, estaba el conocimiento de Dios. A lo que respondió repitió la larga composición llamada el Oamkar del Rag <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> Ramkali, cuyos dos primeros pauris o estrofas son los siguientes:
 
 Es el único Dios quien creó a Brahma;[^1]
 Es el único Dios quien creó nuestro entendimiento;
@@ -198,7 +198,7 @@ Huecos son los lamentos que nos rodean. En un instante, los bienes de un hombre 
 Obtendrá aquellas cosas en las cuales ha puesto su corazón.[^1]
 Dice Nanak: «Oh mortal, en la cuarta vigilia el segador ha segado el campo».[^2]
 
-Al amanecer, el hijo del comerciante de grano murió, y este y sus familiares salieron llorando y lamentándose. Mardana le preguntó al Gurú qué repentino cambio de fortuna les había sobrevenido a quienes ayer habían estado enfrascados en sus celebraciones <span id="p68">[<sup><small>p. 68</small></sup>]</span> y saturnales. Entonces el Gurú pronunció lo siguiente sobre las vicisitudes de la vida humana:
+Al amanecer, el hijo del comerciante de grano murió, y este y sus familiares salieron llorando y lamentándose. Mardana le preguntó al Gurú qué repentino cambio de fortuna les había sobrevenido a quienes ayer habían estado enfrascados en sus celebraciones <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> y saturnales. Entonces el Gurú pronunció lo siguiente sobre las vicisitudes de la vida humana:
 
 Aquellos a cuyos rostros se dirigieron felicitaciones y cientos de miles de bendiciones,
 Ahora golpead sus cabezas con dolor; y sus mentes y cuerpos sufrirán agonía.

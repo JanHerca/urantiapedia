@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 EN EL NOMBRE DE DIOS, EL TODO MISERICORDIOSO, EL MUY COMPASIVO.
 
@@ -56,7 +56,7 @@ Los ojos y los oídos de los hombres no captan su tren.
 Aunque el alma y el cuerpo sean como uno solo,
 Vista de su alma no tiene ningún hombre ganado.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Una llama es el gemido de la flauta; ni un soplo,
 Esa llama que no siente, lo condena a muerte.
@@ -93,7 +93,7 @@ La habilidad del viejo Galeno no te sirvió de nada
 A través del amor, este marco terrenal asciende
 <sup id="v25"><small>25</small></sup> Al cielo; una colina, para saltar finge.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 En trance de amor, el monte Sinaí tiembla,
 En el descenso de Dios; 'y Moisés tiembla.'[^56]

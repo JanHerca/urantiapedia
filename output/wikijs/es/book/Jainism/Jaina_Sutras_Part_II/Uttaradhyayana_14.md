@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:57:49Z
 
 DECIMOCUARTA CONFERENCIA. ISHUKÂRA.
 
-Habiendo sido dioses en una existencia anterior y vivido en la misma región celestial, algunos nacieron (aquí abajo) en la antigua, rica y famosa <span id="p62">[<sup><small>p. 62</small></sup>]</span> ciudad llamada Ishukâra [^175], que es hermosa como el cielo. (1)
+Habiendo sido dioses en una existencia anterior y vivido en la misma región celestial, algunos nacieron (aquí abajo) en la antigua, rica y famosa <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> ciudad llamada Ishukâra [^175], que es hermosa como el cielo. (1)
 
 Gracias a un remanente del mérito adquirido en su vida anterior, nacieron en familias nobles. Disgustados del mundo y temerosos del Samsara, abandonaron los placeres y se refugiaron en el camino de las Ginas. (2)
 
@@ -50,7 +50,7 @@ Aversivos a los placeres humanos y celestiales, deseando la liberación y llenos
 
 Para disuadirlos de una vida de austeridades, el padre respondió a aquellos (futuros) monjes: 'Los versados ​​en los Vêdas dicen que no habrá un mundo mejor para los hombres sin hijos. (8)
 
-«Hijos míos, después de haber estudiado los Vêdas y de haber alimentado a los sacerdotes, después de haber puesto a sus propios hijos <span id="p63">[<sup><small>p. 63</small></sup>]</span> al frente de su casa, y después de haber disfrutado de la vida junto con sus esposas, entonces podrán partir hacia los bosques como sabios dignos de elogio.» (9)
+«Hijos míos, después de haber estudiado los Vêdas y de haber alimentado a los sacerdotes, después de haber puesto a sus propios hijos <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> al frente de su casa, y después de haber disfrutado de la vida junto con sus esposas, entonces podrán partir hacia los bosques como sabios dignos de elogio.» (9)
 
 Los jóvenes, percibiendo que el Purôhita estaba completamente consumido, por así decirlo, por el fuego del dolor, alimentado por sus inclinaciones individuales y convertido en una enorme llama por el viento del engaño; que sufría mucho y hablaba mucho de muchas maneras; que trataba de persuadirlos poco a poco, y que incluso los sobornaba con dinero y con objetos de deseo, (dijeron) estas palabras: (10, 11)
 
@@ -64,7 +64,7 @@ Tengo esto, y no tengo aquello; ¡debo hacer esto, y no debo hacer aquello! Mien
 
 Gran riqueza, mujeres, familia y placeres exquisitos: para ello se practican austeridades. Todo esto lo puedes conseguir con solo pedirlo. (16)
 
-¿De qué sirven las riquezas para la práctica de la religión, una familia, placeres? Nos convertiremos en <span id="p64">[<sup><small>p. 64</small></sup>]</span> <i>s</i>rama<i>n</i>as, poseedores de muchas virtudes, y vagaremos por ahí pidiendo limosna.» (17)
+¿De qué sirven las riquezas para la práctica de la religión, una familia, placeres? Nos convertiremos en <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> <i>s</i>rama<i>n</i>as, poseedores de muchas virtudes, y vagaremos por ahí pidiendo limosna.» (17)
 
 «Así como el fuego se produce en la madera de Ara<i>n</i>i, la mantequilla en la leche y el aceite en la semilla de sésamo, así, hijos míos, el alma [^176] se produce en el cuerpo; (todas estas cosas) no existían antes, llegaron a existir y luego perecen; pero no son permanentes.» (18)
 
@@ -74,7 +74,7 @@ Así, ignorando la Ley, cometimos pecados en el pasado, y por nuestra mala menta
 
 “Mientras la humanidad es acosada (por uno), y atrapada (por el otro), y mientras los infalibles pasan, no nos deleitamos en la vida de un cabeza de familia.” (21)
 
-¿Quién atormenta al mundo? ¿Quién se apodera de él? <span id="p65">[<sup><small>p. 65</small></sup>]</span> ¿A quién llaman infalible? Hijos míos, estoy ansioso por aprender esto. (22)
+¿Quién atormenta al mundo? ¿Quién se apodera de él? <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> ¿A quién llaman infalible? Hijos míos, estoy ansioso por aprender esto. (22)
 
 “La humanidad está acosada por la Muerte; la Vejez se apodera de ella; los días [^178] se llaman inagotables: ¡sabe esto, Padre! (23)
 
@@ -88,7 +88,7 @@ Así, ignorando la Ley, cometimos pecados en el pasado, y por nuestra mala menta
 
 Adoptaremos la Ley ahora mismo, tras la cual no naceremos de nuevo. El futuro no nos reserva nada (que no hayamos experimentado ya). La fe nos permitirá dejar de lado el apego. (28)
 
-(Bh<i>ri</i>gu habla con su esposa Vâsish<i>th</i>î.) «La vida doméstica <span id="p66">[<sup><small>p. 66</small></sup>]</span> deja de ser atractiva para quien ha perdido a sus hijos; Vâsish<i>th</i>î, ha llegado el momento de convertirme en fraile mendicante. Mientras un árbol conserve sus ramas, es realmente un árbol; cuando se podan, se le llama tronco.» (29)
+(Bh<i>ri</i>gu habla con su esposa Vâsish<i>th</i>î.) «La vida doméstica <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> deja de ser atractiva para quien ha perdido a sus hijos; Vâsish<i>th</i>î, ha llegado el momento de convertirme en fraile mendicante. Mientras un árbol conserve sus ramas, es realmente un árbol; cuando se podan, se le llama tronco.» (29)
 
 «Como un pájaro sin alas, como un rey en la batalla sin sus seguidores, como un comerciante en un barco sin sus mercancías, así soy yo sin mis hijos.» (30)
 
@@ -102,7 +102,7 @@ Querida mía, como una serpiente se despoja de su cuerpo y sigue su camino libre
 
 'Así como el pez Rôhita [^180] rompe una red débil, así también los hombres sabios de carácter ejemplar y famosos por sus austeridades abandonan el placer y viven como mendigos. (35)
 
-Como las garzas vuelan por el aire, y también los gansos, que habían roto la red, así también mis hijos y <span id="p67">[<sup><small>p. 67</small></sup>]</span> mi esposo parten. ¿Por qué, quedándome sola, no habría de seguirlos?» (36)
+Como las garzas vuelan por el aire, y también los gansos, que habían roto la red, así también mis hijos y <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> mi esposo parten. ¿Por qué, quedándome sola, no habría de seguirlos?» (36)
 
 Cuando la reina oyó que el Purôhita con su esposa e hijos había entrado en la orden, abandonando los placeres y todas sus grandes propiedades, habló al rey: (37)
 
@@ -118,7 +118,7 @@ Cuando la reina oyó que el Purôhita con su esposa e hijos había entrado en la
 
 'Aquellos que han disfrutado de los placeres y han renunciado a ellos, se mueven como el viento y van a donde les place, como los pájaros que no tienen freno en su vuelo. (44)
 
-«Cuando los [^182] atrapo y los sostengo con mi mano, <span id="p68">[<sup><small>p. 68</small></sup>]</span> señor, luchan; seremos como ellos si nos apegamos a los placeres. (45)
+«Cuando los [^182] atrapo y los sostengo con mi mano, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> señor, luchan; seremos como ellos si nos apegamos a los placeres. (45)
 
 "Así como un pájaro que no ha sido cebado [^183] ve a uno cebado atrapado en la trampa, así también nosotros evitaremos todo cebo y caminaremos sin dejarnos cebar por nada. (46)
 

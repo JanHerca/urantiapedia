@@ -42,9 +42,9 @@ dateCreated: 2025-1-15T22:57:51Z
 
 3 [^836]. Aquel que, después de haber realizado ese trabajo y descansado de nuevo, y después de haber unido una esencia (el yo) con la otra (la materia), con uno, dos, tres u ocho, también con el tiempo y con las cualidades sutiles de la mente,
 
-4\. Quien, tras iniciar [^837] las obras dotadas de (las tres) cualidades, puede ordenar todas las cosas, pero cuando, en ausencia de todas estas, ha causado la destrucción de la obra, continúa, siendo en verdad [^838] diferente (de todo lo que ha producido); <span id="p261">[<sup><small>p. 261</small></sup>]</span> 5\. Él es el principio, produciendo las causas que unen (el alma con el cuerpo), y, estando <span id="p262">[<sup><small>p. 262</small></sup>]</span> por encima de los tres tipos de tiempo (pasado, presente, futuro), se le ve como sin partes [^839], después de que hayamos adorado primero a ese adorable dios, que tiene muchas formas y que es la verdadera fuente (de todas las cosas), como morando en nuestra propia mente.
+4\. Quien, tras iniciar [^837] las obras dotadas de (las tres) cualidades, puede ordenar todas las cosas, pero cuando, en ausencia de todas estas, ha causado la destrucción de la obra, continúa, siendo en verdad [^838] diferente (de todo lo que ha producido); <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 5\. Él es el principio, produciendo las causas que unen (el alma con el cuerpo), y, estando <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> por encima de los tres tipos de tiempo (pasado, presente, futuro), se le ve como sin partes [^839], después de que hayamos adorado primero a ese adorable dios, que tiene muchas formas y que es la verdadera fuente (de todas las cosas), como morando en nuestra propia mente.
 
-6\. Él está más allá de todas las formas del árbol [^840] (del mundo) y del tiempo; él es el otro, desde quien gira este mundo, cuando [^841] uno ha conocido a quien <span id="p263">[<sup><small>p. 263</small></sup>]</span> trae el bien y elimina el mal, el señor de la dicha, que mora en el ser, el inmortal, el sostén de todo.
+6\. Él está más allá de todas las formas del árbol [^840] (del mundo) y del tiempo; él es el otro, desde quien gira este mundo, cuando [^841] uno ha conocido a quien <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> trae el bien y elimina el mal, el señor de la dicha, que mora en el ser, el inmortal, el sostén de todo.
 
 7\. Conozcamos a ese supremo gran señor de señores [^842], la suprema deidad de deidades, el maestro de maestros, el supremo, como dios, el señor del mundo, el adorable.
 
@@ -54,11 +54,11 @@ dateCreated: 2025-1-15T22:57:51Z
 
 10\. Sólo ese dios que espontáneamente se cubrió, como una araña, con hilos extraídos de la primera causa (pradhâna), nos concede la entrada a Brahman [^845].
 
-11\. Él es el único Dios, oculto en todos los seres, omnipresente, <span id="p264">[<sup><small>p. 264</small></sup>]</span> el ser interior de todos los seres, que vela por todas las obras, que mora en todos los seres, el testigo, el que percibe [^846], el único, libre de cualidades.
+11\. Él es el único Dios, oculto en todos los seres, omnipresente, <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> el ser interior de todos los seres, que vela por todas las obras, que mora en todos los seres, el testigo, el que percibe [^846], el único, libre de cualidades.
 
 12 [^847]. Él es el único gobernante de muchos que (parecen actuar, pero en realidad) no actúan [^848]; él multiplica la semilla única. A los sabios que lo perciben en su interior, a ellos les pertenece la felicidad eterna, no a los demás.
 
-13 [^849]. Él es el eterno entre los eternos, el pensador entre los pensadores, quien, siendo uno, satisface los deseos de muchos. Quien ha conocido la causa que debe ser comprendida por el <i>S</i>âṅkhya (filosofía) y el Yoga (disciplina religiosa), se libera de todas las ataduras. <span id="p265">[<sup><small>p. 265</small></sup>]</span> 14\. El [^850] sol no brilla allí, ni la luna ni las estrellas, ni estos relámpagos, y mucho menos este fuego. Cuando él brilla, todo brilla tras él; su luz ilumina todo.
+13 [^849]. Él es el eterno entre los eternos, el pensador entre los pensadores, quien, siendo uno, satisface los deseos de muchos. Quien ha conocido la causa que debe ser comprendida por el <i>S</i>âṅkhya (filosofía) y el Yoga (disciplina religiosa), se libera de todas las ataduras. <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 14\. El [^850] sol no brilla allí, ni la luna ni las estrellas, ni estos relámpagos, y mucho menos este fuego. Cuando él brilla, todo brilla tras él; su luz ilumina todo.
 
 15\. Él es el único pájaro [^851] en medio del mundo; es también (como) el fuego (del sol) que se ha puesto en el océano. Quien lo conoce verdaderamente, supera la muerte [^852]; no hay otro camino a seguir.
 
@@ -66,13 +66,13 @@ dateCreated: 2025-1-15T22:57:51Z
 
 17\. Aquel que se ha convertido en eso [^856], es el inmortal, sigue siendo el señor, el conocedor, el guardián siempre presente de este mundo, quien gobierna este mundo para siempre, pues nadie más es capaz de gobernarlo.
 
-18\. Buscando la libertad, me refugio en ese Dios que es la luz de sus propios pensamientos [^857], aquel que <span id="p266">[<sup><small>p. 266</small></sup>]</span> primero crea a Brahman (m.) [^858] y le entrega los Vedas;
+18\. Buscando la libertad, me refugio en ese Dios que es la luz de sus propios pensamientos [^857], aquel que <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> primero crea a Brahman (m.) [^858] y le entrega los Vedas;
 
 19\. Quien es sin partes, sin acciones, tranquilo, sin falta, sin mancha [^859], el puente más alto hacia la inmortalidad, como un fuego que ha consumido su combustible.
 
 20\. Sólo cuando los hombres enrollen el cielo como si fuera un cuero, acabará la miseria, a menos que primero se haya conocido a Dios [^860].
 
-21\. Mediante el poder de su penitencia y la gracia de Dios [^861], el sabio <i>Svetâ<i>s</i>vatara ha proclamado con verdad [^862] a Brahman, el más alto y sagrado, ante los mejores ascetas [^863], tal como lo aprobó la compañía de los <i>Ri</i>shis. <span id="p267">[<sup><small>p. 267</small></sup>]</span> 22\. Este misterio supremo del Vedânta, transmitido en una época anterior, no debe ser entregado a quien no haya dominado sus pasiones, ni a quien no sea hijo ni discípulo [^864].
+21\. Mediante el poder de su penitencia y la gracia de Dios [^861], el sabio <i>Svetâ<i>s</i>vatara ha proclamado con verdad [^862] a Brahman, el más alto y sagrado, ante los mejores ascetas [^863], tal como lo aprobó la compañía de los <i>Ri</i>shis. <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> 22\. Este misterio supremo del Vedânta, transmitido en una época anterior, no debe ser entregado a quien no haya dominado sus pasiones, ni a quien no sea hijo ni discípulo [^864].
 
 23\. Si estas verdades han sido dichas a un hombre de espíritu elevado, que siente la más alta devoción por Dios, y por su Gurú como por Dios, entonces brillarán, entonces brillarán verdaderamente.
 

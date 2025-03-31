@@ -39,7 +39,7 @@ El Maestro permaneció en Cravasti un tiempo; luego partió para regresar a Raja
 
 Un día, Anuruddha se dijo a sí mismo que era una vergüenza que ninguno de los Sakyas hubiera considerado oportuno seguir al Buda. Decidió dar buen ejemplo, y como no había motivo para ocultar su intención, se lo mencionó primero a Bhadrika, su mejor amigo. Bhadrika aprobó su decisión y, tras reflexionar, decidió hacer lo mismo. Estos dos convencieron entonces a Ananda, Bhrigu, Kimbala y Devadatta de que no había vocación superior a la de monje.
 
-Los seis príncipes partieron entonces para reunirse con el Buda. <span id="p197">[<sup><small>p. 197</small></sup>]</span> Apenas habían salido de Kapilavastu cuando Ananda, mirando a Bhadrika, exclamó:
+Los seis príncipes partieron entonces para reunirse con el Buda. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> Apenas habían salido de Kapilavastu cuando Ananda, mirando a Bhadrika, exclamó:
 
 —¡Qué tal, Bhadrika! ¿Quieres llevar una vida de santidad y conservas todas tus joyas?
 

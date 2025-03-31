@@ -84,7 +84,7 @@ Y cuando esto hubo dicho, los hermanos guardaron silencio.
 
 ---
 
-11\. Entonces el Bendito entró en la primera <span id="p115">[<sup><small>p. 115</small></sup>]</span> etapa de meditación profunda[^4]. Y, saliendo de la primera etapa, pasó a la segunda. Y, saliendo de la segunda, pasó a la tercera. Y, saliendo de la tercera etapa, pasó a la cuarta. Y, saliendo de la cuarta etapa de meditación profunda, entró en el estado mental donde solo está presente la infinitud del espacio[^5]. Y, saliendo de la mera consciencia de la infinitud del espacio, entró en el estado mental donde solo está presente la infinitud del pensamiento. Y, saliendo de la mera consciencia de la infinitud del pensamiento, entró en un estado mental donde nada en absoluto estaba especialmente presente. Y, saliendo de la consciencia de ningún objeto en particular, cayó en un estado entre la consciencia y la inconsciencia. Y pasando del estado entre la conciencia y la inconsciencia, cayó en un estado en el que la conciencia, tanto de las sensaciones como de las ideas, había desaparecido por completo.
+11\. Entonces el Bendito entró en la primera <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> etapa de meditación profunda[^4]. Y, saliendo de la primera etapa, pasó a la segunda. Y, saliendo de la segunda, pasó a la tercera. Y, saliendo de la tercera etapa, pasó a la cuarta. Y, saliendo de la cuarta etapa de meditación profunda, entró en el estado mental donde solo está presente la infinitud del espacio[^5]. Y, saliendo de la mera consciencia de la infinitud del espacio, entró en el estado mental donde solo está presente la infinitud del pensamiento. Y, saliendo de la mera consciencia de la infinitud del pensamiento, entró en un estado mental donde nada en absoluto estaba especialmente presente. Y, saliendo de la consciencia de ningún objeto en particular, cayó en un estado entre la consciencia y la inconsciencia. Y pasando del estado entre la conciencia y la inconsciencia, cayó en un estado en el que la conciencia, tanto de las sensaciones como de las ideas, había desaparecido por completo.
 
 12\. Entonces el venerable Ânanda le dijo al venerable Anuruddha: “¡Oh, mi Señor, oh, Anuruddha, el Bendito ha muerto!”
 
@@ -103,7 +103,7 @@ Aparte de su forma compleja, esa agregación
 De las cualidades mentales y materiales,  
 Eso les da, o en el cielo o en la tierra,  
 ¡Su fugaz individualidad!  
-Incluso como el maestro, siendo uno de ellos, <span id="p117">[<sup><small>p. 117</small></sup>]</span>  
+Incluso como el maestro, siendo uno de ellos, <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>  
 Inigualable entre todos los hombres que existen,  
 Sucesor de los profetas de antaño,  
 Poderoso en sabiduría y claro en visión—  
@@ -163,7 +163,7 @@ Pero los espíritus libres de pasión la soportan, tranquilos y serenos, conscie
 
 23\. En ese momento, los Mallas de Kusinârâ estaban reunidos en la sala del concilio para tratar ese mismo asunto.
 
-Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y cuando llegó allí, les informó diciendo: 'El <span id="p122">[<sup><small>p. 122</small></sup>]</span> Bendito, oh Vâse<i>tth</i>as, ha muerto; ¡haz, entonces, lo que te parezca bien!'
+Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y cuando llegó allí, les informó diciendo: 'El <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> Bendito, oh Vâse<i>tth</i>as, ha muerto; ¡haz, entonces, lo que te parezca bien!'
 
 24\. Y al oír estas palabras del venerable Ânanda, los Mallas, con sus jóvenes, doncellas y esposas, se sintieron afligidos, tristes y afligidos. Algunos lloraron, despeinándose, otros extendieron los brazos y lloraron, otros se postraron en el suelo, y otros se tambalearon angustiados al pensar: «¡Demasiado pronto ha muerto el Bendito! ¡Demasiado pronto ha fallecido el Feliz! ¡Demasiado pronto se ha apagado la Luz del mundo!».
 
@@ -173,7 +173,7 @@ Y el venerable Ânanda fue a la sala del consejo de los Mallas de Kusinârâ; y 
 
 26\. Los Mallas de Kusinârâ tomaron los perfumes y las guirnaldas, todos los instrumentos musicales y quinientos trajes, y se dirigieron al Upavattana, al Bosque Sala de los Mallas, donde yacía el cuerpo del Bendito. Allí pasaron el día rindiendo honor, reverencia, respeto y homenaje a los restos del Bendito con danzas, himnos, música, guirnaldas y perfumes; y confeccionando doseles con sus vestimentas y preparando coronas decorativas para colgarlas.
 
- <span id="p123">[<sup><small>p. 123</small></sup>]</span> 7\. Entonces los Mallas de Kusinârâ pensaron:
+ <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> 7\. Entonces los Mallas de Kusinârâ pensaron:
 
 Es demasiado tarde para quemar el cuerpo del Bendito hoy. Realicemos la cremación mañana. Y rindiendo honor, reverencia, respeto y homenaje a los restos del Bendito con danzas, himnos, música, guirnaldas y perfumes; y confeccionando palios con sus vestimentas y preparando coronas decorativas para colgarlas, pasaron el segundo día también, y luego el tercero, y el cuarto, y el quinto, y el sexto día también.
 
@@ -205,7 +205,7 @@ Tu propósito, oh Vâsetthas, es este: llevemos el cuerpo del Bendito por el sur
 
 Envuelven el cuerpo de un rey de reyes, Vâse<i>tth</i>as, en una tela nueva. Una vez hecho esto, lo envuelven en algodón. Una vez hecho esto, lo envuelven en una tela nueva, y así sucesivamente hasta que lo han envuelto en quinientas capas sucesivas de ambos tipos. Luego colocan el cuerpo en una vasija de aceite de hierro y la cubren con otra vasija de aceite de hierro. Después construyen una pira funeraria con todo tipo de perfumes y queman el cuerpo del rey de reyes. Y luego, en las cuatro encrucijadas, erigen una dagaba en honor al rey de reyes. Así, Vâse<i>tth</i>as, es como tratan los restos de un rey de reyes.
 
-Y así como tratan los restos de un rey de reyes, así, Vâse<i>tth</i>as, deben tratar los restos del <span id="p126">[<sup><small>p. 126</small></sup>]</span> Tathagata. En las cuatro encrucijadas debe erigirse una dagaba en honor al Tathagata. Y quienquiera que coloque allí guirnaldas, perfumes, pinturas, haga allí un saludo, o se tranquilice en su presencia, eso les será por mucho tiempo un beneficio y una alegría.
+Y así como tratan los restos de un rey de reyes, así, Vâse<i>tth</i>as, deben tratar los restos del <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> Tathagata. En las cuatro encrucijadas debe erigirse una dagaba en honor al Tathagata. Y quienquiera que coloque allí guirnaldas, perfumes, pinturas, haga allí un saludo, o se tranquilice en su presencia, eso les será por mucho tiempo un beneficio y una alegría.
 
 34\. Por lo tanto, los Mallas dieron órdenes a sus asistentes, diciendo: "¡Reúnan todo el algodón cardado de los Mallas!"
 

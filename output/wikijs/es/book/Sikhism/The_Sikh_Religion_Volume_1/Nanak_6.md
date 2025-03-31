@@ -53,7 +53,7 @@ Si tú, oh Esposa mía, no me hablas, ¿cómo podré habitar en tu casa?
 Nanak, excepto Uno no hay nadie más.
 Si tu esposa, oh Esposa, permanece unida a Ti, gozará de Ti.[^4]
 
-Nurshah observó que los hechizos de su pueblo eran inútiles, por mucho que lo intentaran. El Gurú, en la <span id="p74">[<sup><small>p. 74</small></sup>]</span>, al ver sus esfuerzos infructuosos, pronunció el siguiente himno en compás Suhi titulado Kuchajji, o la mujer de mal carácter:
+Nurshah observó que los hechizos de su pueblo eran inútiles, por mucho que lo intentaran. El Gurú, en la <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>, al ver sus esfuerzos infructuosos, pronunció el siguiente himno en compás Suhi titulado Kuchajji, o la mujer de mal carácter:
 
 Soy una mujer inútil; en mí hay faltas; ¿cómo podré ir a gozar de mi Esposo?
 _Las esposas de mi esposo_ son unas mejores que las otras; ¡oh vida mía!, ¿a quién le importo?[^1]
@@ -178,7 +178,7 @@ No sea que al contemplar estas cosas me olvide de Ti, oh Dios, y no recuerde tu 
 Mi alma arde sin Ti.
 Mi Gurú me ha dicho que no hay otro refugio que Dios.
 Si la tierra estuviera tachonada de diamantes y rubíes, y mi sofá estuviera igualmente adornado;
-Eran fascinantes damiselas cuyos rostros estaban adornados con joyas para arrojar brillo y realzar el placer de la escena. <span id="p80">[<sup><small>p. 80</small></sup>]</span> ¡Que al contemplarlas no me olvide de Ti y no recuerde Tu nombre!
+Eran fascinantes damiselas cuyos rostros estaban adornados con joyas para arrojar brillo y realzar el placer de la escena. <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> ¡Que al contemplarlas no me olvide de Ti y no recuerde Tu nombre!
 
 Si yo me convirtiera en un Sidh y obrara milagros, ¿podría ordenar que la riqueza _del universo_ viniera a mí?
 Si pudiera desaparecer y aparecer a mi antojo, y el mundo me honrara;
@@ -223,7 +223,7 @@ El Gurú y Mardana no permanecieron mucho tiempo en aquella aldea. Mardana le pr
 
 Los habitantes de la siguiente aldea a la que llegaron les mostraron gran atención. Sin embargo, permanecieron allí solo una noche y partieron a la mañana siguiente. Al partir, el Gurú ordenó abandonar la aldea. Entonces Mardana comentó: «Señor, has bendecido la aldea donde no se nos permitió sentarnos; y has maldecido a la que nos brindó gran atención y bondad». El Gurú respondió: «Mardana, si la gente de la primera aldea se muda a otra, la arruinarán; pero si la gente de la segunda se muda a otra, la salvarán».
 
-El Gurú regresó de Kamrup por el gran río Brahmaputra y luego realizó un viaje costero hasta Puri, en la Bahía de Bengala, donde se venera especialmente a Vishnu o <span id="p82">[<sup><small>p. 82</small></sup>]</span> Krishan, bajo el nombre de Jagannath, señor del mundo. Al anochecer, cuando se encendían las lámparas, el sumo sacerdote invitaba al Gurú a ponerse de pie y unirse a la adoración del dios, que era de un carácter suntuoso e imponente. En ese rico templo, se hacían ofrendas al dios en bandejas adornadas con perlas. Sobre las bandejas se colocaban flores e incensarios. Se utilizaba un abanico para avivar las llamas del incienso, mientras que las lámparas a su alrededor iluminaban el templo. Pero el uso de estos objetos demostraba una adoración artificial, mientras que la extensión del firmamento, el sol y la luna, la procesión de las estrellas, el incienso natural del sándalo, los vientos y los bosques, eran los accesorios adecuados para la adoración más pura que Nanak le daba al Dios de la creación. Por lo tanto, el Gurú, en lugar de aceptar la invitación del sumo sacerdote a adorar al ídolo, alzó la vista al cielo y entonó el siguiente himno:
+El Gurú regresó de Kamrup por el gran río Brahmaputra y luego realizó un viaje costero hasta Puri, en la Bahía de Bengala, donde se venera especialmente a Vishnu o <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> Krishan, bajo el nombre de Jagannath, señor del mundo. Al anochecer, cuando se encendían las lámparas, el sumo sacerdote invitaba al Gurú a ponerse de pie y unirse a la adoración del dios, que era de un carácter suntuoso e imponente. En ese rico templo, se hacían ofrendas al dios en bandejas adornadas con perlas. Sobre las bandejas se colocaban flores e incensarios. Se utilizaba un abanico para avivar las llamas del incienso, mientras que las lámparas a su alrededor iluminaban el templo. Pero el uso de estos objetos demostraba una adoración artificial, mientras que la extensión del firmamento, el sol y la luna, la procesión de las estrellas, el incienso natural del sándalo, los vientos y los bosques, eran los accesorios adecuados para la adoración más pura que Nanak le daba al Dios de la creación. Por lo tanto, el Gurú, en lugar de aceptar la invitación del sumo sacerdote a adorar al ídolo, alzó la vista al cielo y entonó el siguiente himno:
 
 El sol y la luna, oh Señor, son tus lámparas; el firmamento, tu bandeja; los orbes de las estrellas, las perlas engastadas en él.
 El perfume del sándalo[^1] es tu incienso; el viento es tu abanico;[^2] todos los bosques son tus flores, oh Señor de la luz.[^3]

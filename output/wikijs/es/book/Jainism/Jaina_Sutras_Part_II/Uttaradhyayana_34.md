@@ -77,7 +77,7 @@ El olor de las tres buenas Lê<i>s</i>yâs es infinitamente más agradable que e
 
 El tacto de las tres buenas Lê<i>s</i>yâs es infinitamente más agradable que el del algodón, la mantequilla o las flores de S</i>irîsha [^562]. (19)
 
-6\. Los grados [^563] de los Lê<i>s</i>yâs son tres, o nueve, <span id="p199">[<sup><small>p. 199</small></sup>]</span> o veintisiete, u ochenta y uno, o doscientos cuarenta y tres. (20)
+6\. Los grados [^563] de los Lê<i>s</i>yâs son tres, o nueve, <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> o veintisiete, u ochenta y uno, o doscientos cuarenta y tres. (20)
 
 7\. Un hombre que actúa impulsado por los cinco Âsravas [^564], no posee los tres Guptis, no ha cesado de dañar a las seis (clases de seres vivos), comete actos crueles, es malvado y violento, no teme las consecuencias [^565], es travieso y no domina sus sentidos; un hombre con tales hábitos desarrolla la Lê<i>s</i>yâ negra. (21, 22)
 
@@ -87,7 +87,7 @@ Un hombre que es deshonesto en palabras y acciones, que es vil, no recto, un imp
 
 Un hombre humilde, firme, libre de engaños e inquisiciones, bien disciplinado, comedido, atento a sus estudios y deberes [^567], que ama la Ley y la guarda, que teme a las cosas prohibidas y se esfuerza por el bien supremo, un hombre de tales hábitos desarrolla la Lê<i>s</i>yâ roja. (27, 28)
 
-Un hombre con poca ira, orgullo, engaño y codicia, con mente tranquila, que se controla, <span id="p200">[<sup><small>p. 200</small></sup>]</span> que presta atención a sus estudios y deberes, que habla poco, es tranquilo y domina sus sentidos, un hombre con tales hábitos desarrolla el Lê<i>s</i>yâ amarillo. (29, 30)
+Un hombre con poca ira, orgullo, engaño y codicia, con mente tranquila, que se controla, <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> que presta atención a sus estudios y deberes, que habla poco, es tranquilo y domina sus sentidos, un hombre con tales hábitos desarrolla el Lê<i>s</i>yâ amarillo. (29, 30)
 
 Un hombre que se abstiene de pensar constantemente en su miseria y en sus actos pecaminosos, sino que se dedica a la meditación sólo en la Ley y la verdad [^568], cuya mente está en paz, que se controla a sí mismo, que practica los Samitis y los Guptis, ya sea que esté todavía sujeto a la pasión o libre de ella, está tranquilo y somete sus sentidos, un hombre de tales hábitos desarrolla el Lê<i>s</i>yâ blanco. (31, 32)
 
@@ -141,7 +141,7 @@ La duración más larga del Lê<i>s</i>yâ rojo más un Samaya es igual a la má
 
 La duración más larga del Lê<i>s</i>yâ amarillo más un Samaya es igual a la más corta del Lê<i>s</i>yâ blanco; el más largo, sin embargo, es treinta y tres muhûrtas más largo. (55)
 
-10\. Los Lê<i>s</i>yâs negros, azules y grises son los <span id="p203">[<sup><small>p. 203</small></sup>]</span> Lê<i>s</i>yâs más bajos; a través de ellos, el alma es llevada a una vida miserable. (56)
+10\. Los Lê<i>s</i>yâs negros, azules y grises son los <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> Lê<i>s</i>yâs más bajos; a través de ellos, el alma es llevada a una vida miserable. (56)
 
 Las Lê<i>s</i>yâs rojas, amarillas y blancas son las Lê<i>s</i>yâs buenas; a través de ellas el alma es conducida a cursos felices de vida. (57)
 

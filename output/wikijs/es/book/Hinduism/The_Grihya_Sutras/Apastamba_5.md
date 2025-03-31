@@ -44,7 +44,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 5\. El (Brahma<i>k</i>ârin) lo esconde con el siguiente Ya<i>k</i>us (II, 7, 5) en la raíz de un árbol Udumbara o en un mechón de hierba Darbha.
 
-6\. [^764] Con el agua descrita arriba se baña <span id="p276">[<sup><small>p. 276</small></sup>]</span> con los seis siguientes (versos; II, 7, 6-11), y con el siguiente (II, 7, 12) se limpia los dientes con un palo de madera de Udumbara.
+6\. [^764] Con el agua descrita arriba se baña <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> con los seis siguientes (versos; II, 7, 6-11), y con el siguiente (II, 7, 12) se limpia los dientes con un palo de madera de Udumbara.
 
 7\. Después de bañarse y lavarse el cuerpo con ingredientes como los que se usan para el baño (polvos aromáticos, etc.),
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. Después de haber tocado a la persona que lo lava, debe tocarse a sí mismo (es decir, su propio corazón) con el siguiente (fórmula, M. II, 9, II).
 
-7\. (El anfitrión, tomando el agua Argha) en una <span id="p278">[<sup><small>p. 278</small></sup>]</span> vasija de barro que sostiene con dos manojos de hierba, anuncia (al invitado): '¡El agua Argha!'
+7\. (El anfitrión, tomando el agua Argha) en una <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> vasija de barro que sostiene con dos manojos de hierba, anuncia (al invitado): '¡El agua Argha!'
 
 8\. (El invitado) debe recitar la siguiente (fórmula, II, 9, 12) sobre (esa agua) y debe murmurar el siguiente Ya<i>g</i>us (II, 9, 13), mientras una parte (del agua) se vierte sobre sus manos unidas.
 
@@ -97,7 +97,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 15\. (El anfitrión) anuncia la vaca con (la palabra), '¡La vaca!'
 
-16\. Después de que el invitado haya recitado la siguiente (fórmula, M. II, 10, 6) sobre la vaca, el anfitrión enfría su epiplón, y tras haber extendido y rociado (el Â<i>s</i>ya), la sacrifica con la siguiente (verso, M. II, 10, 7) con una hoja de Palâ<i>s</i>a del centro o del extremo (del tallo). <span id="p279">[<sup><small>p. 279</small></sup>]</span>
+16\. Después de que el invitado haya recitado la siguiente (fórmula, M. II, 10, 6) sobre la vaca, el anfitrión enfría su epiplón, y tras haber extendido y rociado (el Â<i>s</i>ya), la sacrifica con la siguiente (verso, M. II, 10, 7) con una hoja de Palâ<i>s</i>a del centro o del extremo (del tallo). <span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 17\. Si el invitado decide soltar la vaca, murmura en voz baja la siguiente fórmula (II, 10, 8-11) y dice en voz alta: «¡Om! ¡Suéltala!» (II, 10, 12).
 

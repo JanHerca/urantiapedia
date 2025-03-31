@@ -70,7 +70,7 @@ Desde antiguo, antes de nuestro tiempo, los hombres del pasado nos dieron el eje
 
 PROBABLEMENTE COMO LA ÚLTIMA ODA, APROPIADA PARA UN SACRIFICIO A THANG, QUE SE DETIENE EN LOS ESPÍRITUS, LA SOPA Y LA GRAVEDAD DEL SERVICIO, Y EN LOS PRÍNCIPES ASISTENTES.
 
-Tampoco podemos determinar cuál de los reyes de Shang cantó esta oda por primera vez. Kû Hsî afirma que el objeto del sacrificio era Thang. El prefacio la asigna a Thâi Mâu, el Kung Ȝung, o segundo de los tres «honrados». Pero no hay ni una sola <span id="p306">[<sup><small>p. 306</small></sup>]</span> palabra de alabanza para Kung Ȝung, y el «ancestro meritorio» del primer verso es innegable. Aún más claramente que en el caso de la oda anterior, esta parece haber sido compuesta por alguien que participó en el servicio, pues en el verso 4 se dirige al rey sacrificador como «tú».
+Tampoco podemos determinar cuál de los reyes de Shang cantó esta oda por primera vez. Kû Hsî afirma que el objeto del sacrificio era Thang. El prefacio la asigna a Thâi Mâu, el Kung Ȝung, o segundo de los tres «honrados». Pero no hay ni una sola <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> palabra de alabanza para Kung Ȝung, y el «ancestro meritorio» del primer verso es innegable. Aún más claramente que en el caso de la oda anterior, esta parece haber sido compuesta por alguien que participó en el servicio, pues en el verso 4 se dirige al rey sacrificador como «tú».
 
 ¡Ah! ¡Ah! ¡Nuestro meritorio antepasado! Permanentes son las bendiciones que provienen de él, otorgadas repetidamente sin fin; —Te han llegado a este lugar.
 
@@ -92,7 +92,7 @@ Si esta oda no pretendía honrar a Wû-ting, el Kâo Ȝung de Shang, no podemos 
 
 El Cielo encargó a la golondrina que descendiera y diera a luz a Shang [^325]. Sus descendientes habitaron la tierra de Yin y alcanzaron la grandeza. Hace mucho tiempo, Dios designó al guerrero Thang para regular los límites de las cuatro regiones del reino.
 
-En esos lugares nombró a los príncipes y poseyó con gran pompa las nueve regiones [^326]. El <span id="p308">[<sup><small>p. 308</small></sup>]</span> primer soberano de Shang [^327] recibió el nombramiento sin ningún elemento de inestabilidad, y ahora lo ostenta el descendiente de Wû-ting [^328].
+En esos lugares nombró a los príncipes y poseyó con gran pompa las nueve regiones [^326]. El <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> primer soberano de Shang [^327] recibió el nombramiento sin ningún elemento de inestabilidad, y ahora lo ostenta el descendiente de Wû-ting [^328].
 
 El descendiente de Wû-ting es un soberano marcial, capaz de afrontar cualquier emergencia. Diez príncipes, que llegaron con sus estandartes blasonados con dragones, traen los grandes platos de mijo.
 
@@ -106,7 +106,7 @@ De los cuatro mares [^329] vienen (a nuestros sacrificios); vienen en multitudes
 
 CELEBRANDO A HSIEH, EL ANTEPASADO DE LA CASA DE SHANG; HSIANG-THÛ, SU NIETO; THANG, EL FUNDADOR DE LA DINASTÍA; Y Î-YIN, MINISTRO PRINCIPAL Y ASESOR DE THANG.
 
-No se especifica con qué ocasión se realizó este sacrificio. La opinión más probable, según Mâo, es que se trataba del <span id="p309">[<sup><small>p. 309</small></sup>]</span> «gran sacrificio Tî», cuando el principal objeto de honor sería el antiguo Khû, padre de Hsieh, con Hsieh como su correlato, y todos los reyes de la dinastía, junto con los antiguos señores de Shang y sus famosos ministros y consejeros, ocuparían su lugar en el servicio. Creo que esta es la oda más antigua de Shang.
+No se especifica con qué ocasión se realizó este sacrificio. La opinión más probable, según Mâo, es que se trataba del <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> «gran sacrificio Tî», cuando el principal objeto de honor sería el antiguo Khû, padre de Hsieh, con Hsieh como su correlato, y todos los reyes de la dinastía, junto con los antiguos señores de Shang y sus famosos ministros y consejeros, ocuparían su lugar en el servicio. Creo que esta es la oda más antigua de Shang.
 
 Profundamente sabios eran (los señores de) Shang, y hacía tiempo que habían aparecido los presagios (de su dignidad).
 
@@ -124,7 +124,7 @@ Recibía el tributo de los estados, pequeños y grandes, y los sostenía como un
 
 El rey marcial desplegó su estandarte y empuñó su hacha con reverencia. Era como un fuego abrasador que nadie puede contener. La raíz, con sus tres brotes, no pudo progresar ni crecer [^337]. Las nueve regiones fueron efectivamente conquistadas por Thang. Tras derrotar a los príncipes de Wei y Kû, trató con él de Kün-wû y con Kieh de Hsiâ.
 
-Anteriormente, a mediados del período (antes de <span id="p311">[<sup><small>p. 311</small></sup>]</span> Thang), hubo un tiempo de sacudidas y peligros [^338]. Pero en verdad el Cielo (entonces) lo trató como a un hijo, y le envió un alto ministro, a saber, Â-hăng [^339], quien prestó su ayuda al rey de Shang.
+Anteriormente, a mediados del período (antes de <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> Thang), hubo un tiempo de sacudidas y peligros [^338]. Pero en verdad el Cielo (entonces) lo trató como a un hijo, y le envió un alto ministro, a saber, Â-hăng [^339], quien prestó su ayuda al rey de Shang.
 
 <a id="o5"></a>
 
@@ -134,7 +134,7 @@ CELEBRANDO LA GUERRA DE WÛ-TING CONTRA EL REY KHÛÛ, SU ÉXITO Y LA FELICIDAD 
 
 Las líneas finales indican que el templo se construyó en la ocasión que le asigno. Tras la muerte de Wû-ting, su tablilla espiritual se guardaría en el templo ancestral, y él participaría en los sacrificios estacionales; pero transcurrirían varios reinados antes de que fuera necesario hacer otra disposición, para que su tablilla no fuera retirada ni su participación en los sacrificios se interrumpiera. Por lo tanto, la composición de la pieza se ha atribuido a la época de Tî-yî, el penúltimo rey de Shang.
 
-Rápida fue la energía guerrera de (nuestro rey de) Yin, Y vigorosamente atacó a <i>K</i>ing-<i>Kh</i>û [^340]. <span id="p312">[<sup><small>p. 312</small></sup>]</span> Audazmente entró en sus pasos peligrosos, Y reunió a las multitudes de <i>K</i>ing, Hasta que el país quedó bajo completa restricción: ¡Tal fue el logro apropiado del descendiente de Thang!
+Rápida fue la energía guerrera de (nuestro rey de) Yin, Y vigorosamente atacó a <i>K</i>ing-<i>Kh</i>û [^340]. <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> Audazmente entró en sus pasos peligrosos, Y reunió a las multitudes de <i>K</i>ing, Hasta que el país quedó bajo completa restricción: ¡Tal fue el logro apropiado del descendiente de Thang!
 
 «Vosotros», dijo, «del Rey Khû, habitáis en la parte sur de mi reino. Antiguamente, en tiempos de Thang el Exitoso, incluso desde el Rey de Tî [^341], no se atrevían a venir con sus ofrendas; (sus jefes) no se atrevían a venir a buscar reconocimiento [^342]: —Tal es la regla habitual de Shang.»
 

@@ -44,7 +44,7 @@ Un <i>Srama<i>n</i>a debe caminar indiferente y puro respecto a todo tipo de con
 
 El sabio que ve lo lejano (meta, es decir, la liberación), las cosas pasadas y futuras, practicará la indiferencia, aunque sufra castigos corporales y sea golpeado. (5)
 
-Poseedor de una sabiduría perfecta, un sabio siempre vence (sus pasiones); expone correctamente la <span id="p254">[<sup><small>p. 254</small></sup>]</span> Ley; nunca descuida ni el más pequeño (deber); no se enoja ni se enorgullece. (6)
+Poseedor de una sabiduría perfecta, un sabio siempre vence (sus pasiones); expone correctamente la <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> Ley; nunca descuida ni el más pequeño (deber); no se enoja ni se enorgullece. (6)
 
 Un hombre que se controla a sí mismo de acuerdo a (la Ley), que es alabada por muchas personas, y no está atado por ningún lazo mundano, que siempre es puro como un lago, proclama la Ley de Kâ<i>s</i>yapa. (7)
 

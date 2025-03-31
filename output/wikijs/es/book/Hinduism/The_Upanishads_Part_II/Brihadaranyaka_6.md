@@ -46,7 +46,7 @@ SEXTO ADHYÂYA.
 
 4\. Quien conoce el éxito, cualquier deseo que anhele, lo conseguirá. El oído, en verdad, es el éxito. Porque en el oído se encuentran todos estos Vedas. Quien conoce esto, cualquier deseo que anhele, lo conseguirá.
 
-5\. Quien conoce el hogar, se convierte en el hogar de su propia gente, en el hogar de todos los hombres. La mente <span id="p202">[<sup><small>p. 202</small></sup>]</span> es, en efecto, el hogar. Quien conoce esto, se convierte en el hogar de su propia gente y en el hogar de todos los hombres.
+5\. Quien conoce el hogar, se convierte en el hogar de su propia gente, en el hogar de todos los hombres. La mente <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> es, en efecto, el hogar. Quien conoce esto, se convierte en el hogar de su propia gente y en el hogar de todos los hombres.
 
 6\. Quien conoce la generación [^593], se enriquece con descendencia y ganado. La descendencia es, en efecto, generación. Quien conoce esto, se enriquece con descendencia y ganado.
 
@@ -103,26 +103,26 @@ El rey dijo: “Gautama, ¿deseas que te instruya de la manera apropiada?”
 
 Gautama respondió: “Vengo a ti como alumno”.
 
-Solo de palabra han venido los antiguos sabios (aunque brahmanes) como discípulos (de personas de rango inferior), pero Gautama en realidad habitó como discípulo (de Pravâha<i>n</i>a, quien era un Râ<i>g</i>anya) para obtener la fama de haber servido respetuosamente a su amo [^601]. <span id="p207">[<sup><small>p. 207</small></sup>]</span> 8\. El rey dijo: «No te ofendas con nosotros, ni tú ni tus antepasados, porque este conocimiento nunca antes ha habitado en ningún brahmán [^602]. Pero te lo diré, pues ¿quién podría negarte cuando hablas así?»
+Solo de palabra han venido los antiguos sabios (aunque brahmanes) como discípulos (de personas de rango inferior), pero Gautama en realidad habitó como discípulo (de Pravâha<i>n</i>a, quien era un Râ<i>g</i>anya) para obtener la fama de haber servido respetuosamente a su amo [^601]. <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> 8\. El rey dijo: «No te ofendas con nosotros, ni tú ni tus antepasados, porque este conocimiento nunca antes ha habitado en ningún brahmán [^602]. Pero te lo diré, pues ¿quién podría negarte cuando hablas así?»
 
 9\. «El altar (fuego), oh Gautama, es ese mundo (cielo) [^603]; el combustible es el sol mismo, el humo sus rayos, la luz el día, las brasas los cuartos, las chispas los cuartos intermedios. En ese altar los Devas ofrecen la libación <i>s</i>raddhâ (consistente en agua [^604]). De esa ofrenda surge Soma, el rey (la luna).
 
 10\. «El altar, oh Gautama, es Par<i>g</i>anya (el dios de la lluvia); el combustible es el año mismo, el humo las nubes, la luz el relámpago, las brasas el rayo, las chispas los truenos. En ese altar los Devas ofrecen a Soma, el rey (la luna). De esa ofrenda surge la lluvia.»
 
-11\. «El altar, oh Gautama, es este mundo [^605]; el combustible es la tierra misma, el humo el fuego, la luz la noche, las brasas la luna, las chispas las estrellas. En ese altar los Devas ofrecen lluvia. De esa oblación surge el alimento. <span id="p208">[<sup><small>p. 208</small></sup>]</span> 12\. «El altar, oh Gautama, es el hombre; el combustible la boca abierta, el humo el aliento, la luz la lengua, las brasas el ojo, las chispas el oído. En ese altar los Devas ofrecen alimento. De esa oblación surge la semilla.
+11\. «El altar, oh Gautama, es este mundo [^605]; el combustible es la tierra misma, el humo el fuego, la luz la noche, las brasas la luna, las chispas las estrellas. En ese altar los Devas ofrecen lluvia. De esa oblación surge el alimento. <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 12\. «El altar, oh Gautama, es el hombre; el combustible la boca abierta, el humo el aliento, la luz la lengua, las brasas el ojo, las chispas el oído. En ese altar los Devas ofrecen alimento. De esa oblación surge la semilla.
 
 13\. «El altar, oh Gautama, es la mujer [^606]. En ese altar los Devas ofrecen su semilla. De esa ofrenda surge el hombre. Vive mientras vive, y luego, cuando muere,
 
 14\. Lo llevan al fuego (la pira funeraria), y entonces el fuego del altar es en verdad fuego, el combustible combustible, el humo humo, la luz luz, las brasas brasas, las chispas chispas. En ese mismo fuego del altar los Devas ofrecen al hombre, y de esa ofrenda el hombre se eleva, brillante en color.
 
-15\. «Quienes así lo saben (incluso los G<i>ri</i>hasthas), y quienes en el bosque adoran la fe y la Verdad [^607] (Brahman Hira<i>n</i>garbha), van a la luz (ar<i>k</i>is), de la luz al día, del día a la mitad creciente, de la mitad creciente a los seis meses en que el sol se dirige al norte, de esos seis meses al mundo de los Devas (Devaloka), del mundo de los Devas al sol, del sol al lugar del rayo. Cuando han llegado así al lugar del rayo, un espíritu [^608] se acerca a ellos y los conduce a los mundos del Brahman (condicionado). En estos mundos de Brahman moran exaltados por eras. No hay retorno para ellos. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 16\. Pero quienes conquistan los mundos (estados futuros) mediante el sacrificio, la caridad y la austeridad, van al humo, del humo a la noche, de la noche a la mitad menguante de la luna, de la mitad menguante de la luna a los seis meses en que el sol se dirige al sur, de estos meses al mundo de los padres, del mundo de los padres a la luna. Al llegar a la luna, se convierten en alimento, y entonces los Devas se alimentan de ellos allí, como los sacrificadores se alimentan del Soma, a medida que este aumenta y disminuye [^609]. Pero cuando esto (el resultado de sus buenas obras en la tierra) cesa, regresan de nuevo a ese éter, del éter al aire, del aire a la lluvia, de la lluvia a la tierra. Y cuando llegan a la tierra, se convierten en alimento, son ofrecidos de nuevo en el fuego del altar, que es el hombre (véase § 11), y de allí nacen en el fuego de la mujer. Así se elevan hacia los mundos y recorren la misma ruta que antes.
+15\. «Quienes así lo saben (incluso los G<i>ri</i>hasthas), y quienes en el bosque adoran la fe y la Verdad [^607] (Brahman Hira<i>n</i>garbha), van a la luz (ar<i>k</i>is), de la luz al día, del día a la mitad creciente, de la mitad creciente a los seis meses en que el sol se dirige al norte, de esos seis meses al mundo de los Devas (Devaloka), del mundo de los Devas al sol, del sol al lugar del rayo. Cuando han llegado así al lugar del rayo, un espíritu [^608] se acerca a ellos y los conduce a los mundos del Brahman (condicionado). En estos mundos de Brahman moran exaltados por eras. No hay retorno para ellos. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 16\. Pero quienes conquistan los mundos (estados futuros) mediante el sacrificio, la caridad y la austeridad, van al humo, del humo a la noche, de la noche a la mitad menguante de la luna, de la mitad menguante de la luna a los seis meses en que el sol se dirige al sur, de estos meses al mundo de los padres, del mundo de los padres a la luna. Al llegar a la luna, se convierten en alimento, y entonces los Devas se alimentan de ellos allí, como los sacrificadores se alimentan del Soma, a medida que este aumenta y disminuye [^609]. Pero cuando esto (el resultado de sus buenas obras en la tierra) cesa, regresan de nuevo a ese éter, del éter al aire, del aire a la lluvia, de la lluvia a la tierra. Y cuando llegan a la tierra, se convierten en alimento, son ofrecidos de nuevo en el fuego del altar, que es el hombre (véase § 11), y de allí nacen en el fuego de la mujer. Así se elevan hacia los mundos y recorren la misma ruta que antes.
 
 'Pero aquellos que no conocen ninguno de estos dos caminos, se convierten en gusanos, pájaros y reptiles.'
 
 
 ## TERCER BRAHMA<i>N</i>A [^610].
 
-1\. Si un hombre desea alcanzar la grandeza (riqueza por realizar sacrificios), cumple la regla del upasad durante doce días [^611] (es decir, se alimenta de pequeñas cantidades de leche), comenzando en un día propicio de la mitad clara de la luna durante el avance norte del sol, recolectando al mismo tiempo en una taza o plato <span id="p210">[<sup><small>p. 210</small></sup>]</span> de madera de udumbara toda clase de hierbas, incluyendo frutas. Español Barre el suelo (cerca del altar de la casa, âvasathya), lo rocía, enciende el fuego, extiende hierba a su alrededor según la regla [^612], prepara la mantequilla clarificada (â<i>g</i>ya), y en un día, presidido por una estrella masculina (nakshatra), después de haber mezclado adecuadamente el Mantha [^613] (las hierbas, frutas, leche, miel, etc.), sacrifica (vierte â<i>g</i>ya en el fuego), diciendo [^614]: 'Oh <i>G</i>âtavedas, cualesquiera que sean los dioses adversos que haya en ti, que derrotan los deseos de los hombres, a ellos les ofrezco esta porción; que ellos, estando complacidos, me complazcan con todos los deseos'. Svâhâ!
+1\. Si un hombre desea alcanzar la grandeza (riqueza por realizar sacrificios), cumple la regla del upasad durante doce días [^611] (es decir, se alimenta de pequeñas cantidades de leche), comenzando en un día propicio de la mitad clara de la luna durante el avance norte del sol, recolectando al mismo tiempo en una taza o plato <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> de madera de udumbara toda clase de hierbas, incluyendo frutas. Español Barre el suelo (cerca del altar de la casa, âvasathya), lo rocía, enciende el fuego, extiende hierba a su alrededor según la regla [^612], prepara la mantequilla clarificada (â<i>g</i>ya), y en un día, presidido por una estrella masculina (nakshatra), después de haber mezclado adecuadamente el Mantha [^613] (las hierbas, frutas, leche, miel, etc.), sacrifica (vierte â<i>g</i>ya en el fuego), diciendo [^614]: 'Oh <i>G</i>âtavedas, cualesquiera que sean los dioses adversos que haya en ti, que derrotan los deseos de los hombres, a ellos les ofrezco esta porción; que ellos, estando complacidos, me complazcan con todos los deseos'. Svâhâ!
 
 'A esa deidad enfadada que yace [^615], pensando que todas las cosas se mantienen separadas por ella, yo te adoro como propicia con esta corriente de ghee.' ¡Svâhâ!
 
@@ -134,7 +134,7 @@ Luego dice: Svâhâ al Habla, Svâhâ al Soporte, vierte ghee en el fuego y arro
 
 Luego dice: Svâhâ al Ojo, Svâhâ al Éxito, vierte ghee en el fuego y arroja lo que queda en el Mantha (mortero).
 
-Luego dice: Svâhâ al oído, Svâhâ al <span id="p211">[<sup><small>p. 211</small></sup>]</span> hogar, vierte ghee en el fuego y arroja lo que queda en el mantha (mortero).
+Luego dice: Svâhâ al oído, Svâhâ al <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> hogar, vierte ghee en el fuego y arroja lo que queda en el mantha (mortero).
 
 Luego dice: Svâhâ a la Mente, Svâhâ a la Descendencia, vierte ghee en el fuego y arroja lo que queda en el Mantha (mortero).
 
@@ -172,7 +172,7 @@ Luego dice: Svâhâ a Pra<i>g</i>âpati, vierte ghee en el fuego y arroja lo que
 
 5\. Luego lo sostiene (el Mantha), diciendo
 
-Tú [^616] lo sabes todo, nosotros conocemos tu grandeza. Él es <span id="p213">[<sup><small>p. 213</small></sup>]</span> en verdad un rey, un gobernante, el señor supremo. Que ese rey, ese gobernante, me haga el señor supremo.
+Tú [^616] lo sabes todo, nosotros conocemos tu grandeza. Él es <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> en verdad un rey, un gobernante, el señor supremo. Que ese rey, ese gobernante, me haga el señor supremo.
 
 6\. Luego lo come, diciendo: «Tat savitur vare<i>n</i>yam [^617] (Meditamos en esa luz adorable)—¡Que los vientos derramen miel para los justos, que los ríos derramen miel, que nuestras plantas sean dulces como la miel! ¡Bhû<i>h</i> (tierra) Svâhâ!»
 
@@ -182,7 +182,7 @@ Tú [^616] lo sabes todo, nosotros conocemos tu grandeza. Él es <span id="p213"
 
 Repite todo el verso de Sâvitrî y todos los versos sobre la miel, pensando: «¡Que yo sea todo esto! ¡Bhûr, Bhuvah, Svah, Svâhâ!». Tras haberlo tragado todo, se lava las manos y se sienta detrás del altar, mirando hacia el este. Por la mañana, adora a Âditya (el sol) con el himno: «Tú eres el mejor loto de los cuatro puntos cardinales, que yo me convierta en el mejor loto entre los hombres». Luego, regresando como llegó, se sienta detrás del altar y recita la lista genealógica [^618].
 
-7\. Uddâlaka Âruni le contó esta (doctrina Mantha) a su discípulo Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya, y dijo: «Si alguien la vierte sobre una rama seca, crecerán ramas y brotarán hojas». <span id="p214">[<sup><small>p. 214</small></sup>]</span> 8\. Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya le contó lo mismo a su discípulo Madhuka Paiṅgya, y dijo: «Si alguien la vierte sobre una rama seca, crecerán ramas y brotarán hojas».
+7\. Uddâlaka Âruni le contó esta (doctrina Mantha) a su discípulo Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya, y dijo: «Si alguien la vierte sobre una rama seca, crecerán ramas y brotarán hojas». <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 8\. Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya le contó lo mismo a su discípulo Madhuka Paiṅgya, y dijo: «Si alguien la vierte sobre una rama seca, crecerán ramas y brotarán hojas».
 
 9\. Madhuka Paiṅgya le dijo lo mismo a su alumno <i>K</i>ûla Bhâgavitti</i>, y dijo: “Si un hombre lo vertiera sobre un palo seco, crecerían ramas y brotarían hojas”.
 
@@ -205,7 +205,7 @@ Hay diez tipos de semillas de aldea (cultivadas), a saber: arroz y cebada (brîh
 
 2\. Y Pra<i>g</i>âpati pensó: «Déjame hacer una morada para él», y creó una mujer (<i>S</i>atarûpâ).
 
-Tâ<i>m</i> [^624] s<i>ri</i>sh<i>t</i>vâdha upâsta, tasmât striyam adha upâsita. En la ley del karma, el atmana es el único ser que puede alcanzar la plenitud de su poder. <span id="p216">[<sup><small>p. 216</small></sup>]</span> 3\. Tasyâ vedir upastho, lomâni barhi<i>s</i>, <i>k</i>armâdhishava<i>n</i>e, samiddho [^625] madhyatas, tau mushkau. Sa yâvân ha vai vâ<i>g</i>apeyena ya<i>g</i>amânasya loko bhavati tâvân asya loko bhavati ya eva<i>m</i> vidvân adhopahâsa<i>m</i> <i>k</i>araty a sa [^626] strî<i>n</i>a<i>m</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>ṅkte 'tha ya idam avidvân adhopahâsa<i>m</i> <i>k</i>araty âsya striya<i>h</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>_ñ_<i>i>g</i>ate.
+Tâ<i>m</i> [^624] s<i>ri</i>sh<i>t</i>vâdha upâsta, tasmât striyam adha upâsita. En la ley del karma, el atmana es el único ser que puede alcanzar la plenitud de su poder. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> 3\. Tasyâ vedir upastho, lomâni barhi<i>s</i>, <i>k</i>armâdhishava<i>n</i>e, samiddho [^625] madhyatas, tau mushkau. Sa yâvân ha vai vâ<i>g</i>apeyena ya<i>g</i>amânasya loko bhavati tâvân asya loko bhavati ya eva<i>m</i> vidvân adhopahâsa<i>m</i> <i>k</i>araty a sa [^626] strî<i>n</i>a<i>m</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>ṅkte 'tha ya idam avidvân adhopahâsa<i>m</i> <i>k</i>araty âsya striya<i>h</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>_ñ_<i>i>g</i>ate.
 
 4\. Etad dha sma vai tadvidvân Uddâlaka Âru<i>n</i>ir âhaitad dha sma vai tadvidvân Nâko Maudgalya âhaitad dha sma vai tadvidvân Kumârahârita âha, bahavo maryâ brâhma<i>n</i>âyanâ [^627] nirindriyâ visuk<i>ri</i>to'smâl lokât Prayanti [^628] ya ida<i>m</i> avidvâ<i>m</i>so 'dhopahâsa<i>m</i> <i>k</i>arantîti. Bahu vâ [^629] ida<i>m</i> suptasya va <i>g</i>âgrato vâ reta<i>h</i> skandati,
 
@@ -221,7 +221,7 @@ Ella es la mejor de las mujeres cuyas vestiduras son puras [^633]. Por lo tanto,
 
 9\. Sa yâm i<i>k</i><i>kh</i>et kâmayeta meti tasyâm artha<i>m</i> nish<i>t</i>âya [^637] mukhena mukha<i>m</i> sandhâyopastham asyâ abhim<i>ri</i><i>s</i>ya <i>g</i>aped aṅgâdaṅgât sambhavasi h<i>ri</i>dayâd adhi <i>g</i>âyase, sa tvam aṅgakashâyo [^638] 'si digdhaviddhâm [^639] iva mâdayemâm amûm mayîti [^640].
 
-10\. Atha yâm i<i>k</i><i>kh</i>en na garbha<i>m</i> dadhîteti [^641] tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâbhiprâ<i>n</i>yâpânyâd indriye<i>n</i>a te retasâ reta âdada ity aretâ [^642] eva bhavati. <span id="p218">[<sup><small>p. 218</small></sup>]</span> 11\. Atha yâm i<i>k</i><i>kh</i>ed garbha<i>m</i> dadhîteti tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâpânyâbhiprâ<i>n</i>yâd indriye<i>n</i>a te retâsa reta âdadhâmîti garbhi<i>n</i>y eva bhavati.
+10\. Atha yâm i<i>k</i><i>kh</i>en na garbha<i>m</i> dadhîteti [^641] tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâbhiprâ<i>n</i>yâpânyâd indriye<i>n</i>a te retasâ reta âdada ity aretâ [^642] eva bhavati. <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> 11\. Atha yâm i<i>k</i><i>kh</i>ed garbha<i>m</i> dadhîteti tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâpânyâbhiprâ<i>n</i>yâd indriye<i>n</i>a te retâsa reta âdadhâmîti garbhi<i>n</i>y eva bhavati.
 
 12\. Ahora bien, si la esposa de un hombre tiene un amante y el esposo lo odia, que (según la regla) [^643] coloque fuego junto a una vasija sin cocer, extienda una capa de flechas en orden inverso [^644], unja estas tres puntas de flecha [^645] con mantequilla en orden inverso, y sacrifique, diciendo: «Has sacrificado en mi fuego, te quito el aliento, te lo quito [^646]».
 
@@ -233,7 +233,7 @@ Ella es la mejor de las mujeres cuyas vestiduras son puras [^633]. Por lo tanto,
 
 Aquel a quien un brahmán que sabe esto maldice, parte de este mundo sin fuerza ni buenas obras. Por lo tanto, que nadie desee siquiera divertirse con la esposa de un srotriya [^647] que sabe esto, pues quien lo sabe es un enemigo peligroso.
 
-13\. Cuando la menstruación ataca a su esposa, ella <span id="p219">[<sup><small>p. 219</small></sup>]</span> debe abstenerse de beber de un recipiente de metal durante tres días y usar ropa limpia. Que ningún V<i>ri</i>shala ni V<i>ri</i>shalî (hombre o mujer <i>S</i>ûdra) la toque. Al cabo de los tres días, cuando se haya bañado, el esposo debe prepararle arroz molido [^648].
+13\. Cuando la menstruación ataca a su esposa, ella <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> debe abstenerse de beber de un recipiente de metal durante tres días y usar ropa limpia. Que ningún V<i>ri</i>shala ni V<i>ri</i>shalî (hombre o mujer <i>S</i>ûdra) la toque. Al cabo de los tres días, cuando se haya bañado, el esposo debe prepararle arroz molido [^648].
 
 14. Si un hombre desea que le nazca un hijo blanco, que conozca un Veda y viva hasta la madurez, entonces, después de preparar arroz hervido con leche y mantequilla, ambos deben comerlo, pues están en condiciones de tener descendencia.
 
@@ -247,7 +247,7 @@ Aquel a quien un brahmán que sabe esto maldice, parte de este mundo sin fuerza 
 
 19\. Y luego, hacia la mañana, tras haber preparado la Â<i>g</i>ya (mantequilla clarificada [^650]), según la regla del Sthâlîpâka (hervir la olla), sacrifica trozos del Sthâlîpâka, diciendo: «¡Esto es para Agni, Svâhâ! ¡Esto es para Anumati, Svâhâ! ¡Esto es para la divina Savit<i>ri</i>, la verdadera creadora, Svâhâ!». Tras el sacrificio, toma el resto del arroz y lo come, y después de comer, se lo da a su esposa. Luego se lava las manos, llena una jarra de agua y la rocía tres veces con ella, diciendo: «¡Levántate, oh Vi<i>s</i>vâvasu [^651], busca otra joven radiante, una esposa con su esposo».
 
-20\. Entonces la abraza y dice: «Soy Ama (aliento), tú eres Sâ (habla) [^652]. Tú eres Sâ (habla), yo soy Ama (aliento). Yo soy el Sâman, tú eres el <i>Ri</i><i>k</i> [^653]. Yo soy el cielo, tú eres la tierra. Ven, luchemos juntos para que un hijo varón pueda ser engendrado [^654].» <span id="p221">[<sup><small>p. 221</small></sup>]</span> 21\. Athâsyâ ûrû vihâpayati, vi<i>g</i>ihîthâ<i>m</i> dyâvâp<i>ri</i>thivî iti tasyâm artha<i>m</i> nish<i>t</i>aya mukhena mukha<i>m</i> sandhâya trir enâm anulomâm [^655] anumârsh<i>t</i>i, Vish<i>n</i>ur yoni<i>m</i> kalpayatu, Tvash<i>t</i>â rûpâ<i>n</i>i pi<i>m</i>satu, âsi_ñ_<i>k</i>atu Pra<i>g</i>âpatir Dhâtâ garbha<i>m</i> dadhatu te. Garbha<i>m</i> dhehi Sinîvâli, garbha<i>m</i> dhehi p<i>ri</i>thush<i>t</i>uke, garbha<i>m</i> te A<i>s</i>vinau devâv âdhattâm pushkarasra<i>g</i>au.
+20\. Entonces la abraza y dice: «Soy Ama (aliento), tú eres Sâ (habla) [^652]. Tú eres Sâ (habla), yo soy Ama (aliento). Yo soy el Sâman, tú eres el <i>Ri</i><i>k</i> [^653]. Yo soy el cielo, tú eres la tierra. Ven, luchemos juntos para que un hijo varón pueda ser engendrado [^654].» <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 21\. Athâsyâ ûrû vihâpayati, vi<i>g</i>ihîthâ<i>m</i> dyâvâp<i>ri</i>thivî iti tasyâm artha<i>m</i> nish<i>t</i>aya mukhena mukha<i>m</i> sandhâya trir enâm anulomâm [^655] anumârsh<i>t</i>i, Vish<i>n</i>ur yoni<i>m</i> kalpayatu, Tvash<i>t</i>â rûpâ<i>n</i>i pi<i>m</i>satu, âsi_ñ_<i>k</i>atu Pra<i>g</i>âpatir Dhâtâ garbha<i>m</i> dadhatu te. Garbha<i>m</i> dhehi Sinîvâli, garbha<i>m</i> dhehi p<i>ri</i>thush<i>t</i>uke, garbha<i>m</i> te A<i>s</i>vinau devâv âdhattâm pushkarasra<i>g</i>au.
 
 22\. Hira<i>n</i>mayî ara<i>n</i>î yâbhyâ<i>m</i> nirmanthatâm [^656] a<i>s</i>vinau [^657], ta<i>m</i> te garbha<i>m</i> havâmahe [^658] da<i>s</i>ame mâsi sûtave. Yathâgnigarbhâ p<i>ri</i>thivî, yathâ dyaur indre<i>n</i>a garbhi<i>n</i>î, vâyur di<i>s</i>â<i>m</i> yathâ garbha eva<i>m</i> garbha<i>m</i> dadhâ<i>m</i>î te 'sav iti [^659].
 
@@ -504,7 +504,7 @@ De tal hijo, en verdad, dicen: «¡Ah, has superado a tu padre! ¡Ah, has supera
 27\. Mâ<i>n</i><i>d</i>ûkâyanîputra de Mâ<i>n</i><i>d</i>ûkîputra,
 28\. Mâ<i>n</i><i>d</i>ûkîputra de <i>S</i>â<i>n</i><i>d</i>ilîputra,
 29\. <i>S</i>â<i>n</i><i>d</i>ilîputra de Râthîtarîputra,
-30 [^695]. Râthîtarîputra de Bhâlukîputra, <span id="p226">[<sup><small>p. 226</small></sup>]</span> 31\. Bhâlukîputra de Krau_ñ_<i>k</i>ikîputrau,
+30 [^695]. Râthîtarîputra de Bhâlukîputra, <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> 31\. Bhâlukîputra de Krau_ñ_<i>k</i>ikîputrau,
 32\. Krau_ñ_<i>k</i>ikîputrau de Vai<i>t</i><i>t</i>abhatîputra [^696],
 33\. Vai<i>t</i><i>t</i>abhatîputra de Kâr<i>s</i>akeyîputra [^697],
 34\. Kâr<i>s</i>akeyîputra de Prâ<i>k</i>înayogîputra,
@@ -530,7 +530,7 @@ De tal hijo, en verdad, dicen: «¡Ah, has superado a tu padre! ¡Ah, has supera
 51\. Vâ<i>k</i> de Ambhi<i>n</i>î,
 52\. Ambhi<i>n</i>î de Âditya, el Sol.
 
-Como provenientes de Âditya, el Sol, estos versos puros [^699] Ya<i>g</i>us han sido proclamados por Yâgñavalkya Vâ<i>g</i>asaneya. <span id="p227">[<sup><small>p. 227</small></sup>]</span> 4 [^700]. Lo mismo en cuanto al Sâñ<i>g</i>îvîputra (n.° 36), entonces
+Como provenientes de Âditya, el Sol, estos versos puros [^699] Ya<i>g</i>us han sido proclamados por Yâgñavalkya Vâ<i>g</i>asaneya. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> 4 [^700]. Lo mismo en cuanto al Sâñ<i>g</i>îvîputra (n.° 36), entonces
 
 36\. Sâñ<i>g</i>îvîputra de Mâ<i>n</i><i>d</i>ûkâyani,
 37\. Mâ<i>n</i><i>d</i>ûkâyani de Mâ<i>n</i><i>d</i>avya,
@@ -580,11 +580,11 @@ Como provenientes de Âditya, el Sol, estos versos puros [^699] Ya<i>g</i>us han
 
 [^593]: 202:1 Esto falta en el <i>Kh</i>ând. Arriba. Roer y Poley interpretan Pra<i>g</i>âpati en lugar de pra<i>g</i>âti. MS, IO 3 75 tiene pra<i>g</i>âti, MS. IO 1973 pra<i>g</i>âpati.
 
-[^594]: 202:2 Aquí tenemos Pra<i>g</i>âpati, en lugar de Brahman, en el <i>Kh</i>ând. Up.; también sresh<i>th</i>a en lugar de vasish<i>th</i>a. <span id="p203">[<sup><small>p. 203</small></sup>]</span> pero respirando con el aliento, hablando con la lengua, viendo con el ojo, conociendo con la mente, generando con la semilla. Así hemos vivido. Entonces entró el oído.
+[^594]: 202:2 Aquí tenemos Pra<i>g</i>âpati, en lugar de Brahman, en el <i>Kh</i>ând. Up.; también sresh<i>th</i>a en lugar de vasish<i>th</i>a. <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> pero respirando con el aliento, hablando con la lengua, viendo con el ojo, conociendo con la mente, generando con la semilla. Así hemos vivido. Entonces entró el oído.
   11\. La mente partió, y tras estar ausente un año, regresó y dijo: «¿Cómo han podido vivir sin mí?». Respondieron: «Como necios, sin saber con la mente, sino respirando con el aliento, viendo con el ojo, oyendo con el oído, generando con la semilla. Así hemos vivido». Entonces entró la mente.
   12\. La semilla partió, y tras estar ausente un año, regresó y dijo: "¿Cómo han podido vivir sin mí?". Respondieron: "Como personas impotentes, no generando con la semilla, sino respirando con el aliento, viendo con el ojo, oyendo con el oído, sabiendo con la mente. Así hemos vivido". Entonces la semilla entró.
   13\. El aliento vital, a punto de partir, destrozó estos sentidos, como un gran y excelente caballo del país de Sindhu destrozaría las estacas a las que está atado. Le dijeron: «Señor, no te vayas. No podremos vivir sin ti». Él respondió: «Entonces, hazme una ofrenda». Dijeron: «Que así sea».
-  14\. Entonces la lengua dijo: «Si yo soy el más rico, tú eres el más rico por ello». El ojo dijo: «Si yo soy el reposo firme, tú posees el reposo firme por ello». El oído dijo: «Si yo soy el éxito, tú posees el éxito por ello». La mente dijo: «Si yo soy el hogar, tú eres el hogar por ello». La semilla dijo: «Si yo soy la generación, tú posees la generación por ello». Él dijo: «¿Qué será mi alimento, qué ropa tendré?». <span id="p204">[<sup><small>p. 204</small></sup>]</span>
+  14\. Entonces la lengua dijo: «Si yo soy el más rico, tú eres el más rico por ello». El ojo dijo: «Si yo soy el reposo firme, tú posees el reposo firme por ello». El oído dijo: «Si yo soy el éxito, tú posees el éxito por ello». La mente dijo: «Si yo soy el hogar, tú eres el hogar por ello». La semilla dijo: «Si yo soy la generación, tú posees la generación por ello». Él dijo: «¿Qué será mi alimento, qué ropa tendré?». <span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
   Respondieron: «Todo lo que hay, incluso perros, gusanos, insectos y aves [^595], es tu alimento, y el agua tu ropa. Quien así conoce el alimento de Ana (el aliento) [^596], no come nada que no sea alimento (adecuado), no recibe nada que no sea alimento (adecuado). Los <i>s</i>rotriyas (teólogos védicos) que saben esto se enjuagan la boca con agua antes de comer y después de comer, pensando que así visten el aliento (con agua).»
 
 [^595]: 204:1 Puede significar todo tipo de alimento, como el que comen los perros, los gusanos, los insectos y los pájaros.

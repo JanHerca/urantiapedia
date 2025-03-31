@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. [^700] En el día de luna llena de Mârga<i>ri</i>îrsha, pone leña en el fuego, esparce (hierba Darbha) sobre toda la superficie alrededor del fuego, cocina una mezcla de comida sacrificial con leche, la rocía (con Â<i>ri</i>ya), la saca del fuego, realiza los ritos hasta las oblaciones Vyâh<i>ri</i>ti y sacrifica (cuatro oblaciones) con (los siguientes Mantras):
 
-Esta ofrenda, la víbora de Idâ, rica en ghee, móvil e inmóvil, acepta con gusto, oh Gâtavedas. <span id="p240">[<sup><small>p. 240</small></sup>]</span> ¡Cuántos animales domésticos hay, de todas las formas, de las siete clases! Que habiten aquí con alegría y prosperen. ¡Svâhâ!
+Esta ofrenda, la víbora de Idâ, rica en ghee, móvil e inmóvil, acepta con gusto, oh Gâtavedas. <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> ¡Cuántos animales domésticos hay, de todas las formas, de las siete clases! Que habiten aquí con alegría y prosperen. ¡Svâhâ!
 
 «La noche que los hombres acogen como una vaca que llega a ellos, (la noche) que es la consorte del año, que esa (noche) nos sea auspiciosa. ¡Svâhâ!»
 
@@ -52,7 +52,7 @@ La noche de luna llena, que trae abundancia, visitando uno tras otro, dividiendo
 
 '¡Que los tres veces once dioses, los treinta y tres, los misericordiosos, cuyo Purohita es B<i>ri</i>haspati, por impulso del dios Savit_ri_, que los dioses con (todos) los dioses me den la felicidad!'
 
-5\. El dueño de la casa se sienta en el extremo sur, <span id="p241">[<sup><small>p. 241</small></sup>]</span>
+5\. El dueño de la casa se sienta en el extremo sur, <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 6\. Las otras personas al norte,
 

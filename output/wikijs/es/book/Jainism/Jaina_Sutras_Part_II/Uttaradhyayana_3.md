@@ -46,7 +46,7 @@ Así, los seres vivos de acciones pecaminosas, que nacen una y otra vez en nacim
 
 Los seres vivos, desconcertados por la influencia de sus acciones, angustiados y sufriendo dolores, padecen miseria en nacimientos no humanos. (6)
 
-Pero con el cese del Karman, tal vez, los seres vivos <span id="p16">[<sup><small>p. 16</small></sup>]</span> alcancen a su debido tiempo un estado puro y nazcan como hombres. (7)
+Pero con el cese del Karman, tal vez, los seres vivos <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> alcancen a su debido tiempo un estado puro y nazcan como hombres. (7)
 
 II. Y aunque nazcan con cuerpo humano, les será difícil escuchar la Ley, y tras escucharla, harán penitencia, combatirán sus pasiones y se abstendrán de matar seres vivos. (8)
 

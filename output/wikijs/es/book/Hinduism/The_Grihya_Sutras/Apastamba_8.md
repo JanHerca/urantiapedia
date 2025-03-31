@@ -52,7 +52,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Habiéndoles hecho tocar con la siguiente (fórmula, II, 20, 1) (la comida, se la da para comer).
 
-9\. Cuando han comido (y se han ido), va tras ellos, los circunvala, girando su lado derecho hacia ellos, extiende hierba Darbha que apunta hacia el sur en dos capas diferentes, vierte agua sobre ella con la siguiente (fórmulas, II, 20, 2-7), distribuye el Pi<i>nd</i>as, terminando en el sur, con la siguiente (fórmulas, II, 20, 8-13), vierte agua como antes con la siguiente (fórmulas, 14-19), adora (a los <span id="p293">[<sup><small>p. 293</small></sup>]</span> antepasados) con la siguiente (fórmulas, II, 20, 20-23), rocía con el siguiente (verso, 24) agua tres veces de derecha a izquierda alrededor (del Pi<i>nd</i>as) con una olla de agua, rocía los recipientes, que están boca abajo, repitiendo el el siguiente Ya<i>n</i>us (25) al menos tres veces sin tomar aliento, coloca los recipientes de dos en dos, corta (Avadânas) de todas (las porciones de comida), y come de los restos al menos un bocado con el siguiente Ya<i>n</i>us (26).
+9\. Cuando han comido (y se han ido), va tras ellos, los circunvala, girando su lado derecho hacia ellos, extiende hierba Darbha que apunta hacia el sur en dos capas diferentes, vierte agua sobre ella con la siguiente (fórmulas, II, 20, 2-7), distribuye el Pi<i>nd</i>as, terminando en el sur, con la siguiente (fórmulas, II, 20, 8-13), vierte agua como antes con la siguiente (fórmulas, 14-19), adora (a los <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> antepasados) con la siguiente (fórmulas, II, 20, 20-23), rocía con el siguiente (verso, 24) agua tres veces de derecha a izquierda alrededor (del Pi<i>nd</i>as) con una olla de agua, rocía los recipientes, que están boca abajo, repitiendo el el siguiente Ya<i>n</i>us (25) al menos tres veces sin tomar aliento, coloca los recipientes de dos en dos, corta (Avadânas) de todas (las porciones de comida), y come de los restos al menos un bocado con el siguiente Ya<i>n</i>us (26).
 
 10\. De la quincena oscura que sigue a la luna llena de Mâgha, el octavo día cae bajo (la constelación de) _G<i>yesh</i>th_â: este día se llama Ekâsh<i>yesh</i>akâ.
 
@@ -69,7 +69,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^790] Después de que las ceremonias hasta las oblaciones de Â<i>g</i>yabhâga se han realizado de la misma manera que en los sacrificios quincenales, con sus manos unidas hace oblaciones del pastel con el siguiente (verso, II, 20, 27).
 
-2\. [^791] Prepara el resto (del pastel), lo divide en ocho partes y se lo ofrece a los Brâhma<i>n</i>as. <span id="p294">[<sup><small>p. 294</small></sup>]</span>
+2\. [^791] Prepara el resto (del pastel), lo divide en ocho partes y se lo ofrece a los Brâhma<i>n</i>as. <span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 3\. Al día siguiente, toca una vaca con una daga, diciendo: «Te toco, agradable a los Padres».
 
@@ -91,7 +91,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. Este rito ha sido explicado en la descripción del <i>S</i>râddha mensual.
 
-13\. Si sale a pedir algo, <span id="p295">[<sup><small>p. 295</small></sup>]</span> que murmure el siguiente (Mantras, II, 21, 10-16) y luego exprese su deseo.
+13\. Si sale a pedir algo, <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> que murmure el siguiente (Mantras, II, 21, 10-16) y luego exprese su deseo.
 
 14\. Si ha obtenido un carro, le pone los caballos, lo orienta hacia el este y toca con el siguiente (versículo II, 21, 17) las dos ruedas del carro o las dos piezas laterales.
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^794] Quien no desee que su mujer sea tocada por otros hombres, debe hacer moler grandes ciempiés vivos hasta convertirlos en polvo, y debe insertar (ese polvo) con la siguiente (fórmula, II, 22, 3), mientras ella duerme, en sus partes secretas.
 
-4\. Para tener éxito (en la generación de hijos) <span id="p296">[<sup><small>p. 296</small></sup>]</span> que lave (a su esposa) con la orina de una vaca de color marrón rojizo.
+4\. Para tener éxito (en la generación de hijos) <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> que lave (a su esposa) con la orina de una vaca de color marrón rojizo.
 
 5\. Para el éxito (en el comercio) que sacrifique con el siguiente (verso—II, 22, 4—una porción) de los artículos de comercio que tenga en su casa.
 
@@ -126,7 +126,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Si le cae encima una fruta de un árbol, o un pájaro lo ataca, o le cae una gota de agua cuando no se espera lluvia, debe limpiarlo con el siguiente (Mantras, II, 22, 11-13), según las características (contenidas en estos Mantras).
 
-9\. Si un poste de su casa brota, o si las abejas producen miel en su casa, o si se ve la huella de una paloma en el hogar, o si surgen enfermedades en su hogar, o en caso de otros milagros o prodigios, que realice en la noche de luna nueva, en plena noche, en un lugar donde no se oiga el ruido del agua, los ritos desde poner leña en el fuego hasta las oblaciones de Â<i>g</i>yabhâga, y que ofrezca las oblaciones (indicadas en los) siguientes (Mantras, II, 22, 14-23), y comience la realización del <i>G</i>aya y las oblaciones subsiguientes. <span id="p297">[<sup><small>p. 297</small></sup>]</span>
+9\. Si un poste de su casa brota, o si las abejas producen miel en su casa, o si se ve la huella de una paloma en el hogar, o si surgen enfermedades en su hogar, o en caso de otros milagros o prodigios, que realice en la noche de luna nueva, en plena noche, en un lugar donde no se oiga el ruido del agua, los ritos desde poner leña en el fuego hasta las oblaciones de Â<i>g</i>yabhâga, y que ofrezca las oblaciones (indicadas en los) siguientes (Mantras, II, 22, 14-23), y comience la realización del <i>G</i>aya y las oblaciones subsiguientes. <span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 10. Habiendo realizado las ceremonias hasta rociar con agua alrededor del fuego, coloca hacia el sur, con la siguiente (versículo II, 22, 24), una piedra como barrera para aquellos entre quienes ha ocurrido una muerte.
 

@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 7\. Cuando la sangre de la ofrenda pascual se vertía sobre el altar, y posteriormente se sabía que era impura, la placa (de oro) [^165] del Sumo Sacerdote la hacía aceptable. Cuando el cuerpo del sacrificio pascual era impuro, la placa no podía hacerlo aceptable, ya que, según se dice, el Nazareo y el celebrante de la Pascua aceptan la impureza de la sangre con la placa. Pero la placa no hace aceptable la impureza legal del cuerpo del cordero pascual. Si era legalmente impuro por una impureza desconocida, la placa lo hacía aceptable.
 
-8\. «¿Si es legalmente impuro en su totalidad o en gran parte?» «La Pascua debe quemarse frente al palacio [^166] con la leña del altar». «¿Un poco de lo impuro y <span id="p110">[<sup><small>p. 110</small></sup>]</span> lo que sobra?» «Los dueños pueden quemarlo en sus propios patios o en sus azoteas con su propia leña». Los tacaños lo quemaban frente al palacio para usar la leña del altar.
+8\. «¿Si es legalmente impuro en su totalidad o en gran parte?» «La Pascua debe quemarse frente al palacio [^166] con la leña del altar». «¿Un poco de lo impuro y <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> lo que sobra?» «Los dueños pueden quemarlo en sus propios patios o en sus azoteas con su propia leña». Los tacaños lo quemaban frente al palacio para usar la leña del altar.
 
 9\. «¿La Pascua que se sacó de la ciudad o se volvió impura?» «El dueño debe quemarla inmediatamente.» «¿Sus amos se volvieron impuros o murieron?» «Que cambie su apariencia y que se queme el día dieciséis.» [^167] Rabí Jojanán, hijo de Beruká, dijo: «También debe quemarse inmediatamente, porque no tiene quien la coma.»
 

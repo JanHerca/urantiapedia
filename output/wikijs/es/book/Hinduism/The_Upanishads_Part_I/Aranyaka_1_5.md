@@ -50,7 +50,7 @@ QUINTO ADHYÂYA.
 
 6\. A continuación viene el verso de Sûdadohas. Sûdadohas, en verdad, es aliento. Une las articulaciones con el aliento.
 
-7\. Tras haber recitado ese verso doce veces, <span id="p194">[<sup><small>p. 194</small></sup>]</span> lo deja ahí. Estos prâ<i>n</i>as son, en verdad, doce: siete en la cabeza, dos en el pecho y tres abajo. En estos doce lugares se contienen los prâ<i>n</i>as; allí son perfectos. Por lo tanto, lo deja ahí [1](Aranyaka_1_5#fn480).
+7\. Tras haber recitado ese verso doce veces, <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> lo deja ahí. Estos prâ<i>n</i>as son, en verdad, doce: siete en la cabeza, dos en el pecho y tres abajo. En estos doce lugares se contienen los prâ<i>n</i>as; allí son perfectos. Por lo tanto, lo deja ahí [1](Aranyaka_1_5#fn480).
 
 8\. El himno indrâgnî yuva<i>m</i> su nah (Rv. VIII, 40) forma los dos muslos (del ave) pertenecientes a Indra y Agni, los dos soportes con huesos anchos.
 
@@ -64,7 +64,7 @@ QUINTO ADHYÂYA.
 
 1\. Cuando recita el himno Nishkevalya dirigido a Indra (Rv. X, 50), pra vo mahe, inserta un Nivid [^481] (entre los versos cuarto y quinto). Así, claramente, coloca su fuerza en sí mismo (en el <i>sastra</i>, en el ave, en sí mismo).
 
-2\. Son Trish<i>t</i>ubhs y <i>G</i>agatîs. <span id="p195">[<sup><small>p. 195</small></sup>]</span> 3\. Allí dicen: "¿Por qué inserta un Nivid entre Trish<i>t</i>ubhs y <i>G</i>agatîs mixtos [^482]?". Pero seguramente un metro nunca soportaría el Nivid de este día, ni lo llenaría: por lo tanto, inserta el Nivid entre Trish<i>t</i>ubhs y <i>G</i>agatîs mixtos.
+2\. Son Trish<i>t</i>ubhs y <i>G</i>agatîs. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 3\. Allí dicen: "¿Por qué inserta un Nivid entre Trish<i>t</i>ubhs y <i>G</i>agatîs mixtos [^482]?". Pero seguramente un metro nunca soportaría el Nivid de este día, ni lo llenaría: por lo tanto, inserta el Nivid entre Trish<i>t</i>ubhs y <i>G</i>agatîs mixtos.
 
 4\. Que sepa que este día tiene tres Nivids: el himno Vasa es un Nivid, los Vâlakhilyas [^483] son ​​un Nivid, y el Nivid mismo es un Nivid. Por lo tanto, que sepa que ese día tiene tres Nivids.
 
@@ -74,7 +74,7 @@ QUINTO ADHYÂYA.
 
 7\. Después de eso, recita el himno Sa<i>g</i>anîya, deseando que el ganado siempre acuda a su descendencia.
 
-8\. Luego recita el himno Târkshya [^485]. Târkshya es en verdad bienestar, y el himno conduce al bienestar. Así (al recitar el himno) le va bien [^486]. <span id="p196">[<sup><small>p. 196</small></sup>]</span> 9\. Luego recita el Ekapadâ (indro vi<i>s</i>va<i>m</i> vi râ<i>g</i>ati), deseando: Que pueda ser todo a la vez, y que así pueda completar toda la obra de métricas [^487].
+8\. Luego recita el himno Târkshya [^485]. Târkshya es en verdad bienestar, y el himno conduce al bienestar. Así (al recitar el himno) le va bien [^486]. <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> 9\. Luego recita el Ekapadâ (indro vi<i>s</i>va<i>m</i> vi râ<i>g</i>ati), deseando: Que pueda ser todo a la vez, y que así pueda completar toda la obra de métricas [^487].
 
 10\. Al recitar el himno indra<i>m</i> vi<i>s</i>vâ aviv<i>ri</i>dhan (Rv. I, 11), entrelaza las primeras siete estrofas entrelazando los pies [^488]. Hay siete prâ<i>n</i>as (aberturas) en la cabeza, y así coloca siete prâ<i>n</i>as en ella. La octava estrofa (media estrofa) no las entrelaza [^489]. La octava es el habla, y piensa: «Que mi habla nunca se entrelace con las demás prâ<i>n</i>as». Por lo tanto, el habla, aunque reside en la misma morada que las demás prâ<i>n</i>as, no se entrelaza con ellas.
 
@@ -84,7 +84,7 @@ QUINTO ADHYÂYA.
 
 13\. Pero que termine con el quinto verso, esha stomo maha ugrâya vâhe, que, al poseer la palabra mahat, es auspicioso.
 
-14\. En el segundo pie del quinto verso aparece la palabra dhuri. Ciertamente, dhu<i>h</i> (el lugar donde se ata el caballo al carro) es el final (del carro). Este día también es el final (del sacrificio que dura un año entero) [^492]. Por lo tanto, el verso es apropiado para el día. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 15\. En el tercer pie, la palabra arka es auspiciosa.
+14\. En el segundo pie del quinto verso aparece la palabra dhuri. Ciertamente, dhu<i>h</i> (el lugar donde se ata el caballo al carro) es el final (del carro). Este día también es el final (del sacrificio que dura un año entero) [^492]. Por lo tanto, el verso es apropiado para el día. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 15\. En el tercer pie, la palabra arka es auspiciosa.
 
 16\. El último paso es: «Que nuestra gloria sea tan alta como el cielo sobre el cielo». Así, dondequiera que se pronuncie el discurso brahmánico, allí estará su gloria, cuando quien conoce esto termine con ese verso. Por lo tanto, que quien conoce esto termine (el Nishkevalya) con ese verso.
 
@@ -94,7 +94,7 @@ QUINTO ADHYÂYA.
 
 2\. En ese día [^495] se hace mucho de vez en cuando que debe ocultarse y expiarse. La expiación es descanso, el sacrificio de un día. Por lo tanto, al final del año, los sacrificadores descansan en esta expiación como su descanso. Quien conoce esto descansa firme, y también aquellos por quienes un sacerdote Hotri, que conoce esto, recita este himno.
 
-3\. Luego sigue el himno dirigido a Savit<i>ri</i>, tad devasya savitur vâryam mahat (Rv. IV, 53). En verdad, mahat, grande, (en este pie) está el fin [^496]. Este día también es el fin. Por lo tanto, el verso es apropiado para el día. <span id="p198">[<sup><small>p. 198</small></sup>]</span> 4\. El himno katarâ pûrvâ katarâ parâyo<i>h</i> (Rv. I, 185), dirigido a Dyâvâp<i>ri</i>thivî, es uno en el que muchos versos tienen el mismo final. En verdad, este día también (el mahâvrata) es uno en el que muchos reciben la misma recompensa [^497]. Por lo tanto, es apropiado para el día.
+3\. Luego sigue el himno dirigido a Savit<i>ri</i>, tad devasya savitur vâryam mahat (Rv. IV, 53). En verdad, mahat, grande, (en este pie) está el fin [^496]. Este día también es el fin. Por lo tanto, el verso es apropiado para el día. <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 4\. El himno katarâ pûrvâ katarâ parâyo<i>h</i> (Rv. I, 185), dirigido a Dyâvâp<i>ri</i>thivî, es uno en el que muchos versos tienen el mismo final. En verdad, este día también (el mahâvrata) es uno en el que muchos reciben la misma recompensa [^497]. Por lo tanto, es apropiado para el día.
 
 5\. El himno ana<i>s</i>vo <i>g</i>âto anabhî<i>s</i>ur ukthya<i>h</i> (Rv. IV, 36) está dirigido a los <i>Ri</i>bhus.
 
@@ -108,7 +108,7 @@ QUINTO ADHYÂYA.
 
 10\. En ese día se realizan muchas cosas de vez en cuando que deben ocultarse y expiarse. La expiación es descanso, el sacrificio de un día. Por lo tanto, al final del año, los sacrificadores descansan en esta expiación como su descanso. Quien conoce esto descansa firme, y también aquellos por quienes un sacerdote Hotri, que conoce esto, recita este himno.
 
-11\. El himno vai<i>s</i>vânarâya dhisha<i>n</i>âm <i>ri</i>tav<i>ri</i>dhe <span id="p199">[<sup><small>p. 199</small></sup>]</span> (Rv. III, 2) constituye el comienzo del Âgnimâruta. Dhisha<i>n</i>â, el pensamiento, es ciertamente el fin; este día también es el fin. Por lo tanto, es apropiado para el día.
+11\. El himno vai<i>s</i>vânarâya dhisha<i>n</i>âm <i>ri</i>tav<i>ri</i>dhe <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> (Rv. III, 2) constituye el comienzo del Âgnimâruta. Dhisha<i>n</i>â, el pensamiento, es ciertamente el fin; este día también es el fin. Por lo tanto, es apropiado para el día.
 
 12\. El himno praya<i>g</i>yavo maruto bhrâ<i>g</i>ad<i>ri</i>sh<i>t</i>aya<i>h</i> (Rv. V, 55), dirigido a los Maruts, tiene muchos versos con el mismo final. Ciertamente, este día también es uno en el que muchos reciben la misma recompensa. Por lo tanto, es apropiado para el día [^500].
 

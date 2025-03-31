@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/00600.jpg) ¡QUÉDATE! Lloremos al recordar a nuestra amada, _al ver_ la estación _donde se levantó su tienda_, al borde de esas arenas curvas entre Dahul y Haumel,
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. «Entonces brotaron las lágrimas de mis ojos, por exceso de arrepentimiento, y corrieron por mi cuello, hasta que el cinto de mi espada quedó empapado en la corriente.»
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 8\. «Sin embargo, has pasado muchos días en dulce conversación con la bella: pero ninguno tan dulce como el día que pasaste junto al estanque de Daratjuljul.»
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. También fue delicioso el día en que Fátima me rechazó por primera vez en la cima de aquella colina de arena, y tomó un juramento que declaró inviolable.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 17\. «¡Oh Fátima!» dije, “¡fuera con tanta timidez; y si hubieras resuelto abandonarme, ¡pero al final cede!
 
@@ -88,7 +88,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 25\. Ella dijo: «Por Aquel que me creó», y me dio su hermosa mano, «no puedo negarte; porque percibo que la ceguera de tu pasión no se puede quitar».
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 26\. Entonces me levanté con ella; y mientras caminábamos ella dibujó sobre nuestros pasos la cola de su túnica pintada.
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Sus mechones estaban elegantemente recogidos sobre su cabeza; y la cinta que los sujetaba se perdía entre sus trenzas, en parte trenzadas, en parte despeinadas.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 35\. Descubrió una cintura estrecha como una cuerda bien retorcida; y una pierna tan blanca y tan suave como el tallo de una palmera joven, o una caña fresca, inclinándose sobre el arroyo.
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Y le dije, cuando parecía extender sus costados, arrastrar su longitud inmanejable, y avanzar lentamente con su pecho:
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 44\. "Disipa tu tristeza, ¡oh tediosa noche! para que pueda surgir la mañana; aunque mis penas son tales, que la luz de la mañana no dará más consuelo que tus sombras.
 
@@ -148,7 +148,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\. Rápido como la madera perforada en las manos de un niño juguetón, que gira rápidamente con una cuerda bien atada.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 53\. Tiene lomos de antílope y muslos de avestruz; trota como un lobo y galopa como un zorro joven.
 
@@ -168,7 +168,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 61\. Luego, el cocinero afana la caza, asando una parte, horneando otra sobre piedras calientes y hirviendo rápidamente el resto en un recipiente de hierro.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 62\. Al anochecer partimos; y cuando la mirada del observador asciende a la cabeza de mi cazador, y luego desciende a sus pies, es incapaz de captar de inmediato todas sus bellezas.
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 70\. En el monte Taima no queda ni un tronco de palmera, ni un solo edificio que no esté construido con piedra bien cementada.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 71\. El monte Tebeir se yergue en las alturas de la inundación, como un jefe venerable envuelto en un manto rayado.
 

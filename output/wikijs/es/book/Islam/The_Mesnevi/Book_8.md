@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## VIII. El Arpista.
 
@@ -57,7 +57,7 @@ Esas orejas, en muchos sentidos, están degradadas de hecho.
 La humanidad nunca escucha las canciones de las hadas.
 No están versados en las costumbres de las hadas, sus voces son pequeñas.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 Es cierto, los cantos de las hadas son sonidos de este mundo;[^245]
 <sup id="v10"><small>10</small></sup> Pero las canciones cantadas por los corazones de los hombres están muy por encima de ellos. lanzado.
@@ -92,7 +92,7 @@ Puede dar el don a todos, le dio a María: «¡Salve!»
 Oh vosotros cuya muerte no fue la que ataca la carne,
 Al sonido de la voz del Amado, te has levantado de nuevo.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 Esa voz, la voz del Novio, era la más verdadera, se dice,
 Aunque 'Fue de los labios de su siervo, Ahmed.
@@ -125,7 +125,7 @@ La luna obtiene su brillo del oro del lucero.
 Absorbe toda la luz que puedas de cualquier estrella centelleante.
 El Profeta dijo: «Las estrellas son todas mis discípulos». ¡Escucha![^250]
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Dijo además: “¡Qué felices son los que ven mi rostro,[^251]
 Y felices los que los miran en su propio lugar.”
@@ -158,7 +158,7 @@ Tus almas ardientes por todo esto rápidamente fueron infladas.
 Su calma actual, y esta vivacidad es del cielo;
 No se parece a la turbulencia por la cual el hombre es impulsado.
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 Un soplo del Señor, cuando se sopla en la tierra y el aire,
 Las malas cualidades se convierten directamente en todo lo que es justo.
@@ -190,7 +190,7 @@ Para ti la espina es una rosa; el desierto, tierra rica.
 Oh tú que en tal búsqueda has vagado arriba y abajo,
 ¿Cuánto tiempo más? ¿Contenderás por la arena del jardín de rosas?
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Tú no puedes ahora extrae la espina de tu pie dolorido.
 <sup id="v65"><small>65</small></sup> Con ese ojo ciego tuyo, ¿cómo verás su raíz?
@@ -222,7 +222,7 @@ Esa pregunta pasa la comprensión, mi buen elfo.
 La razón finita del hombre no cree en el poder poderoso del amor.
 Él mismo todavía se estima dotado de cabeza hoy.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Él es inteligente, y sabe, _nil_ no lo es; anónimo.
 Hasta que un ángel no sea nada,[^259] es un puro demonio.
@@ -253,7 +253,7 @@ No es nada pero el decreto allí debería aparecer por defecto.
 Es vergüenza para aquel que sólo ve las faltas del otro.
 <sup id="v90"><small>90</small></sup> ¿Qué falta se advierte por el Alma a salvo de los asaltos?”
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Una falla es a ojos de criaturas ignorantes.
 Pero no con Dios el Señor, nuestro Hacedor benigno.
@@ -284,7 +284,7 @@ Tú eres esclavo de tu cuerpo; alma no tienes, elfo.
 Detrás, delante, encima, debajo, se encuentra la sombra del cuerpo.
 El alma no tiene «dimensiones»; claramente se muestra.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 Alza tu mirada, querido señor, a la gloriosa luz de Dios;
 Que no te consideren el más miope. idiota.
@@ -321,7 +321,7 @@ Tiene Dios en todo momento ha criado jardines ricos y libres de fintas.
 Cada flor que cede al sentido un perfume agradable,
 Habla mucho al corazón del santo con su lengua misteriosa.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Cada perfume de una flor frota la nariz del ateo en la tierra;
 <sup id="v120"><small>120</small></sup> Aunque se apresure, y sin límites espíritu tonto.
@@ -354,7 +354,7 @@ Ellos emiten sus órdenes a las esferas de tierra y aire.
 Los altibajos en el camino del espíritu forman una clase bastante;
 Tantas colinas que escalar; tantos mares que cruzar.”\]—_Sanā’ī_.
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 El mundo invisible tiene otras nubes y otros cielos;[^268]
 Su sol es diferente; su agua Dios la provee.
@@ -385,7 +385,7 @@ El aire todavía se acelera, aunque los tocones muertos no sienten su poder.
 El Profeta dio un consejo: “De las brisas frescas, en primavera,[^270]
 Tus cuerpos no se cubren; son vigorizantes.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Permítales, entonces, jugar completamente; ellos darán fuerza a tus tendones.
 Mira cómo, con ellos, los árboles se visten de hojas, a lo largo.
@@ -417,7 +417,7 @@ Y por los reproches se mantiene el alma alejada de los beneficios del mal.
 Sobre el corazón del maestro se aferra el manto oscuro de la tristeza,
 Si una ramita del jardín del corazón se ve caer.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Buena 'Ā'isha, la joya del honor cofre ancho,
 <sup id="v160"><small>160</small></sup> Entonces preguntó el Profeta (que es de ambos mundos el Orgullo):
@@ -453,7 +453,7 @@ Al oír su dulce voz, la imaginación se apoderó de mí.
 Cada corazón, como un pájaro, comenzó a revolotear en su jaula;
 La sorpresa encadenó las mentes de los hombres cuando sus notas arrojaron el calibre.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Pero ahora ya estaba viejo; había pasado muchos años en la tierra.
 <sup id="v175"><small>175</small></sup> Como un halcón persiguiendo mosquitos, tenía pocos motivos para la alegría.
@@ -487,7 +487,7 @@ Al cementerio de Yathrab;[^274] se sentó en el césped.
 Dijo él: “Pediré a Dios el alquiler de mis cuerdas de arpa;
 Porque Él acepta las más humildes efusiones del corazón.”
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Tocó el arpa un rato y luego se acostó y lloró.
 Su arpa era su almohada; sobre una tumba dormía.
@@ -520,7 +520,7 @@ Ha prestado a mis pensamientos las alas que hacen su vuelo tan audaz.
 Si ese mundo estuviera a la vista; su camino, si fuera conocido;
 Pocas almas quedarían aquí, si solo se mostraran sus glorias.
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Se ha dado el mandamiento: «No codiciarás ser.»
 La espina de tu pie es sacada; tus gracias, veamos.
@@ -554,7 +554,7 @@ Ambos entendieron y hablaron, como ve el ser humano.
 Un puesto en su propia casa, en el retiro de Mustafà,
 <sup id="v215"><small>215</small></sup> Lanzó un sollozo de dolor, como un corazón en el calor del dolor,
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 Mientras predicaba su sermón, rodeado de su rebaño,
 Para que el gemido fuera escuchado por viejos y jóvenes; sin burla.
@@ -584,7 +584,7 @@ Nunca creeré que una acción podría suspirar y gemir por amor.
 Él puede pretender asentir; no por creencia;
 Él dice: «Así es», para escapar de un nombre mucho peor que el de ladrón.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Todos aquellos que no están convencidos de que el «Ser» de Dios es suficiente,
 Apartarán la mirada; este cuento lo tratarán como «cosas»
@@ -621,7 +621,7 @@ Con él golpeas los rostros de los hombres, enojado, todos los días.
 ¿Qué es esto que estáis haciendo, ciegos? ¿Qué estáis haciendo?
 Algunos agentes llaman para calmar esta terrible derrota.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 Cae, y ruega a Aquel que te proporcionó con el personal.
 Mira bien, y mira qué señales puede tener tu arma grabada.
@@ -658,7 +658,7 @@ Pero su propia alma y cuerpo dan testimonio de que Dios es verdadero.
 Algunas piedras fueron sostenidas en la mano por Abū-Jahl un día.[^278]
 Dijo a Muhammad: "¿Qué tengo aquí? Ahora di.
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Ya que eres profeta, dime: ¿Qué tengo en mi mano?
 Los secretos del alto cielo tú afirmas dominar”.
@@ -697,7 +697,7 @@ El alquiler de tus cuerdas de arpa es. Vete de aquí; y cuando esté hecho,
 Al oír esa voz terrible, Umer se despertó.
 Y directamente él mismo dispuso esa tarea a emprender.
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Hacia el cementerio se dirigió con paso firme,
 El dinero en su pecho, para buscar al extraño, de buena gana.
@@ -735,7 +735,7 @@ Confía en que has apoyado bien todas tus aflicciones terribles.
 Esta bagatela envía por necesidades presentes, como el valor de las cuerdas del arpa.
 Cuando se acabe, ven aquí de nuevo y no temas la escasez”.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 El anciano tembló al oír aquellas palabras tan amables;
 <sup id="v290"><small>290</small></sup> Su dedo con asombro se mordió;—casi perdió la cabeza.
@@ -770,7 +770,7 @@ Más allá de mi oficio, yo mismo veo, cuando el oficio está a raya.
 Al igual que cuando un hombre te dice oro.
 Solo lo consideras, a ti mismo no lo ves.
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 Así lo hizo el arpista lloró y se quejó en voz alta.
 <sup id="v305"><small>305</small></sup> Sus pecados él contó, cometido en el tren de la vida.
@@ -805,7 +805,7 @@ Como no puedo explicarlo; prueba tu percepción.
 Tal éxtasis, tales palabras, más allá de todo estado de ánimo y tiempo;
 Inmersión total en la gloriosa refulgencia de Dios.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Inmersión tal, escapar de allí imposible;
 <sup id="v320"><small>320</small></sup> Ese mar desde entonces para él se volvió intransitable.
@@ -844,7 +844,7 @@ Ahorra en el servicio de Dios, riqueza de Dios no gastes. ¡Cuídate!
 Así que puedes obtener en recompensa cien veces más.
 Así podrás escapar del castigo de pecados no contados.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Los hombres ofrecieron sus camellos como sacrificio;
 <sup id="v335"><small>335</small></sup> Con la esperanza de que sus espadas contra Mustafà harían el servicio.
@@ -881,7 +881,7 @@ Mulas, caballos, ratones y accidentes lo tienen reducido.
 Este mundo es negativo; lo positivo busca tú.
 Todas las formas externas son cifras; búsqueda, el sentido de saber.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Pon tu miserable vida ante la espada en alto;
 <sup id="v350"><small>350</small></sup> Nueva vida comprarás, eterna, del Señor.

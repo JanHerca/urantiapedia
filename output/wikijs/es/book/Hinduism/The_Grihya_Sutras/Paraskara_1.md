@@ -41,7 +41,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 1\. [^662] De ahora en adelante se explicará la realización de los sacrificios domésticos de alimentos cocinados.
 
-2\. [^663]. Después de limpiar (la superficie sobre la que se pretende realizar un sacrificio), untarla (con estiércol de vaca), trazar las líneas, quitar la tierra (de las líneas), rociar (el lugar con agua), preparar el fuego (sagrado), extender el asiento para el Brahman al sur, llevar (el agua Pra<i>s</i>îta), esparcir (hierba Ku<i>s</i>a) alrededor (del fuego), colocar (los diferentes objetos utilizados en el sacrificio) según se necesiten, preparar dos (hojas de Ku<i>s</i>a utilizadas como) coladores, consagrar el Proksha<i>s</i>î <span id="p270">[<sup><small>p. 270</small></sup>]</span> agua, habiendo rociado (con esa agua los instrumentos del sacrificio) según lo que fuera necesario, habiendo vertido (el Â<i>s</i>ya o mantequilla del sacrificio en la olla), y habiendo puesto la mantequilla del sacrificio en el fuego, debe (lustrar la mantequilla) moviendo una tea alrededor de ella.
+2\. [^663]. Después de limpiar (la superficie sobre la que se pretende realizar un sacrificio), untarla (con estiércol de vaca), trazar las líneas, quitar la tierra (de las líneas), rociar (el lugar con agua), preparar el fuego (sagrado), extender el asiento para el Brahman al sur, llevar (el agua Pra<i>s</i>îta), esparcir (hierba Ku<i>s</i>a) alrededor (del fuego), colocar (los diferentes objetos utilizados en el sacrificio) según se necesiten, preparar dos (hojas de Ku<i>s</i>a utilizadas como) coladores, consagrar el Proksha<i>s</i>î <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> agua, habiendo rociado (con esa agua los instrumentos del sacrificio) según lo que fuera necesario, habiendo vertido (el Â<i>s</i>ya o mantequilla del sacrificio en la olla), y habiendo puesto la mantequilla del sacrificio en el fuego, debe (lustrar la mantequilla) moviendo una tea alrededor de ella.
 
 3\. Después de calentar la cuchara de sacrificio llamada Sruva, limpiarla, rociarla con agua y calentarla nuevamente, debe dejarla sobre la mesa.
 
@@ -52,7 +52,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 ## C<i>Y</i>IK 2.
 
-1\. [^665]. El encendido del fuego Âvasathya (o fuego doméstico sagrado) se realiza en el momento de su boda. <span id="p271">[<sup><small>p. 271</small></sup>]</span>
+1\. [^665]. El encendido del fuego Âvasathya (o fuego doméstico sagrado) se realiza en el momento de su boda. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 2 [^666]. En el momento de la división de la herencia, según algunos (maestros).
 
@@ -66,7 +66,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 7\. [^671]. Tras haber cocinado un plato de comida sacrificial para las deidades del Agnyâdheya, y tras haber sacrificado las dos porciones de Â<i>g</i>ya, sacrifica las siguientes oblaciones de Â<i>g</i>ya:
 
-8\. [^672]. 'Tú, Agni' (Vâ_g_. Sa<i>m</i>hitâ XXI, 3); 'Así <span id="p272">[<sup><small>p. 272</small></sup>]</span> tú, Agni' (Vâ_g_. Sa<i>m</i>hitâ XXI, 4); 'Esto, oh Varu<i>m</i>a' (XXI, 1); 'Por esto te suplico' (XXI, 2); 'Tus cien' (Kâty.-<i>S</i>raut. XXV, 1, 11); 'Y rápido, Agni' (Kâty. ll); 'El más alto' (Vâ_g_. Sa<i>m</i>h. XII, 12); 'Sé ambos para nosotros' (ibid. V, 3) —con (estos versos sacrifica) ocho (oblaciones) antes (de las oblaciones de alimentos cocinados).
+8\. [^672]. 'Tú, Agni' (Vâ_g_. Sa<i>m</i>hitâ XXI, 3); 'Así <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> tú, Agni' (Vâ_g_. Sa<i>m</i>hitâ XXI, 4); 'Esto, oh Varu<i>m</i>a' (XXI, 1); 'Por esto te suplico' (XXI, 2); 'Tus cien' (Kâty.-<i>S</i>raut. XXV, 1, 11); 'Y rápido, Agni' (Kâty. ll); 'El más alto' (Vâ_g_. Sa<i>m</i>h. XII, 12); 'Sé ambos para nosotros' (ibid. V, 3) —con (estos versos sacrifica) ocho (oblaciones) antes (de las oblaciones de alimentos cocinados).
 
 9\. Así también sacrifica después, después de haber hecho oblaciones de la comida cocinada a las deidades del Agnyâdheya.
 
@@ -100,7 +100,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 8\. [^678]. Se sienta allí con (el verso): «Soy el más alto entre mi pueblo, como el sol entre los rayos. Aquí piso a quien me infesta».
 
-9\. [^679]. Con los pies (pisa) el otro (haz de hierba). <span id="p274">[<sup><small>p. 274</small></sup>]</span>
+9\. [^679]. Con los pies (pisa) el otro (haz de hierba). <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 10\. Cuando está sentado en el sofá, lava (a su invitado) el pie izquierdo y luego el pie derecho.
 
@@ -136,7 +136,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 26\. Cuando (el invitado) ha bebido agua, (el anfitrión), sosteniendo un cuchillo de carnicero, le dice tres veces: "¡Una vaca!"
 
-27\. Él responde: «La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el <span id="p276">[<sup><small>p. 276</small></sup>]</span> ombligo de la inmortalidad. A quienes me entienden, les digo: “No maten a la vaca inocente, que es Aditi”. Mato mi pecado y el pecado de NN, si así lo desea.
+27\. Él responde: «La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> ombligo de la inmortalidad. A quienes me entienden, les digo: “No maten a la vaca inocente, que es Aditi”. Mato mi pecado y el pecado de NN, si así lo desea.
 
 28\. Pero si decide soltarlo, debe decir: «Mi pecado y el de NN han sido exterminados. ¡Oh! ¡Suéltalo! ¡Que coma hierba!».
 
@@ -152,7 +152,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 2\. En las cinco ocasiones siguientes, a saber: la boda, la tonsura (de la cabeza del niño), la iniciación (del Brahma<i>k</i>ârin), el corte de la barba y la raya del cabello, (en estas ocasiones) en el salón exterior,
 
-3\. Sobre un lugar untado (con estiércol de vaca), elevado y rociado (con agua), enciende el fuego, <span id="p277">[<sup><small>p. 277</small></sup>]</span>
+3\. Sobre un lugar untado (con estiércol de vaca), elevado y rociado (con agua), enciende el fuego, <span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 4\. Habiéndolo encendido por desgaste, según algunos maestros, en su matrimonio.
 
@@ -172,7 +172,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 12\. [^694]. Luego le hace ponerse la prenda interior con el verso: «¡Vive hasta la vejez; ponte la prenda! Sé protectora de las tribus humanas contra la imprecación. Vive cien años lleno de vigor; vístete de riquezas e hijos. Bendecida con la vida, ¡ponte esta prenda!».
 
-13\. [^695]. Luego, la prenda superior con (el verso): «Las diosas que hilaron, tejieron, extendieron <span id="p278">[<sup><small>p. 278</small></sup>]</span> y estiraron los hilos a ambos lados, que esas diosas te vistan para que tengas una larga vida. ¡Bendita sea la vida, ponte esta prenda!».
+13\. [^695]. Luego, la prenda superior con (el verso): «Las diosas que hilaron, tejieron, extendieron <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> y estiraron los hilos a ambos lados, que esas diosas te vistan para que tengas una larga vida. ¡Bendita sea la vida, ponte esta prenda!».
 
 14\. [^696]. (¿El padre de la novia?) unge a los dos, (mientras el novio recita el verso,)
 
@@ -210,7 +210,7 @@ PARASKARA-GRI-HYA-SUTRA.
 
 Pra<i>g</i>âpati, el poderoso en batallas victoriosas, ha otorgado victorias (o, las fórmulas de Gaya) al varonil Indra. Ante él se inclinaron todos los súbditos; se ha vuelto poderoso y digno de sacrificio. ¡Svâhâ!
 
-10\. [^702]. (Las fórmulas del Abhyâtâna dicen así): «Que Agni, señor de los seres, me proteja. Que Indra, señor de lo más noble; Yama, de la tierra; Vâyu, del aire; el Sol, del cielo; la Luna, de los Nakshatras; B<i>ri</i>haspati, del Brahman; Mitra, de la verdad; Varu<i>ri</i>a, de las aguas; el mar, los ríos; el alimento, señor de la realeza; que Soma, señor de las hierbas; Savit_ri_, de los impulsos; Rudra, del ganado; Tvash<i>ri</i>ri_, de las formas; Vish<i>ri</i>u, de las montañas; los Maruts, señores de las huestes; me protejan.» Que los padres, <span id="p281">[<sup><small>p. 281</small></sup>]</span> los abuelos, los antiguos, los posteriores, los padres, los abuelos, me protejan aquí en este poder de santidad, en este poder mundano, en esta oración, en esta Purohitaship, en este sacrificio, en esta invocación a los dioses. ¡Svâhâ! —esto se añade cada vez.
+10\. [^702]. (Las fórmulas del Abhyâtâna dicen así): «Que Agni, señor de los seres, me proteja. Que Indra, señor de lo más noble; Yama, de la tierra; Vâyu, del aire; el Sol, del cielo; la Luna, de los Nakshatras; B<i>ri</i>haspati, del Brahman; Mitra, de la verdad; Varu<i>ri</i>a, de las aguas; el mar, los ríos; el alimento, señor de la realeza; que Soma, señor de las hierbas; Savit_ri_, de los impulsos; Rudra, del ganado; Tvash<i>ri</i>ri_, de las formas; Vish<i>ri</i>u, de las montañas; los Maruts, señores de las huestes; me protejan.» Que los padres, <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> los abuelos, los antiguos, los posteriores, los padres, los abuelos, me protejan aquí en este poder de santidad, en este poder mundano, en esta oración, en esta Purohitaship, en este sacrificio, en esta invocación a los dioses. ¡Svâhâ! —esto se añade cada vez.
 
 11\. (Luego hace otras oblaciones con los siguientes textos:)
 
@@ -226,7 +226,7 @@ Ven aquí, muéstranos un camino fácil. Danos una vida brillante e incorruptibl
 
 ## KA<i>ND</i>IKÂ 6.
 
-1\. [^703]. El hermano de la niña vierte de sus manos unidas en las de ella granos fritos mezclados con hojas de <i>S</i>amî. <span id="p282">[<sup><small>p. 282</small></sup>]</span>
+1\. [^703]. El hermano de la niña vierte de sus manos unidas en las de ella granos fritos mezclados con hojas de <i>S</i>amî. <span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 2 [^704]. Ella lo sacrifica, con las manos firmemente unidas, de pie, (mientras el novio recita los versos,)
 
@@ -267,7 +267,7 @@ Te tomo de la mano para que seas feliz, para que puedas vivir hasta la vejez con
 
 1\. [^709]. Luego la hace avanzar siete pasos en dirección norte (con las palabras),
 
-Uno para la savia, dos para el jugo, tres para la prosperidad, cuatro para la comodidad, cinco para el ganado, seis para las estaciones. ¡Amigo! Sé fiel a mí en siete pasos. Así que sé devoto de mí. <span id="p284">[<sup><small>p. 284</small></sup>]</span>
+Uno para la savia, dos para el jugo, tres para la prosperidad, cuatro para la comodidad, cinco para el ganado, seis para las estaciones. ¡Amigo! Sé fiel a mí en siete pasos. Así que sé devoto de mí. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 2\. (Las palabras), 'Que Vish<i>n</i>u te guíe' se agregan a cada parte (de la fórmula).
 
@@ -335,7 +335,7 @@ Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí pu
 
 1\. [^722]. Si (en el carro) de un rey se rompe el eje, o algo que está atado se suelta, o el carro vuelca, o si ocurre otro accidente, o (si ocurre una de estas mismas cosas) cuando una novia es llevada a casa, él establece el mismo fuego, prepara Â<i>m</i>ya, y sacrifica (dos oblaciones de Â<i>m</i>ya) por separado con los dos Mantras, 'Aquí está la alegría' (Vâ_g_. Sa<i>m</i>h. VIII, 51 a).
 
-2. Habiendo preparado otro carro, él (es decir, el Purohita o el novio) debía hacer que el rey o la mujer se sentaran en él con la fórmula «En poder real» hasta la palabra «en sacrificio» <span id="p288">[<sup><small>p. 288</small></sup>]</span> (Vâ_g_. Sa<i>m</i>h. XX, 10), y con el verso «Te he apresado» (ibid. XII, 11).
+2. Habiendo preparado otro carro, él (es decir, el Purohita o el novio) debía hacer que el rey o la mujer se sentaran en él con la fórmula «En poder real» hasta la palabra «en sacrificio» <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> (Vâ_g_. Sa<i>m</i>h. XX, 10), y con el verso «Te he apresado» (ibid. XII, 11).
 
 3\. Las dos bestias que tiran del carro, constituyen el tributo del sacrificio.
 
@@ -353,7 +353,7 @@ Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí pu
 
 ¡Sûrya! ¡Expiación! Tú eres la expiación de los dioses. Yo, el Brâhma<i>n</i>a, te suplico, deseoso de protección. La sustancia que habita en ella, que causa la muerte del ganado, que la extirpa. ¡Svâhâ!
 
-¡Kandra! ¡Expiación! Tú eres la expiación de los dioses. Yo, el Brâhma<i>n</i>a, te suplico, deseoso <span id="p289">[<sup><small>p. 289</small></sup>]</span> de protección. La sustancia que habita en ella, que trae destrucción a la casa, que la extirpa. ¡Svâhâ!
+¡Kandra! ¡Expiación! Tú eres la expiación de los dioses. Yo, el Brâhma<i>n</i>a, te suplico, deseoso <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> de protección. La sustancia que habita en ella, que trae destrucción a la casa, que la extirpa. ¡Svâhâ!
 
 ¡Gandharva! ¡Expiación! Tú eres la expiación de los dioses. Yo, el Brahmana, te imploro, deseoso de protección. La sustancia que habita en ella, que trae destrucción a la fama, que la extirpa. ¡Svâhâ!
 
@@ -367,7 +367,7 @@ Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí pu
 
 7\. Después de haberla llevado a su casa, deberá cohabitar con ella después de cada uno de sus períodos menstruales,
 
-8\. [^726]. O como le plazca, porque se ha dicho: «Que tengamos relaciones sexuales como queramos hasta que nazca un niño». <span id="p290">[<sup><small>p. 290</small></sup>]</span>
+8\. [^726]. O como le plazca, porque se ha dicho: «Que tengamos relaciones sexuales como queramos hasta que nazca un niño». <span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 9 [^727]. Luego toca su corazón, extendiendo la mano por encima de su hombro derecho, con el verso: «¡Oh, tú, cuyo cabello está bien peinado! Tu corazón, que mora en el cielo, en la luna, lo conozco; que me conozca. Que veamos cien otoños; que vivamos cien otoños; que escuchemos cien otoños».
 
@@ -383,7 +383,7 @@ Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí pu
 
 4\. Afuera (de la casa), la esposa ofrece el Bali con (las fórmulas): "¡Adoración a la esposa! ¡Adoración al hombre! ¡Adoración a cada etapa de la vida! ¡Adoración al blanco de dientes negros, señor de las mujeres malas!"
 
-A quienes atraen a mi descendencia, ya sea que vivan en la aldea o en el bosque, les ofrezco adoración; les ofrezco <span id="p291">[<sup><small>p. 291</small></sup>]</span> un Bali. ¡Que me den descendencia!
+A quienes atraen a mi descendencia, ya sea que vivan en la aldea o en el bosque, les ofrezco adoración; les ofrezco <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> un Bali. ¡Que me den descendencia!
 
 5. Lava el resto con agua. Luego, alimenta a los brahmanes.
 
@@ -398,7 +398,7 @@ A quienes atraen a mi descendencia, ya sea que vivan en la aldea o en el bosque,
 
 2\. Antes de que (el niño en el vientre de su madre) se mueva, en el segundo o tercer mes (de embarazo).
 
-3\. [^732]. En un día en que la luna se encuentra en conjunción con un Nakshatra (que tiene un nombre) de género masculino, ese día, tras haber hecho que (su esposa) ayunara, se bañara y se pusiera dos prendas que aún no habían sido lavadas, y tras haber machacado en agua durante la noche raíces y brotes descendentes de un árbol Nyagrodha, inserta (esto en su fosa nasal derecha) como se indicó anteriormente, con los dos (versos), <span id="p292">[<sup><small>p. 292</small></sup>]</span> 'El niño de oro' (Vâ_g_. Sa<i>m</i>h. XIII, 4) y 'Formado de agua' (ibid. XXXI, 17);
+3\. [^732]. En un día en que la luna se encuentra en conjunción con un Nakshatra (que tiene un nombre) de género masculino, ese día, tras haber hecho que (su esposa) ayunara, se bañara y se pusiera dos prendas que aún no habían sido lavadas, y tras haber machacado en agua durante la noche raíces y brotes descendentes de un árbol Nyagrodha, inserta (esto en su fosa nasal derecha) como se indicó anteriormente, con los dos (versos), <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> 'El niño de oro' (Vâ_g_. Sa<i>m</i>h. XIII, 4) y 'Formado de agua' (ibid. XXXI, 17);
 
 4\. [^733]. Una aguja de Ku<i>s</i>a y un tallo de Soma, según algunos (maestros).
 
@@ -415,7 +415,7 @@ Si lo desea; 'Que (el hijo) se vuelva valiente', recita sobre él (es decir, sob
 
 3\. En su primer embarazo, en el sexto u octavo mes.
 
-4\. [^736]. Tras haber cocinado una ración de comida sacrificial, que contenía sésamo y frijoles Mudga, y haber sacrificado a Pra<i>g</i>âpati, reparte a la esposa, sentada al oeste del fuego en una silla mullida, con el cabello hacia arriba (es decir, comenzando desde el frente) un manojo con un número par de frutos verdes de Udumbara <span id="p293">[<sup><small>p. 293</small></sup>]</span>, tres manojos de hierba Darbha, una púa de puercoespín con tres manchas blancas, una vara de madera de Vîratara y un huso lleno. Con las palabras: «Bhûr bhuva_h<i>g</i>h_».
+4\. [^736]. Tras haber cocinado una ración de comida sacrificial, que contenía sésamo y frijoles Mudga, y haber sacrificado a Pra<i>g</i>âpati, reparte a la esposa, sentada al oeste del fuego en una silla mullida, con el cabello hacia arriba (es decir, comenzando desde el frente) un manojo con un número par de frutos verdes de Udumbara <span id="p293"><sup><small>[ p. 293 ]</small></sup></span>, tres manojos de hierba Darbha, una púa de puercoespín con tres manchas blancas, una vara de madera de Vîratara y un huso lleno. Con las palabras: «Bhûr bhuva_h<i>g</i>h_».
 
 5\. O (se separa el cabello una vez) con cada una de las (tres) Mahâvyâh<i>ri</i>tis.
 
@@ -434,7 +434,7 @@ Si lo desea; 'Que (el hijo) se vuelva valiente', recita sobre él (es decir, sob
 
 2\. [^741] Athâvarâvapatanam, avaitu p<i>ri</i><i>ri</i>ni _s<i>ri</i>s<i>arâyv attave, naiva mâ<i>ri</i>sena pívari na kashmi<i>i<i<i>ri</i><i>ri</i><i>s .
 
-3\. Cuando nace el niño, se le realiza, antes de que le corten el cordón umbilical, el medhâ<i>g</i>anana <span id="p294">[<sup><small>p. 294</small></sup>]</span> (producción de inteligencia) y el âyushya (rito para procurar una larga vida).
+3\. Cuando nace el niño, se le realiza, antes de que le corten el cordón umbilical, el medhâ<i>g</i>anana <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> (producción de inteligencia) y el âyushya (rito para procurar una larga vida).
 
 4\. [^742]. (El medhâ<i>g</i>anana se realiza de la siguiente manera:) Con su cuarto dedo y con (un instrumento de) oro le da (al niño) miel y ghee, o ghee (solo), para comer con (las fórmulas), 'Bhû<i>h</i> pongo en ti; bhuva<i>h</i> pongo en ti; sva<i>h</i> pongo en ti. Bhûr bhuva_h<i>g</i>h_ todo lo pongo en ti.'
 
@@ -478,7 +478,7 @@ Si lo desea; 'Que (el hijo) se vuelva valiente', recita sobre él (es decir, sob
 
 17\. [^744]. Recita sobre el lugar donde nace (el niño): «Conozco, oh tierra, tu corazón que mora en el cielo, en la luna. Eso lo sé; que me conozca. Que veamos cien otoños; que vivamos cien otoños; que escuchemos cien otoños».
 
-18\. [^745]. Luego lo toca con (el verso): «Sé una piedra, sé un hacha, sé oro imperecedero. Tú, en verdad, eres el Ser llamado hijo; vive así cien otoños». <span id="p296">[<sup><small>p. 296</small></sup>]</span>
+18\. [^745]. Luego lo toca con (el verso): «Sé una piedra, sé un hacha, sé oro imperecedero. Tú, en verdad, eres el Ser llamado hijo; vive así cien otoños». <span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 19 [^746]. Luego recita sobre su madre (el verso): «Tú eres I<i>d</i>â, hija de Mitra y Varu<i>d</i>a; mujer fuerte, has dado a luz un hijo fuerte. Bendita seas con hijos fuertes, tú que nos has bendecido con un hijo fuerte».
 
@@ -492,7 +492,7 @@ Si lo desea; 'Que (el hijo) se vuelva valiente', recita sobre él (es decir, sob
 
 'Que Âlikhat, Animisha, Ki<i>m</i>vadanta, Upa<i>m</i>ruti, Haryaksha, Kumbhin, <i>S</i>atru, Pâtrapâ<i>m</i>i, N<i>m</i>ma<i>m</i>i, Hantrîmukha, Sarshapâru<i>m</i>a, <i>K</i>yavana desaparezcan de aquí. ¡Svâhâ!'
 
-24\. [^749]. Si Kumâra (el demonio que trae la enfermedad) ataca al niño, el padre lo cubre con una red <span id="p297">[<sup><small>p. 297</small></sup>]</span> o con una prenda exterior, lo sienta en su regazo y murmura: Kûrkura, Sukûrkura, Kûrkura, que sujetas a los niños. ¡Ket! ¡Ket! ¡Perrito! ¡Suéltalo! Reverencia a ti, el Sîsara, el que ladra, el que dobla.
+24\. [^749]. Si Kumâra (el demonio que trae la enfermedad) ataca al niño, el padre lo cubre con una red <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> o con una prenda exterior, lo sienta en su regazo y murmura: Kûrkura, Sukûrkura, Kûrkura, que sujetas a los niños. ¡Ket! ¡Ket! ¡Perrito! ¡Suéltalo! Reverencia a ti, el Sîsara, el que ladra, el que dobla.
 
 —Es cierto que los dioses te han concedido una gracia. ¿Has elegido entonces a este muchacho?
 
@@ -570,7 +570,7 @@ _s_arman (por ejemplo, Vishnuarman), el de un Kshatriya en varman (por ejemplo, 
 
 7\. (Él alimenta al niño) con carne (del pájaro llamado) Bhâradvâ<i>g</i>î, si desea (para el niño) fluidez en el habla,
 
-8\. Con carne de perdiz, si hay abundancia de alimento, <span id="p300">[<sup><small>p. 300</small></sup>]</span>
+8\. Con carne de perdiz, si hay abundancia de alimento, <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 9\. Con los peces, si la rapidez,
 

@@ -44,13 +44,13 @@ Abú’l-Fatḥ, por lo tanto, representa al erudito vagabundo de la época de H
 
 La concepción fue un avance en el estilo dramático que, debido a la objeción religiosa a la representación realista de la vida o de la forma humana, había faltado hasta entonces en la literatura árabe. [^86]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Según el Zahr al-Adáb, el momento de la composición del Maqámát fue el siguiente: Abú Isḥáq, [^87] apodado al-Ḥuṣrí, o el fabricante o vendedor de esteras (ob. en Qairawán 413 A.H.). EspañolContemporáneo de Hamadhání, después de referirse en los términos más halagadores a la singular idoneidad del nombre y la denominación del autor, Abú’l Faḍl y Badí ‘al-Zamán, el ‘Padre de la Excelencia’ y la ‘Maravilla de la Época’ respectivamente, escribe: ‘Cuando al-Hamadhání observó que Abú Bakr ibn Duraid el Azdita (AH 223-321) había compuesto cuarenta historias raras sobre una variedad de temas expresados en un lenguaje de sonido extraño y palabras obsoletas e incongruentes, tales que las naturalezas de los hombres se encogerían y sus oídos se cerrarían ante ellas, que dijo que había producido de los manantiales de su pecho, extraído de las minas de su pensamiento y expuesto a la vista y percepción públicas, Hamadhání le respondió con cuatrocientos Maqámát sobre la mendicidad.’ [^88] Estos están llenos de interés y belleza y entre ninguno de ellos hay el más mínimo parecido, ya sea en cuanto a palabras o ideas. Atribuye la composición y narración de ellas a dos personas. [^89] A una de ellas la llamó ‘Ísá ibn Hishám y a la otra la llamó Abú’l-Fatḥ al-Iskanderí. Hizo que estos dos intercambiaran perlas de pensamiento y expresaran un lenguaje cautivador que haría reír a los tristes y emocionar a los serios. ‘En estas composiciones nos familiariza con todo tipo de bromas y nos informa de toda especie de sutilezas. Generalmente, uno de los personajes es el autor de la historia y el otro el narrador de la misma.’ [^90]
 
 Ibn Khallikan no menciona estas historias en la lista de obras atribuidas a Ibn Duraid [^91] ni hay ninguna referencia a ellas en la citada por Yaqút. [^92] La aproximación más cercana a una obra de este tipo de ese autor es el _Kitáb al-Lughát_ sobre los dialectos o expresiones idiomáticas de los árabes. [^93]
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Por lo tanto, si las historias eran lo que al-Ḥuṣrí las presentó, probablemente fueron escritas en un dialecto que se había vuelto obsoleto.
 
@@ -72,7 +72,7 @@ La cuestión de si los maqámát son composiciones improvisadas, como se las pre
 
 De nuevo, en la página 389 de las Cartas, en respuesta a ciertas críticas hechas al maqámát y a la burla de su gran rival, Abú Bakr al-Khwárazmí, de que no podía producir más, escribe: «Ahora bien, si ese sabio fuera justo, se habría esforzado por producir cinco maqámát, o diez composiciones originales, y las habría sometido al juicio de los cultos y entonces, si las hubieran aprobado y no rechazado, podría habernos criticado adversamente. Ahora que entienda que, aunque he dictado cuatrocientos maqámát sobre la mendicidad, entre ninguno de los cuales hay semejanza alguna, ni en palabras ni en ideas, él es incapaz de producir una décima parte de un maqáma, y, por lo tanto, merece que se expongan sus faltas».
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Parece razonable suponer que su _modus operandi_ era el plan que sugirió que al-Khwárazmí debería haber adoptado, es decir, presentar primero algunos maqámát a los eruditos para que dieran su opinión.
 
@@ -98,7 +98,7 @@ Hay ejemplos de la generosidad proverbial del príncipe Hamdánida Saif al-Daula
 
 La cuestión de si Hamadhání debía algo, directa o indirectamente, a la erudición griega o a los modelos bizantinos es extremadamente difícil sobre el cual aventurar una opinión.
 
-En cuanto a la profusa exhibición de erudición, oscuridades intencionales y el uso de palabras de significado dudoso, el <span id="p21">[<sup><small>p. 21</small></sup>]</span> Maqámát puede compararse con Casandra o Alejandra de Licofrón (285-247 a. C.).
+En cuanto a la profusa exhibición de erudición, oscuridades intencionales y el uso de palabras de significado dudoso, el <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Maqámát puede compararse con Casandra o Alejandra de Licofrón (285-247 a. C.).
 
 Es muy improbable, sin embargo, que el autor haya obtenido alguna inspiración de este producto de la antigüedad. Pero la similitud sugiere que los mismos demonios de dificultad, oscuridad y pedantería entraron en los oradores y poetas de ambas naciones en diferentes períodos.
 
@@ -112,7 +112,7 @@ Sin embargo, existe una semejanza mucho más estrecha entre el Maqámát y los m
 
 Hasta donde sabemos, el Mimo comienza seriamente con Sofrón (alrededor del 430 a. C.), cuyos Mimos, a diferencia de los de Herondas, que tenemos, estaban en prosa. «Estos diálogos contenían personajes masculinos y femeninos. Algunos eran serios y otros de estilo humorístico. Retrataban la vida cotidiana de los griegos sicilianos y estaban escritos en un lenguaje popular conciso y lleno de proverbios y coloquialismos». [^109]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Casi cada palabra de esta descripción de los mimos podría, _mutatis mutandis_, aplicarse al Maqámát. Según Reich, el mimo influyó en el pensamiento de los primeros escritores eclesiásticos y fue un tema de considerable preocupación y controversia con los Padres cristianos. [1](./mhm08.htm#fn_110) Encontró su camino hacia la India y floreció en Siria, Palestina, Alejandría, Antioquía y Constantinopla. [2](./mhm08.htm#fn_111) Sería extraño, en verdad, que sólo los árabes ignoraran su existencia. Que el término mimo fuera conocido por ellos se desprende de la palabra … y es concebible que la práctica de componer diálogos humorísticos o entretenidos pasara del griego al siríaco y del sirio al árabe.
 

@@ -44,7 +44,7 @@ Este gran sabio, sabio e inteligente, poseía un conocimiento y una fe infinitos
 
 Este sabio había explorado todos los seres, móviles o no, en lo alto, en lo bajo y en la tierra, así como lo eterno y lo transitorio. Como una lámpara, puso la Ley bajo una luz verdadera. (4)
 
-Él lo ve todo; su conocimiento ha trascendido (las cuatro etapas inferiores) [^849]; no tiene impureza; es virtuoso, de mente fija, el más alto, el <span id="p288">[<sup><small>p. 288</small></sup>]</span> más sabio del mundo entero; ha roto todas las ataduras; está por encima del peligro y de la necesidad de continuar con la vida [^850]. (5)
+Él lo ve todo; su conocimiento ha trascendido (las cuatro etapas inferiores) [^849]; no tiene impureza; es virtuoso, de mente fija, el más alto, el <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> más sabio del mundo entero; ha roto todas las ataduras; está por encima del peligro y de la necesidad de continuar con la vida [^850]. (5)
 
 Omnisciente, vagando sin hogar, atravesando el diluvio (del Sa<i>m</i>sâra), sabio y de percepción ilimitada, sin igual, brilla (o hace penitencia) como el sol, e ilumina la oscuridad como un fuego brillante, (6)
 
@@ -82,7 +82,7 @@ Así como Airâva<i>n</i>a es el mejor de los elefantes, el león de las bestias
 
 Así como Vishvaksêna [^860] es el más famoso de los guerreros, así como el loto es la mejor de las flores, así como Dantavakra es el mejor de los Kshattriyas, así también Vardhamâna es el mejor de los sabios. (22)
 
-Así como dar seguridad es el mejor de los regalos, así como el mejor de los discursos verdaderos es el que no causa angustia, <span id="p291">[<sup><small>p. 291</small></sup>]</span> así como la castidad es la más alta de las austeridades, así también el <i>S</i>rama<i>n</i>a <i>G</i><i>ñ</i>ât<i>ri</i>putra es el más alto de los hombres. (23)
+Así como dar seguridad es el mejor de los regalos, así como el mejor de los discursos verdaderos es el que no causa angustia, <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> así como la castidad es la más alta de las austeridades, así también el <i>S</i>rama<i>n</i>a <i>G</i><i>ñ</i>ât<i>ri</i>putra es el más alto de los hombres. (23)
 
 Así como los Lavasaptamas [^861] son ​​los más elevados de aquellos dioses que viven muy largo tiempo, así como el palacio Saudharman es la mejor de las moradas celestiales, así como el Nirvâ<i>n</i>a es el objeto principal de la Ley, así también no hay hombre más sabio que <i>G</i><i>ñ</i>ât<i>ri</i>putra. (24)
 
@@ -94,7 +94,7 @@ Habiendo conquistado las pasiones que contaminan el alma: la ira, el orgullo, el
 
 Se abstuvo [^863] de mujeres y de comer por la noche, practicó austeridades para eliminar el dolor, conoció este mundo y el más allá; el señor renunció [^863] a todo en todo momento. (28)
 
-Habiendo escuchado y creído en la Ley, que <span id="p292">[<sup><small>p. 292</small></sup>]</span> ha sido proclamada y enseñada por el Arhat, y ha sido demostrada con argumentos, las personas o bien pondrán fin a su existencia mundana, o se volverán como Indra, el rey de los dioses. (29)
+Habiendo escuchado y creído en la Ley, que <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> ha sido proclamada y enseñada por el Arhat, y ha sido demostrada con argumentos, las personas o bien pondrán fin a su existencia mundana, o se volverán como Indra, el rey de los dioses. (29)
 
 Así lo digo.
 

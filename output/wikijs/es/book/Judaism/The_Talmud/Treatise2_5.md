@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. El año sabático de los higos blancos [^56] es el segundo después del año sabático, porque producen en tres años. El rabino Judah dijo: «El año sabático de los higos persas es <span id="p71">[<sup><small>p. 71</small></sup>]</span> el cierre del año sabático, porque producen en dos años». Los Sabios le respondieron: «Solo dijeron higos blancos».
+1\. El año sabático de los higos blancos [^56] es el segundo después del año sabático, porque producen en tres años. El rabino Judah dijo: «El año sabático de los higos persas es <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> el cierre del año sabático, porque producen en dos años». Los Sabios le respondieron: «Solo dijeron higos blancos».
 
 2\. «¿Si se almacenan eschalots en el año sabático?», dijo R. Maier, «deben tener al menos dos seahs [^57], de una altura de tres palmos menores, y sobre ellos un palmo menor de polvo». Pero los Sabios dicen: «al menos cuatro cabs, de una altura de un palmo menor, y sobre ellos un palmo menor de polvo, y deben almacenarse en un lugar transitable». [^58]
 

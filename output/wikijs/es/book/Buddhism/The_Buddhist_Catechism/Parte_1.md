@@ -62,7 +62,7 @@ A. Un Upâsikâ.
 
 7\. P. ¿Cuándo se predicó esta doctrina por primera vez?
 
-A. Hay cierto desacuerdo en cuanto a la fecha real, <span id="p3">[<sup><small>p. 3</small></sup>]</span>, pero según las Escrituras cingalesas fue en el año 2513 del (actual) Kali-Yuga.
+A. Hay cierto desacuerdo en cuanto a la fecha real, <span id="p3"><sup><small>[ p. 3 ]</small></sup></span>, pero según las Escrituras cingalesas fue en el año 2513 del (actual) Kali-Yuga.
 
 8\. P. _Da las fechas importantes del último nacimiento del Fundador_.
 
@@ -170,7 +170,7 @@ A. Ninguno en este presente período mundial: es por eso que los budistas lo ama
 
 32\. P. _Pero ¿no han renunciado muchos hombres a todas las bendiciones terrenales, e incluso a la vida misma, por el bien de sus semejantes?_
 
-A. Ciertamente. Pero creemos que este altruismo y amor por la humanidad se manifestaron <span id="p8">[<sup><small>p. 8</small></sup>]</span> en su renuncia a la dicha del Nirvana hace incontables eras, cuando nació como el Brâhmaṇa Sumedha, en la época del Buda Dipankara: había alcanzado entonces la etapa en la que podría haber entrado en el Nirvana, de no haber amado a la humanidad más que a sí mismo. Esta renuncia implicó soportar voluntariamente las miserias de la vida terrenal hasta convertirse en Buda, con el fin de enseñar a todos los seres el camino de la emancipación y dar paz al mundo.
+A. Ciertamente. Pero creemos que este altruismo y amor por la humanidad se manifestaron <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> en su renuncia a la dicha del Nirvana hace incontables eras, cuando nació como el Brâhmaṇa Sumedha, en la época del Buda Dipankara: había alcanzado entonces la etapa en la que podría haber entrado en el Nirvana, de no haber amado a la humanidad más que a sí mismo. Esta renuncia implicó soportar voluntariamente las miserias de la vida terrenal hasta convertirse en Buda, con el fin de enseñar a todos los seres el camino de la emancipación y dar paz al mundo.
 
 33\. P. ¿Qué edad tenía cuando fue a la jungla?
 
@@ -410,7 +410,7 @@ A. Sí. Su padre fue con todos sus parientes y ministros a recibirlo y lo recibi
 
 87\. P. ¿Consintió en recuperar su antiguo rango?
 
-A. No. Con toda dulzura, le explicó a su padre que el Príncipe Siddhârtha había dejado de existir como tal y que ahora había alcanzado la condición de un Buda, para quien todos los seres eran igualmente afines y queridos. En lugar de gobernar una tribu o nación, como un rey terrenal, él, <span id="p20">[<sup><small>p. 20</small></sup>]</span> mediante su Dharma, conquistaría los corazones de todos los hombres para que fueran sus seguidores.
+A. No. Con toda dulzura, le explicó a su padre que el Príncipe Siddhârtha había dejado de existir como tal y que ahora había alcanzado la condición de un Buda, para quien todos los seres eran igualmente afines y queridos. En lugar de gobernar una tribu o nación, como un rey terrenal, él, <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> mediante su Dharma, conquistaría los corazones de todos los hombres para que fueran sus seguidores.
 
 88\. P. ¿Vió a Yasodharâ y a su hijo Râhula?
 
@@ -450,7 +450,7 @@ A. Personas de todos los rangos, naciones y castas; rajás y culíes, ricos y po
 
 97\. P. _¿Podría dar algún relato sobre el fallecimiento del Buda?_
 
-A. En la cuadragésima quinta estación tras alcanzar la Budeidad, el día de luna llena de mayo, sabiendo que su fin se acercaba, llegó al atardecer a Kusinâgâra, un lugar a unas ciento veinte millas de Benarés. En el bosque de sala de los Mallas, el Uparvartana <span id="p23">[<sup><small>p. 23</small></sup>]</span> de Kusinâgâra, entre dos árboles de sala, extendió su lecho con la cabecera hacia el norte, según la antigua costumbre. Se acostó sobre él y, con la mente perfectamente despejada, dio sus últimas instrucciones a sus discípulos y se despidió de ellos.
+A. En la cuadragésima quinta estación tras alcanzar la Budeidad, el día de luna llena de mayo, sabiendo que su fin se acercaba, llegó al atardecer a Kusinâgâra, un lugar a unas ciento veinte millas de Benarés. En el bosque de sala de los Mallas, el Uparvartana <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> de Kusinâgâra, entre dos árboles de sala, extendió su lecho con la cabecera hacia el norte, según la antigua costumbre. Se acostó sobre él y, con la mente perfectamente despejada, dio sus últimas instrucciones a sus discípulos y se despidió de ellos.
 
 98\. _P. ¿También hizo nuevos conversos en esas últimas horas?_
 

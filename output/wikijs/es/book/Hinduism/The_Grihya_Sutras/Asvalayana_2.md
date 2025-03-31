@@ -52,7 +52,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Los demás granos los dará a su pueblo.
 
-9\. De la jarra llena la cuchara con harina, <span id="p202">[<sup><small>p. 202</small></sup>]</span> sale (de la casa) hacia el este, vierte agua en la tierra sobre un lugar limpio, ofrece sacrificios con (la fórmula), «¡A las huestes divinas de las serpientes svâhâ!» y les rinde reverencia con (la fórmula), «Las serpientes terrestres, aéreas y celestiales que habitan en las direcciones (del horizonte) —a ellas les he traído este Bali; a ellas les entrego este Bali».
+9\. De la jarra llena la cuchara con harina, <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> sale (de la casa) hacia el este, vierte agua en la tierra sobre un lugar limpio, ofrece sacrificios con (la fórmula), «¡A las huestes divinas de las serpientes svâhâ!» y les rinde reverencia con (la fórmula), «Las serpientes terrestres, aéreas y celestiales que habitan en las direcciones (del horizonte) —a ellas les he traído este Bali; a ellas les entrego este Bali».
 
 10\. Tras recorrer el Bali de izquierda a derecha, se sienta al oeste del Bali con las palabras: «Tú eres la serpiente; tú eres el señor de las serpientes que se arrastran; con la comida proteges a los hombres, con el pastel a las serpientes, con el sacrificio a los dioses. A mí, estando en ti, las serpientes estando en ti no deberían hacerme daño. Te entrego la firme (es decir, la cuchara)».
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 14\. [^486]. Con (la fórmula), '¡A las huestes divinas de las serpientes svâhâ!' —que ofrezca el Bali por la tarde y por la mañana, hasta el Pratyavaroha<i>n</i>a (es decir, la ceremonia del 'redescenso').
 
-15\. [^487]. Algunos cuentan (los días hasta el Pratyavaroha<i>n</i>a) <span id="p203">[<sup><small>p. 203</small></sup>]</span> y ofrecen el número correspondiente de Balis ya en ese día (en el que se realiza la ceremonia _S<i>n</i>n_â).
+15\. [^487]. Algunos cuentan (los días hasta el Pratyavaroha<i>n</i>a) <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> y ofrecen el número correspondiente de Balis ya en ese día (en el que se realiza la ceremonia _S<i>n</i>n_â).
 
 
 ## KA<i>ND</i>IKÂ 2.
@@ -79,7 +79,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 'Unido con las estaciones, unido con las costumbres, unido con los Vi<i>s</i>ve devâs, ¡svâhâ!
 
-'Unido con las estaciones, unido con las costumbres, unido con el Cielo y la Tierra, ¡svâhâ!'—con (estas fórmulas) se ofrece un plato de comida cocinada en el <span id="p204">[<sup><small>p. 204</small></sup>]</span> Âgraya<i>n</i>, un sacrificio realizado por aquel que ha encendido los fuegos (sagrados <i>S</i>rauta).
+'Unido con las estaciones, unido con las costumbres, unido con el Cielo y la Tierra, ¡svâhâ!'—con (estas fórmulas) se ofrece un plato de comida cocinada en el <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> Âgraya<i>n</i>, un sacrificio realizado por aquel que ha encendido los fuegos (sagrados <i>S</i>rauta).
 
 5\. También quien no ha encendido los fuegos (Srauta) realiza la misma ofrenda en el fuego doméstico (sagrado).
 
@@ -96,7 +96,7 @@ Dentro del dominio del blanco, ninguna serpiente ha matado nada. Al blanco, hijo
 
 4\. Aquí no se hace ninguna oblación a (Agni) Svish<i>t</i>ak<i>t</i>t.
 
-5\. [^492]. «Que estemos a salvo de los hijos de Pra<i>g</i>âpati» —murmura mientras mira el fuego. <span id="p205">[<sup><small>p. 205</small></sup>]</span>
+5\. [^492]. «Que estemos a salvo de los hijos de Pra<i>g</i>âpati» —murmura mientras mira el fuego. <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 6\. (Al decir): “Sé feliz y amigable con nosotros” —debería pensar en el invierno.
 
@@ -117,7 +117,7 @@ Dentro del dominio del blanco, ninguna serpiente ha matado nada. Al blanco, hijo
 
 ## KA<i>ND</i>IKÂ 4.
 
-1\. [^496]. En los octavos días de las cuatro quincenas oscuras de (las dos estaciones de) invierno y _S<i>i</i>s_ira (se celebran los Ash<i>i</i>akâs). <span id="p206">[<sup><small>p. 206</small></sup>]</span>
+1\. [^496]. En los octavos días de las cuatro quincenas oscuras de (las dos estaciones de) invierno y _S<i>i</i>s_ira (se celebran los Ash<i>i</i>akâs). <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 2 [^497]. O en uno (de estos días).
 
@@ -151,7 +151,7 @@ Que las aguas, los rayos, lleven nuestras oraciones (a los dioses); que el cread
 
 Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Maruts se sienten (aquí). Que Pra<i>g</i>âpati, el abundante, el gobernante supremo, me conceda vigor, descendencia e inmortalidad. ¡Svâhâ!
 
-'Pra<i>g</i>âpati, nadie más que Tú (Rig-veda X, 121, 10).' <span id="p208">[<sup><small>p. 208</small></sup>]</span>
+'Pra<i>g</i>âpati, nadie más que Tú (Rig-veda X, 121, 10).' <span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 15\. La octava (oblación) es la de (Agni) Svish<i>g</i>ak<i>g</i>t.
 
@@ -169,7 +169,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 5\. Y a sus esposas, con la adición de ron y la espuma del arroz hervido.
 
-6\. Algunos colocan los trozos que se ofrecerán en hoyos, en dos o en seis: <span id="p209">[<sup><small>p. 209</small></sup>]</span>
+6\. Algunos colocan los trozos que se ofrecerán en hoyos, en dos o en seis: <span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 7\. En los lugares situados al este deberá entregar (las ofrendas) a los Padres.
 
@@ -193,7 +193,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 2
 
-1\. [^509]. Al subir a un carro, debe tocar las ruedas con ambas manos por separado, diciendo: «Toco tus dos patas delanteras. Tus dos ruedas son el Brihat y el Rathantara (Sâmans)». <span id="p210">[<sup><small>p. 210</small></sup>]</span>
+1\. [^509]. Al subir a un carro, debe tocar las ruedas con ambas manos por separado, diciendo: «Toco tus dos patas delanteras. Tus dos ruedas son el Brihat y el Rathantara (Sâmans)». <span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 2
 
@@ -217,7 +217,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 8\. Con (el verso), 'La tierra, la buena protectora, el cielo inalcanzable' (Rig-veda X, 63, 10) (debería ascender) a un barco.
 
-9\. Con un carro nuevo, debe rodear un árbol conocido o un estanque que no se seque, con el lado derecho hacia él, y luego debe recoger ramas que den fruto. <span id="p211">[<sup><small>p. 211</small></sup>]</span>
+9\. Con un carro nuevo, debe rodear un árbol conocido o un estanque que no se seque, con el lado derecho hacia él, y luego debe recoger ramas que den fruto. <span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 1
 
@@ -255,7 +255,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 9lado derecho, y luego fluir hacia el este sin ruido—eso posee todas las cualidades auspiciosas.
 
-8\. Donde desembocan las aguas, debe construirse el almacén. <span id="p212">[<sup><small>p. 212</small></sup>]</span>
+8\. Donde desembocan las aguas, debe construirse el almacén. <span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 9\. Así se vuelve rico en alimentos.
 
@@ -289,7 +289,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 9\. Debe dibujar en él mil surcos y debe medirlo como un cuadrangular, con lados iguales en cada (una de las cuatro) direcciones;
 
-10\. O como un cuadrángulo oblongo. <span id="p213">[<sup><small>p. 213</small></sup>]</span>
+10\. O como un cuadrángulo oblongo. <span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 11 [^512]. Con una rama de <i>S</i>amî o una rama de Udumbara la rocía (con agua), dando tres vueltas alrededor de ella, de modo que su lado derecho esté vuelto hacia ella, recitando el himno <i>S</i>antâtîya.
 
@@ -301,7 +301,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 15\. [^514]. Habiendo colocado (esa planta) en el hoyo donde se colocará el poste central, debe extender (sobre ella) hierba Ku<i>s</i>a con puntas al este y al norte y debe rociar (sobre esa hierba) agua en la que se ha arrojado arroz y cebada, con (las palabras), '¡Al firme, el demonio de la tierra, svâhâ!'
 
-16\. [^515]. Luego, cuando se esté erigiendo el poste central, deberá recitar sobre él los dos versos: «Quédate aquí, firme en la tierra, próspero, duradero (?), <span id="p214">[<sup><small>p. 214</small></sup>]</span>, de pie en medio de la prosperidad. ¡Que los malvados no te alcancen!»
+16\. [^515]. Luego, cuando se esté erigiendo el poste central, deberá recitar sobre él los dos versos: «Quédate aquí, firme en la tierra, próspero, duradero (?), <span id="p214"><sup><small>[ p. 214 ]</small></sup></span>, de pie en medio de la prosperidad. ¡Que los malvados no te alcancen!»
 
 'A ti venga el niño pequeño, a ti el ternero...; a ti venga la copa de Parisrut; a ti vengan con ollas de cuajada.'
 
@@ -321,7 +321,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 7\. [^518]. Pone oro en agua en la que se ha echado arroz y cebada, y (con esa agua) la rocía tres veces, girándola en torno a ella con su lado derecho hacia ella, con el himno <i>S</i>antâtîya.
 
-8\. [^519]. Y (lo hace de nuevo tres veces) derramando <span id="p215">[<sup><small>p. 215</small></sup>]</span> agua sin interrupción, con los tres versos: «Oh aguas, sois saludables» (Rig-veda X, 9, I ss.).
+8\. [^519]. Y (lo hace de nuevo tres veces) derramando <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> agua sin interrupción, con los tres versos: «Oh aguas, sois saludables» (Rig-veda X, 9, I ss.).
 
 9\. [^520]. En el centro de la casa debe cocinar una ración de comida, ofrecerla como sacrificio con los cuatro versos: «Vâstoshpati, acéptanos» (Rig-veda VII, 54, 1 ss.), verso por verso, preparar la comida, darla de comer a los brahmanes y hacer que digan: «¡Qué suerte tiene la tierra! ¡Qué suerte tiene la tierra!».
 
@@ -339,7 +339,7 @@ Que todos los Âdityas y los divinos Vasus, los Rudras, los protectores, los Mar
 
 6\. [^524]. Cuando regresen, (deberá recitar los siguientes versos,)
 
-'Que aquellos cuya ubre con sus cuatro agujeros esté llena <span id="p216">[<sup><small>p. 216</small></sup>]</span> de miel y ghee, sean nuestros proveedores de leche; (que sean) muchos en nuestro establo, ricos en ghee.
+'Que aquellos cuya ubre con sus cuatro agujeros esté llena <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> de miel y ghee, sean nuestros proveedores de leche; (que sean) muchos en nuestro establo, ricos en ghee.
 
 Ven a mí, refréscate, tráeme vigor y fuerza. Dame leche inagotable, descansa en mi establo para que pueda llegar a ser el más alto.
 

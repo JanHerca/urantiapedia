@@ -46,7 +46,7 @@ SEGUNDO ADHYÂYA [^525].
 
 5\. Los Devas (habla, etc.) le dijeron (al aliento): «Él debe ser amado por todos nosotros». Porque los Devas dijeron de él que él debía ser amado (vâma) por todos, por eso existe (el poeta del cuarto Ma<i>n</i><i>d</i>ala del Rig-veda, llamado) Vâmadeva. Por eso, a quien es realmente Prana (aliento), la gente lo llama Vâmadeva.
 
-6\. Él (el aliento) protegió todo esto del mal. Porque protegió (atrâyata) todo esto <span id="p216">[<sup><small>p. 216</small></sup>]</span> del mal, por eso existen (los poetas del quinto Ma<i>n</i><i>d</i>ala del Rig-veda, llamados) Atraya<i>h</i>. Por eso, a quien es realmente Prâ<i>n</i>a (aliento), la gente lo llama Atraya<i>h</i>.
+6\. Él (el aliento) protegió todo esto del mal. Porque protegió (atrâyata) todo esto <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> del mal, por eso existen (los poetas del quinto Ma<i>n</i><i>d</i>ala del Rig-veda, llamados) Atraya<i>h</i>. Por eso, a quien es realmente Prâ<i>n</i>a (aliento), la gente lo llama Atraya<i>h</i>.
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
@@ -56,7 +56,7 @@ SEGUNDO ADHYÂYA [^525].
 
 3\. Él (el aliento) se manifestó hacia [^529] todo esto. Porque se manifestó hacia todo esto, existen (los poetas del octavo Ma<i>n</i><i>d</i>ala del Rig-veda, llamados) los Pragâthas. Por eso, a quien es realmente Pranâ<i>n</i>a (aliento), se le llama Pragâthas.
 
-4\. Él (el aliento) purificó todo esto. Porque purificó todo esto, existen los <span id="p217">[<sup><small>p. 217</small></sup>]</span> (los himnos y también los poetas [^530] del noveno Ma<i>n</i><i>d</i>ala del Rig-veda, llamados) los Pavamânîs. Por eso, a quien es realmente Prana (aliento), la gente lo llamaba los Pavamânîs.
+4\. Él (el aliento) purificó todo esto. Porque purificó todo esto, existen los <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> (los himnos y también los poetas [^530] del noveno Ma<i>n</i><i>d</i>ala del Rig-veda, llamados) los Pavamânîs. Por eso, a quien es realmente Prana (aliento), la gente lo llamaba los Pavamânîs.
 
 5\. Él (el aliento) dijo: «Que yo sea todo, pequeño (kshudra) y grande (mahat), y esto se convirtió en los Kshudrasûktas y Mahâsûktas». Por lo tanto, existían (los himnos y también los poetas del décimo Ma<i>n</i><i>d</i>ala del Rig-veda, llamados) los Kshudrasûktas (y Mahâsûktas). Por eso, a quien es realmente Prana (aliento), la gente lo llama los Kshudrasûktas (y Mahâsûktas).
 
@@ -64,7 +64,7 @@ SEGUNDO ADHYÂYA [^525].
 
 7\. Él (el aliento) es un Rik (verso), pues honró [^532] a todos los seres (al penetrar en ellos). Por eso, existe el verso Rik. Por eso, a quien es realmente Prâ<i>n</i>a (aliento), se le llama Rik.
 
-8\. Él (el aliento) es un Ardhar<i>k</i>a (medio verso), pues honró a todos los lugares (ardha) [^533]. Porque honró a todos los lugares, por eso existió el Ardhar<i>k</i>a. Por eso, a quien realmente es Prâ<i>n</i>a (aliento), la gente lo llama Ardhar<i>k</i>a. <span id="p218">[<sup><small>p. 218</small></sup>]</span> 9\. Él (el aliento) es un Pada (palabra) [^534], pues se introdujo en todos estos seres. Porque se introdujo (pâdi) en todos estos seres, por eso existió el Pada (palabra). Por eso, a quien realmente es Prâ<i>n</i>a (aliento), la gente lo llama Pada.
+8\. Él (el aliento) es un Ardhar<i>k</i>a (medio verso), pues honró a todos los lugares (ardha) [^533]. Porque honró a todos los lugares, por eso existió el Ardhar<i>k</i>a. Por eso, a quien realmente es Prâ<i>n</i>a (aliento), la gente lo llama Ardhar<i>k</i>a. <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> 9\. Él (el aliento) es un Pada (palabra) [^534], pues se introdujo en todos estos seres. Porque se introdujo (pâdi) en todos estos seres, por eso existió el Pada (palabra). Por eso, a quien realmente es Prâ<i>n</i>a (aliento), la gente lo llama Pada.
 
 10\. Él (el aliento) es una Akshara (sílaba), pues derrama (ksharati) dones sobre todos estos seres, y sin él nadie puede derramar (atiksharati) dones. Por eso existe la Akshara (sílaba). Por eso, a quien es realmente Prâ<i>n</i>a (aliento), la gente lo llama Akshara [^535].
 
@@ -72,7 +72,7 @@ SEGUNDO ADHYÂYA [^525].
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 
-1\. Mientras Vi<i>s</i>vâmitra iba a repetir los himnos de ese día (el mahâvrata), Indra se sentó cerca de él [^537]. Vi<i>s</i>vâmitra (adivinando que Indra quería comida) le dijo: «Esto (los versos del himno) es comida», y repitió los mil versos del B<i>ri</i>hatî [^538] <span id="p219">[<sup><small>p. 219</small></sup>]</span>. De esta manera, se dirigió al encantador hogar de Indra (Svarga).
+1\. Mientras Vi<i>s</i>vâmitra iba a repetir los himnos de ese día (el mahâvrata), Indra se sentó cerca de él [^537]. Vi<i>s</i>vâmitra (adivinando que Indra quería comida) le dijo: «Esto (los versos del himno) es comida», y repitió los mil versos del B<i>ri</i>hatî [^538] <span id="p219"><sup><small>[ p. 219 ]</small></sup></span>. De esta manera, se dirigió al encantador hogar de Indra (Svarga).
 
 2\. Indra le dijo: «Rishi, has llegado a mi encantador hogar. Rishi, repite un segundo himno [^539]». Višvāmitra (adivinando que Indra quería comida) le dijo: «Esto (los versos del himno) es comida», y repitió los mil versos del Būrihatī. Así llegó al encantador hogar de Indra (Svarga).
 
@@ -95,7 +95,7 @@ SEGUNDO ADHYÂYA [^525].
 
 5\. Esto se vuelve tan perfecto como mil versos del Brihat. Quien lo conoce, tras completar estos mil versos del Brihat, se llena de conocimiento, de los dioses, de Brahman, de lo inmortal, y luego también se dirige a los dioses.
 
-6\. Lo que yo soy (el adorador), eso es él (el sol); lo que él es, eso soy yo. <span id="p221">[<sup><small>p. 221</small></sup>]</span> 7\. Un Rishi dijo esto (Rv. I, 115, 1): «El sol es el ser de todo lo que se mueve y reposa».
+6\. Lo que yo soy (el adorador), eso es él (el sol); lo que él es, eso soy yo. <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 7\. Un Rishi dijo esto (Rv. I, 115, 1): «El sol es el ser de todo lo que se mueve y reposa».
 
 8\. ¡Que se ocupe de eso, que se ocupe de eso!
 

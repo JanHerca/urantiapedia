@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 \[Un mataridita que murió en el año 537 de la Hégira. Este credo todavía se utiliza como libro de texto en las escuelas. Se ha traducido de la edición de Cureton (Londres, 1843) con la ayuda del comentario de at-Taftazani (Constantinopla, 1310 de la Hégira). Los asteriscos marcan los puntos en los que al-Mataridi difiere de al-Ash‘ari.\]
 
@@ -74,7 +74,7 @@ Un gran pecado (_kabira_) no excluye a la criatura que cree de la Fe (_iman_) ni
 
 Y puede haber castigo para un pequeño y perdón para un grande, si no es de la naturaleza de considerar lícito lo que está prohibido, porque eso es incredulidad (_kufr_). Y la intercesión (_shafa‘a_) de los Apóstoles y de los excelentes en favor de los que cometen grandes pecados está establecida.
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Y aquellos creyentes que cometen grandes pecados no permanecen eternamente en el Fuego aunque mueren sin arrepentimiento.
 
@@ -88,7 +88,7 @@ Los ángeles son siervos de Dios y trabajan según sus órdenes. No se les descr
 
 Y Dios tiene libros que ha revelado a Sus profetas, y en ellos están Sus mandamientos y Sus promesas.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 El viaje nocturno (_mi‘raj_) del Apóstol de Dios—¡Sobre quién sea la bendición y la paz! mientras está despierto, en el cuerpo, al Cielo, entonces a qué lugar de las Regiones Exaltadas quiso Dios Altísimo, es una Verdad.
 

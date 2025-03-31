@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## YASNA XLII. UN SUPLEMENTO AL HAPTANGHÂITI [^1212].
 
-1\. ¡Os adoramos, oh Generosos Inmortales! con la colección completa de este Yasna, Haptanghâiti <span id="p291">[<sup><small>p. 291</small></sup>]</span> (como lo resumimos todo). Y ofrecemos sacrificios a las fuentes de las aguas, a los vados de los ríos, a las bifurcaciones de los caminos y a los encuentros de los caminos.
+1\. ¡Os adoramos, oh Generosos Inmortales! con la colección completa de este Yasna, Haptanghâiti <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> (como lo resumimos todo). Y ofrecemos sacrificios a las fuentes de las aguas, a los vados de los ríos, a las bifurcaciones de los caminos y a los encuentros de los caminos.
 
 2\. Y sacrificamos a las colinas por las que corren torrentes, a los lagos rebosantes de agua y al trigo que llena los sembradíos; y sacrificamos tanto al protector como al Creador, tanto a Zaratustra como al Señor.
 

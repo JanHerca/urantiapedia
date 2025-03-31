@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T19:18:16Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 ## I
 
@@ -55,7 +55,7 @@ Vanos son tus sueños de maravillosa empresa,
 &nbsp;&nbsp;&nbsp;Busca en vano un puerto en este mundo de rostros
 Si se ha determinado lo contrario.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## IV
 
@@ -92,7 +92,7 @@ Pero si en algún jardín encantado florecen
 &nbsp;&nbsp;&nbsp;¡Ah! ¿Debo ir con una pala profanadora?
 Y debajo de sus glorias ¿construir una tumba?
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## IX
 
@@ -129,7 +129,7 @@ No quiero que guardes ni hagas alarde de ello ociosamente
 &nbsp;&nbsp;&nbsp;Pero yo quisiera que sembraras con mano insomne
 Las virtudes que equilibrarán tu cuenta.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## XIV
 
@@ -166,7 +166,7 @@ Si yo tengo albergado amor dentro de mi pecho,
 &nbsp;&nbsp;&nbsp;¿Quién conmigo miraba las estrellas merodeando en juego,
 Quien soportó la carga del mismo malestar,
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## XIX
 
@@ -203,7 +203,7 @@ Ningún sultán a su antojo erigirá
 &nbsp;&nbsp;&nbsp;Que yo, a quien todos los misterios obedecen,
 Construir con el crepúsculo para un arquitecto,
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## XXIV
 
@@ -240,7 +240,7 @@ Si el gran ancla se arrastra detrás del barco?
 &nbsp;&nbsp;&nbsp;Y, si quieres, rechaza la caña del doliente,
 Y, si quieres, planta cipreses en el camino.
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## XXIX
 
@@ -277,7 +277,7 @@ Pero ¿los ojos temerosos de la humanidad?
 &nbsp;&nbsp;&nbsp;La audacia de una gacela errante
 O de un pájaro ¿atrapado en el viento?
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ## XXXIV
 
@@ -314,7 +314,7 @@ He imaginado que nuestro bienestar es
 &nbsp;&nbsp;&nbsp;Y así el almizcle, que cuanto más se golpea,
 Da fragancias cada vez más deliciosas.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## XXXIX
 
@@ -351,7 +351,7 @@ Un poco de arena amarilla calmará todo el hambre
 &nbsp;&nbsp;&nbsp;Y ¡ah! el pájaro caído que es mi alma
 Ya no estará preso en la jaula.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XLIV
 
@@ -388,7 +388,7 @@ Se quedará contigo por una eternidad.
 &nbsp;&nbsp;&nbsp;Y revelar fielmente los días de la muerte,
 Y seguramente revelará ese día más largo."
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## XLIX
 
@@ -425,7 +425,7 @@ Como si uno pudiera levantar una cosa pálida de la tumba.
 &nbsp;&nbsp;&nbsp;No habrá tal magia cuando yo
 Estoy roto por las ruedas del carro de la perdición.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## LIV
 
@@ -462,7 +462,7 @@ A ¿A qué generaciones se han retirado?
 &nbsp;&nbsp;&nbsp;De otros, y en este camino de vergüenza
 Se vuelve más puro y más puro."—¡Oh, que enseñen!
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ## LIX
 
@@ -499,7 +499,7 @@ Y si encuentras un sabio solitario
 &nbsp;&nbsp;&nbsp;El señor de los hombres, el guardián del viento,
 El vencedor de todos los ejércitos y de la edad.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## LXIV
 
@@ -536,7 +536,7 @@ Hay un palacio, y la pared en ruinas
 &nbsp;&nbsp;&nbsp;Y donde el amor susurró mil años
 Las orugas de patas de seda se arrastran.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 ## LXIX
 
@@ -573,7 +573,7 @@ Creo que nuestro mundo no es un lugar de descanso,
 &nbsp;&nbsp;&nbsp;Hasta el propietario a quien nunca ve
 le da ese apartamento a otro invitado
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## LXXIV
 
@@ -610,7 +610,7 @@ La buena ley y la mala ley desaparecen
 &nbsp;&nbsp;&nbsp;Y, como el maravilloso abrigo de Sar’aby,
 Nos cautivan por un pequeño año.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 ## LXXIX
 
@@ -647,7 +647,7 @@ Un arquero tomó una flecha en su mano;
 &nbsp;&nbsp;&nbsp;Que trajo la justicia desde... ¡Ah, tan alto!
 Él era un arquero en la tierra de la mañana.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## LXXXIV
 
@@ -684,7 +684,7 @@ He aquí la copa donde tu esclavo ha pisado;
 &nbsp;&nbsp;&nbsp;Tu esclavo—recuerda que vive por ti,
 Mientras que en la forma de él nos inclinamos ante Dios.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 ## LXXXIX
 
@@ -721,7 +721,7 @@ Mi pueblo es la soledad, y yo
 &nbsp;&nbsp;&nbsp;Que por un momento vea la mano de advertencia
 De uno que se asomó a la roca, su espía.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## XCIV
 
@@ -758,7 +758,7 @@ Porque lo que es hermoso no lo podemos poseer.
 &nbsp;&nbsp;&nbsp;Porque si navegas entre los cielos
 Tú también puedes alcanzar los reyes subterráneos.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## XCIX
 
@@ -795,7 +795,7 @@ _Había un gusano engordado. Miró a su alrededor,_
 _Vio a un pariente y le habló:_
 _Me parece que este mundo es muy bueno._
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## CIV
 
@@ -832,7 +832,7 @@ Una noche de silencio! Era el mar oscilante
 &nbsp;&nbsp;&nbsp;Rodó bajo las estrellas; arrojaron una cadena
 Alrededor de los silencios que hay en mí.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## CIX
 

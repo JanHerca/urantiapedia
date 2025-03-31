@@ -36,9 +36,9 @@ dateCreated: 2025-1-15T22:56:36Z
 
 ## Capítulo XXI
 
-**Sobre el rey de** **Benarés** **cumpliendo el consejo de su hija** <span id="p204">[<sup><small>p. 204</small></sup>]</span> 1\. Vyâsa dijo:— Al oír las sanas palabras de su hija S'as'ikalâ, llena de razón, Subâhu, el rey de Benarés, se llenó de ansiedad y empezó a pensar qué haría ahora, en tan poco tiempo y en esta ocasión trascendental, así:—
+**Sobre el rey de** **Benarés** **cumpliendo el consejo de su hija** <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 1\. Vyâsa dijo:— Al oír las sanas palabras de su hija S'as'ikalâ, llena de razón, Subâhu, el rey de Benarés, se llenó de ansiedad y empezó a pensar qué haría ahora, en tan poco tiempo y en esta ocasión trascendental, así:—
 
-2-3. “Todos los reyes poderosos han venido aquí con la intención de luchar, y por lo tanto, todos están acompañados por sus ejércitos y seguidores, respectivamente; y ahora están sentados en sus respectivos estrados en el salón Svayamvara. Si voy ahora y les digo que mi hija <span id="p205">[<sup><small>p. 205</small></sup>]</span> S'as'ikalâ no está dispuesta a venir por voluntad propia al salón, los reyes malvados, en su ira, sin duda me matarán.
+2-3. “Todos los reyes poderosos han venido aquí con la intención de luchar, y por lo tanto, todos están acompañados por sus ejércitos y seguidores, respectivamente; y ahora están sentados en sus respectivos estrados en el salón Svayamvara. Si voy ahora y les digo que mi hija <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> S'as'ikalâ no está dispuesta a venir por voluntad propia al salón, los reyes malvados, en su ira, sin duda me matarán.
 
 4\. No tengo tanta fuerza, ni en mi ejército ni en mis fuertes, como para poder derrocar a estos reyes y expulsarlos de mi reino.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 16\. ¿Vas a insultar a estos? ¿Y a dar a tu hija en matrimonio a Sudarsana? ¿Nada puede ser más innoble que esto?
 
-17\. Quien busca el bienestar debe juzgar con antelación y luego actuar. Pero has comenzado tu obra sin juicio ni decisión previa. Tendrás que cosechar sus frutos; de eso no hay duda. <span id="p206">[<sup><small>p. 206</small></sup>]</span> 18\. ¿Por qué piensas ahora entregar a tu hija a este Sudars'ana indefenso y sin recursos en presencia de reyes poderosos que dirigen una gran milicia?
+17\. Quien busca el bienestar debe juzgar con antelación y luego actuar. Pero has comenzado tu obra sin juicio ni decisión previa. Tendrás que cosechar sus frutos; de eso no hay duda. <span id="p206"><sup><small>[ p. 206 ]</small></sup></span> 18\. ¿Por qué piensas ahora entregar a tu hija a este Sudars'ana indefenso y sin recursos en presencia de reyes poderosos que dirigen una gran milicia?
 
 19\. ¡Oh, pecador! Hoy te mataré sin falta; luego mataré a Sudarsana y luego entregaré a tu hija al hijo de mi hija; ten en cuenta que esta es mi firme resolución.
 
@@ -84,7 +84,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 27. Que esta hija elija a otro hombre que no sea Sudarsana; no tengo motivos para discutirlo; y el matrimonio se celebrará según tu voluntad.
 
-28-29. ¡Oh, el mejor de los reyes! Los demás reyes son todos de alta alcurnia; ¡y tienen ejércitos y están todos en posiciones dignas de tu conexión! Si la hija elige a cualquiera de ellos, entonces no surgirán disputas. Pero si la hija elige a Sudars'ana, entonces ciertamente la llevaré por la fuerza. Por lo tanto, ¡oh rey! actúa de tal manera que no ocurran disputas en el futuro”. <span id="p207">[<sup><small>p. 207</small></sup>]</span> 30-31. Vyâsa dijo:— Así dirigido por Yudhâjit, el rey de Benarés estaba muy triste, y, después de un profundo suspiro, fue a su palacio y le dijo con el corazón afligido a su esposa, así:— "¡Oh, de hermosos ojos! Ahora estoy completamente bajo tu control; será mejor que le expliques a S'as'ikalâ que ahora ocurrirá una terrible disputa; ¿Qué debo hacer ahora?
+28-29. ¡Oh, el mejor de los reyes! Los demás reyes son todos de alta alcurnia; ¡y tienen ejércitos y están todos en posiciones dignas de tu conexión! Si la hija elige a cualquiera de ellos, entonces no surgirán disputas. Pero si la hija elige a Sudars'ana, entonces ciertamente la llevaré por la fuerza. Por lo tanto, ¡oh rey! actúa de tal manera que no ocurran disputas en el futuro”. <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> 30-31. Vyâsa dijo:— Así dirigido por Yudhâjit, el rey de Benarés estaba muy triste, y, después de un profundo suspiro, fue a su palacio y le dijo con el corazón afligido a su esposa, así:— "¡Oh, de hermosos ojos! Ahora estoy completamente bajo tu control; será mejor que le expliques a S'as'ikalâ que ahora ocurrirá una terrible disputa; ¿Qué debo hacer ahora?
 
 32-33. Vyâsa dijo: —Al oír las palabras de su esposo, la reina se acercó a su hija y le dijo: —¡Oh, niña! Se han desatado disputas entre los reyes por tu causa; tu padre está muy afligido; por tanto, ¡oh bella! Elige a otro hombre como esposo que no sea Sudars'ana.
 
@@ -139,7 +139,7 @@ Así termina el capítulo 21 sobre el rey de Benarés cumpliendo el consejo de s
 
 ## Capítulo XXII
 
-**Sobre el matrimonio de Sudars'ana** <span id="p209">[<sup><small>p. 209</small></sup>]</span> 1\. Vyâsa dijo: —¡Oh, rey! Entonces, al oír las palabras de su hija, el noble rey de Benarés, Subâhu, llegó al lugar donde se alojaban los reyes y dijo: —¡Oh, reyes! Ahora pueden irse a sus campamentos; mañana oficiaré la ceremonia de matrimonio de mi hija.
+**Sobre el matrimonio de Sudars'ana** <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 1\. Vyâsa dijo: —¡Oh, rey! Entonces, al oír las palabras de su hija, el noble rey de Benarés, Subâhu, llegó al lugar donde se alojaban los reyes y dijo: —¡Oh, reyes! Ahora pueden irse a sus campamentos; mañana oficiaré la ceremonia de matrimonio de mi hija.
 
 2. Que todos estén complacidos conmigo y acepten con benevolencia la comida y la bebida que les ofrezco. Mañana vengan todos aquí y celebren la ceremonia de matrimonio de mi hija.
 
@@ -153,7 +153,7 @@ Así termina el capítulo 21 sobre el rey de Benarés cumpliendo el consejo de s
 
 7-8. El rey Subâhu, por su parte, comenzó a realizar todos los deberes relacionados con el matrimonio de su hija, tras consultar debidamente con todos los miembros principales de la familia. En la fecha señalada para el matrimonio, llevó a su hija a una cámara bien escondida y vigilada, hizo que los sacerdotes versados ​​en los Vedas realizaran la ceremonia del baño del novio elegido, lo vistieron elegantemente y le realizaron los demás preparativos necesarios. Luego, llevó al novio a la casa, lo sentó en una plataforma védica y lo adoró debidamente.
 
-9\. Entonces el generoso rey le dio al novio el asiento, Âchamanîya (agua para enjuagarse la boca y los alimentos que requieren enjuague bucal después de comerlos), Arghya (artículos para adorar merecidamente, pâdyam, por ejemplo, agua para lavarse los pies con una ofrenda de hierba verde, arroz, etc., hecha para adorar a un dios o un brahmán), las dos telas de seda y la sábana, vacas y dos pendientes, y luego quiso darle a Sudars'ana a su hija. <span id="p210">[<sup><small>p. 210</small></sup>]</span> 10\. La noble Sudars'ana aceptó todas las ofrendas del rey. Al ver esto, Manoramâ se tranquilizó. Manoramâ comenzó a pensar que aquella bella y bien adornada hija era como si fuera la hija de Kuvera (el dios de la riqueza); y se agradeció a sí misma y pensó como si todos sus deberes hubieran terminado.
+9\. Entonces el generoso rey le dio al novio el asiento, Âchamanîya (agua para enjuagarse la boca y los alimentos que requieren enjuague bucal después de comerlos), Arghya (artículos para adorar merecidamente, pâdyam, por ejemplo, agua para lavarse los pies con una ofrenda de hierba verde, arroz, etc., hecha para adorar a un dios o un brahmán), las dos telas de seda y la sábana, vacas y dos pendientes, y luego quiso darle a Sudars'ana a su hija. <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> 10\. La noble Sudars'ana aceptó todas las ofrendas del rey. Al ver esto, Manoramâ se tranquilizó. Manoramâ comenzó a pensar que aquella bella y bien adornada hija era como si fuera la hija de Kuvera (el dios de la riqueza); y se agradeció a sí misma y pensó como si todos sus deberes hubieran terminado.
 
 11\. Entonces, los ministros reales llevaron con alegría y valentía a la hermosa Sudarsana, venerada con ornamentos y ropas, en un elegante carruaje hasta el centro del patio de diversiones.
 
@@ -167,7 +167,7 @@ Así termina el capítulo 21 sobre el rey de Benarés cumpliendo el consejo de s
 
 21\. Entonces el rey se inclinó ante Manoramâ, su hija, y con las manos juntas, dijo: —¡Oh, hija real! Ahora soy tu sirviente; dime, por favor, ¿cuál es tu deseo?
 
-22\. Al oír estas hermosas palabras del rey, Manoramâ dijo: —¡Oh rey! Que todo te vaya bien y que tu familia crezca en hijos y nietos. Has aumentado mi honor al dar en matrimonio a tu hija (joya) a mi hijo. Mi único deseo es ver tu bienestar constante y el aumento de tu familia, posteridad y prosperidad. <span id="p211">[<sup><small>p. 211</small></sup>]</span> 23\. ¡Oh rey! Tú eres el rey supremo. Has engrandecido y fuerte a mi hijo al darle en matrimonio a tu hija. Eres noble y pariente mío. No soy hija de un panegirista ni de un bardo; ¿cómo podría entonces alabarte por este noble acto?
+22\. Al oír estas hermosas palabras del rey, Manoramâ dijo: —¡Oh rey! Que todo te vaya bien y que tu familia crezca en hijos y nietos. Has aumentado mi honor al dar en matrimonio a tu hija (joya) a mi hijo. Mi único deseo es ver tu bienestar constante y el aumento de tu familia, posteridad y prosperidad. <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> 23\. ¡Oh rey! Tú eres el rey supremo. Has engrandecido y fuerte a mi hijo al darle en matrimonio a tu hija. Eres noble y pariente mío. No soy hija de un panegirista ni de un bardo; ¿cómo podría entonces alabarte por este noble acto?
 
 24-25. ¡Oh rey! Tu carácter es maravilloso y puro. ¿Qué más puedo decirte que esto: que todos ustedes, a pesar de muchos otros reyes, han dado a su hija en matrimonio a mi hijo, quien está desterrado de su reino, privado de su padre y vive en el bosque, sin dinero, sin ejército, subsistiendo solo de raíces y frutas?
 
@@ -183,7 +183,7 @@ Así termina el capítulo 21 sobre el rey de Benarés cumpliendo el consejo de s
 
 32\. Al oír las palabras del rey, cargadas de significado, Manoramâ se sintió muy respetada y, con ánimo alegre, pronunció las siguientes buenas palabras:
 
-33\. ¡Oh, rey! ¡Que todo lo bueno te alcance! Será mejor que abandones el miedo y reines aquí con tus hijos; mi hijo Sudars'ana también se convertirá en rey de Ayodhya por la Gracia de Sri Bhagavati Bhuvanes'vari, la Causa Suprema de los innumerables mundos, y vagará por este mundo; de esto no hay duda. <span id="p212">[<sup><small>p. 212</small></sup>]</span> 34\. Que Bhagavati Bhavani te traiga todo lo bueno; ahora, por favor, permítenos partir a nuestros hogares, ¡oh, rey! Siempre contemplo a la Suprema Diosa Ambikâ; y no tengo tiempo para otros pensamientos.
+33\. ¡Oh, rey! ¡Que todo lo bueno te alcance! Será mejor que abandones el miedo y reines aquí con tus hijos; mi hijo Sudars'ana también se convertirá en rey de Ayodhya por la Gracia de Sri Bhagavati Bhuvanes'vari, la Causa Suprema de los innumerables mundos, y vagará por este mundo; de esto no hay duda. <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> 34\. Que Bhagavati Bhavani te traiga todo lo bueno; ahora, por favor, permítenos partir a nuestros hogares, ¡oh, rey! Siempre contemplo a la Suprema Diosa Ambikâ; y no tengo tiempo para otros pensamientos.
 
 35\. Así, Manoramâ y el rey Subâhu comenzaron a hablar sobre diversos temas, causándoles a ambos satisfacción como el néctar, cuando amaneció.
 
@@ -207,7 +207,7 @@ Mientras los reyes discutían de esta manera, el rey de Benarés, de indomable v
 
 43\. Al oírlo, los reyes se llenaron de ira y dijeron: «Todos hemos comido; nuestros deseos se han cumplido; será mejor que regresen a sus hogares.»
 
-44-45. «Tu comportamiento con nosotros es correcto y apropiado; ahora cumple con tus demás deberes y deja que los reyes regresen a sus hogares». Al oír estas palabras de los reyes, el rey de Benarés se aterrorizó y regresó a casa, pensando que los reyes estaban furiosos y podrían hacerle daño grave. Así, comenzó a pasar el tiempo sumido en una profunda ansiedad. <span id="p213">[<sup><small>p. 213</small></sup>]</span> 46\. Entonces el rey Subâhu desapareció; los reyes, unidos, decidieron bloquear el paso de Sudars'ana, matarlo y llevarse a la muchacha.
+44-45. «Tu comportamiento con nosotros es correcto y apropiado; ahora cumple con tus demás deberes y deja que los reyes regresen a sus hogares». Al oír estas palabras de los reyes, el rey de Benarés se aterrorizó y regresó a casa, pensando que los reyes estaban furiosos y podrían hacerle daño grave. Así, comenzó a pasar el tiempo sumido en una profunda ansiedad. <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> 46\. Entonces el rey Subâhu desapareció; los reyes, unidos, decidieron bloquear el paso de Sudars'ana, matarlo y llevarse a la muchacha.
 
 47\. Algunos de estos reyes dijeron: "¿De qué sirve matar al hijo del rey? Todos iremos de buena gana a ver la diversión".
 
@@ -238,7 +238,7 @@ Así termina el Capítulo 22 sobre el matrimonio de Sudarsana en el S'rî Mad De
 
 8\. El rey Subahu lo siguió con una larga comitiva de soldados. Así, Sudarsana continuó su viaje sin temor.
 
-9\. El gran héroe Sudars'ana, descendiente de Raghu, con su nueva consorte en el carro, seguido de muchos otros carros, vio a los soldados de los diversos reyes. <span id="p214">[<sup><small>p. 214</small></sup>]</span> 10\. Al verlos, el rey Subâhu se angustió. Pero Sudars'ana, con alegría, se refugió con todo su corazón en la auspiciosa diosa Sankarî.
+9\. El gran héroe Sudars'ana, descendiente de Raghu, con su nueva consorte en el carro, seguido de muchos otros carros, vio a los soldados de los diversos reyes. <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 10\. Al verlos, el rey Subâhu se angustió. Pero Sudars'ana, con alegría, se refugió con todo su corazón en la auspiciosa diosa Sankarî.
 
 11\. Sudars'ana comenzó a recitar en silencio el excelente mantra de una sola palabra del Rey de los Deseos (Kâmarâja) y, gracias a su poder, él y su esposa permanecieron en el carro sin temor ni pena.
 
@@ -288,7 +288,7 @@ Así termina el Capítulo 22 sobre el matrimonio de Sudarsana en el S'rî Mad De
 
 40\. El tío y el primo del rey Subâhu estaban del lado de Yudhâjit y fueron asesinados. Los reyes quedaron profundamente atónitos al verlos allí muertos.
 
-41\. El rey Subâhu, al verlos muertos en el campo de batalla, se alegró mucho y comenzó a alabar y cantar himnos en honor a Durgâ Devî, la Destructora de todas las dificultades. <span id="p216">[<sup><small>p. 216</small></sup>]</span> 42-43. Me inclino ante la auspiciosa Diosa Jagaddhâtrî una y otra vez; me inclino ante la Bhagavatî Durgâ, la otorgante de todos los deseos; siempre me inclino ante Aquella que es auspiciosa, dadora de paz y la Vidyâ Suprema. ¡Oh, Madre! ¡Oh, Dadora de salvación! ¡Oh, Auspiciosa! Tú impregnas todo el Universo, ¡oh, Madre del Mundo! y Sustentadora del Universo! Me inclino ante Ti.
+41\. El rey Subâhu, al verlos muertos en el campo de batalla, se alegró mucho y comenzó a alabar y cantar himnos en honor a Durgâ Devî, la Destructora de todas las dificultades. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> 42-43. Me inclino ante la auspiciosa Diosa Jagaddhâtrî una y otra vez; me inclino ante la Bhagavatî Durgâ, la otorgante de todos los deseos; siempre me inclino ante Aquella que es auspiciosa, dadora de paz y la Vidyâ Suprema. ¡Oh, Madre! ¡Oh, Dadora de salvación! ¡Oh, Auspiciosa! Tú impregnas todo el Universo, ¡oh, Madre del Mundo! y Sustentadora del Universo! Me inclino ante Ti.
 
 44\. ¡Oh Madre del Mundo! ¡Oh Devi! Estás desprovista de cualidades prácritas; estás llena de cualidades; más allá de la mente y el habla; nadie puede imaginar tu destreza, etc., con la mente. ¡Madre! Eres la Fuerza Suprema; siempre dispuesta a destruir las miserias de tus devotos. Tu influencia se manifiesta en todas partes; ¿qué elogio puedo cantarte?
 
@@ -302,7 +302,7 @@ Así termina el Capítulo 22 sobre el matrimonio de Sudarsana en el S'rî Mad De
 
 49. ¡Oh Bhavânî! ¿Dónde estoy, carente de inteligencia, y dónde está la excepcional visión de Ti, Quien es la única medicina para esta enfermedad del océano del mundo? Aun así, ¡oh Madre! Adorada por los Devas, he recibido Tu visión. Ahora sé que siempre muestras misericordia a Tus Bhaktas, quienes están en sus Bhavas (imágenes mentales de Tu Ser).
 
-50\. ¡Oh, Diosa! Has salvado a Sudars'an en esta gran crisis bélica y has abatido a estos dos poderosos enemigos. ¿Cómo puedo describir tu <span id="p217">[<sup><small>p. 217</small></sup>]</span> destreza en este asunto? He comprendido que tu Santo Carácter siempre muestra misericordia con tus devotos.
+50\. ¡Oh, Diosa! Has salvado a Sudars'an en esta gran crisis bélica y has abatido a estos dos poderosos enemigos. ¿Cómo puedo describir tu <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> destreza en este asunto? He comprendido que tu Santo Carácter siempre muestra misericordia con tus devotos.
 
 51\. ¡Oh, Diosa! Si lo consideramos, esto no es sorprendente; pues Tú proteges todo este universo, móvil e inmóvil; y, por consiguiente, ahora has protegido, por Tu misericordia, a tu Bhakta Sudars'ana, el hijo de Dhruvasandhi, al matar a su enemigo.
 
@@ -321,9 +321,9 @@ Así termina el capítulo veintitrés sobre la muerte del enemigo de Sudars'ana 
 
 ## Capítulo XXIV
 
-**Sobre la instalación de Durgâ Devî en la ciudad de Benarés** <span id="p217">[<sup><small>p. 217</small></sup>]</span> 1\. Vyâsa dijo:— Al oír las palabras de la Devî, el rey Subâhu comenzó a decir con gran devoción lo siguiente:—
+**Sobre la instalación de Durgâ Devî en la ciudad de Benarés** <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> 1\. Vyâsa dijo:— Al oír las palabras de la Devî, el rey Subâhu comenzó a decir con gran devoción lo siguiente:—
 
-2-3. ¡Oh Devi! Si se compara el reino de los Devas y el mundo, por un lado, con la visión Tuya, por otro, entonces debe reconocerse que el reino de los Devas y la tierra no pueden compararse ante Ti. ¡Oh Devi! No puede haber nada, en este Trilokî, más exaltado que Tu visión; por lo tanto, ¡oh Madre! ¿Qué otra bendición puedo pedirte? Estoy muy agradecido y bendecido; todos mis deseos se cumplen cuando te he visto. <span id="p218">[<sup><small>p. 218</small></sup>]</span> 4-5. ¡Oh Madre Auspiciosa! Te pido esta bendición, mi deseo de que mi devoción hacia Ti permanezca constante, firme e inquebrantable. ¡Oh Madre! Permanecerás siempre en esta ciudad mía, célebre bajo el nombre de Sri Durga Devi, Tu Sakti. Este es mi deseo.
+2-3. ¡Oh Devi! Si se compara el reino de los Devas y el mundo, por un lado, con la visión Tuya, por otro, entonces debe reconocerse que el reino de los Devas y la tierra no pueden compararse ante Ti. ¡Oh Devi! No puede haber nada, en este Trilokî, más exaltado que Tu visión; por lo tanto, ¡oh Madre! ¿Qué otra bendición puedo pedirte? Estoy muy agradecido y bendecido; todos mis deseos se cumplen cuando te he visto. <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> 4-5. ¡Oh Madre Auspiciosa! Te pido esta bendición, mi deseo de que mi devoción hacia Ti permanezca constante, firme e inquebrantable. ¡Oh Madre! Permanecerás siempre en esta ciudad mía, célebre bajo el nombre de Sri Durga Devi, Tu Sakti. Este es mi deseo.
 
 6-9. ¡Oh Devi! Ya que has despejado todos los obstáculos de Sudars'ana y lo has salvado de este peligro, permanece en esta ciudad de Benarés y protégela mientras perdure sobre la faz de la tierra, y hazla firme, bien establecida y renombrada. ¡Oh Durgâ! Te ruego que me concedas estas bendiciones. ¡Oh Devi! Concédeme también otros deseos míos y destruye a mis enemigos y extermina a toda la gente irreligiosa y malvada de esta ciudad. ¡Oh, Diosa de la misericordia! ¿Qué más puedo pedirte?
 
@@ -339,7 +339,7 @@ Así termina el capítulo veintitrés sobre la muerte del enemigo de Sudars'ana 
 
 16\. Vyâsa dijo: —Al suplicarle así a Sudars'ana, la Devi dijo con gran bondad: —¡Oh, alma bondadosa! Ve a Ayodhyâ y gobierna el país como corresponde a tu familia.
 
-17\. ¡Oh rey! Recuérdame constantemente y adórame con gran esmero. Siempre velaré por el bienestar de tu reino. <span id="p219">[<sup><small>p. 219</small></sup>]</span> 18\. Especialmente en el octavo, decimocuarto y noveno día del mes lunar, adórame según los ritos y reglas prescritos y ofréceme víctimas (sacrificios).
+17\. ¡Oh rey! Recuérdame constantemente y adórame con gran esmero. Siempre velaré por el bienestar de tu reino. <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> 18\. Especialmente en el octavo, decimocuarto y noveno día del mes lunar, adórame según los ritos y reglas prescritos y ofréceme víctimas (sacrificios).
 
 19. ¡Oh, tú, el que no tiene pecado! Establece mi imagen en esta ciudad y adórala tres veces: mañana, mediodía y tarde, con cuidado y devoción.
 
@@ -363,7 +363,7 @@ Así termina el capítulo veintitrés sobre la muerte del enemigo de Sudars'ana 
 
 30\. Siempre estamos ocupados pensando en la riqueza, los hijos y las esposas; allí estamos sumergidos en este terrible océano de engaño, plagado de cocodrilos, etc., en forma de lujuria, ira, codicia, etc.
 
-31\. ¡Oh Bendito! Eres sumamente iluminado y lo sabes todo; por eso te preguntamos: ¿Qué es esta Fuerza? ¿De dónde surgió? ¿Cómo es su poder? Por favor, descríbenos todo esto. <span id="p220">[<sup><small>p. 220</small></sup>]</span> 32\. ¡Oh Descendiente de Kakud! Los santos son siempre misericordiosos; por lo tanto, por favor, cuéntanos la gloria de la Excelente Diosa, que sirve como barca para cruzar este océano del mundo (transmigración).
+31\. ¡Oh Bendito! Eres sumamente iluminado y lo sabes todo; por eso te preguntamos: ¿Qué es esta Fuerza? ¿De dónde surgió? ¿Cómo es su poder? Por favor, descríbenos todo esto. <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> 32\. ¡Oh Descendiente de Kakud! Los santos son siempre misericordiosos; por lo tanto, por favor, cuéntanos la gloria de la Excelente Diosa, que sirve como barca para cruzar este océano del mundo (transmigración).
 
 33. ¡Oh, rey! Anhelo profundamente escuchar acerca de la destreza y la naturaleza de la Devi.
 
@@ -377,7 +377,7 @@ Nota: Kakud es un epíteto de Puranjaya, hijo de S'asâda, rey de la dinastía s
 
 39. ¡Oh, reyes! Quienes no son yoguis jamás podrán comprender la Nirgunâ Sakti. La Fuerza Sagunâ se puede servir fácilmente. Todos esos Adhikâris intermedios (personas aptas) y hombres eruditos siempre meditan y adoran el Aspecto Sagunâ de Ella.
 
-40-41. Los reyes dijeron: —¡Oh, rey! Tuviste miedo y, siendo muy joven, te retiraste al bosque; ¿cómo es que has podido conocer a la excelente Diosa Mahâmâyâ? ¿Cómo la veneraste y le rezaste? ¿Que, tan contenta, te ha favorecido y te ha ayudado tanto? <span id="p221">[<sup><small>p. 221</small></sup>]</span> 42-43. Sudars'an dijo: —¡Oh, reyes! En mi infancia, obtuve el excelente mantra raíz de los deseos, Kâmavîja; meditaba a diario y lo pronunciaba en silencio. Después de eso, llegué a comprender, a través de los Risis, a esa Madre Eterna y Auspiciosa; y desde entonces, día y noche, siempre he recordado a esa Deidad Suprema con la mayor devoción.
+40-41. Los reyes dijeron: —¡Oh, rey! Tuviste miedo y, siendo muy joven, te retiraste al bosque; ¿cómo es que has podido conocer a la excelente Diosa Mahâmâyâ? ¿Cómo la veneraste y le rezaste? ¿Que, tan contenta, te ha favorecido y te ha ayudado tanto? <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 42-43. Sudars'an dijo: —¡Oh, reyes! En mi infancia, obtuve el excelente mantra raíz de los deseos, Kâmavîja; meditaba a diario y lo pronunciaba en silencio. Después de eso, llegué a comprender, a través de los Risis, a esa Madre Eterna y Auspiciosa; y desde entonces, día y noche, siempre he recordado a esa Deidad Suprema con la mayor devoción.
 
 44\. Vyâsa dijo:— Al escuchar las palabras de Sudars'ana, los reyes supieron que la Diosa que veían era la Fuerza Suprema y, llenos de la mayor devoción hacia Ella, regresaron a sus hogares.
 
@@ -396,9 +396,9 @@ Aquí termina el capítulo 24 sobre la instalación de Durgâ Devî en la ciudad
 
 ## Capítulo XXV
 
-**Sobre la instalación de la Devî en Ayodhyâ y Benarés** <span id="p221">[<sup><small>p. 221</small></sup>]</span> 1-4. Vyâsa dijo:— El rey Sudars'ana, rodeado de sus amigos, al llegar al palacio de Ayodhyâ, se inclinó ante Lîlâvatî, la madre de S'atrujit, y dijo:— "¡Oh madre! Juro por tocar tus pies que no he matado en batalla a tu hijo S'atrujit ni a tu padre Yudhâjit; es la Devî Durgâ quien los ha matado; no tengo la menor culpa por esto. ¡Oh madre! No necesitas ser sensible en esto; no hay remedio para lo que inevitablemente sucederá; por lo tanto, no lamentes la muerte de tu hijo; Debéis saber que los Jivas disfrutan del placer y del dolor como resultados de sus propios Karmas.
+**Sobre la instalación de la Devî en Ayodhyâ y Benarés** <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 1-4. Vyâsa dijo:— El rey Sudars'ana, rodeado de sus amigos, al llegar al palacio de Ayodhyâ, se inclinó ante Lîlâvatî, la madre de S'atrujit, y dijo:— "¡Oh madre! Juro por tocar tus pies que no he matado en batalla a tu hijo S'atrujit ni a tu padre Yudhâjit; es la Devî Durgâ quien los ha matado; no tengo la menor culpa por esto. ¡Oh madre! No necesitas ser sensible en esto; no hay remedio para lo que inevitablemente sucederá; por lo tanto, no lamentes la muerte de tu hijo; Debéis saber que los Jivas disfrutan del placer y del dolor como resultados de sus propios Karmas.
 
-5\. ¡Oh, madre! Soy tu sirviente; tienes derecho al mismo respeto y adoración que Manoramâ, mi madre; no hay diferencia alguna entre ella y tú. <span id="p222">[<sup><small>p. 222</small></sup>]</span> 6\. ¡Oh, madre! Uno debe asumir las consecuencias de su karma, ya sean buenas o malas; por lo tanto, cuando surja el placer o el dolor, no debes alegrarte ni sentirte mal.
+5\. ¡Oh, madre! Soy tu sirviente; tienes derecho al mismo respeto y adoración que Manoramâ, mi madre; no hay diferencia alguna entre ella y tú. <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> 6\. ¡Oh, madre! Uno debe asumir las consecuencias de su karma, ya sean buenas o malas; por lo tanto, cuando surja el placer o el dolor, no debes alegrarte ni sentirte mal.
 
 7\. Cuando surge el dolor, se dice que se concibe más dolor, y cuando surge el placer, se percibe más placer. Pero los eruditos dicen que el hombre no debe someterse a un placer o dolor excesivos.
 
@@ -420,7 +420,7 @@ Aquí termina el capítulo 24 sobre la instalación de Durgâ Devî en la ciudad
 
 17\. El sabio debe, sin duda, practicar el Dharma y controlar sus pasiones y así salvarse de ser conducido a los infiernos.
 
-18-19. ¡Oh, madre! El nacimiento humano en este auspicioso Bhâratvarsa es algo que rara vez se obtiene. El disfrute de la comida y la bebida es posible en cualquier vientre, pero nos incumbe, cuando tenemos el privilegio de este nacimiento humano, obtener el Dharma, que conduce a los Cielos y a la salvación, algo que rara vez se logra al nacer en otros vientres. <span id="p223">[<sup><small>p. 223</small></sup>]</span> 20-21. Vyâsa dijo: —Cuando Sudars'ana contó esto, Lîlâvatî se sintió profundamente avergonzada; dejó de lado el dolor por la muerte de su hijo y le dijo con lágrimas en los ojos: —¡Oh, hijo mío, Sudars'ana! Soy muy culpable porque mi padre Yudhâjit mató al padre de tu madre y se apoderó de la soberanía de este reino.
+18-19. ¡Oh, madre! El nacimiento humano en este auspicioso Bhâratvarsa es algo que rara vez se obtiene. El disfrute de la comida y la bebida es posible en cualquier vientre, pero nos incumbe, cuando tenemos el privilegio de este nacimiento humano, obtener el Dharma, que conduce a los Cielos y a la salvación, algo que rara vez se logra al nacer en otros vientres. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> 20-21. Vyâsa dijo: —Cuando Sudars'ana contó esto, Lîlâvatî se sintió profundamente avergonzada; dejó de lado el dolor por la muerte de su hijo y le dijo con lágrimas en los ojos: —¡Oh, hijo mío, Sudars'ana! Soy muy culpable porque mi padre Yudhâjit mató al padre de tu madre y se apoderó de la soberanía de este reino.
 
 22\. No pude entonces impedir que mi padre y mi hijo cometieran tales actos; todas las maldades y crueldades que se cometieron entonces fueron obra de mi padre Yudhâjit. Por lo tanto, hijo mío, no seré culpable de ninguna manera por estos actos.
 
@@ -436,7 +436,7 @@ Aquí termina el capítulo 24 sobre la instalación de Durgâ Devî en la ciudad
 
 31\. Los ministros, al oír sus palabras, hicieron construir un hermoso palacio por los ingenieros, artistas y obreros y proclamaron en la ciudad la proclamación del rey.
 
-32\. Entonces, el rey Sudars'ana mandó construir una imagen de la Devi con gran esmero y la instaló con la ayuda de los pandits, versados ​​en los Vedas, en un día y momento propicios. <span id="p224">[<sup><small>p. 224</small></sup>]</span> 33\. El inteligente rey realizó la adoración y la ceremonia Homa, según las reglas prescritas, y así finalmente estableció la ceremonia de invocación de la Deidad en la nueva imagen y la erigió como ídolo en el templo.
+32\. Entonces, el rey Sudars'ana mandó construir una imagen de la Devi con gran esmero y la instaló con la ayuda de los pandits, versados ​​en los Vedas, en un día y momento propicios. <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> 33\. El inteligente rey realizó la adoración y la ceremonia Homa, según las reglas prescritas, y así finalmente estableció la ceremonia de invocación de la Deidad en la nueva imagen y la erigió como ídolo en el templo.
 
 34\. ¡Oh, Janamejaya! Allí se oían los sonidos de los diversos tambores y otros instrumentos musicales, el canto de los mantras védicos por los brahmanes y una dulce música; y se celebraban diversas festividades y regocijos.
 
@@ -460,7 +460,7 @@ Aquí termina el capítulo 24 sobre la instalación de Durgâ Devî en la ciudad
 
 44\. La Devî Bhagavatî Bhavânî se convirtió en todos los sentidos en un objeto para ser venerado y adorado por todas las personas y en todas partes en Bhâratavarsa.
 
-45\. El pueblo comenzó a recitar lentamente, meditar y cantar himnos constantemente, según lo recomendado por los Âgamas, y se apegó profundamente a la adoración a Sakti, comenzando a ser considerados con el mayor honor. <span id="p225">[<sup><small>p. 225</small></sup>]</span> 46\. ¡Oh, rey! Desde entonces, todo el pueblo solía adorar, realizar la ceremonia Homa y realizar sacrificios debidamente en honor a la Devi en cada Navarâtri (durante los primeros nueve días de la mitad brillante de los meses de Âs'vin y Chaitra).
+45\. El pueblo comenzó a recitar lentamente, meditar y cantar himnos constantemente, según lo recomendado por los Âgamas, y se apegó profundamente a la adoración a Sakti, comenzando a ser considerados con el mayor honor. <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> 46\. ¡Oh, rey! Desde entonces, todo el pueblo solía adorar, realizar la ceremonia Homa y realizar sacrificios debidamente en honor a la Devi en cada Navarâtri (durante los primeros nueve días de la mitad brillante de los meses de Âs'vin y Chaitra).
 
 Aquí termina el Capítulo 25 sobre la instalación de la Devî en Ayodhyâ y Benarés en el Mahâ Purânam S'rî Mad Devî Bhâgavatam de 18.000 versos de Maharsi Veda Vyâsa.
 
@@ -469,7 +469,7 @@ Aquí termina el Capítulo 25 sobre la instalación de la Devî en Ayodhyâ y Be
 
 ## Capítulo XXVI
 
-**Sobre la narración de lo que debe hacerse en el Navarâtra** <span id="p225">[<sup><small>p. 225</small></sup>]</span> 1\. Janamejaya dijo:— “¡Oh, el mejor de los brahmanes! ¿Qué deben hacer los hombres en la época del Navarâtra? Especialmente en la ceremonia del Navarâtra durante la temporada de otoño, ¿cómo debe realizarse la ceremonia? Por favor, relacionen todo esto con las reglas y regulaciones prescritas.
+**Sobre la narración de lo que debe hacerse en el Navarâtra** <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> 1\. Janamejaya dijo:— “¡Oh, el mejor de los brahmanes! ¿Qué deben hacer los hombres en la época del Navarâtra? Especialmente en la ceremonia del Navarâtra durante la temporada de otoño, ¿cómo debe realizarse la ceremonia? Por favor, relacionen todo esto con las reglas y regulaciones prescritas.
 
 2\. ¡Oh, inteligente! ¿Cuáles son los frutos de la ceremonia de Navarâtra? ¿Y cuáles son las reglas que deben observarse? Por favor, descríbeme todo esto.
 
@@ -489,7 +489,7 @@ A continuación, en el Pratipad tithi (el primer día de la mitad brillante), se
 
 Nota: La Devî, aquí, está representada con cuatro (4) o dieciocho (18) manos.
 
-21-22. En ausencia de la imagen, se debe colocar sobre dicho trono una vasija de barro para agua, completamente purificada por los mantras védicos, llena de oro y joyas, y completamente llena con agua traída de un río sagrado o un lugar sagrado de peregrinación, y con cinco brotes jóvenes, cuyas extremidades con hojas nuevas estén sumergidas en agua. Junto a la vasija, en el trono, debe haber un símbolo (diagrama o yantra) con el mantra de nueve letras (Om Hrîm S'rîm Chandikâyai namah) para la adoración. <span id="p227">[<sup><small>p. 227</small></sup>]</span> 23\. Se deben colocar a un lado todos los materiales de adoración en sus lugares correspondientes, y luego hacer sonar la música y otros tambores para la buena fortuna y la prosperidad de la familia.
+21-22. En ausencia de la imagen, se debe colocar sobre dicho trono una vasija de barro para agua, completamente purificada por los mantras védicos, llena de oro y joyas, y completamente llena con agua traída de un río sagrado o un lugar sagrado de peregrinación, y con cinco brotes jóvenes, cuyas extremidades con hojas nuevas estén sumergidas en agua. Junto a la vasija, en el trono, debe haber un símbolo (diagrama o yantra) con el mantra de nueve letras (Om Hrîm S'rîm Chandikâyai namah) para la adoración. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> 23\. Se deben colocar a un lado todos los materiales de adoración en sus lugares correspondientes, y luego hacer sonar la música y otros tambores para la buena fortuna y la prosperidad de la familia.
 
 Nota: Busque los mantras en el libro Mantramaho Dadhi.
 
@@ -509,7 +509,7 @@ Nota: Busque los mantras en el libro Mantramaho Dadhi.
 
 35\. Ahora bien, para realizar la ceremonia Homa se debe preparar, según las necesidades, un hoyo triangular de una a diez manos de dimensión y un trozo de tierra triangular nivelado cubierto con arena.
 
-36\. Diariamente, tres veces, se debe adorar a la Devi con diversos objetos hermosos <span id="p228">[<sup><small>p. 228</small></sup>]</span> y, finalmente, celebrar una gran festividad con bailes, cantos y música.
+36\. Diariamente, tres veces, se debe adorar a la Devi con diversos objetos hermosos <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> y, finalmente, celebrar una gran festividad con bailes, cantos y música.
 
 37\. Todos los días debe dormir en el suelo y adorar a las vírgenes (niñas desde los dos años hasta los diez años) con dulces como néctar y hermosas vestimentas y adornos.
 
@@ -533,7 +533,7 @@ Nota: Busque los mantras en el libro Mantramaho Dadhi.
 
 50-51. Para la destrucción de enemigos terribles y la felicidad en el otro mundo, la adoración a Dûrgâ es la más segura y la mejor. La gente adora a Subhadrâ cuando desea que sus deseos se cumplan.
 
-52\. La gente debe, con gran devoción, adorar a las Kumârîs (vírgenes) con los mantras “S'rîrastu” u otros mantras, comenzando con “S'rî” o con los mantras semilla. <span id="p229">[<sup><small>p. 229</small></sup>]</span> 53\. A ​​la Diosa que puede crear sin dificultad todos los tattvas sagrados del Kumâr Kârtikeya y que, como por diversión, efectúa la creación de todos los Devas Brahmâ y otros; yo adoro a la misma Kumârî Devî.
+52\. La gente debe, con gran devoción, adorar a las Kumârîs (vírgenes) con los mantras “S'rîrastu” u otros mantras, comenzando con “S'rî” o con los mantras semilla. <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> 53\. A ​​la Diosa que puede crear sin dificultad todos los tattvas sagrados del Kumâr Kârtikeya y que, como por diversión, efectúa la creación de todos los Devas Brahmâ y otros; yo adoro a la misma Kumârî Devî.
 
 54\. A Ella, que aparece bajo las tres formas diferenciadas por los tres gunas Sâttva, Râjas y Tâmas, y que aparece en múltiples formas, debido a las diferenciaciones de los tres gunas a su vez en diversas diferencias menores, yo la adoro, la Trimûrtî Devî.
 
@@ -560,7 +560,7 @@ Aquí termina el Capítulo 26 sobre la narración de lo que debe hacerse en el N
 
 ## Capítulo XXVII
 
-**Sobre las vírgenes dignas de adoración y la Gloria de la Devi** <span id="p229">[<sup><small>p. 229</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, rey! Aquellas Kumârîs con extremidades defectuosas, leprosas, con llagas y úlceras en el cuerpo, con mal olor o contaminadas, o de mala familia, nunca deben ser adoradas en el festival de la ceremonia de Navarâtra.
+**Sobre las vírgenes dignas de adoración y la Gloria de la Devi** <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, rey! Aquellas Kumârîs con extremidades defectuosas, leprosas, con llagas y úlceras en el cuerpo, con mal olor o contaminadas, o de mala familia, nunca deben ser adoradas en el festival de la ceremonia de Navarâtra.
 
 2-3. Aquellos que nacen ciegos, bizcos, tuertos, de apariencia deshonrosa, con el cuerpo cubierto de vello, enfermos, menstruando o con cualquier otro signo que indique su juventud apasionada, delgados, hijos de viudas o solteras, deben ser siempre evitados en este Pûjâ.
 
@@ -580,7 +580,7 @@ Aquí termina el Capítulo 26 sobre la narración de lo que debe hacerse en el N
 
 13\. En el séptimo, octavo y noveno día, en estos tres tithis (días lunares), si uno adora con devoción, adquirirá todos los méritos.
 
-14\. Cuando la adoración de la Devi, el Homa, la adoración de los Kumârî y el banquete de los Brâhmanas, todo esto se haya realizado, sepan que el Navarâtri Pûjâ ha concluido. <span id="p231">[<sup><small>p. 231</small></sup>]</span> 15\. ¡Oh, Janamejaya! Ninguna adoración, voto ni donación caritativa existente en este mundo puede compararse, en cuanto a sus efectos meritorios, con este Navarâtra Pûjâ.
+14\. Cuando la adoración de la Devi, el Homa, la adoración de los Kumârî y el banquete de los Brâhmanas, todo esto se haya realizado, sepan que el Navarâtri Pûjâ ha concluido. <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> 15\. ¡Oh, Janamejaya! Ninguna adoración, voto ni donación caritativa existente en este mundo puede compararse, en cuanto a sus efectos meritorios, con este Navarâtra Pûjâ.
 
 16\. Al observar este Navarâtram Vrata, se obtienen riquezas, cosechas, hijos y nietos, prosperidad y felicidad, longevidad, salud, el cielo e incluso la beatitud final.
 
@@ -600,7 +600,7 @@ Aquí termina el Capítulo 26 sobre la narración de lo que debe hacerse en el N
 
 24\. Cuando Hari, Hara, Brahma, Indra, el Fuego, Varuna, Kuvera y el Sol, todos ellos poseedores de riquezas y poderes, colmados de la más alta felicidad, meditan constantemente en la Diosa del universo, Quien es la Totalidad de la Existencia, la Inteligencia y la Felicidad, ¿qué decir entonces de los seres humanos? ¿Cómo es posible que las personas no adoren a Chandikâ Devî, Aquella que guía todas las actividades humanas hacia el éxito?
 
-25-26. ¿Por qué no debería la gente adorar a la Diosa Bhavânî, la otorgadora de toda felicidad, cuyos otros nombres son Svahâ y Svadhâ, los mantras bajo cuyas energías intrínsecas los Devas y los Pitris siempre se satisfacen, y que son recitados por todos los Munis cuando cantan en cada sacrificio los mantras védicos? ¿Bajo la voluntad de quién, Brahmâ, el Creador, crea todo este Universo? ¿Bajo la energía de quién, el <span id="p232">[<sup><small>p. 232</small></sup>]</span> Visnu Janâradan, el Deva de los Devas, encarna en esta tierra en diversas formas y preserva este mundo, y bajo cuyo poder, Sankara destruye todo este Universo?
+25-26. ¿Por qué no debería la gente adorar a la Diosa Bhavânî, la otorgadora de toda felicidad, cuyos otros nombres son Svahâ y Svadhâ, los mantras bajo cuyas energías intrínsecas los Devas y los Pitris siempre se satisfacen, y que son recitados por todos los Munis cuando cantan en cada sacrificio los mantras védicos? ¿Bajo la voluntad de quién, Brahmâ, el Creador, crea todo este Universo? ¿Bajo la energía de quién, el <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> Visnu Janâradan, el Deva de los Devas, encarna en esta tierra en diversas formas y preserva este mundo, y bajo cuyo poder, Sankara destruye todo este Universo?
 
 27\. Ningún ser en este universo puede existir sin recurrir a la Prakriti Devî, la Sakti encarnada; ya sea una Devî, un ser humano, un pájaro, una serpiente, un Gandharva, un Râkhsasa, un Pis'âcha, una montaña o un árbol, no puede moverse ni siquiera por sí mismo sin la ayuda de esta Fuerza.
 
@@ -618,7 +618,7 @@ Aquí termina el Capítulo 26 sobre la narración de lo que debe hacerse en el N
 
 35-36. Así transcurrieron muchos días cuando aquel buen comerciante llamado Sus'îla, muy desconcertado por la pobreza y el hambre, le preguntó a un brahmán de carácter sereno: «¡Oh, Bhûdeva! (deva encarnado en la Tierra), por favor, dime con certeza cómo puedo librarme de esta pobreza».
 
-37\. ¡Oh, mente santa! Por favor, aconséjame lo que preserve mi honor; no quiero riquezas, ni quiero ser rico; ¡oh, brahmán! Necesito lo justo para cubrir los gastos del sustento de mi familia; por favor, aconséjame para que pueda ganar solo esto. <span id="p233">[<sup><small>p. 233</small></sup>]</span> 38\. Tengo muchos hijos; no tengo comida, ni siquiera para darles un puñado de arroz.
+37\. ¡Oh, mente santa! Por favor, aconséjame lo que preserve mi honor; no quiero riquezas, ni quiero ser rico; ¡oh, brahmán! Necesito lo justo para cubrir los gastos del sustento de mi familia; por favor, aconséjame para que pueda ganar solo esto. <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> 38\. Tengo muchos hijos; no tengo comida, ni siquiera para darles un puñado de arroz.
 
 39\. ¡Ay! Mi hijo menor lloraba hoy por comida; lo he echado de casa castigándolo. ¡Oh, brahmán! ¿Qué hago? No tengo riquezas; mi corazón arde de pena y dolor; mi bebé ha salido de casa llorando y hambriento.
 
@@ -638,7 +638,7 @@ Aquí termina el Capítulo 26 sobre la narración de lo que debe hacerse en el N
 
 50\. Aunque muy preocupado por la pérdida de Sîtâ, Râma Chandra observó el Voto de Navarâtra y adoró a la Diosa según las reglas y ritos prescritos.
 
-51-52. Como fruto de esta adoración, logró cruzar el gran océano y matar al gigante Kumbha Karna, a Meghanâda, hijo de Râvana, y a Râvana, rey de Lanka; y posteriormente, recuperó su Sîtâ. Instauró a Vibhîsana en el trono de Lanka (Ceilán) y finalmente regresó a Ayodhyâ, donde reinó sin enemigos. <span id="p234">[<sup><small>p. 234</small></sup>]</span> 53\. ¡Oh, el mejor de los vais'yas! Râma Chandra, de incomparable destreza, logró la felicidad en este mundo gracias a la influencia de esta ceremonia de Navarâtra.
+51-52. Como fruto de esta adoración, logró cruzar el gran océano y matar al gigante Kumbha Karna, a Meghanâda, hijo de Râvana, y a Râvana, rey de Lanka; y posteriormente, recuperó su Sîtâ. Instauró a Vibhîsana en el trono de Lanka (Ceilán) y finalmente regresó a Ayodhyâ, donde reinó sin enemigos. <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> 53\. ¡Oh, el mejor de los vais'yas! Râma Chandra, de incomparable destreza, logró la felicidad en este mundo gracias a la influencia de esta ceremonia de Navarâtra.
 
 54-55. Vyâsa dijo: —¡Oh, rey! Ese vaisya, al oír las palabras del brahmán, lo nombró su gurú, fue iniciado por él en el mantra de Maya e incesantemente, sin pereza alguna, recitó lentamente el mantra durante nueve noches y adoró a la Devi con gran cautela y con diversas ofrendas. Así, durante nueve años consecutivos, se dedicó a la japa (recitación lenta) del mantra de Maya hasta que, finalmente, al cumplirse el noveno año, la Gran Diosa se apareció claramente ante sus ojos en la noche del gran Astamî tithi (el octavo día de la mitad brillante) y le concedió diversas bendiciones, lo liberó de la pobreza y le concedió riquezas y otros bienes que deseaba.
 
@@ -649,13 +649,13 @@ Aquí termina el Capítulo 27 sobre las vírgenes aptas para ser adoradas y la G
 
 ## Capítulo XXVIII
 
-**Sobre los incidentes relacionados con Navarâtri** <span id="p234">[<sup><small>p. 234</small></sup>]</span> 1\. Janamejaya dijo:— ¡Oh, Muni! ¿Cómo celebró Râmchandra la Pûjâ de la Devi, que conduce a la felicidad? ¿Quién era? ¿Y cómo le robaron su Sîtâ? ¿Cómo fue privado de su reino? Por favor, compláceme narrando todos estos incidentes.
+**Sobre los incidentes relacionados con Navarâtri** <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> 1\. Janamejaya dijo:— ¡Oh, Muni! ¿Cómo celebró Râmchandra la Pûjâ de la Devi, que conduce a la felicidad? ¿Quién era? ¿Y cómo le robaron su Sîtâ? ¿Cómo fue privado de su reino? Por favor, compláceme narrando todos estos incidentes.
 
 2\. Vyâsa dijo: —¡Oh, rey! En tiempos pasados, en la ciudad de Ayodhyâ, vivía un próspero rey de la dinastía solar llamado Das'aratha. Siempre adoraba a los devas y brahmanes.
 
 3-5. Tuvo cuatro hijos célebres: Râma, Laksmana, Bharata y Satrughna. Estos cuatro hijos eran igualmente eruditos y hermosos, y siempre realizaban acciones que agradaban al rey. De ellos, Râmachandra era hijo de la reina Kaus'alya, Bharata era hijo de Kaikeyî, y los apuestos Laksmana y Satrughna eran los hijos gemelos de Sumitrâ. De jóvenes, aprendieron el arte del tiro con arco y comenzaron a jugar con arcos y flechas.
 
-6-7. Así educados y purificados, los cuatro hijos comenzaron a deleitar cada vez más al rey; un día, el Maharsi Vis'vâmitra llegó a Ayodhyâ y solicitó al rey Das'aratha la ayuda de su hijo Râmachandra para la protección de sus ceremonias sacrificiales. El rey no pudo cancelar la petición del Vis'vâmitra y envió con él a Râma, acompañado de Laksmana. <span id="p235">[<sup><small>p. 235</small></sup>]</span> 8-11. La encantadora Râma y Laksmana acompañaron al Muni en su camino de regreso. En un bosque de camino, vivía una Râkhsasî de aspecto terrible, llamada Tâdakâ, que solía causar grandes problemas a los ascetas; y Râma la mató de una sola flecha. Luego mató a Subâhu y disparó flechas a otro vagabundo nocturno, Mârîcha, dejándolo inconsciente, casi muerto, y arrojándolo a gran distancia, salvando así a Vis'vâmitra de todos los obstáculos que lo perturbaban en sus ceremonias de sacrificio. Cumpliendo así la gran obra de proteger las ceremonias de sacrificio, Râma, Laksmana y el Muni Vaca Enferma, los tres, partieron hacia el reino de Mithilâ. En su camino, Râma Chandra rescató a Ahalyâ de la maldición que la aquejaba.
+6-7. Así educados y purificados, los cuatro hijos comenzaron a deleitar cada vez más al rey; un día, el Maharsi Vis'vâmitra llegó a Ayodhyâ y solicitó al rey Das'aratha la ayuda de su hijo Râmachandra para la protección de sus ceremonias sacrificiales. El rey no pudo cancelar la petición del Vis'vâmitra y envió con él a Râma, acompañado de Laksmana. <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> 8-11. La encantadora Râma y Laksmana acompañaron al Muni en su camino de regreso. En un bosque de camino, vivía una Râkhsasî de aspecto terrible, llamada Tâdakâ, que solía causar grandes problemas a los ascetas; y Râma la mató de una sola flecha. Luego mató a Subâhu y disparó flechas a otro vagabundo nocturno, Mârîcha, dejándolo inconsciente, casi muerto, y arrojándolo a gran distancia, salvando así a Vis'vâmitra de todos los obstáculos que lo perturbaban en sus ceremonias de sacrificio. Cumpliendo así la gran obra de proteger las ceremonias de sacrificio, Râma, Laksmana y el Muni Vaca Enferma, los tres, partieron hacia el reino de Mithilâ. En su camino, Râma Chandra rescató a Ahalyâ de la maldición que la aquejaba.
 
 12-13. Finalmente, los dos hermanos, acompañados por el Muni, llegaron a la ciudad de Videhanagar. Justo en ese momento, el rey Janaka de Ayodhyâ hizo voto de entregar a Sîtâ en matrimonio a quien pudiera romper el arco de Siva; Rama lo rompió en dos y se casó con Sîtâ, hija de Laksmî. El rey Janaka se casó con Laksmana, su propia hija, Urmilâ.
 
@@ -673,7 +673,7 @@ Aquí termina el Capítulo 27 sobre las vírgenes aptas para ser adoradas y la G
 
 20\. El noble rey Das'aratha se sintió muy afligido por la pérdida de su hijo, recordó la maldición que le había dado Andhaka Muni y abandonó su cuerpo mortal.
 
-21\. Bharata, al ver que su padre murió únicamente por culpa de su madre, se abstuvo de convertirse en rey de Ayodhyâ, la próspera ciudad, y buscó el bienestar de su hermano Râma. <span id="p236">[<sup><small>p. 236</small></sup>]</span> 22\. Râmachandra fue al bosque de Pañchavatî. Un día, la hermana menor de Râvana, llamada Sûrpanakhâ, se enfureció y fue a ver a Râma; entonces, Râmachandra la desfiguró cortándole la nariz y las orejas.
+21\. Bharata, al ver que su padre murió únicamente por culpa de su madre, se abstuvo de convertirse en rey de Ayodhyâ, la próspera ciudad, y buscó el bienestar de su hermano Râma. <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> 22\. Râmachandra fue al bosque de Pañchavatî. Un día, la hermana menor de Râvana, llamada Sûrpanakhâ, se enfureció y fue a ver a Râma; entonces, Râmachandra la desfiguró cortándole la nariz y las orejas.
 
 23\. Al ver que le habían cortado la nariz, los Râksasas Khara, Dûsana y otros lucharon muy duro contra el poderoso Râmachandra.
 
@@ -697,7 +697,7 @@ Aquí termina el Capítulo 27 sobre las vírgenes aptas para ser adoradas y la G
 
 33\. El tramposo mago Râksasa, herido con tanta violencia y con un intenso dolor, gritó: «¡Oh, hermano Laksmana! ¡Me han matado!» y exhaló su último suspiro.
 
-34-35. Este grito espantoso llegó a oídos de Jânakî. Confundió esa voz con la de Râma y le dijo a Laksmana con tristeza: «Laksmana, ve rápido. Temo que Râma haya muerto; escucha la voz: «¡Oh, Laksmana! ¡Ven rápido y líbrame!» que te llama para que vayas allí. <span id="p237">[<sup><small>p. 237</small></sup>]</span> 36\. Laksmana respondió entonces: «¡Madre! Estás sola en este bosque; por lo tanto, no puedo dejarte así aunque Râmchandra muera.»
+34-35. Este grito espantoso llegó a oídos de Jânakî. Confundió esa voz con la de Râma y le dijo a Laksmana con tristeza: «Laksmana, ve rápido. Temo que Râma haya muerto; escucha la voz: «¡Oh, Laksmana! ¡Ven rápido y líbrame!» que te llama para que vayas allí. <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> 36\. Laksmana respondió entonces: «¡Madre! Estás sola en este bosque; por lo tanto, no puedo dejarte así aunque Râmchandra muera.»
 
 37\. ¡Oh, hija de Janaka! Rama me ha ordenado permanecer aquí. Si te dejo y me voy a otro lugar, seré acusada de haber desobedecido su orden. Por temor a ello, no puedo abandonar este lugar.
 
@@ -719,7 +719,7 @@ Aquí termina el Capítulo 27 sobre las vírgenes aptas para ser adoradas y la G
 
 47\. ¡Oh, rey! Diciendo esto, el enérgico Laksmana dejó a Sita y salió llorando desconsoladamente. Afligido por la pena, siguió los pasos de su mayor y prosiguió su búsqueda.
 
-48\. Cuando Laksmana partió, Râvana entró en la ermita disfrazado de un mendigo mentiroso (un Bhiksu con un atuendo rojo). <span id="p238">[<sup><small>p. 238</small></sup>]</span> 49\. Jânakî tomó al villano Râvana por un yogui y, respetuosamente, le ofreció ofrendas de adoración y frutos del bosque.
+48\. Cuando Laksmana partió, Râvana entró en la ermita disfrazado de un mendigo mentiroso (un Bhiksu con un atuendo rojo). <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 49\. Jânakî tomó al villano Râvana por un yogui y, respetuosamente, le ofreció ofrendas de adoración y frutos del bosque.
 
 50-52. Ese villano le preguntó a Sita con humildad y dulzura: “¡Oh, hermosa! Tus ojos son hermosos como hojas de loto de Palâsa; por lo tanto, parece que no eres una mujer común y corriente; ¿cómo es que estás aquí, tan sola en un bosque agreste? ¡Oh, hermosa! ¿Quién es tu padre? ¿Quién es tu hermano y quién es tu esposo? Siendo tan hermosa, ¿cómo es que estás en este bosque como una mujer común y corriente, atónita? ¡Oh, hermosa! Eres digna de vivir en un palacio lleno de néctar; ¿por qué vives en esta choza, en este bosque agreste, como la esposa de un muni común y corriente, cuando tu belleza brilla con rayos brillantes como una joven deva?”
 
@@ -739,7 +739,7 @@ Aquí termina el Capítulo 27 sobre las vírgenes aptas para ser adoradas y la G
 
 63\. ¡Oh, qué hermoso! Mis dos hermanos Khara y Dûsana han muerto en este bosque; y, impulsado por mi hermana, he venido aquí.
 
-64-65. Ahora deja a este hombre-marido, que reside en el bosque como un pobre, carente de fortuna y riqueza; y adórame como a un esposo. ¡Oh, bella! Soy Râvana, el rey de reyes; ahora conviértete en mi señor. <span id="p239">[<sup><small>p. 239</small></sup>]</span> 66\. ¡Oh, hija de Janaka! Soy el señor de los regentes de los puntos cardinales; y aun así, inclino mi cabeza a tus pies de loto; mejor acéptame y cumple mis deseos hoy.
+64-65. Ahora deja a este hombre-marido, que reside en el bosque como un pobre, carente de fortuna y riqueza; y adórame como a un esposo. ¡Oh, bella! Soy Râvana, el rey de reyes; ahora conviértete en mi señor. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> 66\. ¡Oh, hija de Janaka! Soy el señor de los regentes de los puntos cardinales; y aun así, inclino mi cabeza a tus pies de loto; mejor acéptame y cumple mis deseos hoy.
 
 67-68. Anteriormente te pedí a tu padre, el rey Janaka; pero él dijo que había hecho una promesa: «Quien rompa el arco de Siva se casará con mi hija». El Bhagvan Rudra es mi Gurú; por eso temí romper su arco y no estuve presente en tu Svayamvara. Pero desde entonces, mi mente siempre está pensando en ti y siento un profundo dolor por ti.
 
@@ -760,7 +760,7 @@ Sucedió que había una sequía muy severa; las lluvias eran absolutamente escas
 
 ## Capítulo XXIX
 
-**Sobre el robo de Sîtâ y las penas de Râma** <span id="p240">[<sup><small>p. 240</small></sup>]</span> 1-2. Vyâsa dijo: —Al oír estas palabras perversas, Jânakî se sintió profundamente confundida por el miedo y comenzó a temblar; recuperándose, comenzó a decir: —¡Oh, descendiente de la familia de Pulastya! ¿Por qué, impulsado por la lujuria, pronuncias estas palabras pecaminosas? Nací de la familia de Janaka; por lo tanto, no puedo actuar desenfrenadamente según mi propia inclinación.
+**Sobre el robo de Sîtâ y las penas de Râma** <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> 1-2. Vyâsa dijo: —Al oír estas palabras perversas, Jânakî se sintió profundamente confundida por el miedo y comenzó a temblar; recuperándose, comenzó a decir: —¡Oh, descendiente de la familia de Pulastya! ¿Por qué, impulsado por la lujuria, pronuncias estas palabras pecaminosas? Nací de la familia de Janaka; por lo tanto, no puedo actuar desenfrenadamente según mi propia inclinación.
 
 3\. ¡Oh, el de diez caras! Será mejor que vayas a Lankâ pronto; si no, Râmchandra te quitará la vida; sin duda morirás por mi culpa.
 
@@ -770,7 +770,7 @@ Sucedió que había una sequía muy severa; las lluvias eran absolutamente escas
 
 7-9. En el camino, Jatâyu, hijo de Aruna, se encontró con Râvana; y se desató una terrible lucha entre ambos, cuando el malvado Râvana, rey de los Demonios, mató a Jatâyu. Râvana llevó a Sîtâ a Lankâ. Entonces, Sîtâ lloró como un ciervo desolado y Râvana la retuvo en el bosque de As'oka (Jaffna).
 
-Rodeado y custodiado por los Râksasis. El rey de Lankâ tentó a Sîtâ con palabras de consuelo, y los reinos, etc., pero ella nunca se desvió de su propia castidad pura e inmaculada. <span id="p241">[<sup><small>p. 241</small></sup>]</span> 10-12. Por otro lado, Râmachandra, tras matar al ciervo y llevárselo, regresaba tranquilamente, cuando vio a Laksmana acercándose a él y le dijo: "¡Oh, Laksmana! ¡Qué gran error has cometido! Al oír la voz de ese villano hechicero, ¿cómo es que has dejado sola a mi querida Sîtâ y has venido aquí?". Laksmana dijo: "¡Oh, Señor! “Siendo profundamente traspasado por las palabras de Sîtâ Devî (que vinieron como flechas afiladas) y siendo expulsado por ella, bajo la guía del Destino Inevitable por así decirlo, he llegado aquí; no hay duda en esto”.
+Rodeado y custodiado por los Râksasis. El rey de Lankâ tentó a Sîtâ con palabras de consuelo, y los reinos, etc., pero ella nunca se desvió de su propia castidad pura e inmaculada. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 10-12. Por otro lado, Râmachandra, tras matar al ciervo y llevárselo, regresaba tranquilamente, cuando vio a Laksmana acercándose a él y le dijo: "¡Oh, Laksmana! ¡Qué gran error has cometido! Al oír la voz de ese villano hechicero, ¿cómo es que has dejado sola a mi querida Sîtâ y has venido aquí?". Laksmana dijo: "¡Oh, Señor! “Siendo profundamente traspasado por las palabras de Sîtâ Devî (que vinieron como flechas afiladas) y siendo expulsado por ella, bajo la guía del Destino Inevitable por así decirlo, he llegado aquí; no hay duda en esto”.
 
 13\. Ambos se dirigieron apresuradamente a su cabaña, hecha de hojas; y al no encontrar allí a Sita, se sintieron muy afligidos y fueron en busca de Janaki.
 
@@ -790,7 +790,7 @@ Rodeado y custodiado por los Râksasis. El rey de Lankâ tentó a Sîtâ con pal
 
 22\. Reino perdido, morada en bosques, padre abandonó su cuerpo, al fin perdí a mi querida esposa; las crueles manos del Destino me atormentan así ahora; ¿qué más me infligirá? ¿Cómo puedo decirlo ahora?
 
-23\. ¡Oh, hermano Laksmana! Es muy difícil que los hombres sepan de antemano lo que va a suceder; no puedo predecir qué me espera después de esto, si será doloroso o no. <span id="p242">[<sup><small>p. 242</small></sup>]</span> 24\. ¡Mira! Ambos, descendientes de Manu, aunque nacidos en una familia real, estamos exiliados en los bosques debido a nuestras acciones pasadas.
+23\. ¡Oh, hermano Laksmana! Es muy difícil que los hombres sepan de antemano lo que va a suceder; no puedo predecir qué me espera después de esto, si será doloroso o no. <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 24\. ¡Mira! Ambos, descendientes de Manu, aunque nacidos en una familia real, estamos exiliados en los bosques debido a nuestras acciones pasadas.
 
 25\. ¡Oh, Laksmana! Es también por obra del Destino que tú, abandonando los placeres del entorno real, hayas venido conmigo; y ahora también tú sufres un montón de terribles problemas conmigo.
 
@@ -812,7 +812,7 @@ Rodeado y custodiado por los Râksasis. El rey de Lankâ tentó a Sîtâ con pal
 
 34\. ¡Oh, Laksmana! Y cuando Jânakî sacrifique su vida, yo haré lo mismo; pues, ¿de qué me sirve entonces este cuerpo si la bella Sitâ ha partido con vida?
 
-35\. Mientras Râmchandra, con sus ojos de loto, lloraba y expresaba sus pesares y penas, el religioso Laksmana lo consoló con las siguientes dulces y sinceras palabras: — <span id="p243">[<sup><small>p. 243</small></sup>]</span> 36\. "¡Oh, Héroe de los héroes! Por favor, deja a un lado esta debilidad y ten paciencia; pronto mataré a ese villano demonio, Râvana, y te devolveré a tu Sitâ Devî.
+35\. Mientras Râmchandra, con sus ojos de loto, lloraba y expresaba sus pesares y penas, el religioso Laksmana lo consoló con las siguientes dulces y sinceras palabras: — <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> 36\. "¡Oh, Héroe de los héroes! Por favor, deja a un lado esta debilidad y ten paciencia; pronto mataré a ese villano demonio, Râvana, y te devolveré a tu Sitâ Devî.
 
 37\. Las personas sabias y firmes, gracias a su fortaleza, permanecen inquebrantables en sus corazones, tanto en la alegría como en la tristeza; mientras que los hombres de pequeño intelecto se entregan a las tristezas cuando son felices.
 
@@ -836,7 +836,7 @@ Rodeado y custodiado por los Râksasis. El rey de Lankâ tentó a Sîtâ con pal
 
 47-48. ¡Oh, Descendiente de Raghu! Como la llanta de una rueda, la felicidad y el dolor se alternan; no es que la felicidad o el dolor lleguen y permanezcan para siempre. Aquel cuya mente está profundamente abrumada por el dolor o la felicidad, es el hombre que siempre está sumido en un océano de miseria; y nunca puede esperar ser feliz.
 
-49\. ¡Mira! En tiempos pasados, Indra se vio envuelto en vicios. Los Devas se unieron y pusieron en su lugar al rey Nahusa. <span id="p244">[<sup><small>p. 244</small></sup>]</span> 50\. Entonces Indra, aterrorizado, renunció a su puesto y pasó muchos años en un estado desconocido e inadvertido dentro del loto.
+49\. ¡Mira! En tiempos pasados, Indra se vio envuelto en vicios. Los Devas se unieron y pusieron en su lugar al rey Nahusa. <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> 50\. Entonces Indra, aterrorizado, renunció a su puesto y pasó muchos años en un estado desconocido e inadvertido dentro del loto.
 
 51\. Nuevamente, cuando el tiempo cambió, recuperó su puesto; y el rey Nahusa cayó a esta tierra y se transformó en una boa constrictor (una gran serpiente), por la maldición de un Risi.
 
@@ -855,13 +855,13 @@ Así termina el capítulo 29 sobre el robo de Sîtâ y las penas de Râma en el 
 
 ## Capítulo XXX
 
-**Sobre la narración de la ceremonia de Navarâtra por Nârada y su celebración por Râma Chandra** <span id="p244">[<sup><small>p. 244</small></sup>]</span> 1-2. Vyâsa dijo: —¡Oh, rey! Râma y Laksmana, mientras conversaban así, guardaron silencio; cuando el Risi Nârada apareció allí desde el cielo, cantando los himnos del Rathântara Sâma Veda con afinación y armonía musical con su renombrado laúd.
+**Sobre la narración de la ceremonia de Navarâtra por Nârada y su celebración por Râma Chandra** <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> 1-2. Vyâsa dijo: —¡Oh, rey! Râma y Laksmana, mientras conversaban así, guardaron silencio; cuando el Risi Nârada apareció allí desde el cielo, cantando los himnos del Rathântara Sâma Veda con afinación y armonía musical con su renombrado laúd.
 
 3-4. Râmachandra, de indomable destreza, al contemplarlo, se levantó de su asiento y le ofreció rápidamente un excelente asiento y ofrendas de agua para lavarle los pies. Luego adoró al Muni y permaneció de pie con las manos juntas. Cuando el Muni se lo ordenó, se sentó junto a Nârada.
 
 5-8. Al sentarse Râmachandra con Laksmana, con el corazón afligido, Nârada le preguntó con dulzura: "¡Oh, descendiente de Raghu! ¿Por qué te afliges con penas como un simple mortal? Sé que el malvado Râvana ha robado a Sitâ Devî. Oí, estando en los cielos, que Râvana, descendiente de Pulastya, robó a Jânakî por fascinación, sin saber que esa sería la causa de su muerte. ¡Oh, descendiente de la familia de Kâkutstha! Tu nacimiento tuvo lugar para matar a Râvana; y para ese propósito, Jânakî ha sido robada ahora".
 
-Nota: La verdadera Jânakî no fue robada; su forma de sombra fue robada. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 9-12. ¡Oh, Râghava! La Devi Jânakî, en su vida anterior, era hija de un Muni y practicaba el ascetismo. Mientras realizaba sus austeridades en su ermita sagrada, Râvana se acercó y, al verla, rogó a esa hermosa mujer que se convirtiera en su esposa. Al oír esto, le lanzó un buen reproche a Râvana, cuando él, por fuerza, la agarró del cabello. Esa asceta se enfureció mucho y, considerando su cuerpo contaminado por el contacto del demonio, decidió poner fin a su vida y maldijo a Râvana de esta manera: "¡Oh, villano! Naceré en la superficie de la tierra, no de ningún vientre, sino simplemente para tu destrucción y ruina". Y diciendo esto, se despidió de su vida.
+Nota: La verdadera Jânakî no fue robada; su forma de sombra fue robada. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 9-12. ¡Oh, Râghava! La Devi Jânakî, en su vida anterior, era hija de un Muni y practicaba el ascetismo. Mientras realizaba sus austeridades en su ermita sagrada, Râvana se acercó y, al verla, rogó a esa hermosa mujer que se convirtiera en su esposa. Al oír esto, le lanzó un buen reproche a Râvana, cuando él, por fuerza, la agarró del cabello. Esa asceta se enfureció mucho y, considerando su cuerpo contaminado por el contacto del demonio, decidió poner fin a su vida y maldijo a Râvana de esta manera: "¡Oh, villano! Naceré en la superficie de la tierra, no de ningún vientre, sino simplemente para tu destrucción y ruina". Y diciendo esto, se despidió de su vida.
 
 13\. ¡Oh, Atormentador de los enemigos! Râvana, el rey de los Râksasas, confundió una guirnalda con la serpiente extremadamente venenosa y robó a Sîtâ Devî, la encarnación parcial de Laksmî, para exterminar a su raza.
 
@@ -881,7 +881,7 @@ Nota: La verdadera Jânakî no fue robada; su forma de sombra fue robada. <span 
 
 21\. En tiempos pasados, Visnu, Siva, Brahmâ y los Devas en los Cielos realizaron esta adoración a la Diosa.
 
-22\. Por lo tanto, ¡oh, Râghava! Toda persona que desee la felicidad, especialmente quienes han atravesado grandes dificultades, debe realizar esta ceremonia auspiciosa sin la menor vacilación. <span id="p246">[<sup><small>p. 246</small></sup>]</span> 23-24. ¡Oh, Kâkutstha! Vis'vamitra, Bhrigu, Vas'istha y Kas'yapa realizaron esta adoración anteriormente. Cuando alguien robó a la esposa de Brihaspati, el Gurú de los Devas, él también, gracias a esta adoración, la recuperó. Por lo tanto, ¡oh, rey!, celebra tú también el Pûjâ por la destrucción de Râvana.
+22\. Por lo tanto, ¡oh, Râghava! Toda persona que desee la felicidad, especialmente quienes han atravesado grandes dificultades, debe realizar esta ceremonia auspiciosa sin la menor vacilación. <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> 23-24. ¡Oh, Kâkutstha! Vis'vamitra, Bhrigu, Vas'istha y Kas'yapa realizaron esta adoración anteriormente. Cuando alguien robó a la esposa de Brihaspati, el Gurú de los Devas, él también, gracias a esta adoración, la recuperó. Por lo tanto, ¡oh, rey!, celebra tú también el Pûjâ por la destrucción de Râvana.
 
 25-26. ¡Oh, noble de espíritu! Este voto fue practicado antes por Indra para la destrucción de Vritra, por Siva para matar al demonio Tripura, por Nârâyana para matar a los demonios Madhu y Kaitava; así que tú también debes decidirte firmemente a cumplir este voto con todo tu corazón.
 
@@ -901,7 +901,7 @@ Nota: La verdadera Jânakî no fue robada; su forma de sombra fue robada. <span 
 
 35\. Ella es el Conocimiento Supremo, existente antes de los Vedas, y su Originadora. Las almas individuales, al conocer su naturaleza, pueden liberarse de las ataduras del mundo.
 
-36\. Se la conoce por innumerables nombres. Brahmâ y los demás Devas podrían elegir llamarla según sus acciones y cualidades. No puedo describir esos nombres. <span id="p247">[<sup><small>p. 247</small></sup>]</span> 37\. ¡Oh, descendiente de la raza de Raghu! Sus innumerables nombres se forman con las diversas combinaciones de las vocales y consonantes, desde la letra «A» hasta la letra «Ksa».
+36\. Se la conoce por innumerables nombres. Brahmâ y los demás Devas podrían elegir llamarla según sus acciones y cualidades. No puedo describir esos nombres. <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> 37\. ¡Oh, descendiente de la raza de Raghu! Sus innumerables nombres se forman con las diversas combinaciones de las vocales y consonantes, desde la letra «A» hasta la letra «Ksa».
 
 38\. Râma dijo: —¡Oh, el mejor de los Munis! Describe brevemente todas las reglas y regulaciones sobre cómo deben realizarse ese voto y adoración. Con mi corazón, lleno de devoción y fe, hoy adoraré a la Diosa.
 
@@ -923,7 +923,7 @@ Nota: La verdadera Jânakî no fue robada; su forma de sombra fue robada. <span 
 
 50-51. ¡Oh, Rama! Eres Tú quien, en tiempos pasados, encarnaste como un jabalí y sostuviste esta tierra con tus dientes. Eres Tú quien asumió la forma de un Hombre-León y salvó a Prahlada, desgarrando el cuerpo de Hiranya Kasipu con tus afiladas uñas.
 
-52\. ¡Oh, Descendiente de Raghu! Fuiste Tú quien, en la antigüedad, asumió la forma de un enano y sirvió a los designios de los Devas, engañando con engaños a Balî, el menor de Indra. <span id="p248">[<sup><small>p. 248</small></sup>]</span> 53\. ¡Oh, hijo de Kaus'alya! Encarnaste como el hijo de Jamadagni en la familia Brâhmin, exterminaste el linaje de los reyes Ksattrîya y entregaste toda esta tierra a Bhagavân Kas'yapa Risi.
+52\. ¡Oh, Descendiente de Raghu! Fuiste Tú quien, en la antigüedad, asumió la forma de un enano y sirvió a los designios de los Devas, engañando con engaños a Balî, el menor de Indra. <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> 53\. ¡Oh, hijo de Kaus'alya! Encarnaste como el hijo de Jamadagni en la familia Brâhmin, exterminaste el linaje de los reyes Ksattrîya y entregaste toda esta tierra a Bhagavân Kas'yapa Risi.
 
 54\. Así pues, Tú has nacido ahora como hijo de Das'aratha, en la raza inmaculada de Kâkutstha, a petición de los Devas, acosados ​​por Râvana.
 

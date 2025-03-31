@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 En discusiones sobre médiums fraudulentos o psíquicos autoengañados, el lector de este libro se ha topado varias veces con la afirmación de que había ciertas excepciones a las acusaciones generales allí formuladas, y fue remitido a este apéndice. Ahora es mi deber explicar lo que tenía en mente cuando se insertaron esas notas a pie de página.
 
@@ -42,7 +42,7 @@ La otra excepción tiene que ver con un caso bastante peculiar de fenómenos ps�
 
 Un estudio exhaustivo de este caso me ha convencido de que no se trata de un trance ordinario. Si bien el sueño parece ser de orden natural, es muy profundo y hasta ahora nunca hemos podido despertar al sujeto en este estado; pero el cuerpo nunca está rígido y la acción del corazón nunca se modifica, aunque a veces la respiración se ve notablemente interferida. Este hombre está completamente inconsciente, completamente ajeno a lo que sucede y, a menos que se le diga más adelante, nunca sabe que ha sido utilizado como una especie de cámara de compensación para el ir y venir de supuestas personalidades extraplanetarias. De hecho, se muestra más o menos indiferente a todo el proceso y muestra una sorprendente falta de interés en estos asuntos que ocurren de vez en cuando.
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 De ninguna manera estas visitas nocturnas son como las sesiones asociadas con el espiritismo. En ningún momento durante el período de dieciocho años de observación ha habido comunicación de ninguna fuente que afirmara ser el espíritu de un ser humano fallecido. Las comunicaciones que han sido escritas, o que hemos tenido la oportunidad de escuchar, son hechas por una vasta orden de supuestos seres que afirman venir de otros planetas para visitar este mundo, para detenerse aquí como estudiantes visitantes para estudiar y observar cuando están en camino de un universo a otro o de un planeta a otro. Estas comunicaciones surgen además en supuestos seres espirituales que afirman haber sido asignados a este planeta para desempeñar deberes de diversos tipos.
 

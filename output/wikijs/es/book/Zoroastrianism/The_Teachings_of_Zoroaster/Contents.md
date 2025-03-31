@@ -46,7 +46,7 @@ Definición de Ahura-Mazda (Dios) | [22](Introduction#p22)
 Significado de la palabra Daêva en el idioma Avesta | [24](Introduction#p24)
 Creación | [25](Introduction#p25)
 Filosofía especulativa zoroástrica: Spenta Mainyus (Espíritu creativo) y Angro Mainyus (Espíritu destructivo): Su conflicto incesante en el estado de naturaleza | [26](Introduction#p26)
-Refutación de la doctrina del dualismo | [27](Introduction#p27) <span id="p8">[<sup><small>p. 8</small></sup>]</span>
+Refutación de la doctrina del dualismo | [27](Introduction#p27) <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 Males empleados por Angro Mainyus | [28](Introduction#p28)
 Invocación de Spenta Mainyus—De la Vida en la Tierra—La Creación de Dieciséis Regiones | [29](Introduction#p29)
 Yima (Jamshid), el Gobernante de Airyana-Vaêjâ—La advertencia de Dios a Yima sobre el desastre que azotaría su reino (Noé y su Arca) | [30](Introduction#p30)
@@ -62,7 +62,7 @@ Un incidente avéstico de misericordia y caridad hacia los caídos | [39](Introd
 Dios y su jerarquía de arcángeles (Ameshaspends) | [41](Introduction#p41)
 Bondad hacia los animales tontos: queja de Geush-Urvan (el señor del rebaño de ganado) a Dios: una parábola | [41](Introduction#p41)–[42](Introduction#p42)
 Oración de arrepentimiento por el maltrato o la crueldad hacia los animales domésticos | [43](Introduction#p43)
-Prohibición del ayuno | [44](Introduction#p44) <span id="p9">[<sup><small>p. 9</small></sup>]</span>
+Prohibición del ayuno | [44](Introduction#p44) <span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 De la otra vida |
 El cuerpo y el alma | [45](Introduction#p45)
 La ruptura de su vínculo de amistad—El glorioso ocaso de la vida—La partida del alma—Su llegada al “Puente Chinvat”—El registrador “Mehr Davar” en la Puerta del Cielo | [46](Introduction#p46)
@@ -82,7 +82,7 @@ El destino del alma | [61](Extracts#p61)
 La rendición de cuentas del alma | [64](Extracts#p64)
 Himno Gatha | [66](Extracts#p66)
 Confesión de Fe | [69](Extracts#p69)
-El Credo | [69](Extracts#p69) <span id="p10">[<sup><small>p. 10</small></sup>]</span>
+El Credo | [69](Extracts#p69) <span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 Oración de Kem Nâ Mazda | [70](Extracts#p70)
 Oración de Ke Verethrem Gâ | [70](Extracts#p70)
 Oración de Ormuz Yast (en alabanza a Dios) | [70](Extracts#p70)

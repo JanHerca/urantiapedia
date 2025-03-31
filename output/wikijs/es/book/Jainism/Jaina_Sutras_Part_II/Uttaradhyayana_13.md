@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:57:49Z
 
 DECIMOTERCERA CONFERENCIA. KITRA Y SAMBHÛTA [^169]. 
 
-Español Siendo tratado con desprecio por causa de su nacimiento (como un <i>K</i>â<i>n</i><i>d</i>âla) Sambhûta tomó, en Hastinâpura, <span id="p57">[<sup><small>p. 57</small></sup>]</span> la pecaminosa resolución (de convertirse en un monarca universal en algún nacimiento posterior); descendiendo de la región celestial Padmagulma, nació de <i>K</i>ulanî en Kâmpilya como Brahmadatta; <i>K</i>itra, sin embargo, nació en la ciudad de Purimatâla en la gran familia de un comerciante; cuando hubo escuchado la Ley, entró en la orden. (1, 2) 
+Español Siendo tratado con desprecio por causa de su nacimiento (como un <i>K</i>â<i>n</i><i>d</i>âla) Sambhûta tomó, en Hastinâpura, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> la pecaminosa resolución (de convertirse en un monarca universal en algún nacimiento posterior); descendiendo de la región celestial Padmagulma, nació de <i>K</i>ulanî en Kâmpilya como Brahmadatta; <i>K</i>itra, sin embargo, nació en la ciudad de Purimatâla en la gran familia de un comerciante; cuando hubo escuchado la Ley, entró en la orden. (1, 2) 
 
 En la ciudad de Kâmpilya, tanto Sambhûta como <i>K</i>itra (como se les llamaba en un nacimiento anterior) se encontraron de nuevo y se contaron la recompensa que habían obtenido por sus buenas y malas acciones. (3) 
 
@@ -48,7 +48,7 @@ El monarca universal Brahmadatta, el poderoso y glorioso rey, respetuosamente le
 
 «El karman se produce por pensamientos pecaminosos, y tú los has albergado, oh rey; es por la influencia de este karman que nos separamos». (8)
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span> 
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span> 
 
 «He realizado acciones basadas en la verdad y la pureza, y ahora disfruto de sus efectos; ¿es esto también cierto en tu caso, <i>K</i>itra?» (9) 
 
@@ -64,7 +64,7 @@ El monarca universal Brahmadatta, el poderoso y glorioso rey, respetuosamente le
 
 Como el virtuoso <i>K</i>itra, por amor a una antigua amistad, amaba al rey, quien era adicto a los placeres sensuales, y como le importaba su bienestar, le dijo las siguientes palabras: (is) 
 
-“Todo canto no es más que parloteo, todo baile no es más que <span id="p59">[<sup><small>p. 59</small></sup>]</span> burla, todos los adornos no son más que una carga, todos los placeres no producen más que dolores. (16) 
+“Todo canto no es más que parloteo, todo baile no es más que <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> burla, todos los adornos no son más que una carga, todos los placeres no producen más que dolores. (16) 
 
 “Oh rey, los placeres que gustan a los ignorantes, pero que producen dolores, no deleitan a los monjes piadosos que no se preocupan por el placer, sino que se dedican a las virtudes de la conducta correcta. (17) 
 
@@ -80,7 +80,7 @@ Como el virtuoso <i>K</i>itra, por amor a una antigua amistad, amaba al rey, qui
 
 Ni sus parientes, ni sus amigos, ni sus hijos, ni sus parientes compartirán su sufrimiento; solo él tiene que soportarlo; pues el Karman sigue al que lo hace. (23)
 
-Dejando atrás bípedos y cuadrúpedos, sus campos, su casa, sus riquezas, su maíz y todo; <span id="p60">[<sup><small>p. 60</small></sup>]</span> contra su voluntad, y acompañado solo por su Karman [^172], entra en una nueva existencia, ya sea buena o mala. (24) 
+Dejando atrás bípedos y cuadrúpedos, sus campos, su casa, sus riquezas, su maíz y todo; <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> contra su voluntad, y acompañado solo por su Karman [^172], entra en una nueva existencia, ya sea buena o mala. (24) 
 
 Cuando hayan quemado en la pira funeraria su desamparado e indefenso cadáver, su esposa, hijos y parientes elegirán a otro hombre para que los cuide. (25) 
 
@@ -92,7 +92,7 @@ La vida se arrastra (hacia la muerte) continuamente [^173]; la vejez se lleva el
 
 Y como no me arrepentí de ello, esto ha sucedido, que todavía anhelo placeres sensuales, aunque conozco la Ley. (29) 
 
-'Como un elefante, hundiéndose en un atolladero, <span id="p61">[<sup><small>p. 61</small></sup>]</span> ve el terreno elevado pero no llega a la orilla, así también nosotros que anhelamos placeres sensuales, no seguimos el camino de los monjes. (30) 
+'Como un elefante, hundiéndose en un atolladero, <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> ve el terreno elevado pero no llega a la orilla, así también nosotros que anhelamos placeres sensuales, no seguimos el camino de los monjes. (30) 
 
 'El tiempo transcurre y rápidamente pasan los días; Los placeres de los hombres no son permanentes; llegan a un hombre y lo abandonan, como un pájaro abandona un árbol sin fruto. (31) 
 

@@ -50,7 +50,7 @@ Hsien indica que, al cumplirse las condiciones implícitas en él, habrá libre 
 
 4\. El cuarto NUEVE, indiviso, muestra la firme corrección que conducirá a la buena fortuna y evitará cualquier ocasión de arrepentimiento. Si su objetivo es inestable en sus acciones, solo sus amigos seguirán su propósito.
 
-5\. El quinto NUEVE, indiviso, muestra a alguien moviendo la carne a lo largo de la columna vertebral por encima del corazón. No habrá motivo de arrepentimiento. <span id="p124">[<sup><small>p. 124</small></sup>]</span> 6\. El sexto seis, dividido, muestra a alguien moviendo las mandíbulas y la lengua.
+5\. El quinto NUEVE, indiviso, muestra a alguien moviendo la carne a lo largo de la columna vertebral por encima del corazón. No habrá motivo de arrepentimiento. <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> 6\. El sexto seis, dividido, muestra a alguien moviendo las mandíbulas y la lengua.
 
 
 
@@ -64,7 +64,7 @@ Hsien indica que, al cumplirse las condiciones implícitas en él, habrá libre 
 
 Hăng indica progreso exitoso y ausencia de errores (en lo que denota). Pero la ventaja provendrá de ser firme y correcto; y cualquier movimiento en cualquier dirección será ventajoso.
 
-1\. El primer SEIS, dividido, muestra a su sujeto profundamente deseoso de una larga continuidad. Incluso con una firme <span id="p126">[<sup><small>p. 126</small></sup>]</span> corrección, habrá mal; no habrá ninguna ventaja.
+1\. El primer SEIS, dividido, muestra a su sujeto profundamente deseoso de una larga continuidad. Incluso con una firme <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> corrección, habrá mal; no habrá ninguna ventaja.
 
 2\. El segundo NUEVE, indiviso, muestra que toda ocasión de arrepentimiento desaparece.
 
@@ -88,7 +88,7 @@ Hăng indica progreso exitoso y ausencia de errores (en lo que denota). Pero la 
 
 Thun indica un progreso exitoso (en sus circunstancias). En cierta medida, (aún) será ventajoso ser firme y correcto.
 
-1\. El primer SEIS, dividido, muestra una cola que se retira. La posición es peligrosa. No se debe hacer ningún movimiento en ninguna dirección. <span id="p128">[<sup><small>p. 128</small></sup>]</span> 2\. El segundo SEIS, dividido, muestra a su sujeto aferrándose a su propósito como si fuera una correa de piel de buey amarillo, que no se puede romper.
+1\. El primer SEIS, dividido, muestra una cola que se retira. La posición es peligrosa. No se debe hacer ningún movimiento en ninguna dirección. <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> 2\. El segundo SEIS, dividido, muestra a su sujeto aferrándose a su propósito como si fuera una correa de piel de buey amarillo, que no se puede romper.
 
 3\. El tercer NUEVE, indiviso, representa a alguien que se retira pero está atado, para su propia angustia y peligro. (Si tratara con sus atados, como por ejemplo) alimentando a una sirvienta o concubina, sería afortunado para él.
 
@@ -108,7 +108,7 @@ Thun indica un progreso exitoso (en sus circunstancias). En cierta medida, (aún
 
 ![](image/book/Confucianism/The_I_Ching/hex001111.jpg)
 
-Tâ <i>K</i>wang indica que (en las circunstancias que simboliza) será ventajoso ser firme y correcto. <span id="p130">[<sup><small>p. 130</small></sup>]</span> 1\. El primer NUEVE, indiviso, muestra a su sujeto manifestando su fuerza en los dedos de los pies. Pero el avance conducirá al mal, sin duda.
+Tâ <i>K</i>wang indica que (en las circunstancias que simboliza) será ventajoso ser firme y correcto. <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> 1\. El primer NUEVE, indiviso, muestra a su sujeto manifestando su fuerza en los dedos de los pies. Pero el avance conducirá al mal, sin duda.
 
 2\. El segundo NUEVE, indiviso, muestra que con firmeza y corrección habrá buena fortuna.
 
@@ -131,7 +131,7 @@ Tâ <i>K</i>wang indica que (en las circunstancias que simboliza) será ventajos
 
 ![](image/book/Confucianism/The_I_Ching/hex101000.jpg)
 
-En Žin vemos a un príncipe que procura la tranquilidad del pueblo, obsequiado por el rey con numerosos caballos y recibido tres veces al día en entrevistas. <span id="p132">[<sup><small>p. 132</small></sup>]</span> 1\. El primer SEIS, dividido, muestra a alguien que desea avanzar y, al mismo tiempo, se mantiene atrás. Que sea firme y correcto, y la fortuna le espera. Si no se confía en él, que mantenga una mente amplia y generosa, y no habrá error.
+En Žin vemos a un príncipe que procura la tranquilidad del pueblo, obsequiado por el rey con numerosos caballos y recibido tres veces al día en entrevistas. <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> 1\. El primer SEIS, dividido, muestra a alguien que desea avanzar y, al mismo tiempo, se mantiene atrás. Que sea firme y correcto, y la fortuna le espera. Si no se confía en él, que mantenga una mente amplia y generosa, y no habrá error.
 
 2\. El segundo SEIS, dividido, muestra a su sujeto con la apariencia de avanzar, pero a la vez con tristeza. Si se mantiene firme y correcto, le aguardará buena fortuna. Recibirá esta gran bendición de su abuela.
 
@@ -141,7 +141,7 @@ En Žin vemos a un príncipe que procura la tranquilidad del pueblo, obsequiado 
 
 5\. El quinto SEIS, dividido, muestra cómo desaparece toda ocasión de arrepentimiento (de su sujeto). (Pero) que no se preocupe por si fracasará o tendrá éxito. Avanzar será afortunado y ventajoso en todos los sentidos.
 
-6\. El NUEVE superior, indiviso, muestra a uno que avanza con sus cuernos. Pero solo los usa para castigar a los rebeldes de su ciudad. La posición <span id="p133">[<sup><small>p. 133</small></sup>]</span> es peligrosa, pero le espera buena fortuna. Sin embargo, por firme y correcto que sea, habrá motivos para arrepentirse.
+6\. El NUEVE superior, indiviso, muestra a uno que avanza con sus cuernos. Pero solo los usa para castigar a los rebeldes de su ciudad. La posición <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> es peligrosa, pero le espera buena fortuna. Sin embargo, por firme y correcto que sea, habrá motivos para arrepentirse.
 
 
 
@@ -153,7 +153,7 @@ En Žin vemos a un príncipe que procura la tranquilidad del pueblo, obsequiado 
 
 ![](image/book/Confucianism/The_I_Ching/hex000101.jpg)
 
-Ming Î indica que (en las circunstancias que denota) será ventajoso darse cuenta de la <span id="p135">[<sup><small>p. 135</small></sup>]</span> dificultad (de la posición) y mantener una corrección firme.
+Ming Î indica que (en las circunstancias que denota) será ventajoso darse cuenta de la <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> dificultad (de la posición) y mantener una corrección firme.
 
 1\. El primer NUEVE, indiviso, muestra a su sujeto, (en la condición indicada por) Ming Î, volando, pero con las alas caídas. Cuando el hombre superior (está girando) su partida, puede pasar tres días sin comer. Dondequiera que vaya, la gente puede hablar (burlonamente) de él.
 
@@ -177,7 +177,7 @@ Ming Î indica que (en las circunstancias que denota) será ventajoso darse cuen
 
 ![](image/book/Confucianism/The_I_Ching/hex110101.jpg)
 
-Para (la realización de lo que se enseña en) <i>K</i>iâ <i>Z</i>ăn, (o para la regulación de la familia), lo más ventajoso <span id="p137">[<sup><small>p. 137</small></sup>]</span> es que la esposa sea firme y correcta.
+Para (la realización de lo que se enseña en) <i>K</i>iâ <i>Z</i>ăn, (o para la regulación de la familia), lo más ventajoso <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> es que la esposa sea firme y correcta.
 
 1\. El primer NUEVE, indiviso, muestra a su sujeto estableciendo regulaciones restrictivas en su hogar. La ocasión para el arrepentimiento desaparecerá.
 
@@ -185,7 +185,7 @@ Para (la realización de lo que se enseña en) <i>K</i>iâ <i>Z</i>ăn, (o para 
 
 3\. El tercer NUEVE, indiviso, muestra a su sujeto (tratando) a los miembros de la familia con severa severidad. Habrá ocasión para el arrepentimiento, habrá peligro, (pero) también habrá buena fortuna. Si la esposa y los hijos sonrieran y charlaran, al final habría motivo de arrepentimiento.
 
-4\. El cuarto SEIS, dividido, muestra a su sujeto <span id="p138">[<sup><small>p. 138</small></sup>]</span> enriqueciendo a la familia. Habrá mucha fortuna.
+4\. El cuarto SEIS, dividido, muestra a su sujeto <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> enriqueciendo a la familia. Habrá mucha fortuna.
 
 5\. El quinto NUEVE, indiviso, muestra la influencia del rey extendiéndose a su familia. No hay necesidad de preocuparse; habrá buena fortuna.
 
@@ -210,7 +210,7 @@ Para (la realización de lo que se enseña en) <i>K</i>iâ <i>Z</i>ăn, (o para 
 
 3\. En el tercer SEIS, dividido, vemos a alguien cuyo carruaje es arrastrado hacia atrás, mientras que los bueyes que lo transportan son empujados hacia atrás, y él mismo es sometido a que le afeiten la cabeza y le corten la nariz. No hay un buen comienzo, pero sí un buen final.
 
-4\. El cuarto NUEVE, indiviso, muestra a su sujeto solitario en medio de la desunión (predominante). (Pero) se encuentra con el buen hombre (representado por la primera línea <span id="p140">[<sup><small>p. 140</small></sup>]</span>), y fusionan sus sinceros deseos. La situación es peligrosa, pero no habrá error.
+4\. El cuarto NUEVE, indiviso, muestra a su sujeto solitario en medio de la desunión (predominante). (Pero) se encuentra con el buen hombre (representado por la primera línea <span id="p140"><sup><small>[ p. 140 ]</small></sup></span>), y fusionan sus sinceros deseos. La situación es peligrosa, pero no habrá error.
 
 5\. El quinto SEIS, dividido, muestra que (para su sujeto) la ocasión de arrepentimiento desaparecerá. Con su pariente (y ministro se une estrecha y prontamente) como si estuviera mordiendo un trozo de piel. Cuando avanza (con esta ayuda), ¿qué error puede haber?
 
@@ -226,7 +226,7 @@ Para (la realización de lo que se enseña en) <i>K</i>iâ <i>Z</i>ăn, (o para 
 
 ![](image/book/Confucianism/The_I_Ching/hex010100.jpg)
 
-En (el estado indicado por) <i>K</i>ien, la ventaja se hallará en el suroeste, y lo contrario en el noreste. Será ventajoso (también) encontrarse <span id="p142">[<sup><small>p. 142</small></sup>]</span> con el gran hombre. (En estas circunstancias), con firmeza y corrección, habrá buena fortuna.
+En (el estado indicado por) <i>K</i>ien, la ventaja se hallará en el suroeste, y lo contrario en el noreste. Será ventajoso (también) encontrarse <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> con el gran hombre. (En estas circunstancias), con firmeza y corrección, habrá buena fortuna.
 
 1\. De los primeros SEIS, divididos, aprendemos que el avance (por parte de su sujeto) conducirá a (mayores) dificultades, mientras que permanecer estacionario dará lugar a elogios.
 
@@ -238,7 +238,7 @@ En (el estado indicado por) <i>K</i>ien, la ventaja se hallará en el suroeste, 
 
 5\. El quinto NUEVE, indiviso, muestra a su sujeto luchando con las mayores dificultades, mientras los amigos vienen a ayudarlo.
 
-6\. El SEIS superior, dividido, muestra a su sujeto avanzando, (solo para aumentar) las dificultades, <span id="p143">[<sup><small>p. 143</small></sup>]</span> mientras que su permanencia estacionaria será (productiva de) gran (mérito). Habrá buena fortuna, y será ventajoso encontrarse con el gran hombre.
+6\. El SEIS superior, dividido, muestra a su sujeto avanzando, (solo para aumentar) las dificultades, <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> mientras que su permanencia estacionaria será (productiva de) gran (mérito). Habrá buena fortuna, y será ventajoso encontrarse con el gran hombre.
 
 <span id="p144">[<sup><small>pág. 144</small></sup>]</span>
 
@@ -253,7 +253,7 @@ En (el estado indicado por) <i>K</i>ien, la ventaja se hallará en el suroeste, 
 
 En (el estado indicado por) <i>K</i>ieh, se hallará ventaja en el suroeste. Si no se requieren más operaciones, será afortunada la recuperación de las condiciones anteriores. Si se requieren algunas operaciones, será afortunada su rápida ejecución.
 
-1\. El primer SEIS, dividido, muestra que su sujeto no cometerá ningún error. <span id="p145">[<sup><small>p. 145</small></sup>]</span> 2\. El segundo NUEVE, indiviso, muestra que su sujeto atrapa, al cazar, tres zorros y obtiene las flechas amarillas (= doradas). Con una acertada decisión, habrá buena fortuna.
+1\. El primer SEIS, dividido, muestra que su sujeto no cometerá ningún error. <span id="p145"><sup><small>[ p. 145 ]</small></sup></span> 2\. El segundo NUEVE, indiviso, muestra que su sujeto atrapa, al cazar, tres zorros y obtiene las flechas amarillas (= doradas). Con una acertada decisión, habrá buena fortuna.
 
 3\. El tercer SEIS, dividido, muestra a un porteador con su carga, todavía en un carruaje. Solo tentará a los ladrones a atacarlo. Por firme y correcto que intente ser, habrá motivos para arrepentirse.
 
@@ -283,7 +283,7 @@ En (lo que se denota por) Sol, si hay sinceridad (en quien lo emplea), habrá gr
 
 4\. El cuarto SEIS, dividido, muestra a su sujeto aliviando la dolencia que lo aqueja al hacer que (el sujeto de la primera línea) acuda en su ayuda y lo alegre. No habrá error.
 
-5\. El quinto SEIS, dividido, muestra a grupos que añaden a las reservas de su sujeto diez pares de caparazones de tortuga, sin aceptar rechazos. Habrá mucha fortuna. <span id="p148">[<sup><small>p. 148</small></sup>]</span> 6\. El NUEVE superior, indiviso, muestra a su sujeto aumentando a otros sin quitarse nada a sí mismo. No habrá error. Con firmeza, habrá buena fortuna. Habrá ventaja en cada movimiento que se realice. Encontrará ministros más de los que se pueden contar por clanes.
+5\. El quinto SEIS, dividido, muestra a grupos que añaden a las reservas de su sujeto diez pares de caparazones de tortuga, sin aceptar rechazos. Habrá mucha fortuna. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> 6\. El NUEVE superior, indiviso, muestra a su sujeto aumentando a otros sin quitarse nada a sí mismo. No habrá error. Con firmeza, habrá buena fortuna. Habrá ventaja en cada movimiento que se realice. Encontrará ministros más de los que se pueden contar por clanes.
 
 
 
@@ -297,7 +297,7 @@ En (lo que se denota por) Sol, si hay sinceridad (en quien lo emplea), habrá gr
 
 Yî indica que (en el estado que denota) habrá ventaja en cada movimiento que se emprenda, que será ventajoso (incluso) cruzar la gran corriente.
 
-1\. El primer NUEVE, indiviso, muestra que será ventajoso para su sujeto, en su posición, realizar <span id="p150">[<sup><small>p. 150</small></sup>]</span> un gran movimiento. Si tiene gran fortuna, no se le imputará ninguna culpa.
+1\. El primer NUEVE, indiviso, muestra que será ventajoso para su sujeto, en su posición, realizar <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> un gran movimiento. Si tiene gran fortuna, no se le imputará ninguna culpa.
 
 2\. El segundo SEIS, dividido, muestra a grupos que añaden a las reservas de su súbdito diez pares de caparazones de tortuga cuyos oráculos son irrefutables. Que persevere en ser firme y correcto, y habrá buena fortuna. Que el rey, con las virtudes así distinguidas, las emplee al presentar sus ofrendas a Dios, y habrá buena fortuna.
 
@@ -319,13 +319,13 @@ Yî indica que (en el estado que denota) habrá ventaja en cada movimiento que s
 
 ![](image/book/Confucianism/The_I_Ching/hex011111.jpg)
 
-Kwâi exige (en quien quiera cumplir su significado) la exposición (de la culpabilidad del culpable) en la corte real, y una petición sincera y sincera (de compasión <span id="p152">[<sup><small>p. 152</small></sup>]</span> y apoyo), consciente del peligro (que implica eliminar al criminal). Debería (también) anunciarlo en su propia ciudad y demostrar que no será conveniente recurrir de inmediato a las armas. (De esta manera) habrá ventaja en cualquier cosa que emprenda.
+Kwâi exige (en quien quiera cumplir su significado) la exposición (de la culpabilidad del culpable) en la corte real, y una petición sincera y sincera (de compasión <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> y apoyo), consciente del peligro (que implica eliminar al criminal). Debería (también) anunciarlo en su propia ciudad y demostrar que no será conveniente recurrir de inmediato a las armas. (De esta manera) habrá ventaja en cualquier cosa que emprenda.
 
 1\. El primer NUEVE, indiviso, muestra a su sujeto con orgullo, avanzando con fuerza. Avanza, pero no tendrá éxito. Habrá motivos para la censura.
 
 2\. El segundo NUEVE, indiviso, muestra a su sujeto lleno de aprensión y suplicando compasión y ayuda. A altas horas de la noche, podrían tomarse medidas hostiles contra él, pero no tiene por qué preocuparse.
 
-3\. El tercer NUEVE, entero, muestra a su sujeto (a punto de avanzar) con mirada firme (y decidida). Habrá maldad. (Pero) el hombre superior, empeñado en eliminar (al criminal), caminará solo y se enfrentará a la lluvia, (hasta ser odiado por sus verdaderos compañeros) como si estuviera contaminado (por los demás). (Al final) no habrá culpa contra él. <span id="p153">[<sup><small>p. 153</small></sup>]</span> 4\. El cuarto NUEVE, entero, muestra a alguien cuya piel ha sido arrancada de las nalgas, y que camina despacio y con dificultad. (Si pudiera actuar) como una oveja guiada (tras sus compañeros), la ocasión de arrepentimiento desaparecería. Pero aunque escuche estas palabras, no las creerá.
+3\. El tercer NUEVE, entero, muestra a su sujeto (a punto de avanzar) con mirada firme (y decidida). Habrá maldad. (Pero) el hombre superior, empeñado en eliminar (al criminal), caminará solo y se enfrentará a la lluvia, (hasta ser odiado por sus verdaderos compañeros) como si estuviera contaminado (por los demás). (Al final) no habrá culpa contra él. <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> 4\. El cuarto NUEVE, entero, muestra a alguien cuya piel ha sido arrancada de las nalgas, y que camina despacio y con dificultad. (Si pudiera actuar) como una oveja guiada (tras sus compañeros), la ocasión de arrepentimiento desaparecería. Pero aunque escuche estas palabras, no las creerá.
 
 5\. El quinto NUEVE, indiviso, muestra (a los hombres pequeños) como un lecho de verdolaga, que debe ser arrancado con la mayor determinación. (El sujeto del verso tiene tal determinación), su acción, en armonía con su posición central, no conducirá a error ni a culpa.
 
@@ -341,7 +341,7 @@ Kwâi exige (en quien quiera cumplir su significado) la exposición (de la culpa
 
 ![](image/book/Confucianism/The_I_Ching/hex111110.jpg)
 
-Kâu muestra a una mujer audaz y fuerte. No será bueno casarse con una mujer así. <span id="p155">[<sup><small>p. 155</small></sup>]</span> 1\. El primer SEIS, dividido, muestra cómo su sujeto debe mantenerse atado y sujeto a una traba de metal (como un carruaje); en cuyo caso, con firmeza y corrección, habrá buena fortuna. Pero si se mueve en cualquier dirección, aparecerá el mal. Será como un cerdo flaco, que sin duda no parará de saltar.
+Kâu muestra a una mujer audaz y fuerte. No será bueno casarse con una mujer así. <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> 1\. El primer SEIS, dividido, muestra cómo su sujeto debe mantenerse atado y sujeto a una traba de metal (como un carruaje); en cuyo caso, con firmeza y corrección, habrá buena fortuna. Pero si se mueve en cualquier dirección, aparecerá el mal. Será como un cerdo flaco, que sin duda no parará de saltar.
 
 2\. El segundo NUEVE, indiviso, muestra a su sujeto con una bolsa de pescado. No habrá error. Pero no será conveniente dejar que (el sujeto de la primera línea) avance hacia los invitados.
 
@@ -427,7 +427,7 @@ En (la condición denotada por) Khwăn puede (aún) haber progreso y éxito. Par
 
 3\. El tercer SEIS, dividido, muestra a su sujeto en apuros ante una roca (ceñuda). Se aferra a las espinas. Entra en su palacio y no ve a su esposa. Habrá maldad.
 
-4\. El cuarto NUEVE, indiviso, muestra a su sujeto avanzando muy lentamente (para ayudar al sujeto de la primera línea), quien se ve en apuros por el carruaje adornado con metal que tiene delante. Habrá motivos para arrepentirse, pero el final será bueno. <span id="p163">[<sup><small>p. 163</small></sup>]</span> 5\. El quinto NUEVE, indiviso, muestra a su sujeto con la nariz y los pies amputados. Se ve en apuros por (sus ministros con sus) delantales escarlata. Sin embargo, se mueve con lentitud y se siente satisfecho. Le convendrá ser tan sincero como al ofrecer sacrificios a seres espirituales.
+4\. El cuarto NUEVE, indiviso, muestra a su sujeto avanzando muy lentamente (para ayudar al sujeto de la primera línea), quien se ve en apuros por el carruaje adornado con metal que tiene delante. Habrá motivos para arrepentirse, pero el final será bueno. <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> 5\. El quinto NUEVE, indiviso, muestra a su sujeto con la nariz y los pies amputados. Se ve en apuros por (sus ministros con sus) delantales escarlata. Sin embargo, se mueve con lentitud y se siente satisfecho. Le convendrá ser tan sincero como al ofrecer sacrificios a seres espirituales.
 
 6\. El sexto SEIS, dividido, muestra a su sujeto en tensión, como atado por enredaderas; o en una posición elevada y peligrosa, y diciéndose a sí mismo: «Si me muevo, me arrepentiré». Si se arrepiente de sus errores pasados, le aguardará buena fortuna en el futuro.
 
@@ -447,7 +447,7 @@ Al observar Žing, pensamos en cómo puede cambiar la ubicación de una ciudad, 
 
 2\. El segundo NUEVE, indiviso, muestra un pozo del que por un agujero se escapa el agua y fluye hacia los camarones (y otras pequeñas criaturas similares entre la hierba), o uno cuya agua se escapa de una cesta rota.
 
-3\. El tercer NUEVE, sin dividir, muestra un pozo que ha sido vaciado, pero no se usa. Nos da pena, pues el agua podría ser extraída y utilizada. Si el rey fuera (tan solo) inteligente, tanto él como nosotros podríamos beneficiarnos de ello. <span id="p166">[<sup><small>p. 166</small></sup>]</span> 4\. El cuarto SEIS, dividido, muestra un pozo cuyo revestimiento está bien colocado. No habrá error.
+3\. El tercer NUEVE, sin dividir, muestra un pozo que ha sido vaciado, pero no se usa. Nos da pena, pues el agua podría ser extraída y utilizada. Si el rey fuera (tan solo) inteligente, tanto él como nosotros podríamos beneficiarnos de ello. <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> 4\. El cuarto SEIS, dividido, muestra un pozo cuyo revestimiento está bien colocado. No habrá error.
 
 5\. El quinto NUEVE, indiviso, muestra un pozo claro y límpido, (cuyas aguas) de cuyo manantial frío se beben (libremente).
 
@@ -465,7 +465,7 @@ Al observar Žing, pensamos en cómo puede cambiar la ubicación de una ciudad, 
 
 Solo se cree en lo que ocurre según lo indicado por Ko después de haberlo logrado. Habrá gran progreso y éxito. La firmeza y la corrección traerán beneficios. En ese caso, desaparecerá la ocasión de arrepentimiento.
 
-1\. El primer NUEVE, indiviso, muestra a su sujeto (como si estuviera) atado con la piel de un buey amarillo. <span id="p168">[<sup><small>p. 168</small></sup>]</span> 2\. El segundo SEIS, dividido, muestra a su sujeto realizando sus cambios después de un tiempo. La acción tomada será afortunada. No habrá ningún error.
+1\. El primer NUEVE, indiviso, muestra a su sujeto (como si estuviera) atado con la piel de un buey amarillo. <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> 2\. El segundo SEIS, dividido, muestra a su sujeto realizando sus cambios después de un tiempo. La acción tomada será afortunada. No habrá ningún error.
 
 3\. El tercer NUEVE, indiviso, muestra que la acción de su sujeto será mala. Aunque sea firme y correcto, su posición es peligrosa. Si el cambio que contempla ha sido discutido tres veces a fondo, se le creerá.
 
@@ -487,13 +487,13 @@ Solo se cree en lo que ocurre según lo indicado por Ko después de haberlo logr
 
 Ting da la impresión de un gran progreso y éxito.
 
-1\. El primer SEIS, dividido, muestra el caldero derribado y sus patas levantadas. (Pero) habrá <span id="p170">[<sup><small>p. 170</small></sup>]</span> ventaja en deshacerse de lo malo que contenía. (O nos muestra) a la concubina (cuya posición mejora) gracias a su hijo. No habrá error.
+1\. El primer SEIS, dividido, muestra el caldero derribado y sus patas levantadas. (Pero) habrá <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> ventaja en deshacerse de lo malo que contenía. (O nos muestra) a la concubina (cuya posición mejora) gracias a su hijo. No habrá error.
 
 2\. El segundo NUEVE, indiviso, muestra el caldero con los alimentos (para cocinar) en él. (Si su sujeto puede decir): «Mi enemigo me detesta, pero no puede acercarse a mí», habrá buena fortuna.
 
 3\. El tercer NUEVE, indiviso, muestra el caldero con las orejas cambiadas. El progreso de su sujeto se detiene. La carne gorda del faisán (que está en el caldero) no será consumida. Pero la lluvia (genial) llegará y los motivos de arrepentimiento desaparecerán. Al final, habrá buena fortuna.
 
-4\. El cuarto NUEVE, sin dividir, muestra el caldero con las patas rotas; y su contenido, diseñado para el uso del gobernante, volcado y derramado. Su súbdito se sonrojará de vergüenza. Habrá maldad. <span id="p171">[<sup><small>p. 171</small></sup>]</span> 5\. El quinto seis, dividido, muestra el caldero con orejas amarillas y anillos de metal. Habrá ventaja al ser firme y correcto.
+4\. El cuarto NUEVE, sin dividir, muestra el caldero con las patas rotas; y su contenido, diseñado para el uso del gobernante, volcado y derramado. Su súbdito se sonrojará de vergüenza. Habrá maldad. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> 5\. El quinto seis, dividido, muestra el caldero con orejas amarillas y anillos de metal. Habrá ventaja al ser firme y correcto.
 
 6\. El sexto NUEVE, indiviso, muestra el caldero con anillos de jade. Habrá mucha buena fortuna, y todas las acciones serán ventajosas en todos los sentidos.
 
@@ -507,13 +507,13 @@ Ting da la impresión de un gran progreso y éxito.
 
 ![](image/book/Confucianism/The_I_Ching/hex001001.jpg)
 
-<i>K</i>ăn da indicios de facilidad y desarrollo. Cuando llegue el momento del movimiento que indica, el sujeto del hexagrama observará con aprensión, y sin embargo, <span id="p173">[<sup><small>p. 173</small></sup>]</span> sonreirá y hablará alegremente. Cuando el movimiento, como un trueno, aterrorice a todos en un radio de cien lî, será como el adorador sincero que no se deja llevar por la sorpresa y suelta su cucharón y su copa de espíritus sacrificiales.
+<i>K</i>ăn da indicios de facilidad y desarrollo. Cuando llegue el momento del movimiento que indica, el sujeto del hexagrama observará con aprensión, y sin embargo, <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> sonreirá y hablará alegremente. Cuando el movimiento, como un trueno, aterrorice a todos en un radio de cien lî, será como el adorador sincero que no se deja llevar por la sorpresa y suelta su cucharón y su copa de espíritus sacrificiales.
 
 1\. El primer NUEVE, indiviso, muestra a su sujeto, cuando el movimiento se acerca, mirando a su alrededor con aprensión, y luego sonriendo y hablando alegremente. Habrá buena fortuna.
 
 2\. El segundo SEIS, dividido, muestra a su sujeto, al acercarse el movimiento, en una posición de peligro. Considera que es mejor dejar ir los objetos (en su posesión) y ascender a una altura muy elevada. No tiene por qué perseguir (lo que ha dejado ir); en siete días los encontrará.
 
-3\. El tercer seis, dividido, muestra a su sujeto angustiado ante los sorprendentes movimientos. Si estos lo incitan a actuar correctamente, no habrá error. <span id="p174">[<sup><small>p. 174</small></sup>]</span> 4\. El cuarto NUEVE, indiviso, muestra a su sujeto, en medio de los sorprendentes movimientos, hundiéndose en el lodo.
+3\. El tercer seis, dividido, muestra a su sujeto angustiado ante los sorprendentes movimientos. Si estos lo incitan a actuar correctamente, no habrá error. <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> 4\. El cuarto NUEVE, indiviso, muestra a su sujeto, en medio de los sorprendentes movimientos, hundiéndose en el lodo.
 
 5\. El quinto SEIS, dividido, muestra a su sujeto yendo y viniendo en medio de los movimientos sorprendentes (de la época), y siempre en peligro; pero tal vez no incurra en pérdidas y encuentre trabajo (que pueda realizar).
 
@@ -530,7 +530,7 @@ Ting da la impresión de un gran progreso y éxito.
 
 ![](image/book/Confucianism/The_I_Ching/hex100100.jpg)
 
-Cuando el descanso de uno es como el de la espalda, y pierde toda conciencia de sí mismo; cuando camina <span id="p176">[<sup><small>p. 176</small></sup>]</span> en su patio, y no ve a ninguna (de las personas) que hay en él, no habrá error.
+Cuando el descanso de uno es como el de la espalda, y pierde toda conciencia de sí mismo; cuando camina <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> en su patio, y no ve a ninguna (de las personas) que hay en él, no habrá error.
 
 1\. El primer SEIS, dividido, muestra al sujeto manteniendo los dedos de los pies en reposo. No habrá error; pero le resultará ventajoso ser persistentemente firme y correcto.
 
@@ -542,7 +542,7 @@ Cuando el descanso de uno es como el de la espalda, y pierde toda conciencia de 
 
 S. El quinto SEIS, dividido, muestra a su sujeto manteniendo la mandíbula en reposo, de modo que sus palabras son (todas) ordenadas. La ocasión para el arrepentimiento desaparecerá.
 
-6\. El sexto NUEVE, indiviso, muestra a su sujeto <span id="p177">[<sup><small>p. 177</small></sup>]</span> manteniendo con devoción su tranquilidad. Habrá buena fortuna.
+6\. El sexto NUEVE, indiviso, muestra a su sujeto <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> manteniendo con devoción su tranquilidad. Habrá buena fortuna.
 
 
 
@@ -556,7 +556,7 @@ S. El quinto SEIS, dividido, muestra a su sujeto manteniendo la mandíbula en re
 
 <i>K</i>ien nos sugiere el matrimonio de una joven dama y la buena fortuna que conlleva. Será ventajoso ser firme y correcto.
 
-1\. El primer SEIS, dividido, muestra a los gansos salvajes acercándose gradualmente a la orilla. Un joven oficial (en circunstancias similares) se encontrará en una posición de peligro y será criticado; pero no habrá error. <span id="p179">[<sup><small>p. 179</small></sup>]</span> 2\. El segundo SEIS, dividido, muestra a los gansos acercándose gradualmente a las grandes rocas, donde comen y beben con alegría y tranquilidad. Habrá buena fortuna.
+1\. El primer SEIS, dividido, muestra a los gansos salvajes acercándose gradualmente a la orilla. Un joven oficial (en circunstancias similares) se encontrará en una posición de peligro y será criticado; pero no habrá error. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> 2\. El segundo SEIS, dividido, muestra a los gansos acercándose gradualmente a las grandes rocas, donde comen y beben con alegría y tranquilidad. Habrá buena fortuna.
 
 3\. El tercer NUEVE, indiviso, los muestra avanzando gradualmente hacia las llanuras secas. Sugiere también la idea de un esposo que emprende una expedición de la que no regresa, y de una esposa embarazada, pero que no quiere criar a su hijo. Habrá maldad. El caso simbolizado podría ser ventajoso para resistir a los saqueadores.
 
@@ -576,7 +576,7 @@ S. El quinto SEIS, dividido, muestra a su sujeto manteniendo la mandíbula en re
 
 ![](image/book/Confucianism/The_I_Ching/hex001011.jpg)
 
-Kwei Mei indica que (en las circunstancias que denota) la acción será mala y de ninguna manera ventajosa. <span id="p181">[<sup><small>p. 181</small></sup>]</span> 1\. El primer NUEVE, indiviso, muestra a la hermana menor casada en una posición auxiliar a la de su esposa. (Sugiere la idea de) una persona coja de una pierna que, sin embargo, logra caminar. Seguir adelante será afortunado.
+Kwei Mei indica que (en las circunstancias que denota) la acción será mala y de ninguna manera ventajosa. <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> 1\. El primer NUEVE, indiviso, muestra a la hermana menor casada en una posición auxiliar a la de su esposa. (Sugiere la idea de) una persona coja de una pierna que, sin embargo, logra caminar. Seguir adelante será afortunado.
 
 2\. El segundo NUEVE, indiviso, la muestra tuerta, pero capaz de ver. Será ventajoso que mantenga la firme corrección de una viuda solitaria.
 
@@ -598,7 +598,7 @@ Kwei Mei indica que (en las circunstancias que denota) la acción será mala y d
 
 ![](image/book/Confucianism/The_I_Ching/hex001101.jpg)
 
-Făng insinúa progreso y desarrollo. Cuando un rey ha alcanzado el punto (que su nombre denota) <span id="p184">[<sup><small>p. 184</small></sup>]</span>, no hay motivo para preocuparse (por temor a un cambio). Que sea como el sol al mediodía. <span id="p185">[<sup><small>p. 185</small></sup>]</span> 1\. El primer NUEVE, indiviso, muestra a su súbdito encontrándose con su pareja. Aunque ambos son del mismo carácter, no habrá error. El avance provocará aprobación.
+Făng insinúa progreso y desarrollo. Cuando un rey ha alcanzado el punto (que su nombre denota) <span id="p184"><sup><small>[ p. 184 ]</small></sup></span>, no hay motivo para preocuparse (por temor a un cambio). Que sea como el sol al mediodía. <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> 1\. El primer NUEVE, indiviso, muestra a su súbdito encontrándose con su pareja. Aunque ambos son del mismo carácter, no habrá error. El avance provocará aprobación.
 
 2\. El segundo SEIS, dividido, muestra a su sujeto rodeado de pantallas tan grandes y gruesas que al mediodía puede ver desde ellas la constelación del Celemín. Si va (e intenta ilustrar a su gobernante, quien lleva este emblema), se hará ver con sospecha y aversión. Que abrigue su sincera devoción para que así conmueva (la mente de su gobernante), y le aguardará la buena fortuna.
 
@@ -608,7 +608,7 @@ Făng insinúa progreso y desarrollo. Cuando un rey ha alcanzado el punto (que s
 
 5\. El quinto SEIS, dividido, muestra a su sujeto atrayendo a su alrededor a hombres de brillante talento. Habrá ocasión para felicitaciones y elogios. Habrá buena fortuna.
 
-6\. El SEIS superior, dividido, muestra a su sujeto <span id="p186">[<sup><small>p. 186</small></sup>]</span> con su casa ampliada, pero que solo sirve de pantalla para su familia. Cuando mira a la puerta, está en silencio, y no hay nadie alrededor. Durante tres años no se verá a nadie. Habrá maldad.
+6\. El SEIS superior, dividido, muestra a su sujeto <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> con su casa ampliada, pero que solo sirve de pantalla para su familia. Cuando mira a la puerta, está en silencio, y no hay nadie alrededor. Durante tres años no se verá a nadie. Habrá maldad.
 
 
 
@@ -622,7 +622,7 @@ Făng insinúa progreso y desarrollo. Cuando un rey ha alcanzado el punto (que s
 
 Lü insinúa que (en la condición que denota) puede haber algún logro y progreso. Si el extranjero o viajero se mantiene firme y correcto como debe ser, tendrá buena fortuna.
 
-1\. El primer SEIS, dividido, muestra al forastero miserable y mal ocupado. Es así como se acarrea (más) calamidad. <span id="p188">[<sup><small>p. 188</small></sup>]</span> 2\. El segundo SEIS, dividido, muestra al forastero, ocupando su hostal, llevando consigo sus medios de subsistencia y provisto de buenos y leales sirvientes.
+1\. El primer SEIS, dividido, muestra al forastero miserable y mal ocupado. Es así como se acarrea (más) calamidad. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 2\. El segundo SEIS, dividido, muestra al forastero, ocupando su hostal, llevando consigo sus medios de subsistencia y provisto de buenos y leales sirvientes.
 
 3\. El tercer NUEVE, indiviso, muestra al forastero que quema su posada y pierde a sus sirvientes. Por firme y correcto que intente ser, estará en peligro.
 
@@ -642,7 +642,7 @@ Lü insinúa que (en la condición que denota) puede haber algún logro y progre
 
 ![](image/book/Confucianism/The_I_Ching/hex110110.jpg)
 
-El sol insinúa que (bajo las condiciones que denota) habrá algún logro y progreso. Habrá ventaja en avanzar <span id="p190">[<sup><small>p. 190</small></sup>]</span> en cualquier dirección. Será ventajoso (también) ver al gran hombre.
+El sol insinúa que (bajo las condiciones que denota) habrá algún logro y progreso. Habrá ventaja en avanzar <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> en cualquier dirección. Será ventajoso (también) ver al gran hombre.
 
 1\. El primer SEIS, dividido, muestra a su sujeto (ahora) avanzando, (ahora) retrocediendo. Le convendría tener la firmeza de un soldado valiente.
 
@@ -652,7 +652,7 @@ El sol insinúa que (bajo las condiciones que denota) habrá algún logro y prog
 
 4\. El cuarto SEIS, dividido, muestra que toda ocasión de arrepentimiento (en su sujeto) ha desaparecido. Caza presas para su triple uso en la caza.
 
-5\. El quinto NUEVE, indiviso, muestra que con firmeza y corrección habrá buena fortuna (a su <span id="p191">[<sup><small>p. 191</small></sup>]</span> sujeto). Desaparecerá toda ocasión de arrepentimiento, y todos sus movimientos serán ventajosos. Puede que no haya tenido un buen comienzo, pero habrá un buen final. Tres días antes de hacer cualquier cambio, (que lo notifique); y tres días después, (que lo reconsidere). Habrá (así) buena fortuna.
+5\. El quinto NUEVE, indiviso, muestra que con firmeza y corrección habrá buena fortuna (a su <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> sujeto). Desaparecerá toda ocasión de arrepentimiento, y todos sus movimientos serán ventajosos. Puede que no haya tenido un buen comienzo, pero habrá un buen final. Tres días antes de hacer cualquier cambio, (que lo notifique); y tres días después, (que lo reconsidere). Habrá (así) buena fortuna.
 
 6\. El sexto NUEVE, indiviso, representa al representante de la penetración bajo un diván, habiendo perdido el hacha con la que ejecutaba sus decisiones. Por firme y correcto que intente ser, habrá maldad.
 
@@ -666,7 +666,7 @@ El sol insinúa que (bajo las condiciones que denota) habrá algún logro y prog
 
 ![](image/book/Confucianism/The_I_Ching/hex011011.jpg)
 
-Tui insinúa que (bajo sus condiciones) habrá progreso y logros. (Pero) será ventajoso ser firme y correcto. <span id="p193">[<sup><small>p. 193</small></sup>]</span> 1\. El primer NUEVE, indiviso, muestra el placer de la armonía (interna). Habrá buena fortuna.
+Tui insinúa que (bajo sus condiciones) habrá progreso y logros. (Pero) será ventajoso ser firme y correcto. <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> 1\. El primer NUEVE, indiviso, muestra el placer de la armonía (interna). Habrá buena fortuna.
 
 2\. El segundo NUEVE, indiviso, muestra el placer que surge de la sinceridad (interior). Habrá buena fortuna. Desaparecerá la ocasión para el arrepentimiento.
 
@@ -688,7 +688,7 @@ Tui insinúa que (bajo sus condiciones) habrá progreso y logros. (Pero) será v
 
 ![](image/book/Confucianism/The_I_Ching/hex110010.jpg)
 
-Hwân insinúa que (bajo sus condiciones) habrá progreso y éxito. El rey va al templo de sus antepasados; y será ventajoso <span id="p195">[<sup><small>p. 195</small></sup>]</span> cruzar la gran corriente. Será ventajoso ser firme y correcto.
+Hwân insinúa que (bajo sus condiciones) habrá progreso y éxito. El rey va al templo de sus antepasados; y será ventajoso <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> cruzar la gran corriente. Será ventajoso ser firme y correcto.
 
 1\. El primer SEIS, dividido, muestra a su sujeto ocupado en rescatar (del mal inminente) y con la ayuda de un caballo fuerte. Habrá buena fortuna.
 
@@ -698,7 +698,7 @@ Hwân insinúa que (bajo sus condiciones) habrá progreso y éxito. El rey va al
 
 4\. El cuarto SEIS, dividido, muestra a su sujeto dispersando a los diferentes partidos en el estado; lo cual conduce a una gran fortuna. De la dispersión (reúne de nuevo a hombres buenos que sobresalen, una multitud) como un montículo, algo en lo que la gente común no habría pensado.
 
-5\. El quinto NUEVE, indiviso, muestra a su sujeto en medio de la dispersión, emitiendo sus grandes anuncios mientras el sudor fluye de su cuerpo. <span id="p196">[<sup><small>p. 196</small></sup>]</span> También dispersa las acumulaciones en los graneros reales. No habrá error.
+5\. El quinto NUEVE, indiviso, muestra a su sujeto en medio de la dispersión, emitiendo sus grandes anuncios mientras el sudor fluye de su cuerpo. <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> También dispersa las acumulaciones en los graneros reales. No habrá error.
 
 6\. El NUEVE superior, indiviso, muestra a su sujeto deshaciéndose de (lo que podríamos llamar) sus heridas sangrantes, y separándose de sus temores angustiosos. No habrá error.
 
@@ -761,7 +761,7 @@ I. El primer NUEVE, indiviso, muestra a su sujeto descansando (en sí mismo). Ha
 
 ![](image/book/Confucianism/The_I_Ching/hex001100.jpg)
 
-Hsiâo Kwo indica que (en las circunstancias que implica) habrá progreso y logro. <span id="p202">[<sup><small>p. 202</small></sup>]</span> Pero será ventajoso ser firme y correcto. (Lo que el nombre denota) puede hacerse en asuntos pequeños, pero no en asuntos importantes. (Es como) las notas que descienden de un pájaro en vuelo: descender es mejor que ascender. Habrá (de esta manera) gran fortuna.
+Hsiâo Kwo indica que (en las circunstancias que implica) habrá progreso y logro. <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> Pero será ventajoso ser firme y correcto. (Lo que el nombre denota) puede hacerse en asuntos pequeños, pero no en asuntos importantes. (Es como) las notas que descienden de un pájaro en vuelo: descender es mejor que ascender. Habrá (de esta manera) gran fortuna.
 
 1\. El primer SEIS, dividido, sugiere (la idea de) un pájaro volando, (y ascendiendo) hasta que el resultado es malo.
 
@@ -785,13 +785,13 @@ Hsiâo Kwo indica que (en las circunstancias que implica) habrá progreso y logr
 
 ![](image/book/Confucianism/The_I_Ching/hex010101.jpg)
 
-<i>K</i>î Žî insinúa progreso y éxito en asuntos pequeños. Será ventajoso ser firme <span id="p205">[<sup><small>p. 205</small></sup>]</span> y correcto. Hubo buena fortuna al principio; puede haber desorden al final.
+<i>K</i>î Žî insinúa progreso y éxito en asuntos pequeños. Será ventajoso ser firme <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> y correcto. Hubo buena fortuna al principio; puede haber desorden al final.
 
 1\. El primer NUEVE, indiviso, (muestra a su sujeto como un conductor) que arrastra su rueda (o como un zorro) que ha mojado la cola. No habrá error.
 
 2\. El segundo SEIS, dividido, (muestra a su sujeto como) una esposa que ha perdido su biombo (de carruaje). No hay motivo para ir a buscarlo. En siete días lo encontrará.
 
-3\. El tercer NUEVE, indiviso, sugiere el caso de Kâo Žung, quien atacó la región de Demon, pero tardó tres años en someterla. No se debe emplear a hombres pequeños en tales empresas. <span id="p206">[<sup><small>p. 206</small></sup>]</span> 4\. El cuarto SEIS, dividido, muestra a su sujeto con trapos provistos para protegerse de cualquier fuga en su bote, y en guardia todo el día.
+3\. El tercer NUEVE, indiviso, sugiere el caso de Kâo Žung, quien atacó la región de Demon, pero tardó tres años en someterla. No se debe emplear a hombres pequeños en tales empresas. <span id="p206"><sup><small>[ p. 206 ]</small></sup></span> 4\. El cuarto SEIS, dividido, muestra a su sujeto con trapos provistos para protegerse de cualquier fuga en su bote, y en guardia todo el día.
 
 5\. El quinto NUEVE, indiviso, muestra a su sujeto como el vecino del este que sacrifica un buey para su sacrificio; pero esto no es igual al pequeño sacrificio de primavera del vecino del oeste, cuya sinceridad recibe la bendición.
 
@@ -807,7 +807,7 @@ Hsiâo Kwo indica que (en las circunstancias que implica) habrá progreso y logr
 
 ![](image/book/Confucianism/The_I_Ching/hex101010.jpg)
 
-Wei Žî insinúa progreso y éxito (en las circunstancias que implica). Vemos a un zorro joven que casi ha cruzado el arroyo, cuando su cola se hunde. No habrá ninguna ventaja. <span id="p208">[<sup><small>p. 208</small></sup>]</span> 1\. El primer SEIS, dividido, muestra a su sujeto (como un zorro) cuya cola se hunde. Habrá motivo de arrepentimiento.
+Wei Žî insinúa progreso y éxito (en las circunstancias que implica). Vemos a un zorro joven que casi ha cruzado el arroyo, cuando su cola se hunde. No habrá ninguna ventaja. <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 1\. El primer SEIS, dividido, muestra a su sujeto (como un zorro) cuya cola se hunde. Habrá motivo de arrepentimiento.
 
 2\. El segundo NUEVE, indiviso, muestra a su sujeto arrastrando la rueda de su carruaje. Con firmeza y corrección, habrá buena fortuna.
 
@@ -817,7 +817,7 @@ Wei Žî insinúa progreso y éxito (en las circunstancias que implica). Vemos a
 
 5\. El quinto SEIS, dividido, muestra a su sujeto, mediante una firme corrección, obteniendo buena fortuna y sin necesidad de arrepentimiento. Vemos en él la brillantez de un hombre superior y la posesión de sinceridad. Habrá buena fortuna.
 
-6\. El NUEVE superior, indiviso, muestra a su sujeto <span id="p209">[<sup><small>p. 209</small></sup>]</span> lleno de confianza y, por lo tanto, festejando (tranquilamente). No habrá error. (Si él) abriga esta confianza, <span id="p210">[<sup><small>p. 210</small></sup>]</span> hasta que (sea como el zorro que) se sumerge la cabeza, fracasará en lo que es correcto.
+6\. El NUEVE superior, indiviso, muestra a su sujeto <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> lleno de confianza y, por lo tanto, festejando (tranquilamente). No habrá error. (Si él) abriga esta confianza, <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> hasta que (sea como el zorro que) se sumerge la cabeza, fracasará en lo que es correcto.
 
 
 

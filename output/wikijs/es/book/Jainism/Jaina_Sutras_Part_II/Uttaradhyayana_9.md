@@ -36,7 +36,7 @@ NOVENA CONFERENCIA. LA PRAVRA<i>G</i>YÂ DEL REY NAMI [^130].
 
 Después de que (Nami) descendió del mundo de los dioses y nació como hombre, puso fin a la influencia del engaño y recordó su nacimiento anterior. (1)
 
-Recordando su nacimiento anterior, el rey Nami <span id="p36">[<sup><small>p. 36</small></sup>]</span> se convirtió en un buda Svaya<i>m</i>sa<i>m</i> en la verdadera Ley, y colocando a su hijo en el trono, se retiró del mundo. (2)
+Recordando su nacimiento anterior, el rey Nami <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> se convirtió en un buda Svaya<i>m</i>sa<i>m</i> en la verdadera Ley, y colocando a su hijo en el trono, se retiró del mundo. (2)
 
 Después de haber disfrutado, en compañía de las bellas damas de su serrallo, de excelentes placeres iguales a los del cielo, el rey Nami se iluminó y abandonó sus placeres. (3)
 
@@ -74,7 +74,7 @@ Indra respondió (ver versículo 11): (17)
 
 Nami respondió (ver versículo 8): (19)
 
-«Haciendo de la Fe su fortaleza, de la Penitencia y el Autocontrol el cerrojo (de su puerta), de la Paciencia su muro fuerte, de modo que custodiada de tres maneras [^135] sea inexpugnable; haciendo del Celo su arco, de la Precaución al caminar (iriyâ) su cuerda, y de su parte superior (donde se <span id="p38">[<sup><small>p. 38</small></sup>]</span> sujeta la cuerda) Contento, debe doblar (este arco) con la Verdad, atravesando con la flecha, la Penitencia, la malla (del enemigo), Karman—(de esta manera) un sabio será el vencedor en la batalla y se librará del Sa<i>m</i>sâra.» (20-22)
+«Haciendo de la Fe su fortaleza, de la Penitencia y el Autocontrol el cerrojo (de su puerta), de la Paciencia su muro fuerte, de modo que custodiada de tres maneras [^135] sea inexpugnable; haciendo del Celo su arco, de la Precaución al caminar (iriyâ) su cuerda, y de su parte superior (donde se <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> sujeta la cuerda) Contento, debe doblar (este arco) con la Verdad, atravesando con la flecha, la Penitencia, la malla (del enemigo), Karman—(de esta manera) un sabio será el vencedor en la batalla y se librará del Sa<i>m</i>sâra.» (20-22)
 
 Indra respondió (ver versículo 11): (23)
 
@@ -102,7 +102,7 @@ Nami respondió (ver versículo 8): (33)
 
 Lucha contigo mismo; ¿por qué luchar con enemigos externos? Quien se conquista a sí mismo a través de sí mismo, alcanzará la felicidad. (35)
 
-«Los cinco sentidos, la ira, el orgullo, el engaño y la codicia <span id="p39">[<sup><small>p. 39</small></sup>]</span> —lo difícil es conquistar a uno mismo; pero cuando se conquista eso, todo queda conquistado [^137]». (36)
+«Los cinco sentidos, la ira, el orgullo, el engaño y la codicia <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> —lo difícil es conquistar a uno mismo; pero cuando se conquista eso, todo queda conquistado [^137]». (36)
 
 Indra respondió (ver versículo 11): (37)
 
@@ -122,7 +122,7 @@ Nami respondió: (43)
 
 Indra respondió: (45)
 
-Multiplica tu oro y plata, tus joyas y <span id="p40">[<sup><small>p. 40</small></sup>]</span> perlas, tu cobre, tus finas vestiduras, tus carruajes y tu tesoro; entonces serás un verdadero Kshattriya. (46)
+Multiplica tu oro y plata, tus joyas y <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> perlas, tu cobre, tus finas vestiduras, tus carruajes y tu tesoro; entonces serás un verdadero Kshattriya. (46)
 
 Nami respondió: (47)
 

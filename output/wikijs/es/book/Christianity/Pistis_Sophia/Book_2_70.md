@@ -50,7 +50,7 @@ Y Jesús respondió y dijo a Juan: "A ti también, Juan, te doy mandamiento de d
 
 <small>De Sabaōth, Barbēlō, Yabraōth y la vestidura de luz.</small>
 
-Y Juan respondió y dijo: «Esta es la palabra que nos dijiste antes: “He salido de la Altura y he entrado en Sabaoth, el Bueno, y he abrazado el poder de la luz en él”. Ahora, pues, «Gracia y verdad» que se unieron, tú eres «gracia», tú que fuiste enviada desde las regiones de las Alturas por tu Padre, el Primer Misterio que mira hacia dentro, pues te envió (127) para que tengas misericordia del mundo entero. La «Verdad», en cambio, es el poder de <span id="p107">[<sup><small>p. 107</small></sup>]</span> Sabaōth, el Bien, que se ancló en ti y que tú has proyectado hacia la Izquierda, tú, el Primer Misterio que mira hacia fuera. Y el pequeño Sabaōth, el Bien, lo tomó y lo proyectó en la materia de Barbēlō, e hizo proclamación sobre las regiones de la Verdad a todas las regiones de los de la Izquierda. Esa materia de Barbēlō, entonces, es la que te constituye hoy.
+Y Juan respondió y dijo: «Esta es la palabra que nos dijiste antes: “He salido de la Altura y he entrado en Sabaoth, el Bueno, y he abrazado el poder de la luz en él”. Ahora, pues, «Gracia y verdad» que se unieron, tú eres «gracia», tú que fuiste enviada desde las regiones de las Alturas por tu Padre, el Primer Misterio que mira hacia dentro, pues te envió (127) para que tengas misericordia del mundo entero. La «Verdad», en cambio, es el poder de <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> Sabaōth, el Bien, que se ancló en ti y que tú has proyectado hacia la Izquierda, tú, el Primer Misterio que mira hacia fuera. Y el pequeño Sabaōth, el Bien, lo tomó y lo proyectó en la materia de Barbēlō, e hizo proclamación sobre las regiones de la Verdad a todas las regiones de los de la Izquierda. Esa materia de Barbēlō, entonces, es la que te constituye hoy.
 
 “Y 'justicia y paz' ​​que 'se besaron', 'justicia' eres entonces tú que trajiste todos los misterios a través de tu Padre, el Primer Misterio que mira hacia dentro, y bautizaste a este poder de Sabaoth, el Bueno; y fuiste a la región de los gobernantes y les diste los misterios de la Altura; ellos se volvieron justos y buenos.
 
@@ -68,7 +68,7 @@ Aconteció entonces que cuando Juan hubo pronunciado estas palabras, el Primer M
 
 El Primer Misterio continuó diciendo: «Aconteció, pues, que el poder que había surgido de lo Alto, es decir, yo, pues mi Padre me envió para salvar a Pistis Sophia del caos, y también yo, y también el poder que emanaba de mí, y el alma que había recibido de Sabaoth, el Bien, se atrajeron el uno al otro y se convirtieron en un único rayo de luz, que brilló con gran intensidad. Invoqué a Gabriel y Miguel desde los eones, por orden de mi Padre, el Primer Misterio que mira hacia el interior, y les di el rayo de luz y los dejé descender al caos **(129)** para ayudar a Pistis Sophia y para que tomaran los poderes de luz que las emanaciones de Obstinado le habían arrebatado, para dárselos a Pistis Sophia.
 
-E inmediatamente, cuando hicieron descender la corriente de luz al caos, esta brilló con intensidad en todo el caos y se extendió por todas sus regiones. Y cuando las emanaciones de Obstinado vieron la gran luz de esa corriente, quedaron aterrorizadas unas a otras. Y esa corriente extrajo de ellas todos los poderes de luz que habían tomado de Pistis Sophia, y las emanaciones de Obstinado no se atrevieron a aferrarse a esa corriente de luz <span id="p109">[<sup><small>p. 109</small></sup>]</span> en el oscuro caos; ni pudieron aferrarse a ella con el arte de Obstinado, quien gobierna las emanaciones.
+E inmediatamente, cuando hicieron descender la corriente de luz al caos, esta brilló con intensidad en todo el caos y se extendió por todas sus regiones. Y cuando las emanaciones de Obstinado vieron la gran luz de esa corriente, quedaron aterrorizadas unas a otras. Y esa corriente extrajo de ellas todos los poderes de luz que habían tomado de Pistis Sophia, y las emanaciones de Obstinado no se atrevieron a aferrarse a esa corriente de luz <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> en el oscuro caos; ni pudieron aferrarse a ella con el arte de Obstinado, quien gobierna las emanaciones.
 
 <small>El rayo de luz devuelve los poderes de la luz a Sofía.</small>
 
@@ -76,7 +76,7 @@ Gabriel y Miguel guiaron la corriente de luz sobre el cuerpo de la materia de Pi
 
 <small>El rayo de luz, habiendo cumplido su propósito, se aleja de Sofía.</small>
 
-Sucedió entonces que, cuando la corriente de luz concentró en Pistis Sophia todos sus poderes de luz, que había tomado de las emanaciones de Obstinado, esta se volvió completamente brillante; y también los poderes de luz en Pistis Sophia, que las emanaciones de Obstinado no habían tomado, volvieron a ser alegres y se llenaron de luz. Y las luces que se vertieron en Pistis Sophia vivificaron el cuerpo de su materia, en el cual no había luz presente, y que estaba a punto de perecer o perecer. Y despertaron todos sus poderes que estaban a punto de disolverse. Y tomaron para sí un poder de luz y volvieron a ser como <span id="p110">[<sup><small>p. 110</small></sup>]</span> eran antes, y aumentaron de nuevo en su percepción de la Luz. Y todos los poderes de luz de Sophia se reconocieron mutuamente a través de mi corriente de luz y fueron salvados por la luz de esa corriente. Y mi corriente de luz, cuando... había quitado las luces a las emanaciones de Obstinado, que ellas le habían quitado a **(131)** Pistis Sophia, las había vertido en Pistis Sophia, y se dio la vuelta y salió del caos”.
+Sucedió entonces que, cuando la corriente de luz concentró en Pistis Sophia todos sus poderes de luz, que había tomado de las emanaciones de Obstinado, esta se volvió completamente brillante; y también los poderes de luz en Pistis Sophia, que las emanaciones de Obstinado no habían tomado, volvieron a ser alegres y se llenaron de luz. Y las luces que se vertieron en Pistis Sophia vivificaron el cuerpo de su materia, en el cual no había luz presente, y que estaba a punto de perecer o perecer. Y despertaron todos sus poderes que estaban a punto de disolverse. Y tomaron para sí un poder de luz y volvieron a ser como <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> eran antes, y aumentaron de nuevo en su percepción de la Luz. Y todos los poderes de luz de Sophia se reconocieron mutuamente a través de mi corriente de luz y fueron salvados por la luz de esa corriente. Y mi corriente de luz, cuando... había quitado las luces a las emanaciones de Obstinado, que ellas le habían quitado a **(131)** Pistis Sophia, las había vertido en Pistis Sophia, y se dio la vuelta y salió del caos”.
 
 Cuando el Primer Misterio dijo esto a los discípulos, que había sucedido a Pistis Sophia en el caos, respondió y les dijo: “¿Entendéis de qué manera hablo con vosotros?”
 
@@ -98,7 +98,7 @@ Pedro se adelantó y dijo: «Mi Señor, en cuanto a la solución de las palabras
 
 6. Bienaventurados los ministros de esa bebida, a quienes se les confía el agua del Señor.
 
-7. Han refrescado los labios resecos; aquellos a quienes les habían quitado el poder, han encontrado alegría en el corazón y han conquistado las almas, habiendo <span id="p111">[<sup><small>p. 111</small></sup>]</span> infundido aliento para que no murieran.
+7. Han refrescado los labios resecos; aquellos a quienes les habían quitado el poder, han encontrado alegría en el corazón y han conquistado las almas, habiendo <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> infundido aliento para que no murieran.
 
 8. Levantaron las ramas caídas; dieron poder a su apertura y luz a sus ojos.
 
@@ -130,7 +130,7 @@ Y como tu poder ha dicho: «Benditos sean los ministros de esa bebida», esta es
 
 "Aquellos cuyo poder fue quitado, han obtenido alegría de corazón", es decir: todos los otros poderes de Pistis Sophia, que las emanaciones de Obstinado no han tomado, se han vuelto extremadamente alegres y se han llenado de luz de sus compañeros de luz, porque estos la han vertido en ellos. **(134)**
 
-“Y la palabra que tu poder ha dicho: 'Han vivificado las almas, habiendo vertido en <span id="p113">[<sup><small>p. 113</small></sup>]</span> el aliento, para que no murieran', es decir: Cuando hubieron vertido las luces en Pistis Sophia, vivificaron el cuerpo de su materia, del que antes habían tomado sus luces, y que estaba a punto de perecer.
+“Y la palabra que tu poder ha dicho: 'Han vivificado las almas, habiendo vertido en <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> el aliento, para que no murieran', es decir: Cuando hubieron vertido las luces en Pistis Sophia, vivificaron el cuerpo de su materia, del que antes habían tomado sus luces, y que estaba a punto de perecer.
 
 “Y de nuevo la palabra que tu poder ha hablado: 'Ellos han levantado miembros que estaban caídos, o para que no cayeran', es decir: Cuando derramaron en ella sus luces, levantaron todos sus poderes que estaban a punto de disolverse.
 
@@ -142,7 +142,7 @@ Y como tu poder ha dicho: «Benditos sean los ministros de esa bebida», esta es
 
 “Y de nuevo la palabra que ha dicho: 'La corriente de luz lo arrancó todo hacia sí y lo arrastró sobre el templo', es decir: Cuando la corriente de luz hubo tomado todos los poderes de luz de Pistis Sophia y los hubo despojado de las emanaciones de Obstinado, los vertió en Pistis Sophia **(135)** y se dio la vuelta y salió del caos y vino sobre ti, —tú que eres el templo.
 
-“Esta es la solución de todas las palabras que <span id="p114">[<sup><small>p. 114</small></sup>]</span> tu poder de luz ha pronunciado a través de la Oda de Salomón.”
+“Esta es la solución de todas las palabras que <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> tu poder de luz ha pronunciado a través de la Oda de Salomón.”
 
 Sucedió entonces que, cuando el Primer Misterio oyó a Pedro pronunciar estas palabras, le dijo: «Bien dicho, bendito Pedro. Esta es la solución de las palabras que se han pronunciado».
 
@@ -184,7 +184,7 @@ Y además, por orden mía, el Primer Misterio que mira hacia afuera, el rayo de 
 
 <small>Jesús, el Primer Misterio que mira hacia afuera, hace triunfar a Sofía.</small>
 
-Y por orden de mi Padre, el Primer Misterio que mira hacia dentro, yo mismo descendí al caos, brillando con intensidad, y me acerqué al poder con rostro de león, que brillaba con intensidad, y absorbí toda su luz en él y retuve firmemente todas las emanaciones de Obstinado, para que de ahora en adelante no fueran a su región, es decir, al decimotercer eón. Y quité el poder a todas las emanaciones de Obstinado, y todas cayeron en el caos impotentes. Y conduje a Pistis Sophia, quien <span id="p118">[<sup><small>p. 118</small></sup>]</span> se encontraba a la derecha de Gabriel y Miguel. Y el gran rayo de luz entró de nuevo en ella. Y Pistis Sophia contempló con sus ojos a sus enemigos, a quienes les había arrebatado su poder de luz. Y conduje a Pistis Sophia fuera del caos, ella pisoteando al rostro de serpiente. la emanación de Obstinado, y además pisoteando la emanación del basilisco de siete caras, y pisoteando el poder con cara de león y dragón. Hice que Pistis Sophia continuara de pie sobre la emanación del basilisco de siete cabezas de Obstinado; y fue más poderosa que todas ellas en sus malas acciones. Y yo, el Primer Misterio, permanecí junto a ella y tomé todos sus poderes, e hice perecer toda su materia, para que ninguna semilla surgiera de ella en adelante.**(141)**
+Y por orden de mi Padre, el Primer Misterio que mira hacia dentro, yo mismo descendí al caos, brillando con intensidad, y me acerqué al poder con rostro de león, que brillaba con intensidad, y absorbí toda su luz en él y retuve firmemente todas las emanaciones de Obstinado, para que de ahora en adelante no fueran a su región, es decir, al decimotercer eón. Y quité el poder a todas las emanaciones de Obstinado, y todas cayeron en el caos impotentes. Y conduje a Pistis Sophia, quien <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> se encontraba a la derecha de Gabriel y Miguel. Y el gran rayo de luz entró de nuevo en ella. Y Pistis Sophia contempló con sus ojos a sus enemigos, a quienes les había arrebatado su poder de luz. Y conduje a Pistis Sophia fuera del caos, ella pisoteando al rostro de serpiente. la emanación de Obstinado, y además pisoteando la emanación del basilisco de siete caras, y pisoteando el poder con cara de león y dragón. Hice que Pistis Sophia continuara de pie sobre la emanación del basilisco de siete cabezas de Obstinado; y fue más poderosa que todas ellas en sus malas acciones. Y yo, el Primer Misterio, permanecí junto a ella y tomé todos sus poderes, e hice perecer toda su materia, para que ninguna semilla surgiera de ella en adelante.**(141)**
 
 ## CAPÍTULO 67
 
@@ -230,7 +230,7 @@ Santiago se adelantó y dijo: «Mi Señor, en cuanto a la solución de las palab
 
 Esta, mi Señor, es la solución a las palabras que has dicho. Escúchame, pues, para que pueda decirlo con franqueza.
 
-“La palabra, pues, que tu poder ha hablado a través de David: 'Quienquiera que habite bajo <span id="p120">[<sup><small>p. 120</small></sup>]</span> la ayuda del Altísimo, morará bajo la sombra del Dios del cielo', es decir: Cuando Sofía confió en la Luz, habitó bajo la luz del rayo de luz que, a través de ti, salió de lo Alto.
+“La palabra, pues, que tu poder ha hablado a través de David: 'Quienquiera que habite bajo <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> la ayuda del Altísimo, morará bajo la sombra del Dios del cielo', es decir: Cuando Sofía confió en la Luz, habitó bajo la luz del rayo de luz que, a través de ti, salió de lo Alto.
 
 “Y la palabra que tu poder ha hablado a través de David: 'Diré al Señor: Tú eres mi socorro y mi refugio, mi Dios, en quien confío', es la palabra con la que Pistis Sophia ha cantado alabanzas: **(143)** 'Tú eres mi socorro, y a ti vengo'.
 
@@ -240,7 +240,7 @@ Esta, mi Señor, es la solución a las palabras que has dicho. Escúchame, pues,
 
 “Y la palabra que tu poder de luz ha profetizado a través de David: “La verdad te rodeará como un escudo” —es la luz del torrente de luz que ha rodeado a Pistis Sophia por todos sus lados como un escudo.
 
-“Y la palabra que tu poder ha dicho: 'No temerá el terror de la noche', es decir: Pistis Sophia no ha temido los <span id="p121">[<sup><small>p. 121</small></sup>]</span> terrores y alarmas en los que había sido sembrada en el caos, que es la 'noche'.
+“Y la palabra que tu poder ha dicho: 'No temerá el terror de la noche', es decir: Pistis Sophia no ha temido los <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> terrores y alarmas en los que había sido sembrada en el caos, que es la 'noche'.
 
 Y la palabra que tu poder ha pronunciado: **(144)** No temerá ni una flecha que vuele de día,' —es decir: Pistis Sophia no temerá al poder que Obstinado envió desde lo alto, el último de todos, y que ha llegado al caos como una flecha voladora. Por lo tanto, tu poder de luz ha dicho: 'No temerás ni una flecha que vuele de día', pues ese poder proviene del decimotercer Aeón, el que domina los doce Aeones y da luz a todos los Aeones; por eso él [David] dijo 'día'.
 
@@ -250,13 +250,13 @@ Y la palabra que tu poder ha pronunciado: **(144)** No temerá ni una flecha que
 
 “Y de nuevo la palabra que tu poder de luz ha hablado a través de David: 'Mil caerán a su izquierda, y diez mil a su derecha, pero no se acercarán a él', es decir: Cuando las emanaciones de Obstinado, que son excesivamente numerosas, no pudieron soportar la gran luz del torrente de luz, muchas de ellas cayeron a la izquierda de Pistis Sophia y muchas a su derecha, y no pudieron acercarse a ella para hacerle \[daño\].
 
-Y la palabra que tu poder de luz ha pronunciado a través de David: «Más bien, con tus ojos contemplarás y verás la retribución de los pecadores, pues tú, oh Señor, eres mi esperanza», esa es la palabra: Pistis Sofía ha contemplado con sus ojos a sus enemigos, es decir, las emanaciones de Obstinado, quienes **(146)** han caído unos sobre otros; no solo ella ha contemplado esto con sus ojos, sino que tú también, mi Señor, el Primer Misterio, has tomado el poder de luz que reside en el poder con rostro de león, y además has tomado el poder de todas las emanaciones de Obstinado y, además, las has aprisionado en ese caos, \[para que\] de ahora en adelante no hayan regresado a su propia región. Por lo tanto, Pistis Sofía ha contemplado con sus ojos a sus enemigos, es decir, las emanaciones de Obstinado, en todo lo que David ha profetizado acerca de Pistis. Sofía, diciendo: «No, mejor con tus ojos contemplarás y verás la retribución de los pecadores». No solo ha visto con sus ojos cómo se abalanzan unos sobre otros en el caos, sino que también ha visto la retribución que se les ha concedido. Así como las emanaciones de Obstinado pensaron <span id="p123">[<sup><small>p. 123</small></sup>]</span> arrebatarle la luz a Sofía, así tú les has retribuido y les has pagado por completo, quitándoles el poder de la luz en lugar de las luces de Sofía, quien tuvo fe en la Luz de la Altura.
+Y la palabra que tu poder de luz ha pronunciado a través de David: «Más bien, con tus ojos contemplarás y verás la retribución de los pecadores, pues tú, oh Señor, eres mi esperanza», esa es la palabra: Pistis Sofía ha contemplado con sus ojos a sus enemigos, es decir, las emanaciones de Obstinado, quienes **(146)** han caído unos sobre otros; no solo ella ha contemplado esto con sus ojos, sino que tú también, mi Señor, el Primer Misterio, has tomado el poder de luz que reside en el poder con rostro de león, y además has tomado el poder de todas las emanaciones de Obstinado y, además, las has aprisionado en ese caos, \[para que\] de ahora en adelante no hayan regresado a su propia región. Por lo tanto, Pistis Sofía ha contemplado con sus ojos a sus enemigos, es decir, las emanaciones de Obstinado, en todo lo que David ha profetizado acerca de Pistis. Sofía, diciendo: «No, mejor con tus ojos contemplarás y verás la retribución de los pecadores». No solo ha visto con sus ojos cómo se abalanzan unos sobre otros en el caos, sino que también ha visto la retribución que se les ha concedido. Así como las emanaciones de Obstinado pensaron <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> arrebatarle la luz a Sofía, así tú les has retribuido y les has pagado por completo, quitándoles el poder de la luz en lugar de las luces de Sofía, quien tuvo fe en la Luz de la Altura.
 
 “Y como tu poder de luz ha hablado a través de David: 'Has establecido al Altísimo para ti como refugio; el mal no se acercará a ti, el azote no se acercará a tu morada', es decir: Cuando Pistis Sophia tuvo fe en la Luz y fue afligida, cantó alabanzas a ella, y las emanaciones de Obstinado no pudieron infligirle ningún daño, **(147)** ni pudieron \[dañarla\], ni pudieron en absoluto acercarse a ella.
 
 “Y la palabra que tu poder de luz ha hablado a través de David: 'Él dará orden a sus ángeles en tu nombre, para que te guarden en todos tus caminos y te lleven en sus manos, para que nunca golpees con tu pie contra una piedra', es nuevamente tu palabra: Tú has dado orden a Gabriel y a Miguel, para que guíen a Pistis Sophia en todas las regiones del caos, hasta que la conduzcan adelante y la eleven en sus manos, para que sus pies no toquen la oscuridad de abajo, y \[que\] por otro lado, los de la oscuridad inferior no la agarren.
 
-Y la palabra que tu poder de luz pronunció a través de David: «Pisarás sobre la serpiente y el basilisco, y sobre el león y el dragón; porque ha confiado en mí, lo salvaré y lo cubriré con mi sombra, porque ha conocido mi nombre» —esa es la palabra: Cuando Pistis Sophia estaba a punto de emerger del caos, pisó las emanaciones de Obstinado, y <span id="p124">[<sup><small>p. 124</small></sup>]</span> pisó a los que tienen rostro de serpiente y a los que tienen rostro de basilisco, que tienen siete cabezas; y pisó al poder con rostro de león y al que tiene rostro de dragón. Por haber tenido fe en la Luz, se salvó de todos ellos.
+Y la palabra que tu poder de luz pronunció a través de David: «Pisarás sobre la serpiente y el basilisco, y sobre el león y el dragón; porque ha confiado en mí, lo salvaré y lo cubriré con mi sombra, porque ha conocido mi nombre» —esa es la palabra: Cuando Pistis Sophia estaba a punto de emerger del caos, pisó las emanaciones de Obstinado, y <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> pisó a los que tienen rostro de serpiente y a los que tienen rostro de basilisco, que tienen siete cabezas; y pisó al poder con rostro de león y al que tiene rostro de dragón. Por haber tenido fe en la Luz, se salvó de todos ellos.
 
 “Ésta es, mi Señor, la solución de las palabras que has pronunciado”.
 
@@ -322,7 +322,7 @@ Esta es, pues, mi Señor, la solución del arrepentimiento que Pistis Sophia pro
 
 “La palabra que tu poder de luz ha hablado a través de Salomón: 'Me he librado de las ataduras y he huido hacia ti, oh Señor', es la palabra que Pistis Sophia ha pronunciado: 'Me he liberado de las ataduras de la oscuridad y he venido hacia ti, oh Luz'.
 
-“Y la palabra que tu poder ha dicho: 'Estuviste a mi diestra, salvándome **(151)** y ayudándome', es de nuevo la palabra que Pistis Sophia <span id="p127">[<sup><small>p. 127</small></sup>]</span> ha dicho: 'Te has convertido en una luz a mi alrededor, \[salvándome\] y ayudándome'.
+“Y la palabra que tu poder ha dicho: 'Estuviste a mi diestra, salvándome **(151)** y ayudándome', es de nuevo la palabra que Pistis Sophia <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> ha dicho: 'Te has convertido en una luz a mi alrededor, \[salvándome\] y ayudándome'.
 
 “Y la palabra que tu poder de luz ha dicho: 'Has obstaculizado a mis adversarios y no se han revelado', es la palabra que Pistis Sophia ha dicho: 'Y las emanaciones de Obstinado que lucharon contra mí, las has obstaculizado con tu luz, y no pudieron acercarse a mí'.
 
@@ -354,7 +354,7 @@ Y la palabra que tu poder pronunció a través de Salomón: «Es tu diestra la q
 
 Y la palabra que tu poder ha dicho: “Mis adversarios se han retirado de mí”, es la palabra que Pistis Sophia ha dicho: “Las emanaciones de la Voluntad Propia que me constreñían se han retirado de mí”.
 
-“Y la palabra que tu poder ha hablado a través de Salomón: 'Y soy justificado en tu <span id="p129">[<sup><small>p. 129</small></sup>]</span> bondad, porque tu descanso perdura por toda la eternidad', es la palabra que Pistis Sophia ha pronunciado: 'Soy salvo en tu bondad; porque tú salvas a todos'.
+“Y la palabra que tu poder ha hablado a través de Salomón: 'Y soy justificado en tu <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> bondad, porque tu descanso perdura por toda la eternidad', es la palabra que Pistis Sophia ha pronunciado: 'Soy salvo en tu bondad; porque tú salvas a todos'.
 
 “Ésta es entonces, oh mi Señor, la solución completa del arrepentimiento que Pistis Sophia pronunció cuando fue salvada del caos y liberada de las ataduras de la oscuridad”.
 
@@ -374,7 +374,7 @@ Y el Primer Misterio continuó de nuevo y dijo a los discípulos: "Y Pistis Soph
 
 4. Y has herido al basilisco con las siete cabezas, lo has arrojado con mis manos y me has puesto por encima de su materia. Lo has destruido, para que su semilla no pueda brotar de ahora en adelante.
 
-5. Y tú estabas conmigo, dándome poder <span id="p130">[<sup><small>p. 130</small></sup>]</span> en todo esto, y tu luz me rodeaba en todas las regiones, y a través de ti has hecho impotentes todas las emanaciones de Obstinado.
+5. Y tú estabas conmigo, dándome poder <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> en todo esto, y tu luz me rodeaba en todas las regiones, y a través de ti has hecho impotentes todas las emanaciones de Obstinado.
 
 6. Porque les has quitado el poder de su luz y has enderezado mi camino para sacarme del caos.
 

@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 Antar soportó muchos días y semanas de torturante suspenso, siendo su única fuente de consuelo la compañía del rey Zoheir, hasta que finalmente Shiboob regresó con noticias de Abla.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 «Después de haber pasado por varias ciudades de Yemen», dijo Shiboob, «llegué a Sana y Adén, y encontré numerosas dificultades hasta que llegué a la tribu de Tey. Fue allí donde encontré a Abla, en poder de Moofrij: allí ella cuida de los camellos y las ovejas. Él la ha vestido con prendas de cuero crudo y la hace servir en los oficios más humildes día y noche. Su madre también la amenaza y la trata con dureza en su habla; de modo que llora tanto cuando se levanta como cuando se acuesta. Ella invoca tu nombre y busca su socorro habitual en ti tanto de noche como de día».
 
@@ -56,7 +56,7 @@ Pregúntale a mis suspiros ardientes que suben a lo alto: ellos te contarán de 
 
 Con tu violencia dominas mi debilidad: no tengo paciencia ni resignación para soportarlo.
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ¡Oh pájaro del tamarisco!—toda la noche, decaído, llora por su pareja que se ha ido y no regresa;—
 

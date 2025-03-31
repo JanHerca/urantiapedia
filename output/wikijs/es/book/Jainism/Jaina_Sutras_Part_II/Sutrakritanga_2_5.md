@@ -36,7 +36,7 @@ QUINTA CONFERENCIA, LLAMADA LIBERTAD DEL ERROR.
 
 Un monje muy inteligente que practica el voto de castidad no debe adoptar las siguientes doctrinas heréticas ni comportarse mal en esta religión. (1)
 
-No debe creer que (este mundo) no tiene principio ni fin, es eterno o no, según la argumentación (de los herejes) [^1184]. (2) De estas alternativas no se puede llegar a la <span id="p406">[<sup><small>p. 406</small></sup>]</span> verdad; de estas alternativas se es, sin duda, llevado al error. (3)
+No debe creer que (este mundo) no tiene principio ni fin, es eterno o no, según la argumentación (de los herejes) [^1184]. (2) De estas alternativas no se puede llegar a la <span id="p406"><sup><small>[ p. 406 ]</small></sup></span> verdad; de estas alternativas se es, sin duda, llevado al error. (3)
 
 No se debe decir: que habrá un fin de los seres que (conocen y) enseñan la verdad [^1185]; ni que todos los seres no son iguales, ni que estarán en (perpetua) esclavitud, o (que los profetas son) eternos. (4)
 
@@ -48,7 +48,7 @@ Se debe saber que quienes aceptan cosas especialmente preparadas para ellos [^11
 
 De estas alternativas, etc. (9)
 
-No se debe mantener la identidad de los cuerpos audârika [^1187], âhârika y kârma<i>n</i>a, ni <span id="p407">[<sup><small>p. 407</small></sup>]</span> que todo no puede llegar a existir en todas partes [^1188], ni que puede. (10)
+No se debe mantener la identidad de los cuerpos audârika [^1187], âhârika y kârma<i>n</i>a, ni <span id="p407"><sup><small>[ p. 407 ]</small></sup></span> que todo no puede llegar a existir en todas partes [^1188], ni que puede. (10)
 
 De estas alternativas, etc. (11)
 

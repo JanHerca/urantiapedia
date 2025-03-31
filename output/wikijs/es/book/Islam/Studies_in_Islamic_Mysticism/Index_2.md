@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T20:3:38Z
   </table>
 </figure>
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Abú Sa‘íd ibn Abi ’l-Khayr, [1](./1_Introduction#p1)\-[76](./1_3#p76); autoridades para su biografía, [1](./1_Introduction#p1)\-[3](./1_Introduction#p3); su nacimiento y educación temprana, [3](./1_Introduction#p3)\-[5](./1_1#p5); sus estudios teológicos, [6](./1_1#p6); su conversión al Ṣúfisim, [6](./1_1#p6)\-[9](./1_1#p9); su linaje como Ṣúfí, [10](./1_1#p10); sus austeridades, [11](./1_1#p11)\-[16](./1_1#p16); entierra sus libros de teología, [20](./1_1#p20); el árbol plantado por él en Mayhana, [20](./1_1#p20); su iluminación mística, alcanzada a la edad de cuarenta años, [24](./1_1#p24)\-[25](./1_1#p25); su viaje a Níshápúr, [26](./1_1#p26), [27](./1_1#p27); sus poderes telepáticos, [27](./1_1#p27), [28](./1_1#p28)\-[36](./1_1#p36), [38](./1_1#p38)\-[41](./1_1#p41), [68](./1_3#p68); acusaciones presentadas contra él por los sunitas, chiítas y mutazilíes, [28](./1_1#p28), [29](./1_1#p29); sus relaciones con Qushayrí, [33](./1_1#p33)\-[36](./1_1#p36); su lujo y extravagancia, [35](./1_1#p35)\-[37](./1_1#p37) anécdotas que muestran cómo se mantenía a sí mismo y a sus discípulos, [38](./1_1#p38)\-[41](./1_1#p41); su venganza contra un Amír que se negó a pagar sus deudas, [42](./1_1#p42); su supuesto encuentro con Avicena, [42](./1_1#p42); su visita a Abú ’l-Ḥasan Kharaqání, [42](./1_1#p42)\-[44](./1_1#p44); su negativa a hacer la peregrinación a La Meca, [44](./1_1#p44), [61](./1_2#p61); su muerte, [45](./1_1#p45); su epitafio, [45](./1_1#p45); descripción de su apariencia personal, [45](./1_1#p45); regulaciones que hizo para los internos de su convento, [46](./1_1#p46), [76](./1_3#p76); su barbero y sastre, [47](./1_1#p47); su deseo de observar la Sunna del Profeta, [47](./1_1#p47); las cuartetas que se le atribuyen, [1](./1_Introduction#p1), [4](./1_1#p4), [48](./1_2#p48); el carácter de su misticismo, [48](./1_2#p48) ss., [70](./1_3#p70), [76](./1_3#p76); dichos sobre la autonegación, [50](./1_2#p50) ss.; se llamó a sí mismo Nadie, hijo de Nadie, [53](./1_2#p53); su ideal de caridad y fraternidad, [55](./1_2#p55), [56](./1_2#p56); su panteísmo, [57](./1_2#p57), [64](./1_2#p64); su actitud hacia el Islam, [57](./1_2#p57) ss.; sus innovaciones en la práctica sufí, [58](./1_2#p58); sus milagros, [65](./1_2#p65) y siguientes; veneración rendida a sus reliquias, [73](./1_3#p73)\-[75](./1_3#p75)
 
@@ -64,7 +64,7 @@ Mendicidad, [14](./1_1#p14)
 
 Ser, Absoluto, [83](./2_Introduction#p83); idéntico al Pensamiento, [83](./2_Introduction#p83); sus tres etapas de manifestación, [84](./2_Introduction#p84), [94](./2_2#p94) ss. _Ver_ Esencia
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Ser, contingente o fenomenal, [83](./2_Introduction#p83), [104](./2_4#p104), [153](./2_Appendix2#p153), [186](./3_Introduction#p186), [187](./3_Introduction#p187), [189](./3_Introduction#p189), [190](./3_Introduction#p190), [199](./3_Argument#p199), [209](./3_vv_1_100#p209), [221](./3_vv_200_299#p221), [222](./3_vv_200_299#p222)\-[223](./3_vv_200_299#p223), [232](./3_vv_300_399#p232), [242](./3_vv_400_499#p242), [251](./3_vv_500_599#p251). _Ver_ Fenómenos
 
@@ -162,7 +162,7 @@ Fruto, el prohibido, [119](./2_4#p119), [223](./3_vv_200_299#p223)
 
 Dios, la naturaleza de, [97](./2_2#p97) ss., [103](./2_3#p103), [104](./2_4#p104), [149](./2_Appendix2#p149) ss.; la sustancia del universo, [99](./2_3#p99), [152](./2_Appendix2#p152); la esencia de todas las creencias religiosas, [130](./2_6#p130) ss., [159](./2_Appendix2#p159), [264](./3_vv_700_799#p264); el único agente real, [16](./1_1#p16), [51](./1_2#p51), [52](./1_2#p52), [54](./1_2#p54), [126](./2_6#p126), [161](./2_Appendix2#p161), [262](./3_vv_700_799#p262), [264](./3_vv_700_799#p264); los caminos hacia, innumerables, [50](./1_2#p50); el camino hacia, un solo paso, [50](./1_2#p50); el Dios finito de la religión, [159](./2_Appendix2#p159), [160](./2_Appendix2#p160). _Véase_ Esencia, lo Divino; Atributos, lo Divino; Nombres, lo Divino; Alá
 
-Evangelio, las palabras iniciales de, según Jílí, [139](./2_7#p139); tipifica la segunda etapa en el ascenso místico <span id="p274">[<sup><small>p. 274</small></sup>]</span> del alma, [138](./2_7#p138); la verdadera doctrina de, [140](./2_7#p140)
+Evangelio, las palabras iniciales de, según Jílí, [139](./2_7#p139); tipifica la segunda etapa en el ascenso místico <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> del alma, [138](./2_7#p138); la verdadera doctrina de, [140](./2_7#p140)
 
 Hadíth. _Ver_ Tradiciones del Profeta
 
@@ -250,7 +250,7 @@ El hombre, el terrenal, [82](./2_Introduction#p82); el celestial, [82](./2_Intro
 
 El hombre, el grande, [155](./2_Appendix2#p155). _Véase_ Macrocosmos El hombre, la naturaleza y función de, [154](./2_Appendix2#p154) ss.
 
-El hombre, el Perfecto, [77](./2_Introduction#p77) ss., [184](./3_Introduction#p184); une lo Uno y lo Múltiple, [78](./2_Introduction#p78), [84](./2_Introduction#p84); creado a imagen de Dios, [79](./2_Introduction#p79), [80](./2_Introduction#p80), [86](./2_Introduction#p86), [106](./2_4#p106), [107](./2_4#p107); el microcosmos, [82](./2_Introduction#p82), [84](./2_Introduction#p84), [106](./2_4#p106); el _Quṭb_ y conservador del universo, [86](./2_Introduction#p86), [105](./2_4#p105), [130](./2_6#p130); el vicegerente de Dios, [113](./2_4#p113), [130](./2_6#p130), [156](./2_Appendix2#p156); su triple naturaleza, [86](./2_Introduction#p86). [103](./2_3#p103), [104](./2_4#p104); identificado con Adán, [154](./2_Appendix2#p154) ss.; identificado con Mahoma, <span id="p275">[<sup><small>p. 275</small></sup>]</span> [86](./2_Introduction#p86), [88](./2_Introduction#p88), [104](./2_4#p104) ss.; el Logos, [104](./2_4#p104) ss.; no absolutamente idéntico a Dios, [108](./2_4#p108), [118](./2_4#p118), [142](./2_7#p142); el Espíritu de donde todas las cosas tienen su origen, [108](./2_4#p108); sus facultades, [115](./2_4#p115) ss. _Véase_ Adán; Mahoma; _al-insánu ’l-kámil_
+El hombre, el Perfecto, [77](./2_Introduction#p77) ss., [184](./3_Introduction#p184); une lo Uno y lo Múltiple, [78](./2_Introduction#p78), [84](./2_Introduction#p84); creado a imagen de Dios, [79](./2_Introduction#p79), [80](./2_Introduction#p80), [86](./2_Introduction#p86), [106](./2_4#p106), [107](./2_4#p107); el microcosmos, [82](./2_Introduction#p82), [84](./2_Introduction#p84), [106](./2_4#p106); el _Quṭb_ y conservador del universo, [86](./2_Introduction#p86), [105](./2_4#p105), [130](./2_6#p130); el vicegerente de Dios, [113](./2_4#p113), [130](./2_6#p130), [156](./2_Appendix2#p156); su triple naturaleza, [86](./2_Introduction#p86). [103](./2_3#p103), [104](./2_4#p104); identificado con Adán, [154](./2_Appendix2#p154) ss.; identificado con Mahoma, <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> [86](./2_Introduction#p86), [88](./2_Introduction#p88), [104](./2_4#p104) ss.; el Logos, [104](./2_4#p104) ss.; no absolutamente idéntico a Dios, [108](./2_4#p108), [118](./2_4#p118), [142](./2_7#p142); el Espíritu de donde todas las cosas tienen su origen, [108](./2_4#p108); sus facultades, [115](./2_4#p115) ss. _Véase_ Adán; Mahoma; _al-insánu ’l-kámil_
 
 El hombre, el primigenio, [86](./2_Introduction#p86)
 
@@ -346,7 +346,7 @@ Profeta, el. _Ver_ Mahoma
 
 Profetas, los, [7](./1_1#p7), [78](./2_Introduction#p78), [123](./2_5#p123), [131](./2_7#p131), [133](./2_7#p133), [137](./2_7#p137) ss.; superiores a los santos, [141](./2_7#p141); tipos de atributos divinos, [149](./2_Appendix2#p149)
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Castigo, futuro, [132](./2_7#p132), [136](./2_7#p136), [137](./2_7#p137), [160](./2_Appendix2#p160)
 
@@ -442,7 +442,7 @@ Pensamientos, el poder de materializarlos, [102](./2_3#p102), [136](./2_7#p136)
 
 Trono de Dios, el. Ver _al-‘arsh_
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Tiempo, espiritual, [223](./3_vv_200_299#p223), [245](./3_vv_400_499#p245); irreal, [242](./3_vv_400_499#p242), [245](./3_vv_400_499#p245)
 

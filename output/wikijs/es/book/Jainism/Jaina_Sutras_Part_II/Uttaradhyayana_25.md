@@ -60,7 +60,7 @@ No para conseguir comida, ni bebida, ni ninguna otra cosa que quisiera, sino par
 
 El sacerdote no respondió para defenderse de su insinuación; pero él y todos los allí reunidos unieron sus manos e interrogaron al gran sabio: (13)
 
-'Cuéntanos el tema más esencial de los Vêdas, y dinos qué es lo más esencial del sacrificio; <span id="p138">[<sup><small>p. 138</small></sup>]</span> cuéntanos el primero de los cuerpos celestes, y cuéntanos el mejor de los dharmas. (14)
+'Cuéntanos el tema más esencial de los Vêdas, y dinos qué es lo más esencial del sacrificio; <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> cuéntanos el primero de los cuerpos celestes, y cuéntanos el mejor de los dharmas. (14)
 
 ¿Quiénes son capaces de salvarse a sí mismos y a los demás? (dime). Te pido que resuelvas esta duda, oh santo. (15)
 
@@ -74,7 +74,7 @@ Aquel a quien la gente llama brahmán y es adorado como el fuego (no es un brahm
 
 “Aquel que no tiene apego mundano después de entrar en la orden, que no se arrepiente de haberse convertido en monje [^355], y que se deleita en las nobles palabras, a ese lo llamamos Brâhma<i>n</i>a. (20)
 
-A quien está exento de amor, odio y miedo, <span id="p139">[<sup><small>p. 139</small></sup>]</span> (y que brilla) como oro bruñido, purificado en fuego [^356], a ese lo llamamos Brâhma<i>n</i>a. (21)
+A quien está exento de amor, odio y miedo, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> (y que brilla) como oro bruñido, purificado en fuego [^356], a ese lo llamamos Brâhma<i>n</i>a. (21)
 
 “A un asceta delgado y autosuficiente, que reduce su carne y sangre, que es piadoso y ha alcanzado el Nirvana, a ese lo llamamos Brâhma<i>n</i>a. (22)
 
@@ -108,7 +108,7 @@ La atadura de animales (al poste sacrificial), todos los Vêdas y los sacrificio
 
 Cuando su duda fue resuelta, Vi<i>g</i>ayaghôsha, el Brâhma<i>n</i>a, asintió [^360] al gran sabio <i>G</i>ayaghôsha y a su (discurso). (36)
 
-Vi<i>g</i>ayaghôsha, complacido, juntó las manos y dijo <span id="p141">[<sup><small>p. 141</small></sup>]</span> lo siguiente: «Me has explicado bien en qué consiste la verdadera brahmanidad. (37)
+Vi<i>g</i>ayaghôsha, complacido, juntó las manos y dijo <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> lo siguiente: «Me has explicado bien en qué consiste la verdadera brahmanidad. (37)
 
 'Tú eres un sacrificador de sacrificios, eres el más erudito de aquellos que conocen los Vêdas, conoces el <i>G</i>yôtishâṅga, conoces perfectamente la Ley. (38)
 

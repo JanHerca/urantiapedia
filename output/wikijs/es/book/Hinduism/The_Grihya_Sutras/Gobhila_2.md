@@ -50,7 +50,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. [^188] Tomándolos en su mano, debería ofrecérselos a la muchacha y (recitando la fórmula): «Solo el derecho es el primero; nadie lo traspasa; sobre el derecho se funda esta tierra. ¡Que NN se convierta en este universo!» —debería pronunciar su nombre y decir: «Toma uno de estos».
 
-8\. Si ella toma uno de los primeros cuatro (terrones), él debería casarse con ella, <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+8\. Si ella toma uno de los primeros cuatro (terrones), él debería casarse con ella, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 9\. [^189] Y según algunos (maestros) también, si (toma) la mixta.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 13\. [^191] Entonces, uno de los asistentes a la boda llena una copa con agua firme y, habiendo caminado con la olla de agua alrededor del fuego sobre su parte frontal, en silencio, envuelto en su túnica, se sitúa al sur (del fuego), mirando hacia el norte.
 
-14\. Otra persona con una aguijada (camina por el mismo camino y se sitúa en el mismo lugar). <span id="p44">[<sup><small>p. 44</small></sup>]</span>
+14\. Otra persona con una aguijada (camina por el mismo camino y se sitúa en el mismo lugar). <span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 15\. Colocan grano tostado mezclado con hojas de <i>S</i>amî, en la cantidad de cuatro puñados, en un aventador detrás del fuego,
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 22\. Debe hacer que el extremo de la estera de junco (Sûtra 20) llegue hasta el final de los Barhis.
 
-23\. En el extremo este de la estera, se sienta a la derecha del novio. <span id="p45">[<sup><small>p. 45</small></sup>]</span>
+23\. En el extremo este de la estera, se sienta a la derecha del novio. <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 24\. [^194] Mientras ella toca su hombro derecho con su mano derecha, él sacrifica seis oblaciones de Â<i>g</i>ya con (el verso), 'Que Agni vaya como el primero', y los siguientes (versos) (MB. I, 1, 9-14)—
 
@@ -105,7 +105,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. [^197] Después de que (Â<i>g</i>ya) ha sido esparcido debajo y vertido sobre (el grano frito), ella lo sacrifica en el fuego sin abrir sus manos unidas, con (el verso que el novio \[?\] recita), 'Esta mujer dice' (MB. I, 2, 2).
 
-7\. [^198] (Los versos), 'El dios Aryaman', y, 'Pûshan' <span id="p46">[<sup><small>p. 46</small></sup>]</span> (ll 3. 4) (se repiten) en las dos siguientes (oblaciones de grano frito).
+7\. [^198] (Los versos), 'El dios Aryaman', y, 'Pûshan' <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> (ll 3. 4) (se repiten) en las dos siguientes (oblaciones de grano frito).
 
 8\. [^199] Después de ese sacrificio, el marido, pasando (detrás de ella), regresa de la misma manera y la conduce alrededor del fuego de manera que sus lados derechos estén vueltos hacia él, o un Brâhma<i>n</i>a versado en los Mantras (hace lo mismo), con (el verso), 'La doncella de los padres' (MB. I, 2, 5).
 
@@ -121,7 +121,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 14\. [^200] A los espectadores debe dirigirse con (el verso), 'Esta mujer lleva adornos auspiciosos' (I. 1. 8).
 
-15\. [^201] Al oeste del fuego sigue el aguador y rocía al novio en su frente, y también a la otra (es decir, a la novia), <span id="p47">[<sup><small>p. 47</small></sup>]</span> con este verso (que murmura el novio), 'Que (los Vi<i>s</i>ve devâs) unjan (o unan)' (ll 9).
+15\. [^201] Al oeste del fuego sigue el aguador y rocía al novio en su frente, y también a la otra (es decir, a la novia), <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> con este verso (que murmura el novio), 'Que (los Vi<i>s</i>ve devâs) unjan (o unan)' (ll 9).
 
 16\. Después de haberla rociado así, levanta sus manos unidas con la izquierda, toma con la derecha la mano derecha de ella con el pulgar, con la palma hacia arriba, y murmura estos seis versos que se refieren a tomar la mano de una muchacha: «Tomo tu mano» (MB. I, 2, 10-15).
 
@@ -147,7 +147,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. Lo que quede de cada ofrenda lo derramará sobre la cabeza de la novia.
 
-8\. Después del sacrificio, se levantan, salen (de la casa), y él le muestra la «estrella firme» (es decir, la estrella polar). <span id="p48">[<sup><small>p. 48</small></sup>]</span>
+8\. Después del sacrificio, se levantan, salen (de la casa), y él le muestra la «estrella firme» (es decir, la estrella polar). <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 9\. (Repitiendo la fórmula): «Firme eres. Que yo, NN, me fortalezca en la casa de NN, mi esposo». Debe pronunciar el nombre de su esposo y el suyo propio.
 
@@ -167,7 +167,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 17\. Algunos dicen que (esta recepción debe ofrecerse) cuando (el novio y sus acompañantes) hayan llegado (a la casa del padre de la novia).
 
-18\. [^209] El primer alimento que coma debe ser alimento <span id="p49">[<sup><small>p. 49</small></sup>]</span> apto para el sacrificio, sobre el cual ha murmurado (los versos citados en el Sutra 21).
+18\. [^209] El primer alimento que coma debe ser alimento <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> apto para el sacrificio, sobre el cual ha murmurado (los versos citados en el Sutra 21).
 
 19\. O deberá preparar al día siguiente un plato de comida cocinada, del cual comerán juntos.
 
@@ -188,7 +188,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. [^213] En el camino debe dirigirse a los cruces de caminos, ríos y desniveles (del terreno), árboles grandes y cementerios, con (el verso), 'Que ningún caminante nos encuentre' (ibid. 12).
 
-3\. [^214] Si el eje se rompe, o algo que está atado se suelta, o si el carro se vuelca, o si ocurre algún otro accidente, deben poner leña en el fuego que llevan consigo, deben <span id="p50">[<sup><small>p. 50</small></sup>]</span> hacer oblaciones (de Â<i>ri</i>ya) con los Vyâh<i>ri</i>tis, deben procurar una pieza nueva (en lugar de la que se ha dañado) y deben untarla con los restos del Â<i>ri</i>ya (que se ha ofrecido), con (el verso), 'El que sin atar' (Sâma-veda I, 244).
+3\. [^214] Si el eje se rompe, o algo que está atado se suelta, o si el carro se vuelca, o si ocurre algún otro accidente, deben poner leña en el fuego que llevan consigo, deben <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> hacer oblaciones (de Â<i>ri</i>ya) con los Vyâh<i>ri</i>tis, deben procurar una pieza nueva (en lugar de la que se ha dañado) y deben untarla con los restos del Â<i>ri</i>ya (que se ha ofrecido), con (el verso), 'El que sin atar' (Sâma-veda I, 244).
 
 4\. Habiendo cantado el Vâmadevya, debería subir (de nuevo).
 
@@ -231,7 +231,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Cuando haya tenido su enfermedad mensual y la sangre haya dejado de fluir, ese será el momento de cohabitar.
 
-9\. Con su mano derecha debe tocar sus partes secretas con el verso: «Que Vish<i>n</i>u prepare tu vientre <span id="p52">[<sup><small>p. 52</small></sup>]</span>» (MB. I, 4, 6), y con eso, «Concede la concepción, Sinîvâlî» (ll 7).
+9\. Con su mano derecha debe tocar sus partes secretas con el verso: «Que Vish<i>n</i>u prepare tu vientre <span id="p52"><sup><small>[ p. 52 ]</small></sup></span>» (MB. I, 4, 6), y con eso, «Concede la concepción, Sinîvâlî» (ll 7).
 
 10\. Cuando esos dos versículos terminan, cohabitan.
 
@@ -295,7 +295,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 5\. Luego le separa el cabello hacia arriba (es decir, comenzando desde el frente), la primera vez con hojas de darbha, con (la palabra), 'Bhû_h_!', la segunda vez con (la palabra), 'Bhuva_h_!', la tercera vez con (la palabra), 'Sva_h_!'—
 
-6\. Luego, con una tablilla de Vîratara (madera), con este verso: «Con lo cual Aditi...» (ibid. 2); <span id="p55">[<sup><small>p. 55</small></sup>]</span>
+6\. Luego, con una tablilla de Vîratara (madera), con este verso: «Con lo cual Aditi...» (ibid. 2); <span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 7\. Luego, con un huso lleno, con este verso: «Invoco a Râkâ» (ibid. 3.4).
 
@@ -319,7 +319,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 17\. [^227] Cuando le anuncien que ha nacido un hijo, deberá decir: "Demora todavía en cortarle el ombligo y darle el pecho".
 
-18\. [^228] Que le den arroz y granos de cebada machacados de la misma manera que el brote (Nyagrodha). <span id="p56">[<sup><small>p. 56</small></sup>]</span>
+18\. [^228] Que le den arroz y granos de cebada machacados de la misma manera que el brote (Nyagrodha). <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 19\. [^229] Tomando (esa sustancia machacada) con el pulgar y el cuarto dedo de su mano derecha, la unta en la lengua del muchacho, con la fórmula: 'Esta orden' (MB. I, 5, 8).
 
@@ -338,7 +338,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^231] El tercer (Tithi) de la tercera quincena brillante después de su nacimiento, por la mañana el padre hace lavar al niño, incluida la cabeza, y después del atardecer, cuando el rojo de la tarde ha desaparecido, adora (a la luna), levantando sus manos juntas.
 
-2\. Luego, la madre, tras vestir al hijo con una prenda limpia, lo entrega, de sur a norte, con la cara vuelta hacia el norte, al padre. <span id="p57">[<sup><small>p. 57</small></sup>]</span>
+2\. Luego, la madre, tras vestir al hijo con una prenda limpia, lo entrega, de sur a norte, con la cara vuelta hacia el norte, al padre. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 3\. Luego pasa a sus espaldas y se sitúa al norte (de su marido).
 
@@ -354,7 +354,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. Quien va a realizar (esa ceremonia, el padre o un representante del padre), se sienta al oeste del fuego sobre la hierba Darbha que apunta hacia el norte, mirando hacia el este.
 
-10\. [^234] Entonces la madre, después de haber vestido a su hijo con una prenda limpia, lo entrega, de sur a norte, <span id="p58">[<sup><small>p. 58</small></sup>]</span> con la cara vuelta hacia el norte, al ejecutante (de la ceremonia).
+10\. [^234] Entonces la madre, después de haber vestido a su hijo con una prenda limpia, lo entrega, de sur a norte, <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> con la cara vuelta hacia el norte, al ejecutante (de la ceremonia).
 
 11\. Luego pasa por detrás de él y se sienta al norte (de él), sobre la hierba Darbha que apunta hacia el norte.
 
@@ -372,7 +372,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 18\. Una vaca constituye el tributo del sacrificio.
 
-19\. [^237] Cada mes (después del nacimiento) del niño, (o) <span id="p59">[<sup><small>p. 59</small></sup>]</span> después de un año, o en los días Parvan del año (es decir, en el último Tithi de cada una de las tres estaciones), debe sacrificar a Agni e Indra, al Cielo y a la Tierra, y a los devas Visve.
+19\. [^237] Cada mes (después del nacimiento) del niño, (o) <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> después de un año, o en los días Parvan del año (es decir, en el último Tithi de cada una de las tres estaciones), debe sacrificar a Agni e Indra, al Cielo y a la Tierra, y a los devas Visve.
 
 20\. [^238] Después de haber sacrificado a la deidad (del Tithi y del Nakshatra respectivamente), debe sacrificar al Tithi y al Nakshatra.
 
@@ -409,7 +409,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. El arroz hervido con semillas de sésamo (Sutra 5) y todas las semillas (mencionadas en el Sutra 6) se le dan al barbero.
 
-8\. Luego, la madre, tras vestir a su hijo con una prenda limpia, se sienta al oeste del fuego sobre la hierba Darbha que apunta hacia el norte, mirando hacia el este. <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+8\. Luego, la madre, tras vestir a su hijo con una prenda limpia, se sienta al oeste del fuego sobre la hierba Darbha que apunta hacia el norte, mirando hacia el este. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 9\. Al oeste (de ella), mirando hacia el este, se sitúa la persona que va a realizar esa (ceremonia).
 
@@ -425,7 +425,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 15\. Presionándolas con la mano izquierda y agarrando con la derecha la navaja de madera de Udumbara o el espejo, toca con ella (las hojas de Darbha), con el (Mantra): "¡Hacha! ¡No le hagas daño!" (ibid. 6).
 
-16\. Con (el Mantra), «Con el que Pûshan afeitó la cabeza de B<i>ri</i>haspati» (ibid. 7), avanza (esa navaja o el espejo) tres veces hacia el este sin cortar (el cabello); una vez con el Ya<i>ri</i>us, dos veces en silencio. <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+16\. Con (el Mantra), «Con el que Pûshan afeitó la cabeza de B<i>ri</i>haspati» (ibid. 7), avanza (esa navaja o el espejo) tres veces hacia el este sin cortar (el cabello); una vez con el Ya<i>ri</i>us, dos veces en silencio. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 17\. Luego (el barbero) con la navaja de metal corta el cabello y arroja (las puntas cortadas) sobre el estiércol del toro.
 
@@ -447,7 +447,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 26\. Arrojan el pelo sobre el estiércol del toro (mencionado anteriormente), lo llevan al bosque y lo entierran.
 
-27\. Algunos los tiran sobre un montón (de hierba o algo similar). <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+27\. Algunos los tiran sobre un montón (de hierba o algo similar). <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 28\. Luego podrán hacer lo que quieran.
 
@@ -469,7 +469,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. Que no inicien a tales hombres, ni les enseñen, ni les realicen sacrificios, ni formen alianzas matrimoniales con ellos.
 
-7\. El día que el joven va a recibir la iniciación, temprano por la mañana, le dan de comer, le arreglan el cabello, lo bañan, lo adornan con adornos y le ponen una prenda nueva que aún no ha sido lavada. <span id="p64">[<sup><small>p. 64</small></sup>]</span>
+7\. El día que el joven va a recibir la iniciación, temprano por la mañana, le dan de comer, le arreglan el cabello, lo bañan, lo adornan con adornos y le ponen una prenda nueva que aún no ha sido lavada. <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 8\. [^252] Sus vestimentas están hechas de lino, de cáñamo, de algodón o de lana (según la casta a la que pertenece el estudiante).
 
@@ -487,7 +487,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 15\. [^255] Al este de la casa, sobre una superficie untada con estiércol de vaca, se ha puesto leña al fuego.
 
-16\. Tras sacrificar con (los mantras que recita el estudiante) «¡Agni! Señor del voto» (MB. I, 6, 9-13), el maestro se sitúa al oeste <span id="p65">[<sup><small>p. 65</small></sup>]</span> del fuego, sobre la hierba Darbha que apunta hacia el norte, mirando hacia el este.
+16\. Tras sacrificar con (los mantras que recita el estudiante) «¡Agni! Señor del voto» (MB. I, 6, 9-13), el maestro se sitúa al oeste <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> del fuego, sobre la hierba Darbha que apunta hacia el norte, mirando hacia el este.
 
 17\. Entre el fuego y el maestro, el estudiante se encuentra de pie, levantando sus manos juntas y girando su rostro hacia el maestro, sobre la hierba Darbha que apunta hacia el norte.
 
@@ -549,7 +549,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 46\. Después de la puesta del sol, pone un trozo de leña en el fuego con (el Mantra), 'A Agni le he traído un trozo de leña' (ibid. 32).
 
-47\. Durante tres noches evita comer alimentos picantes o salados. <span id="p68">[<sup><small>p. 68</small></sup>]</span>
+47\. Durante tres noches evita comer alimentos picantes o salados. <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 48\. Al final de ese (periodo) se le ofrece un plato de granos de arroz hervidos a Savit_ri_.
 

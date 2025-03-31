@@ -214,7 +214,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 11. Agnir etu prathama iti shadbhis k a pân igrahan e. 12. nâgyabhâgau na svishtakri d âg yâhutishv anâde s e. 13. sarvatroparishtân mahâvyâhri tibhih. 14. prâgâpatyayâ k a. 15. prâya<i>s</i><i>k</i>itta<i>m</i> <i>g</i>uhuyâd. 16. dhutvopottish<i>th</i>ato. 17. ऽnup<i>ri</i>sh<i>th</i>a<i>m</i> gatvâ dakshi<i>n</i>atoऽvasthâya vadhva<i>ñ</i><i>g</i>ali<i>m</i> g<i>ri</i>h<i>n</i>îyât. 18. pûrvâ mâtâ <i>s</i>amîpalâ<i>s</i>ami<i>s</i>rân (var. lect. °mi<i>s</i>râl) lâ<i>g</i>â<i>ñ</i> <i>kh</i>rpe k<i>ri</i>tvâ. 19. pa<i>s</i><i>k</i>d agner d<i>ri</i>shatputram âkramayed vadhû<i>m</i> dakshi<i>n</i>ena prapadenemam a<i>s</i>mânam iti. 20. sak<i>ri</i>dg<i>ri</i>hîtam a<i>ñ</i><i>g</i>ali<i>m</i> lâ<i>g</i>ânâ<i>i>m</i> vadhva<i>ñ</i><i>g</i>alâv âvaped bhrâtâ.</small>
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span> con grano frito, debe verterlo en las manos unidas de la novia.
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span> con grano frito, debe verterlo en las manos unidas de la novia.
 
 21\. [^995]. O algún amigo (en lugar del hermano).
 
@@ -280,7 +280,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 <small>4\. pradakshi<i>n</i>am agni<i>m</i> parikramya dhruva<i>m</i> dar<i>s</i>ayati dhruvâ dyaur ity. 5. abhivâdya gurûn (guru<i>m</i>, Gobhila) gotre<i>n</i>a vis<i>ri</i><i>g</i>ed vâ<i>k</i>a<i>m</i>. 6. gaur dakshi<i>n</i>. 7. ऽtrârghyam. 8. âgateshv ity eke. 9. trirâtra<i>m</i> kshâralava<i>n</i>e dugdharn iti var<i>g</i>ayantau (var<i>g</i>ayânau en los MSS.) saha <i>s</i>ayîyâtâ<i>m</i> (<i>s</i>ayyâtâ<i>m</i>, <i>s</i>aryyatâ<i>m</i> en los MSS.) brahma<i>k</i>âri<i>n</i>au. 10. havishyam annam pari<i>g</i>apyânnapâ<i>s</i>enety asâv iti vadhvâ nâma brûyâd. 11. hutvo<i>k</i><i>kh</i>ish<i>t</i>a<i>m</i> (bhuktv°?) vadhvai dadyâd. 12. ûrdhva<i>m</i> trirâtrâ<i>k</i> <i>k</i>atas<i>ri</i>bhir â<i>g</i>ya<i>m</i> <i>g</i>uhuyâd Agne prâya<i>s</i>kittir iti samasya pa<i>ñ</i><i>k</i>amî<i>m</i> sampâtân avanayann udapâtre.</small>
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span> versos, «Agni, tú eres la expiación» (MB. I, 4, I ss.). Una quinta oblación que combina los nombres de los cuatro dioses invocados en esos versos. Los restos de Â<i>n</i>ya deben verterse en una vasija de agua.
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span> versos, «Agni, tú eres la expiación» (MB. I, 4, I ss.). Una quinta oblación que combina los nombres de los cuatro dioses invocados en esos versos. Los restos de Â<i>n</i>ya deben verterse en una vasija de agua.
 
 13\. Con eso (Â<i>g</i>ya) debería lavarla, incluso el cabello y las uñas.
 

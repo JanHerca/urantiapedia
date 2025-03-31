@@ -44,7 +44,7 @@ PRIMER PRAP TAMBIÉN CONOCIDO COMO.
 
 Sin embargo, el relato completo de Om es éste:
 
-2\. La esencia [^71] de todos los seres es la tierra, la esencia de la tierra es el agua, la esencia del agua <span id="p2">[<sup><small>p. 2</small></sup>]</span> las plantas, la esencia de las plantas es el hombre, la esencia del hombre es el habla, la esencia del habla es el Rig-veda, la esencia del Rig-veda es el Sâma-veda [^72], la esencia del Sâma-veda es el udgîtha (que es Om).
+2\. La esencia [^71] de todos los seres es la tierra, la esencia de la tierra es el agua, la esencia del agua <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> las plantas, la esencia de las plantas es el hombre, la esencia del hombre es el habla, la esencia del habla es el Rig-veda, la esencia del Rig-veda es el Sâma-veda [^72], la esencia del Sâma-veda es el udgîtha (que es Om).
 
 3\. Ese udgîtha (Om) es la mejor de todas las esencias, la más alta, merecedora del lugar más alto [^73], el octavo.
 
@@ -58,7 +58,7 @@ Sin embargo, el relato completo de Om es éste:
 
 8\. Esa sílaba es una sílaba de permiso, pues siempre que permitimos algo, decimos Om, sí. Ahora bien, el permiso es gratificación. Quien, conociendo esto, medita en la sílaba (Om), el udgîtha, se convierte en un verdadero gratificador de deseos.
 
-9\. Por esa sílaba procede el triple conocimiento (el sacrificio, más concretamente el sacrificio Soma, fundado en los tres Vedas). Cuando el sacerdote Adhvaryu da una orden, dice Om. Cuando el sacerdote Hotri recita, dice Om. Cuando el sacerdote Udgâtri canta, dice Om, <span id="p3">[<sup><small>p. 3</small></sup>]</span> —todo para la gloria de esa sílaba. El triple conocimiento (el sacrificio) procede por la grandeza de esa sílaba (los alientos vitales) y por su esencia (las oblaciones) [^74].
+9\. Por esa sílaba procede el triple conocimiento (el sacrificio, más concretamente el sacrificio Soma, fundado en los tres Vedas). Cuando el sacerdote Adhvaryu da una orden, dice Om. Cuando el sacerdote Hotri recita, dice Om. Cuando el sacerdote Udgâtri canta, dice Om, <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> —todo para la gloria de esa sílaba. El triple conocimiento (el sacrificio) procede por la grandeza de esa sílaba (los alientos vitales) y por su esencia (las oblaciones) [^74].
 
 10\. Ahora bien, parecería deducirse que tanto quien conoce esto (el verdadero significado de la sílaba Om) como quien no lo conoce, realizan el mismo sacrificio [^75]. Pero esto no es así, pues el conocimiento y la ignorancia son diferentes. El sacrificio que un hombre realiza con conocimiento, fe y el Upanishad [^76] es más poderoso. Esta es la explicación completa de la sílaba Om.
 
@@ -72,7 +72,7 @@ Sin embargo, el relato completo de Om es éste:
 
 3\. Entonces meditaron en el udgîtha (Om) como habla, pero los asuras lo penetraron con maldad. Por eso decimos tanto la verdad como la falsedad. Pues la palabra está penetrada por la maldad.
 
-4\. Entonces meditaron en el udgîtha (Om) como el ojo, pero los asuras lo penetraron con el mal. Por lo tanto, <span id="p5">[<sup><small>p. 5</small></sup>]</span> vemos tanto lo visible como lo feo. Pues el ojo está penetrado por el mal.
+4\. Entonces meditaron en el udgîtha (Om) como el ojo, pero los asuras lo penetraron con el mal. Por lo tanto, <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> vemos tanto lo visible como lo feo. Pues el ojo está penetrado por el mal.
 
 5\. Entonces meditaron en el udgîtha (Om) como el oído, pero los asuras lo perforaron con el mal. Por lo tanto, oímos tanto lo que debe oírse como lo que no debe oírse. Pues el oído está perforado por el mal.
 
@@ -117,7 +117,7 @@ Sâman es udgîtha, y por lo tanto, cuando un hombre canta (el udgîtha, Om), no
 
 6\. Que el hombre medite en las sílabas del udgîtha, es decir, de la palabra udgîtha. Ut es aliento (prâ<i>n</i>a), pues mediante el aliento el hombre se eleva (uttish<i>th</i>ati). Gî es habla, pues las palabras se llaman gira<i>h</i>. Tha es alimento, pues mediante el alimento todo subsiste (sthita).
 
-7\. Ut es el cielo, gî el firmamento, tha la tierra. Ut es el sol, gî el aire, tha el fuego. Ut es el Sama-veda, gî el Yagûr-veda, tha el Rig-veda [^86]. <span id="p9">[<sup><small>p. 9</small></sup>]</span> El habla produce la leche, que es la leche misma del habla [^87], para quien, con este conocimiento, medita en esas <span id="p10">[<sup><small>p. 10</small></sup>]</span> sílabas del nombre de udgîtha, se enriquece con alimento y puede comer.
+7\. Ut es el cielo, gî el firmamento, tha la tierra. Ut es el sol, gî el aire, tha el fuego. Ut es el Sama-veda, gî el Yagûr-veda, tha el Rig-veda [^86]. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> El habla produce la leche, que es la leche misma del habla [^87], para quien, con este conocimiento, medita en esas <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> sílabas del nombre de udgîtha, se enriquece con alimento y puede comer.
 
 8\. A continuación sigue el cumplimiento de las oraciones. Que el hombre medite así en los Upasara<i>n</i>as, es decir, los objetos a los que debe acercarse mediante la meditación: Que él (el Udgât<i>ri</i>) reflexione rápidamente en el Sâman con el que va a alabar;
 
@@ -157,7 +157,7 @@ Sâman es udgîtha, y por lo tanto, cuando un hombre canta (el udgîtha, Om), no
 
 ## SEXTO KHA<i>N</i><i>D</i>A.
 
-1\. El <i>Ri</i><i>k</i> (veda) es esta tierra, el Sâman (veda) es fuego. Este Sâman (fuego) reposa sobre ese <i>Ri</i><i>k</i> (tierra) [^95]. Por lo tanto, se canta que el Sâman reposa sobre el <i>Ri</i><i>k</i>. <span id="p13">[<sup><small>p. 13</small></sup>]</span> Sâ es esta tierra, ama es fuego, y eso constituye a Sâma.
+1\. El <i>Ri</i><i>k</i> (veda) es esta tierra, el Sâman (veda) es fuego. Este Sâman (fuego) reposa sobre ese <i>Ri</i><i>k</i> (tierra) [^95]. Por lo tanto, se canta que el Sâman reposa sobre el <i>Ri</i><i>k</i>. <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> Sâ es esta tierra, ama es fuego, y eso constituye a Sâma.
 
 2\. El <i>Ri</i><i>k</i> es el cielo, el Sâman es el aire. Este Sâman (aire) reposa sobre ese <i>Ri</i><i>k</i> (cielo). Por lo tanto, se canta que el Sâman reposa sobre el <i>Ri</i><i>k</i>. Sâ es el cielo, ama es el aire, y eso constituye a Sâma.
 
@@ -173,7 +173,7 @@ Ahora bien, esa persona dorada [^97], que se ve dentro del sol, con barba dorada
 
 7\. Cuyos ojos son como lotos azules [^98], su nombre es ut, pues se ha elevado (udita) por encima de todo mal. Quien también conoce esto, se eleva por encima de todo mal.
 
-8\. <i>Ri</i><i>k</i> y Sâman son sus articulaciones, y por lo tanto, él es udgîtha. Y por lo tanto, quien lo alaba <span id="p14">[<sup><small>p. 14</small></sup>]</span> (el ut) se llama Ud-gât<i>ri</i> [^99] (el que canta desde fuera). Él (la persona dorada, llamada ut) es señor de los mundos más allá de ese (sol), y de todos los deseos de los Devas (que habitan esos mundos). Esto en cuanto a los Devas.
+8\. <i>Ri</i><i>k</i> y Sâman son sus articulaciones, y por lo tanto, él es udgîtha. Y por lo tanto, quien lo alaba <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> (el ut) se llama Ud-gât<i>ri</i> [^99] (el que canta desde fuera). Él (la persona dorada, llamada ut) es señor de los mundos más allá de ese (sol), y de todos los deseos de los Devas (que habitan esos mundos). Esto en cuanto a los Devas.
 
 ## SÉPTIMO KHA<i>N</i><i>D</i>A.
 
@@ -185,7 +185,7 @@ Ahora bien, esa persona dorada [^97], que se ve dentro del sol, con barba dorada
 
 4\. <i>Ri</i><i>k</i> es la luz blanca del ojo, Sâman la oscuridad azul suprema. Esta Sâman (oscuridad) reposa sobre <i>Ri</i><i>k</i> (luminosidad). Por lo tanto, se canta que Sâman reposa sobre <i>Ri</i><i>k</i>. Sâ es la luz blanca del ojo, ama la oscuridad azul suprema, y ​​eso constituye Sâma.
 
-5\. Ahora bien, la persona que se ve en el ojo es <i>Ri</i><i>k</i>, es Sâman, Uktha [^102], Ya<i>g</i>us, Brahman. La forma de esa persona (en el ojo) es la misma [^103] que la forma <span id="p15">[<sup><small>p. 15</small></sup>]</span> de la otra persona (en el sol); las articulaciones de una (<i>Ri</i><i>k</i> y Sâman) son las articulaciones de la otra, y el nombre de una (ut) es el nombre de la otra.
+5\. Ahora bien, la persona que se ve en el ojo es <i>Ri</i><i>k</i>, es Sâman, Uktha [^102], Ya<i>g</i>us, Brahman. La forma de esa persona (en el ojo) es la misma [^103] que la forma <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> de la otra persona (en el sol); las articulaciones de una (<i>Ri</i><i>k</i> y Sâman) son las articulaciones de la otra, y el nombre de una (ut) es el nombre de la otra.
 
 6\. Él es el señor de los mundos que están debajo de eso (el yo en el ojo), y de todos los deseos de los hombres. Por lo tanto, todos los que cantan al vinî<i>n</i>â (lira), le cantan, y de él también obtienen riqueza.
 
@@ -201,7 +201,7 @@ Por lo tanto, un sacerdote Udgât<i>ri</i> que sabe esto, puede decir (al sacrif
 
 1\. Había una vez tres hombres, versados ​​en udgîtha [^104]: <i>S</i>ilaka <i>S</i>âlâvatya, <i>K</i>aikitâyana, Dâlbhya y Pravâha<i>n</i>a <i>G</i>aivali. Dijeron: «Somos expertos en udgîtha. Hablemos sobre ella».
 
-2\. Todos estuvieron de acuerdo y se sentaron. Entonces Pravâha<i>n</i>a <i>G</i>aivali [^105] dijo: «Señores, hablen ustedes primero, <span id="p16">[<sup><small>p. 16</small></sup>]</span>, pues deseo escuchar lo que dos brahmanes [^106] tienen que decir».
+2\. Todos estuvieron de acuerdo y se sentaron. Entonces Pravâha<i>n</i>a <i>G</i>aivali [^105] dijo: «Señores, hablen ustedes primero, <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>, pues deseo escuchar lo que dos brahmanes [^106] tienen que decir».
 
 3\. Entonces <i>S</i>ilaka <i>S</i>âlâvatya le dijo a <i>K</i>aikitâyana Dâlbhya: 'Déjame preguntarte.'
 
@@ -231,7 +231,7 @@ Por lo tanto, un sacerdote Udgât<i>ri</i> que sabe esto, puede decir (al sacrif
 
 —¿Y cuál es el origen de este mundo?
 
-Él respondió: «Que nadie lleve el Sâman más allá de este mundo como su descanso. Nosotros colocamos el Sâman <span id="p17">[<sup><small>p. 17</small></sup>]</span> en este mundo como su descanso, pues el Sâman es ensalzado como descanso».
+Él respondió: «Que nadie lleve el Sâman más allá de este mundo como su descanso. Nosotros colocamos el Sâman <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> en este mundo como su descanso, pues el Sâman es ensalzado como descanso».
 
 8\. Entonces Pravâha<i>n</i>a <i>G</i>aivali</i> le dijo a <i>S</i>ilaka <i>S</i>âlâvatya: «Tu Sâman (la tierra), oh <i>S</i>âlâvatya, tiene un fin. Y si alguien dijera: «Si te equivocas, se te caerá la cabeza», seguramente se te caerá».
 
@@ -267,7 +267,7 @@ Aquel que sabiendo esto medita en el udgîtha, lo más grande que grande, obtien
 
 5\. Después de comer, Ushasti le dio las habas restantes a su esposa. Pero ella, como ya había comido, las tomó y las guardó.
 
-6\. Al levantarse a la mañana siguiente, Ushasti le dijo: «¡Ay! Si pudiéramos conseguir algo de comida, podríamos enriquecernos. El rey va a ofrecer un sacrificio; debería elegirme para todos los oficios sacerdotales». <span id="p19">[<sup><small>p. 19</small></sup>]</span> 7\. Su esposa le dijo: «Mira, aquí tienes esos frijoles». Después de comerlos, fue al sacrificio que se estaba realizando.
+6\. Al levantarse a la mañana siguiente, Ushasti le dijo: «¡Ay! Si pudiéramos conseguir algo de comida, podríamos enriquecernos. El rey va a ofrecer un sacrificio; debería elegirme para todos los oficios sacerdotales». <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> 7\. Su esposa le dijo: «Mira, aquí tienes esos frijoles». Después de comerlos, fue al sacrificio que se estaba realizando.
 
 8\. Fue y se sentó en la orquesta cerca de los Udgât<i>ri</i>s, quienes iban a cantar sus himnos de alabanza. Y le dijo al Prastot<i>ri</i> (el líder):
 
@@ -283,7 +283,7 @@ Se detuvieron y se sentaron en silencio.
 
 1\. Entonces el sacrificador le dijo: «Me gustaría saber quién es usted, señor». Él respondió: «Soy Ushasti Kâkrâya nâ».
 
-2\. Dijo: «Te busqué, Señor, para todos estos oficios sacrificiales, pero al no encontrarte [^112], elegí otros». <span id="p20">[<sup><small>p. 20</small></sup>]</span> 3\. «Pero ahora, Señor, asume todos los oficios sacrificiales».
+2\. Dijo: «Te busqué, Señor, para todos estos oficios sacrificiales, pero al no encontrarte [^112], elegí otros». <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> 3\. «Pero ahora, Señor, asume todos los oficios sacrificiales».
 
 Ushasti dijo: «Muy bien; pero que ellos, con mi permiso, interpreten los himnos de alabanza. Solo la riqueza que les des, me la darás también a mí».
 
@@ -299,7 +299,7 @@ El sacrificador asintió.
 
 8\. Entonces el Pratihart<i>ri</i> se acercó a él y le dijo: «Señor, me dijiste: “Pratihart<i>ri</i>, si vas a cantarlo sin conocer la deidad del pratihâra, te decapitarás”. ¿Cuál es entonces esa deidad?»
 
-9\. Dijo: «Comida (anna). Porque todos estos seres <span id="p21">[<sup><small>p. 21</small></sup>]</span> viven cuando participan de la comida. Esta es la deidad que pertenece al pratihâra. Si, sin conocer a esa deidad, hubieras cantado tus himnos, se te habría caído la cabeza, después de haberte advertido [1](Khandogya_1#fn113)».
+9\. Dijo: «Comida (anna). Porque todos estos seres <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> viven cuando participan de la comida. Esta es la deidad que pertenece al pratihâra. Si, sin conocer a esa deidad, hubieras cantado tus himnos, se te habría caído la cabeza, después de haberte advertido [1](Khandogya_1#fn113)».
 
 ## DUODÉCIMO KHAND.
 

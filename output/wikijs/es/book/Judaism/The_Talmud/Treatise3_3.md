@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. «¿Un horno de cocina calentado con rastrojo o leña?» «Pueden ponerle comida.» «¿Con restos de aceite y leña?» «No deben ponerlo hasta que se hayan retirado las brasas o se hayan echado las cenizas.» La escuela de Shamai dice: «Agua caliente, pero no comida.» Pero la escuela <span id="p87">[<sup><small>p. 87</small></sup>]</span> de Hillel dice: «Agua caliente y comida.» La escuela de Shamai dice: «Pueden quitarlo, pero no devolverlo.» Pero la escuela de Hillel dice: «Pueden devolverlo.»
+1\. «¿Un horno de cocina calentado con rastrojo o leña?» «Pueden ponerle comida.» «¿Con restos de aceite y leña?» «No deben ponerlo hasta que se hayan retirado las brasas o se hayan echado las cenizas.» La escuela de Shamai dice: «Agua caliente, pero no comida.» Pero la escuela <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> de Hillel dice: «Agua caliente y comida.» La escuela de Shamai dice: «Pueden quitarlo, pero no devolverlo.» Pero la escuela de Hillel dice: «Pueden devolverlo.»
 
 2\. «¿Una estufa que se calentaba con rastrojo o leña?» «No deben colocar nada dentro ni encima». «¿Un horno que se calentaba con rastrojo o leña?» «Es como un horno de cocina». «¿Con restos de aceite o con leña?» «Es como una estufa de cocina».
 

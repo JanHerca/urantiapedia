@@ -44,7 +44,7 @@ La Escuela de Shammai dice: Se pronuncia la bendición del día y, después, la 
 
 La Escuela de Hillel dice: Se pronuncia la Bendición sobre el vino y luego sobre el día. Pues el vino lleva consigo la palabra de santificación del día. [^399] Otra razón dada es: La Bendición del vino es constante, pero la Bendición del día no lo es. [^400] Y la Regla se ajusta a las palabras de la Escuela de Hillel.
 
-III. 8. La cuestión de honrar el día y honrar la noche. El honor del día <span id="p66">[<sup><small>p. 66</small></sup>]</span>
+III. 8. La cuestión de honrar el día y honrar la noche. El honor del día <span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
  tiene prioridad sobre honrar la noche. [^401] Si uno toma sólo una copa (de vino), la santificación del día tiene prioridad sobre honrar el día y honrar la noche. [^402]
 
 En el caso de las noches de sábado y de los días festivos, en ambas se pronuncia la santificación del día sobre la copa, y en ambas se menciona la santidad del día en la bendición después de la comida. [^403]
@@ -59,7 +59,7 @@ El sábado, los días de fiesta, el primer día del mes y los días de semana de
 
 **T**. VI. 2. La Escuela de Shammai dice: Los hombres se lavan las manos y luego mezclan la copa. Quizás cualquier humedad que quede en el exterior de la copa [^406] se impure al entrar en contacto con las manos, y la copa vuelva a impura.
 
-Pero la escuela de Hillel dice: El exterior de la copa es impuro en cualquier caso. Otra razón dada <span id="p67">[<sup><small>p. 67</small></sup>]</span> es: El lavado de manos solo se asocia a una comida. (Por lo tanto) los hombres mezclan la copa y luego se lavan las manos. [^407]
+Pero la escuela de Hillel dice: El exterior de la copa es impuro en cualquier caso. Otra razón dada <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> es: El lavado de manos solo se asocia a una comida. (Por lo tanto) los hombres mezclan la copa y luego se lavan las manos. [^407]
 
 <a id="m3"></a>
 
@@ -119,7 +119,7 @@ En el Aula de Conferencias, la Escuela de Shammai dice: Una persona dice la Bend
 
 7 (6). No dicen la bendición sobre la lámpara ni sobre las especias que pertenecen a los paganos; [^423] ni sobre la lámpara ni sobre las especias que son para los muertos; [^424] ni sobre la lámpara ni sobre las especias que pertenecen a la idolatría. [^425] No dicen la bendición sobre la lámpara hasta que disfrutan de su luz.
 
-**T**. VI. 7. Si alguien tiene una lámpara (_nêr_) escondida en su seno, [^426] o dentro de una linterna y ve la llama <span id="p71">[<sup><small>p. 71</small></sup>]</span> sin usar su luz, o usa su luz sin ver la llama, no se reza la Bendición [^427] sobre ella hasta que vea la llama y use su luz. Si se trata de una linterna con cristal, se reza la Bendición sobre ella, aunque no se apague. [^428]
+**T**. VI. 7. Si alguien tiene una lámpara (_nêr_) escondida en su seno, [^426] o dentro de una linterna y ve la llama <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> sin usar su luz, o usa su luz sin ver la llama, no se reza la Bendición [^427] sobre ella hasta que vea la llama y use su luz. Si se trata de una linterna con cristal, se reza la Bendición sobre ella, aunque no se apague. [^428]
 
 En el caso de una lámpara perteneciente a un gentil, no se pronuncia la bendición sobre ella. Tanto si un israelita enciende su lámpara con la de un gentil, como si un gentil enciende su lámpara con la de un israelita, se pronuncia la bendición sobre ella en ambos casos.
 
@@ -155,7 +155,7 @@ V. 21. En el caso de un pagano que dice la bendición en el nombre (del Idán), 
 
 23\. Si diez van de viaje, aunque todos coman de un mismo pan, [^444] cada uno reza la bendición por sí mismo. Si se han sentado a comer, aunque cada uno coma de su propio pan, uno reza la bendición por todos. [^445]
 
-24\. En el caso de los obreros que trabajan cerca del dueño de casa, estos dicen dos bendiciones. Uno dice la primera bendición, <span id="p74">[<sup><small>p. 74</small></sup>]</span>, e incluye la bendición por Jerusalén [^446] junto con la bendición por la tierra [^447] y la sella con la bendición por la tierra. Si trabajan con él para ganarse la vida [^448] o el dueño de casa dice la bendición por ellos, se dicen cuatro bendiciones. [^449]
+24\. En el caso de los obreros que trabajan cerca del dueño de casa, estos dicen dos bendiciones. Uno dice la primera bendición, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>, e incluye la bendición por Jerusalén [^446] junto con la bendición por la tierra [^447] y la sella con la bendición por la tierra. Si trabajan con él para ganarse la vida [^448] o el dueño de casa dice la bendición por ellos, se dicen cuatro bendiciones. [^449]
 
 
 <figure class="table chapter-navigator">

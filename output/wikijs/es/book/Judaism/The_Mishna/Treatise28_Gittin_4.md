@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 8. Cuando una persona se divorcia de su esposa por ser incapacitada para tener hijos, no puede volver a casarse con ella, según R. Yehudah, pero los sabios lo permiten. Si se casó con otro esposo, tuvo hijos con él y luego reclama su Ketubá del primer esposo, este puede responderle: «Mejor te hubieras callado que hablado». [^1020]
 
-§ 9. Cuando una persona se vende a sí misma y a sus hijos como esclavos a extranjeros, no debe ser rescatada, pero sus hijos sí lo serán después de su muerte. Cuando una persona vende su campo a un extranjero y un israelita se lo compra, el comprador <span id="p290">[<sup><small>p. 290</small></sup>]</span> debe presentar la ofrenda de las primicias para la preservación del orden social. [^1021]
+§ 9. Cuando una persona se vende a sí misma y a sus hijos como esclavos a extranjeros, no debe ser rescatada, pero sus hijos sí lo serán después de su muerte. Cuando una persona vende su campo a un extranjero y un israelita se lo compra, el comprador <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> debe presentar la ofrenda de las primicias para la preservación del orden social. [^1021]
 
 
 

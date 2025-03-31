@@ -44,7 +44,7 @@ Los reyes de la tierra se postran ante Él en súplica.
 
 Él no retiene Su generosidad aunque Sus siervos pequen; sobre la superficie de la tierra mentirosa Él preparó un banquete, en el que tanto amigos como enemigos pueden compartir.
 
-Él es incomparable, y su reino es eterno. Sobre la cabeza de uno pone una <span id="p26">[<sup><small>p. 26</small></sup>]</span> corona; a otro lo arroja del trono al suelo.
+Él es incomparable, y su reino es eterno. Sobre la cabeza de uno pone una <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> corona; a otro lo arroja del trono al suelo.
 
 El fuego de su amigo convierte en un jardín de flores; a través de las aguas del Nilo envía a sus enemigos a la perdición.
 
@@ -64,7 +64,7 @@ El pájaro del pensamiento no puede elevarse a la altura de Su presencia, ni la 
 
 No pienses, oh Sadi, que uno puede caminar por el camino de la pureza excepto siguiendo los pasos de Muhammad.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Él es el patriarca de los profetas, el guía del camino de la salvación, el mediador de la humanidad y el jefe del Tribunal de Juicio. ¿Qué alabanzas puedes pronunciar Sadi? ¡La misericordia de Dios sea contigo, oh Profeta, y la paz!
 
@@ -74,7 +74,7 @@ Viajé por muchas regiones del globo y pasé los días en compañía de muchos h
 
 Lamenté tener que irme del jardín del mundo con las manos vacías a casa de mis amigos y reflexioné: «Los viajeros traen azúcar cande de Egipto como regalo a sus amigos. Aunque no tengo caramelos, tengo palabras más dulces. El azúcar que traigo no es el que se come, sino el que los conocedores de la verdad se llevan con respeto».
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Cuando construí este Palacio de la Riqueza, [1](/es/book/Islam/The_Bustan/Notes#n1) Lo equipé con diez puertas de instrucción. [2](/es/book/Islam/The_Bustan/Notes#n2)
 
@@ -84,10 +84,10 @@ Sin duda, mis composiciones son apreciadas en Persia como el inestimable almizcl
 
 ## SOBRE ATABAK ABU BAKR, HIJO DE SAD [4](/es/book/Islam/The_Bustan/Notes#n4)
 
-Aunque no quiero escribir en alabanza de reyes, he inscrito este libro a nombre de uno en particular para que tal vez los piadosos puedan decir: Sadi, que superó a todos en elocuencia, <span id="p29">[<sup><small>p. 29</small></sup>]</span> vivió en la época de Abu Bakr, el hijo de Sad". Así, en este libro su memoria permanecerá mientras la luna y el sol estén en los cielos. Incontables son sus virtudes: que el mundo cumpla sus deseos, los cielos sean sus amigos y el Creador sea su guardián.
+Aunque no quiero escribir en alabanza de reyes, he inscrito este libro a nombre de uno en particular para que tal vez los piadosos puedan decir: Sadi, que superó a todos en elocuencia, <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> vivió en la época de Abu Bakr, el hijo de Sad". Así, en este libro su memoria permanecerá mientras la luna y el sol estén en los cielos. Incontables son sus virtudes: que el mundo cumpla sus deseos, los cielos sean sus amigos y el Creador sea su guardián.
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

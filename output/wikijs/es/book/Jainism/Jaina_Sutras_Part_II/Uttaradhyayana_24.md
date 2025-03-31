@@ -36,7 +36,7 @@ VIGÉSIMA CUARTA LECCIÓN. EL SAMITIS.
 
 Los ocho artículos [^326] del credo son los Samitis y los Guptis; hay cinco Samitis y tres Guptis. (1)
 
-Español Los Samitis [^327] son: 1. îryâ-samiti (ir por caminos transitados por hombres, bestias, carros, etc., y mirar cuidadosamente para no ocasionar la muerte de ninguna criatura viviente); 2. bhâshâ-samiti (habla gentil, saludable, dulce y justa); 3. êsha<i>n</i>â-samiti (recibir limosna de una manera que evite las cuarenta y dos faltas que se establecen); 4. âdâna-samiti (recibir y guardar las cosas necesarias para los <span id="p130">[<sup><small>p. 130</small></sup>]</span> ejercicios religiosos, después de haberlos examinado cuidadosamente); 5. u<i>k</i><i>k</i>âra-samiti (realizar las operaciones de la naturaleza en un lugar poco frecuentado). Los tres Guptis (que aquí se incluyen en el término Samiti en su aplicación más amplia) son: 1. mano-gupti (evitar que la mente divague en el bosque de los placeres sensuales empleándola en la contemplación, el estudio, etc.); 2. vâg-gupti (evitar que la lengua diga cosas malas mediante un voto de silencio, etc.); 3. kâya-gupti (poner el cuerpo en una postura inamovible como en el caso de Kâyôtsarga). (2)
+Español Los Samitis [^327] son: 1. îryâ-samiti (ir por caminos transitados por hombres, bestias, carros, etc., y mirar cuidadosamente para no ocasionar la muerte de ninguna criatura viviente); 2. bhâshâ-samiti (habla gentil, saludable, dulce y justa); 3. êsha<i>n</i>â-samiti (recibir limosna de una manera que evite las cuarenta y dos faltas que se establecen); 4. âdâna-samiti (recibir y guardar las cosas necesarias para los <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> ejercicios religiosos, después de haberlos examinado cuidadosamente); 5. u<i>k</i><i>k</i>âra-samiti (realizar las operaciones de la naturaleza en un lugar poco frecuentado). Los tres Guptis (que aquí se incluyen en el término Samiti en su aplicación más amplia) son: 1. mano-gupti (evitar que la mente divague en el bosque de los placeres sensuales empleándola en la contemplación, el estudio, etc.); 2. vâg-gupti (evitar que la lengua diga cosas malas mediante un voto de silencio, etc.); 3. kâya-gupti (poner el cuerpo en una postura inamovible como en el caso de Kâyôtsarga). (2)
 
 Se enumeran así brevemente los ocho Samitis, en los que se comprende todo el credo enseñado por las Ginas y expuesto en los doce Aṅgas. (3)
 
@@ -48,13 +48,13 @@ El esfuerzo es cuádruple, a saber: 1. sustancia, 2. lugar, 3. tiempo y 4. estad
 
 Con respecto a la sustancia: el (monje que camina) debe mirar con sus ojos; con respecto al lugar: el espacio de un yuga (es decir, cuatro hastas o codos); con respecto al tiempo: mientras camina; y con respecto a la condición de la mente: cuidadosamente [^330]. (7)
 
-Camina con cuidado quien presta atención sólo a <span id="p131">[<sup><small>p. 131</small></sup>]</span> su andar y a su cuerpo (al ejecutarlo), mientras que evita atender a los objetos de los sentidos, pero (se ocupa) de su estudio, este último en las cinco formas [^331]. (8)
+Camina con cuidado quien presta atención sólo a <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> su andar y a su cuerpo (al ejecutarlo), mientras que evita atender a los objetos de los sentidos, pero (se ocupa) de su estudio, este último en las cinco formas [^331]. (8)
 
 2\. Ceder a la ira, el orgullo, el engaño y la codicia, la risa, el miedo, la locuacidad y la calumnia [^332]; estas ocho faltas deben ser evitadas por un monje disciplinado; debe usar un lenguaje intachable y conciso en el momento oportuno. (9, 10)
 
 3\. En cuanto a la mendicidad [^333], el monje debe evitar las faltas en la búsqueda [^334], en la recepción [^335] y en el uso [^336] de los tres tipos de objetos: comida, artículos de uso y alojamiento. (11)
 
-Un monje celoso debe evitar, en primer lugar (es decir, al buscar limosna), las faltas ocasionadas tanto por quien da (udgama) como por quien recibe (utpâdana); en segundo lugar (es decir, al recibir limosna), las faltas inherentes a la recepción; y en el uso de los artículos recibidos, las cuatro faltas [^337]. (12) <span id="p132">[<sup><small>p. 132</small></sup>]</span> 4\. Si un monje asume o deja los dos tipos de cosas que pertenecen a su vestimenta general y <span id="p133">[<sup><small>p. 133</small></sup>]</span> complementaria [^338], debe proceder de la siguiente manera. (13)
+Un monje celoso debe evitar, en primer lugar (es decir, al buscar limosna), las faltas ocasionadas tanto por quien da (udgama) como por quien recibe (utpâdana); en segundo lugar (es decir, al recibir limosna), las faltas inherentes a la recepción; y en el uso de los artículos recibidos, las cuatro faltas [^337]. (12) <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> 4\. Si un monje asume o deja los dos tipos de cosas que pertenecen a su vestimenta general y <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> complementaria [^338], debe proceder de la siguiente manera. (13)
 
 <span id="p134">[<sup><small>pág. 134</small></sup>]</span>
 
@@ -64,7 +64,7 @@ Un monje celoso debe limpiar la cosa después de haberla inspeccionado con sus o
 
 \[Un lugar puede no ser frecuentado y no ser visto (por la gente), o no ser frecuentado pero ser visto, o ser frecuentado y no ser visto, o ser frecuentado y ser visto. (16)\] [^340]
 
-En un lugar poco frecuentado ni visto por otras personas, que no ofrezca obstáculos al autocontrol, que sea uniforme, que no esté cubierto de hierba ni hojas [^341], y que haya sido <span id="p135">[<sup><small>p. 135</small></sup>]</span> llevado a su estado actual [^342] hace poco, que sea espacioso, tenga una capa superficial inanimada [^343], que no esté demasiado cerca (del pueblo, etc.), que no esté perforado por agujeros y que esté libre de insectos y semillas; en ese lugar debería dejar sus excrementos, etc. (17, 18)
+En un lugar poco frecuentado ni visto por otras personas, que no ofrezca obstáculos al autocontrol, que sea uniforme, que no esté cubierto de hierba ni hojas [^341], y que haya sido <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> llevado a su estado actual [^342] hace poco, que sea espacioso, tenga una capa superficial inanimada [^343], que no esté demasiado cerca (del pueblo, etc.), que no esté perforado por agujeros y que esté libre de insectos y semillas; en ese lugar debería dejar sus excrementos, etc. (17, 18)
 
 Una vez enumerados brevemente los cinco Samitis, ahora explicaré en el orden debido los tres Guptis [^344]. (19)
 
@@ -76,7 +76,7 @@ Un monje celoso debe evitar que su mente desee la desgracia de los demás [^346]
 
 Un monje celoso debe evitar que sus palabras expresen deseos, etc. (como en el versículo 21). (23)
 
-3\. Al estar de pie, sentado, acostado, saltando, caminando y al usar sus órganos, un monje celoso debe evitar que su cuerpo incite deseos desagradables, <span id="p136">[<sup><small>p. 136</small></sup>]</span> y cometer actos que causen miseria a los seres vivos o que provoquen su destrucción. (24, 25)
+3\. Al estar de pie, sentado, acostado, saltando, caminando y al usar sus órganos, un monje celoso debe evitar que su cuerpo incite deseos desagradables, <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> y cometer actos que causen miseria a los seres vivos o que provoquen su destrucción. (24, 25)
 
 Éstos son los cinco Samitis para la práctica de la vida religiosa y los Guptis para la prevención de todo lo pecaminoso. (26)
 
@@ -137,7 +137,7 @@ Así lo digo.
 [^338]: 131:7 Hay en total cuarenta y seis faltas que deben evitarse. Dado que se alude a ellas con frecuencia en los textos sagrados, será útil enumerarlas y describirlas sistemáticamente según el Dîpikâ.
   Hay dieciséis udgama-dôshas por los cuales la comida, etc., se vuelve inadecuada para un monje <i>G</i>aina:
   1\. Âdhâkarmika, el defecto inherente a la comida, etc., que un laico ha preparado especialmente para mendicantes religiosos de cualquier secta.
-  2\. Auddê<i>s</i>ika, es comida, etc., que un laico ha preparado para un monje en particular. <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+  2\. Auddê<i>s</i>ika, es comida, etc., que un laico ha preparado para un monje en particular. <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
   3\. Pûtika, es alimento, etc., que es puro en su conjunto, pero que contiene partículas impuras debido a la primera falta.
   4\. Unmi<i>s</i>ra, es comida, etc., de la cual sólo una parte había sido preparada especialmente para el monje en cuestión.
   5\. Sthâpanâkarmika, es el alimento, etc., que ha sido reservado para el monje.
@@ -157,7 +157,7 @@ Así lo digo.
   1\. Dhâtrîkarman, cuando el monje juega con los hijos del laico.
   2\. Dûtakarman, cuando le da información sobre lo que está haciendo su gente.
   3\. Nimitta, cuando habla en alabanza de la limosna.
-  4\. Â<i>g</i>îvikâ, cuando le revela su nacimiento y su familia. <span id="p133">[<sup><small>p. 133</small></sup>]</span> 5\. Vapanîka, cuando se explaya sobre su miseria.
+  4\. Â<i>g</i>îvikâ, cuando le revela su nacimiento y su familia. <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> 5\. Vapanîka, cuando se explaya sobre su miseria.
   6\. <i>K</i>ikitsâ, cuando cura a los enfermos.
   7\. Krôdhapi<i>n</i><i>d</i>a, cuando extorsiona limosna mediante amenazas.
   8\. Mânapi<i>n</i><i>d</i>a, cuando le dice al laico que ha hecho una apuesta con otros monjes de que recibiría limosna de él.
@@ -179,7 +179,7 @@ Así lo digo.
   7\. Unmi<i>s</i>rita, cuando el laico mezcla alimentos puros con impuros.
   8\. Aparita (?), cuando uno de los copropietarios cede parte del bien contra la voluntad del otro.
   9\. Lipta, cuando el laico da comida, etc., con un cucharón o con la mano, manchada con leche, mantequilla, etc.
-  10\. <i>Kh</i>ardita, cuando al dar limosna derrama leche, etc. <span id="p134">[<sup><small>p. 134</small></sup>]</span>
+  10\. <i>Kh</i>ardita, cuando al dar limosna derrama leche, etc. <span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
   Hay cuatro faltas del paribhôgaisha<i>n</i>â:
   1\. Sa<i>m</i>yô<i>g</i>anâ, cuando el monje reúne los ingredientes para una buena comida.
   2\. Apramâ<i>n</i>a, cuando acepta una cantidad de comida mayor a la prescrita.

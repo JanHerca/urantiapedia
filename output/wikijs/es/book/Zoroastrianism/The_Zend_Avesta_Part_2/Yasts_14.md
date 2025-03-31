@@ -114,7 +114,7 @@ Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico
 
 Ahura Mazda respondió: '¡Es Verethraghna, hecho por Ahura, oh Spitama Zarathustra!'
 
-9\. Verethraghna, creado por Ahura, se le acercó por tercera vez, corriendo en la forma de un hermoso caballo blanco, con orejas amarillas y una capa dorada; sobre cuya frente flotaban la bien formada Fuerza, <span id="p234">[<sup><small>p. 234</small></sup>]</span> y la Victoria, de hermosa forma, creadas por Ahura: así llegó, portando la buena Gloria, creada por Mazda, que es a la vez salud y fuerza.
+9\. Verethraghna, creado por Ahura, se le acercó por tercera vez, corriendo en la forma de un hermoso caballo blanco, con orejas amarillas y una capa dorada; sobre cuya frente flotaban la bien formada Fuerza, <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> y la Victoria, de hermosa forma, creadas por Ahura: así llegó, portando la buena Gloria, creada por Mazda, que es a la vez salud y fuerza.
 
 Entonces él, que es el más fuerte, le dijo: "Yo soy el más fuerte en fuerza..."
 
@@ -136,7 +136,7 @@ Ahura Mazda respondió: '¡Es Verethraghna, hecho por Ahura, oh Spitama Zarathus
 
 12\. ¿Cuál de todos los machos en celo muestra mayor fuerza y ​​mayor ardor al acercarse a sus hembras? De todas las hembras, las mejor cuidadas son las que un camello de carga mantiene, las que tienen patas delanteras gruesas y jorobas grandes,... [^1045], ojos vivaces, cabeza alargada, brillantes, altas y fuertes;
 
-13\. Cuya mirada penetrante llega lejos... [^1046], incluso en la oscuridad de la noche; que arroja espuma blanca <span id="p235">[<sup><small>p. 235</small></sup>]</span> por la boca; de rodillas y pies firmes, de pie con el rostro de un amo todopoderoso:
+13\. Cuya mirada penetrante llega lejos... [^1046], incluso en la oscuridad de la noche; que arroja espuma blanca <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> por la boca; de rodillas y pies firmes, de pie con el rostro de un amo todopoderoso:
 
 Así llegó Verethraghna, trayendo la buena Gloria hecha por Mazda, la Gloria hecha por Mazda...
 
@@ -160,7 +160,7 @@ Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico
 
 '¿Quién es el mejor armado de los dioses celestiales?'
 
-Ahura Mazda respondió: «¡Es Verethraghna, creado por Ahura, oh Spitama Zarathu<i>s</i>tra!» <span id="p236">[<sup><small>p. 236</small></sup>]</span> 17\. Verethraghna, creado por Ahura, se le presentó por sexta vez, corriendo en la forma de un hermoso joven de quince años, brillante, de ojos claros y talones finos.
+Ahura Mazda respondió: «¡Es Verethraghna, creado por Ahura, oh Spitama Zarathu<i>s</i>tra!» <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> 17\. Verethraghna, creado por Ahura, se le presentó por sexta vez, corriendo en la forma de un hermoso joven de quince años, brillante, de ojos claros y talones finos.
 
 Así llegó Verethraghna, trayendo la buena Gloria hecha por Mazda, la Gloria hecha por Mazda...
 
@@ -206,7 +206,7 @@ Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico
 
 '¿Quién es el mejor armado de los dioses celestiales?'
 
-Ahura Mazda respondió: «¡Es Verethraghna, creado por Ahura, oh Spitama Zarathu<i>s</i>tra!» <span id="p238">[<sup><small>p. 238</small></sup>]</span> 25\. Verethraghna, creado por Ahura, se le presentó por novena vez, corriendo en la forma de un hermoso ciervo de pelea, con cuernos afilados.
+Ahura Mazda respondió: «¡Es Verethraghna, creado por Ahura, oh Spitama Zarathu<i>s</i>tra!» <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 25\. Verethraghna, creado por Ahura, se le presentó por novena vez, corriendo en la forma de un hermoso ciervo de pelea, con cuernos afilados.
 
 Así llegó Verethraghna, trayendo la buena Gloria hecha por Mazda, la Gloria hecha por Mazda. . . .
 
@@ -230,7 +230,7 @@ Así llegó Verethraghna, trayendo la buena Gloria hecha por Mazda, la Gloria he
 
 A él le ofreció el santo Zaratustra un sacrificio, pidiendo un pensar victorioso, una hablar victoriosa, una obra victoriosa, una hablar victoriosa y una responder victoriosa.
 
-29\. Verethraghna, creado por Ahura, le dio las <span id="p239">[<sup><small>p. 239</small></sup>]</span> fuentes de virilidad [^1056], la fuerza de los brazos, la salud de todo el cuerpo, la robustez de todo el cuerpo y la vista del pez Kara [^1057], que vive bajo las aguas y puede medir [^1058] una ondulación del agua, no más gruesa que un cabello, en el Rangha cuyos extremos se encuentran lejos, cuya profundidad es mil veces la altura de un hombre [^1059].
+29\. Verethraghna, creado por Ahura, le dio las <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> fuentes de virilidad [^1056], la fuerza de los brazos, la salud de todo el cuerpo, la robustez de todo el cuerpo y la vista del pez Kara [^1057], que vive bajo las aguas y puede medir [^1058] una ondulación del agua, no más gruesa que un cabello, en el Rangha cuyos extremos se encuentran lejos, cuya profundidad es mil veces la altura de un hombre [^1059].
 
 Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
@@ -274,7 +274,7 @@ Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico
 
 38\. 'Todos tiemblan ante aquel que sostiene la pluma, tiemblan por tanto ante mí; todos mis enemigos tiemblan ante mí y temen mi fuerza y ​​mi poder victorioso y la fiereza establecida en mi cuerpo.
 
-39\. 'Él [^1068] lleva el carro de los señores; lleva los carros de los señores, los carros de los soberanos. Llevó el carro de Kavi <span id="p242">[<sup><small>p. 242</small></sup>]</span> Usa [^1069]; sobre sus alas corre el caballo [^1070], corre el camello cargado, corre el agua del río.
+39\. 'Él [^1068] lleva el carro de los señores; lleva los carros de los señores, los carros de los soberanos. Llevó el carro de Kavi <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> Usa [^1069]; sobre sus alas corre el caballo [^1070], corre el camello cargado, corre el agua del río.
 
 40\. 'Sobre él cabalgaba el valiente Thraêtaona, que derrotó a A<i>z</i>i Dahâka, el de tres bocas, el de tres cabezas, el de seis ojos, que tenía mil sentidos; esa poderosa y diabólica Droga, ese demonio, funesto para el mundo, la Droga más fuerte que Angra Mainyu creó contra el mundo material, para destruir el mundo del buen principio [^1071].
 
@@ -316,7 +316,7 @@ Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico
 
 51\. 'Que no tome de esas ofrendas ningún asesino, ni ninguna prostituta, ni ningún... que no cante los Gâthâs, que propague la muerte en el mundo y se resista a la ley de Mazda, la ley de Zarathu<i>s</i>tra.
 
-52\. «Si un asesino, o una prostituta, o alguien que no canta los Gâthâs, acepta alguna de esas ofrendas, entonces Verethraghna, creado por Ahura, recupera sus virtudes curativas. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 53\. «Las plagas azotarán constantemente a las naciones arias; hordas hostiles caerán sobre ellas; los arios serán azotados por cincuenta y cientos, por cientos y miles, por miles y decenas de miles, por decenas de miles y miríadas de miríadas».
+52\. «Si un asesino, o una prostituta, o alguien que no canta los Gâthâs, acepta alguna de esas ofrendas, entonces Verethraghna, creado por Ahura, recupera sus virtudes curativas. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 53\. «Las plagas azotarán constantemente a las naciones arias; hordas hostiles caerán sobre ellas; los arios serán azotados por cincuenta y cientos, por cientos y miles, por miles y decenas de miles, por decenas de miles y miríadas de miríadas».
 
 54\. Allí Verethraghna, hecho por Ahura, proclamó así: 'El Alma del Toro [^1082], la criatura sabia, no recibe del hombre el debido sacrificio y oración; porque ahora los Daêvas y los adoradores de los Daêvas hacen fluir la sangre y la derraman como agua;
 
@@ -372,7 +372,7 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 63\. Sacrificamos a Verethraghna, hecho por Ahura.
 
-Cuando Verethraghna, hecha por Ahura, ata las manos, confunde la vista, quita el oído <span id="p248">[<sup><small>p. 248</small></sup>]</span> de los oídos de los Mitradru<i>g</i>es [^1094] que marchan en columnas, aliados por las ciudades, ya no pueden mover sus pies, ya no pueden resistir.
+Cuando Verethraghna, hecha por Ahura, ata las manos, confunde la vista, quita el oído <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> de los oídos de los Mitradru<i>g</i>es [^1094] que marchan en columnas, aliados por las ciudades, ya no pueden mover sus pies, ya no pueden resistir.
 
 Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 

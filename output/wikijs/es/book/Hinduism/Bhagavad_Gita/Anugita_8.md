@@ -52,7 +52,7 @@ Brahman dijo:
 
 El Prâ<i>n</i>a dijo:
 
-Cuando me extingo, todos los vientos vitales del cuerpo <span id="p272">[<sup><small>p. 272</small></sup>]</span> de los seres vivos se extinguen; y al moverme, ellos vuelven a moverse. Soy el más grande. ¡Miren, me he extinguido!
+Cuando me extingo, todos los vientos vitales del cuerpo <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> de los seres vivos se extinguen; y al moverme, ellos vuelven a moverse. Soy el más grande. ¡Miren, me he extinguido!
 
 El Brâhma<i>n</i>a dijo:
 

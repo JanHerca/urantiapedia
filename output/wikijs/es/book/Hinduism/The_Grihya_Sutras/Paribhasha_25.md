@@ -62,9 +62,9 @@ El sacrificio es para los tres colores o castas (var<i>n</i>a), para los Brâhma
 
 **Comentario.**
 
-Aunque el sacrificio está destinado a las tres castas, aquí llamadas var<i>n</i>a, es decir, color, la tercera casta, la de los vai<i>n</i>ya o ciudadanos, se menciona por sí sola, mientras que las dos castas, los brâhma<i>n</i>as y los râ<i>n</i>anyas (los kshatriyas o nobles), se mencionan juntas. Esto se debe a que hay ciertos sacrificios (bahuya<i>n</i>amâna), realizados por brâhma<i>n</i>as y râ<i>n</i>anyas juntos, en los que los vai<i>n</i>yas no participan. En los <i>S</i>âṅkhâyana-sûtras, I, 1, 3, también <span id="p316">[<sup><small>p. 316</small></sup>]</span> El vai<i>n</i>ya es mencionado por sí mismo. Sin embargo, en los sutras del Kâtyâyana no se hace tal distinción. Y leemos, I, 6, Brâhma<i>n</i>a-râ<i>n</i>anya-vai<i>n</i>yânâ_m<i>n</i>s<i>n</i>h_. Las mujeres, si están debidamente casadas, pueden participar en los sacrificios, pero nadie puede estar acompañado por una mujer sudra, aunque sea su esposa. Un brahmán debe casarse solo con una esposa de su propia casta. Un kshatriya puede casarse con una mujer de su propia casta o de la casta brahmán. La esposa adecuada de un vainya debe ser de su propia casta. Véase, sin embargo, Manu III, 12 y siguientes.
+Aunque el sacrificio está destinado a las tres castas, aquí llamadas var<i>n</i>a, es decir, color, la tercera casta, la de los vai<i>n</i>ya o ciudadanos, se menciona por sí sola, mientras que las dos castas, los brâhma<i>n</i>as y los râ<i>n</i>anyas (los kshatriyas o nobles), se mencionan juntas. Esto se debe a que hay ciertos sacrificios (bahuya<i>n</i>amâna), realizados por brâhma<i>n</i>as y râ<i>n</i>anyas juntos, en los que los vai<i>n</i>yas no participan. En los <i>S</i>âṅkhâyana-sûtras, I, 1, 3, también <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> El vai<i>n</i>ya es mencionado por sí mismo. Sin embargo, en los sutras del Kâtyâyana no se hace tal distinción. Y leemos, I, 6, Brâhma<i>n</i>a-râ<i>n</i>anya-vai<i>n</i>yânâ_m<i>n</i>s<i>n</i>h_. Las mujeres, si están debidamente casadas, pueden participar en los sacrificios, pero nadie puede estar acompañado por una mujer sudra, aunque sea su esposa. Un brahmán debe casarse solo con una esposa de su propia casta. Un kshatriya puede casarse con una mujer de su propia casta o de la casta brahmán. La esposa adecuada de un vainya debe ser de su propia casta. Véase, sin embargo, Manu III, 12 y siguientes.
 
-Las cuatro castas, con el <i>S</i>ûdra</i> como cuarta, se mencionan una vez en el <i>Ri</i>g-veda, X, yo, 12. La oposición entre Âryas y <i>S</i>ûdras aparece en el Atharva-veda, XIX, 62, etc., y en la mayoría de los Brâhma<i>n</i>as. En el <i>S</i>atapatha Brâhma<i>n</i>a leemos sobre las cuatro castas: Brâhma<i>n</i>a, Râ<i>n</i>anya, Vai<i>n</i>ya y <i>S</i>ûdra, y se nos dice que ninguna de ellas vomita el Soma. El Kâtyâyana excluye del sacrificio a los aṅgahîna, los lisiados, los sha<i>nd</i>a, los eunucos y todos los a<i>n</i>rotriyas, personas que ignoran el Veda. Esto, por supuesto, excluiría a toda la clase de los <i>S</i>ûdras, pero también están especialmente excluidos. Sin embargo, hubo que hacer concesiones desde el principio, por ejemplo, en el caso del Rathakâra, quien es admitido en el Agnyâdhâna, etc. Este nombre significa fabricante de carros, pero Âpadeva, en su Mîmâ<i>n</i>sâ-nyâya-prakâ<i>n</i>a, señala que, aunque rathakâra significa etimológicamente un fabricante de carros, debe tomarse aquí como el nombre de un clan, concretamente el de los Saudhanvanas (MS. Mill 46, pág. 13b). Deva, en su comentario sobre los Kâtyâyana-sûtras, hace la misma observación. Véase también Weber, Ind. Stud. X, 12 seq. Estos Saudhanvanas, a menudo identificados con los _Ri_bhus, son evidentemente los seguidores de B<i>n</i>bu, mencionado en RV. VI, 45, 31; 33, y erróneamente llamado B<i>n</i>dhu en Manu X, 107; véase MM, Hist. of ASL, pág. 494. En los _S<i>n<i>S</i>rauta-sûtras, XVI, 11, 11 (ed. Hillebrandt), se le llama con razón B<i>n</i>bu. Posteriormente, Rathakâra es el nombre de una casta, y se supone que sus miembros son descendientes del matrimonio entre un Mâhishya y un Kara<i>n</i>î. Un Mâhishya es hijo de un Kshatriya y un Vai<i>n</i>yâ, <span id="p317">[<sup><small>p. 317</small></sup>]</span> una Kara<i>n</i>î es hija de un Vai<i>n</i>ya y un S</i>ûdrâ. Sudhanvan también se utiliza en Manu X, 23, como el nombre de una casta, es decir, la descendencia de los vai<i>n</i>yas caídos (vrâtya).
+Las cuatro castas, con el <i>S</i>ûdra</i> como cuarta, se mencionan una vez en el <i>Ri</i>g-veda, X, yo, 12. La oposición entre Âryas y <i>S</i>ûdras aparece en el Atharva-veda, XIX, 62, etc., y en la mayoría de los Brâhma<i>n</i>as. En el <i>S</i>atapatha Brâhma<i>n</i>a leemos sobre las cuatro castas: Brâhma<i>n</i>a, Râ<i>n</i>anya, Vai<i>n</i>ya y <i>S</i>ûdra, y se nos dice que ninguna de ellas vomita el Soma. El Kâtyâyana excluye del sacrificio a los aṅgahîna, los lisiados, los sha<i>nd</i>a, los eunucos y todos los a<i>n</i>rotriyas, personas que ignoran el Veda. Esto, por supuesto, excluiría a toda la clase de los <i>S</i>ûdras, pero también están especialmente excluidos. Sin embargo, hubo que hacer concesiones desde el principio, por ejemplo, en el caso del Rathakâra, quien es admitido en el Agnyâdhâna, etc. Este nombre significa fabricante de carros, pero Âpadeva, en su Mîmâ<i>n</i>sâ-nyâya-prakâ<i>n</i>a, señala que, aunque rathakâra significa etimológicamente un fabricante de carros, debe tomarse aquí como el nombre de un clan, concretamente el de los Saudhanvanas (MS. Mill 46, pág. 13b). Deva, en su comentario sobre los Kâtyâyana-sûtras, hace la misma observación. Véase también Weber, Ind. Stud. X, 12 seq. Estos Saudhanvanas, a menudo identificados con los _Ri_bhus, son evidentemente los seguidores de B<i>n</i>bu, mencionado en RV. VI, 45, 31; 33, y erróneamente llamado B<i>n</i>dhu en Manu X, 107; véase MM, Hist. of ASL, pág. 494. En los _S<i>n<i>S</i>rauta-sûtras, XVI, 11, 11 (ed. Hillebrandt), se le llama con razón B<i>n</i>bu. Posteriormente, Rathakâra es el nombre de una casta, y se supone que sus miembros son descendientes del matrimonio entre un Mâhishya y un Kara<i>n</i>î. Un Mâhishya es hijo de un Kshatriya y un Vai<i>n</i>yâ, <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> una Kara<i>n</i>î es hija de un Vai<i>n</i>ya y un S</i>ûdrâ. Sudhanvan también se utiliza en Manu X, 23, como el nombre de una casta, es decir, la descendencia de los vai<i>n</i>yas caídos (vrâtya).
 
 Se hace otra excepción a favor de un Nishâdasthapati, un jefe Nishâda. Si se refería a un jefe de Nishâdas, podría referirse a un Kshatriya que también lo es. En este caso, se refiere a un jefe que es un Nishâda, un colono nativo. Se le permite participar en el sacrificio Gavedhuka.
 
@@ -88,7 +88,7 @@ Para conocer la totalidad del sacrificio, no basta un solo Veda, y mucho menos u
 
 ## SUTRA IV.
 
-Por el Rig-veda, el Yagur-veda, el Sama-veda (es el sacrificio prescrito). <span id="p318">[<sup><small>p. 318</small></sup>]</span>
+Por el Rig-veda, el Yagur-veda, el Sama-veda (es el sacrificio prescrito). <span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 <span id="an5"></span>
 
@@ -138,7 +138,7 @@ En el Ya<i>g</i>ur-veda la ejecución se lleva a cabo mediante murmullos (upâ<i
 
 **Comentario.**
 
-Este murmullo, upâ<i>m</i><i>m</i>u, se describe como un mero opus operatum, pues las palabras se repiten sin voz ni pensamiento. Se pueden ver los movimientos de los órganos vocales al murmullar, pero no se deben oír a distancia. Si aparecen versos del Rig-veda o del Sama-veda <span id="p319">[<sup><small>p. 319</small></sup>]</span> en el Yamur-veda, también deben murmurarse. Véase Kâty. I, 3, 10.
+Este murmullo, upâ<i>m</i><i>m</i>u, se describe como un mero opus operatum, pues las palabras se repiten sin voz ni pensamiento. Se pueden ver los movimientos de los órganos vocales al murmullar, pero no se deben oír a distancia. Si aparecen versos del Rig-veda o del Sama-veda <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> en el Yamur-veda, también deben murmurarse. Véase Kâty. I, 3, 10.
 
 <span id="an10"></span>
 
@@ -168,7 +168,7 @@ Los Sâmidhenîs son los himnos utilizados para encender el fuego. Un comentaris
 
 ## SUTRA XII.
 
-Antes de los Â<i>yabhâgas (como los Â</i>yabhâgas (como los Â</i>yabhâgas (como las porciones Â</i>ya en los Dar<i>yabhâgas (como el Â</i>a-pûr<i>yabhâgas (como el Â</i>amâsa), y en el Savana matutino (oblación de Soma), la recitación debe ser con voz suave (mandra). <span id="p320">[<sup><small>p. 320</small></sup>]</span>
+Antes de los Â<i>yabhâgas (como los Â</i>yabhâgas (como los Â</i>yabhâgas (como las porciones Â</i>ya en los Dar<i>yabhâgas (como el Â</i>a-pûr<i>yabhâgas (como el Â</i>amâsa), y en el Savana matutino (oblación de Soma), la recitación debe ser con voz suave (mandra). <span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 <span id="an12c"></span>
 
@@ -216,7 +216,7 @@ El sacerdote Hot_ri_\ actúa con el <i>Ri</i>g-veda.
 
 ## SUTRA XVII.
 
-El sacerdote Udgât_ri_\ con el Sama-veda. <span id="p321">[<sup><small>p. 321</small></sup>]</span>
+El sacerdote Udgât_ri_\ con el Sama-veda. <span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 <span id="an18"></span>
 
@@ -270,7 +270,7 @@ Para todos los sacrificios se encienden los fuegos una sola vez.
 
 **Comentario.**
 
-Los fuegos sacrificiales deben prepararse por primera vez <span id="p322">[<sup><small>p. 322</small></sup>]</span> mediante una ceremonia peculiar, llamada Agnyâdhâna. Generalmente son tres (Tretâ): el Gârhapatya, el padre; el Dakshi<i>n</i>a, el hijo; y el Âhavanîya, el nieto. La primera colocación del altar de fuego Gârhapatya se realiza en primavera para un Brâhma<i>n</i>a, en verano para un Râ<i>n</i>anya, y en invierno para un Vai<i>n</i>ya.
+Los fuegos sacrificiales deben prepararse por primera vez <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> mediante una ceremonia peculiar, llamada Agnyâdhâna. Generalmente son tres (Tretâ): el Gârhapatya, el padre; el Dakshi<i>n</i>a, el hijo; y el Âhavanîya, el nieto. La primera colocación del altar de fuego Gârhapatya se realiza en primavera para un Brâhma<i>n</i>a, en verano para un Râ<i>n</i>anya, y en invierno para un Vai<i>n</i>ya.
 
 <span id="an23"></span>
 
@@ -296,7 +296,7 @@ Si se dice <i>g</i>uhoti, se debe saber que el Adhvaryu se refiere al ejecutante
 
 **Comentario.**
 
-Aunque hay un hombre que ofrece el sacrificio, el homa propiamente dicho, arrojar la mantequilla, etc., al fuego, debe ser realizado por el sacerdote Adhvaryu. <span id="p323">[<sup><small>p. 323</small></sup>]</span>
+Aunque hay un hombre que ofrece el sacrificio, el homa propiamente dicho, arrojar la mantequilla, etc., al fuego, debe ser realizado por el sacerdote Adhvaryu. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <span id="an25"></span>
 

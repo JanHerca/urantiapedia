@@ -62,7 +62,7 @@ Tratado sobre el simbolismo de los hexagramas y de las explicaciones del duque d
 
 2\. El movimiento indicado por el segundo seis (dividido) es «de la línea recta al cuadrado». «Su funcionamiento, sin esfuerzo repetido, es ventajoso en todos los sentidos», muestra el brillante resultado del camino de la tierra.
 
-3\. «Mantiene su excelencia bajo control, pero la mantiene con firmeza»: en el momento oportuno la manifestará. «Puede que tenga ocasión de servir al rey: grande es la gloria de su sabiduría». <span id="p269">[<sup><small>p. 269</small></sup>]</span> 4\. «Un saco bien atado; no habrá error»: esto demuestra que, con cuidado, no se recibirá daño.
+3\. «Mantiene su excelencia bajo control, pero la mantiene con firmeza»: en el momento oportuno la manifestará. «Puede que tenga ocasión de servir al rey: grande es la gloria de su sabiduría». <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> 4\. «Un saco bien atado; no habrá error»: esto demuestra que, con cuidado, no se recibirá daño.
 
 S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende de que ese color ornamental está en el lugar correcto y central.
 
@@ -98,9 +98,9 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 4\. 'El arrepentimiento que surge de la ignorancia atada con cadenas' se debe a la distancia especial de (el sujeto de esta línea) con respecto a la solidez (mostrada en las líneas 2 y 6).
 
-5\. «La buena fortuna del muchacho sencillo e inexperto» proviene de su docilidad que se transforma en humildad. <span id="p272">[<sup><small>p. 272</small></sup>]</span> 6\. «La ventaja vendrá de protegerse del daño»: (el sujeto de esta línea) arriba y (el ignorante) abajo, todos hacen y son tratados según su naturaleza.
+5\. «La buena fortuna del muchacho sencillo e inexperto» proviene de su docilidad que se transforma en humildad. <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 6\. «La ventaja vendrá de protegerse del daño»: (el sujeto de esta línea) arriba y (el ignorante) abajo, todos hacen y son tratados según su naturaleza.
 
-[^194]. (El trigrama para) las nubes que ascienden sobre ese <span id="p273">[<sup><small>p. 273</small></sup>]</span> cielo forma Hsü. El hombre superior, en consonancia con esto, come, bebe, festeja y disfruta (como si no tuviera otra ocupación).
+[^194]. (El trigrama para) las nubes que ascienden sobre ese <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> cielo forma Hsü. El hombre superior, en consonancia con esto, come, bebe, festeja y disfruta (como si no tuviera otra ocupación).
 
 1\. «Está esperando en la frontera (lejana)»: no hace ningún movimiento para afrontar precipitadamente las dificultades (de la situación). «Le será ventajoso mantener constantemente (el propósito así mostrado), en cuyo caso no habrá error»: no dejará de seguir ese curso regular.
 
@@ -122,7 +122,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 2\. 'Él no está a la altura de la contienda; se retira y se mantiene oculto, retirándose sigilosamente de ella': para él, desde su lugar inferior, contender con (el más fuerte) de arriba, sería (invitar) la calamidad, como si la trajera con su mano hacia sí mismo.
 
-3\. 'Se limita al apoyo que le fue asignado <span id="p275">[<sup><small>p. 275</small></sup>]</span> antiguamente:'—(así) siguiendo a los que están por encima de él, tendrá buena fortuna.
+3\. 'Se limita al apoyo que le fue asignado <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> antiguamente:'—(así) siguiendo a los que están por encima de él, tendrá buena fortuna.
 
 4\. 'Él regresa al estudio de las ordenanzas del Cielo, cambia (su deseo de contender) y descansa en ser firme y correcto': no ​​falla (en hacer lo que es correcto).
 
@@ -132,7 +132,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 [^196]. (El trigrama que representa) la tierra y en medio de ella el que representa el agua, forman Sze. El hombre superior, en consonancia con esto, nutre y educa al pueblo, y reúne (de entre ellos) a las multitudes (de las huestes).
 
-1\. «El ejército avanza según las reglas para tal movimiento»: si no se observan esas reglas, habrá maldad. <span id="p276">[<sup><small>p. 276</small></sup>]</span> 2\. «Está en medio del ejército, y habrá buena fortuna»: ha recibido el favor del Cielo. «El rey le ha transmitido tres veces las órdenes de su favor»: el rey atesora las innumerables regiones de su corazón.
+1\. «El ejército avanza según las reglas para tal movimiento»: si no se observan esas reglas, habrá maldad. <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> 2\. «Está en medio del ejército, y habrá buena fortuna»: ha recibido el favor del Cielo. «El rey le ha transmitido tres veces las órdenes de su favor»: el rey atesora las innumerables regiones de su corazón.
 
 3\. 'El ejército con la posibilidad de tener muchos líderes ociosos': grande será su falta de éxito.
 
@@ -156,7 +156,7 @@ S. 'La prenda inferior amarilla; habrá gran buena fortuna': esto se desprende d
 
 5\. 'La buena fortuna perteneciente al ejemplo más ilustre de búsqueda de unión y apego' aparece en la posición correcta y central (de la quinta línea, indivisa).
 
-El descuido del rey hacia los animales que se le enfrentaban y luego huían, y solo tomaban a los que se presentaban obedientemente, se ve en <span id="p278">[<sup><small>p. 278</small></sup>]</span> 'permitir la huida de los que estaban delante de él'. 'Que los habitantes de sus ciudades no se adviertan entre sí (para evitar dicha huida)' muestra cómo él, en su alta eminencia, los ha obligado a seguir el curso debido.
+El descuido del rey hacia los animales que se le enfrentaban y luego huían, y solo tomaban a los que se presentaban obedientemente, se ve en <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 'permitir la huida de los que estaban delante de él'. 'Que los habitantes de sus ciudades no se adviertan entre sí (para evitar dicha huida)' muestra cómo él, en su alta eminencia, los ha obligado a seguir el curso debido.
 
 6\. 'Busca la unión y el apego sin dar el primer (paso para tal fin):' —no hay posibilidad de un (buen) resultado.
 
@@ -166,7 +166,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 2\. 'Por la atracción (del sujeto del verso anterior) retorna (a su propio curso)', y está en el lugar central: —ni se equivocará en lo que le corresponde.
 
-3\. 'El marido y la mujer se miran con los ojos desviados': (el sujeto de la tercera línea es como un <span id="p279">[<sup><small>p. 279</small></sup>]</span> marido que) no puede mantener correctamente sus relaciones con su esposa.
+3\. 'El marido y la mujer se miran con los ojos desviados': (el sujeto de la tercera línea es como un <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> marido que) no puede mantener correctamente sus relaciones con su esposa.
 
 4\. 'Está lleno de sinceridad; su (motivo de) aprensión queda descartado': (los sujetos de las líneas) anteriores coinciden en propósito con él.
 
@@ -186,7 +186,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. 'Se llena de cautela aprensiva, y al final tendrá buena fortuna': su objetivo surte efecto.
 
-5\. «Avanza con determinación; y aunque sea firme y correcto, hay peligro»; esto se debe a que ocupa la posición correcta y apropiada para él. <span id="p281">[<sup><small>p. 281</small></sup>]</span> 6\. «Habrá gran fortuna», y eso en ocupar la línea superior: esto es motivo de gran felicitación.
+5\. «Avanza con determinación; y aunque sea firme y correcto, hay peligro»; esto se debe a que ocupa la posición correcta y apropiada para él. <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 6\. «Habrá gran fortuna», y eso en ocupar la línea superior: esto es motivo de gran felicitación.
 
 [^200]. Los trigramas del cielo y la tierra, en comunicación, forman Thâi. El sabio soberano, en armonía con esto, modela y completa sus regulaciones según los cursos del cielo y la tierra, y facilita la aplicación de las adaptaciones proporcionadas por ellos, para beneficio del pueblo.
 
@@ -202,7 +202,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'La muralla de la ciudad volvió a formar parte del foso' muestra cómo las órdenes (gubernamentales) han estado (durante mucho tiempo) en desorden.
 
-[^201]. (Los trigramas de) cielo y tierra, al no estar intercomunicados, forman Phî. El hombre superior, en consonancia con esto, restringe (la manifestación) de su virtud y evita las calamidades (que lo amenazan). No hay oportunidad de conferirle la gloria del emolumento. <span id="p283">[<sup><small>p. 283</small></sup>]</span> 1\. «La buena fortuna mediante la firme bondad, (sugerida por) arrancar la hierba», surge de la voluntad (de las partes a quienes se dirige) empeñada en (servir) al gobernante.
+[^201]. (Los trigramas de) cielo y tierra, al no estar intercomunicados, forman Phî. El hombre superior, en consonancia con esto, restringe (la manifestación) de su virtud y evita las calamidades (que lo amenazan). No hay oportunidad de conferirle la gloria del emolumento. <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> 1\. «La buena fortuna mediante la firme bondad, (sugerida por) arrancar la hierba», surge de la voluntad (de las partes a quienes se dirige) empeñada en (servir) al gobernante.
 
 2\. 'El gran hombre, comportándose como lo requieren la angustia y la obstrucción, tendrá éxito:' no se deja desordenar por la manada (de hombres pequeños).
 
@@ -242,7 +242,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. 'Él mantiene sus grandes recursos bajo control': su sabiduría discrimina claramente (lo que debe hacer).
 
-5\. «Su sinceridad es correspondida por todos los demás»: su sinceridad sirve para despertar y despertar lo que albergan en sus mentes. «La buena fortuna que surge de una exhibición de majestad adecuada» muestra cómo (de lo contrario) podrían sentirse demasiado cómodos y no prepararse (para servirle). <span id="p286">[<sup><small>p. 286</small></sup>]</span> 6\. «La buena fortuna ligada a la línea superior de Tâ Yû» surge de la ayuda del Cielo.
+5\. «Su sinceridad es correspondida por todos los demás»: su sinceridad sirve para despertar y despertar lo que albergan en sus mentes. «La buena fortuna que surge de una exhibición de majestad adecuada» muestra cómo (de lo contrario) podrían sentirse demasiado cómodos y no prepararse (para servirle). <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> 6\. «La buena fortuna ligada a la línea superior de Tâ Yû» surge de la ayuda del Cielo.
 
 [^204]. El trigrama de la tierra y el de la montaña en su centro forman <i>Kh</i>ien. El hombre superior, en consonancia con esto, disminuye lo que le sobra y lo aumenta donde hay algún defecto, logrando una igualdad, según la naturaleza del caso, en su trato consigo mismo y con los demás.
 
@@ -254,9 +254,9 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. 'Quienquiera que actúe de esa manera estimula más su humildad': (pero al hacerlo) no actúa en contra de la regla (adecuada).
 
-5\. «Puede usar ventajosamente la fuerza de las armas» para corregir, es decir, a quienes no se someten. <span id="p287">[<sup><small>p. 287</small></sup>]</span> 6\. «Su humildad se ha hecho notar»; (pero) aún no ha alcanzado todos sus objetivos. Puede emplear la fuerza de las armas, (pero solo) para corregir (sus propias) ciudades y estado.
+5\. «Puede usar ventajosamente la fuerza de las armas» para corregir, es decir, a quienes no se someten. <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> 6\. «Su humildad se ha hecho notar»; (pero) aún no ha alcanzado todos sus objetivos. Puede emplear la fuerza de las armas, (pero solo) para corregir (sus propias) ciudades y estado.
 
-[^205]. (Los trigramas para) la tierra y el trueno que emana de ella con su estruendo forman Yü. Los antiguos reyes, en consonancia con esto, compusieron su música y honraron la virtud, presentándola especial y grandiosamente a Dios, <span id="p288">[<sup><small>p. 288</small></sup>]</span> cuando se asociaban con Él (en el servicio), su antepasado más alto y su padre.
+[^205]. (Los trigramas para) la tierra y el trueno que emana de ella con su estruendo forman Yü. Los antiguos reyes, en consonancia con esto, compusieron su música y honraron la virtud, presentándola especial y grandiosamente a Dios, <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> cuando se asociaban con Él (en el servicio), su antepasado más alto y su padre.
 
 1\. 'El (sujeto de los) primeros seis proclama su placer y satisfacción': —habrá mal; sus deseos han sido satisfechos hasta rebosar.
 
@@ -282,7 +282,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. «Es seguido y consigue adeptos»: según la idea (del hexagrama), esto es malo. «Es sincero en su proceder»: demuestra su inteligencia y conduce al éxito.
 
-5\. «Es sincero al promover lo excelente»: su posición es correcta y central. <span id="p290">[<sup><small>p. 290</small></sup>]</span> 6\. «La sinceridad se mantiene firme y se aferra a ella, como se muestra en la línea superior»: (la idea del hexagrama) ha alcanzado su máximo desarrollo.
+5\. «Es sincero al promover lo excelente»: su posición es correcta y central. <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 6\. «La sinceridad se mantiene firme y se aferra a ella, como se muestra en la línea superior»: (la idea del hexagrama) ha alcanzado su máximo desarrollo.
 
 [^207]. (El trigrama de) una montaña, y debajo de ella el del viento, forman Kû. El hombre superior, de acuerdo con esto, (se dirige a) ayudar a la gente y nutrir su propia virtud.
 
@@ -294,7 +294,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. 'Él mira con indulgencia los problemas causados ​​por su padre': si sigue adelante, no tendrá éxito.
 
-5\. 'Se ocupa de los problemas causados ​​por su padre y obtiene elogios': se le responde (por el sujeto de la segunda línea) con toda su virtud. <span id="p291">[<sup><small>p. 291</small></sup>]</span> 6\. 'No sirve ni al rey ni al señor feudal': pero su objetivo puede ser un modelo (para otros).
+5\. 'Se ocupa de los problemas causados ​​por su padre y obtiene elogios': se le responde (por el sujeto de la segunda línea) con toda su virtud. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 6\. 'No sirve ni al rey ni al señor feudal': pero su objetivo puede ser un modelo (para otros).
 
 [^208] (El trigrama para) las aguas de un pantano y el de la tierra sobre él forman Lin. El hombre superior, de acuerdo con esto, tiene propósitos de instrucción inagotables, y nutre y apoya al pueblo sin límites.
 
@@ -304,7 +304,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 3\. «Se muestra muy complacido en avanzar»: su posición no le corresponde. «Sin embargo, si se preocupa por su acción», su error no continuará.
 
-4\. 'La libertad de error consecuente con el <span id="p292">[<sup><small>p. 292</small></sup>]</span> avance en el modo más elevado' se debe a la (variada) idoneidad de la posición.
+4\. 'La libertad de error consecuente con el <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> avance en el modo más elevado' se debe a la (variada) idoneidad de la posición.
 
 5\. 'Lo que conviene al gran gobernante' significa seguir el curso del medio debido.
 
@@ -312,7 +312,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 [^209]. (El trigrama que representa) la tierra, y el del viento que se mueve sobre ella, forman Kwan. Los antiguos reyes, de acuerdo con esto, examinaban las (diferentes) regiones (del reino), para observar las (costumbres) de la gente y establecían sus instrucciones.
 
-1\. 'El aspecto de un muchacho, mostrado por los primeros seis (divididos), indica el comportamiento de las personas inferiores. <span id="p293">[<sup><small>p. 293</small></sup>]</span> 2\. 'La firme corrección de una mujer al asomarse por una puerta' también es algo de lo que avergonzarse (en un hombre superior).
+1\. 'El aspecto de un muchacho, mostrado por los primeros seis (divididos), indica el comportamiento de las personas inferiores. <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> 2\. 'La firme corrección de una mujer al asomarse por una puerta' también es algo de lo que avergonzarse (en un hombre superior).
 
 3\. 'Él mira (el curso de su propia vida, para avanzar o retroceder (según corresponda):' —no se desviará en el camino (a seguir).
 
@@ -326,7 +326,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 1\. 'Sus pies están en el cepo, y está privado de los dedos de sus pies': no ​​hay manera de caminar (para hacer el mal).
 
-2\. 'Muerde la carne blanda y (continúa) <span id="p294">[<sup><small>p. 294</small></sup>]</span> mordiendo la nariz': (el sujeto del verso) se apoya en el fuerte (primer verso).
+2\. 'Muerde la carne blanda y (continúa) <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> mordiendo la nariz': (el sujeto del verso) se apoya en el fuerte (primer verso).
 
 3\. 'Se encuentra con lo que es desagradable y dañino': su posición no es la adecuada para él.
 
@@ -336,7 +336,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 6\. 'Lleva la lengua y está privado de oídos': oye, pero no entiende.
 
-[^211]. (El trigrama que representa) una montaña y el del fuego bajo ella forman Pi. El hombre superior, en consonancia con esto, proyecta brillantez sobre sus diversos procesos de gobierno, pero no se atreve (de igual manera) a decidir casos de litigio penal. <span id="p295">[<sup><small>p. 295</small></sup>]</span> 1\. «Puede abandonar un carruaje y caminar a pie»: la rectitud exige que no monte.
+[^211]. (El trigrama que representa) una montaña y el del fuego bajo ella forman Pi. El hombre superior, en consonancia con esto, proyecta brillantez sobre sus diversos procesos de gobierno, pero no se atreve (de igual manera) a decidir casos de litigio penal. <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> 1\. «Puede abandonar un carruaje y caminar a pie»: la rectitud exige que no monte.
 
 2\. 'Se adorna la barba': se pone en acción (solamente) junto con el (tema de la) línea anterior.
 
@@ -372,7 +372,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 2\. 'La buena fortuna que acompaña al admirable retorno (del sujeto de la segunda línea)' se debe a su condescendencia hacia el virtuoso (sujeto de la línea) que aparece a continuación.
 
-3\. A ​​pesar de «la peligrosa posición de aquel <span id="p298">[<sup><small>p. 298</small></sup>]</span> que ha tenido muchos retornos», no habrá error en (su búsqueda de la rectitud).
+3\. A ​​pesar de «la peligrosa posición de aquel <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> que ha tenido muchos retornos», no habrá error en (su búsqueda de la rectitud).
 
 4\. 'Se mueve justo en el centro (entre los representados por las otras líneas divididas), y sin embargo regresa solo': su objetivo es seguir el camino (adecuado).
 
@@ -426,7 +426,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 5\. 'La buena fortuna de permanecer en la firmeza' se debe a la docilidad (del sujeto del verso) al seguir (al sujeto del verso) anterior.
 
-6\. 'La buena fortuna, a pesar del peligro <span id="p302">[<sup><small>p. 302</small></sup>]</span> de su posición, de aquel de quien viene el sustento', es un gran motivo de felicitación.
+6\. 'La buena fortuna, a pesar del peligro <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> de su posición, de aquel de quien viene el sustento', es un gran motivo de felicitación.
 
 [^217]. (El trigrama que representa) los árboles ocultos bajo las aguas de un pantano forma el Tâ Kwo. El hombre superior, en consonancia con esto, se yergue solo y sin temor, y se mantiene apartado del mundo sin arrepentimiento.
 
@@ -448,7 +448,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 2\. 'Recibirá un poco (de la liberación) que busca': todavía no escapará de su posición rodeada.
 
-3\. 'Ya sea que vaya o venga, se encuentra con un desfiladero': jamás (en tales circunstancias) logrará ningún éxito. <span id="p304">[<sup><small>p. 304</small></sup>]</span> 4\. '(Nada más que) una botella de licor y una cesta de arroz:'—(Esto describe) el encuentro en este punto de (aquellos representados por) las líneas fuertes y débiles.
+3\. 'Ya sea que vaya o venga, se encuentra con un desfiladero': jamás (en tales circunstancias) logrará ningún éxito. <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 4\. '(Nada más que) una botella de licor y una cesta de arroz:'—(Esto describe) el encuentro en este punto de (aquellos representados por) las líneas fuertes y débiles.
 
 5\. 'El agua en el desfiladero no está llena (para fluir):'—(la virtud indicada por) la situación central aún no es (suficientemente) grande.
 
@@ -464,7 +464,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. ¡Cuán abrupta es su manera de venir! —nadie puede soportarlo.
 
-5\. 'La buena fortuna ligada al quinto SEIS, <span id="p305">[<sup><small>p. 305</small></sup>]</span> dividido),' se debe a que ocupa el lugar de un rey o un príncipe.
+5\. 'La buena fortuna ligada al quinto SEIS, <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> dividido),' se debe a que ocupa el lugar de un rey o un príncipe.
 
 6\. 'El rey lo emplea en sus expediciones punitivas': el objetivo es llevar las regiones a un estado correcto.
 
@@ -481,7 +481,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 3\. «Mueve los muslos»: —todavía no quiere descansar en su sitio. Su voluntad está puesta en «seguir a otros»: —lo que tiene en sus manos es bajo.
 
-4\. «La firme corrección traerá buena fortuna, <span id="p306">[<sup><small>p. 306</small></sup>]</span> y evitará cualquier motivo de arrepentimiento»: aún no se ha producido daño alguno por (un deseo egoísta de) influencia. «Es inestable en sus movimientos»: (su poder de influencia) aún no es brillante ni grande.
+4\. «La firme corrección traerá buena fortuna, <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> y evitará cualquier motivo de arrepentimiento»: aún no se ha producido daño alguno por (un deseo egoísta de) influencia. «Es inestable en sus movimientos»: (su poder de influencia) aún no es brillante ni grande.
 
 5\. 'Él (intenta) mover la carne a lo largo de la columna por encima del corazón': su objetivo es trivial.
 
@@ -565,7 +565,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 5\. 'Con la firme corrección del recuento de <i>K</i>î', su brillo no pudo extinguirse (por completo).
 
-6\. «Al principio ascendió a la cima del cielo»: podría haber iluminado los cuatro puntos cardinales <span id="p312">[<sup><small>p. 312</small></sup>]</span> del reino. «Su futuro será descender a la tierra»: no ha cumplido el modelo de gobernante.
+6\. «Al principio ascendió a la cima del cielo»: podría haber iluminado los cuatro puntos cardinales <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> del reino. «Su futuro será descender a la tierra»: no ha cumplido el modelo de gobernante.
 
 [^226]. (El trigrama que representa) el fuego, y el que representa el viento que emana de él, forman <i>K</i>iâ <i>Z</i>ăn. El hombre superior, en consonancia con esto, ordena sus palabras según la verdad de las cosas, y su conducta de manera uniforme y coherente.
 
@@ -575,7 +575,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 3\. Cuando se trata a los miembros del hogar con severidad severa, no ha habido un gran fracaso en la regulación familiar. Cuando la esposa y los hijos sonríen y charlan con sorna, se ha perdido la economía familiar.
 
-4\. 'La familia se enriquece y hay gran <span id="p313">[<sup><small>p. 313</small></sup>]</span> buena fortuna': esto se debe a la docilidad (propia del sujeto del verso) y a que está en su lugar correcto.
+4\. 'La familia se enriquece y hay gran <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> buena fortuna': esto se debe a la docilidad (propia del sujeto del verso) y a que está en su lugar correcto.
 
 5\. 'La influencia del rey se extiende a su familia': la relación entre ellos es de amor mutuo.
 
@@ -627,7 +627,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 3\. Porque «que un porteador viaje en un carruaje con su carga» es algo de lo que avergonzarse. «Es él mismo quien tienta a los ladrones para que vengan»: ¿a quién más podemos culpar? (Véase el Apéndice III, i, 48).
 
-4\. 'Quita los dedos de los pies': los lugares (de esta línea <span id="p317">[<sup><small>p. 317</small></sup>]</span> y de la tercera y primera) son todos inapropiados para ellos.
+4\. 'Quita los dedos de los pies': los lugares (de esta línea <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> y de la tercera y primera) son todos inapropiados para ellos.
 
 5\. Cuando 'el hombre superior ejecuta su función de eliminar (todo lo que es perjudicial para la idea del hexagrama)', los hombres pequeños se retirarán por sí solos.
 
@@ -635,7 +635,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 [^230]. (El trigrama que representa) una montaña y debajo de ella la de las aguas de un pantano que forman el Sol. El hombre superior, de acuerdo con esto, refrena su ira y reprime sus deseos.
 
-1\. 'Suspede sus asuntos y se apresura (para ayudar al sujeto de la cuarta línea):'—el (sujeto de esa) (línea) superior mezcla sus deseos con los suyos. <span id="p318">[<sup><small>p. 318</small></sup>]</span> 2\. 'Será ventajoso para (el sujeto de) el segundo NUEVE, (indiviso), mantener su firme corrección:'—su posición central le da carácter a su objetivo.
+1\. 'Suspede sus asuntos y se apresura (para ayudar al sujeto de la cuarta línea):'—el (sujeto de esa) (línea) superior mezcla sus deseos con los suyos. <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> 2\. 'Será ventajoso para (el sujeto de) el segundo NUEVE, (indiviso), mantener su firme corrección:'—su posición central le da carácter a su objetivo.
 
 3\. 'Un hombre, caminando', (encuentra a su amigo):—cuando tres están juntos, surgen dudas entre ellos.
 
@@ -681,7 +681,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 [^233]. (El trigrama que representa) el viento y el del cielo sobre él forman Kâu. El soberano, en conformidad con esto, entrega sus encargos y promulga sus anuncios por los cuatro puntos cardinales (del reino).
 
-1\. 'Atado y sujeto a un freno de metal': (esto <span id="p322">[<sup><small>p. 322</small></sup>]</span> describe la detención de) la línea débil en su curso de avance.
+1\. 'Atado y sujeto a un freno de metal': (esto <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> describe la detención de) la línea débil en su curso de avance.
 
 2\. 'Tiene una bolsa de pescado': es correcto que no permita que (el sujeto de la primera línea) llegue a los invitados.
 
@@ -707,7 +707,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 4\. 'Si es muy afortunado, no recibirá ninguna culpa': (esta condición es necesaria, porque) su posición no es la que le corresponde.
 
-5\. «Existe la unión (de todos) bajo su mando en el lugar de la dignidad»: —(pero) su mente y su propósito aún no se han desplegado con brillantez. <span id="p324">[<sup><small>p. 324</small></sup>]</span> 6\. «Suspira y llora»: —aún no descansa en su posición más alta.
+5\. «Existe la unión (de todos) bajo su mando en el lugar de la dignidad»: —(pero) su mente y su propósito aún no se han desplegado con brillantez. <span id="p324"><sup><small>[ p. 324 ]</small></sup></span> 6\. «Suspira y llora»: —aún no descansa en su posición más alta.
 
 [^235]. (El trigrama que representa) la madera y el de la tierra, con la madera creciendo en su interior, forman Shăng. El hombre superior, en consonancia con esto, presta atención a su virtud y acumula pequeños desarrollos hasta alcanzar su grandeza.
 
@@ -717,7 +717,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 3\. 'Avanza hacia arriba (como hacia) una ciudad vacía': no ​​tiene dudas ni vacilaciones.
 
-4\. «El rey lo emplea para evitar sus ofrendas en el monte <i>Kh</i>î:» —tal servicio (de los Seres espirituales) es conforme (a su mente). <span id="p325">[<sup><small>p. 325</small></sup>]</span> 5\. «Tiene toda la razón, y por lo tanto gozará de buena fortuna. Sube las escaleras (con la debida ceremonia):» —logra con gran éxito su objetivo.
+4\. «El rey lo emplea para evitar sus ofrendas en el monte <i>Kh</i>î:» —tal servicio (de los Seres espirituales) es conforme (a su mente). <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> 5\. «Tiene toda la razón, y por lo tanto gozará de buena fortuna. Sube las escaleras (con la debida ceremonia):» —logra con gran éxito su objetivo.
 
 6\. 'Avanza ciegamente hacia arriba', y está en el lugar más alto; pero le espera la decadencia, y no preservará sus riquezas.
 
@@ -725,7 +725,7 @@ El descuido del rey hacia los animales que se le enfrentaban y luego huían, y s
 
 1\. 'Entra en un valle oscuro': tan oscuro está y sin visión clara.
 
-2\. 'Está en apuros entre el vino y las viandas': (pero) su posición es central, y habrá motivos para felicitarse. <span id="p326">[<sup><small>p. 326</small></sup>]</span> 3\. 'Se aferra a las espinas': (esto lo sugiere la posición de la línea) sobre la línea fuerte.
+2\. 'Está en apuros entre el vino y las viandas': (pero) su posición es central, y habrá motivos para felicitarse. <span id="p326"><sup><small>[ p. 326 ]</small></sup></span> 3\. 'Se aferra a las espinas': (esto lo sugiere la posición de la línea) sobre la línea fuerte.
 
 «Entra en su palacio y no ve a su esposa»: esto es de mal augurio.
 
@@ -759,7 +759,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 5\. 'Las aguas del manantial frío se beben libremente': esto lo indica la posición central y correcta (del verso).
 
-6\. 'La gran buena fortuna' en el lugar más alto <span id="p328">[<sup><small>p. 328</small></sup>]</span> indica el gran logro (de la idea en el hexagrama).
+6\. 'La gran buena fortuna' en el lugar más alto <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> indica el gran logro (de la idea en el hexagrama).
 
 [^238]. (El trigrama que representa las aguas de) un pantano y el del fuego en medio de ellos forman Ko. El hombre superior, de acuerdo con esto, regula sus cálculos (astronómicos) y aclara las estaciones y los tiempos.
 
@@ -771,7 +771,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 4\. 'La buena fortuna que resulta de cambiar las ordenanzas (existentes)' se debe a la fe depositada en sus objetivos.
 
-5\. «El gran hombre produce sus cambios como el tigre cuando cambia sus rayas»: su belleza se vuelve más brillante. <span id="p329">[<sup><small>p. 329</small></sup>]</span> 6\. «El hombre superior produce sus cambios como el leopardo cuando cambia sus manchas»: su belleza se vuelve más elegante.
+5\. «El gran hombre produce sus cambios como el tigre cuando cambia sus rayas»: su belleza se vuelve más brillante. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 6\. «El hombre superior produce sus cambios como el leopardo cuando cambia sus manchas»: su belleza se vuelve más elegante.
 
 'Los hombres pequeños cambian sus rostros': se muestran dispuestos a seguir a su gobernante.
 
@@ -785,7 +785,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 "Mi enemigo me detesta": pero al final no habrá ningún defecto que pueda señalar.
 
-3\. 'Allí está el caldero con (los lugares para) sus <span id="p330">[<sup><small>p. 330</small></sup>]</span> orejas cambiadas': (su sujeto) ha fallado en lo que se le requería (en su situación).
+3\. 'Allí está el caldero con (los lugares para) sus <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> orejas cambiadas': (su sujeto) ha fallado en lo que se le requería (en su situación).
 
 4\. 'El contenido destinado al uso del gobernante se vuelca y se derrama': ¿cómo se puede confiar (en el sujeto del verso)?
 
@@ -817,7 +817,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 [^241]. (Dos trigramas que representan) una montaña, uno sobre el otro, forman Kăn. El hombre superior, en
 
-0 <span id="p332">[<sup><small>p. 332</small></sup>]</span> de acuerdo con esto, no va en sus pensamientos más allá de los deberes del cargo en que se encuentra.
+0 <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> de acuerdo con esto, no va en sus pensamientos más allá de los deberes del cargo en que se encuentra.
 
 1\. 'Mantiene los dedos de los pies en reposo': no ​​falla en lo que es correcto (según la idea de la figura).
 
@@ -859,7 +859,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 'Coja de una pierna, pero puede caminar tranquilamente': puede prestar un servicio útil.
 
-2\. 'Habrá ventaja en mantener la firme corrección de una viuda solitaria': (el tema de <span id="p335">[<sup><small>p. 335</small></sup>]</span> la línea) no ha cambiado de la constancia (propia de una esposa).
+2\. 'Habrá ventaja en mantener la firme corrección de una viuda solitaria': (el tema de <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> la línea) no ha cambiado de la constancia (propia de una esposa).
 
 3\. 'La hermana menor que iba a ser casada se encuentra en una posición miserable': esto se muestra por las impropiedades (indicadas en la línea).
 
@@ -871,7 +871,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 [^244]. (Los trigramas que representan) el trueno y el relámpago se combinan para formar Făng. El hombre superior, en consonancia con esto, decide los casos de litigio y reparte los castigos con exactitud.
 
-1\. 'Aunque ambos sean del mismo carácter, no habrá error': si el sujeto de esta <span id="p336">[<sup><small>p. 336</small></sup>]</span> línea intenta pasar por alto esa similitud, habrá calamidad.
+1\. 'Aunque ambos sean del mismo carácter, no habrá error': si el sujeto de esta <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> línea intenta pasar por alto esa similitud, habrá calamidad.
 
 2\. 'Que cultive su sentimiento de devoción sincera, para que parezca que se está expresando': es por la sinceridad que la mente se ve afectada.
 
@@ -917,7 +917,7 @@ Se hace una oración para que 'el rey fuera inteligente', porque entonces recibi
 
 1\. 'Ahora avanza, ahora retrocede': su mente está perpleja.
 
-Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></sup>]</span> firmeza de un valiente soldado:'—su mente estaría en ese caso bien gobernada.
+Sería ventajoso para él tener la <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> firmeza de un valiente soldado:'—su mente estaría en ese caso bien gobernada.
 
 2\. 'La buena fortuna que surge de lo que raya en la confusión' se debe a la posición (de la línea) en el centro.
 
@@ -975,7 +975,7 @@ Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></
 
 4\. 'El progreso y el éxito de la atención tranquila y natural a todas las regulaciones' se debe a la deferencia que acepta los caminos del (gobernante) de arriba.
 
-5\. 'La buena fortuna que surge de las regulaciones promulgadas dulce y aceptablemente' se debe a que (el verso) <span id="p343">[<sup><small>p. 343</small></sup>]</span> ocupa el lugar (de autoridad) y está en el centro.
+5\. 'La buena fortuna que surge de las regulaciones promulgadas dulce y aceptablemente' se debe a que (el verso) <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> ocupa el lugar (de autoridad) y está en el centro.
 
 6\. «Las normas son severas y difíciles. Incluso con una corrección firme, habrá maldad»: el curso (indicado por el hexagrama) ha llegado a su fin.
 
@@ -985,7 +985,7 @@ Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></
 
 2\. 'Sus crías le responden': es el deseo (común) del corazón más íntimo.
 
-3\. 'Ahora toca su tambor, y ahora se detiene': la posición (del verso) es la apropiada para ello. <span id="p344">[<sup><small>p. 344</small></sup>]</span> 4\. 'Un caballo cuyo compañero desaparece': se separa de sus (antiguos) compañeros y monta hacia arriba.
+3\. 'Ahora toca su tambor, y ahora se detiene': la posición (del verso) es la apropiada para ello. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> 4\. 'Un caballo cuyo compañero desaparece': se separa de sus (antiguos) compañeros y monta hacia arriba.
 
 5\. 'Es perfectamente sincero y vincula a los demás con él en una unión más estrecha': el lugar (de la línea) es el correcto y apropiado.
 
@@ -995,7 +995,7 @@ Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></
 
 1\. 'Hay un pájaro que vuela (y asciende) hasta que el resultado es malo': no ​​se puede hacer nada para evitar este problema.
 
-2\. 'No intenta alcanzar a su gobernante': - <span id="p345">[<sup><small>p. 345</small></sup>]</span> un ministro no debe sobrepasar la distancia (entre su gobernante y él mismo).
+2\. 'No intenta alcanzar a su gobernante': - <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> un ministro no debe sobrepasar la distancia (entre su gobernante y él mismo).
 
 3\. «Algunos, en consecuencia, encuentran la oportunidad de atacarlo y herirlo. Habrá maldad»: ¡cuán grande será!
 
@@ -1025,7 +1025,7 @@ Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></
 
 [^253]. (El trigrama que representa) el agua y el del fuego que está por encima forman Wei Žî. El hombre superior, en consonancia con esto, discrimina cuidadosamente entre las cualidades de las cosas y las posiciones que ocupan naturalmente.
 
-1\. «Su cola se hunde»: este es el colmo de la ignorancia. <span id="p347">[<sup><small>p. 347</small></sup>]</span> 2\. «El segundo NUEVE (indiviso) muestra la buena fortuna que surge de la firmeza y la corrección»: está en el lugar central, y la acción de su sujeto se vuelve así correcta.
+1\. «Su cola se hunde»: este es el colmo de la ignorancia. <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> 2\. «El segundo NUEVE (indiviso) muestra la buena fortuna que surge de la firmeza y la corrección»: está en el lugar central, y la acción de su sujeto se vuelve así correcta.
 
 3\. «(El estado de cosas) aún no se ha remediado. Avanzar conducirá al mal»: el lugar (del verso) no es el más apropiado para ello.
 
@@ -1229,13 +1229,13 @@ Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></
 [^221]: 307:XXXII Cómo la interacción del viento y el trueno simboliza la lección del hexagrama, y ​​especialmente la aplicación en este párrafo de ese simbolismo, es una cuestión que no he podido resolver.
   Párrafo 1. El énfasis de lo que se dice bajo la línea 1 recae aquí en que se trata de la primera línea de la figura.
   Párrafo 2. La línea 2 está en el centro de su trigrama, y ​​esa posición, aquí como a menudo en otras partes, simboliza el curso de su tema.
-  Párrafo 3. Los editores de Khang-hsî hacen la aplicación aquí = 'no puede soportar (permanecer) en ningún lugar'. <span id="p308">[<sup><small>p. 308</small></sup>]</span>
+  Párrafo 3. Los editores de Khang-hsî hacen la aplicación aquí = 'no puede soportar (permanecer) en ningún lugar'. <span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
   Del párrafo 5 se desprende que lo correcto varía según el caso. La lección del hexagrama es la perseverancia en lo correcto en cada caso particular.
 
 [^222]: 308:XXXIII <i>K</i>û Hsî dice:—«El cielo es ilimitado; una montaña es alta, pero tiene sus límites; la unión de estos es un símbolo de recogimiento». No comprendo tal simbolismo. <i>Kh</i>ăng-žze dice:—«Debajo del cielo hay una montaña. La montaña se eleva por debajo del cielo, y su altura se detiene, mientras que el cielo asciende cada vez más alto, hasta que se separan. En esto tenemos un símbolo de recogimiento y evasión». Sentimos algo así como (p. 309) si esto tuviera algún significado; pero, como en muchos otros casos, tanto el simbolismo como su aplicación se comprenden vagamente.
   El simbolismo de las distintas líneas se explica con suficiente detalle en el texto. El párrafo 5 es solo una repetición del texto sin mayor explicación.
 
-[^223]: 309:XXXIV Al ilustrar el simbolismo de los trigramas, <i>Kh</i>ăng-žze dice acertadamente: «El trueno que resuena en el cielo y hace temblar todo es el emblema del gran poder». Al hablar de su aplicación, comienza con un hermoso dicho de la antigüedad: «El hombre fuerte es aquel que se supera a sí mismo». Puedo creer que esta idea estuviera presente en la mente del autor del párrafo sobre el Gran Simbolismo; pero la analogía entre los mundos natural, moral y espiritual al pasar del fenómeno del trueno a esta verdad es algo palpable, y difícil de describir. <span id="p310">[<sup><small>p. 310</small></sup>]</span>
+[^223]: 309:XXXIV Al ilustrar el simbolismo de los trigramas, <i>Kh</i>ăng-žze dice acertadamente: «El trueno que resuena en el cielo y hace temblar todo es el emblema del gran poder». Al hablar de su aplicación, comienza con un hermoso dicho de la antigüedad: «El hombre fuerte es aquel que se supera a sí mismo». Puedo creer que esta idea estuviera presente en la mente del autor del párrafo sobre el Gran Simbolismo; pero la analogía entre los mundos natural, moral y espiritual al pasar del fenómeno del trueno a esta verdad es algo palpable, y difícil de describir. <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
   Párrafo 1. 'Esto conducirá al agotamiento'; y de ahí seguirán la angustia y otros males.
   La posición central y el debido medio moral en el párrafo 2 son otro ejemplo de la analogía sentida a la que se hace referencia más arriba.
   En el párrafo 3 no se añade nada al Texto; y sobre el simbolismo no se dice nada.
@@ -1312,7 +1312,7 @@ Sería ventajoso para él tener la <span id="p339">[<sup><small>p. 339</small></
   Párrafo 4. Los editores de Khang-hsî dicen: 'Semejante empleo de hombres de valor para prestar servicio a los Seres espirituales es servirles de acuerdo con su mente'.
   Párrafo 6. Cuando uno ha alcanzado la cima, debería pensar en retirarse. De lo contrario, la ambición podría desbordarse.
 
-[^236]: 326:XLVII La primera frase del Gran Simbolismo se construye de forma diferente a cualquiera de las que se han presentado en los 46 hexagramas anteriores. Traducido literalmente, sería «un pantano sin agua es Khwăn»; y esto ciertamente podría sugerirnos una condición de angustia. Pero ¿cómo se desprende esto de los trigramas? El superior es Tui, que representa un pantano; y el inferior es Khân, que representa el agua en un desfiladero. La colocación de ambos sugiere el flujo del agua del pantano o lago hacia el arroyo, que pronto vaciará el otro. Esta es la visión que se me ocurrió; y es la misma que la expresada por <i>K</i>û Hsî: «Al descender y filtrarse el agua, el pantano de arriba se secará». La aplicación es buena en sí misma, pero la concatenación entre ella y el Simbolismo es apenas perceptible. <span id="p327">[<sup><small>p. 327</small></sup>]</span>
+[^236]: 326:XLVII La primera frase del Gran Simbolismo se construye de forma diferente a cualquiera de las que se han presentado en los 46 hexagramas anteriores. Traducido literalmente, sería «un pantano sin agua es Khwăn»; y esto ciertamente podría sugerirnos una condición de angustia. Pero ¿cómo se desprende esto de los trigramas? El superior es Tui, que representa un pantano; y el inferior es Khân, que representa el agua en un desfiladero. La colocación de ambos sugiere el flujo del agua del pantano o lago hacia el arroyo, que pronto vaciará el otro. Esta es la visión que se me ocurrió; y es la misma que la expresada por <i>K</i>û Hsî: «Al descender y filtrarse el agua, el pantano de arriba se secará». La aplicación es buena en sí misma, pero la concatenación entre ella y el Simbolismo es apenas perceptible. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
   Tan estúpido es el sujeto de la línea 1 que con sus propios actos aumenta su angustia.
   Los editores de Khang-hsî afirman que el motivo de felicitación en el párrafo 2 es el banquete y el sacrificio. Creo que se trata más bien de la medida en que, según se insinúa, el tema brindará ayuda para aliviar las dificultades y la angustia del momento.
   Véase el extracto de los editores de Khang-hsî sobre el simbolismo de la tercera línea del Texto.
@@ -1356,7 +1356,7 @@ En el párrafo 1 se dice: «Aquellos que tienen intención de hacer algo en el m
 
 [^244]: 336:LV El rayo aparece aquí como el fenómeno natural cuyo símbolo es Lî. Las virtudes atribuidas a los dos trigramas son ciertamente necesarias en la aplicación de los mismos, que se adjunta; pero dicha aplicación tiene poca o ninguna relación con la explicación del hexagrama que proporciona el Texto.
   Apenas entiendo la conclusión del párrafo 1. Mi traducción del mismo es según el punto de vista de <i>K</i>û Hsî, si lo entiendo correctamente.
-  Párrafo 2. Es por tal sinceridad que la mente se ve afectada, es decir, la mente del gobernante que ocupa la línea 5. <span id="p337">[<sup><small>p. 337</small></sup>]</span>
+  Párrafo 2. Es por tal sinceridad que la mente se ve afectada, es decir, la mente del gobernante que ocupa la línea 5. <span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
   La línea 3 tiene un correlato en la 6, que es débil y, por así decirlo, fuera de juego. Además, la luz en la 3 está oculta. De ahí el simbolismo; y debido a la ceguera de su sujeto, su dolor lo incapacita para el empleo.
   La línea indivisa como 4 es 1; tal vez podríamos traducir: 'Se encuentra con el sujeto de la línea paralela'.
   Nadie más que él tiene confianza en el tema de la línea 6. Se mantiene apartado de los demás, y ellos lo abandonan a su suerte.
@@ -1371,11 +1371,11 @@ En el párrafo 1 se dice: «Aquellos que tienen intención de hacer algo en el m
 
 [^246]: 339:LVII He dicho sobre el Thwan que algunos comentaristas hacen que el trigrama superior simbolice las ordenanzas del gobernante y el inferior la obediencia del pueblo. Por ejemplo, <i>Kh</i>ăng-žze dice: «Los superiores, en armonía con el deber de los inferiores, emiten sus órdenes; los inferiores, en armonía con los deseos de sus superiores, las cumplen. Arriba y abajo existe esa armonía y deferencia; y este es el significado del Sol redoblado. Cuando las órdenes y los asuntos gubernamentales se ajustan a lo correcto, concuerdan con las tendencias mentales de quienes las siguen».
   El párrafo 2 parece decir que la sinceridad de propósito indicada por la posición central de la segunda línea conduce a su sujeto por el camino correcto, a pesar de las muchas consideraciones que podrían distraerlo.
-  «La voluntad está agotada», en el párrafo 3, da a entender que los repetidos esfuerzos realizados por el sujeto lo han agotado. Ahora solo puede lamentar sus fracasos. <span id="p340">[<sup><small>p. 340</small></sup>]</span>
+  «La voluntad está agotada», en el párrafo 3, da a entender que los repetidos esfuerzos realizados por el sujeto lo han agotado. Ahora solo puede lamentar sus fracasos. <span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
   Lo que se dice en el párrafo 6 procede de una visión del Texto diferente de la que he seguido.
 
 [^247]: 340:LVIII La aplicación del Gran Simbolismo aquí recordará a muchos lectores las máximas hebreas de Proverbios xxvii. 17, 19. El sentimiento del mismo, sin embargo, no encaja fácilmente con la enseñanza del hexagrama tal como se expone en el Texto.
-  No hay nada en la conducta del sujeto de la línea 1 que despierte sospechas. Aún no ha tomado ninguna medida; pero no era necesario decir nada parecido sobre el sujeto de la línea 2, ya que su postura central era asegurar que nunca haría nada dudoso. <span id="p314">[<sup><small>p. 314</small></sup>]</span>
+  No hay nada en la conducta del sujeto de la línea 1 que despierte sospechas. Aún no ha tomado ninguna medida; pero no era necesario decir nada parecido sobre el sujeto de la línea 2, ya que su postura central era asegurar que nunca haría nada dudoso. <span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
   La línea 3 debe ser fuerte, y el deseo de placer, que es la idea del hexagrama, conduce a su débil sujeto al curso que está tan enfáticamente condenado.
   El párrafo 5 está incompleto. ¿Acaso la corrección y pertinencia de la posición del sujeto de la línea explican por qué confió en el sujeto de la línea débil anterior, quien solo lo perjudicaría? Debería, por el contrario, evitar que lo hiciera. Los comentaristas lo han visto y afirman que el párrafo tiene la intención de ser una advertencia.
   La acción del hexagrama debe culminar y terminar en la línea 5. Pero el sujeto del mismo no ha logrado brillantes logros en la firmeza y corrección con que debe controlarse el amor al placer.

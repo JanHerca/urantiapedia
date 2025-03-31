@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:24:44Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 El Ḥáfiz Ahmad ibn al-Ḥusain ibn Yaḥya ibn Ṣa‘íd ibn Bashar Abú’l-Faḍl al-Hamadhání, apodado Badí ‘al-Zamán (la Maravilla de la Época), nació en Hamadhán el 13 de Jumádí al-Ákhir 358 h. (967 d. C.) y, por lo tanto, como muchos otros escritores árabes eminentes, vivió lejos de Arabia e incluso puede haber sido de origen persa. [^0] Él mismo afirmó descender de las tribus de Taghlib y Muḍar. [^1]
 
@@ -44,7 +44,7 @@ Se dice que satirizó su lugar natal en los conocidos versos:—[^2]
 Hamadhán es mi ciudad natal, debo concederle ese honor, pero es la más vil de las ciudades.
 En la fealdad sus hijos son como sus ancianos, y, en la razón, sus ancianos son como sus hijos.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 En la página 419 de las Cartas cita el verso de otro poeta:
 
@@ -88,7 +88,7 @@ Como nadie había imaginado que hubiera un erudito que, bajo ninguna circunstanc
 
 A la muerte de al-Khwárazmí en el año 383 de la Hégira (según Ibn al-Athír en el año 393 de la Hégira), Hamadhání se encontró sin rival. No se sabe cuánto tiempo permaneció en Nishapur, pero al escribirle al jeque Abd ‘Alí para que le enviara una carta al amír se queja de que su estancia allí había sido larga, que sufría de insomnio y que, si se producía algún retraso en el envío de la carta, se vería obligado a marcharse sin ella. [24] Tras abandonar esta ciudad, visitó todas las ciudades importantes de Khurásán, Sijistán (Seistan) y el reino de Ghazna, probablemente recitando su maqámát ante audiencias admiradas dondequiera que iba. Finalmente se estableció en Herat [25] donde mejoró mucho su posición y sus circunstancias al casarse con la hija de un hombre rico llamado Abú ‘Alí Ḥusain al-Khushnámí. De este matrimonio tuvo una hija única a la que se refiere con los términos más cariñosos. Escribe: «Me siento tan apegado a ella como un padre a su hijo único y no la cambiaría por diez hijos». [^26]
 
-Parece haber mantenido una extensa correspondencia con un gran número de personajes distinguidos, entre los que destacan: Shaikh Abd ‘Abbás, primer ministro del Sulṭán Maḥmúd de Ghazna, Adnán ibn Muḥammad, gobernador de <span id="p7">[<sup><small>p. 7</small></sup>]</span> Herat, Abú Ja‘far al-Míkálí, Muḥammad ibn Zuheir, gobernador de Balkh, el Wazír de Rayy y otros.
+Parece haber mantenido una extensa correspondencia con un gran número de personajes distinguidos, entre los que destacan: Shaikh Abd ‘Abbás, primer ministro del Sulṭán Maḥmúd de Ghazna, Adnán ibn Muḥammad, gobernador de <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> Herat, Abú Ja‘far al-Míkálí, Muḥammad ibn Zuheir, gobernador de Balkh, el Wazír de Rayy y otros.
 
 La competencia en el arte epistolar, como la que podía presumir Hamadhání, era un pasaporte seguro para ascender en la época del autor, pero no parece haber ocupado ningún cargo oficial y las alusiones a su nombramiento como gobernador de Basora [^27] y administrador de una provincia en Siria [^28] son, con toda probabilidad, una ficción. [^29] Murió en Herat el viernes 11 de Jumádí’l ‘Ula. AH. 398 (febrero de 1008) [^30] a la edad comparativamente temprana de cuarenta años lunares, u ocho años más joven que Ḥarírí cuando comenzó a componer su Maqámát. [^31]
 

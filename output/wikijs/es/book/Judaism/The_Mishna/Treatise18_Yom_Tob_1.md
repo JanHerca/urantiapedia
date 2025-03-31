@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. Según Bet Shamai, un huevo puesto durante la festividad puede comerse en él; pero Bet Hillel opina que no debe comerse. Bet Shamai también dictamina que la levadura del tamaño de una aceituna y el pan con levadura del tamaño de un dátil deben retirarse antes de la Pascua; pero Bet Hillel dice que ambos deben retirarse cuando sean del tamaño de una aceituna.
 
-§ 2. Cuando alguien desee matar durante la festividad un animal salvaje o <span id="p145">[<sup><small>p. 145</small></sup>]</span> ave, puede, según Beth Shammai, «retirar con una pala, clavada en la tierra \[antes de la festividad\], la tierra suelta y cubrir con ella la sangre». Pero Beth Hillel no permite matar durante la festividad, a menos que la persona haya preparado la tierra para cubrirla el día anterior a la fiesta. Sin embargo, ambos colegios coinciden en que, en caso de matar, puede cavar con una pala para obtener tierra para cubrirla. Las cenizas del hogar pueden considerarse «preparadas» para su uso.
+§ 2. Cuando alguien desee matar durante la festividad un animal salvaje o <span id="p145"><sup><small>[ p. 145 ]</small></sup></span> ave, puede, según Beth Shammai, «retirar con una pala, clavada en la tierra \[antes de la festividad\], la tierra suelta y cubrir con ella la sangre». Pero Beth Hillel no permite matar durante la festividad, a menos que la persona haya preparado la tierra para cubrirla el día anterior a la fiesta. Sin embargo, ambos colegios coinciden en que, en caso de matar, puede cavar con una pala para obtener tierra para cubrirla. Las cenizas del hogar pueden considerarse «preparadas» para su uso.
 
 § 3. Beth Shammai dice: «Está prohibido mover una escalera de un palomar a otro; sin embargo, se puede mover de una abertura a otra del mismo palomar». Pero Beth Hillel permite ambas cosas. Beth Shammai dice: «Es ilegal mover las aves de sus lugares, a menos que hayan sido sacudidas o tocadas antes de la festividad». [^407] Pero Beth Hillel dice: «Es innecesario hacer más que, de pie delante de la siguiente, [^408] decir: «Tomaré esta y aquella ave para la festividad».
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 9. Beth Shammai enseña que es ilegal enviar a otra persona como regalo durante la festividad cualquier cosa que no sean comestibles. [^411] Beth Hillel permite enviar incluso ganado, caza y aves de corral, [^412] ya sean vivas o muertas; también se permiten regalos de vino, aceite, harina fina y legumbres, pero no grano. [^413] Pero R. Simeón también permite enviar grano. [^414]
 
-§ 10. También es lícito enviar ropa, cosida o no, incluso de «Kilaim», si se usa en la festividad, pero no sandalias con clavos de hierro, [^415] ni zapatos sin coser ni terminar. R. Jehudah dice: <span id="p147">[<sup><small>p. 147</small></sup>]</span> «Tampoco se pueden enviar zapatos blancos, porque requieren un artesano para hacerlos aptos para su uso». [^416] Esta es la regla general: todo lo que se pueda usar en la festividad puede enviarse como regalo.
+§ 10. También es lícito enviar ropa, cosida o no, incluso de «Kilaim», si se usa en la festividad, pero no sandalias con clavos de hierro, [^415] ni zapatos sin coser ni terminar. R. Jehudah dice: <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> «Tampoco se pueden enviar zapatos blancos, porque requieren un artesano para hacerlos aptos para su uso». [^416] Esta es la regla general: todo lo que se pueda usar en la festividad puede enviarse como regalo.
 
 
 

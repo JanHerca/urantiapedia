@@ -40,7 +40,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. [^359]. Hay tres tipos de Pâkaya<i>g</i><i>g</i>as: los hutas (es decir, los sacrificios) ofrecidos sobre el fuego; sobre algo que no es el fuego, los prahutas; y en la alimentación de los Brâhma<i>g</i>as, aquellos ofrecidos en el Brahman.
 
-3\. [^360]. Y citan también a Rikás: «Quien con un trozo de madera, con una oblación o con conocimiento («veda»)»». <span id="p160">[<sup><small>p. 160</small></sup>]</span>
+3\. [^360]. Y citan también a Rikás: «Quien con un trozo de madera, con una oblación o con conocimiento («veda»)»». <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 4 [^361]. Incluso quien, lleno de fe, pone un trozo de leña en el fuego, debería pensar: «¡Aquí ofrezco un sacrificio, adoración a esa deidad!»
 
@@ -74,7 +74,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 7Soma y los hombres de Soma: estas (oblaciones que hace) a los diferentes sectores (del horizonte, de los cuales aquellas son las deidades que presiden).
 
-6\. A Brahman y a los hombres de Brahman en el medio, <span id="p162">[<sup><small>p. 162</small></sup>]</span>
+6\. A Brahman y a los hombres de Brahman en el medio, <span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 7\. A los devas Visve, a todos los seres que caminan durante el día, así durante el día;
 
@@ -110,7 +110,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 10\. Con referencia a ello se canta la siguiente estrofa sacrificial:
 
-'Quien tenga que realizar (diferentes) Pâkaya<i>g</i><i>g</i>as, debe ofrecerlos con el mismo Â<i>g</i>ya, el mismo <span id="p164">[<sup><small>p. 164</small></sup>]</span> Barhis y el mismo Svish<i>g</i>ak<i>g</i>t, incluso si la deidad (de esos sacrificios) no es la misma.'
+'Quien tenga que realizar (diferentes) Pâkaya<i>g</i><i>g</i>as, debe ofrecerlos con el mismo Â<i>g</i>ya, el mismo <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> Barhis y el mismo Svish<i>g</i>ak<i>g</i>t, incluso si la deidad (de esos sacrificios) no es la misma.'
 
 
 
@@ -140,7 +140,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 ## KA<i>ND</i>IKÂ 5.
 
-1\. [^377]. Que primero examine la familia (del futuro esposo o esposa), como se dijo anteriormente, <span id="p165">[<sup><small>p. 165</small></sup>]</span> «Aquellos que pertenecen al lado materno y al paterno».
+1\. [^377]. Que primero examine la familia (del futuro esposo o esposa), como se dijo anteriormente, <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> «Aquellos que pertenecen al lado materno y al paterno».
 
 2\. Que entregue la muchacha a un joven dotado de inteligencia.
 
@@ -170,7 +170,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 5\. [^384]. Él puede casarse con ella, después de que se haya hecho un acuerdo mutuo (entre el amante y la damisela): esta (es la boda llamada) Gândharva.
 
-6\. [^385]. Puede casarse con ella después de complacer a su padre con dinero: esta es la boda llamada Âsura. <span id="p167">[<sup><small>p. 167</small></sup>]</span>
+6\. [^385]. Puede casarse con ella después de complacer a su padre con dinero: esta es la boda llamada Âsura. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 7 [^386]. Él puede llevársela mientras (sus parientes) duermen o no prestarles atención: esta (la boda se llama) Pai<i>s</i>â<i>s</i>a.
 
@@ -190,7 +190,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 4\. Sus otros dedos, si desea tener hijas;
 
-5\. La mano del lado del cabello junto con el pulgar, <span id="p168">[<sup><small>p. 168</small></sup>]</span>, (si) se desea tener hijos (varones y hembras).
+5\. La mano del lado del cabello junto con el pulgar, <span id="p168"><sup><small>[ p. 168 ]</small></sup></span>, (si) se desea tener hijos (varones y hembras).
 
 6\. [^389]. La conduce tres veces alrededor del fuego y la olla de agua, de modo que sus lados derechos queden hacia (el fuego, etc.), murmura: «Este soy yo, eso eres tú; eso eres tú, esto soy yo; el cielo yo, la tierra tú; el Sâman yo, el <i>Rik<i> tú. ¡Ven! Casémonos aquí. Engendremos descendencia. Que vivamos cien otoños, amorosos, brillantes y con una mente brillante».
 
@@ -206,7 +206,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 12\. Esta es la regla sobre las porciones que deben cortarse.
 
-13\. [^393]. 'Al dios Aryaman las muchachas le han ofrecido sacrificios, <span id="p169">[<sup><small>p. 169</small></sup>]</span> a Agni; ¡que él, dios Aryaman, la libere de este lugar, y no de aquel, Svâhâ!
+13\. [^393]. 'Al dios Aryaman las muchachas le han ofrecido sacrificios, <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> a Agni; ¡que él, dios Aryaman, la libere de este lugar, y no de aquel, Svâhâ!
 
 'Al dios Varuna las muchachas le han hecho sacrificios, a Agni; que él, el dios Varuna, etc.
 
@@ -244,7 +244,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 4\. [^400]. (Pronuncia el verso), 'Lamentan por la viviente' (Rig-veda X, 40, 10), si ella llora.
 
-5\. Llevan constantemente el fuego nupcial al frente. <span id="p171">[<sup><small>p. 171</small></sup>]</span>
+5\. Llevan constantemente el fuego nupcial al frente. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 6 [^401]. En lugares hermosos, árboles y encrucijadas, que murmure (el verso): “Que ningún caminante nos encuentre” (Rig-veda X, 85, 32).
 
@@ -260,7 +260,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 12\. [^404]. Cuando haya cumplido (esta) observancia (y haya tenido relaciones sexuales con su esposa), debe entregar el vestido de novia (al Brâhma<i>n</i>a) que conoce el himno Sûryâ (Rig-veda X, 85);
 
-13\. 'Alimento para los Brahmanes; <span id="p172">[<sup><small>p. 172</small></sup>]</span>
+13\. 'Alimento para los Brahmanes; <span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 14\. Luego debería hacerles pronunciar palabras auspiciosas.
 
@@ -294,7 +294,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 3
 
-2\. El ayuno que se realiza allí ha sido declarado por las reglas correspondientes a los sacrificios Dar<i>s</i>apûr<i>s</i>amâsa. <span id="p173">[<sup><small>p. 173</small></sup>]</span>
+2\. El ayuno que se realiza allí ha sido declarado por las reglas correspondientes a los sacrificios Dar<i>s</i>apûr<i>s</i>amâsa. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 3 [^408]. Y (así se ha declarado) la unión del combustible y de los Barhis,
 
@@ -314,7 +314,7 @@ Al ver esto, el Rishi dijo: «A quien no se aleja de las vacas, a quien las anhe
 
 11\. Pero si cocina las porciones mezclándolas, deberá tocarlas y sacrificarlas, después de haberlas puesto en recipientes diferentes.
 
-12\. [^410]. Las porciones de comida sacrificial, cuando <span id="p174">[<sup><small>p. 174</small></sup>]</span> se han cocinado, las rocía (con Â<i>g</i>ya, las retira del fuego hacia el norte, las coloca sobre los Barhis y rocía el combustible con Â<i>g</i>ya con la fórmula: 'Este combustible eres tú mismo, <i>G</i>âtavedas; con él arde y multiplica, y, oh Ardiente, haznos crecer y mediante descendencia, ganado, brillo sagrado y alimento haznos prosperar. ¡Svâhâ!'
+12\. [^410]. Las porciones de comida sacrificial, cuando <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> se han cocinado, las rocía (con Â<i>g</i>ya, las retira del fuego hacia el norte, las coloca sobre los Barhis y rocía el combustible con Â<i>g</i>ya con la fórmula: 'Este combustible eres tú mismo, <i>G</i>âtavedas; con él arde y multiplica, y, oh Ardiente, haznos crecer y mediante descendencia, ganado, brillo sagrado y alimento haznos prosperar. ¡Svâhâ!'
 
 13\. [^411]. Tras haber vertido en silencio las dos Âghâras (o las oblaciones Â<i>g</i>ya vertidas con el Sruva, una de noroeste a sureste, la otra de suroeste a noreste), debe sacrificar las dos porciones Â<i>g</i>ya con (las fórmulas), '¡A Agni svâhâ! ¡A Soma svâhâ!'—
 
@@ -342,7 +342,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 24\. [^419]. Él vierte el vaso lleno sobre los Barhis.
 
-25\. [^420]. Este es el Avabhritha. <span id="p176">[<sup><small>p. 176</small></sup>]</span>
+25\. [^420]. Este es el Avabhritha. <span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 26\. Esta es la forma estándar de los Pâkaya<i>ri</i><i>ri</i>as.
 
@@ -367,7 +367,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 5\. Habiendo llevado fuego a su alrededor, y realizando sólo ese acto (sin repetir el Mantra correspondiente), lo conducen hacia el norte.
 
-6\. [^422]. Delante de él llevan una tea. <span id="p177">[<sup><small>p. 177</small></sup>]</span>
+6\. [^422]. Delante de él llevan una tea. <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 7 [^423] Éste es el <i>S</i>âmitra (fuego).
 
@@ -379,7 +379,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 11\. [^426]. En el mismo fuego se cocina un montón de comida.
 
-12\. [^427]. Habiendo cortado los once Avadânas (o porciones que deben cortarse) del animal, de todas sus extremidades, habiéndolas hervido en el <i>S</i>âmitra (fuego), <span id="p178">[<sup><small>p. 178</small></sup>]</span> y habiendo calentado el corazón en un asador, que primero sacrifique de la mezcla de comida cocida (mencionada en el Sûtra 11);
+12\. [^427]. Habiendo cortado los once Avadânas (o porciones que deben cortarse) del animal, de todas sus extremidades, habiéndolas hervido en el <i>S</i>âmitra (fuego), <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> y habiendo calentado el corazón en un asador, que primero sacrifique de la mezcla de comida cocida (mencionada en el Sûtra 11);
 
 13\. O junto con las porciones de Avadâna.
 
@@ -399,7 +399,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 3
 
-2\. [^431]. Si, sin embargo, (el <i>K</i>aitya) está lejos, (debería enviar su Bali) mediante un mensajero de hojas. <span id="p179">[<sup><small>p. 179</small></sup>]</span>
+2\. [^431]. Si, sin embargo, (el <i>K</i>aitya) está lejos, (debería enviar su Bali) mediante un mensajero de hojas. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 3
 
@@ -421,7 +421,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 1\. [^435]. El Upanishad trata del Garbhalambhana, el Pu<i>m</i>savana y el Anavalobhana (es decir, las ceremonias para asegurar la concepción de un niño, el género masculino del niño y para prevenir perturbaciones que podrían poner en peligro al embrión).
 
-2\. [^436]. Si no estudia (ese Upanishad), <span id="p180">[<sup><small>p. 180</small></sup>]</span> debe, en el tercer mes de su embarazo, bajo (el Nakshatra) Tishya, dar de comer (a la esposa), después de que haya ayunado, en cuajada de una vaca que tenga un ternero del mismo color (que ella), dos frijoles y un grano de cebada por cada puñado de cuajada.
+2\. [^436]. Si no estudia (ese Upanishad), <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> debe, en el tercer mes de su embarazo, bajo (el Nakshatra) Tishya, dar de comer (a la esposa), después de que haya ayunado, en cuajada de una vaca que tenga un ternero del mismo color (que ella), dos frijoles y un grano de cebada por cada puñado de cuajada.
 
 3\. A ​​su pregunta: "¿Qué bebes? ¿Qué bebes?", ella debería responder tres veces: "¡Generación de un hijo varón! ¡Generación de un hijo varón!".
 
@@ -463,7 +463,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 6\. Da órdenes a dos músicos de laúd: "Canten, rey Soma".
 
-7\. [^440]. (Cantan) «Que Soma, nuestro rey, bendiga a la raza humana. Se asienta la rueda de NN» —(aquí nombran) el río cerca del cual habitan. <span id="p182">[<sup><small>p. 182</small></sup>]</span>
+7\. [^440]. (Cantan) «Que Soma, nuestro rey, bendiga a la raza humana. Se asienta la rueda de NN» —(aquí nombran) el río cerca del cual habitan. <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 8\. Y a cualquier mujer brahmana de edad avanzada, cuyos maridos e hijos estén vivos, diles que lo hagan.
 
@@ -481,7 +481,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 3\. [^442]. Toca los hombros del niño con el verso: «Sé una piedra, sé un hacha, sé oro insuperable. Tú, en verdad, eres el Veda, llamado hijo; vive así cien otoños»; y con los versos: «Indra, danos los mejores tesoros» (Rig-veda II, 21, 6), «Concédenos, oh generoso, oh veloz» (Rig-veda III, 36, 10).
 
-4\. Y que le den un nombre que empiece con <span id="p183">[<sup><small>p. 183</small></sup>]</span>, una sonante, con una semivocal, con la Visarga al final, que consta de dos sílabas,
+4\. Y que le den un nombre que empiece con <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>, una sonante, con una semivocal, con la Visarga al final, que consta de dos sílabas,
 
 5\. O de cuatro sílabas;
 
@@ -509,7 +509,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 4\. Arroz hervido con ghee, si se desea esplendor:
 
-5\. Debe dársele al niño este alimento mezclado con cuajada, miel y ghee para que lo coma con este verso: «Señor del alimento, danos alimento indoloro y fuerte; <span id="p184">[<sup><small>p. 184</small></sup>]</span> trae al dador; concédenos poder, a los hombres y a los animales».
+5\. Debe dársele al niño este alimento mezclado con cuajada, miel y ghee para que lo coma con este verso: «Señor del alimento, danos alimento indoloro y fuerte; <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> trae al dador; concédenos poder, a los hombres y a los animales».
 
 6\. El rito sólo (sin el Mantra) para una niña.
 
@@ -533,7 +533,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 7\. Tomando esa (agua), (y) mantequilla fresca, o (unas) gotas de cuajada, humedece tres veces la cabeza (del niño), de izquierda a derecha, con (la fórmula), '¡Que Aditi te corte el pelo; que las aguas te humedezcan para darte vigor!'
 
-8\. [^445]. En la parte derecha (del cabello) coloca cada <span id="p185">[<sup><small>p. 185</small></sup>]</span> vez tres manojos de Ku<i>s</i>a, con las puntas hacia él mismo, con las palabras: «¡Hierba! ¡Protégelo!».
+8\. [^445]. En la parte derecha (del cabello) coloca cada <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> vez tres manojos de Ku<i>s</i>a, con las puntas hacia él mismo, con las palabras: «¡Hierba! ¡Protégelo!».
 
 9\. (Con las palabras,) '¡Hacha! ¡No le hagas daño!' presiona una navaja de cobre (sobre las hojas de Ku<i>s</i>a),
 
@@ -555,7 +555,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 15\. Así tres veces en el lado izquierdo (de la cabeza).
 
-16\. [^447]. Que limpie el filo de la navaja con (las palabras): «Si afeitas, como quien afeita, su cabello con la navaja, la herida, la bien formada, purifica su cabeza, pero no le quites la vida». <span id="p186">[<sup><small>p. 186</small></sup>]</span>
+16\. [^447]. Que limpie el filo de la navaja con (las palabras): «Si afeitas, como quien afeita, su cabello con la navaja, la herida, la bien formada, purifica su cabeza, pero no le quites la vida». <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 17\. Que dé órdenes al barbero: "Con agua tibia haz lo que se debe hacer con agua, sin hacerle daño, arréglale bien el pelo".
 
@@ -589,7 +589,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 7\. [^452]. Después de bañarse y permanecer en silencio durante el resto del día, que rompa su silencio en presencia de su maestro, (diciéndole:) 'Te doy un regalo opcional (a ti)'.
 
-8\. Un buey y una vaca es el precio del sacrificio. <span id="p187">[<sup><small>p. 187</small></sup>]</span>
+8\. Un buey y una vaca es el precio del sacrificio. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 9 [^453]. Que (el maestro) imponga (a los jóvenes las observancias declaradas a continuación) por un año.
 
@@ -629,7 +629,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 1
 
-12\. Sus cinturones son: el de un brahmán, de hierba Mundá; el de un kshatriya, de cuerda de arco; el de un vainya, de lana. <span id="p188">[<sup><small>p. 188</small></sup>]</span>
+12\. Sus cinturones son: el de un brahmán, de hierba Mundá; el de un kshatriya, de cuerda de arco; el de un vainya, de lana. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 13\. Sus bastones son: el de un Brâhma<i>n</i>a de madera de Palâ<i>n</i>a, el de un Kshatriya de madera de Udumbara, el de un Vai<i>n</i>ya de madera de Bilva.
 
@@ -659,7 +659,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 8
 
-7\. Debe hacerle mirar al sol mientras el maestro dice: «Dios Savit_ri_, este es tu Brahma<i>k</i>ârin; protégelo; que no muera». <span id="p189">[<sup><small>p. 189</small></sup>]</span>
+7\. Debe hacerle mirar al sol mientras el maestro dice: «Dios Savit_ri_, este es tu Brahma<i>k</i>ârin; protégelo; que no muera». <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 8\. (Y además el maestro dice): "¿De quién eres el Brahma<i>k</i>ârin? Eres el Brahma<i>k</i>ârin del aliento. ¿Quién te inicia y a quién (inicia)? ¿A quién te dejo a cargo?"
 
@@ -731,7 +731,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 11\. Debería permanecer de pie el resto del día.
 
-12\. [^459]. Después del atardecer, el estudiante debe cocinar el Brâhmaudana (o arroz hervido con el que se alimentará a los brahmanes) para el sacrificio Anupravaniya (el sacrificio que se realizará después de estudiar una parte del Veda) y debe anunciar al maestro que está listo. <span id="p192">[<sup><small>p. 192</small></sup>]</span>
+12\. [^459]. Después del atardecer, el estudiante debe cocinar el Brâhmaudana (o arroz hervido con el que se alimentará a los brahmanes) para el sacrificio Anupravaniya (el sacrificio que se realizará después de estudiar una parte del Veda) y debe anunciar al maestro que está listo. <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 13. El maestro debe ofrecer el sacrificio, mientras el estudiante lo sostiene, con el verso: «El maravilloso señor de la morada» (Rig-Veda I, 18, 6).
 
@@ -749,7 +749,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 20\. [^462]. Cuando haya cumplido con estas observancias, el maestro realiza para él la «producción de inteligencia» de la siguiente manera:
 
-21\. [^463]. Mientras (el estudiante), hacia una dirección inobjetable (del horizonte), rocía tres veces (agua) de izquierda a derecha con un cántaro alrededor de un <span id="p193">[<sup><small>p. 193</small></sup>]</span> Palâ<i>s</i>a (árbol) de una sola raíz, o alrededor de un racimo de Ku<i>s</i>a, si no hay Palâ<i>s</i>a, (el maestro) le hace decir: «Oh, glorioso, tú eres glorioso. Como tú, oh, glorioso, eres glorioso, así, oh, glorioso, condúceme a la gloria. Como tú eres el preservador del tesoro del sacrificio para los dioses, que yo pueda convertirme en el preservador del tesoro del Veda para los hombres».
+21\. [^463]. Mientras (el estudiante), hacia una dirección inobjetable (del horizonte), rocía tres veces (agua) de izquierda a derecha con un cántaro alrededor de un <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> Palâ<i>s</i>a (árbol) de una sola raíz, o alrededor de un racimo de Ku<i>s</i>a, si no hay Palâ<i>s</i>a, (el maestro) le hace decir: «Oh, glorioso, tú eres glorioso. Como tú, oh, glorioso, eres glorioso, así, oh, glorioso, condúceme a la gloria. Como tú eres el preservador del tesoro del sacrificio para los dioses, que yo pueda convertirme en el preservador del tesoro del Veda para los hombres».
 
 22\. [^464]. De esta manera, comenzando con el corte de cabello y terminando con la entrega del cargo, se ha declarado la imposición de observancias.
 
@@ -787,7 +787,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 7\. [^474]. Él elige el Hot<i>ri</i> primero.
 
-8\. Con (la fórmula), «Agni es mi Hot_ri_; él es mi Hot_ri_; te elijo a ti, NN, como mi Hot_ri_» (él elige) el Hot_ri_. <span id="p195">[<sup><small>p. 195</small></sup>]</span>
+8\. Con (la fórmula), «Agni es mi Hot_ri_; él es mi Hot_ri_; te elijo a ti, NN, como mi Hot_ri_» (él elige) el Hot_ri_. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 9\. Con (la fórmula), 'Kandramas (la luna) es mi Brahman; él es mi Brahman; te elijo a ti NN como mi Brahman' (él elige) al Brahman.
 
@@ -809,7 +809,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 18\. Del mismo modo los demás según las prescripciones (dadas arriba).
 
-19\. [^477]. Y si (el sacerdote que acepta la invitación) <span id="p196">[<sup><small>p. 196</small></sup>]</span> va a realizar el sacrificio (para quien invita, debe añadir): «Que eso me bendiga; que eso entre en mí; que así disfrute (de la dicha)».
+19\. [^477]. Y si (el sacerdote que acepta la invitación) <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> va a realizar el sacrificio (para quien invita, debe añadir): «Que eso me bendiga; que eso entre en mí; que así disfrute (de la dicha)».
 
 20\. [^478]. Las funciones de un sacerdote oficiante no deben ejercerse si son abandonadas (por otro sacerdote), o en un sacrificio de Ahîna con una pequeña cuota de sacrificio, o por una persona enferma, o que sufre, o afectada por tuberculosis, o denigrada entre la gente de su aldea, o de extracción despreciada: para tales personas (las funciones de un Ritvi<i>g</i> no deben ejercerse).
 
@@ -841,7 +841,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 6\. O mantequilla, si no puede conseguir miel.
 
-7\. Un asiento, el agua para lavar los pies, el agua Arghya (es decir, agua perfumada con flores), el agua para beber, la mezcla de miel, <span id="p198">[<sup><small>p. 198</small></sup>]</span> una vaca: cada una de estas cosas se anuncia tres veces (al invitado).
+7\. Un asiento, el agua para lavar los pies, el agua Arghya (es decir, agua perfumada con flores), el agua para beber, la mezcla de miel, <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> una vaca: cada una de estas cosas se anuncia tres veces (al invitado).
 
 8\. Con el verso: «Soy el más alto entre mi pueblo, como el sol entre los rayos. Aquí piso a quienquiera que me infeste», debería sentarse en el asiento (hecho de) hierba que apunta hacia el norte.
 
@@ -861,7 +861,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 16\. Con (la fórmula), 'Que los Rudras te coman con el metro Trish<i>t</i>ubh' - al sur;
 
-17\. Con (la fórmula), «Que los Âdityas te coman con el metro <i>G</i>agatî» —al oeste; <span id="p199">[<sup><small>p. 199</small></sup>]</span>
+17\. Con (la fórmula), «Que los Âdityas te coman con el metro <i>G</i>agatî» —al oeste; <span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 18\. Con (la fórmula), 'Que los devas Vi<i>s</i>ve te coman con el metro Anush<i>s</i>ubh'—hacia el norte.
 
@@ -891,7 +891,7 @@ Que Agni Svisht, quien lo sabe, haga un buen sacrificio y una buena ofrenda para
 
 31\. Habiendo murmurado: "Mi pecado ha sido destruido; mi pecado ha sido destruido", (dice), "Oh, hazlo", si decide matarla.
 
-32\. Habiendo murmurado: «La madre de los Rudras, la hija de los Vasus» (Rig-veda VIII, 101, 15), <span id="p200">[<sup><small>p. 200</small></sup>]</span> (dice:) «Om, déjala ir», si así lo desea.
+32\. Habiendo murmurado: «La madre de los Rudras, la hija de los Vasus» (Rig-veda VIII, 101, 15), <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> (dice:) «Om, déjala ir», si así lo desea.
 
 33\. [^483]. Que el Madhuparka no esté sin carne, sin carne.
 

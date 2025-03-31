@@ -66,7 +66,7 @@ Observe el lector que, dado que las letras del alfabeto inglés son más numeros
 _a_ | _b_ | _c_ | _d_ | _e_ | _f_ | _g_ | _h_ | _i_ | _j_ | _k_ | _l_ | _m_
 _z_ | _y_ | _x_ | _w_ | _v_ | _u_ | _t_ | _s_ | _r_ | _q_ | _p_ | _o_ | _n_
 
-Obtenemos trece parejas de letras que se intercambian una con la otra, a saber, _a_ y _z_, _b_ e _y_, _c_ y _x_, etc. Estas letras, <span id="p269">[<sup><small>p. 269</small></sup>]</span> cuando se intercambian, dan lugar a un alfabeto permutado, y este alfabeto permutado toma su nombre técnico de las dos primeras parejas de letras, _a_ y _z_, _b_ e _y_, o "Azby". Ahora bien, si deseamos escribir, "No te metas con los que son dados a cambiar", tienes que cambiar las letras de las parejas y el siguiente será el resultado: "Nvwwov mlg drgs gsvn gszg ziv trem gl xszmtv". Este es un ejemplo del misterioso Temurah, y el "Azby" es la clave para ello. Los otros cuatro alfabetos permutados son de naturaleza y carácter similares, y gozan de tanta estima entre los sabios y bardos de Israel que los utilizan a menudo en sus composiciones literarias y poéticas. Los Majzorim, o liturgias judías para las festividades, están repletos de composiciones donde las primeras letras de las oraciones siguen el orden del «Atbash» o del «Tashrak». Este último es simplemente un orden inverso del alfabeto.
+Obtenemos trece parejas de letras que se intercambian una con la otra, a saber, _a_ y _z_, _b_ e _y_, _c_ y _x_, etc. Estas letras, <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> cuando se intercambian, dan lugar a un alfabeto permutado, y este alfabeto permutado toma su nombre técnico de las dos primeras parejas de letras, _a_ y _z_, _b_ e _y_, o "Azby". Ahora bien, si deseamos escribir, "No te metas con los que son dados a cambiar", tienes que cambiar las letras de las parejas y el siguiente será el resultado: "Nvwwov mlg drgs gsvn gszg ziv trem gl xszmtv". Este es un ejemplo del misterioso Temurah, y el "Azby" es la clave para ello. Los otros cuatro alfabetos permutados son de naturaleza y carácter similares, y gozan de tanta estima entre los sabios y bardos de Israel que los utilizan a menudo en sus composiciones literarias y poéticas. Los Majzorim, o liturgias judías para las festividades, están repletos de composiciones donde las primeras letras de las oraciones siguen el orden del «Atbash» o del «Tashrak». Este último es simplemente un orden inverso del alfabeto.
 
 ### LA VERDADERA KÁBALA
 
@@ -104,7 +104,7 @@ _Ibídem._
 
 El Yalkut Shimeoni, en auténtico estilo rabínico, amplía aún más la licencia concedida en las citas anteriores. El rabino Eliezer dice que los israelitas se lamentaron así ante Dios, exclamando: «Quisiéramos estar ocupados día y noche en la ley, pero ¿no tenemos el tiempo libre necesario? Entonces el Santo —¡bendito sea!— dijo: «Cumplan el mandamiento de las filacterias, y lo consideraré como si estuvieran ocupados día y noche en el estudio de la ley».
 
-De todos modos, todo Israel en conjunto observa todos los preceptos: los sacerdotes cumplen su parte, los levitas la suya y los israelitas la suya; así, todos cumplen todos. Porque el Santo —¡bendito sea!— ha escrito <span id="p273">[<sup><small>p. 273</small></sup>]</span> una ley para sus fieles siervos, la nación de Israel, y como nación, la cumplen en su totalidad. Es como cuando un rey escribió a sus súbditos: «Mirad, os ordeno que os preparéis para la guerra contra el enemigo: elevad las murallas, reunid armas y almacenad víveres»; y los constructores se encargaban de las murallas, los armeros de las armas, los agricultores de las reservas de alimentos, etc. Cada uno, según su capacidad, hacía todo lo que se le exigía, y todos cumplían unánimemente la orden del rey.
+De todos modos, todo Israel en conjunto observa todos los preceptos: los sacerdotes cumplen su parte, los levitas la suya y los israelitas la suya; así, todos cumplen todos. Porque el Santo —¡bendito sea!— ha escrito <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> una ley para sus fieles siervos, la nación de Israel, y como nación, la cumplen en su totalidad. Es como cuando un rey escribió a sus súbditos: «Mirad, os ordeno que os preparéis para la guerra contra el enemigo: elevad las murallas, reunid armas y almacenad víveres»; y los constructores se encargaban de las murallas, los armeros de las armas, los agricultores de las reservas de alimentos, etc. Cada uno, según su capacidad, hacía todo lo que se le exigía, y todos cumplían unánimemente la orden del rey.
 
 _Kitzur Sh'lu_, pág. 6, col. 2.
 
@@ -124,7 +124,7 @@ Caín había robado a la hermana gemela de Abel, y por lo tanto, su alma pasó a
 
 _Yalkut Chadash_, fol. 127, col. 3.
 
-Si un hombre es tacaño, ya sea financiera o espiritualmente, y no da nada de su dinero a los pobres o no <span id="p274">[<sup><small>p. 274</small></sup>]</span> comparte su conocimiento con los ignorantes, será castigado con la transmigración en una mujer... Debes saber que Sara, Ana, la sunamita (2 Reyes 4:8), y la viuda de Sarepta fueron poseídas, a su vez, por el alma de Eva... El alma de Rahab transmigró en Heber el ceneo, y después en Ana; y este es el misterio de sus palabras: «Soy una mujer de espíritu afligido» (1 Samuel 1:15), pues aún persistía en su alma una triste sensación de impureza heredada... Elí poseyó el alma de Jael, la esposa de Heber el ceneo... A veces, las almas de los judíos piadosos pasan por metempsicosis a los gentiles para que puedan interceder por Israel y tratarlos con bondad. Por esta razón, nuestros rabinos de bendita memoria dijeron: «Los piadosos de las naciones del mundo tienen una porción en el mundo venidero».
+Si un hombre es tacaño, ya sea financiera o espiritualmente, y no da nada de su dinero a los pobres o no <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> comparte su conocimiento con los ignorantes, será castigado con la transmigración en una mujer... Debes saber que Sara, Ana, la sunamita (2 Reyes 4:8), y la viuda de Sarepta fueron poseídas, a su vez, por el alma de Eva... El alma de Rahab transmigró en Heber el ceneo, y después en Ana; y este es el misterio de sus palabras: «Soy una mujer de espíritu afligido» (1 Samuel 1:15), pues aún persistía en su alma una triste sensación de impureza heredada... Elí poseyó el alma de Jael, la esposa de Heber el ceneo... A veces, las almas de los judíos piadosos pasan por metempsicosis a los gentiles para que puedan interceder por Israel y tratarlos con bondad. Por esta razón, nuestros rabinos de bendita memoria dijeron: «Los piadosos de las naciones del mundo tienen una porción en el mundo venidero».
 
 _Yalkut Reubeni_, Nos. 1, 8, 61, 63.
 
@@ -136,7 +136,7 @@ También es necesario que sepas que los cabalistas creen en la metempsicosis del
 
 _Nishmath Chaim_, cap. 13, No. 14.
 
-El último párrafo puede ilustrarse con la conocida historia del asno de R. Pinchas, que se negaba persistentemente a alimentarse de <span id="p275">[<sup><small>p. 275</small></sup>]</span> forraje no diezmado. Esto también se dice del asno de Rabí Janina ben Dossa. Véase Avoth d'Rab. Nathan, cap. 8.
+El último párrafo puede ilustrarse con la conocida historia del asno de R. Pinchas, que se negaba persistentemente a alimentarse de <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> forraje no diezmado. Esto también se dice del asno de Rabí Janina ben Dossa. Véase Avoth d'Rab. Nathan, cap. 8.
 
 A veces, el alma de un hombre justo puede encontrarse en el cuerpo de un animal o ave limpia.
 
@@ -162,7 +162,7 @@ El asesino se transmigra en agua. La señal mística de esto se indica en Deuter
 
 _Ibíd._, fol. 153, cols. 1, 2.
 
-Quien peca con una mujer casada, después de sufrir la pena de vagar errante y fugitivo, <span id="p276">[<sup><small>p. 276</small></sup>]</span> es transmigrado, junto con su cómplice, a la piedra de molino de un molino de agua, según el misterio de (Job xxxi. 10), «Deja que mi mujer muela para otro».
+Quien peca con una mujer casada, después de sufrir la pena de vagar errante y fugitivo, <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> es transmigrado, junto con su cómplice, a la piedra de molino de un molino de agua, según el misterio de (Job xxxi. 10), «Deja que mi mujer muela para otro».
 
 _Emeh Hamelech_, fol. 153, columnas. 1, 2.
 
@@ -264,7 +264,7 @@ El sabio dice: «El ojo de una aguja no es lo suficientemente estrecho para dos 
 
 _Ibíd._, fol. 14, col. 1.
 
-«Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí» (Salmo 10). Debes saber que el corazón es la fuente de la vida y está situado en el centro del cuerpo, como el Santo de los Santos, como afirma el Libro Zóhar, es la parte central del mundo. Por lo tanto, uno debe tener el corazón limpio de maldad y de todos los malos pensamientos; de lo contrario, <span id="p280">[<sup><small>p. 280</small></sup>]</span> introduce un ídolo en la parte más interna del Templo, que debería ser la morada de la Shejiná. (Véase 1 Corintios 3:16, 17 y 6:19).
+«Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí» (Salmo 10). Debes saber que el corazón es la fuente de la vida y está situado en el centro del cuerpo, como el Santo de los Santos, como afirma el Libro Zóhar, es la parte central del mundo. Por lo tanto, uno debe tener el corazón limpio de maldad y de todos los malos pensamientos; de lo contrario, <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> introduce un ídolo en la parte más interna del Templo, que debería ser la morada de la Shejiná. (Véase 1 Corintios 3:16, 17 y 6:19).
 
 _Kitzur Sh'lh_, fol. 14, col. 2.
 
@@ -316,7 +316,7 @@ Se debe estudiar menos el viernes para dedicarse a la preparación del Shabat. E
 
 _Ibíd._, fol. 61, col. 1.
 
-Se deben cortar las uñas todos los viernes, nunca los jueves, ya que de lo contrario comenzarán a crecer el <span id="p283">[<sup><small>p. 283</small></sup>]</span> del siguiente sabbat. Se deben cortar primero las uñas de la mano izquierda, comenzando por el anular y terminando con el pulgar; luego, las de la mano derecha, comenzando por el pulgar y terminando con el anular; no se debe variar el siguiente orden: 4.º, 2.º, 5.º, 3.º y 1.º de la mano izquierda; luego, 1.º, 3.º, 5.º, 2.º y 4.º de la mano derecha. Nunca se corten dos dedos consecutivos, ya que es peligroso y perjudica la memoria. El motivo y el misterio del orden de corte de las uñas son bien conocidos por los expertos.
+Se deben cortar las uñas todos los viernes, nunca los jueves, ya que de lo contrario comenzarán a crecer el <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> del siguiente sabbat. Se deben cortar primero las uñas de la mano izquierda, comenzando por el anular y terminando con el pulgar; luego, las de la mano derecha, comenzando por el pulgar y terminando con el anular; no se debe variar el siguiente orden: 4.º, 2.º, 5.º, 3.º y 1.º de la mano izquierda; luego, 1.º, 3.º, 5.º, 2.º y 4.º de la mano derecha. Nunca se corten dos dedos consecutivos, ya que es peligroso y perjudica la memoria. El motivo y el misterio del orden de corte de las uñas son bien conocidos por los expertos.
 
 _Kitzur Sh'lh_.
 
@@ -328,7 +328,7 @@ Antes de entrar en el baño de inmersión, debe repetir (Génesis 1:10): «Y lla
 
 _Ibíd._, fol. 61, col. 1.
 
-Al estar de pie en el agua, debe inclinarse cuatro veces para que el agua le llegue al cuello, según los cuatro modos de ejecución legal. Después, debe repetir la forma de confesión, y mientras el agua le llega a la garganta, debe repetir estos tres textos: Miqueas 7:18-20, Jeremías 10:24 y Salmo 118. 5, y luego di: «Así como purifico mi cuerpo aquí abajo, que está hecho de barro, que los ángeles ministradores limpien mi alma, espíritu y espíritu allá arriba, en el río Dinor; y así como santifico mi cuerpo aquí abajo, que los ángeles del Altísimo, los ángeles ministradores <span id="p284">[<sup><small>p. 284</small></sup>]</span>, santifiquen mi espíritu, alma y espíritu allá arriba, en el río Dinor. En el nombre de Jehová, Él es el Dios, y en el nombre de Adonai, la Roca de los Siglos. ¡Bendito sea el nombre de la gloria de su reino para siempre!»
+Al estar de pie en el agua, debe inclinarse cuatro veces para que el agua le llegue al cuello, según los cuatro modos de ejecución legal. Después, debe repetir la forma de confesión, y mientras el agua le llega a la garganta, debe repetir estos tres textos: Miqueas 7:18-20, Jeremías 10:24 y Salmo 118. 5, y luego di: «Así como purifico mi cuerpo aquí abajo, que está hecho de barro, que los ángeles ministradores limpien mi alma, espíritu y espíritu allá arriba, en el río Dinor; y así como santifico mi cuerpo aquí abajo, que los ángeles del Altísimo, los ángeles ministradores <span id="p284"><sup><small>[ p. 284 ]</small></sup></span>, santifiquen mi espíritu, alma y espíritu allá arriba, en el río Dinor. En el nombre de Jehová, Él es el Dios, y en el nombre de Adonai, la Roca de los Siglos. ¡Bendito sea el nombre de la gloria de su reino para siempre!»
 
 _Kitzur Sh'lh_, fol. 62, col. 1.
 
@@ -344,7 +344,7 @@ Dichoso quien logra proveerse de un traje completo, incluyendo el cinturón, los
 
 Terminado esto, el israelita devoto acude a la sinagoga para encontrarse con su Dios como el novio y para recibir el sábado como la novia. El servicio merece ser repasado, pero para más detalles debemos consultar la liturgia.
 
-El israelita regresa a su casa desde la sinagoga acompañado de dos ángeles, uno bueno y otro malo; y según la condición <span id="p285">[<sup><small>p. 285</small></sup>]</span> de los arreglos domésticos cuando vuelve a entrar, es bendecido por el ángel bueno o maldecido por el malo.
+El israelita regresa a su casa desde la sinagoga acompañado de dos ángeles, uno bueno y otro malo; y según la condición <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> de los arreglos domésticos cuando vuelve a entrar, es bendecido por el ángel bueno o maldecido por el malo.
 
 Se le advierte solemnemente al israelita que no se pelee con su esposa en la víspera del sábado, porque los demonios están muy ocupados en ese entonces provocando más conflictos, como lo ilustra la historia del rabino Meir.
 
@@ -385,7 +385,7 @@ _Kitzur Sh'lh_, fol. 72, col. 1.
 
 Es un acto muy piadoso bendecir la luna al final del Shabat, cuando uno se viste con sus mejores galas y está perfumado. Si la bendición se realiza en la tarde de un día laborable común, se debe usar la mejor vestimenta. Según los cabalistas, las bendiciones a la luna no deben rezarse hasta siete días completos después de su nacimiento, pero, según autoridades posteriores, esto puede hacerse después de tres días. La razón para no realizar este servicio mensual bajo techo, sino al aire libre, es porque se considera una recepción de la presencia de la Shejiná, y no sería respetuoso hacerlo en ningún otro lugar que no fuera al aire libre. Depende mucho de las circunstancias cuándo y dónde se consagre la luna nueva, y también de la propia predisposición, pues las autoridades difieren. Concluiremos estas observaciones con la conclusión del Kitzur Shlu sobre el tema, que, en la pág. 72, col. 2, dice así:
 
-Al santificar la luna nueva, se deben enderezar los pies (como en la Shemoná-esreh) y mirar a la luna antes de comenzar a repetir la bendición ritual. Una vez comenzada, no se debe mirarla en absoluto. Se debe comenzar así: «¡En el nombre unido del Santo y Bendito y Su Shejiná, a través de ese Oculto y Oculto! ¡Y en el nombre de todo Israel!». Luego se debe proceder con la «Forma de Oración <span id="p288">[<sup><small>p. 288</small></sup>]</span> para la Luna Nueva»; palabra por palabra, sin prisa, pero con solemne deliberación, y al repetir:
+Al santificar la luna nueva, se deben enderezar los pies (como en la Shemoná-esreh) y mirar a la luna antes de comenzar a repetir la bendición ritual. Una vez comenzada, no se debe mirarla en absoluto. Se debe comenzar así: «¡En el nombre unido del Santo y Bendito y Su Shejiná, a través de ese Oculto y Oculto! ¡Y en el nombre de todo Israel!». Luego se debe proceder con la «Forma de Oración <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> para la Luna Nueva»; palabra por palabra, sin prisa, pero con solemne deliberación, y al repetir:
 
 'Bendito sea tu Formador, bendito sea tu Hacedor, bendito sea tu Poseedor, bendito sea tu Creador.'
 

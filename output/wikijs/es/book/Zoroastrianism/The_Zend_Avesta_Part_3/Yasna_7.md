@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## YASNA VII. PRESENTACIÓN DE OFRENDAS POR EL SACERDOTE CON EL OBJETO DE PROPICIACIÓN NOMBRADO.
 
-1\. Con una ofrenda completa y sagrada [^946] ofrezco y doy esta ofrenda vegetal, y (con ella) a Haurvatâ<i>t</i> (quien custodia el agua), a Ameretatâ<i>t</i> (quien custodia las plantas y la madera), y la carne del Ganado de la Bendita Ofrenda, para la propiciación de Ahura Mazda y de los Generosos Inmortales (todos, y) para la propiciación de Sraosha (Obediencia), el bendito, dotado de santidad, que asesta el golpe de la victoria y hace que los asentamientos avancen. <span id="p223">[<sup><small>p. 223</small></sup>]</span> 2\. Y ofrezco el Haoma y el jugo de Haoma con una ofrenda completa y sagrada para la propiciación del Fravashi de Zarathu<i>s</i>tra Spitâma el santo, y ofrezco los trozos de madera con el perfume para Tu propiciación, la del Fuego, ¡oh hijo de Ahura Mazda!
+1\. Con una ofrenda completa y sagrada [^946] ofrezco y doy esta ofrenda vegetal, y (con ella) a Haurvatâ<i>t</i> (quien custodia el agua), a Ameretatâ<i>t</i> (quien custodia las plantas y la madera), y la carne del Ganado de la Bendita Ofrenda, para la propiciación de Ahura Mazda y de los Generosos Inmortales (todos, y) para la propiciación de Sraosha (Obediencia), el bendito, dotado de santidad, que asesta el golpe de la victoria y hace que los asentamientos avancen. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> 2\. Y ofrezco el Haoma y el jugo de Haoma con una ofrenda completa y sagrada para la propiciación del Fravashi de Zarathu<i>s</i>tra Spitâma el santo, y ofrezco los trozos de madera con el perfume para Tu propiciación, la del Fuego, ¡oh hijo de Ahura Mazda!
 
 3\. Ofrezco los Haomas con una ofrenda completa y sagrada para propiciar las buenas aguas creadas por Mazda. Ofrezco esta agua de Haoma con escrupulosa exactitud y santidad, y esta leche fresca, y la planta Hadhânaêpata elevada con una ofrenda completa y sagrada para propiciar las aguas creadas por Mazda.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 10\. Y ofrezco una ofrenda completa y sagrada a los Mahya, señores del orden ritual, a la luna nueva y a la luna menguante (la luna interior), y a la luna llena que dispersa la noche, santos señores del orden ritual.
 
-11\. Ofrezco una ofrenda completa y sagrada a los festivales anuales, señores del orden ritual, a Maidhyô-zaremaya y Maidhyô-shema, a Paiti<i>s</i>hahya, y a Ayâthrima, el que fomenta (el que cría), el que desperdicia la fuerza de los machos, y <span id="p225">[<sup><small>p. 225</small></sup>]</span> a Maidhyâirya y Hamaspathmaêdhaya, santos señores del orden ritual, y ofrezco con santidad a las diversas estaciones, señores del orden ritual.
+11\. Ofrezco una ofrenda completa y sagrada a los festivales anuales, señores del orden ritual, a Maidhyô-zaremaya y Maidhyô-shema, a Paiti<i>s</i>hahya, y a Ayâthrima, el que fomenta (el que cría), el que desperdicia la fuerza de los machos, y <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> a Maidhyâirya y Hamaspathmaêdhaya, santos señores del orden ritual, y ofrezco con santidad a las diversas estaciones, señores del orden ritual.
 
 12\. Y ofrezco una ofrenda completa y sagrada a todos esos señores, los treinta y tres, que se acercan al círculo más cercano de nuestro Hâvani, y que son los señores de Asha (la eminencia ritual), de la Virtud (la Mejor), cuyas observancias son inculcadas como preceptos por Mazda y proclamadas por Zaratustra.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 15\. Y ofrezco con una ofrenda completa y sagrada a la Mãthra Spe<i>n</i>ta, la santa, la eficaz, revelada contra los Daêvas, la ley de Zaratustra, y a la larga descendencia de la buena Religión, de la fe Mazdayasniana.
 
-16\. Y ofrezco una ofrenda completa y sagrada al Monte Ushi-darena, hecho por Mazda, brillante <span id="p226">[<sup><small>p. 226</small></sup>]</span> con santidad, y a todas las montañas que brillan con santidad, de abundante brillo, y que Mazda hizo, y a la gloria real inconsumida y hecha por Mazda. Y ofrezco una ofrenda completa y sagrada a Ashi Vanguhi, y a <i>K</i>isti Vanguhi, y a Erethe, y a Rasãstâ, y a la Gloria (y el) Beneficio que Mazda hizo.
+16\. Y ofrezco una ofrenda completa y sagrada al Monte Ushi-darena, hecho por Mazda, brillante <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> con santidad, y a todas las montañas que brillan con santidad, de abundante brillo, y que Mazda hizo, y a la gloria real inconsumida y hecha por Mazda. Y ofrezco una ofrenda completa y sagrada a Ashi Vanguhi, y a <i>K</i>isti Vanguhi, y a Erethe, y a Rasãstâ, y a la Gloria (y el) Beneficio que Mazda hizo.
 
 17\. Y ofrezco con una ofrenda completa y sagrada a la buena y piadosa Oración por las bendiciones del hombre piadoso, y a ese Yazad, la rápida y terrible Maldición de los sabios.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 19\. Y ofrezco una bendición completa y sagrada a ese señor sublime que es la Rectitud (la Mejor), y a los Señores del Día, los señores de los días durante su duración, y a los de los días durante el día, y a los Señores del Mes, y a los Señores del Año, y a los de las estaciones, los señores del ritual, y en el tiempo de Hâvani.
 
-20\. Y ofrezco la ofrenda de Myazda con una ofrenda completa y sagrada, y Haurvatâ<i>t</i> (quien guarda el agua), y Ameretatâ<i>t</i> (quien guarda la leña), y la carne del Kine del don bendito, para la propiciación de Sraosha (Obediencia) el bendito, cuyo cuerpo es el Mãthra, él de la <span id="p227">[<sup><small>p. 227</small></sup>]</span> lanza audaz, el señorial, el Yazad del nombre pronunciado.
+20\. Y ofrezco la ofrenda de Myazda con una ofrenda completa y sagrada, y Haurvatâ<i>t</i> (quien guarda el agua), y Ameretatâ<i>t</i> (quien guarda la leña), y la carne del Kine del don bendito, para la propiciación de Sraosha (Obediencia) el bendito, cuyo cuerpo es el Mãthra, él de la <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> lanza audaz, el señorial, el Yazad del nombre pronunciado.
 
 21\. Y ofrezco el Haoma y el jugo del Haoma para la propiciación del Fravashi de Zarathu<i>s</i>tra Spitâma el santo, el Yazad del nombre pronunciado.
 

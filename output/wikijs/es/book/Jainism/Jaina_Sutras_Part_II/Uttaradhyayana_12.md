@@ -92,7 +92,7 @@ Apareciendo en el aire con formas horribles, los asuras golpearon a la gente. Cu
 
 "Puedes cavar rocas con las uñas, comer hierro con los dientes o patear el fuego con los pies, como tratar con desprecio a un monje. (26)
 
-«Como una serpiente venenosa es un gran sabio de severas austeridades, de tremenda piedad y poder; como <span id="p54">[<sup><small>p. 54</small></sup>]</span> un enjambre de polillas te precipitarás al fuego, si golpeas a un monje en su gira de mendicidad. (27)
+«Como una serpiente venenosa es un gran sabio de severas austeridades, de tremenda piedad y poder; como <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> un enjambre de polillas te precipitarás al fuego, si golpeas a un monje en su gira de mendicidad. (27)
 
 «Postraos ante él para pedir protección, tú junto con todos ellos, si queréis salvar vuestra vida y vuestras propiedades; pues en su ira podría reducir el mundo a cenizas.» (28)
 
@@ -110,7 +110,7 @@ No hay el menor odio en mí, ni ahora, ni antes, ni en el futuro. Los yakshas me
 
 En ese momento los dioses hicieron una lluvia de agua perfumada y flores, y derramaron tesoros celestiales; tocaron los tambores y en el aire alabaron el don. (36)
 
-«El valor de la penitencia se ha hecho visible; el nacimiento <span id="p55">[<sup><small>p. 55</small></sup>]</span> parece no tener ningún valor. ¡Miren al santo Harikê<i>s</i>a, hijo de un <i>S</i>vapâka, cuyo poder es tan grande!» (37)
+«El valor de la penitencia se ha hecho visible; el nacimiento <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> parece no tener ningún valor. ¡Miren al santo Harikê<i>s</i>a, hijo de un <i>S</i>vapâka, cuyo poder es tan grande!» (37)
 
 ¡Oh, brahmanes! ¿Por qué cuidan el fuego y buscan la pureza externa mediante el agua? Los sabios dicen que la pureza externa que buscan no es lo correcto. (38)
 

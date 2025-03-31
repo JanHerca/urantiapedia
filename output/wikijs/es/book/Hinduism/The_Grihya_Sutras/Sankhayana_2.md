@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^119]. En el octavo año después de la concepción, que inicie a un Brâhma<i>n</i>a,
 
-2\. Con una piel de antílope, <span id="p59">[<sup><small>p. 59</small></sup>]</span>
+2\. Con una piel de antílope, <span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 3\. O en el décimo año después de la concepción.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 8\. Hasta el vigésimo cuarto para un vai<i>s</i>ya.
 
-9\. [^120]. Después de eso (el tiempo ha transcurrido), se convierten en patitasâvitrîka (hombres que han perdido su derecho a aprender el Sâvitrî). <span id="p60">[<sup><small>p. 60</small></sup>]</span>
+9\. [^120]. Después de eso (el tiempo ha transcurrido), se convierten en patitasâvitrîka (hombres que han perdido su derecho a aprender el Sâvitrî). <span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 10\. Que no inicien a tales hombres,
 
@@ -86,7 +86,7 @@ Y usando una faja.
 
 24\. O bien, todos los tipos de bastones deben ser utilizados por hombres de todas las castas.
 
-25\. Todo lo que el estudiante vista en su iniciación está a disposición del maestro. <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+25\. Todo lo que el estudiante vista en su iniciación está a disposición del maestro. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 26 [^123]. Habiéndole afeitado toda la cabeza, debería iniciarlo.
 
@@ -100,7 +100,7 @@ Y usando una faja.
 
 ## CAPÍTULO 2.
 
-1\. «Aquí ha llegado, protegiéndonos de las malas palabras, purificando a nuestros parientes como un purificador, revistiéndose, mediante la inhalación y la exhalación, con fuerza, esta diosa amiga, este cinturón bendito». Con estas palabras, repetidas tres veces, ata el cinturón de izquierda a derecha tres veces. <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+1\. «Aquí ha llegado, protegiéndonos de las malas palabras, purificando a nuestros parientes como un purificador, revistiéndose, mediante la inhalación y la exhalación, con fuerza, esta diosa amiga, este cinturón bendito». Con estas palabras, repetidas tres veces, ata el cinturón de izquierda a derecha tres veces. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 2 [^126]. (Debe haber) un nudo, o también tres, o también cinco.
 
@@ -112,7 +112,7 @@ Y usando una faja.
 
 6\. [^129]. '¿Descendiendo de los mismos <i>Ri</i>shis?', dice el maestro.
 
-7\. «Descendiente de los mismos Rishis, señor», dice el otro. <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+7\. «Descendiente de los mismos Rishis, señor», dice el otro. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 8\. 'Declara que eres un estudiante, señor.'
 
@@ -140,7 +140,7 @@ Y usando una faja.
 
 2\. [^132]. 'En el curso de Indra me muevo; en el curso del sol me muevo tras él'—con estas palabras gira de izquierda a derecha,
 
-3\. Y, agarrando con la palma de su mano derecha el hombro derecho del estudiante, toca su corazón con las palabras: «Que yo sea querido por tu corazón inviolado». <span id="p65">[<sup><small>p. 65</small></sup>]</span>
+3\. Y, agarrando con la palma de su mano derecha el hombro derecho del estudiante, toca su corazón con las palabras: «Que yo sea querido por tu corazón inviolado». <span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 4\. Habiendo girado silenciosamente de derecha a izquierda,
 
@@ -154,7 +154,7 @@ Y usando una faja.
 
 3\. [^136]. Con el mismo texto (véase cap. 3, 2) da la vuelta como antes,
 
-4\. Y tocando con la palma de su mano derecha el hombro derecho del estudiante, murmura: <span id="p66">[<sup><small>p. 66</small></sup>]</span>
+4\. Y tocando con la palma de su mano derecha el hombro derecho del estudiante, murmura: <span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 5 [^137]. «Eres un estudiante. Carga combustible. Bebe agua. Cumple con el servicio. No duermas durante el día. Guarda silencio hasta que cargues combustible».
 
@@ -179,7 +179,7 @@ Y usando una faja.
 
 8\. Se sientan al norte del fuego,
 
-9\. [^140]. El maestro con la cara vuelta hacia el este, el otro hacia el oeste. <span id="p67">[<sup><small>p. 67</small></sup>]</span>
+9\. [^140]. El maestro con la cara vuelta hacia el este, el otro hacia el oeste. <span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 10 [^141]. Después de que (el estudiante) haya dicho: '¡Recita, señor!'—
 
@@ -192,7 +192,7 @@ Y usando una faja.
 
 1\. [^142]. «Aguas sois por nombre; felices sois por nombre; jugosos sois por nombre; incorruptibles sois por nombre; valientes sois por nombre; inmortales sois por nombre. De vosotros, siendo tales, que pueda participar; recíbeme en tu favor». Con estas palabras, el maestro hace que el estudiante beba agua tres veces.
 
-2\. [^143]. Y le entrega el bastón con los cinco <span id="p68">[<sup><small>p. 68</small></sup>]</span> versos: «Que nos des bendición» (Rig-veda V, 51, 11-15).
+2\. [^143]. Y le entrega el bastón con los cinco <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> versos: «Que nos des bendición» (Rig-veda V, 51, 11-15).
 
 3\. [^144]. Un regalo opcional es el pago por el sacrificio.
 
@@ -225,7 +225,7 @@ Y usando una faja.
 
 6\. [^150]. Y ha agarrado alrededor (esos brotes de Ku<i>s</i>a) por el centro con sus manos, sosteniendo la derecha en la parte superior,
 
-7\. El maestro, habiéndolos agarrado por la parte superior <span id="p70">[<sup><small>p. 70</small></sup>]</span> con la mano izquierda, y rociándolos con agua con la derecha, le hace decir al otro:
+7\. El maestro, habiéndolos agarrado por la parte superior <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> con la mano izquierda, y rociándolos con agua con la derecha, le hace decir al otro:
 
 8\. [^151]. '¡Recita el Sâvitrî, ​​señor!', dice el otro.
 
@@ -261,11 +261,11 @@ Y usando una faja.
 
 17\. [^153]. '¡Recita la fe y la visión, señor!', dice el otro.
 
-«¡Te recito la fe y la comprensión!», dice el maestro. <span id="p71">[<sup><small>p. 71</small></sup>]</span>
+«¡Te recito la fe y la comprensión!», dice el maestro. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 18 [^154]. De esa manera, según a qué <i>Ri</i>shi pertenece cada himno y cuál es su deidad y su métrica, así (con las indicaciones correspondientes de <i>Ri</i>shi, etc.) que recite cada himno;
 
-19\. [^155]. O también, si desconoce los Rishis, las deidades y la métrica, el maestro recita este verso: «Ese glorioso (esplendor) de Savitar» (Rig-veda III, 62, 10), pâda a pâda, hemistiquio a hemistiquio, (y finalmente) sin interrupción, y dice, al terminar: «Este (verso pertenece a Savitar; es un Gâyatrî; Vi<i>s</i>vâmitra es su Rishi).» <span id="p72">[<sup><small>p. 72</small></sup>]</span>
+19\. [^155]. O también, si desconoce los Rishis, las deidades y la métrica, el maestro recita este verso: «Ese glorioso (esplendor) de Savitar» (Rig-veda III, 62, 10), pâda a pâda, hemistiquio a hemistiquio, (y finalmente) sin interrupción, y dice, al terminar: «Este (verso pertenece a Savitar; es un Gâyatrî; Vi<i>s</i>vâmitra es su Rishi).» <span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 20\. Que recite así (los himnos pertenecientes a) cada <i>Ri</i>shi, o (cada) Anuvâka;
 
@@ -281,7 +281,7 @@ Y usando una faja.
 
 26\. El maestro puede opcionalmente decir al comienzo del himno: “Este es el comienzo”.
 
-27\. [^158]. Esto se ha explicado con más detalle en el tratado sobre el <i>Ri</i>shisvâdhyâya. <span id="p73">[<sup><small>p. 73</small></sup>]</span>
+27\. [^158]. Esto se ha explicado con más detalle en el tratado sobre el <i>Ri</i>shisvâdhyâya. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 28 [^159]. Cuando (la lección) termina, toma los brotes jóvenes de Ku<i>s</i>a, hace un hoyo con estiércol de vaca en sus raíces y rocía agua sobre los Ku<i>s</i>a (brotes) para cada himno.
 
@@ -290,7 +290,7 @@ Y usando una faja.
 
 ## CAPÍTULO 8.
 
-1\. [^161]. Por la tarde, tras haber obtenido mendigando granos de cebada fritos, los sacrificará con la mano sobre el fuego según los ritos de las oblaciones Â<i>g</i>ya con el texto «El señor del trono, el <span id="p74">[<sup><small>p. 74</small></sup>]</span> maravilloso» (Rig-veda I, 18, 6 ss.), verso por verso, hasta el final del himno.
+1\. [^161]. Por la tarde, tras haber obtenido mendigando granos de cebada fritos, los sacrificará con la mano sobre el fuego según los ritos de las oblaciones Â<i>g</i>ya con el texto «El señor del trono, el <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> maravilloso» (Rig-veda I, 18, 6 ss.), verso por verso, hasta el final del himno.
 
 2\. [^162]. Hacer que el maestro, mediante (el regalo de) comida, pronuncie deseos auspiciosos.
 
@@ -321,7 +321,7 @@ Eres leña; que prosperemos. Eres combustible; eres esplendor; infunde esplendor
 
 'Estando inflamado, hazme próspero en descendencia y riqueza. ¡Svâhâ!
 
-Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosotros crezcamos y cobremos vigor. ¡Svâhâ! <span id="p76">[<sup><small>p. 76</small></sup>]</span>
+Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosotros crezcamos y cobremos vigor. ¡Svâhâ! <span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 5\. Después de haber rociado (agua) alrededor (del fuego),
 
@@ -337,7 +337,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 2\. [^169]. Las reglas para ello han sido explicadas por la iniciación.
 
-3\. No recita el Savitrî. <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+3\. No recita el Savitrî. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 4 [^170]. Algunos dicen que la entrega del bastón constituye el final (de esta ceremonia).
 
@@ -357,14 +357,14 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 12\. (Así también) las Vrâtika y Aupanishada (observancias).
 
-13\. [^175]. Transcurrido el tiempo, una vez cumplidos los deberes <span id="p78">[<sup><small>p. 78</small></sup>]</span>, una vez estudiado el Veda hasta el _S<i>a</i>m_yu-Bârhaspatya-(himno), que (el maestro), si pretende instruir (al estudiante) en la parte secreta del Veda, determine el tiempo (durante el cual el estudiante debe observar los ritos especiales) y las reglas que debe observar, a partir de las instrucciones (especiales) (que se transmiten sobre este tema).
+13\. [^175]. Transcurrido el tiempo, una vez cumplidos los deberes <span id="p78"><sup><small>[ p. 78 ]</small></sup></span>, una vez estudiado el Veda hasta el _S<i>a</i>m_yu-Bârhaspatya-(himno), que (el maestro), si pretende instruir (al estudiante) en la parte secreta del Veda, determine el tiempo (durante el cual el estudiante debe observar los ritos especiales) y las reglas que debe observar, a partir de las instrucciones (especiales) (que se transmiten sobre este tema).
 
 
 ## SECCIÓN 12.
 
-1\. [^176]. Después de que (el estudiante) comió algo por la mañana, por la tarde, hacia el noreste... <span id="p79">[<sup><small>p. 79</small></sup>]</span>
+1\. [^176]. Después de que (el estudiante) comió algo por la mañana, por la tarde, hacia el noreste... <span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
-2\. Tras el sacrificio, el maestro le pregunta, respecto a las deidades que le han sido confiadas (véase arriba, cap. 3, 1): "¿Has cumplido con los deberes de santidad ante Agni, Indra, el Sol y los devas Visve?". <span id="p80">[<sup><small>p. 80</small></sup>]</span>
+2\. Tras el sacrificio, el maestro le pregunta, respecto a las deidades que le han sido confiadas (véase arriba, cap. 3, 1): "¿Has cumplido con los deberes de santidad ante Agni, Indra, el Sol y los devas Visve?". <span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 3\. Si responde: «¡Los he cumplido, señor!»
 
@@ -372,7 +372,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 5\. [^177]. Dobla la falda (de esa prenda) hacia arriba para que no se deslice hacia abajo,
 
-6\. [^178]. (Y dice) «Dejando por tres días el prender fuego, el ir a pedir limosna, el dormir en el suelo y la obediencia al maestro, ayunen en el bosque, en la casa de un dios o en un lugar donde se realice el Agnihotra, guardando silencio, con ferviente cuidado». <span id="p81">[<sup><small>p. 81</small></sup>]</span>
+6\. [^178]. (Y dice) «Dejando por tres días el prender fuego, el ir a pedir limosna, el dormir en el suelo y la obediencia al maestro, ayunen en el bosque, en la casa de un dios o en un lugar donde se realice el Agnihotra, guardando silencio, con ferviente cuidado». <span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 7\. Aquí algunos (maestros) prescriben las mismas observancias sólo para una noche, durante la cual debe permanecer de pie.
 
@@ -380,7 +380,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 9. Transcurridos esos tres días o esa noche, al salir de la aldea, deberá evitar mirar a las siguientes personas o cosas que impidan el estudio del Veda:
 
-10\. [^180]. Carne viva, una _K<i>a</i>n_<i>a</i>âla, una mujer que ha estado recientemente encinta o que tiene menstruaciones, sangre, personas con las manos amputadas, cementerios y toda clase de animales cadavéricos que entran en sus guaridas con la boca primero, manteniéndolos alejados de su morada. <span id="p82">[<sup><small>p. 82</small></sup>]</span>
+10\. [^180]. Carne viva, una _K<i>a</i>n_<i>a</i>âla, una mujer que ha estado recientemente encinta o que tiene menstruaciones, sangre, personas con las manos amputadas, cementerios y toda clase de animales cadavéricos que entran en sus guaridas con la boca primero, manteniéndolos alejados de su morada. <span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 11\. Saliendo (del pueblo) en dirección noreste, el maestro se sienta en un lugar limpio, girando su rostro hacia el este.
 
@@ -392,7 +392,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 15\. Le da (al maestro) el turbante, un recipiente, una buena vaca.
 
-16\. (El maestro acepta los regalos) con los versos, <span id="p83">[<sup><small>p. 83</small></sup>]</span> 'Tú a él' (Rig-veda I, 18, 5), y, 'Alto en el cielo' (Rig-veda X, 107, 2), o (los acepta) todos con el Pra<i>n</i>ava (es decir, la sílaba Om).
+16\. (El maestro acepta los regalos) con los versos, <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> 'Tú a él' (Rig-veda I, 18, 5), y, 'Alto en el cielo' (Rig-veda X, 107, 2), o (los acepta) todos con el Pra<i>n</i>ava (es decir, la sílaba Om).
 
 17\. Aquí algunos preparan un plato de arroz para los devas Vi<i>ve</i> en todas las secciones (del Âra<i>s</i>yaka);
 
@@ -416,7 +416,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 6\. Y ata el cordón del sacrificio al bastón.
 
-7\. Aquí también se dice: <span id="p84">[<sup><small>p. 84</small></sup>]</span>
+7\. Aquí también se dice: <span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 8 [^185]. 'Que sacrifique el cordón sacrificial y el bastón, el cinturón y también el odre en agua después de completar su voto con un verso de Varuna o con la esencia (de los Vedas, es decir, la sílaba Om).
 
@@ -428,7 +428,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 3\. Que vierta oblaciones de comida vaisnavadeva preparada por la tarde y por la mañana en el fuego doméstico (sagrado).
 
-4\. '¡A Agni svâhâ! ¡A Soma svâhâ! ¡A Indra y Agni svâhâ! ¡A Vish<i>n</i>u svâhâ! ¡A Bharadvâ<i>n</i>a Dhanvantari svâhâ! ¡A los Vi<i>n</i>ve devâs svâhâ! ¡A Pra<i>n</i>âpati svâhâ! ¡A Aditi svâhâ! ¡A Anumati svâhâ! A Agni Svish<i>n</i>ak<i>n</i>t <span id="p85">[<sup><small>p. 85</small></sup>]</span> svâhâ!'—habiendo ofrecido así las oblaciones pertenecientes a esas deidades,
+4\. '¡A Agni svâhâ! ¡A Soma svâhâ! ¡A Indra y Agni svâhâ! ¡A Vish<i>n</i>u svâhâ! ¡A Bharadvâ<i>n</i>a Dhanvantari svâhâ! ¡A los Vi<i>n</i>ve devâs svâhâ! ¡A Pra<i>n</i>âpati svâhâ! ¡A Aditi svâhâ! ¡A Anumati svâhâ! A Agni Svish<i>n</i>ak<i>n</i>t <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> svâhâ!'—habiendo ofrecido así las oblaciones pertenecientes a esas deidades,
 
 5\. Luego ofrecerá balis (porciones de comida) en el centro del suelo a las mismas deidades; (luego otro bali con las palabras) «¡Adoración a Brahman y a los Brahmanes!» y (con el verso) «Vâstoshpati, acéptanos» (Rig-veda VII, 54, 1) en el centro del suelo a Vâstoshpati.
 
@@ -438,7 +438,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 8\. [^189]. Luego (girado) hacia el disco del sol, '¡Adoración a Aditi y a los Âdityas! Adoración
 
-5\. «Ofrecerá un Bali a esas deidades, es decir, a las diez deidades a las que ha sacrificado, a Agni, etc. (véase Sûtra 4), dirigiéndose a ellas con la palabra «Adoración (a tal o cual deidad)», porque en los demás casos se ha prescrito la palabra «adoración» (nama<i>h</i>) para el Bali». Nârâya<i>n</i>a. <span id="p86">[<sup><small>p. 86</small></sup>]</span> ¡a los Nakshatras, a las estaciones, a los meses, a los medios meses, a los días y las noches, a los años!»
+5\. «Ofrecerá un Bali a esas deidades, es decir, a las diez deidades a las que ha sacrificado, a Agni, etc. (véase Sûtra 4), dirigiéndose a ellas con la palabra «Adoración (a tal o cual deidad)», porque en los demás casos se ha prescrito la palabra «adoración» (nama<i>h</i>) para el Bali». Nârâya<i>n</i>a. <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> ¡a los Nakshatras, a las estaciones, a los meses, a los medios meses, a los días y las noches, a los años!»
 
 9\. 'A Pûshan, el constructor de caminos; a Dhâtar, a Vidhâtar y a los Maruts'—(así) en los umbrales.
 
@@ -464,7 +464,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 20\. O que dé limosna (de comida) a un estudiante.
 
-21\. [^190]. Que inmediatamente después ofrezca alimento a una mujer bajo su protección, a una mujer embarazada, a los niños y a los ancianos. <span id="p87">[<sup><small>p. 87</small></sup>]</span>
+21\. [^190]. Que inmediatamente después ofrezca alimento a una mujer bajo su protección, a una mujer embarazada, a los niños y a los ancianos. <span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 22 [^191]. Que eche en el suelo comida para los perros, para los carniceros y para los pájaros.
 
@@ -482,7 +482,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 2\. [^194]. Que el Argha no esté sin carne.
 
-3\. En ocasión de un sacrificio y de una boda, que (el invitado) diga: «Prepárenlo». <span id="p88">[<sup><small>p. 88</small></sup>]</span>
+3\. En ocasión de un sacrificio y de una boda, que (el invitado) diga: «Prepárenlo». <span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 4\. El animal (ofrecido) al maestro es sagrado para Agni;
 
@@ -520,7 +520,7 @@ Tuyo es este combustible, Agni; con él crecerás y cobrarás vigor. Y que nosot
 
 ## KHANDA 17.
 
-1\. 'Aunque un hombre recoja hierba constantemente y realice el Agnihotra, un Brâhma<i>n</i>a que permanece (en su <span id="p90">[<sup><small>p. 90</small></sup>]</span> casa) sin recibir honores le quita todas sus buenas obras.
+1\. 'Aunque un hombre recoja hierba constantemente y realice el Agnihotra, un Brâhma<i>n</i>a que permanece (en su <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> casa) sin recibir honores le quita todas sus buenas obras.
 
 2\. 'Se debe dar (aunque sea) solo una vasija de agua; se debe sacrificar (aunque sea) un trozo de madera; (incluso) hasta un himno o un Anuvâka se ordena el Brahmaya<i>g</i><i>g</i>a.
 

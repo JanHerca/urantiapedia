@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 <figure id="Figure_01500" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/01500.jpg">

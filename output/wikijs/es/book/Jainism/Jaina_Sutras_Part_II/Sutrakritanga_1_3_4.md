@@ -38,7 +38,7 @@ Algunos dicen que en la antigüedad, grandes hombres, ricos en penitencia religi
 
 'Nami, el rey de Vidêha, no comió nada, Râmagupta comió, Bâhuka bebió agua (fría), y lo mismo hizo Târâga<i>n</i>a [^785], el vidente. (2)
 
-Âsila, Dêvala, el gran sabio Dvîpâyana y <span id="p269">[<sup><small>p. 269</small></sup>]</span> Pârâ<i>s</i>ara bebieron agua (fría) y comieron semillas y brotes [^786]. (3)
+Âsila, Dêvala, el gran sabio Dvîpâyana y <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> Pârâ<i>s</i>ara bebieron agua (fría) y comieron semillas y brotes [^786]. (3)
 
 «He oído que en tiempos antiguos estos grandes hombres renombrados y conocidos comían semillas y bebían agua, y alcanzaron la perfección.» (4)
 
@@ -68,7 +68,7 @@ Pero aquellos que se esfuerzan en el momento oportuno, no sienten remordimientos
 
 Así como Vaitara<i>n</i>î, el río (del infierno), es difícil de atravesar, así también en este mundo las mujeres son para los insensatos (una tentación) difícil de vencer. (16)
 
-Aquellos que han abandonado las relaciones sexuales con mujeres <span id="p271">[<sup><small>p. 271</small></sup>]</span> y han dejado de adornarse, están bien establecidos en el control, porque han renunciado a todo. (17)
+Aquellos que han abandonado las relaciones sexuales con mujeres <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> y han dejado de adornarse, están bien establecidos en el control, porque han renunciado a todo. (17)
 
 Así como los mercaderes cruzan el mar, así también cruzarán el diluvio (de Sa<i>m</i>sâra), donde los seres vivos se desaniman y sufren dolores debido a sus propias acciones. (18)
 

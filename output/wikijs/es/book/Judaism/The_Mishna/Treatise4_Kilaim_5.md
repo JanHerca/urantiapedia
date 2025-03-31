@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO V.
 
-§ 1. Una viña que ha sido destruida, pero que aún contiene diez vides [de las cuales se pueden cosechar uvas], plantadas regularmente en una superficie lo suficientemente grande como para recibir un saah de semillas, se llama viña pobre. Si las vides se plantan irregularmente, mientras queden dos vides [colocadas correctamente] frente a tres, continúa siendo una viña legalmente, <span id="p23">[<sup><small>p. 23</small></sup>]</span>; pero si no, deja de ser legalmente una viña. R. Meir dice: «Mientras conserve la apariencia de una viña, sigue siendo una [legalmente]».
+§ 1. Una viña que ha sido destruida, pero que aún contiene diez vides [de las cuales se pueden cosechar uvas], plantadas regularmente en una superficie lo suficientemente grande como para recibir un saah de semillas, se llama viña pobre. Si las vides se plantan irregularmente, mientras queden dos vides [colocadas correctamente] frente a tres, continúa siendo una viña legalmente, <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>; pero si no, deja de ser legalmente una viña. R. Meir dice: «Mientras conserve la apariencia de una viña, sigue siendo una [legalmente]».
 
 § 2. Una viña \[en la que se plantan vides\] a intervalos menores de cuatro meses, R. Simeón declara que no es una viña \[en sentido legal\]; pero los sabios deciden que es una viña \[en derecho\], pero que el espacio vacante \[entre las vides\] debe considerarse como inexistente.
 

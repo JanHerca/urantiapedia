@@ -29,7 +29,7 @@ dateCreated: 2024-11-26T10:15:16Z
   </table>
 </figure>
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Esta es la página de agradecimientos del libro original. Se incluye para completar y con fines de investigación de derechos de autor. La información bibliográfica adicional, que no se encuentra en el libro original, se incluye en texto verde entre corchetes.
 

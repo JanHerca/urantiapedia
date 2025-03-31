@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/08200.jpg) ¿Nos avisa la bella Asoma de su partida? Oh, ¿por qué los peregrinos se cansan tan frecuentemente de su peregrinación?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Ella lo enciende con abundancia de madera entre las estaciones montañosas de Akeik y Shakhsein, y arde como el esplendor del sol.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 8\. He estado contemplando su fuego desde lejos en la colina desde donde se hacen nuestras excursiones; pero, ¡oh!, el calor abrasador y las calamidades de la guerra me impiden acercarme a ella.
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. Porque nuestros hermanos, la familia de Arakem, _los de ojos de dragón_, han transgredido los límites de la justicia contra nosotros, y han sido vehementes en sus invectivas:
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 17\. Han confundido a los inocentes entre nosotros con los culpables, y la más perfecta inocencia no ha escapado a su censura.
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. Grueso y firme, protegido de la calamidad; no ser debilitado por ningún desastre, por grave y violento que sea.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 27.\* Confía en nuestra sabiduría todos los asuntos trascendentales de los que deseas librarte y que hacen que las asambleas de jefes se vean desdichadas.
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Luego avanzamos contra los hijos de Tameim, y cuando el mes sagrado requirió un cese de nuestra guerra, tomamos a las hijas de su tribu para nuestras siervas.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 35\. _En contra de nosotros_, ni el valiente pudo mantenerse firme en el terreno llano, ni la huida precipitada sirvió a los pusilánimes.
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Sepa que nosotros y usted, el día en que hicimos nuestro tratado, estábamos igualmente obligados por nuestros respectivos compromisos.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 44\. ¿Somos responsables de los crímenes de Canadá? ¿Se quedará su jefe conquistador con el botín y se tomarán represalias contra nosotros?
 
@@ -150,7 +150,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 53\. Sin embargo, no profanaron los lugares sagrados de los hijos de Rizaah en las colinas de Nitaa, cuando ellos invocaron su misericordia.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 54\. Los dejaron, sin embargo, heridos en la llanura, y regresaron con rebaños y manadas cautivas tan numerosos, que los conductores de ellos quedaron ensordecidos con sus gritos.
 
@@ -170,7 +170,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 62\. Él los guió y les proveyó de dátiles y de agua; así se cumplió la voluntad de Dios, y los hombres afligidos quedaron condenados a la aflicción.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 63\. Entonces los invitaste a atacarte por tu falta de circunspección; y la vana seguridad de tu alegría intemperante los impulsó a ser hostiles.
 
@@ -190,7 +190,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 71\. Y reunidos, con armadura completa, alrededor del guerrero Kais, aquel valiente príncipe del Yemen, que se mantuvo firme y brillante como un acantilado blanco.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 72\. Luego vino una legión de jóvenes de alta cuna, a quienes nada podía contener excepto nuestras largas y brillantes lanzas;
 
@@ -212,7 +212,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 81\. Redimimos a nuestros cautivos con nueve reyes de raza ilustre, cuyos despojos fueron sumamente preciosos.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 82\. Con los caballos, con los caballos oscuros de los hijos de Aus, vinieron escuadrones enteros, feroces como águilas con picos torcidos:
 

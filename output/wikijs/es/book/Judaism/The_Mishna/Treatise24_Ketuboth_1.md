@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 1. La virgen se desposa el cuarto día de la semana, y la viuda el quinto, porque en las ciudades el Betdín se reúne dos veces por semana, es decir, el segundo y el quinto día, de modo que si el novio tiene que quejarse de su falta de virginidad, se presenta temprano a la mañana siguiente ante el Betdín.
 
-§ 2. Si la persona desposada es virgen, su ketubá es de doscientos <span id="p242">[<sup><small>p. 242</small></sup>]</span> dinares; si es viuda, es un maneh. [^779] Una virgen viuda, divorciada o que haya realizado jalitza después del compromiso matrimonial, solo si no se ha completado la ceremonia matrimonial ni se ha consumado el matrimonio, en todos estos casos su ketubá es de doscientos dinares y puede ser acusada de no virginidad. [^780] Un prosélito, un cautivo y una esclava, que hayan sido rescatados, convertidos o manumitidos con menos de tres años y un día \[de edad\], su Ketubah es de doscientos dinares, y son susceptibles de la acusación de no virginidad.
+§ 2. Si la persona desposada es virgen, su ketubá es de doscientos <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> dinares; si es viuda, es un maneh. [^779] Una virgen viuda, divorciada o que haya realizado jalitza después del compromiso matrimonial, solo si no se ha completado la ceremonia matrimonial ni se ha consumado el matrimonio, en todos estos casos su ketubá es de doscientos dinares y puede ser acusada de no virginidad. [^780] Un prosélito, un cautivo y una esclava, que hayan sido rescatados, convertidos o manumitidos con menos de tres años y un día \[de edad\], su Ketubah es de doscientos dinares, y son susceptibles de la acusación de no virginidad.
 
 § 3. Una menor [^781] con quien un adulto [varón] ha tenido relaciones carnales, una joven núbil que ha tenido relaciones sexuales con un menor [^782] y una virgen fracturada accidentalmente [^783], su ketubá es de doscientos dinares. Tal es el dictamen de R. Meir: pero los sabios sostienen que en el caso de una virgen fracturada accidentalmente, su ketubá es solo un mané.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 9. Si está embarazada, y al preguntarle: «¿De quién?», responde: «De NN., que es sacerdote», R. Gamaliel y R. Eleazar dicen: «Hay que creerla»; [^789] pero R. Joshua dice: «No debemos guiarnos por su afirmación: se presume que está embarazada de un nethin o un bastardo, a menos que presente pruebas que respalden su afirmación».
 
-§ 10. R. José dijo: «Ocurrió una vez que una muchacha bajó <span id="p244">[<sup><small>p. 244</small></sup>]</span> a sacar agua de la fuente, y fue violada por un desconocido». R. Jochanan ben Nouri decidió: «Si la mayoría de los habitantes del pueblo fueran de pura ascendencia y estuvieran capacitados para casarse con miembros de la raza sacerdotal, esta muchacha podría ser desposada por un sacerdote».
+§ 10. R. José dijo: «Ocurrió una vez que una muchacha bajó <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> a sacar agua de la fuente, y fue violada por un desconocido». R. Jochanan ben Nouri decidió: «Si la mayoría de los habitantes del pueblo fueran de pura ascendencia y estuvieran capacitados para casarse con miembros de la raza sacerdotal, esta muchacha podría ser desposada por un sacerdote».
 
 
 

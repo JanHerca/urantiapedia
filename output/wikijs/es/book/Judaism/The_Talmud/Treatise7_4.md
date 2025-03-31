@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 1\. Cuando la fiesta de Año Nuevo coincidía con el sabbat, solían tocar la corneta en el Santuario; pero no en las provincias. Tras la destrucción del Santuario, R. Jochanan, hijo de Zacai, decretó que debían tocarla en todo lugar donde existiera un tribunal de justicia. R. Eleazar dice: «R. Jochanan, hijo de Zacai, lo decretó solo para Jamnia». Pero los Sabios le dijeron: «Todo era igual para Jamnia, y todo era igual para todo lugar donde existiera un tribunal de justicia».
 
-2\. Además, [^304] Jerusalén tenía privilegios sobre Jamnia, <span id="p156">[<sup><small>p. 156</small></sup>]</span> porque toda ciudad visible, oíble el sonar, cercana y a la que se le permitía llegar, podía tocar la corneta; pero en Jamnia solo podían hacerlo ante el tribunal de justicia.
+2\. Además, [^304] Jerusalén tenía privilegios sobre Jamnia, <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> porque toda ciudad visible, oíble el sonar, cercana y a la que se le permitía llegar, podía tocar la corneta; pero en Jamnia solo podían hacerlo ante el tribunal de justicia.
 
 3\. Al principio, la rama de palma se llevaba siete días en el Santuario y un día en las provincias. Tras la destrucción del Templo, R. Jochanan, hijo de Zacai, decretó que la rama de palma debía llevarse en las provincias durante siete días para conmemorar el Santuario; y que durante todo el día de la mecida [^305] debía prohibirse comer maíz nuevo.
 

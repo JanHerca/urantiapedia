@@ -70,7 +70,7 @@ A continuación, en cuanto al conocimiento, el maestro es el elemento formador,
 
 El discípulo, este último, se une al conocimiento. Esta unión se logra mediante la recitación del Veda. Esto es suficiente en cuanto al conocimiento.
 
-A continuación, con respecto a la descendencia. La madre es <span id="p47">[<sup><small>p. 47</small></sup>]</span> el primer elemento, el padre el segundo, y la descendencia su unión. Esta unión se produce mediante la procreación. Hasta aquí lo referente a la descendencia.
+A continuación, con respecto a la descendencia. La madre es <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> el primer elemento, el padre el segundo, y la descendencia su unión. Esta unión se produce mediante la procreación. Hasta aquí lo referente a la descendencia.
 
 4\. A continuación, con respecto al ser (cuerpo). La mandíbula inferior es el primer elemento, la mandíbula superior el segundo, y el habla es su unión. Esta unión se produce mediante el habla. Esto en cuanto al Ser. Estos son los grandes Samhitâs. Quien conoce estos Samhitâs (uniones), como se explica aquí, se une con la descendencia, el ganado, la luz védica, el alimento y con el mundo celestial.
 
@@ -83,7 +83,7 @@ Que mi cuerpo sea capaz, mi lengua dulce, ¡que pueda oír mucho con mis oídos!
 
 Ella (<i>S</i>rî, felicidad) acerca y difunde,
 
-2\. Y se hace, sin demora, ropa, vacas, comida y bebida en todo momento; por lo tanto, trae a esa <i>S</i>rî (felicidad) aquí, a mí, la lanuda, con <span id="p48">[<sup><small>p. 48</small></sup>]</span> su ganado [1](Taittiriyaka_1#fn203)! ¡Svâhâ [2](Taittiriyaka_1#fn204)! ¡Que los estudiantes de Brahman vengan a mí, Svâhâ! ¡Que vengan de todas partes, Svâhâ! ¡Que vengan a mí, Svâhâ! ¡Que practiquen la moderación, Svâhâ! ¡Que disfruten de paz, Svâhâ!
+2\. Y se hace, sin demora, ropa, vacas, comida y bebida en todo momento; por lo tanto, trae a esa <i>S</i>rî (felicidad) aquí, a mí, la lanuda, con <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> su ganado [1](Taittiriyaka_1#fn203)! ¡Svâhâ [2](Taittiriyaka_1#fn204)! ¡Que los estudiantes de Brahman vengan a mí, Svâhâ! ¡Que vengan de todas partes, Svâhâ! ¡Que vengan a mí, Svâhâ! ¡Que practiquen la moderación, Svâhâ! ¡Que disfruten de paz, Svâhâ!
 
 3\. ¡Que yo sea una gloria entre los hombres, Svâhâ! ¡Que yo sea mejor que el más rico, Svâhâ! ¡Que pueda entrar en ti, oh tesoro (Om), Svâhâ! ¡Tú, oh tesoro [3](Taittiriyaka_1#fn205), entra en mí, Svâhâ! En ti, compuesto de mil ramas, en ti, oh tesoro, me purifico, Svâhâ. Como el agua fluye hacia abajo, como los meses se unen al año, así, oh preservador del mundo, que los estudiantes de Brahman siempre vengan a mí de todas partes, Svâhâ!
 
@@ -150,7 +150,7 @@ Satyava<i>k</i>as Râthîtara cree que solo la verdad es necesaria. Taponitya Pa
 
 ## DÉCIMO ANUVÂKA.
 
-1\. «Yo soy quien sacude el árbol (es decir, el árbol del mundo, que debe ser talado por el conocimiento). 2. Mi gloria es como la cima de una montaña. 3. Yo, cuya luz pura (del conocimiento) se ha elevado a lo alto, soy aquello que es verdaderamente inmortal, pues reside en el sol. <span id="p52">[<sup><small>p. 52</small></sup>]</span> 4\. Soy el tesoro más brillante. 5. Soy sabio, inmortal, imperecedero [^210]». 6. Esta es la enseñanza del Veda, del poeta Tri<i>s</i>aṅku.
+1\. «Yo soy quien sacude el árbol (es decir, el árbol del mundo, que debe ser talado por el conocimiento). 2. Mi gloria es como la cima de una montaña. 3. Yo, cuya luz pura (del conocimiento) se ha elevado a lo alto, soy aquello que es verdaderamente inmortal, pues reside en el sol. <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> 4\. Soy el tesoro más brillante. 5. Soy sabio, inmortal, imperecedero [^210]». 6. Esta es la enseñanza del Veda, del poeta Tri<i>s</i>aṅku.
 
 
 ## UNDÉCIMO ANUVÂKA.
@@ -159,7 +159,7 @@ Satyava<i>k</i>as Râthîtara cree que solo la verdad es necesaria. Taponitya Pa
 
 2\. '¡No descuides las obras (sacrificatorias) debidas a los Dioses y Padres! ¡Que tu madre sea para ti como un dios! ¡Que tu padre sea para ti como un dios! ¡Que tu maestro sea para ti como un dios! ¡Que tu invitado sea para ti como un dios! Cualesquiera acciones irreprochables, esas deben ser consideradas, no otras. Cualesquiera buenas obras que hayamos realizado, esas deben ser observadas por ti,—
 
-3\. 'No otros. Y hay algunos brahmanes mejores que nosotros. Debes consolarlos ofreciéndoles un asiento. Todo lo que se dé debe darse con fe, no sin fe: con alegría, con modestia, con temor, con bondad. Si <span id="p53">[<sup><small>p. 53</small></sup>]</span> tuvieras alguna duda con respecto a algún acto sagrado o a tu conducta,
+3\. 'No otros. Y hay algunos brahmanes mejores que nosotros. Debes consolarlos ofreciéndoles un asiento. Todo lo que se dé debe darse con fe, no sin fe: con alegría, con modestia, con temor, con bondad. Si <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> tuvieras alguna duda con respecto a algún acto sagrado o a tu conducta,
 
 4\. 'En ese caso, compórtate como lo hacen los brahmanes con buen juicio, sean o no nombrados [^211], siempre que no sean demasiado severos, sino dedicados al deber. Y con respecto a las cosas que se han criticado, compórtate como lo hacen los brahmanes con buen juicio, sean o no nombrados, siempre que no sean demasiado severos, sino dedicados al deber,
 

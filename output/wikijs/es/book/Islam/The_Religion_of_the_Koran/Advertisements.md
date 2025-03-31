@@ -29,7 +29,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Los siguientes anuncios aparecieron al final del libro original. Se incluyen para completar.
 
@@ -55,7 +55,7 @@ EL BUSTĀN DE SADI. Del persa. Traducido con introducción de A. Hart Edwards. 2
 
 UN QUIETISTA CHINO. De la filosofía mística de Liehtsze. Traducido por Lionel Giles, M.A. 2/- neto.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 _Recién salido_
 
@@ -89,7 +89,7 @@ CONOCIMIENTO DE BRAHMA: Un bosquejo de la filosofía del Vedanta. Tal como lo ex
 
 LA CONDUCTA DE LA VIDA; o, El Orden Universal de Confucio. Una traducción de uno de los cuatro Libros de Confucio, hasta ahora conocido como la Doctrina del Medio. Por Ku Hung Ming, M.A. (Edin.). 1/- neto.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 LAS ENSEÑANZAS DE ZOROASTRO. Traducido con introducción del Dr. S. A. Kapadia, profesor de la University College, Londres. 2/- neto.
 
@@ -123,7 +123,7 @@ I. El libro de Historia (Shu-King). Por W. Gorn Old 1/- neto.
 
 II. El Libro de las Odas (Shi-King). Por L. Cranmer-Byng. 1/- neto.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 LOS DICHOS DE LAO TZÚ Del chino. Traducido con introducción de Lionel Giles, del Museo Británico. 1/- neto.
 

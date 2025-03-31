@@ -73,7 +73,7 @@ El que no repita el nombre de Dios vagará en el nacimiento y la muerte.
 El valor de Dios no se puede conocer sin servir al verdadero Gurú.
 Cualquier servicio que Dios encomiende a los hombres, eso se hará.
 Es Dios mismo quien actúa; ¿a quién más mencionaré? Dios contempla su propia grandeza.
-Aquel a quien Dios inspira sirve al Gurú. <span id="p150">[<sup><small>p. 150</small></sup>]</span> Nanak, aquellos que dan sus vidas se salvarán y obtendrán honor en la corte de Dios.[^1]
+Aquel a quien Dios inspira sirve al Gurú. <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> Nanak, aquellos que dan sus vidas se salvarán y obtendrán honor en la corte de Dios.[^1]
 
 El Gurú llegó a un templo Saravagi o Jain, muy frecuentado. Narbhi, el sacerdote jainista, fue con su discípulo a visitarlo. Los jainistas valoran exageradamente la vida en todas sus formas. El sacerdote jainista se enteró de que el Gurú no tenía los mismos escrúpulos al respecto y comenzó a catequizarlo. "¿Comes maíz viejo o maíz nuevo? (es decir, ¿comes maíz con gusanos o no?) ¿Bebes agua fría? ¿Sacudes los árboles del bosque para comer su fruto? ¿Quién es tu gurú y qué poder tiene para perdonarte, ya que violas todas las reglas y destruyes la vida?". El Gurú, en respuesta, pronunció el siguiente pauri:
 

@@ -42,7 +42,7 @@ _Libro I_. _De la Pureza Ceremonial_ (_Tahara_)
 
 3\. El uso del palillo.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 4\. Descripción de las diferentes etapas de una ablución ceremonial (_wudu_).
 
@@ -98,7 +98,7 @@ _Libro II. De la Oración_
 
 17\. Oración por lluvia.
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 18\. Oración en presencia del enemigo.
 
@@ -150,7 +150,7 @@ _Libro VI. Del Trueque y otras Transacciones Comerciales_
 
 2\. Descripción y condiciones del trato con pago por adelantado (_salam_).
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 3\. De prenda (_rahn_).
 
@@ -210,7 +210,7 @@ _Libro VIII. Del matrimonio y asuntos relacionados_
 
 1\. Las condiciones del matrimonio (_nikah_). Qué mujeres puede ver un hombre y en qué medida.
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 2\. La forma de un matrimonio legal.
 
@@ -266,7 +266,7 @@ _Libro X. De las Ordenanzas Restrictivas de Dios_ (_hadd_)
 
 1\. De la fornicación (_zina_) de quien ha estado o está casado (_muhsan_), y de quien no ha estado o no está casado.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 2\. De acusar de fornicación.
 
@@ -324,7 +324,7 @@ _Libro XV. De los juicios y las pruebas_ (_qada_, _shahada_)
 
 5\. La diferencia de reclamaciones (_haqq_), por parte de Dios, y por parte del hombre, y su tratamiento legal.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 _Libro XVI. De la manumisión de los esclavos_
 

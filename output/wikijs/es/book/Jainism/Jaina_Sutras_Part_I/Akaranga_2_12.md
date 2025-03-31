@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:26:25Z
 
 DUODÉCIMA CONFERENCIA.
 
-Si un monje o una monja ve diversos colores (o formas), por ejemplo, en coronas, imágenes vestidas, muñecas, ropa [^474], trabajos en madera, yeso, pinturas, joyas, trabajos en marfil, cuerdas, hojas cortadas, no debe, por complacer la vista, decidir ir a donde verá diversos colores (o formas). Todo lo dicho <span id="p186">[<sup><small>p. 186</small></sup>]</span> en el capítulo anterior respecto a los sonidos debe repetirse aquí respecto a los colores (o formas); solo se omitirán los pasajes sobre música. (1)
+Si un monje o una monja ve diversos colores (o formas), por ejemplo, en coronas, imágenes vestidas, muñecas, ropa [^474], trabajos en madera, yeso, pinturas, joyas, trabajos en marfil, cuerdas, hojas cortadas, no debe, por complacer la vista, decidir ir a donde verá diversos colores (o formas). Todo lo dicho <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> en el capítulo anterior respecto a los sonidos debe repetirse aquí respecto a los colores (o formas); solo se omitirán los pasajes sobre música. (1)
 
 
 

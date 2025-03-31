@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 4. Si se han enjuagado recipientes con agua, o se ha usado para enjuagar medidas, esta se vuelve inservible; pero si se han enjuagado recipientes ya limpios o nuevos, el agua así utilizada continúa siendo apta para la ablución. R. José prohíbe su uso en recipientes nuevos.
 
-§ 5. El agua en la que el panadero ha sumergido panecillos no es apta para la ablución, pero si solo ha sumergido las manos, sigue siendo apta. Todos están capacitados para verter agua en las manos de otras personas, incluso los sordomudos, los idiotas o los menores. Un hombre puede sostener un barril entre las rodillas para verter el agua sobre sus manos. Un mono puede verter agua <span id="p359">[<sup><small>p. 359</small></sup>]</span> en las manos de una persona. R. José declara estas dos últimas formas de verter agua en las manos como legalmente impropias.
+§ 5. El agua en la que el panadero ha sumergido panecillos no es apta para la ablución, pero si solo ha sumergido las manos, sigue siendo apta. Todos están capacitados para verter agua en las manos de otras personas, incluso los sordomudos, los idiotas o los menores. Un hombre puede sostener un barril entre las rodillas para verter el agua sobre sus manos. Un mono puede verter agua <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> en las manos de una persona. R. José declara estas dos últimas formas de verter agua en las manos como legalmente impropias.
 
 
 

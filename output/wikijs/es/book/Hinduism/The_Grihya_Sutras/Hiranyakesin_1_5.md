@@ -36,7 +36,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 [^590]
 
-1\. Al ver la luna nueva por primera vez, bebe agua a sorbos y, sosteniendo una vasija de agua en sus manos, la venera con los cuatro versos: «Aumenta» (Taitt. Sa<i>m</i>h. I, 4, 32), «Que tu leche» (ibid. IV, 2, 7, 4), «La luna se vuelve nueva y renovada al nacer» (ibid. II, 4, 14, 1), «Ese Soma que los Âdityas hacen crecer» (ibid. II, 4, 14, 1). <span id="p180">[<sup><small>p. 180</small></sup>]</span>
+1\. Al ver la luna nueva por primera vez, bebe agua a sorbos y, sosteniendo una vasija de agua en sus manos, la venera con los cuatro versos: «Aumenta» (Taitt. Sa<i>m</i>h. I, 4, 32), «Que tu leche» (ibid. IV, 2, 7, 4), «La luna se vuelve nueva y renovada al nacer» (ibid. II, 4, 14, 1), «Ese Soma que los Âdityas hacen crecer» (ibid. II, 4, 14, 1). <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 2\. [^591] Cuando bosteza, murmura: “Que la voluntad y la inteligencia moren en mí”.
 
@@ -52,7 +52,7 @@ Luego que se limpie esa (suciedad) con algo que no sea su mano, y que se lave co
 
 7\. [^595] «Si una fruta ha caído de la copa de un árbol o del aire, es Vâyu (quien la ha hecho caer). Donde haya tocado nuestros cuerpos o la ropa, que las aguas alejen la destrucción». Este verso debe murmurar si una fruta cae inesperadamente sobre él.
 
-8\. [^596] «¡Adoración a quien habita en la encrucijada, <span id="p181">[<sup><small>p. 181</small></sup>]</span> cuya flecha es el viento, a Rudra! ¡Adoración a Rudra que habita en la encrucijada!» —esta (fórmula) murmura cuando llega a una encrucijada;
+8\. [^596] «¡Adoración a quien habita en la encrucijada, <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> cuya flecha es el viento, a Rudra! ¡Adoración a Rudra que habita en la encrucijada!» —esta (fórmula) murmura cuando llega a una encrucijada;
 
 9\. «¡Adoración a quien habita entre el ganado, cuya flecha es el viento, a Rudra! ¡Adoración a Rudra que habita entre el ganado!» —así en un montón de estiércol;
 
@@ -78,7 +78,7 @@ Luego que se limpie esa (suciedad) con algo que no sea su mano, y que se lave co
 
 19\. [^601] «Si alzas tu voz divina, penetrando en los seres vivos, ahuyenta a nuestros enemigos con tu voz. ¡Oh muerte, llévalos a la muerte!» —(así) contra un chacal solitario.
 
-20\. Luego lanza ante el chacal una tea que arde por ambos extremos, hacia la región donde se oye la voz del chacal, con las palabras: «¡Fuego! ¡Habla al fuego! ¡Muerte! ¡Habla a la muerte!». Luego toca el agua, <span id="p183">[<sup><small>p. 183</small></sup>]</span>
+20\. Luego lanza ante el chacal una tea que arde por ambos extremos, hacia la región donde se oye la voz del chacal, con las palabras: «¡Fuego! ¡Habla al fuego! ¡Muerte! ¡Habla a la muerte!». Luego toca el agua, <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 21\. Y adora (al chacal) con el Anuvâka: 'Tú eres poderoso, tú te llevas' (Taitt. Sa<i>m</i>hitâ I, 3, 3).
 
@@ -109,7 +109,7 @@ Mi ser ha regresado, la vida ha regresado a mí; el aliento ha regresado, el dis
 
 ## PATALA 5, SECCIÓN 18.
 
-1\. [^606] «Que Indra y Agni te ayuden a partir. Que los dos Asvins te protejan. Bisháspati es tu pastor. Que Pushán te guíe de vuelta» — <span id="p185">[<sup><small>p. 185</small></sup>]</span> recita este verso sobre las vacas cuando se van a sus pastos, y el verso: «Que Pushán persiga a nuestras vacas» (Taitt. Sash. IV, 1, 11, 2).
+1\. [^606] «Que Indra y Agni te ayuden a partir. Que los dos Asvins te protejan. Bisháspati es tu pastor. Que Pushán te guíe de vuelta» — <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> recita este verso sobre las vacas cuando se van a sus pastos, y el verso: «Que Pushán persiga a nuestras vacas» (Taitt. Sash. IV, 1, 11, 2).
 
 2. Con el verso: «Que estas vacas que han llegado aquí, libres de enfermedades y prolíficas, naden (llenas de riqueza) como ríos; que derramen (riqueza), como (los ríos descargan sus aguas) en el océano», observa a las vacas cuando regresan.
 
@@ -121,7 +121,7 @@ Mi ser ha regresado, la vida ha regresado a mí; el aliento ha regresado, el dis
 
 «Brilla con fuerza, oh <i>G</i>âtavedas, alejando de mí la destrucción. Tráeme ganado y sustento de todos los confines del cielo. ¡Svâhâ!»
 
-Que los <i>G</i>atavedas no nos hagan daño a nosotros, ni a las vacas ni a los caballos, ni a los hombres ni a todo lo que se mueve. Ven aquí, <span id="p186">[<sup><small>p. 186</small></sup>]</span> Agni, sin temor; ¡hazme alcanzar el bienestar! ¡Svâhâ!»
+Que los <i>G</i>atavedas no nos hagan daño a nosotros, ni a las vacas ni a los caballos, ni a los hombres ni a todo lo que se mueve. Ven aquí, <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> Agni, sin temor; ¡hazme alcanzar el bienestar! ¡Svâhâ!»
 
 Y con (los dos versos), 'Éste es el influjo de las aguas', y 'Adoración a ti, el rápido, el brillante' (Taitt. Sa<i>m</i>h. IV, 6, 1, 3).
 

@@ -58,7 +58,7 @@ Así se ha descrito el «esfuerzo que lleva a las obras» de los pecadores; ahor
 
 Un monje piadoso, que está libre de ataduras y ha cortado todas las ataduras, aniquila su mal Karman y elimina definitivamente la espina (del pecado). (a)
 
-Siguiendo la doctrina correcta se esfuerza; a medida que uno se vuelve cada vez más receptáculo <span id="p299">[<sup><small>p. 299</small></sup>]</span> de la miseria, sus malos pensamientos (o pecaminosidad) aumentan. (11)
+Siguiendo la doctrina correcta se esfuerza; a medida que uno se vuelve cada vez más receptáculo <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> de la miseria, sus malos pensamientos (o pecaminosidad) aumentan. (11)
 
 Quienes tienen un buen lugar (en el cielo, etc.) seguramente deben dejarlo (por un tiempo). Vivimos juntos con familiares y amigos, pero por tiempo limitado. (12)
 
@@ -72,7 +72,7 @@ Así como la tortuga retrae sus miembros hacia su propio cuerpo, así también e
 
 Debería atraer, por así decirlo, sus manos y pies, su mente y sus cinco órganos de los sentidos, el efecto de su mal Karman y de todo mal uso del lenguaje. (17)
 
-Los virtuosos se esfuerzan con miras al fin lejano (es decir, la Liberación [^883]). Se debe vivir <span id="p300">[<sup><small>p. 300</small></sup>]</span> indiferente a la propia felicidad, tranquilo y sin apego alguno. (18)
+Los virtuosos se esfuerzan con miras al fin lejano (es decir, la Liberación [^883]). Se debe vivir <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> indiferente a la propia felicidad, tranquilo y sin apego alguno. (18)
 
 No mates seres vivos, no tomes lo que no te es dado libremente, no hables con falsedad ni traición. Esta es la ley del que tiene el control. (19)
 
@@ -88,7 +88,7 @@ La penitencia no sirve de nada si la realizan hombres nobles que se han hecho mo
 
 El hombre piadoso debe comer poco, beber poco, hablar poco; debe esforzarse siempre, ser tranquilo, indiferente, subyugador (de sus sentidos) y libre de codicia. (25)
 
-Meditando y realizando prácticas religiosas, <span id="p301">[<sup><small>p. 301</small></sup>]</span> abandonando su cuerpo, considerando la tolerancia como el deber primordial, un monje debe vagar hasta alcanzar la liberación. (26)
+Meditando y realizando prácticas religiosas, <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> abandonando su cuerpo, considerando la tolerancia como el deber primordial, un monje debe vagar hasta alcanzar la liberación. (26)
 
 Así lo digo.
 

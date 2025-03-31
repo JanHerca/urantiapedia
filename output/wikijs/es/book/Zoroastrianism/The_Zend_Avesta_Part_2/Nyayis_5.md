@@ -64,7 +64,7 @@ Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
 Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-7\. [^1543]. Bendigo el sacrificio y la invocación, y la <span id="p359">[<sup><small>p. 359</small></sup>]</span> buena ofrenda, la ofrenda benéfica, la ofrenda de ayuda que se te ofrece, ¡oh Âtar, hijo de Ahura Mazda!
+7\. [^1543]. Bendigo el sacrificio y la invocación, y la <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> buena ofrenda, la ofrenda benéfica, la ofrenda de ayuda que se te ofrece, ¡oh Âtar, hijo de Ahura Mazda!
 
 Tú eres digno del sacrificio y de la invocación; que puedas recibir el sacrificio y la invocación en las casas de los hombres.
 
@@ -98,7 +98,7 @@ Y una descendencia protectora y virtuosa, capaz de gobernar países y asambleas 
 
 Ofrecemos sacrificios a Âtar, el valiente guerrero [^1553].
 
-15\. Y si el transeúnte le trae leña sagrada, o manojos de barisma atados con santidad, o <span id="p361">[<sup><small>p. 361</small></sup>]</span> ramitas de Hadhânaêpata [^1554], entonces Âtar, el hijo de Ahura Mazda, complacido con él y tranquilo, y alimentado como se le exige, lo bendecirá así:
+15\. Y si el transeúnte le trae leña sagrada, o manojos de barisma atados con santidad, o <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> ramitas de Hadhânaêpata [^1554], entonces Âtar, el hijo de Ahura Mazda, complacido con él y tranquilo, y alimentado como se le exige, lo bendecirá así:
 
 16\. 'Que crezcan para ti manadas de bueyes y multipliques tus hijos; que tu mente sea dueña de su voto, que tu alma sea dueña de su voto, y que vivas en la alegría del alma todas las noches de tu vida.'
 

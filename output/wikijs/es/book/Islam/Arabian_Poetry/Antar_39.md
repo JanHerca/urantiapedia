@@ -48,7 +48,7 @@ El príncipe Harith, uno de los hijos de Zoheir, mientras cazaba, un día se ext
 
 Deliro por amor a ella; pero que mis injuriadores vean los torrentes de mis lágrimas, ¡que no tienen fin!
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 ¡Oh Abla! mi corazón por amor a ti sufre torturas: esta frecuente separación y estos ecos me llenan de dolor.
 

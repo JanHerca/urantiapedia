@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 CAPÍTULO III., Versículo 182.—Toda alma debe probar la muerte; y sólo se os pagará vuestro salario en el día de la resurrección.
 
@@ -44,7 +44,7 @@ Capítulo XIV, Versículo 49.—No penséis, pues, que Dios falta a su promesa a
 
 (50).—Verás a los pecadores en ese día atados juntos con grilletes, con camisas de brea y fuego cubriendo sus rostros; para que Dios recompense a cada alma según lo que haya ganado; en verdad, Dios es rápido en hacer cuentas.
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 Capítulo XVI, Versículo 34.—A aquellos a quienes los ángeles lleven en buen estado les dirán: «¡La paz sea con vosotros! Entrad en el Paraíso por lo que habéis hecho».
 
@@ -58,7 +58,7 @@ Capítulo XXIII., Versículo 104.—Y cuando se toque la trompeta, y no habrá r
 
 Capítulo LXXV., Versículo 35.—¿No es Él capaz de dar vida a los muertos?
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Capítulo III, Versículo 190.—«¡Señor! En verdad, oímos a un pregonero que llamaba a la fe: “Creed en vuestro Señor», y creímos. ¡Señor! Perdona nuestros pecados y cubre nuestras ofensas, y déjanos morir con los justos. ¡Señor! Y tráenos lo que nos has prometido por medio de Tus apóstoles, y no nos deshonres en el día de la resurrección; porque, en verdad, Tú no rompes Tus promesas”. Y el Señor les responderá: «No desperdicio las obras de un trabajador entre ustedes, ya sea hombre o mujer, - uno de ustedes es del otro».
 

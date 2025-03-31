@@ -42,7 +42,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. El día anterior a ese Ash<i>t</i>akâ, bajo (el Nakshatra) Anûrâdhâs, por la tarde, pone leña al fuego, esparce hierba Darbha con puntas sur y este alrededor, y revuelve arroz de cuatro tazas poco profundas sobre las que ha colocado un purificador, con (el Mantra): «Preparo, impulsado por el dios Savit_ri_, este pastel preparado con cuatro tazas (de arroz), que puede alejar todo sufrimiento de los Padres en el otro mundo. Impulsado por el dios Savit_ri_, con los brazos de los dos Atvins, con las manos de Pûshan, te preparo, agradable a los padres, los abuelos, los bisabuelos».
 
-4\. [^686] Con el mismo purificador, cuela silenciosamente el agua de Proksha<i>d</i>î; rocía silenciosamente (con esa agua el arroz y los recipientes), desgrana silenciosamente (el arroz), lo hornea silenciosamente en cuatro platos como un Puro<i>d</i>â<i>d</i>a, lo rocía (Â<i>d</i>ya), lo retira del fuego, rocía (agua) alrededor (del fuego) de derecha a izquierda, y coloca un trozo de madera de Udumbara sobre (el fuego). Con la (cuchara llamada) Darvi, hecha de madera de Udumbara, corta en una línea continua dirigida hacia el sureste (las porciones de Avadâna). <span id="p233">[<sup><small>p. 233</small></sup>]</span> uno tras otro, extendiéndolos por debajo y rociándolos (Â<i>d</i>ya), y los sacrifica, uno tras otro, en una línea continua dirigida hacia el sureste, con (los Mantras): «Los morteros, las piedras de prensar han hecho su ruido, preparando la ofrenda anual. ¡Ekâsh<i>d</i>akâ! Que seamos ricos en descendencia, en hijos valientes, los señores de la riqueza. ¡Svadhâ! ¡Adoración!»
+4\. [^686] Con el mismo purificador, cuela silenciosamente el agua de Proksha<i>d</i>î; rocía silenciosamente (con esa agua el arroz y los recipientes), desgrana silenciosamente (el arroz), lo hornea silenciosamente en cuatro platos como un Puro<i>d</i>â<i>d</i>a, lo rocía (Â<i>d</i>ya), lo retira del fuego, rocía (agua) alrededor (del fuego) de derecha a izquierda, y coloca un trozo de madera de Udumbara sobre (el fuego). Con la (cuchara llamada) Darvi, hecha de madera de Udumbara, corta en una línea continua dirigida hacia el sureste (las porciones de Avadâna). <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> uno tras otro, extendiéndolos por debajo y rociándolos (Â<i>d</i>ya), y los sacrifica, uno tras otro, en una línea continua dirigida hacia el sureste, con (los Mantras): «Los morteros, las piedras de prensar han hecho su ruido, preparando la ofrenda anual. ¡Ekâsh<i>d</i>akâ! Que seamos ricos en descendencia, en hijos valientes, los señores de la riqueza. ¡Svadhâ! ¡Adoración!»
 
 ¡Dios Agni! El pastel preparado con ghee y acompañado de la palabra svadhâ, para que los Padres se sacien, lleva esta ofrenda debidamente, Agni. Yo, el hijo, sacrifico una oblación a mis padres. ¡Svadhâ! ¡Adoración!
 
@@ -52,7 +52,7 @@ Aquí tienes un pastel, Agni, preparado con cuatro tazas (de arroz), con ghee, r
 
 6. Separando del pastel y de los demás alimentos los Avadânas destinados a la oblación Svish<i>t</i>ak<i>t</i>t, mezclándolos con mantequilla clarificada, hace una oblación con la fórmula: «¡A Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! ¡Adoración!».
 
-7\. [^687] Ese (pastel) con ghee y miel y con la comida (mencionada en los Sûtras 5. 6) lo toca de la manera prescrita para la ceremonia de <i>S</i>râddha y pone <span id="p234">[<sup><small>p. 234</small></sup>]</span> trozos (de él) de acuerdo con el ritual de las ofrendas de Pi<i>nd</i>a.
+7\. [^687] Ese (pastel) con ghee y miel y con la comida (mencionada en los Sûtras 5. 6) lo toca de la manera prescrita para la ceremonia de <i>S</i>râddha y pone <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> trozos (de él) de acuerdo con el ritual de las ofrendas de Pi<i>nd</i>a.
 
 8\. (Los restos de) ese (pastel, etc.) los sirve a los brahmanes eruditos.
 
@@ -69,7 +69,7 @@ Aquí tienes un pastel, Agni, preparado con cuatro tazas (de arroz), con ghee, r
 
 3\. Él rocía (a la vaca con agua) con (las palabras), 'Te rocío agradable a los Padres'.
 
-4\. [^690] Cuando ha sido rociado y se le ha pasado fuego <span id="p235">[<sup><small>p. 235</small></sup>]</span>, lo matan al oeste del fuego, con la cabeza vuelta hacia el oeste y los pies hacia el sur.
+4\. [^690] Cuando ha sido rociado y se le ha pasado fuego <span id="p235"><sup><small>[ p. 235 ]</small></sup></span>, lo matan al oeste del fuego, con la cabeza vuelta hacia el oeste y los pies hacia el sur.
 
 5\. [^691] Después de haberlo matado, silenciosamente 'fortalece' sus órganos sensoriales (tocándolos) con agua, y silenciosamente extrae el epiplón, el corazón y los riñones.
 

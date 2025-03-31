@@ -52,7 +52,7 @@ Un caballero en quien me refugié cuando mis esfuerzos fallaron, en mis levantam
 
 Mi hermano lo expuso a un mar de muerte en su malicia, y los corazones de los envidiosos ¡exultan!
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Él planeó su asesinato y me ha abandonado: ¡nunca más se respetarán mi honor y mis compromisos!
 
@@ -74,7 +74,7 @@ Lloran siempre con lágrimas en los ojos por él que fue el ilustre caballero!
 
 Que Dios destruya a Malik, hijo de Carad, y le haga sufrir lo que la tribu de Themood soportó!
 
-En conjunto, el desdichado Malik encontró las cosas muy desagradables, por decir lo menos, y no le quedó otra opción que emigrar con su familia; mientras tanto, ocultándose, para que Amarah, con quien también había prometido a Abla, no sospechara su plan y evitara su partida. Pero pronto Amarah, ahora que su formidable rival estaba muerto, decide no perder tiempo en reclamar a su novia; y, acompañado por Oorwah, el hijo de <span id="p238">[<sup><small>p. 238</small></sup>]</span> Wird, y otros diez jinetes, parte hacia la tierra de Yemen, para procurarse la dote (a base de botín, por supuesto); y Malik decide aprovechar su ausencia y marcharse con su familia. Pero cuando le contó a Abla cómo la había prometido en matrimonio a Vachid, ella protestó que nunca se convertiría en la novia ni de Amarah ni de Vachid, ya que su corazón estaba enterrado en la tumba de Antar, exclamando:
+En conjunto, el desdichado Malik encontró las cosas muy desagradables, por decir lo menos, y no le quedó otra opción que emigrar con su familia; mientras tanto, ocultándose, para que Amarah, con quien también había prometido a Abla, no sospechara su plan y evitara su partida. Pero pronto Amarah, ahora que su formidable rival estaba muerto, decide no perder tiempo en reclamar a su novia; y, acompañado por Oorwah, el hijo de <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> Wird, y otros diez jinetes, parte hacia la tierra de Yemen, para procurarse la dote (a base de botín, por supuesto); y Malik decide aprovechar su ausencia y marcharse con su familia. Pero cuando le contó a Abla cómo la había prometido en matrimonio a Vachid, ella protestó que nunca se convertiría en la novia ni de Amarah ni de Vachid, ya que su corazón estaba enterrado en la tumba de Antar, exclamando:
 
 ¡Oh corazón! ¡Ten paciencia bajo las agonías que sufro! —Pero ¿cómo pueden dejar de fluir mis lágrimas? —¡No hay bálsamo para calmarlas!
 

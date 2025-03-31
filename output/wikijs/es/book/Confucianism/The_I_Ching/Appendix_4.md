@@ -56,7 +56,7 @@ Capítulo [^280]. 4. ¿Cuál es el significado de las palabras bajo los primeros
 
 8\. ¿Cuál es el significado de las palabras bajo el quinto NUEVE: «El dragón vuela en el cielo; será provechoso ver al gran hombre»? El Maestro dijo: «Las notas de la misma tonalidad se responden; las criaturas de la misma naturaleza se buscan; el agua fluye hacia lo bajo y húmedo; el fuego se eleva hacia lo seco; las nubes siguen al dragón y los vientos al tigre: así aparece el sabio, y todos lo observan. Las cosas que provienen del cielo se mueven hacia lo alto; las cosas que provienen de la tierra se adhieren a lo bajo: así todo sigue su especie».
 
-9\. ¿Cuál es el significado de las palabras bajo el NUEVE superior: «El dragón excede los límites debidos; habrá ocasión para el arrepentimiento»? El Maestro dijo: «La posición es noble, pero no es la de un cargo; (su ocupante) reside en lo alto, pero no tiene pueblo (que gobierne); y los hombres de talento <span id="p412">[<sup><small>p. 412</small></sup>]</span> y virtud en los puestos inferiores no le brindarán ayuda; si se mueve en tal caso, habrá ocasión para el arrepentimiento».
+9\. ¿Cuál es el significado de las palabras bajo el NUEVE superior: «El dragón excede los límites debidos; habrá ocasión para el arrepentimiento»? El Maestro dijo: «La posición es noble, pero no es la de un cargo; (su ocupante) reside en lo alto, pero no tiene pueblo (que gobierne); y los hombres de talento <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> y virtud en los puestos inferiores no le brindarán ayuda; si se mueve en tal caso, habrá ocasión para el arrepentimiento».
 
 <span id="p413">[<sup><small>pág. 413</small></sup>]</span>
 
@@ -128,7 +128,7 @@ Capítulo [^284]. 30. En el hombre superior, su conducta es fruto de su virtud p
 
 [^285]
 
-Capítulo I. 1. (Lo que se indica con) Khwăn es muy suave y débil, pero, cuando se pone en movimiento, es <span id="p419">[<sup><small>p. 419</small></sup>]</span> duro y fuerte; es muy quieto, pero es capaz de dar toda forma definida.
+Capítulo I. 1. (Lo que se indica con) Khwăn es muy suave y débil, pero, cuando se pone en movimiento, es <span id="p419"><sup><small>[ p. 419 ]</small></sup></span> duro y fuerte; es muy quieto, pero es capaz de dar toda forma definida.
 
 2\. 'Al seguirlo, obtiene su (propio) señor', y prosigue su (curso) regular.
 
@@ -142,7 +142,7 @@ Capítulo II. 5. La familia que acumula bondad seguramente tendrá una felicidad
 
 7\. Aunque (el sujeto de) esta línea dividida posee excelentes cualidades, no las exhibe, sino que las reprime. «Si se dedica a ellas al servicio del rey y tiene éxito, no se atribuirá ese éxito»: este es el camino de la tierra, de una esposa, de un ministro. El camino de la tierra es «no atribuirse el mérito del logro», sino, en nombre (del cielo), llevar las cosas a su debido resultado.
 
-8\. Gracias a los cambios y transformaciones que producen el cielo y la tierra, las plantas y los árboles crecen exuberantemente. Si (la influencia recíproca del) cielo y la tierra se limitara y restringiera, tendríamos (un estado que podría sugerirnos) el caso de hombres de virtud y capacidad que yacen en la oscuridad. Las palabras del Yî: «Un saco atado: no habrá <span id="p421">[<sup><small>p. 421</small></sup>]</span> motivo de censura ni de alabanza», son en realidad una lección de cautela.
+8\. Gracias a los cambios y transformaciones que producen el cielo y la tierra, las plantas y los árboles crecen exuberantemente. Si (la influencia recíproca del) cielo y la tierra se limitara y restringiera, tendríamos (un estado que podría sugerirnos) el caso de hombres de virtud y capacidad que yacen en la oscuridad. Las palabras del Yî: «Un saco atado: no habrá <span id="p421"><sup><small>[ p. 421 ]</small></sup></span> motivo de censura ni de alabanza», son en realidad una lección de cautela.
 
 9\. El hombre superior (representado aquí por el amarillo y el color correcto) posee comprensión y discernimiento. Ocupa la posición correcta (de supremacía), pero (ese emblema) se encuentra en (la parte inferior de) su persona. Su excelencia reside en el centro (de su ser), pero difunde complacencia en sus cuatro extremidades y se manifiesta en (la gestión de) sus asuntos: esta es la perfección de la excelencia.
 

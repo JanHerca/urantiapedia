@@ -44,7 +44,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. Habiendo extendido debajo (Â<i>n</i>ya) en la (cuchara llamada) Darvi, corta (los Avadânas) de esos tipos de alimentos (mencionados en el Sûtra 3), los mezcla con mantequilla clarificada y sacrifica (con las fórmulas): «¡Adoración a Agni el terrestre, señor de los seres terrestres! ¡Svâhâ! ¡Adoración a Vâyu el omnipresente, señor de los seres aéreos! ¡Svâhâ! ¡Adoración a Sûrya, el rojo, señor de los seres celestiales! ¡Svâhâ! ¡Adoración a Vish<i>n</i>u, el blanquecino, señor de los seres que moran en las direcciones (del mundo). ¡Svâhâ!»
 
-5\. [^696] Unge las Ki<i>m</i><i>m</i>uka (flores y hojas) con Â<i>m</i>ya, y sacrifica con (los Mantras), 'Devorado es el tábano; devorada es la sed (?); devorado es el gusano que pica'. 'Devorado es el gusano que pica; devorada es la sed; devorado es el tábano'. <span id="p238">[<sup><small>p. 238</small></sup>]</span> 'Devorado es la sed; devorado es el tábano; devorado es el gusano que pica'.
+5\. [^696] Unge las Ki<i>m</i><i>m</i>uka (flores y hojas) con Â<i>m</i>ya, y sacrifica con (los Mantras), 'Devorado es el tábano; devorada es la sed (?); devorado es el gusano que pica'. 'Devorado es el gusano que pica; devorada es la sed; devorado es el tábano'. <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 'Devorado es la sed; devorado es el tábano; devorado es el gusano que pica'.
 
 6\. Toma un cántaro y un puñado de hierba Darbha, sale con el rostro vuelto hacia el este, extiende la hierba Darbha con sus puntas hacia el este y realiza cuatro ofrendas de Bali sobre ella con las fórmulas: «A las Serpientes terrestres ofrezco este Bali», «A las aéreas, etc.; a las celestiales, etc.; a las Serpientes que habitan en los rincones del mundo», etc.
 
@@ -56,7 +56,7 @@ Dentro del dominio del blanco, la Serpiente no ha matado a nadie. ¡Al blanco, h
 
 '¡Adoración al blanco, el hijo de Vidarva!'
 
-9\. Luego adora a las Serpientes hacia las diferentes regiones, una por una, con (la sección correspondiente de) estos Mantras: «Te llamas la convergente, la región oriental» (Taitt. Samh. V, 5, 10, 1 y ss.). <span id="p239">[<sup><small>p. 239</small></sup>]</span>
+9\. Luego adora a las Serpientes hacia las diferentes regiones, una por una, con (la sección correspondiente de) estos Mantras: «Te llamas la convergente, la región oriental» (Taitt. Samh. V, 5, 10, 1 y ss.). <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 10\. Desde ese momento, diariamente realiza las ofrendas de Bali hasta el día de luna llena de Mârga<i>m</i>îrsha.
 

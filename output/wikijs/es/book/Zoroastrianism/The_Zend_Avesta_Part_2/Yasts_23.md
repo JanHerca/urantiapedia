@@ -88,7 +88,7 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 '¡Quiera Dios que puedas alcanzar el Rangha, cuyas orillas se encuentran lejanas, como lo fue Vafra Navâza [^1376]!
 
-¡Que seas amado por los dioses y reverenciado por los hombres [^1377]! <span id="p327">[<sup><small>p. 327</small></sup>]</span> 5\. ¡Que nazcan diez hijos de ti [^1378]! ¡Que en tres de ellos seas un Âthravan! ¡Que en tres de ellos seas un guerrero! ¡Que en tres de ellos seas un labrador de la tierra [^1379]! ¡Y que uno sea como tú, oh Vî<i>s</i>tâspa!
+¡Que seas amado por los dioses y reverenciado por los hombres [^1377]! <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 5\. ¡Que nazcan diez hijos de ti [^1378]! ¡Que en tres de ellos seas un Âthravan! ¡Que en tres de ellos seas un guerrero! ¡Que en tres de ellos seas un labrador de la tierra [^1379]! ¡Y que uno sea como tú, oh Vî<i>s</i>tâspa!
 
 6\. '¡Que puedas ser veloz como el Sol [^1380]!
 

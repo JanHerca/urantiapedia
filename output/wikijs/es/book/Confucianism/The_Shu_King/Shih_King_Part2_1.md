@@ -56,7 +56,7 @@ ODA FESTIVA, EN RESPUESTA A CUALQUIERA DE LAS CINCO QUE LA PRECEDEN. LOS OFICIAL
 
 Atribuido, como el anterior, al duque de Kâu.
 
-El cielo te protege y te establece, con la mayor seguridad; te hace enteramente virtuoso. <span id="p348">[<sup><small>p. 348</small></sup>]</span> para que puedas gozar de toda felicidad; te concede mucho aumento, para que tengas todo en abundancia.
+El cielo te protege y te establece, con la mayor seguridad; te hace enteramente virtuoso. <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> para que puedas gozar de toda felicidad; te concede mucho aumento, para que tengas todo en abundancia.
 
 El Cielo te protege y te establece. Te concede toda la excelencia, para que todo te salga bien y recibas todos los favores celestiales. Te envía una felicidad duradera, que los días no alcanzan para disfrutar.
 
@@ -66,7 +66,7 @@ Con felices auspicios y purificaciones traes las ofrendas, y las presentas filia
 
 Los espíritus vienen [^407] y te conceden muchas bendiciones. La gente es sencilla y honesta, y disfruta a diario de su comida y bebida. Toda la raza de cabello negro, con todos sus apellidos, practica universalmente tu virtud.
 
-Como la luna que avanza hacia su plenitud, como el sol que asciende por los cielos, como las eternas colinas del sur, que nunca menguan, nunca caen, como <span id="p349">[<sup><small>p. 349</small></sup>]</span> la exuberancia del abeto y del ciprés; ¡que tal sea tu linaje sucesor!
+Como la luna que avanza hacia su plenitud, como el sol que asciende por los cielos, como las eternas colinas del sur, que nunca menguan, nunca caen, como <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> la exuberancia del abeto y del ciprés; ¡que tal sea tu linaje sucesor!
 
 <a id="o9"></a>
 

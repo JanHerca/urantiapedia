@@ -36,7 +36,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 ## Capítulo I
 
-**Sobre las preguntas de Janamejaya respecto a la encarnación de Krisna** <span id="p249">[<sup><small>p. 249</small></sup>]</span> 1\. Janamejaya dijo:— ¡Oh, Vâsaveya!, el Jefe entre los Munis, el Océano de todo conocimiento, ¡oh, el Inmaculado!, el Señor y Bienqueriente de nuestras familias, vengo a ti con la intención de hacerte ciertas preguntas.
+**Sobre las preguntas de Janamejaya respecto a la encarnación de Krisna** <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 1\. Janamejaya dijo:— ¡Oh, Vâsaveya!, el Jefe entre los Munis, el Océano de todo conocimiento, ¡oh, el Inmaculado!, el Señor y Bienqueriente de nuestras familias, vengo a ti con la intención de hacerte ciertas preguntas.
 
 \* Vâsavî es el nombre de la madre de Vyâsa.
 
@@ -46,7 +46,7 @@ Nota: (1) Ânakadundubhi es el epíteto de Vasudeva, padre de S'rî Krisna, ya q
 
 4-5. ¿Qué faltas cometieron él y su esposa Devakî? ¿Por qué Kamsa, descendiente de Yayâti, mató a los seis hijos pequeños de Devakî? ¿Y por qué razón el dios Sri Hari se encarnó como el hijo de Vasudeva en la prisión de Kamsa?
 
-6-11. ¿Cómo fue llevado a Gokula ese Señor del Universo, Sri Bhagavan, gobernante del clan Yadava? ¿Por qué, nacido en una familia ksattriya, fue generalmente reconocido como del clan Gopala (pastor de vacas)? ¿Por qué su padre, Vasudeva, y su madre, Devaki, fueron encarcelados? ¿Y por qué Sri Krisna, de indomable poder y capaz de crear y preservar los mundos, no pudo liberar instantáneamente a su padre y a su madre de su estado de prisión? No puedo concebir que el supuesto Destino pudiera tener influencia alguna en personas de alma tan elevada, el padre y la madre del Ser Supremo, Sri Krisna; ¿quiénes eran esos hijos de Vasudeva que fueron asesinados por Kamsa? ¿Y quién era esa niña que, al ser golpeada por Kamsa contra una losa de piedra, se elevó instantáneamente por encima del cielo, adoptando la forma de Astabhujâ, la Diosa de ocho brazos? ¡Oh, Inmaculado! Por favor, explícame cómo logró Sri Hari cumplir con los deberes de un jefe de familia tras casarse con sus diversas esposas. ¿Cuáles fueron esas gloriosas acciones que realizó en su encarnación y cómo finalmente abandonó su cuerpo físico mortal? Mi mente se hunde en un mar de confusión al oír hablar de las diversas acciones de Sri Hari; a veces considero que esas acciones no podrían ser realizadas por nadie más que el Ser Supremo mismo, y a veces oigo hablar de acciones que podrían ser realizadas por un hombre común. Por lo tanto, no puedo decidir si Vasudeva era la encarnación de Dios o un ser común. Ten la bondad de disipar estas dudas de mi mente y describir la vida de Vasudeva en su verdadera luz. <span id="p250">[<sup><small>p. 250</small></sup>]</span> 12-14. En tiempos pasados, los dos hijos de Dharma, los Devas Nara y Nârâyana, eran los dos mejores entre los Risis. Eran personas de alma muy elevada y realizaron rigurosas austeridades durante largos años. Nacieron como encarnaciones parciales de Visnu; y, por el bien del mundo, en el Vadarikâ'srama, realizaron penitencias, controlando sus seis pasiones y libres de deseos.
+6-11. ¿Cómo fue llevado a Gokula ese Señor del Universo, Sri Bhagavan, gobernante del clan Yadava? ¿Por qué, nacido en una familia ksattriya, fue generalmente reconocido como del clan Gopala (pastor de vacas)? ¿Por qué su padre, Vasudeva, y su madre, Devaki, fueron encarcelados? ¿Y por qué Sri Krisna, de indomable poder y capaz de crear y preservar los mundos, no pudo liberar instantáneamente a su padre y a su madre de su estado de prisión? No puedo concebir que el supuesto Destino pudiera tener influencia alguna en personas de alma tan elevada, el padre y la madre del Ser Supremo, Sri Krisna; ¿quiénes eran esos hijos de Vasudeva que fueron asesinados por Kamsa? ¿Y quién era esa niña que, al ser golpeada por Kamsa contra una losa de piedra, se elevó instantáneamente por encima del cielo, adoptando la forma de Astabhujâ, la Diosa de ocho brazos? ¡Oh, Inmaculado! Por favor, explícame cómo logró Sri Hari cumplir con los deberes de un jefe de familia tras casarse con sus diversas esposas. ¿Cuáles fueron esas gloriosas acciones que realizó en su encarnación y cómo finalmente abandonó su cuerpo físico mortal? Mi mente se hunde en un mar de confusión al oír hablar de las diversas acciones de Sri Hari; a veces considero que esas acciones no podrían ser realizadas por nadie más que el Ser Supremo mismo, y a veces oigo hablar de acciones que podrían ser realizadas por un hombre común. Por lo tanto, no puedo decidir si Vasudeva era la encarnación de Dios o un ser común. Ten la bondad de disipar estas dudas de mi mente y describir la vida de Vasudeva en su verdadera luz. <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> 12-14. En tiempos pasados, los dos hijos de Dharma, los Devas Nara y Nârâyana, eran los dos mejores entre los Risis. Eran personas de alma muy elevada y realizaron rigurosas austeridades durante largos años. Nacieron como encarnaciones parciales de Visnu; y, por el bien del mundo, en el Vadarikâ'srama, realizaron penitencias, controlando sus seis pasiones y libres de deseos.
 
 15\. Los sabios omniscientes Nârada y otros dicen que los bien conocidos Arjuna y S'rî Krisna de indomable destreza fueron las dos encarnaciones parciales de esos dos antiguos Munis Nara y Nârâyana.
 
@@ -62,13 +62,13 @@ Nota: (1) Ânakadundubhi es el epíteto de Vasudeva, padre de S'rî Krisna, ya q
 
 23\. ¿Cómo fue que Pradyumna fue secuestrado por S'ambara, el señor de los asuras? ¿Y con qué propósito, estando presente Vasudeva, el Deva de los Devas, su hijo fue robado del orfanato? Esto parece imposible.
 
-24\. ¿Por qué Vasudeva no presenció, con su visión interior, el robo de su hijo de los muros inexpugnables de su mansión, que parecía una fortaleza, en Dwârkâ? (¡Y así pudo haberlo evitado!) <span id="p251">[<sup><small>p. 251</small></sup>]</span> 25-39. ¡Oh, Muni! Después de que Vâsudeva partiera al Cielo, sus esposas fueron saqueadas por los bandidos en el camino. Tengo muchas dudas sobre este punto. Además, no puedo comprender por qué este suceso ocurrió justo después de su traslado al Cielo. Además, ¿cómo nació Sri Krisna, la encarnación completa de Visnu, para liberarse de la carga perversa de esta tierra y destruir a los malhechores? Aterrorizado, huyó por temor a Jarasandha, evacuó su reino de Mathura y se dirigió con sus ejércitos y amigos a Dwarka. Vasudeva vino aquí para destruir a los malvados y para preservar la religión; ¿cómo, entonces, siendo omnisciente, no mató previamente a esos bandidos que luego robaron y saquearon a sus esposas? ¿Acaso Él, siendo omnisciente, no conocía a esos bandidos? Sin duda, protegió a los Pandavas, quienes eran de alma noble, rectos y virtuosos; pero no puedo comprender cómo consideró a personas virtuosas y de alma noble como Bhisma, Drona y otros como cargas de tierra y los mató. Los devotos de Sri Krisna, observando buenas costumbres, conductas y prácticas, Yudhisthira y sus hermanos realizaron el sacrificio Râjasuya según las reglas, ofreciendo diversas ofrendas a los brahmanes y dependiendo completamente de Vasudeva; aun así, ¡oh, Muni!, sufrieron terribles penurias. ¿Dónde estaban sus acciones virtuosas para entonces? ¿Qué horribles pecados cometieron para tener que sufrir dolores y dificultades en la asamblea? La altamente meritoria Draupadî surgió de en medio del fuego del sacrificio y nació de la parte de Laksmî, pura y devota de Sri Krisna. ¿Cómo pudo una mujer tan gloriosa sufrir dolores terribles tan a menudo? ¿Cómo pudo Duh'sâsan sujetarla por el cabello y llevarla a la asamblea real, estando en su menstruación, extremadamente aterrorizada y angustiada? ¿Cómo llegó a ser esclava de Matsya Râj en su reino Virât, y aunque lloraba a gritos como un águila pescadora, fue ultrajada por Kîchaka? ¡Ay! ¿Cómo pudo Jayadratha robar a Draupadî, aunque posteriormente fue liberada por los Pandavas? ¿Qué malas acciones cometieron los Pandavas en sus vidas anteriores, para que tuvieran que enfrentarse a tantas dificultades?
+24\. ¿Por qué Vasudeva no presenció, con su visión interior, el robo de su hijo de los muros inexpugnables de su mansión, que parecía una fortaleza, en Dwârkâ? (¡Y así pudo haberlo evitado!) <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> 25-39. ¡Oh, Muni! Después de que Vâsudeva partiera al Cielo, sus esposas fueron saqueadas por los bandidos en el camino. Tengo muchas dudas sobre este punto. Además, no puedo comprender por qué este suceso ocurrió justo después de su traslado al Cielo. Además, ¿cómo nació Sri Krisna, la encarnación completa de Visnu, para liberarse de la carga perversa de esta tierra y destruir a los malhechores? Aterrorizado, huyó por temor a Jarasandha, evacuó su reino de Mathura y se dirigió con sus ejércitos y amigos a Dwarka. Vasudeva vino aquí para destruir a los malvados y para preservar la religión; ¿cómo, entonces, siendo omnisciente, no mató previamente a esos bandidos que luego robaron y saquearon a sus esposas? ¿Acaso Él, siendo omnisciente, no conocía a esos bandidos? Sin duda, protegió a los Pandavas, quienes eran de alma noble, rectos y virtuosos; pero no puedo comprender cómo consideró a personas virtuosas y de alma noble como Bhisma, Drona y otros como cargas de tierra y los mató. Los devotos de Sri Krisna, observando buenas costumbres, conductas y prácticas, Yudhisthira y sus hermanos realizaron el sacrificio Râjasuya según las reglas, ofreciendo diversas ofrendas a los brahmanes y dependiendo completamente de Vasudeva; aun así, ¡oh, Muni!, sufrieron terribles penurias. ¿Dónde estaban sus acciones virtuosas para entonces? ¿Qué horribles pecados cometieron para tener que sufrir dolores y dificultades en la asamblea? La altamente meritoria Draupadî surgió de en medio del fuego del sacrificio y nació de la parte de Laksmî, pura y devota de Sri Krisna. ¿Cómo pudo una mujer tan gloriosa sufrir dolores terribles tan a menudo? ¿Cómo pudo Duh'sâsan sujetarla por el cabello y llevarla a la asamblea real, estando en su menstruación, extremadamente aterrorizada y angustiada? ¿Cómo llegó a ser esclava de Matsya Râj en su reino Virât, y aunque lloraba a gritos como un águila pescadora, fue ultrajada por Kîchaka? ¡Ay! ¿Cómo pudo Jayadratha robar a Draupadî, aunque posteriormente fue liberada por los Pandavas? ¿Qué malas acciones cometieron los Pandavas en sus vidas anteriores, para que tuvieran que enfrentarse a tantas dificultades?
 
 40\. ¡Oh, noble Muni! Mis antepasados ​​realizaron el sacrificio Râjasûya y aun así sufrieron graves dificultades. Por favor, explícame las causas.
 
 41-42. Si se alega que sufrieron tantas calamidades graves debido a sus acciones en vidas anteriores, eso parece imposible. Porque nacieron de los Devas; de ahí surge mi duda; les ruego que me lo expliquen.
 
-Además, ¿cómo los Pandavas, hijos de Kunti, de buena conducta y conocedores de la naturaleza ilusoria del mundo, mataron, con pretexto, a Bhîsma, Drona y otros? <span id="p252">[<sup><small>p. 252</small></sup>]</span> 43\. Me parece un enigma que estos Pandavas, inspirados por Hari Vâsudeva, fueran inducidos a exterminar a su raza a cometer este horrible acto.
+Además, ¿cómo los Pandavas, hijos de Kunti, de buena conducta y conocedores de la naturaleza ilusoria del mundo, mataron, con pretexto, a Bhîsma, Drona y otros? <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> 43\. Me parece un enigma que estos Pandavas, inspirados por Hari Vâsudeva, fueran inducidos a exterminar a su raza a cometer este horrible acto.
 
 44. Es mejor vivir de limosna y de arroz silvestre o sin cultivar, o vivir como artesano o artista, que matar a valientes guerreros ilegalmente en una batalla, simplemente por codicia voluptuosa.
 
@@ -87,13 +87,13 @@ Así termina el Primer Adhyâya del Cuarto Libro del Sri Mad Devî Bhâgavata Pu
 
 ## Capítulo II
 
-**Sobre la supremacía de los efectos del Karma** <span id="p252">[<sup><small>p. 252</small></sup>]</span> 1\. Sûta dijo:— El erudito Vyâsa, hijo de Satyavatî y conocedor de los Purânas, al ser preguntado por Janamejaya, hijo de Parîksit, cuyo corazón se había calmado, respondió con las siguientes palabras, capaces de disipar todas sus dudas. Vyâsa dijo:—
+**Sobre la supremacía de los efectos del Karma** <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> 1\. Sûta dijo:— El erudito Vyâsa, hijo de Satyavatî y conocedor de los Purânas, al ser preguntado por Janamejaya, hijo de Parîksit, cuyo corazón se había calmado, respondió con las siguientes palabras, capaces de disipar todas sus dudas. Vyâsa dijo:—
 
 2\. ¡Oh, rey! Es mejor que sepas que en este Universo el curso del Karma no es fácil de comprender; ni siquiera los Devas son capaces de comprender los maravillosos efectos de las acciones; ¡ni hablar de los hombres!
 
 3\. Cuando surgió este Universo compuesto de las tres Gunas, fue a través del Karma que todo tuvo su origen.
 
-4-5. Fue la semilla del karma de donde surgieron los Jivas (las almas individuales encarnadas) sin principio ni fin. Estos Jivas se encarnan a menudo en innumerables matrices y luego se disuelven. Cuando este karma cesa, los Jivas ya no tendrán conexión con ningún otro cuerpo. <span id="p253">[<sup><small>p. 253</small></sup>]</span> 6\. Los karmas realizados por los Jivas son de tres tipos: auspiciosos, desfavorables y mixtos (en parte auspiciosos y en parte desfavorables); de los cuales el auspicioso es el karma sátvico, el desfavorable es el tamásico y el mixto es el rajásico. Así lo han dicho los Sabios.
+4-5. Fue la semilla del karma de donde surgieron los Jivas (las almas individuales encarnadas) sin principio ni fin. Estos Jivas se encarnan a menudo en innumerables matrices y luego se disuelven. Cuando este karma cesa, los Jivas ya no tendrán conexión con ningún otro cuerpo. <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> 6\. Los karmas realizados por los Jivas son de tres tipos: auspiciosos, desfavorables y mixtos (en parte auspiciosos y en parte desfavorables); de los cuales el auspicioso es el karma sátvico, el desfavorable es el tamásico y el mixto es el rajásico. Así lo han dicho los Sabios.
 
 7\. Estos tres se subdividen a su vez en tres. Son Sanchita (acumulado), Bhavisya (inminente en el futuro) y Prârabdha (comenzado). Todos estos karmas residen siempre en el cuerpo.
 
@@ -137,7 +137,7 @@ Así termina el Primer Adhyâya del Cuarto Libro del Sri Mad Devî Bhâgavata Pu
 
 30\. Cuando el niño tiene hambre y llora, la madre se angustia. Cuando el niño padece alguna enfermedad y llora, la madre lo sabe y le administra medicamentos.
 
-31\. Así, surgen muchos problemas en la infancia. Los sabios, por lo tanto, no encuentran la felicidad y no desean, por voluntad propia, venir aquí. <span id="p255">[<sup><small>p. 255</small></sup>]</span> 32\. ¡Oh, rey! Ningún hombre sensato renunciaría a los incesantes placeres celestiales y preferiría a los Devas este penoso y doloroso estado de nacer en el vientre materno.
+31\. Así, surgen muchos problemas en la infancia. Los sabios, por lo tanto, no encuentran la felicidad y no desean, por voluntad propia, venir aquí. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> 32\. ¡Oh, rey! Ningún hombre sensato renunciaría a los incesantes placeres celestiales y preferiría a los Devas este penoso y doloroso estado de nacer en el vientre materno.
 
 33\. ¡Oh, rey de reyes! Todos los Devas, Brahma y otros deben disfrutar plenamente de los efectos de sus karmas, ya sean placenteros o dolorosos.
 
@@ -159,7 +159,7 @@ Así termina el Primer Adhyâya del Cuarto Libro del Sri Mad Devî Bhâgavata Pu
 
 42\. ¡Oh, el mejor de los reyes! Y las dos esposas Kas'yapa, Aditi y Surasâ, tuvieron que nacer como las dos hermanas, Devaki y Rohinî, debido a las maldiciones que les fueron lanzadas. ¡Oh, descendiente de Bharata! Hemos oído que en una ocasión fueron gravemente maldecidas por Varuna, la deidad del agua, quien se enfureció muchísimo. El rey dijo:
 
-43-47. ¿Qué falta cometió Kas'yapa para tener que nacer junto con su esposa como pastores de vacas? ¿Y por qué el eterno e ininterrumpido Atman Visnu Nârâyana tuvo que nacer en Gokula? Aquel cuya morada es Vaikuntha, ¡quien es el Señor de Rama! ¡quien es Bhagavân y el Supremo entre los dioses, quien es el sustentador del universo y los yugas! ¿Bajo la orden de quién puede tal ser abandonar su morada y nacer en el mundo como un mortal común? Tengo, entonces, una grave duda sobre este punto. <span id="p256">[<sup><small>p. 256</small></sup>]</span> 48-51. Al obtener esta depravada envoltura humana, uno siempre está perplejo con diversos pensamientos, a veces con lujuria, ira, celos, intolerancia, tristeza, enemistad, a veces con sentimientos placenteros, felicidad, miedo, sufrimientos, penuria, a veces con franqueza, buenas o malas acciones, fidelidad, traición, inestabilidad, apoyo a otros; a veces con remordimiento, vacilación, jactancia, codicia, vana jactancia, engaño o hipocresía y a veces con remordimiento; estos diferentes sentimientos existen en los hombres.
+43-47. ¿Qué falta cometió Kas'yapa para tener que nacer junto con su esposa como pastores de vacas? ¿Y por qué el eterno e ininterrumpido Atman Visnu Nârâyana tuvo que nacer en Gokula? Aquel cuya morada es Vaikuntha, ¡quien es el Señor de Rama! ¡quien es Bhagavân y el Supremo entre los dioses, quien es el sustentador del universo y los yugas! ¿Bajo la orden de quién puede tal ser abandonar su morada y nacer en el mundo como un mortal común? Tengo, entonces, una grave duda sobre este punto. <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> 48-51. Al obtener esta depravada envoltura humana, uno siempre está perplejo con diversos pensamientos, a veces con lujuria, ira, celos, intolerancia, tristeza, enemistad, a veces con sentimientos placenteros, felicidad, miedo, sufrimientos, penuria, a veces con franqueza, buenas o malas acciones, fidelidad, traición, inestabilidad, apoyo a otros; a veces con remordimiento, vacilación, jactancia, codicia, vana jactancia, engaño o hipocresía y a veces con remordimiento; estos diferentes sentimientos existen en los hombres.
 
 52\. ¿Cómo puede entonces Visnu Bhagavân abandonar Sus placeres eternos y recurrir a este nacimiento humano, lleno de muchos pensamientos confusos?
 
@@ -180,7 +180,7 @@ Aquí termina el Segundo Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâva
 
 ## Capítulo III
 
-**Sobre la antigua maldición de Vasudeva y Devakî** <span id="p256">[<sup><small>p. 256</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, rey! La encarnación de Hari y la encarnación de los Amsa Avatâras de todos los demás Devas son responsables de muchas causas. La principal es el Karma; las menores son muchas. <span id="p257">[<sup><small>p. 257</small></sup>]</span> 2\. Escucha ahora la causa de las encarnaciones de Vasudeva (el padre de Krishna), Devakî y Rohinî en detalle.
+**Sobre la antigua maldición de Vasudeva y Devakî** <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, rey! La encarnación de Hari y la encarnación de los Amsa Avatâras de todos los demás Devas son responsables de muchas causas. La principal es el Karma; las menores son muchas. <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> 2\. Escucha ahora la causa de las encarnaciones de Vasudeva (el padre de Krishna), Devakî y Rohinî en detalle.
 
 3\. En cierta ocasión, S'rîmân Kas'yapa robó la Kâmadhenu (la Vaca celestial que concede todos los deseos) del Deva Varuna para su sacrificio; y aunque Varuna le suplicaba repetidamente que devolviera la vaca, Kas'yapa no le devolvió aquella, la mejor de todas las vacas.
 
@@ -200,7 +200,7 @@ Aquí termina el Segundo Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâva
 
 12\. ¡Mira! Maharsi Kas'yapa no puede abandonar este vicioso hábito ni siquiera ahora; ¿qué haré? Por lo tanto, consideraré la codicia más poderosa que incluso el Destino, el Gobernante de todos los destinos.
 
-13\. Benditos sean los santos que se han dedicado por completo a alcanzar la paz, que tienen un corazón sereno, llevan una vida ermitaña y no exigen nada de nadie. En verdad, esos son benditos. <span id="p258">[<sup><small>p. 258</small></sup>]</span> 14\. Esta codicia es un enemigo poderoso; siempre es impía y odiosa. ¡Miren! Su influencia ha dominado al Maharsi Kas'yapa, lo ha atado a un afecto común y lo ha impulsado a cometer un acto pecaminoso.
+13\. Benditos sean los santos que se han dedicado por completo a alcanzar la paz, que tienen un corazón sereno, llevan una vida ermitaña y no exigen nada de nadie. En verdad, esos son benditos. <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> 14\. Esta codicia es un enemigo poderoso; siempre es impía y odiosa. ¡Miren! Su influencia ha dominado al Maharsi Kas'yapa, lo ha atado a un afecto común y lo ha impulsado a cometer un acto pecaminoso.
 
 15-16. Entonces el Prajâpati Brahmâ, para preservar y mantener el prestigio en nombre de la Justicia y la Religión, maldijo a su querido nieto Kas'yapa, el mejor de los Munis, y dijo: —Vayan a la tierra en su Ams'a, nazcan en el clan Yadu, únanse a sus esposas y trabajen como pastores de vacas.
 
@@ -222,7 +222,7 @@ Aquí termina el Segundo Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâva
 
 25\. Diti prometió cumplir su palabra e hizo un juramento; y cuando cumplió el voto, Maharsi Kas'yapa fecundó la semilla en su vientre. Diti también dio a luz la semilla en su vientre según el rito habitual.
 
-26\. La hermosa Diti, de tez blanca, permaneció sagrada, observando todas las reglas y, profundamente dedicada a su voto, subsistía solo de leche y dormía en el suelo. <span id="p259">[<sup><small>p. 259</small></sup>]</span> 27-28. Así, cuando el feto se desarrolló completamente, Diti comenzó a lucir blanca y resplandeciente. Al verla así, Aditi se angustió y pensó: «Si de Diti nace un hijo como el poderoso Indra, mi hijo sin duda perderá su brillo y esplendor».
+26\. La hermosa Diti, de tez blanca, permaneció sagrada, observando todas las reglas y, profundamente dedicada a su voto, subsistía solo de leche y dormía en el suelo. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> 27-28. Así, cuando el feto se desarrolló completamente, Diti comenzó a lucir blanca y resplandeciente. Al verla así, Aditi se angustió y pensó: «Si de Diti nace un hijo como el poderoso Indra, mi hijo sin duda perderá su brillo y esplendor».
 
 29\. La orgullosa Aditi, pensando así, le dijo a Indra: —¡Oh, hijo! Allí, en el vientre de Diti, está tu poderoso enemigo.
 
@@ -250,7 +250,7 @@ Aquí termina el Segundo Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâva
 
 40\. Diti, de hermosos ojos, cansada del voto, delgada y flaca, por haber sido lavada con champú y teniendo plena fe en las palabras de Indra, cayó en un sueño profundo.
 
-41-42. Al verla dormida, Indra, con un rayo en la mano, adoptó una forma sutil y, por la influencia de su poder yóguico, entró con cuidado en su vientre y cortó al feto en siete partes. <span id="p260">[<sup><small>p. 260</small></sup>]</span> 43-44. El niño en el vientre, alcanzado por el rayo, gritó. Indra le dijo con dulzura: «No llores», y mientras tanto, cortó cada una de las siete partes en siete partes. Así, ¡oh rey!, nacieron los cuarenta y nueve Maruts.
+41-42. Al verla dormida, Indra, con un rayo en la mano, adoptó una forma sutil y, por la influencia de su poder yóguico, entró con cuidado en su vientre y cortó al feto en siete partes. <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> 43-44. El niño en el vientre, alcanzado por el rayo, gritó. Indra le dijo con dulzura: «No llores», y mientras tanto, cortó cada una de las siete partes en siete partes. Así, ¡oh rey!, nacieron los cuarenta y nueve Maruts.
 
 45\. Cuando la bondadosa Diti despertó, se enteró de que Indra había cortado traicioneramente el feto en su vientre y se sintió muy apenada y enojada.
 
@@ -277,7 +277,7 @@ Aquí termina el tercer Capítulo del Cuarto Libro del Mahâ Purânam S'rî Mad 
 
 ## Capítulo IV
 
-**Sobre Adharma** <span id="p260">[<sup><small>p. 260</small></sup>]</span> 1\. El Rey habló:— ¡Oh, muy honorable e inteligente! He escuchado la anécdota que me acabas de relatar. Estoy muy desconcertado. Este Samsara (mundo) es la encarnación del vicio. Me pregunto cómo las Jivas, enredadas en sus redes, podrán liberarse de nuevo. <span id="p261">[<sup><small>p. 261</small></sup>]</span> 2\. Cuando el hijo de Kas'yapa, cuyo reino son los tres mundos, puede cometer un acto tan atroz, ¿qué tiene de extraño, entonces, que cualquier otra persona común cometa actos más reprobables?
+**Sobre Adharma** <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> 1\. El Rey habló:— ¡Oh, muy honorable e inteligente! He escuchado la anécdota que me acabas de relatar. Estoy muy desconcertado. Este Samsara (mundo) es la encarnación del vicio. Me pregunto cómo las Jivas, enredadas en sus redes, podrán liberarse de nuevo. <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 2\. Cuando el hijo de Kas'yapa, cuyo reino son los tres mundos, puede cometer un acto tan atroz, ¿qué tiene de extraño, entonces, que cualquier otra persona común cometa actos más reprobables?
 
 3\. Con el pretexto de servir y bajo juramento solemne, cuando un hombre puede entrar en el vientre de su madrastra y quitarle la vida a su hijo, ¿qué cosa más atroz y terrible puede ocurrir?
 
@@ -295,7 +295,7 @@ Aquí termina el tercer Capítulo del Cuarto Libro del Mahâ Purânam S'rî Mad 
 
 11\. Incluso el puro, excelente y virtuoso Sri Krisna, con plena conciencia, tuvo que asumir bajo pretexto una forma brahmán para matar a Jarasandha.
 
-12\. Así como el santo Sri Hari adoptó una apariencia falsa para matar a Jarasandha, Arjuna también realizó un sacrificio falso para lograr sus fines. ¿Dónde está, entonces, alguien que pueda afirmar ser un Âpta? ¿Y qué prueba hay de la existencia de tal Âpta? <span id="p262">[<sup><small>p. 262</small></sup>]</span> 13\. ¿Qué clase de sacrificio fue este? ¿Condujo al cielo en el otro mundo, a la gloria o sirvió a la causa de alguna buena voluntad? ¿Por qué se privó de esa paz y tranquilidad? (Se realizó con el fin de matar a Sriupala y a otros).
+12\. Así como el santo Sri Hari adoptó una apariencia falsa para matar a Jarasandha, Arjuna también realizó un sacrificio falso para lograr sus fines. ¿Dónde está, entonces, alguien que pueda afirmar ser un Âpta? ¿Y qué prueba hay de la existencia de tal Âpta? <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 13\. ¿Qué clase de sacrificio fue este? ¿Condujo al cielo en el otro mundo, a la gloria o sirvió a la causa de alguna buena voluntad? ¿Por qué se privó de esa paz y tranquilidad? (Se realizó con el fin de matar a Sriupala y a otros).
 
 14-15. Los antiguos Pundits declaraban que la verdad es el primer Pāda, la pureza el segundo; la compasión el tercero; y la caridad el cuarto Pāda (pie) del Dharma (la religión). Así pues, sin estos, ¿cómo podría la religión gozar del debido respeto de todos?
 
@@ -311,7 +311,7 @@ A la verdad. ¡Mira! S'rî Hari incluso tuvo que convertirse, por su falsedad, e
 
 24\. Poderosa, en verdad, es Mâyâ, compuesta de las tres cualidades y de diversas formas. Por Ella se crea este Universo, multiplicándose por la combinación de las tres cualidades (Sattwa, Rajas y Tamas).
 
-25\. ¿Cómo puedes esperar, entonces, que un engañador observe la verdad completamente, sin la menor violación? Este mundo está hecho de la mezcla de Rajas; ¡oh rey! Conoce esto como la rutina diaria de las cosas en la naturaleza. <span id="p263">[<sup><small>p. 263</small></sup>]</span> 26-27. Solo los Munis y los Ermitaños pueden observar la verdad pura; y por eso carecen de apego; no aceptan nada de ningún otro cuerpo; carecen de deseos; y ninguno de ellos sufre el desgaste del mundo. Existen como ejemplos perfectos; su caso es completamente distinto. Todos los demás están atrapados bajo las redes de las tres Gunas Mayas.
+25\. ¿Cómo puedes esperar, entonces, que un engañador observe la verdad completamente, sin la menor violación? Este mundo está hecho de la mezcla de Rajas; ¡oh rey! Conoce esto como la rutina diaria de las cosas en la naturaleza. <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> 26-27. Solo los Munis y los Ermitaños pueden observar la verdad pura; y por eso carecen de apego; no aceptan nada de ningún otro cuerpo; carecen de deseos; y ninguno de ellos sufre el desgaste del mundo. Existen como ejemplos perfectos; su caso es completamente distinto. Todos los demás están atrapados bajo las redes de las tres Gunas Mayas.
 
 28\. ¡Oh, el mejor de los reyes! Los Dharma Sastras, Puranas, Angas y Vedas están llenos de opiniones diversas sobre cualquier punto en consideración, pues sus compositores estaban bajo la influencia de los diferentes Gunas.
 
@@ -331,7 +331,7 @@ A la verdad. ¡Mira! S'rî Hari incluso tuvo que convertirse, por su falsedad, e
 
 36\. Cuando la riqueza, el poder y el rango llegan a una persona, se arraiga profundamente el Ahamkâra y se vuelve muy egoísta; del Ahamkâra surge la ilusión, y de la ilusión, la insensibilidad y la muerte.
 
-37-38. Aquí los hombres discuten mentalmente sobre muchos planes; y de ahí surgen en el corazón los celos, la intolerancia y la enemistad; luego surgen, de la ilusión, la esperanza, la sed, la miseria, el desánimo, la arrogancia y la irreligiosidad. <span id="p264">[<sup><small>p. 264</small></sup>]</span> 39\. Es a través del Ahamkâra que las personas son guiadas a realizar sacrificios, obras de caridad, visitar lugares de peregrinación, practicar votos y reglas para ritos y ceremonias religiosas.
+37-38. Aquí los hombres discuten mentalmente sobre muchos planes; y de ahí surgen en el corazón los celos, la intolerancia y la enemistad; luego surgen, de la ilusión, la esperanza, la sed, la miseria, el desánimo, la arrogancia y la irreligiosidad. <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> 39\. Es a través del Ahamkâra que las personas son guiadas a realizar sacrificios, obras de caridad, visitar lugares de peregrinación, practicar votos y reglas para ritos y ceremonias religiosas.
 
 40\. Por lo tanto, estos actos sacrificiales, etc., que proceden del Ahamkâra, no pueden eliminar las nubes de impureza de la mente, como lo hace la observancia de la pureza y la limpieza. Especialmente cuando una acción se realiza por codicia o afecto indebido como motivo, no puede ser pura en todos los aspectos.
 
@@ -360,7 +360,7 @@ Aquí termina el Cuarto Capítulo del Cuarto Libro, el Mahâ Purânam S'rî Mad 
 
 ## Capítulo V
 
-**Sobre los diálogos de** **Nara** **Nârâyana** <span id="p265">[<sup><small>p. 265</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, el mejor de los reyes! No hay necesidad de extenderse en este punto; basta decir que en este mundo son muy pocas las personas religiosas y libres de egoísmo, celos, ira, etc.
+**Sobre los diálogos de** **Nara** **Nârâyana** <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, el mejor de los reyes! No hay necesidad de extenderse en este punto; basta decir que en este mundo son muy pocas las personas religiosas y libres de egoísmo, celos, ira, etc.
 
 2\. ¡Oh, rey de reyes! Incluso en el Satya Yuga, la Era Dorada, este mundo, móvil e inmóvil, estaba plagado de celos e ira. ¡Qué decir en este Kali Yuga (Era Oscura)! (No es de extrañar que este mundo esté lleno de estas cosas perversas).
 
@@ -380,7 +380,7 @@ Aquí termina el Cuarto Capítulo del Cuarto Libro, el Mahâ Purânam S'rî Mad 
 
 10\. Este Muni Dharma de alma elevada era jefe de familia y se casó debidamente, según el procedimiento apropiado, con las diez hijas de Daksa Prajâpati.
 
-11\. Este Dharma, el más destacado entre los seguidores de la verdad, los fecundó y tuvo cuatro hijos, llamados respectivamente Hari, Krisna, Nara y Nârâyana. <span id="p266">[<sup><small>p. 266</small></sup>]</span> 12\. Hari y Krisna, entre los cuatro, solían practicar el yoga constantemente.
+11\. Este Dharma, el más destacado entre los seguidores de la verdad, los fecundó y tuvo cuatro hijos, llamados respectivamente Hari, Krisna, Nara y Nârâyana. <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> 12\. Hari y Krisna, entre los cuatro, solían practicar el yoga constantemente.
 
 13\. Nara y Nârâyana llegaron a las montañas del Himalaya y, en la ermita de Badarikâ, comenzaron el difícil ascetismo religioso y la penitencia.
 
@@ -402,7 +402,7 @@ Aquí termina el Cuarto Capítulo del Cuarto Libro, el Mahâ Purânam S'rî Mad 
 
 26\. Creó leones, tigres, lobos y otros animales asesinos y comenzó a aterrorizar a los dos Risis con ellos. Indra también produjo lluvias, huracanes e incendios con mucha frecuencia para que cedieran.
 
-27\. A pesar del intento de Indra de aterrorizarlos con su maravillosa Maya, los dos Munis, Nara Nârâyana, los dos hijos de Dharma, no pudieron ser sometidos a su control. Indra regresó a su hogar. <span id="p267">[<sup><small>p. 267</small></sup>]</span> 28-31. Y se sintió muy afligido y pensó: —A estos dos Munis no se les pudo tentar con bendiciones, ni huyeron de su lugar de adoración, a pesar del miedo del fuego, el viento, los lobos, los tigres y los leones. Creo que nadie podría interrumpir su meditación. Cuando el miedo y las tentaciones no han distraído su meditación, ciertamente están meditando en el Eterno Mahâ Vidyâ S'rî Bhuvanes'warî, la Fuerza Primaria de la Naturaleza, la Fuente de todas las Mâyâs, y la Diosa Creadora de todos los mundos, la maravillosa Prakriti suprema; ¿qué otro experto en la emisión de Mâyâ puede haber? ¡Quién podría interrumpir su meditación!
+27\. A pesar del intento de Indra de aterrorizarlos con su maravillosa Maya, los dos Munis, Nara Nârâyana, los dos hijos de Dharma, no pudieron ser sometidos a su control. Indra regresó a su hogar. <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> 28-31. Y se sintió muy afligido y pensó: —A estos dos Munis no se les pudo tentar con bendiciones, ni huyeron de su lugar de adoración, a pesar del miedo del fuego, el viento, los lobos, los tigres y los leones. Creo que nadie podría interrumpir su meditación. Cuando el miedo y las tentaciones no han distraído su meditación, ciertamente están meditando en el Eterno Mahâ Vidyâ S'rî Bhuvanes'warî, la Fuerza Primaria de la Naturaleza, la Fuente de todas las Mâyâs, y la Diosa Creadora de todos los mundos, la maravillosa Prakriti suprema; ¿qué otro experto en la emisión de Mâyâ puede haber? ¡Quién podría interrumpir su meditación!
 
 32\. ¡En verdad! ¿Cómo puede toda esta multitud de mayas creadas por dioses y asuras dominar a quienes, purificados de todos sus pecados, meditan en su Creador, la Maya Suprema, esa ilusión por la cual se considera el Universo irreal como realmente existente y distinto del Espíritu Supremo, de donde los dioses y asuras han derivado todos sus poderes sobrenaturales?
 
@@ -420,7 +420,7 @@ NOTA: El Gandhamâdan es la insuperable y embriagadora felicidad de los sentidos
 
 40\. Cuando Brahmâ, yo, Mahâdeva, la Luna y el Fuego estamos todos fascinados por tus flechas, ¿hay alguna duda de que estos dos Risis no estarán fascinados por ellas?
 
-41\. Te envío a estas mujeres públicas como asistentes. Rambhâ y otras hermosas ninfas celestiales te seguirán. <span id="p268">[<sup><small>p. 268</small></sup>]</span> 42\. Solo tú, o solo Rambhâ o Tilottamâ, pueden realizar esta obra. ¿Habrá alguna duda si todos se unen en esto?
+41\. Te envío a estas mujeres públicas como asistentes. Rambhâ y otras hermosas ninfas celestiales te seguirán. <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> 42\. Solo tú, o solo Rambhâ o Tilottamâ, pueden realizar esta obra. ¿Habrá alguna duda si todos se unen en esto?
 
 43\. ¡Oh, Bendito! Haz esta obra por mí; te concederé lo que deseas.
 
@@ -447,13 +447,13 @@ Aquí termina el Quinto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 ## Capítulo VI
 
-**Sobre el origen de Urvas'î** <span id="p268">[<sup><small>p. 268</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, rey! Primero apareció en la montaña el rey de las estaciones, Vasanta, la Primavera. Todos los árboles florecieron y se volvieron muy hermosos; y las abejas comenzaron a zumbar por todas partes.
+**Sobre el origen de Urvas'î** <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, rey! Primero apareció en la montaña el rey de las estaciones, Vasanta, la Primavera. Todos los árboles florecieron y se volvieron muy hermosos; y las abejas comenzaron a zumbar por todas partes.
 
 2\. Los mangos, los árboles Bokul, los hermosos árboles Tilaka, los buenos Kimsukas, los árboles Sâl, Tâl, Tamâl y Madhuka asumieron bellezas inigualables, adornados con sus flores.
 
 3\. Los cucos comenzaron a arrullar (gorjear) hermosamente en las copas de los árboles; las enredaderas florecieron y comenzaron a abrazar los árboles.
 
-4\. Las criaturas se enamoraron del amor y comenzaron a mirar a sus amantes con ojos amorosos, manteniendo placenteras relaciones sexuales. <span id="p269">[<sup><small>p. 269</small></sup>]</span> 5\. La brisa del sur soplaba suavemente, llena de aromas agradables y agradable al tacto. Los órganos sensuales se volvieron muy poderosos y los Munis ya no pudieron controlarlos.
+4\. Las criaturas se enamoraron del amor y comenzaron a mirar a sus amantes con ojos amorosos, manteniendo placenteras relaciones sexuales. <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> 5\. La brisa del sur soplaba suavemente, llena de aromas agradables y agradable al tacto. Los órganos sensuales se volvieron muy poderosos y los Munis ya no pudieron controlarlos.
 
 6\. Entonces Kâma, unido con Rati, entró apresuradamente en la Ermita de Badarikâ con las cinco flechas en sus manos.
 
@@ -473,7 +473,7 @@ Aquí termina el Quinto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 14-18. ¡Oh, Brahman! ¿Ves cuán hermosa y excelente se ha vuelto esta ermita con la presencia de la diosa de la primavera Laksmi? ¡Oh, Devarsî! La flor de Raktâs'oka es la palma de su mano; la flor de Kims'uka, sus magníficos pies; las flores de Nîlâsoka, sus negros cabellos en su cabeza; los lotos completamente abiertos, sus ojos; los frutos de bel, su pecho; las alegres flores de Kunda, sus dientes; Manjari, sus hermosas orejas; las flores rojas de Bandhu, sus labios; Sindhubâra, sus maravillosas uñas; los pavos reales, sus adornos; los sonidos de los pájaros Sârasa, el tintineo de los adornos de sus pies; las guirnaldas de flores, los adornos de su cintura; los gansos locos, su andar; los filamentos de la flor de Kadamba, sus cabellos en su cuerpo; ¡Oh, el mejor de los ascetas! Con todo esto, la Vasanta Laksmî ha asumido una maravillosa y hermosa apariencia.
 
-19\. ¿Por qué ha ocurrido esto tan inoportuno? Piénsalo; ¡oh Devarsi! Me asombra; sin duda esto impide nuestras penitencias. <span id="p270">[<sup><small>p. 270</small></sup>]</span> 20\. ¡Escucha! Allí las Apsarâs cantan dulcemente la canción, con la intención de destruir nuestra Tapasyâ; parece que estos son los medios, sin duda, utilizados por Indra para contaminar nuestra Tapasyâ.
+19\. ¿Por qué ha ocurrido esto tan inoportuno? Piénsalo; ¡oh Devarsi! Me asombra; sin duda esto impide nuestras penitencias. <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> 20\. ¡Escucha! Allí las Apsarâs cantan dulcemente la canción, con la intención de destruir nuestra Tapasyâ; parece que estos son los medios, sin duda, utilizados por Indra para contaminar nuestra Tapasyâ.
 
 21\. ¿Por qué esta primavera nos genera placer? Es evidente que Indra, el enemigo de los asuras, teme nuestra Tapasyā y crea estos obstáculos para perturbar nuestro ascetismo.
 
@@ -497,7 +497,7 @@ Aquí termina el Quinto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 35\. Y los Munis, aplaudiendo o golpeándose los muslos, crearon instantáneamente una mujer, exquisitamente bella en todos los aspectos.
 
-36\. Esta hermosa mujer se llamaba Urvas'î, pues nació de los muslos. Y todas las demás Apsarâs presentes quedaron atónitas al ver a Urvas'î. <span id="p271">[<sup><small>p. 271</small></sup>]</span> 37\. Entonces el Muni Nârâyana creó fácilmente tantas mujeres como Apsarâs había para servirlas.
+36\. Esta hermosa mujer se llamaba Urvas'î, pues nació de los muslos. Y todas las demás Apsarâs presentes quedaron atónitas al ver a Urvas'î. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> 37\. Entonces el Muni Nârâyana creó fácilmente tantas mujeres como Apsarâs había para servirlas.
 
 38\. Las Apsarâs recién nacidas trajeron consigo todo tipo de ofrendas en sus manos y, cantando y sonriendo, se presentaron ante los Munis y con las manos juntas se inclinaron ante ellos.
 
@@ -515,7 +515,7 @@ Aquí termina el Quinto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 46\. Que la paz sea con todos los Devas; será mejor que os vayáis a vuestros lugares; en el futuro no interrumpáis la Tapasyâ de los demás.
 
-47\. Las doncellas dijeron: —¿Adónde iremos ahora? Hemos llegado a tus pies de loto gracias a nuestra devoción, y nuestra alegría es inmensa; ¡oh, Nârâyana, el Supremo entre los Dioses! <span id="p272">[<sup><small>p. 272</small></sup>]</span> 48\. ¡Oh, Señor! ¡Oh, Madhusûdana! ¡Oh, Ojos de Loto! Si te complaces con nosotras y deseas concedernos los dones que deseamos, te revelamos el objeto que deseamos.
+47\. Las doncellas dijeron: —¿Adónde iremos ahora? Hemos llegado a tus pies de loto gracias a nuestra devoción, y nuestra alegría es inmensa; ¡oh, Nârâyana, el Supremo entre los Dioses! <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 48\. ¡Oh, Señor! ¡Oh, Madhusûdana! ¡Oh, Ojos de Loto! Si te complaces con nosotras y deseas concedernos los dones que deseamos, te revelamos el objeto que deseamos.
 
 49\. ¡Oh Señor de los Devas! Tú eres el Señor del mundo; así eres nuestro Señor. ¡Oh Destructor de los enemigos! Con gusto nos pondremos a tus pies.
 
@@ -542,7 +542,7 @@ Así termina el Sexto Capítulo del Cuarto Libro del S'rîmad Devî Bhâgavatam,
 
 ## Capítulo VII
 
-**Sobre el Ahamkâra** <span id="p272">[<sup><small>p. 272</small></sup>]</span> 1\. Vyâsa dijo: —¡Oh, rey! El hijo del Dharma, de excelente destreza, al oír las palabras de estas doncellas, pensó para sí mismo: ¿Qué debo hacer en estas circunstancias? <span id="p273">[<sup><small>p. 273</small></sup>]</span> 2\. Si ahora me entrego a los placeres sexuales, seré objeto de risa entre los Munis. Este problema actual, sin duda, ha surgido de mi Ahamkâra (egoísmo). Este Ahamkâra es el principal factor que arruina el Dharma.
+**Sobre el Ahamkâra** <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 1\. Vyâsa dijo: —¡Oh, rey! El hijo del Dharma, de excelente destreza, al oír las palabras de estas doncellas, pensó para sí mismo: ¿Qué debo hacer en estas circunstancias? <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> 2\. Si ahora me entrego a los placeres sexuales, seré objeto de risa entre los Munis. Este problema actual, sin duda, ha surgido de mi Ahamkâra (egoísmo). Este Ahamkâra es el principal factor que arruina el Dharma.
 
 3-5. Los sabios han declarado que este Ahamkâra es la raíz de este árbol del mundo. No cumplí el voto de silencio al ver venir a esas damiselas; he mantenido muchas conversaciones con ellas; por lo tanto, me he sumido en esta angustia y tristeza. He creado a estas damiselas a expensas de mi Dharma y Tapasyâ. Las hermosas y encantadoras damiselas enviadas por Indra ahora están llenas de lujuria y se empeñan en arruinar mi tapasayâ. Si mediante Ahamkâra no hubiera creado a las damiselas, no habría caído en esta dificultad. Ahora estoy firmemente atrapado en las redes de mi propia creación como una araña; ¿qué haré ahora?
 
@@ -564,7 +564,7 @@ Sin embargo, al menos me libraría de este peligro y podría practicar una excel
 
 14\. ¿No recuerdas que fue a causa de este Ahamkâra y la ira que nuestra tapasyâ fue destruida en una ocasión anterior, y que tuvimos que luchar severamente con Prahlâda, el Señor de los Asuras, durante mil años divinos?
 
-15-16. ¡Oh, Señor de los Devas! Nos vimos envueltos en muchas dificultades entonces; por lo tanto, ¡oh, Señor de los Munis! ¡Deshazte de esta ira; tranquilízate! Los sabios declaran que la paz es la causa raíz y el único objetivo de Tapasyâ. <span id="p274">[<sup><small>p. 274</small></sup>]</span> 17. Vyâsa dijo: —Al escuchar estas palabras de su hermano menor Nara, Nârâyana, el hijo del Dharma, se apaciguó.
+15-16. ¡Oh, Señor de los Devas! Nos vimos envueltos en muchas dificultades entonces; por lo tanto, ¡oh, Señor de los Munis! ¡Deshazte de esta ira; tranquilízate! Los sabios declaran que la paz es la causa raíz y el único objetivo de Tapasyâ. <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 17. Vyâsa dijo: —Al escuchar estas palabras de su hermano menor Nara, Nârâyana, el hijo del Dharma, se apaciguó.
 
 18\. Janamejaya dijo: —¡Oh, Señor de los Munis! El noble Prahlâda era devoto de Visnu y de un corazón pacífico: ¿cómo fue que, en la antigüedad, se libró la batalla entre él y estos Risis? ¿Cómo pudieron luchar los Risis? Tengo esta gran duda.
 
@@ -586,7 +586,7 @@ Sin embargo, al menos me libraría de este peligro y podría practicar una excel
 
 29\. ¿Quién puede estar libre de Ahamkâra en estos tres mundos, cuando las personas de alma elevada como las mencionadas anteriormente no lo estaban? Ahora estoy completamente seguro de que, en este Universo, nadie ha estado libre de Ahamkâra antes ni lo estará en el futuro lejano.
 
-30\. Uno puede ser libre si está atado por una cadena de hierro o de madera; pero cuando uno es atravesado por el Ahamkâra, nunca podrá liberarse de él. <span id="p275">[<sup><small>p. 275</small></sup>]</span> 31\. Todo este Universo, móvil e inmóvil, se mueve en este Samsâra (migración y transmigración), contaminado por la orina y las heces, cubierto por el Ahamkâra.
+30\. Uno puede ser libre si está atado por una cadena de hierro o de madera; pero cuando uno es atravesado por el Ahamkâra, nunca podrá liberarse de él. <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> 31\. Todo este Universo, móvil e inmóvil, se mueve en este Samsâra (migración y transmigración), contaminado por la orina y las heces, cubierto por el Ahamkâra.
 
 32\. ¿Dónde está, entonces, el Brahmâ Jñana? ¡Oh, Bendito el que hace votos! La teoría del Karma, según los Mimâmsakas, parece razonable y verdadera.
 
@@ -612,7 +612,7 @@ El hilo es la causa de la tela; por lo tanto, como la tela no puede ser diferent
 
 44. Encontrarás disputas, avaricia e ira siempre desatadas en este Kali yuga. Por lo tanto, no es de extrañar que no encuentres a nadie que piense y haga lo que vale la pena pensar y haga lo que no vale la pena hacer.
 
-45\. Libres de envidia, ira y celos, estas personas son raras hoy en día en este Kali yuga. Existen algunas personas pacíficas aquí y allá para mantener el ideal. <span id="p276">[<sup><small>p. 276</small></sup>]</span> 46\. El rey dijo: —¡Oh, Muni! Son benditos y santos quienes están libres de la fascinación de Mâyâ, son autocontrolados, han dominado sus pasiones y siguen la buena conducta. Se han elevado por encima de la Trilokî.
+45\. Libres de envidia, ira y celos, estas personas son raras hoy en día en este Kali yuga. Existen algunas personas pacíficas aquí y allá para mantener el ideal. <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> 46\. El rey dijo: —¡Oh, Muni! Son benditos y santos quienes están libres de la fascinación de Mâyâ, son autocontrolados, han dominado sus pasiones y siguen la buena conducta. Se han elevado por encima de la Trilokî.
 
 47\. ¡Oh, el mejor de los Munis! Mi noble padre puso una serpiente muerta alrededor del cuello de un asceta sin culpa alguna; me apena mucho pensar en su acto.
 
@@ -639,13 +639,13 @@ Aquí termina el Séptimo Capítulo del 4º Libro del S'rîmad Devî Bhâgavatam
 
 ## Capítulo VIII
 
-**Al dirigirse a los Tîrthas** <span id="p276">[<sup><small>p. 276</small></sup>]</span> 1\. Sûta dijo:— Ante la pregunta del hijo de Parîksit, el rey Janamejaya, el mejor de los Brâhmanas, el hijo de Satyavatî, Vyâsa dijo, en detalle, lo siguiente:—
+**Al dirigirse a los Tîrthas** <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> 1\. Sûta dijo:— Ante la pregunta del hijo de Parîksit, el rey Janamejaya, el mejor de los Brâhmanas, el hijo de Satyavatî, Vyâsa dijo, en detalle, lo siguiente:—
 
 2\. El virtuoso Janamejaya se sintió muy triste y desanimado cuando escuchó en detalle los actos indebidos de su propio padre Parîksit, el hijo de Uttarâ.
 
 3\. Por haber insultado al muchacho brahmán, su padre tuvo que ir al infierno; y él pensaba constantemente en cómo liberar a su padre.
 
-4\. El hijo se llama “Puttra” porque libera a su padre del infierno, llamado “Put”. Él es el verdadero hijo que puede hacerlo. <span id="p277">[<sup><small>p. 277</small></sup>]</span> 5-6. El afortunado hijo de Parîksit quedó profundamente atormentado y desconcertado por el miedo al enterarse del destino de su padre, quien murió mordido por una serpiente en la azotea de un palacio, debido a la maldición de un brahmán, privado de baños, caridades y actos purificadores.
+4\. El hijo se llama “Puttra” porque libera a su padre del infierno, llamado “Put”. Él es el verdadero hijo que puede hacerlo. <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> 5-6. El afortunado hijo de Parîksit quedó profundamente atormentado y desconcertado por el miedo al enterarse del destino de su padre, quien murió mordido por una serpiente en la azotea de un palacio, debido a la maldición de un brahmán, privado de baños, caridades y actos purificadores.
 
 7\. Cuando Vyâsa regresó a casa, Janamejaya le preguntó sobre todo el curso de los acontecimientos de Nara Nârâyana.
 
@@ -669,7 +669,7 @@ Aquí termina el Séptimo Capítulo del 4º Libro del S'rîmad Devî Bhâgavatam
 
 18\. Mientras caminaba, fue visto por el rey religioso de los Daityas, el Prahlâda.
 
-19\. Al verlo, el señor de los Daityas lo adoró y le preguntó el motivo de su visita. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 20\. ¿Te envía Indra? Di la verdad, oh, el mejor de los Brahmanes. ¿Acaso es para entrometerse en mi reino debido a la enemistad entre los Devas y los Daityas?
+19\. Al verlo, el señor de los Daityas lo adoró y le preguntó el motivo de su visita. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 20\. ¿Te envía Indra? Di la verdad, oh, el mejor de los Brahmanes. ¿Acaso es para entrometerse en mi reino debido a la enemistad entre los Devas y los Daityas?
 
 21\. Chyavana dijo: —¿Qué tengo que ver con Indra? ¡Que me envíe como su espía y mensajero a tu ciudad!
 
@@ -693,7 +693,7 @@ Aquí termina el Séptimo Capítulo del 4º Libro del S'rîmad Devî Bhâgavatam
 
 32\. Los habitantes de los lugares mencionados beben a voluntad el agua sagrada del Ganges, equivalente a Brâhma, y ​​se bañan en ella y realizan otras obras.
 
-33\. ¡Oh, Rey! Allí ni una sola alma se purifica. ¿De qué sirve un lugar sagrado a quien tiene el corazón apegado a los objetos sensuales y, por lo tanto, puede ser llamado alma perdida? <span id="p279">[<sup><small>p. 279</small></sup>]</span> 34\. ¡Oh, Rey! Conoce la mente como el factor principal en cualquier acto religioso o en cualquier lugar sagrado. Quien desee pureza, que primero purifique su propia mente.
+33\. ¡Oh, Rey! Allí ni una sola alma se purifica. ¿De qué sirve un lugar sagrado a quien tiene el corazón apegado a los objetos sensuales y, por lo tanto, puede ser llamado alma perdida? <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> 34\. ¡Oh, Rey! Conoce la mente como el factor principal en cualquier acto religioso o en cualquier lugar sagrado. Quien desee pureza, que primero purifique su propia mente.
 
 35\. Quienes residen en cualquier lugar sagrado engañan a otros y, por lo tanto, incurren en graves pecados. Los pecados cometidos en un lugar de peregrinación son irreparables; se vuelven eternos e inagotables.
 
@@ -724,7 +724,7 @@ Aquí termina el Octavo Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 ## Capítulo IX
 
-**Sobre la lucha entre los Risis y Prahlâda** <span id="p280">[<sup><small>p. 280</small></sup>]</span> 1\. Vyâsa dijo:— Después de realizar debidamente sus ritos religiosos allí, el hijo de Hiranya Kas'ipu vio ante él un árbol pipul sin gloria.
+**Sobre la lucha entre los Risis y Prahlâda** <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> 1\. Vyâsa dijo:— Después de realizar debidamente sus ritos religiosos allí, el hijo de Hiranya Kas'ipu vio ante él un árbol pipul sin gloria.
 
 2-3. Allí vio, junto a las plumas de buitre, las terribles flechas brillantes, afiladas bajo una piedra, dispuestas en orden; y se sorprendió al pensar quién podría haberlas guardado, tan bien resguardadas en esta sagrada ermita de los Risis.
 
@@ -738,7 +738,7 @@ Aquí termina el Octavo Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 13\. Tanto en el campo de batalla como en el ascetismo, podemos demostrar nuestra destreza. ¿Qué tienes que ver con nosotros en estos asuntos? El camino que tienes ante ti está despejado, puedes ir a donde quieras; ¿por qué te jactas de tus propios méritos?
 
-14\. Son muy torpes y estúpidos; ¿qué pueden entender de una gloria brahmánica tan rara y difícil de alcanzar? Quienes buscan la felicidad no necesitan entrometerse con los brahmanes. <span id="p281">[<sup><small>p. 281</small></sup>]</span> 15-16. Prahlāda dijo: —¡Sois unos fanfarrones torpes y vanidosos! Mientras yo esté presente en este Tārtha, yo, el defensor del Dharma, no permitiré que practiquéis aquí ninguna práctica irreligiosa. ¡Oh, ascetas! Mejor demuéstrame hoy vuestra habilidad en la lucha.
+14\. Son muy torpes y estúpidos; ¿qué pueden entender de una gloria brahmánica tan rara y difícil de alcanzar? Quienes buscan la felicidad no necesitan entrometerse con los brahmanes. <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 15-16. Prahlāda dijo: —¡Sois unos fanfarrones torpes y vanidosos! Mientras yo esté presente en este Tārtha, yo, el defensor del Dharma, no permitiré que practiquéis aquí ninguna práctica irreligiosa. ¡Oh, ascetas! Mejor demuéstrame hoy vuestra habilidad en la lucha.
 
 17-18. Vyâsa dijo: —¡Oh, rey! El Risi Nara, al oír sus palabras, respondió: —¡Danos batalla si así lo deseas! ¡Oh, miserable entre los asuras! En la batalla de hoy, te derribaré la cabeza, y así nunca más desearás luchar con nadie.
 
@@ -758,7 +758,7 @@ Aquí termina el Octavo Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 28\. ¡Oh, Señor de la Tierra! Entonces, Narâyana y Prahlâda ansiaban la victoria, y se desató una terrible lucha. Los Devas, con alegría, derramaron flores sobre sus cabezas desde el cielo.
 
-29\. El rey de los Daityas se enfureció muchísimo y comenzó a lanzar flechas con tremenda rapidez. Nârâyana, el hijo de Dharma, inmediatamente cortó esas armas con su flecha muy afilada. <span id="p282">[<sup><small>p. 282</small></sup>]</span> 30-32. Nârâyana también lanzó flechas afiladas bajo piedras a gran velocidad, lo que perturbó mucho al señor de los Daityas, quien ahora estaba muy inquieto.
+29\. El rey de los Daityas se enfureció muchísimo y comenzó a lanzar flechas con tremenda rapidez. Nârâyana, el hijo de Dharma, inmediatamente cortó esas armas con su flecha muy afilada. <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> 30-32. Nârâyana también lanzó flechas afiladas bajo piedras a gran velocidad, lo que perturbó mucho al señor de los Daityas, quien ahora estaba muy inquieto.
 
 33-34. El cielo se cubrió de flechas y flechas de ambos bandos, y el día parecía noche. Entonces, los Devas y los Daityas quedaron profundamente asombrados y se dijeron: «Nunca antes habíamos visto una lucha tan terrible como esta».
 
@@ -776,7 +776,7 @@ Aquí termina el Octavo Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavat
 
 48-49. Entonces Prahlada, decidido a matar a su enemigo, se enfureció muchísimo y arrojó los dardos, lanzas y proyectiles de Sakti a gran velocidad sobre los muslos de Nârâyana. Nârâyana, con una flecha, cortó la herida fácilmente en siete partes, y con siete flechas atravesó a Prahlada.
 
-50\. Así, durante mil años de Deva, duró la terrible lucha entre Prahlâda y Nârâyana en aquella ermita; y el universo entero quedó atónito. <span id="p283">[<sup><small>p. 283</small></sup>]</span> 51-52. Entonces Gadâdhara, con túnicas amarillas y cuatro brazos, llegó rápidamente y llamó a Prahlâda. El hijo de Hiranya Kas'ipoo, Prahlâda, al ver llegar al Señor de Laksmi, de cuatro brazos, Nârâyana con loto y disco en las manos, se inclinó profundamente y, con las manos juntas, comenzó a hablarle con gran devoción.
+50\. Así, durante mil años de Deva, duró la terrible lucha entre Prahlâda y Nârâyana en aquella ermita; y el universo entero quedó atónito. <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> 51-52. Entonces Gadâdhara, con túnicas amarillas y cuatro brazos, llegó rápidamente y llamó a Prahlâda. El hijo de Hiranya Kas'ipoo, Prahlâda, al ver llegar al Señor de Laksmi, de cuatro brazos, Nârâyana con loto y disco en las manos, se inclinó profundamente y, con las manos juntas, comenzó a hablarle con gran devoción.
 
 53-54. ¡Oh, Deva de los Devas! Eres el Señor del universo y estás consagrado a tus devotos. ¡Oh, Madhava! He luchado durante cien años de Deva; aun así, no he podido derrotar a estos ascetas. No sé por qué. Me sorprende.
 
@@ -791,7 +791,7 @@ Aquí termina el Noveno Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâvat
 
 ## Capítulo X
 
-**Sobre la maldición de Bhrigu sobre Visnu** <span id="p283">[<sup><small>p. 283</small></sup>]</span> 1-4. Janamejaya dijo: —¡Oh, hijo de Parâs'ara! Me ha surgido una gran duda al escuchar tus palabras. Estos Nara Nârâyana son los dos hijos del Dharma; son ascetas, tranquilos y serenos, los Ams'as de Visnu; ¡residen en un lugar sagrado de peregrinación! Están llenos de cualidades sáttvicas, subsistiendo siempre de raíces y frutos del bosque, ermitaños de alma elevada y veraces. ¿Cómo se entregaron a tal guerra? ¿Por qué abandonaron su invaluable ascetismo? ¿Y con qué propósito lucharon durante mil años de Deva con Prahlâda?
+**Sobre la maldición de Bhrigu sobre Visnu** <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> 1-4. Janamejaya dijo: —¡Oh, hijo de Parâs'ara! Me ha surgido una gran duda al escuchar tus palabras. Estos Nara Nârâyana son los dos hijos del Dharma; son ascetas, tranquilos y serenos, los Ams'as de Visnu; ¡residen en un lugar sagrado de peregrinación! Están llenos de cualidades sáttvicas, subsistiendo siempre de raíces y frutos del bosque, ermitaños de alma elevada y veraces. ¿Cómo se entregaron a tal guerra? ¿Por qué abandonaron su invaluable ascetismo? ¿Y con qué propósito lucharon durante mil años de Deva con Prahlâda?
 
 5\. ¿Cuál fue el fin, oh Muni, de su lucha con Prahlâda? Por favor, explícame con detalle la causa de esta guerra.
 
@@ -825,7 +825,7 @@ Aquí termina el Noveno Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâvat
 
 22\. No hay nada que encadene al alma más que este Ahamkâra. Es a partir del Ahamkâra que se crea este Universo: ¿cómo puede entonces liberarse de él?
 
-23\. ¡Oh, Rey! Brahma, Visnu, Mahesha, incluso estos están bajo el Ahamkâras. ¿Cómo puedes entonces esperar que otros Munis comunes se liberen de él? <span id="p285">[<sup><small>p. 285</small></sup>]</span> 24\. Envuelto en el Ahamkâra, este Universo gira. Los nacimientos y las muertes ocurren respectivamente a través de este Karma.
+23\. ¡Oh, Rey! Brahma, Visnu, Mahesha, incluso estos están bajo el Ahamkâras. ¿Cómo puedes entonces esperar que otros Munis comunes se liberen de él? <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> 24\. Envuelto en el Ahamkâra, este Universo gira. Los nacimientos y las muertes ocurren respectivamente a través de este Karma.
 
 25\. ¡Oh, Señor de la tierra! Los devas, las aves y los hombres giran en este mundo como la rueda de un carro.
 
@@ -853,7 +853,7 @@ Aquí termina el Noveno Capítulo del Cuarto Libro del S'rî Mad Devî Bhagâvat
 
 39-40. El próspero Bali también, al obtener su reino, comenzó a disputarse con los devas, y así continuó la guerra. Finalmente, el poderoso Indra y los devas derrotaron a los asuras.
 
-41-42. ¡Oh, rey! Indra, de inigualable destreza, con la ayuda de Visnu, despojó a los Daityas de su reino. Los Daityas derrotados se refugiaron en el guía espiritual de su familia, S'ukrâchârya, y le hablaron así: ¡Oh, Brâhmana! Estás dotado de la ardiente fuerza de Tapasyâ y ahora eres <span id="p286">[<sup><small>p. 286</small></sup>]</span> poderoso; ¿por qué no ayudas a tus seguidores Daitya? ¡Oh, principal de los consejeros! Si no nos ayudas y nos salvas, no podremos permanecer en esta tierra y pronto tendremos que descender a Pâtâla.
+41-42. ¡Oh, rey! Indra, de inigualable destreza, con la ayuda de Visnu, despojó a los Daityas de su reino. Los Daityas derrotados se refugiaron en el guía espiritual de su familia, S'ukrâchârya, y le hablaron así: ¡Oh, Brâhmana! Estás dotado de la ardiente fuerza de Tapasyâ y ahora eres <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> poderoso; ¿por qué no ayudas a tus seguidores Daitya? ¡Oh, principal de los consejeros! Si no nos ayudas y nos salvas, no podremos permanecer en esta tierra y pronto tendremos que descender a Pâtâla.
 
 43-44. Vyâsa dijo: —Así interpelado por los Daityas, el bondadoso Sukrâchârya dijo: «¡Oh, Daityas! No tengan miedo; los protegeré con mi fuego de fuerza y ​​vigor; y los ayudaré con consejos y remedios sensatos. Sean valientes y enérgicos, y dejen a un lado la agonía y la tristeza.»
 

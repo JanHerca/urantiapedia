@@ -66,7 +66,7 @@ La perfección no se alcanza bañándose por la mañana ni absteniéndose de ác
 
 Quienes, tocando el agua por la mañana y por la tarde, afirman que la perfección se obtiene a través del agua (son fácilmente refutados). Pues si la perfección pudiera obtenerse por el contacto con el agua, muchos seres que viven en el agua deben haberla alcanzado: (14)
 
-Peces, tortugas, serpientes acuáticas, cormoranes, <span id="p295">[<sup><small>p. 295</small></sup>]</span> nutrias [^872] y demonios que viven en el agua. Los astutos declaran equivocados a quienes sostienen que la perfección se puede alcanzar a través del agua. (15)
+Peces, tortugas, serpientes acuáticas, cormoranes, <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> nutrias [^872] y demonios que viven en el agua. Los astutos declaran equivocados a quienes sostienen que la perfección se puede alcanzar a través del agua. (15)
 
 Si el agua lavara el Karman impuro, también debería quitar mérito. Pero esta (afirmación de los herejes) no tiene más fundamento que su deseo. Como un ciego sigue a un guía (y no logra su objetivo), así un necio (que hace abluciones, etc., para alcanzar Môksha) mata a los seres vivos. (16)
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## VI. La Gran Guerra (Espiritual).
 
@@ -59,7 +59,7 @@ Entonces dejará de arder: «Él quiso, y sucedió!»[^179]
 Nuestras lujurias carnales en nosotros son sólo una parte del infierno;
 <sup id="v10"><small>10</small></sup> Las piezas tienen las cualidades de su universal.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 El pie de Dios solo puede acabar con las alarmas del infierno.
 ¿Quién más que Dios supremo para doblar tal arco tiene brazos?
@@ -92,7 +92,7 @@ Cuando en tu mente tienes un rayo de luz, ¿sin confesar?
 Expulsa esa viga; limpia tu ojo de toda mota;
 Entonces puedes albergar la esperanza de ver su cote.”
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Quienquiera que limpie su corazón de todas las pasiones,
 <sup id="v25"><small>25</small></sup> Pronto percibiremos allí una corte y presencia sana.
@@ -124,7 +124,7 @@ Un amigo que no es constante es mejor fuera de la mente.
 Cuando el embajador de Roma escuchó aquellas palabras tan sabias,[^189]
 Su ansiosa curiosidad comenzó a aumentar.
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Él buscó a ‘Umer con redoblado celo y entusiasmo;
 Pero al hacerlo perdió su caballo y su pecho.
@@ -161,7 +161,7 @@ Este hombre está desarmado, boca arriba en el suelo.
 Un temor fantasmal es esto; no es un miedo mortal.
 Seguramente no es un miedo de este hombre aquí.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 El que teme a Dios tiene amonestación del Señor;
 Tanto los hombres como los demonios se quedan asombrados ante su mera palabra”.
@@ -195,7 +195,7 @@ Su velo quitado, el novio solo está a su llamada.
 Están fascinados muchos adoradores gnósticos, creo;
 Pocos ganan admisión a la escena de la cámara de presencia.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ‘Umer contó todas las estaciones por las que pasó su alma;—
 Sus vuelos, luchas, tribulaciones, antes de que se hiciera completo.
@@ -233,7 +233,7 @@ Se apodera de la oscuridad del eclipse, como la noche principal.
 ¿Qué es lo que dice, por lo que el ojo rebosante de nube
 Derrama sus lágrimas, como gotas de agua. ¿Odre sin coser?
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ¿Qué conjuro a la tierra se dirige Él,
 Para que produzca ganado, ¿de quién se pueden utilizar las pieles?
@@ -268,7 +268,7 @@ En su interior hay perlas de precio, cuyo valor no conoce caída.
 Tales hombres por naturaleza son como la vaina del ciervo almizclero;
 Se alimenta de sangre de arteria, almizcle produce, por Dios.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 No preguntes cómo es que la sangre exterior puede cambiar así;
 <sup id="v100"><small>100</small></sup> Convertirse en almizcle cuando está en la vaina secretada.
@@ -301,7 +301,7 @@ Nuestros actos no son más que las secuelas de las agencias de Dios.
 La letra, o el espíritu, es lo que pesa nuestra razón.
 Pero ambos a la vez no puede comprender siempre.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Examinando el espíritu, la letra que descuidamos;
 En un momento hacia adelante, hacia atrás no podemos prospectar.
@@ -335,7 +335,7 @@ Diferencia entre obligación y elección para dibujar.
 Otra mano también estrechas cuando estás cerca.
 Saber: Dios es el que crea el movimiento en ambos;
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Y sin embargo, no hay semejanza en sus movimientos.
 Lamentaste haber estrechado la mano de ese hombre en ese momento.
@@ -369,7 +369,7 @@ En el sueño, el letargo de Dios es en el que nos hundimos.
 En el llanto somos nubes de donde fluye su misericordia.
 En la risa, somos el destello con el que Su relámpago brilla.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 En la ira, somos reflejos de la ira de Dios.
 En la amistad, los espejos de Su favor asienten.
@@ -403,7 +403,7 @@ Tú eres un parcial,—buscas explicación todavía;
 A menos que tu discurso contenga alguna utilidad, no lo propongas;
 Y si lo tienes, objeción deja; da lo que tienes.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Las gracias son incumbe a cada mortal cabeza;
 La contención y las miradas amargas seguramente no son pan de nadie.
@@ -441,7 +441,7 @@ Los santos y los profetas estudian; eran como tú eres.
 Léelo con atención; lee, marca, digiere sus cuentos;
 Tu alma, como pájaro en jaula, anhelará romper sus rieles.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 El pájaro se calló, preso en una pequeña jaula,
 Eso no busca salir, es ignorante, no sabio.

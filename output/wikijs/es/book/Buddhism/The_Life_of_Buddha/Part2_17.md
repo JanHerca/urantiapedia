@@ -97,7 +97,7 @@ Pero dicen que es el hombre más rico de Cravasti. ¿Por qué mendiga?
 
 Anathapindika no recolecta limosnas para sí mismo. Quiere que todos participen en el bien que hace y pide donaciones para el Buda y sus discípulos. Todos los que den tendrán derecho a una recompensa futura.
 
-La joven se dijo a sí misma: «Nunca he hecho nada digno de elogio. Sería maravilloso hacerle una ofrenda al Buda. Pero soy pobre. ¿Qué tengo para dar?». Se alejó con nostalgia. Miró su vestido nuevo. «Solo tengo <span id="p195">[<sup><small>p. 195</small></sup>]</span> este vestido para ofrecérselo. Pero no puedo andar desnuda por las calles».
+La joven se dijo a sí misma: «Nunca he hecho nada digno de elogio. Sería maravilloso hacerle una ofrenda al Buda. Pero soy pobre. ¿Qué tengo para dar?». Se alejó con nostalgia. Miró su vestido nuevo. «Solo tengo <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> este vestido para ofrecérselo. Pero no puedo andar desnuda por las calles».
 
 Ella regresó a casa y se quitó el vestido. Luego se sentó junto a la ventana y observó a Anathapindika, y cuando él pasó frente a su casa, le arrojó el vestido. Él lo tomó y se lo mostró a sus sirvientes.
 

@@ -41,7 +41,7 @@ Siddhartha fue de mala gana, como un joven ermitaño, recién hecho sus votos, q
 
 Udayin llamó a las más atrevidas y a las más bellas y les dijo:
 
-¿Por qué me fallan hoy, ustedes, a quienes elegí entre muchos para cautivar al príncipe, mi amigo? ¿Qué los hace comportarse como niños tímidos y silenciosos? Su encanto, su belleza, su audacia conquistarían incluso el corazón de una mujer, ¡y tiemblan <span id="p50">[<sup><small>p. 50</small></sup>]</span> ante un hombre! Me mortifican. ¡Vamos, despierten! ¡Usen sus encantos! ¡Hagan que se entregue al amor! Una de las doncellas habló:
+¿Por qué me fallan hoy, ustedes, a quienes elegí entre muchos para cautivar al príncipe, mi amigo? ¿Qué los hace comportarse como niños tímidos y silenciosos? Su encanto, su belleza, su audacia conquistarían incluso el corazón de una mujer, ¡y tiemblan <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> ante un hombre! Me mortifican. ¡Vamos, despierten! ¡Usen sus encantos! ¡Hagan que se entregue al amor! Una de las doncellas habló:
 
 “Nos asusta, oh maestro; su majestuoso esplendor nos asusta”.
 

@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 vv. 1-7. Los antiguos poetas árabes de los tiempos paganos solían comenzar sus églogas con algún tipo de discurso amoroso a una amante real o imaginaria. Esto fue desaprobado por el Islam, y El-Būsīrī, en sus primeros siete versos, presenta a un amigo que lo reprende por estar enamorado y por intentar ocultar el hecho.
 
-<span id="p463">[<sup><small>p. 463</small></sup>]</span>
+<span id="p463"><sup><small>[ p. 463 ]</small></sup></span>
 
 vv. 8-11. En los cuatro versos siguientes el poeta reconoce su pasión secreta y la inutilidad de sus intentos de suprimir su manifestación.
 
@@ -42,7 +42,7 @@ vv. 12-28. En estos versos el poeta lamenta las deficiencias de su vida. El «es
 
 v. 29. Con este verso el poeta comienza su enumeración de las virtudes de Mahoma, que debería haber tratado de imitar en sus devociones nocturnas y (v. 30) sus largos ayunos. Es una práctica entre los que ayunan mucho en Oriente atar grandes piedras redondas entre sus cinturones y las bocas de sus estómagos y flancos, para calmar los dolores del hambre.
 
-<span id="p464">[<sup><small>p. 464</small></sup>]</span>
+<span id="p464"><sup><small>[ p. 464 ]</small></sup></span>
 
 v. 31-58. Con el v. 31 el poeta comienza a recitar los milagros tradicionales del Profeta: cómo, cuando él, antes de su misión, solía retirarse a las montañas alrededor de La Meca para meditar y orar, esas montañas encontraron voces, y solían tentarlo a renunciar a su propósito sagrado, revelándole dónde se podía encontrar oro dentro de sus recovecos, que lo exaltaría por encima de todos sus conciudadanos en riqueza e influencia: el v. 33 recita la idea significativa, que no se encuentra en el Corán, de que toda la creación material fue sacada de la nada por Dios, simplemente para manifestar el amor divino hacia la primera de las cosas creadas, la luz del espíritu de Muhammad. El versículo 35 comienza la lista de los títulos del Profeta, tal como se celebran en todo el mundo musulmán. «El Amado de Dios» (_habību ’llāh_) es su estilo más alto, más sagrado y más especial; como Adán es llamado «el Elegido de Dios»; Noé, «el Salvado de Dios»; Abraham, «el Amigo de Dios»; Moisés, «el Interlocutor de Dios»; y Jesús, «el Espíritu de Dios», como también «la Palabra de Dios». Se sostiene que Mahoma fue un profeta para los demonios así como para toda la humanidad. En el v. 39 se da a entender la ciencia ilimitada que se dice que le fue comunicada directamente de Dios cuando fue admitido a la presencia divina, única de todos los seres creados, en ocasión de su célebre «Viaje Nocturno». Estas alabanzas continúan en puntos especiales hasta el v. 58, que menciona la santidad de la tumba del Profeta en Medina (no en La Meca, como generalmente se supone), y la bienaventuranza del peregrino que la visita con reverencia.
 

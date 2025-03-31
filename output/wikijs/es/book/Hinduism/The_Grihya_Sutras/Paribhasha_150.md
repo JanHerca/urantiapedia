@@ -36,7 +36,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## SUTRA CXXVI.
 
-Son opcionalmente vikâras del Aindrâgna. <span id="p349">[<sup><small>p. 349</small></sup>]</span>
+Son opcionalmente vikâras del Aindrâgna. <span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 <span id="an126c"></span>
 
@@ -66,7 +66,7 @@ Si hay igualdad tanto en la ofrenda como en la deidad, entonces la ofrenda preva
 
 **Comentario.**
 
-Si se ofrece un k aru para Pragâpati en un sacrificio vikâti, se deduciría que, al ser ofrecido a Pragâpati, debería ofrecerse murmurando, pero, al ser una ofrenda vegetal, sigue la norma del purogâgâ, aunque este esté destinado a Agni. <span id="p350">[<sup><small>p. 350</small></sup>]</span>
+Si se ofrece un k aru para Pragâpati en un sacrificio vikâti, se deduciría que, al ser ofrecido a Pragâpati, debería ofrecerse murmurando, pero, al ser una ofrenda vegetal, sigue la norma del purogâgâ, aunque este esté destinado a Agni. <span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 <span id="an129"></span>
 
@@ -138,7 +138,7 @@ Si falta lo prescrito, se debe tomar lo sustituto según la semejanza.
 
 **Comentario.**
 
-Aquí ya no hay modificación, sino sustitución (pratinidhi). En los casos en que falte algo especial prescrito, se debe elegir un sustituto lo más similar posible y que produzca un efecto similar. <span id="p352">[<sup><small>p. 352</small></sup>]</span> Según el Trikâ<i>nd</i>a de Ma<i>nd</i>ana, los grados de similitud se determinan en el siguiente orden:
+Aquí ya no hay modificación, sino sustitución (pratinidhi). En los casos en que falte algo especial prescrito, se debe elegir un sustituto lo más similar posible y que produzca un efecto similar. <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> Según el Trikâ<i>nd</i>a de Ma<i>nd</i>ana, los grados de similitud se determinan en el siguiente orden:
 
 Karyai rūpais tathā parnāi_hṛnhṛnh_ phalair api,
 Gandhai rasai_h<i> sad</i>ri_g grâhyam phirvâlâbhe param param.
@@ -167,7 +167,7 @@ El sustituto debe tomar la naturaleza de aquello a lo que sustituye.
 
 **Comentario.**
 
-Taddharma, con las mismas cualidades. Si, por ejemplo, se ha sustituido nivâra por vrîhi, debe tratarse como si fuera vrîhi. El nombre vrîhi debe conservarse y no debe reemplazarse por nivâra, al igual que Soma, si se reemplaza por pûtikâ, sigue llamándose Soma. Así, cuando durante un sacrificio se ha sustituido vrîhi por nivâra, y posteriormente se puede obtener vrîhi, se debe conservar nivâra hasta el final. Sin embargo, si el nivâra sustituido también llega a su fin, y posteriormente aparecen tanto nivâra como vrîhi, entonces se prefiere vrîhi. Si no se consigue ninguno, se debe tomar un sustituto que se acerque lo más posible al sustituto, el nivâra, no al <span id="p353">[<sup><small>p. 353</small></sup>]</span> vrîhi original. Además, si se ha podido elegir entre vrîhi (arroz) y yava (cebada), y se ha elegido vrîhi, y posteriormente, como sustituto del vrîhi, nivâra, entonces, si el nivâra llega a su fin, y en ausencia de vrîhi, cuando se haya obtenido un nuevo suministro tanto de nivâra como de yava, se debe evitar el yava y se debe conservar el sustituto original del vrîhi, el nivâra. En la mayoría de estos casos, sin embargo, también se requiere cierta penitencia (prâya<i>s</i><i>s</i>itta).
+Taddharma, con las mismas cualidades. Si, por ejemplo, se ha sustituido nivâra por vrîhi, debe tratarse como si fuera vrîhi. El nombre vrîhi debe conservarse y no debe reemplazarse por nivâra, al igual que Soma, si se reemplaza por pûtikâ, sigue llamándose Soma. Así, cuando durante un sacrificio se ha sustituido vrîhi por nivâra, y posteriormente se puede obtener vrîhi, se debe conservar nivâra hasta el final. Sin embargo, si el nivâra sustituido también llega a su fin, y posteriormente aparecen tanto nivâra como vrîhi, entonces se prefiere vrîhi. Si no se consigue ninguno, se debe tomar un sustituto que se acerque lo más posible al sustituto, el nivâra, no al <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> vrîhi original. Además, si se ha podido elegir entre vrîhi (arroz) y yava (cebada), y se ha elegido vrîhi, y posteriormente, como sustituto del vrîhi, nivâra, entonces, si el nivâra llega a su fin, y en ausencia de vrîhi, cuando se haya obtenido un nuevo suministro tanto de nivâra como de yava, se debe evitar el yava y se debe conservar el sustituto original del vrîhi, el nivâra. En la mayoría de estos casos, sin embargo, también se requiere cierta penitencia (prâya<i>s</i><i>s</i>itta).
 
 <span id="an137"></span>
 
@@ -197,7 +197,7 @@ El maestro está destinado al sacrificador y a su esposa. Su lugar, por supuesto
 
 ## SUTRA CXXXIX.
 
-La Prak<i>ri</i>ti se detiene por tres causas: por un corolario, por una prohibición y por la pérdida del propósito. <span id="p354">[<sup><small>p. 354</small></sup>]</span>
+La Prak<i>ri</i>ti se detiene por tres causas: por un corolario, por una prohibición y por la pérdida del propósito. <span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 <span id="an139c"></span>
 
@@ -245,7 +245,7 @@ El Gavâmayana dura tres años y es el tipo de todos los sacrificios Samvatsarik
 
 ## SUTRA 143.
 
-De los sacrificios Nikâyi, el primero sirve como Prak<i>ri</i>ti. <span id="p355">[<sup><small>p. 355</small></sup>]</span>
+De los sacrificios Nikâyi, el primero sirve como Prak<i>ri</i>ti. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 <span id="an143c"></span>
 
@@ -287,7 +287,7 @@ Esto no se aplica a los Sâdyaskras, el Vâ<i>g</i>apeya, el Sho<i>g</i>a<i>g</i
 
 **Comentario.**
 
-Con respecto al Shodādīn y su vikāra, el Vādāpeya, no se menciona la preparación del fuego. En el caso de los Sādyāskras, esto se vuelve imposible, ya que deben terminarse rápidamente. En el caso del Sārasvata Sattra, existe la misma dificultad debido a la falta de permanencia en el mismo lugar (anavasthāpān nāgni_sādkāyate). <span id="p356">[<sup><small>p. 356</small></sup>]</span>
+Con respecto al Shodādīn y su vikāra, el Vādāpeya, no se menciona la preparación del fuego. En el caso de los Sādyāskras, esto se vuelve imposible, ya que deben terminarse rápidamente. En el caso del Sārasvata Sattra, existe la misma dificultad debido a la falta de permanencia en el mismo lugar (anavasthāpān nāgni_sādkāyate). <span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 <span id="an147"></span>
 
@@ -313,7 +313,7 @@ Al comienzo de una parte especial del sacrificio, uno debe desear el objeto de e
 
 El comentario, aunque objeta, y con razón, a kâmayeta, «él debería desear», en el sutra anterior, acepta kâmayeta como determinante del presente sutra, diciendo kâmayetety anuvartate. Se debe leer ya<i>g</i><i>g</i>âṅgakâmam, no ya<i>g</i><i>g</i>akâmam, pues el comentario lo explica con ya<i>g</i><i>g</i>âṅgaphalasaṅkalpa_h_. Si realmente se pretendía que existiera un deseo especial para cada parte o acto secundario de un sacrificio (ya<i>g</i><i>g</i>âṅga), es otra cuestión, pero el comentarista evidentemente así lo creía.
 
-Kâtyâyana, quien trata el mismo tema (1, 2, 10 ss.), afirma que debería existir este deseo de recompensa por ciertos sacrificios que se ofrecen con un propósito específico, como, por ejemplo, el Dvâda<i>s</i>âha, pero que no existen tales motivos para otros sacrificios ni partes de ellos. Menciona, en primer lugar, un niyama, un precepto para el sacrificio, como «Di la verdad». Luego, un nimitta, una causa especial, como cuando ocurre algún accidente que debe remediarse, por ejemplo, cuando la casa se incendia, etc. En tercer lugar, el Agnihotra, el Homa matutino y vespertino; en cuarto lugar, el Dar<i>s</i>a-pûr<i>s</i>amâsau; En quinto lugar, el Dâkshâya<i>s</i>a, un vik<i>s</i>ti del Dar<i>s</i>a-pûr<i>s</i>amâsau, el Âgraya<i>s</i>a; en sexto lugar, el Nirû<i>s</i>a-pa<i>s</i>u, el sacrificio animal. Todos estos deben realizarse como un deber sagrado <span id="p357">[<sup><small>p. 357</small></sup>]</span>, y sin miras a ninguna recompensa especial. Así leemos en Vâsish<i>s</i>a:
+Kâtyâyana, quien trata el mismo tema (1, 2, 10 ss.), afirma que debería existir este deseo de recompensa por ciertos sacrificios que se ofrecen con un propósito específico, como, por ejemplo, el Dvâda<i>s</i>âha, pero que no existen tales motivos para otros sacrificios ni partes de ellos. Menciona, en primer lugar, un niyama, un precepto para el sacrificio, como «Di la verdad». Luego, un nimitta, una causa especial, como cuando ocurre algún accidente que debe remediarse, por ejemplo, cuando la casa se incendia, etc. En tercer lugar, el Agnihotra, el Homa matutino y vespertino; en cuarto lugar, el Dar<i>s</i>a-pûr<i>s</i>amâsau; En quinto lugar, el Dâkshâya<i>s</i>a, un vik<i>s</i>ti del Dar<i>s</i>a-pûr<i>s</i>amâsau, el Âgraya<i>s</i>a; en sexto lugar, el Nirû<i>s</i>a-pa<i>s</i>u, el sacrificio animal. Todos estos deben realizarse como un deber sagrado <span id="p357"><sup><small>[ p. 357 ]</small></sup></span>, y sin miras a ninguna recompensa especial. Así leemos en Vâsish<i>s</i>a:
 
 Ava<i>s</i>yam brâhma<i>s</i>oऽgnîn âdadhîta, dar<i>s</i>apûr<i>s</i>amâsâgraya<i>s</i>esh<i>s</i>i<i>s</i>âturmâsyapa<i>s</i>usomai_s<i>s</i>k<i>s</i>g_eta, 'Un Brâhma<i>s</i>a debe sin falta colocar sus fuegos y ofrecer los sacrificios Dar<i>s</i>apûr<i>s</i>amâsa, el Âgraya<i>s</i>esh<i>s</i>i, el Kâturmâsyas, el P a _s_ u y el Soma.'
 

@@ -29,7 +29,7 @@ dateCreated: 2024-11-25T9:7:31Z
   </table>
 </figure>
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 **A**bdallâh ibn Maimûn [82](./3_2#p82).
 
@@ -158,7 +158,7 @@ Euclides [18](./Introduction_3#p18), [72](./3_1#p72).
 
 Fârâbî [106](./4_1#p106) _sqq_., [133](./4_4#p133)\-[136](./4_4#p136), [139](./4_4#p139). [142](./4_4#p142), [145](./4_4#p145), [149](./4_5#p149), [156](./5_1#p156) _ssqq_., [170](./5_2#p170), [174] (6_1#p174), [177](./6_2#p177), [179](./6_2#p179), [189](./6_4#p189), [199](./6_4#p199), [209](./7_2#p209) , [211](./7_2#p211) _cuadrados_.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Fazârî [9](./Introduction_2#p9).
 
@@ -338,7 +338,7 @@ Pedro el Cruel [201](./7_1#p201).
 
 Pedro, San, [15](./Introduction_3#p15).
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 Platón [15](./Introduction_3#p15)\-[18](./Introduction_3#p18), [22](./Introduction_3#p22)\-[25](./Introduction_3#p25), [27](./Introduction_3#p27) _sq_., [78](./3_1#p78), [84](./3_2#p84), [104](./4_1#p104), [109](./4_2#p109), [121](./4_2#p121), [123](./4_2#p123), [127](./4_2#p127) _sq_., [186](./6_3#p186) _sq_., [189](./6_4#p189), [197](./6_4#p197), [203](./7_1#p203).
 

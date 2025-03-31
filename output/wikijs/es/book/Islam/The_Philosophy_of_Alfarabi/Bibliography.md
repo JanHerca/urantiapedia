@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T19:16:7Z
   </table>
 </figure>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 Dr. T. J. De Boer, La historia de la filosofía en el Islam, traducción al inglés de Edward Jones, Londres, 1903 (Luzac & Co.).
 

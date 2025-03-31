@@ -46,7 +46,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. Las siguientes (seis) (fórmulas de Ya<i>g</i>us, II, 15, 6-11) sobre la (casa cuando esté) terminada, según las características contenidas en las fórmulas individuales.
 
-7\. Prende fuego a un trozo de madera de Palâ<i>s</i>a o de Samî, recoge el fuego (en un plato) con el siguiente verso (II, 15, 12), lo lleva a la casa con <span id="p286">[<sup><small>p. 286</small></sup>]</span> el siguiente Ya<i>s</i>us (II, 15, 13), y coloca el fuego en la parte noreste de la casa con el siguiente (II, 15, 14).
+7\. Prende fuego a un trozo de madera de Palâ<i>s</i>a o de Samî, recoge el fuego (en un plato) con el siguiente verso (II, 15, 12), lo lleva a la casa con <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> el siguiente Ya<i>s</i>us (II, 15, 13), y coloca el fuego en la parte noreste de la casa con el siguiente (II, 15, 14).
 
 8\. El lugar donde está el barril de agua está al sur de ese punto.
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## PATALA 7, SECCIÓN 18.
 
-1\. [^779] Cuando un niño es atacado por el demonio perro (es decir, la epilepsia), (el padre u otro oficiante de la ceremonia), tras haberse dedicado a austeridades <span id="p287">[<sup><small>p. 287</small></sup>]</span> (como el ayuno), lo cubre con una red. Luego, hace sonar un gong o una campana, lo lleva por un camino diferente a la puerta de la sala de juego, levanta (la tierra en medio de la sala) en el lugar donde se juega, la rocía (con agua), tira los dados, lo tumba boca arriba sobre los dados y, con las manos juntas, lo rocía con cuajada y sal, con los siguientes (once) (fórmulas, II, 16, 1-11), por la mañana, al mediodía y por la noche.
+1\. [^779] Cuando un niño es atacado por el demonio perro (es decir, la epilepsia), (el padre u otro oficiante de la ceremonia), tras haberse dedicado a austeridades <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> (como el ayuno), lo cubre con una red. Luego, hace sonar un gong o una campana, lo lleva por un camino diferente a la puerta de la sala de juego, levanta (la tierra en medio de la sala) en el lugar donde se juega, la rocía (con agua), tira los dados, lo tumba boca arriba sobre los dados y, con las manos juntas, lo rocía con cuajada y sal, con los siguientes (once) (fórmulas, II, 16, 1-11), por la mañana, al mediodía y por la noche.
 
 2\. Entonces se pondrá bien.
 
@@ -77,7 +77,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. [^782] Después de que las ceremonias hasta las oblaciones de Â<i>m</i>yabhâga se han realizado de la misma manera que en los sacrificios quincenales, sacrifica el Sthâlîpâka, y con cada uno de los siguientes (fórmulas, II, 16, 15-17) ofrece con sus manos juntas flores de Ki<i>m</i><i>m</i>uka.
 
-7\. En los siguientes (tres) versos (II, 17, 1-3), ofrece trozos de madera de Âragvadha (Cathartocarpus fistula); <span id="p288">[<sup><small>p. 288</small></sup>]</span>
+7\. En los siguientes (tres) versos (II, 17, 1-3), ofrece trozos de madera de Âragvadha (Cathartocarpus fistula); <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 8\. Luego las oblaciones Â<i>g</i>ya (indicadas por los) siguientes (Mantras, II, 17, 4-7).
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. El grano sin moler (que sobra, véase más arriba, VII, 18, 11) lo dan a los muchachos para comer.
 
-2. Que repita de la misma manera esta ofrenda de Bali, con cualquier alimento que tenga o harina, desde ese día hasta la luna llena de (el mes de) Mârga<i>s</i>îrsha. <span id="p289">[<sup><small>p. 289</small></sup>]</span>
+2. Que repita de la misma manera esta ofrenda de Bali, con cualquier alimento que tenga o harina, desde ese día hasta la luna llena de (el mes de) Mârga<i>s</i>îrsha. <span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 3\. El día de la luna llena de Mârga<i>s</i>îrsha, después de la puesta del sol, se ofrece un Sthâlîpâka (como se indicó anteriormente, VII, 18, 5).
 
@@ -118,7 +118,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. De la misma manera, el acostarse, etc., se repite tres veces.
 
-13\. [^784] Después de haber preparado un Sthâlîpâka para Lana y <span id="p290">[<sup><small>p. 290</small></sup>]</span> uno para Kshetrapati, sale en dirección este o norte, prepara una superficie elevada, (y luego sigue las ceremonias) comenzando con poner leña en el fuego.
+13\. [^784] Después de haber preparado un Sthâlîpâka para Lana y <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> uno para Kshetrapati, sale en dirección este o norte, prepara una superficie elevada, (y luego sigue las ceremonias) comenzando con poner leña en el fuego.
 
 14\. Al oeste del incendio construye dos chozas.
 
@@ -134,7 +134,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. Les da agua para beber en el mismo orden en que fueron conducidos (a sus lugares), toma tres porciones de arroz hervido (del Sthâlîpâka preparado para Î<i>g</i>âna), lleva (estas porciones de arroz) al fuego, hace que (los tres dioses) las toquen con las siguientes (fórmulas, II, 18, II-13), sacrifica estas porciones, a cada dios de la porción que le pertenece, con las siguientes (fórmulas, II, 18, 14-30), corta (Avadânas) de todas (las porciones), y sacrifica con el siguiente Ya<i>g</i>us (II, 18, 31) a Agni Svish<i>g</i>ak<i>g</i>t.
 
-5\. Tras adorar al dios Î<i>g</i>âna con el siguiente Ya<i>g</i>us (II, 18, 32), distribuye con las siguientes (fórmulas, II, 18, 33-39) hojas junto con porciones de arroz hervido, dos (hojas) con cada (Ya<i>g</i>us), luego diez a las huestes divinas (II, 18, 40), y diez a las huestes divinas que siguen (y a las que se hace referencia en el siguiente Ya<i>g</i>us, II, 18, 41). <span id="p291">[<sup><small>p. 291</small></sup>]</span>
+5\. Tras adorar al dios Î<i>g</i>âna con el siguiente Ya<i>g</i>us (II, 18, 32), distribuye con las siguientes (fórmulas, II, 18, 33-39) hojas junto con porciones de arroz hervido, dos (hojas) con cada (Ya<i>g</i>us), luego diez a las huestes divinas (II, 18, 40), y diez a las huestes divinas que siguen (y a las que se hace referencia en el siguiente Ya<i>g</i>us, II, 18, 41). <span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 6\. Con las siguientes (fórmulas, II, 18, 42-45) hace lo mismo que antes (es decir, distribuye dos hojas con cada Mantra).
 

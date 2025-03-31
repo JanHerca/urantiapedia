@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 ## XIII. El primer amanuense del profeta.
 
@@ -60,7 +60,7 @@ Esta corriente turbia nunca había fluido desde allí, en gran medida”.
 No le importaba exponer a su escriba a todos sus amigos,
 <sup id="v10"><small>10</small></sup> El Profeta guardó silencio para ver el final de la aventura.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 El corazón del escriba se endureció cada vez más a medida que pasaba el tiempo.
 No sintió arrepentimiento; su orgullo creció a partir de entonces.
@@ -97,7 +97,7 @@ No desesperes, toma consuelo para tu alma;
 "Tú Amante del perdón! ¡Concédeme el perdón!
 Médico del alma! ¡Alivia mi terrible necesidad!”
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Tal consejo sabio volvió loco a ese pecador errante, completamente.
 No pienses en él. Cansará tu mente sin descanso.
@@ -135,7 +135,7 @@ Pero quédate hasta que me vaya: entonces enseguida verás.
 Tus amantes entonces aborrecerán tus encantos, adorados antes.
 A gusanos, sapos y serpientes te arrojarán como si fuera un producto barato.
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Tu hedor le hará taparse la nariz con profundo disgusto,
 Quien últimamente en tu presencia hubiera lamido el polvo.”
@@ -168,7 +168,7 @@ Mientras ellos mismos su deporte son, en su puño maldito.
 ¿Nunca has visto al diablo? ¡Mírate a ti mismo!
 ¿Quién pintaría su frente de azul, a menos que sea engañado por un elfo?[^355]
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Quien tenga una duda o problema en su mente,
 En secreto es un filósofo, como puedes encontrar.
@@ -201,7 +201,7 @@ Hasta que envidió a Adán en su corazón perverso?
 El hijo de Beor, Balaam, en la estima del mundo,
 Era igual a Moisés. Así lo creían todos los hombres.
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 A él solo se le rindió homenaje por altos y bajos;
 Sus oraciones fueron consideradas medicina para cada aflicción.
@@ -236,7 +236,7 @@ Su sangre puede lícitamente ser derramada por las necesidades del hombre;
 El bruto es considerado de bajo grado en esta nuestra tierra;
 Como siendo pesado contra el valor superior del gran hombre.
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ¿Qué valor te dará, tú, tonto consumado?
 Si, como un asno, ¿desprecias a los señores de la escuela de la razón?
@@ -273,7 +273,7 @@ No es el plumón sedoso de los cardos lo que corta.
 Una llama no se avergüenza, aunque muchas espinas se acumulen;
 Manadas enteras de ovejas nunca pueden desviar el cuchillo del carnicero.
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Para el poder de la idea interna el signo externo debe ceder.
 Ese poder, es, hace girar el vasto campo estrellado de los cielos.
@@ -307,7 +307,7 @@ No son más que las hojas del otoño arrastradas por los vientos salvajes.
 Ahora nos alejamos de este tema, el más interesante aún,
 Para aprender sobre esos ángeles, víctimas de la voluntad propia.
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 Los pecados de toda la humanidad eran conocidos por ellos como seguros;
 Ninguna maldad escapa a la mirada de los espíritus puros.
@@ -344,7 +344,7 @@ No sabe que los manantiales inspiradores dentro de su seno se agitan.
 Debería lograr una noción de la intención de ese amor;
 Sería una mera suposición, como el consentimiento de un sordo de labios para afuera.
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Un hombre sordo así una vez fue advertido por algún amable amigo,
 En la puerta de al lado vivía un inválido cerca de su fin.
@@ -378,7 +378,7 @@ Preguntó Deafy; “¿De quién es el consejo? ¿No te guía en tu camino?
 «¡La muerte sigue mis horas!» dijo él; «por favor, déjame ahora descansar».
 El otro respondió: «No se puede encontrar nada mejor; él es el mejor».
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 El visitante se retiró, muy satisfecho con su rico arte;
 Y ofreció gracias por haber jugado un papel tan amable.
@@ -415,7 +415,7 @@ Y su vecino enfermo El corazón se inspiró en elfo vengativo.
 El Profeta dijo que uno era un hipócrita, él sabía:
 «Ve, adora, amigo; tu acto no es adoración, como yo creo!»
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 Por temor a que nosotros debemos transgredir, incluso mientras oramos,
 <sup id="v165"><small>165</small></sup> Nuestro culto tiene la oración: «Señor, guíanos en tu camino!»[^363]
@@ -449,7 +449,7 @@ Tú, hijo del fuego, vete, deshonrado, maldito, ¡no demasiado pronto!”
 Investigaciones, razonamientos, en días de nube,
 De noche, en la oscuridad, guía a la multitud que duda;
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 Pero, cuando el sol brilla, cuando el templo de Dios se ve claramente,
 No hay duda de hacia dónde girar la cara, me temo.
@@ -478,7 +478,7 @@ Cantaban antiguamente con orgullo: «Somos los elegidos de Dios», insulso.
 Oras por gracia sobre todos los pecados de los hombres malvados;
 <sup id="v190"><small>190</small></sup> Maldices tu propio egoísmo inmundo, el ken hambriento de la avaricia.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 Ten cuidado, no sea que los celos de Dios estallen con fuerza,
 Y te golpearé contra la tierra, para nunca más levantarte de nuevo.

@@ -39,7 +39,7 @@ A la misma hora en que nació la primavera, Maya tuvo un sueño mientras dormía
 
 Entonces despertó. Era feliz; era una felicidad que nunca antes había sentido. Al levantarse, se vistió de brillantes colores y, seguida de sus más hermosas doncellas, cruzó las puertas del palacio. Caminó por los jardines hasta llegar a un pequeño bosque, donde encontró un lugar a la sombra. Entonces envió a dos de sus doncellas al rey Suddhodana con este mensaje: «Que el rey venga al bosque; la reina Maya desea verlo y lo esperará allí».
 
-El rey obedeció de inmediato. Salió del salón donde, con la ayuda de sus consejeros, había estado administrando justicia a los habitantes de la ciudad. <span id="p9">[<sup><small>p. 9</small></sup>]</span> Caminó hacia el bosque, pero, justo cuando estaba a punto de entrar, una extraña sensación lo invadió. Sus miembros flaquearon, sus manos temblaron y las lágrimas brotaron de sus ojos. Y pensó:
+El rey obedeció de inmediato. Salió del salón donde, con la ayuda de sus consejeros, había estado administrando justicia a los habitantes de la ciudad. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> Caminó hacia el bosque, pero, justo cuando estaba a punto de entrar, una extraña sensación lo invadió. Sus miembros flaquearon, sus manos temblaron y las lágrimas brotaron de sus ojos. Y pensó:
 
 Nunca, ni siquiera en el fragor de la batalla, al luchar contra mis enemigos más valientes, me he sentido tan profundamente perturbado como en este momento. ¿Por qué no puedo entrar al bosque donde me espera la reina? ¿Puede alguien explicar mi agitación?
 

@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ADICIÓN CATEQUÉTICA [^1140].
 
-4\. Mazda ha hecho una proclamación. (Pregunta.) ¿A quién anunció? (Respuesta.) Aquel santo que es tanto celestial como terrenal. (Pregunta.) ¿Qué carácter tiene quien lo ha anunciado así? (Respuesta.) Él es el mejor, y quien ejerce el poder soberano. (Pregunta.) ¿Qué carácter tiene el hombre a quien anunció? (Respuesta.) <span id="p268">[<sup><small>p. 268</small></sup>]</span> El santo y el mejor, quien gobierna sin tiranía caprichosa.
+4\. Mazda ha hecho una proclamación. (Pregunta.) ¿A quién anunció? (Respuesta.) Aquel santo que es tanto celestial como terrenal. (Pregunta.) ¿Qué carácter tiene quien lo ha anunciado así? (Respuesta.) Él es el mejor, y quien ejerce el poder soberano. (Pregunta.) ¿Qué carácter tiene el hombre a quien anunció? (Respuesta.) <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> El santo y el mejor, quien gobierna sin tiranía caprichosa.
 
 Sacrificamos a las diversas partes del Asha Vahi<i>s</i>sta (oración). Sacrificamos a la recitación del Asha Vahi<i>s</i>sta, a su memorización, a su canto y a su uso sacrificial [^1141].
 

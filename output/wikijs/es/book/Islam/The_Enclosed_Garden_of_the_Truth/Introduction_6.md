@@ -57,7 +57,7 @@ Le pide a Sanâ'î que no proponga el dicho «_La pereza es más dulce que la mi
 
 Sanâ'î nos cuenta que se sometió al consejo de su amigo, pero planteó las dificultades de la casa y la comida, ya que el trabajo no podía realizarse sin amigos y sin hogar. Ahmad b. Mas'ûd le construyó una casa, le dio una asignación para su manutención durante un año y también le envió un suministro de ropa. De este modo, pudo completar y organizar sus escritos libre de toda preocupación y ansiedad. El prefacio termina con el elogio de su generoso amigo.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

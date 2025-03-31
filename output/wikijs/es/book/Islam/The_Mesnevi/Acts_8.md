@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 **CAPÍTULO VIII.**
 
@@ -48,7 +48,7 @@ El penúltimo día del período de la mayor peregrinación a La Meca, la vísper
 
 Estaban visitando el convento de un cierto derviche mevleví, llamado Sheykh Suhrāb,[^33] con varios amigos y santos, todos los cuales estaban ocupados en el estudio de diferentes libros, aproximadamente a la hora del mediodía, excepto ‘Ārif, que estaba disfrutando de una _siesta_.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 De repente, ‘Ārif levantó la cabeza y lanzó uno de sus gritos fuertes e imponentes, que hizo temblar a todos los presentes. Sin embargo, sin decir palabra, volvió a dormirse.
 
@@ -64,7 +64,7 @@ Nāsir respondió: «En vísperas de la Fiesta de los Sacrificios, yo estaba de 
 
 ‘Ārif se dirigió entonces a Eflākī y dijo: «Te ruego que cuentes a nuestros amigos lo que sabes al respecto, para que puedan ser edificados».
 
-Eflākī sacó entonces su libro de notas y mostró la entrada que había hecho, con la fecha. Los amigos se maravillaron de esto y se regocijaron enormemente, sus espíritus <span id="p128">[<sup><small>p. 128</small></sup>]</span> siendo refrescados con una influencia del mundo invisible.
+Eflākī sacó entonces su libro de notas y mostró la entrada que había hecho, con la fecha. Los amigos se maravillaron de esto y se regocijaron enormemente, sus espíritus <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> siendo refrescados con una influencia del mundo invisible.
 
 ‘Ārif dijo entonces: «Por el alma de mi antepasado, me desagrada enormemente hacer una exhibición de cualquier poder milagroso. Pero, de vez en cuando, para la edificación de mis discípulos, tales escenas se deslizan. Entonces Eflākī toma nota de ello».
 
@@ -84,7 +84,7 @@ Luego dijo: «Es hora de que haga mi viaje al cielo, para beber de la copa del p
 
 Dos días después, continuaron su viaje hacia Qonya, y ‘Ārif mostró algunos síntomas leves de indisposición.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Estos se volvieron cada día más severos. Llegó a Qonya. Una mañana salió de su casa y se paró en la puerta del mausoleo de su bisabuelo, en silencio, en medio de sus discípulos. Era viernes, el último día del mes de Zū-’l-qa‘da, 719 a.h. (13 de enero, d.C. 1320).
 
@@ -98,7 +98,7 @@ Sus discípulos estallaron en lágrimas, y él continuó—
 
 Entonces gritó en voz alta. Después de lo cual regresó lentamente a su habitación, y allí continuó gimiendo.
 
-Se las arregló para arrastrarse, lo mejor que pudo, hasta el servicio religioso congregacional de ese viernes al mediodía. Desde allí se dirigió al mausoleo, besó el santuario, <span id="p130">[<sup><small>p. 130</small></sup>]</span> cantó un himno, realizó una danza sagrada y lanzó gritos de éxtasis. Luego se tumbó cuan largo era en el suelo, bajo el cual ahora está enterrado, y dijo: «Donde caiga el hombre, allí quede enterrado. Entierren el depósito de mi cadáver en este lugar».
+Se las arregló para arrastrarse, lo mejor que pudo, hasta el servicio religioso congregacional de ese viernes al mediodía. Desde allí se dirigió al mausoleo, besó el santuario, <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> cantó un himno, realizó una danza sagrada y lanzó gritos de éxtasis. Luego se tumbó cuan largo era en el suelo, bajo el cual ahora está enterrado, y dijo: «Donde caiga el hombre, allí quede enterrado. Entierren el depósito de mi cadáver en este lugar».
 
 Ese día fue como si el juicio final estuviera cerca. Se desató una tempestad; toda la creación, mortal e inmortal, parecía estar gimiendo.
 
@@ -112,7 +112,7 @@ Se sucedieron sacudidas tras sacudidas del terremoto; y ‘Ārif exclamó: «¡L
 
 Entonces preguntó: «¡Mirad! ¿Qué pájaros son estos que han venido aquí?» Sus ojos permanecieron fijos por un tiempo en las visiones angelicales que ahora veía. De vez en cuando se sobresaltaba, como si estuviera a punto de volar. Los discípulos reunidos, hombres y mujeres, lloraron amargamente. Pero él habló de nuevo y dijo:
 
-«Jeques, no os preocupéis. Así como mi descenso a este mundo fue para regular los asuntos de vuestra comunidad, así también mi existencia os es igualmente ventajosa, <span id="p131">[<sup><small>p. 131</small></sup>]</span> y estaré siempre con vosotros, nunca ausente de vosotros. Incluso en el otro mundo estaré con vosotros. Aquí abajo, la separación es algo inevitable. En el otro mundo hay unión sin ruptura, y unión sin separación. Dejadme ir sin dolor. En apariencia, estaré ausente; pero en verdad, no estaré lejos de vosotros. Mientras una espada esté en su vaina, no corta; pero, cuando se desenvaine, veréis sus efectos. A partir de este día, lanzaré mi puño a través de la cortina que vela el mundo invisible; y mis discípulos oirán el choque de los golpes».
+«Jeques, no os preocupéis. Así como mi descenso a este mundo fue para regular los asuntos de vuestra comunidad, así también mi existencia os es igualmente ventajosa, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> y estaré siempre con vosotros, nunca ausente de vosotros. Incluso en el otro mundo estaré con vosotros. Aquí abajo, la separación es algo inevitable. En el otro mundo hay unión sin ruptura, y unión sin separación. Dejadme ir sin dolor. En apariencia, estaré ausente; pero en verdad, no estaré lejos de vosotros. Mientras una espada esté en su vaina, no corta; pero, cuando se desenvaine, veréis sus efectos. A partir de este día, lanzaré mi puño a través de la cortina que vela el mundo invisible; y mis discípulos oirán el choque de los golpes».
 
 Mientras decía estas palabras, su hijo mayor, Shāh-Zāda, y su propio medio hermano, Chelebī ‘Ābid, entraron en la habitación. El jeque Eflākī le preguntó qué órdenes tenía que darles. ‘Ārif respondió: «Pertenecen al Señor, y ya no tienen relación conmigo; Él se ocupará de ellos».
 

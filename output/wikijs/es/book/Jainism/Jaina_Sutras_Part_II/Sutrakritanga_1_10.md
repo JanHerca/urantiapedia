@@ -38,7 +38,7 @@ El sabio (Arhat), tras reflexionar sobre la Ley, la proclamó: «Aprende de mí 
 
 A ningún ser vivo, ya sea móvil o inmóvil, ya sea arriba, abajo o sobre la tierra, sometiéndolo a tensión con las manos o los pies [904]. Tampoco debe tomar de los dueños de casa nada que no le sea dado libremente. (2)
 
-Habiendo dominado la Ley y liberado del descuido, debe vivir de los alimentos permitidos [^905], y tratar a <span id="p307">[<sup><small>p. 307</small></sup>]</span> todos los seres como él mismo sería tratado; no debe exponerse a la culpa por su deseo de vivir; un monje que realiza austeridades no debe tener ningún tesoro. (3)
+Habiendo dominado la Ley y liberado del descuido, debe vivir de los alimentos permitidos [^905], y tratar a <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> todos los seres como él mismo sería tratado; no debe exponerse a la culpa por su deseo de vivir; un monje que realiza austeridades no debe tener ningún tesoro. (3)
 
 Al apartar sus sentidos de las mujeres, un sabio debe vagar libre de ataduras mundanas. Mira, toda criatura y todo ser sufre y se aflige. (4)
 
@@ -52,7 +52,7 @@ Deseando alimentos no permitidos [^906] y aceptándolos, el pecador, descuidado 
 
 Dado a actos violentos, acumula karma; al morir, sufre una miseria realmente angustiosa. Por lo tanto, el sabio considera bien la Ley; el sabio vaga libre de ataduras mundanas. (9)
 
-No debe exponerse a la culpa por su deseo de vivir, sino que debe vagar sin apego alguno. Hablando tras la debida reflexión, <span id="p308">[<sup><small>p. 308</small></sup>]</span> y combatiendo sus deseos mundanos, no debe decir nada que implique la matanza de seres vivos. (10)
+No debe exponerse a la culpa por su deseo de vivir, sino que debe vagar sin apego alguno. Hablando tras la debida reflexión, <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> y combatiendo sus deseos mundanos, no debe decir nada que implique la matanza de seres vivos. (10)
 
 No debe desear alimentos no permitidos, ni mezclarse con personas que los desean; debe mortificar su carne, pensando (en su deber), y abandonando sus penas sin consideración (a los intereses mundanos). (11)
 
@@ -64,7 +64,7 @@ Un monje que haya conquistado la aversión al control y el deleite en los objeto
 
 Cuidando su habla y poseyendo cuidado, adquiriendo (puro) Lê<i>s</i>yâ [^908], debe deambular; no debe techar una casa para sí mismo o para otros, ni comportarse con otras personas como un cabeza de familia. (15)
 
-Interrogado por alguien que sostiene el carácter inmutable del alma [^909], debe exponer la verdadera (doctrina); quienes se dedican a las obras y <span id="p309">[<sup><small>p. 309</small></sup>]</span> están sujetos a la esclavitud mundana, no conocen la Ley que conduce a la Liberación. (16)
+Interrogado por alguien que sostiene el carácter inmutable del alma [^909], debe exponer la verdadera (doctrina); quienes se dedican a las obras y <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> están sujetos a la esclavitud mundana, no conocen la Ley que conduce a la Liberación. (16)
 
 Aquí los hombres tienen diversas opiniones; se adhieren a la doctrina de los Kriyâvâdins y Akriyâvâdins. La iniquidad de un pecador desenfrenado, que después de nacer daña el cuerpo de los seres para procurar su propia felicidad, sigue en aumento. (17)
 

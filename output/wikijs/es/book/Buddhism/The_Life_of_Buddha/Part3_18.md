@@ -50,7 +50,7 @@ Llegó la noche. Los habitantes de Kusinagara habían oído que el Maestro estab
 
 La noche era hermosa. Ananda estaba sentado junto al Maestro. El Maestro dijo:
 
-Quizás, Ananda, pienses: «Ya no tenemos Maestro». Pero no debes pensar eso. La <span id="p286">[<sup><small>p. 286</small></sup>]</span> ley permanece, la ley que te enseñé; deja que sea tu guía, Ananda, cuando ya no esté contigo.
+Quizás, Ananda, pienses: «Ya no tenemos Maestro». Pero no debes pensar eso. La <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> ley permanece, la ley que te enseñé; deja que sea tu guía, Ananda, cuando ya no esté contigo.
 
 Dijo otra vez:
 

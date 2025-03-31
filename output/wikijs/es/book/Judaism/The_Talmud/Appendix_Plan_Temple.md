@@ -62,7 +62,7 @@ _Ver Plano al final del Volumen_.
 
 5\. Las dos puertas del sur se llamaban las Puertas de Hulda. _g gg g_, Donde vigilaban los levitas.
 
-6\. La asamblea del Sanedrín Menor se reunió a la entrada de la <span id="p368">[<sup><small>p. 368</small></sup>]</span> Puerta Oriental, y allí estaban sentados tres filas, cada una con veintitrés hombres, _h hh h_, Tiendas en el Atrio de los Gentiles. Mateo 21:12.
+6\. La asamblea del Sanedrín Menor se reunió a la entrada de la <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> Puerta Oriental, y allí estaban sentados tres filas, cada una con veintitrés hombres, _h hh h_, Tiendas en el Atrio de los Gentiles. Mateo 21:12.
 
 7\. Un muro de unos diez palmos de altura rodeaba todo el patio, y en él había trece aberturas, como si fueran trece puertas opuestas. _i iii i_, Losas (Josefo, _Antigüedades_, xv. xi. 5) en las que estaba grabada la prohibición de la entrada de extranjeros al templo (Hechos xxi. 29). Una de estas "piedras de advertencia" fue descubierta en Jerusalén en 1871. Un facsímil (a escala reducida) se incluye en este volumen, gracias a la amable autorización del Comité del Fondo de Exploración de Palestina. Su traducción dice así: "No se permite el paso de extraños dentro de la balaustrada que rodea el templo y el recinto. Si es encontrado, el infractor deberá asumir las consecuencias y será condenado a muerte".
 
@@ -82,7 +82,7 @@ FACSÍMIL DE UNA INSCRIPCIÓN GRIEGA EN UNA DE LAS «PIEDRAS DE ADVERTENCIA» EN
 
 (_Descubierto en Jerusalén_, 1873.)
 
-PÁGINA 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. La cámara de los Nazareos. Allí hervían sus ofrendas de paz y quemaban su cabello bajo la olla.
+PÁGINA 368 <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> 12\. La cámara de los Nazareos. Allí hervían sus ofrendas de paz y quemaban su cabello bajo la olla.
 
 13\. La cámara de los leprosos, donde les afeitaban el cabello.
 
@@ -130,7 +130,7 @@ PÁGINA 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. La c�
 
 35. Doce escalones ascendían desde el altar hasta el pórtico, con una longitud de veintidós codos. Desde el altar hacia el oeste, y al lado este de los escalones, había un terreno llano de dos codos. Desde allí subían tres escalones, cada uno de medio codo de altura y un codo de ancho. Y encima de ellos había un escalón de medio codo de altura y tres codos de ancho, llamado Piazza (plataforma). Encima había dos escalones de medio codo de altura y tres codos de ancho, llamados Piazza. Más arriba había cuatro escalones, cada uno de medio codo de altura y un codo de ancho. Y más arriba había un escalón de medio codo de altura y cuatro codos de ancho, llamado Piazza. Ahora vemos que el suelo de la puerta del pórtico era seis codos más alto que el del lugar del altar. _l l_, Jaquín y Booz—dos columnas a la entrada del pórtico.
 
-36\. El pórtico de la casa medía setenta codos de largo de norte a sur y once codos de ancho de este a oeste. A su puerta había dos mesas, una de mármol y otra de plata. Sobre ellas los sacerdotes ponían el pan de la proposición al entrar y al salir. <span id="p371">[<sup><small>p. 371</small></sup>]</span> 37\. La entrada del pórtico no tenía puertas; solo había un velo. Su ancho era de veinte codos y su altura de cuarenta codos. El grosor del muro era de cinco codos. Sobre él había cinco vigas labradas, una sobre otra, como adorno. Se llamaban «travesaños».
+36\. El pórtico de la casa medía setenta codos de largo de norte a sur y once codos de ancho de este a oeste. A su puerta había dos mesas, una de mármol y otra de plata. Sobre ellas los sacerdotes ponían el pan de la proposición al entrar y al salir. <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> 37\. La entrada del pórtico no tenía puertas; solo había un velo. Su ancho era de veinte codos y su altura de cuarenta codos. El grosor del muro era de cinco codos. Sobre él había cinco vigas labradas, una sobre otra, como adorno. Se llamaban «travesaños».
 
 38. Dos cámaras daban al pórtico, una al norte y otra al sur. Allí se guardaban los cuchillos rotos. Cada cámara tenía una pequeña puerta de barandilla en la esquina del patio, y la medida de cada una de estas cámaras, de norte a sur, era de quince codos, y su ancho era igual al ancho del pórtico. Encontramos que la longitud total del pórtico era de cien codos.
 
@@ -150,7 +150,7 @@ PÁGINA 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. La c�
 
 46\. Dos pedestales de oro. Sobre ellos, al salir del Lugar Santísimo, el Sumo Sacerdote colocaba la sangre del becerro y la sangre del macho cabrío, en el Día de la Expiación.
 
-47\. El Traksin (muro divisorio) tenía un codo de ancho. En él había dos velos, cada uno de un palmo de grosor, y <span id="p372">[<sup><small>p. 372</small></sup>]</span> había un espacio vacío entre ellos de tres palmos. Los dos velos y el espacio vacío debían resolver la disputa sobre la línea de separación, minuciosamente precisa, entre el Lugar Santo y el Lugar Santísimo.
+47\. El Traksin (muro divisorio) tenía un codo de ancho. En él había dos velos, cada uno de un palmo de grosor, y <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> había un espacio vacío entre ellos de tres palmos. Los dos velos y el espacio vacío debían resolver la disputa sobre la línea de separación, minuciosamente precisa, entre el Lugar Santo y el Lugar Santísimo.
 
 48\. El Lugar Santísimo medía veinte codos de largo por veinte de ancho. En el centro se encontraba la Piedra de Fundación, sobre la cual descansaba el arca del Templo de Salomón.
 

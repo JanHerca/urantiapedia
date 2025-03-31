@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 ## XV.
 
@@ -56,7 +56,7 @@ Así que contemplo los cielos y todos sus prados floridos.
 Ocho paraísos,[^376] siete infiernos profundos,[^377] están en mi vista,
 Tan patente como el ídolo para su tonta tripulación.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Aparte, y uno por uno, puedo discernir a todos los hombres,
 <sup id="v10"><small>10</small></sup> Como el trigo y la cebada son bien conocidos por los molineros.
@@ -90,7 +90,7 @@ Hasta que nuestras mitades material encuentre descanso de sus juegos.
 Pero ahora pasemos a otros temas, altos;
 Por miedo a los acontecimientos, nos dejan arrepentidos y suspirando.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 “Cuando el día de la caída del cielo 'hace surgir el color de cada rostro',[^379]
 <sup id="v25"><small>25</small></sup> La humanidad está marcadamente separada, raza por raza.
@@ -123,7 +123,7 @@ Lo haré evidente para todos, desde el último hasta el primero.
 Sus hombros chocan contra mis hombros en la multitud;
 Sus gritos resuenan en mis oídos, como un trueno fuerte.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Mientras los ciudadanos del cielo, regocijándose con deleite,
 <sup id="v40"><small>40</small></sup> Abrazarnos unos a otros con cariño, para alegrarme la vista.
@@ -158,7 +158,7 @@ Si el milagro de Sión se repite en tu camino.”
 Dijo Zeyd: “¿Puede el hombre alguna vez agarrar bajo su débil brazo
 El sol de la verdad, luminaria eterna, cálida?
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 "Le rompería el agarre; todas sus artimañas fueron en vano,
 <sup id="v55"><small>55</small></sup> Aunque la locura debería añadir a la razón en su cerebro!”
@@ -194,7 +194,7 @@ Como la vara de Moisés obediente fue a su mandato.
 En el deseo del corazón, los pies comienzan la danza ágil,
 <sup id="v70"><small>70</small></sup> O buscar ventaja, o evitar alguna mala suerte.
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 El corazón manda, las manos a los cálculos caen;
 Si lo prefiere, escriben un libro o un tratado pequeño.
@@ -228,7 +228,7 @@ A menos que tu corazón renuncie a todo uso egoísta del ingenio,
 Luqmān el sabio, en presencia de su noble señor,[^390]
 <sup id="v85"><small>85</small></sup> Entre los esclavos y sirvientes era un mero sinónimo.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 El señor un día ordenó; inmediatamente algunos esclavos fueron enviados
 Para recoger fruta del huerto para el contenido de su garganta.
@@ -258,7 +258,7 @@ Para vomitar están obligados, con arranque de globos oculares.
 La fruta robada contenida dentro del saco de su estómago,
 El estímulo del agua los obligó a dar vuelta.
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Cuando llegó el turno de Luqmān para hacer sus cuentas,
 El agua clara era el único problema de sus fuentes.
@@ -295,7 +295,7 @@ Que cada uno sea feliz en su propio entusiasmo de opinión.
 Dios quiere que aquellos que podrían desesperarse por ganar Su gracia,
 Perseverarán, no se relajarán, en el ritmo de su adoración.
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 Para que puedan buscar a alguien que les dé esperanza, y él lo seguirá;
 <sup id="v115"><small>115</small></sup> En su sociedad puede seguir la pista del culto.
@@ -331,7 +331,7 @@ Que sea visible; no podemos hacer conjeturas.
 Aunque el cielo de luz no está exento de lluvia,
 La tierra de las tinieblas también produce plantas y cereales.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Me encanta ese texto: «Los que creen en lo que no se ve.»[^392]
 <sup id="v130"><small>130</small></sup> Desde entonces he cerrado mis ojos, las ventanas del cuerpo están abiertas.
@@ -367,7 +367,7 @@ La boca silenciosa y el labio sellado superan al resto.
 Entonces no te jactes, hermano; todo lo que has hecho,
 Dios conoce tus méritos; los recompensará a todos.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 El sol no necesita otro testigo que su rostro.
 <sup id="v145"><small>145</small></sup> El hombre tiene un mayor. Dios es su testigo. ¡Variedad es la gracia!
@@ -401,7 +401,7 @@ Son luces para los que buscan; aunque los demonios pueden asustar.”
 Si cada hombre tuviera fuerza y facultad de vista,
 Mirar directamente al sol, confiar solo en él para luz,
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 ¿Qué necesidad había de las estrellas o lámparas de débil rayo,
 <sup id="v160"><small>160</small></sup> Para ayudarlos en su camino, en busca de la fuente del día?
@@ -436,7 +436,7 @@ No encontrarás señales de Zeyd, ni pisadas, ni señales, ni rastros.
 Nuestros sentidos vacilan, todo nuestro razonamiento se pierde,
 En esplendor de la sabiduría del Espíritu que todo lo gobierna.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Los sentidos de los hombres y sus razones deben estar encerrados dentro,
 «En oleadas cuando todo ante nosotros comienza a aparecer.»[^400]
@@ -471,7 +471,7 @@ Por temor a ti, alguna alma misma debe rápidamente borrarse.
 Todo lo demás excepto el amor de Dios, el Más Verdadero y el Mejor,
 Aunque dulce al pensamiento, no es más que una trampa para romper tu descanso.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 ¿De qué sirve todo tu esfuerzo? Tienes que morir al final;
 Extiende tu mano y toma la copa de la vida rápidamente.
@@ -506,7 +506,7 @@ El fuego de la lujuria puede llevar al hombre al infierno, sin duda.
 No hay agua que pueda servir para apagar las llamas de la lujuria;
 Porque la lujuria nace del infierno. Los tormentos no terminan; deben durar.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 La luz de la religión, por sí sola, puede apagar la llama más feroz de la lujuria.
 La luz que puede apagar el juego perverso del Sinteísta.[^404]
@@ -537,7 +537,7 @@ La extensión le dio alas, el éxito le infundió nueva vida.
 La gente ahora acudía en masa a la puerta del Califa,
 <sup id="v215"><small>215</small></sup> Con asombro, que, a través del agua, el fuego no disminuiría.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 Él les dijo que el fuego ardía por mandato divino;
 Que todas esas llamas surgieron de su mano demasiado frugal:

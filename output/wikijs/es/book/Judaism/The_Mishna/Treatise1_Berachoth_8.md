@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO VIII.
 
-§ 1. Los siguientes son los puntos relativos a las comidas, respecto a los cuales difieren las escuelas de Shammai y de Hillel. Beth Shammai <span id="p11">[<sup><small>p. 11</small></sup>]</span> sostiene que en las festividades se debe recitar primero la bendición del día y luego la del vino; mientras que Beth Hillel sostiene que se debe recitar primero la bendición del vino y luego la del día.
+§ 1. Los siguientes son los puntos relativos a las comidas, respecto a los cuales difieren las escuelas de Shammai y de Hillel. Beth Shammai <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> sostiene que en las festividades se debe recitar primero la bendición del día y luego la del vino; mientras que Beth Hillel sostiene que se debe recitar primero la bendición del vino y luego la del día.
 
 § 2. Beth Shammai dice que primero deben lavarse las manos y luego llenarse la copa [para la bendición]. Pero Beth Hillel dice que primero debe llenarse la copa y luego lavarse las manos.
 

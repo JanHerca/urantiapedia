@@ -54,7 +54,7 @@ Muṭarrízí, el primer escoliasta, nació en el año 458 d. H., o sólo veinti
 
 En el caso del Maqámát de Hamadhání, probablemente no había ningún texto vocalizado en circulación, y ciertamente no hubo ningún comentario durante más de nueve siglos. Sin tales ayudas, una obra literaria de este tipo, que abarca un campo tan amplio y está escrita en un estilo original y ornamentado, presentaría considerables dificultades incluso para el erudito experimentado, mientras que para el estudiante con dificultades estaba condenado a ser lo que realmente llegó a ser, prácticamente un libro sellado. Estas circunstancias y hechos explican, al menos en cierta medida, el largo olvido de este clásico de la literatura árabe.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Si esta traducción del texto y los esfuerzos por dilucidarlo dan como resultado que el autor sea conocido, como ciertamente merece serlo, a un círculo más amplio de lectores, los trabajos del traductor no habrán sido en vano.
 

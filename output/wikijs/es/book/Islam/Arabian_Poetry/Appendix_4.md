@@ -42,7 +42,7 @@ Mogheerah, el bisabuelo del poeta Omar, había, mediante un matrimonio adinerado
 
 La madre de Omar era una mujer árabe de Hadramaut, una provincia famosa por su belleza femenina; y sucedió que nació el mismo día en que su famoso tocayo, el califa Omar, fue asesinado por el esclavo persa fanático Firooz (23 h., 643 d. C.). 'Abd-Allah tuvo un segundo hijo, llamado Hirth, con su otra esposa, una mujer abisinia. El mestizo Hirth, un musulmán austero, pasó su vida en un empleo gubernamental; mientras que Omar holgazaneaba y hacía canciones de amor, y se metía en problemas por sus amoríos, de los que a menudo su hermano tenía la dolorosa tarea de sacarlo.
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 «Un año», dice el Sr. Palgrave, con la autoridad del mejor biógrafo del poeta, Aboo-l-Faraj, “en el día más importante del gran festival anual, cuando los peregrinos, reunidos de todos los rincones del mundo musulmán en La Meca, estaban ocupados en la ejecución vespertina de su solemne rito tradicional, caminando siete veces en oración alrededor de la sagrada Ka’abeh, Zeynab, una joven de noble cuna, estaba presente entre la multitud de adoradores, de los cuales, sin embargo, se la podía distinguir fácilmente por su belleza incomparable y los alegres vestidos de sus numerosos asistentes. Lo que siguió a continuación, Omar puede recitar mejor a su manera y en su propio metro, que hemos conservado en la medida de lo posible en la traducción; aunque se ha omitido la rima, que de haberse traducido habría requerido una divergencia demasiado frecuente del estilo y las imágenes originales:
 

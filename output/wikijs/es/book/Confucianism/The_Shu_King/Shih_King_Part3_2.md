@@ -42,7 +42,7 @@ LA LEYENDA DE HÂU-<i>K</i>Î: SU CONCEPCIÓN; SU NACIMIENTO; LOS PELIGROS DE SU
 
 Hay mención de Hâu-_k_î en la décima oda de la primera década de las Odas Sacrificatorias de Kâu. Los reyes de Kâu remontaban su linaje a él. De Kiang Yüan, su madre, se sabe muy poco. Se dice que era hija de la Casa de Thâi, cuyo linaje se remontaba a Shăn-nung en tiempos prehistóricos. De la primera estrofa de esta pieza se desprende que estaba casada y que llevaba un tiempo así sin tener hijos. Sin embargo, es imposible determinar con certeza quién era su esposo. Dado que el apellido de Kâu era Kî, debió ser descendiente de Hwang Tî.
 
-El primer nacimiento de (nuestro) pueblo [^532] fue de <i>K</i>iang Yüan. ¿Cómo dio a luz a (nuestro) pueblo? Presentó una ofrenda pura y sacrificó [^533], <span id="p397">[<sup><small>p. 397</small></sup>]</span> para que su esterilidad fuera eliminada. Entonces pisó la huella de un dedo del pie hecha por Dios y se conmovió [^534], en el amplio lugar donde descansaba. Quedó embarazada; vivió retirada; dio a luz y crió a un hijo, que fue Hâu-_k_î.
+El primer nacimiento de (nuestro) pueblo [^532] fue de <i>K</i>iang Yüan. ¿Cómo dio a luz a (nuestro) pueblo? Presentó una ofrenda pura y sacrificó [^533], <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> para que su esterilidad fuera eliminada. Entonces pisó la huella de un dedo del pie hecha por Dios y se conmovió [^534], en el amplio lugar donde descansaba. Quedó embarazada; vivió retirada; dio a luz y crió a un hijo, que fue Hâu-_k_î.
 
 Al cumplir sus meses, su primogénito nació como un cordero. Sin rupturas ni desgarros, sin heridas ni heridas, demostrando lo maravilloso que sería. ¿Acaso Dios no le dio consuelo? ¿Acaso no había aceptado su ofrenda y sacrificio puros, para que así diera a luz a su hijo con tanta facilidad?
 
@@ -56,7 +56,7 @@ El agricultor de Hâu-_k_î prosiguió con el plan de favorecer el crecimiento. 
 
 Él dio (a su pueblo) los hermosos granos: el mijo negro y el de doble grano, el rojo alto y el blanco. Sembraron extensamente el negro y el de doble grano, que se cosechaban y se apilaban en el suelo. Sembraron extensamente el rojo alto y el blanco, que llevaban sobre sus hombros y espaldas, como hogar para los sacrificios que él fundó [^537].
 
-¿Y qué hay de nuestros sacrificios (continuación de él)? <span id="p399">[<sup><small>p. 399</small></sup>]</span> Algunos desgranan el grano; otros lo sacan del mortero; algunos lo tamizan; otros lo pisan. Suena en los platos; se destila, y el vapor flota. Consultamos [^538]; observamos los ritos de purificación; tomamos abrótano y lo ofrecemos con la grasa; sacrificamos un carnero al espíritu del sendero [^539]; ofrecemos carne asada y a la parrilla: y así damos la bienvenida al año venidero [^540].
+¿Y qué hay de nuestros sacrificios (continuación de él)? <span id="p399"><sup><small>[ p. 399 ]</small></sup></span> Algunos desgranan el grano; otros lo sacan del mortero; algunos lo tamizan; otros lo pisan. Suena en los platos; se destila, y el vapor flota. Consultamos [^538]; observamos los ritos de purificación; tomamos abrótano y lo ofrecemos con la grasa; sacrificamos un carnero al espíritu del sendero [^539]; ofrecemos carne asada y a la parrilla: y así damos la bienvenida al año venidero [^540].
 
 Cargamos las ofrendas con las bases, tanto de madera como de barro. En cuanto asciende la fragancia, Dios, complacido, percibe su dulce aroma. Es fragante, y a su debido tiempo [^541]. Hâu-_k_î fundó nuestros sacrificios, y nadie, suponemos, ha dado motivo de censura o arrepentimiento por ellos, hasta el día de hoy.
 
@@ -66,13 +66,13 @@ Cargamos las ofrendas con las bases, tanto de madera como de barro. En cuanto as
 
 ODA FESTIVA, QUE CELEBRA ALGÚN ENTRETENIMIENTO BRINDADO POR EL REY A SUS PARIENTES, CON LA PRUEBA DE TIRO CON ARCO DESPUÉS DE LA FIESTA; CELEBRANDO ESPECIALMENTE EL HONOR HECHO EN TALES OCASIONES A LOS ANCIANOS.
 
-Esta oda se presenta aquí porque suele interpretarse como preludio de la siguiente. <i>K</i>û Hsî</i> la interpreta como una referencia al banquete ofrecido por el rey <span id="p400">[<sup><small>p. 400</small></sup>]</span>, al término del sacrificio en el templo ancestral, a los príncipes de su propio apellido. Existen dificultades en la interpretación de la pieza desde esta perspectiva, que, sin embargo, es preferible a cualquier otra.
+Esta oda se presenta aquí porque suele interpretarse como preludio de la siguiente. <i>K</i>û Hsî</i> la interpreta como una referencia al banquete ofrecido por el rey <span id="p400"><sup><small>[ p. 400 ]</small></sup></span>, al término del sacrificio en el templo ancestral, a los príncipes de su propio apellido. Existen dificultades en la interpretación de la pieza desde esta perspectiva, que, sin embargo, es preferible a cualquier otra.
 
 En espesos juncos brotan junto al camino: que el ganado y las ovejas no los pisoteen. Pronto crecerán; pronto estarán completamente formados, con sus hojas suaves y brillantes [^542]. Hermanos estrechamente emparentados; que nadie falte, que todos estén cerca. Para algunos hay esteras extendidas; para otros, taburetes [^543].
 
 Se extienden las esteras, y una segunda encima; se dan los taburetes, y hay muchos sirvientes. Los invitados se comprometen, y ellos se comprometen (al anfitrión) a cambio; él enjuaga las copas (y las vuelve a llenar, pero los invitados) las dejan. Se traen salsas y encurtidos, con carne asada y a la parrilla. Hay excelentes provisiones de callos y paladares; con cantos a laúdes y tambores.
 
-Los arcos ornamentados son fuertes, y las cuatro flechas están equilibradas. Disparan las flechas y todas dan en el blanco, y los invitados se disponen según su habilidad. Los arcos ornamentados están tensados ​​al máximo, y las flechas están agarradas en la mano. Van directos al blanco como si estuvieran clavadas <span id="p401">[<sup><small>p. 401</small></sup>]</span> en él, y los invitados se disponen según la modesta corrección de su comportamiento.
+Los arcos ornamentados son fuertes, y las cuatro flechas están equilibradas. Disparan las flechas y todas dan en el blanco, y los invitados se disponen según su habilidad. Los arcos ornamentados están tensados ​​al máximo, y las flechas están agarradas en la mano. Van directos al blanco como si estuvieran clavadas <span id="p401"><sup><small>[ p. 401 ]</small></sup></span> en él, y los invitados se disponen según la modesta corrección de su comportamiento.
 
 El descendiente lejano preside el banquete; su dulce espíritu es fuerte. Llena sus copas de un gran jarrón y reza por los ancianos canosos (entre sus invitados): para que, con la edad y la espalda arrugada, se guíen mutuamente (a la virtud) y se apoyen mutuamente (en ella); para que así su vejez sea bendita y su brillante felicidad aumente cada vez más.
 
@@ -88,7 +88,7 @@ Nos has hecho beber hasta saciarnos de tu espíritu; tus viandas fueron presenta
 
 ¡Que tu brillante inteligencia se perfeccione, elevada y brillante, y te conduzca a un buen fin! Ese buen fin ya tiene su comienzo: los personificadores de tus antepasados ​​lo anunciaron en su bendición.
 
-¿Cuál fue su anuncio? «Las ofrendas en sus platos de bambú y madera están limpias y <span id="p402">[<sup><small>p. 402</small></sup>]</span> en buen estado. Sus amigos [^544], que asisten en el servicio, han cumplido con su parte con reverencia.»
+¿Cuál fue su anuncio? «Las ofrendas en sus platos de bambú y madera están limpias y <span id="p402"><sup><small>[ p. 402 ]</small></sup></span> en buen estado. Sus amigos [^544], que asisten en el servicio, han cumplido con su parte con reverencia.»
 
 «Tu actitud reverente fue exactamente lo que la ocasión requería; y también la de tu hijo filial [^545]. Por tal piedad filial, continuada sin cesar, siempre te serán concedidas bendiciones.»
 
@@ -106,7 +106,7 @@ UNA ODA APROPIADA A LA FIESTA QUE SE DABA A LOS PERSONADORES DE LOS DIFUNTOS, AL
 
 Este sacrificio suplementario que se realizaba el día después del servicio principal en el templo apareció en el noveno Libro de la cuarta Parte del Shû; y del banquete que se celebraba después de éste para los personificadores de los muertos he hablado en [p. 301](Shih_King_Part1_Intro#p301).
 
-Los patos salvajes y los silbones están en el <i>Rey</i> [^546]; <span id="p403">[<sup><small>p. 403</small></sup>]</span> Los personificadores de tus antepasados ​​festejan y están felices. Tus espíritus están limpios; tus viandas son fragantes. Los personificadores de tus antepasados ​​festejan y beben; su felicidad y dignidad son completas.
+Los patos salvajes y los silbones están en el <i>Rey</i> [^546]; <span id="p403"><sup><small>[ p. 403 ]</small></sup></span> Los personificadores de tus antepasados ​​festejan y están felices. Tus espíritus están limpios; tus viandas son fragantes. Los personificadores de tus antepasados ​​festejan y beben; su felicidad y dignidad son completas.
 
 Los patos salvajes y los silbones están en la arena; los que representan a los muertos disfrutan del festín, su tributo correspondiente. Vuestros espíritus son abundantes; vuestras viandas son buenas. Los que representan a vuestros antepasados ​​festejan y beben; la felicidad y la dignidad les prestan su ayuda.
 
@@ -140,7 +140,7 @@ En los recovecos del gran montículo llegó el viento, arremolinándose desde el
 
 Lleno de ánimo vagas; lleno de satisfacción descansas. ¡Oh, feliz y cortés soberano, que cumplas tus años y los termines como tus antepasados!
 
-«Tu territorio es grande y glorioso, y perfectamente <span id="p405">[<sup><small>p. 405</small></sup>]</span> seguro. ¡Oh, feliz y cortés soberano, que cumplas tus años como anfitrión de todos los espíritus! [^547]»
+«Tu territorio es grande y glorioso, y perfectamente <span id="p405"><sup><small>[ p. 405 ]</small></sup></span> seguro. ¡Oh, feliz y cortés soberano, que cumplas tus años como anfitrión de todos los espíritus! [^547]»
 
 Has recibido el nombramiento largamente reconocido, con paz en torno a tu felicidad y dignidad. ¡Oh, feliz y cortés soberano! Que cumplas tus años, con pura felicidad, tu posesión constante.
 
@@ -190,7 +190,7 @@ El Cielo ahora despliega su ira; no seáis jactanciosos ni aduladores, apartánd
 
 El cielo ilumina al pueblo [^553], como la flauta de bambú responde al silbato de tierra; como dos medias mazas forman una sola; como tomas algo y lo llevas en la mano, llevándolo sin más. La iluminación del pueblo es muy fácil. Tienen (ahora) muchas perversidades; no les muestres tu perversidad.
 
-Los hombres buenos son una valla; las multitudes son un muro; los grandes estados son pantallas; las grandes familias son contrafuertes; el aprecio por la virtud <span id="p410">[<sup><small>p. 410</small></sup>]</span> asegura el reposo; el círculo de parientes (del rey) es una muralla fortificada. No debemos permitir que la muralla fortificada se destruya; no debemos permitir que (el rey) esté solo y consumido por el terror.
+Los hombres buenos son una valla; las multitudes son un muro; los grandes estados son pantallas; las grandes familias son contrafuertes; el aprecio por la virtud <span id="p410"><sup><small>[ p. 410 ]</small></sup></span> asegura el reposo; el círculo de parientes (del rey) es una muralla fortificada. No debemos permitir que la muralla fortificada se destruya; no debemos permitir que (el rey) esté solo y consumido por el terror.
 
 Reverencia la ira del Cielo y no te atrevas a divertirte ni a ser ocioso. Reverencia los cambios de humor del Cielo y no te atrevas a andar de un lado a otro (a tu antojo). El Gran Cielo es inteligente y te acompaña en todos tus andanzas. El Gran Cielo es perspicaz y te acompaña en tus vagabundeos y tus indulgencias.
 

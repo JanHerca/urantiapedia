@@ -56,7 +56,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 10\. Terminando en el sur.
 
-11\. Las ceremonias que se celebran en circunstancias especiales se realizan según lo exijan. <span id="p252">[<sup><small>p. 252</small></sup>]</span>
+11\. Las ceremonias que se celebran en circunstancias especiales se realizan según lo exijan. <span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 12\. [^714] Después de encender el fuego, esparce hierba Darbha apuntando hacia el este a su alrededor,
 
@@ -78,7 +78,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 21\. [^717] En el lado sur, hace que un Brâhma<i>n</i>a se siente sobre la hierba Darbha.
 
-22\. Funde el Â<i>g</i>ya, lo vierte, al oeste del fuego, en la olla del Â<i>g</i>ya, sobre la cual ha colocado dos purificadores, extrae brasas (del fuego sacrificial) hacia la alegría, coloca (el Â<i>g</i>ya) sobre ellas, le lanza <span id="p253">[<sup><small>p. 253</small></sup>]</span> luz con una brizna de hierba encendida, le arroja dos puntas de darbha, le da tres vueltas con una tea, lo retira del fuego hacia el norte, devuelve las brasas (al fuego), purifica (el Â<i>g</i>ya) tres veces con dos purificadores apuntando hacia el norte, moviéndolos hacia adelante y hacia atrás, y los arroja al fuego.
+22\. Funde el Â<i>g</i>ya, lo vierte, al oeste del fuego, en la olla del Â<i>g</i>ya, sobre la cual ha colocado dos purificadores, extrae brasas (del fuego sacrificial) hacia la alegría, coloca (el Â<i>g</i>ya) sobre ellas, le lanza <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> luz con una brizna de hierba encendida, le arroja dos puntas de darbha, le da tres vueltas con una tea, lo retira del fuego hacia el norte, devuelve las brasas (al fuego), purifica (el Â<i>g</i>ya) tres veces con dos purificadores apuntando hacia el norte, moviéndolos hacia adelante y hacia atrás, y los arroja al fuego.
 
 
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. En las ceremonias de los Padres, se rocía agua sólo alrededor del fuego, en silencio.
 
-5\. [^719] Habiendo puesto un trozo de leña en el fuego, <span id="p254">[<sup><small>p. 254</small></sup>]</span> ofrece las dos oblaciones de Âghâra como en los sacrificios de la luna nueva y llena, en silencio.
+5\. [^719] Habiendo puesto un trozo de leña en el fuego, <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> ofrece las dos oblaciones de Âghâra como en los sacrificios de la luna nueva y llena, en silencio.
 
 6\. [^720] Luego ofrece las dos oblaciones Â<i>g</i>yabhâga, sobre la parte oriental de la parte norte (del fuego) con (las palabras), '¡A Agni Svâhâ!' sobre la parte oriental de la parte sur (otra oblación) exactamente como la precedente, con (las palabras), '¡A Soma Svâhâ!'
 
@@ -103,7 +103,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. La denominación 'Pâkaya<i>g</i><i>g</i>a' se utiliza para referirse a ceremonias relacionadas con la vida mundana.
 
-10\. [^723] Allí el ritual basado en el Brâhma<i>n</i>a (es válido), <span id="p255">[<sup><small>p. 255</small></sup>]</span>
+10\. [^723] Allí el ritual basado en el Brâhma<i>n</i>a (es válido), <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 11\. [^724] (A lo que aluden las palabras), 'Él sacrifica dos veces; se limpia (la mano) dos veces; participa dos veces (de la comida sacrificial); habiéndose alejado, sorbe (del Sru<i>k</i>) y lame (el Sru<i>k</i>).'
 
@@ -122,7 +122,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## PATALA 1, SECCIÓN 3.
 
-1\. [^726] Bajo el Maghâs (Nakshatra) se proporcionan vacas; <span id="p256">[<sup><small>p. 256</small></sup>]</span>
+1\. [^726] Bajo el Maghâs (Nakshatra) se proporcionan vacas; <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 2\. Bajo el Phalgunî (Nakshatra) se celebra el matrimonio.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 10\. [^730] Que (el pretendiente) evite en su cortejo a una muchacha que duerme, o llora, o ha abandonado el hogar.
 
-11\. [^731] Y que evite a aquella que ha sido entregada (a otra), y que está protegida (por sus parientes), y a aquella que parece malvada (?), o que es la más <span id="p257">[<sup><small>p. 257</small></sup>]</span> excelente (?), o (que es como el fabuloso ciervo) <i>s</i>arabha (?), una jorobada, una muchacha de apariencia monstruosa, una muchacha calva, una muchacha cuya piel es como la de una rana (?), una muchacha que se ha pasado a otra familia (?), una muchacha dada a los placeres sensuales (?), o una pastora, o una que tiene demasiados amigos, o que tiene una hermana menor fina, o una cuya edad es demasiado cercana a la del novio (?).
+11\. [^731] Y que evite a aquella que ha sido entregada (a otra), y que está protegida (por sus parientes), y a aquella que parece malvada (?), o que es la más <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> excelente (?), o (que es como el fabuloso ciervo) <i>s</i>arabha (?), una jorobada, una muchacha de apariencia monstruosa, una muchacha calva, una muchacha cuya piel es como la de una rana (?), una muchacha que se ha pasado a otra familia (?), una muchacha dada a los placeres sensuales (?), o una pastora, o una que tiene demasiados amigos, o que tiene una hermana menor fina, o una cuya edad es demasiado cercana a la del novio (?).
 
 12\. [^732] Las muchachas que tienen el nombre de un Nakshatra, o de un río, o de un árbol, son objetables.
 

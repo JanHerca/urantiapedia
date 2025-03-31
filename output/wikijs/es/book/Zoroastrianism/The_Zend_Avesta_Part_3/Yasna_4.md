@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1\. Estos buenos pensamientos, buenas palabras y buenas obras [^936], estos Haomas, ofrendas de carne y Zaothras, este Baresman untado con santidad, esta carne, y los dos, Haurvatâ<i>t</i> (que protege el agua) y Ameretatâ<i>t</i> (que protege las plantas y la madera), incluso la carne, el Haoma y el jugo de Haoma, los trozos de madera y su perfume, este sagrado señorío [^937] y jefatura [^937], y la oración oportuna con bendición, y la recitación escuchada de los Gâthas, y los Mãthras bien dichos, todo esto lo ofrecemos y lo damos a conocer con celebraciones (aquí).
 
-2\. Sí, esto lo anunciamos con celebraciones y lo presentamos a Ahura Mazda, a Sraosha <span id="p214">[<sup><small>p. 214</small></sup>]</span> (Obediencia) el bendito, a los Generosos Inmortales, a los Fravashis de los santos, a sus almas y al Fuego de Ahura Mazda, el sublime señor de toda la creación de lo sagrado, para sacrificio, homenaje, propiciación y alabanza.
+2\. Sí, esto lo anunciamos con celebraciones y lo presentamos a Ahura Mazda, a Sraosha <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> (Obediencia) el bendito, a los Generosos Inmortales, a los Fravashis de los santos, a sus almas y al Fuego de Ahura Mazda, el sublime señor de toda la creación de lo sagrado, para sacrificio, homenaje, propiciación y alabanza.
 
 3\. Sí, además, les presentamos (a los Generosos Inmortales con un regalo especial) estos pensamientos bien pensados, estas palabras bien dichas, estas acciones bien realizadas, estos Haomas, Myazdas, Zaothras y este Baresman extendidos con santidad, la carne, y Haurvatâ<i>t</i> (que protege el agua), y Ameretatâ<i>t</i> (que protege las plantas y la madera), incluso la carne, Haoma y Parahaoma, los trozos de madera, el perfume, y este su señorío y su santidad, y esta jefatura, esta oración de bendición, la recitación escuchada de los Gâthas y los Mãthras bien dichos.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 5\. Y los anunciamos en nuestras celebraciones como más propicios para esta casa [^940], y para el fomento de esta casa, de sus rebaños y de sus hombres, de los ahora nacidos y de los que nacerán, los santos, sí, para el fomento de esa casa de la cual estos (hombres) son así.
 
-6\. Y presentamos estas ofrendas a los buenos <span id="p215">[<sup><small>p. 215</small></sup>]</span> Fravashis de los santos, quienes son poderosos y abrumadores para el socorro de los santos.
+6\. Y presentamos estas ofrendas a los buenos <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> Fravashis de los santos, quienes son poderosos y abrumadores para el socorro de los santos.
 
 7\. Sí, presentamos esto por la presente al Creador Ahura Mazda, el radiante, el glorioso y el espíritu celestial, para el sacrificio, homenaje, propiciación y alabanza de los Generosos Inmortales (todos).
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 11\. Y a Aiwisrûthrima, el que promueve la vida [^942], y a Frâda<i>t</i>\-vîspãm-hu<i>g</i>yâiti y Zarathu<i>s</i>trôtema, los santos señores del orden ritual, y a los Fravashis de los santos, y a las mujeres que dan a luz a muchos hijos, y a la próspera vida familiar que perdura sin retroceso durante todo el año, y a la Fuerza, bien formada y majestuosa, y al Golpe de victoria que Mazda da, y a la Ascensión Victoriosa que asegura, por su sacrificio, homenaje, su propiciación y su alabanza,
 
-12\. Y a Ushahina, con Bere<i>g</i>ya y Nmânya, y Sraosha (Obediencia) la bendita, que asesta el golpe de la victoria y promueve los asentamientos, y a Rashnu, el más justo, y a Ar<i>s</i>tâ<i>t</i>, que promueve los asentamientos y los hace crecer. <span id="p216">[<sup><small>p. 216</small></sup>]</span> 13\. Y estos anunciamos y presentamos por la presente a los señores de los meses del orden ritual, a la luna nueva y a la luna menguante (la luna interior), y a la luna llena que dispersa la noche, el santo señor del orden ritual, para su sacrificio, homenaje, propiciación y alabanza.
+12\. Y a Ushahina, con Bere<i>g</i>ya y Nmânya, y Sraosha (Obediencia) la bendita, que asesta el golpe de la victoria y promueve los asentamientos, y a Rashnu, el más justo, y a Ar<i>s</i>tâ<i>t</i>, que promueve los asentamientos y los hace crecer. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> 13\. Y estos anunciamos y presentamos por la presente a los señores de los meses del orden ritual, a la luna nueva y a la luna menguante (la luna interior), y a la luna llena que dispersa la noche, el santo señor del orden ritual, para su sacrificio, homenaje, propiciación y alabanza.
 
 14\. Y a estos los anunciamos por la presente y los presentamos a los festivales anuales, a Maidhyô-zaremaya, Maidhyô-shema, Pati<i>s</i>hahya, y a Ayâthrima, a Maidhyâirya, Hamaspathmaêdhaya, y a las Estaciones como señores sagrados del orden ritual, para sacrificio, homenaje, propiciación y alabanza.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 16\. Y estos anunciamos y presentamos a Ahura y a Mitra, los dos excelsos, imperecederos y sagrados; a las estrellas, criaturas de Spe<i>n</i>ta Mainyu; a la estrella Ti<i>s</i>trya, la radiante y gloriosa; a la Luna, que contiene la semilla del ganado; al Sol resplandeciente, de los caballos veloces, ojo de Ahura Mazda; y a Mitra, señor de las provincias, para su sacrificio, homenaje, propiciación y alabanza; sí, estos presentamos por la presente a Ahura Mazda (quien gobierna este día) y a los Fravashis de los santos (quienes gobiernan este mes), para su sacrificio, homenaje, propiciación y alabanza.
 
-17\. Y esto te anunciamos por la presente, ¡oh, hijo de Ahura Mazda, el Fuego!, con todos los fuegos para tu <span id="p217">[<sup><small>p. 217</small></sup>]</span> sacrificio, homenaje, propiciación y alabanza, y a las buenas aguas para el sacrificio, homenaje, propiciación y alabanza de todas las aguas creadas por Mazda, y a todas las plantas que Mazda creó,
+17\. Y esto te anunciamos por la presente, ¡oh, hijo de Ahura Mazda, el Fuego!, con todos los fuegos para tu <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> sacrificio, homenaje, propiciación y alabanza, y a las buenas aguas para el sacrificio, homenaje, propiciación y alabanza de todas las aguas creadas por Mazda, y a todas las plantas que Mazda creó,
 
 18\. Y a la Mãthra Spe<i>n</i>ta, la santa, la eficaz, la ley contra los Daêvas, el estatuto zarhu<i>strio, y a la larga descendencia de la buena religión mazdayasniana.
 

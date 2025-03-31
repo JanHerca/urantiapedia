@@ -55,7 +55,7 @@ No temas, madre; tu labor no fue en vano; Asita no te mintió. Aunque la tierra 
 
 Maya sonrió ante las palabras de su hijo; hizo tres reverencias y luego ascendió al cielo, al son de la música de los laúdes celestiales.
 
-Durante seis años, el héroe permaneció a orillas del río meditando. Nunca buscó refugio del viento, del sol ni de la lluvia; permitió que los tábanos, los mosquitos y las serpientes <span id="p81">[<sup><small>p. 81</small></sup>]</span> lo picaran. Ignoraba a los niños y niñas, a los pastores y leñadores, que se burlaban de él al pasar y a veces le arrojaban polvo o barro. Apenas comía: una fruta y unos granos de arroz o de sésamo componían su comida. Adelgazó mucho; sus huesos se marcaban con fuerza. Pero bajo su frente demacrada, sus ojos dilatados brillaban como estrellas.
+Durante seis años, el héroe permaneció a orillas del río meditando. Nunca buscó refugio del viento, del sol ni de la lluvia; permitió que los tábanos, los mosquitos y las serpientes <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> lo picaran. Ignoraba a los niños y niñas, a los pastores y leñadores, que se burlaban de él al pasar y a veces le arrojaban polvo o barro. Apenas comía: una fruta y unos granos de arroz o de sésamo componían su comida. Adelgazó mucho; sus huesos se marcaban con fuerza. Pero bajo su frente demacrada, sus ojos dilatados brillaban como estrellas.
 
 Y, sin embargo, el verdadero conocimiento no le llegó. Sentía que se estaba debilitando mucho y comprendió que, si se consumía, nunca alcanzaría la meta que se había propuesto. Así que decidió alimentarse más.
 

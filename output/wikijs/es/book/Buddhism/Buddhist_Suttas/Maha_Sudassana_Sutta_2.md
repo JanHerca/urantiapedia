@@ -60,7 +60,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 “¡Hasta aquí solamente, oh pensamientos de odio!”
 
-4\. 'Y cuando Ânanda, el Gran Rey de la Gloria, entró en la cámara del Gran Complejo, <span id="p272">[<sup><small>p. 272</small></sup>]</span> y se sentó en el lecho de oro, habiendo desechado toda pasión y toda injusticia, entró y permaneció en el Primer <i>Gh</i>âna, un estado de alegría y tranquilidad, nacido del aislamiento, lleno de reflexión, lleno de investigación.
+4\. 'Y cuando Ânanda, el Gran Rey de la Gloria, entró en la cámara del Gran Complejo, <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> y se sentó en el lecho de oro, habiendo desechado toda pasión y toda injusticia, entró y permaneció en el Primer <i>Gh</i>âna, un estado de alegría y tranquilidad, nacido del aislamiento, lleno de reflexión, lleno de investigación.
 
 5\. 'Al suprimir la reflexión y la investigación, entró y permaneció en el Segundo <i>Gh</i>âna, un estado de alegría y tranquilidad, nacido de la serenidad, sin reflexión, sin investigación, un estado de elevación de la mente, de calma interna.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 ---
 
-8\. 'Entonces, Ânanda, el Gran Rey de la Gloria, salió de la cámara del Gran Complejo, entró en la cámara dorada y se sentó en el diván de plata. Y dejó que su mente impregnara <span id="p273">[<sup><small>p. 273</small></sup>]</span> una cuarta parte del mundo con pensamientos de Amor; y así la segunda, y así la tercera, y así la cuarta. Y así, continuó impregnando el mundo entero, arriba, abajo, alrededor y en todas partes, con un corazón de Amor, de gran alcance, engrandecido e inconmensurablemente, libre del más mínimo rastro de ira o mala voluntad.
+8\. 'Entonces, Ânanda, el Gran Rey de la Gloria, salió de la cámara del Gran Complejo, entró en la cámara dorada y se sentó en el diván de plata. Y dejó que su mente impregnara <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> una cuarta parte del mundo con pensamientos de Amor; y así la segunda, y así la tercera, y así la cuarta. Y así, continuó impregnando el mundo entero, arriba, abajo, alrededor y en todas partes, con un corazón de Amor, de gran alcance, engrandecido e inconmensurablemente, libre del más mínimo rastro de ira o mala voluntad.
 
 9\. Y dejó que su mente impregnara una cuarta parte del mundo con pensamientos de Piedad; y así la segunda, y así la tercera, y así la cuarta. Y así, el mundo entero, arriba, abajo, alrededor y en todas partes, continuó impregnando con un corazón de Piedad, de gran alcance, grande e inconmensurablemente, libre del más mínimo rastro de ira o mala voluntad.
 
@@ -120,7 +120,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 15\. 'Entonces, Ânanda, el Gran Rey de la Gloria, le dijo al Gran Consejero:
 
-«¡Oh, amigo mío, el Gran Consejero! Estos ochenta mil elefantes vienen cada tarde y cada mañana a servirme. ¡Que vengan ahora, oh amigo mío, el Gran Consejero, en <span id="p276">[<sup><small>p. 276</small></sup>]</span> cuarenta mil alternos, una vez cada cien años!»
+«¡Oh, amigo mío, el Gran Consejero! Estos ochenta mil elefantes vienen cada tarde y cada mañana a servirme. ¡Que vengan ahora, oh amigo mío, el Gran Consejero, en <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> cuarenta mil alternos, una vez cada cien años!»
 
 «¡Así es, Señor!», dijo el Admirable Consejero, en señal de asentimiento, al Gran Rey de la Gloria.
 
@@ -164,7 +164,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 “¡Levántate, buen hombre! Saca el lecho dorado de la cámara del Gran Complejo y prepáralo bajo ese palmeral que es todo de oro.”
 
-26\. «¡Así sea, Señor!», dijo el hombre, asintiendo, al Gran Rey de la Gloria. Y sacó el lecho dorado de la cámara del Gran Complejo y lo preparó bajo aquel palmeral, todo de oro. <span id="p278">[<sup><small>p. 278</small></sup>]</span>
+26\. «¡Así sea, Señor!», dijo el hombre, asintiendo, al Gran Rey de la Gloria. Y sacó el lecho dorado de la cámara del Gran Complejo y lo preparó bajo aquel palmeral, todo de oro. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 27\. 'Entonces, Ânanda, el Gran Rey de la Gloria, se echó con la dignidad con que lo hace un león, y permaneció acostado con una pierna apoyada en la otra, tranquilo y sereno.
 
@@ -212,7 +212,7 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 31\. “¿Cómo entonces, oh Rey, debo dirigirme a ti?”
 
-«Así, oh Reina, deberías dirigirte a mí: —La naturaleza de todas las cosas cercanas y queridas para nosotros, oh Rey, es tal que debemos abandonarlas, separarnos de ellas, separarnos de ellas[^7]. No mueras, oh Rey, con anhelo en tu corazón. Triste es la muerte de quien anhela, indigna es la muerte de quien anhela[^8]. Tuyas, oh Rey, son estas <span id="p281">[<sup><small>p. 281</small></sup>]</span> nuestras y ochenta mil ciudades, la principal de las cuales es la ciudad real de Kusâvatî. ¡Abandona el deseo por ellas! ¡No anheles la vida!
+«Así, oh Reina, deberías dirigirte a mí: —La naturaleza de todas las cosas cercanas y queridas para nosotros, oh Rey, es tal que debemos abandonarlas, separarnos de ellas, separarnos de ellas[^7]. No mueras, oh Rey, con anhelo en tu corazón. Triste es la muerte de quien anhela, indigna es la muerte de quien anhela[^8]. Tuyas, oh Rey, son estas <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> nuestras y ochenta mil ciudades, la principal de las cuales es la ciudad real de Kusâvatî. ¡Abandona el deseo por ellas! ¡No anheles la vida!
 
 «Tuyos, oh Rey, son estos ochenta y cuatro mil palacios, el principal de los cuales es el Palacio de la Justicia. ¡Desecha tu deseo por ellos! ¡No anheles la vida!
 
@@ -278,7 +278,7 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 ---
 
-34\. 'Entonces, inmediatamente, Ânanda, el Gran Rey de la Gloria, murió. Ânanda, como cuando un campesino, tras una comida abundante, se siente somnoliento, <span id="p285">[<sup><small>p. 285</small></sup>]</span> así fueron los sentimientos que experimentó, Ânanda, cuando la muerte sobrevino al Gran Rey de la Gloria.
+34\. 'Entonces, inmediatamente, Ânanda, el Gran Rey de la Gloria, murió. Ânanda, como cuando un campesino, tras una comida abundante, se siente somnoliento, <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> así fueron los sentimientos que experimentó, Ânanda, cuando la muerte sobrevino al Gran Rey de la Gloria.
 
 35\. 'Cuando el Gran Rey de la Gloria, Ânanda, murió, volvió a la vida en el feliz mundo de Brahmâ.
 
@@ -294,7 +294,7 @@ Tuyos, oh Rey, son esos ochenta y cuatro mil platos en los que, por la tarde y p
 
 'Mías eran las ochenta y cuatro mil cámaras, de las cuales la principal era la cámara del Gran Complejo.
 
-'Míos eran los ochenta y cuatro mil divanes, <span id="p286">[<sup><small>p. 286</small></sup>]</span> de oro, plata, marfil y madera de sándalo, cubiertos con alfombras de pelo largo, telas bordadas con flores y magníficas pieles de antílope; cubiertos con altos doseles y provistos en ambos extremos de cojines de color púrpura.
+'Míos eran los ochenta y cuatro mil divanes, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> de oro, plata, marfil y madera de sándalo, cubiertos con alfombras de pelo largo, telas bordadas con flores y magníficas pieles de antílope; cubiertos con altos doseles y provistos en ambos extremos de cojines de color púrpura.
 
 'Míos eran los ochenta y cuatro mil elefantes del estado, con arreos de oro, y banderas doradas, y cubiertas de red doradas, de los cuales el rey de los elefantes, llamado “el Cambio de la Luna”, era el jefe.
 

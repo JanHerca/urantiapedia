@@ -52,7 +52,7 @@ Esta es la primera regla. (2)
 
 Ahora sigue la segunda regla:
 
-Elegiré algo inanimado y me apoyaré <span id="p179">[<sup><small>p. 179</small></sup>]</span> en él; cambiando la posición del cuerpo, pero sin moverme ni un poco, me quedaré allí. Esta es la segunda regla. (3)
+Elegiré algo inanimado y me apoyaré <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> en él; cambiando la posición del cuerpo, pero sin moverme ni un poco, me quedaré allí. Esta es la segunda regla. (3)
 
 Ahora sigue la tercera regla:
 

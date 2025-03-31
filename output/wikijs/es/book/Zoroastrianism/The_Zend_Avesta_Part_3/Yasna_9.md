@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 El Haoma-ya<i>s</i>t tiene pretensiones de antigüedad (debido a su tema, pero no a su dialecto), después del Srô<i>s</i>\-ya<i>s</i>t. H(a)oma = Soma, como deidad, floreció no solo antes de los Gâthas, sino antes de los <i>Ri</i>ks del Veda, en las eras arias, antes de que iraníes e indios se convirtieran en dos pueblos.
 
-Se ha señalado en otra parte la sorprendente circunstancia de que un himno, que es una reproducción de un original ario, debería, a pesar de sus características anteriores, asignarse necesariamente a <span id="p231">[<sup><small>p. 231</small></sup>]</span> una fecha mucho posterior a los Gâthas en los que no se menciona el culto H(a)oma.
+Se ha señalado en otra parte la sorprendente circunstancia de que un himno, que es una reproducción de un original ario, debería, a pesar de sus características anteriores, asignarse necesariamente a <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> una fecha mucho posterior a los Gâthas en los que no se menciona el culto H(a)oma.
 
 Probablemente debido a las amargas animosidades que prevalecían entre sus vecinos más meridionales y ellos mismos, y al uso del soma por parte de los indios como estimulante antes de la batalla, los iraníes del período gático se habían vuelto indiferentes a su propio culto h(a)oma. Pero que este haya revivido, como lo vemos en este Yast, tras haber desaparecido casi por completo, es sumamente interesante y notable. ¿Lo repudió Zaratustra definitiva y deliberadamente, para luego resurgir como por una recaída? No creo que sea correcto aferrarse a tales antagonismos deliberados y conscientes, ni a una política y acción definidas basadas en ellos. El culto al soma, al igual que los actos sacramentales de otras religiones que han perdido popularidad tras una atención exagerada, simplemente había caído en el olvido, agravado por una aversión a prácticas aparentemente similares a las de los adoradores de Daeva. El Yast se compone, por supuesto, de fragmentos que he intentado separar por versos. En la traducción he dado una interpretación rítmica, necesariamente algo libre. Fue difícil darle suficiente vivacidad a la pieza, al tiempo que se utilizaba una literalidad inútilmente torpe. La libertad, como en otros casos, a menudo consiste en añadir palabras para precisar el sentido o definir el ritmo. (Las expresiones para palabras idénticas en Zend se han variado aquí, como en otros lugares, a propósito).
 
@@ -44,7 +44,7 @@ Probablemente debido a las amargas animosidades que prevalecían entre sus vecin
 
 Y Zaratustra le preguntó: ¿Quién eres tú, oh hombre!, que eres de todo el mundo encarnado el más bello en tu propio cuerpo [^952] de cuantos he visto, (tú) glorioso \[inmortal\]?
 
-2\. Entonces H(a)oma respondió [^953], el santo que aleja la muerte: «Soy, oh Zaratustra, <span id="p232">[<sup><small>p. 232</small></sup>]</span> H(a)oma, el santo que aleja la muerte; pídeme, oh Spitâma, que me prepares para probarlo. Alábame en tus alabanzas, como alaban los demás [Saoshya<i>n</i>ts\].
+2\. Entonces H(a)oma respondió [^953], el santo que aleja la muerte: «Soy, oh Zaratustra, <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> H(a)oma, el santo que aleja la muerte; pídeme, oh Spitâma, que me prepares para probarlo. Alábame en tus alabanzas, como alaban los demás [Saoshya<i>n</i>ts\].
 
 3\. Entonces habló Zaratustra: A H(a)oma sea la alabanza [^954]. ¿Qué hombre, ¡OH(a)oma!, te preparó primero para el mundo corpóreo? ¿Qué bienaventuranza le fue ofrecida? ¿Qué ganancia obtuvo?
 
@@ -60,11 +60,11 @@ Y Zaratustra le preguntó: ¿Quién eres tú, oh hombre!, que eres de todo el mu
 
 9\. ¿Quién fue el tercer hombre, ¡oh(a)oma!, que te preparó para el mundo corpóreo? ¿Qué bienaventuranza le fue concedida? ¿Qué ganancia obtuvo?
 
-10\. Entonces H(a)oma, el santo, respondió, alejando la muerte: Thrita [^963], \[^964]\], fue el tercer hombre que me preparó para el mundo corpóreo. Esta bienaventuranza le fue concedida <span id="p234">[<sup><small>p. 234</small></sup>]</span>, esta ganancia adquirió, que le nacieron dos hijos, Urvâkhshaya y Keresâspa, uno juez que confirmaba el orden, el otro un joven de gran ascendencia, de cabello rizado [^966], que portaba una porra.
+10\. Entonces H(a)oma, el santo, respondió, alejando la muerte: Thrita [^963], \[^964]\], fue el tercer hombre que me preparó para el mundo corpóreo. Esta bienaventuranza le fue concedida <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>, esta ganancia adquirió, que le nacieron dos hijos, Urvâkhshaya y Keresâspa, uno juez que confirmaba el orden, el otro un joven de gran ascendencia, de cabello rizado [^966], que portaba una porra.
 
 11\. El que derrotó al dragón cornudo que devoraba hombres y caballos, venenoso y de color verde, sobre el cual, tan grueso como pulgares, fluía un veneno verdoso, sobre cuyo lomo Keresâspa cocinó su carne en un caldero de hierro durante el almuerzo; y el mortal, quemado, se sobresaltó [^967] y, saltando, arrojó el agua hirviendo. Huyó precipitadamente, asustado y varonil [^968] Keresâspa.
 
-12\. ¿Quién fue el cuarto hombre que te preparó, <span id="p235">[<sup><small>p. 235</small></sup>]</span> ¡OH(a)oma! para el mundo corpóreo? ¿Qué bienaventuranza le fue dada? ¿Qué ganancia obtuvo?
+12\. ¿Quién fue el cuarto hombre que te preparó, <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> ¡OH(a)oma! para el mundo corpóreo? ¿Qué bienaventuranza le fue dada? ¿Qué ganancia obtuvo?
 
 13\. Entonces H(a)oma respondió, él, el santo, quien aleja la muerte: Pourushaspa [^970] fue el cuarto hombre que me preparó para el mundo corpóreo. Esta bienaventuranza le fue dada, esta ganancia adquirió, que tú, ¡oh Zaratustra!, naciste de él, el justo, en la casa de Pourushaspa, el enemigo de D(a)êva, el amigo de la sabiduría de Mazda, (14) famoso en Airyêna Vaê<i>i>g</i>ah; y tú, ¡oh Zaratustra!, recité el primer Ahuna-vairya [^971], entonándolo cuatro veces, y con versos separados \[(Pâzand) cada vez con voz cada vez más alta\].
 
@@ -74,7 +74,7 @@ Y Zaratustra le preguntó: ¿Quién eres tú, oh hombre!, que eres de todo el mu
 
 ---
 
-17\. ¡Te pido, oh amarillo! <span id="p236">[<sup><small>p. 236</small></sup>]</span> inspiración [^975]. Te pido fuerza; te pido victoria; te pido salud y sanación (cuando la sanación es mi necesidad); te pido progreso y mayor prosperidad, vigor para todo mi ser, y comprensión [^976], de todo tipo que me adorna, y para que pueda moverme libremente entre nuestros asentamientos, con poder donde quiera, dominando la ira y la malicia, y venciendo las mentiras.
+17\. ¡Te pido, oh amarillo! <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> inspiración [^975]. Te pido fuerza; te pido victoria; te pido salud y sanación (cuando la sanación es mi necesidad); te pido progreso y mayor prosperidad, vigor para todo mi ser, y comprensión [^976], de todo tipo que me adorna, y para que pueda moverme libremente entre nuestros asentamientos, con poder donde quiera, dominando la ira y la malicia, y venciendo las mentiras.
 
 18\. Sí, te reclamo para abrumar el odio furioso de los que odian, de los D(a)êvas y de los mortales, de los hechiceros y sirenas [^977], de los tiranos [^978], y los Kavis, de los Karpans, bípedos asesinos, de los destructores de la santidad, los bípedos profanos apóstatas, de los lobos, monstruos de cuatro patas, de la hueste invasora, de frente ancha, que con estratagemas [^979] avanza.
 
@@ -84,7 +84,7 @@ Y Zaratustra le preguntó: ¿Quién eres tú, oh hombre!, que eres de todo el mu
 
 Esta segunda bendición te suplico, ¡OH(a)oma, tú que alejas la muerte! La salud de este cuerpo (antes de que se alcance esa bendita vida).
 
-Esta tercera bendición te suplico, ¡OH(a)oma, tú que alejas la muerte! La larga vitalidad de la vida. <span id="p237">[<sup><small>p. 237</small></sup>]</span> 20\. Esta cuarta bendición te suplico, ¡OH(a)oma, tú que alejas la muerte! Para que pueda permanecer en esta tierra con deseos satisfechos [^981] y poderosos, recibiendo satisfacción, abrumando los asaltos del odio y conquistando la mentira.
+Esta tercera bendición te suplico, ¡OH(a)oma, tú que alejas la muerte! La larga vitalidad de la vida. <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> 20\. Esta cuarta bendición te suplico, ¡OH(a)oma, tú que alejas la muerte! Para que pueda permanecer en esta tierra con deseos satisfechos [^981] y poderosos, recibiendo satisfacción, abrumando los asaltos del odio y conquistando la mentira.
 
 Esta quinta bendición, OH(a)oma, te lo suplico a ti, tú que alejas la muerte, para que yo pueda permanecer victorioso en la tierra, venciendo en las batallas [^982], abrumando los asaltos del odio y conquistando la mentira.
 
@@ -98,7 +98,7 @@ H(a)oma concede a aquellos (¡cuántos!) que han pasado mucho tiempo buscando li
 
 23\. H(a)oma concede a aquellas doncellas que llevan mucho tiempo solteras y que se quedan en casa, buenos maridos, y tan pronto como se lo piden, él H(a)oma, el de buenas intenciones.
 
-24\. H(a)oma derrocó a Keresâni [^984], lo destronó, pues se aficionó tanto al poder que <span id="p238">[<sup><small>p. 238</small></sup>]</span> dijo traicioneramente: ¡Ningún sacerdote detrás [^985] (y vigilando) recorrerá las tierras para mí, como consejero para prosperarlas, privaría de todo progreso, aplastaría el crecimiento de todo!
+24\. H(a)oma derrocó a Keresâni [^984], lo destronó, pues se aficionó tanto al poder que <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> dijo traicioneramente: ¡Ningún sacerdote detrás [^985] (y vigilando) recorrerá las tierras para mí, como consejero para prosperarlas, privaría de todo progreso, aplastaría el crecimiento de todo!
 
 ---
 
@@ -112,7 +112,7 @@ Así que con esto estás ceñido en las cumbres de las montañas, para la difusi
 
 28\. ¡Aléjanos del tormento y la malicia de los odiosos! ¡Desvía la intención del enemigo airado!
 
-Cualquier hombre violento y malvado en esta casa, cualquier hombre en esta aldea, o esta tribu, o provincia, quítale la ligereza de <span id="p239">[<sup><small>p. 239</small></sup>]</span> sus pies; arroja un velo de oscuridad sobre su mente; ¡haz que su intelecto (de inmediato) sea una ruina!
+Cualquier hombre violento y malvado en esta casa, cualquier hombre en esta aldea, o esta tribu, o provincia, quítale la ligereza de <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> sus pies; arroja un velo de oscuridad sobre su mente; ¡haz que su intelecto (de inmediato) sea una ruina!
 
 29. Que quien nos daña, en mente o en cuerpo, no pueda caminar con ambas piernas, ni sostenerse con ambas manos, ni ver con ambos ojos, ni la tierra bajo sus pies, ni el rebaño que tiene delante.
 

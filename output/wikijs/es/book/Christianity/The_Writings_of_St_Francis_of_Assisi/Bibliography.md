@@ -100,7 +100,7 @@ P. Thomas Eccleston, OFM: _De Adventu Fratrum Minorum in Angliam_ en _Anal. Fran
 
 Padre. Edouard d'Alençon, OMCap.: [^628] _Epístola de San Francisco al Ministro General en su forma auténtica_. Roma, 1899. _La bendición de San Francisco_. París, 1896. Véase también _Sacrum Commercium_.
 
-P. Ehrle, SJ: “Los manuscritos históricos de San Francisco en Asís” en el _Archivo de_ <span id="p192">[<sup><small>p. 192</small></sup>]</span> _Literatura e historia de la Iglesia de la Edad Media_, t. Yo, págs. 484 y siguientes. “Controversias sobre los inicios de la Orden Minorita” en _Journal for Catholic Theology_, t. XI, págs. 725 y siguientes.
+P. Ehrle, SJ: “Los manuscritos históricos de San Francisco en Asís” en el _Archivo de_ <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> _Literatura e historia de la Iglesia de la Edad Media_, t. Yo, págs. 484 y siguientes. “Controversias sobre los inicios de la Orden Minorita” en _Journal for Catholic Theology_, t. XI, págs. 725 y siguientes.
 
 Monseñor. Faloci-Pulignani: “Tres autógrafos de San Francisco” en _Misc. Francescana_, vol. VI, págs. 33 y siguientes, y “La caligrafía de San Francisco”, _l.c._, t. VII, págs. 67 ss.
 
@@ -146,7 +146,7 @@ _El Libro de San Francisco de Asís_. Publicado por PP. Colegio de San Buenavent
 
 P. Panfilo da Magliano, OFM: _Una historia completa de San Francisco_. Roma, 1874-1876.
 
-Paul Sabatier: _Vida de San Francisco de Asís_. París, 1894. (Traducción al inglés de LS Houghton.) _Regula antiqua Fratrum et Sororum de Poenitentia_. París. (Traducción al inglés en _Third Orders_ de Adderley y Marsons. Mowbray, 1902.) _Descripción del manuscrito. Franciscano de Liegnitz_. París, 1901. _Examen de algunos_ <span id="p194">[<sup><small>p. 194</small></sup>]</span> _Obras recientes sobre los Opúsculos de San Francisco_. París, 1904. Véase también _Actus_, Bartholi y _Speculum_.
+Paul Sabatier: _Vida de San Francisco de Asís_. París, 1894. (Traducción al inglés de LS Houghton.) _Regula antiqua Fratrum et Sororum de Poenitentia_. París. (Traducción al inglés en _Third Orders_ de Adderley y Marsons. Mowbray, 1902.) _Descripción del manuscrito. Franciscano de Liegnitz_. París, 1901. _Examen de algunos_ <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> _Obras recientes sobre los Opúsculos de San Francisco_. París, 1904. Véase también _Actus_, Bartholi y _Speculum_.
 
 Padre. Jacinto. Sbaralea, OMConv.: _Suplemento y castigo a los escritores de las tres órdenes de San Francisco_. Roma, 1806.
 

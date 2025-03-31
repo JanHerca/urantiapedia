@@ -46,7 +46,7 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 Me confieso adorador de Mazda, seguidor de Zaratustra, alguien que odia a los Daêvas y obedece las leyes de Ahura; para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el santo y maestro de la santidad . . . .
 
-A la Luna que guarda en sí la semilla del <span id="p89">[<sup><small>p. 89</small></sup>]</span> Toro; al Toro único creado y al Toro [^437] de muchas especies;
+A la Luna que guarda en sí la semilla del <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> Toro; al Toro único creado y al Toro [^437] de muchas especies;
 
 Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
@@ -58,7 +58,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 Durante quince días la luna crece [^440]; durante quince días la luna mengua. Mientras crece, así es su menguante [^441]; mientras mengua, así es su crecimiento.
 
-¿Quién sino tú [^442], que haces crecer y menguar la luna [^443]? <span id="p90">[<sup><small>p. 90</small></sup>]</span> 3\. Sacrificamos a la Luna que guarda en ella la semilla del Toro, el santo y maestro de la santidad.
+¿Quién sino tú [^442], que haces crecer y menguar la luna [^443]? <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> 3\. Sacrificamos a la Luna que guarda en ella la semilla del Toro, el santo y maestro de la santidad.
 
 Aquí miro la luna, aquí percibo la luna; aquí miro la luz de la luna, aquí percibo la luz de la luna. El Amesha-Spe<i>n</i>tas se yergue [^444], sosteniendo su gloria; el Amesha-Spe<i>n</i>tas se yergue, derramando su gloria sobre la tierra, hecha por Mazda [^445].
 
@@ -72,7 +72,7 @@ Sacrificamos a la luna llena, santa y maestra de la santidad;
 
 Ofrecemos sacrificios al Vîshaptatha, el santo y maestro de la santidad.
 
-; tiene el mismo significado en Vend. XVIII, 9 \[23\]; cf. Yt. XXII, 18.} <span id="p91">[<sup><small>p. 91</small></sup>]</span> 5\. Sacrificaré a la Luna, que guarda en ella la semilla del Toro, el liberal, brillante, glorioso, dador de agua [^449], dador de calor, dador de sabiduría [^450], dador de riqueza [^451], dador de riqueza, dador de consideración [^452], dador de bienestar, dador de frescura [^453], dador de prosperidad [^454], el liberal, el curativo.
+; tiene el mismo significado en Vend. XVIII, 9 \[23\]; cf. Yt. XXII, 18.} <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> 5\. Sacrificaré a la Luna, que guarda en ella la semilla del Toro, el liberal, brillante, glorioso, dador de agua [^449], dador de calor, dador de sabiduría [^450], dador de riqueza [^451], dador de riqueza, dador de consideración [^452], dador de bienestar, dador de frescura [^453], dador de prosperidad [^454], el liberal, el curativo.
 
 6\. Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado, a saber, a la Luna que guarda en ella la semilla del Toro.
 

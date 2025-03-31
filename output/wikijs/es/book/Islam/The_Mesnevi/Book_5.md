@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 ## V. El León y las Bestias.
 
@@ -57,7 +57,7 @@ Los creyentes no son atrapados dos veces por la misma mentira?’”[^136]
 Su respuesta fue: “Oh, guía muy sagaz y conocedor,
 <sup id="v10"><small>10</small></sup> Tu precaución ruego que desestimes; decreto de Dios permanece.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 Sospecha, precaución, siempre es corrosiva.
 Pon tu confianza en la Providencia; y Dios tu boca llenará.
@@ -91,7 +91,7 @@ La visión de Dios de la providencia es más aguda que los ojos de los hombres.
 Al ver con Su vista, encontrarás todo lo que deseas.
 Un infante, que no puede ni agarrar ni caminar todavía,
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 <sup id="v25"><small>25</small></sup> Se sienta en el cuello de su padre y corre. Dulce mascota.
 Algunas temporadas pasadas, apenas gana algo de fuerza en sus miembros;
@@ -127,7 +127,7 @@ Esforzarse por dar gracias El poder proporciona esto para realizarlo.
 <sup id="v40"><small>40</small></sup> Alegar compulsión. El fundamento de la gratitud lo deformarías.
 Gracias por tus poderes el poder de las gracias se expande diez veces.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Toma favor por compulsión. El poder dejará tus manos.
 ¿La compulsión afirma? Eso es dormir por cierto.
@@ -162,7 +162,7 @@ Excepto el lote decretado por la Providencia de antaño,
 El dispositivo del hombre, sus planes, todos serán llevados a nada.
 Las dispensaciones de Dios son las únicas que se mantendrán, cargadas de sabiduría.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 No te esfuerces, pues, hombre de sentido; excepto buen nombre para dejar.
 El esfuerzo es una ilusión. ¡Fuera! ¡Tú, bribón tonto!
@@ -198,7 +198,7 @@ Su alma ¿Separarse de su pliegue corpóreo?
 A él le respondió el ángel: “Rey de los espíritus y de los hombres!
 <sup id="v70"><small>70</small></sup> Su fantasía lo engañó; nunca lo hará de nuevo.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 No fue con ira entonces que lo miré;
 Fue una maravilla verlo aquí, luciendo sano y recatado.
@@ -231,7 +231,7 @@ Otorgado en vano un esfuerzo para cumplir el plan de Dios.
 Tú no tienes huesos rotos; ¿Por qué atar tus miembros con tablillas?
 Ten paciencia todavía un poco; luego ríete; no somos simples pedernales.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Es una mala inversión buscar ganancias mundanas.[^147]
 <sup id="v85"><small>85</small></sup> Cuya esperanza está puesta en el cielo nunca verá dolor.[^148]
@@ -268,7 +268,7 @@ Estaban dispuestos a abandonar la causa de la compulsión, para siempre y todo.
 Un tratado que concluyeron con el rey del bosque,
 <sup id="v100"><small>100</small></sup> Que él, por esta concesión, no debería perder nada.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Su ración diaria lista siempre debe encontrarse;
 Y él no debería tener motivo para invadir su territorio.
@@ -305,7 +305,7 @@ Mi inspiración es de Dios; los pequeños medios logran grandes fines.
 La sabiduría que Dios le ha enseñado a la pequeña abeja,
 <sup id="v115"><small>115</small></sup> No te encuentras poseído por león, ni por mí.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Vemos sus células dispuestas, llenas de dulzura líquida,
 Los portales de tal arte para abrir Dios ha querido.
@@ -336,7 +336,7 @@ Cuando Dios el perro de los Siete Durmientes[^151] aplaudió. ¡Cómo!
 Llamarlo perro, acusarlo de defecto de raza,
 Ningún daño puede hacerlo; Dios en el cielo le ha dado lugar.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 No fue la pluma la que prescribió las cualidades de la forma;
 <sup id="v130"><small>130</small></sup> El Omnisciente, el Justo, fue, lo hizo multiforme.
@@ -372,7 +372,7 @@ Tú lo sientes en tu pie; tú sabes que no es un sueño.
 Plagas, problemas, temores y preocupaciones, de diversos grados,
 Todos surgen de muchos lados, y se fijan en ti.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Ten paciencia, porque poco a poco irás ganando experiencia.
 <sup id="v145"><small>145</small></sup> Reconocerás la verdad; la oscuridad se hará evidente.
@@ -409,7 +409,7 @@ Que los enemigos pudieran oír, pero no sospechar su significado. ¡Pish!
 Él buscaría respuestas. todo lo que deseaba aprender;
 <sup id="v160"><small>160</small></sup> Y todavía no da ni una pista del verdadero giro de su pensamiento.”
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Ya hemos dicho suficiente de esto. Ahora volvamos a nuestro cuento.
 Por el gato el león se mantiene hambriento en el valle.
@@ -446,7 +446,7 @@ Así podrás aprender el camino para encontrar el puerto de la salvación.
 Un buscador de sabiduría, es, de sabiduría, fuente.
 <sup id="v175"><small>175</small></sup> «Humanidades» él evita; ellos, él hace cuenta basura.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Un recuerdo repleto de la sabiduría del Sagrado Corán
 Una «tableta oculta» es;[^153] su mente es el almacén de la sabiduría.
@@ -477,7 +477,7 @@ De ahora en adelante él es un heraldo;—los juicios de Dios gritarán.
 Los planetas hasta ahora pueden haberlo afectado;
 Por encima de los planetas ahora descansa y gobierna su equilibrio.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Si las formas materiales encuentran mucho honor en tu vista,
 Dudarás de la verdad de la escritura: «La luna se abrió paso», izquierda y derecha.[^157]
@@ -513,7 +513,7 @@ Para un ojo así, un estanque como el mar era. Él tenía razón.
 Un falso intérprete de las escrituras es una mosca.
 Su fantasía es el estanque de orina en el que se revuelven las pajitas.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 Si las moscas en la fantasía así explican las cosas que ven,
 Por caprichos de la fortuna, a su vez, un fénix cada uno puede ser.
@@ -551,7 +551,7 @@ Porque sólo Él es eterno, libre de cambio y completo.
 Las oraciones de los hombres por reyes y príncipes cambian a menudo de tono.
 Las oraciones de los santos y los profetas invocan solo a Dios.
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 La existencia de la vacía pompa y orgullo del soberano de la tierra,
 Las glorias de un profeta en su Dios permanecen.
@@ -589,7 +589,7 @@ Empujan sus roadsters apresuradamente, como los pensamientos invitan.
 Ellos sostienen que sus corceles están perdidos; y todo el tiempo
 Como un noble corcel, un roadster los llevó por muchas millas.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Ahora comienzan a gemir, angustiados, y preguntan el camino.
 Llaman a cada puerta que ven, ruegan, rezan:
@@ -629,7 +629,7 @@ De converseconverse se destaca, como Frank de Negro.
 Por el contrario de la luz, distinguimos la luz;
 <sup id="v250"><small>250</small></sup> Una conversación es lo que la conversación muestra a nuestra vista.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 La luz de Dios no tiene nada que ver con el ser.
 Por el contrario, entonces, el hombre no tiene su distinción encontrada.
@@ -662,7 +662,7 @@ Como un petardo cuando un chico lo hace girar en la oscuridad con cinta adhesiva
 Un destello de llama, a través de la velocidad necesaria del movimiento,
 Aparece a nuestros ojos un fuego de tamaño, en verdad.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Su longitud y su extensión, por la rapidez del hecho,
 <sup id="v265"><small>265</small></sup> Parecen ser efectos del acto creador de Dios.
@@ -700,7 +700,7 @@ No me tomes por liebre; conmigo no te esfuerces por no esgrimir”.
 La liebre a él: "¡Oh príncipe! ¡Ten piedad de los débiles!
 Prestad oído a los cuentos de los que buscan la justicia.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Ofrenda de agradecimiento sea por tu augusta propiedad.
 <sup id="v280"><small>280</small></sup> Pobre suplicante como yo, no me echarás de tu puerta.
@@ -738,7 +738,7 @@ Más regordeta, más pulcra, más dentada. ¿Me atrevo a decir una mentira?
 De ahora en adelante, a través de ese león, ¿quién puede venir por este camino?
 <sup id="v295"><small>295</small></sup> El caso es así. Te he dicho con sinceridad todo lo que te digo.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 De aquí en adelante, para siempre, tu ración se perdió, en verdad.
 La verdad te digo. A menudo la verdad es desagradable.
@@ -774,7 +774,7 @@ Un enemigo que habla en apariencia amistosa, un juego falso juega;
 Su ofrecido veneno de azúcar de caña ocultará
 Sus aparentes oficios bondadosos son el velo de la traición.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Si Dios ordena tu caída, tu vista quedará cegada.
 <sup id="v310"><small>310</small></sup> 'Twixt amigo y enemigo la diferencia no lo verás.
@@ -810,7 +810,7 @@ Entre simples extraños, el hombre es un cautivo en una celda.
 Un singlotista es entonces el otro yo del hombre;
 Pero el sincardismo, que el singlotismo, está mucho más cerca, elfo.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Además de nuestras palabras, nuestros signos, nuestros caracteres escritos,
 <sup id="v325"><small>325</small></sup> De los corazones, surgen cientos de intérpretes mudos.
@@ -849,7 +849,7 @@ Con ellos viajarás; así, nunca te faltará agua.”
 El cuervo al oír esto con celos fue picado.
 Dirigiéndose a Salomón, dijo: “Este pájaro una mentira ha cantado.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 Su insolencia es grande para jactarse así ante el rey.
 <sup id="v340"><small>340</small></sup> Esa falsedad es bastante repugnante. ¿Quién ha oído algo así?
@@ -887,7 +887,7 @@ De principio a fin su mente podría evitar que se rebelaran.
 Cualquiera que sea el nombre que le dio, ese nombre perduró sin cambios.
 Si él dijo: «Esta cosa está activa», perezoso nunca se movió.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 Él sabía al principio quién era creyente en la palabra de Dios.
 <sup id="v355"><small>355</small></sup> Él también desde el principio conoció al malhechor hacia su Señor.
@@ -921,7 +921,7 @@ Una sola prohibición conocida, le costó bien. dolor.
 Preguntó: “¿Se impuso la prohibición, para prevenir la alegría?
 ¿O puede, por glosa, evasión? ¿Se le puede prestar?
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 En su mente, una vez inferida la explicación,
 Sus apetitos, perplejos, preferían probar el trigo.[^172]
@@ -954,7 +954,7 @@ Y ahora volvemos a partir de la moral, que no tiene fin.
 Llegaron a donde estaba el pozo. Allí el león vio
 La liebre había aminorado el paso y comenzó a retroceder.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Ante esto él protestó: “¿Qué estás haciendo? ¡hacia!
 Adelante todavía. El enemigo que debemos descubrir."
@@ -991,7 +991,7 @@ Los planetas circulando, cada uno dentro de su esfera,
 Están sujetos a _inmersión_ cuando el sol se acerca.
 La luna en esplendor supera con creces a cada pequeña estrella.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Pero cerca de su cambio se reduce casi a un cabello.
 La misma tierra, que en firme firmeza se sienta,
@@ -1028,7 +1028,7 @@ Pero desde el mundo en problemas como la prisión ofende,
 Así fue como la liebre engañó al león con mentiras engañosas;
 Y añadió: «De ahí la razón por la que no puedo levantarme.»
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 El león respondió: “No veo nada que pueda causar tu miedo.
 <sup id="v415"><small>415</small></sup> Señálame el objeto que te parece tan lúgubre.”
@@ -1068,7 +1068,7 @@ Para ti mismo cavas un hoyo; nuestro cuento a saber.
 Tejes a tu alrededor una red, como lo hace el gusano de seda;
 <sup id="v430"><small>430</small></sup> No escaparás a menos que te acomodes a la justicia.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 No mires a los débiles como si estuvieran completamente sin un amigo.
 Reflexiona; se dice: «Cuando la ayuda de Dios llega.»[^174] ¿Dónde está entonces tu fin?
@@ -1105,7 +1105,7 @@ Comete el error del león;—salta sobre sí mismo.
 Oh tú que detestas un lunar en la mejilla de tu vecino,
 <sup id="v445"><small>445</small></sup> Reflexiona. No es más que una imagen. Tus propios rasgos buscan.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 Los creyentes son como espejos; cada uno se ve a sí mismo en cada uno.
 Así lo dijo el Profeta. Sus palabras para nosotros pueden enseñarnos la verdad.
@@ -1144,7 +1144,7 @@ Entonces rápidamente volvió a su estratagema para contarlo.
 Su tallo y su hoja brotan de la prisión subterránea.
 Se cría rápidamente, se hace amigo del aire que lo rodea.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Las hojas brotan del tallo y se extienden por todas partes;
 Hasta que por crecimiento un árbol, cuya gracia todos los hombres aplauden.
@@ -1178,7 +1178,7 @@ Tiene Le extrajeron los dientes, por la gracia de nuestro Creador.
 El que tantos aplastó con la garra de la tiranía,
 <sup id="v475"><small>475</small></sup> Como basura ha sido barrida por la escoba de la muerte limpia lejos.”
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Una convocación ahora se llevó a cabo por todas las bestias,
 La hilaridad y la alegría animaron todos sus pechos.
@@ -1213,7 +1213,7 @@ No te des aires; no eres más que un invitado de paso.
 Aquellos cuyo reinado eterno dura más allá de todos los tiempos,[^176]
 <sup id="v490"><small>490</small></sup> Quienes cantan alabanzas a Dios más allá de las siete esferas y climas,
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Ellos más perduran que los reinados transitorios de los breves rollos de los reyes.
 Son los alimentadores infalibles de las almas de los hombres.

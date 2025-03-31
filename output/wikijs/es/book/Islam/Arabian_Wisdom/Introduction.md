@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Los dichos y proverbios sabios de la antigüedad y de la época moderna, y en todos los idiomas que conozco o a los que he tenido acceso en traducciones, siempre han ejercido una gran atracción sobre mí. Extraídos de las experiencias y del estudio de la vida humana, han sido reducidos por hombres sabios a frases breves y concisas, generalmente expresadas en alguna forma pintoresca o llamativa, para transmitir verdades morales sólidas. Se pretende que sean máximas de vida o reglas de conducta, principalmente para los jóvenes, pero pueden ser leídos con placer y provecho tanto por jóvenes como por mayores. Fue con tal objetivo en mente que los editores de la serie Sabiduría de Oriente han publicado recientemente una serie de pequeños libros sobre este tema cuidadosamente traducidos por especialistas competentes, y que han sido muy apreciados por la prensa y el público ingleses. Su deseo principal, sin embargo, parece ser «que estos libros sean los embajadores <span id="p12">[<sup><small>12</small></sup>]</span> de la buena voluntad y el entendimiento entre Oriente y Occidente», y también que «los grandes ideales y la elevada filosofía del pensamiento oriental pueden ayudar a un renacimiento de ese verdadero espíritu de Caridad que no desprecia ni teme a las naciones de otro credo y color». (Ver Nota Editorial.)
 

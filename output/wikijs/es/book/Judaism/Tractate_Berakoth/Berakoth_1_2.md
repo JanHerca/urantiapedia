@@ -85,7 +85,7 @@ II. 5 (4). Los obreros pueden recitar el Shemá en la copa de un árbol o de un 
 
 ## Un Novio y el Shma'. Gamaliel.
 
-M.II. 6 (5 _cont_.). Un novio está exento de recitar el Shemá la primera noche y hasta que termine el Shabat, si no ha consumado el matrimonio. [^129] \[Relacionado con esto está\] un incidente en la vida de Rabán Gamaliel, quien se casó y recitó el Shemá la noche de su boda. Le dijeron: «¿No nos enseñaste que un novio está exento de recitar el Shemá la primera noche?». Él les respondió: «No os escucharé, <span id="p20">[<sup><small>p. 20</small></sup>]</span>, que deba renunciar al reino de los cielos ni por una sola hora». [^130]
+M.II. 6 (5 _cont_.). Un novio está exento de recitar el Shemá la primera noche y hasta que termine el Shabat, si no ha consumado el matrimonio. [^129] \[Relacionado con esto está\] un incidente en la vida de Rabán Gamaliel, quien se casó y recitó el Shemá la noche de su boda. Le dijeron: «¿No nos enseñaste que un novio está exento de recitar el Shemá la primera noche?». Él les respondió: «No os escucharé, <span id="p20"><sup><small>[ p. 20 ]</small></sup></span>, que deba renunciar al reino de los cielos ni por una sola hora». [^130]
 
 **T**. I. 3. Los novios y todos los que se ocupan de cumplir otros mandamientos están exentos del deber de recitar el Shemá. Pues se dice: _Cuando estés en tu casa_, [^131] lo cual excluye a quienes se ocupan de cumplir mandamientos. _Y cuando andes por el camino_ [^132] excluye a los novios.
 
@@ -95,7 +95,7 @@ II. 10. Los padrinos [^133] y todos los invitados a la boda [^134] están exento
 
 ## Gamaliel: Otros incidentes de su infracción de la enseñanza tradicional.
 
-**M**.II. 7 (6). Se bañó la primera noche tras la muerte de su esposa. Le dijeron: «¿No nos enseñaste que a un doliente se le prohíbe bañarse?». <span id="p21">[<sup><small>p. 21</small></sup>]</span> **M**. Él les dijo: «No soy como los demás hombres; [^136] soy débil. [^137]»
+**M**.II. 7 (6). Se bañó la primera noche tras la muerte de su esposa. Le dijeron: «¿No nos enseñaste que a un doliente se le prohíbe bañarse?». <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> **M**. Él les dijo: «No soy como los demás hombres; [^136] soy débil. [^137]»
 
 II. 8 (7 _cont_.). Y cuando murió su esclavo Tabi, aceptó el pésame [^138] por él. Le dijeron: «¿No nos enseñaste que los hombres no aceptan el pésame por los esclavos?». Él les respondió: «Mi esclavo Tabi no era como los demás esclavos; era un hombre digno».
 

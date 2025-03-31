@@ -46,7 +46,7 @@ En lo que se refiere a la aceptación de un cuenco, se deben repetir aquí aquel
 
 Un monje o una monja no debe aceptar un cuenco que el laico haya comprado, etc., para el mendigo (véase la lección llamada La mendicidad de ropa [^435]). (I)
 
-Un monje o una monja no debe aceptar cuencos muy caros de la siguiente descripción: cuencos hechos de hierro, estaño, plomo, plata, oro, latón, una mezcla de <span id="p167">[<sup><small>p. 167</small></sup>]</span> oro, plata y cobre, perla, vidrio, nácar, cuerno, marfil, tela, piedra o cuero; porque estos cuencos tan caros son impuros e inaceptables. (2)
+Un monje o una monja no debe aceptar cuencos muy caros de la siguiente descripción: cuencos hechos de hierro, estaño, plomo, plata, oro, latón, una mezcla de <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> oro, plata y cobre, perla, vidrio, nácar, cuerno, marfil, tela, piedra o cuero; porque estos cuencos tan caros son impuros e inaceptables. (2)
 
 Un monje o una monja no debe aceptar cuencos que contengan una banda de los mismos materiales preciosos especializados en el § 2; para etc. (3)
 
@@ -86,7 +86,7 @@ El dueño de casa puede decir (a uno de sus hombres): “¡Oh, longevo! (o, ¡oh
 
 El jefe de familia puede decir (al mendigo): «¡Oh, longevo <i>S</i>rama<i>n</i>a! Quédate un rato hasta que hayan cocinado o preparado nuestra comida, etc., y entonces te daremos, ¡oh, longevo!, tu cuenco de limosna lleno de comida o bebida; no es bueno, no es apropiado que un mendigo reciba un cuenco de limosna vacío». Tras reflexionar, el mendigo debe responder: «¡Oh, longevo! (o, ¡oh, hermana!), en verdad no me corresponde comer ni beber comida, etc., que es âdhâkarmika; no la cocines ni la prepares; si quieres darme algo, dáselo tal como está». Tras estas palabras, el jefe de familia puede ofrecerle el cuenco de limosna lleno de comida o bebida cocinada o preparada: no debe aceptar tal cuenco de limosna, pues es impuro e inaceptable. (10)
 
-Tal vez el dueño de casa traerá y dará al mendigo un cuenco de limosna; el mendigo debería entonces, después de considerarlo, decir: '¡Oh, longeva! (o, ¡oh, <span id="p169">[<sup><small>p. 169</small></sup>]</span> hermana!) En tu presencia inspeccionaré atentamente el interior del cuenco.'
+Tal vez el dueño de casa traerá y dará al mendigo un cuenco de limosna; el mendigo debería entonces, después de considerarlo, decir: '¡Oh, longeva! (o, ¡oh, <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> hermana!) En tu presencia inspeccionaré atentamente el interior del cuenco.'
 
 El Kevalin dice: Esta es la razón: en el cuenco de limosnas puede haber seres vivos, semillas o hierba. Por eso se le ha dicho al mendigo, etc., que inspeccione cuidadosamente el interior del cuenco de limosnas. (11)
 
@@ -105,7 +105,7 @@ Un monje o una monja, al entrar en la morada de un jefe de familia para pedir li
 
 El Kevalin dice: Esta es la razón: Seres vivos, semillas o polvo podrían caer en su cuenco. Por eso se le ha dicho al mendigo, etc., que, tras examinar su cuenco de limosna, sacando cualquier ser vivo, debe entrar o salir con cautela de la vivienda del dueño de casa. (1)
 
-En tal ocasión, el dueño de casa podría tal vez, entrando en la casa, llenar el cuenco de limosnas con agua fría y, al regresar, ofrecérselo; (el mendigo) no debe aceptar tal cuenco de limosnas [^437] ni en la <span id="p170">[<sup><small>p. 170</small></sup>]</span> la mano del dueño de casa ni en su vasija; porque es impuro e inaceptable. (2)
+En tal ocasión, el dueño de casa podría tal vez, entrando en la casa, llenar el cuenco de limosnas con agua fría y, al regresar, ofrecérselo; (el mendigo) no debe aceptar tal cuenco de limosnas [^437] ni en la <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> la mano del dueño de casa ni en su vasija; porque es impuro e inaceptable. (2)
 
 Quizás, sin darse cuenta, lo haya aceptado; entonces debería vaciarlo nuevamente en el cántaro de agua (del dueño de casa); o (al oponerse a ello) debería dejar el recipiente y el agua en algún lugar, o vaciarlo en algún lugar húmedo. (3)
 

@@ -41,7 +41,7 @@ Desde Vaisali, el Maestro fue a Cravasti, al parque de Jeta. Un día, el rey Pra
 
 Prasenajit ordenó que se construyera el salón.
 
-Mientras esperaban el día del juicio, los ermitaños mentirosos intentaron engañar a los fieles seguidores del Maestro, y quienes se negaron a escuchar sus malvadas <span id="p218">[<sup><small>p. 218</small></sup>]</span> palabras se ganaron su amarga enemistad. Ahora bien, el Maestro no tenía mejor amigo en Cravasti que el príncipe Kala, hermano de Prasenajit. Kala había mostrado su absoluto desprecio por los ermitaños, y estos decidieron vengarse.
+Mientras esperaban el día del juicio, los ermitaños mentirosos intentaron engañar a los fieles seguidores del Maestro, y quienes se negaron a escuchar sus malvadas <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> palabras se ganaron su amarga enemistad. Ahora bien, el Maestro no tenía mejor amigo en Cravasti que el príncipe Kala, hermano de Prasenajit. Kala había mostrado su absoluto desprecio por los ermitaños, y estos decidieron vengarse.
 
 Kala era un hombre muy apuesto. Un día, mientras paseaba por los jardines reales, se encontró con una de las esposas de Prasenajit, quien, juguetonamente, le lanzó una guirnalda de flores. Los ermitaños se enteraron del incidente y le dijeron al rey que su hermano había intentado seducir a una de sus esposas. El rey montó en cólera y, sin darle a Kala la oportunidad de justificarse, le amputaron las manos y los pies.
 

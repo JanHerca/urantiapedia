@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## YASNA XLI. UNA ORACIÓN A AHURA COMO EL REY, LA VIDA Y EL RECOMPENSADOR.
 
-1\. Alabanzas, cánticos y adoraciones ofrecemos a Ahura Mazda y a la Virtud Suprema; sí, las ofrecemos, las atribuimos y las proclamamos. 2. ¡Y a Tu buen Reino, oh Ahura Mazda! <span id="p290">[<sup><small>p. 290</small></sup>]</span> que alcancemos para siempre, y que un buen Rey seas Tú sobre nosotros; y que cada hombre, y cada mujer, permanezca así, oh Tú, el más benéfico de los seres, y para ambos mundos. 3. Así te rendimos a Ti, el servicial Yazad, dotado de buenos designios, el amigo de quienes (te adoran) con rituales (bien ajustados); que Tú seas para nosotros nuestra vida y el vigor de nuestro cuerpo, oh Tú, el más benéfico de los seres, y eso para ambos mundos.
+1\. Alabanzas, cánticos y adoraciones ofrecemos a Ahura Mazda y a la Virtud Suprema; sí, las ofrecemos, las atribuimos y las proclamamos. 2. ¡Y a Tu buen Reino, oh Ahura Mazda! <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> que alcancemos para siempre, y que un buen Rey seas Tú sobre nosotros; y que cada hombre, y cada mujer, permanezca así, oh Tú, el más benéfico de los seres, y para ambos mundos. 3. Así te rendimos a Ti, el servicial Yazad, dotado de buenos designios, el amigo de quienes (te adoran) con rituales (bien ajustados); que Tú seas para nosotros nuestra vida y el vigor de nuestro cuerpo, oh Tú, el más benéfico de los seres, y eso para ambos mundos.
 
 4\. ¡Sí, concédenos una larga vida, oh Ahura Mazda! Que en tu gracia y por tu voluntad seamos poderosos. Que nos apoyes para que vivamos por largo tiempo y con salvación, ¡oh Tú, el más benéfico de los seres!
 

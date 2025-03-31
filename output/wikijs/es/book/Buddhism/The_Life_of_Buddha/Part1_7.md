@@ -65,7 +65,7 @@ El rey convocó al sacerdote de la casa. Enumeró las cualidades que el príncip
 
 —Ve —dijo él—, ve, brahmán. Visita todos los hogares de Kapilavastu; observa a las jóvenes e interrogándolas. Y si encuentras a una que posea las cualidades necesarias, tráela ante el príncipe, aunque sea de la casta más baja. Porque mi hijo no busca rango ni riquezas, sino virtud.
 
-El sacerdote recorrió la ciudad de Kapilavastu. Entró en las casas, vio a las jóvenes y las interrogó con astucia; pero no encontró a ninguna digna del príncipe Siddhartha. Finalmente, llegó a casa de Dandapani, de la familia Sakya. Dandapani tenía una hija llamada Gopa. Al verla, el sacerdote se regocijó, pues <span id="p31">[<sup><small>p. 31</small></sup>]</span> era hermosa y llena de gracia. Le dirigió unas palabras y ya no dudó.
+El sacerdote recorrió la ciudad de Kapilavastu. Entró en las casas, vio a las jóvenes y las interrogó con astucia; pero no encontró a ninguna digna del príncipe Siddhartha. Finalmente, llegó a casa de Dandapani, de la familia Sakya. Dandapani tenía una hija llamada Gopa. Al verla, el sacerdote se regocijó, pues <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> era hermosa y llena de gracia. Le dirigió unas palabras y ya no dudó.
 
 El sacerdote regresó ante el rey Suddhodana. «Mi señor», exclamó, «he encontrado una doncella digna de su hijo».
 
@@ -101,7 +101,7 @@ Ella dijo: “Príncipe, ¿debo aceptar este anillo?”
 
 Cuando el rey oyó este incidente se alegró mucho.
 
-«Gopa, solo ella, podría enfrentarse a mi hijo», pensó; <span id="p33">[<sup><small>p. 33</small></sup>]</span> «solo ella es digna de él. Gopa, quien no aceptó el anillo que te quitaste del dedo, Gopa, oh hijo mío, será tu joya más hermosa».
+«Gopa, solo ella, podría enfrentarse a mi hijo», pensó; <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> «solo ella es digna de él. Gopa, quien no aceptó el anillo que te quitaste del dedo, Gopa, oh hijo mío, será tu joya más hermosa».
 
 Y llamó al padre de Gopa al palacio.
 
@@ -159,7 +159,7 @@ Nadie respondió a esta segunda pregunta.
 
 —Ahora te toca a ti examinarme —dijo el príncipe.
 
-Le hicieron preguntas que se consideraron <span id="p36">[<sup><small>p. 36</small></sup>]</span> difíciles, pero él dio las respuestas incluso antes de que terminaran de plantear el problema.
+Le hicieron preguntas que se consideraron <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> difíciles, pero él dio las respuestas incluso antes de que terminaran de plantear el problema.
 
 “¡Que Arjuna mismo examine al príncipe!” se oyó el grito desde todos lados.
 

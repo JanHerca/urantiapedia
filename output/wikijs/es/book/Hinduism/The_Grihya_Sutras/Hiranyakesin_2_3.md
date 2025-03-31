@@ -36,7 +36,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^667] Ahora (sigue) el sacrificio del <i>s</i>ûlagava (o buey escupido, para propiciar a Rudra y evitar la plaga en el ganado).
 
-2\. En la quincena de luna creciente, bajo una constelación auspiciosa, pone leña al fuego, esparce hierba darbha por toda la superficie alrededor del fuego, cocina un plato de comida sacrificial con leche, <span id="p221">[<sup><small>p. 221</small></sup>]</span> lo rocía con Â<i>g</i>ya), lo retira del fuego, construye dos chozas al oeste del fuego y hace que lleven al buey asador a la choza del sur con el verso: «Que los corceles en barbecho, los armoniosos, te traigan aquí, junto con los caballos blancos, los brillantes, veloces, fuertes, que son tan rápidos como el pensamiento. ¡Ven pronto a mi ofrenda, <i>S</i>arva! ¡Om!».
+2\. En la quincena de luna creciente, bajo una constelación auspiciosa, pone leña al fuego, esparce hierba darbha por toda la superficie alrededor del fuego, cocina un plato de comida sacrificial con leche, <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> lo rocía con Â<i>g</i>ya), lo retira del fuego, construye dos chozas al oeste del fuego y hace que lleven al buey asador a la choza del sur con el verso: «Que los corceles en barbecho, los armoniosos, te traigan aquí, junto con los caballos blancos, los brillantes, veloces, fuertes, que son tan rápidos como el pensamiento. ¡Ven pronto a mi ofrenda, <i>S</i>arva! ¡Om!».
 
 3\. [^668] Hacia el norte (cabaña) ha (conducido) al 'generoso';—(es decir, la consorte del buey escupidor);
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ¡Al dios Bhava svâhâ! ¡Al dios Rudra svâhâ! ¡Al dios Sarva svâhâ! ¡Al dios Î<i>s</i>âna... Pa<i>s</i>upati... Ugra... Bhîma svâhâ! ¡Al gran dios svâhâ!
 
-7\. Luego sacrifica el arroz de la consorte a la consorte (de Rudra, con el Mantra): «¡A la consorte <span id="p222">[<sup><small>p. 222</small></sup>]</span> del dios Bhava svâhâ! ¡A la consorte del dios Rudra... Sarva... Î<i>s</i>âna... Pa<i>s</i>upati... Ugra... Bhîma... del gran dios svâhâ!».
+7\. Luego sacrifica el arroz de la consorte a la consorte (de Rudra, con el Mantra): «¡A la consorte <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> del dios Bhava svâhâ! ¡A la consorte del dios Rudra... Sarva... Î<i>s</i>âna... Pa<i>s</i>upati... Ugra... Bhîma... del gran dios svâhâ!».
 
 8\. Luego sacrifica la porción central de arroz con el mantra: «¡Al conquistador, svâhâ! ¡Al conquistador, svâhâ!».
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^669] Ahora sigue la distribución de las hojas de Palâ<i>s</i>a (en diferentes lugares).
 
-2\. '¡Protector de la casa, tócalos! ¡Al protector de la casa svâhâ! ¡Protectora de la <span id="p223">[<sup><small>p. 223</small></sup>]</span> casa, tócalos! ¡A la protectora de la casa svâhâ! ¡Protector de la puerta, tócalos! ¡Al protector de la puerta svâhâ! ¡Protectora de la puerta, tócalos! ¡A la protectora de la puerta svâhâ!' —con (estas fórmulas) coloca cuatro hojas; (luego otras hojas) con (las fórmulas), '¡Ruidosos, tócalos! ¡A los ruidosos svâhâ! Temblores... vosotros que corrís en la retaguardia... Mezcladores (?)... Seleccionadores... ¡Comedores, tóquenlos! ¡A los comensales, svâhâ!
+2\. '¡Protector de la casa, tócalos! ¡Al protector de la casa svâhâ! ¡Protectora de la <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> casa, tócalos! ¡A la protectora de la casa svâhâ! ¡Protector de la puerta, tócalos! ¡Al protector de la puerta svâhâ! ¡Protectora de la puerta, tócalos! ¡A la protectora de la puerta svâhâ!' —con (estas fórmulas) coloca cuatro hojas; (luego otras hojas) con (las fórmulas), '¡Ruidosos, tócalos! ¡A los ruidosos svâhâ! Temblores... vosotros que corrís en la retaguardia... Mezcladores (?)... Seleccionadores... ¡Comedores, tóquenlos! ¡A los comensales, svâhâ!
 
 3\. Luego, diez hojas con la fórmula: «¡Huestes divinas, tocadlas! ¡A las huestes divinas, svâhâ!».
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. [^671] Luego realiza el culto (ante esa cesta) con (la fórmula): «¡Adoración al que porta el carcaj, al que lleva el carcaj! ¡Adoración al señor de los ladrones!».
 
-7\. [^672] Con ungüento de sándalo, surâ y agua, granos fritos sin moler, estiércol de vaca, con un manojo de hierba dûrvâ, con Udumbara, Palâ<i>s</i>a, Sami, Vikaṅkata y <span id="p224">[<sup><small>p. 224</small></sup>]</span> A<i>s</i>vattha (ramas), y con una cola de vaca rocía a sus vacas, primero al toro, con (las palabras), '¡Trae suerte! ¡Trae suerte!' Entonces (el toro) le traerá suerte.
+7\. [^672] Con ungüento de sándalo, surâ y agua, granos fritos sin moler, estiércol de vaca, con un manojo de hierba dûrvâ, con Udumbara, Palâ<i>s</i>a, Sami, Vikaṅkata y <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> A<i>s</i>vattha (ramas), y con una cola de vaca rocía a sus vacas, primero al toro, con (las palabras), '¡Trae suerte! ¡Trae suerte!' Entonces (el toro) le traerá suerte.
 
 8\. [^673] Luego cocina esa mezcla de comida sacrificial, sagrada para Kshetrapati (el señor del campo), con leche, la rocía (con Â<i>g</i>ya), la saca del fuego y realiza un sacrificio a Kshetrapati en el camino por donde suelen ir sus vacas, sin fuego, sobre cuatro o siete hojas.
 

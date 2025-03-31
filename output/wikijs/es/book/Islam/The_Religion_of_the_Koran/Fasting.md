@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 CAPÍTULO II., Versículo 179.—Se os ha prescrito el ayuno como se prescribió a los que os precedieron; quizá tengáis miedo. (180) Un cierto número de días, pero aquel de vosotros que esté enfermo o de viaje, que ayune otro número de días. Y los que sean aptos para ayunar pueden redimirlo alimentando a un pobre; pero a aquel que sigue un impulso hacia una buena obra le es mejor; y si ayunáis es mejor para vosotros, si tan solo supierais.
 

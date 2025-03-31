@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## YASNA XL. ORACIONES POR AYUDANTES.
 
-1\. Y ahora, en estas Tus dispensaciones, ¡oh Ahura Mazda!, actúa sabiamente [^1201] por nosotros, y con abundancia <span id="p289">[<sup><small>p. 289</small></sup>]</span> de Tu generosidad y Tu ternura [^1202] en lo que respecta a nosotros; y concede la recompensa que has designado para nuestras almas, ¡oh Ahura Mazda! 2. Concédenos esto para este mundo y el espiritual; y ahora, como parte de ello, (concédenos) que alcancemos la comunión contigo y Tu Rectitud para siempre.
+1\. Y ahora, en estas Tus dispensaciones, ¡oh Ahura Mazda!, actúa sabiamente [^1201] por nosotros, y con abundancia <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> de Tu generosidad y Tu ternura [^1202] en lo que respecta a nosotros; y concede la recompensa que has designado para nuestras almas, ¡oh Ahura Mazda! 2. Concédenos esto para este mundo y el espiritual; y ahora, como parte de ello, (concédenos) que alcancemos la comunión contigo y Tu Rectitud para siempre.
 
 3\. ¡Oh Ahura!, concédenos hombres justos, amantes y productores de la Rectitud. Y danos animales adiestrados para los pastos, domados para montar [^1203] y para el transporte, para que nos sean de provechosa [^1204] compañía, fuente de vigor duradero y un medio de regocijo por esta gracia [^1205].
 

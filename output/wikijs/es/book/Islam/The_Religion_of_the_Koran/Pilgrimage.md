@@ -32,13 +32,13 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 CAPÍTULO II, Versículo 192.—Y cumplid con la peregrinación y la visita a Dios; pero si estáis sitiados, haced lo que os resulte más fácil como ofrenda. Pero no os rapéis la cabeza hasta que vuestra ofrenda llegue a su destino; y quien de vosotros esté enfermo o tenga una herida en la cabeza, que la redención sea mediante el ayuno, o mediante una limosna, o mediante una ofrenda. Pero cuando estéis de nuevo a salvo, que quien desee disfrutar de la visita hasta la peregrinación (traiga) lo que sea más fácil como ofrenda. Y quien no pueda (nada que traer), que ayune tres días en la peregrinación y siete cuando volváis; éstos son diez días completos. Es decir, para aquel cuya familia no esté presente en la mezquita sagrada; y temed a Dios, y sabed que Dios es diligente en castigar.
 
 Capítulo III, Versículo 90.—En verdad, la primera casa fundada para los hombres fue seguramente la de Bekkah, para bendición y guía a los mundos. Allí hay signos manifiestos: la posición de Abraham, y quienquiera que entre en ella está a salvo. A Dios le corresponde una peregrinación de parte del hombre a la Casa, para quienquiera que pueda encontrar su camino allí. Pero quienquiera que no crea... Dios es independiente de los mundos.
 
-Capítulo XXII., Versículo 25.—En verdad, a quienes <span id="p63">[<sup><small>p. 63</small></sup>]</span> desmienten y desvíen a los hombres del camino de Dios y de la mezquita sagrada, que hemos construido para todos los hombres por igual, al morador de ella, al forastero y al que desee profanarla con injusticia, le haremos gustar un doloroso castigo.
+Capítulo XXII., Versículo 25.—En verdad, a quienes <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> desmienten y desvíen a los hombres del camino de Dios y de la mezquita sagrada, que hemos construido para todos los hombres por igual, al morador de ella, al forastero y al que desee profanarla con injusticia, le haremos gustar un doloroso castigo.
 
 Y cuando establecimos para Abraham el lugar de la Casa (diciendo): “No me asociéis nada, pero purificad Mi Casa para los que hacen los circuitos, para los que se ponen de pie para orar, para los que se inclinan y para los que adoran.
 

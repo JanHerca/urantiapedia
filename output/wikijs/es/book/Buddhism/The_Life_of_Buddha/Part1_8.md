@@ -43,7 +43,7 @@ Las mujeres lo miraban furtivamente: sus ojos ofrecían con audacia o suplicaban
 
 Suddhodana se regocijaba con la vida que llevaba su hijo, aunque juzgaba su propia conducta con la mayor severidad. Se esforzaba por mantener su alma serena y pura; se abstenía de hacer el mal y colmaba de dones a los virtuosos. Nunca se dejó llevar por la indolencia ni por el placer; jamás se dejó quemar por el veneno de la avaricia. Como caballos salvajes, él sometía sus pasiones, y en virtud superaba a sus parientes y amigos. El conocimiento que adquirió lo puso al servicio de sus semejantes, y solo estudiaba aquellos temas que eran útiles para todos. No solo buscaba el bienestar de su pueblo, sino también la felicidad del mundo entero. Purificaba su cuerpo con el agua de los estanques sagrados y su alma con el agua bendita de la virtud. Nunca pronunció una palabra que fuera agradable y, sin embargo, fuera mentira; las verdades que decía nunca ofendían ni dolían. Intentó ser justo, y fue con honestidad, no con fuerza, como venció el orgullo de sus enemigos. No golpeó, ni siquiera miró con ira a quienes merecían la pena de muerte; en cambio, les dio consejos útiles y, finalmente, su libertad.
 
-El rey era un ejemplo para todos sus súbditos, y <span id="p40">[<sup><small>p. 40</small></sup>]</span> Kapilavastu era el más feliz y virtuoso de los reinos.
+El rey era un ejemplo para todos sus súbditos, y <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> Kapilavastu era el más feliz y virtuoso de los reinos.
 
 Entonces la bella Gopa le dio un hijo al príncipe, al que llamó Rahula. El rey Suddhodana se alegró de ver prosperar a su familia y se sintió tan orgulloso del nacimiento de su nieto como lo había estado del de su hijo.
 

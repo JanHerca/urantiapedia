@@ -152,7 +152,7 @@ A principios del siglo IX, la cultura china adquirió gran influencia en Japón.
 
 [^1]: Por ejemplo, el _Takahashi-Ujibumi_, el _Hata-Uji-no-Honkeichō_, _etc._. <span id="p4">[<sup><small>pág. 4</small></sup>]</span>
 
-[^2]: _Eurya Ochnacea Szyse_ (_Cleyera Japonica_). Este árbol aún se venera como sagrado para los dioses del sintoísmo. Algunos comentaristas opinan que "sakaki" era el nombre que originalmente se daba a todas las plantas perennes. <span id="p7">[<sup><small>p. 7</small></sup>]</span>
+[^2]: _Eurya Ochnacea Szyse_ (_Cleyera Japonica_). Este árbol aún se venera como sagrado para los dioses del sintoísmo. Algunos comentaristas opinan que "sakaki" era el nombre que originalmente se daba a todas las plantas perennes. <span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 [^3]: _Vide_ WG Aston. _E.TN_, vol. I, págs. 43, 44. <span id="p8">[<sup><small>pág. 8</small></sup>]</span>
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 CAPÍTULO IV, Versículo 18.—Pero quien se rebele contra Dios y Su Apóstol, y transgreda Sus límites, Él lo hará entrar en el fuego, y permanecerá allí para siempre; y para él es un dolor vergonzoso.
 
@@ -42,7 +42,7 @@ Capítulo X, Versículo 28.—Pero, en cuanto a los que han merecido el mal, la 
 
 Capítulo XI., Versículo 120.—«Seguramente llenaré el infierno con genios y toda la humanidad.»
 
-Capítulo XIV., Versículo 19.—Entonces pidieron una salida; y todo tirano rebelde quedó defraudado. Detrás de tal persona está el Infierno, y se le dará a beber pus líquido. (20) Intentará tragarlo, pero no podrá tragarlo; y la muerte vendrá <span id="p41">[<sup><small>p. 41</small></sup>]</span> sobre él desde todas partes, y sin embargo no morirá; y detrás de él habrá un dolor riguroso.
+Capítulo XIV., Versículo 19.—Entonces pidieron una salida; y todo tirano rebelde quedó defraudado. Detrás de tal persona está el Infierno, y se le dará a beber pus líquido. (20) Intentará tragarlo, pero no podrá tragarlo; y la muerte vendrá <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> sobre él desde todas partes, y sin embargo no morirá; y detrás de él habrá un dolor riguroso.
 
 Capítulo XV, Versículo 44.—Tiene siete puertas; en cada puerta hay un grupo separado de ellos.
 
@@ -52,7 +52,7 @@ Capítulo XXII, Versículo 20.—Estos son dos disputadores que disputan acerca 
 
 Capítulo XXXV., Versículo 32.—Pero a los que no creen, para ellos está el fuego del infierno; no se les decretará que mueran, ni se les aliviará nada del tormento; así recompensamos a todo incrédulo.
 
-Capítulo XXXVII, Versículo 60.—¿Es mejor eso como entretenimiento, o el árbol infernal de las Regiones Infernales? En verdad, lo hemos convertido en una prueba para los injustos. En verdad, es un árbol que surge del fondo del Infierno; su espata es como las cabezas de los demonios; en verdad, comerán <span id="p42">[<sup><small>p. 42</small></sup>]</span> de él, y llenarán sus vientres con él. (65) Luego tendrán sobre él una mezcla de agua hirviendo; entonces, en verdad, su retorno será al Infierno.
+Capítulo XXXVII, Versículo 60.—¿Es mejor eso como entretenimiento, o el árbol infernal de las Regiones Infernales? En verdad, lo hemos convertido en una prueba para los injustos. En verdad, es un árbol que surge del fondo del Infierno; su espata es como las cabezas de los demonios; en verdad, comerán <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> de él, y llenarán sus vientres con él. (65) Luego tendrán sobre él una mezcla de agua hirviendo; entonces, en verdad, su retorno será al Infierno.
 
 Capítulo LXX., Versículo 15.—¡Sí, en verdad, es una llama que arrastra por el cuero cabelludo! ¡Llamará a los que se retiraron y dieron la espalda, y a los que acumularon y atesoraron!
 

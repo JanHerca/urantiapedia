@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. [^609] Con su permiso deberá tomar una esposa que pertenezca a la misma casta y país, una muchacha "desnuda", una virgen que pertenezca a un Gotra (diferente al de su marido).
 
-3\. [^610] Cualquier cosa que pretenda hacer (por ejemplo, casarse), debe hacerlo solo en un día propicio, durante uno de los siguientes cinco espacios de tiempo, a saber, por la mañana, al mediodía, al mediodía, por la tarde o por la noche. <span id="p187">[<sup><small>p. 187</small></sup>]</span>
+3\. [^610] Cualquier cosa que pretenda hacer (por ejemplo, casarse), debe hacerlo solo en un día propicio, durante uno de los siguientes cinco espacios de tiempo, a saber, por la mañana, al mediodía, al mediodía, por la tarde o por la noche. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 4\. [^611] Tras poner leña en el fuego y realizar los ritos preparatorios, incluyendo la colocación de tres ramas alrededor del fuego, el novio observa a la novia que es conducida hacia él, con el verso: «Esta mujer lleva adornos auspiciosos. Acérquense y contemplenla. Tras haberle traído la carencia, regresen a sus casas».
 
@@ -52,7 +52,7 @@ Que Agni, el primero de los dioses, venga. Que libere a la descendencia de esta 
 
 Que Agni Gârhapatya proteja a esta mujer. Que conduzca a sus hijos a la vejez. Que con un vientre fértil, ella sea madre de hijos vivos. Que disfrute de sus hijos. ¡Svâhâ!
 
-Que ningún ruido que provenga de ti se eleve en la casa por la noche. Que las (llamadas duendes) lloronas se alojen en otra (mujer) <span id="p188">[<sup><small>p. 188</small></sup>]</span> que no seas tú. Que (la duende) Vike<i>s</i>î («la de pelo áspero») no te golpee en el pecho. ¡Que tu esposo viva y que tú brilles en el mundo de tu esposo, contemplando a tu genial descendencia! ¡Svâhâ!
+Que ningún ruido que provenga de ti se eleve en la casa por la noche. Que las (llamadas duendes) lloronas se alojen en otra (mujer) <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> que no seas tú. Que (la duende) Vike<i>s</i>î («la de pelo áspero») no te golpee en el pecho. ¡Que tu esposo viva y que tú brilles en el mundo de tu esposo, contemplando a tu genial descendencia! ¡Svâhâ!
 
 Que el Cielo proteja tu espalda, Vâyu tus muslos y los dos A<i>s</i>vins tu pecho. Que Savit<i>ri</i> proteja a tus hijos lactantes. Hasta que se pongan la ropa (¿a tus hijos?), que B<i>s</i>haspati los proteja, y después los devas Visve. ¡Svâhâ!
 
@@ -97,7 +97,7 @@ Sin mal de ojo, sin traer la muerte a tu marido, trae suerte al ganado, llénate
 
 «Indra generoso, bendice a esta mujer con hijos y con una suerte feliz. Dale diez hijos; que su esposo sea el undécimo.»
 
-3\. [^616] Después de hacerla sentar en su lugar (véase el Sutra 5 de la sección anterior) y rociar Â<i>g</i>ya en sus manos unidas, vierte dos veces grano frito en ellas, con el verso: «Este grano vierto (en tus manos): que me traiga prosperidad y te una (a mí). Que este Agni nos conceda eso». <span id="p191">[<sup><small>p. 191</small></sup>]</span>
+3\. [^616] Después de hacerla sentar en su lugar (véase el Sutra 5 de la sección anterior) y rociar Â<i>g</i>ya en sus manos unidas, vierte dos veces grano frito en ellas, con el verso: «Este grano vierto (en tus manos): que me traiga prosperidad y te una (a mí). Que este Agni nos conceda eso». <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 4\. Después de rociar (Â<i>g</i>ya) sobre (el grano en sus manos), sacrifica (el grano) con sus manos unidas (que él agarra), con (el verso), 'Esta mujer, esparciendo grano en el fuego, reza así: “¡Que mi esposo viva mucho; que mis relaciones sean prósperas. Svâhâ!”'
 
@@ -130,7 +130,7 @@ Sin mal de ojo, sin traer la muerte a tu marido, trae suerte al ganado, llénate
 
 4\. [^621] Y el lugar de su ombligo con (la fórmula), 'Tú eres el nudo de todo aliento; no te aflojes.'
 
-5\. [^622] Después de hacerla sentar al oeste del fuego, de modo que mire hacia el este, se coloca al este (de su novia), mirando hacia el oeste, y la rocía con agua, con los tres versos: «Oh aguas, sois saludables» (Taitt. Sa<i>m</i>h. IV, I, 5, 1), con los cuatro versos: «Las aguas doradas, limpias y purificadoras» (V, 6, 1), y con el Anuvâka: «El purificador, el celestial» (Taitt. Brâhma<i>m</i>a I, 4, 8). <span id="p193">[<sup><small>p. 193</small></sup>]</span>
+5\. [^622] Después de hacerla sentar al oeste del fuego, de modo que mire hacia el este, se coloca al este (de su novia), mirando hacia el oeste, y la rocía con agua, con los tres versos: «Oh aguas, sois saludables» (Taitt. Sa<i>m</i>h. IV, I, 5, 1), con los cuatro versos: «Las aguas doradas, limpias y purificadoras» (V, 6, 1), y con el Anuvâka: «El purificador, el celestial» (Taitt. Brâhma<i>m</i>a I, 4, 8). <span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 6\. [^623] Ahora vierten semillas (de arroz, etc.) sobre (las cabezas del novio y de la novia).
 

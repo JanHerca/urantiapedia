@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 La luz de la luz es Su belleza deslumbrante,
 Y su estado hechizante la unión de uniones.
@@ -49,7 +49,7 @@ Escribió el Gulshan i Rāz, o El jardín secreto de las rosas, como respuesta a
 
 Se sabe muy poco de la vida de Mahmūd Shabistarī. Escribió además del Gulshan i Rāz dos tratados sobre el sufismo llamados _Hakk ul Yakin_ y _Risala i Shadīd_.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Aprendemos que tenía un discípulo muy favorito llamado Shaikh Ibrahim.
 
@@ -63,7 +63,7 @@ El _Gulshan i Rāz_ fue traducido al inglés y publicado, con el texto persa y e
 
 Los lectores de poesía sufí por primera vez pueden sentirse sorprendidos, tal vez incluso repelidos, por el lenguaje extravagante, por la familiaridad con la Deidad, por el aparente desprecio por todas las leyes humanas y divinas. Pero al examinarlo más detenidamente, el asombro del amor de los sufíes por su Amado brilla con una intensidad clara, un hermoso brillo luminoso.
 
-Están enamorados de El Único, y su amor <span id="p13">[<sup><small>p. 13</small></sup>]</span> toma la forma de exquisitas canciones de alabanza y asombro:
+Están enamorados de El Único, y su amor <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> toma la forma de exquisitas canciones de alabanza y asombro:
 
 “Escuché fascinado; mi espíritu se apresuró a encontrarse
 El amor es bienvenido orden, porque la voz era dulce.”
@@ -90,7 +90,7 @@ En una visión clara puedo verlo cara a cara.”
 
 ## SIMBOLISMO SŪFĪ
 
-Al leer la extasiada poesía de los sufíes, hay que tener presente que, aunque se utilizan <span id="p14">[<sup><small>p. 14</small></sup>]</span> libremente los símbolos del amor y la belleza terrenales, se oculta su verdadero significado. Sin duda, esto se hizo originalmente para mantener en secreto su amor místico, para que los profanos no se burlaran. Pero con el tiempo, ciertas palabras empezaron a tener un significado reconocido entre ellos. Por ejemplo:
+Al leer la extasiada poesía de los sufíes, hay que tener presente que, aunque se utilizan <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> libremente los símbolos del amor y la belleza terrenales, se oculta su verdadero significado. Sin duda, esto se hizo originalmente para mantener en secreto su amor místico, para que los profanos no se burlaran. Pero con el tiempo, ciertas palabras empezaron a tener un significado reconocido entre ellos. Por ejemplo:
 
 ABRAZOS y BESOS son raptos de amor.
 
@@ -112,7 +112,7 @@ La MEJILLA significa Esencia divina de nombres y cualidades.
 
 El ABAJO es el mundo de los espíritus puros que está más cerca de la Divinidad.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 El LUNAR en la mejilla es el punto de Unidad indivisible.
 
@@ -122,7 +122,7 @@ Vemos así que para los sufíes el amor entre el hombre y la mujer es una imagen
 
 La historia del misticismo contiene muchas canciones de amor apasionadas al Absoluto, pero en la poesía sufí hay una riqueza peculiar, una profundidad, un color que fascina y encanta a muchos de nosotros.
 
-La poesía sufí abunda en alegorías y romances amorosos, las historias de Laylā y Majnūm, Yūsuf y Zulaikā, Salāmān y Absāl, en las que es fácil leer el significado oculto de la pasión por el Absoluto. Varios son los temas de amor de los sufíes; escuchamos canciones sobre: el ruiseñor enamorado de la rosa, la polilla revoloteando alrededor de la luz de la vela, la paloma gimiente que ha perdido a su pareja, la nieve que se derrite en el desierto y se eleva como vapor hacia el cielo, de una noche oscura en el desierto a través de la cual un camello frenético <span id="p16">[<sup><small>p. 16</small></sup>]</span> se sumerge locamente, de una caña arrancada de su lecho y convertida en flauta cuya música quejumbrosa llena los ojos de lágrimas.  [^0]
+La poesía sufí abunda en alegorías y romances amorosos, las historias de Laylā y Majnūm, Yūsuf y Zulaikā, Salāmān y Absāl, en las que es fácil leer el significado oculto de la pasión por el Absoluto. Varios son los temas de amor de los sufíes; escuchamos canciones sobre: el ruiseñor enamorado de la rosa, la polilla revoloteando alrededor de la luz de la vela, la paloma gimiente que ha perdido a su pareja, la nieve que se derrite en el desierto y se eleva como vapor hacia el cielo, de una noche oscura en el desierto a través de la cual un camello frenético <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> se sumerge locamente, de una caña arrancada de su lecho y convertida en flauta cuya música quejumbrosa llena los ojos de lágrimas.  [^0]
 
 ## EL AMADO
 
@@ -143,7 +143,7 @@ En harapos de mendigo o túnicas de realeza,
 En la celda de la Unión o en lugares de distracción,
 No hay nadie más que Él, por Dios, no hay nadie más que Él.”  [^2]
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Los sufíes se dieron cuenta de que es imposible en términos espaciales describir aquello que está incluso más allá del espíritu puro.
 
@@ -155,7 +155,7 @@ La incapacidad de describir a los no iniciados el amor secreto del místico por 
 
 «Me jactaba entre los hombres de haberte conocido. Ven tu imagen en todas mis obras. Vienen y me preguntan quién es él. No sé cómo responderles. Digo: “De hecho, no lo puedo decir». Me culpan y se van con desprecio. Y tú te sientas allí sonriendo. Puse mis historias sobre ti en canciones duraderas. El secreto brota de mi corazón. Vienen y me preguntan: «Dime todo lo que quieres decir». No sé cómo responderles. Digo: «Ah, quién sabe lo que quieren decir». Sonríen y se van con total desprecio. Y tú te sientas allí sonriendo”. [^4]
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## DE LO IRREAL A LO REAL
 
@@ -170,7 +170,7 @@ Adondequiera que nos volvamos, y plata en el desierto.”
 
 Tan exquisita es la visión del Todo Hermoso que quien haya tenido esta visión se enamora instantáneamente y abandona el mundo de las sombras y el cambio para contemplar al Uno.
 
-No descansará hasta que haya purificado su vida, desechado todo lo que pueda ser un obstáculo en su camino, y pasará toda su vida en comunión con Dios, derramando al mismo tiempo <span id="p19">[<sup><small>p. 19</small></sup>]</span> en cantos de amor y alabanzas todo el culto y adoración de su alma.
+No descansará hasta que haya purificado su vida, desechado todo lo que pueda ser un obstáculo en su camino, y pasará toda su vida en comunión con Dios, derramando al mismo tiempo <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> en cantos de amor y alabanzas todo el culto y adoración de su alma.
 
 “Por Dios, el sol nunca salía ni se ponía sin que Tú estuvieras
 El deseo de mi corazón y mi sueño.
@@ -195,7 +195,7 @@ Pasando por un mundo de sombras, fija su mirada en la Eternidad; los acontecimie
 
 El amor terrenal parece inútil, insípido y aburrido, comparado con su ardiente devoción por el Inmutable.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Él tiene un deseo, un objetivo, una meta: alcanzar la dicha que ha tocado brevemente en raros momentos de éxtasis y rapto.
 
@@ -209,7 +209,7 @@ Sus torretas de diamante se elevan como un sueño.
 
 Ya he dicho que se sabe poco de la vida de Shabistarī, pero de su erudición y conocimiento del sufismo hay amplia evidencia en este libro; y aunque no encanta con la sutil fascinación de Hafiz, aunque no tiene la originalidad de Rūmī ni en estilo puede compararse con la elegancia de Jāmī, sin embargo en sencillez y franqueza de discurso, y en seriedad de propósito, tal vez los supera a todos. Nos da una visión clara y brillante bajo un sol brillante de la Virtud y el Vicio, la Realidad y la Ilusión, la Sabiduría y la Ignorancia.
 
-No nos encontramos en el crepúsculo de una tierra de colores débiles donde a veces vagamos, atraídos por las dulces voces de los sufíes, donde, en medio de los delicados perfumes de un jardín oriental, el amante está cantando <span id="p21">[<sup><small>p. 21</small></sup>]</span> fascinantes canciones de amor, ya sea de pasión terrenal o de embriaguez divina, sigue siendo un tema de acalorada controversia hasta el día de hoy.
+No nos encontramos en el crepúsculo de una tierra de colores débiles donde a veces vagamos, atraídos por las dulces voces de los sufíes, donde, en medio de los delicados perfumes de un jardín oriental, el amante está cantando <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> fascinantes canciones de amor, ya sea de pasión terrenal o de embriaguez divina, sigue siendo un tema de acalorada controversia hasta el día de hoy.
 
 Tampoco se nos da un consejo tan atrevido como el que da Jāmī cuando canta:
 
@@ -222,7 +222,7 @@ Hace un apasionado llamado a la humanidad a buscar la Verdad, a desear la sustan
 
 ## EL JARDÍN DE ROSAS SECRETO
 
-Han pasado casi setecientos años desde que Mahmūd plantó su jardín con rosas de Amor y Adoración, de Razón y de Iluminación espiritual. Desde entonces, muchos han vagado por allí, demorándose en los senderos secretos y arrancando <span id="p22">[<sup><small>p. 22</small></sup>]</span> las flores perfumadas para llevarlas de vuelta al mundo de las sombras y la irrealidad. ¿Cuál es el color inmarcesible de estas Rosas? ¿Cuál es la gracia duradera de su forma y qué esencia perfumada de ellas perdura a través de los siglos?
+Han pasado casi setecientos años desde que Mahmūd plantó su jardín con rosas de Amor y Adoración, de Razón y de Iluminación espiritual. Desde entonces, muchos han vagado por allí, demorándose en los senderos secretos y arrancando <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> las flores perfumadas para llevarlas de vuelta al mundo de las sombras y la irrealidad. ¿Cuál es el color inmarcesible de estas Rosas? ¿Cuál es la gracia duradera de su forma y qué esencia perfumada de ellas perdura a través de los siglos?
 
 El poema comienza con la afirmación de la existencia única del Ser Único y Real, y de la ilusión del espejismo de este mundo. ¿Cómo puede el hombre llegar al conocimiento de Dios? Por medio del pensamiento, pues...
 
@@ -235,7 +235,7 @@ La asombrosa belleza del rostro del Amado.”
 
 Y estos átomos siempre están ansiando volver a unirse a su fuente.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 El viaje hacia el Amado tiene sólo dos etapas: morir a sí mismo y unirse con la Verdad.
 
@@ -249,7 +249,7 @@ Este es el estado santo de los santos y profetas.
 
 Pero el hombre no debe descansar en esta unión divina. Debe regresar a este mundo de irrealidad y en el viaje descendente debe mantener las leyes y credos ordinarios de los hombres.
 
-Esta existencia fenomenal, es decir, el No-ser, es una ilusión que se ejemplifica al considerar la irrealidad de los ecos y los reflejos y al reflexionar sobre el tiempo <span id="p24">[<sup><small>p. 24</small></sup>]</span> pasado y futuro, y sobre los acontecimientos que pasan, que parecen en el momento de su existencia ser real, pero que al desvanecerse en el pasado se vuelven vagos y sombríos.
+Esta existencia fenomenal, es decir, el No-ser, es una ilusión que se ejemplifica al considerar la irrealidad de los ecos y los reflejos y al reflexionar sobre el tiempo <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> pasado y futuro, y sobre los acontecimientos que pasan, que parecen en el momento de su existencia ser real, pero que al desvanecerse en el pasado se vuelven vagos y sombríos.
 
 Las disposiciones adquiridas por el hombre en esta vida se manifestarán en el mundo venidero en cuerpos espirituales; cada forma será apropiada a su vida pasada. La idea material del Paraíso y de las huríes será entonces conocida como un cuento vano. Ninguna cualidad o distinción quedará para la voluntad perfecta. Bebe entonces de la copa de la unión con Dios.
 
@@ -259,7 +259,7 @@ Tal es la esperanza de los sufíes, pero en este mundo la embriaguez de la copa 
 
 Mahmūd ha plantado alrededor de su jardín estas rosas de la Razón, la Creencia, el Conocimiento y la Fe; están floreciendo por todas partes, hermosas en su vívido colorido de Verdad y Pureza. Pero es en el centro donde encontramos un Rosal de gloria inigualable, resplandeciente con las flores de la devoción del amor; este es el árbol que Mahmūd plantó con toda la adoración de su corazón: la descripción del rostro perfecto del Amado.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Es en este lugar donde esperamos embelesados, y a través de la quietud mística nos parece oír la voz de aquel que, hace mucho tiempo por amor, plantó este rosal, haciendo eco de su sublime expresión:
 

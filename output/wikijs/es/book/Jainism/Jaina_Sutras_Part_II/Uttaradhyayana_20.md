@@ -78,7 +78,7 @@ Cuando el santo dirigió estas palabras sin precedentes al rey, quien quedó pro
 
 “Me dolían los ojos como si un enemigo cruel me hubiera clavado una herramienta afilada en el hueco del cuerpo. (20)
 
-En la espalda, el corazón [^269] y la cabeza, sufrí <span id="p103">[<sup><small>p. 103</small></sup>]</span> dolores terribles y muy agudos, iguales a un rayo. (21)
+En la espalda, el corazón [^269] y la cabeza, sufrí <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> dolores terribles y muy agudos, iguales a un rayo. (21)
 
 “Entonces vinieron en mi ayuda los mejores médicos, que curan con su arte médico y con hechizos, que eran versados ​​en su ciencia y conocían bien los hechizos y las raíces. (22)
 
@@ -118,7 +118,7 @@ Pero aún hay otra falta de protección, oh rey; escucha, por tanto, oh rey, ate
 
 “Si un monje ordenado, por descuido, no cumple estrictamente los grandes votos, si no se refrena, sino que desea el placer, entonces sus ataduras no se romperán por completo. (39)
 
-Quien no presta atención constante a su andar, a su hablar, a su mendicidad, a su recibir y guardar (las cosas necesarias para un monje), y a su <span id="p105">[<sup><small>p. 105</small></sup>]</span> naturaleza acomodada [^274], no sigue el camino trazado por el Señor. (40)
+Quien no presta atención constante a su andar, a su hablar, a su mendicidad, a su recibir y guardar (las cosas necesarias para un monje), y a su <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> naturaleza acomodada [^274], no sigue el camino trazado por el Señor. (40)
 
 Quien durante mucho tiempo lleva una corona rapada y se mortifica, pero es descuidado con respecto a los votos y descuida la penitencia y el autocontrol, no será un vencedor en la batalla (de la vida). (4t)
 
@@ -130,7 +130,7 @@ Quien durante mucho tiempo lleva una corona rapada y se mortifica, pero es descu
 
 “Quien practica la adivinación a partir de marcas corporales y sueños, quien es versado en augurios y ritos supersticiosos, quien se gana la vida pecaminosamente practicando trucos de magia [^278], no tendrá refugio en el momento (de la retribución). (45)
 
-El pecador, siempre desdichado, va de la oscuridad <span id="p106">[<sup><small>p. 106</small></sup>]</span> a la oscuridad, a la miseria absoluta; el impío que rompe las reglas de los monjes se precipita, por así decirlo, al infierno, para renacer como un animal. (46)
+El pecador, siempre desdichado, va de la oscuridad <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> a la oscuridad, a la miseria absoluta; el impío que rompe las reglas de los monjes se precipita, por así decirlo, al infierno, para renacer como un animal. (46)
 
 “Quien acepta limosnas prohibidas, es decir, la comida que él mismo pide, que se ha comprado para su beneficio, o que recibe regularmente (como por derecho y costumbre), quien como el fuego lo devora todo, irá al infierno desde aquí, después de haber pecado. (47)
 

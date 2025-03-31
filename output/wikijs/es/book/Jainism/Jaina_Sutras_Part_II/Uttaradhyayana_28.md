@@ -58,7 +58,7 @@ La característica del tiempo es la duración [^401], la del alma la realizació
 
 La característica del Alma es el conocimiento, la fe, la conducta, las austeridades, la energía y la realización (de sus desarrollos). (11)
 
-Las características de la materia son el sonido, la oscuridad, el <span id="p154">[<sup><small>p. 154</small></sup>]</span> brillo (de joyas, etc.), la luz, la sombra, la luz del sol; el color, el sabor, el olor y el tacto. (12)
+Las características de la materia son el sonido, la oscuridad, el <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> brillo (de joyas, etc.), la luz, la sombra, la luz del sol; el color, el sabor, el olor y el tacto. (12)
 
 Las características del desarrollo son la unicidad, la separación [^403], el número, la forma, la conjunción y la disyunción. (13)
 
@@ -70,7 +70,7 @@ II. La fe se produce por: 1. nisarga, naturaleza; 2. upadê<i>s</i>a, instrucci�
 
 1\. Quien verdaderamente comprende, mediante un esfuerzo espontáneo de su mente [^404], (la naturaleza del) alma, las cosas inanimadas, el mérito y el demérito, y quien pone fin a las influencias pecaminosas [^405], (cree por) naturaleza. (17)
 
-Quien cree espontáneamente en las cuatro verdades (mencionadas explícitamente en el último verso), que las <span id="p155">[<sup><small>p. 155</small></sup>]</span> <i>G</i>inas</i> han enseñado, (pensando) que son de esta y no de otra naturaleza, cree por naturaleza. (18)
+Quien cree espontáneamente en las cuatro verdades (mencionadas explícitamente en el último verso), que las <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> <i>G</i>inas</i> han enseñado, (pensando) que son de esta y no de otra naturaleza, cree por naturaleza. (18)
 
 2\. Pero quien cree en estas verdades, habiéndolas aprendido de alguien más, ya sea un <i>Kh</i>admastha [^406] o un <i>G</i>ina, cree por instrucción. (19)
 
@@ -84,7 +84,7 @@ Quien cree espontáneamente en las cuatro verdades (mencionadas explícitamente 
 
 7\. Quien comprende la verdadera naturaleza de todas las sustancias mediante todas las pruebas (pramâ<i>n</i>a) y nayas [^409], cree mediante un curso completo de estudio. (24)
 
-8\. Quien cumple sinceramente (todos los deberes implicados) <span id="p156">[<sup><small>p. 156</small></sup>]</span> mediante el conocimiento, la fe y la conducta correctos, el ascetismo y la disciplina, y mediante todos los Samitis y Guptis, cree mediante el ejercicio religioso. (25)
+8\. Quien cumple sinceramente (todos los deberes implicados) <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> mediante el conocimiento, la fe y la conducta correctos, el ascetismo y la disciplina, y mediante todos los Samitis y Guptis, cree mediante el ejercicio religioso. (25)
 
 9\. Quien, aunque no sea versado en las doctrinas sagradas [^410] ni esté familiarizado con otros sistemas [^411], no sostiene doctrinas erróneas, cree mediante una breve exposición. (26)
 

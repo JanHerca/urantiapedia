@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/06700.jpg) ¡HOLA! —Despierta, dulce doncella, y trae nuestro trago matutino en tu copa espaciosa; no permitas que los ricos vinos de Enderein sean almacenados por más tiempo:
 
@@ -52,7 +52,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 9\. Seguramente nuestra hora asignada del destino nos alcanzará; ya que estamos destinados a la muerte, y la muerte a nosotros.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 10\. Oh, espera un momento, antes de que nos separemos, oh hermosa jinete de camellos, para que podamos contarte nuestras penas, y tú a nosotros tus deleites!
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. Que nuestros días de prosperidad, en los que nos hemos negado a obedecer las órdenes de los reyes, han sido largos y brillantes.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 27\. Muchos jefes de su nación, sobre los cuales se ha colocado la diadema real, refugio de quienes imploraron su protección,
 
@@ -110,7 +110,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 35\. Seguramente odio tras odio se manifiesta por ti, ¡oh jefe hostil! y tu rencor secreto ha sido revelado:
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 36\. Pero nosotros hemos heredado la gloria, como bien sabe la raza de Maad; hemos luchado con valor hasta que nuestra fama ha sido ilustre.
 
@@ -130,7 +130,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 44\. Nuestras cimitarras, cuyos golpes se intercambian furiosamente, son tan poco consideradas por nosotros como fajas retorcidas en las manos de niños juguetones.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 45\. Su armadura y la nuestra, teñidas recíprocamente con nuestra sangre, parece estar teñida o pintada con el jugo de la flor carmesí de la jeringuilla.
 
@@ -152,7 +152,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 54\. ¡Oh, que ningún pueblo se encapriche y sea violento contra nosotros; porque nosotros pagaremos su encaprichamiento, que supera la locura de los más tontos!
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 55\. ¿Con qué pretexto, oh Amru, hijo de Hinda, deberíamos estar sujetos al soberano que tú quieres poner sobre nosotros?
 
@@ -174,7 +174,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 64\. De Attab también y de Celthum hemos recibido la herencia transmitida de sus progenitores.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 65\. Por Dhu'lborra, de cuya fama has oído hablar, hemos sido protegidos; y a través de él protegemos a quienes buscan nuestra ayuda.
 
@@ -194,7 +194,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 73\. Nosotros socorrimos al ala derecha, cuando nuestras tropas entraron en combate, y nuestros valientes hermanos dieron apoyo a la izquierda.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 74\. Hicieron un feroz ataque contra las legiones que se les oponían, y nosotros no menos ferozmente atacamos a los escuadrones que nos oponían.
 
@@ -214,7 +214,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 82\. En la mañana del ataque, nos llevan al campo en corceles de pelo corto, que conocemos desde el momento en que los destetamos, y que rescatamos de nuestros enemigos después de que los habían capturado.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 83.\* Se lanzan a la lucha, armados con corazas de acero; salen de ella con sus melenas despeinadas y polvorientas, y las riendas, atadas en nudos, descansan sobre sus cuellos.
 
@@ -236,7 +236,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 92\. Detrás de nosotros vienen nuestras hermosas, nuestras encantadoras doncellas, a quienes guardamos tan vigilantemente que no pueden ser cautivadas, o incluso tratadas con falta de respeto:
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 93\. Bellas doncellas, descendientes de Josham, hijo de Becr, que comprenden todas las especies de belleza, tanto en la opinión de los hombres como en verdad.
 
@@ -256,7 +256,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 101.\* Parece que, cuando desplegamos nuestras cimitarras, protegemos a la humanidad, como los padres protegen a sus hijos.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 102.\* Nuestros héroes hacen rodar las cabezas de sus enemigos, como los jóvenes fuertes y bien formados hacen rodar sus pelotas en el valle liso.
 

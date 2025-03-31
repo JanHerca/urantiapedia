@@ -68,7 +68,7 @@ Cuando los sacerdotes fallaban en sus deberes o en su ejemplo, el Báb hablaba d
 
 La superchería sacerdotal, respaldada por la acción gubernamental, acusó al profeta y al pueblo de intentar derrocar la religión y el orden. El miedo se apoderó de quienes, ejerciendo y abusando de la autoridad del Estado, no podían o no querían comprender a estos hombres que anhelaban la autoridad de Dios.
 
-Estos últimos buscaban entrar al cielo; <span id="p21">[<sup><small>p. 21</small></sup>]</span> los primeros sospechaban que intentaban imponer su propia voluntad en desafío al Sha y al Islam.
+Estos últimos buscaban entrar al cielo; <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> los primeros sospechaban que intentaban imponer su propia voluntad en desafío al Sha y al Islam.
 
 A la descortesía le siguió el abuso, al abuso la persecución, y a la persecución el despojo y la ejecución.
 
@@ -78,13 +78,13 @@ Durante dos años, el Báb había trabajado y enseñado. El tema de su enseñanz
 
 La autoridad clerical y constituida se opuso vehementemente a él. Fue acusado, tarea nada difícil en semejante país y en tales circunstancias. A continuación, fue encarcelado durante cuatro años. Durante este período, a pesar de la preocupación por sus numerosos amigos —impulsado quizás en parte por esa preocupación; sin duda impulsado por la inspiración de trabajar por el pueblo mientras viviera—, escribió numerosas epístolas y exhortaciones.
 
-Su cuidado por su rebaño abarcaba tanto sus actividades diarias como su bienestar eterno. Era literalmente su «Padre en Dios», considerando todo su entorno y todas sus dificultades <span id="p22">[<sup><small>p. 22</small></sup>]</span> y guiándolos para vivir en este mundo de tal manera que se prepararan plenamente para la vida eterna venidera.
+Su cuidado por su rebaño abarcaba tanto sus actividades diarias como su bienestar eterno. Era literalmente su «Padre en Dios», considerando todo su entorno y todas sus dificultades <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> y guiándolos para vivir en este mundo de tal manera que se prepararan plenamente para la vida eterna venidera.
 
 Algunas de las epístolas llegaron a un país y otras a otro; y mientras su autor estuvo en prisión por motivos de conciencia, sus palabras se difundieron ampliamente. Los lectores de la mayoría de los países ya conocían algo de la obra de este ferviente y devoto reformador.
 
 La institución de un "grupo" contribuyó en gran medida a fortalecer y ampliar su influencia. Estaba compuesto por dieciocho de sus primeros discípulos. Los describió —incluyéndose a sí mismo— como "El Punto", "Las Diecinueve Letras de los Vivientes". Estas personas escogidas recibieron instrucciones detalladas sobre cómo instruir a otros y cómo controlar y promover la reforma del alma y la conducta que el Báb se esforzaba por inducir entre sus amados persas. Encargó especialmente a estos dieciocho que prepararan el camino y estuvieran siempre listos para recibir a Aquel que estaba a punto de aparecer; Aquel a quien Dios "manifestaría". El momento de la venida de este Designado fue dado. Que Él vendría con seguridad, el Báb nunca dudó en absoluto. Cuando viniera, sería reconocido como un "Gran Maestro", que "mostraría señales de poder y fuerza divinos"; es más, "mediante sus enseñanzas se establecería la unidad divina de la humanidad".
 
-Tal vez no se pueda poner demasiado énfasis <span id="p23">[<sup><small>p. 23</small></sup>]</span> en la insistencia del Báb en la venida de Aquel que abriría y aumentaría el camino y el fin de su piadoso designio.
+Tal vez no se pueda poner demasiado énfasis <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> en la insistencia del Báb en la venida de Aquel que abriría y aumentaría el camino y el fin de su piadoso designio.
 
 El mensaje personal del Báb estaba, por así decirlo, pensado para las necesidades inmediatas de su tiempo. La Luz que iluminaría no solo a los persas, sino a los hijos de la humanidad en general, inauguraría un nuevo orden de cosas, regenerando todo.
 

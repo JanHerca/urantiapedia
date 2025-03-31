@@ -44,7 +44,7 @@ CUARTO ADHYÂYA.
 
 3\. A ​​continuación viene (de nuevo) el verso de Sûdadohas. Sûdadohas es aliento, y por ello une todas las articulaciones con el aliento.
 
-4\. A continuación sigue la cabeza. Esta se encuentra en los versos del Gayatri. El Gayatri es el comienzo de todas las métricas [^462]; la cabeza, el primero de todos los miembros. Se encuentra en los versos de Arkavat (Rv. I, 7, 1-9) [^463]. Arka es Agni. Son nueve versos. La cabeza consta de nueve partes. Recita el décimo verso, que representa la piel y el cabello de la cabeza. Sirve para recitar un verso más que (los nueve versos contenidos en) el Estoma [^464]. <span id="p188">[<sup><small>p. 188</small></sup>]</span> Estos forman el Estoma Trivrit y la métrica del Gayatri, y todo lo que existe, todo esto se produce después de la producción de este Estoma y esta métrica. Por lo tanto, la recitación de estos himnos de cabeza sirve para la producción.
+4\. A continuación sigue la cabeza. Esta se encuentra en los versos del Gayatri. El Gayatri es el comienzo de todas las métricas [^462]; la cabeza, el primero de todos los miembros. Se encuentra en los versos de Arkavat (Rv. I, 7, 1-9) [^463]. Arka es Agni. Son nueve versos. La cabeza consta de nueve partes. Recita el décimo verso, que representa la piel y el cabello de la cabeza. Sirve para recitar un verso más que (los nueve versos contenidos en) el Estoma [^464]. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> Estos forman el Estoma Trivrit y la métrica del Gayatri, y todo lo que existe, todo esto se produce después de la producción de este Estoma y esta métrica. Por lo tanto, la recitación de estos himnos de cabeza sirve para la producción.
 
 5\. El que sabe esto, tendrá descendencia y ganado.
 
@@ -62,11 +62,11 @@ CUARTO ADHYÂYA.
 
 2\. A continuación viene el verso de Sûdadohas. Sûdadohas es aliento, por lo que une todas las articulaciones con el aliento.
 
-3\. A ​​continuación sigue el ala izquierda. Es ese mundo (cielo), es ese sol, es la mente, es el Brihat, es <span id="p190">[<sup><small>p. 190</small></sup>]</span> a, es cien [^469]. Estos son los seis poderes (del ala izquierda). El himno Sampata (Rv. IV, 23) sirve, sin duda, para satisfacer los deseos y para la firmeza. El verso Paṅkti (Rv. I, 81, 1) sirve para la alimentación adecuada.
+3\. A ​​continuación sigue el ala izquierda. Es ese mundo (cielo), es ese sol, es la mente, es el Brihat, es <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> a, es cien [^469]. Estos son los seis poderes (del ala izquierda). El himno Sampata (Rv. IV, 23) sirve, sin duda, para satisfacer los deseos y para la firmeza. El verso Paṅkti (Rv. I, 81, 1) sirve para la alimentación adecuada.
 
 4\. Estas dos (las alas derecha e izquierda) son deficientes y excesivas [^470]. El Brihat (ala izquierda) es el hombre, el Rathantara (ala derecha) es la mujer. El exceso pertenece al hombre, la deficiencia a la mujer. Por lo tanto, son deficientes y excesivas.
 
-5\. Ahora bien, el ala izquierda de un pájaro es ciertamente mejor por una pluma, por lo tanto, el ala izquierda es más grande por un verso. <span id="p191">[<sup><small>p. 191</small></sup>]</span> 6\. A continuación viene el verso de Sûdadohas. Sûdadohas es aliento, y por ello une todas las articulaciones con el aliento.
+5\. Ahora bien, el ala izquierda de un pájaro es ciertamente mejor por una pluma, por lo tanto, el ala izquierda es más grande por un verso. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 6\. A continuación viene el verso de Sûdadohas. Sûdadohas es aliento, y por ello une todas las articulaciones con el aliento.
 
 7\. A continuación sigue la cola. Son veintiún versos Dvipadā [^471]. Pues hay veintiuna plumas hacia atrás en un ave.
 
@@ -76,7 +76,7 @@ CUARTO ADHYÂYA.
 
 10\. Él (el pájaro y el himno) se sostiene por dos décadas que son Virâ<i>g</i>. El hombre (el sacrificador) se sostiene por los dos Dvipadâs, el vigésimo primero y el vigésimo segundo. Lo que forma al pájaro sirve para la consecución de todos los deseos; lo que forma al hombre, sirve para su felicidad, gloria, alimento adecuado y honor.
 
-11\. A continuación viene un verso de Sûdadohas, luego un Dhayyâ, y luego otro verso de Sûdadohas. El Sûdadohas es un hombre, la Dhayyâ una mujer; por lo tanto, recita el Dhayyâ como si ambos Sûdadohas lo abrazaran. Por lo tanto, la semilla de ambos, al efluir, alcanza la unidad, y esto solo con respecto a la <span id="p192">[<sup><small>p. 192</small></sup>]</span> mujer. Por lo tanto, el nacimiento ocurre en y desde la mujer. Por lo tanto, recita ese Dhayyâ en ese lugar [1](Aranyaka_1_4#fn473).
+11\. A continuación viene un verso de Sûdadohas, luego un Dhayyâ, y luego otro verso de Sûdadohas. El Sûdadohas es un hombre, la Dhayyâ una mujer; por lo tanto, recita el Dhayyâ como si ambos Sûdadohas lo abrazaran. Por lo tanto, la semilla de ambos, al efluir, alcanza la unidad, y esto solo con respecto a la <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> mujer. Por lo tanto, el nacimiento ocurre en y desde la mujer. Por lo tanto, recita ese Dhayyâ en ese lugar [1](Aranyaka_1_4#fn473).
 
 ## TERCER KHA<i>N</i><i>D</i>A.
 

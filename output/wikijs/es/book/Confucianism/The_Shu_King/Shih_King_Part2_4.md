@@ -42,7 +42,7 @@ Un oficial, mantenido mucho tiempo en el extranjero en servicio a distancia, ape
 
 ¡Oh Cielo brillante y alto, que iluminas y gobiernas este mundo inferior! Marché en esta expedición hacia el oeste, hasta este desierto de Khiû. Desde el primer día del segundo mes, he pasado por el frío y el calor. Mi corazón está triste; el veneno (de mi suerte) es demasiado amargo. Pienso en aquellos (en la corte) en sus cargos, y mis lágrimas fluyen como la lluvia. ¿No deseo regresar? Pero temo la red del crimen.
 
-¡Ah!, caballeros, no cuenten con que su descanso <span id="p365">[<sup><small>p. 365</small></sup>]</span> sea permanente. Cumplan con calma los deberes de sus cargos, relacionándose con los correctos y rectos; así los espíritus los escucharán y les darán el bien.
+¡Ah!, caballeros, no cuenten con que su descanso <span id="p365"><sup><small>[ p. 365 ]</small></sup></span> sea permanente. Cumplan con calma los deberes de sus cargos, relacionándose con los correctos y rectos; así los espíritus los escucharán y les darán el bien.
 
 ¡Ah!, caballeros, no cuenten con que su reposo sea permanente. Cumplan con serenidad sus deberes, amando lo correcto y lo recto; así los espíritus los escucharán y les brindarán abundante felicidad.
 
@@ -60,7 +60,7 @@ El tribulus crecía espeso (en el suelo), pero despejaron sus arbustos espinosos
 
 Con un comportamiento correcto y reverente, puros los toros y carneros, procedemos a los sacrificios de invierno y otoño. Algunos desuellan a las víctimas; otros cocinan su carne; algunos preparan la carne; otros ajustan los trozos. El oficiante de oración sacrifica dentro de la puerta del templo [^438], y todo el servicio sacrificial es completo y brillante. Nuestros progenitores llegan majestuosamente; sus espíritus disfrutan con alegría de las ofrendas; su descendiente filial recibe la bendición: lo recompensarán con gran felicidad, con miríadas de años, vida eterna.
 
-Atienden los hornos con reverencia; preparan las bandejas, que son muy grandes; algunas para la carne asada, otras para la parrilla. Las esposas que presiden, se mantienen quietas y reverentes [^439], preparando los numerosos platos (más pequeños). Los invitados y visitantes [^440] presentan la copa a todos [^441]. Cada forma se ajusta a la regla; cada sonrisa y cada palabra son como deben ser. Los espíritus acuden en silencio y responden <span id="p367">[<sup><small>p. 367</small></sup>]</span> con grandes bendiciones, con miríadas de años como la (adecuada) recompensa.
+Atienden los hornos con reverencia; preparan las bandejas, que son muy grandes; algunas para la carne asada, otras para la parrilla. Las esposas que presiden, se mantienen quietas y reverentes [^439], preparando los numerosos platos (más pequeños). Los invitados y visitantes [^440] presentan la copa a todos [^441]. Cada forma se ajusta a la regla; cada sonrisa y cada palabra son como deben ser. Los espíritus acuden en silencio y responden <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> con grandes bendiciones, con miríadas de años como la (adecuada) recompensa.
 
 Estamos muy exhaustos, y hemos realizado cada ceremonia sin error. El hábil oficiante de oración anuncia (la voluntad de los espíritus) [^442]. Y se dirige al descendiente filial para transmitirla [^442]: —Fragante ha sido tu sacrificio filial, y los espíritus han disfrutado de tus espíritus y viandas. Te confieren cien bendiciones; cada una como se desea, cada una tan segura como la ley. Has sido preciso y diligente; has sido correcto y cuidadoso; siempre te conferirán los favores más selectos, en miríadas y decenas de miríadas.
 
@@ -74,7 +74,7 @@ Todos los músicos entran a tocar y ofrecen su ayuda tranquilizadora en la segun
 
 LA CRÍA SE REMONTA A SU PRIMER AUTOR; DETALLES SOBRE ELLA, PASANDO AL TEMA DE LOS SACRIFICIOS A LOS ANTEPASADOS.
 
-El prefacio refiere esta pieza al reinado del rey Yû; pero no hay nada en ella que sugiera que se compuso en una época de desorden y desgobierno. «El descendiente lejano» de la primera estrofa es evidentemente el principal responsable del sacrificio de las dos últimas estrofas: según Kû, un noble o gran terrateniente del reino; según otros, alguno de los reyes de Kâu. Me inclino por esta última opinión. Las tres piezas, <span id="p369">[<sup><small>p. 369</small></sup>]</span> de las cuales esta es la del medio, parecen ser todas odas reales. La mención de «la colina del sur» confirma firmemente esta opinión.
+El prefacio refiere esta pieza al reinado del rey Yû; pero no hay nada en ella que sugiera que se compuso en una época de desorden y desgobierno. «El descendiente lejano» de la primera estrofa es evidentemente el principal responsable del sacrificio de las dos últimas estrofas: según Kû, un noble o gran terrateniente del reino; según otros, alguno de los reyes de Kâu. Me inclino por esta última opinión. Las tres piezas, <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> de las cuales esta es la del medio, parecen ser todas odas reales. La mención de «la colina del sur» confirma firmemente esta opinión.
 
 Sí, esa colina del sur fue manejable gracias a Yü [^449]. Al abrirse sus llanuras y pantanos, el descendiente lejano la convirtió en campos. Definimos sus límites, formamos sus divisiones más pequeñas y dispusimos los acres, aquí al sur, allá al este.
 
@@ -82,7 +82,7 @@ El cielo es un arco de nubes, que nieva en multitud de copos; a esto se suma la 
 
 Los límites y las divisiones menores están perfectamente definidos, y el mijo produce abundantes cosechas, la cosecha del descendiente lejano. Procedemos a elaborar con ello licores y alimentos para abastecer a nuestros representantes de los difuntos y a nuestros invitados; para obtener una larga vida que se extienda por miríadas de años.
 
-En medio de los campos están las chozas [^450], y <span id="p370">[<sup><small>p. 370</small></sup>]</span> a lo largo de las divisiones que los delimitan, calabazas. La fruta se corta y se encurte para obsequiarla a nuestros antepasados, para que sus descendientes lejanos tengan una larga vida y reciban la bendición del Cielo [^451].
+En medio de los campos están las chozas [^450], y <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> a lo largo de las divisiones que los delimitan, calabazas. La fruta se corta y se encurte para obsequiarla a nuestros antepasados, para que sus descendientes lejanos tengan una larga vida y reciban la bendición del Cielo [^451].
 
 Sacrificamos (primero) con espíritus claros, Y luego seguimos con un toro rojo; Ofreciéndolos a nuestros antepasados, (Nuestro señor) sostiene el cuchillo con campanillas tintineantes, Para abrir el cabello de la víctima, Y toma la sangre y la grasa [^452].
 
@@ -96,7 +96,7 @@ IMÁGENES DE LA GESTIÓN Y LOS SACRIFICIOS RELACIONADOS CON ELLA. FELIZ ENTENDIM
 
 Es difícil determinar quién es el «yo» de la pieza, pero evidentemente él y el «descendiente lejano» son personas distintas. Supongo que pudo haber sido un oficial encargado de las granjas, como podríamos llamarlas, en el dominio real.
 
-Brillantes son esos extensos campos, de cuya producción se recauda anualmente una décima parte [^453]. Tomo las viejas provisiones <span id="p371">[<sup><small>p. 371</small></sup>]</span> y con ellas alimento a los labradores. Desde tiempos inmemoriales hemos tenido buenos años; y ahora voy a las hectáreas del sur, donde algunos están desherbando y otros juntando la tierra alrededor de las raíces. Los mijos lucen exuberantes; y en un espacioso lugar de descanso, reúno y animo a los hombres de mayor potencial [^454].
+Brillantes son esos extensos campos, de cuya producción se recauda anualmente una décima parte [^453]. Tomo las viejas provisiones <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> y con ellas alimento a los labradores. Desde tiempos inmemoriales hemos tenido buenos años; y ahora voy a las hectáreas del sur, donde algunos están desherbando y otros juntando la tierra alrededor de las raíces. Los mijos lucen exuberantes; y en un espacioso lugar de descanso, reúno y animo a los hombres de mayor potencial [^454].
 
 Con mis vasijas llenas de mijo brillante y mis carneros puros, sacrificamos en el altar de los espíritus de la tierra y en los altares de los cuatro puntos cardinales [^455]. Que mis campos estén en tan buen estado es motivo de alegría para los agricultores. Con laúdes y tambores, invocaremos al Padre de la Agricultura [^456] y pediremos lluvias dulces, para aumentar la producción de nuestros mijos y bendecir a mis hombres y sus esposas.
 

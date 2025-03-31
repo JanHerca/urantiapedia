@@ -39,7 +39,7 @@ Abreviatura de las palabras hebreas «En el nombre de Dios haremos y prosperarem
 
 Libra de las ataduras a Bambina, hija de Rena, para alabar Tu Nombre, y que los méritos de los Patriarcas la protejan. A.N.S.V. (iniciales de las palabras ‘Amén, Netzach, Tselah, Vaad).
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 En el Nombre del Altísimo y la Causa de todas las Causas, el Exaltado El Jah, el Dios de Israel, Yo soy el que soy, Alto y Exaltado, el Morador en la Eternidad; Cuyo nombre es Santo; Y en el Nombre del Todopoderoso de Sabaoth, Señor de Señores, Viviente y Existente por las Eras eternas. Amén, Selah. Y en el nombre de HVHY (es decir, el tetragrámaton).
 
@@ -53,7 +53,7 @@ PI. JH. VH. JHVH. EHYEH. AH. ASHER. HV. GH. VH.
 
 Kinbija. Baduomfiel. Beduftiel.
 
-«Shaddyam» (que probablemente significa poder del mar). Y por el poder de todos los nombres sagrados y sellos escritos en este amuleto, <span id="p320">[<sup><small>p. 320</small></sup>]</span> conjuro a todos los poderes malignos, espíritus malignos, poderes impuros y todo tipo de plagas que molestan a los seres humanos a que se alejen y teman a la portadora de este amuleto, y a que no se acerquen a ella, ni se acerquen a una distancia de cuatro codos de ella; ni la molesten de ninguna manera, ni de día ni de noche, cuando esté despierta o cuando esté soñando. Que obtenga una cura perfecta de todas las enfermedades malignas que hay en el mundo, y de la epilepsia, convulsiones, askara, parálisis, dolor de cabeza, mente nublada, opresión y palpitaciones del corazón, y de toda esclavitud y brujería, miedo y vejación, temblor, sobresalto, excitación, enfermedades del útero, imaginaciones y visiones malignas, diablos y demonios masculinos o femeninos, y todas las heridas; y de Millelin, y Letlin, y todos los espíritus malignos y otros poderes ocultos, y poderes impuros, una cura perfecta, liberación y escudo de todas las enfermedades malignas existentes en el mundo de ahora en adelante y para siempre. Y por el poder de:
+«Shaddyam» (que probablemente significa poder del mar). Y por el poder de todos los nombres sagrados y sellos escritos en este amuleto, <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> conjuro a todos los poderes malignos, espíritus malignos, poderes impuros y todo tipo de plagas que molestan a los seres humanos a que se alejen y teman a la portadora de este amuleto, y a que no se acerquen a ella, ni se acerquen a una distancia de cuatro codos de ella; ni la molesten de ninguna manera, ni de día ni de noche, cuando esté despierta o cuando esté soñando. Que obtenga una cura perfecta de todas las enfermedades malignas que hay en el mundo, y de la epilepsia, convulsiones, askara, parálisis, dolor de cabeza, mente nublada, opresión y palpitaciones del corazón, y de toda esclavitud y brujería, miedo y vejación, temblor, sobresalto, excitación, enfermedades del útero, imaginaciones y visiones malignas, diablos y demonios masculinos o femeninos, y todas las heridas; y de Millelin, y Letlin, y todos los espíritus malignos y otros poderes ocultos, y poderes impuros, una cura perfecta, liberación y escudo de todas las enfermedades malignas existentes en el mundo de ahora en adelante y para siempre. Y por el poder de:
 
 RVI. ASHA. VVTZ. TCHM. TRV. HSHT. ILICH. Y por el poder y la influencia de VDA. HVI. SISH. IMI. RTZM. TRM. HTB. VMCH. HHV. MRN. MAT. CIN. CMM. LAB. KHSCH. LRL. TTSH. VDN. Káá. LTI. MLCH. todo esto será establecido y confirmado para el portador de este amuleto. Así sea, Amén.
 
@@ -75,7 +75,7 @@ Una cura perfecta, liberación y escudo de toda esclavitud y brujería de ahora 
 
 2\. Al escribir amuletos, etc., nunca se menciona el nombre del padre. La razón alegada es el ejemplo del salmista que ora: «Oh Señor, verdaderamente soy tu siervo; tu siervo y el hijo de tu sierva».
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 3\. No es el objeto de este trabajo tratar exhaustivamente la cuestión de la angelología y demonología judía y oriental, amuletos, etc. Se puede obtener mucha información interesante sobre estos y otros temas afines de las siguientes obras en inglés.
 
@@ -89,7 +89,7 @@ Lane's, «Modern Egyptians», vol. i. págs. 300, 306, 317, 338, 361. vol. ii. p
 
 5\. La creencia en el poder protector del nombre יהוה o YHVH es compartida por los samaritanos al igual que los seguidores del judaísmo ortodoxo. Tengo en mi poder la fotografía de un amuleto samaritano escrito en pergamino, que se dice que tiene varios siglos de antigüedad y que fue utilizado generación tras generación por «la gente necia que habita en Siquem» (Eclesiastés 1:26), para curar a los enfermos de sus dolencias. Está escrito en siete columnas divididas entre sí por líneas de escritura samaritana en caracteres más grandes que los que cubren la mayor parte del documento. Un marco de dos líneas de esa escritura recorre los cuatro lados del conjunto y, al examinarlo con una lupa, es fácil descifrar que contiene el relato del derrocamiento del Faraón y sus huestes en el mar. Las columnas están divididas en secciones por dos a cinco líneas de escritura similar (los nombres de Jehová, las palabras «Y Moisés oró», etc.), mientras que entre las divisiones hay párrafos de líneas pequeñas y escritas apretadamente. El tamaño de este precioso documento, por el que se pidió fríamente la insignificante suma de 5000 francos, se muestra por la escala de centímetros fotografiada con él. Estaba en un estado terriblemente sucio y roto, habiendo sido usado, enrollado y doblado en un paquete de aproximadamente 22 pulgadas cúbicas, y aparentemente al lado de la piel. Aproximadamente en la mitad de la octava columna hay una tabla «záir ‘geh», con letras dispuestas dentro de cuadrados, como la que muestra Lane, vol. i. p. 356.
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 ## DIAGRAMA CUADRADO.
 
@@ -102,7 +102,7 @@ No permitirás que viva una bruja.<br>No permitirás que viva una bruja.<br>No p
 Nota.—Una cosa notable en este encanto es la omisión de los nombres de los cuatro ángeles,
 Gabriel, Miguel, Rafael y Uriel.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Folk_lore_of_the_Holy_Land/32300.jpg">
@@ -110,9 +110,9 @@ Gabriel, Miguel, Rafael y Uriel.
 </figure>
 
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 ## TRADUCCIÓN DEL RESTO.
 
@@ -148,9 +148,9 @@ Conjuro solemne del mal de ojo. (Como esto, aunque abreviado, es casi idéntico 
 
 Imagen de una mano, en cuyo dorso está escrito «Shaddai» (Todopoderoso) y «Adonai» (Señor)) con permutaciones de letras que forman nombres de ángeles, etc.
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 IMPRESO POR
 TURNBULL Y LANZAS,

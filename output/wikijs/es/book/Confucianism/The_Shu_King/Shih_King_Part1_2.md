@@ -122,7 +122,7 @@ Imito, sigo y observo los estatutos del rey Wăn, buscando diariamente asegurar 
 
 APROPIADO PARA LOS SACRIFICIOS DEL REY WÛ AL CIELO Y A LOS ESPÍRITUS DE LAS COLINAS Y LOS RÍOS, EN UN AVANZAMIENTO A TRAVÉS DEL REINO, DESPUÉS DEL DERROCIMIENTO DE LA DINASTÍA SHANG.
 
-Aquí nuevamente existe consenso entre los críticos. Encontramos en el Ȝo <i>K</i>wan y en las «Narrativas de los Estados» que la pieza <span id="p318">[<sup><small>p. 318</small></sup>]</span> se consideraba, cuando se realizaron dichas compilaciones, obra del duque de <i>K</i>âu; y, sin duda, fue compuesta por él poco después de la ascensión de Wû al reino, y cuando realizaba un progreso real al afirmar su designación celestial para suceder a los gobernantes de Shang. La «I» en la decimocuarta línea probablemente corresponda al duque de <i>K</i>âu, quien pudo haber recitado la pieza con ocasión de los sacrificios, ante los príncipes y señores reunidos.
+Aquí nuevamente existe consenso entre los críticos. Encontramos en el Ȝo <i>K</i>wan y en las «Narrativas de los Estados» que la pieza <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> se consideraba, cuando se realizaron dichas compilaciones, obra del duque de <i>K</i>âu; y, sin duda, fue compuesta por él poco después de la ascensión de Wû al reino, y cuando realizaba un progreso real al afirmar su designación celestial para suceder a los gobernantes de Shang. La «I» en la decimocuarta línea probablemente corresponda al duque de <i>K</i>âu, quien pudo haber recitado la pieza con ocasión de los sacrificios, ante los príncipes y señores reunidos.
 
 Ahora está haciendo un progreso a través de sus estados; ¡que el Cielo lo trate como a su hijo!
 
@@ -154,7 +154,7 @@ La bendición desciende en abundancia. Cuidadosa y precisa es toda nuestra condu
 
 APROPIADO PARA UNO DE LOS SACRIFICIOS FRONTERIZOS, CUANDO HÂU-<i>K</i>Î ERA ADORADO COMO EL CORRELATO DE DIOS Y SE LO CELEBRABA.
 
-Hâu-_k_î era el mismo que <i>Kh</i>î, quien aparece en la Parte II del Shû como Ministro de Agricultura de Yâo y Shun, y cooperaba con <span id="p320">[<sup><small>p. 320</small></sup>]</span> Yü en sus labores en la tierra inundada. El nombre Hâu le pertenece como señor de Thâi; el de <i>K</i>î, como Ministro de Agricultura. Sea cual fuere la combinación, Hâu-_k_î se convirtió históricamente en el nombre de <i>Kh</i>î de la época de Yâo y Shun, el antepasado a quien los reyes de <i>K</i>âu remontaron su linaje. Fue para el pueblo el Padre de la Agricultura, quien enseñó primero a los hombres a arar, sembrar y cosechar. Por eso, cuando los reyes ofrecían sacrificios y oraciones a Dios al comienzo de la primavera para pedirle su bendición sobre los trabajos del año, asociaban a Hâu-_k_î con él en el servicio.
+Hâu-_k_î era el mismo que <i>Kh</i>î, quien aparece en la Parte II del Shû como Ministro de Agricultura de Yâo y Shun, y cooperaba con <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> Yü en sus labores en la tierra inundada. El nombre Hâu le pertenece como señor de Thâi; el de <i>K</i>î, como Ministro de Agricultura. Sea cual fuere la combinación, Hâu-_k_î se convirtió históricamente en el nombre de <i>Kh</i>î de la época de Yâo y Shun, el antepasado a quien los reyes de <i>K</i>âu remontaron su linaje. Fue para el pueblo el Padre de la Agricultura, quien enseñó primero a los hombres a arar, sembrar y cosechar. Por eso, cuando los reyes ofrecían sacrificios y oraciones a Dios al comienzo de la primavera para pedirle su bendición sobre los trabajos del año, asociaban a Hâu-_k_î con él en el servicio.
 
 Oh, consumado Hâu-_k_î, demostraste ser el correlato del Cielo. Diste alimento a nuestras multitudes: el inmenso don de tu bondad. Nos conferiste el trigo y la cebada que Dios designó para la alimentación de todos. Y sin distinción de territorio ni frontera, las normas del deber social se difundieron por estas vastas regiones.
 
@@ -181,7 +181,7 @@ INSTRUCCIONES ADICIONALES A LOS FUNCIONARIOS DE GANADERÍA.
 
 Nuevamente, existe la dificultad de determinar a qué sacrificio debe referirse esta pieza. El prefacio dice que se cantaba en las ocasiones en que el rey ofrecía sacrificios a Dios, en primavera y verano, para un buen año. Pero la nota en las dos primeras líneas muestra que esta opinión no puede aceptarse sin modificaciones.
 
-¡Oh! Sí, el rey <i>Kh</i>ăng [^355] se acercó con alegría [^355]. Guía a tus labradores a sembrar sus diversos tipos de grano, trabajando con ahínco <span id="p322">[<sup><small>p. 322</small></sup>]</span> en tus campos privados [^356], a lo largo de los treinta lî [^357]. Atiende a tu arado, con tus diez mil hombres, todos en parejas.
+¡Oh! Sí, el rey <i>Kh</i>ăng [^355] se acercó con alegría [^355]. Guía a tus labradores a sembrar sus diversos tipos de grano, trabajando con ahínco <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> en tus campos privados [^356], a lo largo de los treinta lî [^357]. Atiende a tu arado, con tus diez mil hombres, todos en parejas.
 
 <a id="o23"></a>
 
@@ -229,7 +229,7 @@ Armoniosamente fusionan sus sonidos; al unísono solemne emiten sus notas. Nuest
 
 SE CANTABA EN EL ÚLTIMO MES DE INVIERNO Y EN PRIMAVERA, CUANDO EL REY PRESENTABA UN PESCADO EN EL TEMPLO ANCESTRAL.
 
-Tal es el argumento de esta pieza, que se presenta en el prefacio, y en el que generalmente coinciden los críticos. En el Lî <i>K</i>î, IV, vi, 49, se registra que el rey, en el tercer mes de invierno, ordenó a su jefe de pescadores que comenzara sus labores y fue él mismo a supervisar sus operaciones. Comió del primer pescado capturado, pero previamente presentó una ofrenda en la parte trasera del templo ancestral. En el tercer mes de primavera, de nuevo, cuando los esturiones comenzaron a aparecer (Lî <i>K</i>î, IV, i, 25), el rey presentó uno en el mismo lugar. En <span id="p325">[<sup><small>p. 325</small></sup>]</span> estos pasajes, sin duda, se construyó la nota introductoria. El soberano ofrecía a sus antepasados ​​ejemplares selectos de los primeros peces capturados, como un acto de deber y un reconocimiento de que era en su favor que él y el pueblo estaban en deuda con ellos por los suministros de alimentos que recibían de las aguas.
+Tal es el argumento de esta pieza, que se presenta en el prefacio, y en el que generalmente coinciden los críticos. En el Lî <i>K</i>î, IV, vi, 49, se registra que el rey, en el tercer mes de invierno, ordenó a su jefe de pescadores que comenzara sus labores y fue él mismo a supervisar sus operaciones. Comió del primer pescado capturado, pero previamente presentó una ofrenda en la parte trasera del templo ancestral. En el tercer mes de primavera, de nuevo, cuando los esturiones comenzaron a aparecer (Lî <i>K</i>î, IV, i, 25), el rey presentó uno en el mismo lugar. En <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> estos pasajes, sin duda, se construyó la nota introductoria. El soberano ofrecía a sus antepasados ​​ejemplares selectos de los primeros peces capturados, como un acto de deber y un reconocimiento de que era en su favor que él y el pueblo estaban en deuda con ellos por los suministros de alimentos que recibían de las aguas.
 
 ¡Oh! en el Khî y el Khü, hay muchos peces en las madrigueras: esturiones, grandes y hocicosos, tirsas, peces de mandíbulas amarillas, peces de lodo y carpas; para ofrendas, para sacrificios, para que nuestra brillante felicidad aumente.
 
@@ -299,7 +299,7 @@ El orador de esta pieza es, por consenso general, el rey <i>Kh</i>ăng. La únic
 
 ¡Ay de mí, que soy un niño pequeño, a quien le ha recaído la inestabilidad! Estoy solitario y lleno de angustia. ¡Oh, mi gran Padre! Toda tu vida fuiste filial.
 
-Pensaste en mi bisabuelo, (Viéndolo <span id="p329">[<sup><small>p. 329</small></sup>]</span>, por así decirlo) ascender y descender en el patio, Yo, el niño pequeño, Día y noche seré igual de reverente.
+Pensaste en mi bisabuelo, (Viéndolo <span id="p329"><sup><small>[ p. 329 ]</small></sup></span>, por así decirlo) ascender y descender en el patio, Yo, el niño pequeño, Día y noche seré igual de reverente.
 
 ¡Oh, grandes reyes! Como vuestro sucesor, me esforzaré por no olvidaros.
 
@@ -319,7 +319,7 @@ Al comienzo de mi gobierno, me propongo seguir el ejemplo de mi venerado padre. 
 
 EL REY KH ĂNG MUESTRA SU SENTIDO DE LO QUE SE REQUERÍA DE ÉL PARA PRESERVAR EL FAVOR DEL CIELO, UN JUEZ CONSTANTE; INDICA SUS BUENOS PROPÓSITOS; Y PIDE LA AYUDA DE SUS MINISTROS PARA SER CAPAZ DE CUMPLIRLOS.
 
-¡Sea reverente! ¡Sea reverente! El camino del Cielo es evidente, y su designio <span id="p330">[<sup><small>p. 330</small></sup>]</span> no se conserva fácilmente [^365]. No diga que está muy por encima de mí. Asciende y desciende en torno a nuestras acciones; nos inspecciona a diario dondequiera que estemos.
+¡Sea reverente! ¡Sea reverente! El camino del Cielo es evidente, y su designio <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> no se conserva fácilmente [^365]. No diga que está muy por encima de mí. Asciende y desciende en torno a nuestras acciones; nos inspecciona a diario dondequiera que estemos.
 
 Soy un niño pequeño, sin inteligencia para ser reverente (atento a mis deberes); pero con el progreso diario y el avance mensual, aprenderé a aferrarme a los destellos (del conocimiento), hasta alcanzar una inteligencia brillante. Ayúdame a sobrellevar la carga (de mi posición), y enséñame a mostrar una conducta virtuosa.
 
@@ -331,7 +331,7 @@ EL REY KH ĂNG RECONOCE QUE HA ERRADO Y DECLARA SU PROPÓSITO DE SER CUIDADOSO E
 
 Esta pieza ha sido considerada por algunos críticos como la conclusión del concilio en el templo ancestral, con el que también se cree que están relacionados los dos anteriores. El prefacio dice que el rey solicita en ella la ayuda de sus ministros, pero no se expresa tal petición. Me parece ver en ella, al igual que Sû <i>Kh</i>eh y otros, una referencia a las sospechas que <i>Kh</i>ăng, en su momento, sabemos, albergaba sobre la fidelidad del duque de <i>K</i>âu, cuando se inclinó a creer los rumores que difundían contra él sus otros tíos, quienes se unieron en rebelión con el hijo del último rey de Shang.
 
-Me condeno (por el pasado), y estaré en guardia contra futuras calamidades. No tendré nada que ver con una avispa, ni buscaré su dolorosa picadura. Al principio, en efecto, parecía <span id="p331">[<sup><small>p. 331</small></sup>]</span> (sino) un reyezuelo [^366]. Pero alzó el vuelo y se convirtió en un gran pájaro. Soy incapaz de afrontar las muchas dificultades del reino, y me encuentro en medio de amargas experiencias.
+Me condeno (por el pasado), y estaré en guardia contra futuras calamidades. No tendré nada que ver con una avispa, ni buscaré su dolorosa picadura. Al principio, en efecto, parecía <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> (sino) un reyezuelo [^366]. Pero alzó el vuelo y se convirtió en un gran pájaro. Soy incapaz de afrontar las muchas dificultades del reino, y me encuentro en medio de amargas experiencias.
 
 <a id="o35"></a>
 

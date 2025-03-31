@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 CAPÍTULO II., Versículo 211.—Te preguntarán qué deben gastar en limosna: di: «Todo el bien que gastéis debe ser para los padres y parientes, y para el huérfano y el pobre, y el hijo del camino; y todo el bien que hagáis, en verdad, de ello lo sabe Dios».
 
@@ -44,7 +44,7 @@ Los que gastan sus bienes en el camino de Dios no se enojan ni se enojan con ell
 
 (265).—Las palabras amables y el perdón son mejores que la limosna, seguida de molestia, y Dios es rico y clemente.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 ¡Oh vosotros que creéis! No hagáis vana vuestra limosna con burlas y enojos, como aquel que gasta lo que tiene por las apariencias ante los hombres, y no cree en Dios ni en el último día; porque su semejanza es como la semejanza de un pedernal con tierra sobre él, y una fuerte lluvia cae sobre él y lo deja desnudo como una roca; no pueden hacer nada con lo que ganan, porque Dios no guía a la gente incrédula.
 

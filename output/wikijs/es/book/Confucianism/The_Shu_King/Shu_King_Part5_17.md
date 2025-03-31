@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T12:52:26Z
 
 El Libro consta de dos capítulos. El primero, a modo de prefacio, ofrece los detalles necesarios para explicar el nombramiento de Hû. El segundo contiene el encargo del rey, pronunciado en su nombre por el duque de Kâu, que le indica a Hû cómo comportarse para borrar el recuerdo de las fechorías de su padre y ganarse la alabanza del rey.
 
-1\. Cuando el duque de Kâu ocupaba el cargo de primer ministro y dirigía a todos los oficiales, los tíos del rey difundieron una mala noticia, a raíz de la cual el duque ejecutó al príncipe de Kwan en Shang [^227]; confinó al príncipe de Ȝhâi en Kwo-lin [^228], con siete carros de guerra; y redujo al príncipe de Hwo [^229] a la condición de un simple particular, borrando su nombre de los registros durante tres años. El hijo del príncipe <span id="p212">[<sup><small>p. 212</small></sup>]</span> de Ȝhâi, habiendo demostrado una virtud reverente, el duque de Kâu lo nombró alto ministro, y a la muerte de su padre, solicitó un decreto del rey que le otorgara el territorio de Ȝhâi.
+1\. Cuando el duque de Kâu ocupaba el cargo de primer ministro y dirigía a todos los oficiales, los tíos del rey difundieron una mala noticia, a raíz de la cual el duque ejecutó al príncipe de Kwan en Shang [^227]; confinó al príncipe de Ȝhâi en Kwo-lin [^228], con siete carros de guerra; y redujo al príncipe de Hwo [^229] a la condición de un simple particular, borrando su nombre de los registros durante tres años. El hijo del príncipe <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> de Ȝhâi, habiendo demostrado una virtud reverente, el duque de Kâu lo nombró alto ministro, y a la muerte de su padre, solicitó un decreto del rey que le otorgara el territorio de Ȝhâi.
 
 2\. 'El rey dice lo siguiente:—"Hijo mío, Hû, sigues la virtud (de nuestros antepasados) y has cambiado la conducta (de tu padre); puedes cuidar tus costumbres; por lo tanto, te nombro marqués en el este. ¡Vuelve a tu feudo y sé reverente!
 
@@ -48,7 +48,7 @@ El Gran Cielo no tiene afectos parciales; solo ayuda a los virtuosos. El corazó
 
 Al prestar atención al principio, piensa en el final; el final será entonces sin angustia. Si no piensas en el final, estará lleno de angustia, incluso de la más grande.
 
-Esfuérzate por alcanzar tu propio mérito. Busca la armonía con todos tus vecinos. <span id="p213">[<sup><small>p. 213</small></sup>]</span> Sé un escudo para la Casa Real. Vive en armonía con tus hermanos. Tranquiliza y ayuda a los de abajo.
+Esfuérzate por alcanzar tu propio mérito. Busca la armonía con todos tus vecinos. <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> Sé un escudo para la Casa Real. Vive en armonía con tus hermanos. Tranquiliza y ayuda a los de abajo.
 
 Sigue el camino del Medio, y no confundas los viejos estatutos por pretender ser inteligente. Vigila lo que ves y oyes, y no te desvíes de la regla correcta por palabras parciales. Entonces yo, el Único Hombre, te alabaré.
 

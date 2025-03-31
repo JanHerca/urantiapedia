@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T9:13:35Z
 
 ¡Oh, Hijo del Hombre! En mi Entidad Antigua y en mi Ser Eterno, me escondí. Conocí mi Amor en ti, por eso te creé; sobre ti deposité mi Imagen y te revelé mi Belleza.
 
-¡Oh, Hijo del Hombre! Amé tu creación, por eso te creé. Ámame, pues, para que pueda <span id="p97">[<sup><small>p. 97</small></sup>]</span> reconocerte y, en el Espíritu de Vida, confirmarte.
+¡Oh, Hijo del Hombre! Amé tu creación, por eso te creé. Ámame, pues, para que pueda <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> reconocerte y, en el Espíritu de Vida, confirmarte.
 
 ¡Oh, Hijo de la Existencia! Tu paraíso es Mi Amor; tu cielo es Mi Cercanía; por tanto, entra y no te demores. Esto te fue ordenado desde Nuestro Supremo Reino y Majestad Exaltada.
 
@@ -70,7 +70,7 @@ Así podrás testificar dentro de ti mismo Mi Santidad, para que Yo pueda testif
 
 ¡Oh, Hijo del Hombre! ¡Mete tu mano en mi Tesoro! Entonces alzaré mi Cabeza radiante sobre tus tesoros.
 
-¡Oh, Hijo del Hombre! Mi Grandeza es Mi Bondad <span id="p99">[<sup><small>p. 99</small></sup>]</span> para ti. Mi Majestad es Mi Misericordia para ti; pero lo que me corresponde, nadie lo puede comprender. En verdad, lo he atesorado en los depósitos de Mis Secretos, en el tesoro de Mi Mandato; como un favor para Mis siervos y una misericordia para Mi pueblo.
+¡Oh, Hijo del Hombre! Mi Grandeza es Mi Bondad <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> para ti. Mi Majestad es Mi Misericordia para ti; pero lo que me corresponde, nadie lo puede comprender. En verdad, lo he atesorado en los depósitos de Mis Secretos, en el tesoro de Mi Mandato; como un favor para Mis siervos y una misericordia para Mi pueblo.
 
 ¡Oh, Hijos del Espíritu! Sois Mis tesoros, pues en vosotros he atesorado las perlas de Mis Misterios y las gemas de Mi Conocimiento.
 

@@ -41,7 +41,7 @@ Pensó en Rudraka, hijo de Rama. Recordó que había estado libre de odio y que 
 
 Es una gran lástima que Rudraka, hijo de Rama, muriera sin haber escuchado la ley. La habría comprendido y, a su vez, podría haberla enseñado.
 
-Pensó en Arata Kalama. Recordó su inteligencia lúcida y su vida virtuosa, y decidió <span id="p115">[<sup><small>p. 115</small></sup>]</span> que Arata Kalama estaría encantado de propagar el conocimiento. Y esta pregunta surgió en su mente: "¿Dónde está Arata Kalama ahora?". Entonces supo que Arata Kalama llevaba muerto tres días, y dijo:
+Pensó en Arata Kalama. Recordó su inteligencia lúcida y su vida virtuosa, y decidió <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> que Arata Kalama estaría encantado de propagar el conocimiento. Y esta pregunta surgió en su mente: "¿Dónde está Arata Kalama ahora?". Entonces supo que Arata Kalama llevaba muerto tres días, y dijo:
 
 “Arata Kalama murió sin escuchar la ley; grande es la pérdida de Arata Kalama”.
 

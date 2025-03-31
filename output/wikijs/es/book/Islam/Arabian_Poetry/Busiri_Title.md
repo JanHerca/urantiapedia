@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 <p style="text-align:center;">
 LA «BURDA»,<br>

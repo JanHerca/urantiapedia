@@ -43,7 +43,7 @@ Los necios duermen, los sabios siempre despiertan. ¡Sabe que en este mundo la (
 Pero un hombre siempre sumido en la oscuridad, sujeto a la vejez y la muerte, desconoce la ley. Al ver sufrir a los seres vivos, entra con fervor en la vida religiosa [^155]. Considerando esto, ¡oh, prudente!, ¡mira!
 
 Conociendo la miseria que resulta de la acción,
-El engañado y descuidado vuelve a la vida; <span id="p29">[<sup><small>p. 29</small></sup>]</span> Sin hacer caso de los sonidos ni los colores, erguido,
+El engañado y descuidado vuelve a la vida; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Sin hacer caso de los sonidos ni los colores, erguido,
 Evitando Mâra uno se libera de la muerte [1](Akaranga_1_3#fn156).
 
 Absteniéndose cuidadosamente de los placeres y abandonando las malas acciones, es un héroe que se protege a sí mismo, arraigado en el conocimiento [2](Akaranga_1_3#fn157). (3) Quien conoce la violencia ejercida en beneficio de objetos especiales, conoce lo que está libre de violencia [3](Akaranga_1_3#fn158); quien conoce lo que está libre de violencia, conoce la violencia ejercida en beneficio de objetos especiales. Para quien carece de karman, no hay apelativo [4](Akaranga_1_3#fn159). La condición de los seres vivos surge del karman.
@@ -58,7 +58,7 @@ Al examinar el karman y su raíz, es decir, la muerte [5](Akaranga_1_3#fn160), e
 Mire, señor, aquí el nacimiento y la vejez,
 Examina y conoce la felicidad de los vivos,
 De ahí que los más doctos, conociendo (lo que se llama) el bien supremo,
-El que tiene intuición correcta no comete pecado. (1) <span id="p30">[<sup><small>p. 30</small></sup>]</span> Deshaz el vínculo con los mortales aquí;
+El que tiene intuición correcta no comete pecado. (1) <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> Deshaz el vínculo con los mortales aquí;
 El que vive según el pecado, está sujeto a ambos [^164],
 Deseosos de placeres, acumulan karman,
 Bajo su influencia nacen de nuevo. (2)
@@ -71,7 +71,7 @@ Al cortarlos, se sabe libre del karman. (4)
 
 Ese hombre se liberará de la muerte; es un sabio que ve el peligro [^166], conoce el bien supremo de este mundo, lleva una vida circunspecta, serena, cautelosa, dotada (de conocimiento, etc.), siempre contenida, anhelando la muerte; debe llevar una vida religiosa. Muchas, en verdad, parecen acciones pecaminosas; ¡por tanto, sé constante en la verdad! Deleitándose en ella [^167], el hombre sabio destruye todo karma. (1)
 
-Muchos, en verdad, son los planes de este hombre (del mundo); él satisfará sus deseos; él (con ello) causa la matanza de otros, el dolor de otros, el castigo de otros, la matanza, la culpa, <span id="p31">[<sup><small>p. 31</small></sup>]</span> el castigo de toda una provincia. Haciendo tales cosas, algunos se han esforzado [^168]. (2)
+Muchos, en verdad, son los planes de este hombre (del mundo); él satisfará sus deseos; él (con ello) causa la matanza de otros, el dolor de otros, el castigo de otros, la matanza, la culpa, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> el castigo de toda una provincia. Haciendo tales cosas, algunos se han esforzado [^168]. (2)
 
 Por lo tanto, el segundo (es decir, el credo erróneo) no se adhiere. El sabio, al ver la vanidad (del mundo) \[^169]\], el brahmán sigue el control incomparable (de las <i>G</i>ainas). No debe matar, ni provocar que otros maten, ni consentir la matanza de otros. «Evita la alegría, no te deleites con criaturas (es decir, mujeres), ten la intuición suprema», mantente alejado de los actos pecaminosos. (3)
 
@@ -102,7 +102,7 @@ Algunos no recuerdan lo que precedió al presente: "¿Qué ha sido su pasado? ¿
 No hay cosa pasada, ni hay cosa futura;
 Así opinan los Tathagatas.
 
-Aquel cuyo karman ha cesado y su conducta es correcta, <span id="p33">[<sup><small>p. 33</small></sup>]</span> que reconoce la verdad (establecida anteriormente) y destruye el pecado (piensa):
+Aquel cuyo karman ha cesado y su conducta es correcta, <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> que reconoce la verdad (establecida anteriormente) y destruye el pecado (piensa):
 
 ¿Qué es el descontento y qué es el placer? No estando sujeto a ninguno de los dos, hay que vivir;
 
@@ -117,7 +117,7 @@ El hombre dotado [^177], siguiendo la ley, ve bien su verdadero interés. De dos
 
 ## CUARTA LECCIÓN.
 
-Ese hombre (es decir, el liberado) vence la ira, el orgullo, el engaño y la codicia. Esta es la doctrina del Vidente que no daña a los seres vivos y ha puesto fin (a las acciones y al sa<i>m</i>sâra). Prevenir la <span id="p34">[<sup><small>p. 34</small></sup>]</span> propensión al pecado destruye las acciones pasadas. Quien sabe una cosa, lo sabe todo; y quien sabe todas las cosas, sabe una cosa [^180]. Quien es descuidado en todos los aspectos, está en peligro [^181]; quien no es descuidado en todos los aspectos, está libre de peligro. (1)
+Ese hombre (es decir, el liberado) vence la ira, el orgullo, el engaño y la codicia. Esta es la doctrina del Vidente que no daña a los seres vivos y ha puesto fin (a las acciones y al sa<i>m</i>sâra). Prevenir la <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> propensión al pecado destruye las acciones pasadas. Quien sabe una cosa, lo sabe todo; y quien sabe todas las cosas, sabe una cosa [^180]. Quien es descuidado en todos los aspectos, está en peligro [^181]; quien no es descuidado en todos los aspectos, está libre de peligro. (1)
 
 Quien conquista una (pasión), conquista muchas; y quien conquista muchas, conquista una. «Conociendo la miseria del mundo», rechazando la conexión con él, «los héroes emprenden el gran viaje», se elevan gradualmente; «no desean la vida». (2)
 

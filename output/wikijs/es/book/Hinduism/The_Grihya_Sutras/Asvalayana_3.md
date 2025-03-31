@@ -79,7 +79,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 1\. [^528]. Luego debe recitar para sí mismo (los siguientes textos, a saber) los Rik<i>as, los Ya<i>k</i>us, los Sâmans, los himnos Atharvan y Aṅgiras, los Brâhma<i>k</i>as, los Kalpa (Sûtras), los Gâthâs, los (textos en honor de reyes y héroes, llamados) Nârâ<i>k</i>a<i>k</i>sîs, los Itihâsas y Purâ<i>k</i>as.
 
-2\. Al recitar los Rikás, sacia a los dioses con oblaciones de leche; al recitar los Yakús, con oblaciones de ghee; los Samáns, con oblaciones de miel; los himnos Atharvan y Angiras, con oblaciones de Soma; y los Brâhmakás, Kalpas, Gâthás, Nârâkâkîsîs, Itihás y Purâkás, con oblaciones de ambrosía. <span id="p219">[<sup><small>p. 219</small></sup>]</span>
+2\. Al recitar los Rikás, sacia a los dioses con oblaciones de leche; al recitar los Yakús, con oblaciones de ghee; los Samáns, con oblaciones de miel; los himnos Atharvan y Angiras, con oblaciones de Soma; y los Brâhmakás, Kalpas, Gâthás, Nârâkâkîsîs, Itihás y Purâkás, con oblaciones de ambrosía. <span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 3\. Al recitar los Rikás, ríos de leche fluyen, como ofrenda fúnebre, a sus Padres. Al recitar los Yakús, ríos de ghee; los Sâmanes, ríos de miel; los himnos Atharvan y Angiras, ríos de Soma; los Brâhmakás, Kalpas, Gâthás, Nârâkâkîsîs, Itihás y Purâkás, ríos de ambrosía.
 
@@ -94,7 +94,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 1\. [^529]. Él sacia a las deidades: 'Pra<i>g</i>âpati, Brahman, los Vedas, los dioses, los <i>Ri</i>shis, todos los metros, la palabra Om, la palabra Vasha_t_, los Vyâh<i>g</i>tis, los Sâvitrî, ​​los sacrificios, el Cielo y la Tierra, el aire, los días y las noches, los números, los Siddhas, los océanos, los ríos, las montañas, los campos, las hierbas, los árboles, los Gandharvas y las Apsaras, las serpientes, los pájaros, las vacas, los Sâdhyas, los Vipras, los Yakshas, ​​los Rakshas, ​​los seres que tienen estos (Rakshas, ​​etc.) en su extremo.'
 
-2\. [^530]. Entonces los <i>Ri</i>shis: 'Los (_Ri<i>shis) de los cien (</i>Ri_<i>shis) de los cien (</i>as), los (<i>Ri</i>shis) del medio (Ma<i>shis) de los cien (</i><i>shis) de los cien (</i>alas), G<i>shis) de los cien (</i>tsamada, <span id="p220">[<sup><small>p. 220</small></sup>]</span> Vi<i>shis) de los cien (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) de los cien (</i>a, Vasish<i>shis) de los cien (</i>a, los Pragâthas, los himnos Pavamâna, los (<i>Ri</i>shis) de los cien (</i>a, los Pragâthas, los himnos Pavamâna, los 'los himnos cortos y los himnos largos.'
+2\. [^530]. Entonces los <i>Ri</i>shis: 'Los (_Ri<i>shis) de los cien (</i>Ri_<i>shis) de los cien (</i>as), los (<i>Ri</i>shis) del medio (Ma<i>shis) de los cien (</i><i>shis) de los cien (</i>alas), G<i>shis) de los cien (</i>tsamada, <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> Vi<i>shis) de los cien (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) de los cien (</i>a, Vasish<i>shis) de los cien (</i>a, los Pragâthas, los himnos Pavamâna, los (<i>Ri</i>shis) de los cien (</i>a, los Pragâthas, los himnos Pavamâna, los 'los himnos cortos y los himnos largos.'
 
 3\. (Luego) con el cordón sacrificial suspendido sobre el hombro derecho:
 
@@ -128,7 +128,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 6\. 'Alabo a Agni el Purohita'—este único verso (Rig-Veda I, 1, 1),
 
-7\. [^536]. 'El Kushumbhaka (¿mungoose?) lo ha dicho'—'Si lloras, oh pájaro, anúncianos suerte Cantado por <i>G</i>amadagni'—'En tu morada descansa el mundo entero' <span id="p222">[<sup><small>p. 222</small></sup>]</span> —'Venid a nuestro sacrificio, oh vosotros que sois dignos del sacrificio, con cuidado'—'Quienquiera, sea nuestro, sea extranjero'—'Mirad, mirad a vuestro alrededor'—'Venid aquí, Agni, amigo de los Maruts'—'La oblación, oh rey, cocinada para ti'—cada vez dos versos;
+7\. [^536]. 'El Kushumbhaka (¿mungoose?) lo ha dicho'—'Si lloras, oh pájaro, anúncianos suerte Cantado por <i>G</i>amadagni'—'En tu morada descansa el mundo entero' <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> —'Venid a nuestro sacrificio, oh vosotros que sois dignos del sacrificio, con cuidado'—'Quienquiera, sea nuestro, sea extranjero'—'Mirad, mirad a vuestro alrededor'—'Venid aquí, Agni, amigo de los Maruts'—'La oblación, oh rey, cocinada para ti'—cada vez dos versos;
 
 8\. 'Unida es tu voluntad' (Rig-veda X, 191, 4)—este único verso;
 
@@ -138,7 +138,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 11\. [^539]. Sentado al oeste del fuego sobre la hierba Darbha, cuyos mechones apuntan hacia el este, debe colocar hojas de Darbha en una olla de agua y, haciendo un Brahmâ<i>ñ</i><i>ñ</i>ali (es decir, juntando las manos en señal de veneración al Brahman), debe murmurar (los siguientes textos):
 
-12\. El Vyâh<i>ri</i>tis está precedido por la sílaba Om (de pie primero); debe repetirlo tres veces y luego recitar el comienzo del Veda. <span id="p223">[<sup><small>p. 223</small></sup>]</span>
+12\. El Vyâh<i>ri</i>tis está precedido por la sílaba Om (de pie primero); debe repetirlo tres veces y luego recitar el comienzo del Veda. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 13\. De la misma manera en el Utsarga (es decir, en la ceremonia realizada al final del período de estudio védico).
 
@@ -168,7 +168,7 @@ Mirando el punto en donde el cielo y la tierra se tocan, o cerrando los ojos, o 
 
 ## KANDIK 6.
 
-1\. [^545]. En lugar de las ceremonias Kâmya (es decir, las ceremonias prescritas en el <i>S</i>rauta-sûtra, mediante las cuales <span id="p224">[<sup><small>p. 224</small></sup>]</span> se alcanzan deseos especiales, el sacrificador G<i>ri</i>hya debe realizar oblaciones de granos de arroz hervidos para alcanzar esos deseos.
+1\. [^545]. En lugar de las ceremonias Kâmya (es decir, las ceremonias prescritas en el <i>S</i>rauta-sûtra, mediante las cuales <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> se alcanzan deseos especiales, el sacrificador G<i>ri</i>hya debe realizar oblaciones de granos de arroz hervidos para alcanzar esos deseos.
 
 2\. Con ello logra esos mismos deseos.
 
@@ -222,7 +222,7 @@ Que estos fuegos que están estacionados en los altares llamados Dhish<i>n</i>y�
 
 2
 
-1\. Al regresar de su maestro, debe recibir lo siguiente: una joya (para atarse al cuello), dos pendientes, un par de prendas de vestir, una sombrilla, un par de zapatos, un bastón, una corona (semilla machacada del fruto de Karañá) para frotar, ungüento, colirio y un turbante; todo esto para él y para el maestro. <span id="p227">[<sup><small>p. 227</small></sup>]</span>
+1\. Al regresar de su maestro, debe recibir lo siguiente: una joya (para atarse al cuello), dos pendientes, un par de prendas de vestir, una sombrilla, un par de zapatos, un bastón, una corona (semilla machacada del fruto de Karañá) para frotar, ungüento, colirio y un turbante; todo esto para él y para el maestro. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 2\. Si no puede conseguirlo para ambos, sólo para el profesor.
 
@@ -240,7 +240,7 @@ Que estos fuegos que están estacionados en los altares llamados Dhish<i>n</i>y�
 
 9. Tras lavarse con agua tibia y ponerse dos prendas nuevas, aún sin lavar, con el verso «Vestiste prendas de gran esplendor, (Mitra y Varuna)» (Rig-veda I, 152, 1), debe ungir sus ojos con las palabras «Eres la agudeza de la piedra; protege mi ojo».
 
-10\. Con (las palabras), 'Eres la agudeza de la piedra <span id="p228">[<sup><small>p. 228</small></sup>]</span>; protege mi oído' —debería atarse los dos pendientes.
+10\. Con (las palabras), 'Eres la agudeza de la piedra <span id="p228"><sup><small>[ p. 228 ]</small></sup></span>; protege mi oído' —debería atarse los dos pendientes.
 
 11\. Después de haberse ungido ambas manos con ungüento, un brahmán debe untarse primero la cabeza,
 
@@ -279,7 +279,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 2\. [^555]. Con (el himno), 'Mío, Agni, sé vigor' (Rig-veda X, 128, 1), verso por verso, debe poner trozos de leña (en el fuego).
 
-3\. [^556]. Debe pasar esa noche en un lugar donde le rindan honores. <span id="p230">[<sup><small>p. 230</small></sup>]</span>
+3\. [^556]. Debe pasar esa noche en un lugar donde le rindan honores. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 4 [^557]. Cuando, después de haber terminado su aprendizaje, haya ofrecido algo al maestro o haya recibido su permiso, debe tomar un baño (lo que significa el final de su aprendizaje).
 
@@ -296,7 +296,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 3 ¿el nombre del profesor?
 
-2\. [^559]. (Y debería decir): «¡Aquí nos quedaremos, señor!» <span id="p231">[<sup><small>p. 231</small></sup>]</span>
+2\. [^559]. (Y debería decir): «¡Aquí nos quedaremos, señor!» <span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 3\. Con voz fuerte (las palabras) que siguen al nombre.
 
@@ -314,7 +314,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 10\. 'Alabado sea el joven renombrado que se sienta en el carro de guerra' (Rig-veda II, 33, 11) —si (escucha voces desagradables) de ciervos.
 
-11\. Desde la dirección, o desde el ser del que espera peligro, hacia esa dirección debe lanzar una tea encendida, ardiendo por ambos lados, o haciendo girar una varilla de batir de derecha a izquierda, con las palabras: «¡Salvadme, Mitra <span id="p232">[<sup><small>p. 232</small></sup>]</span> y Varuna! Enfrenta a los enemigos y consúmelos con tu llama. Que no encuentren a nadie que los conozca ni apoyo; divididos por la discordia, que mueran».
+11\. Desde la dirección, o desde el ser del que espera peligro, hacia esa dirección debe lanzar una tea encendida, ardiendo por ambos lados, o haciendo girar una varilla de batir de derecha a izquierda, con las palabras: «¡Salvadme, Mitra <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> y Varuna! Enfrenta a los enemigos y consúmelos con tu llama. Que no encuentren a nadie que los conozca ni apoyo; divididos por la discordia, que mueran».
 
 12\. Gira la varilla de batir hacia abajo con (el verso), 'La riqueza combinada de ambos, amontonada junta' (Rig-veda X, 84, 7).
 
@@ -339,7 +339,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 'Los Vedas están cubiertos; están cubiertos por los metros. Por ellos, etc.
 
-«Todo está cubierto; está cubierto por Brahman. Por él, etc. ¡Svâhâ!» <span id="p233">[<sup><small>p. 233</small></sup>]</span>
+«Todo está cubierto; está cubierto por Brahman. Por él, etc. ¡Svâhâ!» <span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 2 [^562]. Luego, situándose hacia el norte, el este, murmura el Svasti-Âtreya y, 'De lo que tememos, Indra' (Rig-veda VIII, 61, 13 seqq.), hasta el final del himno.
 
@@ -364,7 +364,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 9\. El séptimo (recita) sobre los caballos.
 
-10\. El octavo debe ser repetido por el rey mientras mira las flechas; <span id="p234">[<sup><small>p. 234</small></sup>]</span>
+10\. El octavo debe ser repetido por el rey mientras mira las flechas; <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 11\. (El verso), 'Como una serpiente rodea el brazo con sus cuerdas' (Rig-veda VI, 75, 14), cuando ata a su brazo el cuero (con el que el brazo está protegido contra la cuerda del arco).
 
@@ -382,7 +382,7 @@ El voto que pertenece a Agni junto con Indra, con Pra<i>g</i>âpati, con los Ris
 
 1
 
-18\. Con (el verso), «Dispara, cae» (Rig-veda VI, 75, 16), debe disparar las flechas. <span id="p235">[<sup><small>p. 235</small></sup>]</span>
+18\. Con (el verso), «Dispara, cae» (Rig-veda VI, 75, 16), debe disparar las flechas. <span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 19 [^568]. 'Donde vuelan las flechas' (llv 17) —este (verso) debería murmurarlo mientras están luchando.
 

@@ -46,7 +46,7 @@ PRIMER ADHYÂYA.
 
 3\. Ese aire no se considera [^622] independiente [^623], por lo tanto no estoy de acuerdo con su hijo (el de Mandûka).
 
-4\. En verdad, ambos son lo mismo; por lo tanto, el aire se considera <span id="p248">[<sup><small>p. 248</small></sup>]</span> independiente, dice Âgastya. Pues es lo mismo, ya sea que digan aire o éter [1](Aranyaka_3_1#fn624).
+4\. En verdad, ambos son lo mismo; por lo tanto, el aire se considera <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> independiente, dice Âgastya. Pues es lo mismo, ya sea que digan aire o éter [1](Aranyaka_3_1#fn624).
 
 5\. Hasta aquí con referencia a las deidades (mitológicamente); ahora con referencia al cuerpo (fisiológicamente):
 
@@ -64,7 +64,7 @@ PRIMER ADHYÂYA.
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
-1\. A continuación viene la meditación enseñada por <i>S</i>âkalya. <span id="p249">[<sup><small>p. 249</small></sup>]</span> 2\. La primera mitad es la tierra, la segunda mitad el cielo; su unión es la lluvia, el unificador Par<i>g</i>anya [^629].
+1\. A continuación viene la meditación enseñada por <i>S</i>âkalya. <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 2\. La primera mitad es la tierra, la segunda mitad el cielo; su unión es la lluvia, el unificador Par<i>g</i>anya [^629].
 
 3\. Y así es cuando él (Par<i>g</i>anya) llueve tan fuerte, sin cesar, día y noche [^630],
 
@@ -78,7 +78,7 @@ PRIMER ADHYÂYA.
 
 8\. Habiendo representado así el ser (cuerpo) como el mundo entero, <i>S</i>âkalya dijo: Esta mitad es la tierra, esa mitad el cielo.
 
-9\. Quien así conoce esta unión, se une a la descendencia, el ganado, la fama, la gloria de su semblante, <span id="p250">[<sup><small>p. 250</small></sup>]</span> y al mundo de Svarga. Alcanza la madurez.
+9\. Quien así conoce esta unión, se une a la descendencia, el ganado, la fama, la gloria de su semblante, <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> y al mundo de Svarga. Alcanza la madurez.
 
 ## TERCER KHA<i>N</i><i>D</i>A [^633].
 
@@ -88,7 +88,7 @@ PRIMER ADHYÂYA.
 
 3\. Ahora bien, si alguien reprende a quien recita el Nirbhu<i>g</i>a, que responda: «Has caído de los dos lugares inferiores [^635]». Si alguien reprende a quien recita el Prat<i>ri</i><i>n</i><i>n</i>a, que responda: «Has caído de los dos lugares superiores [^636]». Pero a quien recita el Ubhayamantare<i>n</i>a, no hay que reprenderlo.
 
-4\. Porque cuando produce el Sandhi (la unión de palabras), esa es la forma de Nirbhu<i>g</i>a [^637]; y cuando pronuncia dos sílabas puras (sin modificación), esa es la forma de Prat<i>ri</i><i>n</i><i>n</i>a [^638]. Esto viene <span id="p251">[<sup><small>p. 251</small></sup>]</span> primero [^639]. Mediante el Ubhayamantara (lo que está entre ambos) ambos se cumplen (tanto el sandhi como el pada).
+4\. Porque cuando produce el Sandhi (la unión de palabras), esa es la forma de Nirbhu<i>g</i>a [^637]; y cuando pronuncia dos sílabas puras (sin modificación), esa es la forma de Prat<i>ri</i><i>n</i><i>n</i>a [^638]. Esto viene <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> primero [^639]. Mediante el Ubhayamantara (lo que está entre ambos) ambos se cumplen (tanto el sandhi como el pada).
 
 5\. Quien desee la comida adecuada, que diga el Nirbhu<i>g</i>a; quien desee Svarga, que diga el Prat<i>ri</i><i>n</i><i>n</i>a; quien desee ambos, que diga el Ubhayamantare<i>n</i>a.
 
@@ -150,7 +150,7 @@ Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: “H
 
 3\. Por este Upanishad (para adquirir de su maestro el conocimiento de este Samhitâ del habla y la respiración) Târukshya cuida las vacas (de su maestro) durante todo un año.
 
-4\. Solo por ello, Târukshya cuida a las vacas durante todo un año. <span id="p255">[<sup><small>p. 255</small></sup>]</span> 5\. Esto también lo declaró un Rishi (Rv. X, 181, 1; y Rv. X, 181, 2):
+4\. Solo por ello, Târukshya cuida a las vacas durante todo un año. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> 5\. Esto también lo declaró un Rishi (Rv. X, 181, 1; y Rv. X, 181, 2):
 
 6\. 'Vasish<i>th</i>a trajo aquí el Rathantara; 'Bharadvâga trajo aquí el B<i>ri</i>hat de Agni.'
 
@@ -166,7 +166,7 @@ Si otro hombre regaña a quien dice el Ubhayamantare<i>n</i>a, que le diga: “H
 
 12\. Pañ<i>k</i>âla<i>k</i>a<i>n</i><i>d</i>a dijo: 'El Sa<i>m</i>hitâ (unión, composición) es habla.'
 
-13\. En verdad, por la palabra los Vedas, por la palabra la métrica se compone. Los amigos se unen por la palabra, todos los seres se unen por la palabra; por lo tanto, la palabra lo es todo aquí [^651]. <span id="p256">[<sup><small>p. 256</small></sup>]</span> 14\. Con respecto a esto (la visión de que el habla es más que la respiración), debe tenerse presente que cuando repetimos (el Veda) o hablamos, la respiración se absorbe en la palabra; la palabra se traga a la respiración. Y cuando guardamos silencio o dormimos, la palabra se absorbe en la respiración; la respiración se traga a la palabra. Ambas se tragan mutuamente. En verdad, la palabra es la madre, la respiración el hijo.
+13\. En verdad, por la palabra los Vedas, por la palabra la métrica se compone. Los amigos se unen por la palabra, todos los seres se unen por la palabra; por lo tanto, la palabra lo es todo aquí [^651]. <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> 14\. Con respecto a esto (la visión de que el habla es más que la respiración), debe tenerse presente que cuando repetimos (el Veda) o hablamos, la respiración se absorbe en la palabra; la palabra se traga a la respiración. Y cuando guardamos silencio o dormimos, la palabra se absorbe en la respiración; la respiración se traga a la palabra. Ambas se tragan mutuamente. En verdad, la palabra es la madre, la respiración el hijo.
 
 15\. Esto también lo declaró un Rishi (Rv. X, 114, 4):
 

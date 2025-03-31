@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 **CAPÍTULO IX.**
 
@@ -46,7 +46,7 @@ Abu-Bekr era, además, uno de los suegros de Mahoma, ya que su hija ‘Aisha era
 
 Se dice que un hijo o nieto de Abū-Bekr estuvo entre los conquistadores árabes de Khurāsān durante el califato de ‘Uthmān (Osmān), alrededor del año 25 a.h. (647 d.c.), y que se estableció en Balkh (la capital de la antigua Bactria), donde su familia floreció hasta después del nacimiento de Jelālu-’d-Dīn.[^34]
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 En un período incierto posterior al 491 d. H. (1097 d. C.), una hija de uno de los reyes Kh’ārezmian de Asia Central fue entregada en matrimonio al tatarabuelo de Jelālu-’d-Dīn, cuyo nombre no es mencionado por Eflākī, o yo lo he pasado por alto. Ella dio a luz al bisabuelo de Jelāl, Ahmed, de apellido El-Khatībī (por ser, aparentemente, un hijo o descendiente, o un cliente, de un predicador público, Khatīb).
 
@@ -54,7 +54,7 @@ Eflākī no menciona nada más de Ahmed que el hecho de que tuvo un hijo, Huseyn
 
 La hija mayor de Bahā Veled se casó y permaneció en Balkh, cuando Bahā Veled, su madre y dos hijos la abandonaron, aproximadamente un año antes de que fuera tomada y devastada por Jengīz Khān en el año 608 d. H. (1211 d. C.). Eflākī no volvió a mencionar a su hijo mayor después de su partida de Balkh. Tampoco se menciona a la madre de sus hijos. Pero su propia madre, la princesa, estaba viva y todavía estaba con él alrededor del año 1230 d. C.; después de lo cual, ella tampoco volvió a ser mencionada.
 
-El hijo menor de Bahā Veled, su hijo más célebre Mohammed, de apellido Jelālu-’d-Dīn, Mevlānā, Khudāvendgār y Rūmī, el personaje principal de estas memorias, el fundador de la orden de los derviches Mevlevī y autor del Mesnevī, tuvo cuatro hijos, tres varones y una niña, con dos esposas. Su hijo mayor fue asesinado <span id="p134">[<sup><small>p. 134</small></sup>]</span> en la reyerta que causó el asesinato del amigo de su padre, Shemsu-’d-Dīn de Tebrīz. De su hijo menor no se vuelve a hablar de él; pero su hija se casó con un príncipe local y abandonó Qonya.
+El hijo menor de Bahā Veled, su hijo más célebre Mohammed, de apellido Jelālu-’d-Dīn, Mevlānā, Khudāvendgār y Rūmī, el personaje principal de estas memorias, el fundador de la orden de los derviches Mevlevī y autor del Mesnevī, tuvo cuatro hijos, tres varones y una niña, con dos esposas. Su hijo mayor fue asesinado <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> en la reyerta que causó el asesinato del amigo de su padre, Shemsu-’d-Dīn de Tebrīz. De su hijo menor no se vuelve a hablar de él; pero su hija se casó con un príncipe local y abandonó Qonya.
 
 Su segundo hijo, y eventualmente su sucesor como Principal o Abad de su orden, se llamaba Muhammed y se apellidaba Bahā’u-'Dīn. Se le conoce comúnmente como Sultán Veled.
 
@@ -66,7 +66,7 @@ Tal era la línea natural de esta dinastía de hombres eminentes. Pero Eflākī 
 
 En la anécdota nº 79, del capítulo iii, se cuenta la manera en que el profeta Mahoma confió esos misterios a su primo, yerno y después su cuarto sucesor, como califa, ‘Alī hijo de Abū-Tālib, el «León Victorioso de Dios».
 
-‘Alī comunicó los misterios al Imán Hasan de Basora, que murió en el año 110 de la hégira (728 d. C.); Hasan se los enseñó a Habīb el persa,[^35] quien se los confió a Dāwūd <span id="p135">[<sup><small>p. 135</small></sup>]</span> de la tribu de Tayyi’, —Et-Tā’ī (mencionado por D’Herbelot, sin fecha, como Davud Al Thai; murió en el año 165 de la hégira, 781 d. C.).
+‘Alī comunicó los misterios al Imán Hasan de Basora, que murió en el año 110 de la hégira (728 d. C.); Hasan se los enseñó a Habīb el persa,[^35] quien se los confió a Dāwūd <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> de la tribu de Tayyi’, —Et-Tā’ī (mencionado por D’Herbelot, sin fecha, como Davud Al Thai; murió en el año 165 de la hégira, 781 d. C.).
 
 Dāwūd se los transmitió a Ma‘rūf de Kerkh (que murió en el año 200 d. H., 815 d. C.); él a Sirrī, el comerciante de bienes dañados (Es-Saqatī?; murió en el año 253 d. H., 867 d. C.); y él al gran Juneyd (que murió alrededor del año 297 d. H. - 909 d. C.). El alumno espiritual de Juneyd fue Shiblī (fallecido en el 334 a.h., 945 d.c.) que enseñó a Abu-‘Amr Muhammed, hijo de Ibrāhīm Zajjāj (el Vidriero), de Nīshāpūr (que murió en el 348 a.h. - 959 d.c.) y su alumno fue Abū-Bekr, hijo de ‘Abdu-’llāh, de Tūs, el Tejedor, que enseñó a Abū-Ahmed (Muhammed hijo de Muhammed, El-Gazālī (que murió en el 504 a.h. - 1110 d.c.), y encomendó esos misterios a Ahmed el-Khatībī, el bisabuelo de Jelāl, que los confió al Imán Sarakhsī (que murió en el 348 a.h. - 959 d.c. 571—1175 d.C.).
 

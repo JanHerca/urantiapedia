@@ -46,7 +46,7 @@ Cuándo orar por la lluvia—Proclamaciones para el ayuno—Ceremonial del ayuno
 
 2\. Pedimos lluvia solo cerca de la temporada de lluvias. Rabí Judah dijo: [^311] «Quien pasa último ante el arca en la última festividad de la Fiesta de los Tabernáculos la recuerda; el primero no. En la primera festividad de Pésaj, el primero la recuerda, el último no». ¿Hasta cuándo pedimos lluvia? Rabí Judah dijo: «Hasta que termine Pésaj». Rabí Meier dijo: «Hasta que pase Nisán, [^312] como está escrito: [^313] «Y Él hará descender sobre ustedes la lluvia, la lluvia temprana y la lluvia tardía en el primer mes».
 
-3\. El tercer día de Marchesván [^314] pedimos la lluvia. Rabán Gamaliel dijo: «El séptimo día, quince días después de la <span id="p159">[<sup><small>p. 159</small></sup>]</span> fiesta, para que el último israelita que regrese a casa después de la fiesta llegue al río Éufrates».
+3\. El tercer día de Marchesván [^314] pedimos la lluvia. Rabán Gamaliel dijo: «El séptimo día, quince días después de la <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> fiesta, para que el último israelita que regrese a casa después de la fiesta llegue al río Éufrates».
 
 4\. ¿Y si llega el decimoséptimo día de Marchesvan y no llueve? «Los hombres eminentes comienzan a ayunar durante tres días. Pueden comer y beber por la noche. Pueden trabajar, lavarse, ungirse, calzarse las sandalias y usar sus lechos».
 

@@ -78,7 +78,7 @@ Sa<i>ñ</i><i>g</i>aya renunció a su poder real y adoptó la fe de las <i>G</i>
 
 Un Kshattriya, que había abandonado su reino y se había convertido en monje, le dijo: “Como pareces tan feliz por fuera, debes tener paz mental. (20)
 
-¿Cuál es tu nombre, a qué Gôtra perteneces y por qué te has convertido en asceta? [^213] <span id="p83">[<sup><small>p. 83</small></sup>]</span> ¿Cómo veneras a los iluminados [^214] y cómo llegaste a ser considerado un monje de buena conducta? (21)
+¿Cuál es tu nombre, a qué Gôtra perteneces y por qué te has convertido en asceta? [^213] <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> ¿Cómo veneras a los iluminados [^214] y cómo llegaste a ser considerado un monje de buena conducta? (21)
 
 “Mi nombre es Sa<i>ñ</i><i>g</i>aya; pertenezco al Gôtra de Gôtama; mi maestro es Gardabhâli, quien es versado en la tradición sagrada y la buena conducta. (22)
 
@@ -104,7 +104,7 @@ Me mantengo alejado de las preguntas (supersticiosas) y los hechizos de los laic
 
 “Y lo que tú, de mente pura, me preguntaste hace un momento, eso ha sido revelado por el iluminado [^218]; tal conocimiento forma parte del credo de las <i>Ginas</i>. (32)
 
-Un hombre sabio cree en la existencia del alma [^219], <span id="p85">[<sup><small>p. 85</small></sup>]</span> evita la herejía de la inexistencia del alma; poseedor de una fe verdadera, uno debe practicar la muy difícil Ley según la fe. (33)
+Un hombre sabio cree en la existencia del alma [^219], <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> evita la herejía de la inexistencia del alma; poseedor de una fe verdadera, uno debe practicar la muy difícil Ley según la fe. (33)
 
 Habiendo aprendido este credo puro, que está adornado por la verdad y la rectitud, Bharata [^220] abandonó Bharatavarsha y todos los placeres, y entró en la orden. (34)
 
@@ -114,7 +114,7 @@ Habiendo aprendido este credo puro, que está adornado por la verdad y la rectit
 
 “El rey Sanatkumâra [^223], un monarca universal de gran poder, colocó a su hijo en el trono y luego practicó austeridades. (37)
 
-“<i>S</i>ânti [^224], un monarca universal de gran poder, el <span id="p86">[<sup><small>p. 86</small></sup>]</span> que trajo la paz al mundo, abandonó Bharatavarsha y alcanzó la perfección. (38)
+“<i>S</i>ânti [^224], un monarca universal de gran poder, el <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> que trajo la paz al mundo, abandonó Bharatavarsha y alcanzó la perfección. (38)
 
 “El rey Kunthu, el toro de la raza Aikshvâka, el señor ampliamente famoso, alcanzó la perfección. (39)
 
@@ -124,7 +124,7 @@ Habiendo aprendido este credo puro, que está adornado por la verdad y la rectit
 
 “Habiendo puesto a toda la tierra bajo su cetro, el rey Harishê<i>n</i>a [^226], quien humilló el orgullo (de otros reyes), alcanzó la perfección. (42)
 
-«<i>Gaya</i> [^227], junto con miles de reyes, renunciando al mundo, practicó el autocontrol. Él <span id="p87">[<sup><small>p. 87</small></sup>]</span> alcanzó la perfección enseñada por las <i>Ginas</i>. (43)
+«<i>Gaya</i> [^227], junto con miles de reyes, renunciando al mundo, practicó el autocontrol. Él <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> alcanzó la perfección enseñada por las <i>Ginas</i>. (43)
 
 “Da<i>s</i>âr<i>n</i>abhadra [^228], abandonando su floreciente reino de Dasâr<i>n</i>a, se convirtió en monje; renunció al mundo, siguiendo las instrucciones del propio <i>S</i>akra. (44)
 

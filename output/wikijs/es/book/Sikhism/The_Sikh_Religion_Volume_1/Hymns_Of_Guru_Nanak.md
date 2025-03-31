@@ -75,7 +75,7 @@ Como un muro impregnado de kallar, se derrumba día y noche.
 No encuentra descanso sin la Palabra; sin su Amado, su dolor no se aparta. 
 Oh mujer, ¿qué son tus adornos sin tu Esposo? 
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span> 
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span> 
 
 No obtendrás entrada en la corte de Dios; siendo falsa serás despreciada. 
 El Señor es sabio y no olvida: es veraz y un gran labrador. 
@@ -98,7 +98,7 @@ Del Verdadero procede el aire, del aire el agua,
 y del agua los tres mundos; la luz se infundió en cada corazón. 
 El Puro no se vuelve impuro: quien está imbuido con la Palabra obtiene honor.
 
-Gurú Nanak compuso lo siguiente tras una conversación <span id="p264">[<sup><small>p. 264</small></sup>]</span> con Samangir, un sanyasi, en Talwandi. El Gurú defendía la excelencia de su propio sistema y la ventaja de repetir el nombre de Dios obtenido de él: « 
+Gurú Nanak compuso lo siguiente tras una conversación <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> con Samangir, un sanyasi, en Talwandi. El Gurú defendía la excelencia de su propio sistema y la ventaja de repetir el nombre de Dios obtenido de él: « 
 
 Si me convierto en mujer, el que disfruta me disfrutará. 
 No ames lo que parece transitorio, 
@@ -121,7 +121,7 @@ La falsificación no será recibida en el tesoro del gran Dios, y no lo contempl
 La falsificación no tiene casta ni honor; la falsificación no es aceptable. 
 Los falsificadores que realizan trabajos falsificados perderán su honor en la transmigración. 
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span> 
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 
 
 Nanak, instruye tu corazón con la palabra y el consejo del Gurú. 
 Quienes están imbuidos del amor por el nombre de Dios no tienen carga de pecado ni superstición. 
@@ -147,7 +147,7 @@ Y que restringe el mar y la tierra; ¡salve al Creador!
 Debes morir, oh Mulá, debes morir. 
 Por todos los medios teme al Creador. 
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span> 
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span> 
 
 Eres un Mulá o un Qazi solo cuando _realmente_ conoces el nombre de Dios. 
 Incluso si eres muy erudito _debes partir_; nadie puede permanecer cuando su medida _de vida_ está llena. 
@@ -171,7 +171,7 @@ Nadie ha hallado Tu valor; cada uno, según lo que ha oído, describe Tu gloria.
 Sacerdotes, profetas, santos, hombres fieles, mártires, 
 jeques, luchadores, qazis, mulás, darweshes que han llegado a la puerta de Dios, 
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span> 
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span> 
 
 Obtienen mayores bendiciones si continúan recitando las alabanzas de Dios. 
 Él no consulta a nadie cuando crea; Él no consulta a nadie cuando destruye; Él no consulta a nadie cuando da o quita. 
@@ -195,7 +195,7 @@ El amor no se obtiene con hipocresía; el oro falso degrada.
 De esta manera, Dios, el Esposo, disfrutará de la esposa. 
 La buena esposa te complace, oh, Señor; con tu favor la adornas. 
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span> 
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> 
 
 Ella está adornada con la palabra del Gurú; su cuerpo y alma están con su Amado. 
 Con las manos unidas, lo espera y le ofrece una súplica sincera. 
@@ -215,7 +215,7 @@ Ella no conoce a ningún hombre más que a su Amado; es solo por el Verdadero Gu
 Pero tú, que eres imprudente en una noche oscura[^3], ¿cómo la pasarás sin el Amado? 
 Tu pecho arderá, tu cuerpo arderá, y tu mente arderá, oh mujer. 
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span> 
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span> 
 
 Cuando la mujer no disfruta de su Esposo, su juventud pasa en vano. 
 Su Esposo está en el lecho; Su esposa duerme y no sabe _Su presencia_. 
@@ -240,7 +240,7 @@ Nanak, quien está unida a Dios por la Palabra no se separará de Él.
 
 Lo siguiente fue dirigido a los devotos hindúes que el Gurú conoció en sus peregrinaciones por el Himalaya: 
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span> 
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span> 
 
 Aunque el hombre practique la devoción de los labios, la penitencia y las austeridades, habite en lugares de peregrinación, 
 dé limosna y realice actos de devoción, ¿qué son estas cosas sin el Verdadero? 
@@ -267,7 +267,7 @@ El amor a Dios se inculca con ejemplos indios conocidos:
 
 Oh, hombre, ama a Dios como el loto ama el agua. 
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span> 
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span> 
 
 Tal amor lo tiene, que florece incluso cuando las olas lo hunden. 
 Las criaturas que Dios creó en el agua mueren sin ella, y por eso la aman. 
@@ -289,7 +289,7 @@ El perverso hace cálculos, pero solo lo que hace el Creador sucede.
 Su valor no se puede determinar, aunque todos lo deseen. 
 Pero se puede determinar bajo la instrucción del Gurú; al encontrar al Verdadero, se obtiene la felicidad. 
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span> 
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 
 
 Si se encuentra al Verdadero Gurú, el amor verdadero no se separará, 
 y se obtendrá la riqueza del conocimiento divino de los tres mundos. 
@@ -312,7 +312,7 @@ Quién sino el Gurú puede explicar que el Rey y el Emperador residen en el cora
 Todos los hombres yerran; solo el gran Creador no yerra. 
 Quien amonesta su corazón bajo la instrucción del Gurú amará al Señor. 
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span> 
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span> 
 
 Nanak, aquel a quien la Palabra incomparable ha llevado al encuentro con Dios, no olvidará al Verdadero. 
 
@@ -336,7 +336,7 @@ Si mi cuerpo fuera cortado en pedazos y quemado en el fuego;
 si convirtiera mi cuerpo y mi alma en leña y los quemara día y noche; 
 si realizara cientos de miles y millones de ceremonias religiosas, nada sería igual al nombre de Dios. 
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span> 
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 
 
 Si me aplicaran una sierra en la cabeza y mi cuerpo fuera cortado en dos;[^1] 
 Si mi cuerpo se congelara en el Himalaya, incluso entonces mi mente no estaría libre de enfermedades; 
@@ -355,7 +355,7 @@ Quien está absorto en el Verdadero Gurú reflexiona en la Palabra del Inefable.
 Quien bebe el néctar del Nombre quedará satisfecho e irá a la corte de Dios con un atuendo de honor. 
 La melodía del éxtasis[^2] resuena día y noche en los corazones de quienes aman profundamente la Palabra. 
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span> 
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span> 
 
 Pocos son los que alcanzan la comprensión mediante la amonestación de su gurú. 
 Nanak, quienes no olvidan el Nombre y actúan conforme a la Palabra serán liberados. 
@@ -403,7 +403,7 @@ Si tengo una entrevista satisfactoria con el Gurú perfecto y verdadero, él me 
 Si digo que soy perecedero, no me servirá de nada; pero si realmente sé que soy perecedero, sí. 
 Todo lo que vino a este mundo partirá; solo el Creador es inmortal. 
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span> 
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span> 
 
 Asegúrate de alabar al Verdadero y amar Su morada. 
 Hermosas casas y palacios, y miles de fortalezas, 
@@ -423,7 +423,7 @@ El mundo entero es una cámara de humo negro; el cuerpo y el alma que entren en 
 Aquellos que son preservados por el Gurú son puros; el fuego de sus deseos se extingue por la Palabra. 
 Nanak, el hombre obtiene la liberación por el verdadero nombre del Rey de reyes. 
 ¡Que no olvide el nombre de Dios! ¡Que lo compre como una joya! 
-El hombre perverso perece en el terrible océano _del_ <span id="p278">[<sup><small>p. 278</small></sup>]</span> _mundo_; el hombre santo lo cruza, por insondable que sea. 
+El hombre perverso perece en el terrible océano _del_ <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> _mundo_; el hombre santo lo cruza, por insondable que sea. 
 
 ## GHAR III[^1] 
 
@@ -456,7 +456,7 @@ El hombre, no importa cuál sea su casta o posición social, es exaltado por la 
 Qué diferencia hay entre un cisne y una grulla, si Dios mira bondadosamente _a esta última_? 
 Nanak, si le place, puede convertir un cuervo en cisne. 
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span> 
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span> 
 
 ## MAJH KI WAR 
 
@@ -489,7 +489,7 @@ Otras divisiones de la vida humana:
 
 a los diez años un niño, a los veinte un libertino, a los treinta el hombre se llama a sí mismo guapo; 
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span> 
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span> 
 
 A los cuarenta está en su mejor momento, a los cincuenta sus pies cojean, a los sesenta llega la vejez; 
 A los setenta pierde su intelecto, a los ochenta no puede realizar sus deberes. 
@@ -514,7 +514,7 @@ Considera la propiedad ajena como suya y sufre por su orgullo.
 Nanak, cuando el orgullo se disipa bajo las instrucciones del Gurú, el hombre medita en el nombre de Dios, 
 repite el Nombre, adora el Nombre y, a través del Nombre, se absorbe en la felicidad. 
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span> 
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 
 
 Algunos temas importantes se tratan brevemente a continuación: 
 
@@ -545,7 +545,7 @@ El Qazi le preguntó a Gurú Nanak quién era. Este respondió lo siguiente: —
 
 que no soy nadie, ¿qué debo decir? Puesto que no soy nada, ¿qué puedo ser? 
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span> 
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span> 
 
 Como Dios me hizo, actúo; como Él me dijo, hablo; estoy completamente contaminado _con el pecado_, _y deseo_ lavarlo. 
 Aunque yo mismo no sé nada, enseño a otros; tal guía soy yo. 
@@ -572,7 +572,7 @@ incluso entonces te magnificaría, y el deseo de hacerlo no cesaría mientras ha
 Si las dieciocho cargas de vegetales de la tierra se convirtieran en frutas, y la hierba en arroz; 
 si pudiera detener la luna y el sol en sus cursos, y si mi asiento se volviera inamovible,
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span> 
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span> 
 
 Incluso entonces te magnificaría, y el deseo de hacerlo no cesaría mientras hablaba. 
 
@@ -597,7 +597,7 @@ El Maestro envió la obediencia a Sus órdenes como un corcel al mundo;
 la reflexión sobre la instrucción que imparte el Gurú es como sus timbales. 
 Algunos han montado sus corceles, otros los tienen listos para la marcha; 
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span> 
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span> 
 
 Algunos han cargado su equipaje para la marcha, y otros han partido. 
 
@@ -624,7 +624,7 @@ Aunque le pongas sandalia a un perro, conservará su naturaleza canina:
 aunque instruyas a un sordo,y leíle el Simritis;
 Aunque pongas una luz delante de un ciego y le enciendas cincuenta lámparas, _nada servirá_. 
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span> 
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span> 
 
 Aunque pongas oro delante de un rebaño de ganado, aun así escogerían la hierba para comer. 
 Si se pone fundente en el hierro, se derretirá, pero no se convertirá en algodón.[^1] 
@@ -647,7 +647,7 @@ Al alabar a Dios, el hombre establece una alianza con la corte divina.
 Nanak dice esto deliberadamente. 
 Los siguientes siete versos forman parte de la instrucción del Gurú al Shaikh Brahm, o Farid II, de Pak Pattan: 
 Los sacerdotes, los jeques y los potentados del mundo están todos bajo tierra. 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span> 
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span> 
 Los emperadores mueren, pero Dios siempre florece. 
 Solo estás Tú, solo estás Tú, ¡oh Dios! 
 Ni los semidioses, ni los demonios, ni los hombres, 
@@ -692,7 +692,7 @@ Quienes al amanecer alaban a Dios y meditan en Él con un solo corazón,
 son reyes perfectos y mueren luchando cuando surge la ocasión.[^1] 
 En la segunda vigilia, la atención de la mente se distrae de muchas maneras. 
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span> 
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span> 
 
 Muchas personas caen en las aguas insondables y no pueden salir por mucho que se esfuercen. 
 En la tercera vigilia, cuando el hambre y la sed ladran, se lleva la comida a la boca. 
@@ -718,7 +718,7 @@ Las ventajas que el Verdadero otorga a los hombres:
 Sin el Verdadero, todos son falsos y practican la falsedad. 
 Sin el Verdadero, los falsos serán atados y arrastrados; 
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span> 
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span> 
 
 Sin el Verdadero, el cuerpo es polvo y se revolcará en él. 
 Sin el Verdadero, la vestimenta y la comida son solo hambre. 
@@ -744,7 +744,7 @@ El mal de olvidar a Dios:
 en el corazón y la boca de los perversos que nunca te recuerdan. 
 Soporta _la amargura_ de la calabaza, la coloquíntida y el nim, y el veneno del akk[^1] y el dhatura. 
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span> 
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span> 
 
 Nanak, ¿a quién se lo diré? _Quien te olvida_ vaga privado de tu favor, oh Dios. 
 
@@ -775,7 +775,7 @@ Bhai Rama de Sultanpur preguntó cómo se conocía a Dios. El Gurú respondió: 
 
 A quien Dios da entendimiento, comprende; 
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span> 
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 
 
 A quien Él da conocimiento, lo sabe todo.
 El hombre solo se preocupa cuando predica por amor a Mammón. 
@@ -814,7 +814,7 @@ pero aunque realicen mil artificios, no lo lograrán.
 Nanak, el lenguaje del perverso es un disparate; 
 lo que escriben es un absurdo sin valor. 
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span> 
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 
 
 El Gurú dirigió lo siguiente a alguien que le había reprochado haber abandonado a sus parientes para llevar una vida errante: —Que 
 
@@ -853,7 +853,7 @@ Un Sant Das le planteó seis preguntas al Gurú Nanak: ¿
 Se sabe de dónde viene el hombre, 
 de dónde ha surgido, en qué será absorbido? 
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span> 
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span> 
 
 ¿Cómo se ata, cómo obtiene la emancipación, 
 y cómo se absorberá fácilmente en lo Imperecedero? 
@@ -883,7 +883,7 @@ La siguiente es una conversación entre el alma y el cuerpo:
 
 El Alma: «Oh cuerpo, te crees inmortal y que siempre serás feliz; debes saber que este mundo es un juego, 
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span> 
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span> 
 
 Practicas la avaricia, la codicia y la falsedad excesiva,y llevas muchas cargas.
 Te he visto, oh cuerpo, pisoteado como cenizas en el suelo.' 
@@ -906,7 +906,7 @@ _Rawan nominalmente_ poseía una Lanka dorada y un palacio dorado, pero no eran 
 Escucha, oh alma necia e ignorante: 
 Lo que agrada a _Dios_ se hará. 
 Mi Señor es un gran Comerciante, nosotros somos Sus comerciantes minoristas. 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span> 
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span> 
 Nuestras almas y cuerpos son Su capital; Él es quien mata y reanima. 
 El Gurú reflexiona sobre el poder de los pecados capitales que llevan a los hombres a la destrucción: —Los 
 otros[^1] son ​​cinco, yo solo soy uno; ¿cómo protegeré mi casa? 
@@ -932,7 +932,7 @@ Así alcanzarás el camino del jog.
 Haz de la realidad de que solo hay una Palabra y ninguna otra tu devoción a los tubérculos y raíces. 
 Si Dios se pudiera obtener simplemente afeitándose la cabeza, haríamos del Ganges un dios.[^4] 
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span> 
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span> 
 
 Es el único Señor quien salva los tres mundos; tú no piensas en Él, oh necio. 
 Si aplicas tu mente a las palabras por hipocresía, tus dudas nunca te abandonarán. 
@@ -959,7 +959,7 @@ Si me convirtiera en un cervatillo, viviera en el bosque y recolectara y comiera
 sería eternamente un sacrificio para mi Señor, quien se obtiene mediante el favor del Gurú. 
 Soy un comerciante tuyo, oh Dios; 
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span> 
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span> 
 
 Tu Nombre es mi mercancía y mi activo. 
 Si me convirtiera en un koil y viviera en un árbol de mango, meditaría tranquilamente en la Palabra. 
@@ -991,7 +991,7 @@ pero sin el nombre de Dios, ¿cómo alcanzaré la felicidad?
 ¿Cómo alcanzaré la felicidad sin el Señor del mundo? 
 Puedo tener aretes en las orejas y un collar de perlas en el cuello, 
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span> 
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span> 
 
 Una colcha roja, flores y polvo rojo;[^1] 
 Pero ¿dónde debería buscar la felicidad sino con el Señor del mundo? 
@@ -1020,7 +1020,7 @@ El que sirve al único Dios no conoce a otros
 Deja a un lado las cosas amargas, el engaño y el mal. 
 Por amor y verdad encontrarás al Más Verdadero de lo Verdadero. 
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span> 
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span> 
 
 Si hay algún santo de Dios así, 
 Su inmundicia será lavada, y él se encontrará con Dios cantando Sus alabanzas. 
@@ -1046,7 +1046,7 @@ Como el chatrik ama y anhela las gotas de lluvia,
 como el pez se deleita con el agua, 
 así Nanak se satisface bebiendo la esencia de Dios. 
 
-Había un rey de la montaña llamado Amar Singh que <span id="p299">[<sup><small>p. 299</small></sup>]</span> fue destronado por su hermano. Al ser expulsado, acudió al Gurú Nanak en busca de consejo. Recibió lo siguiente: 
+Había un rey de la montaña llamado Amar Singh que <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> fue destronado por su hermano. Al ser expulsado, acudió al Gurú Nanak en busca de consejo. Recibió lo siguiente: 
 
 Quienes visten hábitos religiosos están llenos de orgullo y desconocen a Dios. 
 Pocos son aquellos cuyas mentes se reconcilian con la devoción bajo la instrucción del Gurú. 
@@ -1071,7 +1071,7 @@ La muerte amenaza a todo, pero no puede dañar a lo sagrado:
 
 incluso Brahma estuvo sujeto a la muerte[^1] desde el principio. 
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span> 
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span> 
 
 No encontró _el fin_ del loto de Vishnu en las regiones inferiores;[^1] 
 No aceptó la orden de Dios y se extravió en el error. 
@@ -1096,7 +1096,7 @@ Qazis, jeques y faquires con vestimentas religiosas
 se consideran grandes, pero por orgullo sus cuerpos sufren. 
 La muerte no los liberará sin recibir el consuelo del verdadero Gurú. 
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span> 
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 
 
 La red de la Muerte está sobre la lengua y los ojos del hombre; 
 está sobre sus oídos cuando escucha lenguaje impuro. 
@@ -1128,7 +1128,7 @@ Un guía espiritual es necesario para la salvación: —
 Su cuenta está saldada por el favor del Gurú que conoce a Dios. 
 Dios, llamado el Puro, que está en cada corazón, es mi Señor. 
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span> 
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span> 
 
 El hombre no se emancipará sin la instrucción del Gurú; observa y reflexiona sobre esto. 
 Aunque el hombre realizara cientos de miles de ceremonias, todo seguiría siendo oscuridad sin el Gurú. 
@@ -1155,7 +1155,7 @@ Dolorosa es la noche para la joven novia; _sin su Amado_ no duerme.
 Ella se consume de pena _por Su ausencia_: 
 La mujer se consume de pena por _Su ausencia_, diciendo_ '¿Cómo lo miraré?'
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span> 
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 
 
 Los adornos, la comida exquisita y los placeres sensuales son vanos e insignificantes para ella. 
 Embriagada por el vino de la juventud y derretida de orgullo, la leche no llega a su pecho. 
@@ -1179,7 +1179,7 @@ Sus amigos también están felices, sus enemigos infelices; el verdadero benefic
 Con las manos unidas, la mujer reza para que noche y día esté inmersa en el amor de Dios. 
 Nanak, el Amado y Su esposo se unen en un flirteo; mis deseos se han cumplido. 
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span> 
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 
 
 ## RAG ASA 
 
@@ -1215,7 +1215,7 @@ Haz de la visión perpetua _de Dios_ las campanas para tus pies.
 Haz del amor a nadie más que a Dios tus medidas y canciones 
 . De esta manera, danza marcando el ritmo con tus pies. 
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span> 
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span> 
 
 Que el temor de Dios esté siempre en tu corazón y sea tu agrio, 
 ya sea sentado o de pie, tus giros. 
@@ -1237,7 +1237,7 @@ Habiendo creado a los seres vivos, Tú guías sus caminos en Tu mano. ¿Qué gra
 De quién eres esposo? ¿Quién es Tu esposa? Tú lo impregnas todo. 
 Brahma, el otorgante de favores, con su progenie fue a comprobar la grandeza de Dios, 
 pero no pudo encontrar Sus límites; ¿qué grandeza se obtuvo al matar a Kans?[^4] 
-Cuando el mar de leche se batió y sus gemas brotaron <span id="p306">[<sup><small>p. 306</small></sup>]</span>, los _semidioses_ y los demonios_ reclamaron cada uno su mérito. 
+Cuando el mar de leche se batió y sus gemas brotaron <span id="p306"><sup><small>[ p. 306 ]</small></sup></span>, los _semidioses_ y los demonios_ reclamaron cada uno su mérito. 
 ¿Qué grandeza se obtuvo al distribuir las gemas entre ellos? Dice Nanak: si los hombres intentan ocultar Tu grandeza, _oh Dios_,¿Cómo se puede ocultar? 
 
 El Gurú, en su anhelo por encontrar a Dios, se compara con una novia que se regocija ante la proximidad de su matrimonio:
@@ -1262,7 +1262,7 @@ una vaca sin leche, un pájaro sin alas y la labranza sin agua no sirven de nada
 Cuando la aflicción me sobrevenga, no me olvides. 
 El ojo del hombre se ciega, su lengua pierde el gusto, sus oídos no oyen; 
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span> 
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span> 
 
 Solo puede moverse con apoyo; estos son los frutos del no servicio. 
 Haz de la Palabra el árbol del jardín, plántalo en buena tierra[^1] y riégalo con amor. 
@@ -1287,7 +1287,7 @@ No busques nada más que el trillado Nombre;
 Haz del amor de Dios tu adoración, de la quema del amor a la riqueza, tu incienso. 
 Mira solo al único Dios, no busques a ningún otro. 
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span> 
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span> 
 
 Quien repite el nombre de Dios con la boca y reflexiona sobre él, 
 lo contempla en la décima puerta del firmamento.[^1] 
@@ -1311,7 +1311,7 @@ Desde que he adorado los pies de mis compañeros y amigos,[^4] mi Amado, por la 
 Reflexionando sobre mí mismo y castigando mi corazón, veo que no hay amigo como Tú. 
 Como Tú me guardas, así vivo; soporto la aflicción y la prosperidad según Tú las concedas. 
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span> 
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span> 
 
 He disipado las esperanzas y los deseos, y ya no anhelo el dinero. 
 El hombre santo que ha hallado refugio en la compañía de los santos alcanza el cuarto estado.[^1] 
@@ -1335,7 +1335,7 @@ Quien no rompe con el amor mundano no será aceptado.
 Si Dios mira al hombre con favor, tal amor se irá, 
 oh Nanak, y él se absorberá en Dios. 
 
-Cuando el Gurú Nanak fue a Gorakhmata, la actual Nanakmata, encontró hombres religiosos de <span id="p310">[<sup><small>p. 310</small></sup>]</span> varias sectas reunidas allí. Lo siguiente fue compuesto después de una discusión con ellos:— 
+Cuando el Gurú Nanak fue a Gorakhmata, la actual Nanakmata, encontró hombres religiosos de <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> varias sectas reunidas allí. Lo siguiente fue compuesto después de una discusión con ellos:— 
 
 Quien medita en el conocimiento confiere favor a los demás; 
 cuando corrige sus malas pasiones, mora en un lugar de peregrinación; 
@@ -1367,7 +1367,7 @@ su esposo la disfrutará en el lecho.
 Entonces, Nanak, ¿complacerá el corazón de su esposo? 
 Abandonará el orgullo y se absorberá en él. 
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span> 
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span> 
 
 Es necesario temer y amar a Dios para cumplir sus mandamientos: 
 
@@ -1403,7 +1403,7 @@ Todo eso sería infructuoso si no fueras acreditado en la cuenta de Dios.
 Sin el nombre de Dios, el mundo solo es un problema. 
 Si el necio nunca es amonestado lo suficiente, sigue siendo el más ciego de los ciegos. 
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span> 
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span> 
 
 Puedes ganar cientos de rupias; puedes amasar y gastar cientos de rupias; cientos de rupias pueden ir y venir; 
 pero, si tu alma no obtiene crédito en la cuenta de Dios, ¿dónde más lo obtendrá? 
@@ -1433,7 +1433,7 @@ El hombre puede realizar toda devoción, toda penitencia y recurrir a todo recur
 sin embargo, es como si vagara por un desierto sin encontrar el camino. 
 Sin conocer a Dios, nadie es aceptable. 
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span> 
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span> 
 
 Sin el Nombre, el hombre es despreciado.[^1] 
 El Señor es permanente; el mundo va y viene. 
@@ -1465,7 +1465,7 @@ El Preservador preserva a los hombres con Su mirada favorable.
 Aquel que se borra a sí mismo conoce los tres mundos. 
 Quien comprende la Palabra, se absorberá en el Verdadero. 
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span> 
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span> 
 
 Nanak, el Creador, felicitará a 
 quien medite sin descanso en la Palabra. 
@@ -1500,7 +1500,7 @@ Sin el Nombre, el corazón es impuro y medita sobre el mal.
 Los piadosos se sacian del nombre de Dios y, buscándolo, lo encuentran fácilmente. 
 Los pecados corporales de lujuria, ira y amor mundano residen en la mente. 
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span> 
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 
 
 También lo están la codicia, la avaricia y el orgullo. 
 ¿Cómo puede la mente estar satisfecha sin el nombre de Dios? 
@@ -1537,7 +1537,7 @@ presérvanos misericordiosamente como te plazca.
 Bajo la instrucción del Gurú, Dios es agradable a mi mente. 
 La enfermedad se elimina y el dolor se aleja. 
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span> 
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span> 
 
 No hay otra medicina, hechizo o conjuro. 
 Al recordar a Dios, el pecado se destruye. Al 
@@ -1572,7 +1572,7 @@ Un enredo es la riqueza perecedera que acumulan los comerciantes.
 
 [^1]: También traducido: El hombre no está satisfecho con la extensión de su riqueza. 
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span> 
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span> 
 
 Sin devoción a Dios, el hombre no encuentra lugar. 
 Los enredos son los Veds, las discusiones religiosas y el orgullo. 
@@ -1601,7 +1601,7 @@ quienes se aferran al Nombre, la caridad y las abluciones, y quienes despiertan 
 
 
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span> 
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span> 
 
 A través del Gurú, oh Señor, se conoce la puerta de Tu casa; cuando los hombres van allí, la reconocen. 
 Dice Nanak: «Que no olvide Tu nombre y que mi corazón se reconcilie con el Verdadero». 
@@ -1627,7 +1627,7 @@ Por mucho que se meta una piedra en el agua, su núcleo se seca.
 El nombre de Dios es riqueza, el verdadero Gurú la ha dado. 
 Nanak, quien no olvida el nombre de Dios, bebe néctar destilado. 
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span> 
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span> 
 
 La ventaja de la devoción doméstica: ¿ 
 
@@ -1656,7 +1656,7 @@ Los hombres santos a través de Tu nombre llegarán a Tu corte y Tu presencia.[^
 
 
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span> 
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 
 
 Ese tiempo es auspicioso cuando el hombre reconoce la Palabra verdadera. 
 Practica la verdad, la satisfacción y el amor; y entonces la adoración del nombre de Dios será tu viático. 
@@ -1684,7 +1684,7 @@ Quien está teñida con el amor de Dios y le reza, morará en la felicidad por S
 
 [^1]: Los cinco órganos de la percepción, con intelecto y entendimiento. 
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span> 
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span> 
 
 Cuando abraces la virtud, conocerás a Dios; la virtud permanecerá contigo y el vicio será ahuyentado. 
 Sin Ti no puedo permanecer ni un instante; no obtengo satisfacción de la mera conversación contigo. 
@@ -1708,7 +1708,7 @@ Como el ciervo es atrapado, el abejorro atrapado por el loto, y el pez cae en la
 Escucha, oh ciervo negro,[^2] ¿por qué te enamoras del jardín?[^3] 
 El fruto del pecado es dulce, pero solo por cuatro días; luego se amarga. 
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span> 
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span> 
 
 El fruto que tanto anhelas, se volverá muy amargo sin el Nombre. 
 Ese fruto es como una ola del océano, o como un relámpago.
@@ -1729,7 +1729,7 @@ En verdad, dice Nanak, piénsalo, oh alma mía de tierra extraña,
 los ríos que se separan en su curso solo pueden reencontrarse por casualidad. 
 En cada época, lo dulce está lleno de veneno; algún santo excepcional lo sabe. 
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span> 
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 
 
 Alguna persona excepcional que piensa en el verdadero Gurú conoce el conocimiento divino y reconoce a Dios. 
 Sin el nombre de Dios, los necios y los descuidados vagan en la superstición y se arruinan. 
@@ -1756,7 +1756,7 @@ Brahma surgió del loto del ombligo de Vishnu y, tras armonizar su garganta, com
 Sin embargo, no pudo ver los límites de Dios y permaneció en la oscuridad de la transmigración. 
 ¿Por qué habría de olvidar al Amado, quien es el sostén de mi alma, 
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>, 
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>, 
 
 a quien la adoración perfecta, a quien los munis sirven, en quien los gurús meditan, 
 cuyas lámparas son el sol y la luna, y cuya única luz impregna los tres mundos? 
@@ -1784,7 +1784,7 @@ El Gurú solo afirma ser un instructor religioso de entre el pueblo: —Oh
 
 , Señor, no soy alto, ni bajo, ni mediocre; pertenezco al pueblo de Dios y busco su protección. 
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span> 
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span> 
 
 Solo quienes están teñidos con el Nombre se liberan del amor mundano y olvidan el duelo, la separación y la enfermedad. 
 Hermanos míos, por el favor del Gurú se obtiene el servicio a Dios. 
@@ -1807,7 +1807,7 @@ El hombre se salvará acudiendo al asilo del verdadero Gurú y repitiendo el nom
 La mente del hombre se estabiliza y practica la meditación divina bajo la instrucción del Gurú. 
 Puro es el corazón que contiene la verdad y la excelente joya del conocimiento divino. 
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span> 
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span> 
 
 Oh hombre, por temor, amor y servicio, y fijando tu atención en los pies de Dios, cruzarás el terrible océano. 
 Oh Dios, pon en mi corazón Tu nombre, que es el más puro de los puros; mi cuerpo está en Tu santuario. 
@@ -1865,7 +1865,7 @@ Dondequiera que te sientes, habla cortésmente y fija tu atención en la palabra
 Cuando Tú, _oh Señor_, me hiciste hablar, hablé. 
 Tu nombre ambrosial es grato a mi alma. 
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span> 
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span> 
 
 Tu nombre es dulce a mi alma; una carga de tristeza se ha desprendido de mí. 
 Cuando diste la orden, la felicidad llegó y se asentó en mi corazón. 
@@ -1893,7 +1893,7 @@ No busques al Verdadero a lo lejos; Él está en cada corazón y es conocido por
 Por la instrucción del Gurú, conoce al Verdadero que hizo la creación; no lo consideres distante. 
 Medita en el Nombre y obtendrás la felicidad; sin el Nombre, el hombre no es victorioso en la arena del mundo. 
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span> 
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 
 
 Quien estableció el mundo conoce sus caminos; ¿qué dirán? 
 Quien estableció el mundo extendió la red de Mammón; acepta a ese Señor _con tu corazón_. 
@@ -1924,7 +1924,7 @@ Nanak, el hombre tendrá que llevar en su cuello tantas cadenas como pecados ten
 Si posee virtudes, que son como hermanos y amigos, sus cadenas serán cortadas. 
 Quienes no tengan Gurú no serán aceptados en el futuro; serán golpeados y expulsados. 
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span> 
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span> 
 
 Lo siguiente se opone a todas las formas de religión, excepto a las deístas: 
 
@@ -1951,7 +1951,7 @@ La condición de un hombre que no tiene un Gurú que le comunique el nombre de D
 Como un pez sin agua, así es el infiel, muriendo de sed. 
 Si tu aliento es en vano, oh hombre, morirás sin Dios. 
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span> 
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span> 
 
 Oh hombre, repite el nombre y las alabanzas de Dios; 
 ¿pero cómo obtendrás este placer sin el Gurú? Es el Gurú quien une al hombre con Dios. 
@@ -1977,7 +1977,7 @@ Repite siempre el Nombre Puro bajo la instrucción del Gurú, entonces tu coraz�
 Abandona la codicia y la calumnia, renuncia a la falsedad y obtendrás el verdadero fruto a través de la instrucción del Gurú. 
 Oh Dios, presérvame como te plazca; Nanak alaba tu Palabra. 
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span> 
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 
 
 Dios es el Benefactor invisible y se complace cuando los hombres obedecen Sus mandatos: — 
 
@@ -2002,7 +2002,7 @@ El Gurú desaprueba la idolatría y luego da su noción de un Bairagi ideal, o r
 Que no entre en la casa extraña impulsado por la codicia![^2] ¡que el Nombre extinga mi codicia! 
 El Gurú me mostró a Dios en mi propio hogar; Mi corazón se enamoró fácilmente de Él, hermanos míos. 
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span> 
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span> 
 
 Eres sabio, eres previsor; solo Tú, oh Señor, otorgas sabiduría. 
 Mi corazón no ama al mundo; está teñido de su odio; la Palabra ha penetrado en mi corazón, oh madre mía. 
@@ -2023,7 +2023,7 @@ Infinito, infinito, inaccesible, inaprensible, Tu valor no se puede obtener con 
 Sun Samadh,[^1] Mahaparamarath,[^2] y Señor de los tres mundos son nombres Tuyos. 
 Todos los animales que nacen en el mundo tienen su destino grabado en la frente y deben cumplir lo que les está destinado. 
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span> 
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span> 
 
 Es Dios quien hace que el hombre realice buenas obras y lo hace firme en su servicio. 
 Cuando el hombre teme a Dios, la suciedad de su alma y cuerpo desaparece, y Dios mismo le otorga el conocimiento divino: 
@@ -2044,7 +2044,7 @@ La siguiente fue la instrucción del Gurú a un Brahmán: —Las
 
 esperanzas y los deseos son enredos, hermano mío; tus ceremonias religiosas también son enredos.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span> 
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span> 
 
 El hombre, hermano mío, nace en el mundo como resultado de malas y buenas acciones;[^1] perece cuando olvida el Nombre. 
 Maya hechiza al mundo, hermano mío; todas tus ceremonias religiosas son inútiles. 
@@ -2065,7 +2065,7 @@ El Dios invisible habita en cada corazón, pero sin el Gurú, el hombre se arrui
 Maya ha atado este mundo por todos lados con su cuerda: 
 sin un gurú, su nudo no se puede desatar; el hombre se cansa de esforzarse. 
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span> 
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span> 
 
 Este mundo se extravía por la superstición; las palabras no sirven de nada. 
 Al encontrar al Gurú, hermano mío, el temor de Dios penetra en el corazón. Morir en el temor de Dios es el verdadero destino del hombre. 
@@ -2096,7 +2096,7 @@ Aquel a quien Dios mira con favor le servirá.
 ¿Cómo podré, oh Amado, vivir sin Ti? 
 Concédeme el favor de permanecer apegado a Tu nombre. 
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span> 
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span> 
 
 No hay otro, oh mi Amado, a quien pueda acudir para dirigirme. 
 Sirvo a mi Señor, no le ruego a ningún otro . 
@@ -2123,7 +2123,7 @@ Si un ladrón alaba al magistrado, este no se complace;
 si lo injuria, no le desagrada en lo más mínimo. 
 Nadie será fiador de un ladrón. 
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span> 
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span> 
 
 ¿Cómo puede ser bueno lo que hace un ladrón? 
 Escucha, oh necio, perro y mentiroso, 
@@ -2158,7 +2158,7 @@ y quien solo por el favor del Gurú reconoce al Uno.
 Es un Qazi quien aparta a los hombres del mundo, 
 y quien por el favor del Gurú, en vida, está muerto. 
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span> 
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span> 
 
 Es un brahmán quien reflexiona sobre Dios: 
 se salvará a sí mismo y salvará a todos sus parientes. 
@@ -2193,7 +2193,7 @@ Si dice mentiras, no sirve de nada:
 Si dice mentiras, no sirve de nada que su Esposo no la mire. 
 Sin méritos, olvidada por su Esposo, y falsa, dolorosas son sus noches. 
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span> 
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 
 
 ## RAG SUHI 
 
@@ -2233,7 +2233,7 @@ Oh Amado Soberano, toma mi mano.
 Dice Nanak: «El Señor es, era y será». 
 El Amado disfrutará de quien le complace. 
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span> 
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span> 
 
 Instrucciones misceláneas del Gurú: 
 
@@ -2256,7 +2256,7 @@ Cuando se les pida cuentas, deben rendirlas; serán examinadas y consideradas.
 El hombre se salvará por su amor al Verdadero; el Perdonador lo perdonará. 
 Si se hace amigo de alguien que no sea Dios, morirá y se fundirá con el polvo. 
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span> 
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span> 
 
 El hombre, al contemplar las diversas fases de la vida, se extravía, y al extraviarse sufre la transmigración; 
 pero será emancipado por una mirada favorable de Dios, y Dios lo fundirá consigo mismo. 
@@ -2285,7 +2285,7 @@ Apliqué el gran bálsamo del conocimiento divino a mis ojos y vi la forma de Di
 
 
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span> 
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span> 
 
 Bienvenidos, compañeros, canten con entusiasmo una canción de regocijo, pues mi Esposo ha regresado a casa. 
 Mi alma y mi cuerpo están bañados de néctar, 
@@ -2310,7 +2310,7 @@ Al contemplarte me he liberado del deseo; el dolor del nacimiento y la muerte ha
 En todas las cosas está Tu luz; de ella eres conocido, pero eres encontrado por el amor. 
 Nanak, soy un sacrificio para el Amigo; el Verdadero se encuentra _cuando mi mente_ regresa a casa. 
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span> 
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span> 
 
 ## SUHI KI WAR 
 
@@ -2343,7 +2343,7 @@ ladrones, adúlteros, prostitutas y proxenetas tienen por costumbre
 entablar amistad con los irreligiosos y cenar con ellos. 
 No piensan en las alabanzas de Dios; el diablo siempre mora _en sus corazones_. 
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span> 
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span> 
 
 Si se frota una sandalia en un burro, seguirá revuelciéndose en el polvo. 
 Nanak, tejiendo falsedades se teje la red de la falsedad. 
@@ -2428,7 +2428,7 @@ La devoción sincera es superior a todas las ofrendas y abluciones: —
 El décimo día del mes lunar, repitan el Nombre como ofrendas y abluciones. 
 Noche y día, lávense en los atributos y el conocimiento del Verdadero. 
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span> 
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span> 
 
 Cuando las dudas y los temores hayan huido,La impureza no se adherirá al corazón sincero. 
 Una cuerda frágil pronto se romperá.
@@ -2453,7 +2453,7 @@ Nanak representa, si Tú das _Tu nombre_, me ayudará en la última hora.
 
 Después de la muerte de un hindú, se mantiene una lámpara encendida durante varios días para iluminar el alma del difunto al otro mundo. Luego se flota en el agua. Gurú Nanak escribe la siguiente homilía sobre la costumbre: - 
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span> 
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span> 
 
 Adora a Dios[^1] de la siguiente manera: 
 Convierte tu cuerpo en una balsa[^2] por la cual puedas cruzar. 
@@ -2485,7 +2485,7 @@ Un hombre excepcional obtiene el servicio de Dios mediante la enseñanza del Gur
 El Jogi que conoce el camino habita en un hogar apacible. 
 Quien se satisface con las limosnas del amor y la Palabra contempla a todos los hombres con igualdad de ojos. 
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span> 
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span> 
 
 Los cinco bueyes[^1] tiran del carro del cuerpo: 
 Todo marcha bien por la voluntad de Dios. 
@@ -2512,7 +2512,7 @@ Se dice que Gurú Nanak en su excursión al Himalaya se encontró con un Jogi ll
 , Jogi, construyes una choza y predicas al mundo. 
 Si, abandonando tus actitudes devocionales, mendigas de puerta en puerta, ¿cómo alcanzarás al Verdadero? 
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span> 
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span> 
 
 Amas a Mammón y a la mujer, 
 y no eres ni un anacoreta ni un hombre mundano. 
@@ -2539,7 +2539,7 @@ Sin el conocimiento divino más elevado no hay emancipación.
 Estás seducido por los placeres de la lengua y los órganos sensuales. 
 Te has convertido en una bestia, y su marca no se borrará. 
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span> 
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span> 
 
 Hay tres clases de personas y tres clases de Jog.[^1] 
 El que medita en la Palabra no necesitará lamento. 
@@ -2570,7 +2570,7 @@ Al hacer cálculos como los tuyos, la duda y la tristeza invaden la mente .
 Pero, cuando se busca la protección del Gurú, surge la felicidad. 
 Habiendo pecado, acudimos a él en busca de protección. 
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span> 
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span> 
 
 Según las acciones del hombre en un estado anterior, el Gurú lo lleva al encuentro con Dios. 
 Dios no puede alcanzarse a menos que el hombre se acoja a la protección del Gurú; 
@@ -2597,7 +2597,7 @@ Como tu goce así será tu sufrimiento; Por olvidar el Nombre caerás en el terr
 Te enorgulleces al contemplar tu belleza y riqueza. 
 Has extendido tu amor al oro y a la mujer; ¿por qué has olvidado el Nombre y te has extraviado? 
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span> 
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span> 
 
 Al no haber practicado la continencia, la verdad, el autocontrol ni la virtud, sufrirás en el esqueleto de un fantasma. 
 Las limosnas, las abluciones y las austeridades no sirven de nada sin la asociación con los santos; has nacido en vano. 
@@ -2617,7 +2617,7 @@ Lloras por los muertos; ¿quién oye tu llanto
 ? Aquel por quien lloras podría haber caído ante el dragón en el mar del terror. 
 El infiel, al contemplar su familia, riquezas, casas y mansiones, cae en enredos innecesarios. 
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span> 
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span> 
 
 El hombre llega cuando Dios lo envía y se va cuando Dios lo llama. 
 Dios continúa haciendo lo que es debido; el Perdonador perdona. 
@@ -2645,7 +2645,7 @@ Lo siguiente es una sátira sobre los hombres que se declaran religiosos de la �
 
 Aquellos que se llaman a sí mismos virtuosos, cometen pecado y fingen que están haciendo el bien. 
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span> 
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span> 
 
 Los gurús van a casas particulares a impartir instrucción. 
 Una mujer ama al hombre por el dinero que este gana para ella; 
@@ -2682,7 +2682,7 @@ y por eso se ponen aretes en las orejas y se convierten en sus discípulos.
 Con aretes vagan por el mundo, 
 mientras que el Creador que fingen buscar está en todas partes. 
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span> 
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span> 
 
 Todas las almas son viajeros: 
 Cuando la sentencia de muerte llegue para ellas, no debe haber demora. 
@@ -2738,7 +2738,7 @@ en
 casa y predica al mundo; 
 extraviado por la superstición, desconoce la Palabra y pierde la partida. 
 El fuego que lleva dentro no se extingue sin el Gurú, pero también se calienta con fuegos externos. 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span> 
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span> 
 No hay adoración sin servir al Gurú; ¿cómo puede el hombre reconocer a Dios por sí mismo? 
 Quien calumnia a otros morará en el infierno y será separado del Espíritu Supremo. 
 Quien vaga por los sesenta y ocho lugares de peregrinación se arruina por ello; ¿cómo puede lavar la inmundicia de sus pecados? 
@@ -2759,7 +2759,7 @@ Con veneno en el corazón, finge no tener dudas, pero la muerte lo deshonrará.
 Quien sirve al Verdadero Gurú y elimina el orgullo de su corazón, es un verdadero Sanyasi; 
 no desea ropa ni comida, sino que acepta lo que se le ofrece libremente; 
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span> 
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span> 
 
 No habla; acumula la riqueza de la paciencia y somete sus pasiones con el nombre de Dios. 
 Bendiciones para aquel hombre que, ya sea cabeza de familia, sanyasi o jogi, fije su atención en los pies de Dios. 
@@ -2782,7 +2782,7 @@ Separada como estoy de mi Amado en la casa de mi padre, ¿cómo lo encontraré e
 Llevo deméritos alrededor de mi cuello; estoy arruinada sin el Amado; me muero de la muerte. 
 Si en la casa de mi padre recuerdo al Amado, encontraré morada en la suya. 
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span> 
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span> 
 
 La esposa que ha encontrado a su Amado,El Señor de las excelencias, duerme en paz.
 Ella hace una colcha de seda y un colchón para su lecho, y se viste con una túnica costosa. 
@@ -2806,7 +2806,7 @@ Las tías paternas y maternas, las abuelas y las esposas de los hermanos menores
 van y vienen; no se detienen, sino que parten como relevos de pasajeros. 
 Los tíos maternos y sus esposas, hermanos, padres y madres no permanecen. 
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span> 
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span> 
 
 Reunidos en grandes multitudes junto al río, parten con su equipaje como viajeros. 
 Oh, compañeros míos, mi Esposo está teñido con el color verdadero. 
@@ -2838,7 +2838,7 @@ Las alabanzas de Dios son perlas, gemas y diamantes; cantarlas alegra el alma y 
 
 [^1]: _Deh_ en el original, pronunciado exactamente igual que su equivalente en español. 
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span> 
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span> 
 
 Dios es inaccesible, insondable, completamente distinto _de Su creación_. 
 El gran Sustentador de la tierra no tiene fin. 
@@ -2865,7 +2865,7 @@ El camino es muy angosto, como el filo de una espada.
 Se le tomará cuenta al hombre y se le presionará como a un grano de sésamo. 
 Allí ninguna madre, padre, esposa o hijo te apoyará; sin amor a Dios no hay emancipación. 
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span> 
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span> 
 
 Por muchos que sean tus amigos y compañeros en el mundo, 
 no hay verdaderos amigos sino el Gurú y Dios. 
@@ -2896,7 +2896,7 @@ que sostiene cuidadosamente el globo terráqueo.
 El Creador contempla la obra de sus manos; fiel e independiente, 
 creó las diferentes especies de animales. 
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span> 
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span> 
 
 Dos viajeros[^1] han trazado dos caminos. 
 No hay emancipación sin el Gurú perfecto; es provechoso repetir el Nombre verdadero. 
@@ -2923,7 +2923,7 @@ Buenos son los que tratan con la verdad.
 Por la sabiduría del Gurú obtienen la verdadera mercancía. 
 Quien posee la riqueza de la verdadera mercancía, se embelesa con la Palabra verdadera. 
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span> 
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span> 
 
 La pérdida se acumula por los tratos falsos. 
 Los piadosos continúan sus tratos según la voluntad de Dios. 
@@ -2947,7 +2947,7 @@ Muchos describen tus atributos, oh Señor; ¿de qué sirve mi palabra?
 El más grande de los grandes no encuentra tu límite. 
 ¡Nanak, que pueda alcanzar la verdad! ¡Preserva mi honor, oh Señor! ¡Tú eres el Monarca de los monarcas! 
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span> 
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span> 
 
 Se dice que la siguiente instrucción fue dada a Taru y Bharu durante la feria Baisakhi en Kartarpur: —Apartaos 
 
@@ -2975,7 +2975,7 @@ Si Dios está complacido, nos hará encontrar al verdadero Gurú y salvar al mun
 Los mirmidones de la Muerte y la Muerte misma adoran los pies de quienes 
 repiten el nombre de Dios bajo las enseñanzas y directrices del Gurú. 
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span> 
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span> 
 
 El estado y la condición del hombre se exaltan con la compañía exaltada, y él cruza el terrible océano del mundo. 
 Este mundo, que es un océano terrible, se cruza por la instrucción del Gurú 
@@ -3000,7 +3000,7 @@ Quien sabe que Dios está con él, ya sea en casa o fuera,
 quien permanece apegado al mundo y trae a casa su mente errante, 
 obtendrá, oh Nanak, la esencia ambrosial del Verdadero que mora en los tres mundos y que existía antes de todas las cosas. 
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span> 
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span> 
 
 ## MARU KI WAR I 
 
@@ -3029,7 +3029,7 @@ Donde hay hombre, no estás orgulloso; donde estás Tú, no hay orgullo.
 Oh hombres de conocimiento divino, comprendan este enigma: la historia del Inefable está en el corazón, 
 pero sin el Gurú no se puede encontrar la Cosa Real, está oculta aunque mora en cada corazón, 
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span> 
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span> 
 
 A Dios se le conoce al encontrar al verdadero Gurú e implantar su instrucción en el corazón. 
 Cuando el orgullo se va, la duda, el miedo y el dolor de la transmigración se van. 
@@ -3053,7 +3053,7 @@ no estará satisfecho sin el nombre de Dios; es bajo la presión de los actos pr
 Tú, oh Dios, estás en todas las criaturas que están en el agua, la tierra firme, las regiones inferiores y el firmamento. 
 Por el favor del Gurú, preserva a tu siervo; Nanak, agitando el elixir de Dios, lo ha bebido. 
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span> 
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span> 
 
 ## RAG BASANT 
 
@@ -3077,7 +3077,7 @@ Lo siguiente es una refutación de las ideas generales de la India sobre el tema
 No hay impureza en las canciones,[^2] no hay impureza en el conocimiento;[^3] 
 no hay impureza en las diferentes fases de la luna o el sol; 
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span> 
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span> 
 
 No hay impureza en el maíz, no hay impureza en la ablución;[^1] 
 no hay impureza en la lluvia que cae por todas partes 
@@ -3103,7 +3103,7 @@ le ofreces kungu, sándalo y flores
 Te postras a sus pies y lo propicias al máximo 
 Sin embargo, es mediante la continua mendicidad de los hombres que te vistes y te mantienes. 
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span> 
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span> 
 
 Por tales actos necios recibirás el castigo de los necios. 
 El ídolo no te da cuando tienes hambre ni te preserva de la muerte. 
@@ -3134,7 +3134,7 @@ Con la sabiduría se adora al Señor; con la sabiduría se obtiene honor.
 Con la sabiduría se entiende lo que se lee, con la sabiduría se dan las limosnas debidamente. 
 Nanak dice: estos son los caminos de la sabiduría, todo lo demás son caminos de maldad. 
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span> 
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span> 
 
 Las virtudes y prácticas más poderosas para asegurar la liberación: 
 
@@ -3164,7 +3164,7 @@ El Dios inaccesible e ilimitado mora en el corazón del hombre.
 Quien se guíe por la preciosa instrucción del Gurú, 
 y considere la pena y la alegría, la censura y la alabanza del mundo como lo mismo, obtendrá néctar en su corazón. 
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span> 
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span> 
 
 La sabiduría, el conocimiento y la comprensión se obtienen del nombre de Dios; el amor de Dios se obtiene mediante la asociación con los santos. 
 Día y noche se obtiene beneficio del nombre de Dios, dado por el benéfico Gurú. 
@@ -3188,7 +3188,7 @@ El pez que nace y vive en el agua, obtiene prosperidad y desgracia según sus ac
 No puede vivir ni un instante sin agua; su muerte o su vida dependen de ello. 
 La mujer está separada de su Amado, que vive en el extranjero; le envía un mensaje a través del verdadero Gurú. 
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span> 
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span> 
 
 Todos gritan "¡Prio, prio!", pero solo pueden obtener a su Amado si le place al Gurú. 
 El Amado está con nosotros; siempre se asocia con la verdad; fusiona consigo mismo a quienes mira con favor. 
@@ -3215,7 +3215,7 @@ Ladrones, adúlteros y jugadores serán presionados como sésamo;
 calumniadores y difamadores serán arrastrados por la inundación. 
 Los piadosos que están absortos en el Verdadero serán conocidos en la corte de Dios. 
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span> 
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span> 
 
 Las ventajas mundanas distraen la mente de los hombres de la devoción: 
 
@@ -3247,7 +3247,7 @@ Una sátira sobre las sectas y ritualistas hindúes: Los
 Jogis se arruinan en doce sectas, los Sanyasis en diez. 
 Los Jogis, los Kaprias y los Saravagis de cabeza depilada sin la Palabra llevan sogas alrededor de sus cuellos. 
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span> 
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span> 
 
 Aquellos que están teñidos por la Palabra son Bairagis perfectos, 
 Que mendigan para obtener limosna _en la bolsa_ de sus corazones para que su amor se fije solo en Dios. 
@@ -3268,7 +3268,7 @@ El necio se contamina, y cuanto más se lava, más se contamina; la suciedad de 
 Todos los actos religiosos son vanos, excepto la repetición del Nombre; son como trucos de prestidigitador que engañan a los espectadores. 
 Los seis deberes religiosos están contenidos en el nombre del Brillante. 
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span> 
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span> 
 
 Tú eres, oh Dios, un océano de méritos; en mí hay deméritos. 
 La búsqueda de cosas mundanas es un acto necio y pecaminoso. 

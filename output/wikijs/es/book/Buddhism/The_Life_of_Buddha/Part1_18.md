@@ -103,7 +103,7 @@ Luego le preguntó a la joven:
 
 Salió con el cuenco en las manos y caminó hasta la orilla del río. Se bañó y comió. Cuando el cuenco estuvo vacío, lo arrojó al agua y dijo:
 
-“Si he de convertirme en Buda hoy mismo, que <span id="p87">[<sup><small>p. 87</small></sup>]</span> el cuenco vaya río arriba; si no, que vaya con la corriente.”
+“Si he de convertirme en Buda hoy mismo, que <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> el cuenco vaya río arriba; si no, que vaya con la corriente.”
 
 El cuenco flotó hasta el centro del río y luego rápidamente empezó a remontar la corriente. Desapareció en un remolino, y el héroe oyó el sonido sordo al aterrizar en el mundo subterráneo, entre los otros cuencos que los antiguos budas habían vaciado y tirado.
 

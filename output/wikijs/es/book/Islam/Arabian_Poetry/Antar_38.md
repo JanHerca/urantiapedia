@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 El rey Zoheir no tardó en desear la presencia del campeón de Abs y Adnan. Tras negarse a dar a su hija en matrimonio a Numan, rey de Hirah, éste envió a su hermano, el príncipe Aswad, con un gran ejército para devastar la tierra de Abs; y Antar decidió patrióticamente ayudar a su soberano y viejo amigo a repeler a los invasores. El ejército del príncipe Aswad fue destruido por una estratagema de Shiboob, que se las arregló para obtener acceso a sus odres de agua y, cortándolos, dejó escapar toda el agua. Debilitados por la sed, fueron fácilmente vencidos por una fuerza muy pequeña de absianos, y, entre otros, el príncipe Aswad fue hecho prisionero.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Mientras tanto, la famosa guerrera Jaida, que había sido capturada por Antar y luego escapó, partió de su propio país para vengar al héroe por la muerte de Khalid. Sin embargo, no se encontró con Antar, sino que, atacando a un grupo de abisianos, tomó prisioneros a Malik y Abla; luego fue a Irak y los entregó a Numan, quien declaró que ahorcaría a Abla junto a Antar y que no dejaría con vida a ningún abisiano. Pero cuando se enteró de la gran victoria de Antar sobre el ejército de su hermano, envió un sátrapa al héroe, ofreciendo intercambiar a Abla y las otras mujeres abisianas por el príncipe Aswad y sus compañeros. El mensajero real regresó con la respuesta de que Abla y todas sus joyas debían ser devueltas antes de que él liberara al príncipe Aswad; y Numan, al escuchar de su sátrapa un relato aterrador de las hazañas y el prodigioso coraje de Antar, accedió de inmediato a la demanda del héroe. Tan pronto como Abla y su padre fueron restaurados a su tribu, Antar procedió a liberar a sus prisioneros, entre los que se encontraba Maadi Kereb, un primo de Jaida.
 
@@ -46,7 +46,7 @@ La bella enemiga del héroe, Jaida, todavía deseosa de vengar la muerte de su m
 
 ¡Oh por mi tribu! Las lágrimas han supurado mis mejillas, y en la grandeza de mi agonía el sueño me ha abandonado.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Estas prendas de luto han debilitado mis energías, y la enfermedad ha debilitado mis huesos y mi piel;
 
@@ -82,7 +82,7 @@ La varita de la felicidad ondeaba sobre nosotros, como si la fortuna hubiera sid
 
 ¡Oh, Hijar! ¡Oye! Te enseñaré mi posición: no te atreverás a luchar contra mí, ¡por desgraciada que estés!
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 ¿Has olvidado en el Valle de los Torrentes las hazañas de mi valor y cómo derroté a los ejércitos, a pesar de lo impávidos que estaban?
 
@@ -112,7 +112,7 @@ No es el empuje de la lanza ni la batalla entre mis cualidades; no profeso ningu
 
 Mi nombre es Ocab: pero en realidad no soy un hombre de guerra; y la espada en la palma de mi mano sólo persigue pelícanos.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 «Antar se rió de los versos de Ocab y lo dejó marchar. «Vuelve con tu familia», le dijo, «y no vayas más a ver a los persas, o correrás peligro; porque cuando te vean a salvo te acusarán y tal vez te condenen a muerte». «Tienes mucha razón, mi señor», dijo; «por la fe de un árabe que, si hubiera sabido que esos persas serían derrotados de esta manera, no te habría abandonado; y probablemente habría logrado apoderarme de algunos de sus bienes y regresar con ellos a mi familia». «Jeque», dijo el compañero de Antar, «este negocio ha fracasado; pero ven, toma el botín de este sátrapa, vuelve con tu familia y no pases la noche como un hombre muerto». «Sí, mi señor», dijo Ocab, «es un hombre sabio el que regresa sano y salvo a sus amigos». Así que corrió hacia el sátrapa y lo despojó. Alrededor de su cintura había un cinturón y una espada, y cuando Ocab vio toda esa riqueza se quedó desconcertado; y habiéndolo saqueado por completo, «Oh mi señor», le dijo a Antar, «nunca más me separaré de ti. Desearía que me presentaras a tu rey, para que pueda besarle la mano y ofrecerle mis servicios: entonces, de verdad, me uniré para siempre a tu partido, y siempre que mates a un sátrapa lo saquearé». Antar se rió de buena gana.
 

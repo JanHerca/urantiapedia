@@ -29,7 +29,7 @@ dateCreated: 2024-11-10T11:17:18Z
   </table>
 </figure>
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 _’Abdallah ibn ’Abbás_, [39](/es/book/Islam/Oriental_Mysticism/2_5#p39)
 
@@ -117,7 +117,7 @@ Fe, Confesión de, [17](/es/book/Islam/Oriental_Mysticism/1_4#p17)
 
 _Faná_, [67](/es/book/Islam/Oriental_Mysticism/5_5#p67)
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Compañerismo, [14](/es/book/Islam/Oriental_Mysticism/1_3#p14)
 
@@ -245,7 +245,7 @@ Sentidos, Los, [53](/es/book/Islam/Oriental_Mysticism/5_2#p53)
 
 Sires Séptuples, Los, [36](/es/book/Islam/Oriental_Mysticism/2_4#p36), n.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 Shafiita, [10](/es/book/Islam/Oriental_Mysticism/1_2#p10)
 

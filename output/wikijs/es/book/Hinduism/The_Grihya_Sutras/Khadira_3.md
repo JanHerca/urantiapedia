@@ -165,7 +165,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 3\. Debería verter el resto del agua.
 
-4\. Después de tocar el agua, debe hacer lo mismo <span id="p412">[<sup><small>p. 412</small></sup>]</span> hacia las otras direcciones (del horizonte) según se mencionan en los Mantras.
+4\. Después de tocar el agua, debe hacer lo mismo <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> hacia las otras direcciones (del horizonte) según se mencionan en los Mantras.
 
 <small>2, 1. <i>s</i>râva<i>n</i>yâ<i>m</i> paur<i>n</i>amâsyâ<i>m</i> g<i>ri</i>hâd agnim atipra<i>n</i>îya pratidi<i>s</i>am upalimped adhike prakrame. 2. sak<i>ri</i>dg<i>ri</i>hîtân saktûn darvyâ<i>m</i> k<i>ri</i>tvâ pûrvopalipte ninîyâpo ya<i>h</i> prâ<i>k</i>yâm iti bali<i>m</i> nirvapen. 3. ninayed apâ<i>m</i> <i>s</i>esham. 4. apa upasp<i>ri</i><i>s</i>yaiva<i>m</i> pratidi<i>s</i>a<i>m</i> yathâliṅga<i>m</i>.</small>
 
@@ -233,7 +233,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 32\. En caso de caída de un meteoro, o después de un terremoto, o de un eclipse de sol o de luna, en estas ocasiones uno debe saber (que está prohibido estudiar) hasta la misma hora del día siguiente.
 
-33\. Los Kathās y Kauthumas, sin embargo, afirman <span id="p415">[<sup><small>p. 415</small></sup>]</span> que (cuando llueve, está prohibido estudiar) mientras el agua permanezca en las zanjas.
+33\. Los Kathās y Kauthumas, sin embargo, afirman <span id="p415"><sup><small>[ p. 415 ]</small></sup></span> que (cuando llueve, está prohibido estudiar) mientras el agua permanezca en las zanjas.
 
 <small>23. ऽn.uvâkyâ<i>h</i> kuryur <i>ri</i>gâdibhi<i>h</i> prastâvai<i>s</i> <i>k</i>â. 24. ऽnugâna<i>m</i> rahasyânâ<i>m</i>. 25. vidyutstanayitnuvar<i>g</i>am. 26. ardhapa<i>ñ</i><i>k</i>amân mâsân adhîtya paushîm utsargas. 27. tata ûrdhvam mantrânâdhyâyo (correcto, abhrânâdhyâyo). 28. vidyutstanayitnuv<i>ri</i>sh<i>t</i>iteshu (correcto, °prushiteshu o °p<i>ri</i>shiteshu; véase la nota de Ludwig sobre el Rig-veda VIII, I, 12) <i>k</i>a. 29. trisannipâte trisandhyam. 30. ash<i>t</i>akâm amâvâsyâ<i>m</i> <i>k</i>âturmâsîr udagayane <i>k</i>a pakshi<i>n</i>î<i>m</i> râtrî<i>m</i>. 31. sabrahma<i>k</i>âri<i>n</i>i <i>k</i>a preta. 32. ulkâpâte bhûmi<i>k</i>ale <i>g</i>yotisho<i>s</i> <i>k</i>opasarga eteshv âkâlika<i>m</i> vidyât. 33. kârshvan tu Ka<i>th</i>akauthumâ<i>h</i>.</small>
 
@@ -444,7 +444,7 @@ III, 1, 1. âplavane purastâd âkâryakulasya parivrita âsta. 2. udaṅmukha �
 
 20. Conteniendo la respiración y fijando sus pensamientos en algo bueno, mientras se volvía (del mismo modo), murmuraba: «Los Padres se han divertido; han demostrado su vigor varonil, cada uno en su parte» (MB. II, 3, 7).
 
-21\. Debe rociar colirio sobre tres hojas de darbha— <span id="p423">[<sup><small>p. 423</small></sup>]</span>, y colocarlas en los hoyos de la misma manera que las Pi<i> karshvâ</i><i> karshvâ</i>as,
+21\. Debe rociar colirio sobre tres hojas de darbha— <span id="p423"><sup><small>[ p. 423 ]</small></sup></span>, y colocarlas en los hoyos de la misma manera que las Pi<i> karshvâ</i><i> karshvâ</i>as,
 
 <small>14. pûrvasyâ<i>i>m</i> karshvâ<i>i>m</i> pitur. 15. madhyamâyâ<i>i>m</i> pitâmahasyo. 16. ऽttamâyâ<i>i>m</i> prapitâmahasyo. 17. ऽdapâtrâ<i>i>n</i>y apasalavi karshûshu ninayed ekaikasya nâmoktvâsâv avanenikshva ye <i>k</i>âtra tvânu yâ<i>i>m</i><i>s</i> <i>k</i>a tram anu tasmai te svâheti (correcto, svadheti). 18. tathaiva pi<i>n</i><i>d</i>ân nidhâya <i>boqueado</i>atra pitaro mâdayadhva<i>m</i> yathâbhâgam âv<i>ri</i>shâyadhvam ity. 19. uktvodaṅṅ âvarteta savya<i>m</i> bâhum upasa<i>m</i>h<i>ri</i>tya prasavyam âv<i>ri</i>tyo. 20. ऽpatâmya kalyâ<i>n</i>a<i>m</i> dhyâyann abhiparyâvartamâno <i>gaped</i>ainîmadanta pitaro yathâbhâgam âv<i>ri</i>shâyishateti. 21. tisro darbhapi<i>ñ</i><i>g</i>ûlîr a<i>ñ</i><i>g</i>anena nigh<i>ri</i>shya karshûshu nidadhyâd yathâpi<i>n</i><i>d</i>a<i>m</i>.</small>
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 **CAPÍTULO V.**
 
@@ -52,7 +52,7 @@ El primer protector real de Jelāl, ‘Alā’u-’d-Dīn Keyqubād, estaba ahor
 
 Un día el monarca hizo un banquete en los viñedos y salió a pasear solo por los campos. Tomó una serpiente joven, la llevó adentro, la colocó en una caja de oro, la selló y luego se reunió con sus cortesanos.
 
-A aquellos asistentes el rey les mostró el paquete sellado, como si acabara de ser recibido en privado del Qaysar[^26] <span id="p111">[<sup><small>p. 111</small></sup>]</span> de Constantinopla con un mensaje en este sentido: «Si su religión del Islam es la verdadera fe, alguno de sus sabios podrá ver dentro de este paquete sin romper sus sellos, y decir lo que contiene».
+A aquellos asistentes el rey les mostró el paquete sellado, como si acabara de ser recibido en privado del Qaysar[^26] <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> de Constantinopla con un mensaje en este sentido: «Si su religión del Islam es la verdadera fe, alguno de sus sabios podrá ver dentro de este paquete sin romper sus sellos, y decir lo que contiene».
 
 El rey entonces llamó a sus ministros para que demostraran su lealtad hacia él y su fidelidad a su religión resolviendo este enigma. Ninguno de ellos fue capaz.
 
@@ -72,7 +72,7 @@ Jelāl solía llamar a Fātima su _ojo derecho_; a su hermana Hediyya, _su ojo i
 
 Cuando se solemnizó el matrimonio de Fátima, todos los ángeles del cielo estaban presentes y desearon a la joven pareja toda la felicidad.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Era una santa que obraba continuamente milagros. Ayunaba de día y velaba de noche, probando comida sólo una vez cada tres días. Era muy caritativa con los pobres, los huérfanos y las viudas, distribuyéndoles comida y vestidos.
 

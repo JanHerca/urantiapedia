@@ -138,7 +138,7 @@ Así, Gotama, así como cerca de una aldea o un pueblo hay muchos y diversos cam
 
 15\. 'En verdad, Vâse<i>tth</i>a, que los brahmanes versados ​​en los Tres Vedas puedan mostrar el camino hacia un estado de unión con aquello que no conocen ni han visto, ¡tal condición de cosas no existe!
 
-«Así, Vâse<i>tth</i>a, como cuando una hilera de ciegos se aferran unos a otros[^11], ni el primero <span id="p174">[<sup><small>p. 174</small></sup>]</span> puede ver, ni el del medio puede ver, ni el del último puede ver; así también, me parece, Vâse<i>tth</i>a, la conversación de los brahmanes versados ​​en los Tres Vedas es pura charla ciega: el primero no ve, el del medio no ve, ni el último puede ver. Entonces, la conversación de estos brahmanes versados ​​en los Tres Vedas resulta ridícula, meras palabras, ¡algo vano y vacío!»
+«Así, Vâse<i>tth</i>a, como cuando una hilera de ciegos se aferran unos a otros[^11], ni el primero <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> puede ver, ni el del medio puede ver, ni el del último puede ver; así también, me parece, Vâse<i>tth</i>a, la conversación de los brahmanes versados ​​en los Tres Vedas es pura charla ciega: el primero no ve, el del medio no ve, ni el último puede ver. Entonces, la conversación de estos brahmanes versados ​​en los Tres Vedas resulta ridícula, meras palabras, ¡algo vano y vacío!»
 
 ---
 
@@ -150,7 +150,7 @@ Así, Gotama, así como cerca de una aldea o un pueblo hay muchos y diversos cam
 
 —¡Por supuesto que no, Gotama!
 
-18\. 'Así dices, Vâse<i>tth</i>a, que los brahmanes \[no son capaces de señalar el camino hacia la unión con aquello <span id="p175">[<sup><small>p. 175</small></sup>]</span> que han visto\], y además dices que \[ni ninguno de ellos, ni de sus discípulos, ni de sus predecesores, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ\]. Y dices además que ni siquiera los antiguos <i>Ri</i>shis, \[cuyas palabras respetan tanto, pretendieron saber ni haber visto dónde, de dónde viene ni adónde está Brahmâ. ¡Sin embargo, estos brahmanes versados ​​en los Tres Vedas dicen, en verdad, que pueden señalar el camino a la unión con aquello que no conocen ni han visto!\][^13] Ahora bien, ¿qué opinas, Vâse<i>tth</i>a? ¿No se deduce que, siendo así, las palabras de los brahmanes, a pesar de su versación en los Tres Vedas, son tonterías?
+18\. 'Así dices, Vâse<i>tth</i>a, que los brahmanes \[no son capaces de señalar el camino hacia la unión con aquello <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> que han visto\], y además dices que \[ni ninguno de ellos, ni de sus discípulos, ni de sus predecesores, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ\]. Y dices además que ni siquiera los antiguos <i>Ri</i>shis, \[cuyas palabras respetan tanto, pretendieron saber ni haber visto dónde, de dónde viene ni adónde está Brahmâ. ¡Sin embargo, estos brahmanes versados ​​en los Tres Vedas dicen, en verdad, que pueden señalar el camino a la unión con aquello que no conocen ni han visto!\][^13] Ahora bien, ¿qué opinas, Vâse<i>tth</i>a? ¿No se deduce que, siendo así, las palabras de los brahmanes, a pesar de su versación en los Tres Vedas, son tonterías?
 
 'En verdad, Gotama, siendo así, se deduce que las conversaciones de los brahmanes versados ​​en los Tres Vedas son tonterías.'
 
@@ -164,7 +164,7 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 "Pero cuando se le pregunte debería responder "No".
 
-'Y cuando la gente le preguntara: "¡Bueno! ¡Buen <span id="p176">[<sup><small>p. 176</small></sup>]</span> amigo! Esta mujer tan hermosa de toda la tierra, a quien tanto amas y anhelas, ¿sabes cómo se llama esa mujer tan hermosa, o cuál es su apellido, si es alta o baja, morena o de tez mediana, negra o rubia, o en qué pueblo, ciudad o pueblo vive?"
+'Y cuando la gente le preguntara: "¡Bueno! ¡Buen <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> amigo! Esta mujer tan hermosa de toda la tierra, a quien tanto amas y anhelas, ¿sabes cómo se llama esa mujer tan hermosa, o cuál es su apellido, si es alta o baja, morena o de tez mediana, negra o rubia, o en qué pueblo, ciudad o pueblo vive?"
 
 "Pero cuando se le pregunte debería responder "No".
 
@@ -178,7 +178,7 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 20\. 'Y aun así, Vâse<i>tth</i>a, aunque dices que los brahmanes \[no son capaces de señalar el camino a la unión con lo que han visto\], y además dices que \[ni ninguno de ellos, ni de sus discípulos, ni de sus predecesores, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ\]. Y dices además que ni siquiera los antiguos <i>Ri</i>shis</i>, \[cuyas palabras respetan profundamente, pretendieron saber ni haber visto dónde, de dónde viene ni adónde viene Brahmâ. Sin embargo, estos brahmanes versados ​​en los Tres Vedas afirman, en verdad, que pueden señalar el camino a la unión con lo que no conocen ni han visto!\] Ahora bien, ¿qué opinas, Vâse<i>tth</i>a? ¿No se sigue de ello que, siendo esto así, la conversación de los brahmanes, aunque sean versados ​​en los Tres Vedas, es una conversación tonta?
 
-'En verdad, Gotama, siendo así, se deduce que <span id="p177">[<sup><small>p. 177</small></sup>]</span> ¡las conversaciones de los brahmanes versados ​​en los Tres Vedas son conversaciones tontas!'
+'En verdad, Gotama, siendo así, se deduce que <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> ¡las conversaciones de los brahmanes versados ​​en los Tres Vedas son conversaciones tontas!'
 
 «Muy bien, Vâse<i>tth</i>a. En verdad, Vâse<i>tth</i>a, que los brahmanes versados ​​en los Tres Vedas puedan mostrar el camino hacia la unión con aquello que no conocen ni han visto... tal condición no existe».
 
@@ -196,7 +196,7 @@ Y la gente debería preguntarle: «¡Bien! ¡Buen amigo! Esta mujer tan hermosa 
 
 —En verdad, Gotama, resulta que, siendo así, lo que dijo ese hombre era una tontería.
 
-22\. 'Y aun así, Vâse<i>tth</i>a, aunque dices que los brahmanes \[no son capaces de señalar el camino a la unión con lo que han visto\], y además dices que \[ni ninguno de ellos, ni de sus discípulos, ni de sus predecesores, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ\]. Y dices además que ni siquiera los antiguos <i>Ri</i>shis</i>, \[cuyas <span id="p178">[<sup><small>p. 178</small></sup>]</span> palabras respetan tanto, no pretendieron saber ni haber visto dónde, de dónde ni adónde está Brahmâ. Sin embargo, estos brahmanes versados ​​en los Tres Vedas afirman, en verdad, que pueden señalar el camino a la unión con aquello que desconocen y que no han visto. ¿Qué opinas, Vasetha? ¿No se deduce que, siendo así, las palabras de los brahmanes versados ​​en los Tres Vedas son tonterías?
+22\. 'Y aun así, Vâse<i>tth</i>a, aunque dices que los brahmanes \[no son capaces de señalar el camino a la unión con lo que han visto\], y además dices que \[ni ninguno de ellos, ni de sus discípulos, ni de sus predecesores, ni siquiera hasta la séptima generación, ha visto jamás a Brahmâ\]. Y dices además que ni siquiera los antiguos <i>Ri</i>shis</i>, \[cuyas <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> palabras respetan tanto, no pretendieron saber ni haber visto dónde, de dónde ni adónde está Brahmâ. Sin embargo, estos brahmanes versados ​​en los Tres Vedas afirman, en verdad, que pueden señalar el camino a la unión con aquello que desconocen y que no han visto. ¿Qué opinas, Vasetha? ¿No se deduce que, siendo así, las palabras de los brahmanes versados ​​en los Tres Vedas son tonterías?
 
 'En verdad, Gotama, siendo así, se deduce que las conversaciones de los brahmanes versados ​​en los Tres Vedas son tonterías.'
 
@@ -252,7 +252,7 @@ El obstáculo de la duda.
 
 31\. 'Ahora bien, con estos cinco obstáculos, Vâse<i>tth</i>a, los brahmanes versados ​​en los Tres Vedas están velados, obstaculizados, obstruidos y enredados.
 
-32\. 'Y en verdad, Vâse<i>tth</i>a, que los brahmanes versados ​​<span id="p183">[<sup><small>p. 183</small></sup>]</span> en los Tres Vedas, pero omitiendo la práctica de aquellas cualidades que realmente hacen a un hombre un brahmán, y adoptando la práctica de aquellas cualidades que realmente hacen a los hombres no brahmanes —velados, obstaculizados, enredados y enredados por estos Cinco Impedimentos—, que estos brahmanes, tras la muerte, al disolverse el cuerpo, se unan a Brahmâ —tal condición de cosas no existe.'
+32\. 'Y en verdad, Vâse<i>tth</i>a, que los brahmanes versados ​​<span id="p183"><sup><small>[ p. 183 ]</small></sup></span> en los Tres Vedas, pero omitiendo la práctica de aquellas cualidades que realmente hacen a un hombre un brahmán, y adoptando la práctica de aquellas cualidades que realmente hacen a los hombres no brahmanes —velados, obstaculizados, enredados y enredados por estos Cinco Impedimentos—, que estos brahmanes, tras la muerte, al disolverse el cuerpo, se unan a Brahmâ —tal condición de cosas no existe.'
 
 ---
 
@@ -276,7 +276,7 @@ El obstáculo de la duda.
 
 —Lo ha hecho, Gotama.
 
-34\. 'Ahora bien, ¿qué piensas tú, Vâse<i>tth</i>a? ¿Los <span id="p184">[<sup><small>p. 184</small></sup>]</span> brahmanes versados ​​en los Vedas poseen esposas y riquezas, o no?'
+34\. 'Ahora bien, ¿qué piensas tú, Vâse<i>tth</i>a? ¿Los <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> brahmanes versados ​​en los Vedas poseen esposas y riquezas, o no?'
 
 —Lo son, Gotama.
 
@@ -308,7 +308,7 @@ El obstáculo de la duda.
 
 —¡Por supuesto que no, Gotama!
 
-38\. «Muy bien, Vâse<i>tth</i>a. Que estos brahmanes versados ​​en los Vedas, y aun así albergando ira y malicia en sus corazones, pecadores e incontrolables, <span id="p185">[<sup><small>p. 185</small></sup>]</span>, tras la muerte, al disolverse el cuerpo, se unan a Brahmâ, quien está libre de ira y malicia, sin pecado y posee autodominio; tal condición no existe».
+38\. «Muy bien, Vâse<i>tth</i>a. Que estos brahmanes versados ​​en los Vedas, y aun así albergando ira y malicia en sus corazones, pecadores e incontrolables, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span>, tras la muerte, al disolverse el cuerpo, se unan a Brahmâ, quien está libre de ira y malicia, sin pecado y posee autodominio; tal condición no existe».
 
 39\. 'Así pues, Vâse<i>tth</i>a, los brahmanes, aunque versados ​​en los Tres Vedas, mientras se sientan (con confianza), se hunden (en el fango)[^23]; y al hundirse, llegan solo a la desesperación, pensando mientras tanto que están cruzando a una tierra más feliz.
 
@@ -342,11 +342,11 @@ El obstáculo de la duda.
 
 46\. Entonces el Bendito habló y dijo:
 
-Sabe, Vâse<i>tth</i>a, que[^24] (de vez en cuando) nace en el mundo un <span id="p187">[<sup><small>p. 187</small></sup>]</span> Tathâgata, un Ser plenamente Iluminado, bendito y digno, abundante en sabiduría y bondad, feliz, con conocimiento del mundo, insuperable como guía para los mortales errantes, un maestro de dioses y hombres, un Buda Bendito[^25]. Él, por sí mismo, comprende completamente y ve, por así decirlo, cara a cara este universo —el mundo de abajo con todos sus espíritus, y los mundos de arriba, de Mara y de Brahma— y a todas las criaturas, Sama<i>n</i>as y Brâhmanes, dioses y hombres, y luego da a conocer su conocimiento a los demás. Él proclama la verdad tanto en su letra como en su espíritu, hermosa en su origen, hermosa en su progreso, hermosa en su consumación: Él da a conocer la vida superior, en toda su pureza y en toda su perfección.
+Sabe, Vâse<i>tth</i>a, que[^24] (de vez en cuando) nace en el mundo un <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> Tathâgata, un Ser plenamente Iluminado, bendito y digno, abundante en sabiduría y bondad, feliz, con conocimiento del mundo, insuperable como guía para los mortales errantes, un maestro de dioses y hombres, un Buda Bendito[^25]. Él, por sí mismo, comprende completamente y ve, por así decirlo, cara a cara este universo —el mundo de abajo con todos sus espíritus, y los mundos de arriba, de Mara y de Brahma— y a todas las criaturas, Sama<i>n</i>as y Brâhmanes, dioses y hombres, y luego da a conocer su conocimiento a los demás. Él proclama la verdad tanto en su letra como en su espíritu, hermosa en su origen, hermosa en su progreso, hermosa en su consumación: Él da a conocer la vida superior, en toda su pureza y en toda su perfección.
 
 47\. «Un cabeza de familia (gahapati), o uno de sus hijos, o un hombre de nacimiento inferior en cualquier clase, escucha esa verdad[26]. Al oír la verdad, tiene fe en el Tathagata, y cuando ha adquirido esa fe, reflexiona así consigo mismo:
 
-«Llena de obstáculos está la vida familiar, un camino contaminado por la pasión: libre como el aire es la vida de quien ha renunciado a todo lo mundano. ¡Qué difícil es para el hombre que vive en casa vivir la vida superior en toda su plenitud, en toda su pureza, en toda su brillante perfección! ¡Permítanme, pues, cortarme el pelo y la barba, vestirme con las <span id="p188">[<sup><small>p. 188</small></sup>]</span> túnicas de colores, y dejar la vida familiar para vivir en la indigencia!»
+«Llena de obstáculos está la vida familiar, un camino contaminado por la pasión: libre como el aire es la vida de quien ha renunciado a todo lo mundano. ¡Qué difícil es para el hombre que vive en casa vivir la vida superior en toda su plenitud, en toda su pureza, en toda su brillante perfección! ¡Permítanme, pues, cortarme el pelo y la barba, vestirme con las <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> túnicas de colores, y dejar la vida familiar para vivir en la indigencia!»
 
 48\. 'Entonces, poco después, abandonando su porción de riqueza, ya sea grande o pequeña; abandonando a su círculo de parientes, ya sean muchos o pocos, se corta el pelo y la barba, se viste con túnicas de color naranja y sale de la vida familiar para vivir sin hogar.
 
@@ -407,7 +407,7 @@ Sabe, Vâse<i>tth</i>a, que[^24] (de vez en cuando) nace en el mundo un <span id
 
 [^10]: En el texto los §§ 12 y 13 se repiten palabra por palabra.
 
-[^11]: Andhave<i>n</i>î parampara<i>m</i> sa<i>m</i>sattâ. El manuscrito Phayre ha reemplazado ve<i>n</i>î por pave<i>n</i>î, siguiendo la costumbre constante de los manuscritos birmanos para mejorar expresiones inusuales o difíciles. Buddhaghosa explica andhave<i>n</i>i por andhapave<i>n</i>i, y cuenta la historia de un ser malvado que, al encontrarse con un grupo de ciegos, les habló de cierta aldea donde se encontraba abundante comida buena. Cuando le pidieron dinero para guiarlos allí, tomó el dinero, hizo que un ciego agarrara su bastón, el siguiente a aquel, y así sucesivamente, y luego los guió hasta que llegaron a un desierto. Allí los abandonó, y todos ellos, todavía {footnote <span id="p174">[<sup><small>p. 174</small></sup>]</span>} abrazándose y buscando en vano y con lágrimas su guía y el camino, ¡llegaron a un final miserable!
+[^11]: Andhave<i>n</i>î parampara<i>m</i> sa<i>m</i>sattâ. El manuscrito Phayre ha reemplazado ve<i>n</i>î por pave<i>n</i>î, siguiendo la costumbre constante de los manuscritos birmanos para mejorar expresiones inusuales o difíciles. Buddhaghosa explica andhave<i>n</i>i por andhapave<i>n</i>i, y cuenta la historia de un ser malvado que, al encontrarse con un grupo de ciegos, les habló de cierta aldea donde se encontraba abundante comida buena. Cuando le pidieron dinero para guiarlos allí, tomó el dinero, hizo que un ciego agarrara su bastón, el siguiente a aquel, y así sucesivamente, y luego los guió hasta que llegaron a un desierto. Allí los abandonó, y todos ellos, todavía {footnote <span id="p174"><sup><small>[ p. 174 ]</small></sup></span>} abrazándose y buscando en vano y con lágrimas su guía y el camino, ¡llegaron a un final miserable!
 
 [^12]: Las palabras de la pregunta se repiten en el texto de esta y las siguientes respuestas. Cabe recordar, para estas secciones, que el sol y la luna eran dioses, al igual que Brahma.
 
@@ -441,5 +441,5 @@ Sabe, Vâse<i>tth</i>a, que[^24] (de vez en cuando) nace en el mundo un <span id
 [^26]: La cuestión es que la aceptación de esta 'Doctrina y Disciplina' está abierta a todos, no, por supuesto, que los brahmanes nunca la acepten.
 
 [^27]: El argumento se reanuda después de las Tres Sîlas, o Descripciones de la Conducta, un texto, sin duda más antiguo que los Suttas en los que aparece, que establece las características morales distintivas de un miembro de la Orden.
-  La Primera Sila es una ampliación de los Diez Preceptos (Budismo, <span id="p160">[<sup><small>p. 160</small></sup>]</span>), pero omitiendo el quinto, contra el consumo de bebidas embriagantes. La Segunda Sila es una ampliación del primero, luego de los cuatro últimos y, finalmente, del cuarto Precepto. La Tercera Sila se dirige contra los augurios, las adivinaciones, las profecías, la astrología, la charlatanería, el ritualismo y la adoración a los dioses (incluido Brahma).
+  La Primera Sila es una ampliación de los Diez Preceptos (Budismo, <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>), pero omitiendo el quinto, contra el consumo de bebidas embriagantes. La Segunda Sila es una ampliación del primero, luego de los cuatro últimos y, finalmente, del cuarto Precepto. La Tercera Sila se dirige contra los augurios, las adivinaciones, las profecías, la astrología, la charlatanería, el ritualismo y la adoración a los dioses (incluido Brahma).
   Quizás estas Tres Silas se hayan incluido en el Sutta como una especie de contrapeso a los Tres Vedas. Nuestro Sutta se lee mejor sin ellas; pero son interesantes en sí mismas, y la tercera es especialmente valiosa como evidencia de antiguas costumbres y creencias.

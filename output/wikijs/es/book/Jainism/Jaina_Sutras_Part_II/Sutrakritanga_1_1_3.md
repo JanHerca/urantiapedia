@@ -54,7 +54,7 @@ Según ellos [^711], quien haya vivido en la tierra como un monje refrenado, des
 
 Un hombre sabio debería considerar que estos (herejes) no llevan una vida de castidad, y que todos estos disputadores proclaman su propio credo en oposición (a los demás). (13)
 
-Otros [^712] sostienen que) la perfección solo puede alcanzarse mediante su método de vida religiosa, no de otra manera; y que incluso antes (de ese momento) tienen <span id="p246">[<sup><small>p. 246</small></sup>]</span> sus sentidos bajo control y poseen todo lo que se puede desear [^713]. (14)
+Otros [^712] sostienen que) la perfección solo puede alcanzarse mediante su método de vida religiosa, no de otra manera; y que incluso antes (de ese momento) tienen <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> sus sentidos bajo control y poseen todo lo que se puede desear [^713]. (14)
 
 Algunos dicen que serán perfeccionados y sanos.
 

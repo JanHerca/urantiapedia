@@ -42,7 +42,7 @@ El espacio entre el Cielo y la Tierra, ¿no es como un fuelle? Está vacío, per
 
 El Cielo y la Tierra son duraderos. La razón por la que pueden perdurar es que no viven para sí mismos, y por eso son capaces de perdurar.
 
-Treinta radios se unen en una sola nave; la utilidad <span id="p44">[<sup><small>p. 44</small></sup>]</span> del carro depende del centro hueco donde gira el eje. Se moldea arcilla para formar una vasija; la utilidad de la vasija depende de su interior hueco. Se recortan puertas y ventanas para construir una casa; la utilidad de la casa depende de los espacios vacíos.
+Treinta radios se unen en una sola nave; la utilidad <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> del carro depende del centro hueco donde gira el eje. Se moldea arcilla para formar una vasija; la utilidad de la vasija depende de su interior hueco. Se recortan puertas y ventanas para construir una casa; la utilidad de la casa depende de los espacios vacíos.
 
 Así pues, aunque la existencia de las cosas pueda ser buena, es lo inexistente en ellas lo que las hace útiles.
 

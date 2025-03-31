@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/01700.jpg) La mansión de Khaula está desolada, y sus rastros en las colinas pedregosas de Tahmed brillan débilmente, como los restos de figuras azules pintadas en el dorso de una mano.”
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Se aleja de sus crías y se alimenta con la manada de corzos en la espesura enmarañada, donde ramonea los bordes de la fruta silvestre y se cubre con un manto de hojas.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 8\. Ella sonríe y muestra sus dientes brillantes, que se elevan desde sus bases de color oscuro, como un ligustro en plena floración, que perfora un banco de arena pura humedecida con rocío:
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. Los lanza _desde su pecho_ con la fuerza y la rapidez de cables firmemente tirados por un brazo nervioso; y sus hombros están doblados como las vigas de una alta cúpula:
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 25\. Ella se desvía rápidamente del camino: su paso es extremadamente rápido; su cabeza es larga; y sus omóplatos están fuertemente unidos a sus costados.
 
@@ -126,7 +126,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 42\. Agito el látigo sobre mi camello, y ella acelera su paso, mientras el vapor sofocante rueda en olas sobre los acantilados ardientes.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 43\. Ella flota orgullosamente con su cola suelta, como la bailarina flota en el banquete de su señor, y extiende las largas faldas blancas de su chaleco colgante.
 
@@ -146,7 +146,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 51.\* Cuando ella gorjea en un tono más alto, uno creería que sus notas son las de los camellos lamentando la pérdida de sus crías.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 52\. Así bebo vino viejo, sin cesar, y disfruto de los placeres de la vida; vendiendo y disipando mis bienes, tanto los recién adquiridos como los heredados;
 
@@ -166,7 +166,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 60\. En tercer lugar, para acortar un día nublado, un día sorprendentemente oscuro, jugando con una encantadora y delicada niña bajo una tienda de campaña sostenida por columnas,
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 61\. Una muchacha, cuyos brazaletes y ligas parecen colgados de los tallos de árboles de oshar, o de ricino, no despojados de sus suaves hojas.
 
@@ -186,7 +186,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 69\. ¿Qué causa la diferencia que percibo entre mi primo Malec y yo, quien, siempre que me acerco a él, se retira y huye a una distancia?
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 70\. Me censura, mientras que yo no conozco el motivo de su censura; tal como Karth, el hijo de Aabed, me reprendió en la asamblea de la tribu.
 
@@ -206,7 +206,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 78\. Pero mi pariente me estrangula con crueldad, incluso en el momento mismo en que estoy dando gracias por el pasado y pidiendo nuevos favores; incluso cuando estoy buscando de él la redención de mi alma!
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 79\. La crueldad de las relaciones da más angustia a cada noble pecho que el golpe de una cimitarra india.
 
@@ -224,7 +224,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 86\. Pero el hermano genuino de la confianza, no se doblega ante el golpe más impetuoso; y cuando me dicen: «Suavemente», reprimo su furia y exclamo: «¡Basta!»
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 87\. Cuando todo el clan se esté preparando para su armadura con ansiosa prisa, podrás encontrarme victorioso en el conflicto, tan pronto como mi mano pueda tocar la empuñadura de esta cimitarra.
 
@@ -244,7 +244,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 95\. No me compares con ningún hombre cuyo coraje no sea igual al mío; cuyas hazañas no sean como las mías; que no haya participado en combates en los que yo me haya distinguido:
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 96\. Con un hombre lento en las empresas nobles, pero rápido en las bajas actividades; deshonrado en la asamblea de la tribu, y un vil paria.
 

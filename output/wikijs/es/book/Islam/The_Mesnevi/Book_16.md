@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 ## XVI. La tolerancia de ‘Alī.
 
@@ -61,7 +61,7 @@ Que como el relámpago brilló, y, ¿De inmediato se hundió para descansar?
 ¿Cuál fue tu visión, muy por encima del mundo de los hechos,
 Que la vida mucho más dulce, ¿de dónde mi vida recibe un nuevo pacto?
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Por tu valentía, con razón te han llamado «León de Dios».
 Por bondad, ahora lo sé, eres demasiado poco famoso.
@@ -97,7 +97,7 @@ Concibe tu nariz en falta; no regañes a la dulce madreselva.
 Tu calma es una espada que parte nuestras mentes en dos;
 La fuente de tu sabiduría nos hace completos de nuevo.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 ¡Habla! Sé que estos misterios son de Jehová;
 Matar sin espada es un poder de Dios bien conocido.
@@ -130,7 +130,7 @@ Como la luna, sobre mí brilla tu conocimiento, con luz intensa.
 Pero si el disco brillante de la luna irrumpe desde debajo de la nube,
 <sup id="v40"><small>40</small></sup> Pobres viajeros de medianoche, entonces, con seguridad, prosigan su camino.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Entonces están a salvo del error, no corren el riesgo de vagar en vano;
 Protección de los escudos de la luz de la luna de la cadena del terror.
@@ -163,7 +163,7 @@ Expresar asombro, como las palabras pueden simbolizar.
 Luego añadió: “¡Oh! Mandato, de la Iglesia Fiel, tú Príncipe.[^413]
 Que como un bebé un espíritu nuevo yo pueda manifestar”.
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Los siete planetas vigilan a cada bebé no nacido.
 <sup id="v55"><small>55</small></sup> Cada uno por un período determinado, antes del envío de su nacimiento.
@@ -200,7 +200,7 @@ Mis acciones son la prueba de que mi fe está en el Justo.
 Dios es el Arquero. Yo soy Su arco;—y flecha, también.
 <sup id="v70"><small>70</small></sup> Él es el golpeador. Yo soy el arma; espada, bambú.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ‘No arrojaste piedras, cuando arrojaste piedras en la lucha.’[^414]
 Dios es el guerrero poderoso. Soy polvo a sus ojos.
@@ -236,7 +236,7 @@ Por amor a Dios amo. Tal es mi fama entre los hombres.
 Mi generosidad brota toda del amor de Dios.
 Por el amor de Dios, también soy parsimonioso como un idiota.
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Soy avaricia, munificencia, a un solo fin.
 Yo soy de Dios en todas las cosas. A mí mismo nunca me presto atención.
@@ -274,7 +274,7 @@ No puedo imaginar la línea de sondeo, su profundidad para encontrar.
 “Es inútil seguir más en esta tensión.
 No solo los corazones, sino también las rocas, pueden llorar en el tren de la locura.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Si los corazones de los hombres no se rompen, es que son más duros aún,
 Por descuido, preocupación, pereza, mala voluntad.
@@ -307,7 +307,7 @@ Si no hubieran sido magos, él no sería obstinado,
 ¿Cómo habrían visto alguna vez el bastón, los milagros?
 Tu pecado probó tu conversión, reprensibles!
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 “El Señor puede quitar con creces nuestro estado de profunda desesperación,
 Nuestro pecado puede cambiar a justicia; maldad a justicia.
@@ -344,7 +344,7 @@ El remordimiento por siempre como su presa sostendrá mi odio.
 “De nuevo le respondí con firmeza, decididamente:
 "Ningún consejo servirá. La marca de la pluma debe aplicarse necesariamente.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 No te guardo rencor en lo más íntimo de mi alma;
 No te considero responsable de un acto tan atroz.
@@ -380,7 +380,7 @@ De fuera de la oscuridad fue la luz creada nueva.
 Las guerras del Profeta han traído la paz que reina;
 Estos últimos días tranquilos son los frutos de sus dolores.
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ¿Cuántas cabezas yacen bajo los golpes de ese héroe?
 Que la paz pueda ser disfrutada por los verdaderos compañeros de yugo de la fe!
@@ -413,7 +413,7 @@ Porque tu honor se sacrificó mero pan para escarbar.
 Si tu naturaleza bruta no practica la abstinencia,
 <sup id="v160"><small>160</small></sup> Administrar el remedio. Hacerlo entrar en razón.
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Si quisieras limpiar tus prendas, liberarlas de toda suciedad,
 No desprecies al blanqueador, ni su trabajo útil.
@@ -448,7 +448,7 @@ El ojo de Adán cayó sobre un demonio inmundo,
 Su autoestima, su orgullo egoísta lo conducía,
 <sup id="v175"><small>175</small></sup> Con sonrisa sarcástica, el diablillo maldito para reprender.
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 La ira de Dios se despertó. Él le dijo: “¡Ho! ¡Adán! ¡Ho!
 ¿No tienes idea de los misterios del dolor?
@@ -516,7 +516,7 @@ Es fatal para el hombre,—fuego consumidor intenso.
 Si alguno busca el fuego, para hacer de él un escudo,
 Un mago se convierte, gracias al rendimiento de Zoroastro.
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Todo lo demás además del Señor es vano y sin valor.
 <sup id="v205"><small>205</small></sup> Las misericordias de nuestro Dios, una lluvia abundante, se derramó.
@@ -552,7 +552,7 @@ A menos que nuestra separación sea de alguien que lloramos,
 Sólo vuelve quien vuelve a su casa.
 Nuestro verdadero retorno es desde la separación hasta la cúpula sindical.
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Ese sirviente una vez más apeló y rogó: “¡‘Alī!
 <sup id="v220"><small>220</small></sup> ¡Dame muerte, que pecado tan atroz! ¡Puedo huir!
@@ -588,7 +588,7 @@ No tomó nota. En Dios solo sus pensamientos estaban estancados.
 Su corazón estaba lleno del sentido de la gracia de su gran Creador.
 Los ángeles, o los profetas, allí no pudieron encontrar lugar.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Dijo: “Yo soy aquel cuyos ojos no se desviaron; ¡no soy un cuervo! ¡Mira![^428]
 <sup id="v235"><small>235</small></sup> «El Limner es mi amor; del jugo de la vid soy libre.»[^429]
@@ -619,7 +619,7 @@ Un león de la eternidad, la libertad de la muerte de la confusión.
 En la muerte ve cien mil modos de vida.
 Así, como una polilla, corteja a la muerte; su vela, cuchillo de asesino.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Para cortejar a la muerte siniestra, un collar alrededor del cuello del hombre verdadero.
 Este fue el texto propuesto, que provocó el naufragio del recusante.
@@ -651,7 +651,7 @@ Mi cólera se despertó;—para arruinar mi paciencia se fue.
 Medio calentado por el celo de Dios, medio agitado por el fuego de la ira,
 <sup id="v260"><small>260</small></sup> Se formó una asociación impía entre la verdad y la ira.
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Tú fuiste diseñado y formado por una mano divina.
 A Dios perteneces; ninguna criatura es mía.

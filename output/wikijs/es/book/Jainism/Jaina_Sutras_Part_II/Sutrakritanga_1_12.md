@@ -36,7 +36,7 @@ DUODÉCIMA LECTURA, LLAMADA EL CREDO [^929].
 
 Hay cuatro credos (heréticos) [^930] que los disputantes sostienen respectivamente: 1. el Kriyâvâda, 2. el Akriyâvâda, 3. el Vinayavâda, y 4. el A<i>g</i><i>ñ</i>ânavâda. (1)
 
-Los agnósticos [^931], aunque fingen ser <span id="p316">[<sup><small>p. 316</small></sup>]</span> inteligentes, razonan incoherentemente y no superan la confusión de sus ideas. Los maestros ignorantes hablan a los alumnos ignorantes, y sin reflexionar dicen mentiras. (2)
+Los agnósticos [^931], aunque fingen ser <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> inteligentes, razonan incoherentemente y no superan la confusión de sus ideas. Los maestros ignorantes hablan a los alumnos ignorantes, y sin reflexionar dicen mentiras. (2)
 
 Creyendo que la verdad es mentira y llamando bueno a un hombre malo, los diversos defensores del Vinaya, cuando se les pregunta al respecto, explican su principio [932]. (3)
 
@@ -68,7 +68,7 @@ Los pecadores no pueden aniquilar sus obras con nuevas obras; los piadosos aniqu
 
 Ellos conocen las formas pasadas, presentes y futuras del mundo; son líderes de otros hombres, pero no siguen a ningún líder; están despiertos y ponen fin a la existencia mundana. (16)
 
-Aversión a dañar a los seres vivos, no actúan ni incitan a otros a actuar. Siempre conteniéndose, <span id="p319">[<sup><small>p. 319</small></sup>]</span> esos hombres piadosos ejercen el control, y algunos se convierten en héroes gracias a su conocimiento. (17) Considera a los seres pequeños y grandes, al mundo entero, como iguales a él; comprende el mundo inmenso, y al despertar, se controla entre los despreocupados. (18)
+Aversión a dañar a los seres vivos, no actúan ni incitan a otros a actuar. Siempre conteniéndose, <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> esos hombres piadosos ejercen el control, y algunos se convierten en héroes gracias a su conocimiento. (17) Considera a los seres pequeños y grandes, al mundo entero, como iguales a él; comprende el mundo inmenso, y al despertar, se controla entre los despreocupados. (18)
 
 Quienes han aprendido la verdad por sí mismos o de otros, pueden salvarse a sí mismos y a los demás. Siempre se debe honrar a quien es como una luz y manifiesta la Ley tras haberla meditado bien. (19)
 

@@ -50,7 +50,7 @@ Sé propiciación [^1529] . . . .
 
 7\. 'Yo, Ahura Mazda, lo hice descender con poderoso vigor, para el aumento de la casa, del distrito, de la ciudad, del país [^1531].
 
-8\. 'Aquel de quien ella oirá el staota yêsnya [^1532]; aquel de quien ella oirá el Ahuna <span id="p357">[<sup><small>p. 357</small></sup>]</span> vairya [^1533]; aquel de quien ella oirá el Asha-vahi<i>s</i>ta [^1534]; aquel por quien las buenas aguas se purificarán; con las palabras de los himnos sagrados [^1535], él entrará primero en el Garô-nmâna de Ahura Mazda: ella le concederá los dones solicitados [^1536].
+8\. 'Aquel de quien ella oirá el staota yêsnya [^1532]; aquel de quien ella oirá el Ahuna <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> vairya [^1533]; aquel de quien ella oirá el Asha-vahi<i>s</i>ta [^1534]; aquel por quien las buenas aguas se purificarán; con las palabras de los himnos sagrados [^1535], él entrará primero en el Garô-nmâna de Ahura Mazda: ella le concederá los dones solicitados [^1536].
 
 9\. [^1537]. «Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado; le ofreceré un sacrificio bien ejecutado. ¡Así nos puedes aconsejar cuando se te invoque! Que seas plenamente venerado.»
 

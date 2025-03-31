@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 3-5 [^1175]. 6. ¡Los Haomas están aplastados, oh Mazda, Khshathra y Asha, oh Señores! Bueno es Sraosha, quien acompaña el sacrificio con gran gloria [^1176], y que esté presente brindando una ayuda inquebrantable.
 
-7\. Ofrecemos actos salvadores de sabiduría y adoración con el don sagrado del Ahuna-vairya entonado con santidad, y de los dos morteros aquí <span id="p281">[<sup><small>p. 281</small></sup>]</span> presentados [^1177] con un acto sagrado, y también con el de las palabras correctamente pronunciadas; y, por lo tanto, que sean para nosotros aún más salvadores en su sabio significado.
+7\. Ofrecemos actos salvadores de sabiduría y adoración con el don sagrado del Ahuna-vairya entonado con santidad, y de los dos morteros aquí <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> presentados [^1177] con un acto sagrado, y también con el de las palabras correctamente pronunciadas; y, por lo tanto, que sean para nosotros aún más salvadores en su sabio significado.
 
 8-12 [^1178]. 13. Así como el Ahû es excelente, también lo es el Ratu (quien gobierna) desde su santidad, creador de bondad mental y de las acciones de la vida realizadas para Mazda; y el Reino es para Ahura, quien puede ofrecer sustento a los pobres. 14. (¿Qué es Tu Reino, Tus riquezas? ¿Cómo puedo ser Tuyo en mis acciones, para nutrir a Tus pobres, oh Mazda? Más allá; sí, más allá de todo, te declaramos, lejos de los Daêvas y de los mortales malditos por Khrafstra [^1179]!)
 

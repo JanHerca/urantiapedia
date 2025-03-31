@@ -62,7 +62,7 @@ SEGUNDO ADHYÂYA.
 
 12\. «La persona (purusha), del tamaño de un pulgar [^122], se sitúa en el centro del Ser (¿cuerpo?), como señor del pasado y del futuro, y de ahí en adelante ya no teme. Esto es todo.»
 
-13\. «Esa persona, del tamaño de un pulgar, es como una luz sin humo, señor del pasado y del futuro, es el mismo hoy y mañana. Esto es aquello.» <span id="p17">[<sup><small>p. 17</small></sup>]</span> 14\. «Como el agua de lluvia que cae sobre la cresta de una montaña se desliza por las rocas por todos lados, así quien ve la diferencia entre las cualidades corre tras ellas por todos lados.»
+13\. «Esa persona, del tamaño de un pulgar, es como una luz sin humo, señor del pasado y del futuro, es el mismo hoy y mañana. Esto es aquello.» <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> 14\. «Como el agua de lluvia que cae sobre la cresta de una montaña se desliza por las rocas por todos lados, así quien ve la diferencia entre las cualidades corre tras ellas por todos lados.»
 
 15\. 'Así como el agua pura vertida en agua pura permanece igual, así es, oh Gautama, el Ser de un pensador que conoce.'
 
@@ -81,7 +81,7 @@ SEGUNDO ADHYÂYA.
 
 5\. «Ningún mortal vive del aliento que sube ni del aliento que baja. Vivimos de otro, en quien ambos reposan.»
 
-6\. «Bien entonces, oh Gautama, te contaré este misterio, el antiguo Brahman, y lo que le sucede al Ser tras la muerte.» <span id="p19">[<sup><small>p. 19</small></sup>]</span> 7\. «Algunos entran en el útero para obtener un cuerpo, como seres orgánicos, otros se transforman en materia inorgánica, según su trabajo y su conocimiento [^125]».
+6\. «Bien entonces, oh Gautama, te contaré este misterio, el antiguo Brahman, y lo que le sucede al Ser tras la muerte.» <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> 7\. «Algunos entran en el útero para obtener un cuerpo, como seres orgánicos, otros se transforman en materia inorgánica, según su trabajo y su conocimiento [^125]».
 
 8\. «Él, la Persona Suprema, que está despierto en nosotros mientras dormimos, moldeando una visión hermosa tras otra, ese es ciertamente el Brillante, ese es Brahman, ese solo es llamado el Inmortal. Todos los mundos están contenidos en él, y nadie va más allá. Esto es eso [^126]».
 
@@ -110,7 +110,7 @@ SEGUNDO ADHYÂYA.
 
 3\. 'Del terror de Brahman arde el fuego, del terror arde el sol, del terror huyen Indra y Vâyu, y la Muerte, como el quinto [^137].'
 
-4\. «Si un hombre no pudo comprenderlo antes de la disolución de su cuerpo, entonces debe reencarnarse en los mundos de la creación [^138].» <span id="p22">[<sup><small>p. 22</small></sup>]</span> 5\. «Como en un espejo, así (se puede ver claramente a Brahman) aquí en este cuerpo; como en un sueño, en el mundo de los Padres; como en el agua, se le ve en el mundo de los Gandharvas; como en la luz y la sombra [^139], en el mundo de Brahmâ.»
+4\. «Si un hombre no pudo comprenderlo antes de la disolución de su cuerpo, entonces debe reencarnarse en los mundos de la creación [^138].» <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> 5\. «Como en un espejo, así (se puede ver claramente a Brahman) aquí en este cuerpo; como en un sueño, en el mundo de los Padres; como en el agua, se le ve en el mundo de los Gandharvas; como en la luz y la sombra [^139], en el mundo de Brahmâ.»
 
 6\. 'Habiendo comprendido que los sentidos son distintos [^140] (del Âtman), y que su salida y su puesta (su vigilia y su sueño) les pertenecen en su existencia distinta (y no al Âtman), un hombre sabio ya no se aflige.'
 
@@ -122,7 +122,7 @@ SEGUNDO ADHYÂYA.
 
 10\. 'Cuando los cinco instrumentos del conocimiento permanecen inmóviles junto con la mente, y cuando el intelecto no se mueve, eso se llama el estado más elevado.'
 
-11\. «Esto, la firme contención de los sentidos, es lo que se llama Yoga. Entonces debe estar libre de la irreflexión, pues el Yoga va y viene [^143].» <span id="p23">[<sup><small>p. 23</small></sup>]</span> 12\. «Él (el Ser) no puede ser alcanzado por la palabra, la mente ni la vista. ¿Cómo puede ser aprehendido excepto por quien dice: «Él es»?»
+11\. «Esto, la firme contención de los sentidos, es lo que se llama Yoga. Entonces debe estar libre de la irreflexión, pues el Yoga va y viene [^143].» <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 12\. «Él (el Ser) no puede ser alcanzado por la palabra, la mente ni la vista. ¿Cómo puede ser aprehendido excepto por quien dice: «Él es»?»
 
 13\. «Mediante las palabras «Él es» se le comprende, y admitiendo la realidad de ambos (el Brahman invisible y el mundo visible, como provenientes de Brahman). Cuando se le comprende mediante las palabras «Él es», entonces su realidad se revela».
 
@@ -132,7 +132,7 @@ SEGUNDO ADHYÂYA.
 
 116\. «Hay ciento una arterias del corazón [^146], una de ellas penetra la coronilla [^147]. Ascendiendo por ella, el hombre (al morir) alcanza al Inmortal [^148]; las demás arterias sirven para partir en diferentes direcciones».
 
-17\. «La Persona, no más grande que un pulgar, el Ser interior, reside siempre en el corazón de los hombres [^149]. Que el hombre extraiga ese Ser de su cuerpo con firmeza, <span id="p24">[<sup><small>p. 24</small></sup>]</span>, como quien extrae la médula de una caña [^150]. Que conozca ese Ser como el Brillante, como el Inmortal; sí, como el Brillante, como el Inmortal [^151].»
+17\. «La Persona, no más grande que un pulgar, el Ser interior, reside siempre en el corazón de los hombres [^149]. Que el hombre extraiga ese Ser de su cuerpo con firmeza, <span id="p24"><sup><small>[ p. 24 ]</small></sup></span>, como quien extrae la médula de una caña [^150]. Que conozca ese Ser como el Brillante, como el Inmortal; sí, como el Brillante, como el Inmortal [^151].»
 
 18. Habiendo recibido este conocimiento enseñado por la Muerte y toda la regla del Yoga (meditación), Nâ<i>k</i>iketa se liberó de la pasión [^152] y de la muerte, y obtuvo Brahman. Así le sucederá también a otro que conozca así lo que se relaciona con el Ser.
 

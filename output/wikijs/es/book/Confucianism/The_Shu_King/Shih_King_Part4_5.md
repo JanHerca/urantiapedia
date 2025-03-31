@@ -44,7 +44,7 @@ UNA DESAFORTUNADA MUJER, QUE HABÍA SIDO SEDUCIDA POR UNA CONEXIÓN INADECUADA, 
 
 Se da un extracto de la patética historia aquí relatada, porque muestra cómo se usaba la adivinación entre la gente común y entraba generalmente en los asuntos ordinarios de la vida.
 
-Eras un muchacho de aspecto sencillo, que llevaba tela <span id="p438">[<sup><small>p. 438</small></sup>]</span> para cambiarla por seda. Pero no viniste a comprar seda; viniste a hacerme propuestas. Te acompañé a través de <i>Kh</i>î [^609], hasta Tun-_kh_iû [^610], y dije: «No soy yo quien prolongaría el tiempo; pero no has tenido un buen intermediario. Te ruego que no te enfades y que llegue el otoño».
+Eras un muchacho de aspecto sencillo, que llevaba tela <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> para cambiarla por seda. Pero no viniste a comprar seda; viniste a hacerme propuestas. Te acompañé a través de <i>Kh</i>î [^609], hasta Tun-_kh_iû [^610], y dije: «No soy yo quien prolongaría el tiempo; pero no has tenido un buen intermediario. Te ruego que no te enfades y que llegue el otoño».
 
 Subí esa muralla ruinosa para mirar hacia Fû-kwan [^611]; y cuando no te vi venir de allí, mis lágrimas corrieron a raudales. Cuando sí te vi venir de Fû-kwan, reí y hablé. Habías consultado, dijiste, con la concha de tortuga y los tallos de adivinación, y no hubo nada desfavorable en su respuesta [^612]. «Entonces ven», dije, «con tu carruaje, y me iré con mis bienes».
 

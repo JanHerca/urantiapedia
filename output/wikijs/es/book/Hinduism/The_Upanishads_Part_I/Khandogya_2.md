@@ -50,7 +50,7 @@ SEGUNDO PRAPÂTHAKA.
 
 1\. Que el hombre medite en el quíntuple Sâman [^126] como los cinco mundos. El hiṅkâra es la tierra, el prastâva el fuego, el udgîtha el cielo, el pratihâra el sol, el nidhana el cielo; así en línea ascendente.
 
-2\. En línea descendente, el hiṅkâra es el cielo, <span id="p24">[<sup><small>p. 24</small></sup>]</span> el prastâva el sol, el udgîtha el cielo, el pratihâra el fuego, el nidhana la tierra.
+2\. En línea descendente, el hiṅkâra es el cielo, <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> el prastâva el sol, el udgîtha el cielo, el pratihâra el fuego, el nidhana la tierra.
 
 3\. Los mundos en línea ascendente y descendente pertenecen a aquel que sabiendo esto medita en el quíntuple Sâman como los mundos [^127].
 
@@ -64,7 +64,7 @@ SEGUNDO PRAPÂTHAKA.
 
 1\. Que un hombre medite en el quíntuple Sâman en todas las aguas. Cuando las nubes se juntan, eso es el hiṅkâra; cuando llueve, eso es el prastâva; lo que fluye por el este [^128], eso es el udgîtha; lo que fluye por el oeste [^129], eso es el pratihâra; el mar es el nidhana.
 
-2\. No muere en el agua [^130], es más, es rico en agua <span id="p25">[<sup><small>p. 25</small></sup>]</span> quien, sabiendo esto, medita en el quíntuple Sâman como todas las aguas.
+2\. No muere en el agua [^130], es más, es rico en agua <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> quien, sabiendo esto, medita en el quíntuple Sâman como todas las aguas.
 
 ## QUINTO KHAND.
 
@@ -82,7 +82,7 @@ SEGUNDO PRAPÂTHAKA.
 
 1\. Que el hombre medite en el quíntuple Sâman, que es superior a la grandeza, como los prâ<i>n</i>as (sentidos). El hiṅkâra es el olfato [^131] (nariz), el prastâva el habla (lengua), el udgîtha la vista (ojo), el pratihâra el oído (oído) y la mente nidhana. Estos son, uno superior al otro.
 
-2\. Lo que es mayor que grande le pertenece, es más, conquista los mundos que son mayores que <span id="p26">[<sup><small>p. 26</small></sup>]</span> grandes, quien, conociendo esto, medita en el quíntuple Sâman, que es mayor que grande, como los prâ<i>n</i>as (sentidos).
+2\. Lo que es mayor que grande le pertenece, es más, conquista los mundos que son mayores que <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> grandes, quien, conociendo esto, medita en el quíntuple Sâman, que es mayor que grande, como los prâ<i>n</i>as (sentidos).
 
 ## OCTAVO KHA<i>N</i><i>D</i>A.
 
@@ -98,7 +98,7 @@ SEGUNDO PRAPÂTHAKA.
 
 2. Que sepa que todos los seres dependen de él (el sol). Lo que él es antes de su salida, ese es el hiṅkâra. De él dependen los animales. Por eso los animales dicen hiṅ (antes del amanecer), pues comparten el hiṅkâra de ese Sâman (el sol).
 
-3\. Lo que él es al ascender, eso es el prastâva. De él dependen los hombres. Por eso, los hombres aman la alabanza (prastuti) y la fama, pues comparten el prastâva de ese Sâman. <span id="p27">[<sup><small>p. 27</small></sup>]</span> 4\. Lo que él es en el momento del saṅgava [^134], eso es el âdi, lo primero, el Om. De él dependen las aves. Por eso, las aves vuelan por el cielo sin apoyo, agarrándose, pues comparten el âdi [^135] (el Om) de ese Sâman.
+3\. Lo que él es al ascender, eso es el prastâva. De él dependen los hombres. Por eso, los hombres aman la alabanza (prastuti) y la fama, pues comparten el prastâva de ese Sâman. <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 4\. Lo que él es en el momento del saṅgava [^134], eso es el âdi, lo primero, el Om. De él dependen las aves. Por eso, las aves vuelan por el cielo sin apoyo, agarrándose, pues comparten el âdi [^135] (el Om) de ese Sâman.
 
 5\. Lo que él es justo al mediodía, eso es el udgîtha. De él dependen los Devas (porque son brillantes). Por lo tanto, son los mejores entre todos los descendientes de Pra<i>g</i>âpati, pues comparten el udgîtha de ese Sâman.
 
@@ -126,7 +126,7 @@ SEGUNDO PRAPÂTHAKA.
 
 ## UNDÉCIMO KHAND [^139].
 
-1\. El hiṅkâra es la mente, el prastâva el habla, el udgîtha la visión, el pratihâra la audición, el nidhana <span id="p29">[<sup><small>p. 29</small></sup>]</span> la respiración. Ese es el Gâyatra Sâman, entrelazado en los (cinco) prâ<i>n</i>as [^140].
+1\. El hiṅkâra es la mente, el prastâva el habla, el udgîtha la visión, el pratihâra la audición, el nidhana <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> la respiración. Ese es el Gâyatra Sâman, entrelazado en los (cinco) prâ<i>n</i>as [^140].
 
 2\. Quien así conoce este Gayatra, entretejido en los prâ<i>na</i>as, conserva su juicio, alcanza la plenitud de la vida, vive mucho tiempo [^141], se vuelve grande con hijos y ganado, grande por la fama. La regla de quien así medita en el Gayatra es: «No seas arrogante».
 
@@ -156,7 +156,7 @@ SEGUNDO PRAPÂTHAKA.
 
 ## DÉCIMO SEXTO KHA<i>N</i><i>D</i>A.
 
-1\. El hiṅkâra es la primavera, el prastâva el verano, el udgîtha la estación lluviosa, el pratihâra el otoño, <span id="p31">[<sup><small>p. 31</small></sup>]</span> el nidhana el invierno. Ese es el Vairâ<i>g</i>a Sâman, entrelazado con las estaciones.
+1\. El hiṅkâra es la primavera, el prastâva el verano, el udgîtha la estación lluviosa, el pratihâra el otoño, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> el nidhana el invierno. Ese es el Vairâ<i>g</i>a Sâman, entrelazado con las estaciones.
 
 2\. Quien así conoce el Vairâ<i>g</i>a, entrelazado con las estaciones, brilla (virâ<i>g</i>ati) a través de los hijos, el ganado y la gloria de su semblante. Alcanza la vida plena, vive mucho tiempo, se vuelve grande con los hijos y el ganado, grande por la fama. Su regla es: «Nunca te quejes de las estaciones».
 
@@ -190,7 +190,7 @@ SEGUNDO PRAPÂTHAKA.
 
 1\. El hiṅkâra es el triple conocimiento; el prastâva, estos tres mundos; el udgîtha, Agni (fuego), Vâyu (aire) y Âditya (sol); el pratihâra, las estrellas, las aves y los rayos; el nidhana, las serpientes, los Gandharvas y los padres. Ese es el Sâman, entrelazado en todo.
 
-2\. Quien conoce así este Sâman, como entretejido en todo, se convierte en todo. <span id="p33">[<sup><small>p. 33</small></sup>]</span> 3\. Y así se dice en el siguiente verso: Existen los tres quíntuples (los tres tipos de conocimiento sacrificial, los tres mundos, etc., en su quíntuple forma, es decir, identificados con el hiṅkâra, el prastâva, etc.), y las demás formas del Sâman. No hay nada más grande que estos.
+2\. Quien conoce así este Sâman, como entretejido en todo, se convierte en todo. <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> 3\. Y así se dice en el siguiente verso: Existen los tres quíntuples (los tres tipos de conocimiento sacrificial, los tres mundos, etc., en su quíntuple forma, es decir, identificados con el hiṅkâra, el prastâva, etc.), y las demás formas del Sâman. No hay nada más grande que estos.
 
 4\. Quien conoce esto, lo sabe todo. Todas las regiones le ofrecen dones. Su regla es: «Que medite (en el Saman), sabiendo que él es todo, sí, que él es todo [^149]».
 
@@ -198,7 +198,7 @@ SEGUNDO PRAPÂTHAKA.
 
 1\. El udgîtha, del cual un poeta dijo: «Elijo la nota profunda del Sâman como buena para el ganado», pertenece a Agni; la nota indefinida pertenece a Pra<i>g</i>âpati, la nota definida a Soma, la nota suave y tersa a Vâyu, la nota suave y fuerte a Indra, la nota de garza a B<i>ri</i>haspati, la nota sorda a Varu<i>n</i>a. Que el hombre cultive todas estas, evitando, sin embargo, la de Varu<i>n</i>a.
 
-2\. Que un hombre cante [^151], deseando obtener con su canto la inmortalidad para los Devas. «Que con mi canto obtenga oblaciones (svadhâ) para los padres, esperanza para los hombres, forraje y agua para los animales, cielo para el sacrificador, alimento para mí mismo». Reflexionando sobre esto, que un hombre (sacerdote Udgât<i>ri</i>) cante alabanzas, sin cometer errores de pronunciación, etc. <span id="p34">[<sup><small>p. 34</small></sup>]</span> 3\. Todas las vocales (svara) pertenecen a Indra, todas las sibilantes (ûshman) a Pra<i>g</i>âpati, todas las consonantes (spar<i>s</i>a) a M<i>ri</i>tyu (muerte). Si alguien le reprende por sus vocales, que diga: “Fui a Indra como mi refugio (al pronunciar mis vocales): él te responderá”.
+2\. Que un hombre cante [^151], deseando obtener con su canto la inmortalidad para los Devas. «Que con mi canto obtenga oblaciones (svadhâ) para los padres, esperanza para los hombres, forraje y agua para los animales, cielo para el sacrificador, alimento para mí mismo». Reflexionando sobre esto, que un hombre (sacerdote Udgât<i>ri</i>) cante alabanzas, sin cometer errores de pronunciación, etc. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> 3\. Todas las vocales (svara) pertenecen a Indra, todas las sibilantes (ûshman) a Pra<i>g</i>âpati, todas las consonantes (spar<i>s</i>a) a M<i>ri</i>tyu (muerte). Si alguien le reprende por sus vocales, que diga: “Fui a Indra como mi refugio (al pronunciar mis vocales): él te responderá”.
 
 4\. Y si alguien lo reprende por sus sibilantes, que diga: «Me refugié en Pra<i>g</i>âpati; te destrozará». Y si alguien lo reprende por sus consonantes, que diga: «Me refugié en M<i>ri</i>tyu; te reducirá a cenizas».
 
@@ -235,7 +235,7 @@ SEGUNDO PRAPÂTHAKA.
 
 8\. 'Abre la puerta del mundo (el cielo), déjanos verte, para que podamos reinar ampliamente (en el cielo).'
 
-9\. Luego sacrifica, diciendo: «Adoración a <span id="p37">[<sup><small>p. 37</small></sup>]</span> Vâyu (aire), que mora en el cielo, que mora en el mundo. ¡Consígueme ese mundo, el sacrificador! ¡Ese es el mundo para el sacrificador!».
+9\. Luego sacrifica, diciendo: «Adoración a <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> Vâyu (aire), que mora en el cielo, que mora en el mundo. ¡Consígueme ese mundo, el sacrificador! ¡Ese es el mundo para el sacrificador!».
 
 10\. «Yo (el sacrificador) iré allí cuando esta vida termine. ¡Toma esto! ¡Abre el cerrojo!». Dicho esto, se levanta. Para él, los Rudras cumplen la oblación del mediodía.
 

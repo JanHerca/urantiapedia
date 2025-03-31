@@ -44,7 +44,7 @@ La posición del hombre es grande si se aferra a la realidad y la verdad; y si e
 
 Todo creyente que ha encontrado el Perfume de la Vestidura en este día, y se vuelve con un corazón puro hacia el Horizonte Supremo, es mencionado como uno de los seguidores de Baha en la Página Roja (la Página Roja significa la estación del martirio, y es la más alta).
 
-¡Oh, Pueblos del Mundo! El Credo de Dios es por el amor y la unión; no permitan que sea causa de discordia y desunión. A la vista de los hombres de discernimiento y de quienes se aferran a la Manifestación, aquello que es el medio de preservación y la causa de la tranquilidad y el bienestar de los Siervos, se revela desde la Pluma Suprema; pero los ignorantes de la tierra, criados en la ambición y la lujuria, ignoran la Sabiduría madura del Verdadero Sabio, <span id="p118">[<sup><small>p. 118</small></sup>]</span> y hablan y obran con imaginaciones y fantasías.
+¡Oh, Pueblos del Mundo! El Credo de Dios es por el amor y la unión; no permitan que sea causa de discordia y desunión. A la vista de los hombres de discernimiento y de quienes se aferran a la Manifestación, aquello que es el medio de preservación y la causa de la tranquilidad y el bienestar de los Siervos, se revela desde la Pluma Suprema; pero los ignorantes de la tierra, criados en la ambición y la lujuria, ignoran la Sabiduría madura del Verdadero Sabio, <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> y hablan y obran con imaginaciones y fantasías.
 
 ¡Oh, Santos de Dios y Sus Leales! Los reyes son la manifestación del poder y la aurora del Poder y la Riqueza del Verdadero. Oren por ellos, pues el gobierno de la tierra está ordenado para esas almas; pero Él ha designado para Sí los corazones.
 

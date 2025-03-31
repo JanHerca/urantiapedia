@@ -44,7 +44,7 @@ Hace mucho tiempo que bebí la sangre de los jinetes, con la que me alimentaron 
 
 A este miserable lo mataré con el filo de mi espada, que atraviesa la carne antes que los huesos.
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Sus moradas serán esta noche desoladas y desoladas, y no me desviaré de mi palabra: su cuerpo yacerá en los desiertos, talado, y su rostro podrás ver arrastrándose en el polvo.
 

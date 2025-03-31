@@ -94,7 +94,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de la santidad: las riquez
 
 ¿Cuál de la Santa Palabra es la más poderosa? ¿Cuál es la más victoriosa? ¿Cuál es la más gloriosa? ¿Cuál es la más eficaz?
 
-2\. «¿Qué es lo que más castiga al demonio? ¿Qué es lo que mejor cura? ¿Qué destruye mejor la malicia de los Daêvas y los Hombres? ¿Qué hace que el mundo material cumpla mejor sus deseos [^108]? ¿Qué libera mejor al mundo material de las angustias del corazón [^109]?» <span id="p24">[<sup><small>p. 24</small></sup>]</span> 3\. Ahura Mazda respondió: «¡Nuestro Nombre, oh Spitama Zarathu<i>s</i>tra!, que son los Amesha-Spe<i>n</i>tas, esa es la parte más poderosa de la Palabra Sagrada; esa es la más victoriosa; esa es la más gloriosa; esa es la más efectiva;
+2\. «¿Qué es lo que más castiga al demonio? ¿Qué es lo que mejor cura? ¿Qué destruye mejor la malicia de los Daêvas y los Hombres? ¿Qué hace que el mundo material cumpla mejor sus deseos [^108]? ¿Qué libera mejor al mundo material de las angustias del corazón [^109]?» <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> 3\. Ahura Mazda respondió: «¡Nuestro Nombre, oh Spitama Zarathu<i>s</i>tra!, que son los Amesha-Spe<i>n</i>tas, esa es la parte más poderosa de la Palabra Sagrada; esa es la más victoriosa; esa es la más gloriosa; esa es la más efectiva;
 
 4\. 'Eso es lo que más castiga a los demonios; eso es lo que mejor cura; eso destruye mejor la malicia de los Daêvas y los Hombres; eso hace que el mundo material llegue mejor al cumplimiento de sus deseos; eso libera mejor al mundo material de las ansiedades del corazón.'
 
@@ -146,7 +146,7 @@ Mi vigésimo nombre es MAZDA (El Omnisciente).
 
 10\. 'Si quieres, oh Zaratustra, destruir la malicia de los Daêvas y de los Hombres, de los Yatus y de los Pairikas, de los opresores, de los ciegos y de los sordos [^120], de los rufianes de dos patas [^121], de los Ashemaoghas de dos patas [^122], de los lobos de cuatro patas;
 
-Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanzas rectas, con las lanzas levantadas, portando la lanza de la devastación; entonces, recita estos mis nombres cada día y cada noche. <span id="p27">[<sup><small>p. 27</small></sup>]</span> 12\. 'Yo soy el Guardián [^124] Yo soy el Creador y el Sustentador [^125]; Yo soy el Discernidor [^126]; Yo soy el Espíritu más benéfico.
+Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanzas rectas, con las lanzas levantadas, portando la lanza de la devastación; entonces, recita estos mis nombres cada día y cada noche. <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 12\. 'Yo soy el Guardián [^124] Yo soy el Creador y el Sustentador [^125]; Yo soy el Discernidor [^126]; Yo soy el Espíritu más benéfico.
 
 'Mi nombre es el que da la salud; mi nombre es el mejor que da la salud.
 
@@ -170,7 +170,7 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 'Mi nombre es el Productor de Prosperidad [^128]; mi nombre es la Palabra de Prosperidad [^129].
 
-'Mi nombre es el Rey que gobierna a su voluntad; <span id="p28">[<sup><small>p. 28</small></sup>]</span> mi nombre es el Rey que gobierna más a su voluntad.
+'Mi nombre es el Rey que gobierna a su voluntad; <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> mi nombre es el Rey que gobierna más a su voluntad.
 
 'Mi nombre es el Rey liberal [^130]; mi nombre es el Rey más liberal.
 
@@ -190,13 +190,13 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 16\. 'Éstos son mis nombres.
 
-«Y aquel que en este mundo material, ¡oh Spitama Zarathu<i>s</i>tra!, recite y pronuncie esos nombres míos [^132] ya sea de día o de noche; <span id="p29">[<sup><small>p. 29</small></sup>]</span> 17\. «Aquel que los pronuncie, al levantarse o al acostarse; al acostarse o al levantarse; al atarse el cinturón sagrado [^133] o al desatarse el cinturón sagrado; al salir de su morada, o al salir de su ciudad, o al salir de su país y llegar a otro país;
+«Y aquel que en este mundo material, ¡oh Spitama Zarathu<i>s</i>tra!, recite y pronuncie esos nombres míos [^132] ya sea de día o de noche; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 17\. «Aquel que los pronuncie, al levantarse o al acostarse; al acostarse o al levantarse; al atarse el cinturón sagrado [^133] o al desatarse el cinturón sagrado; al salir de su morada, o al salir de su ciudad, o al salir de su país y llegar a otro país;
 
 18\. 'Ese hombre, ni en ese día ni en esa noche, será herido por las armas del enemigo que se abalanza como Aêshma [^134] y tiene mentalidad de Drogadicto; ni el cuchillo, ni la ballesta, ni la flecha, ni la espada, ni el garrote, ni la piedra de honda [^135] lo alcanzarán para herirlo.
 
 19\. 'Pero esos nombres vendrán para protegerlo por detrás y por delante [^136], de la Droga invisible, del demonio Varenya [^137], del malhechor [^138] empeñado en hacer daño [^139], y de ese demonio que es toda muerte, Angra Mainyu. Será como si mil hombres vigilaran a un solo hombre [^140].
 
-20\. “¿Quién aniquilará al demonio para mantener tus ordenanzas? Enséñame claramente tus <span id="p30">[<sup><small>p. 30</small></sup>]</span> reglas para este mundo y para el siguiente, para que Sraosha venga con Vohu-Manô y ayude a quien quieras [^141].”
+20\. “¿Quién aniquilará al demonio para mantener tus ordenanzas? Enséñame claramente tus <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> reglas para este mundo y para el siguiente, para que Sraosha venga con Vohu-Manô y ayude a quien quieras [^141].”
 
 21\. ¡Salve a la Gloria de los Kavis [^142]! ¡Salve al Airyanem Vaê<i>g</i>ah [^143]! ¡Salve al Saoka [^144], creado por Mazda! ¡Salve a las aguas del Dâitya [^145]! ¡Salve a Ardvi [^146], el pozo puro! ¡Salve al mundo entero del Espíritu Santo!
 
@@ -206,7 +206,7 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 22\. 'Adoramos a Ahuna Vairya [^149]. Adoramos a Asha-Vahi<i>s</i>sta, el más bello, inmortal y benéfico [^150]. Adoramos la Fuerza, la Prosperidad, el Poder, la Victoria, la Gloria y el Vigor [^151]. Adoramos a Ahura Mazda, brillante y glorioso.
 
-'Yênghê hâtãm [^152]: A todos esos seres [^153] de quienes Ahura Mazda conoce la bondad [^154] para un sacrificio <span id="p31">[<sup><small>p. 31</small></sup>]</span> \[realizado\] en santidad, a todos esos seres, varones [^155] y mujeres [^156], adoramos.
+'Yênghê hâtãm [^152]: A todos esos seres [^153] de quienes Ahura Mazda conoce la bondad [^154] para un sacrificio <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> \[realizado\] en santidad, a todos esos seres, varones [^155] y mujeres [^156], adoramos.
 
 23\. 'Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
@@ -250,7 +250,7 @@ Y de las hordas con el frente ancho, con las muchas lanzas [^123], con las lanza
 
 32\. 'Adoramos esa creación \[de Ahura\], Spe<i>n</i>ta-Ârmaiti; y las sagradas creaciones de esa criatura y de Asha \[Vahi<i>s</i>ta\], que son las más santificadas [^174].
 
-'Aquí tomo como señor y amo [^175] al más grande de todos, Ahura Mazda; para herir al demonio Angra Mainyu para herir a Aê<i>s</i>ma de la lanza hiriente [^176]; para herir a los demonios Mâzainya 6; para herir a todos los Daêvas y a los demonios Varenya [^177]; para aumentar a Ahura Mazda, <span id="p34">[<sup><small>p. 34</small></sup>]</span> brillante y glorioso; para aumentar a los Amesha-Spe<i>n</i>tas; para aumentar a la estrella Ti<i>s</i>trya [^178], la brillante y gloriosa; para aumentar a los hombres fieles; para aumentar a todas las criaturas santas del Espíritu Benéfico.
+'Aquí tomo como señor y amo [^175] al más grande de todos, Ahura Mazda; para herir al demonio Angra Mainyu para herir a Aê<i>s</i>ma de la lanza hiriente [^176]; para herir a los demonios Mâzainya 6; para herir a todos los Daêvas y a los demonios Varenya [^177]; para aumentar a Ahura Mazda, <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> brillante y glorioso; para aumentar a los Amesha-Spe<i>n</i>tas; para aumentar a la estrella Ti<i>s</i>trya [^178], la brillante y gloriosa; para aumentar a los hombres fieles; para aumentar a todas las criaturas santas del Espíritu Benéfico.
 
 'Ashem Vohû: La santidad es el mejor de todos los bienes. . . . [^179]
 

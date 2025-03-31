@@ -38,7 +38,7 @@ Declararé el modo de vida que beneficia al alma; al practicarlo, muchas almas h
 
 Hay que desistir de una cosa y practicar otra: desistir de descuidar el autocontrol y practicar el autocontrol. (2)
 
-El amor y el odio son dos males que producen mal <span id="p181">[<sup><small>p. 181</small></sup>]</span> Karman; si un monje siempre los evita, no permanecerá dentro del círculo (de la transmigración). (3)
+El amor y el odio son dos males que producen mal <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> Karman; si un monje siempre los evita, no permanecerá dentro del círculo (de la transmigración). (3)
 
 Un monje que siempre evita los tres actos dañinos, engreídos y engañosos [^496], no permanecerá en el círculo (de la transmigración). (4)
 
@@ -76,7 +76,7 @@ Un monje que siempre se esfuerza con respecto a las (veintisiete) virtudes de lo
 
 Un monje que siempre se esfuerza con respecto a las (veintinueve) causas del conocimiento erróneo y las (treinta) causas del engaño, no permanecerá, etc. (19)
 
-Un monje que siempre se esfuerza con respecto a las (treinta y una) cualidades de los Siddhas, etc., los (treinta y dos) <span id="p184">[<sup><small>p. 184</small></sup>]</span> Yogas [^517], y los treinta y tres Â<i>s</i>âtanâs [^518], no permanecerá, etc. (20)
+Un monje que siempre se esfuerza con respecto a las (treinta y una) cualidades de los Siddhas, etc., los (treinta y dos) <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> Yogas [^517], y los treinta y tres Â<i>s</i>âtanâs [^518], no permanecerá, etc. (20)
 
 Un monje inteligente que se esfuerza siempre en los puntos antes mencionados, pronto se liberará completamente del Círculo de Nacimientos (21).
 

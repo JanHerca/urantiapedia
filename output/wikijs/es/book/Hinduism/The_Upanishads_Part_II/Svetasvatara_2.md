@@ -38,17 +38,17 @@ dateCreated: 2025-1-15T22:57:51Z
 
 1 [^728]. Savi<i>tri</i> (el sol), habiendo primero recogido su mente y expandido sus pensamientos, trajo a Agni (el fuego), cuando hubo descubierto su luz, sobre la tierra.
 
-2 [^729]. Con la mente serena, nos sometemos a la divina Savitri para que alcancemos la bienaventuranza. <span id="p239">[<sup><small>p. 239</small></sup>]</span> 3 [^730]. Que Savitri, tras haber alcanzado con su mente a los dioses que ascienden al cielo, y con sus pensamientos el cielo, conceda a estos dioses que brillen como una gran luz.
+2 [^729]. Con la mente serena, nos sometemos a la divina Savitri para que alcancemos la bienaventuranza. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> 3 [^730]. Que Savitri, tras haber alcanzado con su mente a los dioses que ascienden al cielo, y con sus pensamientos el cielo, conceda a estos dioses que brillen como una gran luz.
 
-4 [^731]. Los sabios del gran sabio se reflexionan y ordenan sus pensamientos. Solo aquel que conoce la ley (Savitri) ha ordenado las invocaciones; grande es la alabanza del divino Savitri. <span id="p240">[<sup><small>p. 240</small></sup>]</span> 5 [^732]. Tu antigua oración debe ir acompañada [^733] de alabanzas. ¡Que mi canción se extienda como el sol! Que todos los hijos del Inmortal escuchen, quienes han alcanzado sus moradas celestiales.
+4 [^731]. Los sabios del gran sabio se reflexionan y ordenan sus pensamientos. Solo aquel que conoce la ley (Savitri) ha ordenado las invocaciones; grande es la alabanza del divino Savitri. <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> 5 [^732]. Tu antigua oración debe ir acompañada [^733] de alabanzas. ¡Que mi canción se extienda como el sol! Que todos los hijos del Inmortal escuchen, quienes han alcanzado sus moradas celestiales.
 
-6\. Donde se aviva el fuego [^734], donde se detiene el viento, donde fluye el Soma, allí nace la mente. <span id="p241">[<sup><small>p. 241</small></sup>]</span> 7\. Amemos al antiguo Brahman por la gracia de Savitri; si allí moras, el camino no te hará daño [^735].
+6\. Donde se aviva el fuego [^734], donde se detiene el viento, donde fluye el Soma, allí nace la mente. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 7\. Amemos al antiguo Brahman por la gracia de Savitri; si allí moras, el camino no te hará daño [^735].
 
 8\. Si un hombre sabio mantiene su cuerpo con sus tres partes erguidas (pecho, cuello y cabeza) [^736], y dirige sus sentidos con la mente hacia el corazón, entonces, en la barca de Brahman [^737], cruzará todos los torrentes que causan miedo.
 
 9\. Que quien haya dominado todos sus movimientos, respire suavemente por la nariz, comprimiendo su respiración [^738]. Que el sabio, sin falta, refrene su mente, ese carro uncido con caballos feroces [^739].
 
-10\. Que realice sus ejercicios en un lugar [^740] <span id="p242">[<sup><small>p. 242</small></sup>]</span> llano, puro, libre de piedras, fuego y polvo, agradable por sus sonidos, sus aguas y sus cenadores, agradable a la vista y lleno de refugios y cuevas.
+10\. Que realice sus ejercicios en un lugar [^740] <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> llano, puro, libre de piedras, fuego y polvo, agradable por sus sonidos, sus aguas y sus cenadores, agradable a la vista y lleno de refugios y cuevas.
 
 11\. Cuando se practica Yoga, las formas que aparecen primero, produciendo apariciones en Brahman, son las del humo nebuloso, el sol, el fuego, el viento, las luciérnagas, los relámpagos y una luna de cristal [^741].
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 13\. Los primeros resultados del Yoga se llaman ligereza, salud, firmeza, buena complexión, pronunciación fácil, olor agradable y secreciones ligeras.
 
-14\. Como un disco de metal (espejo), deslustrado por el polvo, vuelve a brillar tras ser limpiado, así la persona encarnada se siente satisfecha y libre de penas tras haber visto la verdadera naturaleza del Ser [^744]. <span id="p243">[<sup><small>p. 243</small></sup>]</span> 15\. Y cuando, mediante la verdadera naturaleza de su ser, ve, como a través de una lámpara, la verdadera naturaleza de Brahman, entonces, habiendo conocido al dios eterno e innaciente, que está más allá de todas las naturalezas [^745], se libera de todas las ataduras.
+14\. Como un disco de metal (espejo), deslustrado por el polvo, vuelve a brillar tras ser limpiado, así la persona encarnada se siente satisfecha y libre de penas tras haber visto la verdadera naturaleza del Ser [^744]. <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> 15\. Y cuando, mediante la verdadera naturaleza de su ser, ve, como a través de una lámpara, la verdadera naturaleza de Brahman, entonces, habiendo conocido al dios eterno e innaciente, que está más allá de todas las naturalezas [^745], se libera de todas las ataduras.
 
 16\. Él es, en verdad, el dios que impregna todas las regiones: es el primogénito (como Hiranyagarbha), y está en el vientre materno. Ha nacido y nacerá [^746]. Está detrás de todas las personas, mirando por todas partes.
 

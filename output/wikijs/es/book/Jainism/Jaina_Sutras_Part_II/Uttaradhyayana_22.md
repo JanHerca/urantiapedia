@@ -74,7 +74,7 @@ Habiendo oído estas palabras, que anunciaban la matanza de muchos animales, el 
 
 Entonces el hombre famoso le regaló al auriga su par de pendientes, su collar y todos sus adornos. (20)
 
-Cuando hubo tomado su resolución, los dioses <span id="p115">[<sup><small>p. 115</small></sup>]</span> descendieron (del cielo), según la costumbre establecida, para celebrar, con gran pompa junto con su séquito, el acontecimiento de su renuncia. (21)
+Cuando hubo tomado su resolución, los dioses <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> descendieron (del cielo), según la costumbre establecida, para celebrar, con gran pompa junto con su séquito, el acontecimiento de su renuncia. (21)
 
 Rodeado de dioses y hombres, y sentado en un excelente palanquín, el Venerable dejó Dvârakâ y ascendió al monte Raivataka [^297] (22)
 
@@ -102,7 +102,7 @@ Cuando entró en la orden, la virtuosa y muy docta dama indujo a muchas personas
 
 En su camino al monte Raivataka comenzó a llover; como sus ropas estaban mojadas, entró en una cueva y esperó allí en la oscuridad mientras llovía. (33)
 
-Se quitó la ropa y quedó desnuda como al nacer, así fue vista por Rathanêmi [^301], cuya <span id="p117">[<sup><small>p. 117</small></sup>]</span> (paz de) mente quedó (por ello) perturbada; y después ella lo vio. (34)
+Se quitó la ropa y quedó desnuda como al nacer, así fue vista por Rathanêmi [^301], cuya <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> (paz de) mente quedó (por ello) perturbada; y después ella lo vio. (34)
 
 Se asustó al encontrarse sola con el monje; cruzando los brazos sobre el pecho, se dejó caer temblando. (35)
 

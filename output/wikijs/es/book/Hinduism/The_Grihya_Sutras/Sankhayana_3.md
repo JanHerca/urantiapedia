@@ -54,7 +54,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. Con (el verso), 'Casa por casa el resplandeciente' (Rig-veda I, 123, 4) (toma) la sombrilla,
 
-10\. Con (el verso), 'Levántate' (Rig-veda X, 18, 6), los zapatos, <span id="p92">[<sup><small>p. 92</small></sup>]</span>
+10\. Con (el verso), 'Levántate' (Rig-veda X, 18, 6), los zapatos, <span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 11\. Con (el verso), 'Largo sea tu anzuelo' (Rig-veda VIII, 17, 10) toma un bastón de bambú.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^205]. Si desea que se construya una casa, dibuja con una rama de Udumbara tres veces una línea alrededor (del terreno de la construcción) con (las palabras), 'Aquí incluyo las viviendas para el bien de la comida', y realiza sacrificios en (su) centro en un lugar elevado,
 
-2\. (Con los textos) «¿Quién eres? ¿De quién eres <span id="p93">[<sup><small>p. 93</small></sup>]</span>? ¿A quién te sacrifico, deseoso de vivir en la aldea? ¡Svâhâ!»
+2\. (Con los textos) «¿Quién eres? ¿De quién eres <span id="p93"><sup><small>[ p. 93 ]</small></sup></span>? ¿A quién te sacrifico, deseoso de vivir en la aldea? ¡Svâhâ!»
 
 «Tú eres la porción de los dioses en esta tierra. De aquí surgieron los antepasados ​​fallecidos. El gobernante ha sacrificado, deseoso de vivir en la aldea, sin omitir nada que pertenezca a los dioses. ¡Svâhâ!»
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. Aquellos al norte con (las palabras), '¡El Brahman y el Kshatra!
 
-7\. [^208]. ¡La fortuna es la cima, la ley el puesto principal! <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+7\. [^208]. ¡La fortuna es la cima, la ley el puesto principal! <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 8\. ¡Día y noche las dos jambas de la puerta!
 
@@ -140,7 +140,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. Del Brihat por la tarde;
 
-8\. Los cuatro Mahâvyâh<i>ri</i>tis, los tres versos «Vâstoshpati!» (Rig-veda VII, 54, 1-3), (los versos individuales) «Ahuyentando la calamidad» (y) «Vâstoshpati, <span id="p96">[<sup><small>p. 96</small></sup>]</span> un poste firme» (Rig-veda VII, 55, 1; VIII, 17, 14), y a (Agni) Svish<i>ri</i>ak<i>ri</i>ta, la décima oblación de comida cocinada por la noche.
+8\. Los cuatro Mahâvyâh<i>ri</i>tis, los tres versos «Vâstoshpati!» (Rig-veda VII, 54, 1-3), (los versos individuales) «Ahuyentando la calamidad» (y) «Vâstoshpati, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> un poste firme» (Rig-veda VII, 55, 1; VIII, 17, 14), y a (Agni) Svish<i>ri</i>ak<i>ri</i>ta, la décima oblación de comida cocinada por la noche.
 
 9\. Tomó consigo a su hijo mayor y a su esposa, llevando grano, y entró (en la casa con las palabras),
 
@@ -184,7 +184,7 @@ Aquello en lo que el viajero piensa, aquello en lo que reside tanta alegría, a 
 
 4\. Que pronuncie palabras auspiciosas.
 
-5\. [^214]. Al aceptar el agua para lavarse los pies, dice: «Eres la leche de Virâ<i>g</i>; que yo obtenga <span id="p98">[<sup><small>p. 98</small></sup>]</span> la leche de Virâ_g_; que en mí more la leche de Padyâ Virâ<i>g</i>».
+5\. [^214]. Al aceptar el agua para lavarse los pies, dice: «Eres la leche de Virâ<i>g</i>; que yo obtenga <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> la leche de Virâ_g_; que en mí more la leche de Padyâ Virâ<i>g</i>».
 
 ## KHANDA 8.
 
@@ -194,7 +194,7 @@ Aquello en lo que el viajero piensa, aquello en lo que reside tanta alegría, a 
 
 3\. [^216]. Lo come tres veces, rociándolo con agua, con (el verso): «¡Del bien nos habéis guiado a lo mejor, oh dioses! Que por ti, el alimento, podamos obtenerlo. Entra en nosotros, ¡oh poción refrescante! Sé nuestra salvación, para los hombres y los animales».
 
-4\. Con (el verso), «Este eres tú, aliento; digo la verdad. Este eres tú; desde todas las direcciones has entrado (en todos los seres). Tú, que alejas la vejez y la enfermedad de mi cuerpo, quédate en casa conmigo. ¡No nos abandones, Indra!» —toca el lugar del corazón; <span id="p99">[<sup><small>p. 99</small></sup>]</span>
+4\. Con (el verso), «Este eres tú, aliento; digo la verdad. Este eres tú; desde todas las direcciones has entrado (en todos los seres). Tú, que alejas la vejez y la enfermedad de mi cuerpo, quédate en casa conmigo. ¡No nos abandones, Indra!» —toca el lugar del corazón; <span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 5\. Con (las palabras), 'Tú eres el ombligo; no temas; tú eres el nudo de los poderes respiratorios; no te aflojes', (toca) el ombligo;
 
@@ -218,7 +218,7 @@ Aquello en lo que el viajero piensa, aquello en lo que reside tanta alegría, a 
 
 ## KHANDA 10.
 
-1\. La luna nueva que sigue a la luna llena de Phâlguna <span id="p100">[<sup><small>p. 100</small></sup>]</span>, cae bajo (el Nakshatra) Revatî: en ese (día de luna nueva) se le harán las marcas (a su ganado),
+1\. La luna nueva que sigue a la luna llena de Phâlguna <span id="p100"><sup><small>[ p. 100 ]</small></sup></span>, cae bajo (el Nakshatra) Revatî: en ese (día de luna nueva) se le harán las marcas (a su ganado),
 
 2\. [^218]. Con (las palabras): «Tú eres el mundo, mil veces próspero. Que a Indra el esfuerzo (?) te conceda. Eres inviolable, ileso, savia, alimento, protección. Por tantas (vacas) haré esto ahora, por más (que estas) que lo haga el próximo año».
 
@@ -234,7 +234,7 @@ Aquello en lo que el viajero piensa, aquello en lo que reside tanta alegría, a 
 
 3\. Sacrifica, después de haber encendido entre las vacas un fuego bien encendido, oblaciones Â_g_ya (con las palabras),
 
-4\. Aquí está el deleite; deléitate aquí. ¡Svâhâ! <span id="p101">[<sup><small>p. 101</small></sup>]</span> Aquí está la quietud; aquí está (tu) propia quietud. ¡Svâhâ!
+4\. Aquí está el deleite; deléitate aquí. ¡Svâhâ! <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> Aquí está la quietud; aquí está (tu) propia quietud. ¡Svâhâ!
 
 He dejado que el ternero se reúna con su madre. Que el ternero, mamando del pecho de su madre, apoye el aumento de nuestra riqueza. ¡Svâhâ!
 
@@ -289,7 +289,7 @@ Llaman a tus dientes “piedras de prensar”; tu ubre es (Soma) Pavamâna; ... 
 
 3\. O (lo hará) con el verso: «Lleva el epiplón, Gâtavedas, a los Manes, donde los conoces en el mundo de la virtud. Que fluyan hacia ellos ríos de grasa; que se cumplan los deseos del sacrificador. ¡Svâhâ!»
 
-4\. (Luego siguen) los cuatro Mahâvyâh<i>ri</i>tis (y) los cuatro (versos), «Los sedientos» (véase Sûtra 2): (así se ofrece) una oblación óctuple de alimento cocido, junto con las porciones cortadas. <span id="p104">[<sup><small>p. 104</small></sup>]</span>
+4\. (Luego siguen) los cuatro Mahâvyâh<i>ri</i>tis (y) los cuatro (versos), «Los sedientos» (véase Sûtra 2): (así se ofrece) una oblación óctuple de alimento cocido, junto con las porciones cortadas. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 5 [^226]. O bien, «Se interponen las montañas; se interpone la vasta tierra para mí. Con el cielo y todos los puntos del horizonte, interpongo otro en lugar del padre. ¡A NN svâhâ!»
 
@@ -308,7 +308,7 @@ Con los que se mantienen en pie, con los que fluyen, con los pequeños que fluye
 
 1\. En el último (Ash<i>t</i>akâ) sacrifica pasteles,
 
-2\. Con las palabras: «El Ukthya y el Atirâtra. El Sadya<i>h</i>krî junto con la métrica: ¡Ash<i>h</i>akâ! <span id="p105">[<sup><small>p. 105</small></sup>]</span> ¡Preparador de pasteles! Adoración a ti, oh, el de rostro alegre. ¡Svâhâ!»
+2\. Con las palabras: «El Ukthya y el Atirâtra. El Sadya<i>h</i>krî junto con la métrica: ¡Ash<i>h</i>akâ! <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> ¡Preparador de pasteles! Adoración a ti, oh, el de rostro alegre. ¡Svâhâ!»
 
 3\. [^228]. Una vaca o una cabra es el animal (que se va a sacrificar), o un plato de comida cocinada (se debe ofrecer).
 

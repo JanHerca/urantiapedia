@@ -48,7 +48,7 @@ Me confieso adorador de Mazda, seguidor de Zaratustra, que odia a los Daêvas y 
 
 Para sacrificio, oración, propiciación y glorificación a \[Hâvani\], el santo y maestro de la santidad [^250] . . . . .
 
-A Haurvatâ<i>t</i>, el amo; a la prosperidad <span id="p49">[<sup><small>p. 49</small></sup>]</span> de las estaciones y a los años, los amos de la santidad [^251],
+A Haurvatâ<i>t</i>, el amo; a la prosperidad <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> de las estaciones y a los años, los amos de la santidad [^251],
 
 Sé propiciación, con sacrificio, oración, propiciación y glorificación.
 
@@ -68,7 +68,7 @@ Sacrificamos a Haurvatâ<i>t</i>, la Amesha-Spe<i>n</i>ta; sacrificamos a la pro
 
 Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyéndolo [^261] o recitándolo de memoria, dibuja los surcos [^262] y se esconde [^263] allí él mismo, \[diciendo\]:
 
-6\. “¡Te heriré, oh Droga! Quienquiera que seas, quienquiera que seas entre las Drogas que entran por la vía pública, quienquiera que seas entre las Drogas que entran por vías ocultas, quienquiera que seas entre las Drogas que contaminan por contacto; seas la Droga que seas, te expulso de los países arios; seas la Droga que seas, te ato; ¡te derribo, oh Droga! ¡Te arrojo al suelo, oh Droga!” <span id="p51">[<sup><small>p. 51</small></sup>]</span> 7\. 'Dibuja \[luego\] tres surcos [^264]: lo proclamo uno de los fieles; dibuja seis surcos [^264]: lo proclamo uno de los fieles; dibuja nueve surcos [^264]: lo proclamo uno de los fieles.
+6\. “¡Te heriré, oh Droga! Quienquiera que seas, quienquiera que seas entre las Drogas que entran por la vía pública, quienquiera que seas entre las Drogas que entran por vías ocultas, quienquiera que seas entre las Drogas que contaminan por contacto; seas la Droga que seas, te expulso de los países arios; seas la Droga que seas, te ato; ¡te derribo, oh Droga! ¡Te arrojo al suelo, oh Droga!” <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> 7\. 'Dibuja \[luego\] tres surcos [^264]: lo proclamo uno de los fieles; dibuja seis surcos [^264]: lo proclamo uno de los fieles; dibuja nueve surcos [^264]: lo proclamo uno de los fieles.
 
 8\. 'Los nombres de aquellos (Amesha-Spe<i>n</i>tas) hieren a los hombres convertidos a Nasus [^265] por las Drogas; la semilla y los parientes de los sordos [^266] son ​​heridos, los desdeñosos [^267] están muertos, mientras el Zaotar Zaratustra los sopla hacia la aflicción [^268], por muy fieros que sean, a su voluntad y deseo, a tantos como él desea.
 
@@ -76,7 +76,7 @@ Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyén
 
 10\. '¡Oh Zaratustra! Que ese hechizo no se muestre a nadie, excepto por el padre a su hijo, o por el hermano a su hermano de la misma matriz, o por el Âthravan a su discípulo [^269] de cabello negro, devoto de la buena ley, quien, devoto de la buena ley, santo [^270] y valiente, calma todas las Drogas [^271].
 
-11\. Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado, a saber, a Haurvatâ<i>t</i>, el Amesha-Spe<i>n</i>ta. A Haurvatâ<i>t</i>, el Amesha-Spe<i>n</i>ta, ofrecemos las libaciones, el haoma y la carne, la baresma, la sabiduría de la lengua, los <span id="p52">[<sup><small>p. 52</small></sup>]</span> hechizos sagrados, el habla, las obras, las libaciones y las palabras bien dichas.
+11\. Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado, a saber, a Haurvatâ<i>t</i>, el Amesha-Spe<i>n</i>ta. A Haurvatâ<i>t</i>, el Amesha-Spe<i>n</i>ta, ofrecemos las libaciones, el haoma y la carne, la baresma, la sabiduría de la lengua, los <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> hechizos sagrados, el habla, las obras, las libaciones y las palabras bien dichas.
 
 12\. 'Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 

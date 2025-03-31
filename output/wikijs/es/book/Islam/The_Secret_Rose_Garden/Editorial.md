@@ -29,7 +29,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 El objetivo de los editores de esta serie es muy concreto. Desean por encima de todo que, a su humilde manera, estos libros sean embajadores de la buena voluntad y el entendimiento entre Oriente y Occidente, el viejo mundo del pensamiento y el nuevo de la acción. En este empeño, y en su propia esfera, no son más que seguidores del más alto ejemplo del país. Confían en que un conocimiento más profundo de los grandes ideales y la elevada filosofía del pensamiento oriental puede ayudar a un renacimiento de ese verdadero espíritu de caridad que no desprecia ni teme a las naciones de otro credo y color.
 

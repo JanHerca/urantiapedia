@@ -62,7 +62,7 @@ Un ejemplo notable de este estilo natural y simple es Jáḥiz, cuya dicción Ha
 
 Con tal asiduidad se cultivó el arte de la escritura oficial, tan grande fue la importancia que se le atribuyó y tan altamente llegó a ser apreciado, que el Kátib, o secretario, no pocas veces ascendió al puesto más alto en el estado, el de Wazír, o primer ministro. Tha‘álibí arroja considerable luz sobre el surgimiento y desarrollo de esta correspondencia oficial. Dice que la escritura epistolar comenzó con ‘Abd al-Ḥamíd (ob. 133 H.), Kátib, o secretario, de Marwán, el último de los califas omeyas, y terminó con Ibn al-Amíd (ob. 359 o 360 H.), el Wazír de Rukn al-Daula, el príncipe Buwayhid. [^58]
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 En este esfuerzo por lograr un estilo ornamentado y elevado, la adopción de una especie de composición que había elevado la oratoria del púlpito por encima del lenguaje de la vida cotidiana, parece ser un resultado natural, y así la prosa rimada se convirtió en la característica esencial no sólo de la escritura oficial, sino también de la correspondencia privada de los eruditos y cultos.
 

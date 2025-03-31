@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 BEATRICE [Su'ād] se ha ido. Por eso mi corazón aquel día estaba distraído, delirando tras ella, encadenado irremediablemente.
 
@@ -50,7 +50,7 @@ BEATRICE [Su'ād] se ha ido. Por eso mi corazón aquel día estaba distraído, d
 
 8\. Ella no permanece constante en cualquier estado que haya asumido, así como el demonio de las selvas varía en su disfraz!
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 9\. Ella no se atiene a ninguna promesa que ha hecho, ¡salvo como los coladores retienen el agua!
 
@@ -110,7 +110,7 @@ BEATRICE [Su'ād] se ha ido. Por eso mi corazón aquel día estaba distraído, d
 
 37\. «Todo hijo de mujer, por mucho tiempo que esté a salvo, un día es llevado sobre un instrumento estriado [un féretro con una tapa estriada].»
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 38\. Me han informado que el Apóstol de Dios me ha amenazado; pero se espera el perdón del Apóstol de Dios.
 

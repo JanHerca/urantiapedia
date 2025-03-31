@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. Estos son causa de transgresión durante la Pascua: el sable babilónico, [^127] la cerveza meda, el vinagre edomita, el zithum egipcio, [^128] la masa purificadora <span id="p99">[<sup><small>p. 99</small></sup>]</span> del tintorero, [^129] el grano clarificante de los cocineros y la pasta de los encuadernadores. El rabino Eleazar dijo: «Incluso los cosméticos de las mujeres». Esta es la regla. Todo tipo de grano puede ser causa de transgresión durante la Pascua. Estos son mandamientos negativos, y no se castigan con el corte.
+1\. Estos son causa de transgresión durante la Pascua: el sable babilónico, [^127] la cerveza meda, el vinagre edomita, el zithum egipcio, [^128] la masa purificadora <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> del tintorero, [^129] el grano clarificante de los cocineros y la pasta de los encuadernadores. El rabino Eleazar dijo: «Incluso los cosméticos de las mujeres». Esta es la regla. Todo tipo de grano puede ser causa de transgresión durante la Pascua. Estos son mandamientos negativos, y no se castigan con el corte.
 
 2\. "¿Masa en una hendidura de la artesa?" "Si hay una cantidad del tamaño de una aceituna en un solo lugar, hay que vaciarla." Menos que esto carece de valor por su pequeñez. Lo mismo ocurre con la cuestión de la impureza. La particularidad causa división. "¿Pero si se desea que permanezca?" "Se considera como la artesa." "¿Masa seca?" [^130] "Si es como la que puede leudar, está prohibido."
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 4\. Rabán Gamaliel dijo: «Tres mujeres pueden amasar a la vez y hornear en un horno, una tras otra». Pero los Sabios dicen: «Tres mujeres pueden estar ocupadas con la masa: una amasa, otra prepara y otra hornea». Rabí Akiba dijo: «No todas las mujeres, ni toda la leña, ni todos los hornos son iguales». Esta es la regla: «Si fermenta, debe alisarse con agua fría».
 
-5\. La masa que empieza a leudar debe ser quemada, pero quien la come es libre. Cuando empieza a agrietarse debe ser quemada, y quien la come debe ser cortado. "¿Qué es la levadura?" "Como los cuernos de las langostas". "¿Que se agrieta?" "Cuando las grietas se entremezclan". Palabras de R. Judah. ​​Pero los Sabios dicen: "Si se come cualquiera de ellos, quien lo come debe ser cortado". "¿Y qué es la levadura?" "Todo lo que <span id="p100">[<sup><small>p. 100</small></sup>]</span> cambió su apariencia, como cuando a un hombre se le erizan los pelos por el miedo".
+5\. La masa que empieza a leudar debe ser quemada, pero quien la come es libre. Cuando empieza a agrietarse debe ser quemada, y quien la come debe ser cortado. "¿Qué es la levadura?" "Como los cuernos de las langostas". "¿Que se agrieta?" "Cuando las grietas se entremezclan". Palabras de R. Judah. ​​Pero los Sabios dicen: "Si se come cualquiera de ellos, quien lo come debe ser cortado". "¿Y qué es la levadura?" "Todo lo que <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> cambió su apariencia, como cuando a un hombre se le erizan los pelos por el miedo".
 
 6\. "¿Si el decimocuarto día de Nisán cayó en Shabat?" "Deben quitar toda la levadura antes de que comience el Shabat". Palabras de R. Meier. Pero los Sabios dicen: "en la época apropiada". Rabí Eleazar, hijo de Zaduk, dijo: "la ofrenda antes del Shabat y las cosas ordinarias en la época apropiada".
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:40:34Z
   </table>
 </figure>
 
-1\. El furúnculo y la quemadura causan impureza en una semana con dos marcas, con pelo blanco y con propagación. <span id="p284">[<sup><small>p. 284</small></sup>]</span> "¿Qué es un furúnculo?" "Si uno recibe un golpe con madera, piedra, o con sedimentos de aceite, o con las aguas de Tiberíades, con cualquier cosa que no sea fuego. Este es el furúnculo." "¿Qué es una quemadura?" "Si uno recibe una quemadura con brasas o cenizas incandescentes, con cualquier cosa que sea fuego. Este es el quemadura."
+1\. El furúnculo y la quemadura causan impureza en una semana con dos marcas, con pelo blanco y con propagación. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> "¿Qué es un furúnculo?" "Si uno recibe un golpe con madera, piedra, o con sedimentos de aceite, o con las aguas de Tiberíades, con cualquier cosa que no sea fuego. Este es el furúnculo." "¿Qué es una quemadura?" "Si uno recibe una quemadura con brasas o cenizas incandescentes, con cualquier cosa que sea fuego. Este es el quemadura."
 
 2\. La úlcera y la quemadura no se identifican entre sí, ni se propagan de una a otra, ni se extienden por la piel de la carne, ni la piel de la carne se extiende en ellas. "¿Si se convierten en una llaga purulenta?" "Están limpias". "¿Si forman una piel como la cáscara de un ajo?" "Esta es la costra de la úlcera mencionada en la ley". "¿Se transforman y sanan aunque en su lugar haya una cicatriz?" "Se juzgan como piel de carne".
 

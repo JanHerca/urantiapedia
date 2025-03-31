@@ -46,7 +46,7 @@ El carácter de las tres partes que componen el Upanishad se puede describir mej
 
 La conexión entre el Upanishad, o mejor dicho, los tres Upanishads, y el primer Âra<i>n</i>yaka parece, a primera vista, muy tenue. Sin embargo, pronto nos damos cuenta de que sería imposible comprender el primer Upanishad sin un conocimiento previo de la ceremonia del Mahâvrata, tal como se describe en el primer Âra<i>n</i>yaka.
 
-Sobre este punto también hay algunas observaciones pertinentes en el comentario de Sāṅkara sobre el Âraṅyaka II, 1, 2. «Nuestro primer deber», dice, «consiste en realizar sacrificios, como los que se describen en la primera parte del Veda, los Saṅhitâs, los Brāhmaṅas y, hasta cierto punto, también en los Âraṅyakas. Posteriormente surge un deseo de conocimiento, que no puede satisfacerse a menos que el hombre haya alcanzado primero la <span id="p201">[<sup><small>p. 201</small></sup>]</span> concentración mental completa (êkâgratâ).» Para adquirir esa concentración, se prescribe la realización de ciertas upâsanas o meditaciones, tal como las encontramos descritas en nuestro Upanishad, a saber, en Âr. II, IV.
+Sobre este punto también hay algunas observaciones pertinentes en el comentario de Sāṅkara sobre el Âraṅyaka II, 1, 2. «Nuestro primer deber», dice, «consiste en realizar sacrificios, como los que se describen en la primera parte del Veda, los Saṅhitâs, los Brāhmaṅas y, hasta cierto punto, también en los Âraṅyakas. Posteriormente surge un deseo de conocimiento, que no puede satisfacerse a menos que el hombre haya alcanzado primero la <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> concentración mental completa (êkâgratâ).» Para adquirir esa concentración, se prescribe la realización de ciertas upâsanas o meditaciones, tal como las encontramos descritas en nuestro Upanishad, a saber, en Âr. II, IV.
 
 Esta meditación, o como a veces se traduce, adoración, es de dos tipos: brahmopâsana o pratîkopâsana. Brahmopâsana, o meditación en Brahman, consiste en pensar en él como alguien que se distingue por ciertas cualidades. Pratîkopâsana, o meditación en símbolos, consiste en considerar ciertos objetos mundanos como si fueran Brahman, para así apartar la mente de la influencia excesivamente poderosa de los objetos externos.
 
@@ -56,7 +56,7 @@ Esta meditación debe ser realizada por los sacerdotes, y mientras meditan, pued
 
 1\. Este es el camino: este sacrificio y este Brahman. Este es el verdadero [^502].
 
-2\. Que nadie se desvíe de ella, que nadie la transgreda. <span id="p202">[<sup><small>p. 202</small></sup>]</span> 3\. Porque los antiguos (sabios) no la transgredieron, y quienes la transgredieron se extraviaron.
+2\. Que nadie se desvíe de ella, que nadie la transgreda. <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> 3\. Porque los antiguos (sabios) no la transgredieron, y quienes la transgredieron se extraviaron.
 
 4\. Esto fue declarado por un Rishi (Rv. VIII, 101, 14): «Tres clases de personas transgredieron; otras se asentaron en torno al venerable (Agni, fuego); el gran (sol) se situó en medio de los mundos; el viento (Vâyu, aire) entró en los Harits (los amaneceres, o los confines de la tierra)».
 
@@ -70,7 +70,7 @@ Esta meditación debe ser realizada por los sacerdotes, y mientras meditan, pued
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
 
-1\. La gente dice: «Uktha, uktha», ¡himnos, himnos! (sin saber qué significa uktha, himno [^505]). El himno <span id="p203">[<sup><small>p. 203</small></sup>]</span> es verdaderamente (considerado como) la tierra, pues de ella surge todo lo que existe.
+1\. La gente dice: «Uktha, uktha», ¡himnos, himnos! (sin saber qué significa uktha, himno [^505]). El himno <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> es verdaderamente (considerado como) la tierra, pues de ella surge todo lo que existe.
 
 2\. El objeto de su alabanza es Agni (el fuego), y los ochenta versos (del himno) son el alimento, pues por medio del alimento se obtiene todo.
 
@@ -90,7 +90,7 @@ Esta meditación debe ser realizada por los sacerdotes, y mientras meditan, pued
 
 10\. El objeto de su alabanza es el aliento, y los ochenta versos (del himno) son el alimento, pues por medio del alimento obtiene todo.
 
-11\. La ligera curvatura (en la raíz) de la nariz es, por así decirlo, el lugar del brillante (Âditya, el sol). <span id="p204">[<sup><small>p. 204</small></sup>]</span> 12\. El himno es la frente, como antes en el caso del cielo. El objeto de su alabanza es el ojo, y las ochenta estrofas (del himno) son el alimento, pues mediante el alimento se obtiene todo.
+11\. La ligera curvatura (en la raíz) de la nariz es, por así decirlo, el lugar del brillante (Âditya, el sol). <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 12\. El himno es la frente, como antes en el caso del cielo. El objeto de su alabanza es el ojo, y las ochenta estrofas (del himno) son el alimento, pues mediante el alimento se obtiene todo.
 
 13\. Las ochenta estrofas (del himno) son alimento tanto para los dioses como para el hombre. Pues todos estos seres respiran y viven gracias al alimento. Mediante el alimento (dado en limosna, etc.) se conquista este mundo, y mediante el alimento (dado en sacrificio) se conquista el otro. Por lo tanto, las ochenta estrofas (del himno) son alimento tanto para los dioses como para el hombre.
 
@@ -154,7 +154,7 @@ El aliento salió, y cuando el aliento salió, el cuerpo cayó.
 
 16\. Que la gente sepa que la respiración es verdaderamente el uktha.
 
-17\. Los Devas (los otros sentidos) le dijeron al aliento: «Tú eres el uktha, tú eres todo esto, nosotros somos tuyos, tú eres nuestro». <span id="p208">[<sup><small>p. 208</small></sup>]</span> 18\. Esto también lo dijo un Rishi (Rv. VIII, 92, 32): «Tú eres nuestro, nosotros somos tuyos».
+17\. Los Devas (los otros sentidos) le dijeron al aliento: «Tú eres el uktha, tú eres todo esto, nosotros somos tuyos, tú eres nuestro». <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 18\. Esto también lo dijo un Rishi (Rv. VIII, 92, 32): «Tú eres nuestro, nosotros somos tuyos».
 
 ## QUINTO KHAND.
 
@@ -162,7 +162,7 @@ Entonces los Devas lo sacaron (el aliento), y al ser sacado, quedó tendido. Cua
 
 2\. El habla es Agni, la visión de Âditya (sol), la atención a la luna, la escucha de los Di<i>s</i> (cuartos): este es el prahitâ<i>m</i> sa<i>m</i>yoga [^516], la unión de las deidades tal como son enviadas. Estas deidades (Agni, etc.) están, por lo tanto, en el cuerpo, pero su aparición (fenoménica) allá arriba está entre las deidades; esto era lo que se pretendía.
 
-3\. Y también Hira<i>n</i>yadat Vaida, quien conocía esto (y quien por su conocimiento se había convertido en Hira<i>n</i>yagarbha o el espíritu universal), dijo: «Lo que no me dan, no se posee a sí mismo». Conozco el prahitâ<i>m</i>sa<i>m</i>yoga, la unión de las deidades, tal como entra en el cuerpo [^517]. Esto es. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 4\. A quien conoce esto, todas las criaturas, sin ser obligadas, le ofrecen ofrendas.
+3\. Y también Hira<i>n</i>yadat Vaida, quien conocía esto (y quien por su conocimiento se había convertido en Hira<i>n</i>yagarbha o el espíritu universal), dijo: «Lo que no me dan, no se posee a sí mismo». Conozco el prahitâ<i>m</i>sa<i>m</i>yoga, la unión de las deidades, tal como entra en el cuerpo [^517]. Esto es. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 4\. A quien conoce esto, todas las criaturas, sin ser obligadas, le ofrecen ofrendas.
 
 5\. Ese aliento es (debe llamarse) sattya (lo verdadero), pues sat es aliento, ti es alimento, yam es el sol [^518]. Este es triple, y triple también puede llamarse al ojo: blanco, oscuro y pupila. Quien sabe por qué lo verdadero es verdadero (por qué sattya es sattya), aunque diga mentiras, lo que dice es verdad.
 
@@ -174,7 +174,7 @@ Entonces los Devas lo sacaron (el aliento), y al ser sacado, quedó tendido. Cua
 
 3\. Del cuerpo de la respiración así meditada, el verso Ush<i>n</i>ih forma los cabellos, el Gâyatrî la piel, el Trish<i>t</i>ubh la carne, el Anush<i>t</i>ubh los músculos, el <i>G</i>agatî el hueso, el Paṅkti la médula, el B<i>ri</i>hatî la respiración [^520] (prâ<i>n</i>a). Está cubierto con los versos (kha<i>n</i><i>d</i>as, metros). Por eso, se les llama kha<i>n</i><i>d</i>as (coberturas, metros).
 
-4\. Si un hombre conoce la razón por la que los khandás se llaman khandás, los versos lo protegen donde quiera contra cualquier mala acción. <span id="p210">[<sup><small>p. 210</small></sup>]</span> 5\. Un Rishi (Rv. I, 164, 13) dice lo siguiente:
+4\. Si un hombre conoce la razón por la que los khandás se llaman khandás, los versos lo protegen donde quiera contra cualquier mala acción. <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> 5\. Un Rishi (Rv. I, 164, 13) dice lo siguiente:
 
 6\. «Vi (el aliento) como un guardián, incansable, yendo y viniendo por sus caminos (las arterias). Ese aliento (en el cuerpo, identificado con el sol entre los Devas), iluminando los ámbitos principal e intermedio del cielo, regresa constantemente en medio de los mundos».
 
@@ -198,7 +198,7 @@ Dice: “Vi un guardián”, porque él, el aliento, es un guardián, pues guard
 
 1\. A continuación se indican los poderes de esa Persona [^521].
 
-2\. Por su palabra se crearon la tierra y el fuego. <span id="p211">[<sup><small>p. 211</small></sup>]</span> Las hierbas se producen en la tierra, y Agni (el fuego) las hace maduras y dulces. «Toma esto, toma esto», diciendo así, la tierra y el fuego sirven a su padre, la palabra.
+2\. Por su palabra se crearon la tierra y el fuego. <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> Las hierbas se producen en la tierra, y Agni (el fuego) las hace maduras y dulces. «Toma esto, toma esto», diciendo así, la tierra y el fuego sirven a su padre, la palabra.
 
 3\. Hasta donde llega la tierra, hasta donde llega el fuego, hasta allí se extiende su mundo, y mientras el mundo de la tierra y el fuego no decaiga, hasta donde decae el mundo de quien conoce este poder de la palabra.
 
@@ -212,7 +212,7 @@ Hasta donde llega el cielo y hasta donde llega el sol, hasta allí se extiende s
 
 6\. Por su oído fueron creados los cuartos y la luna. De todos los cuartos acuden a él, y de todos los cuartos él escucha, mientras la luna produce para él las mitades brillante y oscura para el trabajo sacrificial. Así sirven los cuartos y la luna a su progenitor, el oído.
 
-Hasta donde alcanzan los cuartos y hasta donde alcanza la <span id="p212">[<sup><small>p. 212</small></sup>]</span> luna, hasta allí se extiende su mundo, y mientras el mundo de los cuartos y la luna no decaiga, hasta allí no decae el mundo de quien conoce así el poder del oído.
+Hasta donde alcanzan los cuartos y hasta donde alcanza la <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> luna, hasta allí se extiende su mundo, y mientras el mundo de los cuartos y la luna no decaiga, hasta allí no decae el mundo de quien conoce así el poder del oído.
 
 7\. Por su mente fueron creados el agua y Varuna. El agua le otorga fe (al ser utilizada para actos sagrados), y Varuna mantiene a su descendencia dentro de la ley. Así, el agua y Varuna sirven a su progenitor, la mente.
 
@@ -242,7 +242,7 @@ Tan lejos como llega el agua y tan lejos llega Varu<i>n</i>a, tan lejos se extie
 
 11\. 'Hacia abajo y hacia arriba va (el viento del aliento), sostenido por el alimento'; porque esta respiración ascendente, al ser retenida por la respiración descendente, no avanza (y no abandona el cuerpo por completo).
 
-12\. «Lo inmortal mora con lo mortal»; pues a través de él (el aliento) todo esto convive, siendo los cuerpos claramente mortales, pero este ser (el aliento), inmortal. <span id="p214">[<sup><small>p. 214</small></sup>]</span> 13\. «Estos dos (cuerpo y aliento) van eternamente en direcciones diferentes (el aliento mueve los sentidos del cuerpo, el cuerpo sustenta los sentidos del aliento: el primero asciende a otro mundo, el cuerpo muere y permanece en la tierra). Aumentan uno (el cuerpo), pero no el otro», es decir, aumentan estos cuerpos (con el alimento), pero este ser (el aliento) es inmortal.
+12\. «Lo inmortal mora con lo mortal»; pues a través de él (el aliento) todo esto convive, siendo los cuerpos claramente mortales, pero este ser (el aliento), inmortal. <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 13\. «Estos dos (cuerpo y aliento) van eternamente en direcciones diferentes (el aliento mueve los sentidos del cuerpo, el cuerpo sustenta los sentidos del aliento: el primero asciende a otro mundo, el cuerpo muere y permanece en la tierra). Aumentan uno (el cuerpo), pero no el otro», es decir, aumentan estos cuerpos (con el alimento), pero este ser (el aliento) es inmortal.
 
 14\. Quien conoce esto se vuelve inmortal en ese mundo (tras unirse con Hiranyagarbha), y es visto como inmortal (en el sol) por todos los seres, sí, por todos los seres.
 

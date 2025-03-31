@@ -49,7 +49,7 @@ Entonces el Bendito habló:
 
 Digo, hermanos, que la destrucción de los asavas corresponde a quien sabe, a quien ve; no a quien no sabe, a quien no ve. ¿Y qué digo, hermanos, es la destrucción de los asavas para quien sabe, para quien ve? Es cuestión de consideración sabia y de consideración necia.
 
-3\. Hermanos, en aquel que considera imprudentemente, brotan savas que no han surgido, y las savas que sí lo han hecho se multiplican. En aquel que considera sabiamente, hermanos, las savas que no han surgido <span id="p297">[<sup><small>p. 297</small></sup>]</span> no brotan, y las savas que sí lo han hecho no aumentan.
+3\. Hermanos, en aquel que considera imprudentemente, brotan savas que no han surgido, y las savas que sí lo han hecho se multiplican. En aquel que considera sabiamente, hermanos, las savas que no han surgido <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> no brotan, y las savas que sí lo han hecho no aumentan.
 
 ---
 
@@ -63,7 +63,7 @@ Digo, hermanos, que la destrucción de los asavas corresponde a quien sabe, a qu
 
 6\. '¿Y cuáles son, hermanos, aquellas cosas que no debería considerar, pero que, sin embargo, considera?
 
-"Hay cosas que, cuando un hombre las considera, el Âsava de la Lujuria surge dentro de él, que no había surgido antes; y el Âsava de la Lujuria, que había surgido, se hace grande; el Âsava de la <span id="p298">[<sup><small>p. 298</small></sup>]</span> Vida surge dentro de él, que no había surgido antes; y el Âsava de la Vida, que había surgido, se hace grande; el Âsava de la Ignorancia surge dentro de él, que no había surgido antes; y el Âsava de la Ignorancia, que había surgido, se hace grande.
+"Hay cosas que, cuando un hombre las considera, el Âsava de la Lujuria surge dentro de él, que no había surgido antes; y el Âsava de la Lujuria, que había surgido, se hace grande; el Âsava de la <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> Vida surge dentro de él, que no había surgido antes; y el Âsava de la Vida, que había surgido, se hace grande; el Âsava de la Ignorancia surge dentro de él, que no había surgido antes; y el Âsava de la Ignorancia, que había surgido, se hace grande.
 
 Éstas son las cosas que no se deben considerar, cosas que él considera.
 
@@ -99,7 +99,7 @@ Digo, hermanos, que la destrucción de los asavas corresponde a quien sabe, a qu
 
 11\. 'Esto, hermanos, se llama caminar en el engaño, la jungla del engaño[^3], el desierto del engaño, el teatro de marionetas del engaño, el retorcimiento del engaño, el grillete del engaño.
 
-12\. 'Atado, hermanos, con este grillete del engaño, <span id="p300">[<sup><small>p. 300</small></sup>]</span> el hombre ignorante e inconverso no se libera del nacimiento, la decadencia y la muerte, de las penas, las lamentaciones, los dolores y las penas, y de los expedientes[^4]—no se libera, digo, del dolor.
+12\. 'Atado, hermanos, con este grillete del engaño, <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> el hombre ignorante e inconverso no se libera del nacimiento, la decadencia y la muerte, de las penas, las lamentaciones, los dolores y las penas, y de los expedientes[^4]—no se libera, digo, del dolor.
 
 ---
 
@@ -111,7 +111,7 @@ Digo, hermanos, que la destrucción de los asavas corresponde a quien sabe, a qu
 
 Éstas son las cosas que no se deben considerar, cosas que él considera.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span> 5\. '¿Y cuáles, hermanos, son aquellas cosas que deben considerarse, y que él considera?
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 5\. '¿Y cuáles, hermanos, son aquellas cosas que deben considerarse, y que él considera?
 
 'Hay cosas, hermanos, que, cuando un hombre las considera, el Âsava de la Lujuria, si no hubiera brotado antes, no brota dentro de él; y el Âsava de la Lujuria, que había brotado, es desechado; el Âsava de la Vida, si no hubiera brotado antes, no brota dentro de él; y el Âsava de la Vida, que había brotado, es desechado; el Âsava de la Ignorancia, si no hubiera brotado antes, no brota dentro de él; y el Âsava de la Ignorancia, que había brotado, es desechado.
 
@@ -127,7 +127,7 @@ Digo, hermanos, que la destrucción de los asavas corresponde a quien sabe, a qu
 
 18\. '¿Y cuáles son los Âsavas que deben ser abandonados mediante la subyugación (samvarâ)?
 
-En esto, hermanos, un bhikkhu, tras reflexionar sabiamente, <span id="p302">[<sup><small>p. 302</small></sup>]</span> permanece aprisionado por la subyugación del órgano de la vista. Pues mientras que para quien no está aprisionado por la subyugación del órgano de la vista pueden surgir asavas, llenos de aflicción y angustia, para quien está aprisionado por la subyugación del órgano de la vista, los asavas, llenos de aflicción y angustia, no existen.
+En esto, hermanos, un bhikkhu, tras reflexionar sabiamente, <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> permanece aprisionado por la subyugación del órgano de la vista. Pues mientras que para quien no está aprisionado por la subyugación del órgano de la vista pueden surgir asavas, llenos de aflicción y angustia, para quien está aprisionado por la subyugación del órgano de la vista, los asavas, llenos de aflicción y angustia, no existen.
 
 19\. Reflexionando sabiamente, permanece atado por la subyugación del órgano auditivo. Pues mientras que para quien no está atado por la subyugación del órgano auditivo pueden surgir asavas, llenos de aflicción y angustia, para quien está atado por la subyugación del órgano auditivo, los asavas, llenos de aflicción y angustia, no existen.
 
@@ -135,7 +135,7 @@ En esto, hermanos, un bhikkhu, tras reflexionar sabiamente, <span id="p302">[<su
 
 21\. Reflexionando sabiamente, permanece encerrado en la subyugación del órgano del gusto. Pues mientras que para quien no está encerrado en la subyugación del órgano del gusto pueden surgir asavas, llenos de vejación y angustia, para quien está encerrado en la subyugación del órgano del gusto, los asavas, llenos de vejación y angustia, no existen.
 
-22\. 'Reflexionando sabiamente, permanece encerrado en la subyugación del órgano del Tacto. Pues mientras que al hombre que no está encerrado en la subyugación del órgano del tacto pueden surgir asavas, llenos de aflicción y angustia, al hombre que está encerrado en la subyugación del órgano del tacto no le existen asavas, llenos de aflicción y angustia. <span id="p303">[<sup><small>p. 303</small></sup>]</span> 3\. 'Reflexionando sabiamente, permanece encerrado en la subyugación del órgano de la Mente. Pues mientras que al hombre que no está encerrado en la subyugación del órgano de la mente le pueden surgir asavas, llenos de aflicción y angustia, al hombre que está encerrado en la subyugación del órgano de la mente no le existen asavas, llenos de aflicción y angustia.
+22\. 'Reflexionando sabiamente, permanece encerrado en la subyugación del órgano del Tacto. Pues mientras que al hombre que no está encerrado en la subyugación del órgano del tacto pueden surgir asavas, llenos de aflicción y angustia, al hombre que está encerrado en la subyugación del órgano del tacto no le existen asavas, llenos de aflicción y angustia. <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 3\. 'Reflexionando sabiamente, permanece encerrado en la subyugación del órgano de la Mente. Pues mientras que al hombre que no está encerrado en la subyugación del órgano de la mente le pueden surgir asavas, llenos de aflicción y angustia, al hombre que está encerrado en la subyugación del órgano de la mente no le existen asavas, llenos de aflicción y angustia.
 
 'Éstos, hermanos, son llamados los Âsavas que deben ser abandonados mediante la subyugación.
 
@@ -203,7 +203,7 @@ En esto, hermanos, un bhikkhu, reflexionando sabiamente, evita a un elefante reb
 
 ---
 
-38\. 'Y entonces, cuando un Bhikkhu, mediante la visión, ha desechado los Âsavas que deben abandonarse mediante la visión, y mediante la subyugación ha desechado los Âsavas que deben abandonarse mediante la subyugación, y mediante el uso correcto ha desechado los Âsavas que deben abandonarse mediante el uso correcto, y mediante la resistencia ha desechado los Âsavas que deben abandonarse mediante la resistencia, y mediante la evitación ha desechado los Âsavas que deben abandonarse mediante la evitación, <span id="p307">[<sup><small>p. 307</small></sup>]</span> y por la remoción ha apartado los Âsavas para ser abandonados por la remoción, y por el cultivo ha apartado los Âsavas para ser abandonados por el cultivo—ese Bhikkhu, hermanos, permanece encerrado por la subyugación de los Âsavas, ha destruido esa Sed de Ansia, mediante una penetración completa de la mente ha hecho rodar cada Grillete, y ha puesto fin al Dolor.'
+38\. 'Y entonces, cuando un Bhikkhu, mediante la visión, ha desechado los Âsavas que deben abandonarse mediante la visión, y mediante la subyugación ha desechado los Âsavas que deben abandonarse mediante la subyugación, y mediante el uso correcto ha desechado los Âsavas que deben abandonarse mediante el uso correcto, y mediante la resistencia ha desechado los Âsavas que deben abandonarse mediante la resistencia, y mediante la evitación ha desechado los Âsavas que deben abandonarse mediante la evitación, <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> y por la remoción ha apartado los Âsavas para ser abandonados por la remoción, y por el cultivo ha apartado los Âsavas para ser abandonados por el cultivo—ese Bhikkhu, hermanos, permanece encerrado por la subyugación de los Âsavas, ha destruido esa Sed de Ansia, mediante una penetración completa de la mente ha hecho rodar cada Grillete, y ha puesto fin al Dolor.'
 
 ---
 

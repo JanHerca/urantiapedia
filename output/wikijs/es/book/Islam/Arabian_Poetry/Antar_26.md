@@ -44,7 +44,7 @@ Sirvo a una tribu cuyos corazones son lo opuesto de lo que exhiben en su cariño
 
 Yo soy, en el campo, el príncipe de su tribu; pero, una vez terminada la batalla, soy más despreciado que un esclavo.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ¡Oh, si pudiera aniquilar este afecto de un amante! ¡Cómo me humilla! —me agoniza el corazón— debilita mi coraje.
 
@@ -70,7 +70,7 @@ Las bestias salvajes se domestican con un trato amable;
 
 Pero los hombres nunca deben ser inducidos a abandonar su iniquidad.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Pero en la calma de la noche oyeron una voz femenina que gritaba, evidentemente muy angustiada. Antar aflojó las riendas y galopó en la dirección de donde provenían los gritos. Encontró a una dama que le informó que era de la noble tribu de Kendeh; su esposo, As-hath, hijo de Obad; que una hambruna había azotado su tierra y que se dirigían con su familia al país de Harith, donde tenían la intención de establecerse, ya que allí se casarían con una hija, cuando fueron atacados por un jinete del desierto llamado Sudam, hijo de Salheb, con cuarenta árabes saqueadores, que habían matado a sus tres hijos, herido a su esposo y tomado cautivas a ella y a sus tres hijas; y que los bandidos estaban a punto de llevarlos a las montañas de Toweila, para venderlos allí como esclavos. Antar dejó a las damas al cuidado de su hermano, tomó su lanza y se volvió para encontrarse con Sudam y sus seguidores, a quienes vio avanzar apresuradamente hacia él. El héroe es atacado por varios bandidos a la vez, pero los derriba por ambos lados y finalmente se encuentra con Sudam y, golpeándolo en el pecho con su cortante Dhami, el jefe cae al suelo muerto, revolcándose en su sangre.
 
@@ -80,7 +80,7 @@ Si mi corazón fuera mío, no desearía nada más que tú; no codiciaría nada m
 
 Pero ama lo que lo tortura; donde ninguna palabra, ningún hecho lo anima.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Después de haber escoltado al viejo jeque y a su familia a la tierra de Harith, Antar se despidió de ellos y, en compañía de Shiboob, se dirigió a La Meca. «Se apeó en el Valle Sagrado y allí residió; pasando sus días cazando, para aliviar sus penas y aflicciones, y sus noches con Shiboob, hablando de viejas historias y acontecimientos pasados».
 

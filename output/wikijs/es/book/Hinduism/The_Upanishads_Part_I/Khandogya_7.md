@@ -38,7 +38,7 @@ SÉPTIMO PRAP TAMBIÉN CONOCIDO COMO.
 
 1\. Nârada se acercó a Sanatkumâra y le dijo: «¡Enséñame, señor!». Sanatkumâra le respondió: «Por favor, dime lo que sabes; después te diré lo que está más allá».
 
-2\. Nârada dijo: 'Conozco el Rig-veda, Señor, el Ya<i>g</i>ur-veda, el Sâma-veda, como el cuarto el Âtharva<i>n</i>a, como el quinto el Itihâsa-purâ<i>n</i>a (el Bhârata); el Veda de los Vedas (gramática); el Pitrya (las reglas para los sacrificios para los antepasados); el Râ<i>s</i>i (la ciencia de los números); el Daiva (la ciencia de los portentos); el Nidhi (la ciencia del tiempo); el Vâkovâkya (lógica); el Ekâyana (ética); el Deva-vidyâ (etimología); el Brahma-vidyâ (pronunciación, <i>s</i>ikshâ, ceremonial, kalpa, prosodia, <i>kh</i>andas); la Bhûta-vidyâ (la ciencia de los demonios); la Kshatra-vidyâ <span id="p110">[<sup><small>p. 110</small></sup>]</span> (la ciencia de las armas); la Nakshatra-vidyâ (astronomía); la Sarpa y Deva<i>g</i>ana-vidyâ (la ciencia de las serpientes o venenos, y las ciencias de los genios, como la elaboración de perfumes, la danza, el canto, el juego y otras bellas artes) [^300]. Todo esto lo sé, señor.
+2\. Nârada dijo: 'Conozco el Rig-veda, Señor, el Ya<i>g</i>ur-veda, el Sâma-veda, como el cuarto el Âtharva<i>n</i>a, como el quinto el Itihâsa-purâ<i>n</i>a (el Bhârata); el Veda de los Vedas (gramática); el Pitrya (las reglas para los sacrificios para los antepasados); el Râ<i>s</i>i (la ciencia de los números); el Daiva (la ciencia de los portentos); el Nidhi (la ciencia del tiempo); el Vâkovâkya (lógica); el Ekâyana (ética); el Deva-vidyâ (etimología); el Brahma-vidyâ (pronunciación, <i>s</i>ikshâ, ceremonial, kalpa, prosodia, <i>kh</i>andas); la Bhûta-vidyâ (la ciencia de los demonios); la Kshatra-vidyâ <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> (la ciencia de las armas); la Nakshatra-vidyâ (astronomía); la Sarpa y Deva<i>g</i>ana-vidyâ (la ciencia de las serpientes o venenos, y las ciencias de los genios, como la elaboración de perfumes, la danza, el canto, el juego y otras bellas artes) [^300]. Todo esto lo sé, señor.
 
 3\. «Pero, Señor, con todo esto, solo conozco los Mantras, los libros sagrados; no conozco al Ser. He oído de hombres como usted que quien conoce al Ser supera el dolor. Estoy sumido en el dolor. Señor, ayúdeme a superar este dolor».
 
@@ -46,7 +46,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 4\. 'Un nombre es el Rig-veda, el Ya<i>g</i>ur-veda, el Sama-veda, y como cuarto, el Âtharvana, como quinto, el Itihâsa-purâ<i>n</i>a, el Veda de los Vedas, el Pitrya, el Râ<i>s</i>i, el Daiva, el Nidhi, el Vâkovâkya, el Ekâyana, el Deva-vidyâ, el Brahma-vidyâ, el Bhûta-vidyâ, el Kshatra-vidyâ, el Nakshatra-vidyâ, el Sarpa y el Devagana-vidyâ. Todos estos son solo un nombre. Medita en el nombre.
 
-5\. 'Quien medita en el nombre como Brahman [^301], <span id="p111">[<sup><small>p. 111</small></sup>]</span> es, por así decirlo, señor y amo hasta donde alcanza el nombre; aquel que medita en el nombre como Brahman.'
+5\. 'Quien medita en el nombre como Brahman [^301], <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> es, por así decirlo, señor y amo hasta donde alcanza el nombre; aquel que medita en el nombre como Brahman.'
 
 «Señor, ¿hay algo mejor que un nombre?»
 
@@ -87,7 +87,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 1\. La voluntad [^304] (saṅkalpa) es mejor que la mente. Porque cuando un hombre desea, piensa en su mente, emite palabras, y las emite en un nombre. En un nombre se contienen los himnos sagrados, y en los himnos sagrados, todos los sacrificios.
 
-2\. 'Todos estos, por lo tanto (comenzando con la mente y <span id="p113">[<sup><small>p. 113</small></sup>]</span> terminando en el sacrificio) se centran en la voluntad, consisten en la voluntad, residen en la voluntad. El cielo y la tierra desearon, el aire y el éter desearon, el agua y el fuego desearon. Por la voluntad del cielo y la tierra, etc., la lluvia desea; por la voluntad de la lluvia desea el alimento; por la voluntad del alimento desean los aires vitales; por la voluntad de los aires vitales desean los himnos sagrados; por la voluntad de los himnos sagrados desean los sacrificios; por la voluntad de los sacrificios desea el mundo (como recompensa); por la voluntad del mundo, todo desea [1](Khandogya_7#fn305). Esto es voluntad. Medita en la voluntad.
+2\. 'Todos estos, por lo tanto (comenzando con la mente y <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> terminando en el sacrificio) se centran en la voluntad, consisten en la voluntad, residen en la voluntad. El cielo y la tierra desearon, el aire y el éter desearon, el agua y el fuego desearon. Por la voluntad del cielo y la tierra, etc., la lluvia desea; por la voluntad de la lluvia desea el alimento; por la voluntad del alimento desean los aires vitales; por la voluntad de los aires vitales desean los himnos sagrados; por la voluntad de los himnos sagrados desean los sacrificios; por la voluntad de los sacrificios desea el mundo (como recompensa); por la voluntad del mundo, todo desea [1](Khandogya_7#fn305). Esto es voluntad. Medita en la voluntad.
 
 3\. 'Quien medita en la voluntad como Brahman, estando seguro, firme y sin angustias, obtiene los mundos seguros, firmes y sin angustias que ha deseado; es, por así decirlo, señor y amo hasta donde alcanza la voluntad—quien medita en la voluntad como Brahman.'
 
@@ -130,7 +130,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 1\. 'La comprensión (vi<i>g</i>ñâna) es mejor que la reflexión. EspañolA través de la comprensión entendemos el Rig-veda, el Ya<i>g</i>ur-veda, el Sâma-veda, y como el cuarto el Âtharvana, como el quinto el Itihâsa-purâ<i>i>n</i>a [^308], el Veda de los Vedas, el Pitrya, el Râ<i>s</i>i, el Daiva, el Nidhi, el Vâkovâkya, el Ekâyana, el Deva-vidyâ, el Brahma-vidyâ, el Bhûta-vidyâ, el Kshatra-vidyâ, el Nakshatra-vidyâ, el Sarpa y el Deva<i>g</i>ana-vidyâ, el cielo, la tierra, el aire, el éter, el agua, el fuego, los dioses, los hombres, el ganado, los pájaros, las hierbas, los árboles, todas las bestias hasta los gusanos, mosquitos y hormigas; Lo correcto y lo incorrecto; lo verdadero y lo falso; lo bueno y lo malo; lo agradable y lo desagradable; la comida y el sabor, este mundo y aquel, todo esto lo comprendemos mediante la comprensión. Medita en la comprensión.
 
-2\. «Quien medita en la comprensión como Brahman, alcanza los mundos donde hay comprensión <span id="p116">[<sup><small>p. 116</small></sup>]</span> y conocimiento [^309]; es, por así decirlo, señor y amo en lo que respecta a la comprensión: aquel que medita en la comprensión como Brahman.»
+2\. «Quien medita en la comprensión como Brahman, alcanza los mundos donde hay comprensión <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> y conocimiento [^309]; es, por así decirlo, señor y amo en lo que respecta a la comprensión: aquel que medita en la comprensión como Brahman.»
 
 «Señor, ¿hay algo mejor que la comprensión?»
 
@@ -154,7 +154,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 ## NOVENO KHA<i>N</i><i>D</i>A.
 
-1\. «El alimento (anna) es mejor que el poder. Por lo tanto, si un hombre se abstuviera de comer durante diez días, aunque viviera, no podría ver, oír, percibir, pensar, actuar ni comprender. Pero cuando obtiene <span id="p117">[<sup><small>p. 117</small></sup>]</span> alimento, puede ver, oír, percibir, pensar, actuar y comprender. Medita sobre el alimento.»
+1\. «El alimento (anna) es mejor que el poder. Por lo tanto, si un hombre se abstuviera de comer durante diez días, aunque viviera, no podría ver, oír, percibir, pensar, actuar ni comprender. Pero cuando obtiene <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> alimento, puede ver, oír, percibir, pensar, actuar y comprender. Medita sobre el alimento.»
 
 2\. 'Quien medita en el alimento como Brahman, obtiene los mundos ricos en comida y bebida; él es, por así decirlo, señor y amo en lo que respecta al alimento; aquel que medita en el alimento como Brahman.'
 
@@ -180,7 +180,7 @@ Sanatkumâra le dijo: 'Todo lo que has leído es sólo un nombre.
 
 ## UNDÉCIMO KHAND.
 
-1\. «El fuego (te<i>g</i>as) es mejor que el agua. Pues, unido al aire, calienta el éter. Entonces se dice: «Hace calor, quema, lloverá». Así, el fuego, tras mostrar primero esta señal, crea el agua. Y <span id="p118">[<sup><small>p. 118</small></sup>]</span>, de nuevo vienen truenos y relámpagos, que destellan hacia arriba y cruzan el cielo. Entonces se dice: «Hay relámpagos y truenos, lloverá». Entonces, también el fuego, tras mostrar primero esta señal, crea el agua. Medita en el fuego.
+1\. «El fuego (te<i>g</i>as) es mejor que el agua. Pues, unido al aire, calienta el éter. Entonces se dice: «Hace calor, quema, lloverá». Así, el fuego, tras mostrar primero esta señal, crea el agua. Y <span id="p118"><sup><small>[ p. 118 ]</small></sup></span>, de nuevo vienen truenos y relámpagos, que destellan hacia arriba y cruzan el cielo. Entonces se dice: «Hay relámpagos y truenos, lloverá». Entonces, también el fuego, tras mostrar primero esta señal, crea el agua. Medita en el fuego.
 
 2\. 'Quien medita en el fuego como Brahman, obtiene, resplandeciente él mismo, mundos resplandecientes, llenos de luz y libres de oscuridad; él es, por así decirlo, señor y amo hasta donde alcanza el fuego—quien medita en el fuego como Brahman.'
 
@@ -242,7 +242,7 @@ Sí, hay algo mejor que el éter.
 
 3\. 'Pero, si después de que el espíritu se ha apartado de ellos, uno los golpea con un atizador y los quema en pedazos, nadie diría: Ofendes a tu padre, madre, hermano, hermana, tutor o a un brahmán.
 
-4\. «El Espíritu, entonces, es todo esto. Quien ve esto, lo percibe y lo entiende, se convierte en un ativâdin [^316]. Si le dicen a alguien así: «Tú <span id="p121">[<sup><small>p. 121</small></sup>]</span> eres un ativâdin», puede decir: «Soy un ativâdin»; no tiene por qué negarlo.
+4\. «El Espíritu, entonces, es todo esto. Quien ve esto, lo percibe y lo entiende, se convierte en un ativâdin [^316]. Si le dicen a alguien así: «Tú <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> eres un ativâdin», puede decir: «Soy un ativâdin»; no tiene por qué negarlo.
 
 
 ## DÉCIMO SEXTO KHAND [1](Khandogya_7#fn317).
@@ -321,7 +321,7 @@ Sí, hay algo mejor que el éter.
 
 1\. 'El Infinito en verdad está abajo, arriba, detrás, delante, a la derecha y a la izquierda; es en verdad todo esto.
 
-'Ahora sigue la explicación del Infinito como <span id="p124">[<sup><small>p. 124</small></sup>]</span> el Yo: estoy abajo, estoy arriba, estoy detrás, delante, a la derecha y a la izquierda—soy todo esto.
+'Ahora sigue la explicación del Infinito como <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> el Yo: estoy abajo, estoy arriba, estoy detrás, delante, a la derecha y a la izquierda—soy todo esto.
 
 2\. 'A continuación sigue la explicación del Infinito como el Ser: el Ser está abajo, arriba, detrás, delante, derecha e izquierda—el Ser es todo esto.
 
@@ -336,7 +336,7 @@ Sí, hay algo mejor que el éter.
 
 2\. 'Hay este versículo: "Quien ve esto no ve la muerte, ni la enfermedad, ni el dolor; quien ve esto lo ve todo y lo obtiene todo en todas partes.
 
-“Él es uno (antes de la creación), se convierte en tres <span id="p125">[<sup><small>p. 125</small></sup>]</span> (fuego, agua, tierra), se convierte en cinco, se convierte en siete, se convierte en nueve; luego nuevamente se le llama el undécimo, y ciento diez y mil veinte [^324].”
+“Él es uno (antes de la creación), se convierte en tres <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> (fuego, agua, tierra), se convierte en cinco, se convierte en siete, se convierte en nueve; luego nuevamente se le llama el undécimo, y ciento diez y mil veinte [^324].”
 
 Cuando el alimento intelectual se purifica, toda la naturaleza se purifica. Cuando toda la naturaleza se purifica, la memoria se consolida. Y cuando la memoria (del Ser Supremo) permanece firme, entonces todos los lazos (que nos atan a creer en algo que no sea el Ser) se aflojan.
 

@@ -44,7 +44,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. Y de los animales cadavéricos.
 
-5\. Los que entran (¿en sus guaridas?) con la boca primero (?). <span id="p142">[<sup><small>p. 142</small></sup>]</span>
+5\. Los que entran (¿en sus guaridas?) con la boca primero (?). <span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 6 [6](#fn323). Cuando haya vomitado, o cuando se haya afeitado la barba,
 
@@ -71,7 +71,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^325]. Que vayan a un lugar limpio en dirección noreste, que reciba su luz del este.
 
-4\. La extracción de agua debe hacerse antes del amanecer, <span id="p143">[<sup><small>p. 143</small></sup>]</span>
+4\. La extracción de agua debe hacerse antes del amanecer, <span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 5 [^326]. Y la entrada en el círculo con este verso: “La que huele a ungüento” (Rig-veda X, 146, 6).
 
@@ -95,7 +95,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Ahora bien, después de haber entrado en el círculo—
 
-2\. [^329]. El maestro se sienta con la cara hacia el este, los demás, según su rango, se sientan hacia el sur, con la cara hacia el norte. <span id="p144">[<sup><small>p. 144</small></sup>]</span>
+2\. [^329]. El maestro se sienta con la cara hacia el este, los demás, según su rango, se sientan hacia el sur, con la cara hacia el norte. <span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 3\. Si esto es imposible, con la cara hacia todas direcciones.
 
@@ -124,7 +124,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## CAPÍTULO 4.
 
-1\. [^336]. «Mente infalible, ojo vigoroso (es) el sol, la más noble de las estrellas. ¡Inauguración, no me hagas daño!» —con (estas palabras) miran a Savitri (es decir, el sol). <span id="p146">[<sup><small>p. 146</small></sup>]</span>
+1\. [^336]. «Mente infalible, ojo vigoroso (es) el sol, la más noble de las estrellas. ¡Inauguración, no me hagas daño!» —con (estas palabras) miran a Savitri (es decir, el sol). <span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 2\. Un (verso), 'Tú a ambos, el que alegra' (Rig-veda X, 131, 4), y los tres (versos), 'Bendición para nosotros en los caminos' (Rig-veda X, 63, 15-17) (deben repetirse antes de la recitación) del Mahâvrata (capítulo).
 
@@ -138,7 +138,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. [^338]. Sin embargo, para los Sa<i>m</i>hitâs, antes (del texto dado en el primer Sûtra se debe recitar la fórmula), 'Hablaré correctamente, hablaré la verdad (&c.)' —ésta es la diferencia (en el caso de los Sa<i>m</i>hitâs).
 
-8\. [^339]. Ahora, para el Mantha, deben recitarse los dos versos anteriores a la fórmula del primer Sutra: «Esto suplicamos a Savitar», «Ese glorioso esplendor de Savitar» (Rig-veda V, 82, 1; III, 62, 10). <span id="p147">[<sup><small>p. 147</small></sup>]</span>
+8\. [^339]. Ahora, para el Mantha, deben recitarse los dos versos anteriores a la fórmula del primer Sutra: «Esto suplicamos a Savitar», «Ese glorioso esplendor de Savitar» (Rig-veda V, 82, 1; III, 62, 10). <span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 9\. Con (la fórmula), 'Mente infalible' (ver Sûtra 1), siguen luego las fórmulas expiatorias que pertenecen a las (diferentes) secciones.
 
@@ -156,7 +156,7 @@ Kha<i>nd</i>a 5, 1 [^341]. 'Eso (lo coloco) dentro de mí'—con (estas palabras
 
 2\. Con (la fórmula), 'Que la felicidad se regocije en mí y la gloria; que la felicidad se regocije conmigo y la gloria;—
 
-3\. «Junto con Indra, con las huestes, con poder, con gloria, con fuerza me levantaré» —él se levanta. <span id="p148">[<sup><small>p. 148</small></sup>]</span>
+3\. «Junto con Indra, con las huestes, con poder, con gloria, con fuerza me levantaré» —él se levanta. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 4\. 'Que la felicidad suba a mí; que la gloria suba a mí' —cuando haya resucitado.
 
@@ -175,7 +175,7 @@ Kha<i>nd</i>a 5, 1 [^341]. 'Eso (lo coloco) dentro de mí'—con (estas palabras
 
 4\. Derrámalo en la tierra,
 
-5\. [^343]. Esparce un poco de esa agua sobre la tierra con las palabras: «Mientras la tierra se apacigua»,... <span id="p149">[<sup><small>p. 149</small></sup>]</span>
+5\. [^343]. Esparce un poco de esa agua sobre la tierra con las palabras: «Mientras la tierra se apacigua»,... <span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 6 [^344]. Luego lo unta sobre su hombro derecho con (las palabras), 'Así que la paz habite en mí.'
 

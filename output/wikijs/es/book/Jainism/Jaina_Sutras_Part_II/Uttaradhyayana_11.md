@@ -76,7 +76,7 @@ Así como la luna, reina de las estrellas, rodeada de asterismos, cuando está e
 
 Así como un almacén de mercaderes bien guardado, que está lleno de granos de muchas clases, (no tiene igual), tampoco lo tiene un monje muy erudito. (26)
 
-Como el mejor de los árboles de <i>G</i>ambû [^155], llamado Sudar<i>s</i>anâ, <span id="p49">[<sup><small>p. 49</small></sup>]</span>, que es la morada de la deidad regente, (no tiene igual), tampoco lo tiene un monje muy erudito. (27)
+Como el mejor de los árboles de <i>G</i>ambû [^155], llamado Sudar<i>s</i>anâ, <span id="p49"><sup><small>[ p. 49 ]</small></sup></span>, que es la morada de la deidad regente, (no tiene igual), tampoco lo tiene un monje muy erudito. (27)
 
 Así como el mejor de los ríos, la corriente que fluye hacia el océano <i>S</i>îtâ [^156] con sus aguas oscuras, (no tiene igual), tampoco lo tiene un monje muy erudito. (28)
 

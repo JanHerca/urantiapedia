@@ -241,7 +241,7 @@ El séptimo arrepentimiento de Sofía.
 
 2. En ti he tenido fe. Que no me desprecien; que no se alegren de mí los gobernantes de los doce eones, que me odian.
 
-3. Porque todos los que creen en ti no serán avergonzados. Que quienes me han arrebatado <span id="p65">[<sup><small>p. 65</small></sup>]</span> mi poder permanezcan en la oscuridad; que no saquen provecho de él, sino que les sea arrebatado. **(78)**
+3. Porque todos los que creen en ti no serán avergonzados. Que quienes me han arrebatado <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> mi poder permanezcan en la oscuridad; que no saquen provecho de él, sino que les sea arrebatado. **(78)**
 
 4. Oh Luz, muéstrame tus caminos, y seré salvo en ellos; y muéstrame tus sendas, por las cuales seré salvo del caos.
 
@@ -377,7 +377,7 @@ Cuando Jesús dijo esto a sus discípulos, les respondió de nuevo: «Sucedió e
 
 10. Mi poder ha comenzado a menguar mientras sufro estas aflicciones, y mi tiempo en el caos disminuye. Mi luz ha disminuido, pues me han arrebatado mi poder, y todos mis poderes están descontrolados.
 
-11. Me siento impotente ante todos los gobernantes de los eones, que me odian, y ante las veinticuatro emanaciones en cuya región me encontraba. Y mi hermano, mi <span id="p72">[<sup><small>p. 72</small></sup>]</span> pareja, temía ayudarme, debido a la situación en la que me habían metido.
+11. Me siento impotente ante todos los gobernantes de los eones, que me odian, y ante las veinticuatro emanaciones en cuya región me encontraba. Y mi hermano, mi <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> pareja, temía ayudarme, debido a la situación en la que me habían metido.
 
 12. Y todos los gobernantes de las alturas me han considerado como materia sin luz. Me he convertido en un poder material que ha caído de los gobernantes,
 
@@ -483,7 +483,7 @@ El noveno arrepentimiento de Sofía.
 
 14. Y tú, oh Luz —por eso te canto alabanzas—, sálvame. Sé que me salvarás porque cumplí tu voluntad desde mi época. Cumplí tu voluntad, como los invisibles de mi región, y como mi par. Y me lamenté, buscando incesantemente la Luz.
 
-15. Ahora, pues, todas las emanaciones de Obstinado me han rodeado, se han regocijado conmigo y me han oprimido profundamente sin que yo lo supiera. <span id="p77">[<sup><small>p. 77</small></sup>]</span> \[them\]. Han huido y se han apartado de mí, pero no han tenido piedad de mí.
+15. Ahora, pues, todas las emanaciones de Obstinado me han rodeado, se han regocijado conmigo y me han oprimido profundamente sin que yo lo supiera. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> \[them\]. Han huido y se han apartado de mí, pero no han tenido piedad de mí.
 
 16. Han vuelto de nuevo y me han puesto a prueba, me han oprimido con gran opresión y han rechinado los dientes contra mí, deseando quitarme por completo mi luz.
 

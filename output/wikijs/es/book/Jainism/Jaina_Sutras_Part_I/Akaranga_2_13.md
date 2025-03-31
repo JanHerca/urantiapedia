@@ -58,7 +58,7 @@ Si extrae o quita pus o sangre de ellos. (10)
 
 Si limpia o frota el cuerpo del mendigo, etc. [^476] (véanse los §§ 2-8 hasta) si lo perfuma o fumiga con cualquier clase de incienso. (11)
 
-Si limpia o frota una herida en el cuerpo (del mendigo) <span id="p187">[<sup><small>p. 187</small></sup>]</span> (&c. [^477], hasta) si la rocía o lava con agua caliente o fría; (12)
+Si limpia o frota una herida en el cuerpo (del mendigo) <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> (&c. [^477], hasta) si la rocía o lava con agua caliente o fría; (12)
 
 Si la corta o la incide con cualquier instrumento afilado; si después de haberlo hecho, extrae o quita de ella pus o sangre. (13)
 

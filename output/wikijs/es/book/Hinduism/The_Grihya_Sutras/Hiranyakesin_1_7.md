@@ -48,7 +48,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. En la sala, en la parte oriental, apaga el fuego y le pone leña.
 
-8\. Al oeste del fuego, extiende una piel roja de toro con el cuello hacia el este y el pelo hacia afuera. <span id="p194">[<sup><small>p. 194</small></sup>]</span>
+8\. Al oeste del fuego, extiende una piel roja de toro con el cuello hacia el este y el pelo hacia afuera. <span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 9\. [^625] Sobre esa piel, ambos se sientan mirando al este o al norte, de modo que la esposa se sienta detrás de su esposo, con el verso: «Aquí pueden sentarse las vacas, aquí los caballos, aquí los hombres. Aquí también puede sentarse Pûshan con mil ofrendas».
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 14\. Adora a los siete Rishis (osa mayor) con el verso: «Los siete Rishis que han conducido a la firmeza, ella, Arundhatî, que se yergue primera entre las seis Kritikâs (pléyades): ¡que ella, la octava, que lidera la conjunción de la luna con los seis Kritikâs, la primera (entre las conjunciones), nos ilumine!». Luego adora a la estrella polar con la fórmula: «Morada firme, origen firme. Tú eres la firme, que permaneces del lado de la firmeza. Tú eres el pilar de las estrellas; así, protégeme de mi adversario».
 
-¡Adoración al Brahmán, al firme e inamovible! ¡Adoración al hijo del Brahmán, Pra<i>g</i>âpati! ¡Adoración a los hijos del Brahmán, <span id="p195">[<sup><small>p. 195</small></sup>]</span> a los treinta y tres dioses! ¡Adoración a los hijos y nietos del Brahmán, a los Angiras!
+¡Adoración al Brahmán, al firme e inamovible! ¡Adoración al hijo del Brahmán, Pra<i>g</i>âpati! ¡Adoración a los hijos del Brahmán, <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> a los treinta y tres dioses! ¡Adoración a los hijos y nietos del Brahmán, a los Angiras!
 
 Quien te conoce (la estrella polar) como el Brahman firme e inamovible con sus hijos y nietos, con él vivirán firmemente hijos y nietos, sirvientes y discípulos, ropas y mantas de lana, bronce y oro, esposas y reyes, alimento, seguridad, larga vida, gloria, renombre, esplendor, fuerza, brillo sagrado y el disfrute de la comida. ¡Que todas estas cosas residan firme e inamoviblemente conmigo!
 
@@ -78,7 +78,7 @@ Te conozco como el Brahman inquebrantable. Que no me desprenda de este mundo ni 
 
 Te conozco como el Brahman infalible. Que no caiga de este mundo ni de este país. Que quien me odia, mi rival, caiga de este mundo y de este país.
 
-Te conozco como el núcleo del universo. Que yo pueda convertirme en el núcleo de este país. Te conozco como el centro del universo. Que yo pueda convertirme en el centro de este país. Te conozco como la cuerda que sostiene el universo. Que yo pueda convertirme en la cuerda que sostiene este país. Te conozco como el pilar <span id="p196">[<sup><small>p. 196</small></sup>]</span> del universo. Que yo pueda convertirme en el pilar de este país. Te conozco como el ombligo del universo. Que yo pueda convertirme en el ombligo de este país.
+Te conozco como el núcleo del universo. Que yo pueda convertirme en el núcleo de este país. Te conozco como el centro del universo. Que yo pueda convertirme en el centro de este país. Te conozco como la cuerda que sostiene el universo. Que yo pueda convertirme en la cuerda que sostiene este país. Te conozco como el pilar <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> del universo. Que yo pueda convertirme en el pilar de este país. Te conozco como el ombligo del universo. Que yo pueda convertirme en el ombligo de este país.
 
 «Como el ombligo es el centro de los Pranas, yo soy el ombligo. Que un mal multiplicado por ciento caiga sobre quien nos odia y a quien odiamos; que un mérito multiplicado por ciento caiga sobre mí».
 
@@ -96,7 +96,7 @@ Te conozco como el núcleo del universo. Que yo pueda convertirme en el núcleo 
 
 8\. Por la tarde y por la mañana, sacrifica constantemente (_g_uhoti) con la mano (y no con el darvî) las dos siguientes oblaciones de arroz o de cebada: '¡A Agni Svâhâ! ¡A Pra<i>g</i>âpati Svâhâ!'
 
-9\. Algunos (maestros) afirman que por la mañana la <span id="p197">[<sup><small>p. 197</small></sup>]</span> primera (de estas oblaciones) debe dirigirse a Sûrya.
+9\. Algunos (maestros) afirman que por la mañana la <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> primera (de estas oblaciones) debe dirigirse a Sûrya.
 
 10\. Durante tres noches no deberán ingerir alimentos salados, dormirán en el suelo, llevarán adornos y serán castos.
 
@@ -122,7 +122,7 @@ Te conozco como el núcleo del universo. Que yo pueda convertirme en el núcleo 
 
 '¡Vâyu! ¡Expiación! etc.
 
-¡Sol! ¡Expiación! etc. <span id="p198">[<sup><small>p. 198</small></sup>]</span>
+¡Sol! ¡Expiación! etc. <span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 2\. Tras sacrificar (estas oblaciones), vierte el resto como ofrenda sobre su cabeza, con (las fórmulas): «¡Bhû_h_! Sacrifico la fortuna por ti. ¡Svâhâ! ¡Bhuva_h_! Sacrifico la gloria por ti. ¡Svâhâ! ¡Suva_h_! Sacrifico la belleza por ti. ¡Svâhâ! ¡Bhûr bhuva_h<i> suva</i>h_! Sacrifico el brillo por ti. ¡Svâhâ!»
 
@@ -134,7 +134,7 @@ Te conozco como el núcleo del universo. Que yo pueda convertirme en el núcleo 
 
 6\. [^629] Luego busca su boca con la suya, con (los dos versos), '¡Miel! ¡Miel! ¡Esto es miel! El habla de mi lengua es miel; en mi boca habita la miel de la abeja; en mis dientes habita la concordia.
 
-'El (encanto mágico de) la concordia que pertenece a los pájaros <i>k</i>akravâka, que es traído desde los ríos <span id="p199">[<sup><small>p. 199</small></sup>]</span>, de los cuales el divino Gandharva es poseído, por medio de ello somos concordantes.'
+'El (encanto mágico de) la concordia que pertenece a los pájaros <i>k</i>akravâka, que es traído desde los ríos <span id="p199"><sup><small>[ p. 199 ]</small></sup></span>, de los cuales el divino Gandharva es poseído, por medio de ello somos concordantes.'
 
 7\. [^630] Una mujer que tiene sus ciclos menstruales, mantiene durante un período de tres noches las observancias prescritas en el Brâhma<i>n</i>a.
 
@@ -190,7 +190,7 @@ Y (además de los dos Mantras), 'Unidos están nuestros nombres' (arriba, 24, 4)
 
 5\. O bien, deberá contar todos los sacrificios (que han sido omitidos) y ofrecerlos.
 
-6\. (El punarâdhâna o el encendido repetido del fuego se realiza de la siguiente manera): en un espacio cerrado, tras elevar la superficie, rociarla con agua, esparcirla con arena y cubrirla con ramas de udumbara o plaksha, reúne silenciosamente los objetos del sacrificio según sus posibilidades, produce fuego por atrición con un trozo de madera pura para el sacrificio, o consigue un fuego común, lo coloca en una vasija grande, le prende fuego y le echa combustible con las palabras: «¡Bhûh! ¡Bhuvah! ¡Suvah! ¡Om! ¡Fijeza!». <span id="p202">[<sup><small>p. 202</small></sup>]</span>
+6\. (El punarâdhâna o el encendido repetido del fuego se realiza de la siguiente manera): en un espacio cerrado, tras elevar la superficie, rociarla con agua, esparcirla con arena y cubrirla con ramas de udumbara o plaksha, reúne silenciosamente los objetos del sacrificio según sus posibilidades, produce fuego por atrición con un trozo de madera pura para el sacrificio, o consigue un fuego común, lo coloca en una vasija grande, le prende fuego y le echa combustible con las palabras: «¡Bhûh! ¡Bhuvah! ¡Suvah! ¡Om! ¡Fijeza!». <span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 7\. Luego echa leña al fuego, realiza (los ritos) hasta las oblaciones Vyâh<i>ri</i>ti, y ofrece dos 'oblaciones mindâ' (es decir, oblaciones para compensar defectos) con (los dos Mantras), 'Si un defecto (mindâ) ha surgido en mí', (y), 'Agni me ha devuelto mi ojo' (Taitt. Sa<i>ri</i>h. III, 2, 5, 4).
 
@@ -198,7 +198,7 @@ Y (además de los dos Mantras), 'Unidos están nuestros nombres' (arriba, 24, 4)
 
 9\. Ofrece cuatro oblaciones abhyâvartin con (los mantras): «¡Agni que se vuelve hacia nosotros (abhyâvartin)!», «¡Agni Aṅgiras!», «De nuevo con savia», «Con riqueza» (Taitt. Samh. IV. 2, 1, 2. 3).
 
-10\. [^638] Habiendo hecho oblaciones con un solo Vyâh<i>ri</i>tis y con (los tres Vyâh<i>ri</i>tis juntos), y habiendo hecho una oblación con el verso, 'Tú eres rápido, Agni, y libre de imprecación. En verdad (satyam) tú eres rápido. Sostenido por nosotros en nuestra mente rápida (manas), con tu mente rápida llevas la ofrenda (a los dioses). ¡Siendo rápido, concédenos la medicina! ¡Svâhâ!' —esta (última) oblación contiene una alusión a la mente (manas), se refiere a Pra<i>ri</i>pati y alude al número siete (?),— repite rápidamente en su mente la fórmula da<i>ri</i>ahot<i>ri</i> (Taitt. Âra<i>ri</i>y. III, 1, 1). Luego realiza la oblación sagraha (?); (luego siguen las oblaciones <span id="p203">[<sup><small>p. 203</small></sup>]</span>), «Esto, oh Varu<i>ri</i>a» (&c.; véase I, 2, 8, 16, hasta el final del Sutra). Después sirve comida a los brahmanes y les hace decir: «¡Un día auspicioso! ¡Salve! ¡Buena suerte!». Luego realiza, como es habitual, el sacrificio de un plato de comida cocinada a Agni.
+10\. [^638] Habiendo hecho oblaciones con un solo Vyâh<i>ri</i>tis y con (los tres Vyâh<i>ri</i>tis juntos), y habiendo hecho una oblación con el verso, 'Tú eres rápido, Agni, y libre de imprecación. En verdad (satyam) tú eres rápido. Sostenido por nosotros en nuestra mente rápida (manas), con tu mente rápida llevas la ofrenda (a los dioses). ¡Siendo rápido, concédenos la medicina! ¡Svâhâ!' —esta (última) oblación contiene una alusión a la mente (manas), se refiere a Pra<i>ri</i>pati y alude al número siete (?),— repite rápidamente en su mente la fórmula da<i>ri</i>ahot<i>ri</i> (Taitt. Âra<i>ri</i>y. III, 1, 1). Luego realiza la oblación sagraha (?); (luego siguen las oblaciones <span id="p203"><sup><small>[ p. 203 ]</small></sup></span>), «Esto, oh Varu<i>ri</i>a» (&c.; véase I, 2, 8, 16, hasta el final del Sutra). Después sirve comida a los brahmanes y les hace decir: «¡Un día auspicioso! ¡Salve! ¡Buena suerte!». Luego realiza, como es habitual, el sacrificio de un plato de comida cocinada a Agni.
 
 11\. Aquí le da un regalo opcional a su Gurú: un par de ropa, una vaca lechera o un toro.
 

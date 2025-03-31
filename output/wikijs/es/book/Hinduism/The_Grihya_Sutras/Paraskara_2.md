@@ -66,7 +66,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 15\. Detrás con (el verso), 'La triple era' (Vâ_g_. Sa<i>m</i>h. III, 62).
 
-16\. [^760]. Luego, en el lado izquierdo, con el verso: «Con esa oración, por la cual tú, poderoso, puedas ir al cielo y ver el sol por mucho tiempo: con esa oración te afeito por el bien de la vida, de la existencia, de la gloria, del bienestar». <span id="p303">[<sup><small>p. 303</small></sup>]</span>
+16\. [^760]. Luego, en el lado izquierdo, con el verso: «Con esa oración, por la cual tú, poderoso, puedas ir al cielo y ver el sol por mucho tiempo: con esa oración te afeito por el bien de la vida, de la existencia, de la gloria, del bienestar». <span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 17\. Tres veces se afeita la cabeza, de izquierda a derecha;
 
@@ -90,7 +90,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Debe iniciar a un Brâhma<i>n</i>a cuando tenga ocho años, o en el octavo año después de la concepción,
 
-2\. Â<i>s</i>valâyana, cuando tenía once años, <span id="p304">[<sup><small>p. 304</small></sup>]</span>
+2\. Â<i>s</i>valâyana, cuando tenía once años, <span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 3\. Un vai<i>s</i>ya, cuando tiene doce años.
 
@@ -108,7 +108,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 10\. O en silencio.
 
-11\. Le da el bastón. <span id="p305">[<sup><small>p. 305</small></sup>]</span>
+11\. Le da el bastón. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 12\. (El estudiante) lo acepta con (el verso), 'Mi bastón que cayó al suelo al aire libre, lo tomo de nuevo por el bien de una larga vida, de la santidad, del brillo sagrado.'
 
@@ -140,7 +140,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. [^773]. Algunos dicen, a (el estudiante) que está de pie o sentado al sur (del fuego);
 
-5\. Pâda por Pâda, (luego) hemistiquio por hemistiquio, y la tercera vez el verso completo, recitándolo junto con el estudiante; <span id="p307">[<sup><small>p. 307</small></sup>]</span>
+5\. Pâda por Pâda, (luego) hemistiquio por hemistiquio, y la tercera vez el verso completo, recitándolo junto con el estudiante; <span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 6\. Después de un año, o después de seis meses, o después de veinticuatro días, o después de doce días, o después de seis días, o después de tres días.
 
@@ -162,7 +162,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 A Agni le he traído un trozo de madera, al gran Gātavedas. Así como a ti, Agni, te inflama la madera, así a mí me inflaman la vida, la perspicacia, el vigor, la descendencia, el ganado, el brillo sagrado.
 
-Que mi maestro sea el padre de hijos vivos; que yo esté lleno de perspicacia, sin olvidar (lo que he aprendido); que me llene de gloria, de esplendor, de santo brillo, y disfrute de la comida. ¡Svâhâ! <span id="p308">[<sup><small>p. 308</small></sup>]</span>
+Que mi maestro sea el padre de hijos vivos; que yo esté lleno de perspicacia, sin olvidar (lo que he aprendido); que me llene de gloria, de esplendor, de santo brillo, y disfrute de la comida. ¡Svâhâ! <span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 4\. De la misma manera (se pone) un segundo (trozo de madera); y así un tercero.
 
@@ -190,7 +190,7 @@ Agni, tú eres el protector de los cuerpos. Protege mi cuerpo. Agni, tú eres el
 
 4\. Un Vai<i>s</i>ya, con la palabra 'Dama' puesta al final.
 
-5\. [^779]. (Debería rogar) a tres mujeres que no se negarán; <span id="p309">[<sup><small>p. 309</small></sup>]</span>
+5\. [^779]. (Debería rogar) a tres mujeres que no se negarán; <span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 6\. De seis, doce o un número indefinido.
 
@@ -216,7 +216,7 @@ Agni, tú eres el protector de los cuerpos. Protege mi cuerpo. Agni, tú eres el
 
 17\. La prenda superior de un Brâhma<i>n</i>a debe ser una piel de antílope,
 
-18\. La de un Râ<i>g</i>anya, la piel de un ciervo moteado, <span id="p310">[<sup><small>p. 310</small></sup>]</span>
+18\. La de un Râ<i>g</i>anya, la piel de un ciervo moteado, <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 19\. La de un Vai<i>g</i>ya, una piel de cabra o de vaca.
 
@@ -244,7 +244,7 @@ Agni, tú eres el protector de los cuerpos. Protege mi cuerpo. Agni, tú eres el
 
 31\. Si se comporta así, su fama cuando se haya convertido en un Snâtaka (es decir, cuando haya tomado el baño al final de su periodo de estudiante) será tal que la gente dirá de él: «Hoy se queda allí; hoy se queda allí».
 
-32\. [^785]. Hay tres tipos de Snâtakas: un Vidyâ-snâtaka (es decir, un Snâtaka por conocimiento), un Vrata-snâtaka <span id="p311">[<sup><small>p. 311</small></sup>]</span> (es decir, un Snâtaka por el cumplimiento de sus votos), y un Vidyâ-vrata-snâtaka (es decir, un Snâtaka tanto por conocimiento como por el cumplimiento de sus votos).
+32\. [^785]. Hay tres tipos de Snâtakas: un Vidyâ-snâtaka (es decir, un Snâtaka por conocimiento), un Vrata-snâtaka <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> (es decir, un Snâtaka por el cumplimiento de sus votos), y un Vidyâ-vrata-snâtaka (es decir, un Snâtaka tanto por conocimiento como por el cumplimiento de sus votos).
 
 33\. Quien realiza la ceremonia de Samâvartana, después de haber terminado el estudio del Veda, pero antes de que expire el tiempo de sus votos, es un Vidyâ-snâtaka.
 
@@ -264,7 +264,7 @@ Agni, tú eres el protector de los cuerpos. Protege mi cuerpo. Agni, tú eres el
 
 41\. [^787]. Después de transcurrido el tiempo, (deberán hacer) lo que se ha prescrito.
 
-42\. [^788]. Una persona cuyos antepasados ​​a lo largo de tres generaciones han sido patitasâvitrîkas, está excluida <span id="p312">[<sup><small>p. 312</small></sup>]</span> del sacramento (de iniciación) y de la enseñanza del Veda.
+42\. [^788]. Una persona cuyos antepasados ​​a lo largo de tres generaciones han sido patitasâvitrîkas, está excluida <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> del sacramento (de iniciación) y de la enseñanza del Veda.
 
 43\. [^789]. De estas personas, quienes deseen recibir el sacramento, pueden realizar el sacrificio de Vrâtyastoma y luego estudiar el Veda, si así lo desean. Pues (de quienes lo han hecho) se dice: «Se permite el contacto con ellas».
 
@@ -280,7 +280,7 @@ Agni, tú eres el protector de los cuerpos. Protege mi cuerpo. Agni, tú eres el
 
 5\. [^792]. Reglas (sobre la realización de sacrificios), (textos) que deben usarse (en los sacrificios según esas reglas), y razonamiento (sobre el significado de los ritos y textos): eso es el Veda.
 
-6\. [^793]. Algunos dicen que el Veda debe estudiarse con sus seis Aṅgas; <span id="p313">[<sup><small>p. 313</small></sup>]</span>
+6\. [^793]. Algunos dicen que el Veda debe estudiarse con sus seis Aṅgas; <span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 7\. No es que sólo conozca el ceremonial.
 
@@ -292,7 +292,7 @@ Agni, tú eres el protector de los cuerpos. Protege mi cuerpo. Agni, tú eres el
 
 11\. Con esto se rocía a sí mismo con (las palabras), 'Con esto me rocío a mí mismo por el bien de la prosperidad, de la gloria, de la santidad, del santo brillo.'
 
-12\. [^795]. (Una segunda vez extrae agua de una de las ocho vasijas con la fórmula dada en el Sutra 10, poniendo en lugar de las palabras «El resplandeciente», etc., el verso): «Por el cual has creado prosperidad, por el cual has tocado el sura, con el cual has ungido los ojos, que es tu gloria, oh Asvins». <span id="p314">[<sup><small>p. 314</small></sup>]</span>
+12\. [^795]. (Una segunda vez extrae agua de una de las ocho vasijas con la fórmula dada en el Sutra 10, poniendo en lugar de las palabras «El resplandeciente», etc., el verso): «Por el cual has creado prosperidad, por el cual has tocado el sura, con el cual has ungido los ojos, que es tu gloria, oh Asvins». <span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 13\. (Y saca agua de otras tres vasijas) con (los tres versos), 'Vosotras sois aguas' (Vâ_g_. Sa<i>s</i>h. XI, 50-52), verso por verso.
 
@@ -306,7 +306,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; se encuentra con los dioses que caminan al anochecer. Eres un ganador mil veces mayor; hazme un ganador mil veces mayor. Haz que alcance la fama.
 
-17\. Tras comer cuajada o semillas de sésamo, y tras cortarse el pelo enmarañado, el vello corporal y las uñas, debe limpiarse los dientes con una rama de udumbara con el verso: «Prepárense para el disfrute de la comida. Aquí ha llegado el rey Soma: él purificará mi boca con gloria y fortuna». <span id="p315">[<sup><small>p. 315</small></sup>]</span>
+17\. Tras comer cuajada o semillas de sésamo, y tras cortarse el pelo enmarañado, el vello corporal y las uñas, debe limpiarse los dientes con una rama de udumbara con el verso: «Prepárense para el disfrute de la comida. Aquí ha llegado el rey Soma: él purificará mi boca con gloria y fortuna». <span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 18\. Después de ungirse y bañarse de nuevo, toma el ungüento para la nariz y la boca con (las palabras): «¡Sacia mi respiración ascendente y descendente; sacia mi vista; sacia mi oído!».
 
@@ -318,7 +318,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 22\. [^798]. Si (tiene sólo) una (prenda), debe cubrirse (con una parte de esa prenda como si fuera una prenda superior) con la segunda parte de la anterior (Mantra; Sûtra 20).
 
-23\. [^799]. Toma flores con (la fórmula), '(Las <span id="p316">[<sup><small>p. 316</small></sup>]</span> flores) que _G<i>amadagni ha traído por el bien de la fe (ha traído a </i>S_raddhâ?), del amor, de los sentidos, las tomo con gloria y con fortuna.'
+23\. [^799]. Toma flores con (la fórmula), '(Las <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> flores) que _G<i>amadagni ha traído por el bien de la fe (ha traído a </i>S_raddhâ?), del amor, de los sentidos, las tomo con gloria y con fortuna.'
 
 24\. Luego las ata (a su cabeza) con (el verso), 'La alta y amplia gloria, que Indra ha creado para las Apsarases, las flores atadas con eso, las ato a mí, ¡para traerme gloria!'
 
@@ -343,7 +343,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 1\. Enunciaremos las reglas de conducta para un Snâtaka.
 
-2\. Otro (puede observar esas reglas) opcionalmente. <span id="p317">[<sup><small>p. 317</small></sup>]</span>
+2\. Otro (puede observar esas reglas) opcionalmente. <span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 3 [^801]. Que ni el bailarín, ni el cantar, ni el tocar instrumentos musicales, ni los ejecute él mismo, ni vaya (a verlos o a oírlos).
 
@@ -363,7 +363,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 11\. Un icneumón (nakula), sakula;
 
-12\. [^805]. Una calavera (kapâla), bhagâla; <span id="p318">[<sup><small>p. 318</small></sup>]</span>
+12\. [^805]. Una calavera (kapâla), bhagâla; <span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 13 [^806]. Un arco iris (Indra-dhanu, el arco de Indra), ma<i>n</i>idhanu (el arco enjoyado).
 
@@ -386,7 +386,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 3\. [^812]. Evitará ver mujeres, Sudras, cadáveres, pájaros negros y perros, y no hablará con ellos.
 
-4\. [^813]. No comerá alimento funerario, ni alimento de un <span id="p319">[<sup><small>p. 319</small></sup>]</span> <i>S</i>dra</i>, ni de una mujer encinta (durante el período de su impureza).
+4\. [^813]. No comerá alimento funerario, ni alimento de un <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> <i>S</i>dra</i>, ni de una mujer encinta (durante el período de su impureza).
 
 5\. No orinará ni excretará, ni escupirá cuando salga el sol, ni se cubrirá del sol.
 
@@ -404,7 +404,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 2\. [^816]. De la comida vai<i>s</i>vadeva, después de haber rociado (agua) alrededor (del fuego sagrado), se deben hacer oblaciones, con la palabra Svâhâ (repetida cada vez), a Brahman, a Pra<i>s</i>âpati, a las (deidades) de la casa, a Ka<i>s</i>yapa y a Anumati.
 
-3\. [^817]. A las deidades domésticas (ofrece) tres <span id="p320">[<sup><small>p. 320</small></sup>]</span> (Balis) en la olla de agua: a Par<i>g</i>anya, a las aguas, a la Tierra;
+3\. [^817]. A las deidades domésticas (ofrece) tres <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> (Balis) en la olla de agua: a Par<i>g</i>anya, a las aguas, a la Tierra;
 
 4\. A Dhât<i>ri</i> y Vidhât<i>ri</i> en los dos postes de la puerta;
 
@@ -428,7 +428,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 14\. Después el padre de familia y su mujer.
 
-15\. [^819]. O el dueño de casa (debe comer) primero, porque <span id="p321">[<sup><small>p. 321</small></sup>]</span> la <i>S</i>ruti</i> dice: «Por lo tanto, el dueño de casa debe comer la comida más dulce antes que sus invitados».
+15\. [^819]. O el dueño de casa (debe comer) primero, porque <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> la <i>S</i>ruti</i> dice: «Por lo tanto, el dueño de casa debe comer la comida más dulce antes que sus invitados».
 
 16\. [^820]. Todos los días debe sacrificar con la palabra svâhâ. Si no tiene alimento para ofrecer, debe hacer su ofrenda con algo más, ya sea un trozo de madera (solamente), a los dioses, o un cántaro de agua (solamente), a los Padres y a los hombres.
 
@@ -454,7 +454,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 9\. Y a Pra<i>g</i>âpati, a los dioses, a los <i>Ri</i>shis, a la Fe, a la Perspicacia, a Sadasaspati, a Anumati.
 
-10\. [^822]. Se hacen las mismas oblaciones cuando se imponen las observancias de la <span id="p322">[<sup><small>p. 322</small></sup>]</span> o se abandonan tras haberlas cumplido durante el tiempo prescrito.
+10\. [^822]. Se hacen las mismas oblaciones cuando se imponen las observancias de la <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> o se abandonan tras haberlas cumplido durante el tiempo prescrito.
 
 11\. Con (el verso), 'Sadasaspati' (Vâ_g_. Sa<i>m</i>h. XXXII, 13) (el maestro) tres veces (sacrifica) granos fritos.
 
@@ -470,7 +470,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 17\. [^824]. Tantos discípulos como desee obtener, tantos granos de sésamo debe sacrificar con un tablero de dados, con el Sâvitrî o con el Anuvâka, 'Brillante y resplandeciente' (Vâ_g_. Sa<i>m</i>h. XVII, 80 seqq.).
 
-18\. [^825]. Después de comer (el resto de la comida del sacrificio, el maestro) debe pronunciar la palabra Om y luego repetir el Sâvitrî tres veces, y el comienzo de los Adhyâyas a (los estudiantes) que están sentados mirando hacia el oeste; <span id="p323">[<sup><small>p. 323</small></sup>]</span>
+18\. [^825]. Después de comer (el resto de la comida del sacrificio, el maestro) debe pronunciar la palabra Om y luego repetir el Sâvitrî tres veces, y el comienzo de los Adhyâyas a (los estudiantes) que están sentados mirando hacia el oeste; <span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 19\. Los comienzos de las secciones pertenecientes a los (diferentes) <i>Ri</i>shis, si son Bahv<i>ri</i><i>ri</i>as (es decir, si estudian el <i>Ri</i>g-Veda),
 
@@ -493,7 +493,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 2\. Si se ha participado de una cena de <i>Srâddha</i>, si cae un meteorito, o se oyen truenos distantes, o si tiembla la tierra, o si se ven apariciones de fuego, y al comenzar una nueva estación, (el estudio se interrumpirá) hasta la misma hora del día siguiente.
 
-3\. [^828]. Si se ha realizado la ceremonia de Utsarga, <span id="p324">[<sup><small>p. 324</small></sup>]</span> si aparecen nubes, . . . ., (se interrumpirá) durante tres noches o hasta que haya pasado el crepúsculo tres veces.
+3\. [^828]. Si se ha realizado la ceremonia de Utsarga, <span id="p324"><sup><small>[ p. 324 ]</small></sup></span> si aparecen nubes, . . . ., (se interrumpirá) durante tres noches o hasta que haya pasado el crepúsculo tres veces.
 
 4\. [^829]. Después de haber comido, hasta que se haya lavado y secado las manos; mientras esté en el agua; de noche; al anochecer; mientras haya un cadáver o un _K<i>a</i>n_<i>a</i>âla en el pueblo.
 
@@ -505,7 +505,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 8\. [^830]. Si alguien que ha realizado con él la ceremonia del Tânûnaptra, o un compañero discípulo (ha muerto), durante tres noches.
 
-9\. Si alguien que no es su condiscípulo ha fallecido por una noche. <span id="p325">[<sup><small>p. 325</small></sup>]</span>
+9\. Si alguien que no es su condiscípulo ha fallecido por una noche. <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 10\. Después de haber estudiado cinco meses y medio, deben celebrar el Utsarga,
 
@@ -545,7 +545,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 5\. [^836]. O no puede hacerlo, porque ese verso ha sido prescrito para la construcción del altar Agni, y el acto de sembrar está en conexión con él.
 
-6\. Después de rociar con agua al buey delantero, deben arar la tierra sin arar. <span id="p327">[<sup><small>p. 327</small></sup>]</span>
+6\. Después de rociar con agua al buey delantero, deben arar la tierra sin arar. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 7 [^837]. Debe hacer oblaciones de alimentos sacrificiales cocidos a las mismas deidades mencionadas anteriormente, al sembrar arroz y cebada, y en el sacrificio a Sîtâ.
 
@@ -565,7 +565,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 6\. Hace ofrendas de la comida sacrificial cocida a Vish<i>n</i>u, a _S<i>n</i>n_a, a la luna llena de _S<i>n</i>n_a y a la temporada de lluvias,
 
-7\. (Y oblaciones) de los granos con (el verso), 'Acompañado de granos' (Vâ_g_. Sa<i>m</i>h. XX, 29). <span id="p328">[<sup><small>p. 328</small></sup>]</span>
+7\. (Y oblaciones) de los granos con (el verso), 'Acompañado de granos' (Vâ_g_. Sa<i>m</i>h. XX, 29). <span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 8\. Sacrifica harina, sobre la que se ha vertido ghee, a las serpientes (con los siguientes mantras):
 
@@ -617,7 +617,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 24\. [^846]. Con la darvi (cuchara) se enjuaga la boca. Tras lavarla, la guarda.
 
-20\. Según los comentaristas, le da estas cosas al hombre que sostiene la tea (Sutra 11). <span id="p331">[<sup><small>p. 331</small></sup>]</span>
+20\. Según los comentaristas, le da estas cosas al hombre que sostiene la tea (Sutra 11). <span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 25 [^847]. Comen los granos (de arroz) que no deben formar una masa coherente.
 
@@ -633,7 +633,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 3\. [^849]. Después de comer (su porción de la comida sacrificial), ofrece un Bali a los Maruts. Pues el Sruti dice: «Los Maruts comen lo que no se sacrifica».
 
-4\. [^850]. (Ofrece este Bali) en hojas de Asvattha, porque se dice: «Los Maruts estaban en el árbol de Asvattha». <span id="p332">[<sup><small>p. 332</small></sup>]</span>
+4\. [^850]. (Ofrece este Bali) en hojas de Asvattha, porque se dice: «Los Maruts estaban en el árbol de Asvattha». <span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 5 [^851]. (Lo ofrece) con (los textos), 'Brillantemente resplandeciente' (Var. Sa<i>s</i>h. XVII, 80-85), Mantra por Mantra,
 
@@ -657,7 +657,7 @@ Levantándose, portando una lanza brillante, Indra se encuentra con los Maruts; 
 
 3\. [^856]. Después de comer (su porción del alimento sacrificial), sacrifica con las manos unidas un P<i>ri</i>shâtaka preparado con cuajada, con las palabras: «Que lo deficiente me sea dado por completo; que lo abundante no me descomponga. ¡Svâhâ!»
 
-4\. Los habitantes de la casa observan la mezcla de cuajada, miel y ghee, con el Anuvâka, <span id="p333">[<sup><small>p. 333</small></sup>]</span> «Que Indra venga aquí» (Vâ_g_. Sa<i>m</i>h. XX, 47 ss.).
+4\. Los habitantes de la casa observan la mezcla de cuajada, miel y ghee, con el Anuvâka, <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> «Que Indra venga aquí» (Vâ_g_. Sa<i>m</i>h. XX, 47 ss.).
 
 5\. [^857]. Dejaron que los terneros se reunieran con sus madres esa noche y la noche del Âgrahâya<i>n</i>î.
 
@@ -692,7 +692,7 @@ En cuya sustancia reside la prosperidad de todas las obras védicas y mundanas, 
 
 A Ella, rica en caballos, rica en vacas, rica en deleites, incansablemente sustenta a los seres vivos, Urvarâ (es decir, el campo), que está coronada de eras, invoco en este sacrificio, la Firme. Que no me abandone. ¡Svâhâ!
 
-10\. Ofrece ofrendas de la comida sacrificial cocinada a Sîtâ, Ya<i>g</i>â (la diosa del sacrificio), <i>S</i>amâ (la diosa de la devoción ferviente) y Bhûti (la diosa del bienestar). <span id="p335">[<sup><small>p. 335</small></sup>]</span>
+10\. Ofrece ofrendas de la comida sacrificial cocinada a Sîtâ, Ya<i>g</i>â (la diosa del sacrificio), <i>S</i>amâ (la diosa de la devoción ferviente) y Bhûti (la diosa del bienestar). <span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 11\. Algunos dicen que la entrega (de la comida sacrificial a las deidades) acompaña a los Mantras.
 

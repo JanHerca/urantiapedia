@@ -100,7 +100,7 @@ La respiración es alimento [2](Taittiriyaka_3#fn238), el cuerpo ingiere el alim
 
 ## OCTAVO ANUVÂKA.
 
-Que nunca rechace la comida, esa es la regla. El agua es comida, la luz se alimenta de la comida. La luz reposa en el agua, el agua reposa en la luz. Esta es la comida que reposa <span id="p67">[<sup><small>p. 67</small></sup>]</span> en la comida [^240]. Quien conoce esta comida que reposa en la comida, reposa exaltado, se enriquece con comida y es capaz de comer alimentos (saludable), se engrandece por la descendencia, el ganado y el esplendor de su conocimiento (de Brahman), y se engrandece por la fama.
+Que nunca rechace la comida, esa es la regla. El agua es comida, la luz se alimenta de la comida. La luz reposa en el agua, el agua reposa en la luz. Esta es la comida que reposa <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> en la comida [^240]. Quien conoce esta comida que reposa en la comida, reposa exaltado, se enriquece con comida y es capaz de comer alimentos (saludable), se engrandece por la descendencia, el ganado y el esplendor de su conocimiento (de Brahman), y se engrandece por la fama.
 
 
 ## NOVENO ANUVÂKA.
@@ -111,7 +111,7 @@ Que adquiera mucho alimento, esa es la regla. La tierra es alimento, el éter se
 
 1\. Que nunca rechace a un extraño de su casa, esa es la regla. Por lo tanto, un hombre debe procurar abundante alimento, pues la gente buena le dice al extraño: «Hay comida lista para él». Si da comida en abundancia, se le da comida en abundancia. Si da comida con justicia, se le da comida con justicia. Si da comida con tacañería, se le da comida con tacañería.
 
-2\. Quien conoce esto, (reconoce y adora a Brahman [^241]) como posesión en el habla, como adquisición y posesión en la inhalación (prâ<i>n</i>a) y la inhalación (apâna); como acción en las manos; como caminar en los pies; como orinar en el ano. Estos son los reconocimientos humanos (de Brahman tal como se manifiesta en las acciones humanas). A continuación siguen los reconocimientos (de <span id="p68">[<sup><small>p. 68</small></sup>]</span> Brahman) con referencia a los Devas, a saber: como satisfacción en la lluvia; como poder en el relámpago;
+2\. Quien conoce esto, (reconoce y adora a Brahman [^241]) como posesión en el habla, como adquisición y posesión en la inhalación (prâ<i>n</i>a) y la inhalación (apâna); como acción en las manos; como caminar en los pies; como orinar en el ano. Estos son los reconocimientos humanos (de Brahman tal como se manifiesta en las acciones humanas). A continuación siguen los reconocimientos (de <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> Brahman) con referencia a los Devas, a saber: como satisfacción en la lluvia; como poder en el relámpago;
 
 3\. Como la gloria en el ganado; como la luz en las estrellas; como la procreación, la inmortalidad y la dicha en el miembro; como todo en el éter. Que adore a Brahman como soporte, y será sustentado. Que adore a Brahman como grandeza (mahah), y será grande. Que adore a Brahman como mente, y será dotado de mente.
 
@@ -119,7 +119,7 @@ Que adquiera mucho alimento, esa es la regla. La tierra es alimento, el éter se
 
 Él [^243] que es este (Brahman) en el hombre, y él que es aquel (Brahman) en el sol, ambos son uno.
 
-5\. Quien conoce esto, al partir de este mundo, tras alcanzar y comprender el Ser que consiste en alimento, el Ser que consiste en aliento, el Ser que consiste en mente, el Ser que consiste en entendimiento, el Ser que consiste en dicha, entra y toma posesión de estos mundos, y, teniendo tanto alimento como desee y asumiendo tantas formas como desee, se sienta a cantar este Sâman (de Brahman): «¡Hâvu, hâvu, hâvu!». <span id="p69">[<sup><small>p. 69</small></sup>]</span> 6\. «¡Soy alimento (objeto), soy alimento, soy alimento! ¡Soy quien come alimento (sujeto), soy quien come alimento, soy quien come alimento! ¡Soy el poeta (que une a ambos), soy el poeta, soy el poeta!» Soy el primogénito de la Derecha (<i>ri</i>ta). Antes de los Devas, yo estaba en el centro de todo lo inmortal. Solo quien me entrega me preserva; a quien come, yo como alimento.
+5\. Quien conoce esto, al partir de este mundo, tras alcanzar y comprender el Ser que consiste en alimento, el Ser que consiste en aliento, el Ser que consiste en mente, el Ser que consiste en entendimiento, el Ser que consiste en dicha, entra y toma posesión de estos mundos, y, teniendo tanto alimento como desee y asumiendo tantas formas como desee, se sienta a cantar este Sâman (de Brahman): «¡Hâvu, hâvu, hâvu!». <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> 6\. «¡Soy alimento (objeto), soy alimento, soy alimento! ¡Soy quien come alimento (sujeto), soy quien come alimento, soy quien come alimento! ¡Soy el poeta (que une a ambos), soy el poeta, soy el poeta!» Soy el primogénito de la Derecha (<i>ri</i>ta). Antes de los Devas, yo estaba en el centro de todo lo inmortal. Solo quien me entrega me preserva; a quien come, yo como alimento.
 
 «Yo, dotado de luz dorada, conquisto el mundo entero». Quien conoce esto, lo alcanza todo. Este es el Upanishad.
 

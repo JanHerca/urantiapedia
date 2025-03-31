@@ -72,7 +72,7 @@ v. 26. El Sr. Lyall, en una nota sobre una de sus traducciones de Canciones del 
 Muchos son los días nuestros, largamente resplandecidos con gloria,
 &nbsp;&nbsp;cuando resistimos al Rey y no quisimos servirle.
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 «Días» (_Ayyām_), explica, es la palabra usada en la leyenda árabe para las batallas: se dice, «el Día de el-Kuālb», «el Día de Shi‘b Jebeleh», etc., aunque la lucha puede (como sucedió en el-Kulāb) haber durado más de un día. (Véase la nota sobre los vv. 25, 26, Mo‘all de Hareth.)
 
@@ -89,7 +89,7 @@ v. 40. «Nuestras jabalinas exquisitamente labradas con cañas de Khathaian», e
 
 v. 45. La flor de la siringa.—El árbol de Judas, en el que el architraidor se ahorcó después de traicionar a su Maestro: se dice que el árbol, en consecuencia, lloró sangre, con la que sus flores aún permanecen profundamente teñidas.—Nota: Odas de Hafiz.—En el Romance de Antar, los guerreros cuya armadura está manchada de sangre se comparan con frecuencia con las flores del árbol de Judas; y el propio héroe describe copas de vino como si estuvieran envueltas en la flor de Judas. Es el _Cercis Siliquastrum_ de los botánicos, según Hamilton, «cuyas flores son de un color púrpura muy brillante, que salen de las ramas y del tallo por todos lados en grandes racimos y sobre pedúnculos cortos».
 
-<span id="p399">[<sup><small>p. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 66. Colaib Ebn Rabiah gobernaba los Bani Maad (los sarracenos Maadeni de Procopio), y era tan orgulloso que no permitía que nadie cazara en su vecindad, ni que se diera de beber a los camellos con los suyos, ni que se encendiera ningún fuego cerca del que él mismo usaba. Finalmente, fue asesinado por un tal Jassas, por matar a un camello llamado Sarab, que encontró pastando en un terreno prohibido. Este camello pertenecía a un árabe que había sido hospedado por Basus, un pariente cercano de Jassas. El asesinato de Colaib Ebn Rebiah ocasionó una guerra de cuarenta años [véase el argumento prefijado al poema de Amru, página [65] (Moallakat_Amru_Argument#p65)], de donde vinieron los proverbios árabes: «un peor presagio que Sarab»; «más siniestro que Basus.»—Puede que no sea impropio observar aquí que los reyes y jefes de los árabes generalmente prohibían a otros llevar sus rebaños a aquellos lugares y pastos que ellos mismos elegían. Para determinar los límites de estos pastos, cuando llegaban a un valle o llanura fructífera, hacían ladrar a un perro, y se apropiaban de toda la extensión de terreno en la que se le podía oír.—Ancient Universal History, vol. xviii., pág. \[440\].
 

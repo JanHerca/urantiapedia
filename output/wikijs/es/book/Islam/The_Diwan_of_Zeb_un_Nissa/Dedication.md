@@ -29,7 +29,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Tu placer, Princesa, ahora es desolado;
 Donde una vez los brillantes cursos de agua trazados

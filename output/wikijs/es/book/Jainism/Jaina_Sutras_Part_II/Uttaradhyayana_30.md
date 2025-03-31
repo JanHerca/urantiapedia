@@ -46,7 +46,7 @@ Escucha atentamente cómo un monje destruye (el Karman) adquirido por el amor y 
 
 Así como un gran tanque, cuando se corta su suministro de agua, se seca gradualmente por el consumo del agua y por la evaporación, así también el Karman de un monje, que adquirió en millones [^466] de nacimientos, es aniquilado por las austeridades, si no hay afluencia de mal Karman. (5, 6)
 
-Las austeridades son de dos tipos: externas e internas; <span id="p175">[<sup><small>p. 175</small></sup>]</span> las austeridades externas son de seis tipos, y las internas son de seis tipos [^467]. (7)
+Las austeridades son de dos tipos: externas e internas; <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> las austeridades externas son de seis tipos, y las internas son de seis tipos [^467]. (7)
 
 Las austeridades externas son:
 
@@ -92,7 +92,7 @@ d. Quien acepta limosna de una mujer o un hombre, de una persona adornada o no a
 
 5\. La mortificación de la carne consiste en diversas posturas como Virâsana, etc., que benefician al alma y son difíciles de realizar. (27)
 
-6\. El uso de alojamientos y camas no frecuentados consiste en vivir y dormir en lugares separados y <span id="p179">[<sup><small>p. 179</small></sup>]</span> poco frecuentados, donde no hay mujeres ni ganado. (28)
+6\. El uso de alojamientos y camas no frecuentados consiste en vivir y dormir en lugares separados y <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> poco frecuentados, donde no hay mujeres ni ganado. (28)
 
 Así que las austeridades externas han sido explicadas brevemente; ahora explicaré las austeridades internas en el orden debido. (29)
 
@@ -116,7 +116,7 @@ Las austeridades internas son:
 
 3\. Hay diez [^492] tipos de servicio, como servir al Â<i>k</i>ârya, etc. [^493]; prestar servicio consiste en prestar la ayuda que uno pueda. (33)
 
-4\. El estudio consta de cinco partes: 1. decir o aprender la lección; 2. (preguntar al maestro al respecto); 3. repetir; 4. reflexionar; 5. discurso religioso. (34) <span id="p180">[<sup><small>p. 180</small></sup>]</span> 5\. Absteniéndose de meditar sobre cosas dolorosas y pecaminosas [^494], uno debe, con la mente serena, dedicarse a meditaciones puras sobre la Ley; a esto los sabios lo llaman meditación. (35)
+4\. El estudio consta de cinco partes: 1. decir o aprender la lección; 2. (preguntar al maestro al respecto); 3. repetir; 4. reflexionar; 5. discurso religioso. (34) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> 5\. Absteniéndose de meditar sobre cosas dolorosas y pecaminosas [^494], uno debe, con la mente serena, dedicarse a meditaciones puras sobre la Ley; a esto los sabios lo llaman meditación. (35)
 
 6\. Si un monje permanece inmóvil al acostarse, sentarse o estar de pie, esto se llama abandono del cuerpo, que es el sexto tipo (de austeridades internas). (36)
 

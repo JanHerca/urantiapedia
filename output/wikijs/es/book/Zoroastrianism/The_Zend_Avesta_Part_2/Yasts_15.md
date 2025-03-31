@@ -74,7 +74,7 @@ A este Vayu ofrecemos sacrificios, a este Vayu invocamos, por esta casa, por el 
 
 ¡A esta parte de ti te sacrificamos, oh Vayu!, que pertenece a Spe<i>n</i>ta Mainyu [^1102].
 
-Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado, es decir, al temible Vayu, quien obra con grandeza. Ofrecemos un sacrificio al temible Vayu, quien obra con grandeza, con las libaciones, con el haoma y la carne, con la baresma, con la sabiduría de la lengua, con los <span id="p251">[<sup><small>p. 251</small></sup>]</span> hechizos sagrados, las palabras, las obras, las libaciones y las palabras bien dichas.
+Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado, es decir, al temible Vayu, quien obra con grandeza. Ofrecemos un sacrificio al temible Vayu, quien obra con grandeza, con las libaciones, con el haoma y la carne, con la baresma, con la sabiduría de la lengua, con los <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> hechizos sagrados, las palabras, las obras, las libaciones y las palabras bien dichas.
 
 Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda. . . .
 
@@ -98,7 +98,7 @@ Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado
 
 10\. Sacrificaré a las Aguas y a Aquel que las divide . . . .
 
-A este Vayu sacrificamos, a este Vayu invocamos... <span id="p252">[<sup><small>p. 252</small></sup>]</span> 11\. A él le ofreció Takhma Urupa [^1107], el bien armado [^1108], un sacrificio en un trono de oro, bajo vigas de oro y un dosel de oro, con manojos de baresma y ofrendas de \[leche\] hirviendo.
+A este Vayu sacrificamos, a este Vayu invocamos... <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> 11\. A él le ofreció Takhma Urupa [^1107], el bien armado [^1108], un sacrificio en un trono de oro, bajo vigas de oro y un dosel de oro, con manojos de baresma y ofrendas de \[leche\] hirviendo.
 
 12\. Le rogó un favor, diciendo: «¡Concédeme esto, oh Vayu!, que trabajas con gran maestría, para que pueda conquistar a todos los Daêvas y hombres, a todos los Yatus y Pairikas, y para que pueda cabalgar sobre Angra Mainyu, transformado en caballo, por toda la tierra de un extremo a otro, durante treinta años».
 
@@ -132,7 +132,7 @@ Por su resplandor y su gloria, le ofreceré un sacrificio digno de ser escuchado
 
 A este Vayu sacrificamos, a este Vayu invocamos...
 
-19\. A él, Az Dahâka, el de tres bocas, le ofreció un sacrificio en su maldito palacio de Kvirinta [^1112], <span id="p254">[<sup><small>p. 254</small></sup>]</span>, sobre un trono dorado, bajo vigas y un dosel dorados, con manojos de barisma y ofrendas de leche hirviendo.
+19\. A él, Az Dahâka, el de tres bocas, le ofreció un sacrificio en su maldito palacio de Kvirinta [^1112], <span id="p254"><sup><small>[ p. 254 ]</small></sup></span>, sobre un trono dorado, bajo vigas y un dosel dorados, con manojos de barisma y ofrendas de leche hirviendo.
 
 20\. Le pidió un favor, diciendo: «Concédeme esto, ¡oh Vayu!, que trabajas con gran maestría, para que pueda vaciar de hombres los siete Karshvares de la tierra [^1113]».
 
@@ -166,7 +166,7 @@ A este Vayu sacrificamos, a este Vayu invocamos...
 
 28\. Le rogó que le concediera un favor, diciendo: «¡Concédeme esto, oh Vayu, que trabajas con gran maestría!, para que pueda vengar a mi hermano Urvâkhshaya [^1117], para que pueda derrotar a Hitâspa y unirlo a mi carro».
 
-El Ga<i>n</i>darewa, que vive bajo las aguas, <span id="p256">[<sup><small>p. 256</small></sup>]</span> es el hijo de Ahura en las profundidades, él es el único amo de las profundidades [^1118].
+El Ga<i>n</i>darewa, que vive bajo las aguas, <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> es el hijo de Ahura en las profundidades, él es el único amo de las profundidades [^1118].
 
 29\. Vayu, quien trabaja con gran talento, le concedió esa bendición, pues el Creador, Ahura Mazda, la persiguió.
 
@@ -302,7 +302,7 @@ Mi nombre es Penetración de lanza; mi nombre es El de la lanza penetrante.
 
 Mi nombre es el Glorioso; mi nombre es el Súper glorioso.
 
-496\. ¡Invoca estos nombres míos, oh santo Zaratustra! en medio de las hordas devastadoras, en medio de las columnas que avanzan, en la lucha de las naciones en conflicto. <span id="p261">[<sup><small>p. 261</small></sup>]</span> 50\. ¡Invoca estos nombres míos, oh santo Zaratustra! cuando el tirano todopoderoso de un país caiga sobre ti, se abalance sobre ti, te hiere o lance su carro contra ti, para robarte [^1136] tu riqueza, para robarte la salud.
+496\. ¡Invoca estos nombres míos, oh santo Zaratustra! en medio de las hordas devastadoras, en medio de las columnas que avanzan, en la lucha de las naciones en conflicto. <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 50\. ¡Invoca estos nombres míos, oh santo Zaratustra! cuando el tirano todopoderoso de un país caiga sobre ti, se abalance sobre ti, te hiere o lance su carro contra ti, para robarte [^1136] tu riqueza, para robarte la salud.
 
 51\. ¡Invoca estos nombres míos, oh santo Zaratustra!, cuando el impío Ashemaogha caiga sobre ti, se abalance sobre ti, te hiere o lance su carro contra ti para robarte tu fuerza, tu riqueza o tu salud.
 
@@ -310,7 +310,7 @@ Mi nombre es el Glorioso; mi nombre es el Súper glorioso.
 
 53\. ¡Oh tú, Vayu!, que infundes miedo en todos los hombres y caballos, que en todas las criaturas trabajas contra los Daêvas, tanto en los lugares más bajos como en aquellos mil veces más profundos, entras con igual poder [^1138].
 
-54\. ¿Con qué clase de sacrificio te adoraré? ¿Con qué clase de sacrificio te presentaré y te adoraré? ¿Con qué clase de sacrificio se logrará tu adoración, oh gran Vayu!, tú, de cintura alta, firme, de movimientos rápidos, de pies altos, pechos anchos, muslos anchos, de ojos impasibles, tan poderoso en soberanía como cualquier soberano absoluto del mundo? <span id="p262">[<sup><small>p. 262</small></sup>]</span> 55\. ¡Toma una baresma, oh santo Zaratustra! Gírala hacia arriba o hacia abajo, según sea pleno día o amanezca; hacia arriba durante el día, hacia abajo al amanecer [^1139].
+54\. ¿Con qué clase de sacrificio te adoraré? ¿Con qué clase de sacrificio te presentaré y te adoraré? ¿Con qué clase de sacrificio se logrará tu adoración, oh gran Vayu!, tú, de cintura alta, firme, de movimientos rápidos, de pies altos, pechos anchos, muslos anchos, de ojos impasibles, tan poderoso en soberanía como cualquier soberano absoluto del mundo? <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 55\. ¡Toma una baresma, oh santo Zaratustra! Gírala hacia arriba o hacia abajo, según sea pleno día o amanezca; hacia arriba durante el día, hacia abajo al amanecer [^1139].
 
 56\. 'Si me haces adorar con un sacrificio, entonces te diré con mi propia voz cosas de salud, hechas por Mazda y llenas de gloria, para que Angra Mainyu nunca te haga daño a ti, ni a los Yatus, ni a aquellos adictos a las obras del Yatu, ya sean Daêvas u hombres.'
 
@@ -346,7 +346,7 @@ Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado, es de
 
 58\. Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
-Bendigo el sacrificio y la invocación, y la <span id="p263">[<sup><small>p. 263</small></sup>]</span> fuerza y ​​vigor de Râma <i>H</i><i>v</i>âstra, y Vayu, que trabaja altamente, más poderoso para afligir que todas las demás criaturas: esta parte de ti que pertenece al Buen Espíritu.
+Bendigo el sacrificio y la invocación, y la <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> fuerza y ​​vigor de Râma <i>H</i><i>v</i>âstra, y Vayu, que trabaja altamente, más poderoso para afligir que todas las demás criaturas: esta parte de ti que pertenece al Buen Espíritu.
 
 Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 

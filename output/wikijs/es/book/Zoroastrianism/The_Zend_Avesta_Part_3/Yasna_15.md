@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 2\. Ahura, quien conoce su mejor don de su Rectitud, lo recibe en la ofrenda; quienes han vivido y viven para siempre, por sus nombres los adoro, mientras me acerco con alabanzas [^1069]. El Buen Reino ha de ser elegido, esa suerte que más influye en (nuestras bendiciones [^1070]).
 
-3\. Que Sraosha (Obediencia) esté presente para el <span id="p255">[<sup><small>p. 255</small></sup>]</span> sacrificio de Ahura Mazda, el más benéfico, el santo, quien nos es tan querido como al principio y al final; sí, que esté presente aquí [^1071].
+3\. Que Sraosha (Obediencia) esté presente para el <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> sacrificio de Ahura Mazda, el más benéfico, el santo, quien nos es tan querido como al principio y al final; sí, que esté presente aquí [^1071].
 
 4\. Como el Ahû (venerado y) que debe ser elegido, el Âtarevakhsha me habla así.
 

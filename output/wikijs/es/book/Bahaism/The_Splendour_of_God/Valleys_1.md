@@ -72,7 +72,7 @@ Se necesita un esfuerzo para que nos esforcemos en buscarlo, y un esfuerzo para 
 
 En este viaje, el viajero se sienta en todo suelo y habita en toda tierra, y busca la belleza del Amigo en cada rostro.
 
-Busca al Amado en cada país; se une a cada multitud... tal vez descubra el misterio del Amado <span id="p57">[<sup><small>p. 57</small></sup>]</span> en alguna cabeza, o contemple la belleza del Deseado en algún rostro.
+Busca al Amado en cada país; se une a cada multitud... tal vez descubra el misterio del Amado <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> en alguna cabeza, o contemple la belleza del Deseado en algún rostro.
 
 Si, con la ayuda de Dios, encuentra en este viaje un rastro del Amigo Sin Rastro... inmediatamente entrará en el Valle del Amor y se derretirá con el fuego del amor.
 

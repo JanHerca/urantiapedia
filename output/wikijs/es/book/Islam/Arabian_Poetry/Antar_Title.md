@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 <p style="text-align:center;">
 EL<br>

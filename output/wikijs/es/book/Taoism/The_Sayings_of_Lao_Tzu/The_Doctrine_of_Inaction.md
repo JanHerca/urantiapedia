@@ -60,7 +60,7 @@ La búsqueda del conocimiento teórico produce un crecimiento diario. La prácti
 
 El Imperio siempre se ha conquistado dejando que las cosas sigan su curso. Quien siempre debe estar haciendo no es apto para obtener el Imperio.
 
-Mantén la boca cerrada, cierra las puertas de los sentidos, y mientras vivas no tendrás problemas. Abre los labios y apura tus asuntos, <span id="p32">[<sup><small>p. 32</small></sup>]</span>, y no estarás a salvo hasta el fin de tus días.
+Mantén la boca cerrada, cierra las puertas de los sentidos, y mientras vivas no tendrás problemas. Abre los labios y apura tus asuntos, <span id="p32"><sup><small>[ p. 32 ]</small></sup></span>, y no estarás a salvo hasta el fin de tus días.
 
 Practica la inacción, ocúpate de no hacer nada.
 

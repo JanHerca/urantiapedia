@@ -188,7 +188,7 @@ A cada uno le llegará su turno; el campo fértil siempre será cortado.
 Se tomará nota de cada ghari y momento, y el alma obtendrá castigo o recompensa.
 Nanak, Dios creó todo, los semidioses y los hombres están de acuerdo en esto.[^1]
 
-Cuando el Gurú y el jeque Brahm abandonaron el bosque, el aldeano regresó a buscar su palangana. Al levantarla, se dice, descubrió que se había convertido en oro y que estaba llena de monedas de oro. Entonces empezó a arrepentirse de sus sospechas y se confesó a sí mismo que eran hombres religiosos. Si hubiera venido con <span id="p91">[<sup><small>p. 91</small></sup>]</span> un corazón dispuesto hacia Dios, habría alcanzado la santidad. «Vine con mundanidad, y mundanidad he encontrado». Tras esto, tomó su palangana y se marchó.
+Cuando el Gurú y el jeque Brahm abandonaron el bosque, el aldeano regresó a buscar su palangana. Al levantarla, se dice, descubrió que se había convertido en oro y que estaba llena de monedas de oro. Entonces empezó a arrepentirse de sus sospechas y se confesó a sí mismo que eran hombres religiosos. Si hubiera venido con <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> un corazón dispuesto hacia Dios, habría alcanzado la santidad. «Vine con mundanidad, y mundanidad he encontrado». Tras esto, tomó su palangana y se marchó.
 
 El jeque Brahm comentó que era difícil para quienes se apegaban a Mammón obtener la salvación, y preguntó qué ayuda, además del nombre de Dios, era normalmente necesaria para la felicidad futura. El Gurú respondió con el siguiente himno:
 

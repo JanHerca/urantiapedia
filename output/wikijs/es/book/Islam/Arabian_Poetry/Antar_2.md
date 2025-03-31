@@ -40,7 +40,7 @@ Es como si ella fuera el día brillante, y como si la noche la hubiera envuelto 
 
 Es como si la luna llena brillara en su esplendor, y todas las estrellas estuvieran ocultas por su brillo.
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Sus encantos hechizan a todos a su alrededor, y todos están ansiosos por ofrecer sus servicios:
 
@@ -68,7 +68,7 @@ Ella mira: Debería decir que era la luna llena de la noche cuando Orión la ci�
 
 Ella sonríe: y las perlas de sus dientes brillan, en las que está la cura para la enfermedad de los amantes.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Ella se postra en reverencia hacia su Dios; y los más grandes de los hombres se inclinan ante sus bellezas.
 
@@ -90,7 +90,7 @@ Pero no me quejo; aunque todos mis temores son por tu culpa, ¡Oh tú, luna llen
 
 Pero ¿cómo puedo esperar acercarme a ti, mientras los leones del bosque guardan tu tienda?
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Por la verdad de mi amor por ti, mi corazón nunca podrá curarse sino con paciencia.
 

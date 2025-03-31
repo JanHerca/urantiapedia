@@ -52,7 +52,7 @@ Adoración al Ser Supremo. Hari, Om!
 
 3\. Ambhas (agua), Marî<i>k</i>i (luz), Mara (mortal) y Ap (agua).
 
-4\. Ese Ambhas (agua) está por encima del cielo, y es el cielo, el soporte. Las Marî<i>k</i>is (las luces) son el cielo. Mara (mortal) es la tierra, y las aguas bajo la tierra son el mundo Ap [^585]. (2) <span id="p238">[<sup><small>p. 238</small></sup>]</span> 5\. Pensó: «Existen estos mundos; ¿debería enviar guardianes de los mundos?»
+4\. Ese Ambhas (agua) está por encima del cielo, y es el cielo, el soporte. Las Marî<i>k</i>is (las luces) son el cielo. Mara (mortal) es la tierra, y las aguas bajo la tierra son el mundo Ap [^585]. (2) <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 5\. Pensó: «Existen estos mundos; ¿debería enviar guardianes de los mundos?»
 
 Luego formó al Purusha (la persona) [^586], sacándolo del agua [^587]. (3)
 
@@ -88,7 +88,7 @@ Condujo una vaca hacia ellos (las deidades). Dijeron: «Esto no es suficiente».
 
 3\. Les dijo: «Entren, cada uno según su lugar». (3)
 
-4\. Entonces Agni (fuego), convertido en habla, entró en la boca. Vâyu (aire), convertido en aroma, entró en las fosas nasales. Âditya (sol), convertido en vista, entró en los ojos. Las Di<i>s</i> (regiones), convertidas en audición, entraron en los oídos. Los arbustos y árboles, convertidos en cabellos, entraron en la piel. Kandramas (la luna), convertido en mente, entró <span id="p240">[<sup><small>p. 240</small></sup>]</span> en el corazón. La muerte, convertida en respiración descendente, entró en el ombligo. Las aguas, convertidas en semilla, entraron en el órgano genital. (4)
+4\. Entonces Agni (fuego), convertido en habla, entró en la boca. Vâyu (aire), convertido en aroma, entró en las fosas nasales. Âditya (sol), convertido en vista, entró en los ojos. Las Di<i>s</i> (regiones), convertidas en audición, entraron en los oídos. Los arbustos y árboles, convertidos en cabellos, entraron en la piel. Kandramas (la luna), convertido en mente, entró <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> en el corazón. La muerte, convertida en respiración descendente, entró en el ombligo. Las aguas, convertidas en semilla, entraron en el órgano genital. (4)
 
 5\. Entonces el Hambre y la Sed le hablaron (al Ser): «Concédenos un lugar». Él les dijo: «Los asigno a esas mismas deidades de allí, los hago copartícipes con ellas». Por lo tanto, a cualquier deidad que se le ofrezca una oblación, el hambre y la sed son copartícipes en ella. (5)
 
@@ -120,7 +120,7 @@ Intentó captarlo mediante la respiración descendente (la respiración que ayud
 
 5\. Y entonces pensó: '¿Por dónde llegaré allí [^602]?'
 
-6\. Y entonces pensó: «Si el habla nombra, si el aroma huele, si el ojo ve, si el oído oye, si la piel siente, si la mente piensa, si la exhalación digiere, si el órgano expulsa, entonces ¿qué soy yo?» (11) <span id="p242">[<sup><small>p. 242</small></sup>]</span> 7\. Entonces, abriendo la sutura del cráneo, entró por esa puerta.
+6\. Y entonces pensó: «Si el habla nombra, si el aroma huele, si el ojo ve, si el oído oye, si la piel siente, si la mente piensa, si la exhalación digiere, si el órgano expulsa, entonces ¿qué soy yo?» (11) <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 7\. Entonces, abriendo la sutura del cráneo, entró por esa puerta.
 
 8\. Esa puerta se llama Vid<i>ri</i>ti (el desgarro), Nândana (el lugar de la dicha).
 

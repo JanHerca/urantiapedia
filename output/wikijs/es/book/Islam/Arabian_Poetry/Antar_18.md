@@ -48,7 +48,7 @@ Por tus dientes, deliciosos al beso, y por tus ojos, y todos los dolores de su e
 
 Que te llegue mi saludo, cuando el amanecer resplandeciente rompa el velo de la noche!
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 Que Dios humedezca tus noches y te rocíe con sus nubes cargadas de lluvia.
 
@@ -60,7 +60,7 @@ Apenas Antar había concluido cuando Khosrewan apareció en la llanura, “monta
 
 Pero Antar lo mantuvo ocupado, lo cansó y le impidió ejecutar sus planes, de modo que la ira del jefe se intensificó. Cogió uno de sus dardos, lo sacudió y se lo arrojó; voló de su mano como un relámpago cegador o el destino descendente. Antar se mantuvo firme; y cuando se acercó a él, lo atacó y, hábilmente, lo desvió con su escudo, saltó y cayó al suelo a lo lejos. Khosrewan agarró un segundo dardo y lo apuntó hacia él; pero Antar saltó fuera de su camino y pasó inofensivo. Apuntó un tercero; pero Antar lo hizo inútil con su destreza y su perseverante actividad. Lanzó el cuarto; pero compartió la misma suerte que los otros.
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 «Cuando Khosrewan vio cómo Antar había parado los dardos, su indignación fue extrema. Nuevamente tomó su maza y rugió como ruge un león; luego, estirándose con ella, la arrojó, retrocediendo con un aullido que hizo que las llanuras y el aire se rebelaran. Antar arrojó su lanza, se enfrentó a la maza y la atrapó con su mano derecha en el aire; luego, apuntándola hacia Khosrewan, gritó: “¡Toma eso, hijo de un cornudo de dos mil cuernos! ¡Soy el amante de Abla y estoy solo, el Fénix del mundo!» Khosrewan lo vio agarrar la maza en el aire y se horrorizó, porque su fuerza y su vigor se habían agotado. Retrocedió e intentó huir de su antagonista, porque ahora estaba convencido de su destrucción. Movió su escudo entre sus hombros; pero sintió que su destino estaba cerca, porque la maza cayó sobre su escudo con más fuerza que la piedra de una honda: golpeó furiosamente al jefe persa y lo arrojó de su silla a una distancia de doce codos, y le rompió las costillas y le quebró la columna vertebral.
 

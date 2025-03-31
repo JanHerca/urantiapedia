@@ -48,7 +48,7 @@ SEGUNDO MUNDO TAMBIÉN CONOCIDO COMO.
 
 5\. De él proviene Agni (fuego) [^176], siendo el sol el combustible; de ​​la luna (Soma) proviene la lluvia (Par<i>g</i>anya); de la tierra, las hierbas; y el hombre da semilla a la mujer. Así, muchos seres son engendrados de la Persona (purusha).
 
-6\. De él provienen el <i>Ri</i><i>k</i>, el Sâman, el <span id="p35">[<sup><small>p. 35</small></sup>]</span> Ya<i>g</i>ush, el Dîkshâ (ritos iniciáticos), todos los sacrificios y ofrendas de animales, y las tarifas de los sacerdotes, también el año, el sacrificador y los mundos, en los que brillan la luna y el sol.
+6\. De él provienen el <i>Ri</i><i>k</i>, el Sâman, el <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Ya<i>g</i>ush, el Dîkshâ (ritos iniciáticos), todos los sacrificios y ofrendas de animales, y las tarifas de los sacerdotes, también el año, el sacrificador y los mundos, en los que brillan la luna y el sol.
 
 7\. De él también provienen los numerosos Devas, los Sâdhyas (genios), los hombres, el ganado, los pájaros, las respiraciones ascendentes y descendentes, el arroz y el maíz (para los sacrificios), la penitencia, la fe, la verdad, la abstinencia y la ley.
 

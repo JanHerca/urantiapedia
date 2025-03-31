@@ -52,7 +52,7 @@ La palabra «Tributo» en el nombre de este primer Libro no debe entenderse solo
 
 El suelo de esta provincia era blanquecino y suave. Su contribución a los ingresos era la más alta de la clase alta, con cierta proporción de la segunda. Sus campos eran el promedio de la clase media. 
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span> 
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span> 
 
 Las (aguas) de los ríos Hăng y Wei fueron llevadas a sus cauces adecuados, y Tâ-lü se hizo apto para el cultivo. 
 
@@ -68,7 +68,7 @@ Flotaban a lo largo del río Kî y el Thâ, y así llegaban al río Ho.
 
 4\. El mar y el monte Tâi eran los límites de Khing Kâu [^78]. 
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span> 
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span> 
 
 (El territorio de) Yü-î fue definido; y el Wei y el Ȝze conservaron sus antiguos canales. 
 
@@ -86,7 +86,7 @@ Flotaron a lo largo del Hwâi y el Sze, y así llegaron al Ho.
 
 6\. El Hwâi y el mar formaban los límites de Yang Kâu [^80]. 
 
-El lago Phăng-lî quedó confinado a sus límites propios, y los pájaros sol (= los gansos salvajes) tenían lugares <span id="p68">[<sup><small>p. 68</small></sup>]</span> donde asentarse.Los tres <i>K</i>iang fueron conducidos al mar, y fue posible calmar el pantano de <i>K</i>ăn. Los bambúes, pequeños y grandes, se extendieron; la hierba se volvió rala y larga, y los árboles se alzaron; el suelo estaba cenagoso.
+El lago Phăng-lî quedó confinado a sus límites propios, y los pájaros sol (= los gansos salvajes) tenían lugares <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> donde asentarse.Los tres <i>K</i>iang fueron conducidos al mar, y fue posible calmar el pantano de <i>K</i>ăn. Los bambúes, pequeños y grandes, se extendieron; la hierba se volvió rala y larga, y los árboles se alzaron; el suelo estaba cenagoso.
 
 Los campos de esta provincia eran los más bajos de la clase más baja; su contribución de ingresos era la más alta de la clase más baja, con una proporción de la clase superior. Sus artículos de tributo eran oro, plata y cobre; piedras de yâo y khwăn; bambúes, pequeños y grandes; dientes (de elefante), pieles, plumas, pelo y madera. La gente salvaje de las islas trajo prendas de hierba, con sedas tejidas en patrones de conchas en sus cestas. Sus paquetes contenían pequeñas naranjas y pomelos, que se entregaban cuando era especialmente necesario. 
 
@@ -94,7 +94,7 @@ Siguieron el curso del <i>K</i>iang</i> y el mar, y así llegaron al Hwâi y al 
 
 7\. (Monte) <i>K</i>ing</i> y el sur del (monte) Hăng formaban (los límites de) <i>K</i>ing <i>K</i>âu [^81]. 
 
-El Kiang y el Han siguieron su curso (común) hacia el mar, como si se apresuraran a la corte. Los nueve Kiang se pusieron en orden completo. Los arroyos Tho y Khien fueron conducidos por <span id="p69">[<sup><small>p. 69</small></sup>]</span> sus cauces adecuados. La tierra en (el pantano de) Yün (se hizo visible), y (el pantano de) Măng se hizo apto para el cultivo. 
+El Kiang y el Han siguieron su curso (común) hacia el mar, como si se apresuraran a la corte. Los nueve Kiang se pusieron en orden completo. Los arroyos Tho y Khien fueron conducidos por <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> sus cauces adecuados. La tierra en (el pantano de) Yün (se hizo visible), y (el pantano de) Măng se hizo apto para el cultivo. 
 
 El suelo de esta provincia era cenagoso. Sus campos eran el promedio de la clase media; y su contribución de ingresos era la más baja de la clase alta. Sus artículos de tributo eran plumas, pelo, dientes (de elefante) y pieles; oro, plata y cobre; árboles _kh_un, madera para arcos, cedros y cipreses; Piedras de moler, piedras de afilar, piedras de sílex para hacer puntas de flecha y cinabrio; y bambúes _kh_ün y lû, junto con el árbol hû (todos buenos para hacer flechas), de los cuales las Tres Regiones pudieron aportar los mejores ejemplares. El junco de tres nervaduras se enviaba en fardos, guardados en cajas. Las cestas se llenaban de telas de seda, de color azul celeste y morado oscuro, y de sartas de perlas no del todo redondas. Desde el (país de los) nueve Kiang, se ofrecía la gran tortuga cuando se la necesitaba especialmente (y se la encontraba). 
 
@@ -112,7 +112,7 @@ Estas flotaban a lo largo del río Lo, y así llegaban al río Ho.
 
 Las colinas Min y Po se hicieron aptas para el cultivo. Los arroyos Tho y Khien se conducían por sus cauces adecuados. Se ofrecían sacrificios a (las colinas) Ȝhâi y Mâng según la regulación (del país que las rodeaba).\* (El país de) las tribus salvajes alrededor del Ho fue explotado con éxito. 
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span> 
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span> 
 
 El suelo de esta provincia era verdoso y claro. Sus campos eran los más ricos de la clase baja; y su contribución de ingresos era la media de la clase baja, con proporciones de las tasas inmediatamente superiores e inferiores. Sus artículos de tributo eran: el mejor oro, hierro, plata, acero, piedras de sílex para hacer puntas de flecha y piedras de sondeo; con pieles de osos, zorros y chacales, y (redes) tejidas con su pelo. 
 
@@ -124,7 +124,7 @@ El Agua Débil fue conducido hacia el oeste. El Rey fue conducido a mezclar sus 
 
 (Las montañas) <i>K</i>ing y <i>Kh</i>î fueron sacrificadas a.\* (Las de) <i>K</i>ung-nan y <i>Kh</i>un-wû (también fueron reguladas), y (todo el camino) hasta Niâo-shû. Ahora se podían tomar medidas exitosas con las llanuras y pantanos, incluso hasta la ciénaga de Kû-yeh. El territorio de San-wei se hizo habitable, y los asuntos de la gente de San-miâo se organizaron en gran medida. 
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span> 
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span> 
 
 El suelo de la provincia era amarillo y fértil. Sus campos eran los más ricos de la clase alta, y su contribución a los ingresos era la más baja de la segunda. Sus artículos de tributo eran el jade _kh_iû, el lin y las piedras llamadas lang-kan.
 
@@ -138,7 +138,7 @@ La división del Libro en dos secciones es una disposición conveniente, pero mo
 
 1\. (Yü) inspeccionó y describió (las colinas), comenzando con <i>Kh</i>ien y <i>Kh</i>î, y procediendo al monte <i>K</i>ing; luego, cruzando el Ho, Hû-khâu y Leî-shâu, siguiendo hacia Thâi-yo. (Después de estos vinieron) Tî-_k_û y Hsî-khăng, de donde continuó hacia Wang-wû; (luego estaban) Thâi-hang y el monte Hăng, de donde procedió a las rocas de <i>K</i>ieh, donde llegó al mar. 
 
-(Al sur del Ho, inspeccionó) Hsî-_kh_ing, <i>K</i>û-yü, <span id="p73">[<sup><small>p. 73</small></sup>]</span> y Niâo-shû, continuando hacia Thâi-hwâ; luego Hsiung-_R_, Wâi-fang y Thung-pâi, desde donde procedió a Pei-wei. 
+(Al sur del Ho, inspeccionó) Hsî-_kh_ing, <i>K</i>û-yü, <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> y Niâo-shû, continuando hacia Thâi-hwâ; luego Hsiung-_R_, Wâi-fang y Thung-pâi, desde donde procedió a Pei-wei. 
 
 Inspeccionó y describió Po-_kh_ung, continuando hacia el otro monte <i>K</i>ing; y Nêi-fang, desde donde continuó hacia Tâ-pieh. 
 
@@ -174,7 +174,7 @@ lî (aún más allá) formaban el Dominio de la Paz Aseguradora. En los primeros
 
 Quinientos lî (aún más remotos) formaban el Dominio de la Restricción. Los (primeros) trescientos estaban ocupados por las tribus de los Î; los (otros) doscientos, por criminales sometidos al destierro menor. 
 
-Quinientos lî (los más remotos) constituían el Dominio Salvaje. Los (primeros) trescientos estaban <span id="p76">[<sup><small>p. 76</small></sup>]</span> ocupados por las tribus de los Hombres; los (otros) doscientos, por criminales sometidos al destierro mayor. 
+Quinientos lî (los más remotos) constituían el Dominio Salvaje. Los (primeros) trescientos estaban <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> ocupados por las tribus de los Hombres; los (otros) doscientos, por criminales sometidos al destierro mayor. 
 
 5\. Al este, llegando hasta el mar; al oeste, extendiéndose hasta las arenas movedizas; hasta los confines del norte y el sur: su fama e influencia llenaban (todo dentro) los cuatro mares. Yü presentó el símbolo oscuro de su rango y anunció la finalización de su obra. 
 

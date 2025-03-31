@@ -56,7 +56,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</i>et punyam upapadyeta paur<i>n</i>amâsenesh<i>t</i>vâtha tat kuryâd. 3. akurvan paur<i>n</i>amâsîm âkâṅkshed ity eke. 4. El bhagavad gita parâh<i>n</i>e snâtvaupavasathika<i>m</i> es amado por todos. 5. Mânadantavya uvâ<i>k</i>a: <i>s</i>reyasî<i>m</i> pra<i>g</i>â<i>i>m</i> vindate kamaryo bhavaty akshodhuko ya aupavasathika<i>m</i> bhuṅkte. 6. tasmâd yat kamayeta tad bhu<i>ñ</i><i>g</i>îta. 7. nāvratyam â<i>karet. 8. prâtarâhuti<i>m</i> hutvâ 9. havir nirvaped amushmai tvâ <i>g</i>ush<i>a<i>m</i> nirvapâmîti devatâ<i>s</i>raya<i>m</i> sak<i>ri</i>d ya<i>ur v<i><i><i>m</i>.</small>
 
-<span id="p390">[<sup><small>p. 390</small></sup>]</span> deidad, o un Ya<i>n</i>us, (se repite) una vez; dos veces (se hace) en silencio.
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span> deidad, o un Ya<i>n</i>us, (se repite) una vez; dos veces (se hace) en silencio.
 
 10\. Debe lavar (la comida) tres veces, (si está destinada) a los dioses;
 
@@ -158,7 +158,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 18\. Después de que ella se haya bañado, su marido deberá ponerle una prenda nueva que aún no haya sido lavada, y después de haber sacrificado, deberá pararse detrás de ella.
 
-19\. Agarrándola por el hombro derecho, <span id="p394">[<sup><small>p. 394</small></sup>]</span> debe tocar el lugar descubierto de su ombligo con (el verso), 'Los dos hombres' (MB. I, 4, 8).
+19\. Agarrándola por el hombro derecho, <span id="p394"><sup><small>[ p. 394 ]</small></sup></span> debe tocar el lugar descubierto de su ombligo con (el verso), 'Los dos hombres' (MB. I, 4, 8).
 
 <small>8. pûrvapaksho dâr<i>s</i>asyâ. 9. bho<i>g</i>anena santanuyâd ity eke. 10. ऽvidyamâne havye yag<i>ñ</i>iyânâ<i>m</i> phalâni <i>g</i>uhuyât. 11. palâ<i>s</i>âni vâ. 12. ऽpo vâ. 13. huta<i>m</i> hola. 14. prâya<i>s</i><i>k</i>ittam ahutasyâ. 15. ऽ<i>g</i>ya<i>ñ</i> <i>g</i>uhuyâd dhavishoऽnâde<i>s</i>e. 16. devatâ [corr. devatâ<i>m</i>?] mantrânâde<i>s</i>e. 17. prathamagarbhe t<i>ri</i>tîye mâsi pu<i>m</i>savana<i>m</i>. 18. snâtâm ahatenâ<i>kh</i>âdya hutvâ pati<i>h</i> p<i>ri</i>sh<i>th</i>atas tish<i>th</i>ed. 19. dakshi<i>n</i>am a<i>m</i>sam anvabhim<i>ri</i><i>s</i>yânantarhita<i>m</i> (°hitâ<i>m</i>, °hitân, los manuscritos) nâbhide<i>s</i>am abhim<i>ri</i><i>s</i>et pumâ<i>m</i>sâv ity.</small>
 
@@ -258,7 +258,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 25\. Con (la fórmula), '¡Hacha!' (ll 6) (los presiona hacia abajo) con el espejo o con la navaja de madera de Udumbara.
 
-26\. Con (el Mantra), 'Con qué Pûshan' (ll 7), debe avanzar (la navaja) tres <span id="p399">[<sup><small>p. 399</small></sup>]</span> veces hacia el este en el lado derecho (del cabello del niño).
+26\. Con (el Mantra), 'Con qué Pûshan' (ll 7), debe avanzar (la navaja) tres <span id="p399"><sup><small>[ p. 399 ]</small></sup></span> veces hacia el este en el lado derecho (del cabello del niño).
 
 <small>18. el âna<i>d</i>uho gomaya<i>h</i> k<i>ri</i>sarasthâlîpâko v<i>ri</i>thâpakva ity uttarato. 19. mâtâ <i>k</i>a kumâram âdaya. 20. hutvâyam agad iti nâpita<i>m</i> prekshet Savitâra<i>m</i> dhyayann. 21. ush<i>n</i>enety ush<i>n</i>odaka<i>m</i> prekshed Vâyu<i>m</i> dhyayann. 22. âpa ity untte (aṅte, u<i>m</i>de, uṅ<i>m</i>te, uṅte los MSS.). 23. Vishnu ity âdarsa prekshetaudumbara vau. 24. ऽshadha iti darbhapi<i>ñ</i><i>g</i>ûlîs saptordhvâgrâ abhinidhâya. 25. svadhita ity âdar<i>s</i>ena kshure<i>n</i>audumbare<i>n</i>a vâ. 26. yena Pûsheti dakshi<i>n</i>atas tri<i>h</i>râ<i>ñ</i><i>ak</i>am</i> prohet.</small>
 
@@ -364,7 +364,7 @@ II, 1, 1. Parte del cuerpo principal del hombre. 2. dhar<i>s</i>a<i>m</i> <i>k</
 
 ## CAPÍTULO 5.
 
-1\. [^1021]. En el Godâna (o corte de la barba) el rito <span id="p403">[<sup><small>p. 403</small></sup>]</span> es idéntico al del <i>K</i>aula (corte del cabello; véase arriba, cap. 3, 16 ss.).
+1\. [^1021]. En el Godâna (o corte de la barba) el rito <span id="p403"><sup><small>[ p. 403 ]</small></sup></span> es idéntico al del <i>K</i>aula (corte del cabello; véase arriba, cap. 3, 16 ss.).
 
 <small>5, 1. atha portero <i>k</i>aulavat kalpa<i>h</i>.</small>
 
@@ -444,7 +444,7 @@ Debería dormir en el suelo.
 
 34\. En las ceremonias de Anuprava<i>k</i>anîya (véase Â<i>k</i>valâyana-G<i>k</i>hya I, 22, 12) debe sacrificar Â<i>k</i>ya con (los dos versos), 'Al _Ri__k_, al Sâman sacrificamos' (Sâma-veda I, 369), y, 'Al señor del asiento' (Sv. I, 171).
 
-35\. [^1023]. Si ha tocado un altar de fuego o un poste de sacrificio, si tiene zumbido en los oídos, o si su ojo <span id="p406">[<sup><small>p. 406</small></sup>]</span> palpita, o si el sol sale o se pone mientras duerme, o si sus órganos de los sentidos han sido contaminados por algo malo, debe sacrificar dos oblaciones de Â<i>n</i>ya con los dos (versos), 'Que (mi fuerza) regrese a mí;
+35\. [^1023]. Si ha tocado un altar de fuego o un poste de sacrificio, si tiene zumbido en los oídos, o si su ojo <span id="p406"><sup><small>[ p. 406 ]</small></sup></span> palpita, o si el sol sale o se pone mientras duerme, o si sus órganos de los sentidos han sido contaminados por algo malo, debe sacrificar dos oblaciones de Â<i>n</i>ya con los dos (versos), 'Que (mi fuerza) regrese a mí;
 
 <small>29. La elevación del alma es una bendición para mí. 30. Yo soy el que se dedica a la adoración de Dios, el que se dedica a la adoración de Dios. 31. I apo bhivyakhyam es el apo gyotir abhivyakhyam es el agni m pas ûn abhivyakhyam es el vatsa m on [sic] abhivyakhyam es el aditya m vis ri g ed vâk a m. 32. Gaur dakshi nâ. 33. En cuanto a mí, te haré feliz. 34. Yo soy quien hizo mía mi vida, mi alma está llena de dolor. 35. A los habitantes de la ciudad de Al-Aqsa que se encuentren en ella no se les permitirá entrar en ella. Se les permitirá entrar en ella a quienes se encuentren en ella y no se les permitirá entrar en ella. Se les permitirá entrar en ella. No se les permitirá entrar en ella. No se les permitirá entrar en ella. No se les permitirá entrar en ella. No se les permitirá entrar en ella.
 

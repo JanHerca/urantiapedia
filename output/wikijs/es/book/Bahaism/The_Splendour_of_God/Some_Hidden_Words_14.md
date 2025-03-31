@@ -52,7 +52,7 @@ Si ves a alguien cuyo corazón está apegado a este mundo, y en quien no hay ver
 
 La verdadera creencia no consiste solo en reconocer la Unicidad de Dios. Por creencia nos referimos a que la realidad de un hombre estará caracterizada por características divinas. Si su realidad es oscura, alcanzará la iluminación. Si es desatento, alcanzará la consciencia; si duerme, despertará; si es terrenal, alcanzará la divinidad; si es satánico, alcanzará la divinidad. Este es el significado de la verdadera creencia.
 
-Por lo tanto, digo que el hombre debe transitar por el <span id="p121">[<sup><small>p. 121</small></sup>]</span> Camino de Dios. Día y noche debe esforzarse por mejorar; su fe debe crecer y fortalecerse; sus buenas cualidades y su acercamiento a Dios deben ser mayores; el fuego de su amor debe arder con mayor intensidad. Entonces, día a día, progresará.
+Por lo tanto, digo que el hombre debe transitar por el <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Camino de Dios. Día y noche debe esforzarse por mejorar; su fe debe crecer y fortalecerse; sus buenas cualidades y su acercamiento a Dios deben ser mayores; el fuego de su amor debe arder con mayor intensidad. Entonces, día a día, progresará.
 
 Porque detener el avance es el medio de retroceder. El pájaro, al volar, se eleva cada vez más alto. Constantemente se esfuerza por ascender más alto, pues en cuanto deja de volar, desciende.
 

@@ -72,7 +72,7 @@ El fiel que pronuncia más palabras de bendición es el más victorioso; el Mãt
 
 La Ley de los adoradores de Mazda es la dadora más verdadera de todas las cosas buenas, de todas aquellas que son fruto del buen principio; y así es la Ley de Zaratustra.
 
-4\. Y quien pronuncie esa palabra [^742], ¡oh Zaratustra!, ya sea hombre o mujer, con la mente puesta en la santidad, con palabras puestas en la <span id="p161">[<sup><small>p. 161</small></sup>]</span> santidad, con obras puestas en la santidad, cuando tema la crecida de las aguas o la oscuridad de una noche lluviosa;
+4\. Y quien pronuncie esa palabra [^742], ¡oh Zaratustra!, ya sea hombre o mujer, con la mente puesta en la santidad, con palabras puestas en la <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> santidad, con obras puestas en la santidad, cuando tema la crecida de las aguas o la oscuridad de una noche lluviosa;
 
 O en los vados de un río, o en las bifurcaciones de los caminos;
 
@@ -80,7 +80,7 @@ O en la reunión de los fieles, o en la concurrencia de los adoradores de los Da
 
 5\. Ya sea en el camino [^744] o en la ley [^745], debe temer, ni de día ni de noche el demonio atormentador, que quiere atormentarlo, logrará lanzarle la mirada de su maldad, y la malicia del ladrón [^746] que se lleva el ganado no lo alcanzará.
 
-6\. Pronuncia entonces esa palabra, ¡oh Zaratustra!, esa palabra que debe ser pronunciada [^747], cuando caigas sobre los idólatras [^748], ladrones y daêvas que se abalanzan juntos. Entonces la malicia de los malvados adoradores de los daêvas, de los Yatus y sus seguidores, de los Pairikas y sus seguidores, se asustará y huirá. ¡Abajo los daêvas! Abajo los adoradores de daêvas, y retiran sus bocas de morder [^749]. <span id="p162">[<sup><small>p. 162</small></sup>]</span> 7\. Y por lo tanto, nos rodeamos del santo Sraosha, el santo, el que castiga a los demonios, como se hace con los perros de pastor; Por eso, sacrificamos al santo Sraosha, el de naturaleza santa, el que aniquila a los demonios, con buenos pensamientos, buenas palabras y buenas acciones.
+6\. Pronuncia entonces esa palabra, ¡oh Zaratustra!, esa palabra que debe ser pronunciada [^747], cuando caigas sobre los idólatras [^748], ladrones y daêvas que se abalanzan juntos. Entonces la malicia de los malvados adoradores de los daêvas, de los Yatus y sus seguidores, de los Pairikas y sus seguidores, se asustará y huirá. ¡Abajo los daêvas! Abajo los adoradores de daêvas, y retiran sus bocas de morder [^749]. <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> 7\. Y por lo tanto, nos rodeamos del santo Sraosha, el santo, el que castiga a los demonios, como se hace con los perros de pastor; Por eso, sacrificamos al santo Sraosha, el de naturaleza santa, el que aniquila a los demonios, con buenos pensamientos, buenas palabras y buenas acciones.
 
 8\. [^750]. Por su brillo y gloria, por su fuerza y ​​poder victorioso, por ofrecer sacrificios a los dioses [^751], le ofreceré un sacrificio digno de ser escuchado. Ofreceré libaciones al santo Sraosha, al gran Ashi Vanguhi [^752] y a Nairyô-sangha [^753], el de figura alta.
 
@@ -96,7 +96,7 @@ Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda. . . .
 
 10\. [^755]. Sacrificamos al santo, alto y castigador de demonios Sraosha, quien hace que el mundo crezca, el santo y maestro de la santidad;
 
-¿Quién golpea al hombre malvado [^756], quién golpea a la mujer malvada; quién hiere al <span id="p163">[<sup><small>p. 163</small></sup>]</span> Droga diabólica, y es el más fuerte y destructor del mundo; quién mantiene y vigila todo este mundo en movimiento [^757];
+¿Quién golpea al hombre malvado [^756], quién golpea a la mujer malvada; quién hiere al <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> Droga diabólica, y es el más fuerte y destructor del mundo; quién mantiene y vigila todo este mundo en movimiento [^757];
 
 11. Quien, sin dormir jamás, vela por la creación de Mazda; quien, sin dormir jamás, vela por la creación de Mazda; quien protege todo el mundo material con su maza en alto, desde la hora en que se pone el sol;
 
@@ -112,7 +112,7 @@ Por su brillo y gloria, por su fuerza y ​​poder victorioso... [^759]
 
 Ofrecemos sacrificios al santo, alto y castigador de demonios Sraosha, quien hace que el mundo crezca, el santo y maestro de la santidad;
 
-Quien con paz y amistad [^760] vigila la Droga y el Espíritu más benéfico: para que los Amesha-Spe<i>n</i>tas puedan recorrer los siete Karshvares de la tierra [^761]; quien es el maestro de la <span id="p164">[<sup><small>p. 164</small></sup>]</span> Ley [^762]: él mismo la aprendió de Ahura Mazda, el Santo.
+Quien con paz y amistad [^760] vigila la Droga y el Espíritu más benéfico: para que los Amesha-Spe<i>n</i>tas puedan recorrer los siete Karshvares de la tierra [^761]; quien es el maestro de la <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> Ley [^762]: él mismo la aprendió de Ahura Mazda, el Santo.
 
 Por su brillo y gloria, por su fuerza y ​​poder victorioso...
 
@@ -136,7 +136,7 @@ Los amigos de Ashi Vanguhi [^766];
 
 Los amigos de la buena <i>K</i>isti [^767];
 
-Los amigos de la más justa <i>K</i>ista [^768]; <span id="p165">[<sup><small>p. 165</small></sup>]</span> 17\. Los amigos de todos los dioses;
+Los amigos de la más justa <i>K</i>ista [^768]; <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 17\. Los amigos de todos los dioses;
 
 Los amigos de la Mãthra Spe<i>n</i>ta;
 
@@ -160,7 +160,7 @@ Ofrecemos sacrificios al santo, alto y castigador de demonios Sraosha, quien hac
 
 El primer [Sraosha], el siguiente, el intermedio y el superior; con el primer sacrificio, con el siguiente, con el intermedio y con el superior [^770]. Sacrificamos a todos [los momentos] [^771] del santo y poderoso Sraosha, que es la Palabra encarnada;
 
-19\. El fuerte Sraosha, de coraje varonil, el guerrero de brazos fuertes, que destroza los cráneos de los Daêvas; que hiere con golpes fuertes [^772] y es fuerte para golpear; el santo Sraosha, que hiere <span id="p166">[<sup><small>p. 166</small></sup>]</span> con golpes fuertes; ofrecemos sacrificios al Ascendente aplastante tanto del santo Sraosha como del Ar<i>s</i>ti [^773].
+19\. El fuerte Sraosha, de coraje varonil, el guerrero de brazos fuertes, que destroza los cráneos de los Daêvas; que hiere con golpes fuertes [^772] y es fuerte para golpear; el santo Sraosha, que hiere <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> con golpes fuertes; ofrecemos sacrificios al Ascendente aplastante tanto del santo Sraosha como del Ar<i>s</i>ti [^773].
 
 20\. Sacrificamos por todas las casas protegidas por Sraosha, donde la santa Sraosha es querida, tratada amablemente y satisfecha, así como por el hombre fiel [^774], rico en buenos pensamientos, rico en buenas palabras, rico en buenas acciones.
 

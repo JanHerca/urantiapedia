@@ -67,7 +67,7 @@ Donde el sol se asienta y de donde las nubes se retiran;
 Firme es su base, su cumbre busca los cielos,
 domina la tormenta, y toda su furia desafía.—_Ret. Rev._
 
-<span id="p403">[<sup><small>p. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 vv. 25, 26. La «roca oscura» es la gloria y el gran nombre de la tribu, dice el Sr. Lyall, en una nota sobre los siguientes versos paralelos, de la animada canción de ‘Abd-el-Melik, hijo de ‘Abd-er-Rahīm, de los Benu-d-Dayyān («Canciones de los _Hamāseh_», etc.):
 
@@ -96,7 +96,7 @@ v. 30. «Ocultando el odio en nuestro seno, como se oculta la mota en el párpad
 
 v 34. «El mes sagrado»: véase nota sobre el v. 3, Lebīd.
 
-v. 37. Al Mondar, hijo de Amriolkais, hijo de Numan, y de Maiwiah, hija de Aus, una dama de tal belleza trascendente que se llamaba Maissamai, es decir, «agua del cielo», gobernó en Hīra como su padre. Por parte de su madre, él y su posteridad recibieron también el sobrenombre de Al Mondar Ebn Maissamai, denominación que tenían en común con los reyes de Ghassan, según Al Jauharius. Pues estos últimos príncipes recibieron este nombre por Abu Amer, de la tribu de Azd, el padre de Amru Mazikia, quien, con su sorprendente liberalidad y beneficencia, suplió la falta de lluvia, proporcionando a su pueblo trigo cuando una sequía extrema lo había vuelto tan caro que no podían comprarlo. Este príncipe fue depuesto por <span id="p404">[<sup><small>p. 404</small></sup>]</span> Khosru Kobad, rey de Persia.—Ancient Universal History, vol. XVIII, pág. 432.
+v. 37. Al Mondar, hijo de Amriolkais, hijo de Numan, y de Maiwiah, hija de Aus, una dama de tal belleza trascendente que se llamaba Maissamai, es decir, «agua del cielo», gobernó en Hīra como su padre. Por parte de su madre, él y su posteridad recibieron también el sobrenombre de Al Mondar Ebn Maissamai, denominación que tenían en común con los reyes de Ghassan, según Al Jauharius. Pues estos últimos príncipes recibieron este nombre por Abu Amer, de la tribu de Azd, el padre de Amru Mazikia, quien, con su sorprendente liberalidad y beneficencia, suplió la falta de lluvia, proporcionando a su pueblo trigo cuando una sequía extrema lo había vuelto tan caro que no podían comprarlo. Este príncipe fue depuesto por <span id="p404"><sup><small>[ p. 404 ]</small></sup></span> Khosru Kobad, rey de Persia.—Ancient Universal History, vol. XVIII, pág. 432.
 
 v. 38. «El día de Hayarin»: véase nota sobre los vv. 25, 26.
 

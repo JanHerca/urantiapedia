@@ -38,7 +38,7 @@ El desdichado príncipe, sin embargo, encuentra una amiga en necesidad en la anc
 
 No guardes rencor, oh Shiboob!—renuncia a él, porque nada bueno nunca vino de la malicia.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 La violencia es infame: su resultado es siempre incierto, y nadie puede actuar con justicia cuando está impulsado por el odio.
 
@@ -50,7 +50,7 @@ Pero antes de que Antar pueda llegar a su liberación, Maisoor ha decidido colga
 
 El príncipe Shas expresa su contrición a Antar y promete compensarlo ampliamente por el pasado. Antar, tras haber entregado a As-hath todos los caballos y el botín, el viejo jeque se despide y parte hacia su propio país; mientras que el héroe y el príncipe Shas emprenden su viaje hacia la tierra de Hiyaz, con el fiel Shiboob como guía. El quinto día llegaron a las aguas de la tribu de Akhram, donde descansaron durante la noche.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 Antar tuvo un delicioso sueño con su amada Abla, y por la mañana, cuando se despertó, recitó así:
 

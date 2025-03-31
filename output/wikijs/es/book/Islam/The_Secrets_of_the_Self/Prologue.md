@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:54:30Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 Cuando el sol que ilumina el mundo se precipitó
 sobre la noche como un bandido,
@@ -44,7 +44,7 @@ Sembró un verso y cosechó una espada.
 En el suelo plantó solo la semilla de mis lágrimas
 Y tejí mi lamento con el jardín, como urdimbre y trama.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Aunque soy solo una mota, el sol radiante es mío:
 <span id="v10"><sup><small>10</small></sup></span> Dentro de mi seno hay cien amaneceres.
@@ -59,7 +59,7 @@ Golpeé las fibras del corazón de todos los que me escuchaban,
 Porque el laúd de mi genio tiene una melodía rara:
 <span id="v20"><sup><small>20</small></sup></span> Incluso a los camaradas mi canción es extraña.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 yo nazco en el mundo como un nuevo sol,
 No he aprendido los caminos y modas del cielo:
@@ -76,7 +76,7 @@ Oh, felices los que adorarán mi fuego!
 No tengo necesidad de la oreja de Hoy,
 yo soy la voz del poeta del mañana.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 <span id="v35"><sup><small>35</small></sup></span> Mi propia edad no entiende mis significados profundos,
 Mi José no es para este mercado.
@@ -93,7 +93,7 @@ Cuando las rosas florecieron sobre la tierra de su tumba!
 Aunque las caravanas han pasado por este desierto,
 Pasaron, como un camello. Pasos, con poco ruido.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Pero yo soy un amante: el llanto fuerte es mi fe:
 <span id="v50"><sup><small>50</small></sup></span> El clamor del Juicio Final El día es uno de mis secuaces.
@@ -109,7 +109,7 @@ Los relámpagos duermen dentro de mi alma,
 <span id="v60"><sup><small>60</small></sup></span> Barro sobre la montaña y llanura.
 Lucha con mi mar, si eres una llanura;
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Recibe mi relámpago, si eres un Sinaí.
 La fuente de la vida me ha sido dada para beber,
@@ -124,7 +124,7 @@ El viejo Gurú del Cielo me enseñó esta tradición,
 No puedo ocultarlo de mis compañeros.
 Oh Saki, levántate y vierte vino en la copa,
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Limpia la vejación del Tiempo de mi corazón!
 <span id="v75"><sup><small>75</small></sup></span> El licor espumoso que fluye de Zemzem— [^24]
@@ -140,7 +140,7 @@ Hace que el pie de la perdiz se tiña de rojo con sangre del halcón.
 <span id="v85"><sup><small>85</small></sup></span> Levántate y vierte vino puro en mi copa,
 Derramar rayos de luna en la noche oscura de mi pensamiento,
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Que yo pueda llevar a casa al vagabundo
 Y imbuir al espectador ocioso con impaciencia inquieta;
@@ -155,7 +155,7 @@ Ensayo el libro sellado de la sabiduría secreta.
 Su alma es la fuente de las llamas,
 No soy más que la chispa que brilla por un momento.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Su vela encendida me consumió, la polilla;
 <span id="v100"><sup><small>100</small></sup></span> Su vino inundó mi copa.
@@ -171,7 +171,7 @@ Sacará vida del aliento de sus palabras.
 Era de noche: mi corazón deseaba lamentarse,
 <span id="v110"><sup><small>110</small></sup></span> El silencio se llenó de mis gritos a Dios.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Me quejaba de las penas del mundo
 Y lamentando el vacío de mi copa.
@@ -188,7 +188,7 @@ Haz que los corazones de los hombres sangren con tus lágrimas!
 ¿Cuánto tiempo estarás en silencio, como un capullo?
 Vende tu fragancia barata, como la rosa!
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 <span id="v125"><sup><small>125</small></sup></span> Lengua trabada, estás sufriendo:
 Arrojarse al fuego, como la ruda! [^27]
@@ -205,7 +205,7 @@ Dale a Majnún un mensaje de Lailá! [^29]
 Crea un nuevo estilo para tu canción,
 Enriquece la fiesta con tus penetrantes melodías!
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Arriba, y ¡Reinspira a cada alma viviente!
 <span id="v140"><sup><small>140</small></sup></span> Di: «¡Levántate!» y con esa palabra ¡Aviva a los vivientes!
@@ -226,7 +226,7 @@ Feo, inútil, bueno para nada.
 El amor me cinceló: Me convertí en un hombre
 Y adquirió conocimiento de la naturaleza del universo.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 <span id="v155"><sup><small>155</small></sup></span> He visto el movimiento de los tendones del cielo,
 Y la sangre corriendo por las venas de la luna.
@@ -243,7 +243,7 @@ Cosechó un centenar de poetas como Rúmí y Attar.
 Soy un suspiro: subiré a los cielos;
 Soy un soplo, pero soy nacido de fuego.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Impulsada por pensamientos elevados, mi pluma
 <span id="v170"><sup><small>170</small></sup></span> Arroja al exterior el secreto de este velo,
@@ -258,7 +258,7 @@ No me pidas Khánsár y Isfahán. [^30]
 Aunque el lenguaje de Hind es dulce como el azúcar,
 <span id="v180"><sup><small>180</small></sup></span> Aún más dulce es la moda del habla persa.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Mi mente estaba encantada por su hermosura,
 Mi pluma se convirtió en una ramita de la Zarza Ardiente.

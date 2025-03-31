@@ -59,7 +59,7 @@ dos leguas de lado a lado.
 Los altos elefantes daban fresca belleza 
 a la ribera herbosa y a la ola de lirios, 
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span> 
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span> 
 
 Junto a muchos cisnes y sáras se agitaban, 
 patos reales y aves acuáticas de alegres alas. 
@@ -303,7 +303,7 @@ de hacer surgir a quien yo devoré?
 Tu hermano disfrazado de carnero, 
 se ha ido donde yace el reino de Yama». 
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span> 
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 
 
 Cuando, por las palabras de Agastya, 
 supo que su hermano demonio había muerto, 
@@ -422,7 +422,7 @@ aquí los dioses a los seres vivos, que ganan
 su favor, puros del pecado cruel, 
 dan gobierno real y muchos bienes, 
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span> 
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span> 
 
 Vida inmortal y espiritualidad. « 
 Ahora, Lakshman, estamos cerca del lugar: 
@@ -536,7 +536,7 @@ se puso de pie suplicante junto al anacoreta,
 mientras la fuerza de Lakshman y la gracia de Sítá 
 se erguían junto al orgullo de la raza de Raghu. 
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span> 
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span> 
 
 El sabio abrazó a Rama 
 y lo recibió con los honores debidos. 
@@ -657,7 +657,7 @@ revela el deseo que conmueve tu corazón,
 y te invité a ser mi huésped, 
 para que esta arboleda pura te protegiera. 
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span> 
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 
 
 Así que ahora, de ahora en adelante, así hablo: 
 Las sombras de Panchavatí buscan; 
@@ -751,7 +751,7 @@ complacido a cada tierna novia:
 «Darás hijos, para gobernar los tres 
 Grandes mundos, semejantes a mí en poder», 
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span> 
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span> 
 
 Aditi, Diti y Danú 
 obedecieron su voluntad como fieles consortes, 
@@ -851,7 +851,7 @@ El príncipe, conmovido por el éxtasis,
 Se inclinó y rindió la debida reverencia, 
 Abrazó al ave real. 
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span> 
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span> 
 
 A menudo en los días pasados 
 ​​    Había oído a su padre contar 
@@ -958,7 +958,7 @@ con hierba sagrada, juncos y hojas.
 El poderoso jefe, con esmerado trabajo, 
 había limpiado y alisado el terreno, 
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>. 
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>. 
 
 Donde ahora, con su amorosa labor terminada, 
 se alzaba un hermoso hogar para el hijo de Raghu. 
@@ -1074,7 +1074,7 @@ Se vuelven agradables en su fuerza de mediodía,
 Y donde por casualidad caen 
 Arrojan un tenue esplendor sobre todo.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span> 
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 
 
 Mira, sobre los bosques donde la hierba está mojada 
 Con gotas canosas que aún se aferran, 
@@ -1192,7 +1192,7 @@ A su catre el héroe se dirigió,
 Y después de los ritos de la mañana debida 
 Dentro de la sombra frondosa se retiró. 
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span> 
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span> 
 
 Entonces, honrado por los devotos, 
 mientras el real Ráma se sentaba a sus anchas, 
@@ -1311,7 +1311,7 @@ respondió elocuentemente:
 En ella, atrapada en la red de Rama, 
 el real Rama fijó sus ojos, 
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span> 
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span> 
 
 Y así, con su pasión por seducirla, 
 le dirigió una suave sonrisa: 
@@ -1435,7 +1435,7 @@ Y mostraron su rostro sangrante.
 Cuando Khara vio a su hermana yacer 
 Con los miembros manchados de sangre y los ojos preocupados, 
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span> 
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span> 
 
 Una furia salvaje despertó en su pecho, 
 y así habló el monstruoso gigante: 
@@ -1556,7 +1556,7 @@ al héroe al lado de su consorte
 y al fiel Lakshman, listo aún 
 para esperar la voluntad de su hermano. 
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span> 
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span> 
 
 Entonces el noble Rama alzó la vista 
 y vio a los gigantes cerca, 

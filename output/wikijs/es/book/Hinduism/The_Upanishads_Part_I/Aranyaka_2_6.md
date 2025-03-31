@@ -48,7 +48,7 @@ SEXTO ADHYÂYA.
 
 5\. Y ese Ser, compuesto de (conocimiento), es Brahman (m.) [^609], es Indra, es Pra<i>g</i>âpati [^610]. Todos estos Devas, estos cinco grandes elementos: tierra, aire, éter, agua, fuego, estos y aquellos que son, por así decirlo, pequeños y mixtos [^611], y semillas de esta y aquella clase, nacidas de óvulos, nacidas de la matriz, nacidas del calor, nacidas de gérmenes [^612], caballos, vacas, hombres, elefantes, y todo lo que respira, ya sea que camine o vuele, y lo inamovible: todo eso es guiado (producido) por el conocimiento (el Ser).
 
-6\. Se basa en el conocimiento (el Ser). El mundo <span id="p246">[<sup><small>p. 246</small></sup>]</span> es guiado (producido) por el conocimiento (el Ser). El conocimiento es su causa [^613].
+6\. Se basa en el conocimiento (el Ser). El mundo <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> es guiado (producido) por el conocimiento (el Ser). El conocimiento es su causa [^613].
 
 7\. El conocimiento es Brahman. (3)
 

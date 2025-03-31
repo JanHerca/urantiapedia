@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 ## X. Paciencia y Perseverancia bajo un Maestro.
 
@@ -59,7 +59,7 @@ Especialmente el vino de la verdad, que fluye desde el alto trono de Dios.
 Selecciona un Maestro, entonces. Sin él, el viaje es en vano;
 <sup id="v10"><small>10</small></sup> El camino es peligroso, asediado por el tren del mal.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Por un camino conocido, aunque recorrido muchas veces antes,
 Sin guía para aventurarse, se abre la puerta del peligro.
@@ -91,7 +91,7 @@ Porque el que no se opone a ellos, los arruina.
 No te dejes llevar por la lujuria y la fantasía. cualquier viento;
 Porque estos son los que extravían a los hombres; ciegos ante la verdad de Dios.
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 No hay nada en el mundo que frene mejor las lujurias,
 <sup id="v25"><small>25</small></sup> Que santa compañía. Protegido, aquel que confía.
@@ -125,7 +125,7 @@ Por temor a que tu guía se vuelva y te lleve del lugar.[^326]
 Si Él destruyera un barco,[^327]—no murmures de tu boca;
 Si un niño se ahoga,[^328]—no dejes escapar ninguna palabra grosera.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Dios ha declarado que su mano es como la mano de Dios,
 <sup id="v40"><small>40</small></sup> Al decir: «La diestra de Dios sobre todas las manos avanza con paso firme.»[^329]
@@ -163,7 +163,7 @@ Nuestro hombre respondió: «Entre mis huesos de espada se entroniza».
 El artista entonces comenzó a tejer el tren de sus agujas;
 <sup id="v55"><small>55</small></sup> El matón Qazwīn bramó, dolorido.
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 El artista al que se dirigió: “El hombre más inteligente y hábil,
 Me volverías loco. ¿Qué cuadro me hace tanto daño?
@@ -197,7 +197,7 @@ Enfadado diciendo: “¿Qué es la plaga? ¿Ahora viene a nacer?
 Un león sin cola, sin cabeza, sin cuerpo, ¿quién lo ha visto?
 Dios nunca ha creado un león así, ¡seguro, lo creo!”
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Ten paciencia tú también, hermano, con el dolor de tu aguja.
 <sup id="v70"><small>70</small></sup> Así escaparás del aguijón de la conciencia en tu corazón.

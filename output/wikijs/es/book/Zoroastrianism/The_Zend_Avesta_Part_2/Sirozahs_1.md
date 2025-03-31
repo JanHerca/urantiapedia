@@ -172,7 +172,7 @@ A los altos y poderosos Cielos; a la luminosa, feliz y dichosa morada de los san
 
 ## 28\. Zemyad [^81].
 
-A la Tierra generosa; a estos lugares, a estos campos; al Monte Ushi-darena [^80], hecho por Mazda, sede de la santa felicidad; a todas las montañas hechas por Mazda, que son sedes de la santa felicidad, de la plena felicidad; a la Gloria real hecha por Mazda; <span id="p12">[<sup><small>p. 12</small></sup>]</span> a esa Gloria que no puede ser tomada por la fuerza [^82], hecha por Mazda.
+A la Tierra generosa; a estos lugares, a estos campos; al Monte Ushi-darena [^80], hecho por Mazda, sede de la santa felicidad; a todas las montañas hechas por Mazda, que son sedes de la santa felicidad, de la plena felicidad; a la Gloria real hecha por Mazda; <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> a esa Gloria que no puede ser tomada por la fuerza [^82], hecha por Mazda.
 
 ## 29\. Mahraspand.
 
@@ -180,7 +180,7 @@ A la santa Mãthra Spe<i>n</i>ta, que realiza la rectitud [^83]; a la Ley opuest
 
 ## 30\. Anêrân.
 
-Al eterno [^87] y soberano espacio luminoso [^88]; al brillante Garô-nmâna [^89]; al lugar soberano de la eterna Bienaventuranza [^90]; al puente <i>K</i>inva<i>t</i> [^91], hecho por Mazda; al alto señor Apãm Napâ<i>t</i> [^92] y al agua hecha por Mazda; a Haoma [^93], de santo nacimiento; a la piadosa y buena Bendición; al terrible pensamiento maldiciente de los sabios [^94]; a todos los santos Dioses del <span id="p13">[<sup><small>p. 13</small></sup>]</span> mundo celestial y del material; a los terribles y abrumadores Fravashis de los fieles, a los Fravashis de los primeros hombres de la ley, a los Fravashis de los parientes más próximos [^95]; a cada Dios invocado por su propio nombre [^96].
+Al eterno [^87] y soberano espacio luminoso [^88]; al brillante Garô-nmâna [^89]; al lugar soberano de la eterna Bienaventuranza [^90]; al puente <i>K</i>inva<i>t</i> [^91], hecho por Mazda; al alto señor Apãm Napâ<i>t</i> [^92] y al agua hecha por Mazda; a Haoma [^93], de santo nacimiento; a la piadosa y buena Bendición; al terrible pensamiento maldiciente de los sabios [^94]; a todos los santos Dioses del <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> mundo celestial y del material; a los terribles y abrumadores Fravashis de los fieles, a los Fravashis de los primeros hombres de la ley, a los Fravashis de los parientes más próximos [^95]; a cada Dios invocado por su propio nombre [^96].
 
 
 

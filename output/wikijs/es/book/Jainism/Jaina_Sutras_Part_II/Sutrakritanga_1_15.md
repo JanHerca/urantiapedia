@@ -60,7 +60,7 @@ Alejándose de la vida mundana, alcanzan la meta mediante actos piadosos; por su
 
 La predicación de la Ley (tiene diferente efecto) en diferentes criaturas; aquel que es rico en control, es tratado con honor [^964], pero no le importa; se esfuerza, somete sus sentidos, es firme y se abstiene de las relaciones sexuales. (i1)
 
-No debe ceder a las tentaciones como un cerdo que se deja seducir por el arroz silvestre, pues es inmune a los pecados y está libre de faltas. Libre de faltas, siempre <span id="p331">[<sup><small>p. 331</small></sup>]</span> domina sus sentidos y ha alcanzado la incomparable cesión del Karman [^965]. (12)
+No debe ceder a las tentaciones como un cerdo que se deja seducir por el arroz silvestre, pues es inmune a los pecados y está libre de faltas. Libre de faltas, siempre <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> domina sus sentidos y ha alcanzado la incomparable cesión del Karman [^965]. (12)
 
 Conociendo lo incomparable (el control), no debe ser hostil hacia nadie, en pensamientos, palabras o acciones, teniendo ojos (para verlo todo). (13)
 

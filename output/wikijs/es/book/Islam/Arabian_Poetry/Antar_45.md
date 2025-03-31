@@ -56,7 +56,7 @@ Ojalá mi alma se hubiera despedido, y que sus manos no me hubieran hecho señas
 
 ¡Ay! sus bondades, si las comentara, mi lengua fallaría antes de poder repetirlas!
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 Juro que no dormiré de tomar venganza: No descansaré, sino sobre el lomo de mi semental.
 

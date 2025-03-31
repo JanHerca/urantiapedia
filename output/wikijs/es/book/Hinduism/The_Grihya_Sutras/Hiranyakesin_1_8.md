@@ -40,7 +40,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. Levanta el poste sur de la puerta con el verso: «Aquí erijo una casa firme; se yergue en paz, fluyendo ghee. Así podemos caminar en ti, oh casa, bendecida con héroes, con todos los héroes, con héroes ilesos».
 
-3\. El poste norte con el verso: «Mantente firme aquí, oh casa, rica en caballos y vacas, rica en deleite; rica en savia, rebosante de leche, erguida, para gran felicidad». <span id="p205">[<sup><small>p. 205</small></sup>]</span>
+3\. El poste norte con el verso: «Mantente firme aquí, oh casa, rica en caballos y vacas, rica en deleite; rica en savia, rebosante de leche, erguida, para gran felicidad». <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 4\. [4](#fn640) Con (el verso), 'A ti (pueda) el niño pequeño (ir), a ti el becerro con su compañero, a ti la copa de oro; a ti puedan ir con ollas de cuajada'—toca los dos postes, después de que han sido erigidos.
 

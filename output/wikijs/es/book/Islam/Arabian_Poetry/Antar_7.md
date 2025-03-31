@@ -46,7 +46,7 @@ El sol, al ponerse, se vuelve hacia ella y le dice: La oscuridad oscurece la tie
 
 Los tamariscos se quejan de ella por la mañana y por la noche, y dicen: ¡Vete, belleza menguante, tú forma de laurel!
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Ella se da la vuelta avergonzada y tira a un lado su velo, y las rosas se esparcen de sus suaves mejillas frescas.
 
@@ -68,7 +68,7 @@ Su garganta se queja de la oscuridad de su collar; ¡ay! ¡ay! ¡los efectos de 
 
 Si mis ojos pudieran ver sus camellos de carga y su familia, frotaría mis mejillas contra las pezuñas de sus camellos. Besaré la tierra donde estás; tal vez el fuego de mi amor y éxtasis se apague.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 ¿Nos encontraremos tú y yo como antes en el monte Saadi? ¿O vendrá de ti el mensajero para anunciar tu encuentro? ¿O te contará que estás en la tierra de Nejd?
 

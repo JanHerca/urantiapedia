@@ -107,7 +107,7 @@ Génesis | i. | 1 | [143](Tratado6_3#p143)
 &nbsp; | xxxii. | 16 | [237](Tratado12_6#p237)
 &nbsp; | xxxiv. | 19 | [42](Introducción_6#p42)
 &nbsp; | xxxiv. | 21 | [63](Tratado2_1#p63)
-&nbsp; | xxxviii. | 1 | [351](Tratado18_11#p351) <span id="p376">[<sup><small>p. 376</small></sup>]</span>
+&nbsp; | xxxviii. | 1 | [351](Tratado18_11#p351) <span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 &nbsp; | xxxviii. | 14, 15 | [340](Tratado18_4#p340)
 &nbsp; | xxxviii. | 27 | [335](Tratado18_1#p335)
 &nbsp; | xxxix. | 3 | [339](Tratado18_3#p339)
@@ -205,7 +205,7 @@ Números | ii. | 17 | [354](Tratado18_12#p354), [356](Tratado18_13#p356)
 &nbsp; | xix. | 3, 9, 10 | [305](Tratado16_3#p305)
 &nbsp; | xix. | 9 | [306](Tratado16_3#p306)
 &nbsp; | xix. | 14 | [8](Introducción_1#p8)
-&nbsp; | xix. | 15 | [295](Tratado15_13#p295), [306](Tratado16_3#p306), [318](Tratado16_10#p318), [324](Tratado17_1#p324) <span id="p377">[<sup><small>p. 377</small></sup>]</span>
+&nbsp; | xix. | 15 | [295](Tratado15_13#p295), [306](Tratado16_3#p306), [318](Tratado16_10#p318), [324](Tratado17_1#p324) <span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 &nbsp; | xix. | 18 | [85](Tratado3_1#p85)
 &nbsp; | xxi. | 8 | [155](Tratado7_3#p155)
 &nbsp; | xxi. | 19 | [237](Tratado12_6#p237)
@@ -299,7 +299,7 @@ Rut | ii. | 4 | [61](Tratado 1_9#p61)
 &nbsp; | xi. | 11 | [343](Tratado18_6#p343)
 &nbsp; | xii. | 8 | [179](Tratado10_2#p179)
 &nbsp; | xxii. | 27 | [32](Introducción_5#p32)
-&nbsp; | xxiv. | 9 | [43](Introducción_6#p43) <span id="p378">[<sup><small>p. 378</small></sup>]</span>
+&nbsp; | xxiv. | 9 | [43](Introducción_6#p43) <span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 1 Reyes | vi. | 5 | [371](Apéndice_Plano_Templo#p371)
 &nbsp; | vi. | 6 | [263](Tratado14_4#p263)
 &nbsp; | vii. | 23, 26 | [352](Tratado18_11#p352)
@@ -396,7 +396,7 @@ Proverbios | i. | 9 | [239](Tratado12_6#p239)
 &nbsp; | viii. | 14 | [236](Tratado12_5#p236)
 &nbsp; | viii. | 21 | [235](Tratado12_5#p235)
 &nbsp; | viii. | 22 | [240](Tratado12_6#p240)
-&nbsp; | xi. | 10 | [185](Tratado10_4#p185) <span id="p379">[<sup><small>p. 379</small></sup>]</span>
+&nbsp; | xi. | 10 | [185](Tratado10_4#p185) <span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 &nbsp; | xi. | 13 | [182](Tratado 10_3#p182)
 &nbsp; | xi. | 22 | [237](Tratado12_6#p237)
 &nbsp; | xvi. | 31 | [239](Tratado12_6#p239)
@@ -494,7 +494,7 @@ San Marcos. | vii. | 2, 5 | [139](Tratado 6_2#p139)
 &nbsp; | xii. | 1 | [368](Apéndice_Plano_Templo#p368)
 &nbsp; | xiv. | ... | [185](Tratado10_4#p185)
 San Lucas | i. | 9 | [121](Tratado 5_2#p121),[250](Tratado 13_4#p250)
-&nbsp; | xxi. | 2 | [368](Apéndice_Plano_Templo#p368) <span id="p380">[<sup><small>p. 380</small></sup>]</span>
+&nbsp; | xxi. | 2 | [368](Apéndice_Plano_Templo#p368) <span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 &nbsp; | xxii. | 17 | [116](Tratado 4_9#p116)
 &nbsp; | xxii. | ... | [184](Tratado10_4#p184)
 &nbsp; | xxiii. | ... | [184](Tratado10_4#p184)

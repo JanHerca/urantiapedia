@@ -53,7 +53,7 @@ Sus diferentes figuras fueron diseñadas para enseñar.
 
 26\. Tâ <i>Kh</i>û se queda quieto y espera el momento apropiado.
 
-25\. Wû Wang explica cómo el mal surge del crimen. <span id="p442">[<sup><small>p. 442</small></sup>]</span> 45, 46. Los hombres buenos en Žhui se reúnen; en Shang se levantan:
+25\. Wû Wang explica cómo el mal surge del crimen. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 45, 46. Los hombres buenos en Žhui se reúnen; en Shang se levantan:
 
 15, 16. A sí mismo, los demás lo desprecian.
 
@@ -87,7 +87,7 @@ Toma lo que es sencillo, del adorno completamente libre.
 
 38\. Khwei considera que los demás están más allá de su cuidado;
 
-37\. Kiâ <i>Z</i>ăn todo lo abarca dentro de su esfera. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. Mientras que Phî y Thâi prefieren sus diferentes ámbitos,
+37\. Kiâ <i>Z</i>ăn todo lo abarca dentro de su esfera. <span id="p443"><sup><small>[ p. 443 ]</small></sup></span> 12, 11. Mientras que Phî y Thâi prefieren sus diferentes ámbitos,
 
 34, 33. Tâ <i>K</i>wang se detiene aquí como derecho; retira a Thun allí.
 
@@ -123,7 +123,7 @@ Moverse hasta que el novio tome su camino.
 
 27\. El cuerpo y la mente se nutren directamente en Î;
 
-63\. Todo está bien establecido en Kî Žî. <span id="p444">[<sup><small>p. 444</small></sup>]</span> 54\. Kwei Mei revela cómo termina la vida virginal;
+63\. Todo está bien establecido en Kî Žî. <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> 54\. Kwei Mei revela cómo termina la vida virginal;
 
 64\. Wei Žî cómo fracasa el joven (en conseguir una esposa).
 

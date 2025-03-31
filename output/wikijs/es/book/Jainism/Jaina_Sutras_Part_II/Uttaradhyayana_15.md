@@ -36,7 +36,7 @@ DECIMOQUINTA CONFERENCIA. EL VERDADERO MONJE [^186].
 
 Quien adopta la Ley con la intención de vivir como monje, debe vivir en compañía (con otros monjes), de manera recta y libre de deseos; debe abandonar sus antiguas conexiones y, no anhelando placeres, debe vagar como un mendigo desconocido: entonces es un verdadero monje. (1)
 
-Debe vivir libre de amor, modelo de <span id="p70">[<sup><small>p. 70</small></sup>]</span> rectitud [^187], absteniéndose de los pecados, versado en la ciencia sagrada, protegiendo su alma (de todo mal), sabio, valiente, observando todo; quien no se apega a nada, es un verdadero monje. (2)
+Debe vivir libre de amor, modelo de <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> rectitud [^187], absteniéndose de los pecados, versado en la ciencia sagrada, protegiendo su alma (de todo mal), sabio, valiente, observando todo; quien no se apega a nada, es un verdadero monje. (2)
 
 Ignorante del abuso y del daño, un monje firme debe ser un modelo de rectitud, protegiendo siempre su alma (de los pecados), ni precipitado ni apasionado; cuando soporta todo, entonces es un verdadero monje. (3)
 
@@ -46,7 +46,7 @@ No espera ni respeto, ni hospitalidad, ni reverencia, ni siquiera alabanzas; se 
 
 Si no se preocupa por su vida, o abandona todo engaño, si evita a los hombres y a las mujeres, practica siempre austeridades y no deja traslucir ninguna curiosidad, entonces es un verdadero monje. (6)
 
-El que no profesa ni vive de la adivinación a partir de cortes y jirones [^188], de sonidos en la tierra o en el aire, de sueños, de diagramas, palos y <span id="p71">[<sup><small>p. 71</small></sup>]</span> propiedades de los edificios, de los cambios en el cuerpo, del significado [^189] de los gritos (de los animales), es un verdadero monje. (7)
+El que no profesa ni vive de la adivinación a partir de cortes y jirones [^188], de sonidos en la tierra o en el aire, de sueños, de diagramas, palos y <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> propiedades de los edificios, de los cambios en el cuerpo, del significado [^189] de los gritos (de los animales), es un verdadero monje. (7)
 
 Hechizos, raíces, toda clase de tratamientos médicos, eméticos, purgantes, fumigaciones, unciones de los ojos y baños, la lamentación del paciente y su consuelo: el que se abstiene de todas estas cosas es un verdadero monje. (8)
 
@@ -54,7 +54,7 @@ Aquel que no alaba ni presta atención a los guerreros, Ugras [^190], príncipes
 
 Aquel que, por ganancia terrenal, no mejora su relación con los jefes de familia con quienes se relacionó como monje o con quienes tuvo relaciones amistosas antes de ese momento, es un verdadero monje.
 
-A un Nirgrantha se le prohíbe tomar de los jefes de familia, si ellos no se lo dan ellos mismos, cama, alojamiento, <span id="p72">[<sup><small>p. 72</small></sup>]</span> bebida, comida o cualquier golosina o especias; quien no se enoja en tales ocasiones, es un verdadero monje. (11)
+A un Nirgrantha se le prohíbe tomar de los jefes de familia, si ellos no se lo dan ellos mismos, cama, alojamiento, <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> bebida, comida o cualquier golosina o especias; quien no se enoja en tales ocasiones, es un verdadero monje. (11)
 
 Si un monje recibe comida y bebida, o golosinas y especias, y no siente compasión (por un compañero monje enfermo) en pensamientos, palabras y acciones, (entonces no es un verdadero monje) [^191]; pero si tiene sus pensamientos, palabras y acciones bajo estricta disciplina, entonces es un verdadero monje. (12)
 
@@ -62,7 +62,7 @@ Agua de fregar [^192], papilla de cebada, gachas agrias frías [^193], agua en l
 
 Hay muchas voces en la tierra, de dioses, de hombres y de bestias, ruidos terribles, espantosos y aterradores; si los oye sin temblar, entonces es un verdadero monje. (14)
 
-El que comprende todas las disputas religiosas, [que vive junto a otros monjes] [^194], que practica la autodisciplina [^195], que medita en su alma, que es sabio, valiente y observa todo, que <span id="p73">[<sup><small>p. 73</small></sup>]</span> está tranquilo y no hace daño a nadie, ese es un verdadero monje. (15)
+El que comprende todas las disputas religiosas, [que vive junto a otros monjes] [^194], que practica la autodisciplina [^195], que medita en su alma, que es sabio, valiente y observa todo, que <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> está tranquilo y no hace daño a nadie, ese es un verdadero monje. (15)
 
 El que, no viviendo de ningún arte, sin casa,
 

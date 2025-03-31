@@ -364,7 +364,7 @@ El hierro quiebra la piedra; el fuego derrite el hierro; el agua extingue el fue
 
 El agua fría por la mañana y por la noche es mejor que todos los cosméticos.
 
-Se pregunta: "¿Por qué el hombre nace con las manos apretadas, pero al morir las tiene abiertas?". Y la respuesta es: "Al entrar en el mundo, el hombre desea <span id="p339">[<sup><small>p. 339</small></sup>]</span> apoderarse de todo; pero al salir no se lleva nada".
+Se pregunta: "¿Por qué el hombre nace con las manos apretadas, pero al morir las tiene abiertas?". Y la respuesta es: "Al entrar en el mundo, el hombre desea <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> apoderarse de todo; pero al salir no se lleva nada".
 
 Dos troncos secos y uno húmedo; los secos encienden los húmedos.
 
@@ -530,7 +530,7 @@ Quien tiene más conocimiento que buenas obras es como un árbol con muchas rama
 
 ---
 
-Mejor es la maldición del justo que la bendición del malvado. Mejor la maldición de Acías, el selonita, que la bendición de Bilam, hijo de Beor. Así maldijo Acías a los israelitas: «Y el Señor herirá a Israel como se agita la caña en el agua». La caña se dobla, pero no se rompe, porque crece junto al agua y sus raíces son fuertes. Así bendijo Bilam a Israel: «Como cedros junto a las aguas». Los cedros no crecen junto a las aguas; <span id="p344">[<sup><small>p. 344</small></sup>]</span> sus raíces son débiles, y cuando soplan fuertes vientos, se rompen en pedazos.
+Mejor es la maldición del justo que la bendición del malvado. Mejor la maldición de Acías, el selonita, que la bendición de Bilam, hijo de Beor. Así maldijo Acías a los israelitas: «Y el Señor herirá a Israel como se agita la caña en el agua». La caña se dobla, pero no se rompe, porque crece junto al agua y sus raíces son fuertes. Así bendijo Bilam a Israel: «Como cedros junto a las aguas». Los cedros no crecen junto a las aguas; <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> sus raíces son débiles, y cuando soplan fuertes vientos, se rompen en pedazos.
 
 ---
 
@@ -556,7 +556,7 @@ El rey siguió este consejo. Envió obreros y materiales a la isla desolada, y a
 
 Llegó el día; el esclavo liberado, que había sido nombrado rey, fue privado de su autoridad; con su poder perdió sus vestiduras reales; desnudo fue colocado en un barco, cuyas velas pusieron rumbo a la isla desolada.
 
-Sin embargo, al acercarse a sus orillas, la gente que había enviado allí salió a recibirlo con música, <span id="p346">[<sup><small>p. 346</small></sup>]</span> canciones y gran alegría. Lo hicieron príncipe entre ellos, y vivió con ellos para siempre en paz y armonía.
+Sin embargo, al acercarse a sus orillas, la gente que había enviado allí salió a recibirlo con música, <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> canciones y gran alegría. Lo hicieron príncipe entre ellos, y vivió con ellos para siempre en paz y armonía.
 
 El hombre rico de carácter bondadoso es Dios, y el esclavo a quien Él dio la libertad es el alma que Él da al hombre. La isla a la que llega el esclavo es el mundo; desnudo y llorando, se aparece a sus padres, habitantes que lo reciben con cariño y lo nombran rey. Los amigos que le hablan de las costumbres del país son sus «buenas inclinaciones». El año de su reinado es su vida, y la isla desolada es el mundo futuro, que debe embellecer con buenas obras, «los trabajadores y los materiales», o de lo contrario vivirá solo y desolado para siempre.
 
@@ -792,7 +792,7 @@ Al atardecer llegaron a una mansión grande e imponente, residencia de un hombre
 
 Nuevamente el Rabino Jojanán se llenó de asombro, pero no dijo nada y continuaron su viaje.
 
-Al caer la noche, entraron en una ciudad que albergaba una sinagoga grande e imponente. Como era la hora del servicio vespertino, entraron y quedaron muy satisfechos con los ricos adornos, los cojines de terciopelo, <span id="p357">[<sup><small>p. 357</small></sup>]</span> y las tallas doradas del interior. Tras terminar el servicio, Elías se levantó y gritó: "¿Quién está dispuesto a alimentar y alojar a dos pobres esta noche?". Nadie respondió, y no se mostró ningún respeto a los forasteros que viajaban. Sin embargo, a la mañana siguiente, Elías volvió a entrar en la sinagoga y, estrechando la mano a los miembros, dijo: "Espero que todos se conviertan en presidentes".
+Al caer la noche, entraron en una ciudad que albergaba una sinagoga grande e imponente. Como era la hora del servicio vespertino, entraron y quedaron muy satisfechos con los ricos adornos, los cojines de terciopelo, <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> y las tallas doradas del interior. Tras terminar el servicio, Elías se levantó y gritó: "¿Quién está dispuesto a alimentar y alojar a dos pobres esta noche?". Nadie respondió, y no se mostró ningún respeto a los forasteros que viajaban. Sin embargo, a la mañana siguiente, Elías volvió a entrar en la sinagoga y, estrechando la mano a los miembros, dijo: "Espero que todos se conviertan en presidentes".
 
 La tarde siguiente, los dos entraron en otra ciudad, cuando el Shamas (sacristán) de la sinagoga salió a recibirlos y, avisando a los miembros de su congregación de la llegada de dos extraños, se les abrió el mejor hotel del lugar y todos compitieron en mostrarles atención y honor.
 
@@ -866,7 +866,7 @@ En una de las paredes encontró la señal de una punta de flecha, como si alguie
 
 «Zacarías, hijo de Joiada, el sumo sacerdote», respondió el pueblo, «nos reprendió incesantemente a causa de nuestras transgresiones, y nos cansamos de sus palabras y lo condenamos a muerte».
 
-Los seguidores de Nabucodonosor masacraron a los habitantes de Jerusalén, a los sacerdotes y al pueblo, a ancianos y jóvenes, mujeres y niños que asistían a la escuela, incluso a bebés en la cuna. El festín de sangre finalmente <span id="p361">[<sup><small>p. 361</small></sup>]</span> conmocionó incluso al líder de los paganos hostiles, quien ordenó detener este asesinato en masa. Entonces retiró todos los vasos de oro y plata del Templo y los envió en sus barcos a Babel, tras lo cual prendió fuego al Templo.
+Los seguidores de Nabucodonosor masacraron a los habitantes de Jerusalén, a los sacerdotes y al pueblo, a ancianos y jóvenes, mujeres y niños que asistían a la escuela, incluso a bebés en la cuna. El festín de sangre finalmente <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> conmocionó incluso al líder de los paganos hostiles, quien ordenó detener este asesinato en masa. Entonces retiró todos los vasos de oro y plata del Templo y los envió en sus barcos a Babel, tras lo cual prendió fuego al Templo.
 
 El sumo sacerdote se puso su túnica y efod, y diciendo: «Ahora que el Templo está destruido, no se necesita sacerdote para oficiar», se arrojó a las llamas y fue consumido. Cuando los demás sacerdotes que aún vivían presenciaron esta acción, tomaron sus arpas e instrumentos musicales y siguieron el ejemplo del sumo sacerdote. Aquellos del pueblo a quienes los soldados no habían matado fueron atados con cadenas de hierro, cargados con el botín de los vencedores y llevados al cautiverio. El profeta Jeremías regresó a Jerusalén y acompañó a sus desafortunados hermanos, quienes salieron casi desnudos. Cuando llegaron a un lugar llamado Bet Kuro, Jeremías les consiguió mejores ropas. Y habló a Nabucodonosor y a los caldeos, y les dijo: «No piensen que con su propia fuerza pudieron vencer al pueblo escogido del Señor; son sus iniquidades las que los han condenado a este dolor».
 
@@ -914,7 +914,7 @@ Entonces Bar Kamtzah habló traicioneramente contra los judíos al rey, diciendo
 
 «Envía un sacrificio a su Templo y será rechazado», respondió Bar Kamtzah.
 
-El gobernante envió entonces un becerro en buenas condiciones para ser sacrificado por él en el Templo, pero debido a las maquinaciones <span id="p363">[<sup><small>p. 363</small></sup>]</span> de Bar Kamtzah, el mensajero le infligió un defecto y, por supuesto, al no ser apto para el sacrificio, no fue aceptado.
+El gobernante envió entonces un becerro en buenas condiciones para ser sacrificado por él en el Templo, pero debido a las maquinaciones <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> de Bar Kamtzah, el mensajero le infligió un defecto y, por supuesto, al no ser apto para el sacrificio, no fue aceptado.
 
 Por esta causa, César fue enviado a tomar Jerusalén, y durante dos años sitió la ciudad. Cuatro ciudadanos adinerados de Jerusalén habían almacenado suficiente comida para los habitantes durante mucho más tiempo, pero el pueblo, ansioso por luchar contra los romanos, destruyó los almacenes y provocó una hambruna extrema en la ciudad.
 
@@ -948,7 +948,7 @@ Su muerte siguió inmediatamente a sus valientes palabras.
 
 «Mi religión me enseña: ‘No adorarás a ningún otro dios’, dijo el tercer hijo, “y acojo el destino que les corresponde a mis hermanos antes que inclinarme ante ti o ante tus imágenes».
 
-El mismo homenaje se le exigió al cuarto hijo, pero valiente y fiel como sus hermanos, respondió: «'El que <span id="p365">[<sup><small>p. 365</small></sup>]</span> sacrifica a cualquier dios, excepto al Señor solo'», y fue asesinado sin piedad.
+El mismo homenaje se le exigió al cuarto hijo, pero valiente y fiel como sus hermanos, respondió: «'El que <span id="p365"><sup><small>[ p. 365 ]</small></sup></span> sacrifica a cualquier dios, excepto al Señor solo'», y fue asesinado sin piedad.
 
 «Escucha, Israel: el Señor nuestro Dios, el Señor Uno es», exclamó el quinto muchacho, entregando su joven vida con la consigna de las huestes de Israel.
 
@@ -1062,7 +1062,7 @@ Todo esto lo soportó el rabino Amnón con la mayor resignación, esperando y co
 
 Su vida después de esto, por supuesto, solo se mediría por días. Llegó la fiesta de Año Nuevo, mientras aún vivía, y pidió que lo llevaran a la sinagoga. Lo llevaron a la casa de Dios, y durante el servicio pidió que se le permitiera pronunciar una oración. Las que resultaron ser sus últimas palabras fueron las siguientes:
 
-Declararé la poderosa santidad de este día, pues es imponente y tremendo. Tu reino se exalta allí; <span id="p371">[<sup><small>p. 371</small></sup>]</span> Tu trono se establece en la misericordia, y sobre él reposas en la verdad. Tú eres el juez que castiga, y de Ti nada puede ocultarse. Tú das testimonio, escribes, sellas, registras y recuerdas todas las cosas, sí, aquellas que imaginamos sepultadas en el pasado. Abres el Libro de los Registros; suena la gran corneta; incluso los ángeles están aterrorizados y exclaman: «¡El Día del Juicio amanece sobre nosotros!», pues en el juicio ellos, los ángeles, no son intachables.
+Declararé la poderosa santidad de este día, pues es imponente y tremendo. Tu reino se exalta allí; <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Tu trono se establece en la misericordia, y sobre él reposas en la verdad. Tú eres el juez que castiga, y de Ti nada puede ocultarse. Tú das testimonio, escribes, sellas, registras y recuerdas todas las cosas, sí, aquellas que imaginamos sepultadas en el pasado. Abres el Libro de los Registros; suena la gran corneta; incluso los ángeles están aterrorizados y exclaman: «¡El Día del Juicio amanece sobre nosotros!», pues en el juicio ellos, los ángeles, no son intachables.
 
 Todos los que han entrado en el mundo pasan ante ti, así como el pastor hace pasar bajo su cayado al rebaño que cuenta, así tú, oh Señor, haces pasar ante ti a toda alma viviente. Tú cuentas, tú visitas; fijando los límites de cada criatura, tu juicio y tu sentencia.
 

@@ -93,7 +93,7 @@ E. B. COWELL.
 
 [^2]: vii:3 iv. 148.
 
-[^3]: viii:1 Traducción de Beal <span id="p157">[<sup><small>p. 157</small></sup>]</span>.
+[^3]: viii:1 Traducción de Beal <span id="p157"><sup><small>[ p. 157 ]</small></sup></span>.
 
 [^4]: viii:2 Hiouen-thsang se refiere dos veces a Jātakas, _Julien_, i. 137, 197.
 

@@ -44,7 +44,7 @@ Los (pecadores) caminan sobre una tierra ardiente y resplandeciente como hierro 
 
 Los pecadores son empujados sobre un terreno resbaladizo, como un camino de hierro al rojo vivo; en ese lugar terrible, los ministros del infierno los hacen avanzar como esclavos, golpeándolos con palos. (5)
 
-Al avanzar en este insoportable infierno, son aplastados por las rocas que caen. Allí está el <span id="p284">[<sup><small>p. 284</small></sup>]</span> (caldero) Santâpanî [^836], donde los malhechores sufren durante largo tiempo. (6)
+Al avanzar en este insoportable infierno, son aplastados por las rocas que caen. Allí está el <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> (caldero) Santâpanî [^836], donde los malhechores sufren durante largo tiempo. (6)
 
 Arrojan a los pecadores a calderos y los hierven; escaldados, resucitan de allí; cuervos diabólicos [^837] se alimentan de ellos y otras bestias con garras los devoran. (7)
 
@@ -58,7 +58,7 @@ Hay un gran lugar siempre en llamas, donde el fuego arde sin combustible; allí 
 
 Prendiéndoles fuego a grandes montones, arrojan en ellos a un pecador que gritará horriblemente; así como se derrite la mantequilla arrojada al fuego, así también se derrite allí el malhechor. (12)
 
-Y hay un lugar siempre abarrotado y caluroso que uno merece por sus grandes pecados, y que está lleno de miseria. Allí (los castigadores) atan las manos y los pies del pecador <span id="p285">[<sup><small>p. 285</small></sup>]</span> y lo apalean como a un enemigo. (13)
+Y hay un lugar siempre abarrotado y caluroso que uno merece por sus grandes pecados, y que está lleno de miseria. Allí (los castigadores) atan las manos y los pies del pecador <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> y lo apalean como a un enemigo. (13)
 
 Con un arma le rompen la espalda al pecador, y con palos de hierro le destrozan el cráneo; sus cuerpos son partidos y aserrados como una tabla, y atormentados con punzones al rojo vivo (los pecadores) son sometidos (a crueldades). (14)
 
@@ -70,7 +70,7 @@ Hay una montaña terrible que se eleva en el aire, llamada Vaitâlika [^843], do
 
 Torturados, los pecadores gritan, sufriendo día y noche; en este horrible y gran infierno, que está lleno de instrumentos de tortura, son condenados a una muerte cruel. (18)
 
-Llenos de ira, como sus enemigos de una vida anterior, <span id="p286">[<sup><small>p. 286</small></sup>]</span> (los castigadores) los aplastan con martillos y garrotes. Con los cuerpos destrozados y vomitando sangre, caen al suelo de cabeza. (19)
+Llenos de ira, como sus enemigos de una vida anterior, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> (los castigadores) los aplastan con martillos y garrotes. Con los cuerpos destrozados y vomitando sangre, caen al suelo de cabeza. (19)
 
 Allí están los grandes chacales, siempre hambrientos [^844], salvajes y siempre iracundos, por quienes los malhechores atados con grilletes son devorados. (20)
 

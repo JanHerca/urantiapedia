@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:40:34Z
 
 2\. They must not light with the defiled oil of the heave-offering on a holiday. Rabbi Ishmael said, «they must not light with pitch dregs for the honour of the Sabbath.» But the Sages allow all oils, «with sesame oil, with nut oil, with radish oil, with fish oil, with colocynth oil, with pitch dregs and naphtha.» Rabbi Tarphon said, «they must only light with olive oil.»
 
-3\. «They must not light with anything that grows from wood, except flax. And all that grows from wood does not contract the uncleanness of tents, [^95] except flax. »A wick of cloth folded but not singed?« Rabbi Eliezer says, »it <span id="p86">[<sup><small>p. 86</small></sup>]</span> contracts uncleanness, and they must not light it.« Rabbi Akiba says, »it is clean, and they may light it.”
+3\. «They must not light with anything that grows from wood, except flax. And all that grows from wood does not contract the uncleanness of tents, [^95] except flax. »A wick of cloth folded but not singed?« Rabbi Eliezer says, »it <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> contracts uncleanness, and they must not light it.« Rabbi Akiba says, »it is clean, and they may light it.”
 
 4\. A man must not perforate an eggshell, and fill it with oil, and put it on the mouth of the lamp, because it drops, even though it be of pottery. But Rabbi Judah «allows it.» «But if the potter joined it at first?» «It is allowed, since it is one vessel.» A man must not fill a bowl of oil, and put it by the side of the lamp, and put the end of the wick into it because it imbibes. But Rabbi Judah «allows it.»
 

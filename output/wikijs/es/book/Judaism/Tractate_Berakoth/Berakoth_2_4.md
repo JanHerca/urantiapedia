@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 **T**.
 
-III. 1. Así como se dio una ley fija [^177] para recitar el Shemá, la Mayoría fijó una hora para la Oración. ¿Por qué dijeron: La Oración de la Mañana <span id="p29">[<sup><small>p. 29</small></sup>]</span> \[puede rezarse\] hasta el mediodía? Porque el holocausto continuo de la mañana se ofrecía hasta el mediodía. [^178] R. Judah dice: Hasta la hora cuarta. ¿Y por qué dijeron: La Oración de la Tarde hasta la tarde? Porque el holocausto continuo entre las tardes [^179] se ofrecía hasta la tarde. R. Judah dice: Hasta la división de la tarde? La hora undécima menos un cuarto. [^180]
+III. 1. Así como se dio una ley fija [^177] para recitar el Shemá, la Mayoría fijó una hora para la Oración. ¿Por qué dijeron: La Oración de la Mañana <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> \[puede rezarse\] hasta el mediodía? Porque el holocausto continuo de la mañana se ofrecía hasta el mediodía. [^178] R. Judah dice: Hasta la hora cuarta. ¿Y por qué dijeron: La Oración de la Tarde hasta la tarde? Porque el holocausto continuo entre las tardes [^179] se ofrecía hasta la tarde. R. Judah dice: Hasta la división de la tarde? La hora undécima menos un cuarto. [^180]
 
 2\. La oración de la tarde no tiene una ley fija. R. Eleazar bar José [^181] dice: \[Termina\] con el cierre de las puertas. [^182]
 
@@ -58,7 +58,7 @@ Todo aquel cuya mente encuentra placer en lo que hace [^185], es una buena seña
 
 ## Las Dieciocho Oraciones y su Resumen.
 
-3\. Rabán Gamaliel solía decir: un hombre reza las Dieciocho Bendiciones todos los días. R. Joshua solía decir el resumen [^191] de las Dieciocho. R. Joshua [^192] solía decir: Si su oración <span id="p31">[<sup><small>p. 31</small></sup>]</span> es fluida [^193] en su boca, reza las Dieciocho, _M_. y si no, el resumen de las Dieciocho. [^194]
+3\. Rabán Gamaliel solía decir: un hombre reza las Dieciocho Bendiciones todos los días. R. Joshua solía decir el resumen [^191] de las Dieciocho. R. Joshua [^192] solía decir: Si su oración <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> es fluida [^193] en su boca, reza las Dieciocho, _M_. y si no, el resumen de las Dieciocho. [^194]
 
 <a id="m4"></a>
 
@@ -66,7 +66,7 @@ Todo aquel cuya mente encuentra placer en lo que hace [^185], es una buena seña
 
 4\. R. Eliezer solía decir: Quien hace de su oración una porción fija [^195], su oración no es una verdadera súplica. R. Josué solía decir: Quien viaja por un lugar peligroso reza la Oración en forma abreviada, el resumen de los Dieciocho, y dice: _Salva, oh SEÑOR, a tu pueblo, el remanente de Israel;_ [^196] y en cada bifurcación de su camino, deja que sus necesidades estén ante Ti. Bendito seas, oh SEÑOR, que escuchas la oración.
 
-**T**. III. 7. Si uno camina en un lugar peligroso y rodeado de ladrones, reza la Oración abreviada. ¿Qué es la Oración abreviada? R. Eliezer dice: «Haz tu voluntad en el cielo, y da tranquilidad de espíritu a quienes te temen en la tierra, y haz lo que es bueno ante tus ojos, bendito eres Tú que escuchas la oración». R. Jose dice: «Escucha la voz de la oración de tu pueblo Israel, y cumple su petición pronto, bendito eres Tú que escuchas la oración». R. Eleazar bar Zadoq dice: «Escucha la voz del clamor de tu <span id="p32">[<sup><small>p. 32</small></sup>]</span> pueblo Israel, y cumple su petición pronto, bendito eres Tú que escuchas la oración». Español: Otros dicen: «Las necesidades de Tu pueblo son muchas y su inteligencia es corta, que sea aceptable ante Ti, Oh SEÑOR nuestro Dios, que des a cada uno todas sus necesidades, y (a) cada criatura lo suficiente para sus carencias, bendito eres Tú que escuchas la oración». R. Eleazar bar Zadoq dijo: Mi padre solía rezar la Oración en forma abreviada en las vísperas del sábado: «De Tu amor, Oh SEÑOR nuestro Dios, con el cual has amado a Israel Tu pueblo, y de Tu compasión, Oh nuestro Rey, con la cual has tenido compasión de los hijos de Tu pacto, nos has dado, Oh SEÑOR nuestro Dios, este gran y santo séptimo día en amor». Y sobre la copa [^197] solía decir: «¿Quién santificó el día de reposo?»; y no agregó el «sello».
+**T**. III. 7. Si uno camina en un lugar peligroso y rodeado de ladrones, reza la Oración abreviada. ¿Qué es la Oración abreviada? R. Eliezer dice: «Haz tu voluntad en el cielo, y da tranquilidad de espíritu a quienes te temen en la tierra, y haz lo que es bueno ante tus ojos, bendito eres Tú que escuchas la oración». R. Jose dice: «Escucha la voz de la oración de tu pueblo Israel, y cumple su petición pronto, bendito eres Tú que escuchas la oración». R. Eleazar bar Zadoq dice: «Escucha la voz del clamor de tu <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> pueblo Israel, y cumple su petición pronto, bendito eres Tú que escuchas la oración». Español: Otros dicen: «Las necesidades de Tu pueblo son muchas y su inteligencia es corta, que sea aceptable ante Ti, Oh SEÑOR nuestro Dios, que des a cada uno todas sus necesidades, y (a) cada criatura lo suficiente para sus carencias, bendito eres Tú que escuchas la oración». R. Eleazar bar Zadoq dijo: Mi padre solía rezar la Oración en forma abreviada en las vísperas del sábado: «De Tu amor, Oh SEÑOR nuestro Dios, con el cual has amado a Israel Tu pueblo, y de Tu compasión, Oh nuestro Rey, con la cual has tenido compasión de los hijos de Tu pacto, nos has dado, Oh SEÑOR nuestro Dios, este gran y santo séptimo día en amor». Y sobre la copa [^197] solía decir: «¿Quién santificó el día de reposo?»; y no agregó el «sello».
 
 <a id="m5"></a>
 
@@ -102,7 +102,7 @@ Y en los Servicios Adicionales reza siete [^212] \[Bendiciones\] y dice \[la sec
 
 12\. En el sábado, en las festividades y en el Día de la Expiación, se rezan siete oraciones, y en el centro se dice la sección especial para la santificación del día. [^214]
 
-13\. El caso de la festividad de Año Nuevo, que cae en sabbat. La escuela de <span id="p35">[<sup><small>p. 35</small></sup>]</span> Shammai dice: Se rezan diez [1](Berakoth_2_5#fn_215) Bendiciones, y se dice una para el sabbat en sí, otra para la festividad en sí, y se comienza con la del sabbat. Pero la escuela de Hillel dice: Se rezan nueve [2](Berakoth_2_5#fn_216) Bendiciones.
+13\. El caso de la festividad de Año Nuevo, que cae en sabbat. La escuela de <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammai dice: Se rezan diez [1](Berakoth_2_5#fn_215) Bendiciones, y se dice una para el sabbat en sí, otra para la festividad en sí, y se comienza con la del sabbat. Pero la escuela de Hillel dice: Se rezan nueve [2](Berakoth_2_5#fn_216) Bendiciones.
 
 El caso de una festividad que cae en sabbat. La escuela de Shammai dice: reza ocho bendiciones, una para el sabbat en sí, otra para la festividad en sí, y comienza con la del sabbat. Pero la escuela de Hillel dice: reza siete, comenzando con la del sabbat y terminando con la del sabbat, y reza la sección especial para la santificación del día en el centro. R. Nathan dice: también lo concluye con: «Bendito seas Tú que santificas el sabbat, a Israel y las festividades». [3](Berakoth_2_5#fn_217)
 

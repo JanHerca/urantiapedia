@@ -49,7 +49,7 @@ Vayan a los jardines y adornenlos con plata y oro. Cubran los árboles con preci
 
 Luego se dirigió a Maya:
 
-Vístete hoy con gran esplendor, oh <span id="p13">[<sup><small>p. 13</small></sup>]</span> Maya. Viaja en un magnífico palanquín; deja que tus más hermosas doncellas te carguen. Ordena a tus sirvientes que usen perfumes excepcionales; que lleven cordones de perlas y brazaletes de piedras preciosas; que lleven laúdes, tambores y flautas, y que canten dulces canciones que deleitarían a los mismísimos dioses.
+Vístete hoy con gran esplendor, oh <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> Maya. Viaja en un magnífico palanquín; deja que tus más hermosas doncellas te carguen. Ordena a tus sirvientes que usen perfumes excepcionales; que lleven cordones de perlas y brazaletes de piedras preciosas; que lleven laúdes, tambores y flautas, y que canten dulces canciones que deleitarían a los mismísimos dioses.
 
 Suddhodana fue obedecida, y cuando la reina llegó a las puertas del palacio, los guardias la recibieron con gritos de júbilo. Las campanas repicaron alegremente, los pavos reales desplegaron sus hermosas plumas y el canto de los cisnes resonó en el aire.
 
@@ -71,7 +71,7 @@ Cuando se acercó al niño, el rey hizo una profunda reverencia y dijo:
 
 Todos se inclinaron y los brahmanes, inspirados por los dioses, cantaron:
 
-Todas las criaturas son felices, y ya no son ásperos los caminos que recorren los hombres, pues ha nacido él, quien da la felicidad: él traerá la felicidad al mundo. En la oscuridad ha amanecido una gran luz, el sol y la luna son como brasas moribundas, pues ha nacido él, quien da la luz: él <span id="p15">[<sup><small>p. 15</small></sup>]</span> traerá la luz al mundo. Los ciegos ven, los sordos oyen, los necios han recuperado la razón, pues ha nacido él, quien restaura la vista, el oído y la mente: él traerá la vista, el oído y la razón al mundo. Céfiros perfumados alivian el sufrimiento de la humanidad, pues ha nacido él, quien sana: él traerá la salud al mundo. Las llamas ya no son despiadadas, el fluir de los ríos se ha detenido, la tierra ha temblado suavemente: él será quien vea la verdad.
+Todas las criaturas son felices, y ya no son ásperos los caminos que recorren los hombres, pues ha nacido él, quien da la felicidad: él traerá la felicidad al mundo. En la oscuridad ha amanecido una gran luz, el sol y la luna son como brasas moribundas, pues ha nacido él, quien da la luz: él <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> traerá la luz al mundo. Los ciegos ven, los sordos oyen, los necios han recuperado la razón, pues ha nacido él, quien restaura la vista, el oído y la mente: él traerá la vista, el oído y la razón al mundo. Céfiros perfumados alivian el sufrimiento de la humanidad, pues ha nacido él, quien sana: él traerá la salud al mundo. Las llamas ya no son despiadadas, el fluir de los ríos se ha detenido, la tierra ha temblado suavemente: él será quien vea la verdad.
 
 <figure class="table chapter-navigator">
   <table>

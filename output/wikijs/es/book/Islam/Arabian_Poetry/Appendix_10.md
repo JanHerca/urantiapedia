@@ -64,7 +64,7 @@ Los cardos enmarañados, inclinándose ante el vendaval,
 En medio de los sinuosos de ese valle solitario
 &nbsp;&nbsp;El antílope rebosante y el avestruces vagan:
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 La madre de ojos grandes de la manada, que vuela
 Los ruidosos lugares del hombre encuentran aquí un refugio seguro,
@@ -106,7 +106,7 @@ Qué graciosas formas ¡Esos pliegues envidiosos encierran!
 Seguro Los antílopes de Weira o los corzos de Tudah
 &nbsp;&nbsp;A través de esos velos su joven y deportivo estudio!
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 La banda siguió adelante, me esforcé por seguir sus pasos;
 &nbsp;&nbsp;Vi cómo incitaban a los camellos a huir apresuradamente,
@@ -141,7 +141,7 @@ Esta es la interpretación que hace el Sr. Lyall del mismo pasaje, de su traducc
 7\. Las vacas salvajes de ojos grandes se acuestan allí junto a sus crías.
 &nbsp;&nbsp; recién nacidos, y sus crías vagan en manadas por la llanura.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 8\. Los torrentes han vuelto a marcar las huellas de las tiendas, como si
 &nbsp;&nbsp; eran líneas de escritura en un libro que las plumas vuelven a hacer nuevas,
@@ -174,7 +174,7 @@ Esta es la interpretación que hace el Sr. Lyall del mismo pasaje, de su traducc
 
 \*\*\* Las notas adjuntas sobre el poema de Lebīd son, en su mayor parte, adaptadas de las adjuntas a la traducción del Sr. Lyall.
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 vv. 1, 2. Minia \[Mina\], un lugar en Dariyyeh, una provincia de Nejd, en la ruta de La Meca a el-Basrah. Hay un valle del mismo nombre cerca de La Meca. Ghaul, er-Rijâm y er-Rayyân, colinas en las cercanías. \[El capitán Burton traduce estos versos de la siguiente manera:
 
@@ -198,7 +198,7 @@ De esto se desprende que la escritura y los libros no eran tan extraños para lo
 
 v. 9. La referencia aquí es al _weshm_ o tracería que se pincha en la piel de las manos y los brazos de una mujer. El patrón se pincha con una aguja y se rocía sobre la piel y se frota con una preparación llamada _na’ûr_, que puede significar índigo en polvo o negro de humo en polvo. Así como las lluvias que profundizaron y ensancharon las huellas de las tiendas se comparan en el v. 8 con un escritor que repasa líneas de escritura con una pluma, así en el v. 9 se las compara con una mujer que renueva el tatuaje rociando pigmento nuevo sobre las líneas antiguas; que al frotarse, las líneas aparecen de nuevo. \[Lane («Egipcios modernos») afirma que las mujeres de las clases bajas de El Cairo se tatúan la cara, la parte delantera del mentón, el dorso de la mano derecha y los brazos. La operación generalmente se realiza a la edad de unos cinco o seis años, por mujeres gitanas.\]
 
-v. 11. \[«Canales» ver rito en v. 5, Mo‘all de Zuheyr.\] «Thumâm», es decir, hierba de panicum. Forskal (p. 20) dice que el nombre se usa para _Panicum Dichotomum;_ pero los <span id="p389">[<sup><small>p. 389</small></sup>]</span> árabes lo aplican a muchas especies de _panicum_. La hierba se usa para techar y para rellenar agujeros en las tiendas para protegerse del clima.
+v. 11. \[«Canales» ver rito en v. 5, Mo‘all de Zuheyr.\] «Thumâm», es decir, hierba de panicum. Forskal (p. 20) dice que el nombre se usa para _Panicum Dichotomum;_ pero los <span id="p389"><sup><small>[ p. 389 ]</small></sup></span> árabes lo aplican a muchas especies de _panicum_. La hierba se usa para techar y para rellenar agujeros en las tiendas para protegerse del clima.
 
 v. 12. «Se escondieron en carruajes»: la palabra utilizada (_takannus_) es apropiada para la acción de una liebre o un zorro arrastrándose hacia su agujero (_kinâs_).
 
@@ -215,7 +215,7 @@ v. 43. El Sr. Lyall traduce este pareado:
 Y ella brilló en el rostro de la oscuridad con una luz blanca y resplandeciente
 &nbsp;&nbsp; como una perla nacida en una concha de mar que se ha caído de su cuerda,
 
-<span id="p390">[<sup><small>p. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 El vagabundeo inquieto de la vaca se compara con la perla rodando por el suelo.
 
@@ -238,7 +238,7 @@ v. 58. «La bandera del comerciante de vinos». Las tiendas de vinos se distingu
 
 vv, 60, 61. Bebida matutina: muchachas cantoras—véase Amriolkais, v. 74; Tarafa, vv. 46, 48-51; Amru, v. 1, y _Notas_.
 
-<span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 v. 63. «Un caballo veloz, cuyas cinchas se asemejan a mi faja adornada con gemas». El Sr. Lyall traduce este hemistiquio: «una yegua veloz, mi faja sus riendas mientras salía al amanecer»; y explica que el poeta «arrojó la brida sobre sus hombros para que se convirtiera en un cinturón para él, para que pudiera tener las manos libres para sus armas».
 

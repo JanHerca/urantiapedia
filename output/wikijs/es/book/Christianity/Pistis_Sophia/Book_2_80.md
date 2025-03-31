@@ -36,7 +36,7 @@ dateCreated: 2025-1-18T17:53:4Z
 
 Sucedió entonces, cuando el Primer Misterio terminó de pronunciar estas palabras, que Mateo se adelantó y dijo: «He comprendido la solución del cántico que Pistis Sophia ha pronunciado. Ahora, pues, dame la orden de que lo diga abiertamente».
 
-Y el Primer Misterio respondió y dijo: «Te doy el mandato, Mateo, de <span id="p131">[<sup><small>p. 131</small></sup>]</span> exponer la interpretación del cántico que Pistis Sophia ha pronunciado».
+Y el Primer Misterio respondió y dijo: «Te doy el mandato, Mateo, de <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> exponer la interpretación del cántico que Pistis Sophia ha pronunciado».
 
 Y Mateo respondió y dijo: "En cuanto a la interpretación del cántico que Pistis Sophia ha pronunciado, así tu poder de luz profetizó anteriormente sobre ello a través de la Oda de Salomón:
 
@@ -250,7 +250,7 @@ Sucedió entonces, cuando escuché las palabras que Pistis Sophia me había dich
 
 Y después le dije de nuevo: «Escucha, que **(167)** puedo hablarte sobre el tiempo en que esto que te he dicho se cumplirá. Sucederá cuando se cumplan los tres tiempos».
 
-“Pistis Sophia me respondió y me dijo: <span id="p141">[<sup><small>p. 141</small></sup>]</span> 'Oh Luz, ¿cómo sabré cuándo ocurrirán los tres tiempos, para alegrarme y regocijarme de que esté cerca el momento de traerme a mi región, y además regocijarme de que haya llegado el momento en que quitarás el poder de la luz a todos los que me odian, porque he tenido fe en tu luz?'
+“Pistis Sophia me respondió y me dijo: <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 'Oh Luz, ¿cómo sabré cuándo ocurrirán los tres tiempos, para alegrarme y regocijarme de que esté cerca el momento de traerme a mi región, y además regocijarme de que haya llegado el momento en que quitarás el poder de la luz a todos los que me odian, porque he tenido fe en tu luz?'
 
 <small>Cómo sabrá Sofía que ha llegado el momento de su liberación final.</small>
 
@@ -260,7 +260,7 @@ Y después le dije de nuevo: «Escucha, que **(167)** puedo hablarte sobre el ti
 
 <small>Lo que sucederá en ese momento.</small>
 
-Y yo le respondí: «Cuando esa puerta se abra, quienes estén en todos los eones lo sabrán por la Gran Luz que reinará en todas sus regiones. Pero mira, he decidido que no te harán ningún mal hasta que se cumplan los tres tiempos. Tendrás el poder de descender a sus doce eones (168) cuando te plazca, y también de regresar a tu región, que está por debajo del decimotercer eón, donde ahora te encuentras. Pero no tendrás el poder de atravesar la puerta de la Altura, que está en el decimotercer eón, para entrar en la región de la que descendiste. Además, si entonces se cumplen los tres tiempos, Obstinado y todos sus gobernantes te obligarán de nuevo a arrebatarte tu luz, enfurecidos contra ti y creyendo que has aprisionado su poder en el caos, creyendo que le has arrebatado su luz». Entonces se enojará <span id="p142">[<sup><small>p. 142</small></sup>]</span> contra ti, para quitarte tu luz y enviarla al caos, para que llegue a esa emanación suya y pueda emerger del caos y llegar a su región. Adamas lo intentará. Pero yo le quitaré todos tus poderes y te los daré, y vendré a quitártelos. Ahora bien, si te constriñen en ese momento, canta alabanzas a la Luz, y no tardaré en ayudarte. Y pronto iré a ti, a las regiones que están debajo de ti. Y descenderé a sus regiones para quitarles su luz. Y yo iré a esta región adonde te he trasladado, y que está debajo del decimotercero **(169)** eón, hasta que te lleve a tu región de donde has venido.'
+Y yo le respondí: «Cuando esa puerta se abra, quienes estén en todos los eones lo sabrán por la Gran Luz que reinará en todas sus regiones. Pero mira, he decidido que no te harán ningún mal hasta que se cumplan los tres tiempos. Tendrás el poder de descender a sus doce eones (168) cuando te plazca, y también de regresar a tu región, que está por debajo del decimotercer eón, donde ahora te encuentras. Pero no tendrás el poder de atravesar la puerta de la Altura, que está en el decimotercer eón, para entrar en la región de la que descendiste. Además, si entonces se cumplen los tres tiempos, Obstinado y todos sus gobernantes te obligarán de nuevo a arrebatarte tu luz, enfurecidos contra ti y creyendo que has aprisionado su poder en el caos, creyendo que le has arrebatado su luz». Entonces se enojará <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> contra ti, para quitarte tu luz y enviarla al caos, para que llegue a esa emanación suya y pueda emerger del caos y llegar a su región. Adamas lo intentará. Pero yo le quitaré todos tus poderes y te los daré, y vendré a quitártelos. Ahora bien, si te constriñen en ese momento, canta alabanzas a la Luz, y no tardaré en ayudarte. Y pronto iré a ti, a las regiones que están debajo de ti. Y descenderé a sus regiones para quitarles su luz. Y yo iré a esta región adonde te he trasladado, y que está debajo del decimotercero **(169)** eón, hasta que te lleve a tu región de donde has venido.'
 
 Sucedió entonces que, cuando Pistis Sophia me oyó decirle estas palabras, se regocijó con gran alegría. Pero la trasladé a la región que está por debajo del decimotercer eón. Fui a la Luz y me alejé de ella.
 
@@ -320,7 +320,7 @@ Aconteció entonces que cuando el Primer Misterio oyó a Santiago pronunciar est
 
 ## CAPÍTULO 79
 
-Y el Primer Misterio continuó de nuevo y dijo a los discípulos: «Sucedió entonces que, cuando Pistis Sophia terminó de pronunciar las palabras de este cántico, se volvió <span id="p146">[<sup><small>p. 146</small></sup>]</span> para ver si Adamas y sus gobernantes habían regresado a su eón. Y los vio, cómo la perseguían. Entonces se volvió hacia ellos y les dijo:
+Y el Primer Misterio continuó de nuevo y dijo a los discípulos: «Sucedió entonces que, cuando Pistis Sophia terminó de pronunciar las palabras de este cántico, se volvió <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> para ver si Adamas y sus gobernantes habían regresado a su eón. Y los vio, cómo la perseguían. Entonces se volvió hacia ellos y les dijo:
 
 <small>Sofía se dirige a Adán y sus gobernantes.</small>
 

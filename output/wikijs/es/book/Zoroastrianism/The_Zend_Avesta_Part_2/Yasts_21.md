@@ -50,7 +50,7 @@ Yast XXI es un elogio de la oración Ashem Vohû, cuyo valor aumenta cada vez m�
 
 3\. 'Quien recita la alabanza de la Santidad [^1325], con plenitud de fe y con un corazón devoto, me alaba a mí, Ahura Mazda; alaba las aguas, alaba la tierra, alaba al ganado, alaba las plantas, alaba todas las cosas buenas hechas por Mazda, todas las cosas que son descendientes del buen principio.
 
-4\. «Porque recitar esa palabra de verdad, ¡oh Zaratustra!, pronunciar esa fórmula, el Ahuna Vairya, aumenta la fuerza y ​​la victoria del alma y la piedad. <span id="p312">[<sup><small>p. 312</small></sup>]</span> 5\. «Porque solo esa recitación de la alabanza de la Santidad vale cien khshnaothras de los seres de la Santidad [^1326], cuando se pronuncia al dormir, mil cuando se pronuncia después de comer, diez mil cuando se pronuncia durante la cohabitación, o cualquier número cuando se pronuncia al partir de esta vida.»
+4\. «Porque recitar esa palabra de verdad, ¡oh Zaratustra!, pronunciar esa fórmula, el Ahuna Vairya, aumenta la fuerza y ​​la victoria del alma y la piedad. <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> 5\. «Porque solo esa recitación de la alabanza de la Santidad vale cien khshnaothras de los seres de la Santidad [^1326], cuando se pronuncia al dormir, mil cuando se pronuncia después de comer, diez mil cuando se pronuncia durante la cohabitación, o cualquier número cuando se pronuncia al partir de esta vida.»
 
 6\. '¿Cuál es el único canto de alabanza de la Santidad que vale más que otros diez en grandeza, bondad y justicia?
 

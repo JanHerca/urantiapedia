@@ -45,7 +45,7 @@ R. El _Kâlâma Sutta_, del _Anguthara Nikâya_.
 
 327\. P. ¿Aceptan los budistas la teoría de que todo ha sido formado de la nada por un Creador?
 
-A. El Buda enseñó que dos cosas carecen de causa, a saber, el Akasha y el Nirvana: todo surge del Akasha, obedeciendo a una ley de movimiento inherente a él, y, tras cierta existencia, desaparece. <span id="p96">[<sup><small>p. 96</small></sup>]</span> Nada surge de la nada. No creemos en milagros; por lo tanto, negamos la creación y no podemos concebir la creación de algo a partir de la nada. Nada orgánico es eterno. Todo está en constante cambio, en constante transformación, manteniendo la continuidad según la ley de la evolución.
+A. El Buda enseñó que dos cosas carecen de causa, a saber, el Akasha y el Nirvana: todo surge del Akasha, obedeciendo a una ley de movimiento inherente a él, y, tras cierta existencia, desaparece. <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> Nada surge de la nada. No creemos en milagros; por lo tanto, negamos la creación y no podemos concebir la creación de algo a partir de la nada. Nada orgánico es eterno. Todo está en constante cambio, en constante transformación, manteniendo la continuidad según la ley de la evolución.
 
 328\. P. ¿Se opone el budismo a la educación y al estudio de la ciencia?
 
@@ -121,7 +121,7 @@ A. El aura humana.
 
 345\. P. ¿Qué gran científico ha demostrado la existencia de esta aura mediante experimentos cuidadosamente realizados?
 
-A. El barón von Reichenbach. Sus experimentos se describen detalladamente en sus Investigaciones, publicadas <span id="p100">[<sup><small>p. 100</small></sup>]</span> en 1844-45. El Dr. Baraduc, de París, fotografió esta luz recientemente.
+A. El barón von Reichenbach. Sus experimentos se describen detalladamente en sus Investigaciones, publicadas <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> en 1844-45. El Dr. Baraduc, de París, fotografió esta luz recientemente.
 
 346\. P. ¿Esta aura brillante es un milagro o un fenómeno natural?
 
@@ -181,7 +181,7 @@ A. Eso dependería de la voluntad del Arhat o hipnotizador.
 
 359\. P. ¿Qué quiere decir?
 
-A. Suponiendo que hubiera cincuenta o quinientas personas <span id="p103">[<sup><small>p. 103</small></sup>]</span>, en lugar de una, el Arhat podría desear que la ilusión fuera vista por todos por igual; o, si lo deseaba, podría desear que el mensajero fuera el único que las viera.
+A. Suponiendo que hubiera cincuenta o quinientas personas <span id="p103"><sup><small>[ p. 103 ]</small></sup></span>, en lugar de una, el Arhat podría desear que la ilusión fuera vista por todos por igual; o, si lo deseaba, podría desear que el mensajero fuera el único que las viera.
 
 360\. P. ¿Es esta rama de la ciencia muy conocida en nuestros días?
 
@@ -251,7 +251,7 @@ A. No. El Buda enseña lo contrario, en esa hermosa historia de Kisâ Gotamî y 
 
 375\. P. _Dame una idea de las etapas sucesivas del desarrollo de Lokottara en Iddhî_.
 
-A. Hay seis grados que los Arhats pueden alcanzar; <span id="p107">[<sup><small>p. 107</small></sup>]</span> lo que es superior a ellos sólo lo puede alcanzar un Buda.
+A. Hay seis grados que los Arhats pueden alcanzar; <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> lo que es superior a ellos sólo lo puede alcanzar un Buda.
 
 376\. P. _Describe las seis etapas o grados_.
 
@@ -279,7 +279,7 @@ R. No; los desaconsejó expresamente por tender a confundir a quienes no conocí
 
 381\. P. _Usted habló de un 'deva' que se le apareció al Príncipe [Siddhârtha](errata.htm#5) bajo diversas formas; ¿qué creen los budistas respecto a las razas de seres elementales invisibles que tienen relaciones con la humanidad?_
 
-A. Creen que existen seres que habitan mundos o esferas propios. La doctrina budista sostiene que, mediante el autodesarrollo interior y la superación de su naturaleza inferior, el Arhat se vuelve <span id="p109">[<sup><small>p. 109</small></sup>]</span> superior incluso al más formidable de los devas, y puede someter y controlar a las clases inferiores.
+A. Creen que existen seres que habitan mundos o esferas propios. La doctrina budista sostiene que, mediante el autodesarrollo interior y la superación de su naturaleza inferior, el Arhat se vuelve <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> superior incluso al más formidable de los devas, y puede someter y controlar a las clases inferiores.
 
 382\. P. ¿Cuántos tipos de devas hay?
 

@@ -62,7 +62,7 @@ Algunas almas débiles, habiendo encerrado el fundamento del conocimiento dentro
 
 Un olor agradable es desagradable para el escarabajo, y un perfume fragante no tiene ningún efecto sobre alguien que padece un resfriado.
 
-Por eso, para guiar a la multitud, se ha dicho: “Quita el frío de tu cabeza y de tu <span id="p65">[<sup><small>p. 65</small></sup>]</span> cerebro, para que la Fragancia de Dios llene tu nariz”.
+Por eso, para guiar a la multitud, se ha dicho: “Quita el frío de tu cabeza y de tu <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> cerebro, para que la Fragancia de Dios llene tu nariz”.
 
 Ahora queda clara la diferencia de lugar.
 
@@ -112,7 +112,7 @@ Así han dicho los amantes del Rostro del Amado: «Oh Tú, cuya esencia por sí 
 
 ¿Cómo puede una sombra mortal compararse con el Sol Inmortal?
 
-Sí, las menciones que se hacen acerca de las etapas del conocimiento, conciernen únicamente al conocimiento <span id="p68">[<sup><small>p. 68</small></sup>]</span> del esplendor de ese Sol de la Verdad que se manifiesta en los espejos (es decir, profetas, manifestaciones).
+Sí, las menciones que se hacen acerca de las etapas del conocimiento, conciernen únicamente al conocimiento <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> del esplendor de ese Sol de la Verdad que se manifiesta en los espejos (es decir, profetas, manifestaciones).
 
 El reflejo de esa Luz reside en los corazones; pero está velado por velos sensuales y circunstancias accidentales, como ocurre con una luz encerrada en una linterna de hierro. Al retirar la linterna, aparecerá el resplandor de la luz.
 
@@ -148,7 +148,7 @@ Aunque ya se ha dado una breve ilustración del principio y el fin del mundo (o 
 
 Por ejemplo... considera... cómo eres el primero en relación con tu hijo, y el último en relación con tu padre; cómo, exteriormente (es decir, según el alma), (das evidencia) de los misterios internos que, como un Don Divino, están depositados dentro de ti.
 
-En consecuencia, ser el primero, el último, lo manifiesto, lo oculto, se vuelve cierto para ti en el sentido expuesto anteriormente; para que en estos cuatro <span id="p70">[<sup><small>p. 70</small></sup>]</span> grados que te han sido otorgados, puedas comprender los grados (correspondientes) de lo Divino;... «¡En verdad! ¡Él es el Primero y el Último, el Manifiesto y el Oculto!»
+En consecuencia, ser el primero, el último, lo manifiesto, lo oculto, se vuelve cierto para ti en el sentido expuesto anteriormente; para que en estos cuatro <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> grados que te han sido otorgados, puedas comprender los grados (correspondientes) de lo Divino;... «¡En verdad! ¡Él es el Primero y el Último, el Manifiesto y el Oculto!»
 
 El Primero es idéntico al Último, y el Último es igual al Primero.
 

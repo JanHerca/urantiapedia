@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 CAPÍTULO III., Versículo 163.—Los que dijeron de sus hermanos, mientras ellos mismos permanecían en casa: «Si nos hubieran obedecido, no habrían sido muertos»; digan: «Evitad la muerte, si decís la verdad».
 
@@ -44,7 +44,7 @@ Capítulo XVI, Versículo 63.—Si Dios tuviera que castigar a los hombres por s
 
 Ellos atribuyen a Dios lo que ellos mismos aborrecen; y sus lenguas describen la mentira de que «El bien será suyo»; sin duda, de ellos es el Fuego, porque, en verdad, ¡serán enviados allí!
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Capítulo XVII., Versículo 14.—Y a cada hombre le hemos puesto un augurio en el cuello.
 

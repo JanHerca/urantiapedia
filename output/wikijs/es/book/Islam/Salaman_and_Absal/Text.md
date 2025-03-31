@@ -36,7 +36,7 @@ dateCreated: 2024-11-18T23:1:26Z
 
 Las diversas ortografías de algunos nombres propios, especialmente el del Profeta, en Memorias y Apéndice, deben ser disculpadas por los varios escritores de los que se citan.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## I. PRÓLOGO.
 
@@ -58,7 +58,7 @@ Como nadie la Belleza del Velo puede saber.
 ¿Cuánto tiempo durará? ¿Continuarás así el mundo?
 Para engañar con el Fantasma de un Velo
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 ¿De donde sólo tú miras? —Es tiempo
 Para desplegar tu belleza perfecta. Yo sería
@@ -82,7 +82,7 @@ Me pongo perplejo, ¡Oh Dios! Entre «yo» y «tú»;
 Si yo—esta Dignidad y Sabiduría ¿de dónde?
 Si Tú—entonces ¿Qué es esta abyecta impotencia?
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Un kurdo desconcertado por las travesuras de la fortuna
 Dejó su desierto por la ciudad.
@@ -124,7 +124,7 @@ O si no eso, todavía, como la pequeña Copa
 Cuyo nombre yo voy por, no indigno encontrado
 Para pasar tu saludable Vintage ¡Ronda!
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## II.
 
@@ -151,7 +151,7 @@ Se me caen los dientes, mis dos ojos no ven más
 Hasta que por Feringhi Las gafas se convirtieron en cuatro;
 El dolor se sienta conmigo sentado detrás de mis rodillas,
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 De donde apenas me levanto sin ayuda de la mano;
 Me inclino ante mi Raíz, y como un Niño
@@ -179,7 +179,7 @@ El Campo del Verso, para cantar esa doble alabanza,
 Y en ese recuerdo refresca mi alma
 Hasta que agarre la Falda de la Presencia Viva.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Uno que viajó en el desierto
 Vi a Majnún donde estaba sentado
@@ -217,7 +217,7 @@ Miré a mi alrededor en busca de refugio, y ¡He aquí!
 Un palacio estaba delante de mí; hacia donde corriendo
 Para refugio de la venidera soldadesca,
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 De repente, de la tropa un Sháhzemán,
 Por nombre y naturaleza Hasan—en el Caballo
@@ -241,7 +241,7 @@ Para estabilizar la escritura; por si acaso, pensé,
 De la misma fuente de donde surgió la Visión
 La interpretación también puede hacerse realidad.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Sin aliento corrió un rústico simple
 A un astuto Hombre de sueños;
@@ -278,7 +278,7 @@ Para captar la Palabra de Sabiduría de su Labio
 Fue en un Cinturón alrededor de él.—Que el Sha
 Observando, lo llevó a su Secreto;
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 No dio un paso ni puso en marcha el diseño
 Sin la sanción de ese Sabio; hasta que, así aconsejado,
@@ -309,7 +309,7 @@ a Incluso los príncipes incrédulos,
 “Aun estos a sí mismos
 «Cosechar gloria y reparar el mundo.»
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 ## V.
 
@@ -335,7 +335,7 @@ Y luego se volvió hacia el Sha y dijo:
 «Su voz animará a sus amigos a»Plight,
 «Y convertir la Gloria del enemigo en Vuelo.»
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Así es de un Buen Hijo, cuyo sano Crecimiento
 Aprueba la Raíz de la que creció; pero por uno
@@ -372,7 +372,7 @@ Encontré suficiente tierra y savia,
 Se dedicó a beber con sus compañeros;
 Desde un rincón de la azotea
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Mal afrenta a la esposa de un vecino,
 Dibuja su Daga sobre el marido,
@@ -414,7 +414,7 @@ Había oído estos dichos del Shah, dijo,
 “Confunde la Casa próspera; un Camino de Lodo
 “Donde quien cae no se levanta de nuevo;
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 “Un vino del cual quien lo pruebe verá
 “El rostro de la redención ya no existe—un pequeño sorbo
@@ -438,7 +438,7 @@ Había oído estos dichos del Shah, dijo,
 “Beber el Agua del Pozo de la Vida
 “Un pequeño giro de temperamento, todo lo que has hecho
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 “Todo va por nada. ‘¡Tormento de mi vida!’
 “Ella llora, ‘¿Qué has hecho? ¡Por mí!’—
@@ -474,7 +474,7 @@ Diciendo—"Nunca Noche o Mañana
 
 ![](/image/book/Islam/Salaman_and_Absal/01400.jpg)
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## VII.
 
@@ -500,7 +500,7 @@ Una Luna de Belleza Llena; que así eligen
 Salámán de Auspicioso Augurio
 Debería llevar en la prenda de su generosidad,
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Debería alimentarlo con el Fluir de su pecho.
 Tan pronto como ella había abierto los ojos en él
@@ -524,7 +524,7 @@ Tocó sus ojos de Narciso—los rizos almizclados
 Dividido de su Frente—y abrazado
 Con Oro y Rubí Cinturon su fina Cintura.—
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Así lo crió hasta que cumplió catorce años.
 Catorce días llenos de la Belleza de su rostro,
@@ -550,7 +550,7 @@ El premio, y gritando «¡Hál!» lleva la pelota a casa.
 Hecho esto, Salámán lo dobló como un arco
 Para Disparar—de los Tiradores del Mundo
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Llamado para un arco sin cuerda—él mismo la cuerda
 Equipado sin ayuda y ágilmente con su mano
@@ -577,7 +577,7 @@ Oídos de hombres con Dulzura: Tomando un arpa,
 Entre su cuerda seca y su dedo fresco
 Prendió fuego; o levantando en sus brazos un laúd
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Como si fuera un niño pequeño para castigo,
 Pellizcando su oreja tales gritos de dolor arrancados
@@ -603,7 +603,7 @@ Porque vomitó la Concha, pero él la Perla;
 Dirhems por Gotas; el banquete de cuya generosidad
 La grosería de Hátim a la izquierda en comparación—
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## IX.
 
@@ -639,7 +639,7 @@ Respondió él: "Oh tú que apuntas
 
 ![](/image/book/Islam/Salaman_and_Absal/02000.jpg)
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 “Ancho de Amor, y Lenguaje del Amante
 “Totalmente malinterpretando;
@@ -671,7 +671,7 @@ Ahora a la hoja de rosa de su mejilla le agregaría
 Rosa fresca, y luego un grano de almizcle yacía allí,
 El pájaro del corazón amado para atrapar.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Ahora con una risa rompería el sello rubí
 Esa perla encerrada; o ocupada en la habitación
@@ -710,7 +710,7 @@ Su mano, y dejó caer la Falda de la Fortuna.
 
 ![](/image/book/Islam/Salaman_and_Absal/02200.jpg)
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 ## XI.
 
@@ -744,7 +744,7 @@ Puede volverse para siempre a la repugnancia;
 Y yo me siento un pájaro maldito
 En la orilla para morir de sed.”
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 ## XII.
 
@@ -770,7 +770,7 @@ El día se convirtió en un Séptimo—el Séptimo una Luna—
 La Luna un Año—mientras se regocijaban juntos,
 Pensando que su placer nunca iba a terminar.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ![](/image/book/Islam/Salaman_and_Absal/02500.jpg)
 
@@ -808,7 +808,7 @@ Se desgarraron en dos con el Deseo de Él.
 Ellos interrogaron a los que estaban a su alrededor, y de ellos
 Oí algo; entonces Él mismo en Presencia convocado,
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Y, tamizando sutilmente por todos lados, así se distribuyó
 Interrogatorio hasta que dio en el blanco,
@@ -835,7 +835,7 @@ Primero habló el Sha: "Salámán, Oh alma mía,
 “Años por tu causa la Corona ha desgastado mi frente,
 “Y Años mi Pie ha estado creciendo hasta el Trono
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 “Sólo para ti—Oh, no los desprecies con lo tuyo;
 "Oh, aparta tu rostro de los coqueteos imprudentes,
@@ -865,7 +865,7 @@ Empapado en sangre cayó Kai Khusrau,
 “Murió la raíz—y con ella murió
 «La Rama—y estéril fue derribada!»
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## XV.
 
@@ -896,7 +896,7 @@ El Sha cesó el consejo y el Sabio comenzó.
 “Porque Tú eres mayor aún que todo lo que digo)—
 “La Mano Poderosa que mezcló tu polvo inscribió
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 “El Carácter de la Sabiduría en tu Corazón;
 “Oh, limpia tu seno de la forma material,
@@ -933,7 +933,7 @@ Chanticleer—"Oh Voz de la mañana,
 
 ![](/image/book/Islam/Salaman_and_Absal/02900.jpg)
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## XVII.
 
@@ -964,7 +964,7 @@ Crece obstinado y aumenta la Enfermedad.
 El amor sin reproche es un alimento delicioso;
 Reprobado, es Alimentarse de la propia Sangre del Corazón.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ![](/image/book/Islam/Salaman_and_Absal/03100.jpg)
 
@@ -1003,7 +1003,7 @@ Respondió Ella, "Sin mi amante,
 “Y el ojo de la hormiga se abrió más
 “Que el cielo, mi Amante conmigo allí!
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 ## XIX.
 
@@ -1035,7 +1035,7 @@ En vuelo, estaba emplumado con una pequeña vela,
 Y, lanzado sobre el agua como un pato,
 Así que con su Pecho se apresuró a su Deseo.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Cuando habían navegado en su barco durante una luna,
 Y estropeó su belleza con el viento del mar,
@@ -1064,7 +1064,7 @@ Juntos como el Cuerpo y el Alma.
 Bajo sus Árboles en los brazos del otro
 Durmieron—bebieron sus Fuentes de la mano—
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Busqué azúcar con el loro—o en el deporte
 Desfiló con el pavo real—corrió la perdiz
@@ -1105,7 +1105,7 @@ Cuando poco a poco El Sha se enteró
 De esa ausencia devastadora de su Hijo,
 Alcanzó un grito al cielo—sus pestañas
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Lloró sangre—Busca por todas partes donde puso un pie,
 Pero nadie podría decir el Misterio oculto.
@@ -1134,7 +1134,7 @@ Las flechas que atacan a los Señores del Dolor
 Ven de la mano de la retribución.
 Hazlo bien, para que a tu vez el bien te suceda;
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Y apártate del mal, para que el mal se vuelva a tu lado.
 
@@ -1175,7 +1175,7 @@ Sobre Salámán toda su Voluntad cumplida.
 Pero no pude alcanzarla, miré y miré de nuevo,
 Y palpitó hacia ella, pero en ¡En vano!
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ¡Oh Miseria! ¿Qué es peor para los quebrados?
 ¡Que el oro no puede alcanzar! A uno sediento
@@ -1211,7 +1211,7 @@ Cuando el Sha vio de nuevo el rostro de Salámán,
 Y sopló el Aliento de la Reconciliación,
 Puso la Mano del Amor sobre su Hombro,
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 El beso de bienvenida en su mejilla, y dijo,
 “Oh Tú, que perdiste, el banquete del amor perdió su sal,
@@ -1235,7 +1235,7 @@ El beso de bienvenida en su mejilla, y dijo,
 
 ![](/image/book/Islam/Salaman_and_Absal/03800.jpg)
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Cuatro son los signos de la Aptitud Real;
 Cabeza sabia—Corazón limpio—Brazo fuerte —y mano abierta.
@@ -1262,7 +1262,7 @@ El golpe de venganza del amor por haber huido!
 Salámán escuchó—él rasgó la Túnica de la Paz
 Llegó a aborrecer su vida y anhelar la muerte,
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 (Para mejor Muerte en sí misma que Vida en la muerte)
 Volvió su rostro con Absál hacia el desierto—
@@ -1289,7 +1289,7 @@ Y cuando las Cuarenta Mañanas pasaron a la Noche,
 Entonces vino una lluvia matutina—una lluvia matutina
 De alegría—a Cuarenta de la lluvia de dolor!—
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Y aunque la mejor fortuna llegó al fin
 Para sellar la Obra, aún cada Sabio El hombre sabe
@@ -1312,7 +1312,7 @@ Y se comunicó con el Fantasma de su Amor.
 "¡Ahora arde con tu recuerdo! ¡Oh, por tanto tiempo!
 “La Luz que alimentaba estos Ojos ahora oscuros con Lágrimas!
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Oh, largo, largo hogar del amor ahora perdido para ¡Eterno!
 “Estábamos juntos—eso fue todo suficiente—
@@ -1343,7 +1343,7 @@ Dijo él, "Camello de mi alma!
 “Eso Perdido con Ella podría haber sido,
 «O encontrada, Ella podría ser encontrada conmigo!»
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XXV.
 
@@ -1369,7 +1369,7 @@ De La vida dentro fue estrangulada—qué hacer
 “Él rápidamente descargará su Corazón a mí,
 «Y encontraré un remedio para todos.»
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## XXVI.
 
@@ -1397,7 +1397,7 @@ El Sabio hablaría de un Amor Celestial;
 «Zuhrah», dijo, “el Brillo de las Estrellas
 “Por quien la Belleza del Más Brillante se desvanece;
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 “¿Quién era ella para revelar su perfecta Belleza,
 «El Sol y la Luna se volverían locos; Zuhrah», dijo,
@@ -1426,7 +1426,7 @@ Cuando el Amado del Augurio Real
 Fue rescatado de la esclavitud de Absál,
 Entonces se levantó y sacudiéndose el polvo
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 De ese viaje perdido, ciñó su corazón,
 Y miró con túnica inmaculada al cielo.
@@ -1454,7 +1454,7 @@ Con el Diamante de la Sabiduría cortado y dijo:—
 “Eterno, ni la suma del deseo correcto;
 “Haz tú el Intelecto que preserva la Fe
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 “Tu consejero; y considerando Hoy
 “El campo de semillas de mañana, antes de que eso llegue a dar frutos,
@@ -1477,7 +1477,7 @@ Con el Diamante de la Sabiduría cortado y dijo:—
 “Inclinarás tu cuello bajo una doble carga.
 “El tirano va al infierno, no lo sigas.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 “No te conviertas en el combustible de sus fuegos.
 “Tú eres un Pastor, y tu rebaño el Pueblo,
@@ -1500,7 +1500,7 @@ Con el Diamante de la Sabiduría cortado y dijo:—
 “Ya es suficiente para hacerlos Rebelde)
 “Alimentando a tal Excedente como alimenta el Infierno.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 “Apropiados en alma y cuerpo sean ellos—misericordiosos
 “A la Pobreza—hospitalaria al Santo—
@@ -1527,7 +1527,7 @@ Y qué el Reino que le esperaba
 Cuando él había sacado su ¿Mano?
 ¿Qué significa ese montón de fuego? ¿Y qué significa el mar?
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Y qué esa Zuhrah Celestial que al fin
 Absál despejado del Espejo de su alma?
@@ -1556,7 +1556,7 @@ Lo que Él distribuye al Universo
 Los sabios, y todos los que comprenden correctamente,
 Reconocerá que Más alto en El Sabio.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Suyo es el Espíritu Primario que, espontáneamente
 Proyectado por la Décima Inteligencia,
@@ -1584,7 +1584,7 @@ No estuvo a la altura de su deseo? —Eso era para demostrar
 Cómo cansa la Pasión, y cómo con el Tiempo comienza
 El plegado de la alfombra del deseo
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Y qué el giro del corazón de Salámán
 De regreso al Sha, y mirando hacia el Trono

@@ -82,7 +82,7 @@ Así dicen algunos necios. (¿Pero cómo pueden explicar con su teoría que) qui
 
 ¿Cómo pueden quienes sostienen tales opiniones explicar la diversidad de la existencia en el mundo? Van de la oscuridad a la oscuridad absoluta, siendo necios y dedicados a las obras. (14)
 
-Algunos [^682] dicen que hay cinco elementos y que <span id="p238">[<sup><small>p. 238</small></sup>]</span> el alma es una sexta (sustancia), pero sostienen que el alma y el mundo (es decir, los cinco elementos) son eternos. (15)
+Algunos [^682] dicen que hay cinco elementos y que <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> el alma es una sexta (sustancia), pero sostienen que el alma y el mundo (es decir, los cinco elementos) son eternos. (15)
 
 «Estas (seis sustancias) no perecen ni (sin ni con causa); lo no existente no llega a existir, sino que todas las cosas son eternas por su propia naturaleza [^683]». (16)
 

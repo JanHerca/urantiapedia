@@ -54,7 +54,7 @@ Las ceremonias son la expresión externa de los sentimientos internos.
 
 Si el Tao perece, perecerá la Virtud; si la Virtud perece, perecerá la Caridad; si la Caridad perece, perecerá el Deber hacia el prójimo; si el Deber hacia el prójimo perece, perecerán las Ceremonias.
 
-Las ceremonias no son más que la apariencia de lealtad y <span id="p26">[<sup><small>p. 26</small></sup>]</span> buena fe, aunque a menudo son la fuente del desorden. El conocimiento de lo externo no es más que un adorno ostentoso del Tao, aunque a menudo es el comienzo de la imbecilidad.
+Las ceremonias no son más que la apariencia de lealtad y <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> buena fe, aunque a menudo son la fuente del desorden. El conocimiento de lo externo no es más que un adorno ostentoso del Tao, aunque a menudo es el comienzo de la imbecilidad.
 
 Por lo tanto, el hombre verdaderamente grande se basa en lo sólido, no en lo superficial; en lo real, no en lo ornamental. Rechaza lo segundo en favor de lo primero.
 
@@ -78,7 +78,7 @@ Quien confía en la abundancia de su virtud natural es como un niño recién nac
 
 Modera tu agudeza, desenreda tus ideas, modera tu brillantez, vive en armonía con tu edad. Esto es estar en conformidad con el principio del Tao. Un hombre así es inmune tanto al favor como a la desgracia, a los beneficios como a las injurias, al honor como al desprecio. Y, por lo tanto, es estimado por encima de toda la humanidad.
 
-Para gobernar a los hombres y servir al Cielo, no hay nada como la moderación. Pues solo con moderación se puede lograr un pronto retorno a la normalidad. Este pronto retorno equivale a una gran acumulación de Virtud. Con una gran acumulación de Virtud, nada es imposible de lograr. Si nada es imposible de lograr, nadie sabrá hasta dónde llega este poder. Y si nadie sabe hasta dónde llega el poder de un hombre, ese hombre es apto para gobernar un Estado. Poseyendo el secreto del gobierno, su gobierno perdurará. Afianzar la raíz principal y <span id="p28">[<sup><small>p. 28</small></sup>]</span> fortalecer las raíces extendidas: esta es la manera de asegurar una larga vida al árbol.
+Para gobernar a los hombres y servir al Cielo, no hay nada como la moderación. Pues solo con moderación se puede lograr un pronto retorno a la normalidad. Este pronto retorno equivale a una gran acumulación de Virtud. Con una gran acumulación de Virtud, nada es imposible de lograr. Si nada es imposible de lograr, nadie sabrá hasta dónde llega este poder. Y si nadie sabe hasta dónde llega el poder de un hombre, ese hombre es apto para gobernar un Estado. Poseyendo el secreto del gobierno, su gobierno perdurará. Afianzar la raíz principal y <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> fortalecer las raíces extendidas: esta es la manera de asegurar una larga vida al árbol.
 
 El Tao es el santuario donde todas las cosas encuentran refugio, el tesoro inestimable del hombre bueno, el guardián y salvador de aquel que no es bueno.
 
@@ -92,7 +92,7 @@ Los filósofos hábiles de la antigüedad eran sutiles, espirituales, profundos 
 
 Se encogían, como quien vadea un arroyo en invierno. Eran cautelosos, como quien teme un ataque desde cualquier parte. Eran circunspectos, como un huésped extraño; modestos, como hielo a punto de derretirse; sencillos, como madera sin pulir; vacíos, como un valle; opacos, como agua turbia.
 
-Cuando se llegan a acuerdos tras una gran disputa, es inevitable que quede cierto resentimiento. ¿Cómo <span id="p29">[<sup><small>p. 29</small></sup>]</span> solucionar esto? Por lo tanto, tras firmar un acuerdo, el Sabio cumple con sus obligaciones, [^3] pero no exige el cumplimiento de los demás. El hombre con Virtud atiende al espíritu del pacto; el hombre sin Virtud solo atiende a sus exigencias.
+Cuando se llegan a acuerdos tras una gran disputa, es inevitable que quede cierto resentimiento. ¿Cómo <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> solucionar esto? Por lo tanto, tras firmar un acuerdo, el Sabio cumple con sus obligaciones, [^3] pero no exige el cumplimiento de los demás. El hombre con Virtud atiende al espíritu del pacto; el hombre sin Virtud solo atiende a sus exigencias.
 
 Quien intenta gobernar un reino con sagacidad es su despojo; pero quien no gobierna con sagacidad es su bendición. Quien comprende estos dos dichos puede ser considerado un modelo a seguir. Mantener este principio constantemente presente se llama Virtud Profunda. La Virtud Profunda es insondable, trascendental, paradójica al principio, pero luego exhibe una completa conformidad con la Naturaleza.
 

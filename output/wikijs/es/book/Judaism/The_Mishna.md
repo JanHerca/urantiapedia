@@ -23,10 +23,10 @@ dateCreated: 2025-2-6T12:57:9Z
 
 <p style="text-align:center;">
 משניות<br>
-<hr>
-י״ח מסכתות
-<span class="text-h5">מששה סדרי משנה</span>
-<hr>
+<br>
+י״ח מסכתות<br>
+<span class="text-h5">מששה סדרי משנה</span><br>
+<br>
 DIECIOCHO TRATADOS<br>
 DE<br>
 <span class="text -h3">LA MISNHÁ.</span><br>

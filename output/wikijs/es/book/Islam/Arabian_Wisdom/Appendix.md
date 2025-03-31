@@ -29,7 +29,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## ¿Qué es la justicia?
 
@@ -37,7 +37,7 @@ dateCreated: 2024-11-25T21:10:31Z
 
 Este bello pasaje del Corán es considerado por los comentaristas musulmanes como la declaración más completa de los deberes del hombre: «Una fe sana, una buena vida social y una correcta cultura del alma» (El-Beidaway).
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 _Instrucciones de Ali Ibn-abi Talib, el primer califa a su hijo_—«Hijo mío, teme a Dios tanto en secreto como abiertamente; di la verdad, ya seas calmado o enojado; sé económico, ya seas pobre o rico; sé justo con amigos y enemigos; sé resignado por igual en tiempos de adversidad y prosperidad. Hijo mío, el que ve sus propias faltas no tiene tiempo para ver las faltas de los demás; el que está satisfecho con las asignaciones de la Providencia no lamenta el pasado; el que desenvaina la espada de la agresión será asesinado por ella; el que cava un hoyo para su hermano caerá en él; el que olvida su propio pecado hace mucho del pecado de otro; el que toma malos caminos será despreciado; el que comete excesos será conocido por hacerlos; el que se asocia con la base estará sujeto a constante sospecha; el que recuerda la muerte se contentará con poco en este mundo; el que se jacta de sus pecados ante los hombres, Dios lo avergonzará».
 
@@ -75,7 +75,7 @@ _Árabe._ Dejaré una tierra en la que habitas y me iré, aunque la mano de la f
 
 _Ma’an__._ Hermano árabe, si te quedas, eres bienvenido; y si te vas, la paz sea contigo.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 _Arab._ Hijo de la vergüenza, dame algo para mi viaje, porque he decidido ir.
 
@@ -87,7 +87,7 @@ _Arab._ Noble príncipe, he oído hablar mucho de tu gran paciencia, y he venido
 
 El siguiente incidente histórico es relatado por autores árabes como el mayor ejemplo de fidelidad a la confianza. Al-Samau’al (Samuel) era el emir de una tribu judía en el sur de Arabia, poco antes de la época de Mahoma. Un amigo suyo, antes de emprender un viaje, le dejó una armadura de malla muy fina. Este amigo murió en una batalla, y uno de los reyes de Siria exigió las armas. Al-Samau’al se negó a entregarlas excepto al heredero legítimo, y el rey lo sitió en una de sus fortalezas. Un día su hijo cayó en manos del enemigo, y el rey amenazó con matarlo si no le entregaba las armas. Nuevamente se negó, y desde las torretas del castillo vio a su hijo ejecutado. El sitio se levantó poco después, y las armas fueron entregadas a los herederos de su amigo.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## Veracidad al compromiso
 
@@ -145,7 +145,7 @@ Y sonríe con desprecio ante este espectáculo tan lamentable;
 Una multitud de cadáveres pasó por allí—
 ¡Ay! El tiempo casi cosecha todo lo que siembra!
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Cuán a menudo alrededor del Pozo mi alma andaría a tientas
 Tenía sed; pero a! mi Cubo estaba sin cuerda:
@@ -177,7 +177,7 @@ Tres cosas no son deshonra para el hombre: servir a su huésped, servir a su cab
 
 Los extremos son un error: un término medio es el mejor.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Cuando los cocineros son muchos la comida se estropea. Cuando un barco tiene dos capitanes se hunde.
 
@@ -211,7 +211,7 @@ Si quieres saber lo que tiene un hombre, no mires lo que gana sino lo que gasta.
 
 Nada puede ser ocultado excepto lo que no es.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 El mejor amigo es aquel que no cambia con los cambios del tiempo.
 

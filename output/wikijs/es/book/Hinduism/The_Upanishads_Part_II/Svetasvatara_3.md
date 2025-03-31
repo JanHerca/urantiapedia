@@ -40,7 +40,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 2\. Porque solo hay un Rudra, no admiten segundo, quien gobierna todos los mundos con sus poderes. Él está detrás de todas las personas [^751], y tras haber creado todos los mundos, él, el protector, los enrolla [^752] al final de los tiempos.
 
-3 [^753]. Ese dios único, con sus ojos, su rostro, sus brazos y sus pies en todas partes, al crear el cielo y la tierra, los forja junto con sus brazos y sus alas [^754]. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 4\. Él [^755], el creador y sustentador de los dioses, Rudra, el gran vidente, el señor de todo, quien en el pasado dio a luz a Hiranyagarbha, que nos conceda buenos pensamientos.
+3 [^753]. Ese dios único, con sus ojos, su rostro, sus brazos y sus pies en todas partes, al crear el cielo y la tierra, los forja junto con sus brazos y sus alas [^754]. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 4\. Él [^755], el creador y sustentador de los dioses, Rudra, el gran vidente, el señor de todo, quien en el pasado dio a luz a Hiranyagarbha, que nos conceda buenos pensamientos.
 
 5 [^756]. ¡Oh Rudra, tú que moras en las montañas, míranos con esa forma tuya más bendita que es auspiciosa, no terrible y no revela ningún mal!
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 8 [^759]. Conozco a esa gran persona (purusha) de brillo solar más allá de la oscuridad [^760]. Quien lo conoce verdaderamente, supera la muerte; no hay otro camino a seguir [^761].
 
-9\. Todo este universo está lleno de esta persona (purusha), a quien nada le supera, a quien nada le difiere, a quien nada es <span id="p246">[<sup><small>p. 246</small></sup>]</span> menor ni mayor, que se yergue sola, fija como un árbol en el cielo [^762].
+9\. Todo este universo está lleno de esta persona (purusha), a quien nada le supera, a quien nada le difiere, a quien nada es <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> menor ni mayor, que se yergue sola, fija como un árbol en el cielo [^762].
 
 10\. Lo que está más allá de este mundo carece de forma y de sufrimiento. Quienes lo conocen se vuelven inmortales, pero otros sufren dolor de verdad [^763].
 
@@ -58,7 +58,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 12\. Esa persona (purusha) es el gran señor; es el motor de la existencia [^765], posee el poder más puro de alcanzar todo [^766], es luz, es indestructible.
 
-13 [^767]. La persona (purusha), no más grande que un pulgar, <span id="p247">[<sup><small>p. 247</small></sup>]</span> que mora en el interior, siempre morando en el corazón del hombre, es percibida por el corazón, el pensamiento [^768], la mente; quienes la conocen se vuelven inmortales.
+13 [^767]. La persona (purusha), no más grande que un pulgar, <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> que mora en el interior, siempre morando en el corazón del hombre, es percibida por el corazón, el pensamiento [^768], la mente; quienes la conocen se vuelven inmortales.
 
 14 [^769]. La persona (purusha) con mil cabezas, mil ojos, mil pies, habiendo rodeado la tierra por todos lados, se extiende más allá de ella por el ancho de diez dedos.
 
@@ -68,7 +68,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 17\. Separado de todos los sentidos, pero reflejando las cualidades de todos ellos, es el señor y gobernante de todo, es el gran refugio de todo.
 
-18\. El espíritu encarnado dentro de la ciudad con nueve puertas [^773], el pájaro, revolotea hacia afuera, gobernante del <span id="p248">[<sup><small>p. 248</small></sup>]</span> mundo entero, de todo lo que reposa y de todo lo que se mueve.
+18\. El espíritu encarnado dentro de la ciudad con nueve puertas [^773], el pájaro, revolotea hacia afuera, gobernante del <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> mundo entero, de todo lo que reposa y de todo lo que se mueve.
 
 19\. Agarrando sin manos, apresurándose sin pies, ve sin ojos, oye sin oídos. Sabe lo que se puede saber, pero nadie lo conoce; lo llaman el primero, la gran persona (purusha).
 

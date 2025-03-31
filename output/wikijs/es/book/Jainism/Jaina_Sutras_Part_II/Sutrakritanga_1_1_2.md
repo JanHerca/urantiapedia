@@ -36,7 +36,7 @@ CAPÍTULO SEGUNDO.
 
 Además, algunos [^688] dicen: 'Está probado que hay almas individuales; experimentan placer y dolor; y (al morir) pierden su estado de vida. (1)
 
-«Pero la miseria (y el placer) no son causados ​​por (las almas) mismas; ¿cómo podrían ser causados ​​por otros (agentes, como el tiempo, etc.)? El placer y la miseria, la beatitud final [^689] y el (placer y el dolor) temporal no son <span id="p240">[<sup><small>p. 240</small></sup>]</span> causados ​​por (las almas) mismas, ni por otros; sino que las almas individuales los experimentan; es lo que les asigna el destino». Esto es lo que dicen (es decir, los fatalistas). (2, 3)
+«Pero la miseria (y el placer) no son causados ​​por (las almas) mismas; ¿cómo podrían ser causados ​​por otros (agentes, como el tiempo, etc.)? El placer y la miseria, la beatitud final [^689] y el (placer y el dolor) temporal no son <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> causados ​​por (las almas) mismas, ni por otros; sino que las almas individuales los experimentan; es lo que les asigna el destino». Esto es lo que dicen (es decir, los fatalistas). (2, 3)
 
 Aquellos que proclaman estas opiniones son tontos que se creen eruditos; no tienen conocimiento y no entienden que las cosas dependen en parte del destino y en parte del esfuerzo humano [^690]. (4)
 
@@ -52,7 +52,7 @@ El desdichado animal, al ser de intelecto débil, corre hacia el lugar peligroso
 
 Así, algunos <i>Srama<i>n</i>as indignos que sostienen doctrinas erróneas tienen miedo de lo que está libre de peligro, y no tienen miedo de los peligros reales. (a)
 
-Los necios temen la predicación de la Ley, pero <span id="p241">[<sup><small>p. 241</small></sup>]</span> no temen las obras, pues carecen de discernimiento y conocimiento. (11)
+Los necios temen la predicación de la Ley, pero <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> no temen las obras, pues carecen de discernimiento y conocimiento. (11)
 
 Al desprenderse de la codicia [^693], el orgullo [^694], el engaño [^695] y la ira [^696], uno se libera del Karman. Este es un tema al que un hombre ignorante, como un animal bruto, no presta atención. (12)
 
@@ -68,7 +68,7 @@ Como cuando un hombre en un bosque que no lo conoce sigue a un guía que tampoco
 
 Así como cuando un ciego es guía de otro, el hombre camina una gran distancia, se pierde o sigue un camino equivocado; (19)
 
-Así, algunos que buscan la salvación y pretenden <span id="p242">[<sup><small>p. 242</small></sup>]</span> practicar la Ley (verdadera), siguen la Ley falsa y no llegan a lo completamente correcto (es decir, el autocontrol). (20)
+Así, algunos que buscan la salvación y pretenden <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> practicar la Ley (verdadera), siguen la Ley falsa y no llegan a lo completamente correcto (es decir, el autocontrol). (20)
 
 Así, algunos (filósofos equivocados) no recurren a otros en busca de argumentos, sino que continúan cometiendo errores porque creen que sus propios argumentos son correctos [^698]. (21)
 

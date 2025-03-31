@@ -75,7 +75,7 @@ Mientras tanto, Ganga no se libró de las bromas de sus amigos.
 
 Ganga no supo qué responder. El festín lo aburría. Uno de sus amigos le ofreció una copa de vino embriagante.
 
-«Bebe, Ganga», dijo. «Nos reímos, y tú <span id="p230">[<sup><small>p. 230</small></sup>]</span> estás a punto de llorar. Ven, ríe con nosotros. Bebe; este vino te enseñará a reír».
+«Bebe, Ganga», dijo. «Nos reímos, y tú <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> estás a punto de llorar. Ven, ríe con nosotros. Bebe; este vino te enseñará a reír».
 
 Ganga tomó la copa. Bebió. Se animó. Volvió a beber. Al poco rato, estaba borracho. Y siguió bebiendo hasta que, finalmente, cayó en un sueño profundo.
 

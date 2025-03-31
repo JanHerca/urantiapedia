@@ -44,13 +44,13 @@ La secuencia ordenada de los hexagramas [^297]
 
 6-8. Sung sin duda provocará el levantamiento de las multitudes [^300]; por lo tanto, le sigue Sze. Sze tiene el significado de multitudes [^300], y entre las multitudes debe existir algún vínculo de unión. Por lo tanto, le sigue Pî, que denota apego a.
 
-8-11. Las multitudes en unión deben estar sujetas a cierta restricción. Por lo tanto, a Pî le sigue Hsiâo <span id="p434">[<sup><small>p. 434</small></sup>]</span> Khû. Cuando las cosas se someten a restricción, surgen ritos ceremoniales, y por lo tanto, a Hsiâo Khû le sigue Lî [^301]. El paso por lo apropiado conduce a Thâi, que resulta en un estado de libertad y reposo, y por lo tanto, a Lî le sigue Thâi.
+8-11. Las multitudes en unión deben estar sujetas a cierta restricción. Por lo tanto, a Pî le sigue Hsiâo <span id="p434"><sup><small>[ p. 434 ]</small></sup></span> Khû. Cuando las cosas se someten a restricción, surgen ritos ceremoniales, y por lo tanto, a Hsiâo Khû le sigue Lî [^301]. El paso por lo apropiado conduce a Thâi, que resulta en un estado de libertad y reposo, y por lo tanto, a Lî le sigue Thâi.
 
 11-16. Thâi denota que las cosas tienen libre curso. No pueden tenerlo eternamente, por lo que le sigue Phî (que denota estar encerrado y restringido). Las cosas no pueden estar encerradas eternamente, por lo que Phî le sigue Thung Žân. A quien cultiva la unión con los hombres, las cosas deben llegar a pertenecerle, por lo que Thung Žân le sigue Tâ Yû. Quienes poseen lo grande no deben permitirse la sensación de plenitud, por lo que Tâ Yû le sigue <i>Kh</i>ien. Cuando las grandes posesiones se asocian con la humildad, es seguro que habrá placer y satisfacción; por lo que <i>Kh</i>ien le sigue Yü.
 
 16-19. Donde se despierta tal complacencia, quien la causa seguramente tendrá seguidores [^302]. Quienes siguen a otro seguramente tendrán servicios que realizar, y por lo tanto, a Sui le sigue Kû [^303]. Kû significa (la realización de) servicios. Quien realiza tales servicios puede llegar a ser grande con el tiempo, y por lo tanto, a Kû le sigue Lin. Lin significa grande [^303].
 
-19-23. Lo grandioso atrae la contemplación, y por eso a Lin le sigue Kwân. Quien atrae la contemplación propiciará la unión de los demás consigo mismo, y por eso a Kwân le sigue Shih Ho. Shih Ho significa unión. Pero las cosas no deben unirse de forma imprudente o irregular, y por eso a Shih Ho le sigue <span id="p435">[<sup><small>p. 435</small></sup>]</span> Pî. Pî denota adorno. Cuando la ornamentación se ha llevado al máximo, su progreso llega a su fin; y por eso a Pî le sigue Po. Po denota decadencia y derrocamiento.
+19-23. Lo grandioso atrae la contemplación, y por eso a Lin le sigue Kwân. Quien atrae la contemplación propiciará la unión de los demás consigo mismo, y por eso a Kwân le sigue Shih Ho. Shih Ho significa unión. Pero las cosas no deben unirse de forma imprudente o irregular, y por eso a Shih Ho le sigue <span id="p435"><sup><small>[ p. 435 ]</small></sup></span> Pî. Pî denota adorno. Cuando la ornamentación se ha llevado al máximo, su progreso llega a su fin; y por eso a Pî le sigue Po. Po denota decadencia y derrocamiento.
 
 23-26. Las cosas no pueden eliminarse para siempre. Cuando la decadencia y la destrucción han completado su labor en un extremo, la reintegración comienza en el otro; y, por lo tanto, a Po le sigue Fû. Cuando el retorno (así indicado) ha tenido lugar, no hay ningún desorden precipitado, y a Fû le sigue Wû Wang. Dada la libertad del desorden y la insinceridad (que este nombre denota), puede haber acumulación (de virtud), y a Wû Wang le sigue Tâ <i>Kh</i>û.
 
@@ -58,7 +58,7 @@ La secuencia ordenada de los hexagramas [^297]
 
 ## SECCIÓN II
 
-31, 32. Existiendo el cielo y la tierra, todas las cosas materiales adquirieron su existencia. Habiendo existido todas las cosas materiales, surgieron el hombre y la mujer. De la existencia del hombre y la mujer surgieron el marido y la mujer. De <span id="p436">[<sup><small>p. 436</small></sup>]</span> marido y mujer surgieron padre e hijo. De padre e hijo surgieron gobernante y ministro. De gobernante y ministro surgieron lo alto y lo bajo. Cuando existió la distinción entre lo alto y lo bajo, surgieron las normas de decoro y rectitud.
+31, 32. Existiendo el cielo y la tierra, todas las cosas materiales adquirieron su existencia. Habiendo existido todas las cosas materiales, surgieron el hombre y la mujer. De la existencia del hombre y la mujer surgieron el marido y la mujer. De <span id="p436"><sup><small>[ p. 436 ]</small></sup></span> marido y mujer surgieron padre e hijo. De padre e hijo surgieron gobernante y ministro. De gobernante y ministro surgieron lo alto y lo bajo. Cuando existió la distinción entre lo alto y lo bajo, surgieron las normas de decoro y rectitud.
 
 La regla para la relación entre marido y mujer es que sea duradera. Por lo tanto, Hsien es seguido por Hăng. Hăng denota larga duración [^304].
 
@@ -66,7 +66,7 @@ La regla para la relación entre marido y mujer es que sea duradera. Por lo tant
 
 37-40. Cuando la correcta administración de la familia llega a su fin, surgen malentendidos y divisiones; por lo tanto, a Kiâ <i>Z</i>ăn le sigue Khwei. Khwei denota malentendidos y división; y tal estado sin duda dará lugar a dificultades y complicaciones. Por lo tanto, a Khwei le sigue <i>K</i>ien. <i>K</i>ien denota dificultades; pero las cosas no pueden permanecer así para siempre. Por lo tanto, a <i>K</i>ien le sigue <i>K</i>ieh, que denota relajación y tranquilidad.
 
-40-44. En un estado de relajación y tranquilidad, es inevitable que haya pérdidas; por lo tanto, a <i>K</i>ieh le sigue <span id="p437">[<sup><small>p. 437</small></sup>]</span> el Sol. Pero cuando el Sol (o la disminución) persiste sin fin, es inevitable que aumente. Por lo tanto, al Sol le sigue Yî. Cuando el aumento persiste sin fin, es inevitable que se disperse, y por lo tanto, a Yî le sigue Kwâi. Kwâi denota dispersión. Pero a la dispersión debe suceder un nuevo encuentro. Por lo tanto, a Kwâi le sigue Kâu, que denota dicho encuentro.
+40-44. En un estado de relajación y tranquilidad, es inevitable que haya pérdidas; por lo tanto, a <i>K</i>ieh le sigue <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> el Sol. Pero cuando el Sol (o la disminución) persiste sin fin, es inevitable que aumente. Por lo tanto, al Sol le sigue Yî. Cuando el aumento persiste sin fin, es inevitable que se disperse, y por lo tanto, a Yî le sigue Kwâi. Kwâi denota dispersión. Pero a la dispersión debe suceder un nuevo encuentro. Por lo tanto, a Kwâi le sigue Kâu, que denota dicho encuentro.
 
 44-48. Cuando las cosas se juntan, se forma una reunión. Por lo tanto, a Kâu le sigue Žhui, cuyo nombre denota ser reunido. Cuando (los hombres buenos) se reúnen y ascienden a las alturas, se produce lo que llamamos un avance ascendente; y por lo tanto, a Žhui le sigue Shăng. Cuando dicho avance continúa sin detenerse, es inevitable que sobrevenga la angustia; y por lo tanto, a Shăng le sigue Khwăn. Cuando se siente la angustia en la altura (que se ha alcanzado), es inevitable que se regrese al suelo; y por lo tanto, a Khwăn le sigue Žing.
 
@@ -84,7 +84,7 @@ Avanzando (gradualmente). Con el avance se llega a cierto punto, y por eso, a Ki
 
 59-62. Un estado de división no puede durar eternamente, y por lo tanto, a Hwan le sigue Žieh. Habiendo establecido Žieh (o el sistema de regulaciones), los hombres creen en él, y por lo tanto, le sigue <i>K</i>ung Fû. Cuando los hombres tienen la creencia que implica <i>K</i>ung Fû, es seguro que la pondrán en práctica; y por lo tanto, le sucede Hsiâo Kwo.
 
-62-64. Quien supera a los demás sin duda remediará los males existentes, y por lo tanto, Hsiâo Kwo es sucedido por <i>K</i>î Žî. Pero la sucesión de acontecimientos no tiene fin, y por lo tanto, <i>K</i>î Žî es <span id="p439">[<sup><small>p. 439</small></sup>]</span> sucedido por Wei Žî, con lo cual concluyen los hexagramas.
+62-64. Quien supera a los demás sin duda remediará los males existentes, y por lo tanto, Hsiâo Kwo es sucedido por <i>K</i>î Žî. Pero la sucesión de acontecimientos no tiene fin, y por lo tanto, <i>K</i>î Žî es <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> sucedido por Wei Žî, con lo cual concluyen los hexagramas.
 
 <span id="p440">[<sup><small>pág. 440</small></sup>]</span>
 

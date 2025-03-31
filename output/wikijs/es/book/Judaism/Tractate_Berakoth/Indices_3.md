@@ -136,7 +136,7 @@ Salmos |
 114:1 ss. | [56](Berakoth_3_6#p56)
 119:126 | [88](Berakoth_3_9#p88) _sq_.
 119:164 | [90](Berakoth_3_9#p90)
-119:175 | [79](Berakoth_3_9#p79) <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+119:175 | [79](Berakoth_3_9#p79) <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 130:1 | [38](Berakoth_2_5#p38)
 137:7 | [14](Berakoth_1_1#p14)
 Prov. |

@@ -32,7 +32,7 @@ dateCreated: 2024-11-10T11:17:18Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ### MISTICISMO ORIENTAL.
 
@@ -44,7 +44,7 @@ Para los viajeros en la tierra debe saber
 
 El verso citado arriba, como la mayoría de los escritos poéticos orientales, es susceptible de una interpretación mística y mucho más elevada de la que parece a partir de una lectura meramente superficial. Es peculiarmente ilustrativo de la forma alegórica bajo la cual la vida intelectual del filósofo religioso es tratada por los persas, a saber, la de un viaje, cuyo objetivo último es el conocimiento de la Majestad Infinita de Dios; un plan similar al adoptado con referencia a la vida moral por nuestro propio John Bunyan en El progreso del peregrino. Al comienzo de sus tratados, el término Viajero se aplica sólo al hombre intelectual, pero la palabra se usa después en un sentido más amplio.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 En sentido general, así como en los escritos cristianos no es raro que al hombre se le llame Caminante, se le identifica a menudo con Discípulo. M. García de Tassy, en una obra ya mencionada en el prefacio, ha citado muy apropiadamente un verso de Santo Tomás que ilustra este punto:
 
@@ -55,7 +55,7 @@ Las páginas siguientes están dedicadas a la elucidación de este sistema y de 
 
 La primera parte contendrá una explicación de, 1, Los términos Viajero, Camino, Posadas o Etapas y Meta. 2, Las palabras Ley, Doctrina, Verdad y el Hombre Perfecto, según la definición oriental de ellas. 3, Qué se entiende por Compañerismo, Renuncia, Atracción y Devoción.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 El segundo, el relato sufí de, 1, La Naturaleza; 2, Los Atributos; 3, Las Obras de Dios; 4, Las Cuatro Fuentes Universales.
 

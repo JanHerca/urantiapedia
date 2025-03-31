@@ -44,7 +44,7 @@ DESCRIBIENDO LA VIDA EN PIN EN LOS TIEMPOS ANTIGUOS; LOS ARREGLOS PREVISTOS QUE 
 
 Si la pieza fue escrita, como suponen todos los críticos chinos, por el duque de Kâu, debemos suponer que escribe en la persona de un anciano granjero o hacendado de Pin. La imagen que ofrece de las costumbres del pueblo chino, su austeridad, está llena de interés; pero no es hasta la última estrofa que encontramos algo relacionado con sus prácticas religiosas.
 
-En los días de nuestro segundo mes, tallan el hielo con golpes armoniosos [^623]; y en los de nuestro tercer mes, lo llevan a las hieleras, que abren en los de nuestro cuarto, temprano por la mañana, tras ofrecer en sacrificio un cordero con cebolletas [^624]. En el noveno mes, hace frío, con escarcha. En el décimo mes, barren sus pilas. Llevan las dos botellas de licor para ofrecerlas a su gobernante, y tras sacrificar sus corderos y ovejas, van a su salón, y alzando <span id="p446">[<sup><small>p. 446</small></sup>]</span> la copa de cuerno de rinoceronte, le desean larga vida, para que viva para siempre [^625].
+En los días de nuestro segundo mes, tallan el hielo con golpes armoniosos [^623]; y en los de nuestro tercer mes, lo llevan a las hieleras, que abren en los de nuestro cuarto, temprano por la mañana, tras ofrecer en sacrificio un cordero con cebolletas [^624]. En el noveno mes, hace frío, con escarcha. En el décimo mes, barren sus pilas. Llevan las dos botellas de licor para ofrecerlas a su gobernante, y tras sacrificar sus corderos y ovejas, van a su salón, y alzando <span id="p446"><sup><small>[ p. 446 ]</small></sup></span> la copa de cuerno de rinoceronte, le desean larga vida, para que viva para siempre [^625].
 
 
 

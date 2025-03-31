@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/04100.jpg) DESOLADAS están las mansiones _de los bellos_, las estaciones en Minia, donde descansaban, y aquellas donde fijaban sus moradas! Salvajes son las colinas de Goul, y desierta está la cumbre de Rijaam.
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Las vacas salvajes de ojos grandes yacen amamantando a sus crías, de unos pocos días de edad, sus crías, que pronto se convertirán en una manada en la llanura.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 8\. Los torrentes han limpiado los escombros y han dejado al descubierto los rastros de las viviendas, como las cañas de un escritor restauran las letras borradas de un libro;
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. Apresuraron sus camellos, hasta que el vapor sofocante los robó poco a poco de tu vista; y parecían pasar por un valle salvaje con tamariscos y áspero con grandes piedras, como el valle de Beihsa.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 16\. Ah, ¿qué queda en tu recuerdo de la bella Nawara, ya que ahora ella vive a distancia, y todos los lazos de unión entre ella y tú, tanto fuertes como débiles, están desgarrados?
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. Sin embargo, incluso en esta condición, cuando su carne está debilitada y su cabello ralo, cuando, después de muchos días de trabajo, la correa de sus zapatos está rota,
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 24\. Incluso ahora tiene un espíritu tan vivaz, que vuela con las riendas, como una nube parda impulsada por el viento del sur, después de haber descargado su lluvia;
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. Cuando las plantas frescas de arfadge se mezclan en el montón, y el viento del norte juega con el fuego ardiente.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 33\. Él sigue adelante, pero la hace correr delante de él; porque tal es su curso habitual, cuando teme que ella se quede atrás.
 
@@ -122,7 +122,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 40\. Ella pasa la noche en agonía; mientras la lluvia cae en un chaparrón continuo, y empapa los bosques enmarañados con un arroyo profuso.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 41\. Ella se refugia bajo la raíz de un árbol, cuyas ramas son espesas, separadas de otros árboles, al borde de una colina, cuyas finas arenas son sacudidas por su movimiento;
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. Cuando los arqueros desesperan _de alcanzarla con sus flechas_, dejan escapar sus perros de orejas largas, respondiendo a sus nombres, con cuerpos secos y delgados.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 50\. Se precipitan, pero ella blande contra ellos sus cuernos extendidos, largos y afilados como jabalinas hechas por la hábil mano de Samhar,
 
@@ -164,7 +164,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 59\. Compro el licor viejo a un precio caro, en botellas de cuero oscuro reposadas hace tiempo, o en barriles, negros de brea, cuyos sellos rompo, y luego lleno la copa alegre.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 60\. ¡Cuántas veces bebo vino puro por la mañana y atraigo hacia mí a la bella laudista, cuyos delicados dedos tocan hábilmente las cuerdas!
 
@@ -184,7 +184,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 68\. Sus atavíos están fuertemente agitados; una lluvia corre por su cuello; y su cíngulo está bañado en la espuma hirviente.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 69\. Levanta la cabeza: vuela libremente con las riendas sueltas; y se apresura a su meta, como una paloma se apresura al arroyo cuando su sed febril arrecia.
 
@@ -204,7 +204,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 77\. Allí coronan de carne, mientras los vientos invernales compiten con ráfagas feroces, un plato que fluye como un riachuelo, en el que los huérfanos hambrientos se sumergen ansiosamente.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 78\. Cuando las naciones se reúnen, algún héroe de nuestra tribu, firme en el debate, nunca deja de superar con poderes superiores la mayor dificultad.
 
@@ -222,7 +222,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 85\. Contentaos, pues, con las dispensaciones del Supremo Gobernante; porque Él, que mejor conoce nuestra naturaleza, ha dispensado justicia entre nosotros.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 86\. Cuando la paz ha sido establecida por nuestra tribu, la mantenemos intacta; y Aquel que la hace, hace que nuestra prosperidad sea completa.
 

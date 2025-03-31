@@ -67,7 +67,7 @@ Los músicos ya no se reían.
 
 —¡Te entendemos, Maestro! —gritaron—. ¡Te entendemos! Iremos a buscarnos.
 
-«Está bien», dijo el Buda. «Aprenderás <span id="p131">[<sup><small>p. 131</small></sup>]</span> la ley de mí. Entonces, como el rey Padmaka, quien sacrificó su cuerpo para salvar a su pueblo, entregarás tu inteligencia para salvar a la humanidad».
+«Está bien», dijo el Buda. «Aprenderás <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> la ley de mí. Entonces, como el rey Padmaka, quien sacrificó su cuerpo para salvar a su pueblo, entregarás tu inteligencia para salvar a la humanidad».
 
 Y los músicos escucharon con gran atención mientras contaba la historia del rey Padmaka.
 
@@ -93,7 +93,7 @@ Kasyapa pensó por un momento; luego cayó a los pies del Bendito y dijo:
 
 ¡Instrúyeme, oh Maestro! ¡No me dejes caminar más en la noche!
 
-Entonces el Bendito ascendió a una montaña y <span id="p134">[<sup><small>p. 134</small></sup>]</span> se dirigió a los hermanos Kasyapa y a sus discípulos.
+Entonces el Bendito ascendió a una montaña y <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> se dirigió a los hermanos Kasyapa y a sus discípulos.
 
 «Oh, monjes», dijo él, «todo en el mundo está en llamas. El ojo está en llamas; todo lo que ve está en llamas; todo lo que contemplamos en el mundo está en llamas. ¿Por qué? Porque el fuego del amor y del odio no se ha extinguido. Están cegados por las llamas de este fuego, y sufren el tormento del nacimiento y la vejez, la muerte y la miseria. ¡Oh, monjes, todo en el mundo está en llamas! Compréndanme, y para ustedes el fuego se extinguirá; sus ojos ya no estarán cegados por las llamas, y ya no disfrutarán del espectáculo abrasador en el que hoy se deleitan. Compréndanme, y sabrán que el nacimiento tiene un fin, sabrán que a esta tierra nunca necesitamos regresar».
 

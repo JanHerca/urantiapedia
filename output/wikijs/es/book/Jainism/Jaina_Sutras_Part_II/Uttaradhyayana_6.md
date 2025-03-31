@@ -36,7 +36,7 @@ SEXTA LECCIÓN. EL FALSO ASCÉTICO [^103].
 
 Todos los hombres que ignoran la Verdad están sujetos al dolor; en el Sa<i>m</i>sâra interminable sufren de muchas maneras. (1)
 
-Por lo tanto, un hombre sabio, que considera bien los caminos que llevan a la esclavitud [^104] y al nacimiento, debería <span id="p25">[<sup><small>p. 25</small></sup>]</span> buscar la verdad y ser amable con todas las criaturas. (2)
+Por lo tanto, un hombre sabio, que considera bien los caminos que llevan a la esclavitud [^104] y al nacimiento, debería <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> buscar la verdad y ser amable con todas las criaturas. (2)
 
 «Madre, padre, nuera, hermano, esposa e hijos no podrán ayudarme cuando sufra por mis propias acciones [^105]». (3)
 

@@ -50,7 +50,7 @@ He estado reflexionando —dijo— sobre la constancia de la proporción relativ
 
 “En eso tienes razón”, dije; “pero aún no entiendo tu teoría”.
 
-“Bueno”, continuó, “si las condiciones físicas del renacimiento humano están todas determinadas por el karma de la voluntad en relación con las condiciones físicas, entonces el sexo estaría determinado por la voluntad en relación con el sexo. Ahora bien, la voluntad de cada sexo se dirige hacia el otro. Por encima de todo, excepto la vida, el hombre desea a la mujer, y la mujer al hombre. Además, cada individuo, independientemente de cualquier relación personal, siente perpetuamente, dices, la influencia de algún ideal femenino o <span id="p199">[<sup><small>p. 199</small></sup>]</span>asculino innato, al que llamas 'un reflejo fantasmal de innumerables apegos en incontables vidas pasadas'. Y el deseo insaciable que representa este ideal bastaría por sí solo para crear el cuerpo masculino o femenino de la siguiente existencia”.
+“Bueno”, continuó, “si las condiciones físicas del renacimiento humano están todas determinadas por el karma de la voluntad en relación con las condiciones físicas, entonces el sexo estaría determinado por la voluntad en relación con el sexo. Ahora bien, la voluntad de cada sexo se dirige hacia el otro. Por encima de todo, excepto la vida, el hombre desea a la mujer, y la mujer al hombre. Además, cada individuo, independientemente de cualquier relación personal, siente perpetuamente, dices, la influencia de algún ideal femenino o <span id="p199"><sup><small>[ p. 199 ]</small></sup></span>asculino innato, al que llamas 'un reflejo fantasmal de innumerables apegos en incontables vidas pasadas'. Y el deseo insaciable que representa este ideal bastaría por sí solo para crear el cuerpo masculino o femenino de la siguiente existencia”.
 
 “Pero a la mayoría de las mujeres”, observé, “les gustaría renacer como hombres; y el cumplimiento de ese deseo difícilmente sería un castigo”.
 
@@ -72,7 +72,7 @@ He estado reflexionando —dijo— sobre la constancia de la proporción relativ
 
 “Pero usted sabe”, observé, “que hay textos budistas, en el _Saddharma Pundarîka_, por ejemplo, y en los _Vinayas_, que prohíben . . . . .
 
-“Esos textos”, interrumpió, “se refieren a seres imperfectos, inferiores al hombre y a la mujer: no podrían referirse a la condición que he estado suponiendo… Pero, recuerden, <span id="p201">[<sup><small>p. 201</small></sup>]</span> no estoy predicando una doctrina; solo estoy aventurando una teoría.”
+“Esos textos”, interrumpió, “se refieren a seres imperfectos, inferiores al hombre y a la mujer: no podrían referirse a la condición que he estado suponiendo… Pero, recuerden, <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> no estoy predicando una doctrina; solo estoy aventurando una teoría.”
 
 “¿Podría algún día publicar tu teoría?”, pregunté.
 

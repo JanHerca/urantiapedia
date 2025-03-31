@@ -42,7 +42,7 @@ Los predicadores de la nueva forma de la antigua fe viajaron lejos, sin dejarse 
 
 Uno u otro de estos predicadores había sido escuchado con avidez por un joven de alta alcurnia —Mirza Hussein Ali— quien, atraído por la gracia y la perfección del mensaje, se convirtió no solo en un fiel seguidor, sino en un defensor ferviente y poderoso. Consagró toda su energía —física, mental y espiritual— al servicio de Dios y del Báb.
 
-Persa de nacimiento y crianza, originario de Teherán, llegó a este mundo en 1817. Su padre, según sabemos, era visir y su abuelo, gran visir. Aristócrata entre aristócratas, <span id="p26">[<sup><small>p. 26</small></sup>]</span> conocía poco o nada de la educación de los escribas ni de las filosofías de los fariseos. Nacido en el seno de los gobernantes, no tuvo la oportunidad de acceder a la sabiduría de las escuelas ni el deseo de tratar en igualdad de condiciones con los mulás, con los especialistas mahometanos. Presentarse como sacerdote ordinario estaba fuera de su alcance. La sabiduría del sacerdotal estaba fuera del alcance de su posición. Incapaz de confiar en el conocimiento humano, tuvo que confiar ciegamente en la inspiración, y esta lo apoyó de forma admirable.
+Persa de nacimiento y crianza, originario de Teherán, llegó a este mundo en 1817. Su padre, según sabemos, era visir y su abuelo, gran visir. Aristócrata entre aristócratas, <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> conocía poco o nada de la educación de los escribas ni de las filosofías de los fariseos. Nacido en el seno de los gobernantes, no tuvo la oportunidad de acceder a la sabiduría de las escuelas ni el deseo de tratar en igualdad de condiciones con los mulás, con los especialistas mahometanos. Presentarse como sacerdote ordinario estaba fuera de su alcance. La sabiduría del sacerdotal estaba fuera del alcance de su posición. Incapaz de confiar en el conocimiento humano, tuvo que confiar ciegamente en la inspiración, y esta lo apoyó de forma admirable.
 
 Tenía poco menos de treinta años cuando se unió a los Babis y se convirtió en su inquebrantable maestro y líder.
 
@@ -76,7 +76,7 @@ Baha'u'llah pasó dos años solo entre las montañas cercanas a Bagdad, orando, 
 
 Después de esto llegó el momento de la proclamación.
 
-Su declaración de Sí mismo como el cumplimiento de la profecía del Predictor, la “Manifestación de <span id="p29">[<sup><small>p. 29</small></sup>]</span> Dios”, fue hecha aparentemente, al principio, en un período de ansiedad y angustia, a unos pocos de los elegidos.
+Su declaración de Sí mismo como el cumplimiento de la profecía del Predictor, la “Manifestación de <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Dios”, fue hecha aparentemente, al principio, en un período de ansiedad y angustia, a unos pocos de los elegidos.
 
 La proclamación pública no se produjo hasta cuatro o cinco años después, cuando, al ser pronunciada, fue inmediatamente aceptada por la gran mayoría de los babis, los seguidores del Báb, como de origen divino. Bahá'u'lláh era ahora el líder generalmente reconocido del movimiento. Los discípulos que antes se llamaban "babis" adoptaron el título de "bahais".
 
@@ -100,7 +100,7 @@ Es al menos una coincidencia interesante que, desde el mismo punto de Oriente de
 
 Con su palabra y su pluma, preparó a los hombres para recibir la iluminación. Escribió "tabletas" a amigos e investigadores, tanto en su país como en el extranjero, explicando detalladamente el porqué y el para qué de su misión en la tierra.
 
-No proclamó la creación de un nuevo credo <span id="p33">[<sup><small>p. 33</small></sup>]</span> ni echó raíces en una nueva religión. Al contrario, enseñó que todas las religiones surgían de la Raíz Divina. Deseaba, más bien, reeditar la expresión de aquellos divinamente designados, en cuyas palabras y autoridad se basaban las religiones del mundo. Esta nueva expresión era indispensable para el bienestar del mundo, pues la gente se había vuelto descuidada y se había entregado a la laxitud de pensamiento y vida. Se le instaba a todo hombre a permanecer fiel a la forma de fe en la que se encontraba, pero a romper las incrustaciones que habían ocultado su poder y belleza. El verdadero espíritu del fundador de la fe sería entonces reconocido de nuevo, y se instaba al creyente a seguir y obedecer ese espíritu con sinceridad. La verdad, según enseñó Bahá'u'lláh, había sido revelada por aquellos Seres Inspirados que dieron nombre a las grandes organizaciones religiosas. Estos habían aparecido en diferentes etapas históricas, en diversos lugares, durante diversas épocas del progreso de la humanidad, pero la esencia de su mensaje había sido la misma. Su expresión solo había variado para adaptarse a las exigencias del tiempo y el lugar.
+No proclamó la creación de un nuevo credo <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> ni echó raíces en una nueva religión. Al contrario, enseñó que todas las religiones surgían de la Raíz Divina. Deseaba, más bien, reeditar la expresión de aquellos divinamente designados, en cuyas palabras y autoridad se basaban las religiones del mundo. Esta nueva expresión era indispensable para el bienestar del mundo, pues la gente se había vuelto descuidada y se había entregado a la laxitud de pensamiento y vida. Se le instaba a todo hombre a permanecer fiel a la forma de fe en la que se encontraba, pero a romper las incrustaciones que habían ocultado su poder y belleza. El verdadero espíritu del fundador de la fe sería entonces reconocido de nuevo, y se instaba al creyente a seguir y obedecer ese espíritu con sinceridad. La verdad, según enseñó Bahá'u'lláh, había sido revelada por aquellos Seres Inspirados que dieron nombre a las grandes organizaciones religiosas. Estos habían aparecido en diferentes etapas históricas, en diversos lugares, durante diversas épocas del progreso de la humanidad, pero la esencia de su mensaje había sido la misma. Su expresión solo había variado para adaptarse a las exigencias del tiempo y el lugar.
 
 La bondadosa persistencia de Bahá'u'lláh en esta verdad interior, elemento vivificante de toda religión digna de ese nombre, tuvo un notable efecto unificador en quienes oían, y, oyendo, veían. Su actitud mutua, cuando sus creencias externas diferían, experimentó una santa transformación. Hombres de un credo estrecharon las manos de quienes tenían otro. La fraternidad religiosa, experimentada en el corazón, se manifestó visiblemente en la vida. La cabeza seguía a donde el corazón guiaba. [^4]
 
@@ -142,7 +142,7 @@ Una tabla, revelada por La Bendita Perfección, como sus discípulos se complace
 
 No hay continuidad en las riquezas de este mundo; aquello que está sujeto a la mortalidad y sufre un cambio, nunca ha existido y no vale la pena considerarlo.
 
-Como es bien sabido, el propósito de este Oprimido al soportar estas adversidades y calamidades... ha sido apagar el fuego del odio y la animosidad, para que, ¿quizás?, los horizontes de las mentes de los <span id="p39">[<sup><small>p. 39</small></sup>]</span> pueblos de este mundo brillen con la luz de la concordia y alcancen la verdadera tranquilidad...
+Como es bien sabido, el propósito de este Oprimido al soportar estas adversidades y calamidades... ha sido apagar el fuego del odio y la animosidad, para que, ¿quizás?, los horizontes de las mentes de los <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> pueblos de este mundo brillen con la luz de la concordia y alcancen la verdadera tranquilidad...
 
 ¡Oh, gente del mundo! Os exhorto a que asumáis lo que os permitirá alcanzar vuestra posición. Aférrense a la virtud de Dios y aferrémonos a la justicia.
 
@@ -160,7 +160,7 @@ El hombre verdadero aparece ante el Misericordioso como los cielos; su vista y s
 
 Ha prohibido la discordia y la disputa con una prohibición absoluta en el Libro (Kitba-el-Akdas).
 
-Éste es el mandato de Dios en Su más grande <span id="p40">[<sup><small>p. 40</small></sup>]</span> manifestación, y Él lo ha preservado de cualquier orden de anulación y lo ha adornado con el ornamento de la confirmación.
+Éste es el mandato de Dios en Su más grande <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> manifestación, y Él lo ha preservado de cualquier orden de anulación y lo ha adornado con el ornamento de la confirmación.
 
 En verdad, Él es el Omnisciente y el Sabio. . . .
 

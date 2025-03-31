@@ -114,7 +114,7 @@ Además, porque, cuando se prohíbe el sacrificio Amâvâsyâ, se ve que tiene l
 
 ## SUTRA LXXXIII.
 
-Un acto principal (pradhâna) va acompañado de actos auxiliares (aṅga). <span id="p339">[<sup><small>p. 339</small></sup>]</span>
+Un acto principal (pradhâna) va acompañado de actos auxiliares (aṅga). <span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 <span id="an83c"></span>
 
@@ -210,7 +210,7 @@ Se vierte (_g_uhoti) el Darvi-homas, sentado al oeste del fuego Âhavanîya y do
 
 ## SUTRA XCIII.
 
-Si se enuncia claramente, se hace de otra manera. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
+Si se enuncia claramente, se hace de otra manera. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 <span id="an93c"></span>
 
@@ -252,7 +252,7 @@ El Vasha<i>t</i>kâra consiste en la palabra Vasha_t_, que debe ser pronunciada 
 
 ## SUTRA XCVII.
 
-Con los Grahas el acto debe coincidir con el Upayâma. <span id="p342">[<sup><small>p. 342</small></sup>]</span>
+Con los Grahas el acto debe coincidir con el Upayâma. <span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 <span id="an97c"></span>
 

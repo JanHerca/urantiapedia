@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 2\. ¡Y a Vosotros, oh Generosos Inmortales [^1062]!, os dedicaría la carne de mi propio cuerpo [^1063], y todas las bendiciones de una vida próspera [^1064].
 
-3\. En este Zaothra con este Baresman, deseo <span id="p254">[<sup><small>p. 254</small></sup>]</span> acercarme a los santos Yazads con mi alabanza [^1065], y a todos los santos señores del orden ritual en sus tiempos, a Hâvani en su tiempo, y a Sâvanghi y Vîsya en sus tiempos. 4. Me confieso Mazdayasniano y de la orden de Zaratustra [^1066].
+3\. En este Zaothra con este Baresman, deseo <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> acercarme a los santos Yazads con mi alabanza [^1065], y a todos los santos señores del orden ritual en sus tiempos, a Hâvani en su tiempo, y a Sâvanghi y Vîsya en sus tiempos. 4. Me confieso Mazdayasniano y de la orden de Zaratustra [^1066].
 
 5\. El Zaotar habla: Como un Ahû (venerado y) elegido, el Zaotar (?) me habla (?).
 

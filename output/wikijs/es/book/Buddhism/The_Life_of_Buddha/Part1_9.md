@@ -105,7 +105,7 @@ Nosotros también podemos ser visitados por una aflicción similar, oh príncipe
 
 Al oír esta dolorosa verdad, el príncipe comenzó a temblar como un rayo de luna reflejado en las olas del mar, y pronunció estas palabras de amargura y piedad:
 
-Los hombres ven el sufrimiento y la enfermedad, ¡pero nunca pierden la confianza en sí mismos! ¡Oh, cuán grande debe ser su conocimiento! Constantemente están amenazados por la enfermedad, ¡y aún pueden reír y ser felices! Da la vuelta a tus caballos, auriga; nuestro viaje de placer ha terminado; regresemos al palacio. He aprendido a temer a la enfermedad. Mi alma rehúye el placer <span id="p46">[<sup><small>p. 46</small></sup>]</span> y parece cerrarse como una flor privada de luz.
+Los hombres ven el sufrimiento y la enfermedad, ¡pero nunca pierden la confianza en sí mismos! ¡Oh, cuán grande debe ser su conocimiento! Constantemente están amenazados por la enfermedad, ¡y aún pueden reír y ser felices! Da la vuelta a tus caballos, auriga; nuestro viaje de placer ha terminado; regresemos al palacio. He aprendido a temer a la enfermedad. Mi alma rehúye el placer <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> y parece cerrarse como una flor privada de luz.
 
 Envuelto en sus dolorosos pensamientos, regresó al palacio.
 
@@ -115,7 +115,7 @@ El rey estaba más ansioso que nunca por evitar que su hijo saliera del palacio.
 
 Dio órdenes estrictas de expulsar de la ciudad a todos los lisiados, enfermos o ancianos. Incluso cambió al auriga del príncipe, y estaba seguro de que esta vez nada perturbaría el alma de Siddhartha.
 
-Pero los dioses celosos crearon un cadáver. Cuatro hombres lo cargaron, y otros lo siguieron llorando. <span id="p47">[<sup><small>p. 47</small></sup>]</span> Y el cadáver, así como los hombres que lo cargaban y los que lloraban, solo fueron visibles para el príncipe y el auriga.
+Pero los dioses celosos crearon un cadáver. Cuatro hombres lo cargaron, y otros lo siguieron llorando. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> Y el cadáver, así como los hombres que lo cargaban y los que lloraban, solo fueron visibles para el príncipe y el auriga.
 
 Y el hijo del rey preguntó:
 
@@ -133,7 +133,7 @@ Entonces el príncipe Siddhartha supo lo que era la muerte.
 
 A pesar de su fortaleza, se estremeció. Tuvo que apoyarse en el carro, y sus palabras estaban llenas de angustia:
 
-¡Así a esto conduce el destino a todas las criaturas! Y, sin embargo, sin miedo en su corazón, ¡el hombre se divierte de mil maneras diferentes! La muerte se acerca, y él <span id="p48">[<sup><small>p. 48</small></sup>]</span> se lanza a los caminos del mundo con una canción en los labios. ¡Oh, empiezo a pensar que el alma del hombre se ha endurecido! Da la vuelta a tus caballos, auriga; este no es momento de vagar por los jardines de flores. ¿Cómo puede un hombre sensato, un hombre que sabe lo que es la muerte, buscar placer en la hora de la angustia?
+¡Así a esto conduce el destino a todas las criaturas! Y, sin embargo, sin miedo en su corazón, ¡el hombre se divierte de mil maneras diferentes! La muerte se acerca, y él <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> se lanza a los caminos del mundo con una canción en los labios. ¡Oh, empiezo a pensar que el alma del hombre se ha endurecido! Da la vuelta a tus caballos, auriga; este no es momento de vagar por los jardines de flores. ¿Cómo puede un hombre sensato, un hombre que sabe lo que es la muerte, buscar placer en la hora de la angustia?
 
 Pero el auriga siguió avanzando hacia el jardín donde el rey le había ordenado llevar a su hijo. Allí, por orden de Suddhodana, Udayin, hijo del sacerdote de la casa y amigo de Siddhartha desde la infancia, había reunido a muchas hermosas doncellas, expertas en el arte de la danza y el canto, y también en el juego del amor.
 

@@ -32,9 +32,9 @@ dateCreated: 2024-11-23T12:49:50Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 \[Las referencias entre corchetes corresponden a las páginas de la edición árabe de El Cairo. {Están escritas en la forma \[p. 3\], para evitar confusiones con los indicadores de notas al pie.—jbh}\]
 
@@ -48,7 +48,7 @@ _Y Oración por MUHAMMED! de todas las luces la Luz; Padre de los que hacen lo c
 
 Me has pedido, querido hermano, y que Alá decrete para ti la búsqueda de la mayor felicidad del hombre, te haga candidato para el Ascenso a la más alta altura, unja tu visión con la luz de la Realidad y purgue tus partes internas de todo lo que no es lo Real. Me has pedido, digo, que te comunique los misterios de las Luces Divinas, junto con las alusiones detrás del significado literal de ciertos textos del Corán y ciertos dichos de las Tradiciones.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Y principalmente este texto[^1]:—
 
@@ -60,7 +60,7 @@ _«Pero en cuanto a los infieles, sus acciones son como una masa de tinieblas so
 
 Y esta Tradición
 
-_“Allâh tiene Setenta mil velos de_ <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+_“Allâh tiene Setenta mil velos de_ <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 _Luz y Oscuridad: si Él retirara su cortina, entonces los esplendores de Su Aspecto[^2] seguramente consumirían a todo aquel que lo captara con su vista.”_
 
@@ -77,14 +77,14 @@ O, como dijo el Profeta—
 “Hay un conocimiento como la forma de un oculto
 cosa, conocida por nadie excepto aquellos que conocen a Dios”.
 
-Si, pues, éstos hablan de ese secreto, sólo los Hijos de la Ignorancia los contradecirán. Y por muchos que sean estos Ignorantes, los <span id="p78">[<sup><small>p. 78</small></sup>]</span> Misterios deben mantenerse inviolados de la mirada de los pecadores.
+Si, pues, éstos hablan de ese secreto, sólo los Hijos de la Ignorancia los contradecirán. Y por muchos que sean estos Ignorantes, los <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> Misterios deben mantenerse inviolados de la mirada de los pecadores.
 
 Pero creo que la Luz ha abierto vuestro corazón y vuestra conciencia ha sido purificada de la oscuridad de la Ignorancia. Por lo tanto, no seré tan tacaño como para negaros la dirección hacia estas gloriosas verdades en toda su fineza y toda su divinidad; porque el mal que se comete al privar a la Sabiduría de sus Hijos no es menor que el de cederla a quienes son Extraños para ella. Como dice el poeta:
 
 “El que otorga el conocimiento a los necios lo pierde,
 Y el que le niega el mérito comete un error.”
 
-Sin embargo, debéis contentaros con una explicación muy resumida del tema; pues la demostración completa de mi tema exigiría un tratamiento tanto de sus principios como de sus partes, para lo cual mi tiempo es insuficiente en la actualidad, y para lo cual ni mi mente ni mis energías están libres. Las llaves de todos los corazones están en manos de Alá: Él los abre cuando quiere, como quiere y con lo <span id="p79">[<sup><small>p. 79</small></sup>]</span> que quiere. Por ahora, entonces, bastará con abriros tres capítulos o partes, de los cuales el primero es el que sigue a continuación.
+Sin embargo, debéis contentaros con una explicación muy resumida del tema; pues la demostración completa de mi tema exigiría un tratamiento tanto de sus principios como de sus partes, para lo cual mi tiempo es insuficiente en la actualidad, y para lo cual ni mi mente ni mis energías están libres. Las llaves de todos los corazones están en manos de Alá: Él los abre cuando quiere, como quiere y con lo <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> que quiere. Por ahora, entonces, bastará con abriros tres capítulos o partes, de los cuales el primero es el que sigue a continuación.
 
 <br>
 

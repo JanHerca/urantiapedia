@@ -94,7 +94,7 @@ No cometas calumnias; para que la infamia y la maldad no te sucedan. Porque se d
 
 “No practiques la pereza, para que el deber y el buen trabajo que es necesario que hagas no queden sin hacer.
 
-“Elige una esposa que tenga carácter, porque <span id="p60">[<sup><small>p. 60</small></sup>]</span> es buena la que al final es más respetada.
+“Elige una esposa que tenga carácter, porque <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> es buena la que al final es más respetada.
 
 . . . .
 
@@ -128,7 +128,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 2\. Entonces Ahura-Mazda respondió: «Se sienta junto a su cabeza, recitando el Gâthâ Ustavaiti, implorando felicidad para sí misma: «Que la felicidad sea para quien contribuye a la felicidad de todos. Que Ahura-Mazda cree, gobernando según su voluntad». En esta noche, el alma experimenta tanta alegría como la que posee todo el mundo viviente.
 
-3\. “¿Dónde mora el alma durante la segunda noche?” <span id="p62">[<sup><small>p. 62</small></sup>]</span> 4\. Entonces Ahura-Mazda respondió: “Cerca de su cabeza se asienta”, etc. (como en el verso 2).
+3\. “¿Dónde mora el alma durante la segunda noche?” <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 4\. Entonces Ahura-Mazda respondió: “Cerca de su cabeza se asienta”, etc. (como en el verso 2).
 
 5\. “¿Dónde permanece su alma durante la tercera noche?”
 
@@ -142,7 +142,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 10\. "Entonces, a ella (la doncella) le habla el alma del hombre puro, preguntando: '¿Qué doncella eres tú, a quien he visto aquí como la más hermosa de las doncellas en cuerpo?'
 
-11\. Entonces le responde su propia ley: «Soy, joven, tus buenos pensamientos, palabras y obras, tu buena ley, la ley de tu propio cuerpo, que, en referencia a ti, sería como tú en grandeza, bondad y belleza, perfumada, victoriosa, inofensiva, tal como me pareces a mí. <span id="p63">[<sup><small>p. 63</small></sup>]</span> 12\. «Eres como yo, joven de buenas palabras, de buenos pensamientos y de buenas acciones, devoto de la buena ley, tan grande, bondad y belleza como yo me parece a ti.»
+11\. Entonces le responde su propia ley: «Soy, joven, tus buenos pensamientos, palabras y obras, tu buena ley, la ley de tu propio cuerpo, que, en referencia a ti, sería como tú en grandeza, bondad y belleza, perfumada, victoriosa, inofensiva, tal como me pareces a mí. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> 12\. «Eres como yo, joven de buenas palabras, de buenos pensamientos y de buenas acciones, devoto de la buena ley, tan grande, bondad y belleza como yo me parece a ti.»
 
 . . . .
 
@@ -154,7 +154,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 19\. Zaratustra preguntó a Ahura-Mazda: «Ahura-Mazda, Celestial, Santísimo, Creador del mundo corpóreo, ¡Puro! Cuando un malvado muere, ¿dónde mora el alma durante esta noche?»
 
-20\. Entonces Ahura-Mazda respondió: «Allí, oh puro Zaratustra, cerca de la cabeza corretea mientras recita la oración Ké mánm, etc.: '¿Qué tierra alabaré, adónde iré a orar, oh Ahura-Mazda?'. En esta noche, el alma ve tanto desagrado como todo el mundo viviente. <span id="p64">[<sup><small>p. 64</small></sup>]</span> 25\. »Cuando el lapso de la tercera noche se acerca a la luz, oh puro Zaratustra, entonces el alma del hombre malvado va al lugar impuro, recogiéndose continuamente en el hedor. Le llega un viento que sopla desde la Región Norte, un viento maloliente, más maloliente que otros vientos.
+20\. Entonces Ahura-Mazda respondió: «Allí, oh puro Zaratustra, cerca de la cabeza corretea mientras recita la oración Ké mánm, etc.: '¿Qué tierra alabaré, adónde iré a orar, oh Ahura-Mazda?'. En esta noche, el alma ve tanto desagrado como todo el mundo viviente. <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> 25\. »Cuando el lapso de la tercera noche se acerca a la luz, oh puro Zaratustra, entonces el alma del hombre malvado va al lugar impuro, recogiéndose continuamente en el hedor. Le llega un viento que sopla desde la Región Norte, un viento maloliente, más maloliente que otros vientos.
 
 26\. "Cuando el alma del malvado recibe este viento en la nariz, dice: '¿De dónde viene este viento que huelo con la nariz como el viento más pestilente?'
 
@@ -168,7 +168,7 @@ Con los enemigos lucha con equidad. Con un amigo procede con la aprobación de l
 
 La decimotercera pregunta es la que planteas: ¿Quién debe preparar la cuenta del alma en cuanto a pecados y buenas obras, y dónde deben contabilizarla? Y cuando infligen castigo, ¿dónde está entonces su lugar?
 
-La respuesta es esta: que el arcángel Vohûmano debe preparar el registro de los hacedores de acciones, en cuanto a buenas obras y pecados, tres veces al día mientras el hacedor de las acciones esté <span id="p65">[<sup><small>p. 65</small></sup>]</span> vivo; porque tomar nota de los pensamientos, palabras y acciones de todas las existencias materiales es uno de sus deberes.
+La respuesta es esta: que el arcángel Vohûmano debe preparar el registro de los hacedores de acciones, en cuanto a buenas obras y pecados, tres veces al día mientras el hacedor de las acciones esté <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> vivo; porque tomar nota de los pensamientos, palabras y acciones de todas las existencias materiales es uno de sus deberes.
 
 Y sobre el pecado que afecta a los acusadores, cometido por quienes rompen promesas, incluso en el mundo, se dice que Mitrô está al mando de los cuerpos, palabras y fortunas de quienes rompen promesas; y en cuanto a la cantidad, y también en cuanto a exceder lo estipulado cuando hay un período de tiempo, Mitrô es el contador. En la cuenta de las tres noches, Srôsh el justo y Rashnû el justo están al mando de la estimación de los límites de las buenas obras y del pecado de rectitud y maldad. En la existencia futura, al completar cada cuenta, el Creador Aûharmazd mismo toma cuentas, por quien tanto la cuenta anterior de las tres noches como todos los pensamientos, palabras y acciones de las criaturas son conocidos mediante su sabiduría omnisciente.
 
@@ -192,7 +192,7 @@ Esto te pregunto, ¡oh Ahura! Dime con claridad: ¿quién desde abajo ha sosteni
 
 ¡Esto te pregunto, oh Ahura! Dime con claridad lo que voy a decir, si es cierto. ¿Acaso la Piedad (que apreciamos) realmente aumenta el sagrado orden en nuestras acciones? A estos, Tus verdaderos santos, ella les ha otorgado el Reino mediante la Buena Mente. ¿Para quién has creado a la Madre-rebaño, la productora de alegría?
 
-¡Esto te pregunto, oh Ahura! Dime con claridad: ¿quién creó a Âramaiti (nuestra piedad), la amada, junto con tu Poder Soberano? ¿Quién, con su sabiduría orientadora, hizo que el hijo venerara al padre? ¿Quién lo hizo amado? <span id="p68">[<sup><small>p. 68</small></sup>]</span> Con preguntas como estas, tan abundantes, ¡oh Mazda! Te pido, ¡oh hermoso Espíritu, creador de todo!
+¡Esto te pregunto, oh Ahura! Dime con claridad: ¿quién creó a Âramaiti (nuestra piedad), la amada, junto con tu Poder Soberano? ¿Quién, con su sabiduría orientadora, hizo que el hijo venerara al padre? ¿Quién lo hizo amado? <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> Con preguntas como estas, tan abundantes, ¡oh Mazda! Te pido, ¡oh hermoso Espíritu, creador de todo!
 
 ¡Esto te pido, oh Ahura! Dime con claridad, para que pueda reflexionar sobre estas revelaciones Tuyas, oh Mazda, y sobre las palabras que Tu Buena Mente te pidió en nuestro interior, y para que, mediante Tu Orden, alcancemos la perfección de esta vida. Sí, ¿cómo puede mi alma, con alegría, crecer en bondad?
 
@@ -296,7 +296,7 @@ Abandono todos los malos pensamientos, palabras y obras. Te traigo, oh Amĕsha-�
 
 Ahura-Mazda habló con Spitama Zarathustra y le dijo:
 
-He hecho que cada tierra sea querida para sus habitantes, aunque no tenga ningún encanto. Si no hubiera hecho que cada tierra sea querida para sus habitantes, aunque no tenga ningún encanto, <span id="p73">[<sup><small>p. 73</small></sup>]</span>, entonces todo el mundo viviente habría invadido el Airyana Vaêgô.
+He hecho que cada tierra sea querida para sus habitantes, aunque no tenga ningún encanto. Si no hubiera hecho que cada tierra sea querida para sus habitantes, aunque no tenga ningún encanto, <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>, entonces todo el mundo viviente habría invadido el Airyana Vaêgô.
 
 Países y tierras creados por Ahura-Mazda. | Males correspondientes colocados allí por Angro Mainyus (El Espíritu Maligno).
 --- | ---
@@ -311,7 +311,7 @@ Países y tierras creados por Ahura-Mazda. | Males correspondientes colocados al
 9\. Khnenta en Vehrkâna. | 9\. Pecado antinatural.
 10\. Harahvaiti, la hermosa. | 10\. Pecado de profanar la tierra virgen enterrando cadáveres.
 11\. El brillante y glorioso Haêtumant. | 11\. Brujería y hechicería.
-12\. Ragha de las tres razas (Rai, cuna de Zoroastro). | 12\. Pecado de incredulidad absoluta (ateísmo). <span id="p74">[<sup><small>p. 74</small></sup>]</span>
+12\. Ragha de las tres razas (Rai, cuna de Zoroastro). | 12\. Pecado de incredulidad absoluta (ateísmo). <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 13\. Kakhra Sagrado. | 13\. Pecado de quemar cadáveres.
 14\. La Varena de cuatro esquinas. | 14\. Enfermedad de las mujeres.
 15\. País de los Siete Ríos. | 15\. Calor excesivo.
@@ -329,7 +329,7 @@ Y Ahura-Mazda le habló a Yima, diciendo:
 
 “Y perecerán todas las tres clases de bestias: las que habitan en el desierto, y las que habitan en las cumbres de los montes, y las que habitan en lo profundo de los valles, al abrigo de los establos.
 
-“Por lo tanto, hazte una _vara_, [^41] larga como un campo de equitación por cada lado de la plaza, y allí <span id="p75">[<sup><small>p. 75</small></sup>]</span> trae . . . ovejas y bueyes . . . hombres . . . perros . . . pájaros y . . . fuegos rojos ardientes.
+“Por lo tanto, hazte una _vara_, [^41] larga como un campo de equitación por cada lado de la plaza, y allí <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> trae . . . ovejas y bueyes . . . hombres . . . perros . . . pájaros y . . . fuegos rojos ardientes.
 
 . . . .
 
@@ -361,7 +361,7 @@ Cuando la cebada está brotando, los Daeva se sobresaltan; cuando el maíz está
 
 . . . .
 
-“Quien cultiva la tierra, ... no da con bondad y piedad a uno de los fieles, caerá en la oscuridad... abajo <span id="p77">[<sup><small>p. 77</small></sup>]</span> al mundo de la aflicción, al reino lúgubre, abajo a la casa del infierno.”
+“Quien cultiva la tierra, ... no da con bondad y piedad a uno de los fieles, caerá en la oscuridad... abajo <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> al mundo de la aflicción, al reino lúgubre, abajo a la casa del infierno.”
 
 ## FELICIDAD DE LA TIERRA
 
@@ -405,7 +405,7 @@ Cuando la cebada está brotando, los Daeva se sobresaltan; cuando el maíz está
 
 ¡Oh Creador del mundo material, Santo! Si un adorador de Mazda, caminando, corriendo, cabalgando o conduciendo, se encuentra con un cadáver en un arroyo, ¿qué hará?
 
-Ahura-Mazda respondió: «Quitándose los zapatos, quitándose la ropa, ¡con valentía, oh Zaratustra! <span id="p79">[<sup><small>p. 79</small></sup>]</span> entrará en el río y sacará del agua a los muertos...
+Ahura-Mazda respondió: «Quitándose los zapatos, quitándose la ropa, ¡con valentía, oh Zaratustra! <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> entrará en el río y sacará del agua a los muertos...
 
 “Sacará del agua la mayor cantidad posible del cadáver… No será pecado para él ningún hueso, cabello… que caiga de nuevo al agua.
 
@@ -511,7 +511,7 @@ Pero todos deben ser cautelosos con el consumo moderado de vino. Porque beberlo 
 
 Provoca el recuerdo de cosas olvidadas, y la bondad se instala en la mente. Asimismo, aumenta la vista, el oído y el habla; y el trabajo, necesario para realizar y agilizar, se vuelve más progresivo. También duerme plácidamente y se levanta ligero.
 
-Y en quien bebe vino con moderación, él mismo, su esposa, sus hijos, sus amigos y parientes se sienten afligidos e infelices, y <span id="p86">[<sup><small>p. 86</small></sup>]</span> el superintendente de los problemas y el enemigo se alegran. Los seres sagrados tampoco se complacen con él; y la infamia se apodera de su cuerpo, e incluso la maldad de su alma.
+Y en quien bebe vino con moderación, él mismo, su esposa, sus hijos, sus amigos y parientes se sienten afligidos e infelices, y <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> el superintendente de los problemas y el enemigo se alegran. Los seres sagrados tampoco se complacen con él; y la infamia se apodera de su cuerpo, e incluso la maldad de su alma.
 
 “Y aun quien da vino con autorización a alguien, y con ello se embriaga con él, es igualmente culpable de todo pecado que ese borracho cometa debido a esa embriaguez.” [^62]
 
@@ -549,7 +549,7 @@ Así y así, en cada acto, Ahura-Mazda podría haberle indicado a Zaratustra, en
 
 “Y así yo mismo, en cualesquiera circunstancias en las que me encuentre, como adorador de Mazda y de la orden de Zaratustra, abjuraría de los Daêvas y de su refugio, tal como abjuró de ellos aquel que era el santo Zaratustra.
 
-“A esa santidad religiosa a la que pertenecen las aguas, pertenezco, a esa santidad a la que <span id="p89">[<sup><small>p. 89</small></sup>]</span> las plantas, a esa santidad a la que pertenecen las vacas del don bendito, a esa santidad religiosa a la que pertenece Ahura-Mazda, quien hizo tanto vacas como hombres santos, a esa santidad pertenezco yo.
+“A esa santidad religiosa a la que pertenecen las aguas, pertenezco, a esa santidad a la que <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> las plantas, a esa santidad a la que pertenecen las vacas del don bendito, a esa santidad religiosa a la que pertenece Ahura-Mazda, quien hizo tanto vacas como hombres santos, a esa santidad pertenezco yo.
 
 “Soy un adorador de Mazda, del orden de Zaratustra; por eso confieso, como alabador y confesor, y por eso alabo en voz alta el pensamiento bien pensado, la palabra bien dicha y la acción bien realizada.
 
@@ -561,7 +561,7 @@ Sí, alabo de inmediato la Fe de Mazda, la Fe que no titubea en su expresión, l
 
 ### Oración de arrepentimiento
 
-“Estoy completamente seguro de la existencia de la buena fe Mazdayasniana, de la llegada de la resurrección y del cuerpo posterior, de cruzar el puente Chinvat, de una recompensa invariable por las buenas acciones y su recompensa, <span id="p90">[<sup><small>p. 90</small></sup>]</span> y de las malas acciones y su castigo, así como de la continuidad del Paraíso, de la aniquilación del Infierno, de Ahriman [^69] y de los Daêvas, de que \[Dios\] Ahura-Mazda finalmente triunfará y Ahriman perecerá junto con los Daêvas y los vástagos de la oscuridad.
+“Estoy completamente seguro de la existencia de la buena fe Mazdayasniana, de la llegada de la resurrección y del cuerpo posterior, de cruzar el puente Chinvat, de una recompensa invariable por las buenas acciones y su recompensa, <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> y de las malas acciones y su castigo, así como de la continuidad del Paraíso, de la aniquilación del Infierno, de Ahriman [^69] y de los Daêvas, de que \[Dios\] Ahura-Mazda finalmente triunfará y Ahriman perecerá junto con los Daêvas y los vástagos de la oscuridad.
 
 . . . .
 
@@ -569,7 +569,7 @@ Sí, alabo de inmediato la Fe de Mazda, la Fe que no titubea en su expresión, l
 
 . . . .
 
-“Este Patet celestial será un muro de bronce firme... que mantendrá la puerta del Infierno firmemente atadas, y el camino al Paraíso abierto, el camino a ese lugar mejor: al brillante Garothman que posee toda la majestad, para que nuestra alma y las almas de los puros en el Puente Chinvat, el grande, puedan cruzarlo libres de problemas y <span id="p91">[<sup><small>p. 91</small></sup>]</span> fácilmente, y que el puro Srosh, [^71] el victorioso, amigo, protector, supervisor, sea el protector y el guardián de mi alma...”.
+“Este Patet celestial será un muro de bronce firme... que mantendrá la puerta del Infierno firmemente atadas, y el camino al Paraíso abierto, el camino a ese lugar mejor: al brillante Garothman que posee toda la majestad, para que nuestra alma y las almas de los puros en el Puente Chinvat, el grande, puedan cruzarlo libres de problemas y <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> fácilmente, y que el puro Srosh, [^71] el victorioso, amigo, protector, supervisor, sea el protector y el guardián de mi alma...”.
 
 ## SERVICIO DE MATRIMONIO
 
@@ -579,7 +579,7 @@ Sí, alabo de inmediato la Fe de Mazda, la Fe que no titubea en su expresión, l
 
 ### Advertencias
 
-En el nombre y la amistad de Ahura-Mazda. ¡Brilla siempre! ¡Aumenta! ¡Sé victorioso! ¡Aprende la pureza! ¡Sé digno de buena alabanza! ¡Que la mente piense bien, las palabras hablen bien, las obras hagan bien! Sé un Mazdayasniano, realiza obras según tu mente, di la verdad y sé obediente. Sé modesto con los amigos, inteligente y bienqueriente. No seas cruel. No seas iracundo. No cometas pecado por vergüenza. No seas codicioso. No atormentes. No albergues envidia malvada, no seas altivo, no trates a nadie con desprecio, no albergues lujuria. No robes la propiedad de otros, aléjate de las esposas de otros. Haz buenas obras con buena actividad. No entres en conflicto con un hombre vengativo. No seas compañero <span id="p92">[<sup><small>p. 92</small></sup>]</span> a un codicioso. No sigas el mismo camino que un cruel. No te pongas de acuerdo con alguien de mala fama. ... Combate a los adversarios con justicia. ... No te metas en contienda con los de mala reputación. Ante una asamblea, habla solo con palabras puras. Ante los reyes, habla con moderación. No desagrades a tu madre. Mantén tu cuerpo puro en justicia.
+En el nombre y la amistad de Ahura-Mazda. ¡Brilla siempre! ¡Aumenta! ¡Sé victorioso! ¡Aprende la pureza! ¡Sé digno de buena alabanza! ¡Que la mente piense bien, las palabras hablen bien, las obras hagan bien! Sé un Mazdayasniano, realiza obras según tu mente, di la verdad y sé obediente. Sé modesto con los amigos, inteligente y bienqueriente. No seas cruel. No seas iracundo. No cometas pecado por vergüenza. No seas codicioso. No atormentes. No albergues envidia malvada, no seas altivo, no trates a nadie con desprecio, no albergues lujuria. No robes la propiedad de otros, aléjate de las esposas de otros. Haz buenas obras con buena actividad. No entres en conflicto con un hombre vengativo. No seas compañero <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> a un codicioso. No sigas el mismo camino que un cruel. No te pongas de acuerdo con alguien de mala fama. ... Combate a los adversarios con justicia. ... No te metas en contienda con los de mala reputación. Ante una asamblea, habla solo con palabras puras. Ante los reyes, habla con moderación. No desagrades a tu madre. Mantén tu cuerpo puro en justicia.
 
 . . . .
 
@@ -593,7 +593,7 @@ En el nombre y la amistad de Ahura-Mazda. ¡Brilla siempre! ¡Aumenta! ¡Sé vic
 
 [^74]
 
-Dicen que, una vez, el piadoso Zaratustra (Zoroastro) hizo corriente en el mundo la religión que había recibido; y hasta la <span id="p93">[<sup><small>p. 93</small></sup>]</span> finalización de trescientos años la religión se mantuvo pura y los hombres no tenían dudas.
+Dicen que, una vez, el piadoso Zaratustra (Zoroastro) hizo corriente en el mundo la religión que había recibido; y hasta la <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> finalización de trescientos años la religión se mantuvo pura y los hombres no tenían dudas.
 
 . . . .
 
@@ -613,13 +613,13 @@ Y de los siete, tres fueron seleccionados, y de los tres, solo uno, llamado Vîr
 
 . . . .
 
-Tras beber el vino consagrado, dejar descansar mi cuerpo y entregar mi mente a la adoración de Dios, creí que mi alma emprendía el vuelo hacia las regiones sagradas, donde Serosh Izad [^76] se me apareció y me hizo señas para que me acercara. Tras dar y recibir los saludos de costumbre, Serosh Izad me dijo: «Has hecho un largo viaje en la fe. Me alegra verte en estas benditas regiones, y tu huida del mundo de la maldad me causa gran alegría; pero, Ardâ-Vîrâf, has llegado antes de tiempo. ¿Cuál es la ocasión?». Ardâ-Vîrâf respondió con tono de <span id="p95">[<sup><small>p. 95</small></sup>]</span> complacencia: «¡He sido enviado, oh Serosh Izad!, por el rey, por los sacerdotes y por la voz de la nación en general, en esta embajada, para saber del cielo y del infierno, a fin de que la herejía y el cisma sean desterrados de la tierra, y que el culto al Dios verdadero sea restaurado a su pureza habitual».
+Tras beber el vino consagrado, dejar descansar mi cuerpo y entregar mi mente a la adoración de Dios, creí que mi alma emprendía el vuelo hacia las regiones sagradas, donde Serosh Izad [^76] se me apareció y me hizo señas para que me acercara. Tras dar y recibir los saludos de costumbre, Serosh Izad me dijo: «Has hecho un largo viaje en la fe. Me alegra verte en estas benditas regiones, y tu huida del mundo de la maldad me causa gran alegría; pero, Ardâ-Vîrâf, has llegado antes de tiempo. ¿Cuál es la ocasión?». Ardâ-Vîrâf respondió con tono de <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> complacencia: «¡He sido enviado, oh Serosh Izad!, por el rey, por los sacerdotes y por la voz de la nación en general, en esta embajada, para saber del cielo y del infierno, a fin de que la herejía y el cisma sean desterrados de la tierra, y que el culto al Dios verdadero sea restaurado a su pureza habitual».
 
 . . . .
 
 “...Al decir esto, Serosh Izad me tomó del brazo y me condujo a través del puente. Entonces apareció a la vista el trono de Mehr Izad [^77], con Roshni Izad [^78] de pie junto a él, sosteniendo en sus manos la balanza de la justicia, hecha de oro puro, y con cinco mil ángeles a su derecha y a su izquierda, cuyas diferentes peticiones puede oír al instante y, si están escritas, ver de un vistazo. Tras saludarme y recibir mi saludo de vuelta, los ángeles que me acompañaban me rodearon y me dijeron: «¡Oh, Ardâ-Virâf! Tu hora aún no ha llegado. ¿Cómo y por qué medios has llegado hasta aquí?» Respondí: 'He llegado hasta aquí con la ayuda de Dios, a petición de mi rey, Ardeshir Babegan, de los sacerdotes y del pueblo, para recoger e informar sobre las maravillas del cielo y del infierno; para poder ver que por estos medios la verdad pueda ser restaurada nuevamente a la tierra, y la herejía y la maldad desterradas para siempre.'
 
-“...Después, Vohûmano, [^79] el arcángel, <span id="p96">[<sup><small>p. 96</small></sup>]</span>, se levantó de un trono de oro y me tomó de la mano. Con las palabras «buen pensamiento», «buena palabra» y «buena acción», me condujo a Aûharmazd [^80], los arcángeles y otros santos, los ángeles guardianes de Zaratûsht Spitâma, Kaî-Vishtâsp, Jâmâsp, Isâdvâstar, el hijo de Zaratûsht, y otros defensores y líderes de la religión, a quienes nunca he visto más brillantes y excelentes.
+“...Después, Vohûmano, [^79] el arcángel, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span>, se levantó de un trono de oro y me tomó de la mano. Con las palabras «buen pensamiento», «buena palabra» y «buena acción», me condujo a Aûharmazd [^80], los arcángeles y otros santos, los ángeles guardianes de Zaratûsht Spitâma, Kaî-Vishtâsp, Jâmâsp, Isâdvâstar, el hijo de Zaratûsht, y otros defensores y líderes de la religión, a quienes nunca he visto más brillantes y excelentes.
 
 Y Vohûman dijo así: «Este es Aûharmazd». Y quise ofrecerle adoración.
 
@@ -639,13 +639,13 @@ En primer lugar, el amigo que te asistirá es Dios; pero para alcanzar su amista
 
 En la juventud y en la plenitud de la edad adulta, cuando gozas de salud y vigor, supones que tu fuerza nunca fallará; que tus riquezas, tus tierras, tus casas y tus honores permanecerán para siempre; que tus jardines siempre estarán verdes y tus viñedos fructíferos. Pero, ¡oh Ardâ-Vîrâf!, enséñales a no pensar así; enséñales el peligro de esa forma de pensar: ¡todo, todo se desvanecerá como un sueño!
 
-Las flores se marchitan y dan lecciones al hombre <span id="p100">[<sup><small>p. 100</small></sup>]</span> que no está dispuesto a aprovechar. Sí, el mundo mismo pasará, ¡y no quedará nada más que Dios!
+Las flores se marchitan y dan lecciones al hombre <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> que no está dispuesto a aprovechar. Sí, el mundo mismo pasará, ¡y no quedará nada más que Dios!
 
 Por tanto, ¡oh Ardâ-Vîrâf!, vuelve tus pensamientos solo hacia Él. Ningún placer no conlleva dolor: las rosas tienen espinas y los honores caen en desgracia. Es placentero beber vino, pero la embriaguez trae dolor, si no desgracia; si te excedes en la comida, esto también trae su castigo, y debes consultar con un médico; incluso si bebes el agua más pura en exceso, engendra hidropesía; por lo tanto, que se inculque especialmente evitar los excesos en todo: en el vino, en las mujeres, en la comida y la bebida: aunque traen su propio castigo en el mundo por las enfermedades que engendran, sin embargo, fomentan los pecados más mortales, y el alma que se entrega a ellos con seguridad será apartada del cielo. Así que ves, ¡oh Ardâ-Vîrâf!, que la complacencia de nuestras pasiones no trae placer duradero ni imprime ningún buen sentimiento en el corazón.
 
 Si después de orar a Dios por descendencia, y Él te concede tu petición, ¡en qué mar de angustia y ansiedad te ves sumido! Tu hijo o hija puede crecer con malos hábitos y amargarte la vida con su mala conducta: uno puede convertirse en ladrón, el otro en cortesano, y acarrear desgracia en tu vejez. La abeja que produce miel también tiene aguijón.
 
-“'El mundo está compuesto de lujuria, avaricia y <span id="p101">[<sup><small>p. 101</small></sup>]</span> de pasiones de lo más ingobernables; si Dios les da una cosa, incluso aquello que más desean, no quedan satisfechos, sino que continuamente anhelan más y más, hasta el ciento por uno.
+“'El mundo está compuesto de lujuria, avaricia y <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> de pasiones de lo más ingobernables; si Dios les da una cosa, incluso aquello que más desean, no quedan satisfechos, sino que continuamente anhelan más y más, hasta el ciento por uno.
 
 “La avaricia y la ambición les quitan el sueño y les impiden hacer un esfuerzo loable para dominar estas terribles pasiones que los hundirán en la miseria eterna.
 
@@ -659,7 +659,7 @@ Un rey que ha conquistado todos los países vecinos suspira porque ya no le qued
 
 [^82]
 
-Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creación de lo santo y lo puro; las suplico por la generación que ahora vive, por la que está naciendo y por la que será <span id="p102">[<sup><small>p. 102</small></sup>]</span> en el futuro. Y ruego por esa santidad que conduce a la prosperidad, y que ha brindado refugio por mucho tiempo, que la acompaña, que se une a ella en su camino, y por sí misma se convierte en su compañera íntima al impartir sus preceptos, portando toda forma de virtud curativa que nos llega en las aguas, pertenece al ganado o se encuentra en las plantas, y abrumando toda la malicia dañina de los Daêvas y sus sirvientes que podrían dañar esta morada y a su señor, trayendo buenos regalos y mejores bendiciones, dadas muy temprano, y regalos posteriores, que conducen al éxito y brindan refugio por largo tiempo. Y así, el más grande, y los mejores y más hermosos beneficios de la santidad recaen igualmente en nuestra suerte por el sacrificio, homenaje, propiciación y alabanza de los Generosos Inmortales, por traer prosperidad a esta morada, y por la prosperidad de toda la creación de lo santo y lo limpio, y en cuanto a esto, así también por la oposición de toda la creación malvada. . . .”
+Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creación de lo santo y lo puro; las suplico por la generación que ahora vive, por la que está naciendo y por la que será <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> en el futuro. Y ruego por esa santidad que conduce a la prosperidad, y que ha brindado refugio por mucho tiempo, que la acompaña, que se une a ella en su camino, y por sí misma se convierte en su compañera íntima al impartir sus preceptos, portando toda forma de virtud curativa que nos llega en las aguas, pertenece al ganado o se encuentra en las plantas, y abrumando toda la malicia dañina de los Daêvas y sus sirvientes que podrían dañar esta morada y a su señor, trayendo buenos regalos y mejores bendiciones, dadas muy temprano, y regalos posteriores, que conducen al éxito y brindan refugio por largo tiempo. Y así, el más grande, y los mejores y más hermosos beneficios de la santidad recaen igualmente en nuestra suerte por el sacrificio, homenaje, propiciación y alabanza de los Generosos Inmortales, por traer prosperidad a esta morada, y por la prosperidad de toda la creación de lo santo y lo limpio, y en cuanto a esto, así también por la oposición de toda la creación malvada. . . .”
 
 ## ORACIÓN POR SEGURIDAD
 

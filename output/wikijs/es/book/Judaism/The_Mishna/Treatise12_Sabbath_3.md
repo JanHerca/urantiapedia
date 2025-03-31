@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 § 2. Si un horno se calienta con rastrojo o maleza, no se debe poner nada ni dentro ni encima. Un hogar sencillo calentado con rastrojo o maleza se considera como uno doble; pero si se calienta con aceitunas o leña, se considera como un horno.
 
-§ 3. No se debe poner un huevo al lado de una olla caliente \[en sábado\], para que se asiente \[cocido\], ni se debe envolver en <span id="p42">[<sup><small>p. 42</small></sup>]</span> paños calientes \[con esa intención\], ni se debe poner en arena caliente o polvo del camino\[para que el huevo\] se tueste \[por el calor del sol\].
+§ 3. No se debe poner un huevo al lado de una olla caliente \[en sábado\], para que se asiente \[cocido\], ni se debe envolver en <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> paños calientes \[con esa intención\], ni se debe poner en arena caliente o polvo del camino\[para que el huevo\] se tueste \[por el calor del sol\].
 
 § 4. Sucedió una vez que los habitantes de Tiberíades llevaban una tubería de agua fría a través de un arroyuelo de su pozo caliente; pero los sabios les explicaron que en sábado, esta agua, como cualquier otra que se haya calentado en sábado, está prohibida tanto para lavar como para beber; y que en las festividades, esta agua, como cualquier otra que se haya calentado en la festividad, está prohibida para lavar, pero se permite beber. Un מוליאר [^87] que ha sido purificado de carbones, es lícito beber de él en sábado; un אנטיכי [^88], aunque haya sido purificado de carbones, no es lícito beber de él.
 

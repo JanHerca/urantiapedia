@@ -81,7 +81,7 @@ No me atrevo a entrar en su presencia. Ya ha negado mi petición tres veces, y l
 
 Entró en la sala. Vio al Maestro y le dijo:
 
-Bendito, Mahaprajapati, nuestra venerada reina, se encuentra ante tu puerta. No se atreve a presentarse ante ti; teme que vuelvas a hacer oídos sordos a su súplica. Sin embargo, no es la súplica de una mujer insensata, Bendito. ¿Significaría tanto para ti concederla? La reina fue una madre para ti; siempre fue bondadosa contigo; sin duda merece ser escuchada. ¿Por qué no deberías <span id="p214">[<sup><small>p. 214</small></sup>]</span> recibir mujeres en la comunidad? Hay mujeres de gran piedad, mujeres con el valor santo de mantenerse en el camino de la santidad.
+Bendito, Mahaprajapati, nuestra venerada reina, se encuentra ante tu puerta. No se atreve a presentarse ante ti; teme que vuelvas a hacer oídos sordos a su súplica. Sin embargo, no es la súplica de una mujer insensata, Bendito. ¿Significaría tanto para ti concederla? La reina fue una madre para ti; siempre fue bondadosa contigo; sin duda merece ser escuchada. ¿Por qué no deberías <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> recibir mujeres en la comunidad? Hay mujeres de gran piedad, mujeres con el valor santo de mantenerse en el camino de la santidad.
 
 “Ananda”, dijo el Maestro, “no me pidas que permita que las mujeres entren en la comunidad”.
 

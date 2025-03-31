@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:57:49Z
 
 DECIMOSEPTIMA CONFERENCIA. EL MALO <i>S</i>RAMA<i>N</i>A.
 
-Un Nirgrantha que ha entrado en la orden, que ha aprendido la Ley, que ha recibido disciplina religiosa <span id="p78">[<sup><small>p. 78</small></sup>]</span>, y que ha obtenido el beneficio del Bôdhi que es difícil de obtener, tal vez después pueda comenzar a vivir como quiera. (1)
+Un Nirgrantha que ha entrado en la orden, que ha aprendido la Ley, que ha recibido disciplina religiosa <span id="p78"><sup><small>[ p. 78 ]</small></sup></span>, y que ha obtenido el beneficio del Bôdhi que es difícil de obtener, tal vez después pueda comenzar a vivir como quiera. (1)
 
 (Él dirá:) Tengo una buena cama y con qué cubrirme; obtengo comida y bebida; sé todo lo que sucede, amigo; ¿por qué entonces debería estudiar, señor? (2)
 

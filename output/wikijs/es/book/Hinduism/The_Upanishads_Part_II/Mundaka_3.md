@@ -44,7 +44,7 @@ TERCER MUNDO TAMBIÉN CONOCIDO COMO.
 
 3\. Cuando el vidente ve al brillante creador y señor (del mundo) como la Persona que tiene su fuente en Brahman, entonces es sabio y, desprendiéndose del bien y del mal, alcanza la unidad suprema, libre de pasiones.
 
-4\. Pues él es el Aliento que brilla en todos los seres, y quien comprende esto se vuelve verdaderamente sabio, no solo un hablador. Se deleita en el Ser, se deleita en el Ser, y tras realizar sus obras (veracidad, penitencia, meditación, etc.), descansa, firmemente establecido en Brahman, el mejor de quienes conocen a Brahman [^182]. <span id="p39">[<sup><small>p. 39</small></sup>]</span> 5\. Mediante la veracidad, la penitencia, el conocimiento recto y la abstinencia, debe alcanzarse ese Ser; el Ser que alcanzan los anacoretas inmaculados es puro, como una luz dentro del cuerpo.
+4\. Pues él es el Aliento que brilla en todos los seres, y quien comprende esto se vuelve verdaderamente sabio, no solo un hablador. Se deleita en el Ser, se deleita en el Ser, y tras realizar sus obras (veracidad, penitencia, meditación, etc.), descansa, firmemente establecido en Brahman, el mejor de quienes conocen a Brahman [^182]. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> 5\. Mediante la veracidad, la penitencia, el conocimiento recto y la abstinencia, debe alcanzarse ese Ser; el Ser que alcanzan los anacoretas inmaculados es puro, como una luz dentro del cuerpo.
 
 6\. Lo verdadero prevalece, no lo falso; por lo verdadero se traza el camino, el camino de los dioses (devayâna<i>h</i>), por el cual los antiguos sabios, satisfechos con sus deseos, avanzan hacia el lugar supremo del Verdadero.
 
@@ -54,7 +54,7 @@ TERCER MUNDO TAMBIÉN CONOCIDO COMO.
 
 9\. Ese Ser sutil debe ser conocido por el pensamiento (<i>k</i>etas) allí donde el aliento ha entrado quíntuple, pues cada pensamiento de los hombres está entretejido con los sentidos, y cuando el pensamiento se purifica, entonces surge el Ser.
 
-10\. Cualquier estado que un hombre de naturaleza purificada imagine, y cualesquiera que sean los deseos que anhele (para sí mismo o para los demás) [^184], ese estado lo conquista y <span id="p40">[<sup><small>p. 40</small></sup>]</span> esos deseos los obtiene. Por lo tanto, que todo hombre que desee la felicidad adore al hombre que conoce el Ser [^185].
+10\. Cualquier estado que un hombre de naturaleza purificada imagine, y cualesquiera que sean los deseos que anhele (para sí mismo o para los demás) [^184], ese estado lo conquista y <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> esos deseos los obtiene. Por lo tanto, que todo hombre que desee la felicidad adore al hombre que conoce el Ser [^185].
 
 
 ## SEGUNDO KHA<i>N</i><i>D</i>A.
@@ -67,7 +67,7 @@ TERCER MUNDO TAMBIÉN CONOCIDO COMO.
 
 4\. Ese Ser no lo puede alcanzar quien carece de fuerza, de seriedad o de meditación correcta. Pero si un hombre sabio se esfuerza por alcanzarlo por esos medios (con fuerza, seriedad y meditación correcta), entonces su Ser entra en la morada de Brahman.
 
-5\. Cuando lo han alcanzado (el Ser), los sabios se satisfacen mediante el conocimiento, son conscientes de su Ser, sus pasiones se disipan <span id="p41">[<sup><small>p. 41</small></sup>]</span> y están tranquilos. Los sabios, habiendo alcanzado a Aquel que es omnipresente en todas partes, consagrados al Ser, penetran en él plenamente.
+5\. Cuando lo han alcanzado (el Ser), los sabios se satisfacen mediante el conocimiento, son conscientes de su Ser, sus pasiones se disipan <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> y están tranquilos. Los sabios, habiendo alcanzado a Aquel que es omnipresente en todas partes, consagrados al Ser, penetran en él plenamente.
 
 6\. Habiendo comprendido bien el objeto del conocimiento del Vedânta [^189], y habiendo purificado su naturaleza mediante el Yoga [^190] de la renuncia, todos los anacoretas, disfrutando de la más alta inmortalidad, se liberan en el momento del gran fin (la muerte) en los mundos de Brahmâ.
 
@@ -77,7 +77,7 @@ TERCER MUNDO TAMBIÉN CONOCIDO COMO.
 
 9\. Quien conoce el Brahman supremo, se convierte en Brahman. En su raza, nadie nace ignorante de Brahman. Supera el dolor, supera el mal; libre de las ataduras del corazón, se vuelve inmortal.
 
-10\. Y esto lo declara el siguiente verso <i>Ri</i><i>k</i>: «Que un hombre explique esta ciencia de Brahman solo a quienes han realizado todos los actos (necesarios), son versados ​​en los Vedas y están firmemente establecidos en el Brahman (inferior), y ofrecen como oblación <span id="p42">[<sup><small>p. 42</small></sup>]</span> a un <i>Ri</i>shi (Agni), lleno de fe, y por quien se ha realizado el rito de (llevar fuego sobre) la cabeza, según la regla (de los Âtharva<i>n</i>as)».
+10\. Y esto lo declara el siguiente verso <i>Ri</i><i>k</i>: «Que un hombre explique esta ciencia de Brahman solo a quienes han realizado todos los actos (necesarios), son versados ​​en los Vedas y están firmemente establecidos en el Brahman (inferior), y ofrecen como oblación <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> a un <i>Ri</i>shi (Agni), lleno de fe, y por quien se ha realizado el rito de (llevar fuego sobre) la cabeza, según la regla (de los Âtharva<i>n</i>as)».
 
 11\. El Rishi Angiras relató antiguamente esta verdadera ciencia [^195]; quien no ha realizado los ritos adecuados no la lee. ¡Adoración a los más altos Rishis! ¡Adoración a los más altos Rishis!
 

@@ -42,7 +42,7 @@ Aparece en este último personaje en la primera parte del Yast (§§ 1-14); alab
 
 1\. Sacrificamos a Ashi Vanguhi, quien es brillante, alto, de figura alta, muy digno de sacrificio, con un carro de gran sonido, fuerte, dador de bienestar, sanador, con plenitud de intelecto [^1154], y poderoso;
 
-2\. La hija de Ahura Mazda, hermana de los Amesha-Spe<i>n</i>tas, quien dota a todos los <span id="p271">[<sup><small>p. 271</small></sup>]</span> Saoshya<i>n</i><i>t</i>s [^1155] con la inteligencia vivificante; también trae sabiduría celestial a su voluntad, y acude en ayuda de quienes la invocan desde cerca y desde lejos, y la adora con ofrendas de libaciones.
+2\. La hija de Ahura Mazda, hermana de los Amesha-Spe<i>n</i>tas, quien dota a todos los <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> Saoshya<i>n</i><i>t</i>s [^1155] con la inteligencia vivificante; también trae sabiduría celestial a su voluntad, y acude en ayuda de quienes la invocan desde cerca y desde lejos, y la adora con ofrendas de libaciones.
 
 3\. [^1156]. Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado; ofreceré a Ashi Vanguhi un buen sacrificio con una ofrenda de libaciones. Sacrificamos a Ashi Vanguhi con las libaciones; con el haoma y la carne, con la baresma, con la sabiduría de la lengua, con los conjuros sagrados, con las palabras, con las obras, con las libaciones y con las palabras bien dichas.
 
@@ -56,7 +56,7 @@ Yênhê hâtãm: Todos aquellos seres de quienes Ahura Mazda . . . .
 
 Homenaje a Haoma, porque todas las demás bebidas están acompañadas de Aêshma [^1158], el demonio de la lanza hiriente: pero la bebida de Haoma está acompañada de Asha y de la propia Ashi Vanguhi [^1159].
 
-6\. Ashi es hermosa; Ashi irradia alegría; sus rayos penetran con fuerza. Ashi otorga buena Gloria <span id="p272">[<sup><small>p. 272</small></sup>]</span> a los hombres a quienes sigues, ¡oh, Ashi! Llena de perfumes está la casa donde la buena y poderosa Ashi Vanguhi pone sus pies... [^1160], para una larga amistad.
+6\. Ashi es hermosa; Ashi irradia alegría; sus rayos penetran con fuerza. Ashi otorga buena Gloria <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> a los hombres a quienes sigues, ¡oh, Ashi! Llena de perfumes está la casa donde la buena y poderosa Ashi Vanguhi pone sus pies... [^1160], para una larga amistad.
 
 7\. ¡Oh, Ashi!, esos hombres a quienes atiendes son reyes de reinos, ricos en caballos, con grandes tributos, con caballos resoplando, carros resonantes, espadas relucientes, ricos en alimentos y en provisiones [^1161]; perfumados donde se extienden las camas y rebosantes de todas las demás riquezas que se puedan desear. ¡Feliz el hombre a quien atiendes! ¡Sírveme, tú, rico en todo tipo de cosas deseables y fuerte!
 
@@ -64,7 +64,7 @@ Homenaje a Haoma, porque todas las demás bebidas están acompañadas de Aêshma
 
 9\. ¡Oh, Ashi Vanguhi!, los hombres a quienes atiendes tienen camas bien tendidas, bien adornadas, bien hechas, con cojines y pies con incrustaciones de oro. ¡Feliz el hombre a quien atiendes! ¡Atiéndeme, tú, rico en todo tipo de cosas deseables y fuerte!
 
-10\. ¡Oh, Ashi Vanguhi!, los hombres a quienes atiendes tienen a sus damas sentadas en sus camas, esperándolos: yacen sobre los cojines, adornadas... [^1162], con pendientes cuadrados y un collar de oro: «¿Cuándo vendrá nuestro señor? ¿Cuándo disfrutaremos en nuestros cuerpos de las alegrías del amor?». <span id="p273">[<sup><small>p. 273</small></sup>]</span> ¡Feliz el hombre a quien atiendes! ¡Sírveme, tú, rico en todo tipo de cosas deseables y fuerte!
+10\. ¡Oh, Ashi Vanguhi!, los hombres a quienes atiendes tienen a sus damas sentadas en sus camas, esperándolos: yacen sobre los cojines, adornadas... [^1162], con pendientes cuadrados y un collar de oro: «¿Cuándo vendrá nuestro señor? ¿Cuándo disfrutaremos en nuestros cuerpos de las alegrías del amor?». <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> ¡Feliz el hombre a quien atiendes! ¡Sírveme, tú, rico en todo tipo de cosas deseables y fuerte!
 
 11\. ¡Oh, Ashi Vanguhi!, los hombres a quienes atiendes tienen hijas que se sientan... [^1163]; delgadas son sus cinturas, hermosos sus cuerpos, largos sus dedos; son tan hermosas como quien las contempla puede desear. ¡Feliz el hombre a quien atiendes! ¡Atiéndeme, tú, rico en todo tipo de cosas deseables y fuerte!
 
@@ -72,7 +72,7 @@ Homenaje a Haoma, porque todas las demás bebidas están acompañadas de Aêshma
 
 13\. ¡Oh, Ashi Vanguhi!, los hombres a quienes atiendes tienen camellos de gran joroba y carga, que vuelan del suelo o luchan con fervor sagrado [^1165]. ¡Feliz el hombre a quien atiendes! ¡Sírveme, tú, rico en todo tipo de cosas deseables y fuerte!
 
-14\. Los hombres a quienes atiendes, ¡oh Ashi Vanguhi!, poseen tesoros de plata y oro traídos de regiones lejanas; y vestimentas de espléndida confección. ¡Feliz el hombre a quien atiendes! ¡Atiéndeme, tú, rico en todo tipo de cosas deseables y fuerte! <span id="p274">[<sup><small>p. 274</small></sup>]</span> 15\. ¡No me apartes la mirada! ¡Vuelve tu misericordia hacia mí, oh gran Ashi! Eres de buena constitución y de noble linaje [^1166]; eres soberano a tu antojo; eres la Gloria encarnada.
+14\. Los hombres a quienes atiendes, ¡oh Ashi Vanguhi!, poseen tesoros de plata y oro traídos de regiones lejanas; y vestimentas de espléndida confección. ¡Feliz el hombre a quien atiendes! ¡Atiéndeme, tú, rico en todo tipo de cosas deseables y fuerte! <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 15\. ¡No me apartes la mirada! ¡Vuelve tu misericordia hacia mí, oh gran Ashi! Eres de buena constitución y de noble linaje [^1166]; eres soberano a tu antojo; eres la Gloria encarnada.
 
 16\. Tu padre es Ahura Mazda, el más grande de todos los dioses, el mejor de todos los dioses; tu madre es Ârmaiti Spe<i>n</i>ta; tus hermanos son Sraosha [^1167], un dios de Asha, y Rashnu [^1168], alto y fuerte, y Mitra [^1169], el señor de los amplios pastos, que tiene diez mil espías y mil oídos; tu hermana es la Ley de los adoradores de Mazda.
 
@@ -80,7 +80,7 @@ Homenaje a Haoma, porque todas las demás bebidas están acompañadas de Aêshma
 
 18\. Y él [^1171] dijo en voz alta: «Yo soy Spitama Zarathu<i>s</i>tra, quien, el primero de los mortales, recitó la alabanza del excelente Asha [^1172] y ofreció sacrificio a Ahura Mazda y a los Amesha-Spe<i>n</i>tas; en cuyo nacimiento y crecimiento se regocijaron las aguas y las plantas; en cuyo nacimiento y crecimiento crecieron las aguas y las plantas; en cuyo nacimiento y crecimiento todas las criaturas de la buena creación gritaron: ¡Salve! [^1173]».
 
-19\. 'En cuyo nacimiento y crecimiento Angra Mainyu se precipitó desde esta tierra ancha y redonda, cuyos confines yacen lejanos, y él, el malvado Angra Mainyu, que es toda muerte, dijo: "Todos los dioses juntos <span id="p275">[<sup><small>p. 275</small></sup>]</span> no han podido abatirme a pesar de mí mismo, y solo Zaratustra puede alcanzarme a pesar de mí mismo.
+19\. 'En cuyo nacimiento y crecimiento Angra Mainyu se precipitó desde esta tierra ancha y redonda, cuyos confines yacen lejanos, y él, el malvado Angra Mainyu, que es toda muerte, dijo: "Todos los dioses juntos <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> no han podido abatirme a pesar de mí mismo, y solo Zaratustra puede alcanzarme a pesar de mí mismo.
 
 20\. ' “Me golpea con el Ahuna Vairya, un arma tan poderosa como una piedra grande como una casa [^1174]; me quema con Asha-Vahi<i>s</i>ta, como si fuera latón fundido [^1175]. Él hace que sea mejor para mí que abandone esta tierra, él, Spitama Zarathu<i>s</i>tra, el único que puede intimidarme.” '
 
@@ -134,7 +134,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 36\. Sacrificamos a Ashi Vanguhi, quien es brillante, alto... y poderoso.
 
-37\. [^1181]. Haoma, la vivificante, la sanadora, la hermosa, la majestuosa, de ojos dorados, le ofreció un sacrificio en la cima del Haraiti Bareza. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 38\. Le imploró un favor, diciendo: «¡Concédeme esto, oh gran Ashi Vanguhi! Que pueda atar al asesino turanio, Franghrasyan, que pueda arrastrarlo atado, que pueda llevarlo atado ante el rey Husravah, para que el rey Husravah lo mate, detrás del lago <i>K</i>aê<i>k</i>asta, el profundo lago de aguas saladas, para vengar el asesinato de su padre Syâvarshâna, un hombre, y de Aghraêratha, un semihombre».
+37\. [^1181]. Haoma, la vivificante, la sanadora, la hermosa, la majestuosa, de ojos dorados, le ofreció un sacrificio en la cima del Haraiti Bareza. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 38\. Le imploró un favor, diciendo: «¡Concédeme esto, oh gran Ashi Vanguhi! Que pueda atar al asesino turanio, Franghrasyan, que pueda arrastrarlo atado, que pueda llevarlo atado ante el rey Husravah, para que el rey Husravah lo mate, detrás del lago <i>K</i>aê<i>k</i>asta, el profundo lago de aguas saladas, para vengar el asesinato de su padre Syâvarshâna, un hombre, y de Aghraêratha, un semihombre».
 
 39\. El gran Ashi Vanguhi corrió a su lado. Haoma, la vivificante, la sanadora, la hermosa, la majestuosa, de ojos dorados, obtuvo esa bendición.
 
@@ -186,7 +186,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 54\. Y el gran Ashi Vanguhi dijo: 'Ninguna de esas libaciones será aceptada por mí, las que me envíe un hombre cuya semilla esté seca [^1184], o una cortesana que tenga partos prematuros [^1185], o muchachos jóvenes, o muchachas que no hayan conocido hombre [^1186].
 
-'Cuando los turanios y Naotaras, el de los rápidos caballos [^1187], aplaudiendo, corrieron tras mí, <span id="p281">[<sup><small>p. 281</small></sup>]</span> 55\. 'Me escondí bajo las patas de un toro que caminaba bajo su carga; entonces, muchachos y muchachas que no habían conocido a ningún hombre me descubrieron, incluso mientras los turanios y Naotaras, el de los rápidos caballos, aplaudiendo, corrían tras mí.
+'Cuando los turanios y Naotaras, el de los rápidos caballos [^1187], aplaudiendo, corrieron tras mí, <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 55\. 'Me escondí bajo las patas de un toro que caminaba bajo su carga; entonces, muchachos y muchachas que no habían conocido a ningún hombre me descubrieron, incluso mientras los turanios y Naotaras, el de los rápidos caballos, aplaudiendo, corrían tras mí.
 
 56\. 'Yo mismo me escondí bajo la garganta de un carnero de cien veces más energía: entonces, jóvenes y muchachas que no habían conocido a ningún hombre, me descubrieron, mientras los turanios y los veloces Naotaras, aplaudiendo, corrían tras mí.'
 

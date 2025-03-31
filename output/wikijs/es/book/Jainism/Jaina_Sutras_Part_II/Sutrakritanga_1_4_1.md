@@ -58,7 +58,7 @@ Y luego le hacen hacer lo que quieren, igual que un carretero va haciendo girar 
 
 Como un antílope atrapado en una trampa, no puede escapar de ella, por mucho que lucha. (9)
 
-Después sentirá remordimientos como quien ha bebido leche mezclada con veneno; considerando las <span id="p273">[<sup><small>p. 273</small></sup>]</span> consecuencias, un monje digno no debería tener relaciones sexuales con mujeres. (10)
+Después sentirá remordimientos como quien ha bebido leche mezclada con veneno; considerando las <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> consecuencias, un monje digno no debería tener relaciones sexuales con mujeres. (10)
 
 Por lo tanto, debe evitar a las mujeres, pues sabe que son como una espina envenenada. No es un Nirgrantha quien, sin compañía, entra en las casas, esclavo de la pasión, y predica su religión. (11)
 
@@ -92,7 +92,7 @@ Un hombre (o una mujer) tiene en su corazón, otro en sus palabras y otro en sus
 
 Una joven, ataviada con finos adornos y ropas, le dirá a un <i>Srama<i>n</i>a: «Abandonaré mi anterior forma de vida y practicaré la rudeza (es decir, el control). ¡Reverendo señor, enséñeme la Ley!» (25)
 
-O, al declararse discípula laica y correligionaria de los <i>S</i>rama<i>n</i>as, intentará hacerse amiga de él. Como una olla llena de laca se derrite <span id="p275">[<sup><small>p. 275</small></sup>]</span> cerca del fuego, incluso un monje sabio caerá al tener relaciones sexuales con mujeres. (26)
+O, al declararse discípula laica y correligionaria de los <i>S</i>rama<i>n</i>as, intentará hacerse amiga de él. Como una olla llena de laca se derrite <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> cerca del fuego, incluso un monje sabio caerá al tener relaciones sexuales con mujeres. (26)
 
 Una olla llena de laca arrojada al fuego se derrite rápidamente y se destruye; así los monjes se pierden por las relaciones sexuales con las mujeres. (27)
 

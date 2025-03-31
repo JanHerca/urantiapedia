@@ -44,7 +44,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4\. [^676] Habiendo puesto leña en el fuego y esparcido hierba Darbha apuntada hacia el sur y hacia el este alrededor de él, habiendo preparado el Â<i>ya en un Â</i>ya en un Â<i>ya en un pote Â</i>ya sobre el cual ha colocado un purificador, habiendo rociado agua alrededor (del fuego) de derecha a izquierda, y habiendo puesto un trozo de madera de Udumbara sobre (el fuego), él sacrifica con la (cuchara llamada) Darvi que está hecha de madera de Udumbara.
 
-5\. Tras realizar los ritos, incluyendo las ofrendas Â<i>g</i>yabhâga, cuelga su cordón sacrificial sobre su hombro derecho e invoca a los Padres (a su sacrificio) con el verso: «Venid, oh Padres, amigos de Soma, por vuestros antiguos y ocultos senderos, otorgándonos descendencia, riqueza y larga vida, una vida de cien otoños». <span id="p226">[<sup><small>p. 226</small></sup>]</span>
+5\. Tras realizar los ritos, incluyendo las ofrendas Â<i>g</i>yabhâga, cuelga su cordón sacrificial sobre su hombro derecho e invoca a los Padres (a su sacrificio) con el verso: «Venid, oh Padres, amigos de Soma, por vuestros antiguos y ocultos senderos, otorgándonos descendencia, riqueza y larga vida, una vida de cien otoños». <span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 6\. [^677] Rocía agua en la misma dirección (es decir, hacia el sur) con el verso: «Aguas divinas, envíennos a Agni. Que nuestros Padres disfruten de este sacrificio. Que quienes reciben su alimento cada mes nos concedan riqueza con héroes valientes».
 
@@ -82,7 +82,7 @@ De la misma manera, un segundo y un tercer verso con la alteración del Mantra, 
 
 2\. De la misma manera sacrifica la comida, alterando el Mantra: 'Lleva la comida, etc.'
 
-3\. Luego sacrifica la oblación Svish<i>t</i>ak<i>t</i>t <span id="p228">[<sup><small>p. 228</small></sup>]</span> con (la fórmula): "¡A Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! ¡Adoración!".
+3\. Luego sacrifica la oblación Svish<i>t</i>ak<i>t</i>t <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> con (la fórmula): "¡A Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! ¡Adoración!".
 
 4\. Luego toca la comida con (las fórmulas): «La tierra es tu recipiente, el cielo es la tapa. Te sacrifico en la boca del Brahmán. Te sacrifico en la inspiración y la inspiración de los Brahmanes. Eres imperecedero; ¡no perezcas por los Padres de allá, en ese mundo! La tierra es firme; Agni es su supervisor para que lo que se ha dado no se pierda».
 
@@ -104,7 +104,7 @@ Cuando han comido (y se van), va tras ellos y les pide permiso para tomar los re
 
 4\. Si desconoce los nombres de los antepasados, le da el bulto al padre con las palabras: «Svadhâ a los Padres que moran en la tierra», al abuelo con las palabras: «Svadhâ a los Padres que moran en el aire», y al bisabuelo con las palabras: «Svadhâ a los Padres que moran en el cielo».
 
-5\. Luego, según cada bulto, le da un colirio, un ungüento y algo que representa una prenda de vestir. <span id="p230">[<sup><small>p. 230</small></sup>]</span>
+5\. Luego, según cada bulto, le da un colirio, un ungüento y algo que representa una prenda de vestir. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 6\. [^682] El colirio (él da), diciendo tres veces: '¡Unge tus ojos, NN! ¡Unge tus ojos, NN!'
 

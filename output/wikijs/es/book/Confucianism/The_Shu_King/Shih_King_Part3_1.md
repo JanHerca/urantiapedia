@@ -70,7 +70,7 @@ CÓMO EL DESIGNIO DEL CIELO O DIOS VINO DE SU PADRE AL REY WĂN, Y DESCENDIÓ A 
 
 La ilustración de la ilustre (virtud) se requiere a continuación, y la temible majestad es o, alta [^480]. No se puede confiar fácilmente en el cielo; no es fácil ser rey. Al legítimo heredero de Yin al trono celestial no se le permitió poseer el reino.
 
-_Z_ăn, la segunda de las princesas de <i>K</i>ih [^481], procedente de (los dominios de) Yin-shang, se casó con (el príncipe de) <i>K</i>âu y se convirtió en su esposa en su capital <span id="p381">[<sup><small>p. 381</small></sup>]</span>. Tanto ella como el rey <i>K</i>î eran completamente virtuosos. (Entonces) Thâi-_z_ăn quedó embarazada y dio a luz a nuestro rey Wăn.
+_Z_ăn, la segunda de las princesas de <i>K</i>ih [^481], procedente de (los dominios de) Yin-shang, se casó con (el príncipe de) <i>K</i>âu y se convirtió en su esposa en su capital <span id="p381"><sup><small>[ p. 381 ]</small></sup></span>. Tanto ella como el rey <i>K</i>î eran completamente virtuosos. (Entonces) Thâi-_z_ăn quedó embarazada y dio a luz a nuestro rey Wăn.
 
 Este rey Wan, vigilante y reverente, sirvió a Dios con plena inteligencia, y así obtuvo la gran bendición. Su virtud fue inquebrantable; y en consecuencia, recibió la lealtad de los estados de todas partes.
 
@@ -78,7 +78,7 @@ El Cielo contemplaba este mundo inferior; y su designación recayó (sobre el re
 
 La dama se encontraba en un gran esplendor, como una bella ciudadana del cielo. Las ceremonias determinaron la buena fortuna de la unión [^484], y él la conoció en persona en el río Wei. Sobre él construyó un puente de barcas; la gloria de la ocasión fue ilustre.
 
-El nombramiento favorable vino del Cielo, otorgando el trono a nuestro linaje Wăn, en la capital de Kâu. La sucesora era de Hsin, su hija mayor, quien vino a casarse con él. Tuvo la bendición de dar a luz al rey Wû, quien fue preservado, ayudado y recibió (también) el nombramiento. <span id="p382">[<sup><small>p. 382</small></sup>]</span> Y en conformidad con esto, derrotó al gran Shang.
+El nombramiento favorable vino del Cielo, otorgando el trono a nuestro linaje Wăn, en la capital de Kâu. La sucesora era de Hsin, su hija mayor, quien vino a casarse con él. Tuvo la bendición de dar a luz al rey Wû, quien fue preservado, ayudado y recibió (también) el nombramiento. <span id="p382"><sup><small>[ p. 382 ]</small></sup></span> Y en conformidad con esto, derrotó al gran Shang.
 
 Las tropas de Yin-shang se reunieron como un bosque y se agruparon en el desierto de Mû. Nos pusimos a la altura de la crisis; «Dios está contigo», dijo Shang-fû al rey, «no dudes en tu corazón».
 
@@ -92,7 +92,7 @@ Pequeños comienzos y posterior crecimiento de la Casa de <i>K</i>ÂU en <i>K</i
 
 El antiguo duque Than-fû fue abuelo del rey Wăn y fue canonizado por el duque de Kâu como rey Thâi. Como se menciona en una nota de la [p. 316](Shih_King_Part1_2#p316), fue el primero de su familia en establecerse en Kâu, trasladándose allí desde Pin, el lugar de su anterior asentamiento, «la región alrededor de los ríos Khü y Khî».
 
-En largas hileras, las calabazas crecen cada vez más [^486]. Cuando (nuestro) pueblo surgió por primera vez, de la región alrededor del <i>Kh</i>ü y el <i>Kh</i>î [^487], el antiguo duque <span id="p383">[<sup><small>p. 383</small></sup>]</span> Than-fû construyó para ellos chozas y cuevas similares a hornos, antes de que aún tuvieran casas [^488].
+En largas hileras, las calabazas crecen cada vez más [^486]. Cuando (nuestro) pueblo surgió por primera vez, de la región alrededor del <i>Kh</i>ü y el <i>Kh</i>î [^487], el antiguo duque <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> Than-fû construyó para ellos chozas y cuevas similares a hornos, antes de que aún tuvieran casas [^488].
 
 El anciano duque Than-fû llegó por la mañana, galopando sus caballos, a lo largo de las orillas de los ríos occidentales, al pie del monte <i>Kh</i>î [^489]; y allí él y la dama <i>K</i>iang [^490] llegaron y juntos buscaron un sitio.
 
@@ -134,7 +134,7 @@ EN ELOGIO DE LA VIRTUD DEL REY WĂN, BENDECIDO POR SUS ANTEPASADOS Y ELEVADO A L
 
 Mira al pie del Han [^500], qué abundantes son el avellano y el espino [^501]. Tranquilo y sereno era nuestro príncipe, en su búsqueda de la dignidad (aún) tranquilo y sereno.
 
-Enorme es esa copa de libación de jade, con el <span id="p387">[<sup><small>p. 387</small></sup>]</span> líquido amarillo brillando en ella [^502]. Tranquilo y dueño de sí mismo era nuestro príncipe, el digno receptor de bendición y dignidad.
+Enorme es esa copa de libación de jade, con el <span id="p387"><sup><small>[ p. 387 ]</small></sup></span> líquido amarillo brillando en ella [^502]. Tranquilo y dueño de sí mismo era nuestro príncipe, el digno receptor de bendición y dignidad.
 
 El halcón vuela al cielo, los peces saltan en lo profundo [^503]. Nuestro príncipe era tranquilo y sereno: ¿no ejercía influencia sobre los hombres?
 
@@ -150,7 +150,7 @@ Exuberantes son los dólicos y otras enredaderas, aferrándose a las ramas y tal
 
 LA VIRTUD DE WĂN, CON SU PIEDAD FILIAL Y CONSTANTE REVERENCIA, Y SUS MARAVILLOSOS EFECTOS. EL EXCELENTE CARÁCTER DE SU MADRE Y ESPOSA.
 
-Pura y reverente era Thâi _Z_ăn [^506], la madre del rey Wăn. Amaba a <i>K</i>âu <i>K</i>iang [^507];— <span id="p388">[<sup><small>p. 388</small></sup>]</span> Una esposa digna de la Casa de <i>K</i>âu. Thâi Sze [^508] heredó su excelente fama, y ​​de ella procreó cien hijos [^509].
+Pura y reverente era Thâi _Z_ăn [^506], la madre del rey Wăn. Amaba a <i>K</i>âu <i>K</i>iang [^507];— <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> Una esposa digna de la Casa de <i>K</i>âu. Thâi Sze [^508] heredó su excelente fama, y ​​de ella procreó cien hijos [^509].
 
 Siguió el ejemplo de sus antepasados, y sus espíritus no tuvieron motivo de queja. Sus espíritus no tuvieron motivo de insatisfacción; y su ejemplo repercutió en su esposa, se extendió a sus hermanos y fue sentido por todos los clanes y estados.
 
@@ -174,7 +174,7 @@ El rey Thâi levantó y retiró los troncos muertos y los árboles caídos. Orde
 
 Dios contempló las colinas, donde los robles y los espinos cervales se habían raleado, y se habían trazado senderos entre los abetos y los cipreses. Dios, quien había fundado el estado, le nombró un gobernante adecuado, desde la época de Thâi-po y el rey Kî. Este rey, lleno de deber fraternal, se entregó con mayor ahínco a la prosperidad del país y le aseguró la gloria de su acción. Aceptó su dignidad y no la perdió, y al poco tiempo su familia se apoderó de todo el reino.
 
-Este rey <i>K</i>î</i> fue dotado por Dios con el poder del juicio, de modo que la fama de su virtud creció silenciosamente. Su virtud era sumamente inteligente, sumamente inteligente y de excepcional discernimiento; capaz de liderar, capaz de gobernar, de gobernar este gran país; ofreciendo una sumisión cordial, logrando una unión cordial [^515]. Cuando (el poder) llegó al rey Wăn, su <span id="p391">[<sup><small>p. 391</small></sup>]</span> virtud no dejó nada con lo que estar insatisfecho; recibió la bendición de Dios, y esta se extendió a sus descendientes.
+Este rey <i>K</i>î</i> fue dotado por Dios con el poder del juicio, de modo que la fama de su virtud creció silenciosamente. Su virtud era sumamente inteligente, sumamente inteligente y de excepcional discernimiento; capaz de liderar, capaz de gobernar, de gobernar este gran país; ofreciendo una sumisión cordial, logrando una unión cordial [^515]. Cuando (el poder) llegó al rey Wăn, su <span id="p391"><sup><small>[ p. 391 ]</small></sup></span> virtud no dejó nada con lo que estar insatisfecho; recibió la bendición de Dios, y esta se extendió a sus descendientes.
 
 Dios le dijo al rey Wăn [^516]: «No seas como quienes rechazan esto y se aferran a aquello; no seas como quienes se dejan llevar por sus gustos y deseos». Así que ascendió con grandeza, antes que otros, a la cima (de la virtud). El pueblo de Mî [^517] fue desobediente, atreviéndose a oponerse a nuestro gran país, e invadió Yüan, marchando hacia Kung [^518]. El rey se alzó, majestuoso en su ira; reunió a sus tropas para detener a los enemigos invasores; para consolidar la prosperidad de Kâu; para satisfacer las expectativas de todos bajo el cielo.
 
@@ -192,7 +192,7 @@ EN ELOGIO DEL REY WÛ, QUE SIGUIÓ LOS CAMINOS DE SUS ANTEPASADOS Y QUE POR SU P
 
 Los sucesores siguen los pasos de sus predecesores en nuestro Kâu. Durante generaciones hubo reyes sabios; los tres soberanos estaban en el cielo [^524]; y el rey (Wû) fue su digno sucesor en su capital [^525].
 
-El Rey (Wû) fue su digno sucesor en su capital, Esforzándose por buscar la virtud hereditaria, Esforzándose siempre por estar de acuerdo con la <span id="p394">[<sup><small>p. 394</small></sup>]</span> voluntad (del Cielo); Y así aseguró la confianza debida a un rey.
+El Rey (Wû) fue su digno sucesor en su capital, Esforzándose por buscar la virtud hereditaria, Esforzándose siempre por estar de acuerdo con la <span id="p394"><sup><small>[ p. 394 ]</small></sup></span> voluntad (del Cielo); Y así aseguró la confianza debida a un rey.
 
 Se ganó la confianza debida a un rey y se convirtió en el modelo de todos los que estaban por debajo de él. Siempre pensando en ser filial, su mente filial fue el modelo (que él proporcionó).
 

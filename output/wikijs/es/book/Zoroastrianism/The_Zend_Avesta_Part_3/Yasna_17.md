@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1-10 [^1081], 11. ¡Te adoramos a ti, el Fuego, oh hijo de Ahura Mazda! Adoramos el fuego Berezi-savangha (de uso elevado [^1082]), y el fuego Vohu-fryâna (el bueno y amigable [^1083]), y el fuego Urvâzi<i>s</i>ta (el más beneficioso y el más útil [^1084]), y el fuego Vâzi<i>s</i>ta (el más solidario [^1085]), y el fuego Sp<i>e</i>ni<i>s</i>ta (el más generoso [^1086]), y Nairya-sangha el Yazad del linaje real [^1087], y ese fuego que es el señor de la casa de todas las casas e hecho por Mazda, incluso el hijo de Ahura Mazda, el santo señor del orden ritual, con todos los fuegos.
 
-12\. Y adoramos las aguas buenas y mejores, creadas por Mazda y sagradas, todas las aguas creadas por Mazda y sagradas, y todas las plantas que Mazda creó y que son sagradas. <span id="p259">[<sup><small>p. 259</small></sup>]</span> 13\. Y adoramos la Mãthra-spe<i>n</i>ta (la generosa palabra de la razón), la ley de Zaratustra contra los Daêvas y su larga descendencia.
+12\. Y adoramos las aguas buenas y mejores, creadas por Mazda y sagradas, todas las aguas creadas por Mazda y sagradas, y todas las plantas que Mazda creó y que son sagradas. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> 13\. Y adoramos la Mãthra-spe<i>n</i>ta (la generosa palabra de la razón), la ley de Zaratustra contra los Daêvas y su larga descendencia.
 
 14\. Y adoramos el monte Ushi-darena, hecho por Mazda y resplandeciente de santidad, y todas las montañas, resplandecientes de santidad y de abundante gloria, que Mazda hizo—.
 

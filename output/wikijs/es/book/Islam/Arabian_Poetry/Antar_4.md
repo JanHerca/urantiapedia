@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Antar se había hecho famoso por sus versos, así como por su notable fuerza y coraje; y, como se puede suponer fácilmente, estaba haciendo considerables progresos en ganarse el afecto de su amada Abla. Pero a los ojos del padre de la doncella, Malik, estaba lejos de ser un partido deseable; e incluso su madre ridiculizaba la poesía amorosa de Antar y su amor por su hija. Un día, ella le pidió con desdén que recitara algunos de sus versos sobre Abla, y él obedeció así:
 
@@ -54,7 +54,7 @@ Tu seno es creado como un encantamiento; ¡Oh, que Dios lo proteja siempre en es
 
 Estar conectado contigo es estar conectado con toda alegría; pero separado de todo mi mundo está el vínculo de tu conexión.
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Bajo tu velo está el capullo de rosa de mi vida, y tus ojos están guardados con una multitud de flechas: alrededor de tu tienda hay un león guerrero, el filo de la espada y la punta de la lanza.
 

@@ -110,7 +110,7 @@ Una vida así es como la de las palomas (siempre temerosas de los peligros); dol
 
 “Así como es muy difícil tragar fuego ardiente, así es difícil para un joven vivir como un <i>Srama<i>n</i>a. (39)
 
-“Así como es difícil llenar una bolsa [^241] con viento, <span id="p93">[<sup><small>p. 93</small></sup>]</span> así es difícil para un hombre débil vivir como un <i>S</i>rama<i>n</i>a. (40)
+“Así como es difícil llenar una bolsa [^241] con viento, <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> así es difícil para un hombre débil vivir como un <i>S</i>rama<i>n</i>a. (40)
 
 Así como es difícil pesar el Monte Mandara en una balanza, también es difícil vivir como un <i>S</i>rama<i>n</i>a con una mente firme y sin miedo. (41)
 
@@ -144,7 +144,7 @@ Disfruta de los cinco placeres humanos. Después de que hayas terminado de disfr
 
 'Cuando nací en el infierno por mis pecados, fui cortado, traspasado y despedazado con espadas y dagas, con dardos y jabalinas. (55)
 
-'Me han atado a la fuerza a un carro de hierro al rojo vivo lleno de combustible [^247], me han acosado con una aguijada <span id="p95">[<sup><small>p. 95</small></sup>]</span> y correas, y me han derribado como a un antílope [^248]. (56)
+'Me han atado a la fuerza a un carro de hierro al rojo vivo lleno de combustible [^247], me han acosado con una aguijada <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> y correas, y me han derribado como a un antílope [^248]. (56)
 
 'Sobre pilotes, en un fuego abrasador, he sido quemado a la fuerza y ​​asado como un búfalo, en expiación por mis pecados. (57)
 
@@ -158,7 +158,7 @@ Disfruta de los cinco placeres humanos. Después de que hayas terminado de disfr
 
 'Muchas veces me han desgarrado, cortado, mutilado y desollado con navajas, cuchillos y tijeras de filo afilado. (62)
 
-'Como antílope [^251], contra mi voluntad, he sido <span id="p96">[<sup><small>p. 96</small></sup>]</span> atrapado, atado y atado en trampas y lazos, y con frecuencia he sido asesinado. (63)
+'Como antílope [^251], contra mi voluntad, he sido <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> atrapado, atado y atado en trampas y lazos, y con frecuencia he sido asesinado. (63)
 
 'Como pez, contra mi voluntad, he sido atrapado con anzuelos y redes de arco; en ellas he sido raspado, desgarrado y muerto un número infinito de veces. (64)
 
@@ -176,7 +176,7 @@ Disfruta de los cinco placeres humanos. Después de que hayas terminado de disfr
 
 «Siempre asustado, tembloroso, angustiado y sufriendo, he experimentado el dolor y la miseria más exquisitos. (71)
 
-«He experimentado en el infierno un dolor agudo, agudo y <span id="p97">[<sup><small>p. 97</small></sup>]</span> severo, horrible, intolerable, espantoso y formidable. (72)
+«He experimentado en el infierno un dolor agudo, agudo y <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> severo, horrible, intolerable, espantoso y formidable. (72)
 
 «Oh Padre, infinitamente más doloroso es el sufrimiento en el infierno que cualquier sufrimiento en el mundo de los hombres. (73)
 

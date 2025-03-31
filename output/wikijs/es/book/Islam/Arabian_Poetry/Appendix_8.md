@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 v. 6. Los beduinos alimentan a sus camellos con las hojas del árbol de erak.
 
@@ -62,7 +62,7 @@ Sus honores más brillantes llovieron sobre mí:
 Pero, sobre todo, ven y únete al alegre anillo
 Donde los jóvenes alegres ríen y las doncellas florecientes cantan.—_RṚ._
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 vv. 48-51. Las muchachas cantantes que cantaban en las fiestas de los antiguos árabes eran griegas, sirias o persas. Hasta después de El-Islâm, los árabes, aunque maestros del ritmo y la métrica, no tenían un sistema indígena de canto excepto la canción ruda (originalmente del camellero) llamada _rajez_. Estas muchachas probablemente cantaban en su mayor parte en su propia lengua, y tocaban la música que habían aprendido en el persa 'Irâk o Siria; pero en la vida de En-Nâbigha de Dubyân, como se da en el _Aghânî_ (ix. 164), se menciona a una muchacha cantante de Yethrib (después El-Madîna), que cantó una de las piezas de ese poeta en árabe, y así le permitió detectar un fallo de prosodia.—_Lyall:_ Notas sobre los vv. 60, 61, Mo‘all de Lebīd.
 
@@ -122,7 +122,7 @@ Y nuestro poeta inglés Young:
 La estación más alta de la Tierra termina en «¡Aquí yace!»
 Y «polvo al polvo» concluye la canción más noble.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Y el persa Sa‘dī: «Cuando el alma pura e inmaculada está a punto de partir, ¿qué importancia tiene si expiramos en un trono o en el suelo desnudo?»
 

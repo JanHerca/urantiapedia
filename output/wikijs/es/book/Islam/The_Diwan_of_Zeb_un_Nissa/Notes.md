@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 _Alejandro:_ en la poesía persa el tipo del más afortunado, como lo es Darío del más desafortunado.
 
@@ -42,7 +42,7 @@ _Diwan:_ un Diwan consiste en una serie de grupos de ghazals _(q.v.),_ la primer
 
 Ferhad: un amante famoso en la historia oriental. A finales del siglo VI amaba a Shirin (la dulce), que era la esposa del rey Khosru. Era escultor y tenía fama en toda Persia. El rey, temiendo su rivalidad, trató de distraerlo de su pasión y trató de encontrarle una tarea imposible. Como Shirin había pedido un «río de leche», se le ordenó que quitara las rocas que obstruían el paso de la gran montaña de Beysitoun y que hiciera que los ríos de los lados opuestos de la montaña se unieran. Ferhad aceptó con la condición de que, si tenía éxito, le darían a Shirin. Durante años trabajó y excavó maravillosas cavernas que se pueden ver hasta el día de hoy; y el Joui-shir (corriente de leche) todavía fluye desde la montaña entre Hamadân y Hulwân. Sólo quedaban unos días de trabajo por hacer, cuando el Rey escuchó informes de que el proyecto estaba teniendo éxito: entonces envió un mensajero para decirle a Ferhad que Shirin estaba muerto. Al oír esto, Ferhad murió, algunos dicen que se mató con su hacha, otros dicen que se arrojó a un precipicio.
 
-_Ghazal,_ o _gazel:_ una forma de verso escrito en una sucesión de pareados. Los dos primeros versos riman, y de los pareados siguientes, el primer verso no rima, el segundo rima con el primer verso, y así sucesivamente, a lo largo del poema; de modo que, en todo el poema, todas las palabras que riman, riman entre sí. Cuando esta forma de verso consta de sólo cuatro versos, se llama _Rubai._ La longitud <span id="p110">[<sup><small>p. 110</small></sup>]</span> de un ghazal varía, pero no se supone que sea más larga que dieciocho pareados. A menudo, los pareados dentro de un ghazal no tienen conexión aparente y están completos en sí mismos. El último verso suele contener el nombre del poeta.
+_Ghazal,_ o _gazel:_ una forma de verso escrito en una sucesión de pareados. Los dos primeros versos riman, y de los pareados siguientes, el primer verso no rima, el segundo rima con el primer verso, y así sucesivamente, a lo largo del poema; de modo que, en todo el poema, todas las palabras que riman, riman entre sí. Cuando esta forma de verso consta de sólo cuatro versos, se llama _Rubai._ La longitud <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> de un ghazal varía, pero no se supone que sea más larga que dieciocho pareados. A menudo, los pareados dentro de un ghazal no tienen conexión aparente y están completos en sí mismos. El último verso suele contener el nombre del poeta.
 
 _Hatim,_ o _Hatim Tai:_ un jefe árabe famoso por su generosidad: nunca se negó a una petición. Nació en Yemen, en Arabia Felix, en tiempos premusulmanes. Alguien le pidió su cabeza, y él se la dio, y así murió.
 
@@ -56,7 +56,7 @@ _Kafir:_ un incrédulo; uno que no es musulmán.
 
 _Kaikobad:_ un sultán de la dinastía selyúcida, famoso no sólo por sus guerras exitosas, sino también como un gran constructor de palacios.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 _Kerbela:_ el lugar de la masacre de Hussain, el nieto del Profeta, y sus hijos, por los omeyas. Está situado en Mesopotamia, cerca de la orilla occidental del Tigris, a veintiocho millas de las ruinas de Babilonia. Es un gran lugar de peregrinación para los chiítas, que sostienen que el liderazgo espiritual del Islam recayó en Alí, el yerno de Mahoma, y sus descendientes. La tumba de Hussain está en una gran mezquita; y cada año doscientos mil peregrinos de todas partes del mundo musulmán la visitan, a veces llevando los huesos de sus antepasados para ser enterrados allí. La historia de la muerte de Hussain se lee anualmente, y a veces se representa como una obra de teatro milagrosa, en las comunidades chiítas, con mucho lamento y dolor, el décimo día de las celebraciones del Mohurrum.
 
@@ -78,7 +78,7 @@ _Masiha:_ Mesías. Jesús es conocido en la tradición musulmana como el Sanador
 
 _Fénix:_ ave fabulosa de gran tamaño y belleza, que habita habitualmente en las montañas del Cáucaso, pero que aparece en intervalos muy raros. Si extiende sus alas sobre la cabeza de un hombre, éste se convierte en rey. Se suponía que vivía mil setecientos años, y sólo existía uno en el mundo a la vez.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 _Rustum:_ hijo de Zal, Príncipe de Seistan: un héroe tradicional de Persia, famoso por su fuerza y valentía indomables. Conquistó a los Dives, o espíritus malignos, y realizó otras hazañas milagrosas, comparables a los trabajos de Hércules. Es el héroe del _Shah-Nameh_ de Firdausi.
 

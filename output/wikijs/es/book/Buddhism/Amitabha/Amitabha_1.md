@@ -33,7 +33,7 @@ dateCreated: 2025-2-5T22:38:39Z
 
 Poco después de la época de Açoka, el gran emperador budista del siglo III a. C., la India se convirtió en escenario de prolongadas invasiones y guerras. Vigorosas tribus del norte conquistaron la región del alto Panjab y fundaron varios estados, entre los cuales el Reino de Gandhâra se convirtió en el más poderoso. Despojos, epidemias y hambrunas azotaron el valle del Ganges, pero todas estas tribulaciones pasaron por alto las instituciones religiosas sin causarles daño alguno. Los reyes perdieron sus coronas y los ricos sus riquezas, pero los monjes entonaron sus himnos de la misma manera. Así, la tormenta derriba árboles imponentes, pero solo doblega la caña que cede.
 
-Gracias a las virtudes de los sacerdotes budistas, especialmente la ecuanimidad y la reflexión, los conquistadores, a su vez, fueron espiritualmente <span id="p2">[<sup><small>p. 2</small></sup>]</span> conquistados por los conquistados, y abrazaron la religión de la iluminación. Reconocieron las cuatro nobles verdades enseñadas por el Tathagata: (1) la prevalencia del sufrimiento, siempre evidente en este mundo; (2) el origen del sufrimiento, que surge del deseo egoísta; (3) la posibilidad de emanciparse del sufrimiento abandonando todo apego egoísta; y (4) la vía de salvación del mal mediante el noble óctuple sendero de la conducta moral, que consiste en la comprensión correcta, la aspiración correcta, el habla correcta, la conducta correcta, la vida correcta, el esfuerzo correcto, la disciplina correcta y el logro de la dicha correcta.
+Gracias a las virtudes de los sacerdotes budistas, especialmente la ecuanimidad y la reflexión, los conquistadores, a su vez, fueron espiritualmente <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> conquistados por los conquistados, y abrazaron la religión de la iluminación. Reconocieron las cuatro nobles verdades enseñadas por el Tathagata: (1) la prevalencia del sufrimiento, siempre evidente en este mundo; (2) el origen del sufrimiento, que surge del deseo egoísta; (3) la posibilidad de emanciparse del sufrimiento abandonando todo apego egoísta; y (4) la vía de salvación del mal mediante el noble óctuple sendero de la conducta moral, que consiste en la comprensión correcta, la aspiración correcta, el habla correcta, la conducta correcta, la vida correcta, el esfuerzo correcto, la disciplina correcta y el logro de la dicha correcta.
 
 Cuando el reino de Gandhâra quedó firmemente establecido, el comercio y los intercambios comenzaron a prosperar más que nunca, mientras que los vihâras, o monasterios budistas, continuaron siendo el hogar de los ejercicios religiosos, ofreciendo asilo a quienes buscaban retirarse del tumulto del mundo con el fin de encontrar la paz del alma.
 
@@ -41,11 +41,11 @@ Fue en uno de estos vihâras en las montañas cerca de Purushaputra, el actual P
 
 El vihâra al que Charaka accedió estaba excavado en la roca sólida de un idílico desfiladero. Un arroyo gorgoteaba cerca, proporcionando a los ermitaños abundante agua fresca, y los monjes podían subsistir fácilmente gracias a las donaciones de los aldeanos que vivían cerca, a las que añadían la cosecha de frutas y verduras que crecían cerca de sus cuevas. En medio de sus pequeñas celdas había una gran chaitya, un salón o iglesia, donde se reunían para los servicios diarios, sermones, meditaciones y otros ejercicios piadosos.
 
-El chaitya, al igual que las celdas, fue excavado en la roca viva; una hilera de enormes columnas a cada lado dividía la sala en una nave central y dos laterales. <span id="p4">[<sup><small>p. 4</small></sup>]</span> Los adornos que cubrían las paredes rocosas, aunque producto de un talento casero, al ser elaborados por las manos inexpertas de monjes artistas, no carecían de cierto refinamiento y nobleza. Las pinturas exhibían escenas de la vida de Buda: su nacimiento, sus hazañas, sus milagros, ilustraciones de sus parábolas, sus sermones y su entrada final al Nirvana.
+El chaitya, al igual que las celdas, fue excavado en la roca viva; una hilera de enormes columnas a cada lado dividía la sala en una nave central y dos laterales. <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> Los adornos que cubrían las paredes rocosas, aunque producto de un talento casero, al ser elaborados por las manos inexpertas de monjes artistas, no carecían de cierto refinamiento y nobleza. Las pinturas exhibían escenas de la vida de Buda: su nacimiento, sus hazañas, sus milagros, ilustraciones de sus parábolas, sus sermones y su entrada final al Nirvana.
 
 Una procesión de monjes, precedida por un líder que blandía un incensario, entró en fila por el gran portal de la chaitya. De dos en dos, recorrieron las naves laterales y circunvalaron solemnemente la dagoba, deteniéndose al final de la nave, en el ábside de la sala, justo en el lugar donde los idólatras erigían un altar a sus dioses. Imitaba un túmulo destinado a albergar alguna reliquia del venerado maestro, y el ingenio del arquitecto había diseñado ingeniosamente la construcción de la cueva de modo que los rayos del sol cayeran sobre la dagoba y rodearan su misteriosa presencia con un halo de luz.
 
-Los monjes entonaron un canto solemne, y sus largas cadencias llenaron la sala con un espíritu de santidad, impresionando a los oyentes como si el propio Buda hubiera descendido sobre sus notas <span id="p5">[<sup><small>p. 5</small></sup>]</span> desde su dichoso descanso en el Nirvana para instruir, convertir y alegrar a sus fieles discípulos.
+Los monjes entonaron un canto solemne, y sus largas cadencias llenaron la sala con un espíritu de santidad, impresionando a los oyentes como si el propio Buda hubiera descendido sobre sus notas <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> desde su dichoso descanso en el Nirvana para instruir, convertir y alegrar a sus fieles discípulos.
 
 Los monjes cantaron un himno, del cual el novicio pudo captar algunas de las líneas a medida que eran cantadas; y éstas fueron las palabras que resonaron en sus oídos:
 
@@ -63,7 +63,7 @@ Entonces el cántico comenzó de nuevo:
 “Vaso como el mar
  Nuestro corazón será,
  Y lleno de compasión y amor.
- Nuestros pensamientos se elevarán <span id="p6">[<sup><small>p. 6</small></sup>]</span>
+ Nuestros pensamientos se elevarán <span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
  Para siempre jamás
  Alto, como la paloma montesa.
 
@@ -80,7 +80,7 @@ Hay un joven con nosotros que, tras dejar el mundo, se quedó conmigo un tiempo 
 
 El abad respondió: “Que se acerque”.
 
-Era Charaka; y cuando se situó en medio de los hermanos, el abad observó su alta figura con una mirada bondadosa y escrutadora y <span id="p7">[<sup><small>p. 7</small></sup>]</span> preguntó: “¿Cuál es su nombre y cuál es su deseo?”
+Era Charaka; y cuando se situó en medio de los hermanos, el abad observó su alta figura con una mirada bondadosa y escrutadora y <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> preguntó: “¿Cuál es su nombre y cuál es su deseo?”
 
 Charaka se arrodilló y dijo con las manos juntas: «Me llamo Charaka. Ruego a la Hermandad la iniciación. Que la Hermandad me reciba y me eleve a su altura de perfección espiritual. Tengan compasión de mí, reverendos señores, y concedan mi petición».
 

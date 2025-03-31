@@ -131,7 +131,7 @@ El Bendito no tenía cuenco para recibir limosna. No sabía qué hacer. Los dios
 
 “En verdad, sería indecoroso que un monje recibiera limosna en un cuenco de oro”.
 
-Y rechazó los cuencos de oro. Los dioses le trajeron cuencos de plata, que también rechazó. <span id="p109">[<sup><small>p. 109</small></sup>]</span> Asimismo, rechazó los cuencos de esmeralda y solo aceptó cuencos de piedra.
+Y rechazó los cuencos de oro. Los dioses le trajeron cuencos de plata, que también rechazó. <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> Asimismo, rechazó los cuencos de esmeralda y solo aceptó cuencos de piedra.
 
 Luego recibió los pasteles que le ofrecieron los comerciantes. Al terminar de comer, dijo:
 

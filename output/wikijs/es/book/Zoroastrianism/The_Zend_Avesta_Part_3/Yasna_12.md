@@ -36,13 +36,13 @@ dateCreated: 2025-2-12T13:0:42Z
 
 [^1030].
 
-1\. Expulso [^1031] a los Daêvas; me confieso adorador de Mazda, de la orden de Zaratustra, alejado de los Daêvas, devoto de la sabiduría del <span id="p248">[<sup><small>p. 248</small></sup>]</span> Señor, alabador [^1032] de los Generosos Inmortales; y a Ahura Mazda, el bueno y dotado de buenas posesiones, le atribuyo todo lo bueno, al Santo, el Resplandeciente, al Glorioso, a quien pertenecen todas las cosas buenas; a quien pertenecen las Vacas, a quien pertenece Asha (el orden recto que impregna todas las cosas puras), a quien pertenecen las estrellas, en cuyas luces se visten los seres y objetos gloriosos [^1033].
+1\. Expulso [^1031] a los Daêvas; me confieso adorador de Mazda, de la orden de Zaratustra, alejado de los Daêvas, devoto de la sabiduría del <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> Señor, alabador [^1032] de los Generosos Inmortales; y a Ahura Mazda, el bueno y dotado de buenas posesiones, le atribuyo todo lo bueno, al Santo, el Resplandeciente, al Glorioso, a quien pertenecen todas las cosas buenas; a quien pertenecen las Vacas, a quien pertenece Asha (el orden recto que impregna todas las cosas puras), a quien pertenecen las estrellas, en cuyas luces se visten los seres y objetos gloriosos [^1033].
 
 2\. Y elijo la Piedad, la generosa y la buena, que sea mía [^1034]. Y por eso, condeno en voz alta (todo robo [^1035] y violencia contra lo sagrado) el ganado, y toda sequía [^1036] que devasta las aldeas de Mazdayasnian.
 
 3\. Quisiera alejar de sus pensamientos la idea de vagar libremente, alejar la idea de acampar libremente, pues deseo alejar de [^1037] a sus vacas que habitan con firmeza en esta tierra; y, postrándome en adoración a la Virtud, dedico mis ofrendas con alabanza hasta ese punto. Que nunca sea una causa de desgaste, nunca una causa de marchitamiento para las aldeas Mazdayasnias, ni por amor [^1038] al cuerpo ni a la vida.
 
-4\. Renuncio al amparo y la jefatura de los <span id="p249">[<sup><small>p. 249</small></sup>]</span> Daêvas, malvados como son; sí, completamente desprovistos de bien y carentes de virtud, engañosos en su maldad, de entre todos los seres, los más parecidos al Demonio de la Mentira, los más repugnantes de los seres existentes y los más desprovistos de bien.
+4\. Renuncio al amparo y la jefatura de los <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> Daêvas, malvados como son; sí, completamente desprovistos de bien y carentes de virtud, engañosos en su maldad, de entre todos los seres, los más parecidos al Demonio de la Mentira, los más repugnantes de los seres existentes y los más desprovistos de bien.
 
 5\. ¡Abandonen, abandonen! A los Daevas y a todo lo que poseen, a los hechiceros y a todos los que se aferran a sus artimañas, y a todo ser de esa clase. Abjuro de sus pensamientos, de sus palabras y acciones, y de su semilla (que propaga su pecado); abjuro de su refugio y de su autoridad, y de los inicuos de toda especie que actúan como Rakhshas.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 Y así yo mismo, en cualquier circunstancia en que me encuentre, como adorador de Mazda y de la orden de Zaratustra, abjuraría de los Daêvas y de su refugio, tal como abjuró de ellos (una vez en la antigüedad) aquel que [^1040] era el santo Zaratustra.
 
-7\. A esa santidad religiosa [^1041] a la que pertenecen las aguas, pertenezco a esa santidad a la que pertenecen las plantas, a esa santidad a la que pertenecen las vacas del don bendito [^1042], a esa santidad religiosa a la que pertenece Ahura Mazda, quien hizo tanto vacas como hombres santos, <span id="p250">[<sup><small>p. 250</small></sup>]</span> a esa santidad pertenezco. De ese credo que sostuvo Zaratustra, que Kavi Vî<i>s</i>tâspa, y esos dos, Frashao<i>s</i>tra y <i>G</i>âmâspa; Sí, de esa fe religiosa que todo Saoshya<i>n</i>t que (aún vendrá a) salvarnos, los santos que hacen obras de verdadero significado, de ese credo y de esa tradición, soy yo.
+7\. A esa santidad religiosa [^1041] a la que pertenecen las aguas, pertenezco a esa santidad a la que pertenecen las plantas, a esa santidad a la que pertenecen las vacas del don bendito [^1042], a esa santidad religiosa a la que pertenece Ahura Mazda, quien hizo tanto vacas como hombres santos, <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> a esa santidad pertenezco. De ese credo que sostuvo Zaratustra, que Kavi Vî<i>s</i>tâspa, y esos dos, Frashao<i>s</i>tra y <i>G</i>âmâspa; Sí, de esa fe religiosa que todo Saoshya<i>n</i>t que (aún vendrá a) salvarnos, los santos que hacen obras de verdadero significado, de ese credo y de esa tradición, soy yo.
 
 8\. Soy un adorador de Mazda, de la orden de Zaratustra; (por tanto) confieso, como alabador y confesor, y por eso alabo en voz alta el pensamiento bien pensado, la palabra bien dicha y la acción bien realizada;
 

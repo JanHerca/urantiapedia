@@ -48,7 +48,7 @@ IGNAZ GOLDZIHER: _Die Zâhiriten, ihr Lehrsystem und ihre Geschichte_. Leipzig, 
 
 IGNAZ GOLDZIHER: _Neue Materialien zur Litteratur des Ueberlieferungswesen bei den Muhammedanem_. ZDMG, I, págs. 465 y sigs. Se ocupa de Musnad de Ahmad ibn Hanbal.
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 IGNAZ GOLDZIHER: _Zur Litteratur des Ichtilâf al-madhâhíb_. ZDMG, xxxviii, págs. 669 y sigs. Contiene un aviso de ash-Sha‘rani.
 

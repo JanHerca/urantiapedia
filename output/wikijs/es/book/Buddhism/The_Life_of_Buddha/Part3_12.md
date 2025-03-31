@@ -65,7 +65,7 @@ Ajatasatru siguió el consejo de Jivaka. Acudió al Bendito, confesó sus fechor
 
 «Tu padre —le dijo el Buda— ha renacido entre los dioses más poderosos; sabe de tu arrepentimiento y te perdona. Escúchame, rey Ajatasatru; conoce la ley y deja de sufrir».
 
-Ajatasatru emitió una proclamación, desterrando a Devadatta del reino y ordenando a los habitantes <span id="p264">[<sup><small>p. 264</small></sup>]</span> que le cerraran las puertas si buscaba refugio en sus casas.
+Ajatasatru emitió una proclamación, desterrando a Devadatta del reino y ordenando a los habitantes <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> que le cerraran las puertas si buscaba refugio en sus casas.
 
 Devadatta se encontraba entonces cerca de Cravasti, donde esperaba ser recibido por el rey Prasenajit, pero le negaron una audiencia con desdén y le ordenaron que abandonara el reino. Frustrado en sus intentos de conseguir seguidores, finalmente partió hacia Kapilavastu.
 

@@ -44,7 +44,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 4\. Eres la abeja azul oscuro, eres el loro verde de ojos rojos, eres la nube de tormenta, las estaciones, los mares. Eres sin principio [^783], porque eres infinito, de quien nacen todos los mundos.
 
-5 [^784]. Hay un ser nonato (hembra), rojo, blanco y negro, uniforme, pero con múltiples crías. Hay un ser nonato (varón) que la ama y yace a su lado; hay otro que la abandona, mientras ella come lo que debe comer. <span id="p251">[<sup><small>p. 251</small></sup>]</span> 6 [^785]. Dos pájaros, amigos inseparables, se aferran al mismo árbol. Uno come la dulce fruta, el otro observa sin comer.
+5 [^784]. Hay un ser nonato (hembra), rojo, blanco y negro, uniforme, pero con múltiples crías. Hay un ser nonato (varón) que la ama y yace a su lado; hay otro que la abandona, mientras ella come lo que debe comer. <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> 6 [^785]. Dos pájaros, amigos inseparables, se aferran al mismo árbol. Uno come la dulce fruta, el otro observa sin comer.
 
 7\. En el mismo árbol, el hombre se sienta afligido, sumido, desconcertado por su propia impotencia (an-î<i>s</i>â). Pero cuando ve al otro señor (î<i>s</i>a) contento y conoce su gloria, entonces su dolor desaparece.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 13\. Aquel que es el soberano de los dioses, aquel en quien descansan todos los mundos [^790], aquel que gobierna sobre todos los seres de dos y cuatro pies, a ese dios [^791] sacrifiquemos una oblación.
 
-14\. Quien ha conocido a aquel que es más sutil que lo sutil, en medio del caos, creador de todas las cosas, con múltiples formas, y que lo envuelve todo solo [^792], el bienaventurado (<i>Siva</i>), pasa a la paz eterna. <span id="p253">[<sup><small>p. 253</small></sup>]</span> 15\. Él también fue en el tiempo [^793] el guardián de este mundo, el señor de todo, oculto en todos los seres. En él se unen los Brahmarshis y las deidades [^794], y quien lo conoce rompe las ataduras de la muerte.
+14\. Quien ha conocido a aquel que es más sutil que lo sutil, en medio del caos, creador de todas las cosas, con múltiples formas, y que lo envuelve todo solo [^792], el bienaventurado (<i>Siva</i>), pasa a la paz eterna. <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> 15\. Él también fue en el tiempo [^793] el guardián de este mundo, el señor de todo, oculto en todos los seres. En él se unen los Brahmarshis y las deidades [^794], y quien lo conoce rompe las ataduras de la muerte.
 
 16\. Quien conoce a Siva (el bendito), oculto en todos los seres, como la sutil película que se eleva desde la mantequilla clarificada [^795], envolviéndolo todo solo, quien conoce a Dios, se libera de todas las ataduras.
 

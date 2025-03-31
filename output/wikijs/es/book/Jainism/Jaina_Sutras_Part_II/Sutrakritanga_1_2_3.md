@@ -64,7 +64,7 @@ También el hombre que aún vive en la casa, debe, de acuerdo con su credo [^760
 
 Instruido en el credo del Señor, ¡esfuérzate por la verdad (es decir, por el control)! Un monje que ha dominado completamente su egoísmo debe recolectar limosnas puras. (14)
 
-Conociendo la verdad, uno debe vivir conforme a ella, <span id="p260">[<sup><small>p. 260</small></sup>]</span> buscando la Ley, siendo ferviente en la realización de austeridades, poseyendo los Guptis, siendo consumado, uno debe esforzarse siempre, atento al beneficio del alma y deseando el bien supremo (es decir, la liberación). (15)
+Conociendo la verdad, uno debe vivir conforme a ella, <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> buscando la Ley, siendo ferviente en la realización de austeridades, poseyendo los Guptis, siendo consumado, uno debe esforzarse siempre, atento al beneficio del alma y deseando el bien supremo (es decir, la liberación). (15)
 
 El necio cree que su riqueza, su ganado y sus parientes lo salvarán; ellos a él, o él a ellos. Pero no le sirven de ayuda ni de protección. (16)
 

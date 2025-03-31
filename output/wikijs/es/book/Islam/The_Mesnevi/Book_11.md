@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 ## XI. La caza del león, en Compañía.
 
@@ -59,7 +59,7 @@ Un perro a veces tiene a su cargo el patio del palacio de abajo.
 La compañía, entonces, partió hacia el bosque amain,
 <sup id="v10"><small>10</small></sup> Como seguidores de la majestad del león, y entrenar.
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 Un buey de montaña, un íbice, luego una liebre, tomaron;
 Ya que la fortuna les sonrió en cada rincón sucesivo.
@@ -96,7 +96,7 @@ Y si te perdono, la justicia será completamente revertida.
 Para librar al mundo del escándalo, debo acabar con vuestras vidas;
 Tu historia será un punto moral; quienquiera que lo intente”.
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 Con esto sonrió de nuevo más sombríamente a la pareja.
 No confíes en la sonrisa de un león, todos vosotros que queréis vivir.
@@ -131,7 +131,7 @@ Tú mismo deberías haber vencido en mi presencia el terror.
 «Todo perece, excepto Su consejo» es la Sagrada Escritura.[^333]
 Si no somos de «su consejo», la vida no puede encajarnos.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 El que quiere perder su vida por amor a Dios, la tiene todavía;
 «Todo perece» no tiene entonces poder para matar su alma.
@@ -163,7 +163,7 @@ Mi cuna es demasiado pequeña para que quepan dos personas allí.
 El hilo no es doble en el ojo único de una aguja.
 Como ahora estás soltero, entra. Encontrarás una habitación. ¡Por favor, inténtalo!
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 El hilo y la aguja tienen relación, cada uno con cada uno;
 <sup id="v55"><small>55</small></sup> Para el ojo de una aguja, un camello está más allá de todo alcance.
@@ -196,7 +196,7 @@ Nuestro anfitrión invita a su invitado a entrar, libre de burlas:
 Nuestro hilo es único, libre de nudos y enredos; hecho,
 Como ‘Ser’, aunque dúplex en cuanto a forma, en sentido es uno.”
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 Ese «Ser» es una cuerda, de poder colectivo, hasta el final
 Esa nulidad puede estar unida a un amigo.
@@ -230,7 +230,7 @@ Como a través del elíseo, arroyos;—flores brotando aye, anon.
 ¡Oh Señor! Concédele a mi alma débil y errante
 Para ver el reino donde, sin voz, los pensamientos espirituales pueden pasear,
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Que así mi mente, en alegría, de pie o de cabeza, puede volar
 Su vuelo hacia el lejano confín que parte de la nada, cosa,
@@ -265,7 +265,7 @@ Para servir como medida provisional en el intervalo de masticar.
 La liebre una comida ligera te proporcionará antes de dormir;
 La panza real de los dolores de la indigestión se mantendrá”.
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 El león respondió: “Bien dicho, zorro. Tú eres la justicia misma.
 ¿Quién te enseñó con tal juicio raro repartir dinero?
@@ -299,7 +299,7 @@ Entonces, como el zorro, aprendamos sabiduría de esas canciones.
 Los huesos, los esqueletos de todos esos lobos del viejo mundo,
 Consideren bien, ustedes lectores; piensen en ustedes mismos.
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Quien es sabio quiere de su corazón echar fuera todos los pensamientos vanos
 De grandeza, cuando oye hablar de las hazañas de ‘Ād[^336] y del Faraón.
@@ -333,7 +333,7 @@ Un loco debe ser el que se precipitaría en las fauces del león.
 O que el golpe hubiera caído sobre el cuerpo frágil;
 <sup id="v125"><small>125</small></sup> Y que el corazón y la fe habían escapado! ¡Fueron de gran utilidad!
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 En este punto siento que toda mi fuerza debe ceder.
 ¿Cómo puedo contar los secretos de esta obra mística?

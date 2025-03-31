@@ -110,6 +110,8 @@ Se trata de una traducción del tratado del Talmud Sanhedrin, que trata sobre el
 - [Índice general](/es/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/General_Index)
 - [Anuncios](/es/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/Advertisements)
 
+<br>
+
 ## Enlaces externos
 
 - [Sitio web de textos sagrados](https://sacred-texts.com/jud/tsa/index.htm)

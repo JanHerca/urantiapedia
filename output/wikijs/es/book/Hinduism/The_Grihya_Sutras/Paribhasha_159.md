@@ -68,7 +68,7 @@ La regla debe mantenerse debido a la idoneidad del Kumbhi, una olla grande, el <
 
 **Comentario.**
 
-Kumbhî se explica mediante sro<i>n</i>yâdipâkasamarthâ <span id="p361">[<sup><small>p. 361</small></sup>]</span> b<i>n</i>hatî sthâlî; _S<i>n</i>ri<i>n</i>t<i>n</i>h_, y Vapâ<i>n</i>rapa<i>n</i>î mediante vapâ<i>n</i>rapa<i>n</i>ârthe yash<i>n</i>î dve. El objeto exacto del Sutra no está del todo claro. Prabhutva se explica mediante samarthatva, es decir, aptitud. Esto significaría que, debido a su idoneidad, o porque pueden usarse para el fin previsto, o mientras puedan usarse, la regla que se les aplica debería mantenerse. El comentario explica el tantram mediante tantratâ o ekatâ. Esto podría significar que deberían usarse las mismas ollas y asadores, siempre que cumplan su propósito. El siguiente sutra constituiría entonces una limitación natural.
+Kumbhî se explica mediante sro<i>n</i>yâdipâkasamarthâ <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> b<i>n</i>hatî sthâlî; _S<i>n</i>ri<i>n</i>t<i>n</i>h_, y Vapâ<i>n</i>rapa<i>n</i>î mediante vapâ<i>n</i>rapa<i>n</i>ârthe yash<i>n</i>î dve. El objeto exacto del Sutra no está del todo claro. Prabhutva se explica mediante samarthatva, es decir, aptitud. Esto significaría que, debido a su idoneidad, o porque pueden usarse para el fin previsto, o mientras puedan usarse, la regla que se les aplica debería mantenerse. El comentario explica el tantram mediante tantratâ o ekatâ. Esto podría significar que deberían usarse las mismas ollas y asadores, siempre que cumplan su propósito. El siguiente sutra constituiría entonces una limitación natural.
 
 <span id="an154"></span>
 
@@ -116,7 +116,7 @@ O (según otros) el Anvârambha<i>ri</i>îyâ debería tener lugar (también en 
 
 **Comentario.**
 
-Este Sutra no es del todo claro. Muestra con claridad que, según algunas autoridades, el Anvârambha<i>s</i>îyâ o ceremonia iniciática del sacrificio Dar<i>s</i>a-pûr<i>s</i>amâsa también debe tener lugar en los Vik<i>s</i>tis; pero ¿por qué? Porque el tiempo no tiene la característica de un <i>s</i>esha, que se dice que es sinónimo de aṅga, una parte esencial de un sacrificio. <span id="p363">[<sup><small>p. 363</small></sup>]</span> Cuando se dice que el Dar<i>s</i>a-pûr<i>s</i>amâsa debe realizarse en vida, esto no significa que determine el momento del sacrificio. Solo significa que, mientras exista vida, un hombre debe realizar estos sacrificios, y que no realizarlos constituiría un pecado. Por lo tanto, el argumento anterior, de que el tiempo de los sacrificios de Vik<i>s</i>ti coincidiría con el tiempo del sacrificio de Prak<i>s</i>ti, no es sostenible.
+Este Sutra no es del todo claro. Muestra con claridad que, según algunas autoridades, el Anvârambha<i>s</i>îyâ o ceremonia iniciática del sacrificio Dar<i>s</i>a-pûr<i>s</i>amâsa también debe tener lugar en los Vik<i>s</i>tis; pero ¿por qué? Porque el tiempo no tiene la característica de un <i>s</i>esha, que se dice que es sinónimo de aṅga, una parte esencial de un sacrificio. <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> Cuando se dice que el Dar<i>s</i>a-pûr<i>s</i>amâsa debe realizarse en vida, esto no significa que determine el momento del sacrificio. Solo significa que, mientras exista vida, un hombre debe realizar estos sacrificios, y que no realizarlos constituiría un pecado. Por lo tanto, el argumento anterior, de que el tiempo de los sacrificios de Vik<i>s</i>ti coincidiría con el tiempo del sacrificio de Prak<i>s</i>ti, no es sostenible.
 
 <span id="an158"></span>
 

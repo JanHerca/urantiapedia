@@ -42,7 +42,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. [^563] 'Eres un caballo, eres un corcel' —con estos once nombres de 'caballos' (Taitt. Sa<i>m</i>h. VII, 1, 12) (monta) el caballo, si (tiene intención de entrar al pueblo) a caballo.
 
-4\. [^564] Con (la fórmula), «Con el rayo de Indra te cabalgo; llévame; lleva el tiempo; llévame hacia la dicha. Eres un elefante. Eres la gloria del elefante. Eres el esplendor del elefante. Que me conceda la gloria del elefante, el esplendor del elefante» —(monta) el elefante, si (tiene intención de ir a la aldea) en él. <span id="p171">[<sup><small>p. 171</small></sup>]</span>
+4\. [^564] Con (la fórmula), «Con el rayo de Indra te cabalgo; llévame; lleva el tiempo; llévame hacia la dicha. Eres un elefante. Eres la gloria del elefante. Eres el esplendor del elefante. Que me conceda la gloria del elefante, el esplendor del elefante» —(monta) el elefante, si (tiene intención de ir a la aldea) en él. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 5\. [^565] Va a un lugar donde le rendirán honores.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 13. Después de verter la cuajada en un recipiente de latón, vierte en él miel (y luego las demás sustancias mencionadas anteriormente).
 
-14\. [^567] Habiendo vertido (esas sustancias) en un recipiente más pequeño, y habiéndolo cubierto con una (tapa) más grande que el recipiente, (el anfitrión) hace (al invitado) aceptar (las siguientes cosas) por separado, una tras otra, a saber: un manojo de hierba (para sentarse), <span id="p172">[<sup><small>p. 172</small></sup>]</span> agua para lavar los pies, el agua de Argha, agua para sorber, y la mezcla de miel (Madhuparka).
+14\. [^567] Habiendo vertido (esas sustancias) en un recipiente más pequeño, y habiéndolo cubierto con una (tapa) más grande que el recipiente, (el anfitrión) hace (al invitado) aceptar (las siguientes cosas) por separado, una tras otra, a saber: un manojo de hierba (para sentarse), <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> agua para lavar los pies, el agua de Argha, agua para sorber, y la mezcla de miel (Madhuparka).
 
 15\. [^568] Yendo tras (los objetos individuales que son traídos al invitado, el anfitrión) con una voz impecable, sin vacilaciones (?), anuncia (cada uno de esos objetos al invitado).
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## PATALA 4, SECCIÓN 13.
 
-1\. [^571] Con (la fórmula), «Eres la leche de Virâ<i>g</i>. Que la leche de Padyâ Virâ<i>g</i> (repose) en mí»—(el invitado) toca las manos de quien <span id="p173">[<sup><small>p. 173</small></sup>]</span> le lava los pies, y luego se toca a sí mismo con (la fórmula), «¡Que en mí habiten la brillantez, la energía, la fuerza, la vida, el renombre, el esplendor, la gloria y el poder!»
+1\. [^571] Con (la fórmula), «Eres la leche de Virâ<i>g</i>. Que la leche de Padyâ Virâ<i>g</i> (repose) en mí»—(el invitado) toca las manos de quien <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> le lava los pies, y luego se toca a sí mismo con (la fórmula), «¡Que en mí habiten la brillantez, la energía, la fuerza, la vida, el renombre, el esplendor, la gloria y el poder!»
 
 2\. (El anfitrión) entonces le hace el anuncio: '¡El agua Argha!'
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. Entonces le dice: "¡La mezcla de miel!"
 
-8\. [^575] Él acepta eso con ambas manos con la fórmula Sâvitra y lo coloca en el suelo con la fórmula: «Te coloco en el ombligo de la tierra, en la morada de I<i>d</i>â». Mezcla las diferentes sustancias tres veces de izquierda a derecha con el pulgar y el anular, con la fórmula: «¿Cuál es la miel más dulzona, que consiste en el disfrute de la comida? Que por esa miel más dulzona, <span id="p174">[<sup><small>p. 174</small></sup>]</span> pueda llegar a ser la más dulzona, dulzona y disfrutar de la comida». La toma tres veces con la fórmula: «Te como por el bien de la brillantez, la suerte, la gloria, el poder y el disfrute de la comida», y da el resto a alguien que le tenga afecto.
+8\. [^575] Él acepta eso con ambas manos con la fórmula Sâvitra y lo coloca en el suelo con la fórmula: «Te coloco en el ombligo de la tierra, en la morada de I<i>d</i>â». Mezcla las diferentes sustancias tres veces de izquierda a derecha con el pulgar y el anular, con la fórmula: «¿Cuál es la miel más dulzona, que consiste en el disfrute de la comida? Que por esa miel más dulzona, <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> pueda llegar a ser la más dulzona, dulzona y disfrutar de la comida». La toma tres veces con la fórmula: «Te como por el bien de la brillantez, la suerte, la gloria, el poder y el disfrute de la comida», y da el resto a alguien que le tenga afecto.
 
 9\. [^576] O puede comerlo entero (Madhuparka). Luego, sorbe agua con (la fórmula): «Tú eres la cobertura de la Ambrosía».
 
@@ -111,7 +111,7 @@ La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el ombl
 
 13\. [^578] Si la matan, (dice): «Eres una vaca; el pecado se aleja de ti. ¡Ahuyenta mi pecado y el pecado de NN! ¡Mátenlo a quien me odie! ¡Mátenlo a quien me odie! ¡Prepárenlo!»
 
-14\. [^579] Si se suelta la vaca, se prepara una comida con otra carne y se anuncia al invitado con las palabras: "¡Está lista!". <span id="p175">[<sup><small>p. 175</small></sup>]</span>
+14\. [^579] Si se suelta la vaca, se prepara una comida con otra carne y se anuncia al invitado con las palabras: "¡Está lista!". <span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 15\. Él responde: «Está bien preparado; es el Virâ_g_; es alimento. ¡Que no falte! ¡Que lo obtenga! ¡Que me dé fuerza! ¡Está bien preparado!», y añade: «¡Den alimento a los brahmanes!».
 
@@ -129,11 +129,11 @@ La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el ombl
 
 1\. Y si, después de haber comido, esa persona le agarra la mano derecha,
 
-2\. [^581] Si desea que uno de sus compañeros, o un alumno, o un sirviente permanezca fielmente con él y no se vaya, debe bañarse por la mañana, ponerse ropas limpias, mostrar <span id="p176">[<sup><small>p. 176</small></sup>]</span> paciencia (con ese sirviente, etc.) durante el día, hablar (solo) con Brâhma<i>n</i>as, y por la noche debe ir a la morada de esa persona, debe hacer agua en un cuerno de un animal vivo y debe caminar tres veces alrededor de su morada, rociando (su orina) alrededor de ella, con (el Mantra), 'De la montaña (¿te separo?) a ti, de tu hermano, de tu hermana, de todos tus parientes. parishîda<i>h</i> kleshyati (es decir, kvaishyasi?) _s<i>n</i>s<i>n</i>m<i>n</i>n<i>n</i>k_<i>n</i>idâ, ûlena parimî<i>n</i>oऽsi parimî<i>n</i>oऽsy ûlena.'
+2\. [^581] Si desea que uno de sus compañeros, o un alumno, o un sirviente permanezca fielmente con él y no se vaya, debe bañarse por la mañana, ponerse ropas limpias, mostrar <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> paciencia (con ese sirviente, etc.) durante el día, hablar (solo) con Brâhma<i>n</i>as, y por la noche debe ir a la morada de esa persona, debe hacer agua en un cuerno de un animal vivo y debe caminar tres veces alrededor de su morada, rociando (su orina) alrededor de ella, con (el Mantra), 'De la montaña (¿te separo?) a ti, de tu hermano, de tu hermana, de todos tus parientes. parishîda<i>h</i> kleshyati (es decir, kvaishyasi?) _s<i>n</i>s<i>n</i>m<i>n</i>n<i>n</i>k_<i>n</i>idâ, ûlena parimî<i>n</i>oऽsi parimî<i>n</i>oऽsy ûlena.'
 
 3\. Coloca el cuerno del animal vivo en un lugar que sea generalmente accesible.
 
-4\. [^582] Aquel cuyos compañeros, alumnos o sirvientes suelen huir, debe reprenderlos con (el Mantra): «¡Que quien llama aquí (?), te llame aquí! Quien trae de vuelta, te ha traído de vuelta (?). Que la reprensión de Indra siempre te reprenda. Si tú, que adoras tu propio engaño, me desprecias (?), ... que Indra te ate con su lazo y te obligue a volver a mí». <span id="p177">[<sup><small>p. 177</small></sup>]</span>
+4\. [^582] Aquel cuyos compañeros, alumnos o sirvientes suelen huir, debe reprenderlos con (el Mantra): «¡Que quien llama aquí (?), te llame aquí! Quien trae de vuelta, te ha traído de vuelta (?). Que la reprensión de Indra siempre te reprenda. Si tú, que adoras tu propio engaño, me desprecias (?), ... que Indra te ate con su lazo y te obligue a volver a mí». <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 5\. Luego entra en su casa, pone un trozo de madera de Sidhraka en el fuego y ofrece el sacrificio con el verso que atrae: «Traedor de vuelta, tráelos de vuelta» (Taitt. Sa<i>m</i>h. III, 3, 10, 1).
 
@@ -149,7 +149,7 @@ La madre de los Rudras, la hija de los Vasus, la hermana de los Adityas, el ombl
 
 ## PATALA 4, SECCIÓN 15.
 
-1\. [^584] Con (el verso), 'Si comerciamos, oh dioses, intentando con nuestra riqueza adquirir (nueva) riqueza, oh dioses, que <span id="p178">[<sup><small>p. 178</small></sup>]</span> Soma nos conceda esplendor, Agni, Indra, B<i>ri</i>haspati e Î<i>ri</i>âna. ¡Svâhâ!'
+1\. [^584] Con (el verso), 'Si comerciamos, oh dioses, intentando con nuestra riqueza adquirir (nueva) riqueza, oh dioses, que <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> Soma nos conceda esplendor, Agni, Indra, B<i>ri</i>haspati e Î<i>ri</i>âna. ¡Svâhâ!'
 
 2\. Ahora (sigue) el camino para apaciguar la ira.
 

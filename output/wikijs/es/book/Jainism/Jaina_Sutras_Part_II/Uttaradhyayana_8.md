@@ -40,7 +40,7 @@ OCTAVA CONFERENCIA. LOS VERSOS DE KAPILA [^125].
 
 Abandonando tus antiguas conexiones, no pongas tu afecto en nada; un monje que no ama ni siquiera a quienes lo aman, se liberará del pecado y del odio. (2)
 
-Entonces el mejor de los sabios, quien está libre de <span id="p33">[<sup><small>p. 33</small></sup>]</span> engaño y posee conocimiento y fe perfectos, habla para el beneficio y el bienestar eterno, y para la liberación final de todos los seres. (3)
+Entonces el mejor de los sabios, quien está libre de <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> engaño y posee conocimiento y fe perfectos, habla para el beneficio y el bienestar eterno, y para la liberación final de todos los seres. (3)
 
 El monje debe desechar todas las ataduras del alma, todo odio y todo lo de este tipo; no debe apegarse a ningún placer, debe examinarlos bien y cuidar de sí mismo. (4)
 
@@ -54,7 +54,7 @@ No se debe permitir (ni consentir) la muerte de seres vivos; entonces quizás se
 
 Un hombre cuidadoso que no daña a los seres vivos se llama circunspecto (samita). El karman pecaminoso lo abandonará como el agua abandona la tierra elevada. (9)
 
-En pensamientos, palabras y acciones no debe hacer <span id="p34">[<sup><small>p. 34</small></sup>]</span> nada perjudicial para los seres que pueblan el mundo, ya sea que se muevan o no. (10)
+En pensamientos, palabras y acciones no debe hacer <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> nada perjudicial para los seres que pueblan el mundo, ya sea que se muevan o no. (10)
 
 Debe saber qué limosnas se pueden aceptar y debe cumplir estrictamente estas reglas; un monje debe pedir comida sólo para el sustento de la vida y no debe ser delicado. (11)
 

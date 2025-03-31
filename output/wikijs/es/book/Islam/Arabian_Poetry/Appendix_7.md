@@ -84,7 +84,7 @@ Entonces, como el cervatillo salvaje, miró de un lado a otro.
 Sus cabellos negros azabache caían sobre sus hombros.
 Como dátiles agrupados entre la sombra de las palmeras.—R. R.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 v. 33. «Su cabello, como racimos de dátiles agrupados en la palmera»—una comparación favorita de los antiguos poetas de Arabia; también la de las trenzas de una linda muchacha con las ramas de la vid: véanse los versos del Romance de Antar, [p. 191](./Antar_3#p191) del presente volumen.
 

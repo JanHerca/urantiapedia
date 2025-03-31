@@ -101,7 +101,7 @@ Tenía una voz agradable. Hizo un gesto a la multitud para que se abriera paso, 
 
 Continuó cantando:
 
-Él está aquí, el omnisciente, el amable Maestro, el sublime Buda. Él es supremo en el mundo; me alegra servirle. No servir a los ignorantes, sino servir humildemente a los sabios y venerar a los nobles: ¿existe en el mundo una alegría más santa? Vivir en una tierra de paz, hacer muchas buenas obras, buscar el triunfo de la rectitud: <span id="p139">[<sup><small>p. 139</small></sup>]</span> ¿existe en el mundo una alegría más santa? Poseer habilidad y conocimiento, amar la generosidad, andar por el camino de la justicia: ¿existe en el mundo una alegría más santa?
+Él está aquí, el omnisciente, el amable Maestro, el sublime Buda. Él es supremo en el mundo; me alegra servirle. No servir a los ignorantes, sino servir humildemente a los sabios y venerar a los nobles: ¿existe en el mundo una alegría más santa? Vivir en una tierra de paz, hacer muchas buenas obras, buscar el triunfo de la rectitud: <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> ¿existe en el mundo una alegría más santa? Poseer habilidad y conocimiento, amar la generosidad, andar por el camino de la justicia: ¿existe en el mundo una alegría más santa?
 
 El joven brahmán logró abrirse paso entre la multitud y condujo al Maestro al palacio del rey Vimbasara. Luego, una vez realizada su obra, se elevó de la tierra y, al alcanzar las alturas del cielo, se desvaneció en la luz. Y la gente de Rajagriha supo que un dios había considerado un honor servir al Buda y exaltar su grandeza.
 

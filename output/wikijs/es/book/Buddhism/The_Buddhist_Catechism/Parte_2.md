@@ -62,7 +62,7 @@ A. En el _Jâtakatthakathâ_, un libro que contiene historias de las reencarnaci
 
 113\. P. ¿Qué lección nos enseñan estas historias?
 
-A. Que un hombre puede llevar, a lo largo de una larga serie de reencarnaciones, un gran y buen propósito que le permite <span id="p29">[<sup><small>p. 29</small></sup>]</span> vencer las malas tendencias y desarrollar las virtuosas.
+A. Que un hombre puede llevar, a lo largo de una larga serie de reencarnaciones, un gran y buen propósito que le permite <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> vencer las malas tendencias y desarrollar las virtuosas.
 
 113 P. ¿Podemos fijar el número de reencarnaciones por las que debe pasar un Bodhisattva antes de poder convertirse en un Buda?
 
@@ -228,7 +228,7 @@ A. Sí: la primera línea encarna todo el espíritu del Vinâya Pitaka, la segun
 
 14S. P. ¿Muestran estos preceptos que el budismo es una religión activa o pasiva?
 
-A. Dejar de pecar puede considerarse pasivo, pero obtener virtud y purificar el propio corazón o mente son cualidades completamente activas. Buda enseñó <span id="p38">[<sup><small>p. 38</small></sup>]</span> que no solo debemos ser buenos, sino que debemos ser verdaderamente buenos.
+A. Dejar de pecar puede considerarse pasivo, pero obtener virtud y purificar el propio corazón o mente son cualidades completamente activas. Buda enseñó <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> que no solo debemos ser buenos, sino que debemos ser verdaderamente buenos.
 
 149\. P. ¿Quiénes o qué son los “Tres Guías” [^9] que se supone que debe seguir un budista?
 
@@ -268,7 +268,7 @@ Observo el precepto de abstenerme de consumir intoxicantes.
 
 154\. P. ¿Qué le sorprende a la persona inteligente al leer estos Silas?
 
-A. Quien las observe estrictamente debe evitar toda causa que produzca miseria humana. <span id="p41">[<sup><small>p. 41</small></sup>]</span> Si estudiamos la historia, descubriremos que todo ha surgido de una u otra de estas causas.
+A. Quien las observe estrictamente debe evitar toda causa que produzca miseria humana. <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> Si estudiamos la historia, descubriremos que todo ha surgido de una u otra de estas causas.
 
 155\. P. ¿En qué Silas se muestra más claramente la sabiduría clarividente del Buda?
 
@@ -280,7 +280,7 @@ A. Se dice que adquiere mayor o menor mérito según la forma y el tiempo de obs
 
 157\. P. ¿Cuáles son las otras observancias que se considera meritorio que los laicos, como tales, se comprometan a guardar voluntariamente?
 
-A. El _Atthanga Silo_, o el Óctuple Precepto, que abarca los cinco arriba enumerados (omitiendo <span id="p42">[<sup><small>p. 42</small></sup>]</span> la palabra “ilegal” en el tercero), con tres adicionales; a saber:
+A. El _Atthanga Silo_, o el Óctuple Precepto, que abarca los cinco arriba enumerados (omitiendo <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> la palabra “ilegal” en el tercero), con tres adicionales; a saber:
 
 Observo el precepto de abstenerme de comer en horario inoportuno.
 
@@ -404,7 +404,7 @@ A. El budista venera la estatua de Buda y los demás objetos que has mencionado 
 
 183\. P. ¿Nos ha dado el propio Buda algo concreto sobre este tema?
 
-A. Ciertamente. En el Mahâ Pari-Nirvâṇa Sutta <span id="p50">[<sup><small>p. 50</small></sup>]</span> dice que la emancipación solo se alcanza llevando una vida santa, según el Noble Óctuple Sendero, no mediante la adoración externa (âmisa pûja), ni mediante la adoración de uno mismo, de otro o de alguna imagen.
+A. Ciertamente. En el Mahâ Pari-Nirvâṇa Sutta <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> dice que la emancipación solo se alcanza llevando una vida santa, según el Noble Óctuple Sendero, no mediante la adoración externa (âmisa pûja), ni mediante la adoración de uno mismo, de otro o de alguna imagen.
 
 184\. P. ¿Cuál era la opinión del Buda sobre el ceremonialismo?
 
@@ -434,7 +434,7 @@ A. (1) _Sottâpatti_, el comienzo o entrada en el cual sigue a la clara percepci
 
 190\. P. ¿El budismo popular no contiene nada que no sea verdad y esté de acuerdo con la ciencia?
 
-A. Como cualquier otra religión que ha existido durante siglos, ciertamente ahora contiene falsedad mezclada con verdad; todo oro se encuentra mezclado con <span id="p53">[<sup><small>p. 53</small></sup>]</span> escoria. La imaginación poética, el fervor o la persistente superstición de los devotos budistas han hecho, en diversas épocas y en diversos países, que los nobles principios de las doctrinas morales del Buda se combinen en mayor o menor medida con lo que podría eliminarse para obtener ventajas.
+A. Como cualquier otra religión que ha existido durante siglos, ciertamente ahora contiene falsedad mezclada con verdad; todo oro se encuentra mezclado con <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> escoria. La imaginación poética, el fervor o la persistente superstición de los devotos budistas han hecho, en diversas épocas y en diversos países, que los nobles principios de las doctrinas morales del Buda se combinen en mayor o menor medida con lo que podría eliminarse para obtener ventajas.
 
 191\. P. _Cuando se descubren tales perversiones, ¿cuál debería ser el mayor deseo del budista?_
 
@@ -450,7 +450,7 @@ A. En el _Sanyutta Nikâya_.
 
 194\. P. ¿Hay dogmas en el budismo que estemos obligados a aceptar por fe?
 
-A. No: se nos ordena encarecidamente no aceptar <span id="p54">[<sup><small>p. 54</small></sup>]</span> nada en absoluto por fe; ya esté escrito en libros, transmitido por nuestros antepasados ​​o enseñado por los sabios.
+A. No: se nos ordena encarecidamente no aceptar <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> nada en absoluto por fe; ya esté escrito en libros, transmitido por nuestros antepasados ​​o enseñado por los sabios.
 
 195\. P. ¿Enseñó él mismo realmente esa noble regla?
 
@@ -458,7 +458,7 @@ A. Sí. El Buda dijo que no debemos creer en algo que se dice solo porque se dic
 
 196\. P. ¿Cuándo, entonces, debemos creer?
 
-A. Debemos creer cuando la escritura, la doctrina o el dicho se corroboran con nuestra propia razón y consciencia. «Por esto», concluye, «les enseñé a no creer solo por haber oído, sino a actuar conforme a ello y con abundancia, cuando crean por su propia consciencia». (Véase el _Kâlâma Sutta_ del _Anguttara Nikâya_ y el _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55">[<sup><small>p. 55</small></sup>]</span> 197\. P. ¿Cómo se llama a sí mismo el Buda?
+A. Debemos creer cuando la escritura, la doctrina o el dicho se corroboran con nuestra propia razón y consciencia. «Por esto», concluye, «les enseñé a no creer solo por haber oído, sino a actuar conforme a ello y con abundancia, cuando crean por su propia consciencia». (Véase el _Kâlâma Sutta_ del _Anguttara Nikâya_ y el _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 197\. P. ¿Cómo se llama a sí mismo el Buda?
 
 A. Dice que él y los otros Budas son sólo “predicadores” de la verdad que señalan el camino: nosotros mismos debemos hacer el esfuerzo.
 
@@ -482,7 +482,7 @@ A. No, en efecto. En los Cinco Preceptos y en muchos de sus discursos, el Buda n
 
 202\. P. ¿En qué discurso se afirma esto?
 
-A. El _Dhammika Sutta_ dice: “Que él (el jefe de familia) no destruya ni cause la destrucción de ninguna vida, ni _apruebe los actos de quienes lo hacen_. <span id="p57">[<sup><small>p. 57</small></sup>]</span>[^15] etc.
+A. El _Dhammika Sutta_ dice: “Que él (el jefe de familia) no destruya ni cause la destrucción de ninguna vida, ni _apruebe los actos de quienes lo hacen_. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>[^15] etc.
 
 203\. P. ¿Aprueba la embriaguez?
 
@@ -582,7 +582,7 @@ A. Según nuestra religión, están en perfecta igualdad con los hombres. «La m
 
 225\. P. ¿Qué dice un crítico moderno sobre el efecto del budismo en la mujer?
 
-A. Que “ha hecho más por la felicidad y la <span id="p62">[<sup><small>p. 62</small></sup>]</span> emancipación de la mujer que cualquier otro credo” (Sir Lepel Griffin).
+A. Que “ha hecho más por la felicidad y la <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> emancipación de la mujer que cualquier otro credo” (Sir Lepel Griffin).
 
 226\. P. ¿Qué enseñó el Buda sobre las castas?
 
@@ -594,7 +594,7 @@ A. Ânanda, pasando junto a un pozo, sintió sed y le pidió a Prakriti, una muc
 
 228\. P. ¿Qué dijo el Buda en Vasalasutta acerca de un hombre de la casta paria Sopâka?
 
-A. Que por sus méritos alcanzó la fama más alta; que muchos Khattiyas (Kshattriyas) y brahmanes fueron a servirle; y que después de la muerte nació en el mundo de Brahma: mientras que hay muchos <span id="p63">[<sup><small>p. 63</small></sup>]</span> Brâhmaṇas que por sus malas acciones nacen en el infierno,
+A. Que por sus méritos alcanzó la fama más alta; que muchos Khattiyas (Kshattriyas) y brahmanes fueron a servirle; y que después de la muerte nació en el mundo de Brahma: mientras que hay muchos <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> Brâhmaṇas que por sus malas acciones nacen en el infierno,
 
 229\. P. ¿Enseña el budismo la inmortalidad del alma?
 
@@ -618,7 +618,7 @@ A. Tanhâ, o el deseo insatisfecho de existir. El ser que ha hecho aquello por l
 
 233\. P. ¿Qué es lo que nace?
 
-A. Una nueva agregación de Skandhas, o personalidad [^18] <span id="p65">[<sup><small>p. 65</small></sup>]</span> causada por el último pensamiento generativo de la persona moribunda.
+A. Una nueva agregación de Skandhas, o personalidad [^18] <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> causada por el último pensamiento generativo de la persona moribunda.
 
 234\. P. ¿Cuántos Skandhas hay?
 
@@ -640,17 +640,17 @@ A. Al Karma madurado del individuo en sus nacimientos anteriores.
 
 235\. P. ¿Cuál es la fuerza o energía que actúa, bajo la guía del Karma, para producir el nuevo ser?
 
-A. Tanhâ—la voluntad de vivir. [^19] <span id="p67">[<sup><small>p. 67</small></sup>]</span> 239\. P. ¿En qué se fundamenta la doctrina de los renacimientos?
+A. Tanhâ—la voluntad de vivir. [^19] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 239\. P. ¿En qué se fundamenta la doctrina de los renacimientos?
 
 A. Partiendo de la percepción de que la justicia, el equilibrio y la armonía perfectos son inherentes al sistema universal de la Naturaleza, los budistas no creen que una sola vida, aunque se extendiera a cien o quinientos años, sea suficiente para la recompensa o el castigo de las acciones de un hombre. El gran ciclo de renacimientos se completará con mayor o menor rapidez según la pureza o impureza predominante de las diversas vidas del individuo.
 
 240\. P. ¿Es esta nueva agregación de Skandhas —esta nueva personalidad— el mismo ser que el del nacimiento anterior, cuyo Tanhâ la trajo a la existencia?
 
-A. En cierto sentido, es un nuevo ser; en otro, no. En pali, es: «nacha so nacha añño», que significa ni el mismo ni otro. Durante este <span id="p68">[<sup><small>p. 68</small></sup>]</span>[^20], y aunque el hombre AB, de cuarenta años, es idéntico en personalidad al joven AB, de dieciocho, sin embargo, debido al continuo desgaste y reparación de su cuerpo, y al cambio de mentalidad y carácter, es un ser diferente. No obstante, el hombre en su vejez cosecha con justicia la recompensa o el sufrimiento resultante de sus pensamientos y acciones en cada etapa anterior de su vida. Así, el nuevo ser de un renacimiento, al ser la misma individualidad que antes, pero con una forma modificada, o una nueva agregación de skandhas, cosecha con justicia las consecuencias de sus acciones y pensamientos en la existencia anterior.
+A. En cierto sentido, es un nuevo ser; en otro, no. En pali, es: «nacha so nacha añño», que significa ni el mismo ni otro. Durante este <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>[^20], y aunque el hombre AB, de cuarenta años, es idéntico en personalidad al joven AB, de dieciocho, sin embargo, debido al continuo desgaste y reparación de su cuerpo, y al cambio de mentalidad y carácter, es un ser diferente. No obstante, el hombre en su vejez cosecha con justicia la recompensa o el sufrimiento resultante de sus pensamientos y acciones en cada etapa anterior de su vida. Así, el nuevo ser de un renacimiento, al ser la misma individualidad que antes, pero con una forma modificada, o una nueva agregación de skandhas, cosecha con justicia las consecuencias de sus acciones y pensamientos en la existencia anterior.
 
 241\. P. _Pero el anciano recuerda los sucesos de su juventud, a pesar de haber cambiado física y mentalmente. ¿Por qué, entonces, no traemos el recuerdo de vidas pasadas de nuestro último nacimiento al presente?_
 
-A. Porque la memoria está incluida en los Skandhas; y al cambiar estos con la nueva reencarnación, se desarrolla una nueva Memoria, el registro de esa existencia particular. Sin embargo, el registro o reflejo de todas las vidas terrenales pasadas debe sobrevivir; pues, <span id="p69">[<sup><small>p. 69</small></sup>]</span>, cuando el príncipe Siddhârthâ se convirtió en Buda, vio la secuencia completa de sus nacimientos anteriores. Si sus diversos incidentes no hubieran dejado rastro, esto no habría sido así, ya que no habría tenido nada que ver. Y quien alcanza el cuarto estado de Dhyâna (percepción psíquica) puede así trazar retrospectivamente la línea de sus vidas.
+A. Porque la memoria está incluida en los Skandhas; y al cambiar estos con la nueva reencarnación, se desarrolla una nueva Memoria, el registro de esa existencia particular. Sin embargo, el registro o reflejo de todas las vidas terrenales pasadas debe sobrevivir; pues, <span id="p69"><sup><small>[ p. 69 ]</small></sup></span>, cuando el príncipe Siddhârthâ se convirtió en Buda, vio la secuencia completa de sus nacimientos anteriores. Si sus diversos incidentes no hubieran dejado rastro, esto no habría sido así, ya que no habría tenido nada que ver. Y quien alcanza el cuarto estado de Dhyâna (percepción psíquica) puede así trazar retrospectivamente la línea de sus vidas.
 
 242\. P: ¿Cuál es el punto último hacia el cual tienden todas estas series de cambios de forma?
 
@@ -708,7 +708,7 @@ A. Que incluso él estaba tan indefenso en este vasto océano de pensamientos co
 
 254\. P. _Entonces, ¿por qué dijo el Buda, en el Parinibbana Sutta, que «no tiene nada parecido al puño cerrado de un maestro que se guarda algo»? Si toda su enseñanza estaba abierta a la comprensión de todos, ¿por qué un hombre tan eminente y erudito como el Buda Ghosha la declaró tan difícil de entender?_
 
-A. El Buda evidentemente quiso decir que enseñaba <span id="p73">[<sup><small>p. 73</small></sup>]</span> todo libremente; pero es igualmente cierto que la verdadera base del Dharma solo puede ser comprendida por quien ha perfeccionado su capacidad de comprensión. Por lo tanto, es incomprensible para las personas comunes y no iluminadas.
+A. El Buda evidentemente quiso decir que enseñaba <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> todo libremente; pero es igualmente cierto que la verdadera base del Dharma solo puede ser comprendida por quien ha perfeccionado su capacidad de comprensión. Por lo tanto, es incomprensible para las personas comunes y no iluminadas.
 
 255\. P. ¿Cómo respalda la enseñanza del Buda esta visión?
 

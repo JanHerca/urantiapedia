@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## I. El Príncipe y la criada
 
@@ -62,7 +62,7 @@ Estoy triste de corazón; mi bálsamo soberano es ella.
 Todas prometían maravillas; cada uno, para usar su habilidad;
 Para buscar el caso; para aliviar el mal de la doncella.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 “Cada uno de nosotros tiene el poder sanador de Jesús[^58].
 De todos sus males curamos a los hombres cada hora.”
@@ -95,7 +95,7 @@ Hemos vuelto a equivocarnos; haz Tú en misericordia guía.
 Es tu mandato, a quien todos los pensamientos son conocidos,
 <sup id="v25"><small>25</small></sup> Ese hombre con palabras se acerca a tu terrible trono.”
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Su humilde súplica ofrecida así,
 Dulce fuente de misericordia de inmediato se desbordó.
@@ -132,7 +132,7 @@ Sus trenes una columna formada por bandas mezcladas;
 El príncipe: “Quisieras que mi alma fuera esclavizada; ¡no ella!
 Pero aquí abajo hay que ver el efecto de una causa.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Sé mi Muhammad! Yo tu 'Umar se mantiene,
 Con lomos ceñidos esperando tu orden.”
@@ -169,7 +169,7 @@ Un ladrón despiadado es; él estropea a sus amigos.
 El que es desvergonzado en sus palabras y hechos,
 La desesperación de la decepción es su recompensa.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Los orbes del cielo obedecen la palabra de su Creador;
 Los santos ángeles sirven mansamente al Señor.
@@ -209,7 +209,7 @@ Han sido perjudiciales, no han producido ningún bien.
 El caso ha sido desde el principio mal entendido.
 ¡Protégenos, Cielo! ¡Una hermandad torpe!”
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Él vio su problema; por lo tanto adivinó su enfermedad.
 <sup id="v75"><small>75</small></sup> Su secreto lo mantuvo; oculto lo mantuvo todavía.
@@ -248,7 +248,7 @@ En el corazón a menos que el alma-sol arroje un rayo,
 ¿Puede la mente comprender su gloriosa esencia?
 Su presencia, entonces, ¿a quién imaginar? ¿Quién fingirá?
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Del verso del poeta cuando Dios es el tema sagrado,
 Su cabeza menguada el sol puede ocultar, 'parecería.
@@ -284,7 +284,7 @@ El cuento es más agradable para los oídos de un amante,
 Habla, entrometido, entonces, en forma sencilla y sin adornos;
 No emplees subterfugios; no trates con mentiras.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 El velo se rasga, disimulación perdida:
 «Cuando no tiene adornos, la belleza es la que más adorna».
@@ -320,7 +320,7 @@ Así que aquel cuyo pie está herido con una espina,
 Con la punta de la aguja busca el dardo intrusivo;
 No encontrándolo, de labio alivia el inteligente.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Si la espina en el pie es así una tarea para encontrar,
 Juzgar lo que debe ser una punzada de dolor de mente.
@@ -359,7 +359,7 @@ Hasta que el nombre de Samarcanda hizo que sus mejillas brillaran,
 Su pulso latía alto, su color iba y venía;
 De orfebre juventud ella había estado allí la llama.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Este punto se extrajo, este secreto una vez confesado,
 Más fácilmente nuestra sanguijuela la secuela adivinó.
@@ -395,7 +395,7 @@ El dolor de la doncella se había convertido en sonrisas soleadas.
 Él la deja entonces; busca al príncipe; y le dice
 La noticia que había recibido, la fuente de todos sus males.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 «¿Qué es ahora?» preguntó el cuidado del príncipe;
 «La demora es peligrosa; la paciencia puede cansarse.»
@@ -434,7 +434,7 @@ Uno recorta la mecha de la lámpara, todavía, para que arda.
 El príncipe se dirigió a él y le dio la bienvenida allí;
 <sup id="v170"><small>170</small></sup> El maestro de la moneda lo nombró tesorero y alcalde.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Nuestro médico una vez más su consejo dio:
 “La damisela a esta juventud por servicio deja.
@@ -473,7 +473,7 @@ Para Iv'ry atravesado con armas mientras vuela.
 Hoy soy yo; mañana serás tú;
 ¿Quién será el más perdedor? No soy yo, todos lo saben.
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 La sombra de un muro, es cierto, es amplia;
 El sol gira; la sombra se ha desviado.
@@ -506,7 +506,7 @@ El que puede perdonar, también puede condenar;
 Como Ismael bajo el cuchillo de su padre,[^67]
 <sup id="v200"><small>200</small></sup> ¿Por un príncipe así darías tu vida?
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Así que tu alma, en futura morada bendita,
 Como Mahoma, en paz sea con tu Dios.
@@ -540,7 +540,7 @@ Un hombre temeroso de Dios, y en la plena confianza de Dios.
 Una víctima puesta a muerte por tal amigo,
 <sup id="v215"><small>215</small></sup> Es asesinado por error, o por algún fin sabio.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ¿No quiso nuestro Dios tener misericordia en su ira,
 ¿Cómo podría el Señor de las Misericordias? ¿tronar?

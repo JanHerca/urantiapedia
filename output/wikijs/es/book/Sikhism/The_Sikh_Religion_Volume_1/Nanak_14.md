@@ -138,7 +138,7 @@ Y se separó de Sita y Lachhman.[^4]
 Rawan, quien se llevó a Sita al son de un tambor,
 Lloró cuando perdió Lanka;[^5]
 Los Pandavas[^6] _aunque_ su amo[^7] había estado con ellos,
-Se convirtieron en esclavos y lloraron; <span id="p169">[<sup><small>p. 169</small></sup>]</span>
+Se convirtieron en esclavos y lloraron; <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 Janameja[^1] lloró cuando se extravió;
 Por una sola ofensa fue considerado pecador—
 Los jeques, discípulos y Pirs[^2] lloran
@@ -152,7 +152,7 @@ Nanak, el mundo entero está en miseria.
 El que reverencia el Nombre es victorioso
 Ningún otro acto sirve de nada.[^4]
 
-El Gurú, saliendo de Srinagar, se adentró en el Himalaya y escaló numerosos picos elevados <span id="p170">[<sup><small>p. 170</small></sup>]</span> hasta llegar al Monte Sumer. Allí conoció a muchos Sidhs renombrados. Cuando el Gurú hizo su reverencia y se sentó, le preguntaron de dónde venía y en qué estado se encontraba al salir del Indostán. Él respondió:
+El Gurú, saliendo de Srinagar, se adentró en el Himalaya y escaló numerosos picos elevados <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> hasta llegar al Monte Sumer. Allí conoció a muchos Sidhs renombrados. Cuando el Gurú hizo su reverencia y se sentó, le preguntaron de dónde venía y en qué estado se encontraba al salir del Indostán. Él respondió:
 
 La era de Kal es un cuchillo, los reyes son carniceros; la justicia ha tomado alas y ha huido.
 En esta noche completamente oscura de falsedad nunca se ve salir la luna de la verdad.

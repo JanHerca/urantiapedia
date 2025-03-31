@@ -64,7 +64,7 @@ La Ley Oral—Su Transmisión—Nombres de los «Receptores»—Máximas—Apote
 
 11\. Abtalyon dijo: «Sabios, tengan cuidado con sus palabras, no sea que se les condene al cautiverio y se les lleve cautivo a un lugar de aguas turbias, y los discípulos que los siguen beban de ellas, profanando así el nombre de Dios».
 
-12\. Hillel y Shamai lo recibieron de ellos. Hillel dijo: «Sé de los discípulos de Aarón, que amaste y buscaste la paz, de modo que ames a la humanidad y la induzcas al estudio de la ley». <span id="p220">[<sup><small>p. 220</small></sup>]</span> 13\. Solía ​​decir: «Quien engrandece su nombre, lo destruye; quien no aumenta su conocimiento de la ley, será exterminado; quien no estudia la ley, merece la muerte; y quien se sirve a sí mismo con la corona de la ley, perecerá».
+12\. Hillel y Shamai lo recibieron de ellos. Hillel dijo: «Sé de los discípulos de Aarón, que amaste y buscaste la paz, de modo que ames a la humanidad y la induzcas al estudio de la ley». <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> 13\. Solía ​​decir: «Quien engrandece su nombre, lo destruye; quien no aumenta su conocimiento de la ley, será exterminado; quien no estudia la ley, merece la muerte; y quien se sirve a sí mismo con la corona de la ley, perecerá».
 
 14\. También dijo: «Si no hago buenas obras yo mismo, ¿quién podrá hacerlas por mí?» y «Cuando me considero a mí mismo, ¿qué soy?» y «Si no ahora, ¿cuándo lo haré?»
 

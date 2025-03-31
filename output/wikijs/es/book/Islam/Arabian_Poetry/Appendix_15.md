@@ -40,7 +40,7 @@ El héroe mismo —Antara, el hijo de Sheddād— es siempre la figura central: 
 
 Los demás personajes están, por supuesto, subordinados al héroe y a sus hazañas; sin embargo, cada uno tiene una individualidad muy marcada. Zuhayr, rey de las tribus de ‘Abs y ‘Adnan, Fazarah y Ghiftan, etc., un príncipe que posee todas las virtudes y no pocos defectos de su edad y raza; caballeroso, no tardó en reconocer en el joven hijo esclavo de Sheddād al futuro héroe. El príncipe Sha's, de carácter naturalmente malhumorado, orgulloso y tiránico, pero no carente de virtudes, después de que la adversidad hubiera domado su espíritu. El príncipe Mālek, el valiente pero gentil hijo de Zuhayr, el primer amigo de Antara y protector contra la malicia de sus enemigos; siempre dispuesto a abogar elocuentemente en su favor o a desenvainar su espada cuando el héroe se veía abrumado por los números. Sheddād, el padre de Antara: un tipo valiente, «de una familia de mano dura: un buen golpeador cuando se necesita ayuda», orgulloso de su sangre pura como siempre lo fue un hidalgo, pero añorando a su valiente hijo cuando sus hazañas se hicieron públicas y lamentando amargamente su supuesta muerte. Pero su madre esclava de mente simple, como las madres de los grandes hombres en general, no aprecia los logros heroicos de su hijo; piensa que sería mejor que se quedara en casa y la ayudara a cuidar los rebaños. Malek, el padre de Abla: astuto, calculador, sórdido, pérfido, malicioso, oportunista; además, un gran defensor del honor de su familia. Amara, el beduino exquisito: orgulloso, jactancioso, en el fondo un cobarde. Shibūb, el medio hermano de Antara, y su fiel escudero, veloz de a pie, y por eso apodado Padre del Viento (no Hijo del Viento, como se indica en la página [214](./Antar_16#p214)); un arquero diestro; listo con admirables recursos para cada emergencia; nunca un valiente caballero tuvo un auxiliar más útil.
 
-<span id="p439">[<sup><small>p. 439</small></sup>]</span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 Con la noble lírica de la muerte del héroe, el telón cae apropiadamente sobre el emocionante drama. La moraleja de la historia —porque hay una moraleja para quienes saben leerla correctamente— es el triunfo de una mente noble y una voluntad resuelta sobre las circunstancias agobiantes de un nacimiento humilde y prejuicios de clase.
 
@@ -93,7 +93,7 @@ Mientras las gotas de rocío como las joyas en sus orejas brillan resplandecient
 No pienses, tú mismo te engañas, las cosas siempre seguirán así:
 Vivir alegremente, porque pronto se desvanecerán, no esperando, los días de primavera.
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 ### VI.
 
@@ -130,7 +130,7 @@ Pero, a cada uno trayendo justicia, ha regresado el Rey de la Tierra al fin; _(e
 En su reinado se alegró el copero, alrededor del llamado del vino ha pasado:
 Vivir alegremente, porque pronto se desvanecerán, no esperando, los días de primavera.
 
-<span id="p442">[<sup><small>p. 442</small></sup>]</span>
+<span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 
 ### XI.
 
@@ -192,7 +192,7 @@ Khusrau, Chosroe o Chosroes, era el título general de los sasánidas, o tercera
 
 «He oído que el rey Nushirvan, justo antes de su muerte, le dijo así a su hijo Ormuz: “Sé un guardián, hijo mío, de los pobres y desamparados; y no te encierres en las cadenas de tu propia indolencia. Nadie puede estar a gusto en tus dominios mientras tú busques sólo tu descanso privado y digas: “Es suficiente». Un hombre sabio no aprobará al pastor que duerme mientras el lobo está en el redil. Ve, hijo mío, protege a tu pueblo débil e indigente, ya que a través de ellos se eleva un rey a la diadema. El pueblo es la raíz, y el rey es el árbol que crece de él; y el árbol, oh hijo mío, deriva su fuerza de la raíz”.
 
-<span id="p446">[<sup><small>p. 446</small></sup>]</span>
+<span id="p446"><sup><small>[ p. 446 ]</small></sup></span>
 
 ## ANTARA Y EL LUCHADOR—[p. 230](./Antar_19#p230).
 
@@ -211,7 +211,7 @@ Y sobre el suelo su brillo centelleante fluía:
 Así vestido, con apariencia masculina, sin ojos,
 Sin embargo penetrante, podría su sexo divisar.
 
-<span id="p447">[<sup><small>p. 447</small></sup>]</span>
+<span id="p447"><sup><small>[ p. 447 ]</small></sup></span>
 
 Sin embargo, un erudito orientalista francés sostiene que antes de la época del Islam, las mujeres árabes no participaban en la guerra.
 
@@ -229,7 +229,7 @@ La Mo‘allaqah de Zuhayr celebra la terminación de la Guerra de Dahis. Se dice
 
 La cuestión de cuáles de los numerosos fragmentos poéticos insertados en el Romance pertenecen realmente a Antara, cuáles son la composición de El-Asma‘ī y cuáles son interpolaciones de diferentes copistas, es probable que nunca se responda satisfactoriamente. Los orientalistas más distinguidos de Europa admiten que algunos de ellos son reliquias genuinas de la poesía árabe antigua.
 
-<span id="p448">[<sup><small>p. 448</small></sup>]</span>
+<span id="p448"><sup><small>[ p. 448 ]</small></sup></span>
 
 Muchas de las efusiones atribuidas al propio Antara son de la más alta excelencia poética y, en audacia de imágenes y belleza de expresión, son iguales, si no superiores, a los pasajes más admirados de su famoso Mo‘allaqah, que, de hecho, está compuesto de fragmentos similares: «perlas de Oriente en un hermoso orden ensartadas».
 
@@ -255,7 +255,7 @@ En su resplandeciente belleza brillando, todo sobresaliendo en su forma;
 Cada miembro en proporción suave, cintura esbelta y ojos encantadores;
 Incluso el suave brillo de la luna desdeñando su propia luz abrumadora.
 
-<span id="p449">[<sup><small>p. 449</small></sup>]</span>
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 Y en el _Nalódaya_ de Kalidása, el Shakespeare del Indostán:
 
@@ -306,7 +306,7 @@ La luna de Roma!
 Y como el sol brillante glorifica el cielo,
 Así es su rostro iluminado por su ojo.
 
-<span id="p450">[<sup><small>p. 450</small></sup>]</span>
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
 
 Es de lamentar que la autenticidad de los «Poemas de Ossian» sea dudosa, de lo contrario se podría añadir un bardo celta; porque Ossian dice (o Macpherson lo dice por él): «Ella salió en toda su belleza, como la luna saliendo de una nube en el Este».
 
@@ -370,7 +370,7 @@ El ojo de ese perturbador libertino descubre su espada.
 
 (Véase también «Serenata a su amante durmiente», [p. 146](./Shorter_Pieces#p146), y Nota sobre el mismo, págs. [430](./Apéndice_14#p430), [431](./Apéndice_14#p431).)
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 La garganta de Abla era tan blanca que avergonzaba su collar—«¡Ay!» exclama el héroe enamorado—«¡Ay de esa garganta y ese collar!»—evidentemente sintiendo que sus bellezas naturales eran por sí solas suficientes para perturbar la paz mental de Isis;—como dice o canta Sir John Suckling:
 
@@ -389,7 +389,7 @@ El persa Sa’dī también era un admirador de la belleza sin adornos: «El rost
 
 Es interesante observar las diversas comparaciones empleadas por diferentes poetas para describir a una doncella graciosa. Antara compara a su amada con un cervatillo. Salomón dice: «Te he comparado, oh mi amor, a una compañía de caballos en el carro del Faraón». Teócrito, en su Epitalamio sobre las bodas de Helena, dice: «Se parece al caballo en los carros de Tesalia». Sófocles compara a una doncella con una novilla salvaje; Horacio, a una potranca indómita; la Angélica de Ariosto es como un cervatillo; la Erminia de Tasso es como una cierva; y Kalidása, el gran dramaturgo hindú, compara a una divinidad femenina con... ¡un ganso! «El Rájahansa», dice
 
-<span id="p453">[<sup><small>p. 453</small></sup>]</span>
+<span id="p453"><sup><small>[ p. 453 ]</small></sup></span>
 
 El Dr. H. H. Wilson, en las Notas a su traducción del _Mégha Dúta_ de Kalidása, "se describe como un ganso blanco con patas y pico rojos, y junto con el ganso común es un ave favorita en la poesía hindú. Se supone que el movimiento del ganso se asemeja al andar arrastrado que consideran elegante en una mujer. Así, en el _Rĭtu Sanhára_, o las Estaciones, de nuestro poeta—
 
@@ -405,7 +405,7 @@ La graciosa ondulación de su andar.”
 
 El erudito profesor explica que la idea del original es que el peso de sus ancas causó la apariencia peculiar observable en sus huellas. (Véase la nota sobre el v. 17, Poema de Amru, [p. 397](./Apéndice_12#p397), y la nota sobre el v. 97, mismo poema, [p. 399](./Apéndice_12#p399).)
 
-<span id="p454">[<sup><small>p. 454</small></sup>]</span>
+<span id="p454"><sup><small>[ p. 454 ]</small></sup></span>
 
 La forma alta y elegante de Abla se compara muy a menudo con el tamarisco y con la rama del árbol erak: «Los tamariscos se quejan de su belleza en la mañana y en la tarde», una idea que también encuentra expresión en estos versos de Khushhāl Khan:
 
@@ -441,7 +441,7 @@ _O eres tú la diosa de la Naturaleza_,
 Que has despintado con tu mano celestial
 Este jardín lleno de flores tal como están?
 
-<span id="p455">[<sup><small>p. 455</small></sup>]</span>
+<span id="p455"><sup><small>[ p. 455 ]</small></sup></span>
 
 La siguiente descripción de una divinidad femenina, del _Mégha Dúta_, contiene algunas de las similitudes señaladas anteriormente:
 
@@ -477,7 +477,7 @@ Los antiguos, como es bien sabido, situaban la sede del Amor en el hígado; y as
 Deja, Amor, de herir mi hígado y mi corazón;
 Si debo sufrir, elige alguna otra parte.
 
-<span id="p457">[<sup><small>p. 457</small></sup>]</span>
+<span id="p457"><sup><small>[ p. 457 ]</small></sup></span>
 
 Teócrito, en su 13.° Idilio, hablando de Hércules, dice: «En su hígado el Amor había fijado una herida»; Anacreonte cuenta cómo el dios del Amor tensó su arco, y «el dardo atravesó mi hígado y mi corazón»; y Horacio (B. 1, Oda 2) dice: «Amor ardiente... paño en tu hígado canceroso de rabia». Pero esta noción no se limitaba a los antiguos. Shakespeare dice:
 
@@ -491,7 +491,7 @@ En suaves acentos se respira amor conyugal.
 
 La pasión del héroe por Abla se describe a menudo como una llama devoradora: «No me abandones», conjura a la tórtola, «no me abandones hasta que muera de amor, víctima de la pasión, de la ausencia y la separación». Nuestro gran dramaturgo afirma que «los hombres han muerto y los gusanos los han devorado, pero no por amor». ¿No había oído Shakespeare hablar nunca del galante trovador Geoffrey Rudel, que murió por amor, y por amor, también, por la descripción que se había oído de la belleza de la condesa de Trípoli? Barton, en su Historia de la poesía inglesa, cuenta la triste historia: cómo el poeta navegó hacia Trípoli; enfermó durante el viaje por la fiebre de la expectación; fue llevado a tierra en Trípoli, muriendo; cómo la condesa, al enterarse de su llegada, corrió a la orilla y lo tomó de la mano, pero el poeta sólo pudo murmurar su satisfacción por haberla visto, y expiró. La condesa le hizo un funeral muy elegante y erigió una tumba de pórfido sobre sus restos, inscrita con un epitafio en verso árabe. «Morir por amor», dice Richardson, «se considera entre nosotros como una mera figura poética; y ciertamente podemos apoyar la realidad con algunos ejemplos; pero en los países orientales parece ser algo más: muchas palabras en los idiomas árabe y persa que expresan Amor implican también Melancolía, Locura y Muerte».
 
-<span id="p458">[<sup><small>p. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 Los escritores orientales nos cuentan otra historia de muerte por amor o por el dolor de la pérdida de un ser amado en sus relatos del reinado de Yazid II, el noveno califa de la casa de los Omeyas. Este monarca sentía un apasionado afecto por una bella y amable cantora llamada Hababa; un día, mientras cenaban juntos, Yazid le arrojó juguetonamente una uva, que ella recogió y se llevó a la boca para comérsela; pero la uva, al deslizarse por su garganta, se quedó atascada en el pasillo y la ahogó casi instantáneamente. El triste accidente afectó tanto a Yazid que cayó en un exceso de dolor y no podía consolarse por la pérdida de una criatura tan amable. No permitió que enterraran su cuerpo durante varios días, y ni siquiera la tumba pudo curar su frenesí. Ordenó que se abriera la tumba y que el cuerpo de la muchacha volviera a quedar expuesto a su vista. En resumen, al ser incapaz de moderar su dolor, sólo sobrevivió quince días y antes de expirar ordenó que sus restos fueran depositados en una tumba cercana a la de su amada. Esto ocurrió en el año 105 de la Hégira (723 d.C.).
 

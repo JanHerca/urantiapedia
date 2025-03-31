@@ -79,7 +79,7 @@ v. 27. Parece un tanto extraño que el poeta compare un avestruz con un esclavo 
 
 El señor Redhouse señala que «sólo podemos conjeturar por qué el poeta comparó las plumas del avestruz con una prenda de piel larga. Los esclavos eran negros en aquella época; y tal vez, al ser de África y sensibles al frío, usaban pieles (¿de piel de oveja?). La longitud exacta entendida por el “largo» del poeta dependería del tipo de chaqueta de piel, o túnica, que usaran los esclavos en los campamentos del desierto. Veinte pulgadas es _largo_ donde doce es lo habitual”.
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 v. 42. La comparación en el segundo hemistiquio la expresa así el profesor Palmer:
 
@@ -102,7 +102,7 @@ Su forma es más hermosa que la de la joven gacela!
 
 Según la interpretación de Sir William Jones, la muchacha simplemente informa a Antara que encontró «a los guardias hostiles negligentes en su vigilancia», y que por lo tanto la dama podría ser visitada fácilmente; y debemos suponer que Antara, al enterarse de que «la costa estaba despejada», por así decirlo, procedió de inmediato a visitar a la dama, quien, al verlo, «se volvió hacia él con el cuello de un corzo joven». El Sr. Redhouse piensa que «las posiciones variantes que ocupan estos versos en diferentes ediciones hacen casi imposible juzgar si su novia se volvió hacia Antara o hacia la doncella enviada. Las palabras se leen como si la doncella se volviera hacia Antara; pero ese no es el sentido probable». El petimetre beduino Amarah, en el Romance de Antar, envía a una esclava en un recado similar: traerle un relato de los encantos personales de Abla: véase la página [209](./Antar_13#p209) del presente volumen.
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 v. 70. «Haz que las aves posadas en el cerebro vuelen rápidamente de cada cráneo». Entre los antiguos árabes prevalecía la creencia de que de la sangre cerca del cerebro de una persona muerta se formaba un pájaro, llamado Hamah (Carlyle lo llama _Manah_, pero este era el nombre de un ídolo de piedra adorado por los árabes paganos), que se sentaba sobre la tumba del difunto y emitía gritos lastimeros. Esto parece aludido en Job, xxi., 32, que Carlyle traduce así:
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ## I
 
@@ -54,7 +54,7 @@ De mortalidad rollo;
 Ningún Noé podría levantarlo de las profundidades hasta que flote
 &nbsp;&nbsp;&nbsp;Mi alma ahogada en amor.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como esclavos
 Los poderes de la oscuridad para mí
@@ -74,7 +74,7 @@ Es interminable, y deja tú la noche
 De tus pasiones; porque entonces no alcanzará Khizr
 &nbsp;&nbsp;&nbsp;Qué manantial de deleite.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 ## II
 
@@ -103,7 +103,7 @@ En apagar torrentes en mi corazón ardiente;
 &nbsp;&nbsp;&nbsp;Tan caliente que es doloroso
 En cada suspiro Respiro las llamas se encienden.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## III
 
@@ -132,7 +132,7 @@ Mis preciadas penas ¿Puedo ceder, por el dolor?
 &nbsp;&nbsp;&nbsp;Mi corazón sangra
 Donde el amor cruel lo ha herido de hecho.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Mira tú y verás
 De donde de mis heridas caen continuamente
@@ -151,7 +151,7 @@ Arcos más bellos que las puertas de la Kaaba surgen;
 &nbsp;&nbsp;&nbsp;Tu corazón se doblará,
 En sí mismo un arco que da la bienvenida al Amigo.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## IV
 
@@ -179,7 +179,7 @@ Tú eres el velo a través del cual brilla la luz,
    No, tú mismo eres la antorcha divina—
 &nbsp;&nbsp;&nbsp;&nbsp;Nada más contempla estos ojos deslumbrados míos.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ## V
 
@@ -208,7 +208,7 @@ Aquí está la fuente de luz, la fuente celestial,
 Más brillante que Moisés tú, cuando desde el Monte
 &nbsp;&nbsp;&nbsp;Él vino, con el resplandor de Dios brillando en su rostro.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 El vino de la noche a la mañana presta
 &nbsp;&nbsp;&nbsp;Su exaltación, de la mañana a la noche
@@ -220,7 +220,7 @@ Pero, Makhfi, dime donde se hace la fiesta?
 Aquí en mi alma se celebra la fiesta de Dios,
 &nbsp;&nbsp;&nbsp;Dentro de las cámaras ocultas de mi corazón.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 ## VI
 
@@ -249,7 +249,7 @@ Hasta que el amor lo transformó en otra apariencia,
 Y ahora brilla tan hermoso como lo divino
 &nbsp;&nbsp;&nbsp;&nbsp;Jardines del Paraíso.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Quisiera que mi anhelo pudiera derramarse,
 Mi dolor podría convertirse en himnos, mi dolor podría decir
@@ -271,7 +271,7 @@ Y aunque tu historia no ha llegado a su fin,
 Tan profundo es el languidecer en tu espíritu yace;
 &nbsp;&nbsp;&nbsp;&nbsp;Busca tú para él reposo.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## VII
 
@@ -300,7 +300,7 @@ El sueño, la visión y el éxtasis;
 El vino del dolor se convierte en sangre, ni podemos decirlo
 Si existimos, o si dejamos de ser.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Dentro de la jungla de este mundo de aflicción
 El león del deseo acecha voraz.
@@ -312,7 +312,7 @@ Derramando himnos a lo largo de mis días extasiados;
 Ay, que los poderes del mal ahogan mi voz,
 Y haz estallar mis pensamientos, y quema mis salmos de alabanza!
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## VIII
 
@@ -337,7 +337,7 @@ Oh Makhfi, camina con valentía como Majnun en el valle
 Cíñete con tu nueva dedicación, la promesa
 &nbsp;&nbsp;&nbsp;de amor que has hecho.
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## IX
 
@@ -369,7 +369,7 @@ Los firmes cimientos de la tierra pueden temblar,
 &nbsp;&nbsp;&nbsp;Quizás, si esta vida vacía fuera todo,
 La burbuja de nuestra vana existencia se rompe.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## X
 
@@ -398,7 +398,7 @@ He sido herido por muchas espinas.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Con la alegría de su luz;
 &nbsp;&nbsp;&nbsp;Por esto sea nuestro agradecimiento a Ti,
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Y para los grandes maestros concedidos en nuestra necesidad
 &nbsp;&nbsp;&nbsp;&nbsp;Guiar y conducir,
@@ -431,7 +431,7 @@ A él; tú en verdad no tienes ningún consejo que dar.
 &nbsp;&nbsp;&nbsp;&nbsp;Nunca mirarás atrás;
 &nbsp;&nbsp;&nbsp;Ni siquiera prestes atención
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 A tu vida si la pierdes o la conservas, y el dolor
 &nbsp;&nbsp;&nbsp;&nbsp;Despreciarás,
@@ -447,7 +447,7 @@ Porque, volando demasiado audazmente, tus débiles alas fallan,
 &nbsp;&nbsp;&nbsp;&nbsp;Y tú te lamentas
 Tu destino, así enredado en la red de tus cuidados.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## XI
 
@@ -466,7 +466,7 @@ Algunos rinden culto en el santuario de la Kaaba,
 Pero, Makhfi, piensa qué secreto gozo es tuyo,
 &nbsp;&nbsp;&nbsp;Para llevar tu ídolo siempre en tu corazón.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XII
 
@@ -495,14 +495,14 @@ Mientras recorro este duro y espinoso camino,
 Ellos te bendicen, ni a Dios se quejarán
 &nbsp;&nbsp;&nbsp;&nbsp;En el Día del Juicio.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Cuando en la mezquita para buscar tu ídolo allí
 &nbsp;&nbsp;&nbsp;&nbsp;Tú vas, puede
 Tus pasos caen suavemente, Makhfi, para que no te asustes
 &nbsp;&nbsp;&nbsp;&nbsp;Los pájaros se fueron.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## XIII
 
@@ -531,7 +531,7 @@ He aquí, cuando llego a la orilla del agua
 Mi corazón llameante exultantemente guiará
 &nbsp;&nbsp;&nbsp;Como la antorcha de fuego de Moisés.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Aunque los días malos son míos, de alegría desprovista,
 &nbsp;&nbsp;&nbsp;Con dolor que nunca termina,
@@ -543,7 +543,7 @@ Dime, Oh Majfi, ¿Soy yo quien peca?
 ¿Es el cuerpo o el alma? dentro
 &nbsp;&nbsp;&nbsp;¿Que vivió y pecó en otro lugar?
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## XIV
 
@@ -572,14 +572,14 @@ Más bendecido que el de Alejandro. La suerte es mía.
 Venid a mí, oh sedientos: este es mi destino—
 Para conocer al dador del vino celestial.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 He limpiado mi corazón
 De las acciones, sí, y de los deseos también,
 Y anhelar solo la paz, no tener parte
 En el Día del Juicio, ya sea en el Cielo o en el Infierno.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## XV
 
@@ -607,7 +607,7 @@ No me sentaría en la mesa de Hatim con los ansiosos
 De separación, cuando nunca llegó mi corazón
 &nbsp;&nbsp;&nbsp;&nbsp;deleite,
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Y en mi desolación lágrimas de sangre
 brotó de mi corazón afligido y viudo en
@@ -625,7 +625,7 @@ Oh Makhfi, si tus suspiros pudieran llegar al seno de
 Atrapado de tu corazón una llama inextinguible debería
 &nbsp;&nbsp;&nbsp;&nbsp;saltar.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## XVI
 
@@ -657,7 +657,7 @@ Con el resplandor blanco de su hermosura,
 Hasta que la sombra de mi pared supere al sol,
 &nbsp;&nbsp;&nbsp;Y parece más brillante.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Me siento humildemente aparte;
 La Kaaba corteja a los verdaderos creyentes. pisa,
@@ -673,7 +673,7 @@ Perlas de tus párpados caen como suave lluvia
 Sobre el jardín, convocando a la rosa,
 &nbsp;&nbsp;&nbsp;Llamando a la primavera.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## XVII
 
@@ -691,7 +691,7 @@ Más profundo que tu desesperación tu felicidad puede estar;
 Aunque en el camino del amor tus pies pueden cansarse,
 Nueva fuerza vendrá a ti, y nuevo deseo.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## XVIII
 
@@ -710,14 +710,14 @@ Con el corazón cansado, con pasos que se retrasan y que cansan,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigo mi búsqueda,
 Para alcanzar por el camino difícil el reino del descanso.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 Sin embargo, Makhfi, mira hacia arriba desde tu desolada región de la noche,
 Y mira cómo el ejército del dolor ha tomado vuelo;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Llega el amanecer y la desesperación
 Ha desaparecido ante las flechas milagrosas de la oración.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## XIX
 
@@ -746,7 +746,7 @@ Que la fidelidad del asceta Brahman,
 Las venas anudadas de su cuerpo consumido lleva
 &nbsp;&nbsp;&nbsp;Como hilo sagrado que lleva.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;¿Qué es el destino de un amante?
 ¿Qué le sucederá? ¿Qué desgraciado será?
@@ -780,7 +780,7 @@ Tú habitas, no te preocupes por ello; la vida es un sueño,
 Para vivir y moverse y amar, nada más.
 &nbsp;&nbsp;&nbsp;Que sombras en una pared.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## XX
 
@@ -808,7 +808,7 @@ Que Kerbela's maldito desierto.
 &nbsp;&nbsp;&nbsp;Quizás, oh juez, ¿quieres ser amable,
 &nbsp;&nbsp;&nbsp;Y piedad en tu corazón para los pecadores encuentra;
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Piensa en el recuerdo de su desgracia,
 &nbsp;&nbsp;&nbsp;Qué oscura humillación mancha sus rostros,
@@ -822,7 +822,7 @@ La vergüenza que les pica y les incita a arrepentirse—
 Y aunque, como Majnun, en la naturaleza vagan,
 Los conduce a través de trabajos y tribulaciones a casa.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 ## XXI
 
@@ -847,7 +847,7 @@ Sin embargo, en este día de mi humildad
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preciado para mí
 Como vino de reyes sostengo mi copa del destino.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 No desesperes, Makhfi, cargado de dolor, aunque
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No aparece hierba
@@ -856,7 +856,7 @@ Dentro de este desierto regado por tus lágrimas.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cuestiona la misericordia de Dios, cuando
 Sus obras ¡Su infinita compasión muestra!
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ## XXII
 
@@ -885,14 +885,14 @@ Oh no temas, si dentro de la casa de oración
 &nbsp;&nbsp;&nbsp;De fuera del horno llameante de mis suspiros
 Se levantará otra luz, más feroz, más justa.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Los vientos perfumados que con el amanecer surgen,
 &nbsp;&nbsp;&nbsp;¿No te han arrebatado, Makhfi, tu alma?
 &nbsp;&nbsp;&nbsp;Y lo empapó de deleite, así todo el día
 ¿Hay aires de paraíso alrededor de ti?
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## XXIII
 
@@ -920,7 +920,7 @@ Como Yaqub cegado por su agonía,
 &nbsp;&nbsp;&nbsp;Ningún rostro en todo el mundo es algo para mí;
 &nbsp;&nbsp;&nbsp;&nbsp;¿De qué sirven los ojos, excepto para mirarte? ¿A ti?
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## XXIV
 
@@ -944,7 +944,7 @@ Cómo en su altivez cabalga por encima
 &nbsp;&nbsp;&nbsp;Los corazones de los hombres, qué rojos
 Su espada con sangre de amantes que él ha derramado!
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 ## XXV
 
@@ -973,7 +973,7 @@ En vano te busqué; fuera de control
 Mi corazón ha anhelado por ti; siempre tus alas
 Han colgado por encima de las imaginaciones de mi alma.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 Tú, enemigo, que me retienes de mi búsqueda,
 Si incluso en el mar entras
@@ -985,7 +985,7 @@ Es Makhfi quien ha ganado para ti la primavera
 Que florece en tu corazón; pero en el suyo propio
 Los vientos estériles del otoño solitario gimen.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## XXVI
 
@@ -1012,7 +1012,7 @@ Como Ayub Me siento en las cenizas abrumado por el
 Sin embargo, de la noche de mi dolor habrá esperanza
 &nbsp;&nbsp;&nbsp;como la mañana se levanta:
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 A las montañas desoladas, como Ferhad, por el dolor
 &nbsp;&nbsp;&nbsp;y anhelo poseído,
@@ -1024,7 +1024,7 @@ Sin embargo, Makhfi, tu secreto está al descubierto, en el exterior.
 ¿Quién no vio la belleza de Yusuf cuando él en
 &nbsp;&nbsp;&nbsp;¿Se vendió el mercado?
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## XXVII
 
@@ -1053,7 +1053,7 @@ Dame un pequeño día de alegría, de primavera,
 Cuando incluso en su jaula mi corazón podría cantar
 Alegre como un pájaro: La muerte viene, tú sabes, pronto.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Aunque parezco tan pobre,
 No me tengas piedad por tener las manos vacías;
@@ -1075,7 +1075,7 @@ Peregrinos del amor, Makhfi, que sea tu orgullo
 Al reino del Amor su caravana para guiar,
 Tus pasos sean la campana que lo guíe allí.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ## XXVIII
 
@@ -1104,7 +1104,7 @@ Tan triste mi destino que, aunque anhelo y trabajo
 No puedo quitar las manchas que ensucian,
 &nbsp;&nbsp;&nbsp;El óxido que oscurece mi espejo del deseo.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Aunque soy pobre, en verdad, pero débil soy yo
 &nbsp;&nbsp;&nbsp;Y no puedo atreverme con mi voluntad irresoluta
@@ -1116,7 +1116,7 @@ Y sin embargo, Oh Makhfi, si con los ojos se aclara,
 He aquí, las vestiduras rasgadas del faquir aparecerán
 &nbsp;&nbsp;&nbsp;Más regio que las vestiduras de majestad.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 ## XXIX
 
@@ -1140,7 +1140,7 @@ Tantos aman y han sido amados por Ti,
 Ellos dan sus corazones, ¿qué te importa? ¿Por el mío?
 &nbsp;&nbsp;&nbsp;¿Qué necesidad tienes de mí?
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## XXX
 
@@ -1169,14 +1169,14 @@ Trabajando duro en las montañas he estado,
 Pero nunca bebí el sorbete del éxito,
 &nbsp;&nbsp;&nbsp;Dulce como tus labios, Shirin.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Mortales somos, y, así formados de la tierra,
 Vano, Makhfi, es este mundo en el que confiamos,
 El polvo es el rango de los reyes, el orgullo del nacimiento,
 &nbsp;&nbsp;&nbsp;Sí, tú mismo eres polvo.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 ## XXXI
 
@@ -1200,7 +1200,7 @@ Aunque el destino cruel me vengará,
 Tráeme lo que yo, como Yaqub, busco—
 &nbsp;&nbsp;&nbsp;El perfume de las vestiduras de mi Amor.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ## XXXII
 
@@ -1228,7 +1228,7 @@ Anhelo enviar, con flechas de mis suspiros,
 &nbsp;&nbsp;&nbsp;Hasta los cielos
 Mis ansiosas oraciones antes de que pase la noche.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Ansiaba la liberación
 De penas que queman y dolores que nunca
@@ -1249,7 +1249,7 @@ Más arriba, en el Día del Juicio Final,
 &nbsp;&nbsp;&nbsp;Faquir que rey,
 Allí entonces no habrá nadie humilde ni ninguno grande.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## XXXIII
 
@@ -1278,14 +1278,14 @@ El anodino para el dolor está en todas partes.
 Por el desierto de Hedjaz tus pasos correrán rápido,
 El viaje más largo desde que el mundo comenzó.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Tan pobre, en verdad, mi destino,
 Nunca a mí me lo contó el Amor. sus secretos
 En cuanto a aquellos otros, altos y afortunados,
 Quien cerca de su santuario más íntimo mora para siempre.
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ## XXXIV
 
@@ -1315,7 +1315,7 @@ Pero ¿por qué deberías tú, que por amor a ellos estás?
 &nbsp;&nbsp;&nbsp;&nbsp;tonto,
 &nbsp;&nbsp;&nbsp;¿Decir sin vergüenza los secretos de tu corazón?
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ## XXXV
 
@@ -1339,7 +1339,7 @@ Escucha, el tiempo de la despedida suena para ti.
 Un Kafir será tu espíritu inquieto ser,
 Soplado como una llama, atormentado por el deseo?
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## XXXVI
 
@@ -1368,7 +1368,7 @@ Tu dolor infructuoso, tu remordimiento demasiado tarde;
 El umbral con tus pestañas por qué barrer,
 Cuando, Makhfi, mira, el santuario está desolado?
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## XXXVII
 
@@ -1389,7 +1389,7 @@ Canta suavemente de tu amor, o callate,
 Oh Makhfi, no sea que el Cazador en secreto
 Vendrán y oirán tu voz y te capturarán.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 ## XXXVIII
 
@@ -1417,7 +1417,7 @@ De amor y deseo insatisfecho
 &nbsp;&nbsp;&nbsp;Los secretos del amor débilmente dijiste,
 Así que tú pagarás con penitencia terrible.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ## XXXIX
 
@@ -1446,14 +1446,14 @@ Bajo las furiosas tormentas de la muerte mi barco de
 Mi casa está caída, alrededor de su polvo vientos de
 &nbsp;&nbsp;&nbsp;barrido de aniquilación.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Sin embargo, Makhfi, si dentro de tu corazón la llama de
 &nbsp;&nbsp;&nbsp;el amor celestial surge,
 Tu desierto solitario será hermoso como arboledas de jardín
 &nbsp;&nbsp;&nbsp;del Paraíso.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## XL
 
@@ -1482,7 +1482,7 @@ Mi silencio, desolado dolor que poseo;
 &nbsp;&nbsp;&nbsp;Porque ¿cómo puede el amor brillante conmigo permanecer?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dentro de esta casa del dolor?
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 He aquí las páginas de mi libro de la vida!
 Borró su registro, negro con pecado y lucha,
@@ -1494,7 +1494,7 @@ Sin exaltación, sin cese del dolor;
 &nbsp;&nbsp;&nbsp;Por las lágrimas de sangre que fluyen de ojos que se han vuelto opacos
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Llénalo hasta el borde.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## XLI
 
@@ -1523,7 +1523,7 @@ En lejanos manantiales las semillas de nuestra desgracia.
 El terrible Día del Juicio, ¿no lo trajimos?
 Nuestro ídolo, testigo
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Que por este Kafir culto que damos
 Nosotros los verdaderos creyentes vivimos?
@@ -1537,7 +1537,7 @@ Oscurecido el mundo aparece,
 Ni pueden decirlo, por el dolor y la mirada cansada,
 El capullo de rosa de la espina.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 ## XLII
 
@@ -1566,7 +1566,7 @@ Para florecer dentro de mi jardín del deseo,
 Porque Dios puede llamar incluso de las llamas de fuego
 A los tulipanes les gusta que las antorchas se levanten y ardan.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ## XLIII
 
@@ -1590,7 +1590,7 @@ De mi corazón te alejas
 Tú me arrebataste, y yo sólo puedo rezar—
 &nbsp;&nbsp;&nbsp;¡Oh, levanta el velo que oculta tu rostro!
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 ## XLIV
 
@@ -1615,7 +1615,7 @@ Las lágrimas cayeron en mi corazón desconsolado.
 Me rompí las uñas sangrantes, pero nunca del todo
 &nbsp;&nbsp;&nbsp;Desató el nudo del destino!
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;He aquí, donde se celebró la fiesta,
 ¿Qué mejor podría ofrecerle a mi invitado?
@@ -1645,7 +1645,7 @@ Mis lágrimas se han lavado con su flujo incesante,
 La copa mágica donde el mundo aparece
 &nbsp;&nbsp;&nbsp;Mostrado ante mis ojos.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Más fuerte será mi amor crecerá:
 Llevando los lazos del dolor por tu causa,
@@ -1661,7 +1661,7 @@ El templo donde puedes inclinar tu cabeza,
 El ídolo más bello que tus sueños más bellos,
 &nbsp;&nbsp;&nbsp;Desearás, y hallarás.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ## XLV
 
@@ -1689,7 +1689,7 @@ Profundamente plantado en la oscuridad; pecado y vergüenza es
 Por todos los amplios dominios de mil poderosos
 &nbsp;&nbsp;&nbsp;&nbsp;reyes.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Si de mi corazón pierdo mis pesados suspiros
 El remolino negro del desierto será cegador
@@ -1699,7 +1699,7 @@ El remolino negro del desierto será cegador
 La Falda de Intercesión sostenla entre tus dedos
 &nbsp;&nbsp;&nbsp;&nbsp;rápido.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 ## XLVI
 
@@ -1724,7 +1724,7 @@ Un derviche soy yo, y no puedo dar más,
 No emperador, con gloria alrededor de mi nombre
 &nbsp;&nbsp;&nbsp;&nbsp;Y mano generosa.
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Se hundió mi barco de la vida;
 En vano sobre el océano de la desesperación
@@ -1754,7 +1754,7 @@ De Dara, roto y desconsolado;
 Sí, triste su historia ensombrecida
 &nbsp;&nbsp;&nbsp;&nbsp;Aparece de hecho.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;En el día de la fiesta
 Amigos con alegría en la asamblea se reúnen,
@@ -1763,7 +1763,7 @@ Lentamente y con renuencia, con pies melancólicos,
 Sin descanso, sin facilidad, sin paz en el camino,
 &nbsp;&nbsp;&nbsp;&nbsp;El faquir sabe.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 ## XLVII
 
@@ -1792,7 +1792,7 @@ Porque tú a los pies del Amado puedes poner
 Tu canción en homenaje; más feliz aún, si tú
 Canta con éxtasis ¡Siempre como ahora!
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## XLVIII
 
@@ -1821,7 +1821,7 @@ Los días de tu mano caen para siempre;
 Oh, no dejes a ningún viajero cansado de tu puerta,
 &nbsp;&nbsp;&nbsp;Dale lo que tengas de alegría.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 ## XLIX
 
@@ -1849,7 +1849,7 @@ Y pacientes cañas yo doblo y sacudo,
 Como mi camino desesperado tomo,
 Dejando el cuerpo por tu causa.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Antes del alma que entiende
 Silencio: en las arenas del desierto
@@ -1857,7 +1857,7 @@ Aprendió su saber. No rompas el resto
 De los afligidos y oprimidos
 Con flechas envenenadas en su pecho.
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## L
 
@@ -1884,7 +1884,7 @@ Al bulbul, cuya mente inquieta
 Lo convierte en un loco faquir en amarte;
 Para incluso los reyes que cabalgan en majestad
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Detendrán sus carros cada vez que un faquir se mueve.
 Bendita sea Makhfi: Dios le ha dado a ella

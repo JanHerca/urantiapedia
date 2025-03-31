@@ -77,7 +77,7 @@ Tu apacible túnica es como la que usan los ermitaños; ofrece un extraño contr
 
 Siddhartha se vistió con alegría con las toscas ropas rojizas del cazador, y este aceptó con reverencia la túnica del héroe, y luego desapareció en el cielo. Siddhartha comprendió que los mismos dioses habían querido obsequiarle su túnica de ermitaño, y se regocijó. Chandaka se llenó de asombro.
 
-Ataviado con sus ropas rojizas, el santo héroe emprendió el camino hacia la ermita. Era <span id="p67">[<sup><small>p. 67</small></sup>]</span> como el rey de las montañas envuelto en nubes al anochecer.
+Ataviado con sus ropas rojizas, el santo héroe emprendió el camino hacia la ermita. Era <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> como el rey de las montañas envuelto en nubes al anochecer.
 
 Y Chandaka, con el corazón apesadumbrado, emprendió el camino de regreso a Kapilavastu.
 

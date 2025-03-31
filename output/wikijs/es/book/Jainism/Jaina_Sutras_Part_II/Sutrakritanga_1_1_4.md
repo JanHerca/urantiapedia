@@ -40,7 +40,7 @@ Un monje sabio que aprecia plenamente esto, no debe mezclarse con aquellos (here
 
 Algunos dicen que quienes poseen posesiones y se involucran en empresas (pueden alcanzar la perfección); pero un monje debe buscar refugio en aquellos que ni poseen posesiones ni se involucran en empresas. (3)
 
-Un hombre sabio debe mendigar comida que ha sido <span id="p247">[<sup><small>p. 247</small></sup>]</span> preparada (para otra persona), y debe aceptar lo que se le da libremente, sin codicia ni pasiones; debe abstenerse de un comportamiento autoritario [^716]. (4)
+Un hombre sabio debe mendigar comida que ha sido <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> preparada (para otra persona), y debe aceptar lo que se le da libremente, sin codicia ni pasiones; debe abstenerse de un comportamiento autoritario [^716]. (4)
 
 Debe conocer el lenguaje de la gente: algunos dicen cosas que son fruto de un entendimiento erróneo y no son más que opiniones repetidas de otros. (5)
 
@@ -52,7 +52,7 @@ Algunos seres tienen movimiento, otros no; depende de ciertas condiciones que es
 
 (Por ejemplo, las criaturas grandes) tienen una forma de existencia corporal y luego otra [^720]. Pero todas están sujetas al dolor; por lo tanto, no deben ser asesinadas. (9)
 
-Esta es la quintaesencia de la sabiduría: no matar nada. Sepan que esta es la conclusión legítima <span id="p248">[<sup><small>p. 248</small></sup>]</span> del principio de reciprocidad respecto a no matar [^721]. (10)
+Esta es la quintaesencia de la sabiduría: no matar nada. Sepan que esta es la conclusión legítima <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> del principio de reciprocidad respecto a no matar [^721]. (10)
 
 Viviendo (según las reglas de conducta), y sin avaricia, uno debe cuidar el bien supremo [^722].
 

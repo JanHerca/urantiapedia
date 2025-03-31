@@ -327,7 +327,7 @@ Durhheim, E.; 4f., 8 1, 11, 158, 166, 180, 183 1, 188, 190, 226, 275. Véase Col
 
 Sí, 42, 86, 231, 238
 
-Tierra, como madre, 191, 53, 60; culto <span id="p363">[<sup><small>p. 363</small></sup>]</span> de, 276. Véase Deméter, diosa madre.
+Tierra, como madre, 191, 53, 60; culto <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> de, 276. Véase Deméter, diosa madre.
 
 Culto del fuego de Pascua, 194
 

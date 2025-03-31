@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T11:58:4Z
   </table>
 </figure>
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 ## A. GENERAL
 
@@ -42,7 +42,7 @@ dateCreated: 2024-11-21T11:58:4Z
 - GOLDZIHER, I., _Vorlesungen über den Islam_ (Heidelberg, 1910), págs. 139-200.
 - Un relato del ascetismo y el misticismo sufí por la mayor autoridad viva sobre el Islam.
 - GOLDZIHER, I., _Muhammedanische Studien_ (Halle, 1888-90), Parte ii., págs. 277-378. Da detalles completos sobre el culto de los santos musulmanes.
-- MACDONALD, D. B., _La vida religiosa y la actitud en el Islam_ (Chicago, 1909). Una valiosa introducción al estudio del tipo moderado de sufismo representado por <span id="p170">[<sup><small>p. 170</small></sup>]</span> Ghazali. Los capítulos sobre psicología son particularmente útiles.
+- MACDONALD, D. B., _La vida religiosa y la actitud en el Islam_ (Chicago, 1909). Una valiosa introducción al estudio del tipo moderado de sufismo representado por <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> Ghazali. Los capítulos sobre psicología son particularmente útiles.
 - IQBAL, SHAIKH MUHAMMAD, _El desarrollo de la metafísica en Persia_ (Londres, 1908), págs. 96.
 - GIBB, E. J. W., _Historia de la poesía turca_ (Londres, 1900-1909), vol. i. pp. 15-69. Esbozos del misticismo filosófico persa.
 - BROWNE, E. G., _Historia literaria de Persia_ (Londres, 1902), vol. i. págs. 416-444.

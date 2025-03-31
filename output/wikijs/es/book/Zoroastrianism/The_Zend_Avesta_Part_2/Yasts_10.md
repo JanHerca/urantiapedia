@@ -78,7 +78,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## II.
 
-7\. 'Ofrecemos sacrificios a Mitra, el señor de los amplios pastos, quien dice la verdad, jefe de asambleas, con mil orejas, bien formado, con diez mil ojos, alto, con pleno conocimiento [^565], fuerte, insomne ​​y siempre despierto [^566]; <span id="p122">[<sup><small>p. 122</small></sup>]</span> 8\. 'A quien los jefes de las naciones ofrecen sacrificios, mientras van al campo, contra huestes devastadoras, contra enemigos que vienen en formación de batalla, en la contienda de naciones en conflicto.
+7\. 'Ofrecemos sacrificios a Mitra, el señor de los amplios pastos, quien dice la verdad, jefe de asambleas, con mil orejas, bien formado, con diez mil ojos, alto, con pleno conocimiento [^565], fuerte, insomne ​​y siempre despierto [^566]; <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> 8\. 'A quien los jefes de las naciones ofrecen sacrificios, mientras van al campo, contra huestes devastadoras, contra enemigos que vienen en formación de batalla, en la contienda de naciones en conflicto.
 
 9\. 'Hacia el lado que haya sido adorado primero con la plenitud de la fe de un corazón devoto, hacia ese lado se vuelve Mitra, el señor de los amplios pastos, con el viento que azota al demonio, con el pensamiento maldito de los sabios [^567].
 
@@ -96,13 +96,13 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 12\. 'Ofrecemos sacrificios a Mitra, el señor de los amplios pastos, . . . . sin dormir y siempre despierto;
 
-13\. '¿Quién, entre los dioses celestiales, llega primero al Hara [^569], antes del sol inmortal de veloz caballo [^570]; <span id="p123">[<sup><small>p. 123</small></sup>]</span> quién, primero en una formación dorada, se apodera de las hermosas cumbres y desde allí contempla la morada de los arios con ojo benéfico.
+13\. '¿Quién, entre los dioses celestiales, llega primero al Hara [^569], antes del sol inmortal de veloz caballo [^570]; <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> quién, primero en una formación dorada, se apodera de las hermosas cumbres y desde allí contempla la morada de los arios con ojo benéfico.
 
 14\. 'Donde los valientes jefes disponen sus numerosas tropas en formación [^571]; donde las altas montañas, ricas en pastos y aguas, dan abundancia al ganado [^572]; donde se alzan los profundos lagos, con aguas saladas [^573]; donde ríos de amplio caudal crecen y se precipitan hacia I<i>s</i>kata y Pouruta, Mouru y Harôyu, el Gava-Sughdha y <i>H</i><i>v</i>âirizem [^574];
 
 15\. 'En Arezahi y Savahi, en Fradadhafshu y Vîdadhafshu, en Vourubare<i>s</i>ti y Vourubare<i>s</i>ti, en este brillante Karshvare de <i>H</i><i>v</i>aniratha [^575], la morada del ganado, la vivienda del ganado, el poderoso Mitra mira con un ojo que trae salud;
 
-16\. 'El que recorre todos los Karshvares, un Yazata invisible, y trae gloria; el que recorre todos los Karshvares, un Yazata invisible, y trae soberanía; y aumenta [^576] la fuerza para la <span id="p124">[<sup><small>p. 124</small></sup>]</span> victoria a quienes, con una intención piadosa, le ofrecen libaciones santas.
+16\. 'El que recorre todos los Karshvares, un Yazata invisible, y trae gloria; el que recorre todos los Karshvares, un Yazata invisible, y trae soberanía; y aumenta [^576] la fuerza para la <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> victoria a quienes, con una intención piadosa, le ofrecen libaciones santas.
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -116,7 +116,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 19\. 'De cualquier lado que haya alguien que haya mentido a Mitra, de ese lado se alza Mitra, enojado y ofendido, y su ira [^577] tarda en apaciguarse [^578].
 
-20\. 'Aquellos que mienten a Mitra, por muy rápido que corran, no pueden alcanzar [^579]; cabalgando, no pueden . . . . [^579]; conduciendo, no pueden [^579] La lanza que el enemigo de Mitra arroja, se lanza hacia atrás, por la <span id="p125">[<sup><small>p. 125</small></sup>]</span> cantidad de los hechizos malignos que el enemigo de Mitra elabora [^580].
+20\. 'Aquellos que mienten a Mitra, por muy rápido que corran, no pueden alcanzar [^579]; cabalgando, no pueden . . . . [^579]; conduciendo, no pueden [^579] La lanza que el enemigo de Mitra arroja, se lanza hacia atrás, por la <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> cantidad de los hechizos malignos que el enemigo de Mitra elabora [^580].
 
 21\. 'Y aunque la lanza sea bien lanzada, aunque alcance el cuerpo, no causa herida, por la cantidad de maleficios que el enemigo de Mitra realiza [^580]. El viento aleja la lanza que el enemigo de Mitra lanza, por la cantidad de maleficios que el enemigo de Mitra realiza.
 
@@ -180,7 +180,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 36\. ¿Quién inicia la batalla, quién se enfrenta a los ejércitos en la batalla, quién, enfrentándose a los ejércitos en la batalla, desgarra las líneas formadas? Las alas de las columnas que van a la batalla tiemblan, y él siembra el terror en el centro de la hueste devastadora.
 
-37\. «Él puede traer, y de hecho trae, sobre ellos angustia y miedo; derriba las cabezas de quienes mienten a Mitra, les quita las cabezas a quienes mienten a Mitra. <span id="p129">[<sup><small>p. 129</small></sup>]</span> 38\. «Triste es la morada, despoblada de niños, donde moran los hombres que mienten a Mitra, y, en verdad, el asesino diabólico de hombres fieles. La vaca pastando va por un triste camino errante, arrastrada por los valles [^597] de las Mitradrugs: [^598] se quedan en el camino, dejando que las lágrimas corran por sus barbillas [^599].»
+37\. «Él puede traer, y de hecho trae, sobre ellos angustia y miedo; derriba las cabezas de quienes mienten a Mitra, les quita las cabezas a quienes mienten a Mitra. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> 38\. «Triste es la morada, despoblada de niños, donde moran los hombres que mienten a Mitra, y, en verdad, el asesino diabólico de hombres fieles. La vaca pastando va por un triste camino errante, arrastrada por los valles [^597] de las Mitradrugs: [^598] se quedan en el camino, dejando que las lágrimas corran por sus barbillas [^599].»
 
 39\. 'Sus flechas con plumas de halcón, disparadas desde la cuerda del arco bien tensado, vuelan hacia el objetivo y no lo alcanzan, mientras Mitra, el señor de los amplios pastos, enojado, ofendido e insatisfecho, viene y los encuentra.
 
@@ -190,7 +190,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Sus garrotes, al caer y golpear las cabezas de los hombres, no dieron en el blanco, cuando Mitra, el señor de los amplios pastos, enojado, ofendido e insatisfecho, vino a su encuentro.
 
-41\. 'Mitra les infunde miedo; Rashnu [^600] les infunde un miedo contrario [^601]; el santo Sraosha los dispersa por doquier hacia los dos Yazatas, los sustentadores del mundo [^602]. Hacen que las filas del ejército se dispersen, mientras Mitra, el señor <span id="p130">[<sup><small>p. 130</small></sup>]</span> de los vastos pastos, enojado, ofendido e insatisfecho, llega a su encuentro [^603].
+41\. 'Mitra les infunde miedo; Rashnu [^600] les infunde un miedo contrario [^601]; el santo Sraosha los dispersa por doquier hacia los dos Yazatas, los sustentadores del mundo [^602]. Hacen que las filas del ejército se dispersen, mientras Mitra, el señor <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> de los vastos pastos, enojado, ofendido e insatisfecho, llega a su encuentro [^603].
 
 42\. 'Llaman a Mitra, señor de los amplios pastos, diciendo: “¡Oh, Mitra, señor de los amplios pastos! ¡Aquí están nuestros caballos bravos llevándonos, huyendo de Mitra! ¡Aquí están nuestros robustos brazos destrozados por la espada, oh, Mitra!”
 
@@ -204,7 +204,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Cuya morada, ancha como la tierra, se extiende sobre el mundo material, grande [^604], ilimitada [^604] y brillante, una morada que se extiende a lo largo y ancho.
 
-45\. 'Cuyos ocho amigos [^605] se sientan como espías de Mitra, en todas las alturas, en todos los puestos de observación, observando al hombre que miente a Mitra, observando a aquellos, recordando a quienes han mentido a Mitra, pero vigilando los caminos de aquellos cuya vida es buscada por <span id="p131">[<sup><small>p. 131</small></sup>]</span> hombres que mienten a Mitra, y, en verdad, por los asesinos diabólicos de hombres fieles.
+45\. 'Cuyos ocho amigos [^605] se sientan como espías de Mitra, en todas las alturas, en todos los puestos de observación, observando al hombre que miente a Mitra, observando a aquellos, recordando a quienes han mentido a Mitra, pero vigilando los caminos de aquellos cuya vida es buscada por <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> hombres que mienten a Mitra, y, en verdad, por los asesinos diabólicos de hombres fieles.
 
 46\. 'Ayudando y guardando, guardando detrás y guardando delante, Mitra, el señor de los amplios pastos, demuestra ser un espía y observador indestructible para el hombre al que viene a ayudar con toda la fuerza de su alma, él de los diez mil espías, el dios poderoso, omnisciente, indestructible.
 
@@ -224,7 +224,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 49\. 'Ofrecemos sacrificios a Mitra, el señor de los amplios pastos, . . . . sin dormir y siempre despierto;
 
-50\. 'Para quien el Creador, Ahura Mazda, ha <span id="p132">[<sup><small>p. 132</small></sup>]</span> construido una morada en el Hara Berezaiti, la brillante montaña alrededor de la cual giran muchas (estrellas) [^608], donde no llegan ni la noche ni la oscuridad, ni el viento frío ni el viento caliente, ni la enfermedad mortal, ni la impureza hecha por los Daêvas, y las nubes no pueden alcanzar el Haraiti Bareza [^609];
+50\. 'Para quien el Creador, Ahura Mazda, ha <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> construido una morada en el Hara Berezaiti, la brillante montaña alrededor de la cual giran muchas (estrellas) [^608], donde no llegan ni la noche ni la oscuridad, ni el viento frío ni el viento caliente, ni la enfermedad mortal, ni la impureza hecha por los Daêvas, y las nubes no pueden alcanzar el Haraiti Bareza [^609];
 
 51\. 'Una morada que todos los Amesha-Spe<i>n</i>tas, en un solo acuerdo con el sol, hicieron para él en la plenitud de la fe de un corazón devoto, y él observa todo el mundo material desde el Haraiti Bareza.
 
@@ -238,7 +238,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 54\. Quien, con las manos en alto, siempre clama a Ahura Mazda, diciendo: «Soy el bondadoso guardián de todas las criaturas, soy el bondadoso sustentador de todas las criaturas; sin embargo, los hombres no me adoran con un sacrificio en el que se me invoque por mi propio nombre, como adoran a los demás dioses con sacrificios en los que se les invoca por sus propios nombres».
 
-55\. [^612]. Si los hombres me adoraran con un sacrificio <span id="p133">[<sup><small>p. 133</small></sup>]</span> en el que se me invocara por mi propio nombre, como adoran a los demás Yazatas con sacrificios en los que se les invoca por sus propios nombres, entonces llegaría a los fieles en el momento señalado; llegaría en el momento señalado de mi hermosa vida inmortal.
+55\. [^612]. Si los hombres me adoraran con un sacrificio <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> en el que se me invocara por mi propio nombre, como adoran a los demás Yazatas con sacrificios en los que se les invoca por sus propios nombres, entonces llegaría a los fieles en el momento señalado; llegaría en el momento señalado de mi hermosa vida inmortal.
 
 56\. [^613]. 'Pero el hombre piadoso, sosteniendo libaciones en sus manos, te adora con un sacrificio, en el que eres invocado por tu propio nombre y con las palabras adecuadas.
 
@@ -250,7 +250,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 57\. «¡Escucha nuestro sacrificio, oh Mitra! ¡Complácete con nuestro sacrificio, oh Mitra! ¡Ven y siéntate ante nuestro sacrificio! ¡Acepta nuestras libaciones! ¡Acéptalas tal como han sido consagradas! ¡Reúnelas con amor y colócalas en el Garô-nmâna!»
 
-58\. «¡Concédenos estos dones que te suplicamos, oh dios poderoso!, de acuerdo con las palabras de la revelación, a saber: riquezas, fuerza y ​​victoria, buena conciencia y dicha, buena fama y un alma bondadosa; sabiduría y el conocimiento que da felicidad, la fuerza victoriosa otorgada por Ahura, el Ascendente aplastante de Asha-Vahi<i>s</i>sta, y conversación (con Dios) sobre la Palabra Sagrada. <span id="p134">[<sup><small>p. 134</small></sup>]</span> 59\. «Concédenos que, con buen ánimo y espíritu elevado, exaltados en alegría y buen espíritu, podamos derrotar a todos nuestros enemigos; que, con buen ánimo y espíritu elevado, exaltados en alegría y buen espíritu, podamos derrotar a todos nuestros enemigos; para que nosotros, con buen espíritu y elevado ánimo, exaltados en alegría y buen espíritu, podamos herir toda la malicia de los Daêvas y de los Hombres, de los Yâtus y de los Pairikas, de los opresores, de los ciegos y de los sordos.
+58\. «¡Concédenos estos dones que te suplicamos, oh dios poderoso!, de acuerdo con las palabras de la revelación, a saber: riquezas, fuerza y ​​victoria, buena conciencia y dicha, buena fama y un alma bondadosa; sabiduría y el conocimiento que da felicidad, la fuerza victoriosa otorgada por Ahura, el Ascendente aplastante de Asha-Vahi<i>s</i>sta, y conversación (con Dios) sobre la Palabra Sagrada. <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> 59\. «Concédenos que, con buen ánimo y espíritu elevado, exaltados en alegría y buen espíritu, podamos derrotar a todos nuestros enemigos; que, con buen ánimo y espíritu elevado, exaltados en alegría y buen espíritu, podamos derrotar a todos nuestros enemigos; para que nosotros, con buen espíritu y elevado ánimo, exaltados en alegría y buen espíritu, podamos herir toda la malicia de los Daêvas y de los Hombres, de los Yâtus y de los Pairikas, de los opresores, de los ciegos y de los sordos.
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -266,7 +266,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 61\. 'Ofrecemos sacrificios a Mitra, el señor de los amplios pastos, . . . . sin dormir y siempre despierto;
 
-'De piernas firmes [^615], un observador completamente despierto; valiente, un jefe en asambleas; haciendo que las aguas fluyan hacia adelante; escuchando súplicas; haciendo que las aguas corran y las plantas crezcan; gobernando sobre los <span id="p135">[<sup><small>p. 135</small></sup>]</span> Karshwares [^616]; liberador [^617]; feliz [^618]; indecepcionable; dotado de muchos sentidos [^619]; una criatura de sabiduría;
+'De piernas firmes [^615], un observador completamente despierto; valiente, un jefe en asambleas; haciendo que las aguas fluyan hacia adelante; escuchando súplicas; haciendo que las aguas corran y las plantas crezcan; gobernando sobre los <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> Karshwares [^616]; liberador [^617]; feliz [^618]; indecepcionable; dotado de muchos sentidos [^619]; una criatura de sabiduría;
 
 62\. 'Quien no da ni fuerza ni vigor a quien ha mentido a Mitra; quien no da ni gloria ni ningún beneficio a quien ha mentido a Mitra.
 
@@ -282,7 +282,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Quien toma posesión [^621] de la hermosa y amplia ley, grande y poderosamente, y cuyo rostro contempla los siete Karshvares de la tierra;
 
-65\. '¿Quién es veloz entre los veloces, generoso entre los generosos, fuerte entre los fuertes, jefe de asamblea entre los jefes de asambleas; dador de aumento, dador de gordura, dador de ganado, dador de soberanía, dador de hijos, dador de alegría [^622]\ y dador de dicha [^622]\? <span id="p136">[<sup><small>p. 136</small></sup>]</span> 66\. 'Con quien marchan Ashi Vanguhi y Pâre<i>n</i>di en su carro ligero [^623], el imponente Coraje Varonil, la imponente Gloria Real, el imponente Cielo Soberano, el imponente pensamiento maldiciente [^624] de los sabios, los imponentes Fravashis de los fieles, y aquel que mantiene unidos a los numerosos fieles adoradores de Mazda [^625].
+65\. '¿Quién es veloz entre los veloces, generoso entre los generosos, fuerte entre los fuertes, jefe de asamblea entre los jefes de asambleas; dador de aumento, dador de gordura, dador de ganado, dador de soberanía, dador de hijos, dador de alegría [^622]\ y dador de dicha [^622]\? <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> 66\. 'Con quien marchan Ashi Vanguhi y Pâre<i>n</i>di en su carro ligero [^623], el imponente Coraje Varonil, la imponente Gloria Real, el imponente Cielo Soberano, el imponente pensamiento maldiciente [^624] de los sabios, los imponentes Fravashis de los fieles, y aquel que mantiene unidos a los numerosos fieles adoradores de Mazda [^625].
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -328,7 +328,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Tienes buenos caballos, tienes un buen carro: traes ayuda en cada súplica y eres poderoso.
 
-77\. 'Te imploraré ayuda con muchas consagraciones, con buenas libaciones; con muchas ofrendas, con buenas libaciones, para que, permaneciendo en ti, habitemos por mucho tiempo una morada digna, llena de todas las riquezas que se puedan desear. <span id="p139">[<sup><small>p. 139</small></sup>]</span> 78\. 'Tú proteges a las naciones que rinden culto a Mitra, el señor de los amplios pastos; tú aplastas a quienes se deleitan en la destrucción. A ti imploraré ayuda: que venga a nosotros en busca de ayuda, el imponente y poderoso Mitra, el venerable y digno de alabanza, el glorioso señor de las naciones.
+77\. 'Te imploraré ayuda con muchas consagraciones, con buenas libaciones; con muchas ofrendas, con buenas libaciones, para que, permaneciendo en ti, habitemos por mucho tiempo una morada digna, llena de todas las riquezas que se puedan desear. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> 78\. 'Tú proteges a las naciones que rinden culto a Mitra, el señor de los amplios pastos; tú aplastas a quienes se deleitan en la destrucción. A ti imploraré ayuda: que venga a nosotros en busca de ayuda, el imponente y poderoso Mitra, el venerable y digno de alabanza, el glorioso señor de las naciones.
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 
@@ -368,7 +368,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'A quien el pobre que sigue la buena ley, cuando es agraviado y privado de sus derechos, invoca pidiendo ayuda con las manos levantadas.
 
-85\. 'La voz de su lamento llega hasta el cielo, recorre toda la tierra a su alrededor, recorre <span id="p141">[<sup><small>p. 141</small></sup>]</span> los siete Karshvares, ya sea que pronuncie su oración en voz baja [^650] o en voz alta.
+85\. 'La voz de su lamento llega hasta el cielo, recorre toda la tierra a su alrededor, recorre <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> los siete Karshvares, ya sea que pronuncie su oración en voz baja [^650] o en voz alta.
 
 86\. 'La vaca extraviada le invoca en busca de ayuda [^651], añorando los establos:
 
@@ -382,7 +382,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 88\. 'Ofrecemos sacrificios a Mitra, el señor de los amplios pastos, ... sin dormir y siempre despierto;
 
-'A quien el vivificante, sanador, bello, señorial, Haoma de ojos dorados ofreció un sacrificio en la más alta de las alturas, en el Haraiti Bareza [^653], él <span id="p142">[<sup><small>p. 142</small></sup>]</span> el puro a uno puro, con baresma puro, libaciones puras y palabras puras;
+'A quien el vivificante, sanador, bello, señorial, Haoma de ojos dorados ofreció un sacrificio en la más alta de las alturas, en el Haraiti Bareza [^653], él <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> el puro a uno puro, con baresma puro, libaciones puras y palabras puras;
 
 89\. 'A quien [^654] el santo Ahura Mazda ha establecido como sacerdote, rápido en la ejecución del sacrificio y enérgico en sus cánticos. Realizó el sacrificio en voz alta, como un sacerdote rápido en el sacrificio y enérgico en sus cánticos, sacerdote de Ahura Mazda, sacerdote de los Amesha-Spe<i>n</i>tas. Su voz se elevó hasta el cielo, recorrió la tierra circundante, recorrió los siete Karshvares.
 
@@ -402,7 +402,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 95\. Sacrificamos a Mitra, el señor de los amplios pastos, . . . . sin dormir y siempre despierto;
 
-'Quien recorre la tierra, en toda su anchura, después de la puesta del sol [^661], toca ambos extremos de <span id="p144">[<sup><small>p. 144</small></sup>]</span> esta tierra ancha y redonda, cuyos extremos se encuentran lejos, y examina todo lo que está entre la tierra y los cielos,
+'Quien recorre la tierra, en toda su anchura, después de la puesta del sol [^661], toca ambos extremos de <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> esta tierra ancha y redonda, cuyos extremos se encuentran lejos, y examina todo lo que está entre la tierra y los cielos,
 
 96\. 'Balancea en sus manos un garrote con cien nudos, cien filos, que se lanza hacia delante y derriba a los hombres; un garrote fundido en bronce rojo, de bronce fuerte y dorado; la más fuerte de todas las armas, la más victoriosa de todas las armas [^662];
 
@@ -470,7 +470,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 109\. '“¿A quién le daré a cambio, sin que lo piense, la imponente soberanía, bellamente dispuesta, con numerosos ejércitos y la más perfecta; la soberanía de un tirano todopoderoso, que se deja vencer, valiente, castigador e ileso; que ordena que se ejecute el castigo y su orden se cumple de inmediato, la que ordenó en su ira?”
 
-¡Oh, Mitra! Cuando te sientes ofendido e insatisfecho, él [^677] apacigua tu mente y satisface a Mitra. <span id="p148">[<sup><small>p. 148</small></sup>]</span> 110\. '¿A quién, con mi poder, le daré enfermedad y muerte? ¿A quién le daré pobreza y esterilidad [^678]? ¿A quién le quitaré de un plumazo la descendencia?
+¡Oh, Mitra! Cuando te sientes ofendido e insatisfecho, él [^677] apacigua tu mente y satisface a Mitra. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> 110\. '¿A quién, con mi poder, le daré enfermedad y muerte? ¿A quién le daré pobreza y esterilidad [^678]? ¿A quién le quitaré de un plumazo la descendencia?
 
 111\. '¿A quién le arrebataré, sin que lo piense, la imponente soberanía, bellamente dispuesta, con numerosos ejércitos y la más perfecta; la soberanía de un tirano todopoderoso, que abate cabezas, valiente, castigador e ileso; que ordena que se ejecute el castigo y su orden se cumple de inmediato, la que ordenó en su ira?
 
@@ -486,7 +486,7 @@ Un guerrero con yelmo de plata [^680], coraza de oro [^680], que mata con puñal
 
 113\. 'Y luego vienen ganado y machos a pastar, tantos como él quiere.
 
-'Que Mitra y Ahura [^681], los dioses supremos, vengan a nosotros en busca de ayuda, cuando el puñal alce su voz <span id="p149">[<sup><small>p. 149</small></sup>]</span> en voz alta [^682], cuando las fosas nasales de los caballos tiemblen, cuando los puñales . . . . [^683], cuando las cuerdas de los arcos silben y disparen flechas afiladas; entonces la prole de aquellos cuyas libaciones son odiadas caiga derribada al suelo, con el cabello arrancado.
+'Que Mitra y Ahura [^681], los dioses supremos, vengan a nosotros en busca de ayuda, cuando el puñal alce su voz <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> en voz alta [^682], cuando las fosas nasales de los caballos tiemblen, cuando los puñales . . . . [^683], cuando las cuerdas de los arcos silben y disparen flechas afiladas; entonces la prole de aquellos cuyas libaciones son odiadas caiga derribada al suelo, con el cabello arrancado.
 
 114\. '¡Así puedes tú, oh Mitra, señor de los amplios pastos! dar rapidez a nuestros caballos, fuerza a nuestros propios cuerpos, y que podamos observar con pleno éxito a quienes nos odian, abatir a nuestros enemigos y destruir de un solo golpe a nuestros adversarios, a nuestros enemigos y a quienes nos odian [^684].
 
@@ -540,7 +540,7 @@ Un guerrero con yelmo de plata [^680], coraza de oro [^680], que mata con puñal
 
 121\. Zaratustra le preguntó: «¡Oh, Ahura Mazda! ¿Cómo beberá el hombre fiel las libaciones limpiamente preparadas, si las ofrece a Mitra, el señor de los amplios pastos, Mitra estará complacido con él y sin enojo?»
 
-122\. Ahura Mazda respondió: «Que se laven el cuerpo tres días y tres noches; que se sometan a treinta latigazos [^697] para el sacrificio y la oración a Mitra, el señor de los amplios pastos. Que se laven el cuerpo dos días y dos noches; que se sometan a veinte latigazos para el sacrificio y la oración a Mitra, el señor de los amplios pastos. Que nadie <span id="p152">[<sup><small>p. 152</small></sup>]</span> beba de estas libaciones si no conoce el staota yêsnya [^698]: Vîspê ratavô [^699].»
+122\. Ahura Mazda respondió: «Que se laven el cuerpo tres días y tres noches; que se sometan a treinta latigazos [^697] para el sacrificio y la oración a Mitra, el señor de los amplios pastos. Que se laven el cuerpo dos días y dos noches; que se sometan a veinte latigazos para el sacrificio y la oración a Mitra, el señor de los amplios pastos. Que nadie <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> beba de estas libaciones si no conoce el staota yêsnya [^698]: Vîspê ratavô [^699].»
 
 'Por su resplandor y su gloria le ofreceré un sacrificio digno de ser escuchado...
 

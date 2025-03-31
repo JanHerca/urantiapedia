@@ -54,7 +54,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. (El trozo de tierra excavado debe ser) del largo de un hombre con los brazos en alto,
 
-10\. De la anchura de una Vyâma (braza), <span id="p237">[<sup><small>p. 237</small></sup>]</span>
+10\. De la anchura de una Vyâma (braza), <span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 11\. De la profundidad de un Vitasti (palmo).
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## C<i>Y</i>IK 2.
 
-1\. [^579]. (Los familiares del difunto) ahora llevan sus fuegos sagrados y sus vasijas de sacrificio en esa dirección. <span id="p238">[<sup><small>p. 238</small></sup>]</span>
+1\. [^579]. (Los familiares del difunto) ahora llevan sus fuegos sagrados y sus vasijas de sacrificio en esa dirección. <span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 2\. Tras ellos, las personas mayores, formando un número impar, hombres y mujeres no juntos, llevan el cadáver.
 
@@ -107,7 +107,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1
 
-14\. [^583]. Después, quien sabe cómo hacerlo, apila entre los fuegos un montón de leña. <span id="p239">[<sup><small>p. 239</small></sup>]</span>
+14\. [^583]. Después, quien sabe cómo hacerlo, apila entre los fuegos un montón de leña. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 15. Después de extender hierba sacrificial y una piel de antílope negra con el pelo al exterior, colocan sobre ella el cadáver, que han llevado de forma que pase junto al fuego de Gârhapatya por su lado norte, girando su cabeza hacia Âhavanîya.
 
@@ -162,7 +162,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1
 
-13\. Sobre sus muslos, las dos astillas de madera. <span id="p241">[<sup><small>p. 241</small></sup>]</span>
+13\. Sobre sus muslos, las dos astillas de madera. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 14\. Sobre sus piernas el mortero y el majadero.
 
@@ -184,7 +184,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2
 
-23\. [^593]. Y dos terrones (de harina o arroz), según algunos (maestros). <span id="p242">[<sup><small>p. 242</small></sup>]</span>
+23\. [^593]. Y dos terrones (de harina o arroz), según algunos (maestros). <span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 24 [^594]. (Sólo) si no hay riñones, según algunos (maestros).
 
@@ -205,7 +205,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4
 
-3\. [^598]. Si el fuego Gârhapatya llega primero (al cuerpo), debe saber: «Lo ha alcanzado en el mundo del aire. Vivirá allí en prosperidad, y también este, es decir, su hijo, en este mundo». <span id="p243">[<sup><small>p. 243</small></sup>]</span>
+3\. [^598]. Si el fuego Gârhapatya llega primero (al cuerpo), debe saber: «Lo ha alcanzado en el mundo del aire. Vivirá allí en prosperidad, y también este, es decir, su hijo, en este mundo». <span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 4 [^599]. Si el fuego de Dakshi<i>n</i>a llega primero (al cuerpo), debe saber: «Lo ha alcanzado en el mundo de los hombres. Vivirá allí en prosperidad, y también este, es decir, su hijo, en este mundo».
 
@@ -237,7 +237,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 17\. [^606]. Que, opcionalmente, durante doce noches eviten la distribución de regalos y el estudio (de los textos védicos), si uno de los principales Gurús (ha fallecido).
 
-18\. [^607]. Diez días después de la muerte de Sapi<i>nd</i>as, <span id="p245">[<sup><small>p. 245</small></sup>]</span>
+18\. [^607]. Diez días después de la muerte de Sapi<i>nd</i>as, <span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 19\. Y de un Gurú que no es Sapi<i>nd</i>a,
 
@@ -290,7 +290,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. Aquellos que han perdido a un Gurú por muerte, o están afligidos por otra desgracia, deben realizar el día de luna nueva una ceremonia expiatoria.
 
-2\. [^615]. Antes del amanecer, debían llevar su fuego <span id="p247">[<sup><small>p. 247</small></sup>]</span> junto con sus cenizas y su receptáculo hacia el sur con la media ve</span>
+2\. [^615]. Antes del amanecer, debían llevar su fuego <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> junto con sus cenizas y su receptáculo hacia el sur con la media ve</span>
 
 6Acaba con el Agni devorador de carne (Rig-veda X, 16, 9).
 
@@ -298,7 +298,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 4. Luego deben regresar a casa sin mirar atrás, bañarse, cortarse el pelo, la barba, el vello corporal y las uñas, y proveerse de jarras, ollas y recipientes nuevos para enjuagarse la boca, adornados con guirnaldas de flores de Sami, leña de Sami, dos trozos de leña de Sami para encender el fuego y ramas para colocar alrededor del fuego, estiércol y piel de toro, mantequilla fresca, una piedra y tantos manojos de hierba Kusa como mujeres jóvenes haya en la casa.
 
-5\. [^617]. En el momento del Agni(-hotra) debe encender fuego con el hemistiquio: «Aquí puede estar este otro <i>G</i>atavedas» (Rig-veda X, 16, 9). <span id="p248">[<sup><small>p. 248</small></sup>]</span>
+5\. [^617]. En el momento del Agni(-hotra) debe encender fuego con el hemistiquio: «Aquí puede estar este otro <i>G</i>atavedas» (Rig-veda X, 16, 9). <span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 6. Manteniendo ese fuego encendido, se sientan hasta el silencio de la noche, repitiendo los cuentos de los ancianos y escuchando historias de contenido auspicioso, Itihâsas y Purâ<i>n</i>as, que les cuentan.
 
@@ -308,7 +308,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 9\. Con (el verso), 'Esto pongo alrededor de los vivos' (Rig-veda X, 18, 4), debería poner ramas alrededor (del fuego).
 
-10\. [^620]. Tras haber dicho: «Una montaña (es decir, una piedra) se interpondrán entre ellos y la muerte», colocó una piedra al norte del fuego, y tras haber ofrecido el sacrificio con los cuatro versos: «Vete de aquí, oh muerte, por otro camino» (Rig-veda X, 18, 1-4), <span id="p249">[<sup><small>p. 249</small></sup>]</span> verso por verso, debía mirar a su pueblo con el verso: «Como los días se suceden» (ibid. 5).
+10\. [^620]. Tras haber dicho: «Una montaña (es decir, una piedra) se interpondrán entre ellos y la muerte», colocó una piedra al norte del fuego, y tras haber ofrecido el sacrificio con los cuatro versos: «Vete de aquí, oh muerte, por otro camino» (Rig-veda X, 18, 1-4), <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> verso por verso, debía mirar a su pueblo con el verso: «Como los días se suceden» (ibid. 5).
 
 11\. Las mujeres jóvenes (que pertenecen a la casa) deben, con cada mano por separado, con sus pulgares y anulares, usar hojas de darbha jóvenes, untar sus ojos con mantequilla fresca y arrojar (las hojas de darbha), girando sus rostros hacia otro lado.
 
@@ -324,7 +324,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 17\. Allí se sientan, evitando dormir, hasta el amanecer.
 
-18\. [^621]. Tras la salida del sol, tras murmurar los himnos consagrados al sol y los himnos auspiciosos, tras <span id="p250">[<sup><small>p. 250</small></sup>]</span> preparar la comida, tras hacer oblaciones con el himno «Que aleje el mal de nosotros con su resplandor» (Rig-veda I, 97), verso a verso, tras dar de comer a los brahmanes, debía instarlos a pronunciar palabras auspiciosas.
+18\. [^621]. Tras la salida del sol, tras murmurar los himnos consagrados al sol y los himnos auspiciosos, tras <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> preparar la comida, tras hacer oblaciones con el himno «Que aleje el mal de nosotros con su resplandor» (Rig-veda I, 97), verso a verso, tras dar de comer a los brahmanes, debía instarlos a pronunciar palabras auspiciosas.
 
 19\. Una vaca, una copa de metal y una prenda que aún no haya sido lavada constituyen el sacrificio.
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. Cuanto mayor sea su número, mayor será la recompensa (que el sacrificador tiene derecho a esperar).
 
-4\. Pero en ningún caso un solo (Brâhma<i>n</i>a) para todos (los padres). <span id="p251">[<sup><small>p. 251</small></sup>]</span>
+4\. Pero en ningún caso un solo (Brâhma<i>n</i>a) para todos (los padres). <span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 5 [^623]. Opcionalmente (puede invitar sólo a un Brâhma<i>n</i>a) excepto al primero (<i>S</i>râddha).
 
@@ -355,7 +355,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 10\. Habiendo vertido agua en tres recipientes de metal, de piedra y de barro, o (en tres recipientes) hechos de la misma sustancia, sobre los cuales ha puesto hierba Darbha,
 
-Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las aguas divinas» (Rig-veda X, 9, 4), vierte semillas de sésamo en ella con (la fórmula), «Tú eres sésamo; Soma es tu deidad; en el sacrificio de Gosava fuiste creado por <span id="p252">[<sup><small>p. 252</small></sup>]</span> los dioses. Fuiste ofrecido por los antiguos. Mediante la oblación funeraria, haz que los Padres y estos mundos nos sean propicios. ¡Svadhâ! ¡Adoración!»
+Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las aguas divinas» (Rig-veda X, 9, 4), vierte semillas de sésamo en ella con (la fórmula), «Tú eres sésamo; Soma es tu deidad; en el sacrificio de Gosava fuiste creado por <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> los dioses. Fuiste ofrecido por los antiguos. Mediante la oblación funeraria, haz que los Padres y estos mundos nos sean propicios. ¡Svadhâ! ¡Adoración!»
 
 12\. [^627]. (Los diferentes ritos se realizan) de derecha a izquierda.
 
@@ -363,7 +363,7 @@ Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las agu
 
 14\. Cuando va a entregar el agua de Arghya a los Brahmanes que representan a los Padres, dice una vez cada vez: «¡Svadhâ! ¡El agua de Arghya!».
 
-15\. [^629]. Sobre (el agua de Arghya) que ha sido <span id="p253">[<sup><small>p. 253</small></sup>]</span> p</span>
+15\. [^629]. Sobre (el agua de Arghya) que ha sido <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> p</span>
 
 2. Debe recitar el verso: «Las aguas celestiales que se han producido en la tierra, las aguas aéreas y las aguas terrestres, las doradas, aptas para el sacrificio, que estas aguas nos traigan suerte y nos sean benévolas». Vertiendo lo que queda (en los tres recipientes Arghya), se humedece el rostro con esa agua si desea que le nazca un hijo.
 
@@ -375,7 +375,7 @@ Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las agu
 
 19\. El permiso (se da con las palabras), 'Puede ofrecerse', o, 'Sacrifica tu ofrenda', u, 'Ofrécela'.
 
-20\. [^632]. Luego sacrifica en el fuego como se indicó anteriormente, <span id="p254">[<sup><small>p. 254</small></sup>]</span>
+20\. [^632]. Luego sacrifica en el fuego como se indicó anteriormente, <span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 21 [^633]. O, si dan su permiso, en manos (de los Brâhma<i>n</i>as).
 
@@ -393,7 +393,7 @@ Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las agu
 
 27\. [^637]. Tras preguntarles: "¿Disfrutaron?", y habiendo tomado la comida, cualquiera que haya usado, junto con el Sthâlîpâka, para hacer pedazos, debe ofrecer el resto (a los Brahmanes).
 
-28\. Después de que hayan aceptado (ese resto de comida) o se lo hayan dejado (a él), y hayan terminado de comer, antes de que hayan bebido agua, debe dejar los terrones para los Padres. <span id="p255">[<sup><small>p. 255</small></sup>]</span>
+28\. Después de que hayan aceptado (ese resto de comida) o se lo hayan dejado (a él), y hayan terminado de comer, antes de que hayan bebido agua, debe dejar los terrones para los Padres. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 29\. Después de haber bebido agua, según dicen algunos (maestros).
 
@@ -431,7 +431,7 @@ Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las agu
 
 11\. [^642]. A una cuarta parte (del horizonte) que es sacrificialmente pura,
 
-12\. En un lugar invisible desde el pueblo, <span id="p256">[<sup><small>p. 256</small></sup>]</span>
+12\. En un lugar invisible desde el pueblo, <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 13\. Después de la medianoche,
 
@@ -451,7 +451,7 @@ Y tras recitar sobre (esa agua el verso), «Para la suerte y la ayuda de las agu
 
 21\. O con (la fórmula), '¡A Rudra svâhâ!'
 
-22\. [^645]. Que haga ofrendas de Bali hacia los cuatro puntos cardinales, a cada uno de ellos sobre cuatro anillos de Kus, una red, con las fórmulas: «A las huestes, Rudra, que tienes hacia el este, <span id="p257">[<sup><small>p. 257</small></sup>]</span> se les presenta esta ofrenda. ¡Adoración a ti! ¡No me hagas daño!». De esta manera, se realiza la asignación de las ofrendas según los diferentes puntos cardinales.
+22\. [^645]. Que haga ofrendas de Bali hacia los cuatro puntos cardinales, a cada uno de ellos sobre cuatro anillos de Kus, una red, con las fórmulas: «A las huestes, Rudra, que tienes hacia el este, <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> se les presenta esta ofrenda. ¡Adoración a ti! ¡No me hagas daño!». De esta manera, se realiza la asignación de las ofrendas según los diferentes puntos cardinales.
 
 23\. Con los siguientes cuatro himnos debe venerar a los cuatro puntos cardinales, a saber: «¿Qué le ofreceremos a Rudra?», «Estas oraciones a Rudra», «A ti, oh padre», «Estas canciones a Rudra con el arco fuerte» (Rig-veda I, 43, 114; II, 33; VII, 46).
 
@@ -493,7 +493,7 @@ Entonces las serpientes toman todo lo que ha fluido allí, ya sea de sangre o de
 
 40\. Si una enfermedad afecta a su ganado, debe sacrificar a ese mismo dios en medio de su establo.
 
-41\. Un revoltijo de comida cocinada, que sacrifica en su totalidad. <span id="p259">[<sup><small>p. 259</small></sup>]</span>
+41\. Un revoltijo de comida cocinada, que sacrifica en su totalidad. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 42\. Después de haber arrojado la hierba sacrificial y la Â<i>g</i>ya al fuego, debe conducir sus vacas a través del humo.
 

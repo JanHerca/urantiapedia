@@ -29,7 +29,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 _Los siguientes anuncios aparecieron al final del libro original. Se incluyen para completar._
 
@@ -51,7 +51,7 @@ El objetivo de los editores de esta serie es muy concreto. Desean, por encima de
 
 **CONOCIMIENTO DE BRAHMA:** Un bosquejo de la filosofía del Vedanta. Tal como lo exponen los Upanishads y Sankara. Por L. D. Barnett, M.A., Litt.D., Profesor de Sánscrito en el University College, Londres. 2da Impresión. _2/-_ neto.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 **EL «CAMINO DE LA VIRTUD» DEL BUDA.** Una traducción del Dhammapada. Por W. C. D. Wagiswara y K. J. Saunders, miembros de la Royal Asiatic Society, sucursal de Ceilán, _2/-_ neto.
 
@@ -87,7 +87,7 @@ El objetivo de los editores de esta serie es muy concreto. Desean, por encima de
 
 **LAS CONFESIONES DE AL GHAZZALI.** Traducido por primera vez al inglés por Claud Field, M.A. _1/-_ net.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 **EL DESPERTAR DEL ALMA.** Del árabe de Ibn Tufail. Traducido con introducción de Paul Brönnle., Ph.D. 4ª Impresión. _1/6_ neto.
 
@@ -125,7 +125,7 @@ El objetivo de los editores de esta serie es muy concreto. Desean, por encima de
 
 **LOS DICHOS DE CONFUCIO.** Una nueva traducción de la mayor parte de las Analectas de Confucio, con Introducción y notas de Lionel Giles, M.A. (Oxon.), Asistente del Departamento de Libros y Manuscritos Orientales del Museo Británico. Segunda impresión. _2 -_ neto.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 **LA CONDUCTA DE LA VIDA; o, El Orden Universal de Confucio.** Una traducción de uno de los cuatro Libros de Confucio, hasta ahora conocido como la Doctrina del Medio. Por Ku Hung Ming, M.A. (Edin.). 2da Impresión. _1/-_ neto.
 

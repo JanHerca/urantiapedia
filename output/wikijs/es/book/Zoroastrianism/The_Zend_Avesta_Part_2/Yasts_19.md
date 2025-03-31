@@ -96,7 +96,7 @@ Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda [^1228] .
 
 ## II.
 
-9\. Sacrificamos a la imponente Gloria Real, creada por Mazda; la más conquistadora, la más poderosa, que posee salud, sabiduría y felicidad, y es más poderosa para destruir que todas las demás criaturas; <span id="p290">[<sup><small>p. 290</small></sup>]</span> 10\. Eso pertenece a Ahura Mazda, pues (a través de él) Ahura Mazda creó a las criaturas, muchas y buenas, muchas y hermosas, muchas y maravillosas, muchas y prósperas, muchas y brillantes;
+9\. Sacrificamos a la imponente Gloria Real, creada por Mazda; la más conquistadora, la más poderosa, que posee salud, sabiduría y felicidad, y es más poderosa para destruir que todas las demás criaturas; <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 10\. Eso pertenece a Ahura Mazda, pues (a través de él) Ahura Mazda creó a las criaturas, muchas y buenas, muchas y hermosas, muchas y maravillosas, muchas y prósperas, muchas y brillantes;
 
 11\. [^1229]. Para que puedan restaurar el mundo, que (de ahora en adelante) nunca envejecerá ni morirá, nunca se desintegrará ni se pudrirá, siempre vivirá y siempre crecerá, y será dueño de su voluntad, cuando los muertos resuciten, cuando la vida y la inmortalidad vengan, y el mundo sea restaurado a su voluntad;
 
@@ -110,7 +110,7 @@ Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda [^1228] .
 
 15\. [^1232]. Eso pertenece a los Amesha-Spe<i>n</i>tas, los brillantes, cuyas miradas cumplen sus deseos, altos, de rápida ejecución, fuertes, señoriales, que son incorruptibles y santos;
 
-16\. Quienes son siete de un mismo pensamiento, siete de un mismo discurso, siete de un mismo acto; cuyo pensamiento es el mismo, cuyo discurso es el mismo, cuyo acto es el mismo, cuyo padre y comandante es el mismo, a saber, el Creador, Ahura Mazda. <span id="p291">[<sup><small>p. 291</small></sup>]</span> 17\. Quienes ven el alma de los demás pensando en buenos pensamientos, pensando en buenas palabras, pensando en buenas obras, pensando en Garô-nmâna, y cuyos caminos brillan al descender a las libaciones;
+16\. Quienes son siete de un mismo pensamiento, siete de un mismo discurso, siete de un mismo acto; cuyo pensamiento es el mismo, cuyo discurso es el mismo, cuyo acto es el mismo, cuyo padre y comandante es el mismo, a saber, el Creador, Ahura Mazda. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 17\. Quienes ven el alma de los demás pensando en buenos pensamientos, pensando en buenas palabras, pensando en buenas obras, pensando en Garô-nmâna, y cuyos caminos brillan al descender a las libaciones;
 
 18\. ¿Quiénes son los creadores y gobernadores, los modeladores y supervisores, los guardianes y preservadores de estas creaciones de Ahura Mazda?
 
@@ -126,7 +126,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 22\. Eso pertenece a los dioses de los cielos y a los del mundo material, y a los bienaventurados, nacidos o no nacidos, que han de realizar la restauración del mundo [^1234].
 
-23\. [^1235]. Son ellos quienes restaurarán el mundo, que (de ahora en adelante) nunca envejecerá ni morirá, nunca se desintegrará ni se pudrirá, siempre vivirá y <span id="p292">[<sup><small>p. 292</small></sup>]</span> siempre crecerá, y será dueño de su voluntad, cuando los muertos resuciten, cuando la vida y la inmortalidad lleguen, y el mundo sea restaurado a su voluntad;
+23\. [^1235]. Son ellos quienes restaurarán el mundo, que (de ahora en adelante) nunca envejecerá ni morirá, nunca se desintegrará ni se pudrirá, siempre vivirá y <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> siempre crecerá, y será dueño de su voluntad, cuando los muertos resuciten, cuando la vida y la inmortalidad lleguen, y el mundo sea restaurado a su voluntad;
 
 24\. Cuando la creación —la próspera creación del Buen Espíritu— se vuelva inmortal, y la Droga perezca, aunque se apresure por todos lados a matar a los seres santos; ella y su centuplicada prole perecerán, como es la voluntad del Señor.
 
@@ -146,7 +146,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 28\. Eso se aferró a Takhma Urupa, el bien armado, mientras gobernaba sobre los siete Karshvares de la tierra, sobre los Daêvas y los hombres, los Yâtus y Pairikas, los opresores, los ciegos y los sordos;
 
-29\. Cuando conquistó a todos los Daêvas y hombres, a todos los Yatus y Pairikas, y montó Angra Mainyu, <span id="p293">[<sup><small>p. 293</small></sup>]</span>, adoptó la forma de un caballo, recorriendo la tierra de un extremo a otro, durante treinta años [^1238].
+29\. Cuando conquistó a todos los Daêvas y hombres, a todos los Yatus y Pairikas, y montó Angra Mainyu, <span id="p293"><sup><small>[ p. 293 ]</small></sup></span>, adoptó la forma de un caballo, recorriendo la tierra de un extremo a otro, durante treinta años [^1238].
 
 Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
@@ -162,7 +162,7 @@ En cuyo reinado nunca faltaban los alimentos [^1241] para alimentar a las criatu
 
 33\. En cuyo reinado no hubo ni viento frío ni viento caliente, ni vejez ni muerte, ni envidia provocada por los Daêvas [^1242], en los tiempos anteriores a su mentira, antes de que comenzara a deleitarse con palabras de falsedad y falsedad.
 
-34\. Pero cuando empezó a deleitarse con palabras de falsedad y falsedad [^1243], la Gloria se alejó de él en forma de ave. Cuando su Gloria desapareció, el gran [^1244] Yima <span id="p294">[<sup><small>p. 294</small></sup>]</span> Khshaêta, el buen pastor, tembló y se afligió ante sus enemigos [^1245]; confundido, se tumbó en el suelo.
+34\. Pero cuando empezó a deleitarse con palabras de falsedad y falsedad [^1243], la Gloria se alejó de él en forma de ave. Cuando su Gloria desapareció, el gran [^1244] Yima <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> Khshaêta, el buen pastor, tembló y se afligió ante sus enemigos [^1245]; confundido, se tumbó en el suelo.
 
 35\. La primera vez [^1246] cuando la Gloria se apartó del brillante Yima, la Gloria se fue de Yima, el hijo de Vîvangha<i>n</i><i>t</i>, en la forma de un pájaro Vâraghna [^1247].
 
@@ -172,7 +172,7 @@ Entonces Mitra se apoderó de esa Gloria, Mitra, el señor de los vastos pastos,
 
 Entonces Thraêtaona se apoderó de esa Gloria, él, el heredero del valiente clan Âthwya, quien era el más victorioso de todos los hombres victoriosos después de Zaratustra;
 
-37\. ¿Quién hirió a A<i>z</i>i Dahâka, el de tres bocas, tres cabezas, seis ojos, con mil sentidos, esa poderosa y diabólica Droga; ese demonio nefasto para el mundo, la Droga más poderosa que Angra Mainyu creó contra el mundo material para destruir el mundo del principio del bien [^1248]. <span id="p295">[<sup><small>p. 295</small></sup>]</span> 38\. La tercera vez que la Gloria se apartó del brillante Yima, esa Gloria se apartó de Yima, el hijo de Vîvangha<i>n</i><i>t</i>, en la forma de un ave Vâraghna. Entonces el valiente Keresâspa [^1249] se apoderó de esa Gloria; el que era el más robusto de los hombres fuertes, después de Zaratustra, por su coraje viril.
+37\. ¿Quién hirió a A<i>z</i>i Dahâka, el de tres bocas, tres cabezas, seis ojos, con mil sentidos, esa poderosa y diabólica Droga; ese demonio nefasto para el mundo, la Droga más poderosa que Angra Mainyu creó contra el mundo material para destruir el mundo del principio del bien [^1248]. <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> 38\. La tercera vez que la Gloria se apartó del brillante Yima, esa Gloria se apartó de Yima, el hijo de Vîvangha<i>n</i><i>t</i>, en la forma de un ave Vâraghna. Entonces el valiente Keresâspa [^1249] se apoderó de esa Gloria; el que era el más robusto de los hombres fuertes, después de Zaratustra, por su coraje viril.
 
 39\. Porque el Valor Viril se aferró a él. Adoramos al Valor Viril, firme en sus pies, insomne, rápido para levantarse y completamente despierto, que se aferró a Keresâspa;
 
@@ -180,7 +180,7 @@ Entonces Thraêtaona se apoderó de esa Gloria, él, el heredero del valiente cl
 
 41\. ¿Quién mató a Ga<i>n</i>darewa, el de los tacones dorados, que se precipitaba con las fauces abiertas, ansioso por destruir el mundo viviente del buen principio [^1251]?
 
-¿Quién mató a la prole de Pathana, a los nueve [^1252]; <span id="p296">[<sup><small>p. 296</small></sup>]</span> y a la prole de Nivika, y a la prole de Dâ<i>s</i>tayana;
+¿Quién mató a la prole de Pathana, a los nueve [^1252]; <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> y a la prole de Nivika, y a la prole de Dâ<i>s</i>tayana;
 
 Quien mató a Hitâspa [^1253], el de la corona de oro, y a Vareshava, el hijo de Dâna [^1254], y a Pitaona, acompañado por muchos Pairikas [^1255];
 
@@ -202,7 +202,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 El Buen Espíritu lanzó un dardo, y también lo hicieron Vohu-Manô, Asha-Vahi<i>s</i>ta y Âtar, el hijo de Ahura Mazda.
 
-El Espíritu Maligno lanzó un dardo, y también lo hicieron Akem-Manô [^1261], Aêshma, el de la lanza hiriente, A<i>z</i>i Dahâka y Spityura, quien cortó a Yima en dos [^1262]. <span id="p298">[<sup><small>p. 298</small></sup>]</span> 47\. Entonces se adelantó Âtar [^1263], el hijo de Ahura Mazda, pensando en su corazón: «Quiero apoderarme de esa Gloria que no se puede arrebatar por la fuerza».
+El Espíritu Maligno lanzó un dardo, y también lo hicieron Akem-Manô [^1261], Aêshma, el de la lanza hiriente, A<i>z</i>i Dahâka y Spityura, quien cortó a Yima en dos [^1262]. <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> 47\. Entonces se adelantó Âtar [^1263], el hijo de Ahura Mazda, pensando en su corazón: «Quiero apoderarme de esa Gloria que no se puede arrebatar por la fuerza».
 
 Pero A<i>z</i>i Dahâka, el de las tres bocas, el de la ley maligna, se abalanzó sobre su espalda, pensando extinguirla:
 
@@ -218,7 +218,7 @@ Pero Âtar, el hijo de Ahura Mazda, avanzó detrás de él, hablando con estas p
 
 Entonces A<i>z</i>i retiró sus manos, pues el instinto de vida prevalecía, tanto lo había asustado Âtar.
 
-51\. Esa Gloria se hincha y se dirige al mar <span id="p299">[<sup><small>p. 299</small></sup>]</span> Vouru-Kasha. El Hijo de las Aguas, el de los rápidos caballos [^1265], la arrebata de inmediato: este es el deseo del Hijo de las Aguas, el de los rápidos caballos: «Quiero arrebatar esa Gloria que no se puede arrebatar por la fuerza, hasta el fondo del mar Vouru-Kasha, en el fondo de los ríos profundos».
+51\. Esa Gloria se hincha y se dirige al mar <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> Vouru-Kasha. El Hijo de las Aguas, el de los rápidos caballos [^1265], la arrebata de inmediato: este es el deseo del Hijo de las Aguas, el de los rápidos caballos: «Quiero arrebatar esa Gloria que no se puede arrebatar por la fuerza, hasta el fondo del mar Vouru-Kasha, en el fondo de los ríos profundos».
 
 52\. Sacrificamos al Hijo de las Aguas, el de caballo veloz, el señor alto y resplandeciente, el señor de las hembras; el dios masculino, que ayuda a quien lo súplica; que creó al hombre, que lo moldeó [^1266], un dios que vive bajo las aguas, y cuyo oído es el más rápido para oír cuando se le adora.
 
@@ -242,7 +242,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 —'Ahura Mazda vendrá contra ti, siempre ansioso de crear nuevas criaturas [^1274].'
 
-Entonces el astuto Frangrasyan turanio se precipitó al mar Vouru-Kasha, ¡oh, Spitama Zaratustra! <span id="p301">[<sup><small>p. 301</small></sup>]</span> 59\. Se desnudó por segunda vez, deseando apoderarse de la Gloria que pertenece a las naciones arias, nacidas y no nacidas, y al santo Zaratustra. Pero la Gloria escapó, la Gloria huyó, la Gloria cambió de sede, y surgió un brazo del mar Vouru-Kasha, a saber, el lago llamado Lago Vanghazd<i>a</i>u [^1275].
+Entonces el astuto Frangrasyan turanio se precipitó al mar Vouru-Kasha, ¡oh, Spitama Zaratustra! <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 59\. Se desnudó por segunda vez, deseando apoderarse de la Gloria que pertenece a las naciones arias, nacidas y no nacidas, y al santo Zaratustra. Pero la Gloria escapó, la Gloria huyó, la Gloria cambió de sede, y surgió un brazo del mar Vouru-Kasha, a saber, el lago llamado Lago Vanghazd<i>a</i>u [^1275].
 
 60\. [^1276]. Entonces el astuto turanio Frangrasyan se precipitó desde el mar Vouru-Kasha, ¡oh Spitama Zarathu<i>s</i>tra! pensando mal: '. . . . [^1277] No he podido conquistar la Gloria que pertenece a las naciones arias, nacidas y no nacidas, y al santo Zarathu<i>s</i>tra.
 
@@ -268,7 +268,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 67\. Fluye hacia él, fluye y crece hacia él, trayendo buenos pastos y caballos magníficos, trayendo abundancia, lleno de gloria; con belleza y prosperidad; poderoso y amigable, rico en pastos, prolífico y dorado. Fluye hacia él, fluye y crece hacia él, brillante y glorioso, haciendo crecer lo blanco... [^1285], aniquilando todas las plagas.
 
-68\. Y con él viene la fuerza de un caballo, con él la fuerza de un camello, con él <span id="p303">[<sup><small>p. 303</small></sup>]</span> la fuerza de un hombre, con él la Gloria real: y hay en él, ¡oh santo Zaratustra!, tanta Gloria real como para extinguir de una vez a todas las naciones no arias.
+68\. Y con él viene la fuerza de un caballo, con él la fuerza de un camello, con él <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> la fuerza de un hombre, con él la Gloria real: y hay en él, ¡oh santo Zaratustra!, tanta Gloria real como para extinguir de una vez a todas las naciones no arias.
 
 69\. Y entonces (a través de ella) los seres vivos pueden protegerse [^1286] del hambre y la muerte, y del frío y el calor [^1286]. Tal es la Gloria Real, la guardiana de las naciones arias y de las cinco especies de animales [^1287], creada para ayudar a los fieles y la Ley de los adoradores de Mazda.
 

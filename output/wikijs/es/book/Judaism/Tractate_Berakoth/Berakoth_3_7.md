@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 . **M**.VII. 1. Tres personas que han comido juntas están obligadas a dar una invitación. [^364] Pero \[en el caso de quien come\] _Dmai_ [^365] y los primeros diezmos de los cuales se ha tomado su contribución, [^366] y los segundos diezmos [^367] y las cosas consagradas [^368] que han sido redimidas, [^369] y el asistente que come tanto como una aceituna, y el cutiano (samaritano)—uno no da tal invitación [^370] con respecto a ellos.
 
-2 (1). Pero en cuanto a quien come Tebel, [^371] y los Primeros Diezmos de los cuales no se ha tomado la parte de sus sacerdotes, y los Segundos Diezmos y cosas consagradas <span id="p60">[<sup><small>p. 60</small></sup>]</span> que no han sido redimidas, incluso si el asistente come menos de una aceituna, y el extraño [^372]—no se les da invitación con respecto a ellos.
+2 (1). Pero en cuanto a quien come Tebel, [^371] y los Primeros Diezmos de los cuales no se ha tomado la parte de sus sacerdotes, y los Segundos Diezmos y cosas consagradas <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> que no han sido redimidas, incluso si el asistente come menos de una aceituna, y el extraño [^372]—no se les da invitación con respecto a ellos.
 
 **T**. V. 10. Si uno actúa como siervo de dos, he aquí, come con ellos: [^373] si es de tres, no come con ellos hasta que le den permiso. [^374]
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 **M**.VII. 3 (2). Las mujeres, los esclavos y los niños pequeños [^375] no están invitados a recitar la bendición. ¿Cuál es el alimento más pequeño que califica para la invitación? No menos del tamaño de una aceituna. R. Judah dice que no menos del tamaño de un huevo.
 
-**T**. V. 14. Todos están obligados a decir la bendición después de la comida: sacerdotes, levitas, israelitas, prosélitos, esclavos, libertos, sacerdotes ilegítimos, [^376] netineos, bastardos, eunucos de hombres y eunucos de nacimiento, [^377] y eunucos de toda clase. [^378] Todos están obligados y pueden eximir de la obligación a la mayoría. [^379] Las personas de sexo incierto o doble <span id="p61">[<sup><small>p. 61</small></sup>]</span> están obligadas, pero no pueden eximir de la obligación a la mayoría.
+**T**. V. 14. Todos están obligados a decir la bendición después de la comida: sacerdotes, levitas, israelitas, prosélitos, esclavos, libertos, sacerdotes ilegítimos, [^376] netineos, bastardos, eunucos de hombres y eunucos de nacimiento, [^377] y eunucos de toda clase. [^378] Todos están obligados y pueden eximir de la obligación a la mayoría. [^379] Las personas de sexo incierto o doble <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> están obligadas, pero no pueden eximir de la obligación a la mayoría.
 
 13\. El que es de doble sexo libera a uno como él de su obligación, pero a nadie más; el que es de sexo incierto no libera a ninguno.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-2-7T10:40:56Z
 
 12\. R. Mona [^382] dice en nombre de R. Judah: Un trozo de pan que viene con el postre después de la comida requiere una bendición antes y después de él.
 
-13\. El primer agua (para lavarse antes de comer) es una cuestión de elección; el segundo [^383] (después de comer) es una <span id="p62">[<sup><small>p. 62</small></sup>]</span> obligación. En el caso del primer agua, si se desea prescindir de ella, se prescinde de ella; pero en el caso del segundo agua, si se desea prescindir de ella, no se prescinde de ella.
+13\. El primer agua (para lavarse antes de comer) es una cuestión de elección; el segundo [^383] (después de comer) es una <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> obligación. En el caso del primer agua, si se desea prescindir de ella, se prescinde de ella; pero en el caso del segundo agua, si se desea prescindir de ella, no se prescinde de ella.
 
 <a id="m4"></a>
 

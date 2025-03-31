@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:57:9Z
 
 ### CAPÍTULO I.
 
-§ 1. En la tarde del 14 de Nisán, es necesario buscar levadura a la luz de una vela; no es necesario buscar en lugares donde no se suele poner levadura. ¿Por qué, entonces, se ordenó registrar dos filas de barriles? Porque se trata de un almacén o bodega, donde a veces se almacena levadura. Beth Shammai decide que la búsqueda debe hacerse entre dos filas de barriles a lo largo de toda la superficie de dicho almacén; pero Beth Hillel dice: «Es <span id="p98">[<sup><small>p. 98</small></sup>]</span> suficiente buscar entre las dos filas externas, que también son las más altas». [^248]
+§ 1. En la tarde del 14 de Nisán, es necesario buscar levadura a la luz de una vela; no es necesario buscar en lugares donde no se suele poner levadura. ¿Por qué, entonces, se ordenó registrar dos filas de barriles? Porque se trata de un almacén o bodega, donde a veces se almacena levadura. Beth Shammai decide que la búsqueda debe hacerse entre dos filas de barriles a lo largo de toda la superficie de dicho almacén; pero Beth Hillel dice: «Es <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> suficiente buscar entre las dos filas externas, que también son las más altas». [^248]
 
 § 2. No es necesario sospechar que una comadreja pudiera haber arrastrado levadura de una casa o lugar a otro; [^249] porque, si así fuera, la misma sospecha se aplicaría a una posible remoción de un tribunal o incluso de una ciudad a otra, y la búsqueda se convertiría así en una tarea interminable.
 

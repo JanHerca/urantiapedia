@@ -42,7 +42,7 @@ Un monje que, al recibir una orden [^48] de su superior [^49], se acerca a él, 
 
 Pero un monje que, al recibir una orden de su superior, no se acerca a él, siendo insubordinado y desatento, es llamado de mal comportamiento. (3)
 
-Así como a una perra con las orejas doloridas se la aleja de todas partes, <span id="p2">[<sup><small>p. 2</small></sup>]</span> así resulta un (alumno) malo, insubordinado y hablador. (4)
+Así como a una perra con las orejas doloridas se la aleja de todas partes, <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> así resulta un (alumno) malo, insubordinado y hablador. (4)
 
 Así como un cerdo abandona un comedero lleno de grano para alimentarse de heces, así también un bruto (de hombre) se aparta de la virtud y emprende malos caminos. (5)
 
@@ -74,7 +74,7 @@ Nunca debe hacer nada desagradable al sabio [^53], ni con palabras ni con hechos
 
 No debe sentarse al lado del maestro, ni delante de él, ni detrás de él; no debe tocar el muslo del maestro con el suyo, ni responder a su llamado desde el diván. (18)
 
-Un monje bien educado no debe sentarse sobre sus jamones [^54], <span id="p4">[<sup><small>p. 4</small></sup>]</span> ni cruzar los brazos [^55], ni estirar las piernas, ni pararse (demasiado) cerca de su maestro. (19)
+Un monje bien educado no debe sentarse sobre sus jamones [^54], <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> ni cruzar los brazos [^55], ni estirar las piernas, ni pararse (demasiado) cerca de su maestro. (19)
 
 Si el superior le habla, nunca debe permanecer en silencio, sino que debe considerarlo como un favor; al pedirle una orden [^56], siempre debe acercarse cortésmente a su maestro. (20)
 
@@ -86,7 +86,7 @@ Cuando un alumno que observa las reglas de conducta anteriores pregunta al maest
 
 El monje debe evitar la mentira y no debe hablar positivamente (sobre cosas futuras, sus planes, etc.); debe evitar el habla pecaminosa y mantenerse siempre libre de engaño. (24)
 
-No debe decir nada pecaminoso o sin sentido [^58] <span id="p5">[<sup><small>p. 5</small></sup>]</span> o hiriente, ni por su propio bien ni por el de ningún otro, ni sin tal motivo. (25).
+No debe decir nada pecaminoso o sin sentido [^58] <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> o hiriente, ni por su propio bien ni por el de ningún otro, ni sin tal motivo. (25).
 
 En las barberías [^59] o en las casas, en el terreno que separa dos casas, o en el camino, un solo monje no debe estar con una sola mujer, ni debe conversar con ella. (26)
 
@@ -132,7 +132,7 @@ El hombre inteligente que ha aprendido (los textos sagrados) asume sus deberes [
 
 Cuando los dignos maestros, que están completamente ilustrados y desde los primeros tiempos son muy versados ​​en la conducta [^68], están satisfechos (con un alumno), le transmitirán su extenso y pesado [^69] conocimiento de los textos sagrados. (46)
 
-Su conocimiento será honrado, sus dudas serán disipadas, alegrará el corazón de su maestro <span id="p8">[<sup><small>p. 8</small></sup>]</span> por sus buenas acciones; mantenido a salvo por la realización de austeridades y por la meditación, siendo como una gran luz, mantendrá los cinco votos. (47)
+Su conocimiento será honrado, sus dudas serán disipadas, alegrará el corazón de su maestro <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> por sus buenas acciones; mantenido a salvo por la realización de austeridades y por la meditación, siendo como una gran luz, mantendrá los cinco votos. (47)
 
 Honrado por los dioses, los Gandharvas y los hombres, al dejar este cuerpo que consiste en suciedad e impurezas, se convertirá en un Siddha eterno [^70], o en un dios de gran poder y pequeñas imperfecciones. (48)
 

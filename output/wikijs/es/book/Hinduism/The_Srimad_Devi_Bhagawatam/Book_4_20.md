@@ -36,11 +36,11 @@ dateCreated: 2025-1-15T22:56:36Z
 
 ## Capítulo XI
 
-**Sobre la visita de Sukrâ a Mahâdeva para obtener el Mantra** <span id="p286">[<sup><small>p. 286</small></sup>]</span> 1\. Vyâsa dijo:— Cuando los Devas se retiraron del campo de batalla, Sukrâchârya se dirigió a los Demonios así:— ¡Oh, el mejor de los Demonios! Por favor, escuchen lo que Brahmâ me dijo antaño.
+**Sobre la visita de Sukrâ a Mahâdeva para obtener el Mantra** <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> 1\. Vyâsa dijo:— Cuando los Devas se retiraron del campo de batalla, Sukrâchârya se dirigió a los Demonios así:— ¡Oh, el mejor de los Demonios! Por favor, escuchen lo que Brahmâ me dijo antaño.
 
 2-3. Janârdan Visnu viene aquí para aniquilar a todos los demonios. Mató a Hiranyâksa, el rey de los asuras, en su encarnación de jabalí. Mató a Hiranyakasipu adoptando su apariencia de hombre-león; ahora también, sin duda, aniquilará a todos los daityas con gran entusiasmo.
 
-4-5. Ahora la fuerza de mi mantra no les servirá de nada ante Sri Hari. Y sin mi ayuda no podrán conquistar a los Devas. Por lo tanto, oh Demonios, espérenme un tiempo; hoy mismo me dirigiré a Siva Mahâdeva para obtener de él el Mantra Sakti. <span id="p287">[<sup><small>p. 287</small></sup>]</span> 6\. Regresaré lo antes posible, obteniendo el Mantra de Sri Mahâdeva; y con la ayuda del poder de esos grandes Mantras podré protegerlos por completo.
+4-5. Ahora la fuerza de mi mantra no les servirá de nada ante Sri Hari. Y sin mi ayuda no podrán conquistar a los Devas. Por lo tanto, oh Demonios, espérenme un tiempo; hoy mismo me dirigiré a Siva Mahâdeva para obtener de él el Mantra Sakti. <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> 6\. Regresaré lo antes posible, obteniendo el Mantra de Sri Mahâdeva; y con la ayuda del poder de esos grandes Mantras podré protegerlos por completo.
 
 7\. Los Daityas dijeron: —¡Oh, el mejor de los Munis! Estamos derrotados y nuestras fuerzas están casi agotadas; ¿cómo podremos permanecer en esta tierra y esperar tu regreso durante tanto tiempo?
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 20\. Los Daityas se controlaron y practicaron el ascetismo en la ermita de Kas'yapa, esperando el regreso de S'ukrâchârya.
 
-21\. S'ukrâchârya fue a Kailasa y rindió respetuosa reverencia al dios Mahâdeva. Mahâdeva le preguntó el motivo de su llegada. <span id="p288">[<sup><small>p. 288</small></sup>]</span> 22\. S'ukrâchârya dijo: —¡Oh, Deva!, te pido mantras que no poseas por Brihaspati, para la derrota de los devas y la victoria de los asuras.
+21\. S'ukrâchârya fue a Kailasa y rindió respetuosa reverencia al dios Mahâdeva. Mahâdeva le preguntó el motivo de su llegada. <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> 22\. S'ukrâchârya dijo: —¡Oh, Deva!, te pido mantras que no poseas por Brihaspati, para la derrota de los devas y la victoria de los asuras.
 
 23\. Vyâsa dijo: —Al oír sus palabras, el omnisciente Sankara Siva comenzó a pensar qué haría al respecto.
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-15T22:56:36Z
 
 35\. Los Devas dijeron: —Enviaste a tu buen Sukrâchârya con la excusa de adquirir los Mantras; tu ascetismo está velado por un propósito engañoso. Por lo tanto, sin duda lucharemos contigo.
 
-36\. Prepárense ahora y vístanse con sus armas y municiones: "¡Miren! Siempre que encuentren una escapatoria en sus enemigos, aprovéchenla y maten a su enemigo". Esta es la religión eterna. <span id="p289">[<sup><small>p. 289</small></sup>]</span> 37\. Vyâsa dijo: —Al oír así la respuesta de los Devas, los Daityas, tras reflexionar, abandonaron el lugar y huyeron aterrorizados.
+36\. Prepárense ahora y vístanse con sus armas y municiones: "¡Miren! Siempre que encuentren una escapatoria en sus enemigos, aprovéchenla y maten a su enemigo". Esta es la religión eterna. <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> 37\. Vyâsa dijo: —Al oír así la respuesta de los Devas, los Daityas, tras reflexionar, abandonaron el lugar y huyeron aterrorizados.
 
 38\. Y se refugiaron bajo la protección de la madre del Sukrâchârya. Ella vio a los Daityas muy atemorizados y de inmediato les garantizó protección.
 
@@ -122,7 +122,7 @@ Nota: ¿Se hace descender la tierra, provocando una fisura y engullendo así a t
 
 49\. Vyâsa dijo: —¡Oh, rey! En cuanto la madre habló así, Indra y Visnu quedaron estupefactos bajo su hechizo mágico, su superior poder mental y su profundo conocimiento del arte de la guerra.
 
-50\. Los Devas, al verlos tan abrumados y desconcertados, quedaron profundamente atónitos; se desesperaron y comenzaron a llorar a gritos. <span id="p290">[<sup><small>p. 290</small></sup>]</span> 51\. Indra, al oír a los Devas llorar a gritos, le dijo a Visnu: «¡Oh, Madhusudana! Estoy más desconcertado que tú».
+50\. Los Devas, al verlos tan abrumados y desconcertados, quedaron profundamente atónitos; se desesperaron y comenzaron a llorar a gritos. <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 51\. Indra, al oír a los Devas llorar a gritos, le dijo a Visnu: «¡Oh, Madhusudana! Estoy más desconcertado que tú».
 
 52\. ¡Oh, Madhava! No hay necesidad de más consideraciones. Antes de que esta miserable, inflada de orgullo por su tapasyâ, nos queme, mejor causémosle la muerte cuanto antes.
 
@@ -141,13 +141,13 @@ Aquí termina el Undécimo Capítulo del Cuarto Libro del S'rî mad Devî Bhâga
 
 ## Capítulo XII
 
-**Sobre la maldición de Bhrigu y el diálogo entre S'ukrâchârya y los Daityas** <span id="p290">[<sup><small>p. 290</small></sup>]</span> 1\. Vyâsa dijo:— ¡Oh, rey! Al ver a Visnu matar a su esposa y cometer así un acto atroz, el Bhagavân Bhrigu se sintió muy arrepentido y comenzó a temblar de ira, y se dirigió a Madhusûdana de esta manera.
+**Sobre la maldición de Bhrigu y el diálogo entre S'ukrâchârya y los Daityas** <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 1\. Vyâsa dijo:— ¡Oh, rey! Al ver a Visnu matar a su esposa y cometer así un acto atroz, el Bhagavân Bhrigu se sintió muy arrepentido y comenzó a temblar de ira, y se dirigió a Madhusûdana de esta manera.
 
 2\. Bhrigu dijo: —¡Oh, Visnu! Has cometido un pecado terrible. ¡Oh, inteligente! Lo has hecho a sabiendas; ¡qué gran maravilla! Nadie imagina el asesinato de la hija de este brahmán; y lo has cometido con toda franqueza.
 
 3\. ¡Oh, Deva! Los Maharsis declaran que eres sáttvico, dedicado a la preservación; Brahmâ, rajásico (creador) y S'ambhu Siva, tamásico (destructor). ¿Por qué, entonces, se observa lo contrario en este caso?
 
-4\. ¿Por qué te has vuelto tamásico? ¿Por qué has cometido este atroz crimen? ¡Oh, Visnu! Las mujeres jamás deben ser asesinadas; esto es un hecho conocido; entonces, ¿por qué has matado a esta mujer sin culpa alguna? <span id="p291">[<sup><small>p. 291</small></sup>]</span> 5-6. Has cometido un acto abominable. ¿Qué debo hacerte? Es justo que te maldiga. ¡Oh, gran pecador! Me has causado mucho dolor y me has dejado muy cansado. No maldeciré a Indra. Siempre adoptas una apariencia engañosa y te comportas como una serpiente negra y cruel; tu mente está llena de maldad; te maldeciré.
+4\. ¿Por qué te has vuelto tamásico? ¿Por qué has cometido este atroz crimen? ¡Oh, Visnu! Las mujeres jamás deben ser asesinadas; esto es un hecho conocido; entonces, ¿por qué has matado a esta mujer sin culpa alguna? <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 5-6. Has cometido un acto abominable. ¿Qué debo hacerte? Es justo que te maldiga. ¡Oh, gran pecador! Me has causado mucho dolor y me has dejado muy cansado. No maldeciré a Indra. Siempre adoptas una apariencia engañosa y te comportas como una serpiente negra y cruel; tu mente está llena de maldad; te maldeciré.
 
 7\. ¡Oh, Janârdana! Aquellos Munis que te llaman Sáttvico son necios; hoy he visto que tus caminos son excepcionalmente viciosos y tamásicos.
 
@@ -171,7 +171,7 @@ NOTA: El poder del pensamiento y la inhalación de algunas medicinas podrían ha
 
 18\. Indra entonces se dirigió a los Devas: —Ahora la madre de Sukra ha recuperado su vida a través de Bhrigu; pero cuando Sukracharya reciba el mantra después de su severa tapasya, ¡no sabemos qué terrible daño nos hará!
 
-19\. Vyâsa dijo: —¡Oh, rey! Aunque el sueño profundo que se apoderó de Indra ya lo había abandonado, se sentía muy infeliz, recordando el riguroso ascetismo de la tapasyâ de S'ukra y su recepción de mantras. <span id="p292">[<sup><small>p. 292</small></sup>]</span> 20\. Reflexionando profundamente, Indra llamó a su hija Jayantî y le habló con cariño.
+19\. Vyâsa dijo: —¡Oh, rey! Aunque el sueño profundo que se apoderó de Indra ya lo había abandonado, se sentía muy infeliz, recordando el riguroso ascetismo de la tapasyâ de S'ukra y su recepción de mantras. <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> 20\. Reflexionando profundamente, Indra llamó a su hija Jayantî y le habló con cariño.
 
 21-22. ¡Ve! ¡Hija! Te he confiado al asceta Kâvya. Hazme este servicio: ve con Kâvya, ayúdalo en su ascetismo y ponlo bajo tu control. Haz lo que le plazca al Muni de inmediato, complácelo en todo sentido y así disiparás mi temor.
 
@@ -201,7 +201,7 @@ NOTA: Aquí Indra sobornó entregando a su hija.
 
 34\. Así sirvió Jayantî al Muni durante muchos años, estando libre de ira y observando debidamente su celibato.
 
-35\. De esta manera, transcurridos mil años, el dios Mahâdeva, muy complacido, le comunicó a Sukrâchârya que había venido a concederle los beneficios que deseaba. <span id="p293">[<sup><small>p. 293</small></sup>]</span> 36-37. El dios Mahâdeva dijo: —Todo lo que existe en este universo, todo lo que ves con tus ojos y todo lo que no se puede describir con palabras, tú serás el señor de todo y el conquistador de todo. No hay duda de ello. Ninguna criatura te podrá matar; serás el gobernante de todos los seres y serás considerado el mejor de los brahmanes.
+35\. De esta manera, transcurridos mil años, el dios Mahâdeva, muy complacido, le comunicó a Sukrâchârya que había venido a concederle los beneficios que deseaba. <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> 36-37. El dios Mahâdeva dijo: —Todo lo que existe en este universo, todo lo que ves con tus ojos y todo lo que no se puede describir con palabras, tú serás el señor de todo y el conquistador de todo. No hay duda de ello. Ninguna criatura te podrá matar; serás el gobernante de todos los seres y serás considerado el mejor de los brahmanes.
 
 38-39. Vyâsa dijo: —El dios Mahâdeva desapareció en ese instante, tras concederle las bendiciones. Entonces Sukrâchârya vio a Jayantî y le dijo: —¡Oh, dama de hermosas caderas! ¿Quién y de quién eres hija? ¿Qué deseas? ¿Para qué has venido? ¡Oh, mujer de hermosos muslos! ¿Cuál es tu deber?
 
@@ -221,7 +221,7 @@ NOTA: Aquí Indra sobornó entregando a su hija.
 
 50\. Al no poder ver a S'ukra bajo la sombra de Mâyâ, los Daityas estaban muy tristes y sintieron miedo y luego regresaron a sus propias residencias.
 
-51\. Por otro lado, los Devas, al saber que Sukra mantenía relaciones con Jayantî, Indra, el Dios de los Devas, le hablaron al Deva Gurú <span id="p294">[<sup><small>p. 294</small></sup>]</span> Brihaspatî. ¡Oh Gurú! Aconséjanos qué hacer en estas circunstancias y líbranos de las dificultades inminentes.
+51\. Por otro lado, los Devas, al saber que Sukra mantenía relaciones con Jayantî, Indra, el Dios de los Devas, le hablaron al Deva Gurú <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> Brihaspatî. ¡Oh Gurú! Aconséjanos qué hacer en estas circunstancias y líbranos de las dificultades inminentes.
 
 52\. ¡Oh, brahmana! Mejor ve hoy a los Dânavas y haz lo que pueda salvar nuestro honor. Mejor conjura a los Dânavas con tu magia y piensa en nosotros y haznos el bien.
 
@@ -244,7 +244,7 @@ Aquí termina el duodécimo capítulo del Cuarto Libro del S'rî Mad Devî Bhâg
 
 ## Capítulo XIII
 
-**Sobre el engaño a los Daityas** <span id="p294">[<sup><small>p. 294</small></sup>]</span> 1\. El rey dijo: —¿Qué hizo el inteligente Brihaspatî después de haber asumido falsamente la apariencia de S'ukrâchârya y haber vivido allí como guía espiritual de los Demonios?
+**Sobre el engaño a los Daityas** <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> 1\. El rey dijo: —¿Qué hizo el inteligente Brihaspatî después de haber asumido falsamente la apariencia de S'ukrâchârya y haber vivido allí como guía espiritual de los Demonios?
 
 2\. ¡Oh, Muni! Brihaspatî es el Gurú de los Devas; también dedica su tiempo al estudio de los Vedas; y es el océano de todo conocimiento; es hijo del Maharsi Angirâ y él mismo es un Muni. Con todas estas buenas cualidades, ¿cómo podría engañar a los Demonios?
 
@@ -270,7 +270,7 @@ Aquí termina el duodécimo capítulo del Cuarto Libro del S'rî Mad Devî Bhâg
 
 15\. Vyâsa dijo: —¡Oh, rey! Ya sea Indra, Brihaspati, Brahma, Visnu o Mahesha, quienquiera que esté encarnado o adopte cuerpos, tendrá que estar en contacto con el ya mencionado Ahamkâra, la codicia y otros vicios debidos al nombre y la forma.
 
-16\. ¡Oh, rey! Brahmâ, Visnu y Mahes'a están todos apegados a los objetos sensuales; ¡y cuántas acciones impropias y pecaminosas pueden existir que no puedan ser cometidas por personas dedicadas a los objetos sensuales! <span id="p296">[<sup><small>p. 296</small></sup>]</span> 17\. Es mediante la astucia y el fraude que quien se dedica a los objetos sensuales puede fácilmente liberarse de Maya con la misma astucia; pero cuando surge la dificultad, entonces se descubre su engaño y las respectivas cualidades ocultas en él producen sus respectivos resultados. Sabe, entonces, que las tres cualidades son conjuntamente la causa de todas estas acciones; ya que sin ninguna causa, ninguna acción se hace visible.
+16\. ¡Oh, rey! Brahmâ, Visnu y Mahes'a están todos apegados a los objetos sensuales; ¡y cuántas acciones impropias y pecaminosas pueden existir que no puedan ser cometidas por personas dedicadas a los objetos sensuales! <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> 17\. Es mediante la astucia y el fraude que quien se dedica a los objetos sensuales puede fácilmente liberarse de Maya con la misma astucia; pero cuando surge la dificultad, entonces se descubre su engaño y las respectivas cualidades ocultas en él producen sus respectivos resultados. Sabe, entonces, que las tres cualidades son conjuntamente la causa de todas estas acciones; ya que sin ninguna causa, ninguna acción se hace visible.
 
 18\. Estas discrepancias en el caso de Brahmâ y los demás son causadas por las tres cualidades; todos sus cuerpos son creados a partir de Pradhân Mahat y los otros 25 Tattvas (esencias).
 
@@ -282,7 +282,7 @@ Aquí termina el duodécimo capítulo del Cuarto Libro del S'rî Mad Devî Bhâg
 
 30-31. De nuevo, a su debido tiempo, Brahmâ, Visnu, Mahes'a y los demás Devas emergen, adoptan cuerpos y se apoderan de todas las pasiones, la lujuria, etc., según lo ordenado. ¡Oh, Rey! No te asombres; esta Trilokî siempre continúa acompañada de lujuria, ira, etc.
 
-32-34. Las personas libres de lujuria, ira y otras pasiones son muy raras en este mundo. Quien teme a este mundo no se casa, y así, libre de apegos a cualquier objeto mundano, se vuelve libre y <span id="p297">[<sup><small>p. 297</small></sup>]</span> vaga sin miedo. La Luna le robó la esposa a Brihaspatī, y el propio Brihaspatī le robó la esposa a su hermano menor. Así, en esta rueda del Samsāra, todas las criaturas están siempre apasionadas por el apego, la avaricia, etc.
+32-34. Las personas libres de lujuria, ira y otras pasiones son muy raras en este mundo. Quien teme a este mundo no se casa, y así, libre de apegos a cualquier objeto mundano, se vuelve libre y <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> vaga sin miedo. La Luna le robó la esposa a Brihaspatī, y el propio Brihaspatī le robó la esposa a su hermano menor. Así, en esta rueda del Samsāra, todas las criaturas están siempre apasionadas por el apego, la avaricia, etc.
 
 35\. El cabeza de familia nunca puede esperar obtener la libertad. Por lo tanto, quienes deseen ser libres deben abandonar cuidadosamente la idea de la estabilidad del mundo y adorar a la Madre Eterna, en plenitud, Sat, Chit y Ânandam.
 
@@ -304,7 +304,7 @@ Aquí termina el duodécimo capítulo del Cuarto Libro del S'rî Mad Devî Bhâg
 
 46\. Los Daityas, hechizados y engañados por la magia de Brihaspati, se refugiaron en él para adquirir conocimiento, pues lo confundieron con Sukrâchârya. ¿Quién no se siente hechizado por la idea de obtener algo?
 
-47\. Por otro lado, al término de diez años, Sukrâchârya, el verdadero Gurú de los Daityas, dejó de disfrutar de Jayantî y comenzó a recordar a sus discípulos, los Daityas. <span id="p298">[<sup><small>p. 298</small></sup>]</span> 48\. Entonces empezó a pensar: «Mis discípulos, los Daityas, esperan mi regreso a cada instante; y ahora quisiera ir a verlos, aturdido por el miedo».
+47\. Por otro lado, al término de diez años, Sukrâchârya, el verdadero Gurú de los Daityas, dejó de disfrutar de Jayantî y comenzó a recordar a sus discípulos, los Daityas. <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> 48\. Entonces empezó a pensar: «Mis discípulos, los Daityas, esperan mi regreso a cada instante; y ahora quisiera ir a verlos, aturdido por el miedo».
 
 49-51. Son mis devotos y debo obrar de tal manera que no teman a los Devas». Y entonces exclamó a Jayantî: «¡Oh, hermosa! Deja que mis hijos se refugien en los Dioses; tu período de diez años ha terminado hoy; ahora voy a ver a mis discípulos; pronto volveré a ti».
 
@@ -335,7 +335,7 @@ Aquí termina el Decimotercer Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 ## Capítulo XIV
 
-**Sobre el regreso de los Daityas a su S'ukrâchârya** <span id="p299">[<sup><small>p. 299</small></sup>]</span> 1\. Vyâsa dijo:— Discutiendo así en su mente, S'ukrâchârya sonrió y dijo a los Daityas:— ¡Oh Daityas! ¿Por qué han sido engañados por Brihaspatî, el Gurú de los Devas, bajo mi apariencia?
+**Sobre el regreso de los Daityas a su S'ukrâchârya** <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> 1\. Vyâsa dijo:— Discutiendo así en su mente, S'ukrâchârya sonrió y dijo a los Daityas:— ¡Oh Daityas! ¿Por qué han sido engañados por Brihaspatî, el Gurú de los Devas, bajo mi apariencia?
 
 2\. Yo soy Sukrâchârya; ustedes son mis discípulos; este hombre es Brihaspati, que desea servir a los dioses. Los ha engañado, de eso no hay duda.
 
@@ -355,7 +355,7 @@ Aquí termina el Decimotercer Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 10\. Los Daityas, convencidos así, le dijeron al verdadero Sukrâchârya: «Este hombre que tenemos ante nosotros es nuestro Gurú para nuestro bienestar e iluminación; es el Sukrâchârya religioso más destacado; lleva diez años dándonos consejos sin parar. Tú no eres nuestro Gurú; pareces ficticio y falso; mejor deja este lugar y vete».
 
-11\. Los Daityas, ingenuos, repitieron repetidamente a S'ukrâchârya las palabras de reproche y se inclinaron ante el falso S'ukrâchârya. Saludándolo, lo recibieron con alegría como su Gurú. <span id="p300">[<sup><small>p. 300</small></sup>]</span> 12-14. El verdadero S'ukrâchârya, al ver a los Daityas tan apegados a Brihaspati, el Gurú de los Devas, y engañados por sus palabras, los maldijo con ira y dijo: —Como no han aceptado mis palabras, aunque les he explicado todo, perderán su conocimiento y serán derrotados.
+11\. Los Daityas, ingenuos, repitieron repetidamente a S'ukrâchârya las palabras de reproche y se inclinaron ante el falso S'ukrâchârya. Saludándolo, lo recibieron con alegría como su Gurú. <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> 12-14. El verdadero S'ukrâchârya, al ver a los Daityas tan apegados a Brihaspati, el Gurú de los Devas, y engañados por sus palabras, los maldijo con ira y dijo: —Como no han aceptado mis palabras, aunque les he explicado todo, perderán su conocimiento y serán derrotados.
 
 15. Como me has faltado al respeto, pronto recibirás los frutos y comprenderás las acciones engañosas de ese Deva Gurú.
 
@@ -377,7 +377,7 @@ Aquí termina el Decimotercer Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 27\. Todos se postraron a los pies de su Gurú; Sukrâ permaneció en silencio; luego, lleno de ira y con los ojos enrojecidos, les habló.
 
-28\. Les advertí a todos que estaban siendo engañados por la Maya de Brihaspatî; no creyeron en mi palabra, aunque altruista, pura y conducente a su bienestar. <span id="p301">[<sup><small>p. 301</small></sup>]</span> 29\. Más bien, se dejaron influenciar por él y, cegados por la vanidad, me insultaron; ahora, sin duda, tendrán que asumir las consecuencias de ese karma.
+28\. Les advertí a todos que estaban siendo engañados por la Maya de Brihaspatî; no creyeron en mi palabra, aunque altruista, pura y conducente a su bienestar. <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 29\. Más bien, se dejaron influenciar por él y, cegados por la vanidad, me insultaron; ahora, sin duda, tendrán que asumir las consecuencias de ese karma.
 
 30\. Ahora estás desviado del camino de tu bienestar; ve ahora adonde reside ese tramposo disfrazado, por el bienestar de los dioses; sabe que yo no soy un tramposo como él.
 
@@ -403,7 +403,7 @@ Aquí termina el Decimotercer Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 41. ¡Oh, conocedor de la religión! Lo que Brahmâ me dijo en el pasado, ahora te lo digo en consecuencia. Escucha mis palabras veraces, que conducen a tu bienestar.
 
-42\. Todo lo que es inevitable, todo lo que está destinado a suceder, debe suceder, sea auspicioso o desfavorable. Nadie en este mundo puede ir contra la corriente del Destino. <span id="p302">[<sup><small>p. 302</small></sup>]</span> 43\. Bajo la influencia del Tiempo, ahora estás privado de fuerza; por lo tanto, tendrás que sufrir la derrota a manos de los Devas y tendrás que ir una vez al Pâtâla.
+42\. Todo lo que es inevitable, todo lo que está destinado a suceder, debe suceder, sea auspicioso o desfavorable. Nadie en este mundo puede ir contra la corriente del Destino. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> 43\. Bajo la influencia del Tiempo, ahora estás privado de fuerza; por lo tanto, tendrás que sufrir la derrota a manos de los Devas y tendrás que ir una vez al Pâtâla.
 
 44-45. Brahmâ dijo: —Cuando llegó tu momento de disfrutar de la soberanía de Trilokî, disfrutaste de sus reinos con toda su riqueza y poder. Atacaste a los Devas y, con la ayuda del Tiempo, lograste pisotearlos y mantuviste tu soberanía durante diez yugas completas, disfrutando de los placeres sin ningún problema.
 
@@ -421,7 +421,7 @@ Aquí termina el Decimotercer Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 55\. ¡Oh, Indra! ¡Qué tristeza o qué felicidad puede haber para quien está bajo el control del Destino! Para él, todo es igual; pues el Tiempo actúa según sus deseos.
 
-56\. Bhârgava le dijo a Prahlâda: «Bali e Indra alcanzaron la iluminación tras sus conversaciones; y se retiraron a sus hogares por voluntad propia». <span id="p303">[<sup><small>p. 303</small></sup>]</span> 57\. ¡Oh, Señor de los Asuras! Te he narrado esta historia que muestra cuán poderoso es el Tiempo. Sabe que los Devas, los Daityas, todos los seres humanos y todo este universo están bajo ese Gran Destino.
+56\. Bhârgava le dijo a Prahlâda: «Bali e Indra alcanzaron la iluminación tras sus conversaciones; y se retiraron a sus hogares por voluntad propia». <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 57\. ¡Oh, Señor de los Asuras! Te he narrado esta historia que muestra cuán poderoso es el Tiempo. Sabe que los Devas, los Daityas, todos los seres humanos y todo este universo están bajo ese Gran Destino.
 
 Aquí termina el Decimocuarto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâgavatam, el Mahâ Purânam de 18.000 versos sobre los Daityas recuperando su S'ukrâchârya, por Maharsi Veda Vyâsa.
 
@@ -430,7 +430,7 @@ Aquí termina el Decimocuarto Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 ## Capítulo XV
 
-**Sobre la tregua entre los Daityas y los Devas** <span id="p303">[<sup><small>p. 303</small></sup>]</span> 1\. Vyâsa dijo: —¡Oh, rey Janamejaya! Prahlâda se alegró al escuchar las palabras del noble Bhârgava.
+**Sobre la tregua entre los Daityas y los Devas** <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 1\. Vyâsa dijo: —¡Oh, rey Janamejaya! Prahlâda se alegró al escuchar las palabras del noble Bhârgava.
 
 2\. Sabiendo que el Destino es el más fuerte, se dirigió a los Daityas: —Nunca, en esta batalla la victoria será nuestra.
 
@@ -446,7 +446,7 @@ Aquí termina el Decimocuarto Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 10\. Entonces Indra, aconsejado por su Gurú Brihaspati, comenzó a recordar a la Diosa del Universo, la Altísima, la Dadora de bienestar, la Destructora de todas las penas y calamidades, y la Otorgadora de libertad, a adorarla y a cantarle himnos con gran devoción.
 
-11-12. Indra dijo: —¡Que la victoria sea para el nombre de la Diosa Mahâmâyâ, la Madre Eterna, la Sostenedora del tridente! Sostenedora de la caracola, el disco, la maza y el loto, la Dadora del “no temor”. Saludos a Ti, la Diosa del Universo; Tú eres la Heroína Suprema en todo lo relacionado con la fuerza, que se describe en los S'akti Dars'ana S'âstras. Tú eres los Diez Tattvas, Tú eres la Madre, Tú eres la Mahâvidyâ (el Conocimiento Supremo). <span id="p304">[<sup><small>p. 304</small></sup>]</span> 13\. Hay muchos Tattvas; aquí los diez tattvas son según el S'akti Dars'ana. Hay muchos Dharma S'âstras. Aquí se hace referencia al S'akti S'âstra.
+11-12. Indra dijo: —¡Que la victoria sea para el nombre de la Diosa Mahâmâyâ, la Madre Eterna, la Sostenedora del tridente! Sostenedora de la caracola, el disco, la maza y el loto, la Dadora del “no temor”. Saludos a Ti, la Diosa del Universo; Tú eres la Heroína Suprema en todo lo relacionado con la fuerza, que se describe en los S'akti Dars'ana S'âstras. Tú eres los Diez Tattvas, Tú eres la Madre, Tú eres la Mahâvidyâ (el Conocimiento Supremo). <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 13\. Hay muchos Tattvas; aquí los diez tattvas son según el S'akti Dars'ana. Hay muchos Dharma S'âstras. Aquí se hace referencia al S'akti S'âstra.
 
 Los tattvas son las sustancias últimas en las que se disuelven estas manifestaciones burdas. Los tattvas son Mahavindu, Nâda Sakti, Misra Vindu, etc.
 
@@ -464,7 +464,7 @@ Los tattvas son las sustancias últimas en las que se disuelven estas manifestac
 
 19\. Benditos sean quienes te son devotos; ellos son las grandes almas; siempre se sumergen en el Océano de la Dicha, libres de las garras del Samsara. Quienes no son Tus devotos no pueden cruzar este Océano del Samsara, donde el Nacimiento y la Muerte son las olas.
 
-20\. ¡Oh, Diosa! Aquellos que siempre son abanicados por las blancas chamaras y quienes viajan siempre en carros, en sus vidas anteriores te adoraron con diversas cosas; por lo tanto, han adquirido los efectos de sus acciones meritorias; esta es mi opinión. <span id="p305">[<sup><small>p. 305</small></sup>]</span> 21\. Aquellos que siempre son adorados entre los seres humanos, aquellos que viajan en hermosos elefantes, aquellos que están rodeados de placeres y disfrutan de la encantadora compañía de hermosas mujeres coquetas, aquellos que van rodeados de soldados, ¡oh, Diosa! Considero que te adoraron en sus vidas anteriores y ahora disfrutan de los frutos de sus acciones pasadas.
+20\. ¡Oh, Diosa! Aquellos que siempre son abanicados por las blancas chamaras y quienes viajan siempre en carros, en sus vidas anteriores te adoraron con diversas cosas; por lo tanto, han adquirido los efectos de sus acciones meritorias; esta es mi opinión. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> 21\. Aquellos que siempre son adorados entre los seres humanos, aquellos que viajan en hermosos elefantes, aquellos que están rodeados de placeres y disfrutan de la encantadora compañía de hermosas mujeres coquetas, aquellos que van rodeados de soldados, ¡oh, Diosa! Considero que te adoraron en sus vidas anteriores y ahora disfrutan de los frutos de sus acciones pasadas.
 
 22-23. Vyâsa dijo: —Alabado así por Indra, la Diosa del Universo de cuatro brazos apareció apresuradamente allí montada en un león. La Diosa de hermosos ojos sostenía en sus cuatro manos la caracola, el disco, la maza y los lotos, respectivamente, vestida con un atuendo rojo y adornada con guirnaldas divinas.
 
@@ -484,7 +484,7 @@ Los tattvas son las sustancias últimas en las que se disuelven estas manifestac
 
 33\. Vyâsa dijo:—Diciendo esto, el conocedor del conocimiento más elevado, Prahlâda, el devoto de Visnu, comenzó a cantar himnos con las manos juntas en alabanza a la Diosa, la Sustentadora del Universo.
 
-34\. Me inclino ante Ti, la encarnación del mantra “Hrîm”, el Refugio de todo, y en Quien todo este Universo, móvil e inmóvil, se manifiesta falsamente, como una serpiente que se confunde con una guirnalda de flores. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 35\. ¡Oh, Diosa! Todos estos Universos, móviles e inmóviles, han surgido de Ti; Brahmâ, Visnu y otros son Creadores, Preservadores solo de nombre; Tú los has creado a todos.
+34\. Me inclino ante Ti, la encarnación del mantra “Hrîm”, el Refugio de todo, y en Quien todo este Universo, móvil e inmóvil, se manifiesta falsamente, como una serpiente que se confunde con una guirnalda de flores. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 35\. ¡Oh, Diosa! Todos estos Universos, móviles e inmóviles, han surgido de Ti; Brahmâ, Visnu y otros son Creadores, Preservadores solo de nombre; Tú los has creado a todos.
 
 36\. ¡Oh Mahâmâyâ! ¡Eres la Divina Madre de todo! Si has creado a los Asuras y a los Suras, ¿cómo puedes ver la diferencia entre los Devas y los Daityas?
 
@@ -508,7 +508,7 @@ Los tattvas son las sustancias últimas en las que se disuelven estas manifestac
 
 46\. ¡Inmaculado! ¡Oh, Chamún! ¿No te gustaba tanto ver nuestra lucha? ¿Cómo, siendo hermanos, estamos en guerra unos contra otros? Ciertamente, es tu Divino Juego.
 
-47\. ¡Oh, Diosa! Sé qué es la religión, sé quién es Indra. La idea misma de disfrutar de estos placeres sensuales es la única causa de nuestras incesantes disputas. <span id="p307">[<sup><small>p. 307</small></sup>]</span> 48\. ¡Oh, Madre! Tú eres la Única Gobernante de este Samsara; ningún hombre sensato puede llevar a cabo las palabras de alguien que anhela algo. (Es decir, Oh, Madre, Tú eres la única sin deseos; por eso podemos obedecer tus palabras).
+47\. ¡Oh, Diosa! Sé qué es la religión, sé quién es Indra. La idea misma de disfrutar de estos placeres sensuales es la única causa de nuestras incesantes disputas. <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> 48\. ¡Oh, Madre! Tú eres la Única Gobernante de este Samsara; ningún hombre sensato puede llevar a cabo las palabras de alguien que anhela algo. (Es decir, Oh, Madre, Tú eres la única sin deseos; por eso podemos obedecer tus palabras).
 
 49\. ¡Oh, Madre! Una vez, los Devas y los Asuras batieron conjuntamente el océano. En ese momento, Visnu, con el pretexto de distribuir la joya y el néctar ambrosial, provocó disputas entre ellos.
 
@@ -524,7 +524,7 @@ Los tattvas son las sustancias últimas en las que se disuelven estas manifestac
 
 56-57. Si existe un solo Señor de este vasto e infinito Samsara, ¿por qué habría diferencias y disputas entre nosotros? ¿Por qué no hay consenso, por qué los Sastras difieren y por qué hay tantas diferencias en las opiniones de los conocedores de los Vedas?
 
-58\. ¡Oh, Diosa! Todo este Universo, móvil e inmóvil, es egoísta; de ahí surgen tantas diferencias entre diversas opiniones. No hubo nadie altruista en este mundo y no nacerán personas altruistas en el futuro. <span id="p308">[<sup><small>p. 308</small></sup>]</span> 59-64. ¡Mira! La Luna, a sabiendas, robó a la fuerza a la esposa de Brihaspati; Indra, conociendo la religión, robó a la esposa de Gautama; Brihaspati disfrutó a la fuerza de la esposa de su hermano menor; y también ultrajó a la esposa de su hermano mayor estando embarazada y maldijo al niño en el vientre.
+58\. ¡Oh, Diosa! Todo este Universo, móvil e inmóvil, es egoísta; de ahí surgen tantas diferencias entre diversas opiniones. No hubo nadie altruista en este mundo y no nacerán personas altruistas en el futuro. <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> 59-64. ¡Mira! La Luna, a sabiendas, robó a la fuerza a la esposa de Brihaspati; Indra, conociendo la religión, robó a la esposa de Gautama; Brihaspati disfrutó a la fuerza de la esposa de su hermano menor; y también ultrajó a la esposa de su hermano mayor estando embarazada y maldijo al niño en el vientre.
 
 Lo cegó. ¿Qué más se puede decir que Visnu, lleno de cualidades sáttvicas, cortó por la fuerza la cabeza de Rahu? ¡Oh, Madre! Considera el caso de mi nieto Bali, quien solía rendir homenaje a todos, quien era el más virtuoso, observador de la verdad rigurosa, practicante de sacrificios, generoso, pacífico y omnisciente. El impostor Hari, tomando la forma de un enano en su encarnación de Vâmana, engañó a Bali y le arrebató todos sus reinos. ¡Ay! Aun así, las personas inteligentes y buenas consideran al Deva Visnu como el preservador de la religión. ¡Qué maravilla! Los aduladores triunfan en este mundo; y la derrota llega a quienes hablan del Dharma.
 
@@ -551,7 +551,7 @@ Aquí termina el Decimoquinto Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 ## Capítulo XVI
 
-**Sobre el nacimiento de los diversos avatares de Visnu y sus actos** <span id="p309">[<sup><small>p. 309</small></sup>]</span> 1-2. Janamejaya habló:— ¡Oh, el mejor de los Munis! ¿Cómo encarnó Visnu, el de los actos maravillosos, debido a la maldición que le lanzó Bhrigu? ¿Cuáles fueron sus diferentes encarnaciones en los diferentes Manvantaras, respectivamente? ¡Oh, tú, versado en religión! ¡Oh, brahmana! Narra amablemente los actos destructores del pecado de Hari en sus diversas encarnaciones, que son fuente de felicidad, paz y bienestar para toda la humanidad.
+**Sobre el nacimiento de los diversos avatares de Visnu y sus actos** <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> 1-2. Janamejaya habló:— ¡Oh, el mejor de los Munis! ¿Cómo encarnó Visnu, el de los actos maravillosos, debido a la maldición que le lanzó Bhrigu? ¿Cuáles fueron sus diferentes encarnaciones en los diferentes Manvantaras, respectivamente? ¡Oh, tú, versado en religión! ¡Oh, brahmana! Narra amablemente los actos destructores del pecado de Hari en sus diversas encarnaciones, que son fuente de felicidad, paz y bienestar para toda la humanidad.
 
 3\. Vyâsa dijo: —¡Oh, rey! Escucha, te estoy narrando las encarnaciones de Sri Bhagavan Hari que tuvo en los diversos Manvantaras y Yugas, respectivamente.
 
@@ -573,7 +573,7 @@ Aquí termina el Decimoquinto Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 12\. En el Tretâ Yuga, el superior y el mejor de todos los Yugas, Bhagavân se encarnó como Vâmana (el Enano), el hijo de Maharsi Kas'yapa, para frenar el poder de Bali.
 
-13\. El Enano Hari, con pretexto, le arrebató el reino de Bali mientras este realizaba un sacrificio y lo envió a las Pâtâla (las regiones inferiores). <span id="p310">[<sup><small>p. 310</small></sup>]</span> 14\. Posteriormente, en el decimonoveno Yuga, conocido como el Tretâ Yuga, S'rî Bhagavân Hari encarnó como Paras'urâma, muy poderoso e hijo de Jamadagnî Risi.
+13\. El Enano Hari, con pretexto, le arrebató el reino de Bali mientras este realizaba un sacrificio y lo envió a las Pâtâla (las regiones inferiores). <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> 14\. Posteriormente, en el decimonoveno Yuga, conocido como el Tretâ Yuga, S'rî Bhagavân Hari encarnó como Paras'urâma, muy poderoso e hijo de Jamadagnî Risi.
 
 15\. Era muy bello y elegante en su cuerpo, veraz y dominador de sus sentidos. Exterminó a la raza Ksattriya y entregó el mundo entero al noble Risi Kas'yapa.
 
@@ -600,7 +600,7 @@ Aquí termina el Decimosexto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâ
 
 ## Capítulo XVII
 
-**Sobre las preguntas de Janamejaya** <span id="p311">[<sup><small>p. 311</small></sup>]</span> 1\. Janamejaya dijo:— ¡Oh, Muni! Dijiste antes que las prostitutas celestiales enviadas por Indra a la ermita de Nara Nârâyana se volvieron lujuriosas y desearon vivir solo con Nârâyana, cuyo corazón estaba tranquilo y sereno.
+**Sobre las preguntas de Janamejaya** <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> 1\. Janamejaya dijo:— ¡Oh, Muni! Dijiste antes que las prostitutas celestiales enviadas por Indra a la ermita de Nara Nârâyana se volvieron lujuriosas y desearon vivir solo con Nârâyana, cuyo corazón estaba tranquilo y sereno.
 
 2\. En ese momento, cuando Nârâyana estaba a punto de maldecirlos, su hermano Nara le impidió dar ese paso.
 
@@ -624,7 +624,7 @@ Aquí termina el Decimosexto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâ
 
 14\. Todos ustedes son muy afortunados; por eso, ahora muéstrenme esta misericordia: «No rompan mi voto». Ruego ahora que, en una vida posterior, pueda convertirme en su esposo.
 
-15-16. ¡Oh, hermosas mujeres de grandes ojos! En el vigésimo octavo Dvâpara Yuga, ciertamente encarnaré en la Tierra para cumplir el propósito de los Devas; entonces, todas ustedes también encarnarán respectivamente como hijas de reyes y se convertirán en mis esposas. <span id="p312">[<sup><small>p. 312</small></sup>]</span> 17\. Nârâyana consintió en casarlas en otra vida posterior; y, consolándolas, las hizo regresar a sus Cielos. Ellas también abandonaron su inquietud mental y, al regresar a los Cielos, le explicaron todo a Indra.
+15-16. ¡Oh, hermosas mujeres de grandes ojos! En el vigésimo octavo Dvâpara Yuga, ciertamente encarnaré en la Tierra para cumplir el propósito de los Devas; entonces, todas ustedes también encarnarán respectivamente como hijas de reyes y se convertirán en mis esposas. <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> 17\. Nârâyana consintió en casarlas en otra vida posterior; y, consolándolas, las hizo regresar a sus Cielos. Ellas también abandonaron su inquietud mental y, al regresar a los Cielos, le explicaron todo a Indra.
 
 18-19. Indra escuchó (de estas mujeres celestiales) lo que hicieron los dos Risis y vio ante él a Urvasā y a otras mujeres creadas por Nârâyana de sus muslos, etc., y comenzó a ensalzar los méritos del alma elevada de Nârâyana.
 
@@ -644,7 +644,7 @@ Aquí termina el Decimosexto Capítulo del Cuarto Libro del S'rî Mad Devî Bhâ
 
 28\. ¿Por qué, además, su padre, su madre y sus parientes abandonaron sus antiguos lugares sagrados de residencia y se fueron a vivir al extranjero, a un país viejo y miserable?
 
-29-31. ¿Por qué la raza Yadu fue destruida por la maldición de un Brâhmana? ¿Cómo abandonó finalmente Sri Krisna Vasudeva su cuerpo tras aliviar la carga de la tierra y estar a punto de entrar en el Cielo? Los malhechores de la tierra fueron asesinados por Krisna y Arjuna, de destreza inigualable; pero ¿cómo fue que quienes saquearon a las esposas de Sri Hari no fueron castigados en absoluto por Él? <span id="p313">[<sup><small>p. 313</small></sup>]</span> 32-33. Los grandes personajes Bhisma, Drona, Karna, el rey Valhika, Virâta, Vikarna, Dhristadyumna y el rey Somadatta fueron destruidos por aliviar la carga de la tierra; ¡y los saqueadores fueron absueltos! Por favor explique la causa de esto.
+29-31. ¿Por qué la raza Yadu fue destruida por la maldición de un Brâhmana? ¿Cómo abandonó finalmente Sri Krisna Vasudeva su cuerpo tras aliviar la carga de la tierra y estar a punto de entrar en el Cielo? Los malhechores de la tierra fueron asesinados por Krisna y Arjuna, de destreza inigualable; pero ¿cómo fue que quienes saquearon a las esposas de Sri Hari no fueron castigados en absoluto por Él? <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> 32-33. Los grandes personajes Bhisma, Drona, Karna, el rey Valhika, Virâta, Vikarna, Dhristadyumna y el rey Somadatta fueron destruidos por aliviar la carga de la tierra; ¡y los saqueadores fueron absueltos! Por favor explique la causa de esto.
 
 34. ¿Cómo fue que esas castas y virtuosas esposas de Sri Krisna se encontraron con dificultades al final de sus vidas? Me ha surgido una duda sobre este punto.
 
@@ -670,7 +670,7 @@ NB — Ugrasena fue rey de Mathurâ y padre de Kamsa. Fue depuesto por su hijo; 
 
 46\. Por eso describes detalladamente todos los juegos divinos realizados por Hari de poderes sobrehumanos en este mundo.
 
-47\. ¡Oh, el Mejor de los Munis! Cuando la longevidad expira, uno muere; entonces no puedo comprender qué gloria manifestó Hari al matar a los Daityas. Pues el Destino los mató, no Hari. <span id="p314">[<sup><small>p. 314</small></sup>]</span> 48\. ¿No fue Hari el actuar de un ladrón cuando robó a la Dama Rukminî y huyó rápidamente a su hogar?
+47\. ¡Oh, el Mejor de los Munis! Cuando la longevidad expira, uno muere; entonces no puedo comprender qué gloria manifestó Hari al matar a los Daityas. Pues el Destino los mató, no Hari. <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> 48\. ¿No fue Hari el actuar de un ladrón cuando robó a la Dama Rukminî y huyó rápidamente a su hogar?
 
 49\. ¿Qué significó huir a la ciudad de Dvârkâ y abandonar su próspera ciudad de Mathurâ, simplemente por temor a Jarâsandha?
 
@@ -691,7 +691,7 @@ Aquí termina el Capítulo 17 del 4º Libro del S'rî mad Devî Bhagavatam de 18
 
 ## Capítulo XVIII
 
-**Sobre la ascensión de la Devi a la Tierra y a los Cielos** <span id="p314">[<sup><small>p. 314</small></sup>]</span> 1\. Vyâsa dijo: —¡Oh, rey! Escucha con detalle la vida y las acciones de la encarnación de Sri Krisna, así como los diversos y maravillosos logros de la Diosa de este universo.
+**Sobre la ascensión de la Devi a la Tierra y a los Cielos** <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> 1\. Vyâsa dijo: —¡Oh, rey! Escucha con detalle la vida y las acciones de la encarnación de Sri Krisna, así como los diversos y maravillosos logros de la Diosa de este universo.
 
 2\. Hubo un tiempo en que la Tierra estaba muy sobrecargada por la carga de reyes malvados y, por eso, tenía mucho miedo.
 
@@ -699,7 +699,7 @@ Aquí termina el Capítulo 17 del 4º Libro del S'rî mad Devî Bhagavatam de 18
 
 Indra, el señor de los Devas, le preguntó: «¡Oh, Vasundhare! ¿Cuál es la causa de tu miedo ahora? ¿Quién te ha perturbado? ¿En qué aflicciones estás sumida? Por favor, cuéntame todo esto.»
 
-4\. Al oír las palabras de Indra, la Tierra exclamó: —¡Oh, dador de respeto! Cuando me has preguntado, te explico la causa de todas mis aflicciones y penas; actualmente estoy sobrecargado. <span id="p315">[<sup><small>p. 315</small></sup>]</span> 5-8. Ahora reina en la tierra Jârâsandha, el rey de Magadha, una persona muy cruel. Así, el otro S'is'upâl, el señor de los Chedis, el incontrolable Kâs'irâj, Rukmî, el poderoso Kamsa, el poderoso Naraka, el Sauvapati S'âlva, el malvado Kes'î, Dhenuka y Batsaka, todos ellos ocupan ahora la realeza. ¡Oh, Señor de los Devas! Estos reyes carecen del más mínimo rastro de virtud, se pelean entre sí, están obsesionados con la vanidad y son adictos a actos perversos. Se han convertido en reyes como si fueran la personificación de Yamas, los Señores de la Muerte, y me atormentan constantemente. Ya no puedo soportar sus cargas; ¿adónde iré? Este gran pensamiento me atormenta constantemente.
+4\. Al oír las palabras de Indra, la Tierra exclamó: —¡Oh, dador de respeto! Cuando me has preguntado, te explico la causa de todas mis aflicciones y penas; actualmente estoy sobrecargado. <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 5-8. Ahora reina en la tierra Jârâsandha, el rey de Magadha, una persona muy cruel. Así, el otro S'is'upâl, el señor de los Chedis, el incontrolable Kâs'irâj, Rukmî, el poderoso Kamsa, el poderoso Naraka, el Sauvapati S'âlva, el malvado Kes'î, Dhenuka y Batsaka, todos ellos ocupan ahora la realeza. ¡Oh, Señor de los Devas! Estos reyes carecen del más mínimo rastro de virtud, se pelean entre sí, están obsesionados con la vanidad y son adictos a actos perversos. Se han convertido en reyes como si fueran la personificación de Yamas, los Señores de la Muerte, y me atormentan constantemente. Ya no puedo soportar sus cargas; ¿adónde iré? Este gran pensamiento me atormenta constantemente.
 
 9-11. ¡Oh Vasava! ¡Qué decir! El Bhagavân en su encarnación de Jabalí es la causa de todas mis aflicciones; ¡oh Indra! He caído en estos problemas actuales solo por su culpa; pues cuando el cruel Daitya Hirânyâksa, hijo de Ka'syapa, me robó y me ahogó en el gran océano, fue Visnu en su encarnación de Jabalí quien lo mató, me rescató del océano y me mantuvo en esta posición estable.
 
@@ -715,7 +715,7 @@ Indra, el señor de los Devas, le preguntó: «¡Oh, Vasundhare! ¿Cuál es la c
 
 17-18. ¡Oh, Rey! El Gran Padre Brahma vio la Tierra acercarse a él y, mediante el poder de la meditación, descubrió la causa de su llegada y dijo: —¡Oh, Auspicioso! ¿Por qué lloras? ¿Qué problemas tienes ahora? ¿Qué persona malvada te ha causado problemas?
 
-19\. La Tierra dijo: —¡Oh, Señor de la Tierra! La malvada Kali se acerca; bajo su influencia, los súbditos serán terriblemente crueles; por eso le temo mucho. <span id="p316">[<sup><small>p. 316</small></sup>]</span> 20\. Al comienzo de este Kali Yuga, los antiguos enemigos, los asuras, han encarnado en esta tierra como reyes. Serán extremadamente malvados, se pelearán entre sí y serán astutos para robar las cosas ajenas. No hay duda de ello.
+19\. La Tierra dijo: —¡Oh, Señor de la Tierra! La malvada Kali se acerca; bajo su influencia, los súbditos serán terriblemente crueles; por eso le temo mucho. <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> 20\. Al comienzo de este Kali Yuga, los antiguos enemigos, los asuras, han encarnado en esta tierra como reyes. Serán extremadamente malvados, se pelearán entre sí y serán astutos para robar las cosas ajenas. No hay duda de ello.
 
 21\. ¡Oh, Abuelo! Ahora mata a estos reyes depravados y alivia mi carga. ¡Oh, Señor! Estoy muy preocupado por los ejércitos de estos reyes.
 
@@ -753,7 +753,7 @@ Indra, el señor de los Devas, le preguntó: «¡Oh, Vasundhare! ¿Cuál es la c
 
 47\. Fue una gran injusticia de mi parte matar a Bâlî, el rey de los monos. Lo liberé de su maldición; después, con la ayuda de los monos, tuve que ir a Lankâ.
 
-48\. Cuando mi joven Laksmana y yo estábamos encadenados por las serpientes, Nâgapâs'a, y perdimos el conocimiento, todos los monos se quedaron atónitos. <span id="p318">[<sup><small>p. 318</small></sup>]</span> 49\. Entonces Garuda vino y nos liberó a los dos hermanos de esos Nâgapâs'as. Pensé entonces en las circunstancias adversas y desfavorables que el Destino a veces nos depara.
+48\. Cuando mi joven Laksmana y yo estábamos encadenados por las serpientes, Nâgapâs'a, y perdimos el conocimiento, todos los monos se quedaron atónitos. <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> 49\. Entonces Garuda vino y nos liberó a los dos hermanos de esos Nâgapâs'as. Pensé entonces en las circunstancias adversas y desfavorables que el Destino a veces nos depara.
 
 50\. Perdí mi reino, vivía en el bosque, mi padre murió, me robaron Janakî y tuve que sufrir grandes sufrimientos en batallas mortales. No podía imaginar qué peor destino nos aguardaba.
 
@@ -782,7 +782,7 @@ Aquí termina el Decimoctavo Capítulo del Cuarto Libro del Mahâ Purânam S'rî
 
 ## Capítulo XIX
 
-**Al cantar los himnos a la Devi** <span id="p319">[<sup><small>p. 319</small></sup>]</span> 1\. Vyâsa dijo: — Bhagavân Visnu le habló de nuevo a Prajâpati: — ¡Brâhman! Todos estos seres, fascinados por Maya, no pueden conocer la Esencia Real, la Verdad Suprema.
+**Al cantar los himnos a la Devi** <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> 1\. Vyâsa dijo: — Bhagavân Visnu le habló de nuevo a Prajâpati: — ¡Brâhman! Todos estos seres, fascinados por Maya, no pueden conocer la Esencia Real, la Verdad Suprema.
 
 2\. Nosotros también estamos fascinados por esa Mâyâ; y por eso, cegados por ella, no recordamos en absoluto a Ese Purusa Supremo y Eterno, tranquilo y sereno, el Instructor del Mundo, el Ser Supremo, de la naturaleza de la Existencia Pura, la Inteligencia y la Felicidad.
 
@@ -800,7 +800,7 @@ Aquí termina el Decimoctavo Capítulo del Cuarto Libro del Mahâ Purânam S'rî
 
 10\. Como la telaraña surge de una araña y las chispas del fuego, así todo el Universo surge de esa Diosa. Todos nos inclinamos ante Ella con humildad, llenos de devoción.
 
-11\. Todos saludamos a esa Diosa del Universo, Bhuvanes'varî, bajo Cuya fuerza Mágica se creó todo este Universo, móvil e inmóvil; Quien es la Inteligencia Total y el Océano de Misericordia. <span id="p320">[<sup><small>p. 320</small></sup>]</span> 12\. Este mundo parece real para quien es incapaz de comprender Su Esencia Real; y el mundo se desvanece como irreal tan pronto como comprende Su Presencia. Todos meditamos en esa Diosa Omniinteligente y le rogamos que nos conceda más fuerza para meditar en Ella y solo en Ella.
+11\. Todos saludamos a esa Diosa del Universo, Bhuvanes'varî, bajo Cuya fuerza Mágica se creó todo este Universo, móvil e inmóvil; Quien es la Inteligencia Total y el Océano de Misericordia. <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 12\. Este mundo parece real para quien es incapaz de comprender Su Esencia Real; y el mundo se desvanece como irreal tan pronto como comprende Su Presencia. Todos meditamos en esa Diosa Omniinteligente y le rogamos que nos conceda más fuerza para meditar en Ella y solo en Ella.
 
 13\. Todos deseamos conocer a Maha Laksmi; todos meditamos en la Omnipotente. Que la Diosa nos conceda la fuerza para meditar en Ella.
 
@@ -814,7 +814,7 @@ Aquí termina el Decimoctavo Capítulo del Cuarto Libro del Mahâ Purânam S'rî
 
 18\. ¡Oh Diosa! ¡Sosteniendo a la Luna en Su frente! Hari, Hara, Brahmâ y los demás dioses son incapaces de dar un paso sin la ayuda de la Fuerza; nada más que decir, el Rey de las Serpientes de mil cabezas no podría sostener esta tierra ni por un instante, si no fuera por la Sakti que sostiene este mundo.
 
-19\. Indra dijo: —¡Oh, Bhagavatî! ¿Podría Brahmâ crear este mundo sin la ayuda de Sarasvatî? ¿Podría Visnu, el Deva de los Devas, preservarlo sin la ayuda de Laksmî? ¿O podría Mahesvara destruir este mundo sin la ayuda de Su Umâ? ¡No, jamás! Estos Devas, la Trinidad, pueden desempeñar sus respectivos papeles en el mantenimiento del mundo simplemente porque están unidos con las fuerzas encarnadas en Sarasvatî, etc., que a su vez son partes de Ti. <span id="p321">[<sup><small>p. 321</small></sup>]</span> 20\. Visnu dijo: —¡Oh, Vimale! Si nos faltó Tu Fuerza, el Creador jamás habría podido crear el mundo, yo jamás habría podido preservarlo y Mahesvara jamás habría podido destruirlo. Por lo tanto, ¡oh Devi!, solo Tú reinas como la Diosa Suprema entre todas las glorias de la creación, preservación y destrucción de este Universo.
+19\. Indra dijo: —¡Oh, Bhagavatî! ¿Podría Brahmâ crear este mundo sin la ayuda de Sarasvatî? ¿Podría Visnu, el Deva de los Devas, preservarlo sin la ayuda de Laksmî? ¿O podría Mahesvara destruir este mundo sin la ayuda de Su Umâ? ¡No, jamás! Estos Devas, la Trinidad, pueden desempeñar sus respectivos papeles en el mantenimiento del mundo simplemente porque están unidos con las fuerzas encarnadas en Sarasvatî, etc., que a su vez son partes de Ti. <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> 20\. Visnu dijo: —¡Oh, Vimale! Si nos faltó Tu Fuerza, el Creador jamás habría podido crear el mundo, yo jamás habría podido preservarlo y Mahesvara jamás habría podido destruirlo. Por lo tanto, ¡oh Devi!, solo Tú reinas como la Diosa Suprema entre todas las glorias de la creación, preservación y destrucción de este Universo.
 
 21-22. Vyâsa dijo: —¡Oh, rey! Alabada así por los Dioses, la Diosa les dijo: —¡Oh, Devas! Que todas las ansiedades los abandonen; haré lo que los Devas han deseado, aunque sea muy difícil en este mundo; ahora expliquemos qué aflige a la Diosa Tierra.
 
@@ -834,7 +834,7 @@ Ahora, matad de la misma manera a los reyes malvados, enemigos de los dioses, y 
 
 32\. ¡Oh, Devas! Sería mejor que todos descendieran y se encarnaran como encarnaciones parciales, impregnados de Mi poder, y ayudaran así a aliviar la carga de esta tierra.
 
-33\. El Deva Prajâpati Maharsi Kas'yapa primero se iría con su esposa y se encarnaría como Ânaka Dundubhi Vasudeva, en la raza de Yadu. <span id="p322">[<sup><small>p. 322</small></sup>]</span> 34\. El Imperecedero Bhagavân Visnu también se encarnaría como parte, debido a la maldición de Bhrigu, como hijo de Vasudeva.
+33\. El Deva Prajâpati Maharsi Kas'yapa primero se iría con su esposa y se encarnaría como Ânaka Dundubhi Vasudeva, en la raza de Yadu. <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> 34\. El Imperecedero Bhagavân Visnu también se encarnaría como parte, debido a la maldición de Bhrigu, como hijo de Vasudeva.
 
 35\. ¡Oh, Devas! Naceré, entonces, en el vientre de Yas'odâ, en Gokula, y cumpliré todos los designios de los Dioses.
 
@@ -865,7 +865,7 @@ Aquí termina el Decimonoveno Capítulo del Cuarto Libro del S'rî Mad Devî Bh�
 
 ## Capítulo XX
 
-**Sobre el matrimonio de Devakî** <span id="p323">[<sup><small>p. 323</small></sup>]</span> 1-2. Vyâsa dijo: —¡Oh, Bharata! Ahora te narro sobre el alivio de la carga de la Tierra, la destrucción por la Yoga Mâyâ de los ejércitos Kuruksettra y Prabhâsa, los dos lugares sagrados, y sobre el nacimiento, debido a la maldición de Bhrigu, de Bhagavân Hari, de proeza sin igual, bajo la influencia de Mahâmâyâ, en la raza de Yadu. Ahora escucha.
+**Sobre el matrimonio de Devakî** <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 1-2. Vyâsa dijo: —¡Oh, Bharata! Ahora te narro sobre el alivio de la carga de la Tierra, la destrucción por la Yoga Mâyâ de los ejércitos Kuruksettra y Prabhâsa, los dos lugares sagrados, y sobre el nacimiento, debido a la maldición de Bhrigu, de Bhagavân Hari, de proeza sin igual, bajo la influencia de Mahâmâyâ, en la raza de Yadu. Ahora escucha.
 
 3\. El nacimiento de Visnu en el mundo se efectuó bajo las circunstancias causadas por Yoga Mâyâ, para aliviar la carga de la Tierra; ésta es mi opinión.
 
@@ -887,7 +887,7 @@ NB: Prabhâsa es un conocido lugar de peregrinación cerca de Dvârkâ, en Gujer
 
 11\. Brahmâ, Visnu, Rudra, todos ellos y sus avatares son Sus instrumentos y están bajo Su sujeción, como si todos estuvieran sujetos por una cuerda.
 
-12-14. El Bhagavân Hari a veces reside en Vaikuntha, a veces reside en el mar de leche y disfruta de placeres, a veces lucha contra los poderosos Dânavas, a veces realiza extensas ceremonias de sacrificio, <span id="p324">[<sup><small>p. 324</small></sup>]</span>, a veces practica un ascetismo riguroso y a veces se sumerge en un sueño profundo bajo la guía de Yoga Mâyâ. Así, nunca se vuelve libre ni independiente.
+12-14. El Bhagavân Hari a veces reside en Vaikuntha, a veces reside en el mar de leche y disfruta de placeres, a veces lucha contra los poderosos Dânavas, a veces realiza extensas ceremonias de sacrificio, <span id="p324"><sup><small>[ p. 324 ]</small></sup></span>, a veces practica un ascetismo riguroso y a veces se sumerge en un sueño profundo bajo la guía de Yoga Mâyâ. Así, nunca se vuelve libre ni independiente.
 
 15-16. ¡Oh, Rey! Y al igual que Visnu, Brahma, Rudra, los otros dioses Indra, Varuna, Yama, Kuvera, Agni, el Sol, la Luna y otros dioses celestiales, Sanaka y otros Munis, Vasistha y otros Risis, todos están incesantemente controlados por la Diosa Suprema, como si fueran muñecos en manos de un mago.
 
@@ -903,7 +903,7 @@ NB: Prabhâsa es un conocido lugar de peregrinación cerca de Dvârkâ, en Gujer
 
 27\. Las jivas están engañadas por la red de Moha (encantos) y, por lo tanto, engañadas. Nunca podrán alcanzar la liberación final. Mientras Maya exista en ellas, su engaño no se destruirá.
 
-28\. ¡Oh, Rey! En el momento de la creación, Brahmâ y todas las demás cosas surgieron, en el orden debido, y estas se disolverán debidamente en el momento de la Gran Disolución (el Pralaya). <span id="p325">[<sup><small>p. 325</small></sup>]</span> 29\. Cualquiera que sea la causa de la destrucción de alguien aquí, eso destruye el cuerpo en cuestión. Según la Voluntad de la Diosa Suprema, todo lo creado por Brahmâ, nadie puede deshacerlo. Ten esto por seguro.
+28\. ¡Oh, Rey! En el momento de la creación, Brahmâ y todas las demás cosas surgieron, en el orden debido, y estas se disolverán debidamente en el momento de la Gran Disolución (el Pralaya). <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> 29\. Cualquiera que sea la causa de la destrucción de alguien aquí, eso destruye el cuerpo en cuestión. Según la Voluntad de la Diosa Suprema, todo lo creado por Brahmâ, nadie puede deshacerlo. Ten esto por seguro.
 
 30. Conoce esta ley predestinada: el nacimiento, la muerte, la vejez, las enfermedades, el dolor y el placer afectan a todos los Jivas según el orden prescrito por la Naturaleza; estas leyes nunca dejan de operar en sus acciones.
 
@@ -939,7 +939,7 @@ NB: Prabhâsa es un conocido lugar de peregrinación cerca de Dvârkâ, en Gujer
 
 52\. Así, en diversas encarnaciones, Bhagavân Visnu estuvo siempre bajo la influencia de una maldición previa y también bajo el control del Destino y tuvo que realizar diversas funciones incesantemente.
 
-53\. ¡Oh, Rey! Ahora te hablaré del nacimiento de Sri Krisna en el mundo para servir a los propósitos de los dioses, y narraré Su Leelâ. <span id="p327">[<sup><small>p. 327</small></sup>]</span> 54\. Antaño, en las encantadoras orillas del río Kalindi, había un lugar llamado Madhuban, donde vivía un poderoso Daitya llamado Lavana, hijo de Madhu.
+53\. ¡Oh, Rey! Ahora te hablaré del nacimiento de Sri Krisna en el mundo para servir a los propósitos de los dioses, y narraré Su Leelâ. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 54\. Antaño, en las encantadoras orillas del río Kalindi, había un lugar llamado Madhuban, donde vivía un poderoso Daitya llamado Lavana, hijo de Madhu.
 
 55-56. Ese malvado demonio era extremadamente arrogante; al recibir una bendición, solía causarles enormes problemas a los dvijas. Satrughna, el menor de los Laksman, mató a ese incontrolable daitya y construyó allí una hermosa ciudad llamada Mathurâ.
 
@@ -985,7 +985,7 @@ NB: Prabhâsa es un conocido lugar de peregrinación cerca de Dvârkâ, en Gujer
 
 80\. ¡Oh, rey! Eres un héroe; ¿por qué temes las palabras de un demonio? Creemos firmemente, sin duda, que esto lo hace tu malvado enemigo para manchar tu nombre.
 
-81. ¡Oh, rey! Lo que está destinado a suceder, sucederá; nadie puede oponerse a ello de otra manera. Por lo tanto, en esta festividad nupcial, jamás debes matar a tu respetada hermana. <span id="p329">[<sup><small>p. 329</small></sup>]</span> 82-83. ¡Oh, rey Janamejaya! Aunque los sabios Yâdavas le hicieron comprender esto, el rey Kamsa no desistió de su propósito; Sri Vasudeva, versado en moral, le dijo: «¡Kamsa! Estos tres mundos están fundados en la Verdad. Digo, en verdad, que te entregaré a todos mis hijos, nacidos del vientre de Devakî, tan pronto como nazcan.»
+81. ¡Oh, rey! Lo que está destinado a suceder, sucederá; nadie puede oponerse a ello de otra manera. Por lo tanto, en esta festividad nupcial, jamás debes matar a tu respetada hermana. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 82-83. ¡Oh, rey Janamejaya! Aunque los sabios Yâdavas le hicieron comprender esto, el rey Kamsa no desistió de su propósito; Sri Vasudeva, versado en moral, le dijo: «¡Kamsa! Estos tres mundos están fundados en la Verdad. Digo, en verdad, que te entregaré a todos mis hijos, nacidos del vientre de Devakî, tan pronto como nazcan.»
 
 84\. Y si no te entrego a todos esos hijos, tan pronto como nazcan, todos mis antepasados ​​caerán en el infierno llamado Kumbîhpâka.
 

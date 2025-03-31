@@ -54,7 +54,7 @@ No debe construir una casa ni hacer que otros la erijan, pues se ve que muchos s
 
 Lo mismo ocurre con la cocción de alimentos y bebidas, o con provocar su cocción. Por compasión hacia los seres vivos, no se debe cocinar ni provocar que otro cocine. (10)
 
-Los seres que viven en el agua, el maíz o en la tierra y la <span id="p205">[<sup><small>p. 205</small></sup>]</span> madera, se destruyen en la comida y la bebida; por lo tanto, un monje no debe hacer que nadie cocine. (11)
+Los seres que viven en el agua, el maíz o en la tierra y la <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> madera, se destruyen en la comida y la bebida; por lo tanto, un monje no debe hacer que nadie cocine. (11)
 
 No hay nada tan peligroso como el fuego, pues se propaga en todas direcciones y es capaz de destruir a muchos seres; por lo tanto, no se debe encender fuego. (12)
 
@@ -72,7 +72,7 @@ Ni siquiera en sus pensamientos debería desear que le regalen flores, que le of
 
 Debe meditar sólo en las cosas verdaderas [^579], no cometer pecados y no tener propiedades; debe andar sin preocuparse por su cuerpo hasta que llegue su fin. 09)
 
-Al rechazar la comida cuando llega la hora de su muerte, <span id="p206">[<sup><small>p. 206</small></sup>]</span> y abandonar el cuerpo humano, se convierte en su propio dueño [^580] y se libera de la miseria. (20)
+Al rechazar la comida cuando llega la hora de su muerte, <span id="p206"><sup><small>[ p. 206 ]</small></sup></span> y abandonar el cuerpo humano, se convierte en su propio dueño [^580] y se libera de la miseria. (20)
 
 Sin propiedad, sin egoísmo, libre de pasiones y de Âsravas, obtiene el conocimiento absoluto y alcanza la beatitud eterna. (21)
 

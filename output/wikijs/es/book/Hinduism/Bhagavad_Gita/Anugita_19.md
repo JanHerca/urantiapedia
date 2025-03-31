@@ -52,7 +52,7 @@ El brahmana dijo:
 
 La Deidad dijo:
 
-Entonces la mente de la esposa del Brâhma<i>n</i>a, después de la <span id="p310">[<sup><small>p. 310</small></sup>]</span> destrucción de la Kshetra<i>g</i>ña [1](Anugita_20#fn1482), se volvió hacia aquello que está más allá de (todas) las Kshetra<i>g</i>ñas por medio del conocimiento de la Kshetra [2](Anugita_20#fn1483).
+Entonces la mente de la esposa del Brâhma<i>n</i>a, después de la <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> destrucción de la Kshetra<i>g</i>ña [1](Anugita_20#fn1482), se volvió hacia aquello que está más allá de (todas) las Kshetra<i>g</i>ñas por medio del conocimiento de la Kshetra [2](Anugita_20#fn1483).
 
 Ar<i>g</i>una dijo:
 

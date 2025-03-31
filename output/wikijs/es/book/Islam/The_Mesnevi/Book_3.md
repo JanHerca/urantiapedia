@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ## III. El rey judío, perseguidor de los cristianos.[^79]
 
@@ -55,7 +55,7 @@ El maestro respondió rápidamente: «Mira ahora; ¡rompe uno; alto! ¡alto!»
 Tan pronto como uno se rompió, ambos desaparecieron de la vista.
 Pobre bizco casi perdió el juicio en un susto infantil.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Había sólo uno; sus ojos eran porque vio dos.
 El uno se fue, el otro en consecuencia se fue también.
@@ -91,7 +91,7 @@ Entonces deja que un intercesor interceda, algún príncipe, tu reina.
 Que todo esto suceda donde algún lugar público espacioso
 Que todos lo vean, que todos sepan de mi desgracia.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Entonces échame fuera; lejos de ti en el exilio enviado;
 Y me recibirán, bajo un fingimiento de tristeza.
@@ -125,7 +125,7 @@ Su doctrina toma en serio; nada más tienes que temer.”
 El Vazīr habiendo expuesto este complot ante el Rey,
 Toda vergüenza y escrúpulos desaparecieron; era una cosa perfecta.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 En presencia del público, nariz, orejas fueron cortadas.
 La chusma se asombró mucho; ahora es el momento de burlarse.
@@ -162,7 +162,7 @@ Como halcones y águilas, los pecados atroces nos convierten en su presa.
 Tú nos proteges, ¡Oh Dios misericordioso! Pero siempre quieto,
 Con corazones y mentes perversos contrarrestamos Tu voluntad.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Este mundo es un granero, del cual robamos el maíz.
 <sup id="v55"><small>55</small></sup> El trigo está allí todo recogido; lo echamos a perder en el desprecio.
@@ -198,7 +198,7 @@ Vagar. Juzgar y juzgar, pues, no lo hace.
 Por la noche el prisionero pierde el sentido de los barrotes, de las cadenas;
 De noche el monarca no conoce ningún estado, ninguna pompa retiene;
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 El comerciante no cuenta más, en el sueño, sus ganancias y pérdidas;
 <sup id="v70"><small>70</small></sup> El príncipe y el campesino, iguales, en sus divanes se revuelven.
@@ -230,7 +230,7 @@ Atestigua la verdad: «El sueño es hermano de la muerte»,[^89] a todos los hom
 Pero para que no se escape y no vuelva a llamar,
 Una atadura a su límite; no es del todo libre con todo.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 Debe volver de día de vagar por donde quiera,
 Las preocupaciones de la vida para soportar; una carga que pronto mata.
@@ -262,7 +262,7 @@ Quien pide a la fantasía; parlamenta con ella, incluso. ¡Pish!
 Un demonio en su sueño ve; un ángel cree.[^92]
 <sup id="v95"><small>95</small></sup> Por lujuria se desmaya de placer sensual mientras sueña.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Su semilla la siembra en arena, sal y tierra desértica;
 Y se despierta para encontrar que no hay cosecha madura en su mano.
@@ -298,7 +298,7 @@ Pregúntale a su amigo y al mío, el gran Husāmu-’d-Dīn.[^96]
 Mientras estás en tu camino, si la envidia te agarra por la garganta,
 <sup id="v110"><small>110</small></sup> Sepa, el pecado de Satanás fue la envidia; la malicia le hizo regodearse.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Envidió el ascenso de Adán a tal estado sublime.
 Él lucha con todos los que son buenos, a través de la envidia y a través del odio.
@@ -332,7 +332,7 @@ Humíllate; sé un campeón de ellos. Amén.
 No seas un asesino, como ese Vazīr, de la fe de los hombres;
 <sup id="v125"><small>125</small></sup> No busques apartar a las almas creyentes de lo que Dios dice.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Que Vazīr parecía un pastor de la verdad, en la farsa;
 Como quien mezcla áloes amargos con mermelada de ciruelas dulces.
@@ -366,7 +366,7 @@ Pero no te acerques demasiado a él; negro es su sofocación.
 El relámpago destella intensamente, brillando mientras vuela
 Pero a menudo, por desgracia, el hombre queda ciego o yace muerto.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Sé sabio a tiempo; porque “el que está falto de sentido común,
 Es como el buey con yugo al cuello”. Así que ‘Alī,—¡Por eso!
@@ -403,7 +403,7 @@ Con penitencia, con ayuno hecho, y oración, para chocar.
 Un segundo enseñó que el ayuno no hacía ningún bien;
 Esa caridad, beneficencia, era todo en todo.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Un tercero explicó: “Tu ayuno, la caridad misma,
 El sinteísmo[^101] es. Con Dios, te deificas a ti mismo.
@@ -434,7 +434,7 @@ Renuncia. El mundo, y más, soñarás en tu trance.”
 Un décimo asegura: “Lo que el Señor ha dado al hombre,
 Dios ha hecho agradable a los ojos. Niega quien pueda.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Toma lo que es tuyo. No te desvíes; es una locura todavía.
 Para tomar a gemir, gemir, cuando todo está a tu voluntad.”
@@ -471,7 +471,7 @@ Quien enseña que existen dos, no es más que un bizco, él.”
 El último soltó: «Cien en realidad son sólo uno.»
 A menos que un loco, ¿quién podría tener tales doctrinas? ¿ganado?
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 En ellos estas paradojas encontraron su lugar,
 <sup id="v185"><small>185</small></sup> En palabras y sentido sus doctrinas carecían de toda pretensión de gracia.
@@ -539,7 +539,7 @@ El Todopoderoso, que con un solo aliento, una palabra, trajo
 Diez mil mundos, además, se revelan a la vista,
 Si tú diriges tu visión hacia el Dios de la Luz.
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 En la estima del hombre el mundo es vasto, sin fin;
 Con Power Infinite en comparación, un grano de arena.
@@ -571,7 +571,7 @@ Por Dios, en castigo, a Venus la estrella fue cambiada.[^105]
 ¿De mujer a Venus? Claro, ese cambio fue triste.
 Conviértete en polvo y ceniza. Menos vergüenza en esto. ¿El arte está loco?
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Tu alma debe elevarte al hogar más alto del cielo;
 <sup id="v225"><small>225</small></sup> La carne no puede sino enviarte a lo profundo de la oscura cúpula del infierno.
@@ -606,7 +606,7 @@ Aunque deliro como un sofista, es hacia Él a quien me dirijo.
 Otra estratagema que el Vazīr concibió a continuación;
 De la vida pública se retiró y alcanzó la soledad.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Todos los seguidores admirados estaban dispuestos a lamentar su pérdida;
 Durante cuarenta días, y más, en la celda llevó su cruz.
@@ -643,7 +643,7 @@ Misericordia del cielo, sálvanos; o, perecemos, ¡nos enfurecemos!
 A ellos les dijo así: “Oh hombres de poco sentido, prestad atención;
 Tú tontamente estás buscando en otro lugar lo que necesitas.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Tus oídos se tapan con lana; no escuches las palabras del hombre;
 <sup id="v255"><small>255</small></sup> La mota que ciega tus ojos expulsada. Entonces, puedes ver.
@@ -675,7 +675,7 @@ Pero la verdadera sublimidad es atributo de Dios. Suspiramos.
 El alimento de cada pájaro Él da en providencia
 Él dice cuyos higos serán devorados dentro de diez días.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ¿Quién daría, en lugar de la leche materna, a los infantes, pan,
 Los mataría con comida inadecuada antes de que se propaguen.
@@ -710,7 +710,7 @@ Pero nuestra protesta es un grito verdaderamente lastimero.
 Lloramos nuestros ojos por nuestro dolor de no verte,
 Con suspiros nuestros corazones estallan, buscando en vano por ti.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Un infante no se pelea con su niñera atenta;
 Y sin embargo llora, por no saber qué es bueno y qué es peor.
@@ -745,7 +745,7 @@ Como un bebé no nacido en el vientre de la madre, hasta que el tiempo se cumpla
 Antes de que el poder todopoderoso la creación esté al acecho,
 Como lienzo delante de la aguja La mano del bordador puede aparearse.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Un demonio aquí, un ángel allá, o el hombre, es una oferta
 <sup id="v300"><small>300</small></sup> Ser; ahora alegría, ahora tristeza, se levanta en medio.
@@ -779,7 +779,7 @@ Yo haré justicia sobrevenga, todas las transgresiones abjuran.
 Por esto ves que la enfermedad no es todo un mal.
 'Es sólo un tiempo para despertar la conciencia del bien. querer.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Conoce entonces el aforismo, oh buscador de la verdad:
 <sup id="v315"><small>315</small></sup> Quienquiera que seas, a quien su olor le puede dar piedad:
@@ -813,7 +813,7 @@ Los bienes de la vida mundana ellos eligen. Entonces que así sea.
 Los profetas son de raza que proviene del cielo. nacimiento derivado;
 Al cielo ellos tienden con corazón y alma mientras esté aquí en la tierra.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Nunca terminarían las ramas de este tema para contar.
 <sup id="v330"><small>330</small></sup> Así que vamos a beber de nuevo de nuestra vieja fuente de la historia.
@@ -851,7 +851,7 @@ Mira este pergamino; tómalo, estúdialo; instrúyete tú mismo,
 Así, uno por uno sus mentes preparadas iban a ser jefe:
 <sup id="v345"><small>345</small></sup> «Eres tú el elegido; todo lo demás sería un ladrón.»
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Él les nombró a cada uno sucesor; les hizo sentir así.
 Lo que le dijo a uno, a cada uno le reveló.
@@ -882,7 +882,7 @@ A quien había designado en su lugar su manera de mostrar.
 ¿A quién debemos reconocer como sucesor de nuestro santo?
 En ¿En manos de quién confiar la tarea de nuestra moderación?
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Era un sol de luz; su fuego se ha convertido en humo,
 Una vela ahora necesitamos nuestra oscuridad para iluminar.
@@ -918,7 +918,7 @@ Detrás de ella se esconderá la unidad de Dios, tus ganancias.
 Si no afliges el cuerpo, no te desanimes. No te desanimes de antemano,
 La carne te destruirá, amigo mío, en llamas de fuego.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 La carne es la que se muestra al corazón humano;
 La carne es exige ascetismo agudo e inteligente.
@@ -955,7 +955,7 @@ El difunto Vazīr ¡La sucesión es mía hoy!”[^113]
 Un segundo capitán se puso en marcha, como de una emboscada;
 Disputó todas esas palabras; su propia afirmación entonces sí impulsó.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 De su seno sacó otro pergamino,
 Y entonces la ira del pueblo se encendió; no se redujo pronto.
@@ -985,7 +985,7 @@ Prefiero la compañía de aquellos que espíritu buscar.
 Una vida sin alma ni espíritu en nuestro marco,
 Como una espada de madera en su vaina, no eran más que un nombre sin sentido.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Dentro de su vaina mientras se guarda, de valor puede parecer;
 Cuando se dibuja, los hombres solo lo considerarán apto para cerillas.
@@ -1020,7 +1020,7 @@ El espíritu siempre conduce a guaridas de hombres santos;
 ¡Cuidado! Alimenta tu alma con amor de tierra santa.
 ¡Date prisa! Busca los medios de gracia de aquel que la gracia ha encontrado.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ¡Haz una petición! Agarraos de las faldas de los santos.
 A través de ellos aprenderás cómo Dios concede su favor.

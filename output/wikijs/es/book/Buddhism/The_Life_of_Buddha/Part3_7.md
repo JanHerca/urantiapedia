@@ -39,7 +39,7 @@ El Maestro llegó a la ciudad de Kausambi, y allí, al principio, se sintió muy
 
 Sin embargo, fue en Kausambi donde el Maestro se topó con una de sus grandes penas. Un día, un monje fue reprendido por una ofensa menor. No reconoció su culpa, así que fue castigado. Se negó a someterse al castigo y, como era un hombre agradable, de gran ingenio y erudición, muchos se unieron a él. En vano los demás le suplicaron que volviera al camino recto.
 
-«No te hagas el engreído», le dijeron; «no te consideres incapaz de cometer errores. Sigue nuestro sabio consejo. Trata a los demás monjes como se les debe tratar a quienes profesan una fe que también es la tuya; ellos te tratarán como se les debe tratar a quienes profesan una fe que también es la suya. La comunidad crecerá, la comunidad <span id="p240">[<sup><small>p. 240</small></sup>]</span> florecerá, solo si los monjes se aconsejan mutuamente».
+«No te hagas el engreído», le dijeron; «no te consideres incapaz de cometer errores. Sigue nuestro sabio consejo. Trata a los demás monjes como se les debe tratar a quienes profesan una fe que también es la tuya; ellos te tratarán como se les debe tratar a quienes profesan una fe que también es la suya. La comunidad crecerá, la comunidad <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> florecerá, solo si los monjes se aconsejan mutuamente».
 
 —No te corresponde a ti decirme qué está bien o mal —respondió—. Deja de reprenderme.
 
@@ -57,7 +57,7 @@ Feliz quien tiene un amigo fiel; feliz quien tiene un amigo perspicaz. ¿Qué ob
 
 Se fue. Nadie intentó detenerlo. Fue a una aldea donde sabía que encontraría a su discípulo Bhrigu. Bhrigu se llenó de alegría al verlo, y el Maestro se sintió muy reconfortado. Entonces, Anuruddha, Nanda y Kimbala se unieron a él. Le dieron muestras de su respeto y amistad, y vivieron en paz. Y el Maestro pensó: «Así que hay algunos, entre mis discípulos, que me aman y no se pelean».
 
-Un día, mientras se sentaba a la sombra de un árbol y pensaba en los tiempos difíciles de Kausambi, una manada de elefantes se detuvo a descansar no lejos de él. El elefante más grande bajó al río y sacó agua, que luego les llevó a los demás. Bebieron; luego, en lugar de agradecerle <span id="p242">[<sup><small>p. 242</small></sup>]</span> por este servicio, lo maltrataron, lo golpearon con sus trompas y, finalmente, lo ahuyentaron. Y el Maestro vio que su propia experiencia no era distinta a la del elefante: ambos eran víctimas de una gran ingratitud. El elefante notó la tristeza en su rostro; se acercó y lo miró con ternura; luego se fue a buscarle comida y bebida.
+Un día, mientras se sentaba a la sombra de un árbol y pensaba en los tiempos difíciles de Kausambi, una manada de elefantes se detuvo a descansar no lejos de él. El elefante más grande bajó al río y sacó agua, que luego les llevó a los demás. Bebieron; luego, en lugar de agradecerle <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> por este servicio, lo maltrataron, lo golpearon con sus trompas y, finalmente, lo ahuyentaron. Y el Maestro vio que su propia experiencia no era distinta a la del elefante: ambos eran víctimas de una gran ingratitud. El elefante notó la tristeza en su rostro; se acercó y lo miró con ternura; luego se fue a buscarle comida y bebida.
 
 El Maestro finalmente regresó a Cravasti y descansó en el parque de Jeta.
 

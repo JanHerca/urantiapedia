@@ -70,7 +70,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 5\. El poderoso Drvâspa, creado por Mazda, el santo Drvâspa, el sustentador, le concedió esa bendición, mientras él ofrecía libaciones, daba regalos, sacrificaba y le suplicaba que le concediera esa bendición.
 
-6\. Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado; le ofreceré un sacrificio bien ejecutado, es decir, al poderoso <span id="p112">[<sup><small>p. 112</small></sup>]</span> Drvâspa, creado por Mazda y sagrado. Ofrecemos libaciones al poderoso Drvâspa, creado por Mazda y sagrado; le ofrecemos el Haoma y la carne, el baresma, la sabiduría de la lengua, los conjuros sagrados, el habla, las obras, las libaciones y las palabras bien dichas.
+6\. Por su brillo y gloria, le ofreceré un sacrificio digno de ser escuchado; le ofreceré un sacrificio bien ejecutado, es decir, al poderoso <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> Drvâspa, creado por Mazda y sagrado. Ofrecemos libaciones al poderoso Drvâspa, creado por Mazda y sagrado; le ofrecemos el Haoma y la carne, el baresma, la sabiduría de la lengua, los conjuros sagrados, el habla, las obras, las libaciones y las palabras bien dichas.
 
 Yênhê hâtãm: Todos aquellos seres de quienes Ahura Mazda . . . . [^535]
 
@@ -86,7 +86,7 @@ Quien unce tiros de caballos . . . . para ayudar a los fieles [^536].
 
 10\. 'Para que pueda quitar el hambre y la sed del mundo creado por Mazda; para que pueda quitar la vejez y la muerte del mundo creado por Mazda; para que pueda quitar el viento caliente y el viento frío del mundo creado por Mazda por mil años [^537].'
 
-11\. El poderoso Drvâspa, creado por Mazda, el santo Drvâspa, el sustentador, le concedió esa bendición, <span id="p113">[<sup><small>p. 113</small></sup>]</span> mientras él ofrecía libaciones, ofrecía regalos, sacrificaba y le suplicaba que le concediera esa bendición.
+11\. El poderoso Drvâspa, creado por Mazda, el santo Drvâspa, el sustentador, le concedió esa bendición, <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> mientras él ofrecía libaciones, ofrecía regalos, sacrificaba y le suplicaba que le concediera esa bendición.
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
@@ -114,7 +114,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 17\. [^539]. Haoma [^540] le ofreció un sacrificio, Haoma, la vivificante, la sanadora, la hermosa, la majestuosa, de ojos dorados, en la cima más alta del Haraiti Bareza. Le imploró un favor, diciendo:
 
-18\. «¡Concédeme esta gracia, oh bondadoso Drvâspa! Que pueda atar al asesino turanio, Franghrasyan [^541], arrastrarlo atado y llevarlo atado ante el rey Husravah, para que el rey Husravah lo mate tras el lago Kâêkâsta [^542], el profundo lago de aguas saladas [^543], para vengar el asesinato de su padre Syâvarshâna [^544], un hombre, y de Aghraêratha, un semihombre [^545].» <span id="p115">[<sup><small>p. 115</small></sup>]</span> 19\. El poderoso Drvâspa, creado por Mazda, el santo Drvâspa, el sustentador, le concedió esa bendición, mientras él ofrecía libaciones, daba regalos, sacrificaba y suplicaba que ella le concediera esa bendición.
+18\. «¡Concédeme esta gracia, oh bondadoso Drvâspa! Que pueda atar al asesino turanio, Franghrasyan [^541], arrastrarlo atado y llevarlo atado ante el rey Husravah, para que el rey Husravah lo mate tras el lago Kâêkâsta [^542], el profundo lago de aguas saladas [^543], para vengar el asesinato de su padre Syâvarshâna [^544], un hombre, y de Aghraêratha, un semihombre [^545].» <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> 19\. El poderoso Drvâspa, creado por Mazda, el santo Drvâspa, el sustentador, le concedió esa bendición, mientras él ofrecía libaciones, daba regalos, sacrificaba y suplicaba que ella le concediera esa bendición.
 
 Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. . . .
 
@@ -158,7 +158,7 @@ Por su resplandor y gloria, le ofreceré un sacrificio digno de ser escuchado. .
 
 30\. '¡Concédeme esta gracia, oh buen, muy benéfico Drvâspa! para que pueda poner en fuga a A<i>s</i>ta-aurva<i>n</i><i>t</i>, el hijo de Vîspa-thaurvô-asti, el que todo lo aflige, del yelmo de bronce, de la armadura de bronce, del cuello grueso, tras el cual setecientos camellos . . . . [^551]; para que pueda poner en fuga al asesino de <i>H</i><i>v</i>yaona, Are<i>g</i>a<i>t</i>\-aspa [^552]; para que pueda poner en fuga a Dar<i>s</i>inika [^553], el adorador de los Daêvas;
 
-31\. Y para castigar a Tãthrava<i>n</i><i>t</i> [^554] de la ley impía; para castigar a Spin<i>g</i>auru<i>s</i>ka [^553], el adorador de los Daêvas; y para llevar a la ley buena a las naciones de los Varedhakas y de los Hvyaonas [^555]; y para castigar a las naciones Hvyaonas, sus cincuenta y sus centenas, sus centenas y sus millares, sus millares y sus <span id="p118">[<sup><small>p. 118</small></sup>]</span> decenas de millares, sus decenas de millares y sus miríadas de miríadas.
+31\. Y para castigar a Tãthrava<i>n</i><i>t</i> [^554] de la ley impía; para castigar a Spin<i>g</i>auru<i>s</i>ka [^553], el adorador de los Daêvas; y para llevar a la ley buena a las naciones de los Varedhakas y de los Hvyaonas [^555]; y para castigar a las naciones Hvyaonas, sus cincuenta y sus centenas, sus centenas y sus millares, sus millares y sus <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> decenas de millares, sus decenas de millares y sus miríadas de miríadas.
 
 32\. El poderoso Drvâspa, creado por Mazda, el santo Drvâspa, el sustentador, le concedió esa bendición, mientras él ofrecía libaciones, daba regalos, sacrificaba y le suplicaba que le concediera esa bendición.
 

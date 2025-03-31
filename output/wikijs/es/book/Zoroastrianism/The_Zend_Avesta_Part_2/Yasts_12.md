@@ -68,7 +68,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'La más gloriosa Santa Palabra (en sí misma), esto es lo que en la Santa Palabra es creado verdadero, lo que es creado progresando, lo que es apto para discernir, lo que es saludable, sabio y feliz, lo que es más poderoso para destruir que todas las demás criaturas.'
 
-3\. Ahura Mazda dijo: «Ata un baresma de tres ramitas contra el camino del sol. Dime, Ahura Mazda, estas palabras: «Invocamos, bendecimos a Ahura [^781]; invoco la amistad de Ahura hacia este var [^782] preparado, hacia el fuego y el baresma, hacia la ebullición completa [^783]\], hacia el var [^782] de aceite y la savia [^784] de las plantas». <span id="p170">[<sup><small>p. 170</small></sup>]</span> 4\. «Entonces yo, Ahura Mazda, vendré en tu ayuda, hacia este var preparado, hacia el fuego y el baresma, hacia la ebullición completa de la leche, hacia el var de aceite y la savia de las plantas;
+3\. Ahura Mazda dijo: «Ata un baresma de tres ramitas contra el camino del sol. Dime, Ahura Mazda, estas palabras: «Invocamos, bendecimos a Ahura [^781]; invoco la amistad de Ahura hacia este var [^782] preparado, hacia el fuego y el baresma, hacia la ebullición completa [^783]\], hacia el var [^782] de aceite y la savia [^784] de las plantas». <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 4\. «Entonces yo, Ahura Mazda, vendré en tu ayuda, hacia este var preparado, hacia el fuego y el baresma, hacia la ebullición completa de la leche, hacia el var de aceite y la savia de las plantas;
 
 'Junto con el viento que azota a los demonios, junto con el pensamiento maldito de los sabios [^785], junto con la Gloria real, junto con Saoka [^786], hecho por Mazda.
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 'Junto con el viento que azota a los demonios, junto con el pensamiento maldito de los sabios, junto con la Gloria real, junto con Saoka, hecho por Mazda.
 
-7\. ¡Oh tú, santo Rashnu! ¡Oh, veraz Rashnu! ¡Benéfico Rashnu! ¡Sapiente Rashnu! ¡Claro Rashnu! ¡Previsor Rashnu! ¡Rashnu, el <span id="p171">[<sup><small>p. 171</small></sup>]</span> más justo [^788]! Rashnu, el mejor castigador de ladrones;
+7\. ¡Oh tú, santo Rashnu! ¡Oh, veraz Rashnu! ¡Benéfico Rashnu! ¡Sapiente Rashnu! ¡Claro Rashnu! ¡Previsor Rashnu! ¡Rashnu, el <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> más justo [^788]! Rashnu, el mejor castigador de ladrones;
 
 8\. '¡El ileso, el mejor asesino, golpeador, destructor de ladrones y bandidos! en cualquier parte del mundo donde estés observando las acciones [^789] de los hombres y llevando las cuentas . . . . [^790].
 
@@ -96,7 +96,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## V.
 
-12\. «Si tú, oh santo Rashnu, estás en el <span id="p172">[<sup><small>p. 172</small></sup>]</span> Karshvare Vîdadhafshu [^793], invocamos, bendecimos a Rashnu, el fuerte. Invoco su amistad hacia este var preparado... en cualquier parte del mundo donde te encuentres.»
+12\. «Si tú, oh santo Rashnu, estás en el <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Karshvare Vîdadhafshu [^793], invocamos, bendecimos a Rashnu, el fuerte. Invoco su amistad hacia este var preparado... en cualquier parte del mundo donde te encuentres.»
 
 ## VI.
 

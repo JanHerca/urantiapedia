@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 2\. Explicaremos que (baño).
 
-3\. Durante el curso norte del sol, en el tiempo de la luna creciente, bajo (el Nakshatra) Rohi<i>ri</i>î, (o) M<i>ri</i>ga<i>ri</i>iras, (o) Tishya, (o) Uttarâ <span id="p162">[<sup><small>p. 162</small></sup>]</span> Phalgunî, (o) Hasta, (o) <i>K</i>itrâ, o los dos Vi<i>ri</i>âkhâs: bajo estos (Nakshatras) puede bañarse.
+3\. Durante el curso norte del sol, en el tiempo de la luna creciente, bajo (el Nakshatra) Rohi<i>ri</i>î, (o) M<i>ri</i>ga<i>ri</i>iras, (o) Tishya, (o) Uttarâ <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> Phalgunî, (o) Hasta, (o) <i>K</i>itrâ, o los dos Vi<i>ri</i>âkhâs: bajo estos (Nakshatras) puede bañarse.
 
 4\. [^542] Se dirige a un lugar cercano con agua, pone leña al fuego, realiza los ritos, incluyendo las oblaciones hechas con los Vyâh<i>ri</i>tis, y pone un trozo de leña Palâ<i>ri</i>a sobre el fuego con el verso: «Preparemos esta canción como un carro, para el <i>G</i>âtavedas que la merece, con nuestra oración. Pues su previsión en esta asamblea es una bendición para nosotros. ¡Agni! Que, viviendo en tu amistad, no suframos daño. ¡Svâhâ!»
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 11\. [^546] Tras entregarle la navaja al barbero, este toca el agua con la que se humedecerá el cabello, con la fórmula: «¡Sean dichosas, oh aguas, cuando las toquemos!». [El barbero vierte entonces agua tibia y fría. Tras verter agua tibia en agua fría...]
 
-12\. [^547] (El barbero) humedece el cabello cerca de la oreja derecha con (las palabras), 'Que las aguas te humedezcan para la vida, para la vejez y el esplendor' (Taitt. Sa<i>m</i>hitâ I, 2, 1, 1). <span id="p164">[<sup><small>p. 164</small></sup>]</span>
+12\. [^547] (El barbero) humedece el cabello cerca de la oreja derecha con (las palabras), 'Que las aguas te humedezcan para la vida, para la vejez y el esplendor' (Taitt. Sa<i>m</i>hitâ I, 2, 1, 1). <span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 13\. [^548] Con (las palabras), '¡Hierba! protégelo' (Taitt. Sa<i>m</i>h., loc. cit.), coloca una hierba con la punta hacia arriba en (el cabello).
 
@@ -88,7 +88,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. [^553] Le traen dos pendientes y una bolita perforada de madera de sándalo o de madera de Badarî, recubierta de oro (en su abertura); ata estas dos cosas a una hoja de Darbha, las sostiene sobre el fuego y vierte sobre ellas (en el fuego) oblaciones (de ghee) con (los Mantras),
 
-Que este oro, que trae larga vida, esplendor y riqueza, y que supera (todas las adversidades), entre en mí para que tenga larga vida, esplendor y victoria. ¡Svâhâ! <span id="p167">[<sup><small>p. 167</small></sup>]</span> «(Este oro) trae grandes ganancias, superioridad en las batallas, superioridad en las asambleas; conquista tesoros. Todas las perfecciones residen unidas en este oro. ¡Svâhâ!»
+Que este oro, que trae larga vida, esplendor y riqueza, y que supera (todas las adversidades), entre en mí para que tenga larga vida, esplendor y victoria. ¡Svâhâ! <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> «(Este oro) trae grandes ganancias, superioridad en las batallas, superioridad en las asambleas; conquista tesoros. Todas las perfecciones residen unidas en este oro. ¡Svâhâ!»
 
 He obtenido un nombre auspicioso como el de un padre de oro. Que el oro me haga brillar con un lustre dorado; que me haga amado entre mucha gente; que me llene de un brillo sagrado. ¡Svâhâ!
 
@@ -104,7 +104,7 @@ Esta hierba es protectora, vencedora y poderosa. Que me haga brillar con un bril
 
 1\. Se pone los dos pendientes, el derecho en la oreja derecha y el izquierdo en la izquierda, con (el verso que repite para cada uno de los pendientes): «Virâ<i>g</i> y Svarâ_g_, y los poderes que habitan en nuestra casa, la prosperidad que habita en el rostro de la realeza: únanme con ello».
 
-2\. [^554] Con (el Mantra), 'Con las estaciones y las combinaciones de estaciones, por el bien de una larga vida, del <span id="p168">[<sup><small>p. 168</small></sup>]</span> esplendor, con la savia que habita en el año: con ello hacemos que toquen las mandíbulas'—abrocha los dos pendientes.
+2\. [^554] Con (el Mantra), 'Con las estaciones y las combinaciones de estaciones, por el bien de una larga vida, del <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> esplendor, con la savia que habita en el año: con ello hacemos que toquen las mandíbulas'—abrocha los dos pendientes.
 
 3\. [^555] Con (el Mantra): «Esta hierba es protectora, vencedora y poderosa. Que me haga brillar con un brillo dorado; que me haga amado entre mucha gente; que me llene de un brillo sagrado. Tú no eres una atadura», se ata la bolita (de madera, mencionada anteriormente, Sección 10, Sutra 6) al cuello.
 
@@ -116,7 +116,7 @@ Esta hierba es protectora, vencedora y poderosa. Que me haga brillar con un bril
 
 5\. [^557] 'Con el ungüento que viene del Trikakud (montaña), nacido en el Himavat, te unjo (es decir, los ojos), y con fortuna y esplendor. (¿Pongo?) dentro de mí al demonio de la montaña (?)'—con (este verso) se unge con el ungüento Traikakuda, (o) si no puede obtenerlo, con algún otro (ungüento).
 
-6\. Con (el verso), «Mi mente que ha huido» (Taitt. Sa<i>m</i>hitâ VI, 6, 7, 2), se mira en un espejo. <span id="p169">[<sup><small>p. 169</small></sup>]</span>
+6\. Con (el verso), «Mi mente que ha huido» (Taitt. Sa<i>m</i>hitâ VI, 6, 7, 2), se mira en un espejo. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 7\. [^558] Con (la fórmula), 'Por impulso del dios', etc., toma un bastón de caña (que alguien le alcanza), y con (la fórmula), 'Tú eres el rayo de Indra. ¡Oh Amvins, protégeme!', lo limpia tres veces, de arriba a abajo.
 

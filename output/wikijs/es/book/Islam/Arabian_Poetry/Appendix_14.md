@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 \*\*\* De las notas biográficas, históricas y críticas que preceden a las traducciones de Carlyle, las más extensas se presentan aquí, con algunas excepciones, en forma abreviada. Las notas adicionales se colocan entre corchetes.
 
@@ -56,7 +56,7 @@ Debería pasar por donde se encuentra Hafiz,
 De su conciencia se levantaría polvo
 Flores de mil tintes.\]
 
-<span id="p406">[<sup><small>p. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 ## HATIM TAI, EL GENEROSO JEFE ÁRABE—[p. 99](./Shorter_Pieces.md#p99).
 
@@ -64,7 +64,7 @@ Hatim Tai fue un jefe árabe que vivió poco antes de la promulgación del mahom
 
 El emperador de Constantinopla, al enterarse de la generosidad de Hatim, decidió probarla. Para ello envió a un funcionario de su corte a pedirle un caballo en particular, que sabía que el príncipe árabe apreciaba por encima de todas sus demás posesiones. El oficial llegó a la casa de Hatim en una noche tempestuosa, en una época en que todos los caballos pastaban en los prados. Fue recibido de una manera acorde con la dignidad del enviado imperial y tratado esa noche con la mayor hospitalidad. Al día siguiente, el oficial entregó a Hatim el mensaje del emperador, por el que Hatim pareció muy preocupado. «Si ayer me hubieras informado de tu misión», dijo, «habría accedido de inmediato a la petición del emperador, pero el caballo que me pide ya no existe. Sorprendido por tu llegada repentina y sin nada más con lo que agasajarte, ordené que mataran ese caballo en particular y te lo sirvieran anoche para la cena». (Los árabes prefieren la carne de caballo a cualquier otro alimento.) Hatim ordenó inmediatamente que se trajeran los mejores caballos y rogó al embajador que se los presentara a su amo. El Emperador no pudo dejar de admirar esta muestra de generosidad de Hatim y confesó que verdaderamente merecía el título de más generoso entre los hombres.
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 El destino de Hatim era causar resentimiento a los demás monarcas. Numan, rey del Yemen, sintió celos violentos de él a causa de su reputación, y creyendo que era más fácil destruirlo que superarlo, el envidioso príncipe encargó a uno de sus aduladores que lo librara de su rival. El cortesano se apresuró a ir al desierto donde estaban acampados los árabes. Al descubrir sus tiendas a lo lejos, pensó que nunca había visto a Hatim y que estaba ideando medios para obtener información sobre su persona sin exponerse a sospechas. Mientras avanzaba, sumido en profunda meditación, fue abordado por un hombre de figura amable, que lo invitó a su tienda. Aceptó la invitación y quedó encantado con la cortesía de su recepción. Después de una espléndida comida, se ofreció a despedirse, pero el árabe le pidió que prolongara su visita.
 
@@ -76,7 +76,7 @@ El cortesano decidió aprovechar la oferta de su anfitrión y, en consecuencia, 
 
 -Te he prometido mi servicio -respondió el árabe-. Mira, soy esclavo de mi palabra. ¡Golpea! -dijo descubriendo su pecho-. Derrama la sangre de Hatim, y que mi muerte satisfaga el deseo de tu príncipe y te proporcione la recompensa que esperas. Pero los momentos son preciosos; no retrases la ejecución de la orden de tu rey y vete con toda la rapidez posible; la oscuridad te ayudará a escapar de la venganza de mis amigos: si mañana te encuentran aquí, estás inevitablemente perdido.
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 Estas palabras fueron como un rayo para el cortesano. Golpeado por la conciencia de su crimen y la magnanimidad de Hatim, cayó de rodillas, exclamando: «¡Dios me libre de poner una mano sacrílega sobre ti! Nada me impulsará jamás a tal bajeza». Luego abandonó la tienda y tomó el camino de nuevo hacia Yemen.
 
@@ -105,7 +105,7 @@ Las antítesis contenidas en la segunda y última estrofa de este poema son muy 
 
 Ha habido varios poetas con el nombre de Nabegat; el autor de estos versos descendía de la familia de Jaid. Como murió en el año 40 de la Hégira (660 d.C.), a la edad de ciento veinte años, debía tener ochenta años cuando se promulgó el Islam; sin embargo, se declaró un converso temprano a la nueva fe. Los historiadores árabes nos dan un ejemplo curioso del afecto de Mahoma por él. Nabegat, un día presentado al Profeta, fue recibido por él con un saludo bastante común entre los árabes: «¡Que Dios guarde tu boca!» Esta bendición, que procedía de unos labios tan sagrados, tuvo tal efecto que en un instante los dientes del poeta, que se habían aflojado por su avanzada edad, se le pusieron firmes en la cabeza y continuaron sanos y hermosos mientras vivió. Sin embargo, los médicos musulmanes están muy divididos en opinión sobre el punto importante de si Nabegat realmente conservó todos sus dientes originales o si, habiéndolos perdido, consiguió un juego nuevo.
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 ## LA CANCIÓN DE MAISUNA—[p. 105](./Shorter_Pieces.md#p105).
 
@@ -143,7 +143,7 @@ Las diferencias observables en estas dos traducciones y en la de Carlyle probabl
 
 Mu‘āwiya fue el quinto califa en sucesión de Muhammad, y el fundador de la casa de los Omeyas.\]
 
-<span id="p412">[<sup><small>p. 412</small></sup>]</span>
+<span id="p412"><sup><small>[ p. 412 ]</small></sup></span>
 
 ## EL IMAM SHAFAY—[p. 108](./Shorter_Pieces.md#p108).
 
@@ -161,7 +161,7 @@ Los orientales consideran a Isaac Almousely como el músico más célebre que ja
 
 Harún Alrashid, tras pelearse con su amante favorita, Meridah, la abandonó furioso y se negó a volver a verla. La dama estaba desesperada y no sabía cómo lograr una reconciliación. Mientras tanto, el visir Jaafer, que siempre había sido amigo de Meridah, mandó llamar a Almousely y, dándole una canción compuesta para ese fin, le pidió que la interpretara ante el califa con todo el patetismo del que era dueño. Almousely obedeció; y tal fue la potencia de su ejecución que Harún, inmediatamente despidiéndose de su ira, corrió a la presencia de Meridah y, asumiendo toda la culpa de la pelea, le rogó a su amante que perdonara su indiscreción y enterrara lo que había pasado en un olvido eterno. El historiador añade (porque así debe ser siempre la catástrofe de una historia oriental cuando termina felizmente), que la dama, muy contenta con este repentino cambio en la disposición del Califa, ordenó que se le dieran diez mil dirhems a Jaafer y la misma cantidad a Almousely; mientras que Harún, por su parte, no menos complacido con su reconciliación que la dama, duplicó el presente a cada uno.
 
-<span id="p415">[<sup><small>p. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 ## LA RUINA DE LOS BARMECIDAS—[p. 111](./Shorter_Pieces.md#p111).
 
@@ -173,7 +173,7 @@ La desgracia y el consiguiente maltrato de los Barmecidas arrojan una mancha ete
 
 El califa tenía una hermana llamada Abassa, a la que quería apasionadamente y cuya compañía prefería a todo lo demás, salvo la conversación con Jaafer. Hubiera querido unir estos dos placeres llevando a Jaafer consigo en sus visitas a Abassa, pero las leyes del harén, que prohibían que se llevara allí a nadie que no fuera un pariente cercano, lo hacían imposible, y se veía obligado a ausentarse de su hermana o de su favorita. Finalmente descubrió un método que esperaba que le permitiera disfrutar al mismo tiempo de la compañía de estas dos personas que le eran tan queridas: unir a Jaafer y Abassa en matrimonio. Se casaron, en consecuencia, pero con esta condición expresa: nunca se verían excepto en presencia del califa. Sin embargo, sus entrevistas eran muy frecuentes y, como ninguno de los dos podía ignorar las amables cualidades que poseía el otro, se produjo entre ellos un afecto mutuo. Cegados por su pasión, olvidaron la orden del califa y las consecuencias de su relación fueron demasiado evidentes. Abassa dio a luz un hijo, a quien enviaron en secreto para que fuera educado en La Meca. Durante algún tiempo su amorío fue oculto a Alrashid; pero el califa, al recibir finalmente noticias de ello, se dejó llevar por su ira y decidió tomar la venganza más severa. Como consecuencia de esta cruel resolución, ordenó inmediatamente que Jaafer fuera ejecutado y que toda la raza de Barmec fuera privada de sus posesiones y arrojada a prisión. Estas órdenes fueron obedecidas: Jaafer fue decapitado en la antecámara del aposento real, adonde había venido para solicitar una entrevista con el implacable Harún; y su padre y sus hermanos perecieron en el encierro.
 
-Algunas de las palabras consoladoras que Yahia dirigió a su desdichada familia, mientras estaban en prisión, fueron preservadas por <span id="p417">[<sup><small>p. 417</small></sup>]</span> Ben Shonah: «El poder y la riqueza», dijo el venerable anciano, «no fueron más que un préstamo que la fortuna nos confió: debemos estar agradecidos de haber disfrutado de estas bendiciones durante tanto tiempo; y debemos consolarnos por su pérdida con la reflexión de que nuestro destino proporcionará un ejemplo perpetuo a otros de su inestabilidad». La caída de la casa de Barmec fue considerada como una calamidad general. Por su cortesía, sus habilidades y sus virtudes, se habían ganado el cariño de todos; y, según un escritor oriental, «gozaban de la singular felicidad de ser amados tanto cuando estaban en la plenitud de su poder como en una posición privada; y de ser elogiados tanto después de su desgracia como cuando estaban en la cima de su prosperidad».
+Algunas de las palabras consoladoras que Yahia dirigió a su desdichada familia, mientras estaban en prisión, fueron preservadas por <span id="p417"><sup><small>[ p. 417 ]</small></sup></span> Ben Shonah: «El poder y la riqueza», dijo el venerable anciano, «no fueron más que un préstamo que la fortuna nos confió: debemos estar agradecidos de haber disfrutado de estas bendiciones durante tanto tiempo; y debemos consolarnos por su pérdida con la reflexión de que nuestro destino proporcionará un ejemplo perpetuo a otros de su inestabilidad». La caída de la casa de Barmec fue considerada como una calamidad general. Por su cortesía, sus habilidades y sus virtudes, se habían ganado el cariño de todos; y, según un escritor oriental, «gozaban de la singular felicidad de ser amados tanto cuando estaban en la plenitud de su poder como en una posición privada; y de ser elogiados tanto después de su desgracia como cuando estaban en la cima de su prosperidad».
 
 ## TAHER BEN HOSEIN—[pág. 112](./Piezas más cortas.md#p112).
 
@@ -193,7 +193,7 @@ Un ojo tanto Lycidas como Julia quieren,
 
 ## EL ADIÓS—[p. 113](./Shorter_Pieces.md#p113).
 
-Esta bella composición, que guarda un asombroso parecido con una de las odas de Safo, fue cantada ante el <span id="p418">[<sup><small>p. 418</small></sup>]</span> califa Wathek por Abu Mohammed, un músico de Bagdad, como muestra de su talento musical; y tales fueron los efectos sobre el califa que inmediatamente testificó su aprobación de la interpretación arrojando su propia túnica sobre los hombros de Abu Mohammed y ordenándole un presente de cien mil dirhems. Wathek fue el noveno califa de la casa de Abbas, e hijo de Motassem, el más joven de los hijos de Haroun Alrashid. Sucedió a su padre en el año 841 d.C. y murió después de un breve reinado de cinco años. Wathek no carecía ni de virtud ni de habilidades: no sólo admiraba y apoyaba la literatura y la ciencia, sino que en varias ramas de ellas, particularmente la poesía y la música, era un experto. Sus últimas palabras fueron: «Rey del cielo, cuyo dominio es eterno, ten piedad de un príncipe miserable, cuyo reinado es transitorio!»
+Esta bella composición, que guarda un asombroso parecido con una de las odas de Safo, fue cantada ante el <span id="p418"><sup><small>[ p. 418 ]</small></sup></span> califa Wathek por Abu Mohammed, un músico de Bagdad, como muestra de su talento musical; y tales fueron los efectos sobre el califa que inmediatamente testificó su aprobación de la interpretación arrojando su propia túnica sobre los hombros de Abu Mohammed y ordenándole un presente de cien mil dirhems. Wathek fue el noveno califa de la casa de Abbas, e hijo de Motassem, el más joven de los hijos de Haroun Alrashid. Sucedió a su padre en el año 841 d.C. y murió después de un breve reinado de cinco años. Wathek no carecía ni de virtud ni de habilidades: no sólo admiraba y apoyaba la literatura y la ciencia, sino que en varias ramas de ellas, particularmente la poesía y la música, era un experto. Sus últimas palabras fueron: «Rey del cielo, cuyo dominio es eterno, ten piedad de un príncipe miserable, cuyo reinado es transitorio!»
 
 \[Este príncipe es el héroe del cuento «árabe» de Beckford, Vathek, que Byron ha elogiado mucho por «la corrección del vestuario, la belleza de la descripción y el poder de la imaginación»; pero, aunque ciertamente es una notable obra de fantasía, está lejos de merecer los elogios que en un tiempo se le otorgaron tan pródigamente.\]
 
@@ -264,7 +264,7 @@ Este autor era nativo de Naharwan, pero vivió principalmente en Bagdad, donde e
 
 El motivo de esta extraña composición y su verdadera intención se relacionan de diversas maneras. Algunos dicen que no significa más de lo que pretende y que en realidad fue compuesta con motivo de la muerte de un gato favorito. Otros nos dicen que el poeta aquí lamenta las desgracias de Abdallah Ebn Motaz, quien fue elevado al califato por un tumulto popular, en el año 296 d. C. [908 d. C.], y, después de disfrutar de su dignidad un solo día, fue condenado a muerte por su rival Moctader. Como el poeta no se atrevió a mostrar su dolor por Abdallah de una manera más abierta, inventó, según estos autores, esta alegoría, en la que el destino de Abdallah se representa bajo el de un gato. Pero la opinión más generalizada es que estos versos fueron compuestos como una elegía a la muerte de un amigo privado, cuyo nombre no se conoce, pero que, como Abdallah, debió su ruina a la gratificación temeraria de una pasión testaruda. Este joven sentía afecto por una esclava favorita del visir Ali Ben Isa, y ella también lo amaba. Su amorío había permanecido oculto durante algún tiempo, pero un día, desafortunadamente, los amantes fueron sorprendidos uno junto al otro por el celoso visir, quien los sacrificó a ambos en el acto a causa de su furia.
 
-<span id="p424">[<sup><small>p. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 ## EBN NAPHTA-WAH—[p. 126](./Piezas más cortas.md#p126).
 
@@ -278,7 +278,7 @@ Radhi Billah, hijo de Moctader, fue el vigésimo califa de la casa de Abbas y el
 
 La corte de Alepo, durante el reinado de Saif Addaulet (944-966 d. C.), era la más refinada de Oriente: el sultán y sus hermanos eran todos eminentes por su talento poético, y quien sobresaliera, ya fuera en literatura o en ciencia, estaba seguro de obtener su patrocinio; de modo que en una época en la que no sólo Europa, sino gran parte de Asia, se hundía en la más profunda ignorancia, el sultán de Alepo podía jactarse de tener en su corte una asamblea de genios como pocos soberanos han sido capaces de reunir jamás. Elmacin relata que Saif Addaulet, habiendo concebido una pasión por una princesa de sangre real, dio tales muestras públicas de la preferencia que sentía por ella, que las damas de su harén se alarmaron y decidieron librarse del objeto de sus celos por medio de veneno. Sin embargo, el sultán se enteró de su plan y decidió impedirlo transportando a la princesa a un castillo a cierta distancia de Alepo; y mientras ella permaneció en esta soledad le dirigió estos versos.
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 ## LA CRUCIFIXIÓN DE EBN BAKIAH—[p. 132](./Shorter_Pieces.md#p132).
 
@@ -296,7 +296,7 @@ Después del carácter dado de Shems Almaali, es casi superfluo añadir que fue 
 
 ## SOBRE LA VIDA—[p. 134](./Shorter_Pieces#p134).
 
-\[Un paralelo al sentimiento contenido en estos versos, pero expresado de manera mucho menos elegante, se encuentra en un antiguo epigrama griego, que el Mayor Robert Guthrie Macgregor ha traducido así: <span id="p427">[<sup><small>p. 427</small></sup>]</span> («Antología griega, con notas críticas y explicativas», Sec., vii., 148, p. 567)
+\[Un paralelo al sentimiento contenido en estos versos, pero expresado de manera mucho menos elegante, se encuentra en un antiguo epigrama griego, que el Mayor Robert Guthrie Macgregor ha traducido así: <span id="p427"><sup><small>[ p. 427 ]</small></sup></span> («Antología griega, con notas críticas y explicativas», Sec., vii., 148, p. 567)
 
 La muerte nos persigue a todos: estamos engordados como un rebaño
 De cerdos, a su vez, para el sacrificio en el bloque.
@@ -331,7 +331,7 @@ Abu Alola es considerado uno de los poetas árabes más excelentes. Nació ciego
 
 Gibbon describe así el carácter y el destino de este ilustre estadista: «En un período en el que Europa estaba sumida en la más profunda barbarie, la luz y el esplendor de Asia pueden atribuirse a la docilidad más que al conocimiento de los conquistadores turcos. Una amplia parte de su sabiduría y virtud se debe a un visir persa que gobernó el imperio bajo Alp Arslan y su hijo. Nedham, uno de los ministros más ilustres de Oriente, fue honrado por el califa como oráculo de la religión y la ciencia; el sultán confió en él como fiel vicegerente de su poder y justicia. Después de una administración de treinta años, la fama del visir, su riqueza e incluso sus servicios se transformaron en crímenes. Fue derrocado por las insidiosas artes de una mujer y una rival; y su caída se aceleró por una declaración temeraria de que su gorra y su tintero, las insignias de su cargo, estaban relacionadas por decreto divino con el trono y la diadema del sultán. A la edad de noventa y tres años, el venerable estadista fue despedido por su amo, acusado por sus enemigos y asesinado por un fanático. Las últimas palabras de Nedham atestiguaron su inocencia, y el resto de la vida de Malec fue breve e ignominiosa.
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 Malec murió en el año de la Hégira 465 \[1072 d.C.\], y con él expiró la grandeza y la unión del imperio selyúcida.
 
@@ -397,7 +397,7 @@ v. 3. «Carne en la tabla del carnicero» es una expresión proverbial para aque
 
 v. 4. El escoliasta compara los proverbios (ambos corrientes en la Ignorancia): «Un yerno excelente es la tumba» y «Sepultar a las hijas es un acto de misericordia»; la referencia en el último es a la práctica de enterrar vivas a las niñas inmediatamente después del nacimiento, que todavía prevalecía (aunque no estaba muy extendida) entre los árabes paganos en la época de la misión del Profeta. La suerte de las mujeres entre los árabes de la Ignorancia era dura; y es muy probable que la práctica en cuestión se perpetuara, si no comenzó, en el deseo de ahorrarle a la familia la vergüenza de ver a sus mujeres maltratadas o deshonradas de alguna otra manera.
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 v. 5. Él espera con ansias el momento en que su hija quedará 'huérfana y no encontrará amor como el que encontró en él.
 
@@ -411,13 +411,13 @@ Abu Ismael era oriundo de Ispahán. Se dedicó al servicio de los sultanes sely�
 
 Esta composición ha obtenido una aprobación más general que casi cualquier poema existente en Oriente; es celebrada por los historiadores, comentada por los críticos y citada por el pueblo. Por lo tanto, la he reproducido íntegramente de la edición del Dr. Pocock. La extrema popularidad de esta producción es una prueba sorprendente de la decadencia de todo gusto verdadero entre los orientales: de otra manera sería imposible que pudieran preferir las elaboradas ideas y los adornos de oropel de Abu Ismael a la sencillez de los bardos de Yemen y la elegancia de los poetas de Bagdad.
 
-<span id="p434">[<sup><small>p. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 \[Tal es la opinión que nuestro traductor tiene del Lāmiyyatu-’l-‘Ajem, al que, cualesquiera que sean sus defectos, su propia traducción al inglés ciertamente no ha hecho justicia. Sería muy deseable que Carlyle se hubiera esforzado por preservar en su traducción la forma externa, al menos, de los versos originales; pero tal vez no se hubiera podido esperar esto en una época en la que nuestra propia poesía inglesa se caracterizaba por una absurda afectación de «sensibilidad» refinada y era, según Lord Byron, [tan](./errata.htm#6) artificial como Carlyle nos quiere hacer creer que es este poema de Et-Tugrā‘ī. Y, sin embargo, en 1758, o cuarenta años antes de que se publicara la primera edición (impresa de manera muy inexacta, dicho sea de paso) de los «Specimens» de Carlyle, el Lāmiyyatu-’l-‘Ajem, bajo el título de «El viajero: un poema árabe», fue «traducido al verso inglés, en la misma medida yámbica que el original», por Leonard Chappelow, BḌ., de la propia Universidad de Cambridge de Carlyle; de lo cual, por extraño que parezca, nuestro traductor no hace mención. Y aquí puede notarse como no menos extraño, tal vez, que en el Manual del Bibliógrafo de Lowndes, mientras que la versión latina del original del Dr. Pocock, con notas, y la traducción inglesa de Chappelow se mencionan, no se hace mención de la versión posterior de Carlyle.
 
 Este poema se llama Lāmiyyatu-’l-‘Ajem, o el Lāmiyya de los no árabes, de la _rawī_, o letra vinculante de la rima que corre a través de la pieza, que es la letra árabe llamada _lām_ (nuestra «L»); y de que el autor del mismo es un persa, o extranjero: los árabes distinguen a la humanidad en dos secciones: primero, ellos mismos, 'árabes, y segundo, 'Ajem, _es decir_, no árabes; como los «judíos y gentiles», «griegos y bárbaros». El autor es comúnmente llamado Et-Tūgrā‘ī, por el cargo que tenía de «escritor de claves para el rey»: Abu Ismā‘īl tenía que escribir la _Tūgrā_, o clave, del rey en todos los edictos reales. Este cargo todavía existe en Turquía: el titular se llama _Tūgrā-kesh_, dibujante de claves, y _tevqī‘ī_, codificador; anteriormente, _nishānjī_, marcador. El nombre completo del poeta era Mu‘ayyidu-’d-Dīn, Hasan (o Husayn) ’bnu ‘Ali, Abu Ismā‘īl, Et-Tūgrā‘ī—que significa: Hasan, hijo de ‘Alī, padre de Ismā‘īl, Partidario de la Fe, Escritor de Claves del Sultán.
 
-<span id="p435">[<sup><small>p. 435</small></sup>]</span>
+<span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
 Un poema «L» aún más notable es el Lāmiyyatu-’l-‘Arab del famoso poeta bandido preislamita Shanfara‘, de cuya vida y poesía da un relato fascinante el Sr. W. G. Palgrave, en sus «Ensayos sobre cuestiones orientales». «En ninguna parte», dice el Sr. Palgrave, «su indomable confianza en sí mismo se expresa de manera más salvaje que en este famoso poema, famoso mientras exista la literatura árabe; la expresión más completa jamás dada de una mente que desafía su época y todo lo que la rodea, y vuelve al individualismo absoluto del salvaje, o al menos lo idealiza. Es un monolito, completo en sí mismo; y si alguna vez se traduce (aunque dudo de la posibilidad) al verso inglés, debe permanecer solo».
 

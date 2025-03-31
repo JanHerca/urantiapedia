@@ -166,7 +166,7 @@ Parágrafo 4. La pérdida y recuperación por parte de Yâo de su Perla de color
 
 7\. Yü y Po-khang Dze-kâo. Este último reivindica su renuncia a la dignidad y se dedica a la agricultura.
 
-9\. Confucio y Lâo-dze; sobre la actitud hacia el Tâo de un gran sabio y gobernante. <span id="p302">[<sup><small>p. 302</small></sup>]</span> 10\. Kiang-lü Mien y Ki Khêh; sobre el consejo que el primero dio al gobernante de Lû.
+9\. Confucio y Lâo-dze; sobre la actitud hacia el Tâo de un gran sabio y gobernante. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> 10\. Kiang-lü Mien y Ki Khêh; sobre el consejo que el primero dio al gobernante de Lû.
 
 11\. Dze-kung y el viejo jardinero;—argumento de este último en favor de la simplicidad primitiva y observaciones al respecto por Confucio.
 
@@ -194,7 +194,7 @@ Párrafo 2. Tang, un ministro de Shang, y Kwang-dze sobre la naturaleza de la Be
 
 5\. Confucio y Lâo-dze. El primero aún no ha comprendido el Tao, y Lâo-dze explica la razón.
 
-6\. Confucio y Lâo-dze. Confucio habla de la benevolencia <span id="p303">[<sup><small>p. 303</small></sup>]</span> y la rectitud; y de cómo la situación se le vuelve en contra. Queda profundamente impresionado por el otro.
+6\. Confucio y Lâo-dze. Confucio habla de la benevolencia <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> y la rectitud; y de cómo la situación se le vuelve en contra. Queda profundamente impresionado por el otro.
 
 7\. Dze-kung, a raíz del informe del Maestro sobre su entrevista, también va a ver a Lâo-Sze, quien queda desconcertado y lo sermonea.
 
@@ -226,7 +226,7 @@ Párrafo 2. Hui-dze y Kwang-dze;—vindicación por parte de este último de su 
 
 3\. El señor Deforme y el señor Pie único; su sumisión bajo dolor y ante la perspectiva de la muerte.
 
-4\. Kwang-dze y la calavera: lo que le dijo y su aparición en sueños nocturnos. <span id="p304">[<sup><small>p. 304</small></sup>]</span> 5\. La tristeza de Confucio por la partida de Yen Hui hacia Khî y su defensa de la calavera ante Dze-kung. La aparición de un pájaro extraño en Lû y sus moralizaciones al respecto.
+4\. Kwang-dze y la calavera: lo que le dijo y su aparición en sueños nocturnos. <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 5\. La tristeza de Confucio por la partida de Yen Hui hacia Khî y su defensa de la calavera ante Dze-kung. La aparición de un pájaro extraño en Lû y sus moralizaciones al respecto.
 
 6\. Lieh-dze y la calavera. Las transmutaciones de las cosas.
 
@@ -264,7 +264,7 @@ Parágrafo 1. Kwang-dze y sus discípulos: el gran árbol que no servía de nada
 
 3\. Pei-kung Shê y el príncipe Khing-kî; cómo el primero recaudaba impuestos e hizo sonar las campanas.
 
-4\. Cómo el Thâi-kung Zän condolió a Confucio de sus aflicciones e intentó convertirlo al taoísmo. <span id="p305">[<sup><small>p. 305</small></sup>]</span> 5\. Confucio y Dze-sang Hû. El efecto taoísta de su conversación en el primero. La acusación de Shun a Yü en su lecho de muerte.
+4\. Cómo el Thâi-kung Zän condolió a Confucio de sus aflicciones e intentó convertirlo al taoísmo. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> 5\. Confucio y Dze-sang Hû. El efecto taoísta de su conversación en el primero. La acusación de Shun a Yü en su lecho de muerte.
 
 6\. Kwang-dze andrajoso ante el rey de Wei. El apólogo del mono trepador.
 
@@ -302,7 +302,7 @@ Párrafo 1. El conocimiento, la inacción tonta, el tartamudo testarudo y el Hwa
 
 3\. Nieh Khüeh interroga a Phei-î sobre el Tâo.
 
-4\. Shun y su ministro Khäng;—ese hombre no es suyo. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 5\. Confucio y Lâo Tan;—sobre el Tâo Perfecto.
+4\. Shun y su ministro Khäng;—ese hombre no es suyo. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 5\. Confucio y Lâo Tan;—sobre el Tâo Perfecto.
 
 6\. La pregunta de Tung-kwo Dze a Kwang-dze sobre dónde se encontraba el Tâo, y la respuesta.
 
@@ -380,7 +380,7 @@ Párrafo 2. Contra la demora en hacer el bien cuando está en nuestras manos hac
 
 3\. El gran pez capturado por el hijo del duque de Zän.
 
-4\. Los estudiantes resurreccionistas. <span id="p308">[<sup><small>p. 308</small></sup>]</span> 5\. Cómo Lâo Lâi-dze amonestó a Confucio.
+4\. Los estudiantes resurreccionistas. <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> 5\. Cómo Lâo Lâi-dze amonestó a Confucio.
 
 6\. El sueño del gobernante Yüan de Sung sobre una tortuga.
 
@@ -416,7 +416,7 @@ Par. 1. Las ofertas de trono de Yâo a Hsü Yû y Dze-kâu Kih-fû. Las ofertas 
 
 7\. El príncipe Mâu de Kung-shan, que vivía retirado, no estaba lejos del Tâo.
 
-8\. Confucio y los discípulos Yen Hui, Dze-lû y Dze-kung, durante la época peligrosa entre Khän y Zhâi. <span id="p309">[<sup><small>p. 309</small></sup>]</span> 9\. Shun y el norteño Wû-kâi, quien rehúsa el trono. Thang, y Pien Sui y Wû Kwang, quienes lo rechazaron.
+8\. Confucio y los discípulos Yen Hui, Dze-lû y Dze-kung, durante la época peligrosa entre Khän y Zhâi. <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> 9\. Shun y el norteño Wû-kâi, quien rehúsa el trono. Thang, y Pien Sui y Wû Kwang, quienes lo rechazaron.
 
 10\. El caso de los hermanos Po-î y Shû-khî, quienes rechazaron las ofertas del rey Wû.
 
@@ -450,7 +450,7 @@ Párrafo 1. Lieh-dze y el efecto de la sobremanifestación de sus cualidades atr
 
 11\. Khâo-fû el Correcto, y su humildad.
 
-12\. La reprimenda de Kwang-dze al hombre que se jactó de haber recibido carros del rey de Sung, y su comparación con el niño que robó una perla de debajo de la barbilla del Dragón Negro mientras dormía. <span id="p310">[<sup><small>p. 310</small></sup>]</span> 13\. Kwang-dze declina la oferta de dignidad oficial. El apólogo del buey sacrificial.
+12\. La reprimenda de Kwang-dze al hombre que se jactó de haber recibido carros del rey de Sung, y su comparación con el niño que robó una perla de debajo de la barbilla del Dragón Negro mientras dormía. <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> 13\. Kwang-dze declina la oferta de dignidad oficial. El apólogo del buey sacrificial.
 
 14\. Kwang-dze, a punto de morir, se opone al deseo de sus discípulos de darle un entierro solemne. Su propia descripción de cómo debería ser su entierro.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 ## XII. José y el espejo.
 
@@ -61,7 +61,7 @@ La envidia de sus hermanos y el mal trato tocado,
 La desgracia no afecta a los leones, si con cadenas están atados.
 Con el decreto de Dios no peleo; siempre es sano.
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 Un león con una cadena alrededor de su cuello señorial,
 Sigue siendo el señor de ellos que forjó la cadena como cheque.”
@@ -93,7 +93,7 @@ Incluso Dios preguntará a sus criaturas en el día del juicio:
 ¿Solo y con las manos vacías? ¿Así es como vienes?
 ¿Incluso como te creamos al principio? ¿Regalos dejados en casa?'[^340]
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 ¿Qué has traído como ofrendas oportunas en tus manos?
 <sup id="v25"><small>25</small></sup> ¿Cuáles son los regalos con los que honrarías las tierras de tu nueva vida?
@@ -126,7 +126,7 @@ Desde el estado de éxtasis de los santos que llegan a su casa.
 Los santos fueron bien prefigurados por los «Siete Durmientes». [^344]
 «Su sueño», «sus estiramientos», «su despertar», conducen al cielo.
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Sin el menor esfuerzo de sus partes mediante actos,
 Los «registros de derecha e izquierda» los dibujan por hechos.
@@ -161,7 +161,7 @@ Preséntale este espejo, tú, como mejor te parezca.
 En la no existencia reflejada, siendo podemos ver;
 Como los hombres ricos, su riqueza puede mostrarse por la alegría de los mendigos.
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 El espejo del hombre hambriento muestra mejor lo que es el pan.
 Y la yesca refleja el pedernal y el brillo del acero, rápidamente extendido.
@@ -196,7 +196,7 @@ Existe en germen en cada pecho humano jadeante.
 Estos se imaginan que se han mortificado a lo largo de todo.
 Tómalos como corrientes puras; su inmundicia busca en la lechada.
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Sólo revuélvelos un poco, por el bien de una prueba;
 Verás su barro descolorar todo el agua del lago.

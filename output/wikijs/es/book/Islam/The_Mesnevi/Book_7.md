@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## VII. El mercader y el loro.
 
@@ -62,7 +62,7 @@ Déjalo en su jaula, mientras te afectan los bosques.
 Él desea que recuerdes a tu amigo perdido,
 Cuando bebas tus parachoques, antes de que el campo se dirija.[^202]
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Es dulce ser pensado por una dama lejana,
 El amor de uno, cuyo amor enciende el corazón de uno en una llama.
@@ -97,7 +97,7 @@ Todos los males le parecen, a través de su amor, la más pura felicidad.
 Él ama una rosa, y él mismo es una rosa.
 Él se ama a sí mismo; y busca el amor por sus aflicciones.”
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Así es el alma. Su historia, solo la historia de un loro.
 Oh, ¿dónde está el Uno a quien todas las almas hacen gemir?
@@ -130,7 +130,7 @@ En un retiro boscoso, bandada de loros que encontró.
 Detuvo a su bestia y gritó, a todo pulmón. su voz,
 Ese mensaje que Polly había hecho, como su elección.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 Un pájaro de la bandada, vio, luego se puso a temblar,
 Cayó boca abajo a la tierra; no parecía tomar más aliento.
@@ -167,7 +167,7 @@ La impaciencia que se muestra, prueba la ira que está por venir.
 Un santo no se lastima, pase lo que pase,[^209]
 Tragar veneno cayó si alguna vez decide hacerlo.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Él es completo y sano; la dieta estricta es su regla.
 Los estudiantes pobres están sanos en la escuela del terror de la fiebre.
@@ -204,7 +204,7 @@ Presentadnos los trucos que tenéis en vuestras manos.”
 El honor así pagado fue una mancha en su fe,
 Eliminando la contención de fuera de su camino.
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Cuando ellos habían percibido lo que así se le debía,
 Ellos error reconocido, aunque algo demasiado tenue.
@@ -240,7 +240,7 @@ Así que las lágrimas corren dondequiera que el arrepentimiento aparece.
 Para llorar, Adán descendió a este inframundo;
 Suspirar, gemir y gemir; lejos del dulce Edén arrojado,
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Desde el paraíso excluido, desde el cielo expulsado,
 Como un colegial con gorra de tonto, su gran pecado es ahogarse.
@@ -278,7 +278,7 @@ Al comerciante y al oído del loro le prestaremos cuento.
 Nuestro comerciante su comercio había despachado rápidamente,
 Luego se volvió hacia su casa; con alegría la puerta de la casa se abrió.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 A cada esclavo varón le trajo un regalo raro;
 <sup id="v105"><small>105</small></sup> Para cada una de sus siervas algún regalo que había comprado.
@@ -314,7 +314,7 @@ La flecha que la pobre Jill golpea; inmediatamente la mata.
 Si tan solo la lastimara, por mucho tiempo
 Tortura. El dolor es obra de Dios; dondequiera que el clima.
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Si Jack, en ese momento, muere de miedo,
 <sup id="v120"><small>120</small></sup> Para plagar a su Jill La herida no cesaba ni de día ni de noche.
@@ -349,7 +349,7 @@ Los santos iluminados gobiernan los corazones; su propio dominio.
 Todos los actos son frutos, sin duda, de la experiencia.
 El hombre, entonces, no es más que un alumno. Todo lo demás es mera apariencia.[^220]
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Cierro ahora este tema, mucho más podría decir;
 <sup id="v135"><small>135</small></sup> Prevenido soy por las reglas que obedezco.
@@ -388,7 +388,7 @@ Y gemía, angustiado sollozando salvajemente, por todas partes:
 “Mi loro, ¿por qué, querido, estás tan destrozado? ¿de corazón?
 <sup id="v150"><small>150</small></sup> ¿Estás muerto ahora, de verdad? ¿Estás tan ansioso por partir?
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 ¡Pobre mascota! ¡Querido pájaro! Contigo, horas Podría hablar.
 ¡Mi amor! ¡Mi segundo yo! Amado fue tu caminar.
@@ -424,7 +424,7 @@ Mi luz! El día contigo es todo brillo de sol.
 Los ignorantes, pretendientes de problemas son, todos.
 «Lo juro», hasta «miseria», lee, pobre esclavo.[^222]
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 De la miseria libre me hiciste tu rostro.
 De la espuma, así la corriente clara de tu ayuda.
@@ -459,7 +459,7 @@ Como un león macho, el dolor rechaza todo tipo de condolencias.
 El que en sus sentidos se ha vuelto así borracho,
 ¡Qué feroz sería su furia, si en copas se hundiera!
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Un león en celo, él, despreciando todos los límites;
 Ningún bosque lo sostendría, ni tampoco los densos terrenos selváticos.
@@ -496,7 +496,7 @@ No es más que una relación. Cada uno es uno de dos.
 Si la sed busca agua en este amplio dominio,
 El agua, de su lado, la sed vuelve a cortejar.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Si alguien te ama, haz tú silencio sé.
 Tu oído reclama él entonces, tú atento deberías estar.
@@ -534,7 +534,7 @@ Que los antiguos y los modernos lo son todo. deporte.
 He hecho breve mi historia; no se dan detalles.
 <sup id="v215"><small>215</small></sup> De lo contrario, quemaría el corazón y la lengua. Toda la articulación de la levadura.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Cuando puedo decir «labio», me refiero a «margen del mar»;
 Cuando dices «¡No!» puedes tomar su verdadero sentido «¡Sí!».
@@ -566,7 +566,7 @@ Los celos del hombre, la paja voló fuera de la puerta.
 Saber: Los celos se levantan, todavía, en nuestro Dios;
 Los celos del hombre brotaron de esa noble vara.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Dejemos ese tema profundo; tomemos la queja y el lamento,
 <sup id="v230"><small>230</small></sup> Contra la gran dureza del mayal castigador del amor.[^228]
@@ -600,7 +600,7 @@ Donde aparecen las unidades, Tú eres la suma del todo!
 Este «_yo_» y este «_nosotros_» Tú lo ordenaste para Tu estado;
 Que salmos, himnos y alabanzas aún pueden subir a tu puerta.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 Cuando «yo» y cuando «nosotros» nos uniremos en Uno,
 <sup id="v245"><small>245</small></sup> Absorbidos estarán en Tu esencia solamente.
@@ -639,7 +639,7 @@ Mi entusiasmo no surge de la alegría, o de la pena;
 Mi estado es solo uno muy a menudo no visto;
 No compitas; la verdad siempre ha sido victoriosa.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 No pienses que mi estado es el de todos estos hombres comunes;
 No seas benefactor, tiranizar entonces.
@@ -673,7 +673,7 @@ Con la esperanza de que alguna ayuda para su rescate vendrá,
 Su novia disfruta de sus luchas por ver;
 Un esfuerzo es más noble que el desaliento.
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Un novio es, seguramente, no del todo libre de preocupaciones.
 Sus gemidos no los esperamos. El dolor no es lo que teme.
@@ -710,7 +710,7 @@ Conviértete en grano; serás picoteado por los pájaros.
 ¿Tu grano escondes? No eres más que una trampa de ladrillos.
 ¿Tu flor está cerrada? Eres una mala hierba en el tejado.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Su belleza quienquiera que la ofrezca en venta,
 Invita a muchos problemas a su corazón para asaltar.
@@ -749,7 +749,7 @@ Mira cómo deben actuar las almas para alcanzar la bienaventuranza celestial”.
 El cuerpo es una jaula y una espina para el alma.
 Por lo tanto, rara vez están. cuerpo y alma completamente enteros.
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 El cuerpo dice: «Te seguiré a donde tú me puedas guiar».
 El alma responde: «¡No! Tu deseo es todo lo que escucho».
@@ -788,7 +788,7 @@ Ni uno ni el otro vale la mitad del costo.
 Duración no tienen; efectos que producen.
 <sup id="v325"><small>325</small></sup> Por los contrarios, contrarios todos lo que deducimos.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Como efecto oculto de una dieta de dulces,
 Por largo tiempo de incubación, aparecen forúnculos o gleets.
@@ -823,7 +823,7 @@ El mejor «registro» del hombre debe ser borrones y quejas.[^236]
 ¡Oh Dios! Tu gracia, única, nos sostiene como hombres,
 <sup id="v340"><small>340</small></sup> Otro para nombrar contigo no conviene una pluma.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 A los sirvientes, buen juicio Tú gentilmente les concediste.
 Este regalo hizo los medios, nosotros hemos escapado del error.
@@ -862,7 +862,7 @@ Oh Muerte? Tú restauras, ahora, toda la presa tuya;
 Considera, amigo mío, en ti mismo; ahora, un momento,
 La primavera y el otoño tú en ti ves sonreír.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Mira que tu corazón sea verde, dé sus buenos frutos
 De rectitud, pureza, los mejores reclutas del cielo.
@@ -892,7 +892,7 @@ La aflicción de un ojo ciego, dondequiera que se encuentre.
 En presencia de José, no se permiten coqueterías.[^243]
 Pero humíllate; suaves súplicas infunden.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 El loro tenía la muerte simulada, como oración.
 <sup id="v370"><small>370</small></sup> Muere tú al orgullo; así podrás vivir para siempre.

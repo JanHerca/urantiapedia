@@ -38,7 +38,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^230]. Que ofrezca (oblaciones de <i>S</i>râddha) cada mes a los padres.
 
-2\. [^231]. Habiendo invitado a un número impar de brahmanes, versados ​​en el Veda, al menos tres, a sentarse como (representantes de) los padres, <span id="p107">[<sup><small>p. 107</small></sup>]</span>
+2\. [^231]. Habiendo invitado a un número impar de brahmanes, versados ​​en el Veda, al menos tres, a sentarse como (representantes de) los padres, <span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 3\. Y esparciendo sésamo en un número desigual de tinajas de agua,
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. Les dará de comer, diciéndoles: «¡Esto es para ti!».
 
-8\. Mientras comen, murmurará el Mahâvyâh<i>ri</i>tis, el Sâvitrî, ​​los versos Madhuvâtîya (Rig-veda I, 90, 6 y siguientes), y versos dirigidos a los Manes y a (Soma) Pavamâna. <span id="p108">[<sup><small>p. 108</small></sup>]</span>
+8\. Mientras comen, murmurará el Mahâvyâh<i>ri</i>tis, el Sâvitrî, ​​los versos Madhuvâtîya (Rig-veda I, 90, 6 y siguientes), y versos dirigidos a los Manes y a (Soma) Pavamâna. <span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 9 [^233]. Cuando hayan terminado de comer, ofrecerá los terrones (de harina).
 
@@ -86,7 +86,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## KHANDA 3.
 
-1\. [^240]. Ahora (sigue) el Sapi<i>nd</i>îkara<i>n</i>a (es decir, la recepción de un difunto en la comunidad de ofrendas de Pi<i>nd</i>a con los demás Manes). <span id="p110">[<sup><small>p. 110</small></sup>]</span>
+1\. [^240]. Ahora (sigue) el Sapi<i>nd</i>îkara<i>n</i>a (es decir, la recepción de un difunto en la comunidad de ofrendas de Pi<i>nd</i>a con los demás Manes). <span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 2 [^241]. Cuando haya transcurrido un año, o tres medios meses,
 
@@ -104,7 +104,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 ## KHANDA 4.
 
-1\. [^242]. Ahora (sigue) la Âbhyudayika (es decir, la ceremonia de <i>S</i>râddha que se refiere a la buena suerte). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
+1\. [^242]. Ahora (sigue) la Âbhyudayika (es decir, la ceremonia de <i>S</i>râddha que se refiere a la buena suerte). <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 2\. En la quincena de luna creciente, en un día auspicioso,
 
@@ -130,7 +130,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 13\. [^249]. 'Haré hablar a los Nândîmukha Manes', cuando él haga hablar (a los Brâhma<i>n</i>as).
 
-14\. [^250]. '¿Estuvo bien hecho?' —así se les pregunta si están saciados. <span id="p112">[<sup><small>p. 112</small></sup>]</span>
+14\. [^250]. '¿Estuvo bien hecho?' —así se les pregunta si están saciados. <span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 15\. El resto es igual (como en los otros tipos de ritos de <i>S</i>râddha), siempre que no esté prohibido (por reglas contrarias).
 
@@ -150,7 +150,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 7\. 'Alabo a Agni el Purohita' (Rig-veda I, 1, 1), este verso,
 
-8\. «El Kushumbhaka (¿ganso mungo?) lo ha dicho;» «Si lloras, oh pájaro, anúncianos la suerte;» «Cantado por <i>G</i>amadagni;» «En tu morada descansa el mundo entero;» <span id="p113">[<sup><small>p. 113</small></sup>]</span> «Venid a nuestro sacrificio, oh vosotros que sois dignos de sacrificio, con cuidado;» «Quienquiera, sea nuestro, sea extranjero;» «Mira, mira a tu alrededor;» «Ven aquí, Agni, amigo de los Maruts;» «La oblación, oh rey, cocinada para ti:» cada dos versos,
+8\. «El Kushumbhaka (¿ganso mungo?) lo ha dicho;» «Si lloras, oh pájaro, anúncianos la suerte;» «Cantado por <i>G</i>amadagni;» «En tu morada descansa el mundo entero;» <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> «Venid a nuestro sacrificio, oh vosotros que sois dignos de sacrificio, con cuidado;» «Quienquiera, sea nuestro, sea extranjero;» «Mira, mira a tu alrededor;» «Ven aquí, Agni, amigo de los Maruts;» «La oblación, oh rey, cocinada para ti:» cada dos versos,
 
 9\. [^254]. 'Esa bendición y dicha elegimos'—este verso (el primero y el último verso de cada Ma<i>nd</i>ala).
 
@@ -160,7 +160,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 12\. Murmuren los Mahâvyâh<i>ri</i>tis, los Sâvitrî y los himnos auspiciosos que comienzan desde el principio del Veda,
 
-13\. Y haz que el maestro pronuncie deseos auspiciosos. <span id="p114">[<sup><small>p. 114</small></sup>]</span>
+13\. Y haz que el maestro pronuncie deseos auspiciosos. <span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 14\. De esta (ceremonia) también se dice:
 
@@ -178,7 +178,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 3\. En un lugar cubierto de hierbas,
 
-4\. Tras murmurar los himnos consagrados al Sol: «Arriba ese Gātavedas» (Rig-veda I, 50), «El rostro resplandeciente de los dioses» (I, 115), «Adoración al ojo de Mitra» (X, 37), «Desde el cielo (donde mora) que Sûrya nos proteja» (X, 158), <span id="p115">[<sup><small>p. 115</small></sup>]</span>
+4\. Tras murmurar los himnos consagrados al Sol: «Arriba ese Gātavedas» (Rig-veda I, 50), «El rostro resplandeciente de los dioses» (I, 115), «Adoración al ojo de Mitra» (X, 37), «Desde el cielo (donde mora) que Sûrya nos proteja» (X, 158), <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 5\. Y habiendo arrojado terrones de tierra (al suelo) a los diferentes puntos (del horizonte), de izquierda a derecha, con el himno, 'Un gobernante en verdad' (Rig-veda X, 152), verso por verso,
 
@@ -204,7 +204,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 6\. [^260]. Si ha ocurrido una muerte (de parientes) o un nacimiento, durante diez días;
 
-7\. [^261]. En los días catorce (de las quincenas), los días de luna nueva y los días de Ash<i>t</i>akâ, <span id="p116">[<sup><small>p. 116</small></sup>]</span>
+7\. [^261]. En los días catorce (de las quincenas), los días de luna nueva y los días de Ash<i>t</i>akâ, <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 8 [^262]. Y en los días de niebla.
 
@@ -234,7 +234,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 21\. [^264]. Cuando se oye el sonido de un Sâman;
 
-22\. En un cementerio; <span id="p117">[<sup><small>p. 117</small></sup>]</span>
+22\. En un cementerio; <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 23 [^265]. En un desierto que pertenece a la aldea;
 
@@ -284,7 +284,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 46\. Mientras estaba ungido;
 
-47\. (En las cercanías) de un hombre que tiene que tocar cadáveres (un portador de cadáveres, etc.), de una mujer que ha dado a luz recientemente o que está en período, como (en las cercanías) de un <i>S</i>ûdra; <span id="p118">[<sup><small>p. 118</small></sup>]</span>
+47\. (En las cercanías) de un hombre que tiene que tocar cadáveres (un portador de cadáveres, etc.), de una mujer que ha dado a luz recientemente o que está en período, como (en las cercanías) de un <i>S</i>ûdra; <span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 48\. Con las manos veladas;
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-15T23:3:27Z
 
 15\. Cuando ha recitado, abraza (los pies de su maestro),
 
-16\. Dice: «¡Hemos terminado, señor!» y se marcha, según sus asuntos. <span id="p120">[<sup><small>p. 120</small></sup>]</span>
+16\. Dice: «¡Hemos terminado, señor!» y se marcha, según sus asuntos. <span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 17\. (Él dirá:) "¡Váyanse! ¡Esperen un momento!", según algunos (maestros).
 
@@ -350,11 +350,11 @@ dateCreated: 2025-1-15T23:3:27Z
 
 1\. [^274]. Después de bañarse,
 
-2\. Y habiéndose sumergido a la hora prescrita para el baño, sació a las deidades: <span id="p121">[<sup><small>p. 121</small></sup>]</span>
+2\. Y habiéndose sumergido a la hora prescrita para el baño, sació a las deidades: <span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 3 [^275]. 'Agni puede saciarse a sí mismo; Vâyu puede saciarse a sí mismo; Sûrya puede saciarse a sí mismo; Vish<i>n</i>u puede saciarse a sí mismo; Pra<i>n</i>pati puede saciarse a sí mismo; Virûpâksha puede saciarse a sí mismo; Sahasrâksha puede saciarse a sí mismo; Soma, Brahman, los Vedas, los dioses, los <i>Ri</i>shis</i>, y todos los metros, la palabra Om, la palabra VASHA_T_, los Mahâvyâh<i>n</i>tis, los Sâvitrî, ​​los sacrificios, el cielo y la tierra, los Nakshatras, el aire, los días y las noches, los números, los crepúsculos, los océanos, los ríos, las montañas, los campos, las hierbas, los árboles, los Gandharvas y las Apsaras, las serpientes, los pájaros, los Siddhas, los Sâdhyas, los Vipras, los Yakshas, ​​los Rakshas, ​​los seres que tienen estos (Rakshas, ​​etc.) en su extremo, pueden saciarse.
 
-Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleite; sacio <span id="p122">[<sup><small>p. 122</small></sup>]</span> el éxito; sacio el pensamiento; sacio la creencia, la perspicacia y la memoria, vacas y brahma<i>ri</i>as, cosas móviles e inmóviles. ¡Que todos los seres se sacien!» —hasta aquí con el cordón sacrificial colgado del hombro izquierdo.
+Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleite; sacio <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> el éxito; sacio el pensamiento; sacio la creencia, la perspicacia y la memoria, vacas y brahma<i>ri</i>as, cosas móviles e inmóviles. ¡Que todos los seres se sacien!» —hasta aquí con el cordón sacrificial colgado del hombro izquierdo.
 
 ## KHANDA 10.
 
@@ -362,7 +362,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 2\. Mirando en la dirección que corresponde a los Manes (es decir, el sur):
 
-3\. 'Los (_Ri<i>shis) de los cien (</i>Ri_<i>shis) de los cien (</i>as), los (<i>Ri</i>shis) del medio (Ma<i>shis) de los cien (</i><i>shis) de los cien (</i>alas), los (<i>shis) de los cien (</i>tsamada, los (<i>Vi<i>shis) de los cien (</i>vâmitra, los (<i>G</i>amadagni, los (<i>Vâmadeva, los (<i>Atri, los (<i>Bharadvâ<i>shis) de los cien (</i>a, los (<i>Vaish<i>shis) de los cien (</i>a, los (<i>Pragâthas, los (<i>Ri</i>shis) de los himnos Pavamâna, los (<i>Ri</i>shis) de los himnos cortos y de los himnos largos, Sumantu, <i>G</i>aimini, Vai<i>shis) de los cien (</i>ampâyana, Paila, los Sûtras, los Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) de los cien (</i><i>shis) de los cien (</i>u, Mâ<i>shis) de los cien (</i><i>shis) de los cien (</i>avya, Gârgî Vâ<i>shis) de los cien (</i>aknavî, <span id="p123">[<sup><small>p. 123</small></sup>]</span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (pueden saciarse).
+3\. 'Los (_Ri<i>shis) de los cien (</i>Ri_<i>shis) de los cien (</i>as), los (<i>Ri</i>shis) del medio (Ma<i>shis) de los cien (</i><i>shis) de los cien (</i>alas), los (<i>shis) de los cien (</i>tsamada, los (<i>Vi<i>shis) de los cien (</i>vâmitra, los (<i>G</i>amadagni, los (<i>Vâmadeva, los (<i>Atri, los (<i>Bharadvâ<i>shis) de los cien (</i>a, los (<i>Vaish<i>shis) de los cien (</i>a, los (<i>Pragâthas, los (<i>Ri</i>shis) de los himnos Pavamâna, los (<i>Ri</i>shis) de los himnos cortos y de los himnos largos, Sumantu, <i>G</i>aimini, Vai<i>shis) de los cien (</i>ampâyana, Paila, los Sûtras, los Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) de los cien (</i><i>shis) de los cien (</i>u, Mâ<i>shis) de los cien (</i><i>shis) de los cien (</i>avya, Gârgî Vâ<i>shis) de los cien (</i>aknavî, <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (pueden saciarse).
 
 '(Me sacío) Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>g</i><i>g</i>a <i>S</i>âṅkhâyana, Â<i>g</i>valâyana, Aitareya, Mahaitareya, Bhâradvâ<i>g</i>a, _G<i>g</i>n_ya, Paiṅgya, Mahâpaṅgya, Bâshkala, Gârgya, <i>S</i>âkalya, Mâ<i>g</i><i>g</i>ûkeya, Mahâdamatra, Audavâhi, Mahaudavâhi, Sauyâmi, <i>S</i>aunaki, _S<i>g</i>n_i, Gautami; y cualesquiera otros maestros que haya, que todos ellos se sacien.
 
@@ -396,7 +396,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 9\. No debe realizar su trabajo con herramientas desperdiciadas por el uso.
 
-10\. [^278]. Que no coma junto (con su esposa), <span id="p124">[<sup><small>p. 124</small></sup>]</span>
+10\. [^278]. Que no coma junto (con su esposa), <span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 11 [^279]. Ni restos (de comida).
 
@@ -430,7 +430,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 ## KHANDA 12.
 
-1\. Todos los días saludará respetuosamente a su maestro, <span id="p125">[<sup><small>p. 125</small></sup>]</span>
+1\. Todos los días saludará respetuosamente a su maestro, <span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 2\. Y sus Gurús,
 
@@ -458,7 +458,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 14\. Ni con las manos veladas.
 
-15. Las casas de los dioses (rodeará) manteniendo el lado derecho hacia ellas. <span id="p126">[<sup><small>p. 126</small></sup>]</span>
+15. Las casas de los dioses (rodeará) manteniendo el lado derecho hacia ellas. <span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 16 [^285]. Que no corra.
 
@@ -500,7 +500,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 2\. Antes de realizarlo, ofrecerá en el límite oriental de su campo un Bali al Cielo y a la Tierra.
 
-3\. Con un verso consagrado al Cielo y a la Tierra y con las palabras: «¡Adoración al Cielo y a la Tierra!», realiza su adoración. <span id="p127">[<sup><small>p. 127</small></sup>]</span>
+3\. Con un verso consagrado al Cielo y a la Tierra y con las palabras: «¡Adoración al Cielo y a la Tierra!», realiza su adoración. <span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 4\. Cuando el arado se esté poniendo en movimiento por primera vez, que un Brâhma<i>n</i>a toque el arado recitando este (verso), 'Que para la suerte usemos las rejas del arado' (Rig-veda IV, 57, 8).
 
@@ -530,7 +530,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 1\. La _S<i>rava</i>n_a (oblación) que ofrece en el día de luna llena que cae bajo (el Nakshatra) _S<i>rava</i>th_âs, de harina de cebada frita o de comida cocida,
 
-2\. Con (las palabras), "¡A Vishnu svâhâ! ¡A (el Nakshatra) _S<i>n</i>n_a svâhâ! ¡A la luna llena de _S<i>n</i>n_a svâhâ! ¡A la estación de lluvias svâhâ!" <span id="p128">[<sup><small>p. 128</small></sup>]</span>
+2\. Con (las palabras), "¡A Vishnu svâhâ! ¡A (el Nakshatra) _S<i>n</i>n_a svâhâ! ¡A la luna llena de _S<i>n</i>n_a svâhâ! ¡A la estación de lluvias svâhâ!" <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 3\. Habiendo encendido el fuego doméstico (sagrado) afuera, y habiendo mezclado el grano frito y la harina de cebada frita con mantequilla, sacrifica—
 
@@ -550,7 +550,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 11\. Con (las palabras), «¡Que el Señor de las Serpientes Celestiales unja (sus pestañas)! ¡Que las Serpientes Celestiales unjan (sus pestañas)!», escupe (pequeñas porciones de colirio) con un brote joven de Ku<i>s</i>a.
 
-12\. Con (las palabras), "¡Que el Lori de las Serpientes celestiales se mire! ¡Que las Serpientes celestiales se miren!", las hace mirarse en un espejo. <span id="p129">[<sup><small>p. 129</small></sup>]</span>
+12\. Con (las palabras), "¡Que el Lori de las Serpientes celestiales se mire! ¡Que las Serpientes celestiales se miren!", las hace mirarse en un espejo. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 13\. Con (las palabras), «¡Señor de las Serpientes Celestiales, este es tu Bali! ¡Serpientes Celestiales, este es vuestro Bali!», hace una ofrenda de Bali.
 
@@ -596,7 +596,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 3\. Por la mañana, habiendo tomado un puñado de hojas de <i>S</i>amî, flores de Madhûka, juncos, plantas de Apâmârga, y de brotes de <i>S</i>irîsha, Udumbara, Ku<i>s</i>a, frutos de azufaifo, y un terrón de tierra (extraído) de un surco,
 
-4\. Habiendo puesto (todo eso) en una olla de agua, <span id="p131">[<sup><small>p. 131</small></sup>]</span>
+4\. Habiendo puesto (todo eso) en una olla de agua, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 5 [^293]. Y, después de haber repetido rápidamente el Mahâvyâh<i>ri</i>tis y el Sâvitrî, ​​habiéndolo sumergido repetidamente en ellos con este himno, 'Que él queme nuestro dolor' (Rig-veda I, 97), alejará el mal de las personas que están bajo su protección, de izquierda a derecha, y derramará (el agua) hacia el norte.
 
@@ -613,7 +613,7 @@ Sacio la <i>S</i>ruti; sacio la Sm<i>ri</i>ti; sacio la firmeza; sacio el deleit
 
 2\. «Que nos conceda un buen invierno, una buena primavera y un buen verano. Que las lluvias nos sean felices; que los otoños nos sean benditos».
 
-3\. Con (el verso), «Bendícenos, Mitra» (Rig-veda I, 90, 9), barre (el suelo) con una rama de Palâ<i>s</i>a, <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+3\. Con (el verso), «Bendícenos, Mitra» (Rig-veda I, 90, 9), barre (el suelo) con una rama de Palâ<i>s</i>a, <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 4\. Lo rocía (con agua) con (el verso), 'Del mar la ola' (Rig-veda IV, 58, 1),
 

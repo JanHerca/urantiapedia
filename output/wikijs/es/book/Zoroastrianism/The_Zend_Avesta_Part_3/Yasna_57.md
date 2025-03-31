@@ -48,7 +48,7 @@ Propiciación sea para Sraosha, Obediencia el bendito, el poderoso, la palabra e
 
 3\. Por su esplendor y su gloria, por su poderío y por el golpe que asesta la victoria, lo adoraré con el Yasna de los Yazads, con un Yasna entonado en voz alta, a él, la Obediencia, la bendita, con las aguas consagradas, y la buena Bendición, la sublime, y Nairya-sangha, la majestuosa; y que él, quien asesta la victoria, ¡la Obediencia, la bendita, se acerque a nosotros para ayudarnos!
 
-4\. Adoramos a Sraosha, a la Bendita Obediencia, y a ese Señor excelso que es Ahura Mazda mismo, Aquel que ha alcanzado el máximo logro en este nuestro ritual, Aquel que se ha acercado más a nosotros en nuestras celebraciones. Y adoramos todas las palabras de Zaratustra y todas las buenas obras realizadas (por él), tanto las realizadas (en tiempos pasados), <span id="p299">[<sup><small>p. 299</small></sup>]</span> como las que aún están por realizarse (por él en tiempos venideros).
+4\. Adoramos a Sraosha, a la Bendita Obediencia, y a ese Señor excelso que es Ahura Mazda mismo, Aquel que ha alcanzado el máximo logro en este nuestro ritual, Aquel que se ha acercado más a nosotros en nuestras celebraciones. Y adoramos todas las palabras de Zaratustra y todas las buenas obras realizadas (por él), tanto las realizadas (en tiempos pasados), <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> como las que aún están por realizarse (por él en tiempos venideros).
 
 ## II.
 
@@ -90,7 +90,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 15\. Adoramos a Sraosha (Obediencia), la bendita y majestuosa, quien es la conquistadora del Kayadha, y al Kâidhya, quien aplastó al demonio de los Daêvas, el verdaderamente poderoso, el destructor del mundo, quien es el guardián y vigilante de todas las migraciones (?) de las tribus.
 
-16\. Quien, insomne ​​y vigilante, protege a las criaturas de Ahura, quien, insomne ​​y vigilantemente <span id="p302">[<sup><small>p. 302</small></sup>]</span> las salva, quien, con la alabarda en alto, custodia todo el mundo corpóreo tras la puesta del sol, (17) quien nunca ha dormido en paz desde que los dos Espíritus crearon los mundos, \[^1252]\], quien custodia los hogares de Asha, quien lucha día y noche contra todos los Daêvas \[(Pâzand) los Mâzanianos\], (18) ni se aterra ante su poder; pero ante él, todos los Daêvas se aterran contra su voluntad, y se precipitan hacia la oscuridad.
+16\. Quien, insomne ​​y vigilante, protege a las criaturas de Ahura, quien, insomne ​​y vigilantemente <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> las salva, quien, con la alabarda en alto, custodia todo el mundo corpóreo tras la puesta del sol, (17) quien nunca ha dormido en paz desde que los dos Espíritus crearon los mundos, \[^1252]\], quien custodia los hogares de Asha, quien lucha día y noche contra todos los Daêvas \[(Pâzand) los Mâzanianos\], (18) ni se aterra ante su poder; pero ante él, todos los Daêvas se aterran contra su voluntad, y se precipitan hacia la oscuridad.
 
 Por su esplendor y su gloria, por su poderío . . . .
 
@@ -102,7 +102,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 ## IX.
 
-21\. Adoramos a Sraosha (Obediencia), la bendita, <span id="p303">[<sup><small>p. 303</small></sup>]</span> cuya casa se yergue victoriosa con sus mil pilares en la cima del alto Haraiti, autoiluminada por dentro y estrellada por fuera, (22) a quien ha llegado el Ahuna-vairya, el hacha de la victoria [^1258], el Haptanghâiti, el Fshûshômãthra que hiere con la victoria, y todas las secciones de Yasna.
+21\. Adoramos a Sraosha (Obediencia), la bendita, <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> cuya casa se yergue victoriosa con sus mil pilares en la cima del alto Haraiti, autoiluminada por dentro y estrellada por fuera, (22) a quien ha llegado el Ahuna-vairya, el hacha de la victoria [^1258], el Haptanghâiti, el Fshûshômãthra que hiere con la victoria, y todas las secciones de Yasna.
 
 Por su esplendor y su gloria, por su poderío . . . .
 
@@ -114,7 +114,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 Y en esta Religión, Ahura Mazda ha sido confesado [^1260] con fe, y la Buena Mente también con Él, y la Rectitud la Mejor, y Khshathra-vairya, y la Piedad la Generosa, y la Riqueza Universal y la Inmortalidad; y se le hace la pregunta al Señor, y la ciencia de Mazda (está escrita).
 
-25\. ¡Oh Sraosha (Obediencia), bendita y majestuosa! Protégenos por nuestras vidas; sí, por tanto por las de este mundo corpóreo como por las del mundo mental, contra la muerte infeliz [^1261] y la Ira implacable de la rapiña, contra las huestes malintencionadas que alzan sus lanzas sangrientas [^1262] contra nosotros; <span id="p304">[<sup><small>p. 304</small></sup>]</span> sí, contra los asaltos que [^1263] atacará el Demonio de la Ira y Vîdhâtu, creado por el demonio. 26. ¡Por tanto, oh Sraosha, bendita y majestuosa! Concede rapidez a nuestros equipos, solidez a nuestros cuerpos y abundante observación [^1264] de nuestros enemigos, y de sus golpes (según los observemos), y de su muerte repentina.
+25\. ¡Oh Sraosha (Obediencia), bendita y majestuosa! Protégenos por nuestras vidas; sí, por tanto por las de este mundo corpóreo como por las del mundo mental, contra la muerte infeliz [^1261] y la Ira implacable de la rapiña, contra las huestes malintencionadas que alzan sus lanzas sangrientas [^1262] contra nosotros; <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> sí, contra los asaltos que [^1263] atacará el Demonio de la Ira y Vîdhâtu, creado por el demonio. 26. ¡Por tanto, oh Sraosha, bendita y majestuosa! Concede rapidez a nuestros equipos, solidez a nuestros cuerpos y abundante observación [^1264] de nuestros enemigos, y de sus golpes (según los observemos), y de su muerte repentina.
 
 Por su esplendor y su gloria, por su poderío . . . .
 
@@ -136,7 +136,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 33\. Adoramos a Sraosha (Obediencia), el bendito y majestuoso, quien triunfa, tanto aquí como en el mundo, y en toda la tierra. Y adoramos todos los dones de Sraosha (Obediencia), el bendito, el poderoso y el fuerte, cuyo cuerpo es la Mãthra.
 
-Sí, adoramos (todos los dones marciales) de Sraosha (Obediencia) el poderoso, ambos armados con armadura protectora, y un guerrero de mano fuerte, cortador de cráneos de los Daêvas, conquistando los dones [^1271] del conquistador, el santo conquistador del conquistador, y (sus) poderes victoriosos, y la Ascendencia que otorga, y adoramos <span id="p306">[<sup><small>p. 306</small></sup>]</span> esta Ascendencia de Sraosha (la misma que conquista la de ellos); y la de Ar<i>s</i>ti alabamos también. 34. Y adoramos cada casa guardada por Sraosha, en la que el bendito y amistoso Sraosha es amigo y bienvenido, donde, el hombre santo está muy avanzado (?) en pensamientos santos, y palabras y acciones justas.
+Sí, adoramos (todos los dones marciales) de Sraosha (Obediencia) el poderoso, ambos armados con armadura protectora, y un guerrero de mano fuerte, cortador de cráneos de los Daêvas, conquistando los dones [^1271] del conquistador, el santo conquistador del conquistador, y (sus) poderes victoriosos, y la Ascendencia que otorga, y adoramos <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> esta Ascendencia de Sraosha (la misma que conquista la de ellos); y la de Ar<i>s</i>ti alabamos también. 34. Y adoramos cada casa guardada por Sraosha, en la que el bendito y amistoso Sraosha es amigo y bienvenido, donde, el hombre santo está muy avanzado (?) en pensamientos santos, y palabras y acciones justas.
 
 Por su esplendor y su gloria, por su poder, que golpea con victoria, lo adoraré con el Yasna de los Yazads, con un Yasna entonado a viva voz, a él, la Obediencia, la bendita, con las aguas consagradas, y la buena Bendición, la elevada, y Nairya-sangha, la majestuosa, y que él venga a nosotros para ayudarnos, él, que golpea con victoria, ¡la Obediencia, la bendita!
 

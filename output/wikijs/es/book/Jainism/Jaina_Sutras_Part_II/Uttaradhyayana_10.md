@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:57:49Z
 
 DÉCIMA CONFERENCIA [^140]. LA HOJA DEL ÁRBOL.
 
-Así como la hoja en barbecho del árbol cae al suelo, cuando sus días se acaban, así también la vida de los hombres (<span id="p42">[<sup><small>p. 42</small></sup>]</span> llegará a su fin); Gautama, ¡ten cuidado todo el tiempo! (1)
+Así como la hoja en barbecho del árbol cae al suelo, cuando sus días se acaban, así también la vida de los hombres (<span id="p42"><sup><small>[ p. 42 ]</small></sup></span> llegará a su fin); Gautama, ¡ten cuidado todo el tiempo! (1)
 
 Así como una gota de rocío que cuelga sobre una hoja de hierba Kusa dura poco tiempo, así también la vida de los hombres; Gautama, ¡ten cuidado todo el tiempo! (2)
 
@@ -110,7 +110,7 @@ Siguiendo las mismas prácticas religiosas que los santos perfeccionados [^147],
 
 El monje iluminado [^148] y liberado debe controlarse a sí mismo, ya sea en un pueblo o en una ciudad, y debe predicar a todos [^149] el camino de la paz; Gautama, etc. (36)
 
-Habiendo escuchado el sermón del Buda [^150] bien pronunciado, <span id="p46">[<sup><small>p. 46</small></sup>]</span>, adornado con ilustraciones, Gautama cortó el amor y el odio y alcanzó la perfección. (37) Así digo.
+Habiendo escuchado el sermón del Buda [^150] bien pronunciado, <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>, adornado con ilustraciones, Gautama cortó el amor y el odio y alcanzó la perfección. (37) Así digo.
 
 
 

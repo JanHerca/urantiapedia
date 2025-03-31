@@ -42,7 +42,7 @@ El Cántico parece haber sido compuesto hacia finales del año 1225 en una peque
 
 El Cántico es aceptado como auténtico por los profesores Boehmer y Goetz en sus recientes trabajos sobre los Opuscula de San Francisco. Si no figura en la edición de Quaracchi, se debe a que la Biblioteca Franciscana Ascética Medii Ævi, de la que forman parte los Opuscula, se limita a obras escritas en latín, por lo que las críticas de M. Sabatier sobre las «preocupaciones teológicas» de los editores de Quaracchi son totalmente infundadas.
 
-El texto del Cántico aquí traducido es el del Manuscrito de Asís 338 (fol. 33), del cual la versión <span id="p152">[<sup><small>p. 152</small></sup>]</span> que aparece en las _Conformidades_ (párr. 2, fol. ii) [^569] difiere únicamente en algunas variantes menores. Lo que sigue es un intento de traducir literalmente al inglés el ritmo ingenuo del original italiano, que necesariamente desaparece en cualquier traducción rimada formal:
+El texto del Cántico aquí traducido es el del Manuscrito de Asís 338 (fol. 33), del cual la versión <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> que aparece en las _Conformidades_ (párr. 2, fol. ii) [^569] difiere únicamente en algunas variantes menores. Lo que sigue es un intento de traducir literalmente al inglés el ritmo ingenuo del original italiano, que necesariamente desaparece en cualquier traducción rimada formal:
 
 Aquí comienzan las alabanzas a las criaturas que el bienaventurado Francisco hizo para alabanza y honor de Dios mientras estaba enfermo en San Damián:
 

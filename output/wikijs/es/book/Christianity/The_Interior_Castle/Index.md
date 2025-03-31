@@ -435,7 +435,7 @@ Secreto de los raptos, VI. iv. 20, 21, viii. 12
 
 Seguridad, III. i. 1, 2
 
-Autoconocimiento, I. ii. 9-11; IV. i. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 13; V. iv. 8; VI. V. 12
+Autoconocimiento, I. ii. 9-11; IV. i. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 13; V. iv. 8; VI. V. 12
 
 Sentidos, I, ii. 4; IV. iii. 1; VI, iv. 17
 

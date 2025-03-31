@@ -33,23 +33,23 @@ dateCreated: 2025-1-18T17:54:27Z
 </figure>
 
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span> p. 135 
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span> p. 135 
 
 **PARTE III**
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span> 
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span> 
 
 **ORACIONES DE SAN FRANCISCO**
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span> 
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span> 
 
 ## I.  # LAS ALABANZAS.
 
-Este opúsculo se compone de dos partes: una paráfrasis del Padrenuestro y las Alabanzas propiamente dichas. Se encuentra en todas las colecciones de manuscritos antiguos de las obras de San Francisco [^527], ya sea en su totalidad, como se presenta aquí, o en parte, es decir, la paráfrasis sin las alabanzas, o viceversa. Con la excepción de un solo códice que atribuye la paternidad de esta paráfrasis al Beato Hermano Giles, [^528] tercer compañero de San Francisco, las autoridades en manuscritos son unánimes en atribuir la obra completa a San Francisco. Este hecho, junto con el argumento interno a su favor, pone la autoridad de las Alabanzas fuera de toda duda, en opinión de los editores de Quaracchi. M. Sabatier comparte esta opinión e incluso lamenta [^529] que el profesor Boehmer [^530] haya sido <span id="p138">[<sup><small>p. 138</small></sup>]</span> han sido inducidos a error al clasificar las Alabanzas como dudosas o falsas. Quienes acepten la opinión del crítico francés sobre el valor de su _Speculum Perfectionis_ encontrarán en esa notable obra un argumento adicional a favor de la autenticidad del opúsculo completo que ahora nos ocupa. En particular, M. Sabatier aplica a las presentes Alabanzas lo que se dice en el _Speculum_ sobre la penitencia impuesta por San Francisco a los hermanos de la Porciúncula por pronunciar palabras vanas. [^531] 
+Este opúsculo se compone de dos partes: una paráfrasis del Padrenuestro y las Alabanzas propiamente dichas. Se encuentra en todas las colecciones de manuscritos antiguos de las obras de San Francisco [^527], ya sea en su totalidad, como se presenta aquí, o en parte, es decir, la paráfrasis sin las alabanzas, o viceversa. Con la excepción de un solo códice que atribuye la paternidad de esta paráfrasis al Beato Hermano Giles, [^528] tercer compañero de San Francisco, las autoridades en manuscritos son unánimes en atribuir la obra completa a San Francisco. Este hecho, junto con el argumento interno a su favor, pone la autoridad de las Alabanzas fuera de toda duda, en opinión de los editores de Quaracchi. M. Sabatier comparte esta opinión e incluso lamenta [^529] que el profesor Boehmer [^530] haya sido <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> han sido inducidos a error al clasificar las Alabanzas como dudosas o falsas. Quienes acepten la opinión del crítico francés sobre el valor de su _Speculum Perfectionis_ encontrarán en esa notable obra un argumento adicional a favor de la autenticidad del opúsculo completo que ahora nos ocupa. En particular, M. Sabatier aplica a las presentes Alabanzas lo que se dice en el _Speculum_ sobre la penitencia impuesta por San Francisco a los hermanos de la Porciúncula por pronunciar palabras vanas. [^531] 
 
 Los Padres Quaracchi han editado el texto de las Alabanzas según los manuscritos de Asís, Antoniano e Isidoreano (1/25). y han cotejado estas primeras versiones con las ediciones de las Alabanzas dadas en los _Monumenta_ (fol. 275 v), _Firmamenta_ (fol. 18 v), y el _Liber Conformitatum_ (fruct. xii, P. II, c. vi). [^532] El resultado de sus trabajos se traduce aquí de la siguiente manera:— 
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span> 
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span> 
 
 ## ALABANZAS. 
 
@@ -61,7 +61,7 @@ Que estás en el cielo, en los ángeles y en los santos, iluminándolos para el 
 
 Santificado sea tu Nombre: que tu conocimiento brille en nosotros para que conozcamos la amplitud de tus beneficios, la extensión de tus promesas, la altura de tu majestad y la profundidad de tus juicios. [^534]
 
-Venga tu Reino, para que reines en nosotros por gracia y nos hagas llegar a tu Reino, donde está la clara visión de Ti, <span id="p140">[<sup><small>p. 140</small></sup>]</span> el amor perfecto por Ti, la bendita compañía por Ti, el gozo eterno por Ti. 
+Venga tu Reino, para que reines en nosotros por gracia y nos hagas llegar a tu Reino, donde está la clara visión de Ti, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> el amor perfecto por Ti, la bendita compañía por Ti, el gozo eterno por Ti. 
 
 Hágase tu voluntad en la tierra como en el cielo, para que te amemos con todo el corazón, pensando siempre en Ti; con toda el alma, deseándote siempre; con toda la mente, dirigiendo todas nuestras intenciones hacia Ti y buscando tu honor en todas las cosas y con todas nuestras fuerzas, dedicando todas las facultades y sentidos del cuerpo y del alma al servicio de tu amor y no a ninguna otra cosa; y para que amemos a nuestro prójimo como a nosotros mismos, atrayendo todo lo mejor de nuestras fuerzas a tu amor. Regocijándonos en el bien ajeno como en el nuestro, compadeciéndonos de sus problemas y sin ofender a nadie. 
 
@@ -71,7 +71,7 @@ _Y perdónanos nuestras ofensas_, por Tu inefable misericordia en virtud de la P
 
 _Como nosotros perdonamos a los que nos ofenden_, y lo que no perdonamos del todo, Tú, oh Señor, haz que perdonemos del todo, para que por Tu amor amemos de verdad a nuestros enemigos e intercedamos devotamente por ellos ante Ti; para que no devolvamos mal por mal, sino que en Ti nos esforcemos por hacer el bien a todos. 
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span> 
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 
 
 _Y no nos dejes caer en la tentación_, oculta o visible, repentina o continua. 
 
@@ -93,7 +93,7 @@ Alaben a Dios todos sus siervos y los que le temen, pequeños y grandes. [^540] 
 
 Que los cielos y la tierra lo alaben, el Glorioso, y toda criatura que está en el cielo y en la tierra y debajo de la tierra, en los mares y todo lo que hay en ellos. [^541] Alabémoslo y exaltémoslo sobre todo por los siglos. 
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span> 
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span> 
 
 Gloria al Padre, al Hijo y al Espíritu Santo. Alabémoslo y exaltémoslo sobre todo por los siglos. 
 

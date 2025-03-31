@@ -118,7 +118,7 @@ Lo frágil se rompe fácilmente; lo diminuto se disipa fácilmente. Toma precauc
 
 El árbol que necesita dos brazos para abarcar su circunferencia surgió del brote más diminuto. Aquella torre, de nueve pisos, se alzaba sobre un pequeño montículo de tierra. Un viaje de mil millas comenzó con un solo paso.
 
-Un gran principio no se puede dividir; por eso <span id="p52">[<sup><small>p. 52</small></sup>]</span> es que muchos recipientes no pueden contenerlo. [^10]
+Un gran principio no se puede dividir; por eso <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> es que muchos recipientes no pueden contenerlo. [^10]
 
 El Sabio sabe lo que hay en él, pero no lo hace alarde; se respeta a sí mismo, pero no busca honor para sí.
 

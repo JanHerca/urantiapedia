@@ -135,7 +135,7 @@ a<i>s</i>rotriya, persona ignorante del Veda, [2c](Paribhasha_25#an2c).
 
 ash<i>t</i>akâ, [p. 344](Paribhasha_125#p344).
 
-ash<i>t</i>âkapâla, el pastel horneado en ocho copas (en los sacrificios de luna llena y luna nueva), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76). <span id="p366">[<sup><small>p. 366</small></sup>]</span> asannipâtin, que no produce un efecto inmediato, [42](Paribhasha_50#an42).
+ash<i>t</i>âkapâla, el pastel horneado en ocho copas (en los sacrificios de luna llena y luna nueva), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76). <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> asannipâtin, que no produce un efecto inmediato, [42](Paribhasha_50#an42).
 
 asamavetârtha, palabras (de un Mantra) no relacionadas con el sacrificio, [133c](Paribhasha_150#an133c).
 
@@ -265,7 +265,7 @@ ekadevatâ, ofrenda por una deidad, [123](Paribhasha_125#an123).
 
 ekaprakara<i>n</i>a, una actuación (típica), [70](Paribhasha_75#an70).
 
-ekamantra, acompañado de un Mantra, [38](Paribhasha_50#an38). <span id="p367">[<sup><small>p. 367</small></sup>]</span> ekâda<i>s</i>akapâla, pastel horneado en once tazas (en los sacrificios de luna llena y luna nueva), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76), [124c](Paribhasha_125#an124c).
+ekamantra, acompañado de un Mantra, [38](Paribhasha_50#an38). <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> ekâda<i>s</i>akapâla, pastel horneado en once tazas (en los sacrificios de luna llena y luna nueva), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76), [124c](Paribhasha_125#an124c).
 
 ekâha, sacrificio realizado en un día, [140](Paribhasha_150#an140).
 
@@ -389,7 +389,7 @@ dakshi<i>n</i>a, derecha, [92](Paribhasha_100#an92) (_g_ânu).
 
 dakshi<i>n</i>â, hacia el sur, [94](Paribhasha_100#an94).
 
-dakshi<i>n</i>âpavarga, hacia el sur, [60](Paribhasha_75#an60). <span id="p368">[<sup><small>p. 368</small></sup>]</span> darvihoma, libación de un cucharón, [85](Paribhasha_100#an85), ([86](Paribhasha_100#an86) a [91](Paribhasha_100#an91)), [92](Paribhasha_100#an92), [95](Paribhasha_100#an95).
+dakshi<i>n</i>âpavarga, hacia el sur, [60](Paribhasha_75#an60). <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> darvihoma, libación de un cucharón, [85](Paribhasha_100#an85), ([86](Paribhasha_100#an86) a [91](Paribhasha_100#an91)), [92](Paribhasha_100#an92), [95](Paribhasha_100#an95).
 
 dar<i>s</i>apûr<i>s</i>amâsau, los sacrificios de luna nueva y de luna llena, [5](Paribhasha_25#an5), [7c](Paribhasha_25#an7c), [14c](Paribhasha_25#an14c), [111](Paribhasha_125#an111), [114](Paribhasha_125#an114), [122](Paribhasha_125#an122)c, [123c](Paribhasha_125#an123c), [127c](Paribhasha_150#an127c), [148c](Paribhasha_150#an148c), [155c](Paribhasha_159#an155c) a [158c](Paribhasha_159#an158c); [pag. 344](Paribhasha_125#p344).
 
@@ -517,7 +517,7 @@ prak<i>ri</i>ti, norma (para un sacrificio), [114](Paribhasha_125#an114), [122c]
 
 prak<i>ri</i>tidevatâ, la deidad de la prak<i>ri</i>ti, [127](Paribhasha_150#an127).
 
-pra<i>n</i>î, traer adelante (el fuego), [159](Paribhasha_159#an159). <span id="p369">[<sup><small>p. 369</small></sup>]</span> pratitantram, en cada sacrificio, [29](Paribhasha_50#an29).
+pra<i>n</i>î, traer adelante (el fuego), [159](Paribhasha_159#an159). <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> pratitantram, en cada sacrificio, [29](Paribhasha_50#an29).
 
 pratinidhâ, sustituir, [135](Paribhasha_150#an135).
 
@@ -647,7 +647,7 @@ yûpa, el poste de sacrificio para sujetar al animal, [130c](Paribhasha_150#an13
 
 yûpadravya, material para el puesto de sacrificio, [150](Paribhasha_150#an150).
 
-rathakâra, fabricante de carros, o nombre de un clan, [2c](Paribhasha_25#an2c). <span id="p370">[<sup><small>p. 370</small></sup>]</span> ratha<i>s</i>abda, el sonido de un carruaje, [36](Paribhasha_50#an36).
+rathakâra, fabricante de carros, o nombre de un clan, [2c](Paribhasha_25#an2c). <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> ratha<i>s</i>abda, el sonido de un carruaje, [36](Paribhasha_50#an36).
 
 Râkâ, la luna llena del primer día de la fase lunar, [65c](Paribhasha_75#an65c).
 
@@ -785,7 +785,7 @@ sa<i>m</i>nipat, Caus., dejar coincidir, [45](Paribhasha_50#an45), [96](Paribhas
 
 sa<i>m</i>nî, ofrecer el Sâ<i>m</i>nâyya, [79](Paribhasha_100#an79).
 
-samavadyo, dividir (la mantequilla), [90](Paribhasha_100#an90). <span id="p371">[<sup><small>p. 371</small></sup>]</span> samavetârtha, palabras (de un Mantra) relacionadas con el sacrificio, [133c](Paribhasha_150#an133c).
+samavadyo, dividir (la mantequilla), [90](Paribhasha_100#an90). <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> samavetârtha, palabras (de un Mantra) relacionadas con el sacrificio, [133c](Paribhasha_150#an133c).
 
 samas, unir (cuerdas), [61](Paribhasha_75#an61), [62](Paribhasha_75#an62).
 

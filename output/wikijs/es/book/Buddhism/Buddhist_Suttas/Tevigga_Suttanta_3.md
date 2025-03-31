@@ -44,7 +44,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 3\. Y deja que su mente impregne una cuarta parte del mundo con pensamientos de piedad, compasión y ecuanimidad, y así la segunda, y así la tercera, y así la cuarta. Y así, continúa impregnando el mundo entero, arriba, abajo, alrededor y en todas partes, con un corazón de piedad, compasión y ecuanimidad, de gran alcance, desbordante e inconmensurablemente grande.
 
-4\. 'Así, Vâse<i>tth</i>a, como un poderoso trompetista se hace oír —y eso sin dificultad— en las cuatro direcciones; así también, de todas las cosas que tienen <span id="p202">[<sup><small>p. 202</small></sup>]</span> forma o vida, no hay ninguna que él pase por alto o deje de lado, sino que las contempla a todas con una mente libre y una profunda compasión, simpatía y ecuanimidad.
+4\. 'Así, Vâse<i>tth</i>a, como un poderoso trompetista se hace oír —y eso sin dificultad— en las cuatro direcciones; así también, de todas las cosas que tienen <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> forma o vida, no hay ninguna que él pase por alto o deje de lado, sino que las contempla a todas con una mente libre y una profunda compasión, simpatía y ecuanimidad.
 
 “En verdad, éste, Vâse<i>tth</i>a, es el camino hacia un estado de unión con Brahmâ”.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-2-5T22:38:45Z
 
 7\. «Muy bien, Vasetha. Entonces, en verdad, Vasetha, que el Bhikkhu que está libre de las preocupaciones domésticas, después de la muerte, cuando el cuerpo se disuelve, se una a Brahmâ, quien es el mismo, ¡tal condición es perfectamente posible!»
 
-8\. «Y entonces dices, Vaseta, que el Bhikkhu está libre de ira y de malicia, es puro de mente y dueño de sí mismo; y que Brahmâ está <span id="p203">[<sup><small>p. 203</small></sup>]</span> libre de ira y de malicia, es puro de mente y dueño de sí mismo. Entonces, en verdad, Vaseta, que el Bhikkhu libre de ira y de malicia, es puro de mente y dueño de sí mismo, después de la muerte, cuando el cuerpo se disuelva, se unirá a Brahmâ, quien es el mismo; ¡tal condición es totalmente posible!»
+8\. «Y entonces dices, Vaseta, que el Bhikkhu está libre de ira y de malicia, es puro de mente y dueño de sí mismo; y que Brahmâ está <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> libre de ira y de malicia, es puro de mente y dueño de sí mismo. Entonces, en verdad, Vaseta, que el Bhikkhu libre de ira y de malicia, es puro de mente y dueño de sí mismo, después de la muerte, cuando el cuerpo se disuelva, se unirá a Brahmâ, quien es el mismo; ¡tal condición es totalmente posible!»
 
 ---
 

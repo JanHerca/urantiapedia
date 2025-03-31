@@ -46,7 +46,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 5\. Él, siendo uno, gobierna sobre todo y sobre cada cosa, de modo que el germen universal madura su naturaleza, diversifica todas las naturalezas que pueden madurar [^818] y determina todas las cualidades [^819].
 
-6 [^820]. Brahma (Hira<i>n</i>yagarbha) sabe esto, que está oculto en los Upanishads, que a su vez están ocultos en los Vedas, como el germen de Brahma. Los antiguos dioses <span id="p257">[<sup><small>p. 257</small></sup>]</span> y poetas que lo conocieron, se convirtieron en ello y fueron inmortales.
+6 [^820]. Brahma (Hira<i>n</i>yagarbha) sabe esto, que está oculto en los Upanishads, que a su vez están ocultos en los Vedas, como el germen de Brahma. Los antiguos dioses <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> y poetas que lo conocieron, se convirtieron en ello y fueron inmortales.
 
 7 [^821]. Pero aquel que está dotado de cualidades y realiza obras que darán fruto y disfruta de la recompensa por lo que ha hecho, migra a través de sus propias obras, el señor de la vida, asumiendo todas las formas, guiado por las tres Gu<i>n</i>as y siguiendo los tres caminos [^822].
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-15T22:57:51Z
 
 13 [^829]. Aquel que conoce a Aquel que no tiene principio ni fin, en medio del caos, creando todas las cosas, teniendo muchas formas, envolviendo todo solo, se libera de todas las ataduras.
 
-14\. Quienes conocen a aquel que puede ser comprendido por la mente, a quien no se le puede llamar el nido (el cuerpo [^830]), quien crea la existencia y la no existencia, el <span id="p259">[<sup><small>p. 259</small></sup>]</span> feliz (<i>Siva</i>), quien también crea los elementos [^831], han abandonado el cuerpo.
+14\. Quienes conocen a aquel que puede ser comprendido por la mente, a quien no se le puede llamar el nido (el cuerpo [^830]), quien crea la existencia y la no existencia, el <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> feliz (<i>Siva</i>), quien también crea los elementos [^831], han abandonado el cuerpo.
 
 <figure class="table chapter-navigator">
   <table>

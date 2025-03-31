@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 **CAPÍTULO VII.**
 
@@ -50,7 +50,7 @@ Jelāl saltó de su asiento, corrió hacia su hijo, tomó al niño en su seno, l
 
 ## 2.
 
-El hermano mayor del sultán Veled, ‘Alā’u-’d-Dīn, fue asesinado en el tumulto por el cual las autoridades policiales de Qonya condenaron a muerte al jeque Shemsu-’d-Dīn de Tebrīz. El sultán Veled gobernó la comunidad derviche, en lugar de su padre <span id="p123">[<sup><small>p. 123</small></sup>]</span> (después de la muerte de Husāmu-’d-Dīn), durante muchos años (desde el 683 hasta el 712 a.h., es decir, veintinueve años lunares). Compuso tres volúmenes de poesía en pareados, como el Mesnevī (de ahí el nombre de _Mesneviyāt_, Poemas mesnevianos), y un volumen (_Dīwān_) de odas en estilo árabe, organizadas en orden alfabético de sus rimas.
+El hermano mayor del sultán Veled, ‘Alā’u-’d-Dīn, fue asesinado en el tumulto por el cual las autoridades policiales de Qonya condenaron a muerte al jeque Shemsu-’d-Dīn de Tebrīz. El sultán Veled gobernó la comunidad derviche, en lugar de su padre <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> (después de la muerte de Husāmu-’d-Dīn), durante muchos años (desde el 683 hasta el 712 a.h., es decir, veintinueve años lunares). Compuso tres volúmenes de poesía en pareados, como el Mesnevī (de ahí el nombre de _Mesneviyāt_, Poemas mesnevianos), y un volumen (_Dīwān_) de odas en estilo árabe, organizadas en orden alfabético de sus rimas.
 
 ## 3.
 
@@ -66,7 +66,7 @@ Un día, un gran hombre le preguntó al Sultán Veled si Dios alguna vez le habl
 
 Este investigador había tenido con frecuencia la idea de enviar una ofrenda al sultán Veled; pero había dudado entre un regalo de dinero y uno de muselinas indias.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 El Sultán Veled respondió a su pregunta de esta manera: «Dios ciertamente habla a Sus siervos. Y en cuanto al método por el cual Él se dirige a ellos, te contaré una anécdota».
 
@@ -84,7 +84,7 @@ El Sultán Veled respondió a su pregunta de esta manera: «Dios ciertamente hab
 
 «Ahora», añadió el Sultán Veled, «te digo, oh grande, escucha tú también las palabras de Dios. Da los pañuelos indios y distribuye también el dinero. Cuando hayas escuchado las palabras de Dios, Él escuchará también lo que tú le digas. Todo lo que le pidas, Dios te lo dará; y todo lo que le pidas, lo encontrarás».
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Inmediatamente ese grande se convirtió en un sincero converso y discípulo. Obras milagrosas similares de Sultán Veled están más allá de todo recuento.
 
