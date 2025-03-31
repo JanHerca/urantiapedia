@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
+        <td><a href="/en/help/github_footnotes">Adding Paramony footnotes</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_bible_to_wiki">Converting Bible</a></td>
       </tr>
@@ -53,7 +53,7 @@ Output files are already in the format that allows uploading directly to *Uranti
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
+        <td><a href="/en/help/github_footnotes">Adding Paramony footnotes</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_bible_to_wiki">Converting Bible</a></td>
       </tr>

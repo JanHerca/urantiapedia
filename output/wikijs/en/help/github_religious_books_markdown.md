@@ -14,7 +14,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_religious_books_catalog">Creating a catalog of books from all religions</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of “source” books</a></td>
+        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of books supposedly used by revelators</a></td>
       </tr>
     </tbody>
   </table>
@@ -436,7 +436,7 @@ This completes all the things to consider when adding religious books to the Ura
       <tr>
         <td><a href="/en/help/github_religious_books_catalog">Creating a catalog of books from all religions</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of “source” books</a></td>
+        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of books supposedly used by revelators</a></td>
       </tr>
     </tbody>
   </table>

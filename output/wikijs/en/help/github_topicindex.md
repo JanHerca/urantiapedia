@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_paramony">Translation of Paramony</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Getting books supposedly used by revelators</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_bible">Obtaining The Bible</a></td>
+        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
       </tr>
     </tbody>
   </table>
@@ -284,9 +284,9 @@ Also a useful functionality is that the short line selected, that says `civiliza
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_paramony">Translation of Paramony</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Getting books supposedly used by revelators</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_bible">Obtaining The Bible</a></td>
+        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
       </tr>
     </tbody>
   </table>

@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_book_json">Conversion to JSON</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
+        <td><a href="/en/help/github_book_to_wiki">Converting The Urantia Book</a></td>
       </tr>
     </tbody>
   </table>
@@ -54,7 +54,7 @@ The output files are different from the input files to avoid that if there is an
       <tr>
         <td><a href="/en/help/github_book_json">Conversion to JSON</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
+        <td><a href="/en/help/github_book_to_wiki">Converting The Urantia Book</a></td>
       </tr>
     </tbody>
   </table>

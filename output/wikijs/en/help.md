@@ -41,7 +41,7 @@ This is the main index for documentation on Urantiapedia itself. Please read car
 3. [GitHub project content](/en/help/github_content)
 4. [Workflow for creating initial content in a language](/en/help/github_initial_flow)
 
-## Edit Urantiapedia through this website
+## Editing Urantiapedia through this website
 
 1. [Interface and basic use of Urantiapedia](/en/help/web_basics)
 2. [Manage pages](/en/help/web_pages)
@@ -53,28 +53,35 @@ This is the main index for documentation on Urantiapedia itself. Please read car
 
 ## Tasks for collaborators
 
-### Milestone I - The Urantia Book, the Bible and Topic Index
+### Milestone I - The Urantia Book and the Bible
 
 1. [Translation of Paramony](/en/help/github_paramony)
-2. [Translation an revision of Topic Index](/en/help/github_topicindex)
-3. [Obtaining The Bible](/en/help/github_bible)
-4. [Conversion to JSON](/en/help/github_book_json)
-5. [Adding Paramony footnotes](/en/help/github_footnotes)
-6. [Converting Topic Index](/en/help/github_topicindex_to_wiki)
-7. [Converting The Urantia Book](/en/help/github_book_to_wiki)
-8. [Converting Bible](/en/help/github_bible_to_wiki)
-9. [Bulk upload content to Urantiapedia](/en/help/github_upload)
+2. [Obtaining The Bible](/en/help/github_bible)
+3. [Conversion to JSON](/en/help/github_book_json)
+4. [Adding Paramony footnotes](/en/help/github_footnotes)
+5. [Converting The Urantia Book](/en/help/github_book_to_wiki)
+6. [Converting Bible](/en/help/github_bible_to_wiki)
+7. [Bulk upload content to Urantiapedia](/en/help/github_upload)
 
-### Milestone II - Books, articles, study aids, schemas and indexes
+### Milestone II - Newspaper Library, Book Library and Encyclopedia
 
-1. [Creating a catalog of books on all religions](/en/help/github_religious_books_catalog)
-2. [Getting books from all religions](/en/help/github_religious_books_markdown)
-3. [“Source” books catalog](/en/help/github_sourcebooks_catalog)
-2. [Get “source” books](/en/help/github_sourcebooks_markdown)
-3. [Articles catalog](/en/help/github_articles_catalog)
-4. [Get Articles](/en/help/github_articles_markdown)
-5. [Study Aids Catalog](/en/help/github_studyaids_catalog)
-6. [Get Study Aids](/en/help/github_studyaids_markdown)
-7. [Diagrams catalog](/en/help/github_diagrams_catalog)
-8. [Get Diagrams](/en/help/github_diagrams_svg)
-9. [Images Catalog](/en/help/github_images_catalog)
+1. [Articles catalog](/en/help/github_articles_catalog)
+2. [Get Articles](/en/help/github_articles_markdown)
+3. [Study Aids Catalog](/en/help/github_studyaids_catalog)
+4. [Get Study Aids](/en/help/github_studyaids_markdown)
+5. [Creating a catalog of books on all religions](/en/help/github_religious_books_catalog)
+6. [Getting books from all religions](/en/help/github_religious_books_markdown)
+7. [Creating a catalog of books supposedly used by revelators](/en/help/github_sourcebooks_catalog)
+8. [Getting books supposedly used by revelators](/en/help/github_sourcebooks_markdown)
+9. [Translation an revision of Encyclopedia](/en/help/github_topicindex)
+10. [Converting Encyclopedia](/en/help/github_topicindex_to_wiki)
+
+### Milestone III - Translator
+
+No more tasks required in this milestone.
+
+### Milestone IV - Map Library and Media Library
+
+1. [Diagrams catalog](/en/help/github_diagrams_catalog)
+2. [Get Diagrams](/en/help/github_diagrams_svg)
+3. [Images Catalog](/en/help/github_images_catalog)

@@ -12,7 +12,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_upload">Uploading content in bulk to Urantiapedia</a></td>
+        <td><a href="/en/help/github_studyaids_markdown">Get Study Aids</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_religious_books_markdown">Getting books on all religions</a></td>
       </tr>
@@ -67,7 +67,7 @@ With this file, the index of the _Urantiapedia Library_ and the indexes of each 
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_upload">Uploading content in bulk to Urantiapedia</a></td>
+        <td><a href="/en/help/github_studyaids_markdown">Get Study Aids</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_religious_books_markdown">Getting books on all religions</a></td>
       </tr>

@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
- 
+
 Here it is described how to obtain the articles of readers related to _The Urantia Book_, and that have been cataloged following the task [Creating an article catalog](/en/help/github_articles_catalog).
 
 ## Process

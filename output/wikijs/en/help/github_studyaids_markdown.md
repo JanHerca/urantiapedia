@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_studyaids_catalog">Creating a catalog of study aids</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_diagrams_catalog">Creating a catalog of diagrams</a></td>
+        <td><a href="/en/help/github_religious_books_catalog">Creating a catalog of books on all religions</a></td>
       </tr>
     </tbody>
   </table>
@@ -86,7 +86,7 @@ If you are a “Editor-in-Chief” using GitHub you can submit study aids as det
       <tr>
         <td><a href="/en/help/github_studyaids_catalog">Creating a catalog of study aids</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_diagrams_catalog">Creating a catalog of diagrams</a></td>
+        <td><a href="/en/help/github_religious_books_catalog">Creating a catalog of books on all religions</a></td>
       </tr>
     </tbody>
   </table>

@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_bible_to_wiki">Converting Bible</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_religious_books_catalog">Creation of a catalogue of books on all religions</a></td>
+        <td><a href="/en/help/github_articles_catalog">Articles catalog</a></td>
       </tr>
     </tbody>
   </table>
@@ -48,7 +48,7 @@ To commit content follow these steps:
       <tr>
         <td><a href="/en/help/github_bible_to_wiki">Converting Bible</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_religious_books_catalog">Creation of a catalogue of books on all religions</a></td>
+        <td><a href="/en/help/github_articles_catalog">Articles catalog</a></td>
       </tr>
     </tbody>
   </table>

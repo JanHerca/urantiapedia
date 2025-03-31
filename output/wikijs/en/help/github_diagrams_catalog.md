@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_studyaids_markdown">Get study aids</a></td>
+        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_diagrams_svg">Get diagrams</a></td>
       </tr>
@@ -61,7 +61,7 @@ If you have modified the listing from the file on GitHub, you have two options f
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_studyaids_markdown">Get study aids</a></td>
+        <td><a href="/en/help/github_topicindex_to_wiki">Converting Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_diagrams_svg">Get diagrams</a></td>
       </tr>

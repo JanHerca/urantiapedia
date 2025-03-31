@@ -1,5 +1,5 @@
 ---
-title: "Creating a catalog of «source» books"
+title: Creating a catalog of books supposedly used by revelators
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_religious_books_markdown">Getting books of all religions</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_sourcebooks_markdown">Getting «source» books</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Getting books supposedly used by revelators</a></td>
       </tr>
     </tbody>
   </table>
@@ -73,7 +73,7 @@ With this file, the index of the _Urantiapedia Library_ and the indexes of each 
       <tr>
         <td><a href="/en/help/github_religious_books_markdown">Getting books of all religions</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_sourcebooks_markdown">Getting «source» books</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Getting books supposedly used by revelators</a></td>
       </tr>
     </tbody>
   </table>

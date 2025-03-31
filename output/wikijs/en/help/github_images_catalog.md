@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_diagrams_svg">Get diagrams</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/markdown">Markdown formatting help</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -119,7 +119,7 @@ To push changes you have two options: 1) if you are a “Editor-in-Chief” use 
       <tr>
         <td><a href="/en/help/github_diagrams_svg">Get diagrams</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/markdown">Markdown formatting help</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>

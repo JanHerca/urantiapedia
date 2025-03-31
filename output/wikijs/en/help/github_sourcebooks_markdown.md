@@ -1,5 +1,5 @@
 ---
-title: "Get “source” books"
+title: "Getting books supposedly used by revelators"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_sourcebooks_catalog">Creating a “source” book catalog</a></td>
+        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of books supposedly used by revelators</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_articles_catalog">Creating Article Catalog</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Encyclopedia</a></td>
       </tr>
     </tbody>
   </table>
@@ -366,9 +366,9 @@ This completes all the things to take into account when adding "source" books to
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_sourcebooks_catalog">Creating a “source” book catalog</a></td>
+        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of books supposedly used by revelators</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_articles_catalog">Creating Article Catalog</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Encyclopedia</a></td>
       </tr>
     </tbody>
   </table>

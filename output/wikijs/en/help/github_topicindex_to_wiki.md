@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_footnotes">Adding Paramony footnotes</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_book_to_wiki">Converting The Urantia Book</a></td>
+        <td><a href="/en/help/github_diagrams_catalog">Diagrams catalog</a></td>
       </tr>
     </tbody>
   </table>
@@ -50,9 +50,9 @@ Output files are already in the format that allows uploading directly to *Uranti
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_footnotes">Adding Paramony footnotes</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Encyclopedia</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_book_to_wiki">Converting The Urantia Book</a></td>
+        <td><a href="/en/help/github_diagrams_catalog">Diagrams catalog</a></td>
       </tr>
     </tbody>
   </table>
