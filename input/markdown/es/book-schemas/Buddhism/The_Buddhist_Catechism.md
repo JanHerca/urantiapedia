@@ -17,10 +17,14 @@
 </div>
 
 <p style="text-align:center;">
-<em>Namô Tassa Bhagavatô Arahatô Sammâ Sambudhassa.</em>
+<em>Namô Tassa Bhagavatô Arahatô Sammâ Sambudhassa.</em><br>
+<br>
 <span class="text-h3">El Catecismo Budista</span><br>
+<br>
 <span class="text-h5">por Paul Carus</span><br>
+<br>
 PRESIDENTE-FUNDADOR DE LA SOCIEDAD TEOSÓFICA.<br>
+<br>
 <em>Aprobado y recomendado para su uso en las escuelas budistas por H. Sumangala, Pradhâna Nayaka Sthavira, Sumo Sacerdote de la Provincia Sripada y Occidental y Director de la Vidyodaya Parivêna.</em><br>
 <br><br>
 Cuadragésima segunda edición. Corregida.<br>
@@ -29,6 +33,7 @@ Madrás:<br>
 La Oficina del “Teósofo”, Adyar.<br>
 LONDRES Y BENARES: SOCIEDAD EDITORIAL TEOSÓFICA.<br>
 [1903]<br>
+<br>
 Escaneado, corregido y formateado en sacred-texts.com, mayo de 2009, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.
 <br>
 </p>

@@ -17,18 +17,23 @@
 </div>
 
 <p style="text-align:center;">
-<em>Namô Tassa Bhagavatô Arahatô Sammâ Sambudhassa.</em>
+<em>Namô Tassa Bhagavatô Arahatô Sammâ Sambudhassa.</em><br>
+<br>
 <span class="text-h3">Le catéchisme bouddhiste</span><br>
+<br>
 <span class="text-h5">par Paul Carus</span><br>
+<br>
 PRÉSIDENT-FONDATEUR DE LA SOCIÉTÉ THÉOSOPHIQUE.<br>
+<br>
 <em>Approuvé et recommandé pour une utilisation dans les écoles bouddhistes par_ H. Sumangala, _Pradhâna Nayaka Sthavira, Grand Prêtre de la Province de Sripada et de l'Ouest et Principal du Vidyodaya Parivêna.</em><br>
-<hr><br>
+<br><br>
 Quarante-deuxième édition. Corrigée.<br>
-<hr><br>
+<br><br>
 Madras :<br>
 Le bureau des « Théosophes », Adyar.<br>
 LONDRES ET BENARES : SOCIÉTÉ D'ÉDITION THÉOSOPHIQUE.<br>
 [1903]<br>
+<br>
 Numérisé, corrigé et mis en forme sur sacred-texts.com, mai 2009, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.
 <br>
 </p>

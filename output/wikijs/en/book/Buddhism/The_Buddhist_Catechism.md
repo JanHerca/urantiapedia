@@ -22,18 +22,23 @@ dateCreated: 2025-2-5T12:26:57Z
 </div>
 
 <p style="text-align:center;">
-<em>Namô Tassa Bhagavatô Arahatô Sammâ Sambudhassa.</em>
+<em>Namô Tassa Bhagavatô Arahatô Sammâ Sambudhassa.</em><br>
+<br>
 <span class="text-h3">The Buddhist Catechism</span><br>
+<br>
 <span class="text-h5">by Paul Carus</span><br>
+<br>
 PRESIDENT-FOUNDER OF THE THEOSOPHICAL SOCIETY.<br>
+<br>
 <em>Approved and recommended for use in Buddhist schools by_ H. Sumangala, _Pradhâna Nayaka Sthavira, High Priest of the Sripada and Western Province and Principal of the Vidyodaya Parivêna.</em><br>
-<hr><br>
+<br><br>
 Forty-Second Edition. Corrected.<br>
-<hr><br>
+<br><br>
 Madras:<br>
 The “Theosophist” Office, Adyar.<br>
 LONDON AND BENARES: THEOSOPHICAL PUBLISHING SOCIETY.<br>
 [1903]<br>
+<br>
 Scanned, proofed, formatted at sacred-texts.com, May 2009, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.
 <br>
 </p>
