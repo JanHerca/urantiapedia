@@ -15,12 +15,12 @@ dateCreated: 2025-3-26T19:36:26Z
         <td>
         </td>
         <td>
-        <a href="/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology">
+        <a href="/fr/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
-        <a href="/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index_Plates">
+        <a href="/fr/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index_Plates">
           <span class="pr-2">INDEX des PLANCHES</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -60,12 +60,12 @@ Université de Chicago, 15 mai 1909.
         <td>
         </td>
         <td>
-        <a href="/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology">
+        <a href="/fr/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
-        <a href="/es/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index_Plates">
+        <a href="/fr/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index_Plates">
           <span class="pr-2">INDEX des PLANCHES</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
